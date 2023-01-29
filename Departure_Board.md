@@ -173,7 +173,7 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)|
 | <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
-| <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = "prod_reg" |
+| <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = \["prod_reg" for "RB" trains, "prod_ic" for "IC" trains] |
 | <p id="key-Pname">Product - name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX", Tram: "TXXX", Train: \["RB XXX": Regionalbahn???, "TERXXX": ???, "IC XXX": ICE???] \| where XXX is the [number](#key-number) of the line |
 | <p id="key-num">num</p>   | True         | str        | Each Bus has a unique identifier number which is stored in the "num" value          |
 | <p id="key-line">line</p> | True         | str        | The line number which is displayed in the name, if it's a tram it is equal to the [name](#key-Pname)  |
@@ -358,6 +358,17 @@ coordinate system is WGS84.
 
 ### L
 The id of the station/stop.
+
+<br>
+<br>
+
+
+## trainCategory
+The category of vehicle that is being used for the transport. (For general Hafas API: [Source 1 p. 65](#source-1))<br>
+- 064 Bus
+- CAF Tram
+- CRB Regional train? (only used for "RB" trains)
+- CIC ICE train? (only used for "IC" trains)
 
 
 ## Source 1
