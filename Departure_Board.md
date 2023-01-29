@@ -140,12 +140,9 @@ Here is a table explaining all those values you get from a request to the API: <
 (If there is "->" in front of a key, it means that it is a child of the key above the first key with "->" in front of it) <br>
 
 
-| Key              | Always present | Value type | Meaning                                                          |
-| ---              | -------------- | ---------- | :-------                                                          |
-| JourneyDetailRef | True           | dict       | Contains [ref](#ref) |
-| <p id="ref">ref</p> | True        | str        | None     |
-| JourneyDetailRef | True           | dict       | <table><thead><tr><th>Key</th><th>Always present</th><th>Value type</th><th>Meaning</th></tr></thead><tbody><tr><td>ref</td><td>True</td><td>str</td><td>??? Contains detailed information about the journey like wheelchair accessible etc. encoded as numbers and delimited by a "\|", last value is always the current date</td></tr></tbody></table> |
-| JourneyStatus    | True           | str        | ??? (Always "P"?)                                                |
-| Product          | True           | dict       | <table><thead><tr><th>Key</th><th>Always present</th><th>Value type</th><th>Meaning</th></tr></thead><tbody><tr><td>
-
+| Key                     | Always present | Value type | Meaning                                                           |
+| ---                     | -------------- | ---------- | :-------                                                          |
+| JourneyDetailRef        | True           | dict       | Contains [ref](#key-ref)                                          |
+| <p id="key-ref">ref</p> | True           | str        | ??? Contains detailed information like wheelchair access in encoded form (each number stands for smth) and the last number is always the current date.                                                                                     |
+| JourneyStatus           | True           | str        | ??? (Always "P"?)                                                 |
 
