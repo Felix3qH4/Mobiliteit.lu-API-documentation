@@ -155,15 +155,21 @@ Here is a table explaining all those values you get from a request to the API: <
 | JourneyDetailRef        | True           | dict       | Contains [ref](#key-ref)                                                            |
 | <p id="key-ref">ref</p> | True           | str        | ??? Contains detailed information like wheelchair access in encoded form (each number stands for smth) and the last number is always the current date.                                                                                                   |
 | JourneyStatus           | True           | str        | ??? (Always "P"?)                                                                   |
-| Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res), [name](#key-name)                     |
+| Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res), [name](#key-name), [num](#key-num), [line](#key-line), [catOut](#key-catOut), [catIn](#key-catIn), [catCode](#key-catCode), [cls](#key-cls), [catOutS](#key-catOutS), [catOutL](#key-catOutL) |
 | <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)                                                                                                                                      |
 | <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
-| <p id="key-res">res</p> | True           | str        | ??? (Always "prod_bus_t"?)                                                          |
-| <p id="key-name">name</p> | True         | str        | The name of the Bus like this: "Bus XXX) where XXX is the bus [number](#key-matchId)|
-| <p id="key-"></p> |
-| <p id="key-"></p> |
-| <p id="key-"></p> |
+| <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = "prod_[catOut](#key-catOut)" |
+| <p id="key-name">name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX" [number](#key-line) of the line, Tram: "TXXX", Train: ["RB XXX": Regionalbahn???, "TERXXX": ???, "IC XXX": ICE???] |
+| <p id="key-num">num</p>   | True         | str        | Each Bus has a unique identifier number which is stored in the "num" value          |
+| <p id="key-line">line</p> | True         | str        | The line number which is displayed in the name, if it's a tram it is equal to the [name](#key-name)  |
+| <p id="key-catOut">catOut</p> | True     | str        | The vehicle type. Available: Bus, Train, Tram                                       |
+| <p id="key-catIn">catIn</p> | True       | str        | ??? (For busses its usually a number, for tram "CAF")                               |   
+| <p id="key-catCode">catCode</p> | True   | str        | ??? (Usually "5" for busses and "8" for tram)                                       |
+| <p id="key-cls">cls</p> | True           | str        | ??? (Usually a number in a string)                                                  |
+| <p id="key-catOutS">catOutS</p> | True   | str        | ??? (Seems to be the same as [catIn](#key-catIn)                                    |
+| <p id="key-catOutL">catOutL</p> | True   | str        | ??? (Seems to be the same as [catOut](#key-catOut)                                  |
+| <p id="key-operatorCode">operatorCode</p> | str       | The abbreviation code for the operator: RGT = Régime Général des Transports Routiers (was RGTR before), TRA = Luxtram, AVL = Ville de Luxembourg - Service Autobus, CFL = Chemins de Fer Luxembourgeois |
 | <p id="key-"></p> |
 | <p id="key-"></p> |
 | <p id="key-"></p> |
