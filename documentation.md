@@ -17,10 +17,10 @@ Where x is either a number or a lowercase letter.<br>
 
 This key has a limit of requests you can make to the API, for small projects this is enough, but if you really want to track all busses around Luxembourg, you will have to ask them to increase your limit.<br>
 
-Default limits are:
-    Hourly: 500 requests
-    Daily: 5000 requests
-
+Default limits are:<br>
+    Hourly: 500 requests<br>
+    Daily: 5000 requests<br>
+<br>
 There also exists a monthly and yearly quota, but the defined request amount is quite generous.<br>
 
 Once you have your key you can go ahead and make requests to the API.<br>
