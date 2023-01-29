@@ -8,6 +8,13 @@ If in realtime mode, you will also get realtime information like how late a bus 
 
 To get the id of a station have a look at "[Location Search by Coordinate](Location_Search_by_Coordinate.md)".<br>
 
+Table of contents:
+
+1) [Requesting data](#Requesting-data)
+2) [API response](#API-response)
+    1. [XML](#XML)
+    2. [JSON](#JSON)
+
 ## Requesting data
 When making a request to the departure board, it has to look like this:<br>
 https://cdt.hafas.de/opendata/apiserver/departureBoard?arg1=XX&arg2=XX&arg3=XX<br>
@@ -42,6 +49,9 @@ Available arguments for the departure board:<br>
 | platforms     | False     | str   | Filter boards by platform. Multiple platforms are separated by comma. Platforms are used for example at train stations. A train station is one single stop but has multiple platforms so the busses stopping there all stop at the same stop (= the train station) but at different platforms. (Depends on the station how many platforms there are.) |
 | rtMode        | False     | bool   | ??? Set the realtime mode to be used if enabled. Available are: FULL <br>For Luxembourg it seems to always return realtime information no matter what you set rtMode to. |
 | passlist      | False     | int    | ??? Include a list of all passed waystops? (Is -1 for all waystops and all other numbers for the amount of stops you want?) |
+
+
+
 
 
 ## API response
