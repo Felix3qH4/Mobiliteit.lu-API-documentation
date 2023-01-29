@@ -34,7 +34,7 @@ If in realtime mode, you will also get realtime information like how late a bus 
 
 To get the id of a station have a look at "Location Search by Coordinate".
 
-When making a request to the departure board, it has to look like this: \\
+When making a request to the departure board, it has to look like this:
 https://cdt.hafas.de/opendata/apiserver/departureBoard?arg1=XX&arg2=XX&arg3=XX&
 
 ## Location Search by Coordinate
