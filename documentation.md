@@ -48,7 +48,7 @@ Available arguments for the departure board:<br>
 | ------------- | --------- | ----- | -----------                                         |
 | accessId      | ****True****      | str   | Your API-Key                                        |
 | id            | ****True****      | int   | The station/stop id from which you want to retrieve data |
-| requestId     | False     | str   | ??? Request ID for identifying the request. |
+| requestId     | False     | str   | ??? Request ID for identifying the request. (You can pass any number. Probably for your own use as you can see it in the response?) |
 | format        | False     | str   | The format you want your response in. Availables are: json, xml <br>If not set, xml is used.|
 | jsonpCallback | False     | str   | The json response will be wrapped in a javascript function with the name you passed |
 | lang          | False     | str   | Language of the journey planner. Available are: deu, fr <br>You can basically put anything in here as the keys in the response will always be in english and the data in french. Default is "deu" |
@@ -67,6 +67,7 @@ Available arguments for the departure board:<br>
 | platforms     | False     | str   | Filter boards by platform. Multiple platforms are separated by comma. Platforms are used for example at train stations. A train station is one single stop but has multiple platforms so the busses stopping there all stop at the same stop (= the train station) but at different platforms. (Depends on the station how many platforms there are.) |
 | rtMode        | False     | bool   | ??? Set the realtime mode to be used if enabled. Available are: FULL <br>For Luxembourg it seems to always return realtime information no matter what you set rtMode to. |
 | passlist      | False     | int    | ??? Include a list of all passed waystops? (Is -1 for all waystops and all other numbers for the amount of stops you want?) |
+
 
 ## Location Search by Coordinate
 As the name says it, you can search for a location (= stop/station) based on coordinates you pass.<br>
