@@ -29,6 +29,7 @@ Once you have your key you can go ahead and make requests to the API.<br>
 ## Getting data from the API
 There are 2 data access points the API provides.<br>
 
+
 1. Location Search by Coordinate (nearbystops)
 2. Departure Board
 
@@ -108,4 +109,9 @@ Available arguments for the departure board:
 | attributes    | False     | str   | ??? Filter boards by one or more attribute codes of a journey. Multiple attribute codes are separated by comma. If the attribute should not be part of the result, negate it by putting ! in front of it. |
 | platforms     | False     | str   | Filter boards by platform. Multiple platforms are separated by comma. Platforms are used for example at train stations. A train station is one single stop but has multiple platforms so the busses stopping there all stop at the same stop (= the train station) but at different platforms. (Depends on the station how many platforms there are.) |
 | rtMode        | False     | bool   | Set the realtime mode to be used if enabled.
+
+=======
+1. [Departure Board](Departure_Board.md)
+2. [Location Search by Coordinate](Location_Search_by_Coordinate.md)
+
 
