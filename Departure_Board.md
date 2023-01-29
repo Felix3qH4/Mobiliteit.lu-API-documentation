@@ -46,8 +46,11 @@ Available arguments for the departure board:<br>
 
 ## API response
 Depending on what you passed as argument for the format you want the response in, you will either get a response in json or xml format. <br>
-Both responses carry the same values. Here are 2 examples of one busline from a request to the departure board. (You usually get more than one busline from a request but to simplify it we only show you one busline.) <br>
+Both responses carry the same values. <br>
+Here are 2 examples of one busline from a request to the departure board. <br>
+(You usually get more than one busline from a request but to simplify it we only show you one busline.) <br>
 
+### XML
 ```xml
 <Departure name="Bus 812" type="ST" stop="Steinfort, Gemeng" stopid="A=1@O=Steinfort, Gemeng@X=5913410@Y=49659424@U=82@L=191104004@" stopExtId="191104004" prognosisType="PROGNOSED" time="15:33:00" date="2023-01-29" rtTime="15:35:00" rtDate="2023-01-29" reachable="true" direction="Eischen, Denn Mairie" trainNumber="812" trainCategory="064">
   <JourneyDetailRef ref="1|3078|7|82|29012023"/>
@@ -62,4 +65,8 @@ Both responses carry the same values. Here are 2 examples of one busline from a 
     <Note key="OPERATOR" type="A" routeIdxFrom="34" routeIdxTo="41" txtN="RGTR" txtL="Régime Général des Transports Routiers" txtS="RGT">RGTR</Note>
   </Notes>
 </Departure>
+```
+
+### JSON
+```
 ```
