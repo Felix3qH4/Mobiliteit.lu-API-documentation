@@ -232,10 +232,10 @@ This is an example of a "ref" value you could get in a response: <br>
 
 As you can see, "ref" is "1|3078|7|82|29012023". <br>
 Each number, separated by a | stands for something. <br>
-The first number ("1" here) stands for: ??? <br>
-The second number ("3078" here) stands for: ??? <br>
-The third number ("7" here) stands for: ??? <br>
-The fourth number ("82" here) stands for the country of origin.<br>
+The **first number** ("1" here) stands for: ??? <br>
+The **second number** ("3078" here) stands for: ??? <br>
+The **third number** ("7" here) stands for: ??? <br>
+The ***fourth number*** ("82" here) stands for the country of origin.<br>
 Each country has a unique identifier and Luxembourg has the code "82" as identifier.<br>
 Here a list of identifiers:<br>
 (Not all numbers are used, 0-9 are for local authorities)<br>
