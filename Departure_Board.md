@@ -201,7 +201,7 @@ Here is a table explaining all those values you get from a request to the API: <
 | name                   | True           | str         | The name of the line like [Product - name](#key-Pname)                              |
 | type                   | True           | str         | ??? (Always "ST"?)                                                                  |
 | stop                   | True           | str         | The current station/stop (= the station/stop you asked the data from in your API request) gives the full name of the stop |
-| stopid                 | True           | str         | ??? Gives you the name of the stop and its coordinates?                             |
+| stopid                 | True           | str         | Gives you the name of the stop and its coordinates. See [stopid](#stopid) for detailed information |
 | stopExtId              | True           | str         | Gives you the id of the station/stop (= the id you entered in your request to the API)|
 | prognosisType          | False          | str         | ??? Either it is missing or it is "PROGNOSED", maybe it means that a bus/tram/train has started its tour and the arrival time could be prognosed |
 | time                   | True           | str         | The planned arrival time (= the time at which the line is scheduled to arrive at this stop)|
@@ -216,7 +216,9 @@ Here is a table explaining all those values you get from a request to the API: <
 
 
 
-
+<br>
+<br>
+<br>
 
 ## Detailed information about response values
 Here is some information more in detail about some of the values you receive
@@ -232,6 +234,7 @@ This is an example of a "ref" value you could get in a response: <br>
 
 As you can see, "ref" is "[1](#first-number)|[3078](#second-number)|[7](#third-number)|[82](#fourth-number)|[29012023](#fifth-number)". <br>
 Each number, separated by a | stands for something. <br>
+(By clicking on a number you can quickly get to the description of what it stands for without having to scroll down.) <br>
 
 ### first number
 The first number ("**1**" here) stands for: ??? <br>
@@ -318,3 +321,39 @@ source: https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-
 
 ### Fifth number
 The fifth number ("**29012023**" here) stands for the current date, so here it would be the 29th of January 2023.<br>
+
+<br>
+<br>
+
+## stopid
+```json
+"stopid": "A=1@O=Steinfort, Gemeng@X=5913410@Y=49659424@U=82@L=191104004@"
+```
+This is an example of a stopid value. <br>
+Now each of the components means something.<br>
+
+### A
+???
+
+### O
+The name of the station/stop (long version).
+
+### X
+The X coordinate of the station/stop (missing decimal point).
+The X/Y coordinates are indicated by degrees of longitude and latitude in a
+geographical coordinate system. Units: degrees with decimal places. For accurancy in meters it has to have 6 right-of-comma positions. The preferred
+coordinate system is WGS84.
+
+
+### Y
+The Y coordinate of the station/stop (missing decimal point).
+The X/Y coordinates are indicated by degrees of longitude and latitude in a
+geographical coordinate system. Units: degrees with decimal places. For accurancy in meters it has to have 6 right-of-comma positions. The preferred
+coordinate system is WGS84.
+
+
+### U
+???
+
+### L
+The id of the station/stop.
