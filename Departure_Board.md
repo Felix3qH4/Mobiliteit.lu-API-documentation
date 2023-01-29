@@ -195,6 +195,7 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-Ntype">Note - type</p> | False | str       | ??? ("A" for note like "You can charge your phone here" and "R" for "line cancelled"?)|
 | <p id="key-routeIdxFrom">routeIdxFrom</p> | False | int | ??? (Not the id of a stop)                                                        |
 | <p id="key-routeIdxTo">routeIdxTo</p> | False | int   | ??? (Not the id of a stop)                                                          |
+| <p id="key-priority">priority</p>| False | str        | The priority of the note (for displaying purposes) between 0 and 999, the lower the number = the higher the priority. ([Source 1 p.89](#Source-1)|
 | <p id="key-textN">textN</p> | False     | str         | ??? (Maybe the normal text version of the [value](#key-value)(ex.: if value="TRAM", textN="TRAM")|
 | <p id="key-textL">textL</p> | False     | str         | ??? (Maybe the long text version of the [value](#key-value)(ex.: if value="TRAM", textL="Luxtram")|
 | <p id="key-textS">textS</p> | False     | str         | ??? (Maybe the short text version of the [value](#key-value)(ex.: if value="TRAM", textS="TRA")|
@@ -251,17 +252,17 @@ Each country has a unique identifier and Luxembourg has the code "82" as identif
 Here a list of identifiers:<br>
 (Not all numbers are used, 0-9 are for local authorities)<br>
 
-* 10 Finland
-* 20 Russia
-* 21 Belorussia
-* 22 Ukraine
-* 23 Moldova
-* 24 Lithuania
-* 25 Latvia
-* 26 Estonia
-* 27 Kazakhstan
-* 28 Georgia
-* 29 Uzbekistan
+- 10 Finland
+- 20 Russia
+- 21 Belorussia
+- 22 Ukraine
+- 23 Moldova
+- 24 Lithuania
+- 25 Latvia
+- 26 Estonia
+- 27 Kazakhstan
+- 28 Georgia
+- 29 Uzbekistan
 - 30 North Korea
 - 31 Mongolia
 - 32 Vietnam
@@ -316,7 +317,7 @@ Here a list of identifiers:<br>
 - 98 Lebanon
 - 99 Iraq
 
-source: https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelines-e.pdf  (page 16)
+source: ([Source 1 page 16](#source-1))
 <br>
 
 ### Fifth number
@@ -333,7 +334,7 @@ This is an example of a stopid value. <br>
 Now each of the components means something.<br>
 
 ### A
-???
+??? Arrival platform? ([Source 1 page 130](#source-1))
 
 ### O
 The name of the station/stop (long version).
@@ -357,3 +358,7 @@ coordinate system is WGS84.
 
 ### L
 The id of the station/stop.
+
+
+## Source 1
+https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelines-e.pdf
