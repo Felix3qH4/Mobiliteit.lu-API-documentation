@@ -42,6 +42,7 @@ You can choose yourself which arguments to pass and which not altough there are 
 You always have to pass "accessId" so your API-Key and "id", the id of the stop/station you want the data from.
 
 Available arguments for the departure board:
+(When you see "???" it means that further information is needed)
 
 | Argument Name | Mandatory | Value | Description                                         |
 | ------------- | --------- | ----- | -----------                                         |
