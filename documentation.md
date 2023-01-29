@@ -37,6 +37,12 @@ To get the id of a station have a look at "Location Search by Coordinate".<br>
 When making a request to the departure board, it has to look like this:<br>
 https://cdt.hafas.de/opendata/apiserver/departureBoard?arg1=XX&arg2=XX&arg3=XX<br>
 
+Where arg1, arg2 and arg3 are some arguments you can pass to the departure board.<br>
+You can choose yourself which arguments to pass and which not altough there are 2 arguments that are mandatory.
+You always have to pass "accessId" so your API-Key and "id", the id of the stop/station you want the data from.
+
+Available arguments for the departure board:
+
 ## Location Search by Coordinate
 As the name says it, you can search for a location (= stop/station) based on coordinates you pass.<br>
 This allows you to get the id of a station for example which you need for the Departure Board.<br>
