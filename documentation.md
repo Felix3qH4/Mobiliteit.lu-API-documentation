@@ -50,10 +50,21 @@ Available arguments for the departure board:
 | requestId     | False     | str   | ??? |
 | format        | False     | str   | The format you want your response in. Availables are: json, xml <br>If not set, xml is used.|
 | jsonpCallback | False     | str   | The json response will be wrapped in a javascript function with the name you passed |
-| lang          | False     | str   | Language of the journey planner. Available are: deu, fr <br>You can basically put 
-                                      anything in here as the keys in the response will always be in english and the data in french |
+| lang          | False     | str   | Language of the journey planner. Available are: deu, fr <br>You can basically put anything in here as the keys in the response will always be in english and the data in french. Default is "deu" |
 | extId         | False     | str   | [Deprecated] The station/stop id from which you want to retrieve data |
-
+| direction     | False     | str   | If only vehicles departing or arriving from a certain direction shall be returned, specify the direction by giving the station/stop ID of the last stop on the journey. |
+| date          | False     | str   | Sets the start date for which the departures shall be retrieved. Represented in the format YYYY-MM-DD. |
+| time          | False     | str   | Sets the start time for which the departures shall be retrieved. Represented in the format hh:mm[:ss] in 24h nomenclature. Seconds will be ignored for requests. |
+| dur           | False     | int   | ??? Range from 0 to 1439 |
+| duration      | False     | int   | ??? Set the interval size in minutes. Range from 0 to 1439. Default is 60 |
+| maxJourneys   | False     | int   | Maximum number of journeys to be returned. If no value is defined or -1, all departing/arriving services within the duration sized period are returned. Default is -1 |
+| products      | False     | int   | ??? Decimal value defining the product classes to be included in the search. It represents a bitmask combining bit number of a product as defined in the HAFAS raw data file zugart. |
+| operators     | False     | str   | [CHECK OPERATORS] Only journeys provided by the given operators are part of the result. To filter multiple operators, separate the codes by comma. If the operator should not be part of the be trip, negate it by putting ! in front of it. Available operators are: RGT, AVL, CFL |
+| lines         | False     | str   | Only journeys running the given line are part of the result. To filter multiple lines, separate the codes by comma. If the line should not be part of the be trip, negate it by putting ! in front of it. |
+| filterEquiv   | False     | int   | ??? Enables/disables the filtering of equivalent marked stops. |
+| attributes    | False     | str   | ??? Filter boards by one or more attribute codes of a journey. Multiple attribute codes are separated by comma. If the attribute should not be part of the result, negate it by putting ! in front of it. |
+| platforms     | False     | str   | Filter boards by platform. Multiple platforms are separated by comma. Platforms are used for example at train stations. A train station is one single stop but has multiple platforms so the busses stopping there all stop at the same stop (= the train station) but at different platforms. (Depends on the station how many platforms there are.) |
+| rtMode        | False     | bool   | Set the realtime mode to be used if enabled.
 
 ## Location Search by Coordinate
 As the name says it, you can search for a location (= stop/station) based on coordinates you pass.<br>
