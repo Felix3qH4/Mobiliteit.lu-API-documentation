@@ -5,7 +5,7 @@ This allows you to get the id of a station to be used in the [Departure Board](D
 
 <br>
 The nearbystops URL is available via https://cdt.hafas.de/opendata/apiserver/location.nearbystops?<br>
-The xml definition here: https://cdt.hafas.de/opendata/apiserver/location.nearbystops?wadl
+The xml definition here: https://cdt.hafas.de/opendata/apiserver/location.nearbystops?wadl<br>
 <br>
 Available arguments for the nearby stops:<br>
 
