@@ -22,7 +22,7 @@ Once you have your key you can go ahead and make requests to the API.<br>
 ## Getting data from the API
 There are 2 data access points the API provides.<br>
 1. [Departure Board](Departure_Board.md)
-2. Location Search by Coordinate
+2. [Location Search by Coordinate](Location_Search_by_Coordinate.md)
 
 ## Departure Board
 The departure board is available at this address: https://cdt.hafas.de/opendata/apiserver/departureBoard?<br>
