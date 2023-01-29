@@ -46,9 +46,12 @@ Available arguments for the departure board:
 | Argument Name | Mandatory | Value | Description                                         |
 | ------------- | --------- | ----- | -----------                                         |
 | accessId      | True      | str   | Your API-Key                                        |
-| id            | True      | int   | The station id from which you want to retrieve data |
+| id            | True      | int   | The station/stop id from which you want to retrieve data |
 | requestId     | False     | str   | ??? |
-| format        | False     | str   | The format you want your response in. Availables are: json, xml |
+| format        | False     | str   | The format you want your response in. Availables are: json, xml <br>If not set, xml is used.|
+| jsonpCallback | False     | str   | The json response will be wrapped in a javascript function with the name you passed |
+| lang          | False     | str   | Language of the journey planner. Available are: deu, fr <br>You can basically put anything in here as the keys in the response will always be in english and the data in french |
+| extId         | False     | str   | [Deprecated] The station/stop id from which you want to retrieve data |
 
 
 ## Location Search by Coordinate
