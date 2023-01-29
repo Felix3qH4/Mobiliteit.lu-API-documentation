@@ -14,7 +14,10 @@ Table of contents:
 2) [API response](#API-response)
     1. [XML](#XML)
     2. [JSON](#JSON)
-    3. [Reponse values meaning](#response-values-meaning)
+    3. [Response values meaning](#response-values-meaning)
+3) [Detailed information about response values](#detailed-information-about-response-values)
+    1. [ref](#ref)
+
 
 <br>
 <br>
@@ -84,7 +87,7 @@ Here are 2 examples of one busline from a request to the departure board. <br>
 <br>
 
 ### JSON
-```
+```json
 {
     "JourneyDetailRef":{
         "ref":"1|3078|7|82|29012023"
@@ -164,10 +167,10 @@ Here is a table explaining all those values you get from a request to the API: <
 | Key                     | Always present | Value type | Meaning                                                                             |
 | ---                     | -------------- | ---------- | -------                                                                             |
 | JourneyDetailRef        | True           | dict       | Contains [ref](#key-ref)                                                            |
-| <p id="key-ref">ref</p> | True           | str        | ??? Contains detailed information like wheelchair access in encoded form (each number stands for smth) and the last number is always the current date.                                                                                                   |
+| <p id="key-ref">ref</p> | True           | str        | Contains detailed information like wheelchair access or country of origin in encoded form (each number stands for smth) and the last number is always the current date. <br>For detailed information see [ref](#ref)|
 | JourneyStatus           | True           | str        | ??? (Always "P"?)                                                                   |
 | Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res), [name](#key-Pname), [num](#key-num), [line](#key-line), [catOut](#key-catOut), [catIn](#key-catIn), [catCode](#key-catCode), [cls](#key-cls), [catOutS](#key-catOutS), [catOutL](#key-catOutL), [operatorCode](#key-operatorCode), [operator](#key-operator), [admin](#key-admin), [matchId](#key-matchId) |
-| <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)                                                                                                                                      |
+| <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)|
 | <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = "prod_reg" |
@@ -185,10 +188,10 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-admin">admin</p> | True       | str        | ??? Probably the administrative unit: Bus: RGTR/AVL, Tram: LUTRAM, Train: "C82--"?  |
 | <p id="key-matchId">matchId</p> | True   | str        | ??? Seems to be the same as the [line](#key-line)                                   |
 | Notes                   | True           | dict       | Contains [Note](#key-Note)                                                          |
-| <p id="key-Note">Note</p>| True          | list       | Contains multiple dicts which each represent a [note](#key-notedict) telling us for example the operator or that you can charge you phone on this bus/tram/train (but not always complete, neraly only complete for trains)                               |
+| <p id="key-Note">Note</p>| True          | list       | Contains multiple dicts which each represent a [note](#key-notedict) telling us for example the operator or that you can charge you phone on this bus/tram/train (but not always complete, neraly only complete for trains) |
 | <p id="key-notedict">note (Not a key but a dict inside the list [Note](#key-Note))</p>| False | dict | Contains values that describe a note: [value](#key-value), [key](#key-key), [type](#key-Ntype), [routeIdxFrom](#key-routeIdxFrom), [routeIdxTo](#key-routeIdxTo), [textN](#key-textN), [textL](#key-textL), [textS](#key-textS) |
 | <p id="key-value">value</p> | False     | str         | The text/value that will be displayed to travellers like "RB XXX: This train is cancelled"|
-| <p id="key-key">key</p>| False          | str         | ??? (Missing keys) The key matching the [value](#key-value): \[if the note is about the operator, key="OPERATOR", line cancelled: "text.realtime.stop.cancelled", Bicycles can be taken with you: "71"]                                         |
+| <p id="key-key">key</p>| False          | str         | ??? (Missing keys) The key matching the [value](#key-value): \[if the note is about the operator, key="OPERATOR", line cancelled: "text.realtime.stop.cancelled", Bicycles can be taken with you: "71"] |
 | <p id="key-Ntype">Note - type</p> | False | str       | ??? ("A" for note like "You can charge your phone here" and "R" for "line cancelled"?)|
 | <p id="key-routeIdxFrom">routeIdxFrom</p> | False | int | ??? (Not the id of a stop)                                                        |
 | <p id="key-routeIdxTo">routeIdxTo</p> | False | int   | ??? (Not the id of a stop)                                                          |
@@ -210,3 +213,93 @@ Here is a table explaining all those values you get from a request to the API: <
 | direction              | True           | str         | The final destination of the line, full name of the station/stop                   |
 | trainNumber            | True           | str         | The number of the line (ex.: 812 for the Bus 812)                                  |
 | trainCategory          | True           | str         | ??? "064" for busses, "CAF" for tram, \["CRB", "CE", "CTE", "CIC", ?] for trains   |
+
+
+
+
+
+## Detailed information about response values
+Here is some information more in detail about some of the values you receive
+
+
+### ref
+This is an example of a "ref" value you could get in a response: <br>
+```json
+"JourneyDetailRef": {
+    "ref": "1|3078|7|82|29012023"
+}
+```
+
+As you can see, "ref" is "1|3078|7|82|29012023". <br>
+Each number, separated by a | stands for something. <br>
+The first number ("1" here) stands for: ??? <br>
+The second number ("3078" here) stands for: ??? <br>
+The third number ("7" here) stands for: ??? <br>
+The fourth number ("82" here) stands for the country of origin.<br>
+Each country has a unique identifier and Luxembourg has the code "82" as identifier.<br>
+Here a list of identifiers:<br>
+(Not all numbers are used, 0-9 are for local authorities)<br>
+- 10 Finland
+- 20 Russia
+- 21 Belorussia
+- 22 Ukraine
+- 23 Moldova
+- 24 Lithuania
+- 25 Latvia
+- 26 Estonia
+- 27 Kazakhstan
+- 28 Georgia
+- 29 Uzbekistan
+- 30 North Korea
+- 31 Mongolia
+- 32 Vietnam
+- 33 China
+- 40 Cuba
+- 41 Albania
+- 42 Japan
+- 44 Bosnia-Herzegovina (Serbian part)
+- 50 Bosnia-Herzegovina (Bosnian-Croatian part)
+- 51 Poland
+- 52 Bulgaria
+- 53 Rumania
+- 54 Czech Republic
+- 55 Hungary
+- 56 Slovakia
+- 57 Azerbaijan
+- 58 Armenia
+- 59 Kyrgyzstan
+- 60 Ireland
+- 61 South Korea
+- 62 Montenegro
+- 65 Macedonia
+- 66 Tadzhikistan
+- 67 Turkmenistan
+- 70 Great Britain
+- 71 Spain
+- 72 Serbia
+- 73 Greece
+- 74 Sweden
+- 75 Turkey
+- 76 Norway
+- 78 Croatia
+- 79 Slovenia
+- 80 Germany
+- 81 Austria
+- ***82 Luxembourg***
+- 83 Italy
+- 84 Netherlands
+- 85 Switzerland
+- 86 Denmark
+- 87 France
+- 88 Belgium
+- 89 Bosnia
+- 90 Egypt
+- 91 Tunisia
+- 92 Algeria
+- 93 Morocco
+- 94 Protugal
+- 95 Israel
+- 96 Iran
+- 97 Syria
+- 98 Lebanon
+- 99 Iraq
