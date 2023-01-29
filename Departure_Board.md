@@ -166,14 +166,14 @@ Here is a table explaining all those values you get from a request to the API: <
 | JourneyDetailRef        | True           | dict       | Contains [ref](#key-ref)                                                            |
 | <p id="key-ref">ref</p> | True           | str        | ??? Contains detailed information like wheelchair access in encoded form (each number stands for smth) and the last number is always the current date.                                                                                                   |
 | JourneyStatus           | True           | str        | ??? (Always "P"?)                                                                   |
-| Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res), [name](#key-name), [num](#key-num), [line](#key-line), [catOut](#key-catOut), [catIn](#key-catIn), [catCode](#key-catCode), [cls](#key-cls), [catOutS](#key-catOutS), [catOutL](#key-catOutL), [operatorCode](#key-operatorCode), [operator](#key-operator), [admin](#key-admin), [matchId](#key-matchId) |
+| Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res), [name](#key-Pname), [num](#key-num), [line](#key-line), [catOut](#key-catOut), [catIn](#key-catIn), [catCode](#key-catCode), [cls](#key-cls), [catOutS](#key-catOutS), [catOutL](#key-catOutL), [operatorCode](#key-operatorCode), [operator](#key-operator), [admin](#key-admin), [matchId](#key-matchId) |
 | <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)                                                                                                                                      |
 | <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = "prod_reg" |
-| <p id="key-name">name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX", Tram: "TXXX", Train: \["RB XXX": Regionalbahn???, "TERXXX": ???, "IC XXX": ICE???] \| where XXX is the [number](#key-number) of the line |
+| <p id="key-Pname">Product - name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX", Tram: "TXXX", Train: \["RB XXX": Regionalbahn???, "TERXXX": ???, "IC XXX": ICE???] \| where XXX is the [number](#key-number) of the line |
 | <p id="key-num">num</p>   | True         | str        | Each Bus has a unique identifier number which is stored in the "num" value          |
-| <p id="key-line">line</p> | True         | str        | The line number which is displayed in the name, if it's a tram it is equal to the [name](#key-name)  |
+| <p id="key-line">line</p> | True         | str        | The line number which is displayed in the name, if it's a tram it is equal to the [name](#key-Pname)  |
 | <p id="key-catOut">catOut</p> | True     | str        | The vehicle type. Available: Bus, Train, Tram                                       |
 | <p id="key-catIn">catIn</p> | True       | str        | ??? (For busses its usually a number, for tram "CAF")                               |   
 | <p id="key-catCode">catCode</p> | True   | str        | ??? (Usually "5" for busses and "8" for tram)                                       |
@@ -186,12 +186,26 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-matchId">matchId</p> | True   | str        | ??? Seems to be the same as the [line](#key-line)                                   |
 | Notes                   | True           | dict       | Contains [Note](#key-Note)                                                          |
 | <p id="key-Note">Note</p>| True          | list       | Contains multiple dicts which each represent a [note](#key-notedict) telling us for example the operator or that you can charge you phone on this bus/tram/train (but not always complete, neraly only complete for trains)                               |
-| <p id="key-notedict">note (Not a key but a dict inside the list [Note](#key-Note))</p>| False | dict | Contains values that describe a note: [value](#key-value), [key](#key-key), [type](#key-type), [routeIdxFrom](#key-routeIdxFrom), [routeIdxTo](#key-routeIdxTo), [textN](#key-textN), [textL](#key-textL), [textS](#key-textS) |
-| <p id="key-value">value</p> | False     | str        | The text/value that will be displayed to travellers like "RB XXX: This train is cancelled"|
-| <p id="key-key">key</p>| False          | str        | ??? (Missing keys) The key matching the [value](#key-value): \[if the note is about the operator, key="OPERATOR", line cancelled: "text.realtime.stop.cancelled", Bicycles can be taken with you: "71"]                                         |
-| <p id="key-type">type</p> | False       | str        | ??? ("A" for note like "You can charge your phone here" and "R" for "line cancelled"?)|
-| <p id="key-routeIdxFrom">routeIdxFrom</p> | False | int | ??? (Not the id of a stop)                                                       |
-| <p id="key-routeIdxTo">routeIdxTo</p> | False | int  | ??? (Not the id of a stop)                                                          |
-| <p id="key-textN">textN</p> | False     | str        | ??? (Maybe the normal text version of the [value](#key-value)(ex.: if value="TRAM", textN="TRAM")|
-| <p id="key-textL">textL</p> | False     | str        | ??? (Maybe the long text version of the [value](#key-value)(ex.: if value="TRAM", textL="Luxtram")|
-| <p id="key-textS">textS</p> | False     | str        | ??? (Maybe the short text version of the [value](#key-value)(ex.: if value="TRAM", textS="TRA")|
+| <p id="key-notedict">note (Not a key but a dict inside the list [Note](#key-Note))</p>| False | dict | Contains values that describe a note: [value](#key-value), [key](#key-key), [type](#key-Ntype), [routeIdxFrom](#key-routeIdxFrom), [routeIdxTo](#key-routeIdxTo), [textN](#key-textN), [textL](#key-textL), [textS](#key-textS) |
+| <p id="key-value">value</p> | False     | str         | The text/value that will be displayed to travellers like "RB XXX: This train is cancelled"|
+| <p id="key-key">key</p>| False          | str         | ??? (Missing keys) The key matching the [value](#key-value): \[if the note is about the operator, key="OPERATOR", line cancelled: "text.realtime.stop.cancelled", Bicycles can be taken with you: "71"]                                         |
+| <p id="key-Ntype">Note - type</p> | False | str       | ??? ("A" for note like "You can charge your phone here" and "R" for "line cancelled"?)|
+| <p id="key-routeIdxFrom">routeIdxFrom</p> | False | int | ??? (Not the id of a stop)                                                        |
+| <p id="key-routeIdxTo">routeIdxTo</p> | False | int   | ??? (Not the id of a stop)                                                          |
+| <p id="key-textN">textN</p> | False     | str         | ??? (Maybe the normal text version of the [value](#key-value)(ex.: if value="TRAM", textN="TRAM")|
+| <p id="key-textL">textL</p> | False     | str         | ??? (Maybe the long text version of the [value](#key-value)(ex.: if value="TRAM", textL="Luxtram")|
+| <p id="key-textS">textS</p> | False     | str         | ??? (Maybe the short text version of the [value](#key-value)(ex.: if value="TRAM", textS="TRA")|
+| name                   | True           | str         | The name of the line like [Product - name](#key-Pname)                              |
+| type                   | True           | str         | ??? (Always "ST"?)                                                                  |
+| stop                   | True           | str         | The current station/stop (= the station/stop you asked the data from in your API request) gives the full name of the stop |
+| stopid                 | True           | str         | ??? Gives you the name of the stop and its coordinates?                             |
+| stopExtId              | True           | str         | Gives you the id of the station/stop (= the id you entered in your request to the API)|
+| prognosisType          | False          | str         | ??? Either it is missing or it is "PROGNOSED", maybe it means that a bus/tram/train has started its tour and the arrival time could be prognosed |
+| time                   | True           | str         | The planned arrival time (= the time at which the line is scheduled to arrive at this stop)|
+| date                   | True           | str         | The date at which the line will arrive at that stop (if in realtime mode, it is always today)|
+| rtTime                 | False          | str         | The actual (real time) time at which the line will arrive at that stop (maybe it is late)(only available when line has started its tour)|
+| rtDate                 | False          | str         | The actual date at which the line will arrive at that stop (only available when line has started its tour)|
+| reachable              | True           | bool        | ??? If a line is reachable, always "true", except if line is cancelled (and maybe when it won't stop at that stop? but then its often missing)|
+| direction              | True           | str         | The final destination of the line, full name of the station/stop                   |
+| trainNumber            | True           | str         | The number of the line (ex.: 812 for the Bus 812)                                  |
+| trainCategory          | True           | str         | ??? "064" for busses, "CAF" for tram, \["CRB", "CE", "CTE", "CIC", ?] for trains   |
