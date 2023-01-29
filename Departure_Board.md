@@ -150,9 +150,14 @@ Here is a table explaining all those values you get from a request to the API: <
 (If there is "->" in front of a key, it means that it is a child of the key above the first key with "->" in front of it) <br>
 
 
-| Key                     | Always present | Value type | Meaning                                                           |
-| ---                     | -------------- | ---------- | :-------                                                          |
-| JourneyDetailRef        | True           | dict       | Contains [ref](#key-ref)                                          |
-| <p id="key-ref">ref</p> | True           | str        | ??? Contains detailed information like wheelchair access in encoded form (each number stands for smth) and the last number is always the current date.                                                                                     |
-| JourneyStatus           | True           | str        | ??? (Always "P"?)                                                 |
+| Key                     | Always present | Value type | Meaning                                                                             |
+| ---                     | -------------- | ---------- | -------                                                                             |
+| JourneyDetailRef        | True           | dict       | Contains [ref](#key-ref)                                                            |
+| <p id="key-ref">ref</p> | True           | str        | ??? Contains detailed information like wheelchair access in encoded form (each number stands for smth) and the last number is always the current date.                                                                                                   |
+| JourneyStatus           | True           | str        | ??? (Always "P"?)                                                                   |
+| Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res)                                        |
+| <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)                                                                                                                                      |
+| <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
+| <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
+| <p id="key-res">res</p> | True           | str        | ??? (Always "prod_bus_t"?)                                                          |
 
