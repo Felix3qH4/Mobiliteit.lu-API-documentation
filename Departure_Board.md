@@ -155,9 +155,15 @@ Here is a table explaining all those values you get from a request to the API: <
 | JourneyDetailRef        | True           | dict       | Contains [ref](#key-ref)                                                            |
 | <p id="key-ref">ref</p> | True           | str        | ??? Contains detailed information like wheelchair access in encoded form (each number stands for smth) and the last number is always the current date.                                                                                                   |
 | JourneyStatus           | True           | str        | ??? (Always "P"?)                                                                   |
-| Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res)                                        |
+| Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res), [name](#key-name)                     |
 | <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)                                                                                                                                      |
 | <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-res">res</p> | True           | str        | ??? (Always "prod_bus_t"?)                                                          |
-
+| <p id="key-name">name</p> | True         | str        | The name of the Bus like this: "Bus XXX) where XXX is the bus [number](#key-matchId)|
+| <p id="key-"></p> |
+| <p id="key-"></p> |
+| <p id="key-"></p> |
+| <p id="key-"></p> |
+| <p id="key-"></p> |
+| <p id="key-"></p> |
