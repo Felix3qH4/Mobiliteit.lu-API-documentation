@@ -173,8 +173,8 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)|
 | <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
-| <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = \["prod_reg" for "RB" trains, "prod_ic" for "IC" trains] |
-| <p id="key-Pname">Product - name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX", Tram: "TXXX", Train: \["RB XXX": Regionalbahn???, "TERXXX": ???, "IC XXX": ICE???] \| where XXX is the [number](#key-number) of the line |
+| <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = \["prod_reg" for "RB" and "RE" trains, "prod_ic" for "IC" trains] |
+| <p id="key-Pname">Product - name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX", Tram: "TXXX", Train: \["RB XXX": Regionalbahn?, "TERXXX": ?, "IC XXX": ICE?, "RE XXX": Regionalexpress?] \| where XXX is the [number](#key-number) of the line |
 | <p id="key-num">num</p>   | True         | str        | Each Bus has a unique identifier number which is stored in the "num" value          |
 | <p id="key-line">line</p> | True         | str        | The line number which is displayed in the name, if it's a tram it is equal to the [name](#key-Pname)  |
 | <p id="key-catOut">catOut</p> | True     | str        | The vehicle type. Available: Bus, Train, Tram                                       |
@@ -191,7 +191,7 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-Note">Note</p>| True          | list       | Contains multiple dicts which each represent a [note](#key-notedict) telling us for example the operator or that you can charge you phone on this bus/tram/train (but not always complete, neraly only complete for trains) |
 | <p id="key-notedict">note (Not a key but a dict inside the list [Note](#key-Note))</p>| False | dict | Contains values that describe a note: [value](#key-value), [key](#key-key), [type](#key-Ntype), [routeIdxFrom](#key-routeIdxFrom), [routeIdxTo](#key-routeIdxTo), [textN](#key-textN), [textL](#key-textL), [textS](#key-textS) |
 | <p id="key-value">value</p> | False     | str         | The text/value that will be displayed to travellers like "RB XXX: This train is cancelled"|
-| <p id="key-key">key</p>| False          | str         | ??? (Missing keys) The key matching the [value](#key-value): \[if the note is about the operator, key="OPERATOR", line cancelled: "text.realtime.stop.cancelled", Bicycles can be taken with you: "71"] |
+| <p id="key-key">key</p>| False          | str         | The key matching the [value](#key-value). For more detailed information see [key](#key)|
 | <p id="key-Ntype">Note - type</p> | False | str       | ??? ("A" for note like "You can charge your phone here" and "R" for "line cancelled"?)|
 | <p id="key-routeIdxFrom">routeIdxFrom</p> | False | int | ??? (Not the id of a stop)                                                        |
 | <p id="key-routeIdxTo">routeIdxTo</p> | False | int   | ??? (Not the id of a stop)                                                          |
@@ -322,6 +322,24 @@ source: ([Source 1 page 16](#source-1))
 
 ### Fifth number
 The fifth number ("**29012023**" here) stands for the current date, so here it would be the 29th of January 2023.<br>
+
+<br>
+<br>
+
+## key
+**There are keys missing/some keys are incorrect**<br>
+The key of a note is text and often an abbreviation. <br>
+If the key is an abbreviation the long text can be found under "[textN](#key-textN)". <br>
+Here is a list of known abbreviations:<br>
+- EH = Einstiegshilfe   ([priority 350](#key-priority))
+- KL = Klimaanlage  ([priority 350](#key-priority))
+- LS = Laptop-Steckplatz    ([priority 350](#key-priority))
+- 71 = bicylce transport / service pour bicyclettes / Fahrradmitnahme ([priority 1](#key-priority))
+- text.realtime.journey.cancelled = The entire line is cancelled and won't drive
+- text.realtime.stop.cancelled = The line will not stop at this station/stop
+- OPERATOR = The note tells us who the operator is for this line
+
+Depending from which country the bus/train comes from the priorities may have different numbers. <br>
 
 <br>
 <br>
