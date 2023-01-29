@@ -139,19 +139,13 @@ Here is a table explaining all those values you get from a request to the API: <
 (If there is "???" then information is missing) <br>
 (If there is "->" in front of a key, it means that it is a child of the key above the first key with "->" in front of it) <br>
 
-| Key              | Always present | Value type | Meaning                                                          |
-| ---              | -------------- | ---------- | -------                                                          |
-| JourneyDetailRef | True           | dict       | Contains the key "ref" for encoded information about the journey |
-| -> ref           | True           | str        | ??? Contains detailed information about the journey like wheelchair accessible etc. encoded as numbers and delimited by a "|", last value is always the current date |
-| JourneyStatus    | True           | str        | ??? (Always "P"?)                                                |
-| Product          | True           | dict       | Contains information about the color of the icon, the name, etc. |
-
-
 
 | Key              | Always present | Value type | Meaning                                                          |
-| ---              | -------------- | ---------- | -------                                                          |
-| JourneyDetailRef | True           | dict       | <table><tr><th>Key</th><th>Always present</th><th>Value type</th><th>Meaning</th></tr><tr><td>ref</td><td>True</td><td>str</td><td>??? Contains detailed information about the journey like wheelchair accessible etc. encoded as numbers and delimited by a "|", last value is always the current date</td></tr></table> |
+| ---              | -------------- | ---------- | :-------                                                          |
+| JourneyDetailRef | True           | dict       | Contains [ref](#ref) |
+| <p id="ref">ref</p> | True        | str        | None     |
+| JourneyDetailRef | True           | dict       | <table><thead><tr><th>Key</th><th>Always present</th><th>Value type</th><th>Meaning</th></tr></thead><tbody><tr><td>ref</td><td>True</td><td>str</td><td>??? Contains detailed information about the journey like wheelchair accessible etc. encoded as numbers and delimited by a "\|", last value is always the current date</td></tr></tbody></table> |
 | JourneyStatus    | True           | str        | ??? (Always "P"?)                                                |
-
+| Product          | True           | dict       | <table><thead><tr><th>Key</th><th>Always present</th><th>Value type</th><th>Meaning</th></tr></thead><tbody><tr><td>
 
 
