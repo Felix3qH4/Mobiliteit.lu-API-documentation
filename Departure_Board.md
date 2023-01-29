@@ -222,7 +222,7 @@ Here is a table explaining all those values you get from a request to the API: <
 Here is some information more in detail about some of the values you receive
 
 
-### ref
+## ref
 This is an example of a "ref" value you could get in a response: <br>
 ```json
 "JourneyDetailRef": {
@@ -233,16 +233,16 @@ This is an example of a "ref" value you could get in a response: <br>
 As you can see, "ref" is "[1](#first-number)|[3078](#second-number)|[7](#third-number)|[82](#fourth-number)|[29012023](#fifth-number)". <br>
 Each number, separated by a | stands for something. <br>
 
-#### first number
+### first number
 The first number ("**1**" here) stands for: ??? <br>
 
-#### second number
+### second number
 The second number ("**3078**" here) stands for: ??? <br>
 
-#### third number
+### third number
 The third number ("**7**" here) stands for: ??? <br>
 
-#### fourth number
+### fourth number
 The fourth number ("**82**" here) stands for the country of origin.<br>
 Each country has a unique identifier and Luxembourg has the code "82" as identifier.<br>
 Here a list of identifiers:<br>
@@ -316,5 +316,5 @@ Here a list of identifiers:<br>
 source: https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelines-e.pdf  (page 16)
 <br>
 
-#### Fifth number
+### Fifth number
 The fifth number ("**29012023**" here) stands for the current date, so here it would be the 29th of January 2023.<br>
