@@ -11,11 +11,12 @@ To get the id of a station have a look at "[Location Search by Coordinate](Locat
 Table of contents:
 
 1) [Requesting data](#Requesting-data)
-2) [API response](#API-response)
+2) [Common questions](#common-questions)
+3) [API response](#API-response)
     1. [XML](#XML)
     2. [JSON](#JSON)
     3. [Response values meaning](#response-values-meaning)
-3) [Detailed information about response values](#detailed-information-about-response-values)
+4) [Detailed information about response values](#detailed-information-about-response-values)
     1. [ref](#ref)
 
 
@@ -57,6 +58,19 @@ Available arguments for the departure board:<br>
 | passlist      | False     | int    | ??? Include a list of all passed waystops? (Is -1 for all waystops and all other numbers for the amount of stops you want?) |
 
 
+
+## Common questions
+
+**Can you search for a specific bus/train/tram line?**
+When I asked mobiliteit.lu the last time (19. Mai 2022) the answer was no and I don't think anything has changed about that.<br>
+
+**I get the error "QuotaExceeded"**
+This means that you have used all your available request tokens (as your API-Key is limited to a certain amount).<br>
+Either wait an hour or so until your tokens are reset or ask for your limit to be made higher. <br>
+
+**Some stations don't return any lines**
+Yes that happens, but usually only when the lines can't stop at that station for some reason.<br>
+Then they are not shown on that station, thats why you don't get any results.<br>
 
 
 
