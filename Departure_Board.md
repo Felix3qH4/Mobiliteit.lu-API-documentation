@@ -239,6 +239,7 @@ The fourth number ("82" here) stands for the country of origin.<br>
 Each country has a unique identifier and Luxembourg has the code "82" as identifier.<br>
 Here a list of identifiers:<br>
 <details>
+    <summary>List of iden</summary>
     <div>
 (Not all numbers are used, 0-9 are for local authorities)<br>
 - 10 Finland
