@@ -155,7 +155,7 @@ Here is a table explaining all those values you get from a request to the API: <
 | JourneyDetailRef        | True           | dict       | Contains [ref](#key-ref)                                                            |
 | <p id="key-ref">ref</p> | True           | str        | ??? Contains detailed information like wheelchair access in encoded form (each number stands for smth) and the last number is always the current date.                                                                                                   |
 | JourneyStatus           | True           | str        | ??? (Always "P"?)                                                                   |
-| Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res), [name](#key-name), [num](#key-num), [line](#key-line), [catOut](#key-catOut), [catIn](#key-catIn), [catCode](#key-catCode), [cls](#key-cls), [catOutS](#key-catOutS), [catOutL](#key-catOutL) |
+| Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res), [name](#key-name), [num](#key-num), [line](#key-line), [catOut](#key-catOut), [catIn](#key-catIn), [catCode](#key-catCode), [cls](#key-cls), [catOutS](#key-catOutS), [catOutL](#key-catOutL), [operatorCode](#key-operatorCode), [operator](#key-operator), [admin](#key-admin), [matchId](#key-matchId) |
 | <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)                                                                                                                                      |
 | <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
@@ -169,7 +169,18 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-cls">cls</p> | True           | str        | ??? (Usually a number in a string)                                                  |
 | <p id="key-catOutS">catOutS</p> | True   | str        | ??? (Seems to be the same as [catIn](#key-catIn)                                    |
 | <p id="key-catOutL">catOutL</p> | True   | str        | ??? (Seems to be the same as [catOut](#key-catOut)                                  |
-| <p id="key-operatorCode">operatorCode</p> | str       | The abbreviation code for the operator: RGT = Régime Général des Transports Routiers (was RGTR before), TRA = Luxtram, AVL = Ville de Luxembourg - Service Autobus, CFL = Chemins de Fer Luxembourgeois |
-| <p id="key-"></p> |
-| <p id="key-"></p> |
-| <p id="key-"></p> |
+| <p id="key-operatorCode">operatorCode</p>| str        | The abbreviation code for the [operator](#key-operator): RGT = Régime Général des Transports Routiers (was RGTR before), TRA = Luxtram, AVL = Ville de Luxembourg - Service Autobus, CFL = Chemins de Fer Luxembourgeois |
+| <p id="key-operator">operator</p> | True | str        | The long name of the operator (see [operatorCode](#key-operatorCode) for full names)|                 
+| <p id="key-admin">admin</p> | True       | str        | ??? Probably the administrative unit: Bus: RGTR/AVL, Tram: LUTRAM, Train: "C82--"?  |
+| <p id="key-matchId">matchId</p> | True   | str        | ??? Seems to be the same as the [line](#key-line)                                   |
+| Notes                   | True           | dict       | Contains [Note](#key-Note)                                                          |
+| <p id="key-Note">Note</p>| True          | list       | Contains multiple dicts which each represent a [note](#key-notedict) telling us for example the operator or that you can charge you phone on this bus/tram/train (but not always complete, neraly only complete for trains)                               |
+| <p id="key-notedict">note (Not a key but a dict inside the list [Note](#key-Note))</p>| False | dict | Contains values that describe a note: [value](#key-value), [key](#key-key), [type](#key-type), [routeIdxFrom](#key-routeIdxFrom), [routeIdxTo](#key-routeIdxTo), [textN](#key-textN), [textL](#key-textL), [textS](#key-textS) |
+| <p> id="key-value">value</p> | False     | str        | The text/value that will be displayed to travellers like "RB XXX: This train is cancelled"|
+| <p> id="key-key">key</p>| False          | str        | ??? (Missing keys) The key matching the [value](#key-value): \[if the note is about the operator, key="OPERATOR", line cancelled: "text.realtime.stop.cancelled", Bicycles can be taken with you: "71"]                                         |
+| <p> id="key-type">type</p> | False       | str        | ??? ("A" for note like "You can charge your phone here" and "R" for "line cancelled"?)|
+| <p> id="key-routeIdxFrom">routeIdxFrom</p> | False | int | ??? (Not the id of a stop)                                                       |
+| <p> id="key-routeIdxTo">routeIdxTo</p> | False | int  | ??? (Not the id of a stop)                                                          |
+| <p> id="key-textN">textN</p> | False     | str        | ??? (Maybe the normal text version of the [value](#key-value)(ex.: if value="TRAM", textN="TRAM")|
+| <p> id="key-textL">textL</p> | False     | str        | ??? (Maybe the long text version of the [value](#key-value)(ex.: if value="TRAM", textL="Luxtram")|
+| <p> id="key-textS">textS</p> | False     | str        | ??? (Maybe the short text version of the [value](#key-value)(ex.: if value="TRAM", textS="TRA")|
