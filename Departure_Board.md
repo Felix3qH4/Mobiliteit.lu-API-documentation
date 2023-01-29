@@ -145,4 +145,13 @@ Here is a table explaining all those values you get from a request to the API: <
 | -> ref           | True           | str        | ??? Contains detailed information about the journey like wheelchair accessible etc. encoded as numbers and delimited by a "|", last value is always the current date |
 | JourneyStatus    | True           | str        | ??? (Always "P"?)                                                |
 | Product          | True           | dict       | Contains information about the color of the icon, the name, etc. |
-|
+
+
+
+| Key              | Always present | Value type | Meaning                                                          |
+| ---              | -------------- | ---------- | -------                                                          |
+| JourneyDetailRef | True           | dict       | <table><tr><th>Key</th><th>Always present</th><th>Value type</th><th>Meaning</th></tr><tr><td>ref</td><td>True</td><td>str</td><td>??? Contains detailed information about the journey like wheelchair accessible etc. encoded as numbers and delimited by a "|", last value is always the current date</td></tr></table> |
+| JourneyStatus    | True           | str        | ??? (Always "P"?)                                                |
+
+
+
