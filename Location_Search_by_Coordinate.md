@@ -29,6 +29,6 @@ Available arguments for the nearby stops:<br>
 <br>
 
 Example request:<br>
-https://cdt.hafas.de/opendata/apiserver/location.nearbystops?accessId=<YOUR_API_KEY>&originCoordLat=49.557852&originCoordLong=5.924272&maxNo=1000&r=100&format=json
+https://cdt.hafas.de/opendata/apiserver/location.nearbystops?accessId="YOUR_API_KEY"&originCoordLat=49.557852&originCoordLong=5.924272&maxNo=1000&r=100&format=json
 
 <br><br>
