@@ -16,4 +16,9 @@ xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 where x is either a number or a lowercase letter
 
 This key has a limit of requests you can make to the API (per hour?) and for small projects this is enough, but if you really want to track all busses around Luxembourg, you will have to ask them to increase your limit.
+Once you have your key you can go ahead and make requests to the API.
+
+
+## Getting data from the API
+
 
