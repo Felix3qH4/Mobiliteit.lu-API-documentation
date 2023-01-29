@@ -64,7 +64,8 @@ Available arguments for the departure board:
 | filterEquiv   | False     | int   | ??? Enables/disables the filtering of equivalent marked stops. |
 | attributes    | False     | str   | ??? Filter boards by one or more attribute codes of a journey. Multiple attribute codes are separated by comma. If the attribute should not be part of the result, negate it by putting ! in front of it. |
 | platforms     | False     | str   | Filter boards by platform. Multiple platforms are separated by comma. Platforms are used for example at train stations. A train station is one single stop but has multiple platforms so the busses stopping there all stop at the same stop (= the train station) but at different platforms. (Depends on the station how many platforms there are.) |
-| rtMode        | False     | bool   | Set the realtime mode to be used if enabled.
+| rtMode        | False     | bool   | ??? Set the realtime mode to be used if enabled. Available are: FULL <br>For Luxembourg it seems to always return realtime information no matter what you set rtMode to. |
+| passlist      | False     | int    | ??? Include a list of all passed waystops? (Is -1 for all waystops and all other numbers for the amount of stops you want?) |
 
 ## Location Search by Coordinate
 As the name says it, you can search for a location (= stop/station) based on coordinates you pass.<br>
