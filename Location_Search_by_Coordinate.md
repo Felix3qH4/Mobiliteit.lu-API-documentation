@@ -1,7 +1,7 @@
 # Location Search by Coordinate
 ## Location Search by Coordinate
 As the name says it, you can search for a location (= stop/station) based on coordinates you pass.<br>
-This allows you to get the id of a station to be used in the Departure Board request.<br>
+This allows you to get the id of a station to be used in the [Departure Board](#Departure_Board.md) request.<br>
 
 <br>
 The nearbystops URL is available via https://cdt.hafas.de/opendata/apiserver/location.nearbystops?<br>
