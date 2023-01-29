@@ -232,7 +232,7 @@ This is an example of a "ref" value you could get in a response: <br>
 
 As you can see, "ref" is "[1](#first-number)|[3078](#second-number)|[7](#third-number)|[82](#fourth-number)|[29012023](#fifth-number)". <br>
 Each number, separated by a | stands for something. <br>
-The **<p id="first-number">first number</p>** ("**1**" here) stands for: ??? <br>
+The <p id="first-number">**first number**</p> ("**1**" here) stands for: ??? <br>
 The **<p id="second-number">second number</p>** ("**3078**" here) stands for: ??? <br>
 The **<p id="third-number">third number</p>** ("**7**" here) stands for: ??? <br>
 The **<p id="fourth-number">fourth number</p>** ("**82**" here) stands for the country of origin.<br>
