@@ -6,8 +6,9 @@ It provides you with information about the different bus lines like the operator
 So you have to pass it the id of a station and then it will return you which busses arrive/depart from that station.<br>
 If in realtime mode, you will also get realtime information like how late a bus is.<br>
 
-To get the id of a station have a look at "Location Search by Coordinate".<br>
+To get the id of a station have a look at "[Location Search by Coordinate](Location_Search_by_Coordinate.md)".<br>
 
+## Requesting data
 When making a request to the departure board, it has to look like this:<br>
 https://cdt.hafas.de/opendata/apiserver/departureBoard?arg1=XX&arg2=XX&arg3=XX<br>
 
@@ -41,3 +42,24 @@ Available arguments for the departure board:<br>
 | platforms     | False     | str   | Filter boards by platform. Multiple platforms are separated by comma. Platforms are used for example at train stations. A train station is one single stop but has multiple platforms so the busses stopping there all stop at the same stop (= the train station) but at different platforms. (Depends on the station how many platforms there are.) |
 | rtMode        | False     | bool   | ??? Set the realtime mode to be used if enabled. Available are: FULL <br>For Luxembourg it seems to always return realtime information no matter what you set rtMode to. |
 | passlist      | False     | int    | ??? Include a list of all passed waystops? (Is -1 for all waystops and all other numbers for the amount of stops you want?) |
+
+
+## API response
+Depending on what you passed as argument for the format you want the response in, you will either get a response in json or xml format. <br>
+Both responses carry the same values. Here are 2 examples of one busline from a request to the departure board. (You usually get more than one busline from a request but to simplify it we only show you one busline.) <br>
+
+```xml
+<Departure name="Bus 812" type="ST" stop="Steinfort, Gemeng" stopid="A=1@O=Steinfort, Gemeng@X=5913410@Y=49659424@U=82@L=191104004@" stopExtId="191104004" prognosisType="PROGNOSED" time="15:33:00" date="2023-01-29" rtTime="15:35:00" rtDate="2023-01-29" reachable="true" direction="Eischen, Denn Mairie" trainNumber="812" trainCategory="064">
+  <JourneyDetailRef ref="1|3078|7|82|29012023"/>
+  <JourneyStatus>P</JourneyStatus>
+  <Product name="Bus 812" num="3398" line="812" catOut="Bus" catIn="064" catCode="5" cls="32" catOutS="064" catOutL="Bus" operatorCode="RGT" operator="Régime Général des Transports Routiers" admin="RGTR--" matchId="812">
+    <icon res="prod_bus_t">
+      <foregroundColor r="255" g="255" b="255" hex="#FFFFFF"/>
+      <backgroundColor r="117" g="40" b="100" hex="#752864"/>
+    </icon>
+  </Product>
+  <Notes>
+    <Note key="OPERATOR" type="A" routeIdxFrom="34" routeIdxTo="41" txtN="RGTR" txtL="Régime Général des Transports Routiers" txtS="RGT">RGTR</Note>
+  </Notes>
+</Departure>
+```
