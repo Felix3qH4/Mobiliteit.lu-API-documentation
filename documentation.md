@@ -21,7 +21,7 @@ Once you have your key you can go ahead and make requests to the API.<br>
 
 ## Getting data from the API
 There are 2 data access points the API provides.<br>
-1. Departure Board
+1. [Departure Board](Departure Board.md)
 2. Location Search by Coordinate
 
 ## Departure Board
