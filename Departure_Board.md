@@ -183,8 +183,8 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-cls">cls</p> | True           | str        | ??? (Usually a number in a string)                                                  |
 | <p id="key-catOutS">catOutS</p> | True   | str        | ??? (Seems to be the same as [catIn](#key-catIn)                                    |
 | <p id="key-catOutL">catOutL</p> | True   | str        | ??? (Seems to be the same as [catOut](#key-catOut)                                  |
-| <p id="key-operatorCode">operatorCode</p>| True | str | The abbreviation code for the [operator](#key-operator): RGT = Régime Général des Transports Routiers (was RGTR before), TRA = Luxtram, AVL = Ville de Luxembourg - Service Autobus, CFL = Chemins de Fer Luxembourgeois |
-| <p id="key-operator">operator</p> | True | str        | The long name of the operator (see [operatorCode](#key-operatorCode) for full names)|                 
+| <p id="key-operatorCode">operatorCode</p>| True | str | The abbreviation code for the [operator](#key-operator). See [operator codes](#operator-codes) for abbreviations.|
+| <p id="key-operator">operator</p> | True | str        | The long name of the operator (see [operator codes](#operator-codes) for full names)|                 
 | <p id="key-admin">admin</p> | True       | str        | ??? Probably the administrative unit: Bus: RGTR/AVL, Tram: LUTRAM, Train: "C82--"?  |
 | <p id="key-matchId">matchId</p> | True   | str        | ??? Seems to be the same as the [line](#key-line)                                   |
 | Notes                   | True           | dict       | Contains [Note](#key-Note)                                                          |
@@ -344,6 +344,23 @@ Depending from which country the bus/train comes from the priorities may have di
 <br>
 <br>
 
+
+## operator codes
+There are 6 operators in Luxembourg: <br>
+- RGTR: Régime Général des Transports Routiers (id = 1)(www.mobiliteit.lu) (Bus)
+- AVL: Ville de Luxembourg - Service Autobus (id = 6)(www.vdl.lu/fr/se-deplacer/en-bus) (Bus in/around Luxembourg city)
+- CFL: Chemins de Fer Luxembourgeois (id = 11)(www.cfl.lu) (Trains only?)
+- TICE: TICE (id = 16)(www.tice.lu) (Bus)
+- LUTRAM: Luxtram (id = 111)(www.luxtram.lu) (Tram)
+- SNCFL: Société Nationale des Chemins de Fer Luxembourgeois (id = 171)(www.cfl.lu) (Bus only?)
+
+What is the difference between SNCFL and CFL? I believe on is for trains and the other one for the busses when trains can't drive.
+
+
+<br>
+<br>
+
+
 ## stopid
 ```json
 "stopid": "A=1@O=Steinfort, Gemeng@X=5913410@Y=49659424@U=82@L=191104004@"
@@ -383,11 +400,16 @@ The id of the station/stop.
 
 ## trainCategory
 The category of vehicle that is being used for the transport. (For general Hafas API: [Source 1 p. 65](#source-1))<br>
-- 064 Bus
-- CAF Tram
-- CRB Regional train? (only used for "RB" trains)
-- CIC ICE train? (only used for "IC" trains)
+- 064 : Bus
+- CAF : Tram (named  like that because of the society that made the tram [Source 2](#source-2))
+- CRB : Regional train? (only used for "RB" trains)
+- CIC : Intercity train (Deutsche Bahn trains)(only used for "IC" trains)
+- CTE : trains from the SNCF (France)(only used for "TER" trains)
 
 
 ## Source 1
 https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelines-e.pdf
+
+
+## Source 2
+https://www.caf.net/de/soluciones/proyectos/proyecto-detalle.php?p=278
