@@ -26,11 +26,19 @@ There are 2 data access points the API provides.
 
 ## Departure Board
 The departure board is available at this address: https://cdt.hafas.de/opendata/apiserver/departureBoard?
+The xml definition here: https://cdt.hafas.de/opendata/apiserver/departureBoard?wadl
+
 It provides you with information about the different bus lines like the operator etc. for a given stop/station.
 So you have to pass it the id of a station and then it will return you which busses arrive/depart from that station.
 If in realtime mode, you will also get realtime information like how late a bus is.
 
 To get the id of a station have a look at "Location Search by Coordinate".
 
+When making a request to the departure board, it has to look like this:
+https://cdt.hafas.de/opendata/apiserver/departureBoard?arg1=XX&arg2=XX&arg3=XX&
 
+## Location Search by Coordinate
+As the name says it, you can search for a location (= stop/station) based on coordinates you pass.
+This allows you to get the id of a station for example which you need for the Departure Board.
 
+radius, range, lat, lon, max_res
