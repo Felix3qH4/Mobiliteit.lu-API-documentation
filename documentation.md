@@ -20,5 +20,17 @@ Once you have your key you can go ahead and make requests to the API.
 
 
 ## Getting data from the API
+There are 2 data access points the API provides.
+1. Departure Board
+2. Location Search by Coordinate
+
+## Departure Board
+The departure board is available at this address: https://cdt.hafas.de/opendata/apiserver/departureBoard?
+It provides you with information about the different bus lines like the operator etc. for a given stop/station.
+So you have to pass it the id of a station and then it will return you which busses arrive/depart from that station.
+If in realtime mode, you will also get realtime information like how late a bus is.
+
+To get the id of a station have a look at "Location Search by Coordinate".
+
 
 
