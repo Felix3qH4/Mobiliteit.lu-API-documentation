@@ -69,4 +69,68 @@ Here are 2 examples of one busline from a request to the departure board. <br>
 
 ### JSON
 ```
+{
+    "JourneyDetailRef":{
+        "ref":"1|3078|7|82|29012023"
+    },
+    "JourneyStatus":"P",
+    "Product":{
+        "icon":{
+            "foregroundColor":{
+                "r":255,
+                "g":255,
+                "b":255,
+                "hex":"#FFFFFF"
+            },
+            "backgroundColor":{
+                "r":117,
+                "g":40,
+                "b":100,
+                "hex":"#752864"
+            },
+            "res":"prod_bus_t"
+        },
+        "name":"Bus 812",
+        "num":"3398",
+        "line":"812",
+        "catOut":"Bus",
+        "catIn":"064",
+        "catCode":"5",
+        "cls":"32",
+        "catOutS":"064",
+        "catOutL":"Bus",
+        "operatorCode":"RGT",
+        "operator":"Régime Général des Transports Routiers",
+        "admin":"RGTR--",
+        "matchId":"812"
+    },
+    "Notes":{
+        "Note":[
+            {
+                "value":"RGTR",
+                "key":"OPERATOR",
+                "type":"A",
+                "routeIdxFrom":34,
+                "routeIdxTo":41,
+                "txtN":"RGTR",
+                "txtL":"Régime Général des Transports Routiers",
+                "txtS":"RGT"
+            }
+        ]
+    },
+    "name":"Bus 812",
+    "type":"ST",
+    "stop":"Steinfort, Gemeng",
+    "stopid":"A=1@O=Steinfort, Gemeng@X=5913410@Y=49659424@U=82@L=191104004@",
+    "stopExtId":"191104004",
+    "prognosisType":"PROGNOSED",
+    "time":"15:33:00",
+    "date":"2023-01-29",
+    "rtTime":"15:33:00",
+    "rtDate":"2023-01-29",
+    "reachable":true,
+    "direction":"Eischen, Denn Mairie",
+    "trainNumber":"812",
+    "trainCategory":"064"
+}
 ```
