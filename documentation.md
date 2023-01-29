@@ -60,6 +60,10 @@ Available arguments for the nearby stops:<br>
 | meta          | false     | str   | Filter by a predefined meta filter. If the rules of the predefined filter should not be negated, put ! in front of it. |
 | sattributes   | false     | str   | Filter trips by one or more station attribute codes of a journey. Multiple attribute codes are separated by comma. If the attribute should not be part of the be trip, negate it by putting ! in front of it. |
 | sinfotexts    | false     | str   | Filter locations by one or more station infotext codes and values. Multiple attribute codes are separated by comma the value by pipe |
+<br>
+
+Example request:<br>
+https://cdt.hafas.de/opendata/apiserver/location.nearbystops?accessId=<YOUR_API_KEY>&originCoordLat=49.557852&originCoordLong=5.924272&maxNo=1000&r=100&format=json
 
 <br><br>
 
