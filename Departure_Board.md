@@ -238,6 +238,7 @@ The third number ("7" here) stands for: ??? <br>
 The fourth number ("82" here) stands for the country of origin.<br>
 Each country has a unique identifier and Luxembourg has the code "82" as identifier.<br>
 Here a list of identifiers:<br>
+<details>
 (Not all numbers are used, 0-9 are for local authorities)<br>
 - 10 Finland
 - 20 Russia
@@ -303,3 +304,4 @@ Here a list of identifiers:<br>
 - 97 Syria
 - 98 Lebanon
 - 99 Iraq
+</details>
