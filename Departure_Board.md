@@ -232,10 +232,18 @@ This is an example of a "ref" value you could get in a response: <br>
 
 As you can see, "ref" is "[1](#first-number)|[3078](#second-number)|[7](#third-number)|[82](#fourth-number)|[29012023](#fifth-number)". <br>
 Each number, separated by a | stands for something. <br>
-The <p id="first-number">**first number**</p> ("**1**" here) stands for: ??? <br>
-The **<p id="second-number">second number</p>** ("**3078**" here) stands for: ??? <br>
-The **<p id="third-number">third number</p>** ("**7**" here) stands for: ??? <br>
-The **<p id="fourth-number">fourth number</p>** ("**82**" here) stands for the country of origin.<br>
+
+#### first number
+The **first number** ("**1**" here) stands for: ??? <br>
+
+#### second number
+The **second number** ("**3078**" here) stands for: ??? <br>
+
+#### third number
+The **third number** ("**7**" here) stands for: ??? <br>
+
+#### fourth number
+The **fourth number** ("**82**" here) stands for the country of origin.<br>
 Each country has a unique identifier and Luxembourg has the code "82" as identifier.<br>
 Here a list of identifiers:<br>
 (Not all numbers are used, 0-9 are for local authorities)<br>
@@ -306,4 +314,6 @@ Here a list of identifiers:<br>
 - 99 Iraq
 
 <br>
-The **<p id="fifth-number">fifth number</p>** ("**29012023**" here) stands for the current date, so here it would be the 29th of January 2023.<br>
+
+#### Fifth number
+The **fifth number** ("**29012023**" here) stands for the current date, so here it would be the 29th of January 2023.<br>
