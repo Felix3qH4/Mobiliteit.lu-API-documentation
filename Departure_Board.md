@@ -241,17 +241,17 @@ Here a list of identifiers:<br>
 (Not all numbers are used, 0-9 are for local authorities)<br>
 <details>
     <summary>List of iden</summary>
-- 10 Finland
-- 20 Russia
-- 21 Belorussia
-- 22 Ukraine
-- 23 Moldova
-- 24 Lithuania
-- 25 Latvia
-- 26 Estonia
-- 27 Kazakhstan
-- 28 Georgia
-- 29 Uzbekistan
+* 10 Finland
+* 20 Russia
+* 21 Belorussia
+* 22 Ukraine
+* 23 Moldova
+* 24 Lithuania
+* 25 Latvia
+* 26 Estonia
+* 27 Kazakhstan
+* 28 Georgia
+* 29 Uzbekistan
 - 30 North Korea
 - 31 Mongolia
 - 32 Vietnam
