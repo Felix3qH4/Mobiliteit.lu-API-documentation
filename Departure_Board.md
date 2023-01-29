@@ -234,16 +234,16 @@ As you can see, "ref" is "[1](#first-number)|[3078](#second-number)|[7](#third-n
 Each number, separated by a | stands for something. <br>
 
 #### first number
-The **first number** ("**1**" here) stands for: ??? <br>
+The first number ("**1**" here) stands for: ??? <br>
 
 #### second number
-The **second number** ("**3078**" here) stands for: ??? <br>
+The second number ("**3078**" here) stands for: ??? <br>
 
 #### third number
-The **third number** ("**7**" here) stands for: ??? <br>
+The third number ("**7**" here) stands for: ??? <br>
 
 #### fourth number
-The **fourth number** ("**82**" here) stands for the country of origin.<br>
+The fourth number ("**82**" here) stands for the country of origin.<br>
 Each country has a unique identifier and Luxembourg has the code "82" as identifier.<br>
 Here a list of identifiers:<br>
 (Not all numbers are used, 0-9 are for local authorities)<br>
@@ -313,7 +313,8 @@ Here a list of identifiers:<br>
 - 98 Lebanon
 - 99 Iraq
 
+source: https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelines-e.pdf  (page 16)
 <br>
 
 #### Fifth number
-The **fifth number** ("**29012023**" here) stands for the current date, so here it would be the 29th of January 2023.<br>
+The fifth number ("**29012023**" here) stands for the current date, so here it would be the 29th of January 2023.<br>
