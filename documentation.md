@@ -45,8 +45,10 @@ Available arguments for the departure board:
 
 | Argument Name | Mandatory | Value | Description                                         |
 | ------------- | --------- | ----- | -----------                                         |
-| accessId      | True      | key   | Your API-Key                                        |
+| accessId      | True      | str   | Your API-Key                                        |
 | id            | True      | int   | The station id from which you want to retrieve data |
+| requestId     | False     | str   | ??? |
+| format        | False     | str   | The format you want your response in. Availables are: json, xml |
 
 
 ## Location Search by Coordinate
