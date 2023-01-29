@@ -205,6 +205,7 @@ Here is a table explaining all those values you get from a request to the API: <
 | date                   | True           | str         | The date at which the line will arrive at that stop (if in realtime mode, it is always today)|
 | rtTime                 | False          | str         | The actual (real time) time at which the line will arrive at that stop (maybe it is late)(only available when line has started its tour)|
 | rtDate                 | False          | str         | The actual date at which the line will arrive at that stop (only available when line has started its tour)|
+| cancelled              | False          | bool        | Only in the request answer if line is cancelled and then it is set to true         |
 | reachable              | True           | bool        | ??? If a line is reachable, always "true", except if line is cancelled (and maybe when it won't stop at that stop? but then its often missing)|
 | direction              | True           | str         | The final destination of the line, full name of the station/stop                   |
 | trainNumber            | True           | str         | The number of the line (ex.: 812 for the Bus 812)                                  |
