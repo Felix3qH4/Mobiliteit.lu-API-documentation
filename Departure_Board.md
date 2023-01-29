@@ -45,7 +45,7 @@ Available arguments for the departure board:<br>
 | duration      | False     | int   | ??? Set the interval size in minutes. Range from 0 to 1439. Default is 60 |
 | maxJourneys   | False     | int   | Maximum number of journeys to be returned. If no value is defined or -1, all departing/arriving services within the duration sized period are returned. Default is -1 |
 | products      | False     | int   | ??? Decimal value defining the product classes to be included in the search. It represents a bitmask combining bit number of a product as defined in the HAFAS raw data file zugart. |
-| operators     | False     | str   | \[CHECK OPERATORS] Only journeys provided by the given operators are part of the result. To filter multiple operators, separate the codes by comma. If the operator should not be part of the be trip, negate it by putting ! in front of it. Available operators are: RGT, AVL, CFL |
+| operators     | False     | str   | \[CHECK OPERATORS] Only journeys provided by the given operators are part of the result. To filter multiple operators, separate the codes by comma. If the operator should not be part of the be trip, negate it by putting ! in front of it. Available operators are: RGTR, AVL, CFL |
 | lines         | False     | str   | Only journeys running the given line are part of the result. To filter multiple lines, separate the codes by comma. If the line should not be part of the be trip, negate it by putting ! in front of it. |
 | filterEquiv   | False     | int   | ??? Enables/disables the filtering of equivalent marked stops. |
 | attributes    | False     | str   | ??? Filter boards by one or more attribute codes of a journey. Multiple attribute codes are separated by comma. If the attribute should not be part of the result, negate it by putting ! in front of it. |
@@ -170,7 +170,7 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)                                                                                                                                      |
 | <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
-| <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = "prod_[catOut](#key-catOut)" |
+| <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = "prod_reg" |
 | <p id="key-name">name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX", Tram: "TXXX", Train: \["RB XXX": Regionalbahn???, "TERXXX": ???, "IC XXX": ICE???] \| where XXX is the [number](#key-number) of the line |
 | <p id="key-num">num</p>   | True         | str        | Each Bus has a unique identifier number which is stored in the "num" value          |
 | <p id="key-line">line</p> | True         | str        | The line number which is displayed in the name, if it's a tram it is equal to the [name](#key-name)  |
