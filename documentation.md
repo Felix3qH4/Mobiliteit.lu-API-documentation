@@ -38,11 +38,11 @@ When making a request to the departure board, it has to look like this:<br>
 https://cdt.hafas.de/opendata/apiserver/departureBoard?arg1=XX&arg2=XX&arg3=XX<br>
 
 Where arg1, arg2 and arg3 are some arguments you can pass to the departure board.<br>
-You can choose yourself which arguments to pass and which not altough there are 2 arguments that are mandatory.
-You always have to pass "accessId" so your API-Key and "id", the id of the stop/station you want the data from.
+You can choose yourself which arguments to pass and which not altough there are 2 arguments that are mandatory.<br>
+You always have to pass "accessId" so your API-Key and "id", the id of the stop/station you want the data from.<br>
 
-Available arguments for the departure board:
-(When you see "???" it means that further information is needed)
+Available arguments for the departure board:<br>
+(When you see "???" it means that further information is needed)<br>
 
 | Argument Name | Mandatory | Value | Description                                         |
 | ------------- | --------- | ----- | -----------                                         |
