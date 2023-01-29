@@ -46,8 +46,8 @@ Available arguments for the departure board:<br>
 
 | Argument Name | Mandatory | Value | Description                                         |
 | ------------- | --------- | ----- | -----------                                         |
-| accessId      | True      | str   | Your API-Key                                        |
-| id            | True      | int   | The station/stop id from which you want to retrieve data |
+| accessId      | ****True****      | str   | Your API-Key                                        |
+| id            | ****True****      | int   | The station/stop id from which you want to retrieve data |
 | requestId     | False     | str   | ??? Request ID for identifying the request. |
 | format        | False     | str   | The format you want your response in. Availables are: json, xml <br>If not set, xml is used.|
 | jsonpCallback | False     | str   | The json response will be wrapped in a javascript function with the name you passed |
