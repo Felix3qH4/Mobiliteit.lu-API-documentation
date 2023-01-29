@@ -43,10 +43,10 @@ You always have to pass "accessId" so your API-Key and "id", the id of the stop/
 
 Available arguments for the departure board:
 
-| Argument Name | Optional | 
-| ------------- | -------- |
-| accessId      | False    |
-| id            | False    |
+| Argument Name | Mandatory | Value | Description                                         |
+| ------------- | --------- | ----- | -----------                                         |
+| accessId      | True      | key   | Your API-Key                                        |
+| id            | True      | int   | The station id from which you want to retrieve data |
 
 
 ## Location Search by Coordinate
