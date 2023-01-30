@@ -18,6 +18,7 @@ Table of contents:
     3. [Response values meaning](#response-values-meaning)
 4) [Detailed information about response values](#detailed-information-about-response-values)
     1. [ref](#ref)
+5) [Error codes](#error-codes)
 
 
 <br>
@@ -420,6 +421,19 @@ The category of vehicle that is being used for the transport. (For general Hafas
 - CIC : Intercity train (Deutsche Bahn trains)(only used for "IC" trains)
 - CTE : trains from the SNCF (France)(only used for "TER" trains)
 
+
+## Error codes
+Sample of an error message containing an error code:<br>
+```json
+{"serverVersion":"2.7.6","dialectVersion":"1.29","errorCode":"API_PARAM","errorText":"id or extId missing (IllegalArgumentException)","requestId":"default-request-id"}
+```
+As you can see the error code here is "API_PARAM".<br><br>
+List of all known codes:<br>
+- API_AUTH : invalid API-Key
+- API_PARAM : one or more arguments are missing or a wrong value was provided or an invalid argument was passed (like "acesId" instead of "accessId")
+- SVC_LOC : invalid id
+
+<br>
 
 ## Source 1
 https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelines-e.pdf
