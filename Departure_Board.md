@@ -252,7 +252,7 @@ Each number, separated by a | stands for something. <br>
 (By clicking on a number you can quickly get to the description of what it stands for without having to scroll down.) <br>
 
 ### first number
-The first number ("**1**" here) stands for: ??? <br>
+The first number ("**1**" here) stands for: ??? (Always one for bus, train, tram)<br>
 
 ### second number
 The second number ("**3078**" here) stands for: ??? <br>
