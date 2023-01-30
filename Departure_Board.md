@@ -441,3 +441,10 @@ https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelin
 
 ## Source 2
 https://www.caf.net/de/soluciones/proyectos/proyecto-detalle.php?p=278
+
+
+## Source 3
+https://download-data.deutschebahn.com/static/apis/fahrplan/Fpl-API-Doku-Open-Data-BETA-0_81_2.pdf
+
+## Source 4
+https://gtfs.org
