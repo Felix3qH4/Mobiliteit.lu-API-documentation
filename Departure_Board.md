@@ -429,9 +429,9 @@ Sample of an error message containing an error code:<br>
 ```
 As you can see the error code here is "API_PARAM".<br><br>
 List of all known codes:<br>
-- API_AUTH : invalid API-Key
-- API_PARAM : one or more arguments are missing or a wrong value was provided or an invalid argument was passed (like "acesId" instead of "accessId")
-- SVC_LOC : invalid id
+- **API_AUTH** : invalid API-Key
+- **API_PARAM** : one or more arguments are missing or a wrong value was provided or an invalid argument was passed (like "acesId" instead of "accessId")
+- **SVC_LOC** : invalid id
 
 <br>
 
