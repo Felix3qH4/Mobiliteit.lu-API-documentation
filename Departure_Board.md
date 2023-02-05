@@ -440,7 +440,7 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 ```json
 {
     "id": "00006",
-    "K": "TRA", //= 'operatorCode' in the API response
+    "K": "TRA", /*= 'operatorCode' in the API response *\
     "L": "TRAM",
     "V": "Luxtram", //= 'operator' in the API response
     "administrator": "LUTRAM" //= 'admin' in the API response
