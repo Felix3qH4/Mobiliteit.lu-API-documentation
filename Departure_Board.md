@@ -450,7 +450,8 @@ List of all known codes:<br>
 
 
 # Products
-Following product information is from [Source 5](#source-5). <br><br>
+Following product information is from [Source 5](#source-5). <br>
+But bitmasks vary from the ones in the [cfl version](http://github.com/public-transport/hafas-client/tree/master/p/cfl)<br>
 
 ## Express train
 ```json
@@ -479,7 +480,7 @@ Following product information is from [Source 5](#source-5). <br><br>
 {
     "id": "local-train",
     "mode": "train",
-    "bitmasks": [8],
+    "bitmasks": [4, 8],
     "name": "local train (RB/TER)",
     "short": "RB/TER"
 }
