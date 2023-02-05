@@ -1,0 +1,799 @@
+*F 03 2
+*Z 01355 RGTR--                                             % 01355 RGTR--
+*L 403      500000033 200417048  00525  00636               % 01355 RGTR--
+*R 1 200417048 500000033 200417048  00525  00636            % 01355 RGTR--
+*G 050 500000033 200417048  00525  00636                    % 01355 RGTR--
+*A VE 500000033 200417048 000033  00525  00636              % 01355 RGTR--
+*I FD 500000033 200417048        0001917  00525  00636      % 01355 RGTR--
+500000033 Merzig, Bahnhof              00525                % 01355 RGTR--
+500000034 Merzig, Stadthalle   -00528  00528                % 01355 RGTR--
+500000039 Mettlach, Park       -00536  00536                % 01355 RGTR--
+500000040 Mettlach, Schiffsanl -00537  00537                % 01355 RGTR--
+500000038 Mettlach, Keuchingen -00538  00538                % 01355 RGTR--
+500000041 Mettlach, Weisse Mar -00542  00542                % 01355 RGTR--
+500000058 Orscholz, Rehaklinik -00544  00544                % 01355 RGTR--
+500000055 Orscholz, Cloef      -00545  00545                % 01355 RGTR--
+500000056 Orscholz, Sportplatz -00547  00547                % 01355 RGTR--
+500000054 Oberleuken, Ortsmitt -00551  00551                % 01355 RGTR--
+500000066 Sinz, Ortsmitte      -00557  00557                % 01355 RGTR--
+500000046 Nennig, Zoll         -00602  00602                % 01355 RGTR--
+210701024 Remich, Schoul        00604  00604                % 01355 RGTR--
+210701017 Remich, Op der Kopp   00605  00605                % 01355 RGTR--
+200203003 Moutfort, Kapell      00617 -00617                % 01355 RGTR--
+200601005 Sandweiler, Kiirch    00621 -00621                % 01355 RGTR--
+200601015 Sandweiler, Scheedbë  00623 -00623                % 01355 RGTR--
+200417040 Kirchberg, Hugo Gern  00630 -00630                % 01355 RGTR--
+200417039 Kirchberg, Avalon     00634 -00634                % 01355 RGTR--
+200417019 Kirchberg, Konrad Ad  00635 -00635                % 01355 RGTR--
+200417005 Kirchberg, Antoine d  00636 -00636                % 01355 RGTR--
+200417048 Kirchberg, Europe Ga  00636                       % 01355 RGTR--
+*Z 01356 RGTR--                                             % 01356 RGTR--
+*L 403      500000033 200417048  01140  01251               % 01356 RGTR--
+*R 1 200417048 500000033 200417048  01140  01251            % 01356 RGTR--
+*G 050 500000033 200417048  01140  01251                    % 01356 RGTR--
+*A VE 500000033 200417048 000033  01140  01251              % 01356 RGTR--
+*I FD 500000033 200417048        0001918  01140  01251      % 01356 RGTR--
+500000033 Merzig, Bahnhof              01140                % 01356 RGTR--
+500000034 Merzig, Stadthalle   -01143  01143                % 01356 RGTR--
+500000039 Mettlach, Park       -01151  01151                % 01356 RGTR--
+500000040 Mettlach, Schiffsanl -01152  01152                % 01356 RGTR--
+500000038 Mettlach, Keuchingen -01153  01153                % 01356 RGTR--
+500000041 Mettlach, Weisse Mar -01157  01157                % 01356 RGTR--
+500000058 Orscholz, Rehaklinik -01159  01159                % 01356 RGTR--
+500000055 Orscholz, Cloef      -01200  01200                % 01356 RGTR--
+500000056 Orscholz, Sportplatz -01202  01202                % 01356 RGTR--
+500000054 Oberleuken, Ortsmitt -01206  01206                % 01356 RGTR--
+500000066 Sinz, Ortsmitte      -01212  01212                % 01356 RGTR--
+500000046 Nennig, Zoll         -01217  01217                % 01356 RGTR--
+210701024 Remich, Schoul        01219  01219                % 01356 RGTR--
+210701017 Remich, Op der Kopp   01220  01220                % 01356 RGTR--
+200203003 Moutfort, Kapell      01232 -01232                % 01356 RGTR--
+200601005 Sandweiler, Kiirch    01236 -01236                % 01356 RGTR--
+200601015 Sandweiler, Scheedbë  01238 -01238                % 01356 RGTR--
+200417040 Kirchberg, Hugo Gern  01245 -01245                % 01356 RGTR--
+200417039 Kirchberg, Avalon     01249 -01249                % 01356 RGTR--
+200417019 Kirchberg, Konrad Ad  01250 -01250                % 01356 RGTR--
+200417005 Kirchberg, Antoine d  01251 -01251                % 01356 RGTR--
+200417048 Kirchberg, Europe Ga  01251                       % 01356 RGTR--
+*Z 01357 RGTR--                                             % 01357 RGTR--
+*L 403      500000033 200417048  01625  01736               % 01357 RGTR--
+*R 1 200417048 500000033 200417048  01625  01736            % 01357 RGTR--
+*G 050 500000033 200417048  01625  01736                    % 01357 RGTR--
+*A VE 500000033 200417048 000033  01625  01736              % 01357 RGTR--
+*I FD 500000033 200417048        0001919  01625  01736      % 01357 RGTR--
+500000033 Merzig, Bahnhof              01625                % 01357 RGTR--
+500000034 Merzig, Stadthalle   -01628  01628                % 01357 RGTR--
+500000039 Mettlach, Park       -01636  01636                % 01357 RGTR--
+500000040 Mettlach, Schiffsanl -01637  01637                % 01357 RGTR--
+500000038 Mettlach, Keuchingen -01638  01638                % 01357 RGTR--
+500000041 Mettlach, Weisse Mar -01642  01642                % 01357 RGTR--
+500000058 Orscholz, Rehaklinik -01644  01644                % 01357 RGTR--
+500000055 Orscholz, Cloef      -01645  01645                % 01357 RGTR--
+500000056 Orscholz, Sportplatz -01647  01647                % 01357 RGTR--
+500000054 Oberleuken, Ortsmitt -01651  01651                % 01357 RGTR--
+500000066 Sinz, Ortsmitte      -01657  01657                % 01357 RGTR--
+500000046 Nennig, Zoll         -01702  01702                % 01357 RGTR--
+210701024 Remich, Schoul        01704  01704                % 01357 RGTR--
+210701017 Remich, Op der Kopp   01705  01705                % 01357 RGTR--
+200203003 Moutfort, Kapell      01717 -01717                % 01357 RGTR--
+200601005 Sandweiler, Kiirch    01721 -01721                % 01357 RGTR--
+200601015 Sandweiler, Scheedbë  01723 -01723                % 01357 RGTR--
+200417040 Kirchberg, Hugo Gern  01730 -01730                % 01357 RGTR--
+200417039 Kirchberg, Avalon     01734 -01734                % 01357 RGTR--
+200417019 Kirchberg, Konrad Ad  01735 -01735                % 01357 RGTR--
+200417005 Kirchberg, Antoine d  01736 -01736                % 01357 RGTR--
+200417048 Kirchberg, Europe Ga  01736                       % 01357 RGTR--
+*Z 01358 RGTR--                                             % 01358 RGTR--
+*L 403      500000033 200417048  00625  00750               % 01358 RGTR--
+*R 1 200417048 500000033 200417048  00625  00750            % 01358 RGTR--
+*G 050 500000033 200417048  00625  00750                    % 01358 RGTR--
+*A VE 500000033 200417048 000033  00625  00750              % 01358 RGTR--
+*I FD 500000033 200417048        0000819  00625  00750      % 01358 RGTR--
+500000033 Merzig, Bahnhof              00625                % 01358 RGTR--
+500000034 Merzig, Stadthalle   -00629  00629                % 01358 RGTR--
+500000039 Mettlach, Park       -00637  00637                % 01358 RGTR--
+500000040 Mettlach, Schiffsanl -00638  00638                % 01358 RGTR--
+500000038 Mettlach, Keuchingen -00639  00639                % 01358 RGTR--
+500000041 Mettlach, Weisse Mar -00643  00643                % 01358 RGTR--
+500000058 Orscholz, Rehaklinik -00646  00646                % 01358 RGTR--
+500000055 Orscholz, Cloef      -00647  00647                % 01358 RGTR--
+500000056 Orscholz, Sportplatz -00649  00649                % 01358 RGTR--
+500000054 Oberleuken, Ortsmitt -00653  00653                % 01358 RGTR--
+500000066 Sinz, Ortsmitte      -00659  00659                % 01358 RGTR--
+500000046 Nennig, Zoll         -00704  00704                % 01358 RGTR--
+210701024 Remich, Schoul        00706  00706                % 01358 RGTR--
+210701017 Remich, Op der Kopp   00707  00707                % 01358 RGTR--
+200203003 Moutfort, Kapell      00724 -00724                % 01358 RGTR--
+200601005 Sandweiler, Kiirch    00728 -00728                % 01358 RGTR--
+200601015 Sandweiler, Scheedbë  00732 -00732                % 01358 RGTR--
+200417040 Kirchberg, Hugo Gern  00743 -00743                % 01358 RGTR--
+200417039 Kirchberg, Avalon     00746 -00746                % 01358 RGTR--
+200417019 Kirchberg, Konrad Ad  00747 -00747                % 01358 RGTR--
+200417005 Kirchberg, Antoine d  00749 -00749                % 01358 RGTR--
+200417048 Kirchberg, Europe Ga  00750                       % 01358 RGTR--
+*Z 01359 RGTR--                                             % 01359 RGTR--
+*L 403      500000033 200417048  00655  00820               % 01359 RGTR--
+*R 1 200417048 500000033 200417048  00655  00820            % 01359 RGTR--
+*G 050 500000033 200417048  00655  00820                    % 01359 RGTR--
+*A VE 500000033 200417048 000033  00655  00820              % 01359 RGTR--
+*I FD 500000033 200417048        0001920  00655  00820      % 01359 RGTR--
+500000033 Merzig, Bahnhof              00655                % 01359 RGTR--
+500000034 Merzig, Stadthalle   -00659  00659                % 01359 RGTR--
+500000039 Mettlach, Park       -00707  00707                % 01359 RGTR--
+500000040 Mettlach, Schiffsanl -00708  00708                % 01359 RGTR--
+500000038 Mettlach, Keuchingen -00709  00709                % 01359 RGTR--
+500000041 Mettlach, Weisse Mar -00713  00713                % 01359 RGTR--
+500000058 Orscholz, Rehaklinik -00716  00716                % 01359 RGTR--
+500000055 Orscholz, Cloef      -00717  00717                % 01359 RGTR--
+500000056 Orscholz, Sportplatz -00719  00719                % 01359 RGTR--
+500000054 Oberleuken, Ortsmitt -00723  00723                % 01359 RGTR--
+500000066 Sinz, Ortsmitte      -00729  00729                % 01359 RGTR--
+500000046 Nennig, Zoll         -00734  00734                % 01359 RGTR--
+210701024 Remich, Schoul        00736  00736                % 01359 RGTR--
+210701017 Remich, Op der Kopp   00737  00737                % 01359 RGTR--
+200203003 Moutfort, Kapell      00754 -00754                % 01359 RGTR--
+200601005 Sandweiler, Kiirch    00758 -00758                % 01359 RGTR--
+200601015 Sandweiler, Scheedbë  00802 -00802                % 01359 RGTR--
+200417040 Kirchberg, Hugo Gern  00813 -00813                % 01359 RGTR--
+200417039 Kirchberg, Avalon     00816 -00816                % 01359 RGTR--
+200417019 Kirchberg, Konrad Ad  00817 -00817                % 01359 RGTR--
+200417005 Kirchberg, Antoine d  00819 -00819                % 01359 RGTR--
+200417048 Kirchberg, Europe Ga  00820                       % 01359 RGTR--
+*Z 01360 RGTR--                                             % 01360 RGTR--
+*L 403      500000033 200417048  00725  00850               % 01360 RGTR--
+*R 1 200417048 500000033 200417048  00725  00850            % 01360 RGTR--
+*G 050 500000033 200417048  00725  00850                    % 01360 RGTR--
+*A VE 500000033 200417048 000033  00725  00850              % 01360 RGTR--
+*I FD 500000033 200417048        0001921  00725  00850      % 01360 RGTR--
+500000033 Merzig, Bahnhof              00725                % 01360 RGTR--
+500000034 Merzig, Stadthalle   -00729  00729                % 01360 RGTR--
+500000039 Mettlach, Park       -00737  00737                % 01360 RGTR--
+500000040 Mettlach, Schiffsanl -00738  00738                % 01360 RGTR--
+500000038 Mettlach, Keuchingen -00739  00739                % 01360 RGTR--
+500000041 Mettlach, Weisse Mar -00743  00743                % 01360 RGTR--
+500000058 Orscholz, Rehaklinik -00746  00746                % 01360 RGTR--
+500000055 Orscholz, Cloef      -00747  00747                % 01360 RGTR--
+500000056 Orscholz, Sportplatz -00749  00749                % 01360 RGTR--
+500000054 Oberleuken, Ortsmitt -00753  00753                % 01360 RGTR--
+500000066 Sinz, Ortsmitte      -00759  00759                % 01360 RGTR--
+500000046 Nennig, Zoll         -00804  00804                % 01360 RGTR--
+210701024 Remich, Schoul        00806  00806                % 01360 RGTR--
+210701017 Remich, Op der Kopp   00807  00807                % 01360 RGTR--
+200203003 Moutfort, Kapell      00824 -00824                % 01360 RGTR--
+200601005 Sandweiler, Kiirch    00828 -00828                % 01360 RGTR--
+200601015 Sandweiler, Scheedbë  00832 -00832                % 01360 RGTR--
+200417040 Kirchberg, Hugo Gern  00843 -00843                % 01360 RGTR--
+200417039 Kirchberg, Avalon     00846 -00846                % 01360 RGTR--
+200417019 Kirchberg, Konrad Ad  00847 -00847                % 01360 RGTR--
+200417005 Kirchberg, Antoine d  00849 -00849                % 01360 RGTR--
+200417048 Kirchberg, Europe Ga  00850                       % 01360 RGTR--
+*Z 01361 RGTR--                                             % 01361 RGTR--
+*L 403      500000033 200417048  00825  00950               % 01361 RGTR--
+*R 1 200417048 500000033 200417048  00825  00950            % 01361 RGTR--
+*G 050 500000033 200417048  00825  00950                    % 01361 RGTR--
+*A VE 500000033 200417048 000033  00825  00950              % 01361 RGTR--
+*I FD 500000033 200417048        0000908  00825  00950      % 01361 RGTR--
+500000033 Merzig, Bahnhof              00825                % 01361 RGTR--
+500000034 Merzig, Stadthalle   -00829  00829                % 01361 RGTR--
+500000039 Mettlach, Park       -00837  00837                % 01361 RGTR--
+500000040 Mettlach, Schiffsanl -00838  00838                % 01361 RGTR--
+500000038 Mettlach, Keuchingen -00839  00839                % 01361 RGTR--
+500000041 Mettlach, Weisse Mar -00843  00843                % 01361 RGTR--
+500000058 Orscholz, Rehaklinik -00846  00846                % 01361 RGTR--
+500000055 Orscholz, Cloef      -00847  00847                % 01361 RGTR--
+500000056 Orscholz, Sportplatz -00849  00849                % 01361 RGTR--
+500000054 Oberleuken, Ortsmitt -00853  00853                % 01361 RGTR--
+500000066 Sinz, Ortsmitte      -00859  00859                % 01361 RGTR--
+500000046 Nennig, Zoll         -00904  00904                % 01361 RGTR--
+210701024 Remich, Schoul        00906  00906                % 01361 RGTR--
+210701017 Remich, Op der Kopp   00907  00907                % 01361 RGTR--
+200203003 Moutfort, Kapell      00924 -00924                % 01361 RGTR--
+200601005 Sandweiler, Kiirch    00928 -00928                % 01361 RGTR--
+200601015 Sandweiler, Scheedbë  00932 -00932                % 01361 RGTR--
+200417040 Kirchberg, Hugo Gern  00943 -00943                % 01361 RGTR--
+200417039 Kirchberg, Avalon     00946 -00946                % 01361 RGTR--
+200417019 Kirchberg, Konrad Ad  00947 -00947                % 01361 RGTR--
+200417005 Kirchberg, Antoine d  00949 -00949                % 01361 RGTR--
+200417048 Kirchberg, Europe Ga  00950                       % 01361 RGTR--
+*Z 01362 RGTR--                                             % 01362 RGTR--
+*L 403      200417048 500000033  01320  01425               % 01362 RGTR--
+*R 2 500000033 200417048 500000033  01320  01425            % 01362 RGTR--
+*G 050 200417048 500000033  01320  01425                    % 01362 RGTR--
+*A VE 200417048 500000033 000033  01320  01425              % 01362 RGTR--
+*I FD 200417048 500000033        0001922  01320  01425      % 01362 RGTR--
+200417048 Kirchberg, Europe Ga         01320                % 01362 RGTR--
+200417005 Kirchberg, Antoine d -01320  01320                % 01362 RGTR--
+200417019 Kirchberg, Konrad Ad -01321  01321                % 01362 RGTR--
+200417039 Kirchberg, Avalon    -01322  01322                % 01362 RGTR--
+200417033 Kirchberg, Poutty St -01324  01324                % 01362 RGTR--
+200417044 Kirchberg, Luxexpo Q -01326  01326                % 01362 RGTR--
+200601015 Sandweiler, Scheedbë  01332  01332                % 01362 RGTR--
+200601005 Sandweiler, Kiirch    01334  01334                % 01362 RGTR--
+200203003 Moutfort, Kapell      01339  01339                % 01362 RGTR--
+210701017 Remich, Op der Kopp   01348  01348                % 01362 RGTR--
+210701024 Remich, Schoul        01349  01349                % 01362 RGTR--
+500000046 Nennig, Zoll          01351 -01351                % 01362 RGTR--
+500000066 Sinz, Ortsmitte       01355 -01355                % 01362 RGTR--
+500000054 Oberleuken, Ortsmitt  01400 -01400                % 01362 RGTR--
+500000056 Orscholz, Sportplatz  01404 -01404                % 01362 RGTR--
+500000055 Orscholz, Cloef       01406 -01406                % 01362 RGTR--
+500000058 Orscholz, Rehaklinik  01407 -01407                % 01362 RGTR--
+500000041 Mettlach, Weisse Mar  01410 -01410                % 01362 RGTR--
+500000038 Mettlach, Keuchingen  01413 -01413                % 01362 RGTR--
+500000040 Mettlach, Schiffsanl  01414 -01414                % 01362 RGTR--
+500000039 Mettlach, Park        01415 -01415                % 01362 RGTR--
+500000034 Merzig, Stadthalle    01423 -01423                % 01362 RGTR--
+500000033 Merzig, Bahnhof       01425                       % 01362 RGTR--
+*Z 01363 RGTR--                                             % 01363 RGTR--
+*L 403      200417048 500000033  01920  02025               % 01363 RGTR--
+*R 2 500000033 200417048 500000033  01920  02025            % 01363 RGTR--
+*G 050 200417048 500000033  01920  02025                    % 01363 RGTR--
+*A VE 200417048 500000033 000033  01920  02025              % 01363 RGTR--
+*I FD 200417048 500000033        0001923  01920  02025      % 01363 RGTR--
+200417048 Kirchberg, Europe Ga         01920                % 01363 RGTR--
+200417005 Kirchberg, Antoine d -01920  01920                % 01363 RGTR--
+200417019 Kirchberg, Konrad Ad -01921  01921                % 01363 RGTR--
+200417039 Kirchberg, Avalon    -01922  01922                % 01363 RGTR--
+200417033 Kirchberg, Poutty St -01924  01924                % 01363 RGTR--
+200417044 Kirchberg, Luxexpo Q -01926  01926                % 01363 RGTR--
+200601015 Sandweiler, Scheedbë  01932  01932                % 01363 RGTR--
+200601005 Sandweiler, Kiirch    01934  01934                % 01363 RGTR--
+200203003 Moutfort, Kapell      01939  01939                % 01363 RGTR--
+210701017 Remich, Op der Kopp   01948  01948                % 01363 RGTR--
+210701024 Remich, Schoul        01949  01949                % 01363 RGTR--
+500000046 Nennig, Zoll          01951 -01951                % 01363 RGTR--
+500000066 Sinz, Ortsmitte       01955 -01955                % 01363 RGTR--
+500000054 Oberleuken, Ortsmitt  02000 -02000                % 01363 RGTR--
+500000056 Orscholz, Sportplatz  02004 -02004                % 01363 RGTR--
+500000055 Orscholz, Cloef       02006 -02006                % 01363 RGTR--
+500000058 Orscholz, Rehaklinik  02007 -02007                % 01363 RGTR--
+500000041 Mettlach, Weisse Mar  02010 -02010                % 01363 RGTR--
+500000038 Mettlach, Keuchingen  02013 -02013                % 01363 RGTR--
+500000040 Mettlach, Schiffsanl  02014 -02014                % 01363 RGTR--
+500000039 Mettlach, Park        02015 -02015                % 01363 RGTR--
+500000034 Merzig, Stadthalle    02023 -02023                % 01363 RGTR--
+500000033 Merzig, Bahnhof       02025                       % 01363 RGTR--
+*Z 01364 RGTR--                                             % 01364 RGTR--
+*L 403      200417048 500000033  01620  01733               % 01364 RGTR--
+*R 2 500000033 200417048 500000033  01620  01733            % 01364 RGTR--
+*G 050 200417048 500000033  01620  01733                    % 01364 RGTR--
+*A VE 200417048 500000033 000033  01620  01733              % 01364 RGTR--
+*I FD 200417048 500000033        0001924  01620  01733      % 01364 RGTR--
+200417048 Kirchberg, Europe Ga         01620                % 01364 RGTR--
+200417005 Kirchberg, Antoine d -01621  01621                % 01364 RGTR--
+200417019 Kirchberg, Konrad Ad -01622  01622                % 01364 RGTR--
+200417039 Kirchberg, Avalon    -01623  01623                % 01364 RGTR--
+200417033 Kirchberg, Poutty St -01625  01625                % 01364 RGTR--
+200417044 Kirchberg, Luxexpo Q -01627  01627                % 01364 RGTR--
+200601015 Sandweiler, Scheedbë  01635  01635                % 01364 RGTR--
+200601005 Sandweiler, Kiirch    01637  01637                % 01364 RGTR--
+200203003 Moutfort, Kapell      01643  01643                % 01364 RGTR--
+210701017 Remich, Op der Kopp   01654  01654                % 01364 RGTR--
+210701024 Remich, Schoul        01655  01655                % 01364 RGTR--
+500000046 Nennig, Zoll          01657 -01657                % 01364 RGTR--
+500000066 Sinz, Ortsmitte       01702 -01702                % 01364 RGTR--
+500000054 Oberleuken, Ortsmitt  01707 -01707                % 01364 RGTR--
+500000056 Orscholz, Sportplatz  01711 -01711                % 01364 RGTR--
+500000055 Orscholz, Cloef       01713 -01713                % 01364 RGTR--
+500000058 Orscholz, Rehaklinik  01715 -01715                % 01364 RGTR--
+500000041 Mettlach, Weisse Mar  01717 -01717                % 01364 RGTR--
+500000038 Mettlach, Keuchingen  01720 -01720                % 01364 RGTR--
+500000040 Mettlach, Schiffsanl  01721 -01721                % 01364 RGTR--
+500000039 Mettlach, Park        01722 -01722                % 01364 RGTR--
+500000034 Merzig, Stadthalle    01731 -01731                % 01364 RGTR--
+500000033 Merzig, Bahnhof       01733                       % 01364 RGTR--
+*Z 01365 RGTR--                                             % 01365 RGTR--
+*L 403      200417048 500000033  01650  01803               % 01365 RGTR--
+*R 2 500000033 200417048 500000033  01650  01803            % 01365 RGTR--
+*G 050 200417048 500000033  01650  01803                    % 01365 RGTR--
+*A VE 200417048 500000033 000033  01650  01803              % 01365 RGTR--
+*I FD 200417048 500000033        0001279  01650  01803      % 01365 RGTR--
+200417048 Kirchberg, Europe Ga         01650                % 01365 RGTR--
+200417005 Kirchberg, Antoine d -01651  01651                % 01365 RGTR--
+200417019 Kirchberg, Konrad Ad -01652  01652                % 01365 RGTR--
+200417039 Kirchberg, Avalon    -01653  01653                % 01365 RGTR--
+200417033 Kirchberg, Poutty St -01655  01655                % 01365 RGTR--
+200417044 Kirchberg, Luxexpo Q -01657  01657                % 01365 RGTR--
+200601015 Sandweiler, Scheedbë  01705  01705                % 01365 RGTR--
+200601005 Sandweiler, Kiirch    01707  01707                % 01365 RGTR--
+200203003 Moutfort, Kapell      01713  01713                % 01365 RGTR--
+210701017 Remich, Op der Kopp   01724  01724                % 01365 RGTR--
+210701024 Remich, Schoul        01725  01725                % 01365 RGTR--
+500000046 Nennig, Zoll          01727 -01727                % 01365 RGTR--
+500000066 Sinz, Ortsmitte       01732 -01732                % 01365 RGTR--
+500000054 Oberleuken, Ortsmitt  01737 -01737                % 01365 RGTR--
+500000056 Orscholz, Sportplatz  01741 -01741                % 01365 RGTR--
+500000055 Orscholz, Cloef       01743 -01743                % 01365 RGTR--
+500000058 Orscholz, Rehaklinik  01745 -01745                % 01365 RGTR--
+500000041 Mettlach, Weisse Mar  01747 -01747                % 01365 RGTR--
+500000038 Mettlach, Keuchingen  01750 -01750                % 01365 RGTR--
+500000040 Mettlach, Schiffsanl  01751 -01751                % 01365 RGTR--
+500000039 Mettlach, Park        01752 -01752                % 01365 RGTR--
+500000034 Merzig, Stadthalle    01801 -01801                % 01365 RGTR--
+500000033 Merzig, Bahnhof       01803                       % 01365 RGTR--
+*Z 01366 RGTR--                                             % 01366 RGTR--
+*L 403      200417048 500000033  01720  01833               % 01366 RGTR--
+*R 2 500000033 200417048 500000033  01720  01833            % 01366 RGTR--
+*G 050 200417048 500000033  01720  01833                    % 01366 RGTR--
+*A VE 200417048 500000033 000033  01720  01833              % 01366 RGTR--
+*I FD 200417048 500000033        0001925  01720  01833      % 01366 RGTR--
+200417048 Kirchberg, Europe Ga         01720                % 01366 RGTR--
+200417005 Kirchberg, Antoine d -01721  01721                % 01366 RGTR--
+200417019 Kirchberg, Konrad Ad -01722  01722                % 01366 RGTR--
+200417039 Kirchberg, Avalon    -01723  01723                % 01366 RGTR--
+200417033 Kirchberg, Poutty St -01725  01725                % 01366 RGTR--
+200417044 Kirchberg, Luxexpo Q -01727  01727                % 01366 RGTR--
+200601015 Sandweiler, Scheedbë  01735  01735                % 01366 RGTR--
+200601005 Sandweiler, Kiirch    01737  01737                % 01366 RGTR--
+200203003 Moutfort, Kapell      01743  01743                % 01366 RGTR--
+210701017 Remich, Op der Kopp   01754  01754                % 01366 RGTR--
+210701024 Remich, Schoul        01755  01755                % 01366 RGTR--
+500000046 Nennig, Zoll          01757 -01757                % 01366 RGTR--
+500000066 Sinz, Ortsmitte       01802 -01802                % 01366 RGTR--
+500000054 Oberleuken, Ortsmitt  01807 -01807                % 01366 RGTR--
+500000056 Orscholz, Sportplatz  01811 -01811                % 01366 RGTR--
+500000055 Orscholz, Cloef       01813 -01813                % 01366 RGTR--
+500000058 Orscholz, Rehaklinik  01815 -01815                % 01366 RGTR--
+500000041 Mettlach, Weisse Mar  01817 -01817                % 01366 RGTR--
+500000038 Mettlach, Keuchingen  01820 -01820                % 01366 RGTR--
+500000040 Mettlach, Schiffsanl  01821 -01821                % 01366 RGTR--
+500000039 Mettlach, Park        01822 -01822                % 01366 RGTR--
+500000034 Merzig, Stadthalle    01831 -01831                % 01366 RGTR--
+500000033 Merzig, Bahnhof       01833                       % 01366 RGTR--
+*Z 01367 RGTR--                                             % 01367 RGTR--
+*L 403      200417048 500000033  01750  01903               % 01367 RGTR--
+*R 2 500000033 200417048 500000033  01750  01903            % 01367 RGTR--
+*G 050 200417048 500000033  01750  01903                    % 01367 RGTR--
+*A VE 200417048 500000033 000033  01750  01903              % 01367 RGTR--
+*I FD 200417048 500000033        0001915  01750  01903      % 01367 RGTR--
+200417048 Kirchberg, Europe Ga         01750                % 01367 RGTR--
+200417005 Kirchberg, Antoine d -01751  01751                % 01367 RGTR--
+200417019 Kirchberg, Konrad Ad -01752  01752                % 01367 RGTR--
+200417039 Kirchberg, Avalon    -01753  01753                % 01367 RGTR--
+200417033 Kirchberg, Poutty St -01755  01755                % 01367 RGTR--
+200417044 Kirchberg, Luxexpo Q -01757  01757                % 01367 RGTR--
+200601015 Sandweiler, Scheedbë  01805  01805                % 01367 RGTR--
+200601005 Sandweiler, Kiirch    01807  01807                % 01367 RGTR--
+200203003 Moutfort, Kapell      01813  01813                % 01367 RGTR--
+210701017 Remich, Op der Kopp   01824  01824                % 01367 RGTR--
+210701024 Remich, Schoul        01825  01825                % 01367 RGTR--
+500000046 Nennig, Zoll          01827 -01827                % 01367 RGTR--
+500000066 Sinz, Ortsmitte       01832 -01832                % 01367 RGTR--
+500000054 Oberleuken, Ortsmitt  01837 -01837                % 01367 RGTR--
+500000056 Orscholz, Sportplatz  01841 -01841                % 01367 RGTR--
+500000055 Orscholz, Cloef       01843 -01843                % 01367 RGTR--
+500000058 Orscholz, Rehaklinik  01845 -01845                % 01367 RGTR--
+500000041 Mettlach, Weisse Mar  01847 -01847                % 01367 RGTR--
+500000038 Mettlach, Keuchingen  01850 -01850                % 01367 RGTR--
+500000040 Mettlach, Schiffsanl  01851 -01851                % 01367 RGTR--
+500000039 Mettlach, Park        01852 -01852                % 01367 RGTR--
+500000034 Merzig, Stadthalle    01901 -01901                % 01367 RGTR--
+500000033 Merzig, Bahnhof       01903                       % 01367 RGTR--
+*Z 01368 RGTR--                                             % 01368 RGTR--
+*L 403      200417048 500000033  01820  01933               % 01368 RGTR--
+*R 2 500000033 200417048 500000033  01820  01933            % 01368 RGTR--
+*G 050 200417048 500000033  01820  01933                    % 01368 RGTR--
+*A VE 200417048 500000033 000033  01820  01933              % 01368 RGTR--
+*I FD 200417048 500000033        0001926  01820  01933      % 01368 RGTR--
+200417048 Kirchberg, Europe Ga         01820                % 01368 RGTR--
+200417005 Kirchberg, Antoine d -01821  01821                % 01368 RGTR--
+200417019 Kirchberg, Konrad Ad -01822  01822                % 01368 RGTR--
+200417039 Kirchberg, Avalon    -01823  01823                % 01368 RGTR--
+200417033 Kirchberg, Poutty St -01825  01825                % 01368 RGTR--
+200417044 Kirchberg, Luxexpo Q -01827  01827                % 01368 RGTR--
+200601015 Sandweiler, Scheedbë  01835  01835                % 01368 RGTR--
+200601005 Sandweiler, Kiirch    01837  01837                % 01368 RGTR--
+200203003 Moutfort, Kapell      01843  01843                % 01368 RGTR--
+210701017 Remich, Op der Kopp   01854  01854                % 01368 RGTR--
+210701024 Remich, Schoul        01855  01855                % 01368 RGTR--
+500000046 Nennig, Zoll          01857 -01857                % 01368 RGTR--
+500000066 Sinz, Ortsmitte       01902 -01902                % 01368 RGTR--
+500000054 Oberleuken, Ortsmitt  01907 -01907                % 01368 RGTR--
+500000056 Orscholz, Sportplatz  01911 -01911                % 01368 RGTR--
+500000055 Orscholz, Cloef       01913 -01913                % 01368 RGTR--
+500000058 Orscholz, Rehaklinik  01915 -01915                % 01368 RGTR--
+500000041 Mettlach, Weisse Mar  01917 -01917                % 01368 RGTR--
+500000038 Mettlach, Keuchingen  01920 -01920                % 01368 RGTR--
+500000040 Mettlach, Schiffsanl  01921 -01921                % 01368 RGTR--
+500000039 Mettlach, Park        01922 -01922                % 01368 RGTR--
+500000034 Merzig, Stadthalle    01931 -01931                % 01368 RGTR--
+500000033 Merzig, Bahnhof       01933                       % 01368 RGTR--
+*Z 01369 RGTR--                                             % 01369 RGTR--
+*L 403      500000033 200417048  00525  00636               % 01369 RGTR--
+*R 1 200417048 500000033 200417048  00525  00636            % 01369 RGTR--
+*G 050 500000033 200417048  00525  00636                    % 01369 RGTR--
+*A VE 500000033 200417048 000034  00525  00636              % 01369 RGTR--
+*I FD 500000033 200417048        0001917  00525  00636      % 01369 RGTR--
+500000033 Merzig, Bahnhof              00525                % 01369 RGTR--
+500000034 Merzig, Stadthalle   -00528  00528                % 01369 RGTR--
+500000039 Mettlach, Park       -00536  00536                % 01369 RGTR--
+500000040 Mettlach, Schiffsanl -00537  00537                % 01369 RGTR--
+500000038 Mettlach, Keuchingen -00538  00538                % 01369 RGTR--
+500000041 Mettlach, Weisse Mar -00542  00542                % 01369 RGTR--
+500000058 Orscholz, Rehaklinik -00544  00544                % 01369 RGTR--
+500000055 Orscholz, Cloef      -00545  00545                % 01369 RGTR--
+500000056 Orscholz, Sportplatz -00547  00547                % 01369 RGTR--
+500000054 Oberleuken, Ortsmitt -00551  00551                % 01369 RGTR--
+500000066 Sinz, Ortsmitte      -00557  00557                % 01369 RGTR--
+500000046 Nennig, Zoll         -00602  00602                % 01369 RGTR--
+210701024 Remich, Schoul        00604  00604                % 01369 RGTR--
+210701017 Remich, Op der Kopp   00605  00605                % 01369 RGTR--
+200203003 Moutfort, Kapell      00617 -00617                % 01369 RGTR--
+200601005 Sandweiler, Kiirch    00621 -00621                % 01369 RGTR--
+200601015 Sandweiler, Scheedbë  00623 -00623                % 01369 RGTR--
+200417040 Kirchberg, Hugo Gern  00630 -00630                % 01369 RGTR--
+200417039 Kirchberg, Avalon     00634 -00634                % 01369 RGTR--
+200417019 Kirchberg, Konrad Ad  00635 -00635                % 01369 RGTR--
+200417005 Kirchberg, Antoine d  00636 -00636                % 01369 RGTR--
+200417048 Kirchberg, Europe Ga  00636                       % 01369 RGTR--
+*Z 01370 RGTR--                                             % 01370 RGTR--
+*L 403      500000033 200417048  01140  01251               % 01370 RGTR--
+*R 1 200417048 500000033 200417048  01140  01251            % 01370 RGTR--
+*G 050 500000033 200417048  01140  01251                    % 01370 RGTR--
+*A VE 500000033 200417048 000034  01140  01251              % 01370 RGTR--
+*I FD 500000033 200417048        0001918  01140  01251      % 01370 RGTR--
+500000033 Merzig, Bahnhof              01140                % 01370 RGTR--
+500000034 Merzig, Stadthalle   -01143  01143                % 01370 RGTR--
+500000039 Mettlach, Park       -01151  01151                % 01370 RGTR--
+500000040 Mettlach, Schiffsanl -01152  01152                % 01370 RGTR--
+500000038 Mettlach, Keuchingen -01153  01153                % 01370 RGTR--
+500000041 Mettlach, Weisse Mar -01157  01157                % 01370 RGTR--
+500000058 Orscholz, Rehaklinik -01159  01159                % 01370 RGTR--
+500000055 Orscholz, Cloef      -01200  01200                % 01370 RGTR--
+500000056 Orscholz, Sportplatz -01202  01202                % 01370 RGTR--
+500000054 Oberleuken, Ortsmitt -01206  01206                % 01370 RGTR--
+500000066 Sinz, Ortsmitte      -01212  01212                % 01370 RGTR--
+500000046 Nennig, Zoll         -01217  01217                % 01370 RGTR--
+210701024 Remich, Schoul        01219  01219                % 01370 RGTR--
+210701017 Remich, Op der Kopp   01220  01220                % 01370 RGTR--
+200203003 Moutfort, Kapell      01232 -01232                % 01370 RGTR--
+200601005 Sandweiler, Kiirch    01236 -01236                % 01370 RGTR--
+200601015 Sandweiler, Scheedbë  01238 -01238                % 01370 RGTR--
+200417040 Kirchberg, Hugo Gern  01245 -01245                % 01370 RGTR--
+200417039 Kirchberg, Avalon     01249 -01249                % 01370 RGTR--
+200417019 Kirchberg, Konrad Ad  01250 -01250                % 01370 RGTR--
+200417005 Kirchberg, Antoine d  01251 -01251                % 01370 RGTR--
+200417048 Kirchberg, Europe Ga  01251                       % 01370 RGTR--
+*Z 01371 RGTR--                                             % 01371 RGTR--
+*L 403      500000033 200417048  01625  01736               % 01371 RGTR--
+*R 1 200417048 500000033 200417048  01625  01736            % 01371 RGTR--
+*G 050 500000033 200417048  01625  01736                    % 01371 RGTR--
+*A VE 500000033 200417048 000034  01625  01736              % 01371 RGTR--
+*I FD 500000033 200417048        0001919  01625  01736      % 01371 RGTR--
+500000033 Merzig, Bahnhof              01625                % 01371 RGTR--
+500000034 Merzig, Stadthalle   -01628  01628                % 01371 RGTR--
+500000039 Mettlach, Park       -01636  01636                % 01371 RGTR--
+500000040 Mettlach, Schiffsanl -01637  01637                % 01371 RGTR--
+500000038 Mettlach, Keuchingen -01638  01638                % 01371 RGTR--
+500000041 Mettlach, Weisse Mar -01642  01642                % 01371 RGTR--
+500000058 Orscholz, Rehaklinik -01644  01644                % 01371 RGTR--
+500000055 Orscholz, Cloef      -01645  01645                % 01371 RGTR--
+500000056 Orscholz, Sportplatz -01647  01647                % 01371 RGTR--
+500000054 Oberleuken, Ortsmitt -01651  01651                % 01371 RGTR--
+500000066 Sinz, Ortsmitte      -01657  01657                % 01371 RGTR--
+500000046 Nennig, Zoll         -01702  01702                % 01371 RGTR--
+210701024 Remich, Schoul        01704  01704                % 01371 RGTR--
+210701017 Remich, Op der Kopp   01705  01705                % 01371 RGTR--
+200203003 Moutfort, Kapell      01717 -01717                % 01371 RGTR--
+200601005 Sandweiler, Kiirch    01721 -01721                % 01371 RGTR--
+200601015 Sandweiler, Scheedbë  01723 -01723                % 01371 RGTR--
+200417040 Kirchberg, Hugo Gern  01730 -01730                % 01371 RGTR--
+200417039 Kirchberg, Avalon     01734 -01734                % 01371 RGTR--
+200417019 Kirchberg, Konrad Ad  01735 -01735                % 01371 RGTR--
+200417005 Kirchberg, Antoine d  01736 -01736                % 01371 RGTR--
+200417048 Kirchberg, Europe Ga  01736                       % 01371 RGTR--
+*Z 01372 RGTR--                                             % 01372 RGTR--
+*L 403      500000033 200417048  00625  00750               % 01372 RGTR--
+*R 1 200417048 500000033 200417048  00625  00750            % 01372 RGTR--
+*G 050 500000033 200417048  00625  00750                    % 01372 RGTR--
+*A VE 500000033 200417048 000034  00625  00750              % 01372 RGTR--
+*I FD 500000033 200417048        0000819  00625  00750      % 01372 RGTR--
+500000033 Merzig, Bahnhof              00625                % 01372 RGTR--
+500000034 Merzig, Stadthalle   -00629  00629                % 01372 RGTR--
+500000039 Mettlach, Park       -00637  00637                % 01372 RGTR--
+500000040 Mettlach, Schiffsanl -00638  00638                % 01372 RGTR--
+500000038 Mettlach, Keuchingen -00639  00639                % 01372 RGTR--
+500000041 Mettlach, Weisse Mar -00643  00643                % 01372 RGTR--
+500000058 Orscholz, Rehaklinik -00646  00646                % 01372 RGTR--
+500000055 Orscholz, Cloef      -00647  00647                % 01372 RGTR--
+500000056 Orscholz, Sportplatz -00649  00649                % 01372 RGTR--
+500000054 Oberleuken, Ortsmitt -00653  00653                % 01372 RGTR--
+500000066 Sinz, Ortsmitte      -00659  00659                % 01372 RGTR--
+500000046 Nennig, Zoll         -00704  00704                % 01372 RGTR--
+210701024 Remich, Schoul        00706  00706                % 01372 RGTR--
+210701017 Remich, Op der Kopp   00707  00707                % 01372 RGTR--
+200203003 Moutfort, Kapell      00724 -00724                % 01372 RGTR--
+200601005 Sandweiler, Kiirch    00728 -00728                % 01372 RGTR--
+200601015 Sandweiler, Scheedbë  00732 -00732                % 01372 RGTR--
+200417040 Kirchberg, Hugo Gern  00743 -00743                % 01372 RGTR--
+200417039 Kirchberg, Avalon     00746 -00746                % 01372 RGTR--
+200417019 Kirchberg, Konrad Ad  00747 -00747                % 01372 RGTR--
+200417005 Kirchberg, Antoine d  00749 -00749                % 01372 RGTR--
+200417048 Kirchberg, Europe Ga  00750                       % 01372 RGTR--
+*Z 01373 RGTR--                                             % 01373 RGTR--
+*L 403      500000033 200417048  00655  00820               % 01373 RGTR--
+*R 1 200417048 500000033 200417048  00655  00820            % 01373 RGTR--
+*G 050 500000033 200417048  00655  00820                    % 01373 RGTR--
+*A VE 500000033 200417048 000034  00655  00820              % 01373 RGTR--
+*I FD 500000033 200417048        0001920  00655  00820      % 01373 RGTR--
+500000033 Merzig, Bahnhof              00655                % 01373 RGTR--
+500000034 Merzig, Stadthalle   -00659  00659                % 01373 RGTR--
+500000039 Mettlach, Park       -00707  00707                % 01373 RGTR--
+500000040 Mettlach, Schiffsanl -00708  00708                % 01373 RGTR--
+500000038 Mettlach, Keuchingen -00709  00709                % 01373 RGTR--
+500000041 Mettlach, Weisse Mar -00713  00713                % 01373 RGTR--
+500000058 Orscholz, Rehaklinik -00716  00716                % 01373 RGTR--
+500000055 Orscholz, Cloef      -00717  00717                % 01373 RGTR--
+500000056 Orscholz, Sportplatz -00719  00719                % 01373 RGTR--
+500000054 Oberleuken, Ortsmitt -00723  00723                % 01373 RGTR--
+500000066 Sinz, Ortsmitte      -00729  00729                % 01373 RGTR--
+500000046 Nennig, Zoll         -00734  00734                % 01373 RGTR--
+210701024 Remich, Schoul        00736  00736                % 01373 RGTR--
+210701017 Remich, Op der Kopp   00737  00737                % 01373 RGTR--
+200203003 Moutfort, Kapell      00754 -00754                % 01373 RGTR--
+200601005 Sandweiler, Kiirch    00758 -00758                % 01373 RGTR--
+200601015 Sandweiler, Scheedbë  00802 -00802                % 01373 RGTR--
+200417040 Kirchberg, Hugo Gern  00813 -00813                % 01373 RGTR--
+200417039 Kirchberg, Avalon     00816 -00816                % 01373 RGTR--
+200417019 Kirchberg, Konrad Ad  00817 -00817                % 01373 RGTR--
+200417005 Kirchberg, Antoine d  00819 -00819                % 01373 RGTR--
+200417048 Kirchberg, Europe Ga  00820                       % 01373 RGTR--
+*Z 01374 RGTR--                                             % 01374 RGTR--
+*L 403      500000033 200417048  00725  00850               % 01374 RGTR--
+*R 1 200417048 500000033 200417048  00725  00850            % 01374 RGTR--
+*G 050 500000033 200417048  00725  00850                    % 01374 RGTR--
+*A VE 500000033 200417048 000034  00725  00850              % 01374 RGTR--
+*I FD 500000033 200417048        0001921  00725  00850      % 01374 RGTR--
+500000033 Merzig, Bahnhof              00725                % 01374 RGTR--
+500000034 Merzig, Stadthalle   -00729  00729                % 01374 RGTR--
+500000039 Mettlach, Park       -00737  00737                % 01374 RGTR--
+500000040 Mettlach, Schiffsanl -00738  00738                % 01374 RGTR--
+500000038 Mettlach, Keuchingen -00739  00739                % 01374 RGTR--
+500000041 Mettlach, Weisse Mar -00743  00743                % 01374 RGTR--
+500000058 Orscholz, Rehaklinik -00746  00746                % 01374 RGTR--
+500000055 Orscholz, Cloef      -00747  00747                % 01374 RGTR--
+500000056 Orscholz, Sportplatz -00749  00749                % 01374 RGTR--
+500000054 Oberleuken, Ortsmitt -00753  00753                % 01374 RGTR--
+500000066 Sinz, Ortsmitte      -00759  00759                % 01374 RGTR--
+500000046 Nennig, Zoll         -00804  00804                % 01374 RGTR--
+210701024 Remich, Schoul        00806  00806                % 01374 RGTR--
+210701017 Remich, Op der Kopp   00807  00807                % 01374 RGTR--
+200203003 Moutfort, Kapell      00824 -00824                % 01374 RGTR--
+200601005 Sandweiler, Kiirch    00828 -00828                % 01374 RGTR--
+200601015 Sandweiler, Scheedbë  00832 -00832                % 01374 RGTR--
+200417040 Kirchberg, Hugo Gern  00843 -00843                % 01374 RGTR--
+200417039 Kirchberg, Avalon     00846 -00846                % 01374 RGTR--
+200417019 Kirchberg, Konrad Ad  00847 -00847                % 01374 RGTR--
+200417005 Kirchberg, Antoine d  00849 -00849                % 01374 RGTR--
+200417048 Kirchberg, Europe Ga  00850                       % 01374 RGTR--
+*Z 01375 RGTR--                                             % 01375 RGTR--
+*L 403      500000033 200417048  00825  00950               % 01375 RGTR--
+*R 1 200417048 500000033 200417048  00825  00950            % 01375 RGTR--
+*G 050 500000033 200417048  00825  00950                    % 01375 RGTR--
+*A VE 500000033 200417048 000034  00825  00950              % 01375 RGTR--
+*I FD 500000033 200417048        0000908  00825  00950      % 01375 RGTR--
+500000033 Merzig, Bahnhof              00825                % 01375 RGTR--
+500000034 Merzig, Stadthalle   -00829  00829                % 01375 RGTR--
+500000039 Mettlach, Park       -00837  00837                % 01375 RGTR--
+500000040 Mettlach, Schiffsanl -00838  00838                % 01375 RGTR--
+500000038 Mettlach, Keuchingen -00839  00839                % 01375 RGTR--
+500000041 Mettlach, Weisse Mar -00843  00843                % 01375 RGTR--
+500000058 Orscholz, Rehaklinik -00846  00846                % 01375 RGTR--
+500000055 Orscholz, Cloef      -00847  00847                % 01375 RGTR--
+500000056 Orscholz, Sportplatz -00849  00849                % 01375 RGTR--
+500000054 Oberleuken, Ortsmitt -00853  00853                % 01375 RGTR--
+500000066 Sinz, Ortsmitte      -00859  00859                % 01375 RGTR--
+500000046 Nennig, Zoll         -00904  00904                % 01375 RGTR--
+210701024 Remich, Schoul        00906  00906                % 01375 RGTR--
+210701017 Remich, Op der Kopp   00907  00907                % 01375 RGTR--
+200203003 Moutfort, Kapell      00924 -00924                % 01375 RGTR--
+200601005 Sandweiler, Kiirch    00928 -00928                % 01375 RGTR--
+200601015 Sandweiler, Scheedbë  00932 -00932                % 01375 RGTR--
+200417040 Kirchberg, Hugo Gern  00943 -00943                % 01375 RGTR--
+200417039 Kirchberg, Avalon     00946 -00946                % 01375 RGTR--
+200417019 Kirchberg, Konrad Ad  00947 -00947                % 01375 RGTR--
+200417005 Kirchberg, Antoine d  00949 -00949                % 01375 RGTR--
+200417048 Kirchberg, Europe Ga  00950                       % 01375 RGTR--
+*Z 01376 RGTR--                                             % 01376 RGTR--
+*L 403      200417048 500000033  01320  01425               % 01376 RGTR--
+*R 2 500000033 200417048 500000033  01320  01425            % 01376 RGTR--
+*G 050 200417048 500000033  01320  01425                    % 01376 RGTR--
+*A VE 200417048 500000033 000034  01320  01425              % 01376 RGTR--
+*I FD 200417048 500000033        0001922  01320  01425      % 01376 RGTR--
+200417048 Kirchberg, Europe Ga         01320                % 01376 RGTR--
+200417005 Kirchberg, Antoine d -01320  01320                % 01376 RGTR--
+200417019 Kirchberg, Konrad Ad -01321  01321                % 01376 RGTR--
+200417039 Kirchberg, Avalon    -01322  01322                % 01376 RGTR--
+200417033 Kirchberg, Poutty St -01324  01324                % 01376 RGTR--
+200417044 Kirchberg, Luxexpo Q -01326  01326                % 01376 RGTR--
+200601015 Sandweiler, Scheedbë  01332  01332                % 01376 RGTR--
+200601005 Sandweiler, Kiirch    01334  01334                % 01376 RGTR--
+200203003 Moutfort, Kapell      01339  01339                % 01376 RGTR--
+210701017 Remich, Op der Kopp   01348  01348                % 01376 RGTR--
+210701024 Remich, Schoul        01349  01349                % 01376 RGTR--
+500000046 Nennig, Zoll          01351 -01351                % 01376 RGTR--
+500000066 Sinz, Ortsmitte       01355 -01355                % 01376 RGTR--
+500000054 Oberleuken, Ortsmitt  01400 -01400                % 01376 RGTR--
+500000056 Orscholz, Sportplatz  01404 -01404                % 01376 RGTR--
+500000055 Orscholz, Cloef       01406 -01406                % 01376 RGTR--
+500000058 Orscholz, Rehaklinik  01407 -01407                % 01376 RGTR--
+500000041 Mettlach, Weisse Mar  01410 -01410                % 01376 RGTR--
+500000038 Mettlach, Keuchingen  01413 -01413                % 01376 RGTR--
+500000040 Mettlach, Schiffsanl  01414 -01414                % 01376 RGTR--
+500000039 Mettlach, Park        01415 -01415                % 01376 RGTR--
+500000034 Merzig, Stadthalle    01423 -01423                % 01376 RGTR--
+500000033 Merzig, Bahnhof       01425                       % 01376 RGTR--
+*Z 01377 RGTR--                                             % 01377 RGTR--
+*L 403      200417048 500000033  01920  02025               % 01377 RGTR--
+*R 2 500000033 200417048 500000033  01920  02025            % 01377 RGTR--
+*G 050 200417048 500000033  01920  02025                    % 01377 RGTR--
+*A VE 200417048 500000033 000034  01920  02025              % 01377 RGTR--
+*I FD 200417048 500000033        0001923  01920  02025      % 01377 RGTR--
+200417048 Kirchberg, Europe Ga         01920                % 01377 RGTR--
+200417005 Kirchberg, Antoine d -01920  01920                % 01377 RGTR--
+200417019 Kirchberg, Konrad Ad -01921  01921                % 01377 RGTR--
+200417039 Kirchberg, Avalon    -01922  01922                % 01377 RGTR--
+200417033 Kirchberg, Poutty St -01924  01924                % 01377 RGTR--
+200417044 Kirchberg, Luxexpo Q -01926  01926                % 01377 RGTR--
+200601015 Sandweiler, Scheedbë  01932  01932                % 01377 RGTR--
+200601005 Sandweiler, Kiirch    01934  01934                % 01377 RGTR--
+200203003 Moutfort, Kapell      01939  01939                % 01377 RGTR--
+210701017 Remich, Op der Kopp   01948  01948                % 01377 RGTR--
+210701024 Remich, Schoul        01949  01949                % 01377 RGTR--
+500000046 Nennig, Zoll          01951 -01951                % 01377 RGTR--
+500000066 Sinz, Ortsmitte       01955 -01955                % 01377 RGTR--
+500000054 Oberleuken, Ortsmitt  02000 -02000                % 01377 RGTR--
+500000056 Orscholz, Sportplatz  02004 -02004                % 01377 RGTR--
+500000055 Orscholz, Cloef       02006 -02006                % 01377 RGTR--
+500000058 Orscholz, Rehaklinik  02007 -02007                % 01377 RGTR--
+500000041 Mettlach, Weisse Mar  02010 -02010                % 01377 RGTR--
+500000038 Mettlach, Keuchingen  02013 -02013                % 01377 RGTR--
+500000040 Mettlach, Schiffsanl  02014 -02014                % 01377 RGTR--
+500000039 Mettlach, Park        02015 -02015                % 01377 RGTR--
+500000034 Merzig, Stadthalle    02023 -02023                % 01377 RGTR--
+500000033 Merzig, Bahnhof       02025                       % 01377 RGTR--
+*Z 01378 RGTR--                                             % 01378 RGTR--
+*L 403      200417048 500000033  01620  01733               % 01378 RGTR--
+*R 2 500000033 200417048 500000033  01620  01733            % 01378 RGTR--
+*G 050 200417048 500000033  01620  01733                    % 01378 RGTR--
+*A VE 200417048 500000033 000034  01620  01733              % 01378 RGTR--
+*I FD 200417048 500000033        0001924  01620  01733      % 01378 RGTR--
+200417048 Kirchberg, Europe Ga         01620                % 01378 RGTR--
+200417005 Kirchberg, Antoine d -01621  01621                % 01378 RGTR--
+200417019 Kirchberg, Konrad Ad -01622  01622                % 01378 RGTR--
+200417039 Kirchberg, Avalon    -01623  01623                % 01378 RGTR--
+200417033 Kirchberg, Poutty St -01625  01625                % 01378 RGTR--
+200417044 Kirchberg, Luxexpo Q -01627  01627                % 01378 RGTR--
+200601015 Sandweiler, Scheedbë  01635  01635                % 01378 RGTR--
+200601005 Sandweiler, Kiirch    01637  01637                % 01378 RGTR--
+200203003 Moutfort, Kapell      01643  01643                % 01378 RGTR--
+210701017 Remich, Op der Kopp   01654  01654                % 01378 RGTR--
+210701024 Remich, Schoul        01655  01655                % 01378 RGTR--
+500000046 Nennig, Zoll          01657 -01657                % 01378 RGTR--
+500000066 Sinz, Ortsmitte       01702 -01702                % 01378 RGTR--
+500000054 Oberleuken, Ortsmitt  01707 -01707                % 01378 RGTR--
+500000056 Orscholz, Sportplatz  01711 -01711                % 01378 RGTR--
+500000055 Orscholz, Cloef       01713 -01713                % 01378 RGTR--
+500000058 Orscholz, Rehaklinik  01715 -01715                % 01378 RGTR--
+500000041 Mettlach, Weisse Mar  01717 -01717                % 01378 RGTR--
+500000038 Mettlach, Keuchingen  01720 -01720                % 01378 RGTR--
+500000040 Mettlach, Schiffsanl  01721 -01721                % 01378 RGTR--
+500000039 Mettlach, Park        01722 -01722                % 01378 RGTR--
+500000034 Merzig, Stadthalle    01731 -01731                % 01378 RGTR--
+500000033 Merzig, Bahnhof       01733                       % 01378 RGTR--
+*Z 01379 RGTR--                                             % 01379 RGTR--
+*L 403      200417048 500000033  01650  01803               % 01379 RGTR--
+*R 2 500000033 200417048 500000033  01650  01803            % 01379 RGTR--
+*G 050 200417048 500000033  01650  01803                    % 01379 RGTR--
+*A VE 200417048 500000033 000034  01650  01803              % 01379 RGTR--
+*I FD 200417048 500000033        0001279  01650  01803      % 01379 RGTR--
+200417048 Kirchberg, Europe Ga         01650                % 01379 RGTR--
+200417005 Kirchberg, Antoine d -01651  01651                % 01379 RGTR--
+200417019 Kirchberg, Konrad Ad -01652  01652                % 01379 RGTR--
+200417039 Kirchberg, Avalon    -01653  01653                % 01379 RGTR--
+200417033 Kirchberg, Poutty St -01655  01655                % 01379 RGTR--
+200417044 Kirchberg, Luxexpo Q -01657  01657                % 01379 RGTR--
+200601015 Sandweiler, Scheedbë  01705  01705                % 01379 RGTR--
+200601005 Sandweiler, Kiirch    01707  01707                % 01379 RGTR--
+200203003 Moutfort, Kapell      01713  01713                % 01379 RGTR--
+210701017 Remich, Op der Kopp   01724  01724                % 01379 RGTR--
+210701024 Remich, Schoul        01725  01725                % 01379 RGTR--
+500000046 Nennig, Zoll          01727 -01727                % 01379 RGTR--
+500000066 Sinz, Ortsmitte       01732 -01732                % 01379 RGTR--
+500000054 Oberleuken, Ortsmitt  01737 -01737                % 01379 RGTR--
+500000056 Orscholz, Sportplatz  01741 -01741                % 01379 RGTR--
+500000055 Orscholz, Cloef       01743 -01743                % 01379 RGTR--
+500000058 Orscholz, Rehaklinik  01745 -01745                % 01379 RGTR--
+500000041 Mettlach, Weisse Mar  01747 -01747                % 01379 RGTR--
+500000038 Mettlach, Keuchingen  01750 -01750                % 01379 RGTR--
+500000040 Mettlach, Schiffsanl  01751 -01751                % 01379 RGTR--
+500000039 Mettlach, Park        01752 -01752                % 01379 RGTR--
+500000034 Merzig, Stadthalle    01801 -01801                % 01379 RGTR--
+500000033 Merzig, Bahnhof       01803                       % 01379 RGTR--
+*Z 01380 RGTR--                                             % 01380 RGTR--
+*L 403      200417048 500000033  01720  01833               % 01380 RGTR--
+*R 2 500000033 200417048 500000033  01720  01833            % 01380 RGTR--
+*G 050 200417048 500000033  01720  01833                    % 01380 RGTR--
+*A VE 200417048 500000033 000034  01720  01833              % 01380 RGTR--
+*I FD 200417048 500000033        0001925  01720  01833      % 01380 RGTR--
+200417048 Kirchberg, Europe Ga         01720                % 01380 RGTR--
+200417005 Kirchberg, Antoine d -01721  01721                % 01380 RGTR--
+200417019 Kirchberg, Konrad Ad -01722  01722                % 01380 RGTR--
+200417039 Kirchberg, Avalon    -01723  01723                % 01380 RGTR--
+200417033 Kirchberg, Poutty St -01725  01725                % 01380 RGTR--
+200417044 Kirchberg, Luxexpo Q -01727  01727                % 01380 RGTR--
+200601015 Sandweiler, Scheedbë  01735  01735                % 01380 RGTR--
+200601005 Sandweiler, Kiirch    01737  01737                % 01380 RGTR--
+200203003 Moutfort, Kapell      01743  01743                % 01380 RGTR--
+210701017 Remich, Op der Kopp   01754  01754                % 01380 RGTR--
+210701024 Remich, Schoul        01755  01755                % 01380 RGTR--
+500000046 Nennig, Zoll          01757 -01757                % 01380 RGTR--
+500000066 Sinz, Ortsmitte       01802 -01802                % 01380 RGTR--
+500000054 Oberleuken, Ortsmitt  01807 -01807                % 01380 RGTR--
+500000056 Orscholz, Sportplatz  01811 -01811                % 01380 RGTR--
+500000055 Orscholz, Cloef       01813 -01813                % 01380 RGTR--
+500000058 Orscholz, Rehaklinik  01815 -01815                % 01380 RGTR--
+500000041 Mettlach, Weisse Mar  01817 -01817                % 01380 RGTR--
+500000038 Mettlach, Keuchingen  01820 -01820                % 01380 RGTR--
+500000040 Mettlach, Schiffsanl  01821 -01821                % 01380 RGTR--
+500000039 Mettlach, Park        01822 -01822                % 01380 RGTR--
+500000034 Merzig, Stadthalle    01831 -01831                % 01380 RGTR--
+500000033 Merzig, Bahnhof       01833                       % 01380 RGTR--
+*Z 01381 RGTR--                                             % 01381 RGTR--
+*L 403      200417048 500000033  01750  01903               % 01381 RGTR--
+*R 2 500000033 200417048 500000033  01750  01903            % 01381 RGTR--
+*G 050 200417048 500000033  01750  01903                    % 01381 RGTR--
+*A VE 200417048 500000033 000034  01750  01903              % 01381 RGTR--
+*I FD 200417048 500000033        0001915  01750  01903      % 01381 RGTR--
+200417048 Kirchberg, Europe Ga         01750                % 01381 RGTR--
+200417005 Kirchberg, Antoine d -01751  01751                % 01381 RGTR--
+200417019 Kirchberg, Konrad Ad -01752  01752                % 01381 RGTR--
+200417039 Kirchberg, Avalon    -01753  01753                % 01381 RGTR--
+200417033 Kirchberg, Poutty St -01755  01755                % 01381 RGTR--
+200417044 Kirchberg, Luxexpo Q -01757  01757                % 01381 RGTR--
+200601015 Sandweiler, Scheedbë  01805  01805                % 01381 RGTR--
+200601005 Sandweiler, Kiirch    01807  01807                % 01381 RGTR--
+200203003 Moutfort, Kapell      01813  01813                % 01381 RGTR--
+210701017 Remich, Op der Kopp   01824  01824                % 01381 RGTR--
+210701024 Remich, Schoul        01825  01825                % 01381 RGTR--
+500000046 Nennig, Zoll          01827 -01827                % 01381 RGTR--
+500000066 Sinz, Ortsmitte       01832 -01832                % 01381 RGTR--
+500000054 Oberleuken, Ortsmitt  01837 -01837                % 01381 RGTR--
+500000056 Orscholz, Sportplatz  01841 -01841                % 01381 RGTR--
+500000055 Orscholz, Cloef       01843 -01843                % 01381 RGTR--
+500000058 Orscholz, Rehaklinik  01845 -01845                % 01381 RGTR--
+500000041 Mettlach, Weisse Mar  01847 -01847                % 01381 RGTR--
+500000038 Mettlach, Keuchingen  01850 -01850                % 01381 RGTR--
+500000040 Mettlach, Schiffsanl  01851 -01851                % 01381 RGTR--
+500000039 Mettlach, Park        01852 -01852                % 01381 RGTR--
+500000034 Merzig, Stadthalle    01901 -01901                % 01381 RGTR--
+500000033 Merzig, Bahnhof       01903                       % 01381 RGTR--
+*Z 01382 RGTR--                                             % 01382 RGTR--
+*L 403      200417048 500000033  01820  01933               % 01382 RGTR--
+*R 2 500000033 200417048 500000033  01820  01933            % 01382 RGTR--
+*G 050 200417048 500000033  01820  01933                    % 01382 RGTR--
+*A VE 200417048 500000033 000034  01820  01933              % 01382 RGTR--
+*I FD 200417048 500000033        0001926  01820  01933      % 01382 RGTR--
+200417048 Kirchberg, Europe Ga         01820                % 01382 RGTR--
+200417005 Kirchberg, Antoine d -01821  01821                % 01382 RGTR--
+200417019 Kirchberg, Konrad Ad -01822  01822                % 01382 RGTR--
+200417039 Kirchberg, Avalon    -01823  01823                % 01382 RGTR--
+200417033 Kirchberg, Poutty St -01825  01825                % 01382 RGTR--
+200417044 Kirchberg, Luxexpo Q -01827  01827                % 01382 RGTR--
+200601015 Sandweiler, Scheedbë  01835  01835                % 01382 RGTR--
+200601005 Sandweiler, Kiirch    01837  01837                % 01382 RGTR--
+200203003 Moutfort, Kapell      01843  01843                % 01382 RGTR--
+210701017 Remich, Op der Kopp   01854  01854                % 01382 RGTR--
+210701024 Remich, Schoul        01855  01855                % 01382 RGTR--
+500000046 Nennig, Zoll          01857 -01857                % 01382 RGTR--
+500000066 Sinz, Ortsmitte       01902 -01902                % 01382 RGTR--
+500000054 Oberleuken, Ortsmitt  01907 -01907                % 01382 RGTR--
+500000056 Orscholz, Sportplatz  01911 -01911                % 01382 RGTR--
+500000055 Orscholz, Cloef       01913 -01913                % 01382 RGTR--
+500000058 Orscholz, Rehaklinik  01915 -01915                % 01382 RGTR--
+500000041 Mettlach, Weisse Mar  01917 -01917                % 01382 RGTR--
+500000038 Mettlach, Keuchingen  01920 -01920                % 01382 RGTR--
+500000040 Mettlach, Schiffsanl  01921 -01921                % 01382 RGTR--
+500000039 Mettlach, Park        01922 -01922                % 01382 RGTR--
+500000034 Merzig, Stadthalle    01931 -01931                % 01382 RGTR--
+500000033 Merzig, Bahnhof       01933                       % 01382 RGTR--

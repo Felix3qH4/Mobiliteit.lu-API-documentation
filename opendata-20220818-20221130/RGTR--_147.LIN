@@ -1,0 +1,2413 @@
+*F 03 2
+*Z 11733 RGTR--                                             % 11733 RGTR--
+*L 147      120903023 140304001  00743  00821               % 11733 RGTR--
+*R 1 140304001 120903023 140304001  00743  00821            % 11733 RGTR--
+*G 010 120903023 140304001  00743  00821                    % 11733 RGTR--
+*A VE 120903023 140304001 000039  00743  00821              % 11733 RGTR--
+*I FD 120903023 140304001        0003092  00743  00821      % 11733 RGTR--
+120903023 Wiltz, Lycée du Nord         00743                % 11733 RGTR--
+120903021 Wiltz, Lann           00745  00745                % 11733 RGTR--
+120903008 Wiltz, Pompjeesbau    00746  00746                % 11733 RGTR--
+120903039 Wiltz, Schwemm        00746  00746                % 11733 RGTR--
+120903031 Wiltz, Huuschtewee/P  00748  00748                % 11733 RGTR--
+120903035 Wiltz, Huuschtewee    00749  00749                % 11733 RGTR--
+120903011 Wiltz, Clinique       00750  00750                % 11733 RGTR--
+120903006 Wiltz, Brandbau       00751  00751                % 11733 RGTR--
+120903005 Wiltz, Belle Vue      00751  00751                % 11733 RGTR--
+120903019 Wiltz, Bastnacherstr  00753  00753                % 11733 RGTR--
+120901001 Roullingen, Chalets   00754  00754                % 11733 RGTR--
+120901003 Roullingen, Réimerwe  00755  00755                % 11733 RGTR--
+120901002 Roullingen, Am Duerf  00756  00756                % 11733 RGTR--
+120406002 Nocher-Route, Trin    00800  00800                % 11733 RGTR--
+120406003 Nocher-Route, An der  00800  00800                % 11733 RGTR--
+120406001 Nocher-Route, Zenner  00801  00801                % 11733 RGTR--
+120406005 Nocher, Um Knupp      00802  00802                % 11733 RGTR--
+120406004 Nocher, Schoul        00803  00803                % 11733 RGTR--
+120406006 Nocher, Welscheedgen  00803  00803                % 11733 RGTR--
+120403001 Dahl, Ale Wee         00805  00805                % 11733 RGTR--
+120403002 Dahl, Masselerstroos  00805  00805                % 11733 RGTR--
+120403003 Dahl, Al Molkerei     00806  00806                % 11733 RGTR--
+120403004 Dahl, Waassertuurm    00807  00807                % 11733 RGTR--
+120404002 Goesdorf, Maeschgaar  00809  00809                % 11733 RGTR--
+120404003 Goesdorf, Pompjeën    00809  00809                % 11733 RGTR--
+120404001 Goesdorf, Gemeng      00810  00810                % 11733 RGTR--
+120401001 Bockholtz/Wiltz       00814  00814                % 11733 RGTR--
+120401002 Bockholtz/Wiltz, Op   00815  00815                % 11733 RGTR--
+140304001 Goebelsmühle, Gare r  00821                       % 11733 RGTR--
+*Z 11734 RGTR--                                             % 11734 RGTR--
+*L 147      120903023 140304001  00943  01021               % 11734 RGTR--
+*R 1 140304001 120903023 140304001  00943  01021            % 11734 RGTR--
+*G 010 120903023 140304001  00943  01021                    % 11734 RGTR--
+*A VE 120903023 140304001 000039  00943  01021              % 11734 RGTR--
+*I FD 120903023 140304001        0003093  00943  01021      % 11734 RGTR--
+120903023 Wiltz, Lycée du Nord         00943                % 11734 RGTR--
+120903021 Wiltz, Lann           00945  00945                % 11734 RGTR--
+120903008 Wiltz, Pompjeesbau    00946  00946                % 11734 RGTR--
+120903039 Wiltz, Schwemm        00946  00946                % 11734 RGTR--
+120903031 Wiltz, Huuschtewee/P  00948  00948                % 11734 RGTR--
+120903035 Wiltz, Huuschtewee    00949  00949                % 11734 RGTR--
+120903011 Wiltz, Clinique       00950  00950                % 11734 RGTR--
+120903006 Wiltz, Brandbau       00951  00951                % 11734 RGTR--
+120903005 Wiltz, Belle Vue      00951  00951                % 11734 RGTR--
+120903019 Wiltz, Bastnacherstr  00953  00953                % 11734 RGTR--
+120901001 Roullingen, Chalets   00954  00954                % 11734 RGTR--
+120901003 Roullingen, Réimerwe  00955  00955                % 11734 RGTR--
+120901002 Roullingen, Am Duerf  00956  00956                % 11734 RGTR--
+120406002 Nocher-Route, Trin    01000  01000                % 11734 RGTR--
+120406003 Nocher-Route, An der  01000  01000                % 11734 RGTR--
+120406001 Nocher-Route, Zenner  01001  01001                % 11734 RGTR--
+120406005 Nocher, Um Knupp      01002  01002                % 11734 RGTR--
+120406004 Nocher, Schoul        01003  01003                % 11734 RGTR--
+120406006 Nocher, Welscheedgen  01003  01003                % 11734 RGTR--
+120403001 Dahl, Ale Wee         01005  01005                % 11734 RGTR--
+120403002 Dahl, Masselerstroos  01005  01005                % 11734 RGTR--
+120403003 Dahl, Al Molkerei     01006  01006                % 11734 RGTR--
+120403004 Dahl, Waassertuurm    01007  01007                % 11734 RGTR--
+120404002 Goesdorf, Maeschgaar  01009  01009                % 11734 RGTR--
+120404003 Goesdorf, Pompjeën    01009  01009                % 11734 RGTR--
+120404001 Goesdorf, Gemeng      01010  01010                % 11734 RGTR--
+120401001 Bockholtz/Wiltz       01014  01014                % 11734 RGTR--
+120401002 Bockholtz/Wiltz, Op   01015  01015                % 11734 RGTR--
+140304001 Goebelsmühle, Gare r  01021                       % 11734 RGTR--
+*Z 11735 RGTR--                                             % 11735 RGTR--
+*L 147      120903023 140304001  01143  01221               % 11735 RGTR--
+*R 1 140304001 120903023 140304001  01143  01221            % 11735 RGTR--
+*G 010 120903023 140304001  01143  01221                    % 11735 RGTR--
+*A VE 120903023 140304001 000039  01143  01221              % 11735 RGTR--
+*I FD 120903023 140304001        0003094  01143  01221      % 11735 RGTR--
+120903023 Wiltz, Lycée du Nord         01143                % 11735 RGTR--
+120903021 Wiltz, Lann           01145  01145                % 11735 RGTR--
+120903008 Wiltz, Pompjeesbau    01146  01146                % 11735 RGTR--
+120903039 Wiltz, Schwemm        01146  01146                % 11735 RGTR--
+120903031 Wiltz, Huuschtewee/P  01148  01148                % 11735 RGTR--
+120903035 Wiltz, Huuschtewee    01149  01149                % 11735 RGTR--
+120903011 Wiltz, Clinique       01150  01150                % 11735 RGTR--
+120903006 Wiltz, Brandbau       01151  01151                % 11735 RGTR--
+120903005 Wiltz, Belle Vue      01151  01151                % 11735 RGTR--
+120903019 Wiltz, Bastnacherstr  01153  01153                % 11735 RGTR--
+120901001 Roullingen, Chalets   01154  01154                % 11735 RGTR--
+120901003 Roullingen, Réimerwe  01155  01155                % 11735 RGTR--
+120901002 Roullingen, Am Duerf  01156  01156                % 11735 RGTR--
+120406002 Nocher-Route, Trin    01200  01200                % 11735 RGTR--
+120406003 Nocher-Route, An der  01200  01200                % 11735 RGTR--
+120406001 Nocher-Route, Zenner  01201  01201                % 11735 RGTR--
+120406005 Nocher, Um Knupp      01202  01202                % 11735 RGTR--
+120406004 Nocher, Schoul        01203  01203                % 11735 RGTR--
+120406006 Nocher, Welscheedgen  01203  01203                % 11735 RGTR--
+120403001 Dahl, Ale Wee         01205  01205                % 11735 RGTR--
+120403002 Dahl, Masselerstroos  01205  01205                % 11735 RGTR--
+120403003 Dahl, Al Molkerei     01206  01206                % 11735 RGTR--
+120403004 Dahl, Waassertuurm    01207  01207                % 11735 RGTR--
+120404002 Goesdorf, Maeschgaar  01209  01209                % 11735 RGTR--
+120404003 Goesdorf, Pompjeën    01209  01209                % 11735 RGTR--
+120404001 Goesdorf, Gemeng      01210  01210                % 11735 RGTR--
+120401001 Bockholtz/Wiltz       01214  01214                % 11735 RGTR--
+120401002 Bockholtz/Wiltz, Op   01215  01215                % 11735 RGTR--
+140304001 Goebelsmühle, Gare r  01221                       % 11735 RGTR--
+*Z 11736 RGTR--                                             % 11736 RGTR--
+*L 147      120903023 140304001  01343  01421               % 11736 RGTR--
+*R 1 140304001 120903023 140304001  01343  01421            % 11736 RGTR--
+*G 010 120903023 140304001  01343  01421                    % 11736 RGTR--
+*A VE 120903023 140304001 000039  01343  01421              % 11736 RGTR--
+*I FD 120903023 140304001        0003095  01343  01421      % 11736 RGTR--
+120903023 Wiltz, Lycée du Nord         01343                % 11736 RGTR--
+120903021 Wiltz, Lann           01345  01345                % 11736 RGTR--
+120903008 Wiltz, Pompjeesbau    01346  01346                % 11736 RGTR--
+120903039 Wiltz, Schwemm        01346  01346                % 11736 RGTR--
+120903031 Wiltz, Huuschtewee/P  01348  01348                % 11736 RGTR--
+120903035 Wiltz, Huuschtewee    01349  01349                % 11736 RGTR--
+120903011 Wiltz, Clinique       01350  01350                % 11736 RGTR--
+120903006 Wiltz, Brandbau       01351  01351                % 11736 RGTR--
+120903005 Wiltz, Belle Vue      01351  01351                % 11736 RGTR--
+120903019 Wiltz, Bastnacherstr  01353  01353                % 11736 RGTR--
+120901001 Roullingen, Chalets   01354  01354                % 11736 RGTR--
+120901003 Roullingen, Réimerwe  01355  01355                % 11736 RGTR--
+120901002 Roullingen, Am Duerf  01356  01356                % 11736 RGTR--
+120406002 Nocher-Route, Trin    01400  01400                % 11736 RGTR--
+120406003 Nocher-Route, An der  01400  01400                % 11736 RGTR--
+120406001 Nocher-Route, Zenner  01401  01401                % 11736 RGTR--
+120406005 Nocher, Um Knupp      01402  01402                % 11736 RGTR--
+120406004 Nocher, Schoul        01403  01403                % 11736 RGTR--
+120406006 Nocher, Welscheedgen  01403  01403                % 11736 RGTR--
+120403001 Dahl, Ale Wee         01405  01405                % 11736 RGTR--
+120403002 Dahl, Masselerstroos  01405  01405                % 11736 RGTR--
+120403003 Dahl, Al Molkerei     01406  01406                % 11736 RGTR--
+120403004 Dahl, Waassertuurm    01407  01407                % 11736 RGTR--
+120404002 Goesdorf, Maeschgaar  01409  01409                % 11736 RGTR--
+120404003 Goesdorf, Pompjeën    01409  01409                % 11736 RGTR--
+120404001 Goesdorf, Gemeng      01410  01410                % 11736 RGTR--
+120401001 Bockholtz/Wiltz       01414  01414                % 11736 RGTR--
+120401002 Bockholtz/Wiltz, Op   01415  01415                % 11736 RGTR--
+140304001 Goebelsmühle, Gare r  01421                       % 11736 RGTR--
+*Z 11737 RGTR--                                             % 11737 RGTR--
+*L 147      120903023 140304001  01543  01621               % 11737 RGTR--
+*R 1 140304001 120903023 140304001  01543  01621            % 11737 RGTR--
+*G 010 120903023 140304001  01543  01621                    % 11737 RGTR--
+*A VE 120903023 140304001 000039  01543  01621              % 11737 RGTR--
+*I FD 120903023 140304001        0003096  01543  01621      % 11737 RGTR--
+120903023 Wiltz, Lycée du Nord         01543                % 11737 RGTR--
+120903021 Wiltz, Lann           01545  01545                % 11737 RGTR--
+120903008 Wiltz, Pompjeesbau    01546  01546                % 11737 RGTR--
+120903039 Wiltz, Schwemm        01546  01546                % 11737 RGTR--
+120903031 Wiltz, Huuschtewee/P  01548  01548                % 11737 RGTR--
+120903035 Wiltz, Huuschtewee    01549  01549                % 11737 RGTR--
+120903011 Wiltz, Clinique       01550  01550                % 11737 RGTR--
+120903006 Wiltz, Brandbau       01551  01551                % 11737 RGTR--
+120903005 Wiltz, Belle Vue      01551  01551                % 11737 RGTR--
+120903019 Wiltz, Bastnacherstr  01553  01553                % 11737 RGTR--
+120901001 Roullingen, Chalets   01554  01554                % 11737 RGTR--
+120901003 Roullingen, Réimerwe  01555  01555                % 11737 RGTR--
+120901002 Roullingen, Am Duerf  01556  01556                % 11737 RGTR--
+120406002 Nocher-Route, Trin    01600  01600                % 11737 RGTR--
+120406003 Nocher-Route, An der  01600  01600                % 11737 RGTR--
+120406001 Nocher-Route, Zenner  01601  01601                % 11737 RGTR--
+120406005 Nocher, Um Knupp      01602  01602                % 11737 RGTR--
+120406004 Nocher, Schoul        01603  01603                % 11737 RGTR--
+120406006 Nocher, Welscheedgen  01603  01603                % 11737 RGTR--
+120403001 Dahl, Ale Wee         01605  01605                % 11737 RGTR--
+120403002 Dahl, Masselerstroos  01605  01605                % 11737 RGTR--
+120403003 Dahl, Al Molkerei     01606  01606                % 11737 RGTR--
+120403004 Dahl, Waassertuurm    01607  01607                % 11737 RGTR--
+120404002 Goesdorf, Maeschgaar  01609  01609                % 11737 RGTR--
+120404003 Goesdorf, Pompjeën    01609  01609                % 11737 RGTR--
+120404001 Goesdorf, Gemeng      01610  01610                % 11737 RGTR--
+120401001 Bockholtz/Wiltz       01614  01614                % 11737 RGTR--
+120401002 Bockholtz/Wiltz, Op   01615  01615                % 11737 RGTR--
+140304001 Goebelsmühle, Gare r  01621                       % 11737 RGTR--
+*Z 11738 RGTR--                                             % 11738 RGTR--
+*L 147      120903023 140304001  01743  01821               % 11738 RGTR--
+*R 1 140304001 120903023 140304001  01743  01821            % 11738 RGTR--
+*G 010 120903023 140304001  01743  01821                    % 11738 RGTR--
+*A VE 120903023 140304001 000039  01743  01821              % 11738 RGTR--
+*I FD 120903023 140304001        0003097  01743  01821      % 11738 RGTR--
+120903023 Wiltz, Lycée du Nord         01743                % 11738 RGTR--
+120903021 Wiltz, Lann           01745  01745                % 11738 RGTR--
+120903008 Wiltz, Pompjeesbau    01746  01746                % 11738 RGTR--
+120903039 Wiltz, Schwemm        01746  01746                % 11738 RGTR--
+120903031 Wiltz, Huuschtewee/P  01748  01748                % 11738 RGTR--
+120903035 Wiltz, Huuschtewee    01749  01749                % 11738 RGTR--
+120903011 Wiltz, Clinique       01750  01750                % 11738 RGTR--
+120903006 Wiltz, Brandbau       01751  01751                % 11738 RGTR--
+120903005 Wiltz, Belle Vue      01751  01751                % 11738 RGTR--
+120903019 Wiltz, Bastnacherstr  01753  01753                % 11738 RGTR--
+120901001 Roullingen, Chalets   01754  01754                % 11738 RGTR--
+120901003 Roullingen, Réimerwe  01755  01755                % 11738 RGTR--
+120901002 Roullingen, Am Duerf  01756  01756                % 11738 RGTR--
+120406002 Nocher-Route, Trin    01800  01800                % 11738 RGTR--
+120406003 Nocher-Route, An der  01800  01800                % 11738 RGTR--
+120406001 Nocher-Route, Zenner  01801  01801                % 11738 RGTR--
+120406005 Nocher, Um Knupp      01802  01802                % 11738 RGTR--
+120406004 Nocher, Schoul        01803  01803                % 11738 RGTR--
+120406006 Nocher, Welscheedgen  01803  01803                % 11738 RGTR--
+120403001 Dahl, Ale Wee         01805  01805                % 11738 RGTR--
+120403002 Dahl, Masselerstroos  01805  01805                % 11738 RGTR--
+120403003 Dahl, Al Molkerei     01806  01806                % 11738 RGTR--
+120403004 Dahl, Waassertuurm    01807  01807                % 11738 RGTR--
+120404002 Goesdorf, Maeschgaar  01809  01809                % 11738 RGTR--
+120404003 Goesdorf, Pompjeën    01809  01809                % 11738 RGTR--
+120404001 Goesdorf, Gemeng      01810  01810                % 11738 RGTR--
+120401001 Bockholtz/Wiltz       01814  01814                % 11738 RGTR--
+120401002 Bockholtz/Wiltz, Op   01815  01815                % 11738 RGTR--
+140304001 Goebelsmühle, Gare r  01821                       % 11738 RGTR--
+*Z 11739 RGTR--                                             % 11739 RGTR--
+*L 147      120903023 140304001  01943  02021               % 11739 RGTR--
+*R 1 140304001 120903023 140304001  01943  02021            % 11739 RGTR--
+*G 010 120903023 140304001  01943  02021                    % 11739 RGTR--
+*A VE 120903023 140304001 000039  01943  02021              % 11739 RGTR--
+*I FD 120903023 140304001        0003098  01943  02021      % 11739 RGTR--
+120903023 Wiltz, Lycée du Nord         01943                % 11739 RGTR--
+120903021 Wiltz, Lann           01945  01945                % 11739 RGTR--
+120903008 Wiltz, Pompjeesbau    01946  01946                % 11739 RGTR--
+120903039 Wiltz, Schwemm        01946  01946                % 11739 RGTR--
+120903031 Wiltz, Huuschtewee/P  01948  01948                % 11739 RGTR--
+120903035 Wiltz, Huuschtewee    01949  01949                % 11739 RGTR--
+120903011 Wiltz, Clinique       01950  01950                % 11739 RGTR--
+120903006 Wiltz, Brandbau       01951  01951                % 11739 RGTR--
+120903005 Wiltz, Belle Vue      01951  01951                % 11739 RGTR--
+120903019 Wiltz, Bastnacherstr  01953  01953                % 11739 RGTR--
+120901001 Roullingen, Chalets   01954  01954                % 11739 RGTR--
+120901003 Roullingen, Réimerwe  01955  01955                % 11739 RGTR--
+120901002 Roullingen, Am Duerf  01956  01956                % 11739 RGTR--
+120406002 Nocher-Route, Trin    02000  02000                % 11739 RGTR--
+120406003 Nocher-Route, An der  02000  02000                % 11739 RGTR--
+120406001 Nocher-Route, Zenner  02001  02001                % 11739 RGTR--
+120406005 Nocher, Um Knupp      02002  02002                % 11739 RGTR--
+120406004 Nocher, Schoul        02003  02003                % 11739 RGTR--
+120406006 Nocher, Welscheedgen  02003  02003                % 11739 RGTR--
+120403001 Dahl, Ale Wee         02005  02005                % 11739 RGTR--
+120403002 Dahl, Masselerstroos  02005  02005                % 11739 RGTR--
+120403003 Dahl, Al Molkerei     02006  02006                % 11739 RGTR--
+120403004 Dahl, Waassertuurm    02007  02007                % 11739 RGTR--
+120404002 Goesdorf, Maeschgaar  02009  02009                % 11739 RGTR--
+120404003 Goesdorf, Pompjeën    02009  02009                % 11739 RGTR--
+120404001 Goesdorf, Gemeng      02010  02010                % 11739 RGTR--
+120401001 Bockholtz/Wiltz       02014  02014                % 11739 RGTR--
+120401002 Bockholtz/Wiltz, Op   02015  02015                % 11739 RGTR--
+140304001 Goebelsmühle, Gare r  02021                       % 11739 RGTR--
+*Z 11740 RGTR--                                             % 11740 RGTR--
+*L 147      120903023 140304001  02143  02221               % 11740 RGTR--
+*R 1 140304001 120903023 140304001  02143  02221            % 11740 RGTR--
+*G 010 120903023 140304001  02143  02221                    % 11740 RGTR--
+*A VE 120903023 140304001 000039  02143  02221              % 11740 RGTR--
+*I FD 120903023 140304001        0001424  02143  02221      % 11740 RGTR--
+120903023 Wiltz, Lycée du Nord         02143                % 11740 RGTR--
+120903021 Wiltz, Lann           02145  02145                % 11740 RGTR--
+120903008 Wiltz, Pompjeesbau    02146  02146                % 11740 RGTR--
+120903039 Wiltz, Schwemm        02146  02146                % 11740 RGTR--
+120903031 Wiltz, Huuschtewee/P  02148  02148                % 11740 RGTR--
+120903035 Wiltz, Huuschtewee    02149  02149                % 11740 RGTR--
+120903011 Wiltz, Clinique       02150  02150                % 11740 RGTR--
+120903006 Wiltz, Brandbau       02151  02151                % 11740 RGTR--
+120903005 Wiltz, Belle Vue      02151  02151                % 11740 RGTR--
+120903019 Wiltz, Bastnacherstr  02153  02153                % 11740 RGTR--
+120901001 Roullingen, Chalets   02154  02154                % 11740 RGTR--
+120901003 Roullingen, Réimerwe  02155  02155                % 11740 RGTR--
+120901002 Roullingen, Am Duerf  02156  02156                % 11740 RGTR--
+120406002 Nocher-Route, Trin    02200  02200                % 11740 RGTR--
+120406003 Nocher-Route, An der  02200  02200                % 11740 RGTR--
+120406001 Nocher-Route, Zenner  02201  02201                % 11740 RGTR--
+120406005 Nocher, Um Knupp      02202  02202                % 11740 RGTR--
+120406004 Nocher, Schoul        02203  02203                % 11740 RGTR--
+120406006 Nocher, Welscheedgen  02203  02203                % 11740 RGTR--
+120403001 Dahl, Ale Wee         02205  02205                % 11740 RGTR--
+120403002 Dahl, Masselerstroos  02205  02205                % 11740 RGTR--
+120403003 Dahl, Al Molkerei     02206  02206                % 11740 RGTR--
+120403004 Dahl, Waassertuurm    02207  02207                % 11740 RGTR--
+120404002 Goesdorf, Maeschgaar  02209  02209                % 11740 RGTR--
+120404003 Goesdorf, Pompjeën    02209  02209                % 11740 RGTR--
+120404001 Goesdorf, Gemeng      02210  02210                % 11740 RGTR--
+120401001 Bockholtz/Wiltz       02214  02214                % 11740 RGTR--
+120401002 Bockholtz/Wiltz, Op   02215  02215                % 11740 RGTR--
+140304001 Goebelsmühle, Gare r  02221                       % 11740 RGTR--
+*Z 11741 RGTR--                                             % 11741 RGTR--
+*L 147      120903023 140304001  00443  00521               % 11741 RGTR--
+*R 1 140304001 120903023 140304001  00443  00521            % 11741 RGTR--
+*G 010 120903023 140304001  00443  00521                    % 11741 RGTR--
+*A VE 120903023 140304001 000036  00443  00521              % 11741 RGTR--
+*I FD 120903023 140304001        0003099  00443  00521      % 11741 RGTR--
+120903023 Wiltz, Lycée du Nord         00443                % 11741 RGTR--
+120903021 Wiltz, Lann           00445  00445                % 11741 RGTR--
+120903008 Wiltz, Pompjeesbau    00446  00446                % 11741 RGTR--
+120903039 Wiltz, Schwemm        00446  00446                % 11741 RGTR--
+120903031 Wiltz, Huuschtewee/P  00448  00448                % 11741 RGTR--
+120903035 Wiltz, Huuschtewee    00449  00449                % 11741 RGTR--
+120903011 Wiltz, Clinique       00450  00450                % 11741 RGTR--
+120903006 Wiltz, Brandbau       00451  00451                % 11741 RGTR--
+120903005 Wiltz, Belle Vue      00451  00451                % 11741 RGTR--
+120903019 Wiltz, Bastnacherstr  00453  00453                % 11741 RGTR--
+120901001 Roullingen, Chalets   00454  00454                % 11741 RGTR--
+120901003 Roullingen, Réimerwe  00455  00455                % 11741 RGTR--
+120901002 Roullingen, Am Duerf  00456  00456                % 11741 RGTR--
+120406002 Nocher-Route, Trin    00500  00500                % 11741 RGTR--
+120406003 Nocher-Route, An der  00500  00500                % 11741 RGTR--
+120406001 Nocher-Route, Zenner  00501  00501                % 11741 RGTR--
+120406005 Nocher, Um Knupp      00502  00502                % 11741 RGTR--
+120406004 Nocher, Schoul        00503  00503                % 11741 RGTR--
+120406006 Nocher, Welscheedgen  00503  00503                % 11741 RGTR--
+120403001 Dahl, Ale Wee         00505  00505                % 11741 RGTR--
+120403002 Dahl, Masselerstroos  00505  00505                % 11741 RGTR--
+120403003 Dahl, Al Molkerei     00506  00506                % 11741 RGTR--
+120403004 Dahl, Waassertuurm    00507  00507                % 11741 RGTR--
+120404002 Goesdorf, Maeschgaar  00509  00509                % 11741 RGTR--
+120404003 Goesdorf, Pompjeën    00509  00509                % 11741 RGTR--
+120404001 Goesdorf, Gemeng      00510  00510                % 11741 RGTR--
+120401001 Bockholtz/Wiltz       00514  00514                % 11741 RGTR--
+120401002 Bockholtz/Wiltz, Op   00515  00515                % 11741 RGTR--
+140304001 Goebelsmühle, Gare r  00521                       % 11741 RGTR--
+*Z 11742 RGTR--                                             % 11742 RGTR--
+*L 147      120903023 140304001  00543  00621               % 11742 RGTR--
+*R 1 140304001 120903023 140304001  00543  00621            % 11742 RGTR--
+*G 010 120903023 140304001  00543  00621                    % 11742 RGTR--
+*A VE 120903023 140304001 000036  00543  00621              % 11742 RGTR--
+*I FD 120903023 140304001        0003100  00543  00621      % 11742 RGTR--
+120903023 Wiltz, Lycée du Nord         00543                % 11742 RGTR--
+120903021 Wiltz, Lann           00545  00545                % 11742 RGTR--
+120903008 Wiltz, Pompjeesbau    00546  00546                % 11742 RGTR--
+120903039 Wiltz, Schwemm        00546  00546                % 11742 RGTR--
+120903031 Wiltz, Huuschtewee/P  00548  00548                % 11742 RGTR--
+120903035 Wiltz, Huuschtewee    00549  00549                % 11742 RGTR--
+120903011 Wiltz, Clinique       00550  00550                % 11742 RGTR--
+120903006 Wiltz, Brandbau       00551  00551                % 11742 RGTR--
+120903005 Wiltz, Belle Vue      00551  00551                % 11742 RGTR--
+120903019 Wiltz, Bastnacherstr  00553  00553                % 11742 RGTR--
+120901001 Roullingen, Chalets   00554  00554                % 11742 RGTR--
+120901003 Roullingen, Réimerwe  00555  00555                % 11742 RGTR--
+120901002 Roullingen, Am Duerf  00556  00556                % 11742 RGTR--
+120406002 Nocher-Route, Trin    00600  00600                % 11742 RGTR--
+120406003 Nocher-Route, An der  00600  00600                % 11742 RGTR--
+120406001 Nocher-Route, Zenner  00601  00601                % 11742 RGTR--
+120406005 Nocher, Um Knupp      00602  00602                % 11742 RGTR--
+120406004 Nocher, Schoul        00603  00603                % 11742 RGTR--
+120406006 Nocher, Welscheedgen  00603  00603                % 11742 RGTR--
+120403001 Dahl, Ale Wee         00605  00605                % 11742 RGTR--
+120403002 Dahl, Masselerstroos  00605  00605                % 11742 RGTR--
+120403003 Dahl, Al Molkerei     00606  00606                % 11742 RGTR--
+120403004 Dahl, Waassertuurm    00607  00607                % 11742 RGTR--
+120404002 Goesdorf, Maeschgaar  00609  00609                % 11742 RGTR--
+120404003 Goesdorf, Pompjeën    00609  00609                % 11742 RGTR--
+120404001 Goesdorf, Gemeng      00610  00610                % 11742 RGTR--
+120401001 Bockholtz/Wiltz       00614  00614                % 11742 RGTR--
+120401002 Bockholtz/Wiltz, Op   00615  00615                % 11742 RGTR--
+140304001 Goebelsmühle, Gare r  00621                       % 11742 RGTR--
+*Z 11743 RGTR--                                             % 11743 RGTR--
+*L 147      120903023 140304001  00643  00721               % 11743 RGTR--
+*R 1 140304001 120903023 140304001  00643  00721            % 11743 RGTR--
+*G 010 120903023 140304001  00643  00721                    % 11743 RGTR--
+*A VE 120903023 140304001 000036  00643  00721              % 11743 RGTR--
+*I FD 120903023 140304001        0003101  00643  00721      % 11743 RGTR--
+120903023 Wiltz, Lycée du Nord         00643                % 11743 RGTR--
+120903021 Wiltz, Lann           00645  00645                % 11743 RGTR--
+120903008 Wiltz, Pompjeesbau    00646  00646                % 11743 RGTR--
+120903039 Wiltz, Schwemm        00646  00646                % 11743 RGTR--
+120903031 Wiltz, Huuschtewee/P  00648  00648                % 11743 RGTR--
+120903035 Wiltz, Huuschtewee    00649  00649                % 11743 RGTR--
+120903011 Wiltz, Clinique       00650  00650                % 11743 RGTR--
+120903006 Wiltz, Brandbau       00651  00651                % 11743 RGTR--
+120903005 Wiltz, Belle Vue      00651  00651                % 11743 RGTR--
+120903019 Wiltz, Bastnacherstr  00653  00653                % 11743 RGTR--
+120901001 Roullingen, Chalets   00654  00654                % 11743 RGTR--
+120901003 Roullingen, Réimerwe  00655  00655                % 11743 RGTR--
+120901002 Roullingen, Am Duerf  00656  00656                % 11743 RGTR--
+120406002 Nocher-Route, Trin    00700  00700                % 11743 RGTR--
+120406003 Nocher-Route, An der  00700  00700                % 11743 RGTR--
+120406001 Nocher-Route, Zenner  00701  00701                % 11743 RGTR--
+120406005 Nocher, Um Knupp      00702  00702                % 11743 RGTR--
+120406004 Nocher, Schoul        00703  00703                % 11743 RGTR--
+120406006 Nocher, Welscheedgen  00703  00703                % 11743 RGTR--
+120403001 Dahl, Ale Wee         00705  00705                % 11743 RGTR--
+120403002 Dahl, Masselerstroos  00705  00705                % 11743 RGTR--
+120403003 Dahl, Al Molkerei     00706  00706                % 11743 RGTR--
+120403004 Dahl, Waassertuurm    00707  00707                % 11743 RGTR--
+120404002 Goesdorf, Maeschgaar  00709  00709                % 11743 RGTR--
+120404003 Goesdorf, Pompjeën    00709  00709                % 11743 RGTR--
+120404001 Goesdorf, Gemeng      00710  00710                % 11743 RGTR--
+120401001 Bockholtz/Wiltz       00714  00714                % 11743 RGTR--
+120401002 Bockholtz/Wiltz, Op   00715  00715                % 11743 RGTR--
+140304001 Goebelsmühle, Gare r  00721                       % 11743 RGTR--
+*Z 11744 RGTR--                                             % 11744 RGTR--
+*L 147      120903023 140304001  00843  00921               % 11744 RGTR--
+*R 1 140304001 120903023 140304001  00843  00921            % 11744 RGTR--
+*G 010 120903023 140304001  00843  00921                    % 11744 RGTR--
+*A VE 120903023 140304001 000036  00843  00921              % 11744 RGTR--
+*I FD 120903023 140304001        0003102  00843  00921      % 11744 RGTR--
+120903023 Wiltz, Lycée du Nord         00843                % 11744 RGTR--
+120903021 Wiltz, Lann           00845  00845                % 11744 RGTR--
+120903008 Wiltz, Pompjeesbau    00846  00846                % 11744 RGTR--
+120903039 Wiltz, Schwemm        00846  00846                % 11744 RGTR--
+120903031 Wiltz, Huuschtewee/P  00848  00848                % 11744 RGTR--
+120903035 Wiltz, Huuschtewee    00849  00849                % 11744 RGTR--
+120903011 Wiltz, Clinique       00850  00850                % 11744 RGTR--
+120903006 Wiltz, Brandbau       00851  00851                % 11744 RGTR--
+120903005 Wiltz, Belle Vue      00851  00851                % 11744 RGTR--
+120903019 Wiltz, Bastnacherstr  00853  00853                % 11744 RGTR--
+120901001 Roullingen, Chalets   00854  00854                % 11744 RGTR--
+120901003 Roullingen, Réimerwe  00855  00855                % 11744 RGTR--
+120901002 Roullingen, Am Duerf  00856  00856                % 11744 RGTR--
+120406002 Nocher-Route, Trin    00900  00900                % 11744 RGTR--
+120406003 Nocher-Route, An der  00900  00900                % 11744 RGTR--
+120406001 Nocher-Route, Zenner  00901  00901                % 11744 RGTR--
+120406005 Nocher, Um Knupp      00902  00902                % 11744 RGTR--
+120406004 Nocher, Schoul        00903  00903                % 11744 RGTR--
+120406006 Nocher, Welscheedgen  00903  00903                % 11744 RGTR--
+120403001 Dahl, Ale Wee         00905  00905                % 11744 RGTR--
+120403002 Dahl, Masselerstroos  00905  00905                % 11744 RGTR--
+120403003 Dahl, Al Molkerei     00906  00906                % 11744 RGTR--
+120403004 Dahl, Waassertuurm    00907  00907                % 11744 RGTR--
+120404002 Goesdorf, Maeschgaar  00909  00909                % 11744 RGTR--
+120404003 Goesdorf, Pompjeën    00909  00909                % 11744 RGTR--
+120404001 Goesdorf, Gemeng      00910  00910                % 11744 RGTR--
+120401001 Bockholtz/Wiltz       00914  00914                % 11744 RGTR--
+120401002 Bockholtz/Wiltz, Op   00915  00915                % 11744 RGTR--
+140304001 Goebelsmühle, Gare r  00921                       % 11744 RGTR--
+*Z 11745 RGTR--                                             % 11745 RGTR--
+*L 147      120903023 140304001  01043  01121               % 11745 RGTR--
+*R 1 140304001 120903023 140304001  01043  01121            % 11745 RGTR--
+*G 010 120903023 140304001  01043  01121                    % 11745 RGTR--
+*A VE 120903023 140304001 000036  01043  01121              % 11745 RGTR--
+*I FD 120903023 140304001        0003103  01043  01121      % 11745 RGTR--
+120903023 Wiltz, Lycée du Nord         01043                % 11745 RGTR--
+120903021 Wiltz, Lann           01045  01045                % 11745 RGTR--
+120903008 Wiltz, Pompjeesbau    01046  01046                % 11745 RGTR--
+120903039 Wiltz, Schwemm        01046  01046                % 11745 RGTR--
+120903031 Wiltz, Huuschtewee/P  01048  01048                % 11745 RGTR--
+120903035 Wiltz, Huuschtewee    01049  01049                % 11745 RGTR--
+120903011 Wiltz, Clinique       01050  01050                % 11745 RGTR--
+120903006 Wiltz, Brandbau       01051  01051                % 11745 RGTR--
+120903005 Wiltz, Belle Vue      01051  01051                % 11745 RGTR--
+120903019 Wiltz, Bastnacherstr  01053  01053                % 11745 RGTR--
+120901001 Roullingen, Chalets   01054  01054                % 11745 RGTR--
+120901003 Roullingen, Réimerwe  01055  01055                % 11745 RGTR--
+120901002 Roullingen, Am Duerf  01056  01056                % 11745 RGTR--
+120406002 Nocher-Route, Trin    01100  01100                % 11745 RGTR--
+120406003 Nocher-Route, An der  01100  01100                % 11745 RGTR--
+120406001 Nocher-Route, Zenner  01101  01101                % 11745 RGTR--
+120406005 Nocher, Um Knupp      01102  01102                % 11745 RGTR--
+120406004 Nocher, Schoul        01103  01103                % 11745 RGTR--
+120406006 Nocher, Welscheedgen  01103  01103                % 11745 RGTR--
+120403001 Dahl, Ale Wee         01105  01105                % 11745 RGTR--
+120403002 Dahl, Masselerstroos  01105  01105                % 11745 RGTR--
+120403003 Dahl, Al Molkerei     01106  01106                % 11745 RGTR--
+120403004 Dahl, Waassertuurm    01107  01107                % 11745 RGTR--
+120404002 Goesdorf, Maeschgaar  01109  01109                % 11745 RGTR--
+120404003 Goesdorf, Pompjeën    01109  01109                % 11745 RGTR--
+120404001 Goesdorf, Gemeng      01110  01110                % 11745 RGTR--
+120401001 Bockholtz/Wiltz       01114  01114                % 11745 RGTR--
+120401002 Bockholtz/Wiltz, Op   01115  01115                % 11745 RGTR--
+140304001 Goebelsmühle, Gare r  01121                       % 11745 RGTR--
+*Z 11746 RGTR--                                             % 11746 RGTR--
+*L 147      120903023 140304001  01243  01321               % 11746 RGTR--
+*R 1 140304001 120903023 140304001  01243  01321            % 11746 RGTR--
+*G 010 120903023 140304001  01243  01321                    % 11746 RGTR--
+*A VE 120903023 140304001 000036  01243  01321              % 11746 RGTR--
+*I FD 120903023 140304001        0003104  01243  01321      % 11746 RGTR--
+120903023 Wiltz, Lycée du Nord         01243                % 11746 RGTR--
+120903021 Wiltz, Lann           01245  01245                % 11746 RGTR--
+120903008 Wiltz, Pompjeesbau    01246  01246                % 11746 RGTR--
+120903039 Wiltz, Schwemm        01246  01246                % 11746 RGTR--
+120903031 Wiltz, Huuschtewee/P  01248  01248                % 11746 RGTR--
+120903035 Wiltz, Huuschtewee    01249  01249                % 11746 RGTR--
+120903011 Wiltz, Clinique       01250  01250                % 11746 RGTR--
+120903006 Wiltz, Brandbau       01251  01251                % 11746 RGTR--
+120903005 Wiltz, Belle Vue      01251  01251                % 11746 RGTR--
+120903019 Wiltz, Bastnacherstr  01253  01253                % 11746 RGTR--
+120901001 Roullingen, Chalets   01254  01254                % 11746 RGTR--
+120901003 Roullingen, Réimerwe  01255  01255                % 11746 RGTR--
+120901002 Roullingen, Am Duerf  01256  01256                % 11746 RGTR--
+120406002 Nocher-Route, Trin    01300  01300                % 11746 RGTR--
+120406003 Nocher-Route, An der  01300  01300                % 11746 RGTR--
+120406001 Nocher-Route, Zenner  01301  01301                % 11746 RGTR--
+120406005 Nocher, Um Knupp      01302  01302                % 11746 RGTR--
+120406004 Nocher, Schoul        01303  01303                % 11746 RGTR--
+120406006 Nocher, Welscheedgen  01303  01303                % 11746 RGTR--
+120403001 Dahl, Ale Wee         01305  01305                % 11746 RGTR--
+120403002 Dahl, Masselerstroos  01305  01305                % 11746 RGTR--
+120403003 Dahl, Al Molkerei     01306  01306                % 11746 RGTR--
+120403004 Dahl, Waassertuurm    01307  01307                % 11746 RGTR--
+120404002 Goesdorf, Maeschgaar  01309  01309                % 11746 RGTR--
+120404003 Goesdorf, Pompjeën    01309  01309                % 11746 RGTR--
+120404001 Goesdorf, Gemeng      01310  01310                % 11746 RGTR--
+120401001 Bockholtz/Wiltz       01314  01314                % 11746 RGTR--
+120401002 Bockholtz/Wiltz, Op   01315  01315                % 11746 RGTR--
+140304001 Goebelsmühle, Gare r  01321                       % 11746 RGTR--
+*Z 11747 RGTR--                                             % 11747 RGTR--
+*L 147      120903023 140304001  01443  01521               % 11747 RGTR--
+*R 1 140304001 120903023 140304001  01443  01521            % 11747 RGTR--
+*G 010 120903023 140304001  01443  01521                    % 11747 RGTR--
+*A VE 120903023 140304001 000036  01443  01521              % 11747 RGTR--
+*I FD 120903023 140304001        0003105  01443  01521      % 11747 RGTR--
+120903023 Wiltz, Lycée du Nord         01443                % 11747 RGTR--
+120903021 Wiltz, Lann           01445  01445                % 11747 RGTR--
+120903008 Wiltz, Pompjeesbau    01446  01446                % 11747 RGTR--
+120903039 Wiltz, Schwemm        01446  01446                % 11747 RGTR--
+120903031 Wiltz, Huuschtewee/P  01448  01448                % 11747 RGTR--
+120903035 Wiltz, Huuschtewee    01449  01449                % 11747 RGTR--
+120903011 Wiltz, Clinique       01450  01450                % 11747 RGTR--
+120903006 Wiltz, Brandbau       01451  01451                % 11747 RGTR--
+120903005 Wiltz, Belle Vue      01451  01451                % 11747 RGTR--
+120903019 Wiltz, Bastnacherstr  01453  01453                % 11747 RGTR--
+120901001 Roullingen, Chalets   01454  01454                % 11747 RGTR--
+120901003 Roullingen, Réimerwe  01455  01455                % 11747 RGTR--
+120901002 Roullingen, Am Duerf  01456  01456                % 11747 RGTR--
+120406002 Nocher-Route, Trin    01500  01500                % 11747 RGTR--
+120406003 Nocher-Route, An der  01500  01500                % 11747 RGTR--
+120406001 Nocher-Route, Zenner  01501  01501                % 11747 RGTR--
+120406005 Nocher, Um Knupp      01502  01502                % 11747 RGTR--
+120406004 Nocher, Schoul        01503  01503                % 11747 RGTR--
+120406006 Nocher, Welscheedgen  01503  01503                % 11747 RGTR--
+120403001 Dahl, Ale Wee         01505  01505                % 11747 RGTR--
+120403002 Dahl, Masselerstroos  01505  01505                % 11747 RGTR--
+120403003 Dahl, Al Molkerei     01506  01506                % 11747 RGTR--
+120403004 Dahl, Waassertuurm    01507  01507                % 11747 RGTR--
+120404002 Goesdorf, Maeschgaar  01509  01509                % 11747 RGTR--
+120404003 Goesdorf, Pompjeën    01509  01509                % 11747 RGTR--
+120404001 Goesdorf, Gemeng      01510  01510                % 11747 RGTR--
+120401001 Bockholtz/Wiltz       01514  01514                % 11747 RGTR--
+120401002 Bockholtz/Wiltz, Op   01515  01515                % 11747 RGTR--
+140304001 Goebelsmühle, Gare r  01521                       % 11747 RGTR--
+*Z 11748 RGTR--                                             % 11748 RGTR--
+*L 147      120903023 140304001  01643  01721               % 11748 RGTR--
+*R 1 140304001 120903023 140304001  01643  01721            % 11748 RGTR--
+*G 010 120903023 140304001  01643  01721                    % 11748 RGTR--
+*A VE 120903023 140304001 000036  01643  01721              % 11748 RGTR--
+*I FD 120903023 140304001        0001231  01643  01721      % 11748 RGTR--
+120903023 Wiltz, Lycée du Nord         01643                % 11748 RGTR--
+120903021 Wiltz, Lann           01645  01645                % 11748 RGTR--
+120903008 Wiltz, Pompjeesbau    01646  01646                % 11748 RGTR--
+120903039 Wiltz, Schwemm        01646  01646                % 11748 RGTR--
+120903031 Wiltz, Huuschtewee/P  01648  01648                % 11748 RGTR--
+120903035 Wiltz, Huuschtewee    01649  01649                % 11748 RGTR--
+120903011 Wiltz, Clinique       01650  01650                % 11748 RGTR--
+120903006 Wiltz, Brandbau       01651  01651                % 11748 RGTR--
+120903005 Wiltz, Belle Vue      01651  01651                % 11748 RGTR--
+120903019 Wiltz, Bastnacherstr  01653  01653                % 11748 RGTR--
+120901001 Roullingen, Chalets   01654  01654                % 11748 RGTR--
+120901003 Roullingen, Réimerwe  01655  01655                % 11748 RGTR--
+120901002 Roullingen, Am Duerf  01656  01656                % 11748 RGTR--
+120406002 Nocher-Route, Trin    01700  01700                % 11748 RGTR--
+120406003 Nocher-Route, An der  01700  01700                % 11748 RGTR--
+120406001 Nocher-Route, Zenner  01701  01701                % 11748 RGTR--
+120406005 Nocher, Um Knupp      01702  01702                % 11748 RGTR--
+120406004 Nocher, Schoul        01703  01703                % 11748 RGTR--
+120406006 Nocher, Welscheedgen  01703  01703                % 11748 RGTR--
+120403001 Dahl, Ale Wee         01705  01705                % 11748 RGTR--
+120403002 Dahl, Masselerstroos  01705  01705                % 11748 RGTR--
+120403003 Dahl, Al Molkerei     01706  01706                % 11748 RGTR--
+120403004 Dahl, Waassertuurm    01707  01707                % 11748 RGTR--
+120404002 Goesdorf, Maeschgaar  01709  01709                % 11748 RGTR--
+120404003 Goesdorf, Pompjeën    01709  01709                % 11748 RGTR--
+120404001 Goesdorf, Gemeng      01710  01710                % 11748 RGTR--
+120401001 Bockholtz/Wiltz       01714  01714                % 11748 RGTR--
+120401002 Bockholtz/Wiltz, Op   01715  01715                % 11748 RGTR--
+140304001 Goebelsmühle, Gare r  01721                       % 11748 RGTR--
+*Z 11749 RGTR--                                             % 11749 RGTR--
+*L 147      120903023 140304001  01843  01921               % 11749 RGTR--
+*R 1 140304001 120903023 140304001  01843  01921            % 11749 RGTR--
+*G 010 120903023 140304001  01843  01921                    % 11749 RGTR--
+*A VE 120903023 140304001 000036  01843  01921              % 11749 RGTR--
+*I FD 120903023 140304001        0001317  01843  01921      % 11749 RGTR--
+120903023 Wiltz, Lycée du Nord         01843                % 11749 RGTR--
+120903021 Wiltz, Lann           01845  01845                % 11749 RGTR--
+120903008 Wiltz, Pompjeesbau    01846  01846                % 11749 RGTR--
+120903039 Wiltz, Schwemm        01846  01846                % 11749 RGTR--
+120903031 Wiltz, Huuschtewee/P  01848  01848                % 11749 RGTR--
+120903035 Wiltz, Huuschtewee    01849  01849                % 11749 RGTR--
+120903011 Wiltz, Clinique       01850  01850                % 11749 RGTR--
+120903006 Wiltz, Brandbau       01851  01851                % 11749 RGTR--
+120903005 Wiltz, Belle Vue      01851  01851                % 11749 RGTR--
+120903019 Wiltz, Bastnacherstr  01853  01853                % 11749 RGTR--
+120901001 Roullingen, Chalets   01854  01854                % 11749 RGTR--
+120901003 Roullingen, Réimerwe  01855  01855                % 11749 RGTR--
+120901002 Roullingen, Am Duerf  01856  01856                % 11749 RGTR--
+120406002 Nocher-Route, Trin    01900  01900                % 11749 RGTR--
+120406003 Nocher-Route, An der  01900  01900                % 11749 RGTR--
+120406001 Nocher-Route, Zenner  01901  01901                % 11749 RGTR--
+120406005 Nocher, Um Knupp      01902  01902                % 11749 RGTR--
+120406004 Nocher, Schoul        01903  01903                % 11749 RGTR--
+120406006 Nocher, Welscheedgen  01903  01903                % 11749 RGTR--
+120403001 Dahl, Ale Wee         01905  01905                % 11749 RGTR--
+120403002 Dahl, Masselerstroos  01905  01905                % 11749 RGTR--
+120403003 Dahl, Al Molkerei     01906  01906                % 11749 RGTR--
+120403004 Dahl, Waassertuurm    01907  01907                % 11749 RGTR--
+120404002 Goesdorf, Maeschgaar  01909  01909                % 11749 RGTR--
+120404003 Goesdorf, Pompjeën    01909  01909                % 11749 RGTR--
+120404001 Goesdorf, Gemeng      01910  01910                % 11749 RGTR--
+120401001 Bockholtz/Wiltz       01914  01914                % 11749 RGTR--
+120401002 Bockholtz/Wiltz, Op   01915  01915                % 11749 RGTR--
+140304001 Goebelsmühle, Gare r  01921                       % 11749 RGTR--
+*Z 11750 RGTR--                                             % 11750 RGTR--
+*L 147      120903023 140304001  02043  02121               % 11750 RGTR--
+*R 1 140304001 120903023 140304001  02043  02121            % 11750 RGTR--
+*G 010 120903023 140304001  02043  02121                    % 11750 RGTR--
+*A VE 120903023 140304001 000036  02043  02121              % 11750 RGTR--
+*I FD 120903023 140304001        0003106  02043  02121      % 11750 RGTR--
+120903023 Wiltz, Lycée du Nord         02043                % 11750 RGTR--
+120903021 Wiltz, Lann           02045  02045                % 11750 RGTR--
+120903008 Wiltz, Pompjeesbau    02046  02046                % 11750 RGTR--
+120903039 Wiltz, Schwemm        02046  02046                % 11750 RGTR--
+120903031 Wiltz, Huuschtewee/P  02048  02048                % 11750 RGTR--
+120903035 Wiltz, Huuschtewee    02049  02049                % 11750 RGTR--
+120903011 Wiltz, Clinique       02050  02050                % 11750 RGTR--
+120903006 Wiltz, Brandbau       02051  02051                % 11750 RGTR--
+120903005 Wiltz, Belle Vue      02051  02051                % 11750 RGTR--
+120903019 Wiltz, Bastnacherstr  02053  02053                % 11750 RGTR--
+120901001 Roullingen, Chalets   02054  02054                % 11750 RGTR--
+120901003 Roullingen, Réimerwe  02055  02055                % 11750 RGTR--
+120901002 Roullingen, Am Duerf  02056  02056                % 11750 RGTR--
+120406002 Nocher-Route, Trin    02100  02100                % 11750 RGTR--
+120406003 Nocher-Route, An der  02100  02100                % 11750 RGTR--
+120406001 Nocher-Route, Zenner  02101  02101                % 11750 RGTR--
+120406005 Nocher, Um Knupp      02102  02102                % 11750 RGTR--
+120406004 Nocher, Schoul        02103  02103                % 11750 RGTR--
+120406006 Nocher, Welscheedgen  02103  02103                % 11750 RGTR--
+120403001 Dahl, Ale Wee         02105  02105                % 11750 RGTR--
+120403002 Dahl, Masselerstroos  02105  02105                % 11750 RGTR--
+120403003 Dahl, Al Molkerei     02106  02106                % 11750 RGTR--
+120403004 Dahl, Waassertuurm    02107  02107                % 11750 RGTR--
+120404002 Goesdorf, Maeschgaar  02109  02109                % 11750 RGTR--
+120404003 Goesdorf, Pompjeën    02109  02109                % 11750 RGTR--
+120404001 Goesdorf, Gemeng      02110  02110                % 11750 RGTR--
+120401001 Bockholtz/Wiltz       02114  02114                % 11750 RGTR--
+120401002 Bockholtz/Wiltz, Op   02115  02115                % 11750 RGTR--
+140304001 Goebelsmühle, Gare r  02121                       % 11750 RGTR--
+*Z 11751 RGTR--                                             % 11751 RGTR--
+*L 147      140304001 120903023  00835  00913               % 11751 RGTR--
+*R 2 120903023 140304001 120903023  00835  00913            % 11751 RGTR--
+*G 010 140304001 120903023  00835  00913                    % 11751 RGTR--
+*A VE 140304001 120903023 000039  00835  00913              % 11751 RGTR--
+*I FD 140304001 120903023        0001933  00835  00913      % 11751 RGTR--
+140304001 Goebelsmühle, Gare r         00835                % 11751 RGTR--
+120401002 Bockholtz/Wiltz, Op   00841  00841                % 11751 RGTR--
+120401001 Bockholtz/Wiltz       00842  00842                % 11751 RGTR--
+120404001 Goesdorf, Gemeng      00846  00846                % 11751 RGTR--
+120404003 Goesdorf, Pompjeën    00846  00846                % 11751 RGTR--
+120404002 Goesdorf, Maeschgaar  00847  00847                % 11751 RGTR--
+120403004 Dahl, Waassertuurm    00849  00849                % 11751 RGTR--
+120403003 Dahl, Al Molkerei     00850  00850                % 11751 RGTR--
+120403002 Dahl, Masselerstroos  00850  00850                % 11751 RGTR--
+120403001 Dahl, Ale Wee         00851  00851                % 11751 RGTR--
+120406006 Nocher, Welscheedgen  00852  00852                % 11751 RGTR--
+120406004 Nocher, Schoul        00853  00853                % 11751 RGTR--
+120406005 Nocher, Um Knupp      00854  00854                % 11751 RGTR--
+120406001 Nocher-Route, Zenner  00855  00855                % 11751 RGTR--
+120406003 Nocher-Route, An der  00855  00855                % 11751 RGTR--
+120406002 Nocher-Route, Trin    00856  00856                % 11751 RGTR--
+120901002 Roullingen, Am Duerf  00900  00900                % 11751 RGTR--
+120901003 Roullingen, Réimerwe  00901  00901                % 11751 RGTR--
+120901001 Roullingen, Chalets   00902  00902                % 11751 RGTR--
+120903019 Wiltz, Bastnacherstr  00903  00903                % 11751 RGTR--
+120903005 Wiltz, Belle Vue      00905  00905                % 11751 RGTR--
+120903006 Wiltz, Brandbau       00906  00906                % 11751 RGTR--
+120903011 Wiltz, Clinique       00907  00907                % 11751 RGTR--
+120903008 Wiltz, Pompjeesbau    00910  00910                % 11751 RGTR--
+120903021 Wiltz, Lann           00911  00911                % 11751 RGTR--
+120903023 Wiltz, Lycée du Nord  00913                       % 11751 RGTR--
+*Z 11752 RGTR--                                             % 11752 RGTR--
+*L 147      140304001 120903023  01035  01113               % 11752 RGTR--
+*R 2 120903023 140304001 120903023  01035  01113            % 11752 RGTR--
+*G 010 140304001 120903023  01035  01113                    % 11752 RGTR--
+*A VE 140304001 120903023 000039  01035  01113              % 11752 RGTR--
+*I FD 140304001 120903023        0002042  01035  01113      % 11752 RGTR--
+140304001 Goebelsmühle, Gare r         01035                % 11752 RGTR--
+120401002 Bockholtz/Wiltz, Op   01041  01041                % 11752 RGTR--
+120401001 Bockholtz/Wiltz       01042  01042                % 11752 RGTR--
+120404001 Goesdorf, Gemeng      01046  01046                % 11752 RGTR--
+120404003 Goesdorf, Pompjeën    01046  01046                % 11752 RGTR--
+120404002 Goesdorf, Maeschgaar  01047  01047                % 11752 RGTR--
+120403004 Dahl, Waassertuurm    01049  01049                % 11752 RGTR--
+120403003 Dahl, Al Molkerei     01050  01050                % 11752 RGTR--
+120403002 Dahl, Masselerstroos  01050  01050                % 11752 RGTR--
+120403001 Dahl, Ale Wee         01051  01051                % 11752 RGTR--
+120406006 Nocher, Welscheedgen  01052  01052                % 11752 RGTR--
+120406004 Nocher, Schoul        01053  01053                % 11752 RGTR--
+120406005 Nocher, Um Knupp      01054  01054                % 11752 RGTR--
+120406001 Nocher-Route, Zenner  01055  01055                % 11752 RGTR--
+120406003 Nocher-Route, An der  01055  01055                % 11752 RGTR--
+120406002 Nocher-Route, Trin    01056  01056                % 11752 RGTR--
+120901002 Roullingen, Am Duerf  01100  01100                % 11752 RGTR--
+120901003 Roullingen, Réimerwe  01101  01101                % 11752 RGTR--
+120901001 Roullingen, Chalets   01102  01102                % 11752 RGTR--
+120903019 Wiltz, Bastnacherstr  01103  01103                % 11752 RGTR--
+120903005 Wiltz, Belle Vue      01105  01105                % 11752 RGTR--
+120903006 Wiltz, Brandbau       01106  01106                % 11752 RGTR--
+120903011 Wiltz, Clinique       01107  01107                % 11752 RGTR--
+120903008 Wiltz, Pompjeesbau    01110  01110                % 11752 RGTR--
+120903021 Wiltz, Lann           01111  01111                % 11752 RGTR--
+120903023 Wiltz, Lycée du Nord  01113                       % 11752 RGTR--
+*Z 11753 RGTR--                                             % 11753 RGTR--
+*L 147      140304001 120903023  01235  01313               % 11753 RGTR--
+*R 2 120903023 140304001 120903023  01235  01313            % 11753 RGTR--
+*G 010 140304001 120903023  01235  01313                    % 11753 RGTR--
+*A VE 140304001 120903023 000039  01235  01313              % 11753 RGTR--
+*I FD 140304001 120903023        0001115  01235  01313      % 11753 RGTR--
+140304001 Goebelsmühle, Gare r         01235                % 11753 RGTR--
+120401002 Bockholtz/Wiltz, Op   01241  01241                % 11753 RGTR--
+120401001 Bockholtz/Wiltz       01242  01242                % 11753 RGTR--
+120404001 Goesdorf, Gemeng      01246  01246                % 11753 RGTR--
+120404003 Goesdorf, Pompjeën    01246  01246                % 11753 RGTR--
+120404002 Goesdorf, Maeschgaar  01247  01247                % 11753 RGTR--
+120403004 Dahl, Waassertuurm    01249  01249                % 11753 RGTR--
+120403003 Dahl, Al Molkerei     01250  01250                % 11753 RGTR--
+120403002 Dahl, Masselerstroos  01250  01250                % 11753 RGTR--
+120403001 Dahl, Ale Wee         01251  01251                % 11753 RGTR--
+120406006 Nocher, Welscheedgen  01252  01252                % 11753 RGTR--
+120406004 Nocher, Schoul        01253  01253                % 11753 RGTR--
+120406005 Nocher, Um Knupp      01254  01254                % 11753 RGTR--
+120406001 Nocher-Route, Zenner  01255  01255                % 11753 RGTR--
+120406003 Nocher-Route, An der  01255  01255                % 11753 RGTR--
+120406002 Nocher-Route, Trin    01256  01256                % 11753 RGTR--
+120901002 Roullingen, Am Duerf  01300  01300                % 11753 RGTR--
+120901003 Roullingen, Réimerwe  01301  01301                % 11753 RGTR--
+120901001 Roullingen, Chalets   01302  01302                % 11753 RGTR--
+120903019 Wiltz, Bastnacherstr  01303  01303                % 11753 RGTR--
+120903005 Wiltz, Belle Vue      01305  01305                % 11753 RGTR--
+120903006 Wiltz, Brandbau       01306  01306                % 11753 RGTR--
+120903011 Wiltz, Clinique       01307  01307                % 11753 RGTR--
+120903008 Wiltz, Pompjeesbau    01310  01310                % 11753 RGTR--
+120903021 Wiltz, Lann           01311  01311                % 11753 RGTR--
+120903023 Wiltz, Lycée du Nord  01313                       % 11753 RGTR--
+*Z 11754 RGTR--                                             % 11754 RGTR--
+*L 147      140304001 120903023  01435  01513               % 11754 RGTR--
+*R 2 120903023 140304001 120903023  01435  01513            % 11754 RGTR--
+*G 010 140304001 120903023  01435  01513                    % 11754 RGTR--
+*A VE 140304001 120903023 000039  01435  01513              % 11754 RGTR--
+*I FD 140304001 120903023        0002036  01435  01513      % 11754 RGTR--
+140304001 Goebelsmühle, Gare r         01435                % 11754 RGTR--
+120401002 Bockholtz/Wiltz, Op   01441  01441                % 11754 RGTR--
+120401001 Bockholtz/Wiltz       01442  01442                % 11754 RGTR--
+120404001 Goesdorf, Gemeng      01446  01446                % 11754 RGTR--
+120404003 Goesdorf, Pompjeën    01446  01446                % 11754 RGTR--
+120404002 Goesdorf, Maeschgaar  01447  01447                % 11754 RGTR--
+120403004 Dahl, Waassertuurm    01449  01449                % 11754 RGTR--
+120403003 Dahl, Al Molkerei     01450  01450                % 11754 RGTR--
+120403002 Dahl, Masselerstroos  01450  01450                % 11754 RGTR--
+120403001 Dahl, Ale Wee         01451  01451                % 11754 RGTR--
+120406006 Nocher, Welscheedgen  01452  01452                % 11754 RGTR--
+120406004 Nocher, Schoul        01453  01453                % 11754 RGTR--
+120406005 Nocher, Um Knupp      01454  01454                % 11754 RGTR--
+120406001 Nocher-Route, Zenner  01455  01455                % 11754 RGTR--
+120406003 Nocher-Route, An der  01455  01455                % 11754 RGTR--
+120406002 Nocher-Route, Trin    01456  01456                % 11754 RGTR--
+120901002 Roullingen, Am Duerf  01500  01500                % 11754 RGTR--
+120901003 Roullingen, Réimerwe  01501  01501                % 11754 RGTR--
+120901001 Roullingen, Chalets   01502  01502                % 11754 RGTR--
+120903019 Wiltz, Bastnacherstr  01503  01503                % 11754 RGTR--
+120903005 Wiltz, Belle Vue      01505  01505                % 11754 RGTR--
+120903006 Wiltz, Brandbau       01506  01506                % 11754 RGTR--
+120903011 Wiltz, Clinique       01507  01507                % 11754 RGTR--
+120903008 Wiltz, Pompjeesbau    01510  01510                % 11754 RGTR--
+120903021 Wiltz, Lann           01511  01511                % 11754 RGTR--
+120903023 Wiltz, Lycée du Nord  01513                       % 11754 RGTR--
+*Z 11755 RGTR--                                             % 11755 RGTR--
+*L 147      140304001 120903023  01635  01713               % 11755 RGTR--
+*R 2 120903023 140304001 120903023  01635  01713            % 11755 RGTR--
+*G 010 140304001 120903023  01635  01713                    % 11755 RGTR--
+*A VE 140304001 120903023 000039  01635  01713              % 11755 RGTR--
+*I FD 140304001 120903023        0002044  01635  01713      % 11755 RGTR--
+140304001 Goebelsmühle, Gare r         01635                % 11755 RGTR--
+120401002 Bockholtz/Wiltz, Op   01641  01641                % 11755 RGTR--
+120401001 Bockholtz/Wiltz       01642  01642                % 11755 RGTR--
+120404001 Goesdorf, Gemeng      01646  01646                % 11755 RGTR--
+120404003 Goesdorf, Pompjeën    01646  01646                % 11755 RGTR--
+120404002 Goesdorf, Maeschgaar  01647  01647                % 11755 RGTR--
+120403004 Dahl, Waassertuurm    01649  01649                % 11755 RGTR--
+120403003 Dahl, Al Molkerei     01650  01650                % 11755 RGTR--
+120403002 Dahl, Masselerstroos  01650  01650                % 11755 RGTR--
+120403001 Dahl, Ale Wee         01651  01651                % 11755 RGTR--
+120406006 Nocher, Welscheedgen  01652  01652                % 11755 RGTR--
+120406004 Nocher, Schoul        01653  01653                % 11755 RGTR--
+120406005 Nocher, Um Knupp      01654  01654                % 11755 RGTR--
+120406001 Nocher-Route, Zenner  01655  01655                % 11755 RGTR--
+120406003 Nocher-Route, An der  01655  01655                % 11755 RGTR--
+120406002 Nocher-Route, Trin    01656  01656                % 11755 RGTR--
+120901002 Roullingen, Am Duerf  01700  01700                % 11755 RGTR--
+120901003 Roullingen, Réimerwe  01701  01701                % 11755 RGTR--
+120901001 Roullingen, Chalets   01702  01702                % 11755 RGTR--
+120903019 Wiltz, Bastnacherstr  01703  01703                % 11755 RGTR--
+120903005 Wiltz, Belle Vue      01705  01705                % 11755 RGTR--
+120903006 Wiltz, Brandbau       01706  01706                % 11755 RGTR--
+120903011 Wiltz, Clinique       01707  01707                % 11755 RGTR--
+120903008 Wiltz, Pompjeesbau    01710  01710                % 11755 RGTR--
+120903021 Wiltz, Lann           01711  01711                % 11755 RGTR--
+120903023 Wiltz, Lycée du Nord  01713                       % 11755 RGTR--
+*Z 11756 RGTR--                                             % 11756 RGTR--
+*L 147      140304001 120903023  01835  01913               % 11756 RGTR--
+*R 2 120903023 140304001 120903023  01835  01913            % 11756 RGTR--
+*G 010 140304001 120903023  01835  01913                    % 11756 RGTR--
+*A VE 140304001 120903023 000039  01835  01913              % 11756 RGTR--
+*I FD 140304001 120903023        0002045  01835  01913      % 11756 RGTR--
+140304001 Goebelsmühle, Gare r         01835                % 11756 RGTR--
+120401002 Bockholtz/Wiltz, Op   01841  01841                % 11756 RGTR--
+120401001 Bockholtz/Wiltz       01842  01842                % 11756 RGTR--
+120404001 Goesdorf, Gemeng      01846  01846                % 11756 RGTR--
+120404003 Goesdorf, Pompjeën    01846  01846                % 11756 RGTR--
+120404002 Goesdorf, Maeschgaar  01847  01847                % 11756 RGTR--
+120403004 Dahl, Waassertuurm    01849  01849                % 11756 RGTR--
+120403003 Dahl, Al Molkerei     01850  01850                % 11756 RGTR--
+120403002 Dahl, Masselerstroos  01850  01850                % 11756 RGTR--
+120403001 Dahl, Ale Wee         01851  01851                % 11756 RGTR--
+120406006 Nocher, Welscheedgen  01852  01852                % 11756 RGTR--
+120406004 Nocher, Schoul        01853  01853                % 11756 RGTR--
+120406005 Nocher, Um Knupp      01854  01854                % 11756 RGTR--
+120406001 Nocher-Route, Zenner  01855  01855                % 11756 RGTR--
+120406003 Nocher-Route, An der  01855  01855                % 11756 RGTR--
+120406002 Nocher-Route, Trin    01856  01856                % 11756 RGTR--
+120901002 Roullingen, Am Duerf  01900  01900                % 11756 RGTR--
+120901003 Roullingen, Réimerwe  01901  01901                % 11756 RGTR--
+120901001 Roullingen, Chalets   01902  01902                % 11756 RGTR--
+120903019 Wiltz, Bastnacherstr  01903  01903                % 11756 RGTR--
+120903005 Wiltz, Belle Vue      01905  01905                % 11756 RGTR--
+120903006 Wiltz, Brandbau       01906  01906                % 11756 RGTR--
+120903011 Wiltz, Clinique       01907  01907                % 11756 RGTR--
+120903008 Wiltz, Pompjeesbau    01910  01910                % 11756 RGTR--
+120903021 Wiltz, Lann           01911  01911                % 11756 RGTR--
+120903023 Wiltz, Lycée du Nord  01913                       % 11756 RGTR--
+*Z 11757 RGTR--                                             % 11757 RGTR--
+*L 147      140304001 120903023  02035  02113               % 11757 RGTR--
+*R 2 120903023 140304001 120903023  02035  02113            % 11757 RGTR--
+*G 010 140304001 120903023  02035  02113                    % 11757 RGTR--
+*A VE 140304001 120903023 000039  02035  02113              % 11757 RGTR--
+*I FD 140304001 120903023        0002039  02035  02113      % 11757 RGTR--
+140304001 Goebelsmühle, Gare r         02035                % 11757 RGTR--
+120401002 Bockholtz/Wiltz, Op   02041  02041                % 11757 RGTR--
+120401001 Bockholtz/Wiltz       02042  02042                % 11757 RGTR--
+120404001 Goesdorf, Gemeng      02046  02046                % 11757 RGTR--
+120404003 Goesdorf, Pompjeën    02046  02046                % 11757 RGTR--
+120404002 Goesdorf, Maeschgaar  02047  02047                % 11757 RGTR--
+120403004 Dahl, Waassertuurm    02049  02049                % 11757 RGTR--
+120403003 Dahl, Al Molkerei     02050  02050                % 11757 RGTR--
+120403002 Dahl, Masselerstroos  02050  02050                % 11757 RGTR--
+120403001 Dahl, Ale Wee         02051  02051                % 11757 RGTR--
+120406006 Nocher, Welscheedgen  02052  02052                % 11757 RGTR--
+120406004 Nocher, Schoul        02053  02053                % 11757 RGTR--
+120406005 Nocher, Um Knupp      02054  02054                % 11757 RGTR--
+120406001 Nocher-Route, Zenner  02055  02055                % 11757 RGTR--
+120406003 Nocher-Route, An der  02055  02055                % 11757 RGTR--
+120406002 Nocher-Route, Trin    02056  02056                % 11757 RGTR--
+120901002 Roullingen, Am Duerf  02100  02100                % 11757 RGTR--
+120901003 Roullingen, Réimerwe  02101  02101                % 11757 RGTR--
+120901001 Roullingen, Chalets   02102  02102                % 11757 RGTR--
+120903019 Wiltz, Bastnacherstr  02103  02103                % 11757 RGTR--
+120903005 Wiltz, Belle Vue      02105  02105                % 11757 RGTR--
+120903006 Wiltz, Brandbau       02106  02106                % 11757 RGTR--
+120903011 Wiltz, Clinique       02107  02107                % 11757 RGTR--
+120903008 Wiltz, Pompjeesbau    02110  02110                % 11757 RGTR--
+120903021 Wiltz, Lann           02111  02111                % 11757 RGTR--
+120903023 Wiltz, Lycée du Nord  02113                       % 11757 RGTR--
+*Z 11758 RGTR--                                             % 11758 RGTR--
+*L 147      140304001 120903023  02235  02313               % 11758 RGTR--
+*R 2 120903023 140304001 120903023  02235  02313            % 11758 RGTR--
+*G 010 140304001 120903023  02235  02313                    % 11758 RGTR--
+*A VE 140304001 120903023 000039  02235  02313              % 11758 RGTR--
+*I FD 140304001 120903023        0003067  02235  02313      % 11758 RGTR--
+140304001 Goebelsmühle, Gare r         02235                % 11758 RGTR--
+120401002 Bockholtz/Wiltz, Op   02241  02241                % 11758 RGTR--
+120401001 Bockholtz/Wiltz       02242  02242                % 11758 RGTR--
+120404001 Goesdorf, Gemeng      02246  02246                % 11758 RGTR--
+120404003 Goesdorf, Pompjeën    02246  02246                % 11758 RGTR--
+120404002 Goesdorf, Maeschgaar  02247  02247                % 11758 RGTR--
+120403004 Dahl, Waassertuurm    02249  02249                % 11758 RGTR--
+120403003 Dahl, Al Molkerei     02250  02250                % 11758 RGTR--
+120403002 Dahl, Masselerstroos  02250  02250                % 11758 RGTR--
+120403001 Dahl, Ale Wee         02251  02251                % 11758 RGTR--
+120406006 Nocher, Welscheedgen  02252  02252                % 11758 RGTR--
+120406004 Nocher, Schoul        02253  02253                % 11758 RGTR--
+120406005 Nocher, Um Knupp      02254  02254                % 11758 RGTR--
+120406001 Nocher-Route, Zenner  02255  02255                % 11758 RGTR--
+120406003 Nocher-Route, An der  02255  02255                % 11758 RGTR--
+120406002 Nocher-Route, Trin    02256  02256                % 11758 RGTR--
+120901002 Roullingen, Am Duerf  02300  02300                % 11758 RGTR--
+120901003 Roullingen, Réimerwe  02301  02301                % 11758 RGTR--
+120901001 Roullingen, Chalets   02302  02302                % 11758 RGTR--
+120903019 Wiltz, Bastnacherstr  02303  02303                % 11758 RGTR--
+120903005 Wiltz, Belle Vue      02305  02305                % 11758 RGTR--
+120903006 Wiltz, Brandbau       02306  02306                % 11758 RGTR--
+120903011 Wiltz, Clinique       02307  02307                % 11758 RGTR--
+120903008 Wiltz, Pompjeesbau    02310  02310                % 11758 RGTR--
+120903021 Wiltz, Lann           02311  02311                % 11758 RGTR--
+120903023 Wiltz, Lycée du Nord  02313                       % 11758 RGTR--
+*Z 11759 RGTR--                                             % 11759 RGTR--
+*L 147      140304001 120903023  00535  00613               % 11759 RGTR--
+*R 2 120903023 140304001 120903023  00535  00613            % 11759 RGTR--
+*G 010 140304001 120903023  00535  00613                    % 11759 RGTR--
+*A VE 140304001 120903023 000036  00535  00613              % 11759 RGTR--
+*I FD 140304001 120903023        0000734  00535  00613      % 11759 RGTR--
+140304001 Goebelsmühle, Gare r         00535                % 11759 RGTR--
+120401002 Bockholtz/Wiltz, Op   00541  00541                % 11759 RGTR--
+120401001 Bockholtz/Wiltz       00542  00542                % 11759 RGTR--
+120404001 Goesdorf, Gemeng      00546  00546                % 11759 RGTR--
+120404003 Goesdorf, Pompjeën    00546  00546                % 11759 RGTR--
+120404002 Goesdorf, Maeschgaar  00547  00547                % 11759 RGTR--
+120403004 Dahl, Waassertuurm    00549  00549                % 11759 RGTR--
+120403003 Dahl, Al Molkerei     00550  00550                % 11759 RGTR--
+120403002 Dahl, Masselerstroos  00550  00550                % 11759 RGTR--
+120403001 Dahl, Ale Wee         00551  00551                % 11759 RGTR--
+120406006 Nocher, Welscheedgen  00552  00552                % 11759 RGTR--
+120406004 Nocher, Schoul        00553  00553                % 11759 RGTR--
+120406005 Nocher, Um Knupp      00554  00554                % 11759 RGTR--
+120406001 Nocher-Route, Zenner  00555  00555                % 11759 RGTR--
+120406003 Nocher-Route, An der  00555  00555                % 11759 RGTR--
+120406002 Nocher-Route, Trin    00556  00556                % 11759 RGTR--
+120901002 Roullingen, Am Duerf  00600  00600                % 11759 RGTR--
+120901003 Roullingen, Réimerwe  00601  00601                % 11759 RGTR--
+120901001 Roullingen, Chalets   00602  00602                % 11759 RGTR--
+120903019 Wiltz, Bastnacherstr  00603  00603                % 11759 RGTR--
+120903005 Wiltz, Belle Vue      00605  00605                % 11759 RGTR--
+120903006 Wiltz, Brandbau       00606  00606                % 11759 RGTR--
+120903011 Wiltz, Clinique       00607  00607                % 11759 RGTR--
+120903008 Wiltz, Pompjeesbau    00610  00610                % 11759 RGTR--
+120903021 Wiltz, Lann           00611  00611                % 11759 RGTR--
+120903023 Wiltz, Lycée du Nord  00613                       % 11759 RGTR--
+*Z 11760 RGTR--                                             % 11760 RGTR--
+*L 147      140304001 120903023  00635  00713               % 11760 RGTR--
+*R 2 120903023 140304001 120903023  00635  00713            % 11760 RGTR--
+*G 010 140304001 120903023  00635  00713                    % 11760 RGTR--
+*A VE 140304001 120903023 000036  00635  00713              % 11760 RGTR--
+*I FD 140304001 120903023        0001931  00635  00713      % 11760 RGTR--
+140304001 Goebelsmühle, Gare r         00635                % 11760 RGTR--
+120401002 Bockholtz/Wiltz, Op   00641  00641                % 11760 RGTR--
+120401001 Bockholtz/Wiltz       00642  00642                % 11760 RGTR--
+120404001 Goesdorf, Gemeng      00646  00646                % 11760 RGTR--
+120404003 Goesdorf, Pompjeën    00646  00646                % 11760 RGTR--
+120404002 Goesdorf, Maeschgaar  00647  00647                % 11760 RGTR--
+120403004 Dahl, Waassertuurm    00649  00649                % 11760 RGTR--
+120403003 Dahl, Al Molkerei     00650  00650                % 11760 RGTR--
+120403002 Dahl, Masselerstroos  00650  00650                % 11760 RGTR--
+120403001 Dahl, Ale Wee         00651  00651                % 11760 RGTR--
+120406006 Nocher, Welscheedgen  00652  00652                % 11760 RGTR--
+120406004 Nocher, Schoul        00653  00653                % 11760 RGTR--
+120406005 Nocher, Um Knupp      00654  00654                % 11760 RGTR--
+120406001 Nocher-Route, Zenner  00655  00655                % 11760 RGTR--
+120406003 Nocher-Route, An der  00655  00655                % 11760 RGTR--
+120406002 Nocher-Route, Trin    00656  00656                % 11760 RGTR--
+120901002 Roullingen, Am Duerf  00700  00700                % 11760 RGTR--
+120901003 Roullingen, Réimerwe  00701  00701                % 11760 RGTR--
+120901001 Roullingen, Chalets   00702  00702                % 11760 RGTR--
+120903019 Wiltz, Bastnacherstr  00703  00703                % 11760 RGTR--
+120903005 Wiltz, Belle Vue      00705  00705                % 11760 RGTR--
+120903006 Wiltz, Brandbau       00706  00706                % 11760 RGTR--
+120903011 Wiltz, Clinique       00707  00707                % 11760 RGTR--
+120903008 Wiltz, Pompjeesbau    00710  00710                % 11760 RGTR--
+120903021 Wiltz, Lann           00711  00711                % 11760 RGTR--
+120903023 Wiltz, Lycée du Nord  00713                       % 11760 RGTR--
+*Z 11761 RGTR--                                             % 11761 RGTR--
+*L 147      140304001 120903023  00735  00813               % 11761 RGTR--
+*R 2 120903023 140304001 120903023  00735  00813            % 11761 RGTR--
+*G 010 140304001 120903023  00735  00813                    % 11761 RGTR--
+*A VE 140304001 120903023 000036  00735  00813              % 11761 RGTR--
+*I FD 140304001 120903023        0001932  00735  00813      % 11761 RGTR--
+140304001 Goebelsmühle, Gare r         00735                % 11761 RGTR--
+120401002 Bockholtz/Wiltz, Op   00741  00741                % 11761 RGTR--
+120401001 Bockholtz/Wiltz       00742  00742                % 11761 RGTR--
+120404001 Goesdorf, Gemeng      00746  00746                % 11761 RGTR--
+120404003 Goesdorf, Pompjeën    00746  00746                % 11761 RGTR--
+120404002 Goesdorf, Maeschgaar  00747  00747                % 11761 RGTR--
+120403004 Dahl, Waassertuurm    00749  00749                % 11761 RGTR--
+120403003 Dahl, Al Molkerei     00750  00750                % 11761 RGTR--
+120403002 Dahl, Masselerstroos  00750  00750                % 11761 RGTR--
+120403001 Dahl, Ale Wee         00751  00751                % 11761 RGTR--
+120406006 Nocher, Welscheedgen  00752  00752                % 11761 RGTR--
+120406004 Nocher, Schoul        00753  00753                % 11761 RGTR--
+120406005 Nocher, Um Knupp      00754  00754                % 11761 RGTR--
+120406001 Nocher-Route, Zenner  00755  00755                % 11761 RGTR--
+120406003 Nocher-Route, An der  00755  00755                % 11761 RGTR--
+120406002 Nocher-Route, Trin    00756  00756                % 11761 RGTR--
+120901002 Roullingen, Am Duerf  00800  00800                % 11761 RGTR--
+120901003 Roullingen, Réimerwe  00801  00801                % 11761 RGTR--
+120901001 Roullingen, Chalets   00802  00802                % 11761 RGTR--
+120903019 Wiltz, Bastnacherstr  00803  00803                % 11761 RGTR--
+120903005 Wiltz, Belle Vue      00805  00805                % 11761 RGTR--
+120903006 Wiltz, Brandbau       00806  00806                % 11761 RGTR--
+120903011 Wiltz, Clinique       00807  00807                % 11761 RGTR--
+120903008 Wiltz, Pompjeesbau    00810  00810                % 11761 RGTR--
+120903021 Wiltz, Lann           00811  00811                % 11761 RGTR--
+120903023 Wiltz, Lycée du Nord  00813                       % 11761 RGTR--
+*Z 11762 RGTR--                                             % 11762 RGTR--
+*L 147      140304001 120903023  00935  01013               % 11762 RGTR--
+*R 2 120903023 140304001 120903023  00935  01013            % 11762 RGTR--
+*G 010 140304001 120903023  00935  01013                    % 11762 RGTR--
+*A VE 140304001 120903023 000036  00935  01013              % 11762 RGTR--
+*I FD 140304001 120903023        0000960  00935  01013      % 11762 RGTR--
+140304001 Goebelsmühle, Gare r         00935                % 11762 RGTR--
+120401002 Bockholtz/Wiltz, Op   00941  00941                % 11762 RGTR--
+120401001 Bockholtz/Wiltz       00942  00942                % 11762 RGTR--
+120404001 Goesdorf, Gemeng      00946  00946                % 11762 RGTR--
+120404003 Goesdorf, Pompjeën    00946  00946                % 11762 RGTR--
+120404002 Goesdorf, Maeschgaar  00947  00947                % 11762 RGTR--
+120403004 Dahl, Waassertuurm    00949  00949                % 11762 RGTR--
+120403003 Dahl, Al Molkerei     00950  00950                % 11762 RGTR--
+120403002 Dahl, Masselerstroos  00950  00950                % 11762 RGTR--
+120403001 Dahl, Ale Wee         00951  00951                % 11762 RGTR--
+120406006 Nocher, Welscheedgen  00952  00952                % 11762 RGTR--
+120406004 Nocher, Schoul        00953  00953                % 11762 RGTR--
+120406005 Nocher, Um Knupp      00954  00954                % 11762 RGTR--
+120406001 Nocher-Route, Zenner  00955  00955                % 11762 RGTR--
+120406003 Nocher-Route, An der  00955  00955                % 11762 RGTR--
+120406002 Nocher-Route, Trin    00956  00956                % 11762 RGTR--
+120901002 Roullingen, Am Duerf  01000  01000                % 11762 RGTR--
+120901003 Roullingen, Réimerwe  01001  01001                % 11762 RGTR--
+120901001 Roullingen, Chalets   01002  01002                % 11762 RGTR--
+120903019 Wiltz, Bastnacherstr  01003  01003                % 11762 RGTR--
+120903005 Wiltz, Belle Vue      01005  01005                % 11762 RGTR--
+120903006 Wiltz, Brandbau       01006  01006                % 11762 RGTR--
+120903011 Wiltz, Clinique       01007  01007                % 11762 RGTR--
+120903008 Wiltz, Pompjeesbau    01010  01010                % 11762 RGTR--
+120903021 Wiltz, Lann           01011  01011                % 11762 RGTR--
+120903023 Wiltz, Lycée du Nord  01013                       % 11762 RGTR--
+*Z 11763 RGTR--                                             % 11763 RGTR--
+*L 147      140304001 120903023  01135  01213               % 11763 RGTR--
+*R 2 120903023 140304001 120903023  01135  01213            % 11763 RGTR--
+*G 010 140304001 120903023  01135  01213                    % 11763 RGTR--
+*A VE 140304001 120903023 000036  01135  01213              % 11763 RGTR--
+*I FD 140304001 120903023        0002035  01135  01213      % 11763 RGTR--
+140304001 Goebelsmühle, Gare r         01135                % 11763 RGTR--
+120401002 Bockholtz/Wiltz, Op   01141  01141                % 11763 RGTR--
+120401001 Bockholtz/Wiltz       01142  01142                % 11763 RGTR--
+120404001 Goesdorf, Gemeng      01146  01146                % 11763 RGTR--
+120404003 Goesdorf, Pompjeën    01146  01146                % 11763 RGTR--
+120404002 Goesdorf, Maeschgaar  01147  01147                % 11763 RGTR--
+120403004 Dahl, Waassertuurm    01149  01149                % 11763 RGTR--
+120403003 Dahl, Al Molkerei     01150  01150                % 11763 RGTR--
+120403002 Dahl, Masselerstroos  01150  01150                % 11763 RGTR--
+120403001 Dahl, Ale Wee         01151  01151                % 11763 RGTR--
+120406006 Nocher, Welscheedgen  01152  01152                % 11763 RGTR--
+120406004 Nocher, Schoul        01153  01153                % 11763 RGTR--
+120406005 Nocher, Um Knupp      01154  01154                % 11763 RGTR--
+120406001 Nocher-Route, Zenner  01155  01155                % 11763 RGTR--
+120406003 Nocher-Route, An der  01155  01155                % 11763 RGTR--
+120406002 Nocher-Route, Trin    01156  01156                % 11763 RGTR--
+120901002 Roullingen, Am Duerf  01200  01200                % 11763 RGTR--
+120901003 Roullingen, Réimerwe  01201  01201                % 11763 RGTR--
+120901001 Roullingen, Chalets   01202  01202                % 11763 RGTR--
+120903019 Wiltz, Bastnacherstr  01203  01203                % 11763 RGTR--
+120903005 Wiltz, Belle Vue      01205  01205                % 11763 RGTR--
+120903006 Wiltz, Brandbau       01206  01206                % 11763 RGTR--
+120903011 Wiltz, Clinique       01207  01207                % 11763 RGTR--
+120903008 Wiltz, Pompjeesbau    01210  01210                % 11763 RGTR--
+120903021 Wiltz, Lann           01211  01211                % 11763 RGTR--
+120903023 Wiltz, Lycée du Nord  01213                       % 11763 RGTR--
+*Z 11764 RGTR--                                             % 11764 RGTR--
+*L 147      140304001 120903023  01335  01413               % 11764 RGTR--
+*R 2 120903023 140304001 120903023  01335  01413            % 11764 RGTR--
+*G 010 140304001 120903023  01335  01413                    % 11764 RGTR--
+*A VE 140304001 120903023 000036  01335  01413              % 11764 RGTR--
+*I FD 140304001 120903023        0002043  01335  01413      % 11764 RGTR--
+140304001 Goebelsmühle, Gare r         01335                % 11764 RGTR--
+120401002 Bockholtz/Wiltz, Op   01341  01341                % 11764 RGTR--
+120401001 Bockholtz/Wiltz       01342  01342                % 11764 RGTR--
+120404001 Goesdorf, Gemeng      01346  01346                % 11764 RGTR--
+120404003 Goesdorf, Pompjeën    01346  01346                % 11764 RGTR--
+120404002 Goesdorf, Maeschgaar  01347  01347                % 11764 RGTR--
+120403004 Dahl, Waassertuurm    01349  01349                % 11764 RGTR--
+120403003 Dahl, Al Molkerei     01350  01350                % 11764 RGTR--
+120403002 Dahl, Masselerstroos  01350  01350                % 11764 RGTR--
+120403001 Dahl, Ale Wee         01351  01351                % 11764 RGTR--
+120406006 Nocher, Welscheedgen  01352  01352                % 11764 RGTR--
+120406004 Nocher, Schoul        01353  01353                % 11764 RGTR--
+120406005 Nocher, Um Knupp      01354  01354                % 11764 RGTR--
+120406001 Nocher-Route, Zenner  01355  01355                % 11764 RGTR--
+120406003 Nocher-Route, An der  01355  01355                % 11764 RGTR--
+120406002 Nocher-Route, Trin    01356  01356                % 11764 RGTR--
+120901002 Roullingen, Am Duerf  01400  01400                % 11764 RGTR--
+120901003 Roullingen, Réimerwe  01401  01401                % 11764 RGTR--
+120901001 Roullingen, Chalets   01402  01402                % 11764 RGTR--
+120903019 Wiltz, Bastnacherstr  01403  01403                % 11764 RGTR--
+120903005 Wiltz, Belle Vue      01405  01405                % 11764 RGTR--
+120903006 Wiltz, Brandbau       01406  01406                % 11764 RGTR--
+120903011 Wiltz, Clinique       01407  01407                % 11764 RGTR--
+120903008 Wiltz, Pompjeesbau    01410  01410                % 11764 RGTR--
+120903021 Wiltz, Lann           01411  01411                % 11764 RGTR--
+120903023 Wiltz, Lycée du Nord  01413                       % 11764 RGTR--
+*Z 11765 RGTR--                                             % 11765 RGTR--
+*L 147      140304001 120903023  01535  01613               % 11765 RGTR--
+*R 2 120903023 140304001 120903023  01535  01613            % 11765 RGTR--
+*G 010 140304001 120903023  01535  01613                    % 11765 RGTR--
+*A VE 140304001 120903023 000036  01535  01613              % 11765 RGTR--
+*I FD 140304001 120903023        0001194  01535  01613      % 11765 RGTR--
+140304001 Goebelsmühle, Gare r         01535                % 11765 RGTR--
+120401002 Bockholtz/Wiltz, Op   01541  01541                % 11765 RGTR--
+120401001 Bockholtz/Wiltz       01542  01542                % 11765 RGTR--
+120404001 Goesdorf, Gemeng      01546  01546                % 11765 RGTR--
+120404003 Goesdorf, Pompjeën    01546  01546                % 11765 RGTR--
+120404002 Goesdorf, Maeschgaar  01547  01547                % 11765 RGTR--
+120403004 Dahl, Waassertuurm    01549  01549                % 11765 RGTR--
+120403003 Dahl, Al Molkerei     01550  01550                % 11765 RGTR--
+120403002 Dahl, Masselerstroos  01550  01550                % 11765 RGTR--
+120403001 Dahl, Ale Wee         01551  01551                % 11765 RGTR--
+120406006 Nocher, Welscheedgen  01552  01552                % 11765 RGTR--
+120406004 Nocher, Schoul        01553  01553                % 11765 RGTR--
+120406005 Nocher, Um Knupp      01554  01554                % 11765 RGTR--
+120406001 Nocher-Route, Zenner  01555  01555                % 11765 RGTR--
+120406003 Nocher-Route, An der  01555  01555                % 11765 RGTR--
+120406002 Nocher-Route, Trin    01556  01556                % 11765 RGTR--
+120901002 Roullingen, Am Duerf  01600  01600                % 11765 RGTR--
+120901003 Roullingen, Réimerwe  01601  01601                % 11765 RGTR--
+120901001 Roullingen, Chalets   01602  01602                % 11765 RGTR--
+120903019 Wiltz, Bastnacherstr  01603  01603                % 11765 RGTR--
+120903005 Wiltz, Belle Vue      01605  01605                % 11765 RGTR--
+120903006 Wiltz, Brandbau       01606  01606                % 11765 RGTR--
+120903011 Wiltz, Clinique       01607  01607                % 11765 RGTR--
+120903008 Wiltz, Pompjeesbau    01610  01610                % 11765 RGTR--
+120903021 Wiltz, Lann           01611  01611                % 11765 RGTR--
+120903023 Wiltz, Lycée du Nord  01613                       % 11765 RGTR--
+*Z 11766 RGTR--                                             % 11766 RGTR--
+*L 147      140304001 120903023  01735  01813               % 11766 RGTR--
+*R 2 120903023 140304001 120903023  01735  01813            % 11766 RGTR--
+*G 010 140304001 120903023  01735  01813                    % 11766 RGTR--
+*A VE 140304001 120903023 000036  01735  01813              % 11766 RGTR--
+*I FD 140304001 120903023        0002037  01735  01813      % 11766 RGTR--
+140304001 Goebelsmühle, Gare r         01735                % 11766 RGTR--
+120401002 Bockholtz/Wiltz, Op   01741  01741                % 11766 RGTR--
+120401001 Bockholtz/Wiltz       01742  01742                % 11766 RGTR--
+120404001 Goesdorf, Gemeng      01746  01746                % 11766 RGTR--
+120404003 Goesdorf, Pompjeën    01746  01746                % 11766 RGTR--
+120404002 Goesdorf, Maeschgaar  01747  01747                % 11766 RGTR--
+120403004 Dahl, Waassertuurm    01749  01749                % 11766 RGTR--
+120403003 Dahl, Al Molkerei     01750  01750                % 11766 RGTR--
+120403002 Dahl, Masselerstroos  01750  01750                % 11766 RGTR--
+120403001 Dahl, Ale Wee         01751  01751                % 11766 RGTR--
+120406006 Nocher, Welscheedgen  01752  01752                % 11766 RGTR--
+120406004 Nocher, Schoul        01753  01753                % 11766 RGTR--
+120406005 Nocher, Um Knupp      01754  01754                % 11766 RGTR--
+120406001 Nocher-Route, Zenner  01755  01755                % 11766 RGTR--
+120406003 Nocher-Route, An der  01755  01755                % 11766 RGTR--
+120406002 Nocher-Route, Trin    01756  01756                % 11766 RGTR--
+120901002 Roullingen, Am Duerf  01800  01800                % 11766 RGTR--
+120901003 Roullingen, Réimerwe  01801  01801                % 11766 RGTR--
+120901001 Roullingen, Chalets   01802  01802                % 11766 RGTR--
+120903019 Wiltz, Bastnacherstr  01803  01803                % 11766 RGTR--
+120903005 Wiltz, Belle Vue      01805  01805                % 11766 RGTR--
+120903006 Wiltz, Brandbau       01806  01806                % 11766 RGTR--
+120903011 Wiltz, Clinique       01807  01807                % 11766 RGTR--
+120903008 Wiltz, Pompjeesbau    01810  01810                % 11766 RGTR--
+120903021 Wiltz, Lann           01811  01811                % 11766 RGTR--
+120903023 Wiltz, Lycée du Nord  01813                       % 11766 RGTR--
+*Z 11767 RGTR--                                             % 11767 RGTR--
+*L 147      140304001 120903023  01935  02013               % 11767 RGTR--
+*R 2 120903023 140304001 120903023  01935  02013            % 11767 RGTR--
+*G 010 140304001 120903023  01935  02013                    % 11767 RGTR--
+*A VE 140304001 120903023 000036  01935  02013              % 11767 RGTR--
+*I FD 140304001 120903023        0002038  01935  02013      % 11767 RGTR--
+140304001 Goebelsmühle, Gare r         01935                % 11767 RGTR--
+120401002 Bockholtz/Wiltz, Op   01941  01941                % 11767 RGTR--
+120401001 Bockholtz/Wiltz       01942  01942                % 11767 RGTR--
+120404001 Goesdorf, Gemeng      01946  01946                % 11767 RGTR--
+120404003 Goesdorf, Pompjeën    01946  01946                % 11767 RGTR--
+120404002 Goesdorf, Maeschgaar  01947  01947                % 11767 RGTR--
+120403004 Dahl, Waassertuurm    01949  01949                % 11767 RGTR--
+120403003 Dahl, Al Molkerei     01950  01950                % 11767 RGTR--
+120403002 Dahl, Masselerstroos  01950  01950                % 11767 RGTR--
+120403001 Dahl, Ale Wee         01951  01951                % 11767 RGTR--
+120406006 Nocher, Welscheedgen  01952  01952                % 11767 RGTR--
+120406004 Nocher, Schoul        01953  01953                % 11767 RGTR--
+120406005 Nocher, Um Knupp      01954  01954                % 11767 RGTR--
+120406001 Nocher-Route, Zenner  01955  01955                % 11767 RGTR--
+120406003 Nocher-Route, An der  01955  01955                % 11767 RGTR--
+120406002 Nocher-Route, Trin    01956  01956                % 11767 RGTR--
+120901002 Roullingen, Am Duerf  02000  02000                % 11767 RGTR--
+120901003 Roullingen, Réimerwe  02001  02001                % 11767 RGTR--
+120901001 Roullingen, Chalets   02002  02002                % 11767 RGTR--
+120903019 Wiltz, Bastnacherstr  02003  02003                % 11767 RGTR--
+120903005 Wiltz, Belle Vue      02005  02005                % 11767 RGTR--
+120903006 Wiltz, Brandbau       02006  02006                % 11767 RGTR--
+120903011 Wiltz, Clinique       02007  02007                % 11767 RGTR--
+120903008 Wiltz, Pompjeesbau    02010  02010                % 11767 RGTR--
+120903021 Wiltz, Lann           02011  02011                % 11767 RGTR--
+120903023 Wiltz, Lycée du Nord  02013                       % 11767 RGTR--
+*Z 11768 RGTR--                                             % 11768 RGTR--
+*L 147      140304001 120903023  02135  02213               % 11768 RGTR--
+*R 2 120903023 140304001 120903023  02135  02213            % 11768 RGTR--
+*G 010 140304001 120903023  02135  02213                    % 11768 RGTR--
+*A VE 140304001 120903023 000036  02135  02213              % 11768 RGTR--
+*I FD 140304001 120903023        0002873  02135  02213      % 11768 RGTR--
+140304001 Goebelsmühle, Gare r         02135                % 11768 RGTR--
+120401002 Bockholtz/Wiltz, Op   02141  02141                % 11768 RGTR--
+120401001 Bockholtz/Wiltz       02142  02142                % 11768 RGTR--
+120404001 Goesdorf, Gemeng      02146  02146                % 11768 RGTR--
+120404003 Goesdorf, Pompjeën    02146  02146                % 11768 RGTR--
+120404002 Goesdorf, Maeschgaar  02147  02147                % 11768 RGTR--
+120403004 Dahl, Waassertuurm    02149  02149                % 11768 RGTR--
+120403003 Dahl, Al Molkerei     02150  02150                % 11768 RGTR--
+120403002 Dahl, Masselerstroos  02150  02150                % 11768 RGTR--
+120403001 Dahl, Ale Wee         02151  02151                % 11768 RGTR--
+120406006 Nocher, Welscheedgen  02152  02152                % 11768 RGTR--
+120406004 Nocher, Schoul        02153  02153                % 11768 RGTR--
+120406005 Nocher, Um Knupp      02154  02154                % 11768 RGTR--
+120406001 Nocher-Route, Zenner  02155  02155                % 11768 RGTR--
+120406003 Nocher-Route, An der  02155  02155                % 11768 RGTR--
+120406002 Nocher-Route, Trin    02156  02156                % 11768 RGTR--
+120901002 Roullingen, Am Duerf  02200  02200                % 11768 RGTR--
+120901003 Roullingen, Réimerwe  02201  02201                % 11768 RGTR--
+120901001 Roullingen, Chalets   02202  02202                % 11768 RGTR--
+120903019 Wiltz, Bastnacherstr  02203  02203                % 11768 RGTR--
+120903005 Wiltz, Belle Vue      02205  02205                % 11768 RGTR--
+120903006 Wiltz, Brandbau       02206  02206                % 11768 RGTR--
+120903011 Wiltz, Clinique       02207  02207                % 11768 RGTR--
+120903008 Wiltz, Pompjeesbau    02210  02210                % 11768 RGTR--
+120903021 Wiltz, Lann           02211  02211                % 11768 RGTR--
+120903023 Wiltz, Lycée du Nord  02213                       % 11768 RGTR--
+*Z 11769 RGTR--                                             % 11769 RGTR--
+*L 147      120903023 140304001  00743  00821               % 11769 RGTR--
+*R 1 140304001 120903023 140304001  00743  00821            % 11769 RGTR--
+*G 010 120903023 140304001  00743  00821                    % 11769 RGTR--
+*A VE 120903023 140304001 000040  00743  00821              % 11769 RGTR--
+*I FD 120903023 140304001        0003092  00743  00821      % 11769 RGTR--
+120903023 Wiltz, Lycée du Nord         00743                % 11769 RGTR--
+120903021 Wiltz, Lann           00745  00745                % 11769 RGTR--
+120903008 Wiltz, Pompjeesbau    00746  00746                % 11769 RGTR--
+120903039 Wiltz, Schwemm        00746  00746                % 11769 RGTR--
+120903031 Wiltz, Huuschtewee/P  00748  00748                % 11769 RGTR--
+120903035 Wiltz, Huuschtewee    00749  00749                % 11769 RGTR--
+120903011 Wiltz, Clinique       00750  00750                % 11769 RGTR--
+120903006 Wiltz, Brandbau       00751  00751                % 11769 RGTR--
+120903005 Wiltz, Belle Vue      00751  00751                % 11769 RGTR--
+120903019 Wiltz, Bastnacherstr  00753  00753                % 11769 RGTR--
+120901001 Roullingen, Chalets   00754  00754                % 11769 RGTR--
+120901003 Roullingen, Réimerwe  00755  00755                % 11769 RGTR--
+120901002 Roullingen, Am Duerf  00756  00756                % 11769 RGTR--
+120406002 Nocher-Route, Trin    00800  00800                % 11769 RGTR--
+120406003 Nocher-Route, An der  00800  00800                % 11769 RGTR--
+120406001 Nocher-Route, Zenner  00801  00801                % 11769 RGTR--
+120406005 Nocher, Um Knupp      00802  00802                % 11769 RGTR--
+120406004 Nocher, Schoul        00803  00803                % 11769 RGTR--
+120406006 Nocher, Welscheedgen  00803  00803                % 11769 RGTR--
+120403001 Dahl, Ale Wee         00805  00805                % 11769 RGTR--
+120403002 Dahl, Masselerstroos  00805  00805                % 11769 RGTR--
+120403003 Dahl, Al Molkerei     00806  00806                % 11769 RGTR--
+120403004 Dahl, Waassertuurm    00807  00807                % 11769 RGTR--
+120404002 Goesdorf, Maeschgaar  00809  00809                % 11769 RGTR--
+120404003 Goesdorf, Pompjeën    00809  00809                % 11769 RGTR--
+120404001 Goesdorf, Gemeng      00810  00810                % 11769 RGTR--
+120401001 Bockholtz/Wiltz       00814  00814                % 11769 RGTR--
+120401002 Bockholtz/Wiltz, Op   00815  00815                % 11769 RGTR--
+140304001 Goebelsmühle, Gare r  00821                       % 11769 RGTR--
+*Z 11770 RGTR--                                             % 11770 RGTR--
+*L 147      120903023 140304001  00943  01021               % 11770 RGTR--
+*R 1 140304001 120903023 140304001  00943  01021            % 11770 RGTR--
+*G 010 120903023 140304001  00943  01021                    % 11770 RGTR--
+*A VE 120903023 140304001 000040  00943  01021              % 11770 RGTR--
+*I FD 120903023 140304001        0003093  00943  01021      % 11770 RGTR--
+120903023 Wiltz, Lycée du Nord         00943                % 11770 RGTR--
+120903021 Wiltz, Lann           00945  00945                % 11770 RGTR--
+120903008 Wiltz, Pompjeesbau    00946  00946                % 11770 RGTR--
+120903039 Wiltz, Schwemm        00946  00946                % 11770 RGTR--
+120903031 Wiltz, Huuschtewee/P  00948  00948                % 11770 RGTR--
+120903035 Wiltz, Huuschtewee    00949  00949                % 11770 RGTR--
+120903011 Wiltz, Clinique       00950  00950                % 11770 RGTR--
+120903006 Wiltz, Brandbau       00951  00951                % 11770 RGTR--
+120903005 Wiltz, Belle Vue      00951  00951                % 11770 RGTR--
+120903019 Wiltz, Bastnacherstr  00953  00953                % 11770 RGTR--
+120901001 Roullingen, Chalets   00954  00954                % 11770 RGTR--
+120901003 Roullingen, Réimerwe  00955  00955                % 11770 RGTR--
+120901002 Roullingen, Am Duerf  00956  00956                % 11770 RGTR--
+120406002 Nocher-Route, Trin    01000  01000                % 11770 RGTR--
+120406003 Nocher-Route, An der  01000  01000                % 11770 RGTR--
+120406001 Nocher-Route, Zenner  01001  01001                % 11770 RGTR--
+120406005 Nocher, Um Knupp      01002  01002                % 11770 RGTR--
+120406004 Nocher, Schoul        01003  01003                % 11770 RGTR--
+120406006 Nocher, Welscheedgen  01003  01003                % 11770 RGTR--
+120403001 Dahl, Ale Wee         01005  01005                % 11770 RGTR--
+120403002 Dahl, Masselerstroos  01005  01005                % 11770 RGTR--
+120403003 Dahl, Al Molkerei     01006  01006                % 11770 RGTR--
+120403004 Dahl, Waassertuurm    01007  01007                % 11770 RGTR--
+120404002 Goesdorf, Maeschgaar  01009  01009                % 11770 RGTR--
+120404003 Goesdorf, Pompjeën    01009  01009                % 11770 RGTR--
+120404001 Goesdorf, Gemeng      01010  01010                % 11770 RGTR--
+120401001 Bockholtz/Wiltz       01014  01014                % 11770 RGTR--
+120401002 Bockholtz/Wiltz, Op   01015  01015                % 11770 RGTR--
+140304001 Goebelsmühle, Gare r  01021                       % 11770 RGTR--
+*Z 11771 RGTR--                                             % 11771 RGTR--
+*L 147      120903023 140304001  01143  01221               % 11771 RGTR--
+*R 1 140304001 120903023 140304001  01143  01221            % 11771 RGTR--
+*G 010 120903023 140304001  01143  01221                    % 11771 RGTR--
+*A VE 120903023 140304001 000040  01143  01221              % 11771 RGTR--
+*I FD 120903023 140304001        0003094  01143  01221      % 11771 RGTR--
+120903023 Wiltz, Lycée du Nord         01143                % 11771 RGTR--
+120903021 Wiltz, Lann           01145  01145                % 11771 RGTR--
+120903008 Wiltz, Pompjeesbau    01146  01146                % 11771 RGTR--
+120903039 Wiltz, Schwemm        01146  01146                % 11771 RGTR--
+120903031 Wiltz, Huuschtewee/P  01148  01148                % 11771 RGTR--
+120903035 Wiltz, Huuschtewee    01149  01149                % 11771 RGTR--
+120903011 Wiltz, Clinique       01150  01150                % 11771 RGTR--
+120903006 Wiltz, Brandbau       01151  01151                % 11771 RGTR--
+120903005 Wiltz, Belle Vue      01151  01151                % 11771 RGTR--
+120903019 Wiltz, Bastnacherstr  01153  01153                % 11771 RGTR--
+120901001 Roullingen, Chalets   01154  01154                % 11771 RGTR--
+120901003 Roullingen, Réimerwe  01155  01155                % 11771 RGTR--
+120901002 Roullingen, Am Duerf  01156  01156                % 11771 RGTR--
+120406002 Nocher-Route, Trin    01200  01200                % 11771 RGTR--
+120406003 Nocher-Route, An der  01200  01200                % 11771 RGTR--
+120406001 Nocher-Route, Zenner  01201  01201                % 11771 RGTR--
+120406005 Nocher, Um Knupp      01202  01202                % 11771 RGTR--
+120406004 Nocher, Schoul        01203  01203                % 11771 RGTR--
+120406006 Nocher, Welscheedgen  01203  01203                % 11771 RGTR--
+120403001 Dahl, Ale Wee         01205  01205                % 11771 RGTR--
+120403002 Dahl, Masselerstroos  01205  01205                % 11771 RGTR--
+120403003 Dahl, Al Molkerei     01206  01206                % 11771 RGTR--
+120403004 Dahl, Waassertuurm    01207  01207                % 11771 RGTR--
+120404002 Goesdorf, Maeschgaar  01209  01209                % 11771 RGTR--
+120404003 Goesdorf, Pompjeën    01209  01209                % 11771 RGTR--
+120404001 Goesdorf, Gemeng      01210  01210                % 11771 RGTR--
+120401001 Bockholtz/Wiltz       01214  01214                % 11771 RGTR--
+120401002 Bockholtz/Wiltz, Op   01215  01215                % 11771 RGTR--
+140304001 Goebelsmühle, Gare r  01221                       % 11771 RGTR--
+*Z 11772 RGTR--                                             % 11772 RGTR--
+*L 147      120903023 140304001  01343  01421               % 11772 RGTR--
+*R 1 140304001 120903023 140304001  01343  01421            % 11772 RGTR--
+*G 010 120903023 140304001  01343  01421                    % 11772 RGTR--
+*A VE 120903023 140304001 000040  01343  01421              % 11772 RGTR--
+*I FD 120903023 140304001        0003095  01343  01421      % 11772 RGTR--
+120903023 Wiltz, Lycée du Nord         01343                % 11772 RGTR--
+120903021 Wiltz, Lann           01345  01345                % 11772 RGTR--
+120903008 Wiltz, Pompjeesbau    01346  01346                % 11772 RGTR--
+120903039 Wiltz, Schwemm        01346  01346                % 11772 RGTR--
+120903031 Wiltz, Huuschtewee/P  01348  01348                % 11772 RGTR--
+120903035 Wiltz, Huuschtewee    01349  01349                % 11772 RGTR--
+120903011 Wiltz, Clinique       01350  01350                % 11772 RGTR--
+120903006 Wiltz, Brandbau       01351  01351                % 11772 RGTR--
+120903005 Wiltz, Belle Vue      01351  01351                % 11772 RGTR--
+120903019 Wiltz, Bastnacherstr  01353  01353                % 11772 RGTR--
+120901001 Roullingen, Chalets   01354  01354                % 11772 RGTR--
+120901003 Roullingen, Réimerwe  01355  01355                % 11772 RGTR--
+120901002 Roullingen, Am Duerf  01356  01356                % 11772 RGTR--
+120406002 Nocher-Route, Trin    01400  01400                % 11772 RGTR--
+120406003 Nocher-Route, An der  01400  01400                % 11772 RGTR--
+120406001 Nocher-Route, Zenner  01401  01401                % 11772 RGTR--
+120406005 Nocher, Um Knupp      01402  01402                % 11772 RGTR--
+120406004 Nocher, Schoul        01403  01403                % 11772 RGTR--
+120406006 Nocher, Welscheedgen  01403  01403                % 11772 RGTR--
+120403001 Dahl, Ale Wee         01405  01405                % 11772 RGTR--
+120403002 Dahl, Masselerstroos  01405  01405                % 11772 RGTR--
+120403003 Dahl, Al Molkerei     01406  01406                % 11772 RGTR--
+120403004 Dahl, Waassertuurm    01407  01407                % 11772 RGTR--
+120404002 Goesdorf, Maeschgaar  01409  01409                % 11772 RGTR--
+120404003 Goesdorf, Pompjeën    01409  01409                % 11772 RGTR--
+120404001 Goesdorf, Gemeng      01410  01410                % 11772 RGTR--
+120401001 Bockholtz/Wiltz       01414  01414                % 11772 RGTR--
+120401002 Bockholtz/Wiltz, Op   01415  01415                % 11772 RGTR--
+140304001 Goebelsmühle, Gare r  01421                       % 11772 RGTR--
+*Z 11773 RGTR--                                             % 11773 RGTR--
+*L 147      120903023 140304001  01543  01621               % 11773 RGTR--
+*R 1 140304001 120903023 140304001  01543  01621            % 11773 RGTR--
+*G 010 120903023 140304001  01543  01621                    % 11773 RGTR--
+*A VE 120903023 140304001 000040  01543  01621              % 11773 RGTR--
+*I FD 120903023 140304001        0003096  01543  01621      % 11773 RGTR--
+120903023 Wiltz, Lycée du Nord         01543                % 11773 RGTR--
+120903021 Wiltz, Lann           01545  01545                % 11773 RGTR--
+120903008 Wiltz, Pompjeesbau    01546  01546                % 11773 RGTR--
+120903039 Wiltz, Schwemm        01546  01546                % 11773 RGTR--
+120903031 Wiltz, Huuschtewee/P  01548  01548                % 11773 RGTR--
+120903035 Wiltz, Huuschtewee    01549  01549                % 11773 RGTR--
+120903011 Wiltz, Clinique       01550  01550                % 11773 RGTR--
+120903006 Wiltz, Brandbau       01551  01551                % 11773 RGTR--
+120903005 Wiltz, Belle Vue      01551  01551                % 11773 RGTR--
+120903019 Wiltz, Bastnacherstr  01553  01553                % 11773 RGTR--
+120901001 Roullingen, Chalets   01554  01554                % 11773 RGTR--
+120901003 Roullingen, Réimerwe  01555  01555                % 11773 RGTR--
+120901002 Roullingen, Am Duerf  01556  01556                % 11773 RGTR--
+120406002 Nocher-Route, Trin    01600  01600                % 11773 RGTR--
+120406003 Nocher-Route, An der  01600  01600                % 11773 RGTR--
+120406001 Nocher-Route, Zenner  01601  01601                % 11773 RGTR--
+120406005 Nocher, Um Knupp      01602  01602                % 11773 RGTR--
+120406004 Nocher, Schoul        01603  01603                % 11773 RGTR--
+120406006 Nocher, Welscheedgen  01603  01603                % 11773 RGTR--
+120403001 Dahl, Ale Wee         01605  01605                % 11773 RGTR--
+120403002 Dahl, Masselerstroos  01605  01605                % 11773 RGTR--
+120403003 Dahl, Al Molkerei     01606  01606                % 11773 RGTR--
+120403004 Dahl, Waassertuurm    01607  01607                % 11773 RGTR--
+120404002 Goesdorf, Maeschgaar  01609  01609                % 11773 RGTR--
+120404003 Goesdorf, Pompjeën    01609  01609                % 11773 RGTR--
+120404001 Goesdorf, Gemeng      01610  01610                % 11773 RGTR--
+120401001 Bockholtz/Wiltz       01614  01614                % 11773 RGTR--
+120401002 Bockholtz/Wiltz, Op   01615  01615                % 11773 RGTR--
+140304001 Goebelsmühle, Gare r  01621                       % 11773 RGTR--
+*Z 11774 RGTR--                                             % 11774 RGTR--
+*L 147      120903023 140304001  01743  01821               % 11774 RGTR--
+*R 1 140304001 120903023 140304001  01743  01821            % 11774 RGTR--
+*G 010 120903023 140304001  01743  01821                    % 11774 RGTR--
+*A VE 120903023 140304001 000040  01743  01821              % 11774 RGTR--
+*I FD 120903023 140304001        0003097  01743  01821      % 11774 RGTR--
+120903023 Wiltz, Lycée du Nord         01743                % 11774 RGTR--
+120903021 Wiltz, Lann           01745  01745                % 11774 RGTR--
+120903008 Wiltz, Pompjeesbau    01746  01746                % 11774 RGTR--
+120903039 Wiltz, Schwemm        01746  01746                % 11774 RGTR--
+120903031 Wiltz, Huuschtewee/P  01748  01748                % 11774 RGTR--
+120903035 Wiltz, Huuschtewee    01749  01749                % 11774 RGTR--
+120903011 Wiltz, Clinique       01750  01750                % 11774 RGTR--
+120903006 Wiltz, Brandbau       01751  01751                % 11774 RGTR--
+120903005 Wiltz, Belle Vue      01751  01751                % 11774 RGTR--
+120903019 Wiltz, Bastnacherstr  01753  01753                % 11774 RGTR--
+120901001 Roullingen, Chalets   01754  01754                % 11774 RGTR--
+120901003 Roullingen, Réimerwe  01755  01755                % 11774 RGTR--
+120901002 Roullingen, Am Duerf  01756  01756                % 11774 RGTR--
+120406002 Nocher-Route, Trin    01800  01800                % 11774 RGTR--
+120406003 Nocher-Route, An der  01800  01800                % 11774 RGTR--
+120406001 Nocher-Route, Zenner  01801  01801                % 11774 RGTR--
+120406005 Nocher, Um Knupp      01802  01802                % 11774 RGTR--
+120406004 Nocher, Schoul        01803  01803                % 11774 RGTR--
+120406006 Nocher, Welscheedgen  01803  01803                % 11774 RGTR--
+120403001 Dahl, Ale Wee         01805  01805                % 11774 RGTR--
+120403002 Dahl, Masselerstroos  01805  01805                % 11774 RGTR--
+120403003 Dahl, Al Molkerei     01806  01806                % 11774 RGTR--
+120403004 Dahl, Waassertuurm    01807  01807                % 11774 RGTR--
+120404002 Goesdorf, Maeschgaar  01809  01809                % 11774 RGTR--
+120404003 Goesdorf, Pompjeën    01809  01809                % 11774 RGTR--
+120404001 Goesdorf, Gemeng      01810  01810                % 11774 RGTR--
+120401001 Bockholtz/Wiltz       01814  01814                % 11774 RGTR--
+120401002 Bockholtz/Wiltz, Op   01815  01815                % 11774 RGTR--
+140304001 Goebelsmühle, Gare r  01821                       % 11774 RGTR--
+*Z 11775 RGTR--                                             % 11775 RGTR--
+*L 147      120903023 140304001  01943  02021               % 11775 RGTR--
+*R 1 140304001 120903023 140304001  01943  02021            % 11775 RGTR--
+*G 010 120903023 140304001  01943  02021                    % 11775 RGTR--
+*A VE 120903023 140304001 000040  01943  02021              % 11775 RGTR--
+*I FD 120903023 140304001        0003098  01943  02021      % 11775 RGTR--
+120903023 Wiltz, Lycée du Nord         01943                % 11775 RGTR--
+120903021 Wiltz, Lann           01945  01945                % 11775 RGTR--
+120903008 Wiltz, Pompjeesbau    01946  01946                % 11775 RGTR--
+120903039 Wiltz, Schwemm        01946  01946                % 11775 RGTR--
+120903031 Wiltz, Huuschtewee/P  01948  01948                % 11775 RGTR--
+120903035 Wiltz, Huuschtewee    01949  01949                % 11775 RGTR--
+120903011 Wiltz, Clinique       01950  01950                % 11775 RGTR--
+120903006 Wiltz, Brandbau       01951  01951                % 11775 RGTR--
+120903005 Wiltz, Belle Vue      01951  01951                % 11775 RGTR--
+120903019 Wiltz, Bastnacherstr  01953  01953                % 11775 RGTR--
+120901001 Roullingen, Chalets   01954  01954                % 11775 RGTR--
+120901003 Roullingen, Réimerwe  01955  01955                % 11775 RGTR--
+120901002 Roullingen, Am Duerf  01956  01956                % 11775 RGTR--
+120406002 Nocher-Route, Trin    02000  02000                % 11775 RGTR--
+120406003 Nocher-Route, An der  02000  02000                % 11775 RGTR--
+120406001 Nocher-Route, Zenner  02001  02001                % 11775 RGTR--
+120406005 Nocher, Um Knupp      02002  02002                % 11775 RGTR--
+120406004 Nocher, Schoul        02003  02003                % 11775 RGTR--
+120406006 Nocher, Welscheedgen  02003  02003                % 11775 RGTR--
+120403001 Dahl, Ale Wee         02005  02005                % 11775 RGTR--
+120403002 Dahl, Masselerstroos  02005  02005                % 11775 RGTR--
+120403003 Dahl, Al Molkerei     02006  02006                % 11775 RGTR--
+120403004 Dahl, Waassertuurm    02007  02007                % 11775 RGTR--
+120404002 Goesdorf, Maeschgaar  02009  02009                % 11775 RGTR--
+120404003 Goesdorf, Pompjeën    02009  02009                % 11775 RGTR--
+120404001 Goesdorf, Gemeng      02010  02010                % 11775 RGTR--
+120401001 Bockholtz/Wiltz       02014  02014                % 11775 RGTR--
+120401002 Bockholtz/Wiltz, Op   02015  02015                % 11775 RGTR--
+140304001 Goebelsmühle, Gare r  02021                       % 11775 RGTR--
+*Z 11776 RGTR--                                             % 11776 RGTR--
+*L 147      120903023 140304001  02143  02221               % 11776 RGTR--
+*R 1 140304001 120903023 140304001  02143  02221            % 11776 RGTR--
+*G 010 120903023 140304001  02143  02221                    % 11776 RGTR--
+*A VE 120903023 140304001 000040  02143  02221              % 11776 RGTR--
+*I FD 120903023 140304001        0001424  02143  02221      % 11776 RGTR--
+120903023 Wiltz, Lycée du Nord         02143                % 11776 RGTR--
+120903021 Wiltz, Lann           02145  02145                % 11776 RGTR--
+120903008 Wiltz, Pompjeesbau    02146  02146                % 11776 RGTR--
+120903039 Wiltz, Schwemm        02146  02146                % 11776 RGTR--
+120903031 Wiltz, Huuschtewee/P  02148  02148                % 11776 RGTR--
+120903035 Wiltz, Huuschtewee    02149  02149                % 11776 RGTR--
+120903011 Wiltz, Clinique       02150  02150                % 11776 RGTR--
+120903006 Wiltz, Brandbau       02151  02151                % 11776 RGTR--
+120903005 Wiltz, Belle Vue      02151  02151                % 11776 RGTR--
+120903019 Wiltz, Bastnacherstr  02153  02153                % 11776 RGTR--
+120901001 Roullingen, Chalets   02154  02154                % 11776 RGTR--
+120901003 Roullingen, Réimerwe  02155  02155                % 11776 RGTR--
+120901002 Roullingen, Am Duerf  02156  02156                % 11776 RGTR--
+120406002 Nocher-Route, Trin    02200  02200                % 11776 RGTR--
+120406003 Nocher-Route, An der  02200  02200                % 11776 RGTR--
+120406001 Nocher-Route, Zenner  02201  02201                % 11776 RGTR--
+120406005 Nocher, Um Knupp      02202  02202                % 11776 RGTR--
+120406004 Nocher, Schoul        02203  02203                % 11776 RGTR--
+120406006 Nocher, Welscheedgen  02203  02203                % 11776 RGTR--
+120403001 Dahl, Ale Wee         02205  02205                % 11776 RGTR--
+120403002 Dahl, Masselerstroos  02205  02205                % 11776 RGTR--
+120403003 Dahl, Al Molkerei     02206  02206                % 11776 RGTR--
+120403004 Dahl, Waassertuurm    02207  02207                % 11776 RGTR--
+120404002 Goesdorf, Maeschgaar  02209  02209                % 11776 RGTR--
+120404003 Goesdorf, Pompjeën    02209  02209                % 11776 RGTR--
+120404001 Goesdorf, Gemeng      02210  02210                % 11776 RGTR--
+120401001 Bockholtz/Wiltz       02214  02214                % 11776 RGTR--
+120401002 Bockholtz/Wiltz, Op   02215  02215                % 11776 RGTR--
+140304001 Goebelsmühle, Gare r  02221                       % 11776 RGTR--
+*Z 11777 RGTR--                                             % 11777 RGTR--
+*L 147      120903023 140304001  00443  00521               % 11777 RGTR--
+*R 1 140304001 120903023 140304001  00443  00521            % 11777 RGTR--
+*G 010 120903023 140304001  00443  00521                    % 11777 RGTR--
+*A VE 120903023 140304001 000038  00443  00521              % 11777 RGTR--
+*I FD 120903023 140304001        0003099  00443  00521      % 11777 RGTR--
+120903023 Wiltz, Lycée du Nord         00443                % 11777 RGTR--
+120903021 Wiltz, Lann           00445  00445                % 11777 RGTR--
+120903008 Wiltz, Pompjeesbau    00446  00446                % 11777 RGTR--
+120903039 Wiltz, Schwemm        00446  00446                % 11777 RGTR--
+120903031 Wiltz, Huuschtewee/P  00448  00448                % 11777 RGTR--
+120903035 Wiltz, Huuschtewee    00449  00449                % 11777 RGTR--
+120903011 Wiltz, Clinique       00450  00450                % 11777 RGTR--
+120903006 Wiltz, Brandbau       00451  00451                % 11777 RGTR--
+120903005 Wiltz, Belle Vue      00451  00451                % 11777 RGTR--
+120903019 Wiltz, Bastnacherstr  00453  00453                % 11777 RGTR--
+120901001 Roullingen, Chalets   00454  00454                % 11777 RGTR--
+120901003 Roullingen, Réimerwe  00455  00455                % 11777 RGTR--
+120901002 Roullingen, Am Duerf  00456  00456                % 11777 RGTR--
+120406002 Nocher-Route, Trin    00500  00500                % 11777 RGTR--
+120406003 Nocher-Route, An der  00500  00500                % 11777 RGTR--
+120406001 Nocher-Route, Zenner  00501  00501                % 11777 RGTR--
+120406005 Nocher, Um Knupp      00502  00502                % 11777 RGTR--
+120406004 Nocher, Schoul        00503  00503                % 11777 RGTR--
+120406006 Nocher, Welscheedgen  00503  00503                % 11777 RGTR--
+120403001 Dahl, Ale Wee         00505  00505                % 11777 RGTR--
+120403002 Dahl, Masselerstroos  00505  00505                % 11777 RGTR--
+120403003 Dahl, Al Molkerei     00506  00506                % 11777 RGTR--
+120403004 Dahl, Waassertuurm    00507  00507                % 11777 RGTR--
+120404002 Goesdorf, Maeschgaar  00509  00509                % 11777 RGTR--
+120404003 Goesdorf, Pompjeën    00509  00509                % 11777 RGTR--
+120404001 Goesdorf, Gemeng      00510  00510                % 11777 RGTR--
+120401001 Bockholtz/Wiltz       00514  00514                % 11777 RGTR--
+120401002 Bockholtz/Wiltz, Op   00515  00515                % 11777 RGTR--
+140304001 Goebelsmühle, Gare r  00521                       % 11777 RGTR--
+*Z 11778 RGTR--                                             % 11778 RGTR--
+*L 147      120903023 140304001  00543  00621               % 11778 RGTR--
+*R 1 140304001 120903023 140304001  00543  00621            % 11778 RGTR--
+*G 010 120903023 140304001  00543  00621                    % 11778 RGTR--
+*A VE 120903023 140304001 000038  00543  00621              % 11778 RGTR--
+*I FD 120903023 140304001        0003100  00543  00621      % 11778 RGTR--
+120903023 Wiltz, Lycée du Nord         00543                % 11778 RGTR--
+120903021 Wiltz, Lann           00545  00545                % 11778 RGTR--
+120903008 Wiltz, Pompjeesbau    00546  00546                % 11778 RGTR--
+120903039 Wiltz, Schwemm        00546  00546                % 11778 RGTR--
+120903031 Wiltz, Huuschtewee/P  00548  00548                % 11778 RGTR--
+120903035 Wiltz, Huuschtewee    00549  00549                % 11778 RGTR--
+120903011 Wiltz, Clinique       00550  00550                % 11778 RGTR--
+120903006 Wiltz, Brandbau       00551  00551                % 11778 RGTR--
+120903005 Wiltz, Belle Vue      00551  00551                % 11778 RGTR--
+120903019 Wiltz, Bastnacherstr  00553  00553                % 11778 RGTR--
+120901001 Roullingen, Chalets   00554  00554                % 11778 RGTR--
+120901003 Roullingen, Réimerwe  00555  00555                % 11778 RGTR--
+120901002 Roullingen, Am Duerf  00556  00556                % 11778 RGTR--
+120406002 Nocher-Route, Trin    00600  00600                % 11778 RGTR--
+120406003 Nocher-Route, An der  00600  00600                % 11778 RGTR--
+120406001 Nocher-Route, Zenner  00601  00601                % 11778 RGTR--
+120406005 Nocher, Um Knupp      00602  00602                % 11778 RGTR--
+120406004 Nocher, Schoul        00603  00603                % 11778 RGTR--
+120406006 Nocher, Welscheedgen  00603  00603                % 11778 RGTR--
+120403001 Dahl, Ale Wee         00605  00605                % 11778 RGTR--
+120403002 Dahl, Masselerstroos  00605  00605                % 11778 RGTR--
+120403003 Dahl, Al Molkerei     00606  00606                % 11778 RGTR--
+120403004 Dahl, Waassertuurm    00607  00607                % 11778 RGTR--
+120404002 Goesdorf, Maeschgaar  00609  00609                % 11778 RGTR--
+120404003 Goesdorf, Pompjeën    00609  00609                % 11778 RGTR--
+120404001 Goesdorf, Gemeng      00610  00610                % 11778 RGTR--
+120401001 Bockholtz/Wiltz       00614  00614                % 11778 RGTR--
+120401002 Bockholtz/Wiltz, Op   00615  00615                % 11778 RGTR--
+140304001 Goebelsmühle, Gare r  00621                       % 11778 RGTR--
+*Z 11779 RGTR--                                             % 11779 RGTR--
+*L 147      120903023 140304001  00643  00721               % 11779 RGTR--
+*R 1 140304001 120903023 140304001  00643  00721            % 11779 RGTR--
+*G 010 120903023 140304001  00643  00721                    % 11779 RGTR--
+*A VE 120903023 140304001 000038  00643  00721              % 11779 RGTR--
+*I FD 120903023 140304001        0003101  00643  00721      % 11779 RGTR--
+120903023 Wiltz, Lycée du Nord         00643                % 11779 RGTR--
+120903021 Wiltz, Lann           00645  00645                % 11779 RGTR--
+120903008 Wiltz, Pompjeesbau    00646  00646                % 11779 RGTR--
+120903039 Wiltz, Schwemm        00646  00646                % 11779 RGTR--
+120903031 Wiltz, Huuschtewee/P  00648  00648                % 11779 RGTR--
+120903035 Wiltz, Huuschtewee    00649  00649                % 11779 RGTR--
+120903011 Wiltz, Clinique       00650  00650                % 11779 RGTR--
+120903006 Wiltz, Brandbau       00651  00651                % 11779 RGTR--
+120903005 Wiltz, Belle Vue      00651  00651                % 11779 RGTR--
+120903019 Wiltz, Bastnacherstr  00653  00653                % 11779 RGTR--
+120901001 Roullingen, Chalets   00654  00654                % 11779 RGTR--
+120901003 Roullingen, Réimerwe  00655  00655                % 11779 RGTR--
+120901002 Roullingen, Am Duerf  00656  00656                % 11779 RGTR--
+120406002 Nocher-Route, Trin    00700  00700                % 11779 RGTR--
+120406003 Nocher-Route, An der  00700  00700                % 11779 RGTR--
+120406001 Nocher-Route, Zenner  00701  00701                % 11779 RGTR--
+120406005 Nocher, Um Knupp      00702  00702                % 11779 RGTR--
+120406004 Nocher, Schoul        00703  00703                % 11779 RGTR--
+120406006 Nocher, Welscheedgen  00703  00703                % 11779 RGTR--
+120403001 Dahl, Ale Wee         00705  00705                % 11779 RGTR--
+120403002 Dahl, Masselerstroos  00705  00705                % 11779 RGTR--
+120403003 Dahl, Al Molkerei     00706  00706                % 11779 RGTR--
+120403004 Dahl, Waassertuurm    00707  00707                % 11779 RGTR--
+120404002 Goesdorf, Maeschgaar  00709  00709                % 11779 RGTR--
+120404003 Goesdorf, Pompjeën    00709  00709                % 11779 RGTR--
+120404001 Goesdorf, Gemeng      00710  00710                % 11779 RGTR--
+120401001 Bockholtz/Wiltz       00714  00714                % 11779 RGTR--
+120401002 Bockholtz/Wiltz, Op   00715  00715                % 11779 RGTR--
+140304001 Goebelsmühle, Gare r  00721                       % 11779 RGTR--
+*Z 11780 RGTR--                                             % 11780 RGTR--
+*L 147      120903023 140304001  00843  00921               % 11780 RGTR--
+*R 1 140304001 120903023 140304001  00843  00921            % 11780 RGTR--
+*G 010 120903023 140304001  00843  00921                    % 11780 RGTR--
+*A VE 120903023 140304001 000038  00843  00921              % 11780 RGTR--
+*I FD 120903023 140304001        0003102  00843  00921      % 11780 RGTR--
+120903023 Wiltz, Lycée du Nord         00843                % 11780 RGTR--
+120903021 Wiltz, Lann           00845  00845                % 11780 RGTR--
+120903008 Wiltz, Pompjeesbau    00846  00846                % 11780 RGTR--
+120903039 Wiltz, Schwemm        00846  00846                % 11780 RGTR--
+120903031 Wiltz, Huuschtewee/P  00848  00848                % 11780 RGTR--
+120903035 Wiltz, Huuschtewee    00849  00849                % 11780 RGTR--
+120903011 Wiltz, Clinique       00850  00850                % 11780 RGTR--
+120903006 Wiltz, Brandbau       00851  00851                % 11780 RGTR--
+120903005 Wiltz, Belle Vue      00851  00851                % 11780 RGTR--
+120903019 Wiltz, Bastnacherstr  00853  00853                % 11780 RGTR--
+120901001 Roullingen, Chalets   00854  00854                % 11780 RGTR--
+120901003 Roullingen, Réimerwe  00855  00855                % 11780 RGTR--
+120901002 Roullingen, Am Duerf  00856  00856                % 11780 RGTR--
+120406002 Nocher-Route, Trin    00900  00900                % 11780 RGTR--
+120406003 Nocher-Route, An der  00900  00900                % 11780 RGTR--
+120406001 Nocher-Route, Zenner  00901  00901                % 11780 RGTR--
+120406005 Nocher, Um Knupp      00902  00902                % 11780 RGTR--
+120406004 Nocher, Schoul        00903  00903                % 11780 RGTR--
+120406006 Nocher, Welscheedgen  00903  00903                % 11780 RGTR--
+120403001 Dahl, Ale Wee         00905  00905                % 11780 RGTR--
+120403002 Dahl, Masselerstroos  00905  00905                % 11780 RGTR--
+120403003 Dahl, Al Molkerei     00906  00906                % 11780 RGTR--
+120403004 Dahl, Waassertuurm    00907  00907                % 11780 RGTR--
+120404002 Goesdorf, Maeschgaar  00909  00909                % 11780 RGTR--
+120404003 Goesdorf, Pompjeën    00909  00909                % 11780 RGTR--
+120404001 Goesdorf, Gemeng      00910  00910                % 11780 RGTR--
+120401001 Bockholtz/Wiltz       00914  00914                % 11780 RGTR--
+120401002 Bockholtz/Wiltz, Op   00915  00915                % 11780 RGTR--
+140304001 Goebelsmühle, Gare r  00921                       % 11780 RGTR--
+*Z 11781 RGTR--                                             % 11781 RGTR--
+*L 147      120903023 140304001  01043  01121               % 11781 RGTR--
+*R 1 140304001 120903023 140304001  01043  01121            % 11781 RGTR--
+*G 010 120903023 140304001  01043  01121                    % 11781 RGTR--
+*A VE 120903023 140304001 000038  01043  01121              % 11781 RGTR--
+*I FD 120903023 140304001        0003103  01043  01121      % 11781 RGTR--
+120903023 Wiltz, Lycée du Nord         01043                % 11781 RGTR--
+120903021 Wiltz, Lann           01045  01045                % 11781 RGTR--
+120903008 Wiltz, Pompjeesbau    01046  01046                % 11781 RGTR--
+120903039 Wiltz, Schwemm        01046  01046                % 11781 RGTR--
+120903031 Wiltz, Huuschtewee/P  01048  01048                % 11781 RGTR--
+120903035 Wiltz, Huuschtewee    01049  01049                % 11781 RGTR--
+120903011 Wiltz, Clinique       01050  01050                % 11781 RGTR--
+120903006 Wiltz, Brandbau       01051  01051                % 11781 RGTR--
+120903005 Wiltz, Belle Vue      01051  01051                % 11781 RGTR--
+120903019 Wiltz, Bastnacherstr  01053  01053                % 11781 RGTR--
+120901001 Roullingen, Chalets   01054  01054                % 11781 RGTR--
+120901003 Roullingen, Réimerwe  01055  01055                % 11781 RGTR--
+120901002 Roullingen, Am Duerf  01056  01056                % 11781 RGTR--
+120406002 Nocher-Route, Trin    01100  01100                % 11781 RGTR--
+120406003 Nocher-Route, An der  01100  01100                % 11781 RGTR--
+120406001 Nocher-Route, Zenner  01101  01101                % 11781 RGTR--
+120406005 Nocher, Um Knupp      01102  01102                % 11781 RGTR--
+120406004 Nocher, Schoul        01103  01103                % 11781 RGTR--
+120406006 Nocher, Welscheedgen  01103  01103                % 11781 RGTR--
+120403001 Dahl, Ale Wee         01105  01105                % 11781 RGTR--
+120403002 Dahl, Masselerstroos  01105  01105                % 11781 RGTR--
+120403003 Dahl, Al Molkerei     01106  01106                % 11781 RGTR--
+120403004 Dahl, Waassertuurm    01107  01107                % 11781 RGTR--
+120404002 Goesdorf, Maeschgaar  01109  01109                % 11781 RGTR--
+120404003 Goesdorf, Pompjeën    01109  01109                % 11781 RGTR--
+120404001 Goesdorf, Gemeng      01110  01110                % 11781 RGTR--
+120401001 Bockholtz/Wiltz       01114  01114                % 11781 RGTR--
+120401002 Bockholtz/Wiltz, Op   01115  01115                % 11781 RGTR--
+140304001 Goebelsmühle, Gare r  01121                       % 11781 RGTR--
+*Z 11782 RGTR--                                             % 11782 RGTR--
+*L 147      120903023 140304001  01243  01321               % 11782 RGTR--
+*R 1 140304001 120903023 140304001  01243  01321            % 11782 RGTR--
+*G 010 120903023 140304001  01243  01321                    % 11782 RGTR--
+*A VE 120903023 140304001 000038  01243  01321              % 11782 RGTR--
+*I FD 120903023 140304001        0003104  01243  01321      % 11782 RGTR--
+120903023 Wiltz, Lycée du Nord         01243                % 11782 RGTR--
+120903021 Wiltz, Lann           01245  01245                % 11782 RGTR--
+120903008 Wiltz, Pompjeesbau    01246  01246                % 11782 RGTR--
+120903039 Wiltz, Schwemm        01246  01246                % 11782 RGTR--
+120903031 Wiltz, Huuschtewee/P  01248  01248                % 11782 RGTR--
+120903035 Wiltz, Huuschtewee    01249  01249                % 11782 RGTR--
+120903011 Wiltz, Clinique       01250  01250                % 11782 RGTR--
+120903006 Wiltz, Brandbau       01251  01251                % 11782 RGTR--
+120903005 Wiltz, Belle Vue      01251  01251                % 11782 RGTR--
+120903019 Wiltz, Bastnacherstr  01253  01253                % 11782 RGTR--
+120901001 Roullingen, Chalets   01254  01254                % 11782 RGTR--
+120901003 Roullingen, Réimerwe  01255  01255                % 11782 RGTR--
+120901002 Roullingen, Am Duerf  01256  01256                % 11782 RGTR--
+120406002 Nocher-Route, Trin    01300  01300                % 11782 RGTR--
+120406003 Nocher-Route, An der  01300  01300                % 11782 RGTR--
+120406001 Nocher-Route, Zenner  01301  01301                % 11782 RGTR--
+120406005 Nocher, Um Knupp      01302  01302                % 11782 RGTR--
+120406004 Nocher, Schoul        01303  01303                % 11782 RGTR--
+120406006 Nocher, Welscheedgen  01303  01303                % 11782 RGTR--
+120403001 Dahl, Ale Wee         01305  01305                % 11782 RGTR--
+120403002 Dahl, Masselerstroos  01305  01305                % 11782 RGTR--
+120403003 Dahl, Al Molkerei     01306  01306                % 11782 RGTR--
+120403004 Dahl, Waassertuurm    01307  01307                % 11782 RGTR--
+120404002 Goesdorf, Maeschgaar  01309  01309                % 11782 RGTR--
+120404003 Goesdorf, Pompjeën    01309  01309                % 11782 RGTR--
+120404001 Goesdorf, Gemeng      01310  01310                % 11782 RGTR--
+120401001 Bockholtz/Wiltz       01314  01314                % 11782 RGTR--
+120401002 Bockholtz/Wiltz, Op   01315  01315                % 11782 RGTR--
+140304001 Goebelsmühle, Gare r  01321                       % 11782 RGTR--
+*Z 11783 RGTR--                                             % 11783 RGTR--
+*L 147      120903023 140304001  01443  01521               % 11783 RGTR--
+*R 1 140304001 120903023 140304001  01443  01521            % 11783 RGTR--
+*G 010 120903023 140304001  01443  01521                    % 11783 RGTR--
+*A VE 120903023 140304001 000038  01443  01521              % 11783 RGTR--
+*I FD 120903023 140304001        0003105  01443  01521      % 11783 RGTR--
+120903023 Wiltz, Lycée du Nord         01443                % 11783 RGTR--
+120903021 Wiltz, Lann           01445  01445                % 11783 RGTR--
+120903008 Wiltz, Pompjeesbau    01446  01446                % 11783 RGTR--
+120903039 Wiltz, Schwemm        01446  01446                % 11783 RGTR--
+120903031 Wiltz, Huuschtewee/P  01448  01448                % 11783 RGTR--
+120903035 Wiltz, Huuschtewee    01449  01449                % 11783 RGTR--
+120903011 Wiltz, Clinique       01450  01450                % 11783 RGTR--
+120903006 Wiltz, Brandbau       01451  01451                % 11783 RGTR--
+120903005 Wiltz, Belle Vue      01451  01451                % 11783 RGTR--
+120903019 Wiltz, Bastnacherstr  01453  01453                % 11783 RGTR--
+120901001 Roullingen, Chalets   01454  01454                % 11783 RGTR--
+120901003 Roullingen, Réimerwe  01455  01455                % 11783 RGTR--
+120901002 Roullingen, Am Duerf  01456  01456                % 11783 RGTR--
+120406002 Nocher-Route, Trin    01500  01500                % 11783 RGTR--
+120406003 Nocher-Route, An der  01500  01500                % 11783 RGTR--
+120406001 Nocher-Route, Zenner  01501  01501                % 11783 RGTR--
+120406005 Nocher, Um Knupp      01502  01502                % 11783 RGTR--
+120406004 Nocher, Schoul        01503  01503                % 11783 RGTR--
+120406006 Nocher, Welscheedgen  01503  01503                % 11783 RGTR--
+120403001 Dahl, Ale Wee         01505  01505                % 11783 RGTR--
+120403002 Dahl, Masselerstroos  01505  01505                % 11783 RGTR--
+120403003 Dahl, Al Molkerei     01506  01506                % 11783 RGTR--
+120403004 Dahl, Waassertuurm    01507  01507                % 11783 RGTR--
+120404002 Goesdorf, Maeschgaar  01509  01509                % 11783 RGTR--
+120404003 Goesdorf, Pompjeën    01509  01509                % 11783 RGTR--
+120404001 Goesdorf, Gemeng      01510  01510                % 11783 RGTR--
+120401001 Bockholtz/Wiltz       01514  01514                % 11783 RGTR--
+120401002 Bockholtz/Wiltz, Op   01515  01515                % 11783 RGTR--
+140304001 Goebelsmühle, Gare r  01521                       % 11783 RGTR--
+*Z 11784 RGTR--                                             % 11784 RGTR--
+*L 147      120903023 140304001  01643  01721               % 11784 RGTR--
+*R 1 140304001 120903023 140304001  01643  01721            % 11784 RGTR--
+*G 010 120903023 140304001  01643  01721                    % 11784 RGTR--
+*A VE 120903023 140304001 000038  01643  01721              % 11784 RGTR--
+*I FD 120903023 140304001        0001231  01643  01721      % 11784 RGTR--
+120903023 Wiltz, Lycée du Nord         01643                % 11784 RGTR--
+120903021 Wiltz, Lann           01645  01645                % 11784 RGTR--
+120903008 Wiltz, Pompjeesbau    01646  01646                % 11784 RGTR--
+120903039 Wiltz, Schwemm        01646  01646                % 11784 RGTR--
+120903031 Wiltz, Huuschtewee/P  01648  01648                % 11784 RGTR--
+120903035 Wiltz, Huuschtewee    01649  01649                % 11784 RGTR--
+120903011 Wiltz, Clinique       01650  01650                % 11784 RGTR--
+120903006 Wiltz, Brandbau       01651  01651                % 11784 RGTR--
+120903005 Wiltz, Belle Vue      01651  01651                % 11784 RGTR--
+120903019 Wiltz, Bastnacherstr  01653  01653                % 11784 RGTR--
+120901001 Roullingen, Chalets   01654  01654                % 11784 RGTR--
+120901003 Roullingen, Réimerwe  01655  01655                % 11784 RGTR--
+120901002 Roullingen, Am Duerf  01656  01656                % 11784 RGTR--
+120406002 Nocher-Route, Trin    01700  01700                % 11784 RGTR--
+120406003 Nocher-Route, An der  01700  01700                % 11784 RGTR--
+120406001 Nocher-Route, Zenner  01701  01701                % 11784 RGTR--
+120406005 Nocher, Um Knupp      01702  01702                % 11784 RGTR--
+120406004 Nocher, Schoul        01703  01703                % 11784 RGTR--
+120406006 Nocher, Welscheedgen  01703  01703                % 11784 RGTR--
+120403001 Dahl, Ale Wee         01705  01705                % 11784 RGTR--
+120403002 Dahl, Masselerstroos  01705  01705                % 11784 RGTR--
+120403003 Dahl, Al Molkerei     01706  01706                % 11784 RGTR--
+120403004 Dahl, Waassertuurm    01707  01707                % 11784 RGTR--
+120404002 Goesdorf, Maeschgaar  01709  01709                % 11784 RGTR--
+120404003 Goesdorf, Pompjeën    01709  01709                % 11784 RGTR--
+120404001 Goesdorf, Gemeng      01710  01710                % 11784 RGTR--
+120401001 Bockholtz/Wiltz       01714  01714                % 11784 RGTR--
+120401002 Bockholtz/Wiltz, Op   01715  01715                % 11784 RGTR--
+140304001 Goebelsmühle, Gare r  01721                       % 11784 RGTR--
+*Z 11785 RGTR--                                             % 11785 RGTR--
+*L 147      120903023 140304001  01843  01921               % 11785 RGTR--
+*R 1 140304001 120903023 140304001  01843  01921            % 11785 RGTR--
+*G 010 120903023 140304001  01843  01921                    % 11785 RGTR--
+*A VE 120903023 140304001 000038  01843  01921              % 11785 RGTR--
+*I FD 120903023 140304001        0001317  01843  01921      % 11785 RGTR--
+120903023 Wiltz, Lycée du Nord         01843                % 11785 RGTR--
+120903021 Wiltz, Lann           01845  01845                % 11785 RGTR--
+120903008 Wiltz, Pompjeesbau    01846  01846                % 11785 RGTR--
+120903039 Wiltz, Schwemm        01846  01846                % 11785 RGTR--
+120903031 Wiltz, Huuschtewee/P  01848  01848                % 11785 RGTR--
+120903035 Wiltz, Huuschtewee    01849  01849                % 11785 RGTR--
+120903011 Wiltz, Clinique       01850  01850                % 11785 RGTR--
+120903006 Wiltz, Brandbau       01851  01851                % 11785 RGTR--
+120903005 Wiltz, Belle Vue      01851  01851                % 11785 RGTR--
+120903019 Wiltz, Bastnacherstr  01853  01853                % 11785 RGTR--
+120901001 Roullingen, Chalets   01854  01854                % 11785 RGTR--
+120901003 Roullingen, Réimerwe  01855  01855                % 11785 RGTR--
+120901002 Roullingen, Am Duerf  01856  01856                % 11785 RGTR--
+120406002 Nocher-Route, Trin    01900  01900                % 11785 RGTR--
+120406003 Nocher-Route, An der  01900  01900                % 11785 RGTR--
+120406001 Nocher-Route, Zenner  01901  01901                % 11785 RGTR--
+120406005 Nocher, Um Knupp      01902  01902                % 11785 RGTR--
+120406004 Nocher, Schoul        01903  01903                % 11785 RGTR--
+120406006 Nocher, Welscheedgen  01903  01903                % 11785 RGTR--
+120403001 Dahl, Ale Wee         01905  01905                % 11785 RGTR--
+120403002 Dahl, Masselerstroos  01905  01905                % 11785 RGTR--
+120403003 Dahl, Al Molkerei     01906  01906                % 11785 RGTR--
+120403004 Dahl, Waassertuurm    01907  01907                % 11785 RGTR--
+120404002 Goesdorf, Maeschgaar  01909  01909                % 11785 RGTR--
+120404003 Goesdorf, Pompjeën    01909  01909                % 11785 RGTR--
+120404001 Goesdorf, Gemeng      01910  01910                % 11785 RGTR--
+120401001 Bockholtz/Wiltz       01914  01914                % 11785 RGTR--
+120401002 Bockholtz/Wiltz, Op   01915  01915                % 11785 RGTR--
+140304001 Goebelsmühle, Gare r  01921                       % 11785 RGTR--
+*Z 11786 RGTR--                                             % 11786 RGTR--
+*L 147      120903023 140304001  02043  02121               % 11786 RGTR--
+*R 1 140304001 120903023 140304001  02043  02121            % 11786 RGTR--
+*G 010 120903023 140304001  02043  02121                    % 11786 RGTR--
+*A VE 120903023 140304001 000038  02043  02121              % 11786 RGTR--
+*I FD 120903023 140304001        0003106  02043  02121      % 11786 RGTR--
+120903023 Wiltz, Lycée du Nord         02043                % 11786 RGTR--
+120903021 Wiltz, Lann           02045  02045                % 11786 RGTR--
+120903008 Wiltz, Pompjeesbau    02046  02046                % 11786 RGTR--
+120903039 Wiltz, Schwemm        02046  02046                % 11786 RGTR--
+120903031 Wiltz, Huuschtewee/P  02048  02048                % 11786 RGTR--
+120903035 Wiltz, Huuschtewee    02049  02049                % 11786 RGTR--
+120903011 Wiltz, Clinique       02050  02050                % 11786 RGTR--
+120903006 Wiltz, Brandbau       02051  02051                % 11786 RGTR--
+120903005 Wiltz, Belle Vue      02051  02051                % 11786 RGTR--
+120903019 Wiltz, Bastnacherstr  02053  02053                % 11786 RGTR--
+120901001 Roullingen, Chalets   02054  02054                % 11786 RGTR--
+120901003 Roullingen, Réimerwe  02055  02055                % 11786 RGTR--
+120901002 Roullingen, Am Duerf  02056  02056                % 11786 RGTR--
+120406002 Nocher-Route, Trin    02100  02100                % 11786 RGTR--
+120406003 Nocher-Route, An der  02100  02100                % 11786 RGTR--
+120406001 Nocher-Route, Zenner  02101  02101                % 11786 RGTR--
+120406005 Nocher, Um Knupp      02102  02102                % 11786 RGTR--
+120406004 Nocher, Schoul        02103  02103                % 11786 RGTR--
+120406006 Nocher, Welscheedgen  02103  02103                % 11786 RGTR--
+120403001 Dahl, Ale Wee         02105  02105                % 11786 RGTR--
+120403002 Dahl, Masselerstroos  02105  02105                % 11786 RGTR--
+120403003 Dahl, Al Molkerei     02106  02106                % 11786 RGTR--
+120403004 Dahl, Waassertuurm    02107  02107                % 11786 RGTR--
+120404002 Goesdorf, Maeschgaar  02109  02109                % 11786 RGTR--
+120404003 Goesdorf, Pompjeën    02109  02109                % 11786 RGTR--
+120404001 Goesdorf, Gemeng      02110  02110                % 11786 RGTR--
+120401001 Bockholtz/Wiltz       02114  02114                % 11786 RGTR--
+120401002 Bockholtz/Wiltz, Op   02115  02115                % 11786 RGTR--
+140304001 Goebelsmühle, Gare r  02121                       % 11786 RGTR--
+*Z 11787 RGTR--                                             % 11787 RGTR--
+*L 147      140304001 120903023  00835  00913               % 11787 RGTR--
+*R 2 120903023 140304001 120903023  00835  00913            % 11787 RGTR--
+*G 010 140304001 120903023  00835  00913                    % 11787 RGTR--
+*A VE 140304001 120903023 000040  00835  00913              % 11787 RGTR--
+*I FD 140304001 120903023        0001933  00835  00913      % 11787 RGTR--
+140304001 Goebelsmühle, Gare r         00835                % 11787 RGTR--
+120401002 Bockholtz/Wiltz, Op   00841  00841                % 11787 RGTR--
+120401001 Bockholtz/Wiltz       00842  00842                % 11787 RGTR--
+120404001 Goesdorf, Gemeng      00846  00846                % 11787 RGTR--
+120404003 Goesdorf, Pompjeën    00846  00846                % 11787 RGTR--
+120404002 Goesdorf, Maeschgaar  00847  00847                % 11787 RGTR--
+120403004 Dahl, Waassertuurm    00849  00849                % 11787 RGTR--
+120403003 Dahl, Al Molkerei     00850  00850                % 11787 RGTR--
+120403002 Dahl, Masselerstroos  00850  00850                % 11787 RGTR--
+120403001 Dahl, Ale Wee         00851  00851                % 11787 RGTR--
+120406006 Nocher, Welscheedgen  00852  00852                % 11787 RGTR--
+120406004 Nocher, Schoul        00853  00853                % 11787 RGTR--
+120406005 Nocher, Um Knupp      00854  00854                % 11787 RGTR--
+120406001 Nocher-Route, Zenner  00855  00855                % 11787 RGTR--
+120406003 Nocher-Route, An der  00855  00855                % 11787 RGTR--
+120406002 Nocher-Route, Trin    00856  00856                % 11787 RGTR--
+120901002 Roullingen, Am Duerf  00900  00900                % 11787 RGTR--
+120901003 Roullingen, Réimerwe  00901  00901                % 11787 RGTR--
+120901001 Roullingen, Chalets   00902  00902                % 11787 RGTR--
+120903019 Wiltz, Bastnacherstr  00903  00903                % 11787 RGTR--
+120903005 Wiltz, Belle Vue      00905  00905                % 11787 RGTR--
+120903006 Wiltz, Brandbau       00906  00906                % 11787 RGTR--
+120903011 Wiltz, Clinique       00907  00907                % 11787 RGTR--
+120903008 Wiltz, Pompjeesbau    00910  00910                % 11787 RGTR--
+120903021 Wiltz, Lann           00911  00911                % 11787 RGTR--
+120903023 Wiltz, Lycée du Nord  00913                       % 11787 RGTR--
+*Z 11788 RGTR--                                             % 11788 RGTR--
+*L 147      140304001 120903023  01035  01113               % 11788 RGTR--
+*R 2 120903023 140304001 120903023  01035  01113            % 11788 RGTR--
+*G 010 140304001 120903023  01035  01113                    % 11788 RGTR--
+*A VE 140304001 120903023 000040  01035  01113              % 11788 RGTR--
+*I FD 140304001 120903023        0002042  01035  01113      % 11788 RGTR--
+140304001 Goebelsmühle, Gare r         01035                % 11788 RGTR--
+120401002 Bockholtz/Wiltz, Op   01041  01041                % 11788 RGTR--
+120401001 Bockholtz/Wiltz       01042  01042                % 11788 RGTR--
+120404001 Goesdorf, Gemeng      01046  01046                % 11788 RGTR--
+120404003 Goesdorf, Pompjeën    01046  01046                % 11788 RGTR--
+120404002 Goesdorf, Maeschgaar  01047  01047                % 11788 RGTR--
+120403004 Dahl, Waassertuurm    01049  01049                % 11788 RGTR--
+120403003 Dahl, Al Molkerei     01050  01050                % 11788 RGTR--
+120403002 Dahl, Masselerstroos  01050  01050                % 11788 RGTR--
+120403001 Dahl, Ale Wee         01051  01051                % 11788 RGTR--
+120406006 Nocher, Welscheedgen  01052  01052                % 11788 RGTR--
+120406004 Nocher, Schoul        01053  01053                % 11788 RGTR--
+120406005 Nocher, Um Knupp      01054  01054                % 11788 RGTR--
+120406001 Nocher-Route, Zenner  01055  01055                % 11788 RGTR--
+120406003 Nocher-Route, An der  01055  01055                % 11788 RGTR--
+120406002 Nocher-Route, Trin    01056  01056                % 11788 RGTR--
+120901002 Roullingen, Am Duerf  01100  01100                % 11788 RGTR--
+120901003 Roullingen, Réimerwe  01101  01101                % 11788 RGTR--
+120901001 Roullingen, Chalets   01102  01102                % 11788 RGTR--
+120903019 Wiltz, Bastnacherstr  01103  01103                % 11788 RGTR--
+120903005 Wiltz, Belle Vue      01105  01105                % 11788 RGTR--
+120903006 Wiltz, Brandbau       01106  01106                % 11788 RGTR--
+120903011 Wiltz, Clinique       01107  01107                % 11788 RGTR--
+120903008 Wiltz, Pompjeesbau    01110  01110                % 11788 RGTR--
+120903021 Wiltz, Lann           01111  01111                % 11788 RGTR--
+120903023 Wiltz, Lycée du Nord  01113                       % 11788 RGTR--
+*Z 11789 RGTR--                                             % 11789 RGTR--
+*L 147      140304001 120903023  01235  01313               % 11789 RGTR--
+*R 2 120903023 140304001 120903023  01235  01313            % 11789 RGTR--
+*G 010 140304001 120903023  01235  01313                    % 11789 RGTR--
+*A VE 140304001 120903023 000040  01235  01313              % 11789 RGTR--
+*I FD 140304001 120903023        0001115  01235  01313      % 11789 RGTR--
+140304001 Goebelsmühle, Gare r         01235                % 11789 RGTR--
+120401002 Bockholtz/Wiltz, Op   01241  01241                % 11789 RGTR--
+120401001 Bockholtz/Wiltz       01242  01242                % 11789 RGTR--
+120404001 Goesdorf, Gemeng      01246  01246                % 11789 RGTR--
+120404003 Goesdorf, Pompjeën    01246  01246                % 11789 RGTR--
+120404002 Goesdorf, Maeschgaar  01247  01247                % 11789 RGTR--
+120403004 Dahl, Waassertuurm    01249  01249                % 11789 RGTR--
+120403003 Dahl, Al Molkerei     01250  01250                % 11789 RGTR--
+120403002 Dahl, Masselerstroos  01250  01250                % 11789 RGTR--
+120403001 Dahl, Ale Wee         01251  01251                % 11789 RGTR--
+120406006 Nocher, Welscheedgen  01252  01252                % 11789 RGTR--
+120406004 Nocher, Schoul        01253  01253                % 11789 RGTR--
+120406005 Nocher, Um Knupp      01254  01254                % 11789 RGTR--
+120406001 Nocher-Route, Zenner  01255  01255                % 11789 RGTR--
+120406003 Nocher-Route, An der  01255  01255                % 11789 RGTR--
+120406002 Nocher-Route, Trin    01256  01256                % 11789 RGTR--
+120901002 Roullingen, Am Duerf  01300  01300                % 11789 RGTR--
+120901003 Roullingen, Réimerwe  01301  01301                % 11789 RGTR--
+120901001 Roullingen, Chalets   01302  01302                % 11789 RGTR--
+120903019 Wiltz, Bastnacherstr  01303  01303                % 11789 RGTR--
+120903005 Wiltz, Belle Vue      01305  01305                % 11789 RGTR--
+120903006 Wiltz, Brandbau       01306  01306                % 11789 RGTR--
+120903011 Wiltz, Clinique       01307  01307                % 11789 RGTR--
+120903008 Wiltz, Pompjeesbau    01310  01310                % 11789 RGTR--
+120903021 Wiltz, Lann           01311  01311                % 11789 RGTR--
+120903023 Wiltz, Lycée du Nord  01313                       % 11789 RGTR--
+*Z 11790 RGTR--                                             % 11790 RGTR--
+*L 147      140304001 120903023  01435  01513               % 11790 RGTR--
+*R 2 120903023 140304001 120903023  01435  01513            % 11790 RGTR--
+*G 010 140304001 120903023  01435  01513                    % 11790 RGTR--
+*A VE 140304001 120903023 000040  01435  01513              % 11790 RGTR--
+*I FD 140304001 120903023        0002036  01435  01513      % 11790 RGTR--
+140304001 Goebelsmühle, Gare r         01435                % 11790 RGTR--
+120401002 Bockholtz/Wiltz, Op   01441  01441                % 11790 RGTR--
+120401001 Bockholtz/Wiltz       01442  01442                % 11790 RGTR--
+120404001 Goesdorf, Gemeng      01446  01446                % 11790 RGTR--
+120404003 Goesdorf, Pompjeën    01446  01446                % 11790 RGTR--
+120404002 Goesdorf, Maeschgaar  01447  01447                % 11790 RGTR--
+120403004 Dahl, Waassertuurm    01449  01449                % 11790 RGTR--
+120403003 Dahl, Al Molkerei     01450  01450                % 11790 RGTR--
+120403002 Dahl, Masselerstroos  01450  01450                % 11790 RGTR--
+120403001 Dahl, Ale Wee         01451  01451                % 11790 RGTR--
+120406006 Nocher, Welscheedgen  01452  01452                % 11790 RGTR--
+120406004 Nocher, Schoul        01453  01453                % 11790 RGTR--
+120406005 Nocher, Um Knupp      01454  01454                % 11790 RGTR--
+120406001 Nocher-Route, Zenner  01455  01455                % 11790 RGTR--
+120406003 Nocher-Route, An der  01455  01455                % 11790 RGTR--
+120406002 Nocher-Route, Trin    01456  01456                % 11790 RGTR--
+120901002 Roullingen, Am Duerf  01500  01500                % 11790 RGTR--
+120901003 Roullingen, Réimerwe  01501  01501                % 11790 RGTR--
+120901001 Roullingen, Chalets   01502  01502                % 11790 RGTR--
+120903019 Wiltz, Bastnacherstr  01503  01503                % 11790 RGTR--
+120903005 Wiltz, Belle Vue      01505  01505                % 11790 RGTR--
+120903006 Wiltz, Brandbau       01506  01506                % 11790 RGTR--
+120903011 Wiltz, Clinique       01507  01507                % 11790 RGTR--
+120903008 Wiltz, Pompjeesbau    01510  01510                % 11790 RGTR--
+120903021 Wiltz, Lann           01511  01511                % 11790 RGTR--
+120903023 Wiltz, Lycée du Nord  01513                       % 11790 RGTR--
+*Z 11791 RGTR--                                             % 11791 RGTR--
+*L 147      140304001 120903023  01635  01713               % 11791 RGTR--
+*R 2 120903023 140304001 120903023  01635  01713            % 11791 RGTR--
+*G 010 140304001 120903023  01635  01713                    % 11791 RGTR--
+*A VE 140304001 120903023 000040  01635  01713              % 11791 RGTR--
+*I FD 140304001 120903023        0002044  01635  01713      % 11791 RGTR--
+140304001 Goebelsmühle, Gare r         01635                % 11791 RGTR--
+120401002 Bockholtz/Wiltz, Op   01641  01641                % 11791 RGTR--
+120401001 Bockholtz/Wiltz       01642  01642                % 11791 RGTR--
+120404001 Goesdorf, Gemeng      01646  01646                % 11791 RGTR--
+120404003 Goesdorf, Pompjeën    01646  01646                % 11791 RGTR--
+120404002 Goesdorf, Maeschgaar  01647  01647                % 11791 RGTR--
+120403004 Dahl, Waassertuurm    01649  01649                % 11791 RGTR--
+120403003 Dahl, Al Molkerei     01650  01650                % 11791 RGTR--
+120403002 Dahl, Masselerstroos  01650  01650                % 11791 RGTR--
+120403001 Dahl, Ale Wee         01651  01651                % 11791 RGTR--
+120406006 Nocher, Welscheedgen  01652  01652                % 11791 RGTR--
+120406004 Nocher, Schoul        01653  01653                % 11791 RGTR--
+120406005 Nocher, Um Knupp      01654  01654                % 11791 RGTR--
+120406001 Nocher-Route, Zenner  01655  01655                % 11791 RGTR--
+120406003 Nocher-Route, An der  01655  01655                % 11791 RGTR--
+120406002 Nocher-Route, Trin    01656  01656                % 11791 RGTR--
+120901002 Roullingen, Am Duerf  01700  01700                % 11791 RGTR--
+120901003 Roullingen, Réimerwe  01701  01701                % 11791 RGTR--
+120901001 Roullingen, Chalets   01702  01702                % 11791 RGTR--
+120903019 Wiltz, Bastnacherstr  01703  01703                % 11791 RGTR--
+120903005 Wiltz, Belle Vue      01705  01705                % 11791 RGTR--
+120903006 Wiltz, Brandbau       01706  01706                % 11791 RGTR--
+120903011 Wiltz, Clinique       01707  01707                % 11791 RGTR--
+120903008 Wiltz, Pompjeesbau    01710  01710                % 11791 RGTR--
+120903021 Wiltz, Lann           01711  01711                % 11791 RGTR--
+120903023 Wiltz, Lycée du Nord  01713                       % 11791 RGTR--
+*Z 11792 RGTR--                                             % 11792 RGTR--
+*L 147      140304001 120903023  01835  01913               % 11792 RGTR--
+*R 2 120903023 140304001 120903023  01835  01913            % 11792 RGTR--
+*G 010 140304001 120903023  01835  01913                    % 11792 RGTR--
+*A VE 140304001 120903023 000040  01835  01913              % 11792 RGTR--
+*I FD 140304001 120903023        0002045  01835  01913      % 11792 RGTR--
+140304001 Goebelsmühle, Gare r         01835                % 11792 RGTR--
+120401002 Bockholtz/Wiltz, Op   01841  01841                % 11792 RGTR--
+120401001 Bockholtz/Wiltz       01842  01842                % 11792 RGTR--
+120404001 Goesdorf, Gemeng      01846  01846                % 11792 RGTR--
+120404003 Goesdorf, Pompjeën    01846  01846                % 11792 RGTR--
+120404002 Goesdorf, Maeschgaar  01847  01847                % 11792 RGTR--
+120403004 Dahl, Waassertuurm    01849  01849                % 11792 RGTR--
+120403003 Dahl, Al Molkerei     01850  01850                % 11792 RGTR--
+120403002 Dahl, Masselerstroos  01850  01850                % 11792 RGTR--
+120403001 Dahl, Ale Wee         01851  01851                % 11792 RGTR--
+120406006 Nocher, Welscheedgen  01852  01852                % 11792 RGTR--
+120406004 Nocher, Schoul        01853  01853                % 11792 RGTR--
+120406005 Nocher, Um Knupp      01854  01854                % 11792 RGTR--
+120406001 Nocher-Route, Zenner  01855  01855                % 11792 RGTR--
+120406003 Nocher-Route, An der  01855  01855                % 11792 RGTR--
+120406002 Nocher-Route, Trin    01856  01856                % 11792 RGTR--
+120901002 Roullingen, Am Duerf  01900  01900                % 11792 RGTR--
+120901003 Roullingen, Réimerwe  01901  01901                % 11792 RGTR--
+120901001 Roullingen, Chalets   01902  01902                % 11792 RGTR--
+120903019 Wiltz, Bastnacherstr  01903  01903                % 11792 RGTR--
+120903005 Wiltz, Belle Vue      01905  01905                % 11792 RGTR--
+120903006 Wiltz, Brandbau       01906  01906                % 11792 RGTR--
+120903011 Wiltz, Clinique       01907  01907                % 11792 RGTR--
+120903008 Wiltz, Pompjeesbau    01910  01910                % 11792 RGTR--
+120903021 Wiltz, Lann           01911  01911                % 11792 RGTR--
+120903023 Wiltz, Lycée du Nord  01913                       % 11792 RGTR--
+*Z 11793 RGTR--                                             % 11793 RGTR--
+*L 147      140304001 120903023  02035  02113               % 11793 RGTR--
+*R 2 120903023 140304001 120903023  02035  02113            % 11793 RGTR--
+*G 010 140304001 120903023  02035  02113                    % 11793 RGTR--
+*A VE 140304001 120903023 000040  02035  02113              % 11793 RGTR--
+*I FD 140304001 120903023        0002039  02035  02113      % 11793 RGTR--
+140304001 Goebelsmühle, Gare r         02035                % 11793 RGTR--
+120401002 Bockholtz/Wiltz, Op   02041  02041                % 11793 RGTR--
+120401001 Bockholtz/Wiltz       02042  02042                % 11793 RGTR--
+120404001 Goesdorf, Gemeng      02046  02046                % 11793 RGTR--
+120404003 Goesdorf, Pompjeën    02046  02046                % 11793 RGTR--
+120404002 Goesdorf, Maeschgaar  02047  02047                % 11793 RGTR--
+120403004 Dahl, Waassertuurm    02049  02049                % 11793 RGTR--
+120403003 Dahl, Al Molkerei     02050  02050                % 11793 RGTR--
+120403002 Dahl, Masselerstroos  02050  02050                % 11793 RGTR--
+120403001 Dahl, Ale Wee         02051  02051                % 11793 RGTR--
+120406006 Nocher, Welscheedgen  02052  02052                % 11793 RGTR--
+120406004 Nocher, Schoul        02053  02053                % 11793 RGTR--
+120406005 Nocher, Um Knupp      02054  02054                % 11793 RGTR--
+120406001 Nocher-Route, Zenner  02055  02055                % 11793 RGTR--
+120406003 Nocher-Route, An der  02055  02055                % 11793 RGTR--
+120406002 Nocher-Route, Trin    02056  02056                % 11793 RGTR--
+120901002 Roullingen, Am Duerf  02100  02100                % 11793 RGTR--
+120901003 Roullingen, Réimerwe  02101  02101                % 11793 RGTR--
+120901001 Roullingen, Chalets   02102  02102                % 11793 RGTR--
+120903019 Wiltz, Bastnacherstr  02103  02103                % 11793 RGTR--
+120903005 Wiltz, Belle Vue      02105  02105                % 11793 RGTR--
+120903006 Wiltz, Brandbau       02106  02106                % 11793 RGTR--
+120903011 Wiltz, Clinique       02107  02107                % 11793 RGTR--
+120903008 Wiltz, Pompjeesbau    02110  02110                % 11793 RGTR--
+120903021 Wiltz, Lann           02111  02111                % 11793 RGTR--
+120903023 Wiltz, Lycée du Nord  02113                       % 11793 RGTR--
+*Z 11794 RGTR--                                             % 11794 RGTR--
+*L 147      140304001 120903023  02235  02313               % 11794 RGTR--
+*R 2 120903023 140304001 120903023  02235  02313            % 11794 RGTR--
+*G 010 140304001 120903023  02235  02313                    % 11794 RGTR--
+*A VE 140304001 120903023 000040  02235  02313              % 11794 RGTR--
+*I FD 140304001 120903023        0003067  02235  02313      % 11794 RGTR--
+140304001 Goebelsmühle, Gare r         02235                % 11794 RGTR--
+120401002 Bockholtz/Wiltz, Op   02241  02241                % 11794 RGTR--
+120401001 Bockholtz/Wiltz       02242  02242                % 11794 RGTR--
+120404001 Goesdorf, Gemeng      02246  02246                % 11794 RGTR--
+120404003 Goesdorf, Pompjeën    02246  02246                % 11794 RGTR--
+120404002 Goesdorf, Maeschgaar  02247  02247                % 11794 RGTR--
+120403004 Dahl, Waassertuurm    02249  02249                % 11794 RGTR--
+120403003 Dahl, Al Molkerei     02250  02250                % 11794 RGTR--
+120403002 Dahl, Masselerstroos  02250  02250                % 11794 RGTR--
+120403001 Dahl, Ale Wee         02251  02251                % 11794 RGTR--
+120406006 Nocher, Welscheedgen  02252  02252                % 11794 RGTR--
+120406004 Nocher, Schoul        02253  02253                % 11794 RGTR--
+120406005 Nocher, Um Knupp      02254  02254                % 11794 RGTR--
+120406001 Nocher-Route, Zenner  02255  02255                % 11794 RGTR--
+120406003 Nocher-Route, An der  02255  02255                % 11794 RGTR--
+120406002 Nocher-Route, Trin    02256  02256                % 11794 RGTR--
+120901002 Roullingen, Am Duerf  02300  02300                % 11794 RGTR--
+120901003 Roullingen, Réimerwe  02301  02301                % 11794 RGTR--
+120901001 Roullingen, Chalets   02302  02302                % 11794 RGTR--
+120903019 Wiltz, Bastnacherstr  02303  02303                % 11794 RGTR--
+120903005 Wiltz, Belle Vue      02305  02305                % 11794 RGTR--
+120903006 Wiltz, Brandbau       02306  02306                % 11794 RGTR--
+120903011 Wiltz, Clinique       02307  02307                % 11794 RGTR--
+120903008 Wiltz, Pompjeesbau    02310  02310                % 11794 RGTR--
+120903021 Wiltz, Lann           02311  02311                % 11794 RGTR--
+120903023 Wiltz, Lycée du Nord  02313                       % 11794 RGTR--
+*Z 11795 RGTR--                                             % 11795 RGTR--
+*L 147      140304001 120903023  00535  00613               % 11795 RGTR--
+*R 2 120903023 140304001 120903023  00535  00613            % 11795 RGTR--
+*G 010 140304001 120903023  00535  00613                    % 11795 RGTR--
+*A VE 140304001 120903023 000038  00535  00613              % 11795 RGTR--
+*I FD 140304001 120903023        0000734  00535  00613      % 11795 RGTR--
+140304001 Goebelsmühle, Gare r         00535                % 11795 RGTR--
+120401002 Bockholtz/Wiltz, Op   00541  00541                % 11795 RGTR--
+120401001 Bockholtz/Wiltz       00542  00542                % 11795 RGTR--
+120404001 Goesdorf, Gemeng      00546  00546                % 11795 RGTR--
+120404003 Goesdorf, Pompjeën    00546  00546                % 11795 RGTR--
+120404002 Goesdorf, Maeschgaar  00547  00547                % 11795 RGTR--
+120403004 Dahl, Waassertuurm    00549  00549                % 11795 RGTR--
+120403003 Dahl, Al Molkerei     00550  00550                % 11795 RGTR--
+120403002 Dahl, Masselerstroos  00550  00550                % 11795 RGTR--
+120403001 Dahl, Ale Wee         00551  00551                % 11795 RGTR--
+120406006 Nocher, Welscheedgen  00552  00552                % 11795 RGTR--
+120406004 Nocher, Schoul        00553  00553                % 11795 RGTR--
+120406005 Nocher, Um Knupp      00554  00554                % 11795 RGTR--
+120406001 Nocher-Route, Zenner  00555  00555                % 11795 RGTR--
+120406003 Nocher-Route, An der  00555  00555                % 11795 RGTR--
+120406002 Nocher-Route, Trin    00556  00556                % 11795 RGTR--
+120901002 Roullingen, Am Duerf  00600  00600                % 11795 RGTR--
+120901003 Roullingen, Réimerwe  00601  00601                % 11795 RGTR--
+120901001 Roullingen, Chalets   00602  00602                % 11795 RGTR--
+120903019 Wiltz, Bastnacherstr  00603  00603                % 11795 RGTR--
+120903005 Wiltz, Belle Vue      00605  00605                % 11795 RGTR--
+120903006 Wiltz, Brandbau       00606  00606                % 11795 RGTR--
+120903011 Wiltz, Clinique       00607  00607                % 11795 RGTR--
+120903008 Wiltz, Pompjeesbau    00610  00610                % 11795 RGTR--
+120903021 Wiltz, Lann           00611  00611                % 11795 RGTR--
+120903023 Wiltz, Lycée du Nord  00613                       % 11795 RGTR--
+*Z 11796 RGTR--                                             % 11796 RGTR--
+*L 147      140304001 120903023  00635  00713               % 11796 RGTR--
+*R 2 120903023 140304001 120903023  00635  00713            % 11796 RGTR--
+*G 010 140304001 120903023  00635  00713                    % 11796 RGTR--
+*A VE 140304001 120903023 000038  00635  00713              % 11796 RGTR--
+*I FD 140304001 120903023        0001931  00635  00713      % 11796 RGTR--
+140304001 Goebelsmühle, Gare r         00635                % 11796 RGTR--
+120401002 Bockholtz/Wiltz, Op   00641  00641                % 11796 RGTR--
+120401001 Bockholtz/Wiltz       00642  00642                % 11796 RGTR--
+120404001 Goesdorf, Gemeng      00646  00646                % 11796 RGTR--
+120404003 Goesdorf, Pompjeën    00646  00646                % 11796 RGTR--
+120404002 Goesdorf, Maeschgaar  00647  00647                % 11796 RGTR--
+120403004 Dahl, Waassertuurm    00649  00649                % 11796 RGTR--
+120403003 Dahl, Al Molkerei     00650  00650                % 11796 RGTR--
+120403002 Dahl, Masselerstroos  00650  00650                % 11796 RGTR--
+120403001 Dahl, Ale Wee         00651  00651                % 11796 RGTR--
+120406006 Nocher, Welscheedgen  00652  00652                % 11796 RGTR--
+120406004 Nocher, Schoul        00653  00653                % 11796 RGTR--
+120406005 Nocher, Um Knupp      00654  00654                % 11796 RGTR--
+120406001 Nocher-Route, Zenner  00655  00655                % 11796 RGTR--
+120406003 Nocher-Route, An der  00655  00655                % 11796 RGTR--
+120406002 Nocher-Route, Trin    00656  00656                % 11796 RGTR--
+120901002 Roullingen, Am Duerf  00700  00700                % 11796 RGTR--
+120901003 Roullingen, Réimerwe  00701  00701                % 11796 RGTR--
+120901001 Roullingen, Chalets   00702  00702                % 11796 RGTR--
+120903019 Wiltz, Bastnacherstr  00703  00703                % 11796 RGTR--
+120903005 Wiltz, Belle Vue      00705  00705                % 11796 RGTR--
+120903006 Wiltz, Brandbau       00706  00706                % 11796 RGTR--
+120903011 Wiltz, Clinique       00707  00707                % 11796 RGTR--
+120903008 Wiltz, Pompjeesbau    00710  00710                % 11796 RGTR--
+120903021 Wiltz, Lann           00711  00711                % 11796 RGTR--
+120903023 Wiltz, Lycée du Nord  00713                       % 11796 RGTR--
+*Z 11797 RGTR--                                             % 11797 RGTR--
+*L 147      140304001 120903023  00735  00813               % 11797 RGTR--
+*R 2 120903023 140304001 120903023  00735  00813            % 11797 RGTR--
+*G 010 140304001 120903023  00735  00813                    % 11797 RGTR--
+*A VE 140304001 120903023 000038  00735  00813              % 11797 RGTR--
+*I FD 140304001 120903023        0001932  00735  00813      % 11797 RGTR--
+140304001 Goebelsmühle, Gare r         00735                % 11797 RGTR--
+120401002 Bockholtz/Wiltz, Op   00741  00741                % 11797 RGTR--
+120401001 Bockholtz/Wiltz       00742  00742                % 11797 RGTR--
+120404001 Goesdorf, Gemeng      00746  00746                % 11797 RGTR--
+120404003 Goesdorf, Pompjeën    00746  00746                % 11797 RGTR--
+120404002 Goesdorf, Maeschgaar  00747  00747                % 11797 RGTR--
+120403004 Dahl, Waassertuurm    00749  00749                % 11797 RGTR--
+120403003 Dahl, Al Molkerei     00750  00750                % 11797 RGTR--
+120403002 Dahl, Masselerstroos  00750  00750                % 11797 RGTR--
+120403001 Dahl, Ale Wee         00751  00751                % 11797 RGTR--
+120406006 Nocher, Welscheedgen  00752  00752                % 11797 RGTR--
+120406004 Nocher, Schoul        00753  00753                % 11797 RGTR--
+120406005 Nocher, Um Knupp      00754  00754                % 11797 RGTR--
+120406001 Nocher-Route, Zenner  00755  00755                % 11797 RGTR--
+120406003 Nocher-Route, An der  00755  00755                % 11797 RGTR--
+120406002 Nocher-Route, Trin    00756  00756                % 11797 RGTR--
+120901002 Roullingen, Am Duerf  00800  00800                % 11797 RGTR--
+120901003 Roullingen, Réimerwe  00801  00801                % 11797 RGTR--
+120901001 Roullingen, Chalets   00802  00802                % 11797 RGTR--
+120903019 Wiltz, Bastnacherstr  00803  00803                % 11797 RGTR--
+120903005 Wiltz, Belle Vue      00805  00805                % 11797 RGTR--
+120903006 Wiltz, Brandbau       00806  00806                % 11797 RGTR--
+120903011 Wiltz, Clinique       00807  00807                % 11797 RGTR--
+120903008 Wiltz, Pompjeesbau    00810  00810                % 11797 RGTR--
+120903021 Wiltz, Lann           00811  00811                % 11797 RGTR--
+120903023 Wiltz, Lycée du Nord  00813                       % 11797 RGTR--
+*Z 11798 RGTR--                                             % 11798 RGTR--
+*L 147      140304001 120903023  00935  01013               % 11798 RGTR--
+*R 2 120903023 140304001 120903023  00935  01013            % 11798 RGTR--
+*G 010 140304001 120903023  00935  01013                    % 11798 RGTR--
+*A VE 140304001 120903023 000038  00935  01013              % 11798 RGTR--
+*I FD 140304001 120903023        0000960  00935  01013      % 11798 RGTR--
+140304001 Goebelsmühle, Gare r         00935                % 11798 RGTR--
+120401002 Bockholtz/Wiltz, Op   00941  00941                % 11798 RGTR--
+120401001 Bockholtz/Wiltz       00942  00942                % 11798 RGTR--
+120404001 Goesdorf, Gemeng      00946  00946                % 11798 RGTR--
+120404003 Goesdorf, Pompjeën    00946  00946                % 11798 RGTR--
+120404002 Goesdorf, Maeschgaar  00947  00947                % 11798 RGTR--
+120403004 Dahl, Waassertuurm    00949  00949                % 11798 RGTR--
+120403003 Dahl, Al Molkerei     00950  00950                % 11798 RGTR--
+120403002 Dahl, Masselerstroos  00950  00950                % 11798 RGTR--
+120403001 Dahl, Ale Wee         00951  00951                % 11798 RGTR--
+120406006 Nocher, Welscheedgen  00952  00952                % 11798 RGTR--
+120406004 Nocher, Schoul        00953  00953                % 11798 RGTR--
+120406005 Nocher, Um Knupp      00954  00954                % 11798 RGTR--
+120406001 Nocher-Route, Zenner  00955  00955                % 11798 RGTR--
+120406003 Nocher-Route, An der  00955  00955                % 11798 RGTR--
+120406002 Nocher-Route, Trin    00956  00956                % 11798 RGTR--
+120901002 Roullingen, Am Duerf  01000  01000                % 11798 RGTR--
+120901003 Roullingen, Réimerwe  01001  01001                % 11798 RGTR--
+120901001 Roullingen, Chalets   01002  01002                % 11798 RGTR--
+120903019 Wiltz, Bastnacherstr  01003  01003                % 11798 RGTR--
+120903005 Wiltz, Belle Vue      01005  01005                % 11798 RGTR--
+120903006 Wiltz, Brandbau       01006  01006                % 11798 RGTR--
+120903011 Wiltz, Clinique       01007  01007                % 11798 RGTR--
+120903008 Wiltz, Pompjeesbau    01010  01010                % 11798 RGTR--
+120903021 Wiltz, Lann           01011  01011                % 11798 RGTR--
+120903023 Wiltz, Lycée du Nord  01013                       % 11798 RGTR--
+*Z 11799 RGTR--                                             % 11799 RGTR--
+*L 147      140304001 120903023  01135  01213               % 11799 RGTR--
+*R 2 120903023 140304001 120903023  01135  01213            % 11799 RGTR--
+*G 010 140304001 120903023  01135  01213                    % 11799 RGTR--
+*A VE 140304001 120903023 000038  01135  01213              % 11799 RGTR--
+*I FD 140304001 120903023        0002035  01135  01213      % 11799 RGTR--
+140304001 Goebelsmühle, Gare r         01135                % 11799 RGTR--
+120401002 Bockholtz/Wiltz, Op   01141  01141                % 11799 RGTR--
+120401001 Bockholtz/Wiltz       01142  01142                % 11799 RGTR--
+120404001 Goesdorf, Gemeng      01146  01146                % 11799 RGTR--
+120404003 Goesdorf, Pompjeën    01146  01146                % 11799 RGTR--
+120404002 Goesdorf, Maeschgaar  01147  01147                % 11799 RGTR--
+120403004 Dahl, Waassertuurm    01149  01149                % 11799 RGTR--
+120403003 Dahl, Al Molkerei     01150  01150                % 11799 RGTR--
+120403002 Dahl, Masselerstroos  01150  01150                % 11799 RGTR--
+120403001 Dahl, Ale Wee         01151  01151                % 11799 RGTR--
+120406006 Nocher, Welscheedgen  01152  01152                % 11799 RGTR--
+120406004 Nocher, Schoul        01153  01153                % 11799 RGTR--
+120406005 Nocher, Um Knupp      01154  01154                % 11799 RGTR--
+120406001 Nocher-Route, Zenner  01155  01155                % 11799 RGTR--
+120406003 Nocher-Route, An der  01155  01155                % 11799 RGTR--
+120406002 Nocher-Route, Trin    01156  01156                % 11799 RGTR--
+120901002 Roullingen, Am Duerf  01200  01200                % 11799 RGTR--
+120901003 Roullingen, Réimerwe  01201  01201                % 11799 RGTR--
+120901001 Roullingen, Chalets   01202  01202                % 11799 RGTR--
+120903019 Wiltz, Bastnacherstr  01203  01203                % 11799 RGTR--
+120903005 Wiltz, Belle Vue      01205  01205                % 11799 RGTR--
+120903006 Wiltz, Brandbau       01206  01206                % 11799 RGTR--
+120903011 Wiltz, Clinique       01207  01207                % 11799 RGTR--
+120903008 Wiltz, Pompjeesbau    01210  01210                % 11799 RGTR--
+120903021 Wiltz, Lann           01211  01211                % 11799 RGTR--
+120903023 Wiltz, Lycée du Nord  01213                       % 11799 RGTR--
+*Z 11800 RGTR--                                             % 11800 RGTR--
+*L 147      140304001 120903023  01335  01413               % 11800 RGTR--
+*R 2 120903023 140304001 120903023  01335  01413            % 11800 RGTR--
+*G 010 140304001 120903023  01335  01413                    % 11800 RGTR--
+*A VE 140304001 120903023 000038  01335  01413              % 11800 RGTR--
+*I FD 140304001 120903023        0002043  01335  01413      % 11800 RGTR--
+140304001 Goebelsmühle, Gare r         01335                % 11800 RGTR--
+120401002 Bockholtz/Wiltz, Op   01341  01341                % 11800 RGTR--
+120401001 Bockholtz/Wiltz       01342  01342                % 11800 RGTR--
+120404001 Goesdorf, Gemeng      01346  01346                % 11800 RGTR--
+120404003 Goesdorf, Pompjeën    01346  01346                % 11800 RGTR--
+120404002 Goesdorf, Maeschgaar  01347  01347                % 11800 RGTR--
+120403004 Dahl, Waassertuurm    01349  01349                % 11800 RGTR--
+120403003 Dahl, Al Molkerei     01350  01350                % 11800 RGTR--
+120403002 Dahl, Masselerstroos  01350  01350                % 11800 RGTR--
+120403001 Dahl, Ale Wee         01351  01351                % 11800 RGTR--
+120406006 Nocher, Welscheedgen  01352  01352                % 11800 RGTR--
+120406004 Nocher, Schoul        01353  01353                % 11800 RGTR--
+120406005 Nocher, Um Knupp      01354  01354                % 11800 RGTR--
+120406001 Nocher-Route, Zenner  01355  01355                % 11800 RGTR--
+120406003 Nocher-Route, An der  01355  01355                % 11800 RGTR--
+120406002 Nocher-Route, Trin    01356  01356                % 11800 RGTR--
+120901002 Roullingen, Am Duerf  01400  01400                % 11800 RGTR--
+120901003 Roullingen, Réimerwe  01401  01401                % 11800 RGTR--
+120901001 Roullingen, Chalets   01402  01402                % 11800 RGTR--
+120903019 Wiltz, Bastnacherstr  01403  01403                % 11800 RGTR--
+120903005 Wiltz, Belle Vue      01405  01405                % 11800 RGTR--
+120903006 Wiltz, Brandbau       01406  01406                % 11800 RGTR--
+120903011 Wiltz, Clinique       01407  01407                % 11800 RGTR--
+120903008 Wiltz, Pompjeesbau    01410  01410                % 11800 RGTR--
+120903021 Wiltz, Lann           01411  01411                % 11800 RGTR--
+120903023 Wiltz, Lycée du Nord  01413                       % 11800 RGTR--
+*Z 11801 RGTR--                                             % 11801 RGTR--
+*L 147      140304001 120903023  01535  01613               % 11801 RGTR--
+*R 2 120903023 140304001 120903023  01535  01613            % 11801 RGTR--
+*G 010 140304001 120903023  01535  01613                    % 11801 RGTR--
+*A VE 140304001 120903023 000038  01535  01613              % 11801 RGTR--
+*I FD 140304001 120903023        0001194  01535  01613      % 11801 RGTR--
+140304001 Goebelsmühle, Gare r         01535                % 11801 RGTR--
+120401002 Bockholtz/Wiltz, Op   01541  01541                % 11801 RGTR--
+120401001 Bockholtz/Wiltz       01542  01542                % 11801 RGTR--
+120404001 Goesdorf, Gemeng      01546  01546                % 11801 RGTR--
+120404003 Goesdorf, Pompjeën    01546  01546                % 11801 RGTR--
+120404002 Goesdorf, Maeschgaar  01547  01547                % 11801 RGTR--
+120403004 Dahl, Waassertuurm    01549  01549                % 11801 RGTR--
+120403003 Dahl, Al Molkerei     01550  01550                % 11801 RGTR--
+120403002 Dahl, Masselerstroos  01550  01550                % 11801 RGTR--
+120403001 Dahl, Ale Wee         01551  01551                % 11801 RGTR--
+120406006 Nocher, Welscheedgen  01552  01552                % 11801 RGTR--
+120406004 Nocher, Schoul        01553  01553                % 11801 RGTR--
+120406005 Nocher, Um Knupp      01554  01554                % 11801 RGTR--
+120406001 Nocher-Route, Zenner  01555  01555                % 11801 RGTR--
+120406003 Nocher-Route, An der  01555  01555                % 11801 RGTR--
+120406002 Nocher-Route, Trin    01556  01556                % 11801 RGTR--
+120901002 Roullingen, Am Duerf  01600  01600                % 11801 RGTR--
+120901003 Roullingen, Réimerwe  01601  01601                % 11801 RGTR--
+120901001 Roullingen, Chalets   01602  01602                % 11801 RGTR--
+120903019 Wiltz, Bastnacherstr  01603  01603                % 11801 RGTR--
+120903005 Wiltz, Belle Vue      01605  01605                % 11801 RGTR--
+120903006 Wiltz, Brandbau       01606  01606                % 11801 RGTR--
+120903011 Wiltz, Clinique       01607  01607                % 11801 RGTR--
+120903008 Wiltz, Pompjeesbau    01610  01610                % 11801 RGTR--
+120903021 Wiltz, Lann           01611  01611                % 11801 RGTR--
+120903023 Wiltz, Lycée du Nord  01613                       % 11801 RGTR--
+*Z 11802 RGTR--                                             % 11802 RGTR--
+*L 147      140304001 120903023  01735  01813               % 11802 RGTR--
+*R 2 120903023 140304001 120903023  01735  01813            % 11802 RGTR--
+*G 010 140304001 120903023  01735  01813                    % 11802 RGTR--
+*A VE 140304001 120903023 000038  01735  01813              % 11802 RGTR--
+*I FD 140304001 120903023        0002037  01735  01813      % 11802 RGTR--
+140304001 Goebelsmühle, Gare r         01735                % 11802 RGTR--
+120401002 Bockholtz/Wiltz, Op   01741  01741                % 11802 RGTR--
+120401001 Bockholtz/Wiltz       01742  01742                % 11802 RGTR--
+120404001 Goesdorf, Gemeng      01746  01746                % 11802 RGTR--
+120404003 Goesdorf, Pompjeën    01746  01746                % 11802 RGTR--
+120404002 Goesdorf, Maeschgaar  01747  01747                % 11802 RGTR--
+120403004 Dahl, Waassertuurm    01749  01749                % 11802 RGTR--
+120403003 Dahl, Al Molkerei     01750  01750                % 11802 RGTR--
+120403002 Dahl, Masselerstroos  01750  01750                % 11802 RGTR--
+120403001 Dahl, Ale Wee         01751  01751                % 11802 RGTR--
+120406006 Nocher, Welscheedgen  01752  01752                % 11802 RGTR--
+120406004 Nocher, Schoul        01753  01753                % 11802 RGTR--
+120406005 Nocher, Um Knupp      01754  01754                % 11802 RGTR--
+120406001 Nocher-Route, Zenner  01755  01755                % 11802 RGTR--
+120406003 Nocher-Route, An der  01755  01755                % 11802 RGTR--
+120406002 Nocher-Route, Trin    01756  01756                % 11802 RGTR--
+120901002 Roullingen, Am Duerf  01800  01800                % 11802 RGTR--
+120901003 Roullingen, Réimerwe  01801  01801                % 11802 RGTR--
+120901001 Roullingen, Chalets   01802  01802                % 11802 RGTR--
+120903019 Wiltz, Bastnacherstr  01803  01803                % 11802 RGTR--
+120903005 Wiltz, Belle Vue      01805  01805                % 11802 RGTR--
+120903006 Wiltz, Brandbau       01806  01806                % 11802 RGTR--
+120903011 Wiltz, Clinique       01807  01807                % 11802 RGTR--
+120903008 Wiltz, Pompjeesbau    01810  01810                % 11802 RGTR--
+120903021 Wiltz, Lann           01811  01811                % 11802 RGTR--
+120903023 Wiltz, Lycée du Nord  01813                       % 11802 RGTR--
+*Z 11803 RGTR--                                             % 11803 RGTR--
+*L 147      140304001 120903023  01935  02013               % 11803 RGTR--
+*R 2 120903023 140304001 120903023  01935  02013            % 11803 RGTR--
+*G 010 140304001 120903023  01935  02013                    % 11803 RGTR--
+*A VE 140304001 120903023 000038  01935  02013              % 11803 RGTR--
+*I FD 140304001 120903023        0002038  01935  02013      % 11803 RGTR--
+140304001 Goebelsmühle, Gare r         01935                % 11803 RGTR--
+120401002 Bockholtz/Wiltz, Op   01941  01941                % 11803 RGTR--
+120401001 Bockholtz/Wiltz       01942  01942                % 11803 RGTR--
+120404001 Goesdorf, Gemeng      01946  01946                % 11803 RGTR--
+120404003 Goesdorf, Pompjeën    01946  01946                % 11803 RGTR--
+120404002 Goesdorf, Maeschgaar  01947  01947                % 11803 RGTR--
+120403004 Dahl, Waassertuurm    01949  01949                % 11803 RGTR--
+120403003 Dahl, Al Molkerei     01950  01950                % 11803 RGTR--
+120403002 Dahl, Masselerstroos  01950  01950                % 11803 RGTR--
+120403001 Dahl, Ale Wee         01951  01951                % 11803 RGTR--
+120406006 Nocher, Welscheedgen  01952  01952                % 11803 RGTR--
+120406004 Nocher, Schoul        01953  01953                % 11803 RGTR--
+120406005 Nocher, Um Knupp      01954  01954                % 11803 RGTR--
+120406001 Nocher-Route, Zenner  01955  01955                % 11803 RGTR--
+120406003 Nocher-Route, An der  01955  01955                % 11803 RGTR--
+120406002 Nocher-Route, Trin    01956  01956                % 11803 RGTR--
+120901002 Roullingen, Am Duerf  02000  02000                % 11803 RGTR--
+120901003 Roullingen, Réimerwe  02001  02001                % 11803 RGTR--
+120901001 Roullingen, Chalets   02002  02002                % 11803 RGTR--
+120903019 Wiltz, Bastnacherstr  02003  02003                % 11803 RGTR--
+120903005 Wiltz, Belle Vue      02005  02005                % 11803 RGTR--
+120903006 Wiltz, Brandbau       02006  02006                % 11803 RGTR--
+120903011 Wiltz, Clinique       02007  02007                % 11803 RGTR--
+120903008 Wiltz, Pompjeesbau    02010  02010                % 11803 RGTR--
+120903021 Wiltz, Lann           02011  02011                % 11803 RGTR--
+120903023 Wiltz, Lycée du Nord  02013                       % 11803 RGTR--
+*Z 11804 RGTR--                                             % 11804 RGTR--
+*L 147      140304001 120903023  02135  02213               % 11804 RGTR--
+*R 2 120903023 140304001 120903023  02135  02213            % 11804 RGTR--
+*G 010 140304001 120903023  02135  02213                    % 11804 RGTR--
+*A VE 140304001 120903023 000038  02135  02213              % 11804 RGTR--
+*I FD 140304001 120903023        0002873  02135  02213      % 11804 RGTR--
+140304001 Goebelsmühle, Gare r         02135                % 11804 RGTR--
+120401002 Bockholtz/Wiltz, Op   02141  02141                % 11804 RGTR--
+120401001 Bockholtz/Wiltz       02142  02142                % 11804 RGTR--
+120404001 Goesdorf, Gemeng      02146  02146                % 11804 RGTR--
+120404003 Goesdorf, Pompjeën    02146  02146                % 11804 RGTR--
+120404002 Goesdorf, Maeschgaar  02147  02147                % 11804 RGTR--
+120403004 Dahl, Waassertuurm    02149  02149                % 11804 RGTR--
+120403003 Dahl, Al Molkerei     02150  02150                % 11804 RGTR--
+120403002 Dahl, Masselerstroos  02150  02150                % 11804 RGTR--
+120403001 Dahl, Ale Wee         02151  02151                % 11804 RGTR--
+120406006 Nocher, Welscheedgen  02152  02152                % 11804 RGTR--
+120406004 Nocher, Schoul        02153  02153                % 11804 RGTR--
+120406005 Nocher, Um Knupp      02154  02154                % 11804 RGTR--
+120406001 Nocher-Route, Zenner  02155  02155                % 11804 RGTR--
+120406003 Nocher-Route, An der  02155  02155                % 11804 RGTR--
+120406002 Nocher-Route, Trin    02156  02156                % 11804 RGTR--
+120901002 Roullingen, Am Duerf  02200  02200                % 11804 RGTR--
+120901003 Roullingen, Réimerwe  02201  02201                % 11804 RGTR--
+120901001 Roullingen, Chalets   02202  02202                % 11804 RGTR--
+120903019 Wiltz, Bastnacherstr  02203  02203                % 11804 RGTR--
+120903005 Wiltz, Belle Vue      02205  02205                % 11804 RGTR--
+120903006 Wiltz, Brandbau       02206  02206                % 11804 RGTR--
+120903011 Wiltz, Clinique       02207  02207                % 11804 RGTR--
+120903008 Wiltz, Pompjeesbau    02210  02210                % 11804 RGTR--
+120903021 Wiltz, Lann           02211  02211                % 11804 RGTR--
+120903023 Wiltz, Lycée du Nord  02213                       % 11804 RGTR--

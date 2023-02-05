@@ -1,0 +1,1779 @@
+*F 03 2
+*Z 02830 AVL---       002 030                               % 02830 AVL---
+*L 2        200404007 200419022  00543  00615               % 02830 AVL---
+*A BE 200404007 200419022 000017  00543  00615              % 02830 AVL---
+*R 1 200419022 200404007 200419022  00543  00615            % 02830 AVL---
+*G ST  200404007 200419022  00543  00615                    % 02830 AVL---
+*A VE 200404007 200419022 000017  00543  00615              % 02830 AVL---
+200404007 Bonnevoie, Demy Schl         00543                % 02830 AVL---
+200404037 Bonnevoie, Willibror  00544  00544                % 02830 AVL---
+200404021 Bonnevoie, Jules Fis  00545  00545                % 02830 AVL---
+200404029 Bonnevoie, Nic Marth  00546  00546                % 02830 AVL---
+200404022 Bonnevoie, Kaltreis   00547  00547                % 02830 AVL---
+200404018 Bonnevoie, Izeger Kn  00547  00547                % 02830 AVL---
+200404003 Bonnevoie, Anatole F  00548  00548                % 02830 AVL---
+200404019 Bonnevoie, Jean Jaco  00549  00549                % 02830 AVL---
+200404038 Bonnevoie, Wisestroo  00549  00549                % 02830 AVL---
+200404035 Bonnevoie, Vannérus   00550  00550                % 02830 AVL---
+200404026 Bonnevoie, Léon XIII  00551  00551                % 02830 AVL---
+200404034 Bonnevoie, Rotonde    00552  00552                % 02830 AVL---
+200405046 Luxembourg, Gare Roc  00553  00553                % 02830 AVL---
+200405039 Luxembourg, Wallis    00554  00554                % 02830 AVL---
+200405013 Centre, F.D. Rooseve  00557  00557                % 02830 AVL---
+200405020 Hamilius (Bus)        00600  00605                % 02830 AVL---
+200405014 Centre, Fondation Pe  00607  00607                % 02830 AVL---
+200419026 Limpertsberg, Theate  00608  00608                % 02830 AVL---
+200419025 Limpertsberg, Lycée   00609  00609                % 02830 AVL---
+200419002 Limpertsberg, Alen T  00610  00610                % 02830 AVL---
+200419034 Limpertsberg, Square  00611  00611                % 02830 AVL---
+200419035 Limpertsberg, Waasse  00611  00611                % 02830 AVL---
+200419007 Limpertsberg, Avenir  00612  00612                % 02830 AVL---
+200419015 Luxembourg, Siggy vu  00614  00614                % 02830 AVL---
+200419022 Limpertsberg, Lycée   00615                       % 02830 AVL---
+*Z 02831 AVL---                                             % 02831 AVL---
+*L 2        200404007 200419022  02013  02045               % 02831 AVL---
+*A BE 200404007 200419022 000017  02013  02045              % 02831 AVL---
+*R 1 200419022 200404007 200419022  02013  02045            % 02831 AVL---
+*G ST  200404007 200419022  02013  02045                    % 02831 AVL---
+*A VE 200404007 200419022 000017  02013  02045              % 02831 AVL---
+200404007 Bonnevoie, Demy Schl         02013                % 02831 AVL---
+200404037 Bonnevoie, Willibror  02014  02014                % 02831 AVL---
+200404021 Bonnevoie, Jules Fis  02015  02015                % 02831 AVL---
+200404029 Bonnevoie, Nic Marth  02016  02016                % 02831 AVL---
+200404022 Bonnevoie, Kaltreis   02017  02017                % 02831 AVL---
+200404018 Bonnevoie, Izeger Kn  02017  02017                % 02831 AVL---
+200404003 Bonnevoie, Anatole F  02018  02018                % 02831 AVL---
+200404019 Bonnevoie, Jean Jaco  02019  02019                % 02831 AVL---
+200404038 Bonnevoie, Wisestroo  02019  02019                % 02831 AVL---
+200404035 Bonnevoie, Vannérus   02020  02020                % 02831 AVL---
+200404026 Bonnevoie, Léon XIII  02021  02021                % 02831 AVL---
+200404034 Bonnevoie, Rotonde    02022  02022                % 02831 AVL---
+200405046 Luxembourg, Gare Roc  02023  02023                % 02831 AVL---
+200405039 Luxembourg, Wallis    02024  02024                % 02831 AVL---
+200405013 Centre, F.D. Rooseve  02027  02027                % 02831 AVL---
+200405020 Hamilius (Bus)        02030  02035                % 02831 AVL---
+200405014 Centre, Fondation Pe  02037  02037                % 02831 AVL---
+200419026 Limpertsberg, Theate  02038  02038                % 02831 AVL---
+200419025 Limpertsberg, Lycée   02039  02039                % 02831 AVL---
+200419002 Limpertsberg, Alen T  02040  02040                % 02831 AVL---
+200419034 Limpertsberg, Square  02041  02041                % 02831 AVL---
+200419035 Limpertsberg, Waasse  02041  02041                % 02831 AVL---
+200419007 Limpertsberg, Avenir  02042  02042                % 02831 AVL---
+200419015 Luxembourg, Siggy vu  02044  02044                % 02831 AVL---
+200419022 Limpertsberg, Lycée   02045                       % 02831 AVL---
+*Z 02832 AVL---                                             % 02832 AVL---
+*L 2        200404007 200419022  02013  02045               % 02832 AVL---
+*A BE 200404007 200419022 000048  02013  02045              % 02832 AVL---
+*R 1 200419022 200404007 200419022  02013  02045            % 02832 AVL---
+*G GEH 200404007 200419022  02013  02045                    % 02832 AVL---
+*A VE 200404007 200419022 000048  02013  02045              % 02832 AVL---
+200404007 Bonnevoie, Demy Schl         02013                % 02832 AVL---
+200404037 Bonnevoie, Willibror  02014  02014                % 02832 AVL---
+200404021 Bonnevoie, Jules Fis  02015  02015                % 02832 AVL---
+200404029 Bonnevoie, Nic Marth  02016  02016                % 02832 AVL---
+200404022 Bonnevoie, Kaltreis   02017  02017                % 02832 AVL---
+200404018 Bonnevoie, Izeger Kn  02017  02017                % 02832 AVL---
+200404003 Bonnevoie, Anatole F  02018  02018                % 02832 AVL---
+200404019 Bonnevoie, Jean Jaco  02019  02019                % 02832 AVL---
+200404038 Bonnevoie, Wisestroo  02019  02019                % 02832 AVL---
+200404035 Bonnevoie, Vannérus   02020  02020                % 02832 AVL---
+200404026 Bonnevoie, Léon XIII  02021  02021                % 02832 AVL---
+200404034 Bonnevoie, Rotonde    02022  02022                % 02832 AVL---
+200405046 Luxembourg, Gare Roc  02023  02023                % 02832 AVL---
+200405039 Luxembourg, Wallis    02024  02024                % 02832 AVL---
+200405013 Centre, F.D. Rooseve  02027  02027                % 02832 AVL---
+200405020 Hamilius (Bus)        02030  02035                % 02832 AVL---
+200405014 Centre, Fondation Pe  02037  02037                % 02832 AVL---
+200419026 Limpertsberg, Theate  02038  02038                % 02832 AVL---
+200419025 Limpertsberg, Lycée   02039  02039                % 02832 AVL---
+200419002 Limpertsberg, Alen T  02040  02040                % 02832 AVL---
+200419034 Limpertsberg, Square  02041  02041                % 02832 AVL---
+200419035 Limpertsberg, Waasse  02041  02041                % 02832 AVL---
+200419007 Limpertsberg, Avenir  02042  02042                % 02832 AVL---
+200419015 Luxembourg, Siggy vu  02044  02044                % 02832 AVL---
+200419022 Limpertsberg, Lycée   02045                       % 02832 AVL---
+*Z 02833 AVL---                                             % 02833 AVL---
+*L 2        200404007 200419022  00443  00515               % 02833 AVL---
+*A BE 200404007 200419022 000034  00443  00515              % 02833 AVL---
+*R 1 200419022 200404007 200419022  00443  00515            % 02833 AVL---
+*G ST  200404007 200419022  00443  00515                    % 02833 AVL---
+*A VE 200404007 200419022 000034  00443  00515              % 02833 AVL---
+200404007 Bonnevoie, Demy Schl         00443                % 02833 AVL---
+200404037 Bonnevoie, Willibror  00444  00444                % 02833 AVL---
+200404021 Bonnevoie, Jules Fis  00445  00445                % 02833 AVL---
+200404029 Bonnevoie, Nic Marth  00446  00446                % 02833 AVL---
+200404022 Bonnevoie, Kaltreis   00447  00447                % 02833 AVL---
+200404018 Bonnevoie, Izeger Kn  00447  00447                % 02833 AVL---
+200404003 Bonnevoie, Anatole F  00448  00448                % 02833 AVL---
+200404019 Bonnevoie, Jean Jaco  00449  00449                % 02833 AVL---
+200404038 Bonnevoie, Wisestroo  00449  00449                % 02833 AVL---
+200404035 Bonnevoie, Vannérus   00450  00450                % 02833 AVL---
+200404026 Bonnevoie, Léon XIII  00451  00451                % 02833 AVL---
+200404034 Bonnevoie, Rotonde    00452  00452                % 02833 AVL---
+200405046 Luxembourg, Gare Roc  00453  00453                % 02833 AVL---
+200405039 Luxembourg, Wallis    00454  00454                % 02833 AVL---
+200405013 Centre, F.D. Rooseve  00457  00457                % 02833 AVL---
+200405020 Hamilius (Bus)        00500  00505                % 02833 AVL---
+200405014 Centre, Fondation Pe  00507  00507                % 02833 AVL---
+200419026 Limpertsberg, Theate  00508  00508                % 02833 AVL---
+200419025 Limpertsberg, Lycée   00509  00509                % 02833 AVL---
+200419002 Limpertsberg, Alen T  00510  00510                % 02833 AVL---
+200419034 Limpertsberg, Square  00511  00511                % 02833 AVL---
+200419035 Limpertsberg, Waasse  00511  00511                % 02833 AVL---
+200419007 Limpertsberg, Avenir  00512  00512                % 02833 AVL---
+200419015 Luxembourg, Siggy vu  00514  00514                % 02833 AVL---
+200419022 Limpertsberg, Lycée   00515                       % 02833 AVL---
+*Z 02834 AVL---       001 930                               % 02834 AVL---
+*L 2        200404007 200419022  00513  00545               % 02834 AVL---
+*A BE 200404007 200419022 000038  00513  00545              % 02834 AVL---
+*R 1 200419022 200404007 200419022  00513  00545            % 02834 AVL---
+*G ST  200404007 200419022  00513  00545                    % 02834 AVL---
+*A VE 200404007 200419022 000038  00513  00545              % 02834 AVL---
+200404007 Bonnevoie, Demy Schl         00513                % 02834 AVL---
+200404037 Bonnevoie, Willibror  00514  00514                % 02834 AVL---
+200404021 Bonnevoie, Jules Fis  00515  00515                % 02834 AVL---
+200404029 Bonnevoie, Nic Marth  00516  00516                % 02834 AVL---
+200404022 Bonnevoie, Kaltreis   00517  00517                % 02834 AVL---
+200404018 Bonnevoie, Izeger Kn  00517  00517                % 02834 AVL---
+200404003 Bonnevoie, Anatole F  00518  00518                % 02834 AVL---
+200404019 Bonnevoie, Jean Jaco  00519  00519                % 02834 AVL---
+200404038 Bonnevoie, Wisestroo  00519  00519                % 02834 AVL---
+200404035 Bonnevoie, Vannérus   00520  00520                % 02834 AVL---
+200404026 Bonnevoie, Léon XIII  00521  00521                % 02834 AVL---
+200404034 Bonnevoie, Rotonde    00522  00522                % 02834 AVL---
+200405046 Luxembourg, Gare Roc  00523  00523                % 02834 AVL---
+200405039 Luxembourg, Wallis    00524  00524                % 02834 AVL---
+200405013 Centre, F.D. Rooseve  00527  00527                % 02834 AVL---
+200405020 Hamilius (Bus)        00530  00535                % 02834 AVL---
+200405014 Centre, Fondation Pe  00537  00537                % 02834 AVL---
+200419026 Limpertsberg, Theate  00538  00538                % 02834 AVL---
+200419025 Limpertsberg, Lycée   00539  00539                % 02834 AVL---
+200419002 Limpertsberg, Alen T  00540  00540                % 02834 AVL---
+200419034 Limpertsberg, Square  00541  00541                % 02834 AVL---
+200419035 Limpertsberg, Waasse  00541  00541                % 02834 AVL---
+200419007 Limpertsberg, Avenir  00542  00542                % 02834 AVL---
+200419015 Luxembourg, Siggy vu  00544  00544                % 02834 AVL---
+200419022 Limpertsberg, Lycée   00545                       % 02834 AVL---
+*Z 02835 AVL---       005 030                               % 02835 AVL---
+*L 2        200404007 200419022  02113  02145               % 02835 AVL---
+*A BE 200404007 200419022 000038  02113  02145              % 02835 AVL---
+*R 1 200419022 200404007 200419022  02113  02145            % 02835 AVL---
+*G ST  200404007 200419022  02113  02145                    % 02835 AVL---
+*A VE 200404007 200419022 000038  02113  02145              % 02835 AVL---
+200404007 Bonnevoie, Demy Schl         02113                % 02835 AVL---
+200404037 Bonnevoie, Willibror  02114  02114                % 02835 AVL---
+200404021 Bonnevoie, Jules Fis  02115  02115                % 02835 AVL---
+200404029 Bonnevoie, Nic Marth  02116  02116                % 02835 AVL---
+200404022 Bonnevoie, Kaltreis   02117  02117                % 02835 AVL---
+200404018 Bonnevoie, Izeger Kn  02117  02117                % 02835 AVL---
+200404003 Bonnevoie, Anatole F  02118  02118                % 02835 AVL---
+200404019 Bonnevoie, Jean Jaco  02119  02119                % 02835 AVL---
+200404038 Bonnevoie, Wisestroo  02119  02119                % 02835 AVL---
+200404035 Bonnevoie, Vannérus   02120  02120                % 02835 AVL---
+200404026 Bonnevoie, Léon XIII  02121  02121                % 02835 AVL---
+200404034 Bonnevoie, Rotonde    02122  02122                % 02835 AVL---
+200405046 Luxembourg, Gare Roc  02123  02123                % 02835 AVL---
+200405039 Luxembourg, Wallis    02124  02124                % 02835 AVL---
+200405013 Centre, F.D. Rooseve  02127  02127                % 02835 AVL---
+200405020 Hamilius (Bus)        02130  02135                % 02835 AVL---
+200405014 Centre, Fondation Pe  02137  02137                % 02835 AVL---
+200419026 Limpertsberg, Theate  02138  02138                % 02835 AVL---
+200419025 Limpertsberg, Lycée   02139  02139                % 02835 AVL---
+200419002 Limpertsberg, Alen T  02140  02140                % 02835 AVL---
+200419034 Limpertsberg, Square  02141  02141                % 02835 AVL---
+200419035 Limpertsberg, Waasse  02141  02141                % 02835 AVL---
+200419007 Limpertsberg, Avenir  02142  02142                % 02835 AVL---
+200419015 Luxembourg, Siggy vu  02144  02144                % 02835 AVL---
+200419022 Limpertsberg, Lycée   02145                       % 02835 AVL---
+*Z 02836 AVL---       011 030                               % 02836 AVL---
+*L 2        200404007 200419022  00513  00545               % 02836 AVL---
+*A BE 200404007 200419022 000016  00513  00545              % 02836 AVL---
+*R 1 200419022 200404007 200419022  00513  00545            % 02836 AVL---
+*G GEH 200404007 200419022  00513  00545                    % 02836 AVL---
+*A VE 200404007 200419022 000016  00513  00545              % 02836 AVL---
+200404007 Bonnevoie, Demy Schl         00513                % 02836 AVL---
+200404037 Bonnevoie, Willibror  00514  00514                % 02836 AVL---
+200404021 Bonnevoie, Jules Fis  00515  00515                % 02836 AVL---
+200404029 Bonnevoie, Nic Marth  00516  00516                % 02836 AVL---
+200404022 Bonnevoie, Kaltreis   00517  00517                % 02836 AVL---
+200404018 Bonnevoie, Izeger Kn  00517  00517                % 02836 AVL---
+200404003 Bonnevoie, Anatole F  00518  00518                % 02836 AVL---
+200404019 Bonnevoie, Jean Jaco  00519  00519                % 02836 AVL---
+200404038 Bonnevoie, Wisestroo  00519  00519                % 02836 AVL---
+200404035 Bonnevoie, Vannérus   00520  00520                % 02836 AVL---
+200404026 Bonnevoie, Léon XIII  00521  00521                % 02836 AVL---
+200404034 Bonnevoie, Rotonde    00522  00522                % 02836 AVL---
+200405046 Luxembourg, Gare Roc  00523  00523                % 02836 AVL---
+200405039 Luxembourg, Wallis    00524  00524                % 02836 AVL---
+200405013 Centre, F.D. Rooseve  00527  00527                % 02836 AVL---
+200405020 Hamilius (Bus)        00530  00535                % 02836 AVL---
+200405014 Centre, Fondation Pe  00537  00537                % 02836 AVL---
+200419026 Limpertsberg, Theate  00538  00538                % 02836 AVL---
+200419025 Limpertsberg, Lycée   00539  00539                % 02836 AVL---
+200419002 Limpertsberg, Alen T  00540  00540                % 02836 AVL---
+200419034 Limpertsberg, Square  00541  00541                % 02836 AVL---
+200419035 Limpertsberg, Waasse  00541  00541                % 02836 AVL---
+200419007 Limpertsberg, Avenir  00542  00542                % 02836 AVL---
+200419015 Luxembourg, Siggy vu  00544  00544                % 02836 AVL---
+200419022 Limpertsberg, Lycée   00545                       % 02836 AVL---
+*Z 02837 AVL---       001 060                               % 02837 AVL---
+*L 2        200404007 200419022  01943  02015               % 02837 AVL---
+*A BE 200404007 200419022 000016  01943  02015              % 02837 AVL---
+*R 1 200419022 200404007 200419022  01943  02015            % 02837 AVL---
+*G GEH 200404007 200419022  01943  02015                    % 02837 AVL---
+*A VE 200404007 200419022 000016  01943  02015              % 02837 AVL---
+200404007 Bonnevoie, Demy Schl         01943                % 02837 AVL---
+200404037 Bonnevoie, Willibror  01944  01944                % 02837 AVL---
+200404021 Bonnevoie, Jules Fis  01945  01945                % 02837 AVL---
+200404029 Bonnevoie, Nic Marth  01946  01946                % 02837 AVL---
+200404022 Bonnevoie, Kaltreis   01947  01947                % 02837 AVL---
+200404018 Bonnevoie, Izeger Kn  01947  01947                % 02837 AVL---
+200404003 Bonnevoie, Anatole F  01948  01948                % 02837 AVL---
+200404019 Bonnevoie, Jean Jaco  01949  01949                % 02837 AVL---
+200404038 Bonnevoie, Wisestroo  01949  01949                % 02837 AVL---
+200404035 Bonnevoie, Vannérus   01950  01950                % 02837 AVL---
+200404026 Bonnevoie, Léon XIII  01951  01951                % 02837 AVL---
+200404034 Bonnevoie, Rotonde    01952  01952                % 02837 AVL---
+200405046 Luxembourg, Gare Roc  01953  01953                % 02837 AVL---
+200405039 Luxembourg, Wallis    01954  01954                % 02837 AVL---
+200405013 Centre, F.D. Rooseve  01957  01957                % 02837 AVL---
+200405020 Hamilius (Bus)        02000  02005                % 02837 AVL---
+200405014 Centre, Fondation Pe  02007  02007                % 02837 AVL---
+200419026 Limpertsberg, Theate  02008  02008                % 02837 AVL---
+200419025 Limpertsberg, Lycée   02009  02009                % 02837 AVL---
+200419002 Limpertsberg, Alen T  02010  02010                % 02837 AVL---
+200419034 Limpertsberg, Square  02011  02011                % 02837 AVL---
+200419035 Limpertsberg, Waasse  02011  02011                % 02837 AVL---
+200419007 Limpertsberg, Avenir  02012  02012                % 02837 AVL---
+200419015 Luxembourg, Siggy vu  02014  02014                % 02837 AVL---
+200419022 Limpertsberg, Lycée   02015                       % 02837 AVL---
+*Z 02838 AVL---       005 030                               % 02838 AVL---
+*L 2        200404007 200419022  02113  02145               % 02838 AVL---
+*A BE 200404007 200419022 000016  02113  02145              % 02838 AVL---
+*R 1 200419022 200404007 200419022  02113  02145            % 02838 AVL---
+*G GEH 200404007 200419022  02113  02145                    % 02838 AVL---
+*A VE 200404007 200419022 000016  02113  02145              % 02838 AVL---
+200404007 Bonnevoie, Demy Schl         02113                % 02838 AVL---
+200404037 Bonnevoie, Willibror  02114  02114                % 02838 AVL---
+200404021 Bonnevoie, Jules Fis  02115  02115                % 02838 AVL---
+200404029 Bonnevoie, Nic Marth  02116  02116                % 02838 AVL---
+200404022 Bonnevoie, Kaltreis   02117  02117                % 02838 AVL---
+200404018 Bonnevoie, Izeger Kn  02117  02117                % 02838 AVL---
+200404003 Bonnevoie, Anatole F  02118  02118                % 02838 AVL---
+200404019 Bonnevoie, Jean Jaco  02119  02119                % 02838 AVL---
+200404038 Bonnevoie, Wisestroo  02119  02119                % 02838 AVL---
+200404035 Bonnevoie, Vannérus   02120  02120                % 02838 AVL---
+200404026 Bonnevoie, Léon XIII  02121  02121                % 02838 AVL---
+200404034 Bonnevoie, Rotonde    02122  02122                % 02838 AVL---
+200405046 Luxembourg, Gare Roc  02123  02123                % 02838 AVL---
+200405039 Luxembourg, Wallis    02124  02124                % 02838 AVL---
+200405013 Centre, F.D. Rooseve  02127  02127                % 02838 AVL---
+200405020 Hamilius (Bus)        02130  02135                % 02838 AVL---
+200405014 Centre, Fondation Pe  02137  02137                % 02838 AVL---
+200419026 Limpertsberg, Theate  02138  02138                % 02838 AVL---
+200419025 Limpertsberg, Lycée   02139  02139                % 02838 AVL---
+200419002 Limpertsberg, Alen T  02140  02140                % 02838 AVL---
+200419034 Limpertsberg, Square  02141  02141                % 02838 AVL---
+200419035 Limpertsberg, Waasse  02141  02141                % 02838 AVL---
+200419007 Limpertsberg, Avenir  02142  02142                % 02838 AVL---
+200419015 Luxembourg, Siggy vu  02144  02144                % 02838 AVL---
+200419022 Limpertsberg, Lycée   02145                       % 02838 AVL---
+*Z 02839 AVL---       080 010                               % 02839 AVL---
+*L 2        200404007 200419022  00613  00646               % 02839 AVL---
+*A BE 200404007 200419022 000034  00613  00646              % 02839 AVL---
+*R 1 200419022 200404007 200419022  00613  00646            % 02839 AVL---
+*G GEH 200404007 200419022  00613  00646                    % 02839 AVL---
+*A VE 200404007 200419022 000034  00613  00646              % 02839 AVL---
+200404007 Bonnevoie, Demy Schl         00613                % 02839 AVL---
+200404037 Bonnevoie, Willibror  00614  00614                % 02839 AVL---
+200404021 Bonnevoie, Jules Fis  00615  00615                % 02839 AVL---
+200404029 Bonnevoie, Nic Marth  00616  00616                % 02839 AVL---
+200404022 Bonnevoie, Kaltreis   00617  00617                % 02839 AVL---
+200404018 Bonnevoie, Izeger Kn  00618  00618                % 02839 AVL---
+200404003 Bonnevoie, Anatole F  00619  00619                % 02839 AVL---
+200404019 Bonnevoie, Jean Jaco  00620  00620                % 02839 AVL---
+200404038 Bonnevoie, Wisestroo  00620  00620                % 02839 AVL---
+200404035 Bonnevoie, Vannérus   00621  00621                % 02839 AVL---
+200404026 Bonnevoie, Léon XIII  00622  00622                % 02839 AVL---
+200404034 Bonnevoie, Rotonde    00624  00624                % 02839 AVL---
+200405046 Luxembourg, Gare Roc  00625  00625                % 02839 AVL---
+200405039 Luxembourg, Wallis    00627  00627                % 02839 AVL---
+200405013 Centre, F.D. Rooseve  00631  00631                % 02839 AVL---
+200405020 Hamilius (Bus)        00634  00634                % 02839 AVL---
+200405014 Centre, Fondation Pe  00637  00637                % 02839 AVL---
+200419026 Limpertsberg, Theate  00639  00639                % 02839 AVL---
+200419025 Limpertsberg, Lycée   00640  00640                % 02839 AVL---
+200419002 Limpertsberg, Alen T  00641  00641                % 02839 AVL---
+200419034 Limpertsberg, Square  00642  00642                % 02839 AVL---
+200419035 Limpertsberg, Waasse  00643  00643                % 02839 AVL---
+200419007 Limpertsberg, Avenir  00644  00644                % 02839 AVL---
+200419015 Luxembourg, Siggy vu  00645  00645                % 02839 AVL---
+200419022 Limpertsberg, Lycée   00646                       % 02839 AVL---
+*Z 02840 AVL---                                             % 02840 AVL---
+*L 2        200404007 200419022  01954  02021               % 02840 AVL---
+*A BE 200404007 200419022 000017  01954  02021              % 02840 AVL---
+*R 1 200419022 200404007 200419022  01954  02021            % 02840 AVL---
+*G GEH 200404007 200419022  01954  02021                    % 02840 AVL---
+*A VE 200404007 200419022 000017  01954  02021              % 02840 AVL---
+200404007 Bonnevoie, Demy Schl         01954                % 02840 AVL---
+200404037 Bonnevoie, Willibror  01955  01955                % 02840 AVL---
+200404021 Bonnevoie, Jules Fis  01956  01956                % 02840 AVL---
+200404029 Bonnevoie, Nic Marth  01957  01957                % 02840 AVL---
+200404022 Bonnevoie, Kaltreis   01958  01958                % 02840 AVL---
+200404018 Bonnevoie, Izeger Kn  01958  01958                % 02840 AVL---
+200404003 Bonnevoie, Anatole F  01959  01959                % 02840 AVL---
+200404019 Bonnevoie, Jean Jaco  02000  02000                % 02840 AVL---
+200404038 Bonnevoie, Wisestroo  02000  02000                % 02840 AVL---
+200404035 Bonnevoie, Vannérus   02001  02001                % 02840 AVL---
+200404026 Bonnevoie, Léon XIII  02002  02002                % 02840 AVL---
+200404034 Bonnevoie, Rotonde    02003  02003                % 02840 AVL---
+200405046 Luxembourg, Gare Roc  02004  02004                % 02840 AVL---
+200405039 Luxembourg, Wallis    02005  02005                % 02840 AVL---
+200405013 Centre, F.D. Rooseve  02008  02008                % 02840 AVL---
+200405020 Hamilius (Bus)        02011  02011                % 02840 AVL---
+200405014 Centre, Fondation Pe  02013  02013                % 02840 AVL---
+200419026 Limpertsberg, Theate  02014  02014                % 02840 AVL---
+200419025 Limpertsberg, Lycée   02015  02015                % 02840 AVL---
+200419002 Limpertsberg, Alen T  02016  02016                % 02840 AVL---
+200419034 Limpertsberg, Square  02017  02017                % 02840 AVL---
+200419035 Limpertsberg, Waasse  02017  02017                % 02840 AVL---
+200419007 Limpertsberg, Avenir  02018  02018                % 02840 AVL---
+200419015 Luxembourg, Siggy vu  02020  02020                % 02840 AVL---
+200419022 Limpertsberg, Lycée   02021                       % 02840 AVL---
+*Z 02841 AVL---                                             % 02841 AVL---
+*L 2        200404007 200419022  01947  02014               % 02841 AVL---
+*A BE 200404007 200419022 000034  01947  02014              % 02841 AVL---
+*R 1 200419022 200404007 200419022  01947  02014            % 02841 AVL---
+*G ST  200404007 200419022  01947  02014                    % 02841 AVL---
+*A VE 200404007 200419022 000034  01947  02014              % 02841 AVL---
+200404007 Bonnevoie, Demy Schl         01947                % 02841 AVL---
+200404037 Bonnevoie, Willibror  01948  01948                % 02841 AVL---
+200404021 Bonnevoie, Jules Fis  01949  01949                % 02841 AVL---
+200404029 Bonnevoie, Nic Marth  01950  01950                % 02841 AVL---
+200404022 Bonnevoie, Kaltreis   01951  01951                % 02841 AVL---
+200404018 Bonnevoie, Izeger Kn  01951  01951                % 02841 AVL---
+200404003 Bonnevoie, Anatole F  01952  01952                % 02841 AVL---
+200404019 Bonnevoie, Jean Jaco  01953  01953                % 02841 AVL---
+200404038 Bonnevoie, Wisestroo  01953  01953                % 02841 AVL---
+200404035 Bonnevoie, Vannérus   01954  01954                % 02841 AVL---
+200404026 Bonnevoie, Léon XIII  01955  01955                % 02841 AVL---
+200404034 Bonnevoie, Rotonde    01956  01956                % 02841 AVL---
+200405046 Luxembourg, Gare Roc  01957  01957                % 02841 AVL---
+200405039 Luxembourg, Wallis    01958  01958                % 02841 AVL---
+200405013 Centre, F.D. Rooseve  02001  02001                % 02841 AVL---
+200405020 Hamilius (Bus)        02004  02004                % 02841 AVL---
+200405014 Centre, Fondation Pe  02006  02006                % 02841 AVL---
+200419026 Limpertsberg, Theate  02007  02007                % 02841 AVL---
+200419025 Limpertsberg, Lycée   02008  02008                % 02841 AVL---
+200419002 Limpertsberg, Alen T  02009  02009                % 02841 AVL---
+200419034 Limpertsberg, Square  02010  02010                % 02841 AVL---
+200419035 Limpertsberg, Waasse  02010  02010                % 02841 AVL---
+200419007 Limpertsberg, Avenir  02011  02011                % 02841 AVL---
+200419015 Luxembourg, Siggy vu  02013  02013                % 02841 AVL---
+200419022 Limpertsberg, Lycée   02014                       % 02841 AVL---
+*Z 02842 AVL---                                             % 02842 AVL---
+*L 2        200404007 200419022  01957  02024               % 02842 AVL---
+*A BE 200404007 200419022 000034  01957  02024              % 02842 AVL---
+*R 1 200419022 200404007 200419022  01957  02024            % 02842 AVL---
+*G GEH 200404007 200419022  01957  02024                    % 02842 AVL---
+*A VE 200404007 200419022 000034  01957  02024              % 02842 AVL---
+200404007 Bonnevoie, Demy Schl         01957                % 02842 AVL---
+200404037 Bonnevoie, Willibror  01958  01958                % 02842 AVL---
+200404021 Bonnevoie, Jules Fis  01959  01959                % 02842 AVL---
+200404029 Bonnevoie, Nic Marth  02000  02000                % 02842 AVL---
+200404022 Bonnevoie, Kaltreis   02001  02001                % 02842 AVL---
+200404018 Bonnevoie, Izeger Kn  02001  02001                % 02842 AVL---
+200404003 Bonnevoie, Anatole F  02002  02002                % 02842 AVL---
+200404019 Bonnevoie, Jean Jaco  02003  02003                % 02842 AVL---
+200404038 Bonnevoie, Wisestroo  02003  02003                % 02842 AVL---
+200404035 Bonnevoie, Vannérus   02004  02004                % 02842 AVL---
+200404026 Bonnevoie, Léon XIII  02005  02005                % 02842 AVL---
+200404034 Bonnevoie, Rotonde    02006  02006                % 02842 AVL---
+200405046 Luxembourg, Gare Roc  02007  02007                % 02842 AVL---
+200405039 Luxembourg, Wallis    02008  02008                % 02842 AVL---
+200405013 Centre, F.D. Rooseve  02011  02011                % 02842 AVL---
+200405020 Hamilius (Bus)        02014  02014                % 02842 AVL---
+200405014 Centre, Fondation Pe  02016  02016                % 02842 AVL---
+200419026 Limpertsberg, Theate  02017  02017                % 02842 AVL---
+200419025 Limpertsberg, Lycée   02018  02018                % 02842 AVL---
+200419002 Limpertsberg, Alen T  02019  02019                % 02842 AVL---
+200419034 Limpertsberg, Square  02020  02020                % 02842 AVL---
+200419035 Limpertsberg, Waasse  02020  02020                % 02842 AVL---
+200419007 Limpertsberg, Avenir  02021  02021                % 02842 AVL---
+200419015 Luxembourg, Siggy vu  02023  02023                % 02842 AVL---
+200419022 Limpertsberg, Lycée   02024                       % 02842 AVL---
+*Z 02843 AVL---       047 015                               % 02843 AVL---
+*L 2        200404007 200419022  00752  00821               % 02843 AVL---
+*A BE 200404007 200419022 000017  00752  00821              % 02843 AVL---
+*R 1 200419022 200404007 200419022  00752  00821            % 02843 AVL---
+*G GEH 200404007 200419022  00752  00821                    % 02843 AVL---
+*A VE 200404007 200419022 000017  00752  00821              % 02843 AVL---
+200404007 Bonnevoie, Demy Schl         00752                % 02843 AVL---
+200404037 Bonnevoie, Willibror  00753  00753                % 02843 AVL---
+200404021 Bonnevoie, Jules Fis  00755  00755                % 02843 AVL---
+200404029 Bonnevoie, Nic Marth  00756  00756                % 02843 AVL---
+200404022 Bonnevoie, Kaltreis   00756  00756                % 02843 AVL---
+200404018 Bonnevoie, Izeger Kn  00757  00757                % 02843 AVL---
+200404003 Bonnevoie, Anatole F  00758  00758                % 02843 AVL---
+200404019 Bonnevoie, Jean Jaco  00759  00759                % 02843 AVL---
+200404038 Bonnevoie, Wisestroo  00759  00759                % 02843 AVL---
+200404035 Bonnevoie, Vannérus   00800  00800                % 02843 AVL---
+200404026 Bonnevoie, Léon XIII  00801  00801                % 02843 AVL---
+200404034 Bonnevoie, Rotonde    00802  00802                % 02843 AVL---
+200405046 Luxembourg, Gare Roc  00803  00803                % 02843 AVL---
+200405039 Luxembourg, Wallis    00805  00805                % 02843 AVL---
+200405013 Centre, F.D. Rooseve  00808  00808                % 02843 AVL---
+200405020 Hamilius (Bus)        00811  00811                % 02843 AVL---
+200405014 Centre, Fondation Pe  00813  00813                % 02843 AVL---
+200419026 Limpertsberg, Theate  00814  00814                % 02843 AVL---
+200419025 Limpertsberg, Lycée   00815  00815                % 02843 AVL---
+200419002 Limpertsberg, Alen T  00816  00816                % 02843 AVL---
+200419034 Limpertsberg, Square  00817  00817                % 02843 AVL---
+200419035 Limpertsberg, Waasse  00817  00817                % 02843 AVL---
+200419007 Limpertsberg, Avenir  00818  00818                % 02843 AVL---
+200419015 Luxembourg, Siggy vu  00820  00820                % 02843 AVL---
+200419022 Limpertsberg, Lycée   00821                       % 02843 AVL---
+*Z 02844 AVL---       016 030                               % 02844 AVL---
+*L 2        200404007 200419022  01111  01145               % 02844 AVL---
+*A BE 200404007 200419022 000016  01111  01145              % 02844 AVL---
+*R 1 200419022 200404007 200419022  01111  01145            % 02844 AVL---
+*G GEH 200404007 200419022  01111  01145                    % 02844 AVL---
+*A VE 200404007 200419022 000016  01111  01145              % 02844 AVL---
+200404007 Bonnevoie, Demy Schl         01111                % 02844 AVL---
+200404037 Bonnevoie, Willibror  01112  01112                % 02844 AVL---
+200404021 Bonnevoie, Jules Fis  01114  01114                % 02844 AVL---
+200404029 Bonnevoie, Nic Marth  01115  01115                % 02844 AVL---
+200404022 Bonnevoie, Kaltreis   01115  01115                % 02844 AVL---
+200404018 Bonnevoie, Izeger Kn  01116  01116                % 02844 AVL---
+200404003 Bonnevoie, Anatole F  01117  01117                % 02844 AVL---
+200404019 Bonnevoie, Jean Jaco  01118  01118                % 02844 AVL---
+200404038 Bonnevoie, Wisestroo  01118  01118                % 02844 AVL---
+200404035 Bonnevoie, Vannérus   01119  01119                % 02844 AVL---
+200404026 Bonnevoie, Léon XIII  01120  01120                % 02844 AVL---
+200404034 Bonnevoie, Rotonde    01121  01121                % 02844 AVL---
+200405046 Luxembourg, Gare Roc  01122  01122                % 02844 AVL---
+200405039 Luxembourg, Wallis    01124  01124                % 02844 AVL---
+200405013 Centre, F.D. Rooseve  01127  01127                % 02844 AVL---
+200405020 Hamilius (Bus)        01130  01135                % 02844 AVL---
+200405014 Centre, Fondation Pe  01137  01137                % 02844 AVL---
+200419026 Limpertsberg, Theate  01138  01138                % 02844 AVL---
+200419025 Limpertsberg, Lycée   01139  01139                % 02844 AVL---
+200419002 Limpertsberg, Alen T  01140  01140                % 02844 AVL---
+200419034 Limpertsberg, Square  01141  01141                % 02844 AVL---
+200419035 Limpertsberg, Waasse  01141  01141                % 02844 AVL---
+200419007 Limpertsberg, Avenir  01142  01142                % 02844 AVL---
+200419015 Luxembourg, Siggy vu  01144  01144                % 02844 AVL---
+200419022 Limpertsberg, Lycée   01145                       % 02844 AVL---
+*Z 02845 AVL---                                             % 02845 AVL---
+*L 2        200404007 200419022  00713  00744               % 02845 AVL---
+*A BE 200404007 200419022 000017  00713  00744              % 02845 AVL---
+*R 1 200419022 200404007 200419022  00713  00744            % 02845 AVL---
+*G ST  200404007 200419022  00713  00744                    % 02845 AVL---
+*A VE 200404007 200419022 000017  00713  00744              % 02845 AVL---
+200404007 Bonnevoie, Demy Schl         00713                % 02845 AVL---
+200404037 Bonnevoie, Willibror  00714  00714                % 02845 AVL---
+200404021 Bonnevoie, Jules Fis  00715  00715                % 02845 AVL---
+200404029 Bonnevoie, Nic Marth  00716  00716                % 02845 AVL---
+200404022 Bonnevoie, Kaltreis   00717  00717                % 02845 AVL---
+200404018 Bonnevoie, Izeger Kn  00717  00717                % 02845 AVL---
+200404003 Bonnevoie, Anatole F  00718  00718                % 02845 AVL---
+200404019 Bonnevoie, Jean Jaco  00719  00719                % 02845 AVL---
+200404038 Bonnevoie, Wisestroo  00719  00719                % 02845 AVL---
+200404035 Bonnevoie, Vannérus   00720  00720                % 02845 AVL---
+200404026 Bonnevoie, Léon XIII  00721  00721                % 02845 AVL---
+200404034 Bonnevoie, Rotonde    00722  00722                % 02845 AVL---
+200405046 Luxembourg, Gare Roc  00723  00723                % 02845 AVL---
+200405039 Luxembourg, Wallis    00724  00724                % 02845 AVL---
+200405013 Centre, F.D. Rooseve  00727  00727                % 02845 AVL---
+200405020 Hamilius (Bus)        00730  00735                % 02845 AVL---
+200405014 Centre, Fondation Pe  00737  00737                % 02845 AVL---
+200419026 Limpertsberg, Theate  00738  00738                % 02845 AVL---
+200419025 Limpertsberg, Lycée   00739  00739                % 02845 AVL---
+200419002 Limpertsberg, Alen T  00740  00740                % 02845 AVL---
+200419034 Limpertsberg, Square  00741  00741                % 02845 AVL---
+200419035 Limpertsberg, Waasse  00741  00741                % 02845 AVL---
+200419007 Limpertsberg, Avenir  00742  00742                % 02845 AVL---
+200419015 Luxembourg, Siggy vu  00744  00744                % 02845 AVL---
+200419022 Limpertsberg, Lycée   00744                       % 02845 AVL---
+*Z 02846 AVL---                                             % 02846 AVL---
+*L 2        200404007 200419022  00543  00614               % 02846 AVL---
+*A BE 200404007 200419022 000034  00543  00614              % 02846 AVL---
+*R 1 200419022 200404007 200419022  00543  00614            % 02846 AVL---
+*G ST  200404007 200419022  00543  00614                    % 02846 AVL---
+*A VE 200404007 200419022 000034  00543  00614              % 02846 AVL---
+200404007 Bonnevoie, Demy Schl         00543                % 02846 AVL---
+200404037 Bonnevoie, Willibror  00544  00544                % 02846 AVL---
+200404021 Bonnevoie, Jules Fis  00545  00545                % 02846 AVL---
+200404029 Bonnevoie, Nic Marth  00546  00546                % 02846 AVL---
+200404022 Bonnevoie, Kaltreis   00547  00547                % 02846 AVL---
+200404018 Bonnevoie, Izeger Kn  00547  00547                % 02846 AVL---
+200404003 Bonnevoie, Anatole F  00548  00548                % 02846 AVL---
+200404019 Bonnevoie, Jean Jaco  00549  00549                % 02846 AVL---
+200404038 Bonnevoie, Wisestroo  00549  00549                % 02846 AVL---
+200404035 Bonnevoie, Vannérus   00550  00550                % 02846 AVL---
+200404026 Bonnevoie, Léon XIII  00551  00551                % 02846 AVL---
+200404034 Bonnevoie, Rotonde    00552  00552                % 02846 AVL---
+200405046 Luxembourg, Gare Roc  00553  00553                % 02846 AVL---
+200405039 Luxembourg, Wallis    00554  00554                % 02846 AVL---
+200405013 Centre, F.D. Rooseve  00557  00557                % 02846 AVL---
+200405020 Hamilius (Bus)        00600  00605                % 02846 AVL---
+200405014 Centre, Fondation Pe  00607  00607                % 02846 AVL---
+200419026 Limpertsberg, Theate  00608  00608                % 02846 AVL---
+200419025 Limpertsberg, Lycée   00609  00609                % 02846 AVL---
+200419002 Limpertsberg, Alen T  00610  00610                % 02846 AVL---
+200419034 Limpertsberg, Square  00611  00611                % 02846 AVL---
+200419035 Limpertsberg, Waasse  00611  00611                % 02846 AVL---
+200419007 Limpertsberg, Avenir  00612  00612                % 02846 AVL---
+200419015 Luxembourg, Siggy vu  00614  00614                % 02846 AVL---
+200419022 Limpertsberg, Lycée   00614                       % 02846 AVL---
+*Z 02847 AVL---                                             % 02847 AVL---
+*L 2        200404007 200419022  00603  00636               % 02847 AVL---
+*A BE 200404007 200419022 000034  00603  00636              % 02847 AVL---
+*R 1 200419022 200404007 200419022  00603  00636            % 02847 AVL---
+*G ST  200404007 200419022  00603  00636                    % 02847 AVL---
+*A VE 200404007 200419022 000034  00603  00636              % 02847 AVL---
+200404007 Bonnevoie, Demy Schl         00603                % 02847 AVL---
+200404037 Bonnevoie, Willibror  00604  00604                % 02847 AVL---
+200404021 Bonnevoie, Jules Fis  00605  00605                % 02847 AVL---
+200404029 Bonnevoie, Nic Marth  00606  00606                % 02847 AVL---
+200404022 Bonnevoie, Kaltreis   00607  00607                % 02847 AVL---
+200404018 Bonnevoie, Izeger Kn  00608  00608                % 02847 AVL---
+200404003 Bonnevoie, Anatole F  00609  00609                % 02847 AVL---
+200404019 Bonnevoie, Jean Jaco  00610  00610                % 02847 AVL---
+200404038 Bonnevoie, Wisestroo  00610  00610                % 02847 AVL---
+200404035 Bonnevoie, Vannérus   00611  00611                % 02847 AVL---
+200404026 Bonnevoie, Léon XIII  00612  00612                % 02847 AVL---
+200404034 Bonnevoie, Rotonde    00614  00614                % 02847 AVL---
+200405046 Luxembourg, Gare Roc  00615  00615                % 02847 AVL---
+200405039 Luxembourg, Wallis    00617  00617                % 02847 AVL---
+200405013 Centre, F.D. Rooseve  00621  00621                % 02847 AVL---
+200405020 Hamilius (Bus)        00624  00624                % 02847 AVL---
+200405014 Centre, Fondation Pe  00627  00627                % 02847 AVL---
+200419026 Limpertsberg, Theate  00629  00629                % 02847 AVL---
+200419025 Limpertsberg, Lycée   00630  00630                % 02847 AVL---
+200419002 Limpertsberg, Alen T  00631  00631                % 02847 AVL---
+200419034 Limpertsberg, Square  00632  00632                % 02847 AVL---
+200419035 Limpertsberg, Waasse  00633  00633                % 02847 AVL---
+200419007 Limpertsberg, Avenir  00634  00634                % 02847 AVL---
+200419015 Luxembourg, Siggy vu  00635  00635                % 02847 AVL---
+200419022 Limpertsberg, Lycée   00636                       % 02847 AVL---
+*Z 02848 AVL---                                             % 02848 AVL---
+*L 2        200404007 200419022  00739  00805               % 02848 AVL---
+*A BE 200404007 200419022 000017  00739  00805              % 02848 AVL---
+*R 1 200419022 200404007 200419022  00739  00805            % 02848 AVL---
+*G ST  200404007 200419022  00739  00805                    % 02848 AVL---
+*A VE 200404007 200419022 000017  00739  00805              % 02848 AVL---
+200404007 Bonnevoie, Demy Schl         00739                % 02848 AVL---
+200404037 Bonnevoie, Willibror  00740  00740                % 02848 AVL---
+200404021 Bonnevoie, Jules Fis  00741  00741                % 02848 AVL---
+200404029 Bonnevoie, Nic Marth  00742  00742                % 02848 AVL---
+200404022 Bonnevoie, Kaltreis   00743  00743                % 02848 AVL---
+200404018 Bonnevoie, Izeger Kn  00743  00743                % 02848 AVL---
+200404003 Bonnevoie, Anatole F  00744  00744                % 02848 AVL---
+200404019 Bonnevoie, Jean Jaco  00745  00745                % 02848 AVL---
+200404038 Bonnevoie, Wisestroo  00745  00745                % 02848 AVL---
+200404035 Bonnevoie, Vannérus   00746  00746                % 02848 AVL---
+200404026 Bonnevoie, Léon XIII  00747  00747                % 02848 AVL---
+200404034 Bonnevoie, Rotonde    00748  00748                % 02848 AVL---
+200405046 Luxembourg, Gare Roc  00749  00749                % 02848 AVL---
+200405039 Luxembourg, Wallis    00750  00750                % 02848 AVL---
+200405013 Centre, F.D. Rooseve  00753  00753                % 02848 AVL---
+200405020 Hamilius (Bus)        00756  00756                % 02848 AVL---
+200405014 Centre, Fondation Pe  00758  00758                % 02848 AVL---
+200419026 Limpertsberg, Theate  00759  00759                % 02848 AVL---
+200419025 Limpertsberg, Lycée   00800  00800                % 02848 AVL---
+200419002 Limpertsberg, Alen T  00801  00801                % 02848 AVL---
+200419034 Limpertsberg, Square  00802  00802                % 02848 AVL---
+200419035 Limpertsberg, Waasse  00802  00802                % 02848 AVL---
+200419007 Limpertsberg, Avenir  00803  00803                % 02848 AVL---
+200419015 Luxembourg, Siggy vu  00805  00805                % 02848 AVL---
+200419022 Limpertsberg, Lycée   00805                       % 02848 AVL---
+*Z 02849 AVL---       002 030                               % 02849 AVL---
+*L 2        200419022 200404007  00621  00650               % 02849 AVL---
+*A BE 200419022 200404007 000017  00621  00650              % 02849 AVL---
+*R 2 200404007 200419022 200404007  00621  00650            % 02849 AVL---
+*G ST  200419022 200404007  00621  00650                    % 02849 AVL---
+*A VE 200419022 200404007 000017  00621  00650              % 02849 AVL---
+200419022 Limpertsberg, Lycée          00621                % 02849 AVL---
+200419007 Limpertsberg, Avenir  00622  00622                % 02849 AVL---
+200419035 Limpertsberg, Waasse  00623  00623                % 02849 AVL---
+200419034 Limpertsberg, Square  00624  00624                % 02849 AVL---
+200419002 Limpertsberg, Alen T  00625  00625                % 02849 AVL---
+200419025 Limpertsberg, Lycée   00625  00625                % 02849 AVL---
+200419026 Limpertsberg, Theate  00626  00626                % 02849 AVL---
+200405014 Centre, Fondation Pe  00628  00628                % 02849 AVL---
+200405020 Hamilius (Bus)        00631  00635                % 02849 AVL---
+200405054 Centre, F.D. Rooseve  00637  00637                % 02849 AVL---
+200405039 Luxembourg, Wallis    00640  00640                % 02849 AVL---
+200405046 Luxembourg, Gare Roc  00641  00641                % 02849 AVL---
+200404034 Bonnevoie, Rotonde    00642  00642                % 02849 AVL---
+200404026 Bonnevoie, Léon XIII  00643  00643                % 02849 AVL---
+200404035 Bonnevoie, Vannérus   00644  00644                % 02849 AVL---
+200404038 Bonnevoie, Wisestroo  00645  00645                % 02849 AVL---
+200404019 Bonnevoie, Jean Jaco  00646  00646                % 02849 AVL---
+200404003 Bonnevoie, Anatole F  00646  00646                % 02849 AVL---
+200404018 Bonnevoie, Izeger Kn  00647  00647                % 02849 AVL---
+200404022 Bonnevoie, Kaltreis   00648  00648                % 02849 AVL---
+200404029 Bonnevoie, Nic Marth  00649  00649                % 02849 AVL---
+200404021 Bonnevoie, Jules Fis  00649  00649                % 02849 AVL---
+200404033 Bonnevoie, Pont-Remy  00650  00650                % 02849 AVL---
+200404007 Bonnevoie, Demy Schl  00650                       % 02849 AVL---
+*Z 02850 AVL---       001 030                               % 02850 AVL---
+*L 2        200419022 200404007  00521  00550               % 02850 AVL---
+*A BE 200419022 200404007 000038  00521  00550              % 02850 AVL---
+*R 2 200404007 200419022 200404007  00521  00550            % 02850 AVL---
+*G ST  200419022 200404007  00521  00550                    % 02850 AVL---
+*A VE 200419022 200404007 000038  00521  00550              % 02850 AVL---
+200419022 Limpertsberg, Lycée          00521                % 02850 AVL---
+200419007 Limpertsberg, Avenir  00522  00522                % 02850 AVL---
+200419035 Limpertsberg, Waasse  00523  00523                % 02850 AVL---
+200419034 Limpertsberg, Square  00524  00524                % 02850 AVL---
+200419002 Limpertsberg, Alen T  00525  00525                % 02850 AVL---
+200419025 Limpertsberg, Lycée   00525  00525                % 02850 AVL---
+200419026 Limpertsberg, Theate  00526  00526                % 02850 AVL---
+200405014 Centre, Fondation Pe  00528  00528                % 02850 AVL---
+200405020 Hamilius (Bus)        00531  00535                % 02850 AVL---
+200405054 Centre, F.D. Rooseve  00537  00537                % 02850 AVL---
+200405039 Luxembourg, Wallis    00540  00540                % 02850 AVL---
+200405046 Luxembourg, Gare Roc  00541  00541                % 02850 AVL---
+200404034 Bonnevoie, Rotonde    00542  00542                % 02850 AVL---
+200404026 Bonnevoie, Léon XIII  00543  00543                % 02850 AVL---
+200404035 Bonnevoie, Vannérus   00544  00544                % 02850 AVL---
+200404038 Bonnevoie, Wisestroo  00545  00545                % 02850 AVL---
+200404019 Bonnevoie, Jean Jaco  00546  00546                % 02850 AVL---
+200404003 Bonnevoie, Anatole F  00546  00546                % 02850 AVL---
+200404018 Bonnevoie, Izeger Kn  00547  00547                % 02850 AVL---
+200404022 Bonnevoie, Kaltreis   00548  00548                % 02850 AVL---
+200404029 Bonnevoie, Nic Marth  00549  00549                % 02850 AVL---
+200404021 Bonnevoie, Jules Fis  00549  00549                % 02850 AVL---
+200404033 Bonnevoie, Pont-Remy  00550  00550                % 02850 AVL---
+200404007 Bonnevoie, Demy Schl  00550                       % 02850 AVL---
+*Z 02851 AVL---       007 030                               % 02851 AVL---
+*L 2        200419022 200404007  02021  02050               % 02851 AVL---
+*A BE 200419022 200404007 000038  02021  02050              % 02851 AVL---
+*R 2 200404007 200419022 200404007  02021  02050            % 02851 AVL---
+*G ST  200419022 200404007  02021  02050                    % 02851 AVL---
+*A VE 200419022 200404007 000038  02021  02050              % 02851 AVL---
+200419022 Limpertsberg, Lycée          02021                % 02851 AVL---
+200419007 Limpertsberg, Avenir  02022  02022                % 02851 AVL---
+200419035 Limpertsberg, Waasse  02023  02023                % 02851 AVL---
+200419034 Limpertsberg, Square  02024  02024                % 02851 AVL---
+200419002 Limpertsberg, Alen T  02025  02025                % 02851 AVL---
+200419025 Limpertsberg, Lycée   02025  02025                % 02851 AVL---
+200419026 Limpertsberg, Theate  02026  02026                % 02851 AVL---
+200405014 Centre, Fondation Pe  02028  02028                % 02851 AVL---
+200405020 Hamilius (Bus)        02031  02035                % 02851 AVL---
+200405054 Centre, F.D. Rooseve  02037  02037                % 02851 AVL---
+200405039 Luxembourg, Wallis    02040  02040                % 02851 AVL---
+200405046 Luxembourg, Gare Roc  02041  02041                % 02851 AVL---
+200404034 Bonnevoie, Rotonde    02042  02042                % 02851 AVL---
+200404026 Bonnevoie, Léon XIII  02043  02043                % 02851 AVL---
+200404035 Bonnevoie, Vannérus   02044  02044                % 02851 AVL---
+200404038 Bonnevoie, Wisestroo  02045  02045                % 02851 AVL---
+200404019 Bonnevoie, Jean Jaco  02046  02046                % 02851 AVL---
+200404003 Bonnevoie, Anatole F  02046  02046                % 02851 AVL---
+200404018 Bonnevoie, Izeger Kn  02047  02047                % 02851 AVL---
+200404022 Bonnevoie, Kaltreis   02048  02048                % 02851 AVL---
+200404029 Bonnevoie, Nic Marth  02049  02049                % 02851 AVL---
+200404021 Bonnevoie, Jules Fis  02049  02049                % 02851 AVL---
+200404033 Bonnevoie, Pont-Remy  02050  02050                % 02851 AVL---
+200404007 Bonnevoie, Demy Schl  02050                       % 02851 AVL---
+*Z 02852 AVL---       011 030                               % 02852 AVL---
+*L 2        200419022 200404007  00521  00550               % 02852 AVL---
+*A BE 200419022 200404007 000016  00521  00550              % 02852 AVL---
+*R 2 200404007 200419022 200404007  00521  00550            % 02852 AVL---
+*G GEH 200419022 200404007  00521  00550                    % 02852 AVL---
+*A VE 200419022 200404007 000016  00521  00550              % 02852 AVL---
+200419022 Limpertsberg, Lycée          00521                % 02852 AVL---
+200419007 Limpertsberg, Avenir  00522  00522                % 02852 AVL---
+200419035 Limpertsberg, Waasse  00523  00523                % 02852 AVL---
+200419034 Limpertsberg, Square  00524  00524                % 02852 AVL---
+200419002 Limpertsberg, Alen T  00525  00525                % 02852 AVL---
+200419025 Limpertsberg, Lycée   00525  00525                % 02852 AVL---
+200419026 Limpertsberg, Theate  00526  00526                % 02852 AVL---
+200405014 Centre, Fondation Pe  00528  00528                % 02852 AVL---
+200405020 Hamilius (Bus)        00531  00535                % 02852 AVL---
+200405054 Centre, F.D. Rooseve  00537  00537                % 02852 AVL---
+200405039 Luxembourg, Wallis    00540  00540                % 02852 AVL---
+200405046 Luxembourg, Gare Roc  00541  00541                % 02852 AVL---
+200404034 Bonnevoie, Rotonde    00542  00542                % 02852 AVL---
+200404026 Bonnevoie, Léon XIII  00543  00543                % 02852 AVL---
+200404035 Bonnevoie, Vannérus   00544  00544                % 02852 AVL---
+200404038 Bonnevoie, Wisestroo  00545  00545                % 02852 AVL---
+200404019 Bonnevoie, Jean Jaco  00546  00546                % 02852 AVL---
+200404003 Bonnevoie, Anatole F  00546  00546                % 02852 AVL---
+200404018 Bonnevoie, Izeger Kn  00547  00547                % 02852 AVL---
+200404022 Bonnevoie, Kaltreis   00548  00548                % 02852 AVL---
+200404029 Bonnevoie, Nic Marth  00549  00549                % 02852 AVL---
+200404021 Bonnevoie, Jules Fis  00549  00549                % 02852 AVL---
+200404033 Bonnevoie, Pont-Remy  00550  00550                % 02852 AVL---
+200404007 Bonnevoie, Demy Schl  00550                       % 02852 AVL---
+*Z 02853 AVL---       008 030                               % 02853 AVL---
+*L 2        200419022 200404007  01951  02020               % 02853 AVL---
+*A BE 200419022 200404007 000016  01951  02020              % 02853 AVL---
+*R 2 200404007 200419022 200404007  01951  02020            % 02853 AVL---
+*G GEH 200419022 200404007  01951  02020                    % 02853 AVL---
+*A VE 200419022 200404007 000016  01951  02020              % 02853 AVL---
+200419022 Limpertsberg, Lycée          01951                % 02853 AVL---
+200419007 Limpertsberg, Avenir  01952  01952                % 02853 AVL---
+200419035 Limpertsberg, Waasse  01953  01953                % 02853 AVL---
+200419034 Limpertsberg, Square  01954  01954                % 02853 AVL---
+200419002 Limpertsberg, Alen T  01955  01955                % 02853 AVL---
+200419025 Limpertsberg, Lycée   01955  01955                % 02853 AVL---
+200419026 Limpertsberg, Theate  01956  01956                % 02853 AVL---
+200405014 Centre, Fondation Pe  01958  01958                % 02853 AVL---
+200405020 Hamilius (Bus)        02001  02005                % 02853 AVL---
+200405054 Centre, F.D. Rooseve  02007  02007                % 02853 AVL---
+200405039 Luxembourg, Wallis    02010  02010                % 02853 AVL---
+200405046 Luxembourg, Gare Roc  02011  02011                % 02853 AVL---
+200404034 Bonnevoie, Rotonde    02012  02012                % 02853 AVL---
+200404026 Bonnevoie, Léon XIII  02013  02013                % 02853 AVL---
+200404035 Bonnevoie, Vannérus   02014  02014                % 02853 AVL---
+200404038 Bonnevoie, Wisestroo  02015  02015                % 02853 AVL---
+200404019 Bonnevoie, Jean Jaco  02016  02016                % 02853 AVL---
+200404003 Bonnevoie, Anatole F  02016  02016                % 02853 AVL---
+200404018 Bonnevoie, Izeger Kn  02017  02017                % 02853 AVL---
+200404022 Bonnevoie, Kaltreis   02018  02018                % 02853 AVL---
+200404029 Bonnevoie, Nic Marth  02019  02019                % 02853 AVL---
+200404021 Bonnevoie, Jules Fis  02019  02019                % 02853 AVL---
+200404033 Bonnevoie, Pont-Remy  02020  02020                % 02853 AVL---
+200404007 Bonnevoie, Demy Schl  02020                       % 02853 AVL---
+*Z 02854 AVL---       082 010                               % 02854 AVL---
+*L 2        200419022 200404007  00601  00634               % 02854 AVL---
+*A BE 200419022 200404007 000034  00601  00634              % 02854 AVL---
+*R 2 200404007 200419022 200404007  00601  00634            % 02854 AVL---
+*G GEH 200419022 200404007  00601  00634                    % 02854 AVL---
+*A VE 200419022 200404007 000034  00601  00634              % 02854 AVL---
+200419022 Limpertsberg, Lycée          00601                % 02854 AVL---
+200419007 Limpertsberg, Avenir  00603  00603                % 02854 AVL---
+200419035 Limpertsberg, Waasse  00604  00604                % 02854 AVL---
+200419034 Limpertsberg, Square  00605  00605                % 02854 AVL---
+200419002 Limpertsberg, Alen T  00606  00606                % 02854 AVL---
+200419025 Limpertsberg, Lycée   00607  00607                % 02854 AVL---
+200419026 Limpertsberg, Theate  00609  00609                % 02854 AVL---
+200405014 Centre, Fondation Pe  00610  00610                % 02854 AVL---
+200405020 Hamilius (Bus)        00615  00615                % 02854 AVL---
+200405054 Centre, F.D. Rooseve  00618  00618                % 02854 AVL---
+200405039 Luxembourg, Wallis    00622  00622                % 02854 AVL---
+200405046 Luxembourg, Gare Roc  00623  00623                % 02854 AVL---
+200404034 Bonnevoie, Rotonde    00625  00625                % 02854 AVL---
+200404026 Bonnevoie, Léon XIII  00626  00626                % 02854 AVL---
+200404035 Bonnevoie, Vannérus   00627  00627                % 02854 AVL---
+200404038 Bonnevoie, Wisestroo  00628  00628                % 02854 AVL---
+200404019 Bonnevoie, Jean Jaco  00629  00629                % 02854 AVL---
+200404003 Bonnevoie, Anatole F  00629  00629                % 02854 AVL---
+200404018 Bonnevoie, Izeger Kn  00630  00630                % 02854 AVL---
+200404022 Bonnevoie, Kaltreis   00631  00631                % 02854 AVL---
+200404029 Bonnevoie, Nic Marth  00632  00632                % 02854 AVL---
+200404021 Bonnevoie, Jules Fis  00633  00633                % 02854 AVL---
+200404033 Bonnevoie, Pont-Remy  00634  00634                % 02854 AVL---
+200404007 Bonnevoie, Demy Schl  00634                       % 02854 AVL---
+*Z 02855 AVL---       001 015                               % 02855 AVL---
+*L 2        200419022 200404007  01956  02021               % 02855 AVL---
+*A BE 200419022 200404007 000017  01956  02021              % 02855 AVL---
+*R 2 200404007 200419022 200404007  01956  02021            % 02855 AVL---
+*G GEH 200419022 200404007  01956  02021                    % 02855 AVL---
+*A VE 200419022 200404007 000017  01956  02021              % 02855 AVL---
+200419022 Limpertsberg, Lycée          01956                % 02855 AVL---
+200419007 Limpertsberg, Avenir  01957  01957                % 02855 AVL---
+200419035 Limpertsberg, Waasse  01958  01958                % 02855 AVL---
+200419034 Limpertsberg, Square  01959  01959                % 02855 AVL---
+200419002 Limpertsberg, Alen T  02000  02000                % 02855 AVL---
+200419025 Limpertsberg, Lycée   02000  02000                % 02855 AVL---
+200419026 Limpertsberg, Theate  02001  02001                % 02855 AVL---
+200405014 Centre, Fondation Pe  02003  02003                % 02855 AVL---
+200405020 Hamilius (Bus)        02006  02006                % 02855 AVL---
+200405054 Centre, F.D. Rooseve  02008  02008                % 02855 AVL---
+200405039 Luxembourg, Wallis    02011  02011                % 02855 AVL---
+200405046 Luxembourg, Gare Roc  02012  02012                % 02855 AVL---
+200404034 Bonnevoie, Rotonde    02013  02013                % 02855 AVL---
+200404026 Bonnevoie, Léon XIII  02014  02014                % 02855 AVL---
+200404035 Bonnevoie, Vannérus   02015  02015                % 02855 AVL---
+200404038 Bonnevoie, Wisestroo  02016  02016                % 02855 AVL---
+200404019 Bonnevoie, Jean Jaco  02017  02017                % 02855 AVL---
+200404003 Bonnevoie, Anatole F  02017  02017                % 02855 AVL---
+200404018 Bonnevoie, Izeger Kn  02018  02018                % 02855 AVL---
+200404022 Bonnevoie, Kaltreis   02019  02019                % 02855 AVL---
+200404029 Bonnevoie, Nic Marth  02020  02020                % 02855 AVL---
+200404021 Bonnevoie, Jules Fis  02020  02020                % 02855 AVL---
+200404033 Bonnevoie, Pont-Remy  02021  02021                % 02855 AVL---
+200404007 Bonnevoie, Demy Schl  02021                       % 02855 AVL---
+*Z 02856 AVL---       001 010                               % 02856 AVL---
+*L 2        200419022 200404007  01955  02020               % 02856 AVL---
+*A BE 200419022 200404007 000034  01955  02020              % 02856 AVL---
+*R 2 200404007 200419022 200404007  01955  02020            % 02856 AVL---
+*G GEH 200419022 200404007  01955  02020                    % 02856 AVL---
+*A VE 200419022 200404007 000034  01955  02020              % 02856 AVL---
+200419022 Limpertsberg, Lycée          01955                % 02856 AVL---
+200419007 Limpertsberg, Avenir  01956  01956                % 02856 AVL---
+200419035 Limpertsberg, Waasse  01957  01957                % 02856 AVL---
+200419034 Limpertsberg, Square  01958  01958                % 02856 AVL---
+200419002 Limpertsberg, Alen T  01959  01959                % 02856 AVL---
+200419025 Limpertsberg, Lycée   01959  01959                % 02856 AVL---
+200419026 Limpertsberg, Theate  02000  02000                % 02856 AVL---
+200405014 Centre, Fondation Pe  02002  02002                % 02856 AVL---
+200405020 Hamilius (Bus)        02005  02005                % 02856 AVL---
+200405054 Centre, F.D. Rooseve  02007  02007                % 02856 AVL---
+200405039 Luxembourg, Wallis    02010  02010                % 02856 AVL---
+200405046 Luxembourg, Gare Roc  02011  02011                % 02856 AVL---
+200404034 Bonnevoie, Rotonde    02012  02012                % 02856 AVL---
+200404026 Bonnevoie, Léon XIII  02013  02013                % 02856 AVL---
+200404035 Bonnevoie, Vannérus   02014  02014                % 02856 AVL---
+200404038 Bonnevoie, Wisestroo  02015  02015                % 02856 AVL---
+200404019 Bonnevoie, Jean Jaco  02016  02016                % 02856 AVL---
+200404003 Bonnevoie, Anatole F  02016  02016                % 02856 AVL---
+200404018 Bonnevoie, Izeger Kn  02017  02017                % 02856 AVL---
+200404022 Bonnevoie, Kaltreis   02018  02018                % 02856 AVL---
+200404029 Bonnevoie, Nic Marth  02019  02019                % 02856 AVL---
+200404021 Bonnevoie, Jules Fis  02019  02019                % 02856 AVL---
+200404033 Bonnevoie, Pont-Remy  02020  02020                % 02856 AVL---
+200404007 Bonnevoie, Demy Schl  02020                       % 02856 AVL---
+*Z 02857 AVL---       047 015                               % 02857 AVL---
+*L 2        200419022 200404007  00754  00822               % 02857 AVL---
+*A BE 200419022 200404007 000017  00754  00822              % 02857 AVL---
+*R 2 200404007 200419022 200404007  00754  00822            % 02857 AVL---
+*G GEH 200419022 200404007  00754  00822                    % 02857 AVL---
+*A VE 200419022 200404007 000017  00754  00822              % 02857 AVL---
+200419022 Limpertsberg, Lycée          00754                % 02857 AVL---
+200419007 Limpertsberg, Avenir  00756  00756                % 02857 AVL---
+200419035 Limpertsberg, Waasse  00757  00757                % 02857 AVL---
+200419034 Limpertsberg, Square  00757  00757                % 02857 AVL---
+200419002 Limpertsberg, Alen T  00758  00758                % 02857 AVL---
+200419025 Limpertsberg, Lycée   00759  00759                % 02857 AVL---
+200419026 Limpertsberg, Theate  00800  00800                % 02857 AVL---
+200405014 Centre, Fondation Pe  00802  00802                % 02857 AVL---
+200405020 Hamilius (Bus)        00806  00806                % 02857 AVL---
+200405054 Centre, F.D. Rooseve  00809  00809                % 02857 AVL---
+200405039 Luxembourg, Wallis    00812  00812                % 02857 AVL---
+200405046 Luxembourg, Gare Roc  00813  00813                % 02857 AVL---
+200404034 Bonnevoie, Rotonde    00814  00814                % 02857 AVL---
+200404026 Bonnevoie, Léon XIII  00815  00815                % 02857 AVL---
+200404035 Bonnevoie, Vannérus   00816  00816                % 02857 AVL---
+200404038 Bonnevoie, Wisestroo  00817  00817                % 02857 AVL---
+200404019 Bonnevoie, Jean Jaco  00818  00818                % 02857 AVL---
+200404003 Bonnevoie, Anatole F  00818  00818                % 02857 AVL---
+200404018 Bonnevoie, Izeger Kn  00819  00819                % 02857 AVL---
+200404022 Bonnevoie, Kaltreis   00820  00820                % 02857 AVL---
+200404029 Bonnevoie, Nic Marth  00821  00821                % 02857 AVL---
+200404021 Bonnevoie, Jules Fis  00821  00821                % 02857 AVL---
+200404033 Bonnevoie, Pont-Remy  00822  00822                % 02857 AVL---
+200404007 Bonnevoie, Demy Schl  00822                       % 02857 AVL---
+*Z 02858 AVL---       016 030                               % 02858 AVL---
+*L 2        200419022 200404007  01119  01151               % 02858 AVL---
+*A BE 200419022 200404007 000016  01119  01151              % 02858 AVL---
+*R 2 200404007 200419022 200404007  01119  01151            % 02858 AVL---
+*G GEH 200419022 200404007  01119  01151                    % 02858 AVL---
+*A VE 200419022 200404007 000016  01119  01151              % 02858 AVL---
+200419022 Limpertsberg, Lycée          01119                % 02858 AVL---
+200419007 Limpertsberg, Avenir  01121  01121                % 02858 AVL---
+200419035 Limpertsberg, Waasse  01122  01122                % 02858 AVL---
+200419034 Limpertsberg, Square  01122  01122                % 02858 AVL---
+200419002 Limpertsberg, Alen T  01123  01123                % 02858 AVL---
+200419025 Limpertsberg, Lycée   01124  01124                % 02858 AVL---
+200419026 Limpertsberg, Theate  01125  01125                % 02858 AVL---
+200405014 Centre, Fondation Pe  01127  01127                % 02858 AVL---
+200405020 Hamilius (Bus)        01131  01135                % 02858 AVL---
+200405054 Centre, F.D. Rooseve  01138  01138                % 02858 AVL---
+200405039 Luxembourg, Wallis    01141  01141                % 02858 AVL---
+200405046 Luxembourg, Gare Roc  01142  01142                % 02858 AVL---
+200404034 Bonnevoie, Rotonde    01143  01143                % 02858 AVL---
+200404026 Bonnevoie, Léon XIII  01144  01144                % 02858 AVL---
+200404035 Bonnevoie, Vannérus   01145  01145                % 02858 AVL---
+200404038 Bonnevoie, Wisestroo  01146  01146                % 02858 AVL---
+200404019 Bonnevoie, Jean Jaco  01147  01147                % 02858 AVL---
+200404003 Bonnevoie, Anatole F  01147  01147                % 02858 AVL---
+200404018 Bonnevoie, Izeger Kn  01148  01148                % 02858 AVL---
+200404022 Bonnevoie, Kaltreis   01149  01149                % 02858 AVL---
+200404029 Bonnevoie, Nic Marth  01150  01150                % 02858 AVL---
+200404021 Bonnevoie, Jules Fis  01150  01150                % 02858 AVL---
+200404033 Bonnevoie, Pont-Remy  01151  01151                % 02858 AVL---
+200404007 Bonnevoie, Demy Schl  01151                       % 02858 AVL---
+*Z 02859 AVL---       002 030                               % 02859 AVL---
+*L 2        200404007 200419022  00543  00615               % 02859 AVL---
+*A BE 200404007 200419022 000025  00543  00615              % 02859 AVL---
+*R 1 200419022 200404007 200419022  00543  00615            % 02859 AVL---
+*G ST  200404007 200419022  00543  00615                    % 02859 AVL---
+*A VE 200404007 200419022 000025  00543  00615              % 02859 AVL---
+200404007 Bonnevoie, Demy Schl         00543                % 02859 AVL---
+200404037 Bonnevoie, Willibror  00544  00544                % 02859 AVL---
+200404021 Bonnevoie, Jules Fis  00545  00545                % 02859 AVL---
+200404029 Bonnevoie, Nic Marth  00546  00546                % 02859 AVL---
+200404022 Bonnevoie, Kaltreis   00547  00547                % 02859 AVL---
+200404018 Bonnevoie, Izeger Kn  00547  00547                % 02859 AVL---
+200404003 Bonnevoie, Anatole F  00548  00548                % 02859 AVL---
+200404019 Bonnevoie, Jean Jaco  00549  00549                % 02859 AVL---
+200404038 Bonnevoie, Wisestroo  00549  00549                % 02859 AVL---
+200404035 Bonnevoie, Vannérus   00550  00550                % 02859 AVL---
+200404026 Bonnevoie, Léon XIII  00551  00551                % 02859 AVL---
+200404034 Bonnevoie, Rotonde    00552  00552                % 02859 AVL---
+200405046 Luxembourg, Gare Roc  00553  00553                % 02859 AVL---
+200405039 Luxembourg, Wallis    00554  00554                % 02859 AVL---
+200405013 Centre, F.D. Rooseve  00557  00557                % 02859 AVL---
+200405020 Hamilius (Bus)        00600  00605                % 02859 AVL---
+200405014 Centre, Fondation Pe  00607  00607                % 02859 AVL---
+200419026 Limpertsberg, Theate  00608  00608                % 02859 AVL---
+200419025 Limpertsberg, Lycée   00609  00609                % 02859 AVL---
+200419002 Limpertsberg, Alen T  00610  00610                % 02859 AVL---
+200419034 Limpertsberg, Square  00611  00611                % 02859 AVL---
+200419035 Limpertsberg, Waasse  00611  00611                % 02859 AVL---
+200419007 Limpertsberg, Avenir  00612  00612                % 02859 AVL---
+200419015 Luxembourg, Siggy vu  00614  00614                % 02859 AVL---
+200419022 Limpertsberg, Lycée   00615                       % 02859 AVL---
+*Z 02860 AVL---                                             % 02860 AVL---
+*L 2        200404007 200419022  02013  02045               % 02860 AVL---
+*A BE 200404007 200419022 000025  02013  02045              % 02860 AVL---
+*R 1 200419022 200404007 200419022  02013  02045            % 02860 AVL---
+*G ST  200404007 200419022  02013  02045                    % 02860 AVL---
+*A VE 200404007 200419022 000025  02013  02045              % 02860 AVL---
+200404007 Bonnevoie, Demy Schl         02013                % 02860 AVL---
+200404037 Bonnevoie, Willibror  02014  02014                % 02860 AVL---
+200404021 Bonnevoie, Jules Fis  02015  02015                % 02860 AVL---
+200404029 Bonnevoie, Nic Marth  02016  02016                % 02860 AVL---
+200404022 Bonnevoie, Kaltreis   02017  02017                % 02860 AVL---
+200404018 Bonnevoie, Izeger Kn  02017  02017                % 02860 AVL---
+200404003 Bonnevoie, Anatole F  02018  02018                % 02860 AVL---
+200404019 Bonnevoie, Jean Jaco  02019  02019                % 02860 AVL---
+200404038 Bonnevoie, Wisestroo  02019  02019                % 02860 AVL---
+200404035 Bonnevoie, Vannérus   02020  02020                % 02860 AVL---
+200404026 Bonnevoie, Léon XIII  02021  02021                % 02860 AVL---
+200404034 Bonnevoie, Rotonde    02022  02022                % 02860 AVL---
+200405046 Luxembourg, Gare Roc  02023  02023                % 02860 AVL---
+200405039 Luxembourg, Wallis    02024  02024                % 02860 AVL---
+200405013 Centre, F.D. Rooseve  02027  02027                % 02860 AVL---
+200405020 Hamilius (Bus)        02030  02035                % 02860 AVL---
+200405014 Centre, Fondation Pe  02037  02037                % 02860 AVL---
+200419026 Limpertsberg, Theate  02038  02038                % 02860 AVL---
+200419025 Limpertsberg, Lycée   02039  02039                % 02860 AVL---
+200419002 Limpertsberg, Alen T  02040  02040                % 02860 AVL---
+200419034 Limpertsberg, Square  02041  02041                % 02860 AVL---
+200419035 Limpertsberg, Waasse  02041  02041                % 02860 AVL---
+200419007 Limpertsberg, Avenir  02042  02042                % 02860 AVL---
+200419015 Luxembourg, Siggy vu  02044  02044                % 02860 AVL---
+200419022 Limpertsberg, Lycée   02045                       % 02860 AVL---
+*Z 02861 AVL---       001 930                               % 02861 AVL---
+*L 2        200404007 200419022  00513  00545               % 02861 AVL---
+*A BE 200404007 200419022 000036  00513  00545              % 02861 AVL---
+*R 1 200419022 200404007 200419022  00513  00545            % 02861 AVL---
+*G ST  200404007 200419022  00513  00545                    % 02861 AVL---
+*A VE 200404007 200419022 000036  00513  00545              % 02861 AVL---
+200404007 Bonnevoie, Demy Schl         00513                % 02861 AVL---
+200404037 Bonnevoie, Willibror  00514  00514                % 02861 AVL---
+200404021 Bonnevoie, Jules Fis  00515  00515                % 02861 AVL---
+200404029 Bonnevoie, Nic Marth  00516  00516                % 02861 AVL---
+200404022 Bonnevoie, Kaltreis   00517  00517                % 02861 AVL---
+200404018 Bonnevoie, Izeger Kn  00517  00517                % 02861 AVL---
+200404003 Bonnevoie, Anatole F  00518  00518                % 02861 AVL---
+200404019 Bonnevoie, Jean Jaco  00519  00519                % 02861 AVL---
+200404038 Bonnevoie, Wisestroo  00519  00519                % 02861 AVL---
+200404035 Bonnevoie, Vannérus   00520  00520                % 02861 AVL---
+200404026 Bonnevoie, Léon XIII  00521  00521                % 02861 AVL---
+200404034 Bonnevoie, Rotonde    00522  00522                % 02861 AVL---
+200405046 Luxembourg, Gare Roc  00523  00523                % 02861 AVL---
+200405039 Luxembourg, Wallis    00524  00524                % 02861 AVL---
+200405013 Centre, F.D. Rooseve  00527  00527                % 02861 AVL---
+200405020 Hamilius (Bus)        00530  00535                % 02861 AVL---
+200405014 Centre, Fondation Pe  00537  00537                % 02861 AVL---
+200419026 Limpertsberg, Theate  00538  00538                % 02861 AVL---
+200419025 Limpertsberg, Lycée   00539  00539                % 02861 AVL---
+200419002 Limpertsberg, Alen T  00540  00540                % 02861 AVL---
+200419034 Limpertsberg, Square  00541  00541                % 02861 AVL---
+200419035 Limpertsberg, Waasse  00541  00541                % 02861 AVL---
+200419007 Limpertsberg, Avenir  00542  00542                % 02861 AVL---
+200419015 Luxembourg, Siggy vu  00544  00544                % 02861 AVL---
+200419022 Limpertsberg, Lycée   00545                       % 02861 AVL---
+*Z 02862 AVL---       005 030                               % 02862 AVL---
+*L 2        200404007 200419022  02113  02145               % 02862 AVL---
+*A BE 200404007 200419022 000036  02113  02145              % 02862 AVL---
+*R 1 200419022 200404007 200419022  02113  02145            % 02862 AVL---
+*G ST  200404007 200419022  02113  02145                    % 02862 AVL---
+*A VE 200404007 200419022 000036  02113  02145              % 02862 AVL---
+200404007 Bonnevoie, Demy Schl         02113                % 02862 AVL---
+200404037 Bonnevoie, Willibror  02114  02114                % 02862 AVL---
+200404021 Bonnevoie, Jules Fis  02115  02115                % 02862 AVL---
+200404029 Bonnevoie, Nic Marth  02116  02116                % 02862 AVL---
+200404022 Bonnevoie, Kaltreis   02117  02117                % 02862 AVL---
+200404018 Bonnevoie, Izeger Kn  02117  02117                % 02862 AVL---
+200404003 Bonnevoie, Anatole F  02118  02118                % 02862 AVL---
+200404019 Bonnevoie, Jean Jaco  02119  02119                % 02862 AVL---
+200404038 Bonnevoie, Wisestroo  02119  02119                % 02862 AVL---
+200404035 Bonnevoie, Vannérus   02120  02120                % 02862 AVL---
+200404026 Bonnevoie, Léon XIII  02121  02121                % 02862 AVL---
+200404034 Bonnevoie, Rotonde    02122  02122                % 02862 AVL---
+200405046 Luxembourg, Gare Roc  02123  02123                % 02862 AVL---
+200405039 Luxembourg, Wallis    02124  02124                % 02862 AVL---
+200405013 Centre, F.D. Rooseve  02127  02127                % 02862 AVL---
+200405020 Hamilius (Bus)        02130  02135                % 02862 AVL---
+200405014 Centre, Fondation Pe  02137  02137                % 02862 AVL---
+200419026 Limpertsberg, Theate  02138  02138                % 02862 AVL---
+200419025 Limpertsberg, Lycée   02139  02139                % 02862 AVL---
+200419002 Limpertsberg, Alen T  02140  02140                % 02862 AVL---
+200419034 Limpertsberg, Square  02141  02141                % 02862 AVL---
+200419035 Limpertsberg, Waasse  02141  02141                % 02862 AVL---
+200419007 Limpertsberg, Avenir  02142  02142                % 02862 AVL---
+200419015 Luxembourg, Siggy vu  02144  02144                % 02862 AVL---
+200419022 Limpertsberg, Lycée   02145                       % 02862 AVL---
+*Z 02863 AVL---                                             % 02863 AVL---
+*L 2        200404007 200419022  00443  00515               % 02863 AVL---
+*A BE 200404007 200419022 000033  00443  00515              % 02863 AVL---
+*R 1 200419022 200404007 200419022  00443  00515            % 02863 AVL---
+*G ST  200404007 200419022  00443  00515                    % 02863 AVL---
+*A VE 200404007 200419022 000033  00443  00515              % 02863 AVL---
+200404007 Bonnevoie, Demy Schl         00443                % 02863 AVL---
+200404037 Bonnevoie, Willibror  00444  00444                % 02863 AVL---
+200404021 Bonnevoie, Jules Fis  00445  00445                % 02863 AVL---
+200404029 Bonnevoie, Nic Marth  00446  00446                % 02863 AVL---
+200404022 Bonnevoie, Kaltreis   00447  00447                % 02863 AVL---
+200404018 Bonnevoie, Izeger Kn  00447  00447                % 02863 AVL---
+200404003 Bonnevoie, Anatole F  00448  00448                % 02863 AVL---
+200404019 Bonnevoie, Jean Jaco  00449  00449                % 02863 AVL---
+200404038 Bonnevoie, Wisestroo  00449  00449                % 02863 AVL---
+200404035 Bonnevoie, Vannérus   00450  00450                % 02863 AVL---
+200404026 Bonnevoie, Léon XIII  00451  00451                % 02863 AVL---
+200404034 Bonnevoie, Rotonde    00452  00452                % 02863 AVL---
+200405046 Luxembourg, Gare Roc  00453  00453                % 02863 AVL---
+200405039 Luxembourg, Wallis    00454  00454                % 02863 AVL---
+200405013 Centre, F.D. Rooseve  00457  00457                % 02863 AVL---
+200405020 Hamilius (Bus)        00500  00505                % 02863 AVL---
+200405014 Centre, Fondation Pe  00507  00507                % 02863 AVL---
+200419026 Limpertsberg, Theate  00508  00508                % 02863 AVL---
+200419025 Limpertsberg, Lycée   00509  00509                % 02863 AVL---
+200419002 Limpertsberg, Alen T  00510  00510                % 02863 AVL---
+200419034 Limpertsberg, Square  00511  00511                % 02863 AVL---
+200419035 Limpertsberg, Waasse  00511  00511                % 02863 AVL---
+200419007 Limpertsberg, Avenir  00512  00512                % 02863 AVL---
+200419015 Luxembourg, Siggy vu  00514  00514                % 02863 AVL---
+200419022 Limpertsberg, Lycée   00515                       % 02863 AVL---
+*Z 02864 AVL---       011 030                               % 02864 AVL---
+*L 2        200404007 200419022  00513  00545               % 02864 AVL---
+*A BE 200404007 200419022 000018  00513  00545              % 02864 AVL---
+*R 1 200419022 200404007 200419022  00513  00545            % 02864 AVL---
+*G GEH 200404007 200419022  00513  00545                    % 02864 AVL---
+*A VE 200404007 200419022 000018  00513  00545              % 02864 AVL---
+200404007 Bonnevoie, Demy Schl         00513                % 02864 AVL---
+200404037 Bonnevoie, Willibror  00514  00514                % 02864 AVL---
+200404021 Bonnevoie, Jules Fis  00515  00515                % 02864 AVL---
+200404029 Bonnevoie, Nic Marth  00516  00516                % 02864 AVL---
+200404022 Bonnevoie, Kaltreis   00517  00517                % 02864 AVL---
+200404018 Bonnevoie, Izeger Kn  00517  00517                % 02864 AVL---
+200404003 Bonnevoie, Anatole F  00518  00518                % 02864 AVL---
+200404019 Bonnevoie, Jean Jaco  00519  00519                % 02864 AVL---
+200404038 Bonnevoie, Wisestroo  00519  00519                % 02864 AVL---
+200404035 Bonnevoie, Vannérus   00520  00520                % 02864 AVL---
+200404026 Bonnevoie, Léon XIII  00521  00521                % 02864 AVL---
+200404034 Bonnevoie, Rotonde    00522  00522                % 02864 AVL---
+200405046 Luxembourg, Gare Roc  00523  00523                % 02864 AVL---
+200405039 Luxembourg, Wallis    00524  00524                % 02864 AVL---
+200405013 Centre, F.D. Rooseve  00527  00527                % 02864 AVL---
+200405020 Hamilius (Bus)        00530  00535                % 02864 AVL---
+200405014 Centre, Fondation Pe  00537  00537                % 02864 AVL---
+200419026 Limpertsberg, Theate  00538  00538                % 02864 AVL---
+200419025 Limpertsberg, Lycée   00539  00539                % 02864 AVL---
+200419002 Limpertsberg, Alen T  00540  00540                % 02864 AVL---
+200419034 Limpertsberg, Square  00541  00541                % 02864 AVL---
+200419035 Limpertsberg, Waasse  00541  00541                % 02864 AVL---
+200419007 Limpertsberg, Avenir  00542  00542                % 02864 AVL---
+200419015 Luxembourg, Siggy vu  00544  00544                % 02864 AVL---
+200419022 Limpertsberg, Lycée   00545                       % 02864 AVL---
+*Z 02865 AVL---       001 060                               % 02865 AVL---
+*L 2        200404007 200419022  01943  02015               % 02865 AVL---
+*A BE 200404007 200419022 000018  01943  02015              % 02865 AVL---
+*R 1 200419022 200404007 200419022  01943  02015            % 02865 AVL---
+*G GEH 200404007 200419022  01943  02015                    % 02865 AVL---
+*A VE 200404007 200419022 000018  01943  02015              % 02865 AVL---
+200404007 Bonnevoie, Demy Schl         01943                % 02865 AVL---
+200404037 Bonnevoie, Willibror  01944  01944                % 02865 AVL---
+200404021 Bonnevoie, Jules Fis  01945  01945                % 02865 AVL---
+200404029 Bonnevoie, Nic Marth  01946  01946                % 02865 AVL---
+200404022 Bonnevoie, Kaltreis   01947  01947                % 02865 AVL---
+200404018 Bonnevoie, Izeger Kn  01947  01947                % 02865 AVL---
+200404003 Bonnevoie, Anatole F  01948  01948                % 02865 AVL---
+200404019 Bonnevoie, Jean Jaco  01949  01949                % 02865 AVL---
+200404038 Bonnevoie, Wisestroo  01949  01949                % 02865 AVL---
+200404035 Bonnevoie, Vannérus   01950  01950                % 02865 AVL---
+200404026 Bonnevoie, Léon XIII  01951  01951                % 02865 AVL---
+200404034 Bonnevoie, Rotonde    01952  01952                % 02865 AVL---
+200405046 Luxembourg, Gare Roc  01953  01953                % 02865 AVL---
+200405039 Luxembourg, Wallis    01954  01954                % 02865 AVL---
+200405013 Centre, F.D. Rooseve  01957  01957                % 02865 AVL---
+200405020 Hamilius (Bus)        02000  02005                % 02865 AVL---
+200405014 Centre, Fondation Pe  02007  02007                % 02865 AVL---
+200419026 Limpertsberg, Theate  02008  02008                % 02865 AVL---
+200419025 Limpertsberg, Lycée   02009  02009                % 02865 AVL---
+200419002 Limpertsberg, Alen T  02010  02010                % 02865 AVL---
+200419034 Limpertsberg, Square  02011  02011                % 02865 AVL---
+200419035 Limpertsberg, Waasse  02011  02011                % 02865 AVL---
+200419007 Limpertsberg, Avenir  02012  02012                % 02865 AVL---
+200419015 Luxembourg, Siggy vu  02014  02014                % 02865 AVL---
+200419022 Limpertsberg, Lycée   02015                       % 02865 AVL---
+*Z 02866 AVL---       005 030                               % 02866 AVL---
+*L 2        200404007 200419022  02113  02145               % 02866 AVL---
+*A BE 200404007 200419022 000018  02113  02145              % 02866 AVL---
+*R 1 200419022 200404007 200419022  02113  02145            % 02866 AVL---
+*G GEH 200404007 200419022  02113  02145                    % 02866 AVL---
+*A VE 200404007 200419022 000018  02113  02145              % 02866 AVL---
+200404007 Bonnevoie, Demy Schl         02113                % 02866 AVL---
+200404037 Bonnevoie, Willibror  02114  02114                % 02866 AVL---
+200404021 Bonnevoie, Jules Fis  02115  02115                % 02866 AVL---
+200404029 Bonnevoie, Nic Marth  02116  02116                % 02866 AVL---
+200404022 Bonnevoie, Kaltreis   02117  02117                % 02866 AVL---
+200404018 Bonnevoie, Izeger Kn  02117  02117                % 02866 AVL---
+200404003 Bonnevoie, Anatole F  02118  02118                % 02866 AVL---
+200404019 Bonnevoie, Jean Jaco  02119  02119                % 02866 AVL---
+200404038 Bonnevoie, Wisestroo  02119  02119                % 02866 AVL---
+200404035 Bonnevoie, Vannérus   02120  02120                % 02866 AVL---
+200404026 Bonnevoie, Léon XIII  02121  02121                % 02866 AVL---
+200404034 Bonnevoie, Rotonde    02122  02122                % 02866 AVL---
+200405046 Luxembourg, Gare Roc  02123  02123                % 02866 AVL---
+200405039 Luxembourg, Wallis    02124  02124                % 02866 AVL---
+200405013 Centre, F.D. Rooseve  02127  02127                % 02866 AVL---
+200405020 Hamilius (Bus)        02130  02135                % 02866 AVL---
+200405014 Centre, Fondation Pe  02137  02137                % 02866 AVL---
+200419026 Limpertsberg, Theate  02138  02138                % 02866 AVL---
+200419025 Limpertsberg, Lycée   02139  02139                % 02866 AVL---
+200419002 Limpertsberg, Alen T  02140  02140                % 02866 AVL---
+200419034 Limpertsberg, Square  02141  02141                % 02866 AVL---
+200419035 Limpertsberg, Waasse  02141  02141                % 02866 AVL---
+200419007 Limpertsberg, Avenir  02142  02142                % 02866 AVL---
+200419015 Luxembourg, Siggy vu  02144  02144                % 02866 AVL---
+200419022 Limpertsberg, Lycée   02145                       % 02866 AVL---
+*Z 02867 AVL---                                             % 02867 AVL---
+*L 2        200404007 200419022  02013  02045               % 02867 AVL---
+*A BE 200404007 200419022 000049  02013  02045              % 02867 AVL---
+*R 1 200419022 200404007 200419022  02013  02045            % 02867 AVL---
+*G GEH 200404007 200419022  02013  02045                    % 02867 AVL---
+*A VE 200404007 200419022 000049  02013  02045              % 02867 AVL---
+200404007 Bonnevoie, Demy Schl         02013                % 02867 AVL---
+200404037 Bonnevoie, Willibror  02014  02014                % 02867 AVL---
+200404021 Bonnevoie, Jules Fis  02015  02015                % 02867 AVL---
+200404029 Bonnevoie, Nic Marth  02016  02016                % 02867 AVL---
+200404022 Bonnevoie, Kaltreis   02017  02017                % 02867 AVL---
+200404018 Bonnevoie, Izeger Kn  02017  02017                % 02867 AVL---
+200404003 Bonnevoie, Anatole F  02018  02018                % 02867 AVL---
+200404019 Bonnevoie, Jean Jaco  02019  02019                % 02867 AVL---
+200404038 Bonnevoie, Wisestroo  02019  02019                % 02867 AVL---
+200404035 Bonnevoie, Vannérus   02020  02020                % 02867 AVL---
+200404026 Bonnevoie, Léon XIII  02021  02021                % 02867 AVL---
+200404034 Bonnevoie, Rotonde    02022  02022                % 02867 AVL---
+200405046 Luxembourg, Gare Roc  02023  02023                % 02867 AVL---
+200405039 Luxembourg, Wallis    02024  02024                % 02867 AVL---
+200405013 Centre, F.D. Rooseve  02027  02027                % 02867 AVL---
+200405020 Hamilius (Bus)        02030  02035                % 02867 AVL---
+200405014 Centre, Fondation Pe  02037  02037                % 02867 AVL---
+200419026 Limpertsberg, Theate  02038  02038                % 02867 AVL---
+200419025 Limpertsberg, Lycée   02039  02039                % 02867 AVL---
+200419002 Limpertsberg, Alen T  02040  02040                % 02867 AVL---
+200419034 Limpertsberg, Square  02041  02041                % 02867 AVL---
+200419035 Limpertsberg, Waasse  02041  02041                % 02867 AVL---
+200419007 Limpertsberg, Avenir  02042  02042                % 02867 AVL---
+200419015 Luxembourg, Siggy vu  02044  02044                % 02867 AVL---
+200419022 Limpertsberg, Lycée   02045                       % 02867 AVL---
+*Z 02868 AVL---       047 015                               % 02868 AVL---
+*L 2        200404007 200419022  00752  00821               % 02868 AVL---
+*A BE 200404007 200419022 000025  00752  00821              % 02868 AVL---
+*R 1 200419022 200404007 200419022  00752  00821            % 02868 AVL---
+*G GEH 200404007 200419022  00752  00821                    % 02868 AVL---
+*A VE 200404007 200419022 000025  00752  00821              % 02868 AVL---
+200404007 Bonnevoie, Demy Schl         00752                % 02868 AVL---
+200404037 Bonnevoie, Willibror  00753  00753                % 02868 AVL---
+200404021 Bonnevoie, Jules Fis  00755  00755                % 02868 AVL---
+200404029 Bonnevoie, Nic Marth  00756  00756                % 02868 AVL---
+200404022 Bonnevoie, Kaltreis   00756  00756                % 02868 AVL---
+200404018 Bonnevoie, Izeger Kn  00757  00757                % 02868 AVL---
+200404003 Bonnevoie, Anatole F  00758  00758                % 02868 AVL---
+200404019 Bonnevoie, Jean Jaco  00759  00759                % 02868 AVL---
+200404038 Bonnevoie, Wisestroo  00759  00759                % 02868 AVL---
+200404035 Bonnevoie, Vannérus   00800  00800                % 02868 AVL---
+200404026 Bonnevoie, Léon XIII  00801  00801                % 02868 AVL---
+200404034 Bonnevoie, Rotonde    00802  00802                % 02868 AVL---
+200405046 Luxembourg, Gare Roc  00803  00803                % 02868 AVL---
+200405039 Luxembourg, Wallis    00805  00805                % 02868 AVL---
+200405013 Centre, F.D. Rooseve  00808  00808                % 02868 AVL---
+200405020 Hamilius (Bus)        00811  00811                % 02868 AVL---
+200405014 Centre, Fondation Pe  00813  00813                % 02868 AVL---
+200419026 Limpertsberg, Theate  00814  00814                % 02868 AVL---
+200419025 Limpertsberg, Lycée   00815  00815                % 02868 AVL---
+200419002 Limpertsberg, Alen T  00816  00816                % 02868 AVL---
+200419034 Limpertsberg, Square  00817  00817                % 02868 AVL---
+200419035 Limpertsberg, Waasse  00817  00817                % 02868 AVL---
+200419007 Limpertsberg, Avenir  00818  00818                % 02868 AVL---
+200419015 Luxembourg, Siggy vu  00820  00820                % 02868 AVL---
+200419022 Limpertsberg, Lycée   00821                       % 02868 AVL---
+*Z 02869 AVL---                                             % 02869 AVL---
+*L 2        200404007 200419022  01954  02021               % 02869 AVL---
+*A BE 200404007 200419022 000025  01954  02021              % 02869 AVL---
+*R 1 200419022 200404007 200419022  01954  02021            % 02869 AVL---
+*G GEH 200404007 200419022  01954  02021                    % 02869 AVL---
+*A VE 200404007 200419022 000025  01954  02021              % 02869 AVL---
+200404007 Bonnevoie, Demy Schl         01954                % 02869 AVL---
+200404037 Bonnevoie, Willibror  01955  01955                % 02869 AVL---
+200404021 Bonnevoie, Jules Fis  01956  01956                % 02869 AVL---
+200404029 Bonnevoie, Nic Marth  01957  01957                % 02869 AVL---
+200404022 Bonnevoie, Kaltreis   01958  01958                % 02869 AVL---
+200404018 Bonnevoie, Izeger Kn  01958  01958                % 02869 AVL---
+200404003 Bonnevoie, Anatole F  01959  01959                % 02869 AVL---
+200404019 Bonnevoie, Jean Jaco  02000  02000                % 02869 AVL---
+200404038 Bonnevoie, Wisestroo  02000  02000                % 02869 AVL---
+200404035 Bonnevoie, Vannérus   02001  02001                % 02869 AVL---
+200404026 Bonnevoie, Léon XIII  02002  02002                % 02869 AVL---
+200404034 Bonnevoie, Rotonde    02003  02003                % 02869 AVL---
+200405046 Luxembourg, Gare Roc  02004  02004                % 02869 AVL---
+200405039 Luxembourg, Wallis    02005  02005                % 02869 AVL---
+200405013 Centre, F.D. Rooseve  02008  02008                % 02869 AVL---
+200405020 Hamilius (Bus)        02011  02011                % 02869 AVL---
+200405014 Centre, Fondation Pe  02013  02013                % 02869 AVL---
+200419026 Limpertsberg, Theate  02014  02014                % 02869 AVL---
+200419025 Limpertsberg, Lycée   02015  02015                % 02869 AVL---
+200419002 Limpertsberg, Alen T  02016  02016                % 02869 AVL---
+200419034 Limpertsberg, Square  02017  02017                % 02869 AVL---
+200419035 Limpertsberg, Waasse  02017  02017                % 02869 AVL---
+200419007 Limpertsberg, Avenir  02018  02018                % 02869 AVL---
+200419015 Luxembourg, Siggy vu  02020  02020                % 02869 AVL---
+200419022 Limpertsberg, Lycée   02021                       % 02869 AVL---
+*Z 02870 AVL---                                             % 02870 AVL---
+*L 2        200404007 200419022  01947  02014               % 02870 AVL---
+*A BE 200404007 200419022 000033  01947  02014              % 02870 AVL---
+*R 1 200419022 200404007 200419022  01947  02014            % 02870 AVL---
+*G ST  200404007 200419022  01947  02014                    % 02870 AVL---
+*A VE 200404007 200419022 000033  01947  02014              % 02870 AVL---
+200404007 Bonnevoie, Demy Schl         01947                % 02870 AVL---
+200404037 Bonnevoie, Willibror  01948  01948                % 02870 AVL---
+200404021 Bonnevoie, Jules Fis  01949  01949                % 02870 AVL---
+200404029 Bonnevoie, Nic Marth  01950  01950                % 02870 AVL---
+200404022 Bonnevoie, Kaltreis   01951  01951                % 02870 AVL---
+200404018 Bonnevoie, Izeger Kn  01951  01951                % 02870 AVL---
+200404003 Bonnevoie, Anatole F  01952  01952                % 02870 AVL---
+200404019 Bonnevoie, Jean Jaco  01953  01953                % 02870 AVL---
+200404038 Bonnevoie, Wisestroo  01953  01953                % 02870 AVL---
+200404035 Bonnevoie, Vannérus   01954  01954                % 02870 AVL---
+200404026 Bonnevoie, Léon XIII  01955  01955                % 02870 AVL---
+200404034 Bonnevoie, Rotonde    01956  01956                % 02870 AVL---
+200405046 Luxembourg, Gare Roc  01957  01957                % 02870 AVL---
+200405039 Luxembourg, Wallis    01958  01958                % 02870 AVL---
+200405013 Centre, F.D. Rooseve  02001  02001                % 02870 AVL---
+200405020 Hamilius (Bus)        02004  02004                % 02870 AVL---
+200405014 Centre, Fondation Pe  02006  02006                % 02870 AVL---
+200419026 Limpertsberg, Theate  02007  02007                % 02870 AVL---
+200419025 Limpertsberg, Lycée   02008  02008                % 02870 AVL---
+200419002 Limpertsberg, Alen T  02009  02009                % 02870 AVL---
+200419034 Limpertsberg, Square  02010  02010                % 02870 AVL---
+200419035 Limpertsberg, Waasse  02010  02010                % 02870 AVL---
+200419007 Limpertsberg, Avenir  02011  02011                % 02870 AVL---
+200419015 Luxembourg, Siggy vu  02013  02013                % 02870 AVL---
+200419022 Limpertsberg, Lycée   02014                       % 02870 AVL---
+*Z 02871 AVL---                                             % 02871 AVL---
+*L 2        200404007 200419022  01957  02024               % 02871 AVL---
+*A BE 200404007 200419022 000033  01957  02024              % 02871 AVL---
+*R 1 200419022 200404007 200419022  01957  02024            % 02871 AVL---
+*G GEH 200404007 200419022  01957  02024                    % 02871 AVL---
+*A VE 200404007 200419022 000033  01957  02024              % 02871 AVL---
+200404007 Bonnevoie, Demy Schl         01957                % 02871 AVL---
+200404037 Bonnevoie, Willibror  01958  01958                % 02871 AVL---
+200404021 Bonnevoie, Jules Fis  01959  01959                % 02871 AVL---
+200404029 Bonnevoie, Nic Marth  02000  02000                % 02871 AVL---
+200404022 Bonnevoie, Kaltreis   02001  02001                % 02871 AVL---
+200404018 Bonnevoie, Izeger Kn  02001  02001                % 02871 AVL---
+200404003 Bonnevoie, Anatole F  02002  02002                % 02871 AVL---
+200404019 Bonnevoie, Jean Jaco  02003  02003                % 02871 AVL---
+200404038 Bonnevoie, Wisestroo  02003  02003                % 02871 AVL---
+200404035 Bonnevoie, Vannérus   02004  02004                % 02871 AVL---
+200404026 Bonnevoie, Léon XIII  02005  02005                % 02871 AVL---
+200404034 Bonnevoie, Rotonde    02006  02006                % 02871 AVL---
+200405046 Luxembourg, Gare Roc  02007  02007                % 02871 AVL---
+200405039 Luxembourg, Wallis    02008  02008                % 02871 AVL---
+200405013 Centre, F.D. Rooseve  02011  02011                % 02871 AVL---
+200405020 Hamilius (Bus)        02014  02014                % 02871 AVL---
+200405014 Centre, Fondation Pe  02016  02016                % 02871 AVL---
+200419026 Limpertsberg, Theate  02017  02017                % 02871 AVL---
+200419025 Limpertsberg, Lycée   02018  02018                % 02871 AVL---
+200419002 Limpertsberg, Alen T  02019  02019                % 02871 AVL---
+200419034 Limpertsberg, Square  02020  02020                % 02871 AVL---
+200419035 Limpertsberg, Waasse  02020  02020                % 02871 AVL---
+200419007 Limpertsberg, Avenir  02021  02021                % 02871 AVL---
+200419015 Luxembourg, Siggy vu  02023  02023                % 02871 AVL---
+200419022 Limpertsberg, Lycée   02024                       % 02871 AVL---
+*Z 02872 AVL---       016 030                               % 02872 AVL---
+*L 2        200404007 200419022  01111  01145               % 02872 AVL---
+*A BE 200404007 200419022 000018  01111  01145              % 02872 AVL---
+*R 1 200419022 200404007 200419022  01111  01145            % 02872 AVL---
+*G GEH 200404007 200419022  01111  01145                    % 02872 AVL---
+*A VE 200404007 200419022 000018  01111  01145              % 02872 AVL---
+200404007 Bonnevoie, Demy Schl         01111                % 02872 AVL---
+200404037 Bonnevoie, Willibror  01112  01112                % 02872 AVL---
+200404021 Bonnevoie, Jules Fis  01114  01114                % 02872 AVL---
+200404029 Bonnevoie, Nic Marth  01115  01115                % 02872 AVL---
+200404022 Bonnevoie, Kaltreis   01115  01115                % 02872 AVL---
+200404018 Bonnevoie, Izeger Kn  01116  01116                % 02872 AVL---
+200404003 Bonnevoie, Anatole F  01117  01117                % 02872 AVL---
+200404019 Bonnevoie, Jean Jaco  01118  01118                % 02872 AVL---
+200404038 Bonnevoie, Wisestroo  01118  01118                % 02872 AVL---
+200404035 Bonnevoie, Vannérus   01119  01119                % 02872 AVL---
+200404026 Bonnevoie, Léon XIII  01120  01120                % 02872 AVL---
+200404034 Bonnevoie, Rotonde    01121  01121                % 02872 AVL---
+200405046 Luxembourg, Gare Roc  01122  01122                % 02872 AVL---
+200405039 Luxembourg, Wallis    01124  01124                % 02872 AVL---
+200405013 Centre, F.D. Rooseve  01127  01127                % 02872 AVL---
+200405020 Hamilius (Bus)        01130  01135                % 02872 AVL---
+200405014 Centre, Fondation Pe  01137  01137                % 02872 AVL---
+200419026 Limpertsberg, Theate  01138  01138                % 02872 AVL---
+200419025 Limpertsberg, Lycée   01139  01139                % 02872 AVL---
+200419002 Limpertsberg, Alen T  01140  01140                % 02872 AVL---
+200419034 Limpertsberg, Square  01141  01141                % 02872 AVL---
+200419035 Limpertsberg, Waasse  01141  01141                % 02872 AVL---
+200419007 Limpertsberg, Avenir  01142  01142                % 02872 AVL---
+200419015 Luxembourg, Siggy vu  01144  01144                % 02872 AVL---
+200419022 Limpertsberg, Lycée   01145                       % 02872 AVL---
+*Z 02873 AVL---       080 010                               % 02873 AVL---
+*L 2        200404007 200419022  00613  00646               % 02873 AVL---
+*A BE 200404007 200419022 000033  00613  00646              % 02873 AVL---
+*R 1 200419022 200404007 200419022  00613  00646            % 02873 AVL---
+*G GEH 200404007 200419022  00613  00646                    % 02873 AVL---
+*A VE 200404007 200419022 000033  00613  00646              % 02873 AVL---
+200404007 Bonnevoie, Demy Schl         00613                % 02873 AVL---
+200404037 Bonnevoie, Willibror  00614  00614                % 02873 AVL---
+200404021 Bonnevoie, Jules Fis  00615  00615                % 02873 AVL---
+200404029 Bonnevoie, Nic Marth  00616  00616                % 02873 AVL---
+200404022 Bonnevoie, Kaltreis   00617  00617                % 02873 AVL---
+200404018 Bonnevoie, Izeger Kn  00618  00618                % 02873 AVL---
+200404003 Bonnevoie, Anatole F  00619  00619                % 02873 AVL---
+200404019 Bonnevoie, Jean Jaco  00620  00620                % 02873 AVL---
+200404038 Bonnevoie, Wisestroo  00620  00620                % 02873 AVL---
+200404035 Bonnevoie, Vannérus   00621  00621                % 02873 AVL---
+200404026 Bonnevoie, Léon XIII  00622  00622                % 02873 AVL---
+200404034 Bonnevoie, Rotonde    00624  00624                % 02873 AVL---
+200405046 Luxembourg, Gare Roc  00625  00625                % 02873 AVL---
+200405039 Luxembourg, Wallis    00627  00627                % 02873 AVL---
+200405013 Centre, F.D. Rooseve  00631  00631                % 02873 AVL---
+200405020 Hamilius (Bus)        00634  00634                % 02873 AVL---
+200405014 Centre, Fondation Pe  00637  00637                % 02873 AVL---
+200419026 Limpertsberg, Theate  00639  00639                % 02873 AVL---
+200419025 Limpertsberg, Lycée   00640  00640                % 02873 AVL---
+200419002 Limpertsberg, Alen T  00641  00641                % 02873 AVL---
+200419034 Limpertsberg, Square  00642  00642                % 02873 AVL---
+200419035 Limpertsberg, Waasse  00643  00643                % 02873 AVL---
+200419007 Limpertsberg, Avenir  00644  00644                % 02873 AVL---
+200419015 Luxembourg, Siggy vu  00645  00645                % 02873 AVL---
+200419022 Limpertsberg, Lycée   00646                       % 02873 AVL---
+*Z 02874 AVL---                                             % 02874 AVL---
+*L 2        200404007 200419022  00713  00744               % 02874 AVL---
+*A BE 200404007 200419022 000025  00713  00744              % 02874 AVL---
+*R 1 200419022 200404007 200419022  00713  00744            % 02874 AVL---
+*G ST  200404007 200419022  00713  00744                    % 02874 AVL---
+*A VE 200404007 200419022 000025  00713  00744              % 02874 AVL---
+200404007 Bonnevoie, Demy Schl         00713                % 02874 AVL---
+200404037 Bonnevoie, Willibror  00714  00714                % 02874 AVL---
+200404021 Bonnevoie, Jules Fis  00715  00715                % 02874 AVL---
+200404029 Bonnevoie, Nic Marth  00716  00716                % 02874 AVL---
+200404022 Bonnevoie, Kaltreis   00717  00717                % 02874 AVL---
+200404018 Bonnevoie, Izeger Kn  00717  00717                % 02874 AVL---
+200404003 Bonnevoie, Anatole F  00718  00718                % 02874 AVL---
+200404019 Bonnevoie, Jean Jaco  00719  00719                % 02874 AVL---
+200404038 Bonnevoie, Wisestroo  00719  00719                % 02874 AVL---
+200404035 Bonnevoie, Vannérus   00720  00720                % 02874 AVL---
+200404026 Bonnevoie, Léon XIII  00721  00721                % 02874 AVL---
+200404034 Bonnevoie, Rotonde    00722  00722                % 02874 AVL---
+200405046 Luxembourg, Gare Roc  00723  00723                % 02874 AVL---
+200405039 Luxembourg, Wallis    00724  00724                % 02874 AVL---
+200405013 Centre, F.D. Rooseve  00727  00727                % 02874 AVL---
+200405020 Hamilius (Bus)        00730  00735                % 02874 AVL---
+200405014 Centre, Fondation Pe  00737  00737                % 02874 AVL---
+200419026 Limpertsberg, Theate  00738  00738                % 02874 AVL---
+200419025 Limpertsberg, Lycée   00739  00739                % 02874 AVL---
+200419002 Limpertsberg, Alen T  00740  00740                % 02874 AVL---
+200419034 Limpertsberg, Square  00741  00741                % 02874 AVL---
+200419035 Limpertsberg, Waasse  00741  00741                % 02874 AVL---
+200419007 Limpertsberg, Avenir  00742  00742                % 02874 AVL---
+200419015 Luxembourg, Siggy vu  00744  00744                % 02874 AVL---
+200419022 Limpertsberg, Lycée   00744                       % 02874 AVL---
+*Z 02875 AVL---                                             % 02875 AVL---
+*L 2        200404007 200419022  00543  00614               % 02875 AVL---
+*A BE 200404007 200419022 000033  00543  00614              % 02875 AVL---
+*R 1 200419022 200404007 200419022  00543  00614            % 02875 AVL---
+*G ST  200404007 200419022  00543  00614                    % 02875 AVL---
+*A VE 200404007 200419022 000033  00543  00614              % 02875 AVL---
+200404007 Bonnevoie, Demy Schl         00543                % 02875 AVL---
+200404037 Bonnevoie, Willibror  00544  00544                % 02875 AVL---
+200404021 Bonnevoie, Jules Fis  00545  00545                % 02875 AVL---
+200404029 Bonnevoie, Nic Marth  00546  00546                % 02875 AVL---
+200404022 Bonnevoie, Kaltreis   00547  00547                % 02875 AVL---
+200404018 Bonnevoie, Izeger Kn  00547  00547                % 02875 AVL---
+200404003 Bonnevoie, Anatole F  00548  00548                % 02875 AVL---
+200404019 Bonnevoie, Jean Jaco  00549  00549                % 02875 AVL---
+200404038 Bonnevoie, Wisestroo  00549  00549                % 02875 AVL---
+200404035 Bonnevoie, Vannérus   00550  00550                % 02875 AVL---
+200404026 Bonnevoie, Léon XIII  00551  00551                % 02875 AVL---
+200404034 Bonnevoie, Rotonde    00552  00552                % 02875 AVL---
+200405046 Luxembourg, Gare Roc  00553  00553                % 02875 AVL---
+200405039 Luxembourg, Wallis    00554  00554                % 02875 AVL---
+200405013 Centre, F.D. Rooseve  00557  00557                % 02875 AVL---
+200405020 Hamilius (Bus)        00600  00605                % 02875 AVL---
+200405014 Centre, Fondation Pe  00607  00607                % 02875 AVL---
+200419026 Limpertsberg, Theate  00608  00608                % 02875 AVL---
+200419025 Limpertsberg, Lycée   00609  00609                % 02875 AVL---
+200419002 Limpertsberg, Alen T  00610  00610                % 02875 AVL---
+200419034 Limpertsberg, Square  00611  00611                % 02875 AVL---
+200419035 Limpertsberg, Waasse  00611  00611                % 02875 AVL---
+200419007 Limpertsberg, Avenir  00612  00612                % 02875 AVL---
+200419015 Luxembourg, Siggy vu  00614  00614                % 02875 AVL---
+200419022 Limpertsberg, Lycée   00614                       % 02875 AVL---
+*Z 02876 AVL---                                             % 02876 AVL---
+*L 2        200404007 200419022  00739  00805               % 02876 AVL---
+*A BE 200404007 200419022 000025  00739  00805              % 02876 AVL---
+*R 1 200419022 200404007 200419022  00739  00805            % 02876 AVL---
+*G ST  200404007 200419022  00739  00805                    % 02876 AVL---
+*A VE 200404007 200419022 000025  00739  00805              % 02876 AVL---
+200404007 Bonnevoie, Demy Schl         00739                % 02876 AVL---
+200404037 Bonnevoie, Willibror  00740  00740                % 02876 AVL---
+200404021 Bonnevoie, Jules Fis  00741  00741                % 02876 AVL---
+200404029 Bonnevoie, Nic Marth  00742  00742                % 02876 AVL---
+200404022 Bonnevoie, Kaltreis   00743  00743                % 02876 AVL---
+200404018 Bonnevoie, Izeger Kn  00743  00743                % 02876 AVL---
+200404003 Bonnevoie, Anatole F  00744  00744                % 02876 AVL---
+200404019 Bonnevoie, Jean Jaco  00745  00745                % 02876 AVL---
+200404038 Bonnevoie, Wisestroo  00745  00745                % 02876 AVL---
+200404035 Bonnevoie, Vannérus   00746  00746                % 02876 AVL---
+200404026 Bonnevoie, Léon XIII  00747  00747                % 02876 AVL---
+200404034 Bonnevoie, Rotonde    00748  00748                % 02876 AVL---
+200405046 Luxembourg, Gare Roc  00749  00749                % 02876 AVL---
+200405039 Luxembourg, Wallis    00750  00750                % 02876 AVL---
+200405013 Centre, F.D. Rooseve  00753  00753                % 02876 AVL---
+200405020 Hamilius (Bus)        00756  00756                % 02876 AVL---
+200405014 Centre, Fondation Pe  00758  00758                % 02876 AVL---
+200419026 Limpertsberg, Theate  00759  00759                % 02876 AVL---
+200419025 Limpertsberg, Lycée   00800  00800                % 02876 AVL---
+200419002 Limpertsberg, Alen T  00801  00801                % 02876 AVL---
+200419034 Limpertsberg, Square  00802  00802                % 02876 AVL---
+200419035 Limpertsberg, Waasse  00802  00802                % 02876 AVL---
+200419007 Limpertsberg, Avenir  00803  00803                % 02876 AVL---
+200419015 Luxembourg, Siggy vu  00805  00805                % 02876 AVL---
+200419022 Limpertsberg, Lycée   00805                       % 02876 AVL---
+*Z 02877 AVL---                                             % 02877 AVL---
+*L 2        200404007 200419022  00603  00636               % 02877 AVL---
+*A BE 200404007 200419022 000033  00603  00636              % 02877 AVL---
+*R 1 200419022 200404007 200419022  00603  00636            % 02877 AVL---
+*G ST  200404007 200419022  00603  00636                    % 02877 AVL---
+*A VE 200404007 200419022 000033  00603  00636              % 02877 AVL---
+200404007 Bonnevoie, Demy Schl         00603                % 02877 AVL---
+200404037 Bonnevoie, Willibror  00604  00604                % 02877 AVL---
+200404021 Bonnevoie, Jules Fis  00605  00605                % 02877 AVL---
+200404029 Bonnevoie, Nic Marth  00606  00606                % 02877 AVL---
+200404022 Bonnevoie, Kaltreis   00607  00607                % 02877 AVL---
+200404018 Bonnevoie, Izeger Kn  00608  00608                % 02877 AVL---
+200404003 Bonnevoie, Anatole F  00609  00609                % 02877 AVL---
+200404019 Bonnevoie, Jean Jaco  00610  00610                % 02877 AVL---
+200404038 Bonnevoie, Wisestroo  00610  00610                % 02877 AVL---
+200404035 Bonnevoie, Vannérus   00611  00611                % 02877 AVL---
+200404026 Bonnevoie, Léon XIII  00612  00612                % 02877 AVL---
+200404034 Bonnevoie, Rotonde    00614  00614                % 02877 AVL---
+200405046 Luxembourg, Gare Roc  00615  00615                % 02877 AVL---
+200405039 Luxembourg, Wallis    00617  00617                % 02877 AVL---
+200405013 Centre, F.D. Rooseve  00621  00621                % 02877 AVL---
+200405020 Hamilius (Bus)        00624  00624                % 02877 AVL---
+200405014 Centre, Fondation Pe  00627  00627                % 02877 AVL---
+200419026 Limpertsberg, Theate  00629  00629                % 02877 AVL---
+200419025 Limpertsberg, Lycée   00630  00630                % 02877 AVL---
+200419002 Limpertsberg, Alen T  00631  00631                % 02877 AVL---
+200419034 Limpertsberg, Square  00632  00632                % 02877 AVL---
+200419035 Limpertsberg, Waasse  00633  00633                % 02877 AVL---
+200419007 Limpertsberg, Avenir  00634  00634                % 02877 AVL---
+200419015 Luxembourg, Siggy vu  00635  00635                % 02877 AVL---
+200419022 Limpertsberg, Lycée   00636                       % 02877 AVL---
+*Z 02878 AVL---       002 030                               % 02878 AVL---
+*L 2        200419022 200404007  00621  00650               % 02878 AVL---
+*A BE 200419022 200404007 000025  00621  00650              % 02878 AVL---
+*R 2 200404007 200419022 200404007  00621  00650            % 02878 AVL---
+*G ST  200419022 200404007  00621  00650                    % 02878 AVL---
+*A VE 200419022 200404007 000025  00621  00650              % 02878 AVL---
+200419022 Limpertsberg, Lycée          00621                % 02878 AVL---
+200419007 Limpertsberg, Avenir  00622  00622                % 02878 AVL---
+200419035 Limpertsberg, Waasse  00623  00623                % 02878 AVL---
+200419034 Limpertsberg, Square  00624  00624                % 02878 AVL---
+200419002 Limpertsberg, Alen T  00625  00625                % 02878 AVL---
+200419025 Limpertsberg, Lycée   00625  00625                % 02878 AVL---
+200419026 Limpertsberg, Theate  00626  00626                % 02878 AVL---
+200405014 Centre, Fondation Pe  00628  00628                % 02878 AVL---
+200405020 Hamilius (Bus)        00631  00635                % 02878 AVL---
+200405054 Centre, F.D. Rooseve  00637  00637                % 02878 AVL---
+200405039 Luxembourg, Wallis    00640  00640                % 02878 AVL---
+200405046 Luxembourg, Gare Roc  00641  00641                % 02878 AVL---
+200404034 Bonnevoie, Rotonde    00642  00642                % 02878 AVL---
+200404026 Bonnevoie, Léon XIII  00643  00643                % 02878 AVL---
+200404035 Bonnevoie, Vannérus   00644  00644                % 02878 AVL---
+200404038 Bonnevoie, Wisestroo  00645  00645                % 02878 AVL---
+200404019 Bonnevoie, Jean Jaco  00646  00646                % 02878 AVL---
+200404003 Bonnevoie, Anatole F  00646  00646                % 02878 AVL---
+200404018 Bonnevoie, Izeger Kn  00647  00647                % 02878 AVL---
+200404022 Bonnevoie, Kaltreis   00648  00648                % 02878 AVL---
+200404029 Bonnevoie, Nic Marth  00649  00649                % 02878 AVL---
+200404021 Bonnevoie, Jules Fis  00649  00649                % 02878 AVL---
+200404033 Bonnevoie, Pont-Remy  00650  00650                % 02878 AVL---
+200404007 Bonnevoie, Demy Schl  00650                       % 02878 AVL---
+*Z 02879 AVL---       001 030                               % 02879 AVL---
+*L 2        200419022 200404007  00521  00550               % 02879 AVL---
+*A BE 200419022 200404007 000036  00521  00550              % 02879 AVL---
+*R 2 200404007 200419022 200404007  00521  00550            % 02879 AVL---
+*G ST  200419022 200404007  00521  00550                    % 02879 AVL---
+*A VE 200419022 200404007 000036  00521  00550              % 02879 AVL---
+200419022 Limpertsberg, Lycée          00521                % 02879 AVL---
+200419007 Limpertsberg, Avenir  00522  00522                % 02879 AVL---
+200419035 Limpertsberg, Waasse  00523  00523                % 02879 AVL---
+200419034 Limpertsberg, Square  00524  00524                % 02879 AVL---
+200419002 Limpertsberg, Alen T  00525  00525                % 02879 AVL---
+200419025 Limpertsberg, Lycée   00525  00525                % 02879 AVL---
+200419026 Limpertsberg, Theate  00526  00526                % 02879 AVL---
+200405014 Centre, Fondation Pe  00528  00528                % 02879 AVL---
+200405020 Hamilius (Bus)        00531  00535                % 02879 AVL---
+200405054 Centre, F.D. Rooseve  00537  00537                % 02879 AVL---
+200405039 Luxembourg, Wallis    00540  00540                % 02879 AVL---
+200405046 Luxembourg, Gare Roc  00541  00541                % 02879 AVL---
+200404034 Bonnevoie, Rotonde    00542  00542                % 02879 AVL---
+200404026 Bonnevoie, Léon XIII  00543  00543                % 02879 AVL---
+200404035 Bonnevoie, Vannérus   00544  00544                % 02879 AVL---
+200404038 Bonnevoie, Wisestroo  00545  00545                % 02879 AVL---
+200404019 Bonnevoie, Jean Jaco  00546  00546                % 02879 AVL---
+200404003 Bonnevoie, Anatole F  00546  00546                % 02879 AVL---
+200404018 Bonnevoie, Izeger Kn  00547  00547                % 02879 AVL---
+200404022 Bonnevoie, Kaltreis   00548  00548                % 02879 AVL---
+200404029 Bonnevoie, Nic Marth  00549  00549                % 02879 AVL---
+200404021 Bonnevoie, Jules Fis  00549  00549                % 02879 AVL---
+200404033 Bonnevoie, Pont-Remy  00550  00550                % 02879 AVL---
+200404007 Bonnevoie, Demy Schl  00550                       % 02879 AVL---
+*Z 02880 AVL---       007 030                               % 02880 AVL---
+*L 2        200419022 200404007  02021  02050               % 02880 AVL---
+*A BE 200419022 200404007 000036  02021  02050              % 02880 AVL---
+*R 2 200404007 200419022 200404007  02021  02050            % 02880 AVL---
+*G ST  200419022 200404007  02021  02050                    % 02880 AVL---
+*A VE 200419022 200404007 000036  02021  02050              % 02880 AVL---
+200419022 Limpertsberg, Lycée          02021                % 02880 AVL---
+200419007 Limpertsberg, Avenir  02022  02022                % 02880 AVL---
+200419035 Limpertsberg, Waasse  02023  02023                % 02880 AVL---
+200419034 Limpertsberg, Square  02024  02024                % 02880 AVL---
+200419002 Limpertsberg, Alen T  02025  02025                % 02880 AVL---
+200419025 Limpertsberg, Lycée   02025  02025                % 02880 AVL---
+200419026 Limpertsberg, Theate  02026  02026                % 02880 AVL---
+200405014 Centre, Fondation Pe  02028  02028                % 02880 AVL---
+200405020 Hamilius (Bus)        02031  02035                % 02880 AVL---
+200405054 Centre, F.D. Rooseve  02037  02037                % 02880 AVL---
+200405039 Luxembourg, Wallis    02040  02040                % 02880 AVL---
+200405046 Luxembourg, Gare Roc  02041  02041                % 02880 AVL---
+200404034 Bonnevoie, Rotonde    02042  02042                % 02880 AVL---
+200404026 Bonnevoie, Léon XIII  02043  02043                % 02880 AVL---
+200404035 Bonnevoie, Vannérus   02044  02044                % 02880 AVL---
+200404038 Bonnevoie, Wisestroo  02045  02045                % 02880 AVL---
+200404019 Bonnevoie, Jean Jaco  02046  02046                % 02880 AVL---
+200404003 Bonnevoie, Anatole F  02046  02046                % 02880 AVL---
+200404018 Bonnevoie, Izeger Kn  02047  02047                % 02880 AVL---
+200404022 Bonnevoie, Kaltreis   02048  02048                % 02880 AVL---
+200404029 Bonnevoie, Nic Marth  02049  02049                % 02880 AVL---
+200404021 Bonnevoie, Jules Fis  02049  02049                % 02880 AVL---
+200404033 Bonnevoie, Pont-Remy  02050  02050                % 02880 AVL---
+200404007 Bonnevoie, Demy Schl  02050                       % 02880 AVL---
+*Z 02881 AVL---       011 030                               % 02881 AVL---
+*L 2        200419022 200404007  00521  00550               % 02881 AVL---
+*A BE 200419022 200404007 000018  00521  00550              % 02881 AVL---
+*R 2 200404007 200419022 200404007  00521  00550            % 02881 AVL---
+*G GEH 200419022 200404007  00521  00550                    % 02881 AVL---
+*A VE 200419022 200404007 000018  00521  00550              % 02881 AVL---
+200419022 Limpertsberg, Lycée          00521                % 02881 AVL---
+200419007 Limpertsberg, Avenir  00522  00522                % 02881 AVL---
+200419035 Limpertsberg, Waasse  00523  00523                % 02881 AVL---
+200419034 Limpertsberg, Square  00524  00524                % 02881 AVL---
+200419002 Limpertsberg, Alen T  00525  00525                % 02881 AVL---
+200419025 Limpertsberg, Lycée   00525  00525                % 02881 AVL---
+200419026 Limpertsberg, Theate  00526  00526                % 02881 AVL---
+200405014 Centre, Fondation Pe  00528  00528                % 02881 AVL---
+200405020 Hamilius (Bus)        00531  00535                % 02881 AVL---
+200405054 Centre, F.D. Rooseve  00537  00537                % 02881 AVL---
+200405039 Luxembourg, Wallis    00540  00540                % 02881 AVL---
+200405046 Luxembourg, Gare Roc  00541  00541                % 02881 AVL---
+200404034 Bonnevoie, Rotonde    00542  00542                % 02881 AVL---
+200404026 Bonnevoie, Léon XIII  00543  00543                % 02881 AVL---
+200404035 Bonnevoie, Vannérus   00544  00544                % 02881 AVL---
+200404038 Bonnevoie, Wisestroo  00545  00545                % 02881 AVL---
+200404019 Bonnevoie, Jean Jaco  00546  00546                % 02881 AVL---
+200404003 Bonnevoie, Anatole F  00546  00546                % 02881 AVL---
+200404018 Bonnevoie, Izeger Kn  00547  00547                % 02881 AVL---
+200404022 Bonnevoie, Kaltreis   00548  00548                % 02881 AVL---
+200404029 Bonnevoie, Nic Marth  00549  00549                % 02881 AVL---
+200404021 Bonnevoie, Jules Fis  00549  00549                % 02881 AVL---
+200404033 Bonnevoie, Pont-Remy  00550  00550                % 02881 AVL---
+200404007 Bonnevoie, Demy Schl  00550                       % 02881 AVL---
+*Z 02882 AVL---       008 030                               % 02882 AVL---
+*L 2        200419022 200404007  01951  02020               % 02882 AVL---
+*A BE 200419022 200404007 000018  01951  02020              % 02882 AVL---
+*R 2 200404007 200419022 200404007  01951  02020            % 02882 AVL---
+*G GEH 200419022 200404007  01951  02020                    % 02882 AVL---
+*A VE 200419022 200404007 000018  01951  02020              % 02882 AVL---
+200419022 Limpertsberg, Lycée          01951                % 02882 AVL---
+200419007 Limpertsberg, Avenir  01952  01952                % 02882 AVL---
+200419035 Limpertsberg, Waasse  01953  01953                % 02882 AVL---
+200419034 Limpertsberg, Square  01954  01954                % 02882 AVL---
+200419002 Limpertsberg, Alen T  01955  01955                % 02882 AVL---
+200419025 Limpertsberg, Lycée   01955  01955                % 02882 AVL---
+200419026 Limpertsberg, Theate  01956  01956                % 02882 AVL---
+200405014 Centre, Fondation Pe  01958  01958                % 02882 AVL---
+200405020 Hamilius (Bus)        02001  02005                % 02882 AVL---
+200405054 Centre, F.D. Rooseve  02007  02007                % 02882 AVL---
+200405039 Luxembourg, Wallis    02010  02010                % 02882 AVL---
+200405046 Luxembourg, Gare Roc  02011  02011                % 02882 AVL---
+200404034 Bonnevoie, Rotonde    02012  02012                % 02882 AVL---
+200404026 Bonnevoie, Léon XIII  02013  02013                % 02882 AVL---
+200404035 Bonnevoie, Vannérus   02014  02014                % 02882 AVL---
+200404038 Bonnevoie, Wisestroo  02015  02015                % 02882 AVL---
+200404019 Bonnevoie, Jean Jaco  02016  02016                % 02882 AVL---
+200404003 Bonnevoie, Anatole F  02016  02016                % 02882 AVL---
+200404018 Bonnevoie, Izeger Kn  02017  02017                % 02882 AVL---
+200404022 Bonnevoie, Kaltreis   02018  02018                % 02882 AVL---
+200404029 Bonnevoie, Nic Marth  02019  02019                % 02882 AVL---
+200404021 Bonnevoie, Jules Fis  02019  02019                % 02882 AVL---
+200404033 Bonnevoie, Pont-Remy  02020  02020                % 02882 AVL---
+200404007 Bonnevoie, Demy Schl  02020                       % 02882 AVL---
+*Z 02883 AVL---       047 015                               % 02883 AVL---
+*L 2        200419022 200404007  00754  00822               % 02883 AVL---
+*A BE 200419022 200404007 000025  00754  00822              % 02883 AVL---
+*R 2 200404007 200419022 200404007  00754  00822            % 02883 AVL---
+*G GEH 200419022 200404007  00754  00822                    % 02883 AVL---
+*A VE 200419022 200404007 000025  00754  00822              % 02883 AVL---
+200419022 Limpertsberg, Lycée          00754                % 02883 AVL---
+200419007 Limpertsberg, Avenir  00756  00756                % 02883 AVL---
+200419035 Limpertsberg, Waasse  00757  00757                % 02883 AVL---
+200419034 Limpertsberg, Square  00757  00757                % 02883 AVL---
+200419002 Limpertsberg, Alen T  00758  00758                % 02883 AVL---
+200419025 Limpertsberg, Lycée   00759  00759                % 02883 AVL---
+200419026 Limpertsberg, Theate  00800  00800                % 02883 AVL---
+200405014 Centre, Fondation Pe  00802  00802                % 02883 AVL---
+200405020 Hamilius (Bus)        00806  00806                % 02883 AVL---
+200405054 Centre, F.D. Rooseve  00809  00809                % 02883 AVL---
+200405039 Luxembourg, Wallis    00812  00812                % 02883 AVL---
+200405046 Luxembourg, Gare Roc  00813  00813                % 02883 AVL---
+200404034 Bonnevoie, Rotonde    00814  00814                % 02883 AVL---
+200404026 Bonnevoie, Léon XIII  00815  00815                % 02883 AVL---
+200404035 Bonnevoie, Vannérus   00816  00816                % 02883 AVL---
+200404038 Bonnevoie, Wisestroo  00817  00817                % 02883 AVL---
+200404019 Bonnevoie, Jean Jaco  00818  00818                % 02883 AVL---
+200404003 Bonnevoie, Anatole F  00818  00818                % 02883 AVL---
+200404018 Bonnevoie, Izeger Kn  00819  00819                % 02883 AVL---
+200404022 Bonnevoie, Kaltreis   00820  00820                % 02883 AVL---
+200404029 Bonnevoie, Nic Marth  00821  00821                % 02883 AVL---
+200404021 Bonnevoie, Jules Fis  00821  00821                % 02883 AVL---
+200404033 Bonnevoie, Pont-Remy  00822  00822                % 02883 AVL---
+200404007 Bonnevoie, Demy Schl  00822                       % 02883 AVL---
+*Z 02884 AVL---       001 015                               % 02884 AVL---
+*L 2        200419022 200404007  01956  02021               % 02884 AVL---
+*A BE 200419022 200404007 000025  01956  02021              % 02884 AVL---
+*R 2 200404007 200419022 200404007  01956  02021            % 02884 AVL---
+*G GEH 200419022 200404007  01956  02021                    % 02884 AVL---
+*A VE 200419022 200404007 000025  01956  02021              % 02884 AVL---
+200419022 Limpertsberg, Lycée          01956                % 02884 AVL---
+200419007 Limpertsberg, Avenir  01957  01957                % 02884 AVL---
+200419035 Limpertsberg, Waasse  01958  01958                % 02884 AVL---
+200419034 Limpertsberg, Square  01959  01959                % 02884 AVL---
+200419002 Limpertsberg, Alen T  02000  02000                % 02884 AVL---
+200419025 Limpertsberg, Lycée   02000  02000                % 02884 AVL---
+200419026 Limpertsberg, Theate  02001  02001                % 02884 AVL---
+200405014 Centre, Fondation Pe  02003  02003                % 02884 AVL---
+200405020 Hamilius (Bus)        02006  02006                % 02884 AVL---
+200405054 Centre, F.D. Rooseve  02008  02008                % 02884 AVL---
+200405039 Luxembourg, Wallis    02011  02011                % 02884 AVL---
+200405046 Luxembourg, Gare Roc  02012  02012                % 02884 AVL---
+200404034 Bonnevoie, Rotonde    02013  02013                % 02884 AVL---
+200404026 Bonnevoie, Léon XIII  02014  02014                % 02884 AVL---
+200404035 Bonnevoie, Vannérus   02015  02015                % 02884 AVL---
+200404038 Bonnevoie, Wisestroo  02016  02016                % 02884 AVL---
+200404019 Bonnevoie, Jean Jaco  02017  02017                % 02884 AVL---
+200404003 Bonnevoie, Anatole F  02017  02017                % 02884 AVL---
+200404018 Bonnevoie, Izeger Kn  02018  02018                % 02884 AVL---
+200404022 Bonnevoie, Kaltreis   02019  02019                % 02884 AVL---
+200404029 Bonnevoie, Nic Marth  02020  02020                % 02884 AVL---
+200404021 Bonnevoie, Jules Fis  02020  02020                % 02884 AVL---
+200404033 Bonnevoie, Pont-Remy  02021  02021                % 02884 AVL---
+200404007 Bonnevoie, Demy Schl  02021                       % 02884 AVL---
+*Z 02885 AVL---       001 010                               % 02885 AVL---
+*L 2        200419022 200404007  01955  02020               % 02885 AVL---
+*A BE 200419022 200404007 000033  01955  02020              % 02885 AVL---
+*R 2 200404007 200419022 200404007  01955  02020            % 02885 AVL---
+*G GEH 200419022 200404007  01955  02020                    % 02885 AVL---
+*A VE 200419022 200404007 000033  01955  02020              % 02885 AVL---
+200419022 Limpertsberg, Lycée          01955                % 02885 AVL---
+200419007 Limpertsberg, Avenir  01956  01956                % 02885 AVL---
+200419035 Limpertsberg, Waasse  01957  01957                % 02885 AVL---
+200419034 Limpertsberg, Square  01958  01958                % 02885 AVL---
+200419002 Limpertsberg, Alen T  01959  01959                % 02885 AVL---
+200419025 Limpertsberg, Lycée   01959  01959                % 02885 AVL---
+200419026 Limpertsberg, Theate  02000  02000                % 02885 AVL---
+200405014 Centre, Fondation Pe  02002  02002                % 02885 AVL---
+200405020 Hamilius (Bus)        02005  02005                % 02885 AVL---
+200405054 Centre, F.D. Rooseve  02007  02007                % 02885 AVL---
+200405039 Luxembourg, Wallis    02010  02010                % 02885 AVL---
+200405046 Luxembourg, Gare Roc  02011  02011                % 02885 AVL---
+200404034 Bonnevoie, Rotonde    02012  02012                % 02885 AVL---
+200404026 Bonnevoie, Léon XIII  02013  02013                % 02885 AVL---
+200404035 Bonnevoie, Vannérus   02014  02014                % 02885 AVL---
+200404038 Bonnevoie, Wisestroo  02015  02015                % 02885 AVL---
+200404019 Bonnevoie, Jean Jaco  02016  02016                % 02885 AVL---
+200404003 Bonnevoie, Anatole F  02016  02016                % 02885 AVL---
+200404018 Bonnevoie, Izeger Kn  02017  02017                % 02885 AVL---
+200404022 Bonnevoie, Kaltreis   02018  02018                % 02885 AVL---
+200404029 Bonnevoie, Nic Marth  02019  02019                % 02885 AVL---
+200404021 Bonnevoie, Jules Fis  02019  02019                % 02885 AVL---
+200404033 Bonnevoie, Pont-Remy  02020  02020                % 02885 AVL---
+200404007 Bonnevoie, Demy Schl  02020                       % 02885 AVL---
+*Z 02886 AVL---       016 030                               % 02886 AVL---
+*L 2        200419022 200404007  01119  01151               % 02886 AVL---
+*A BE 200419022 200404007 000018  01119  01151              % 02886 AVL---
+*R 2 200404007 200419022 200404007  01119  01151            % 02886 AVL---
+*G GEH 200419022 200404007  01119  01151                    % 02886 AVL---
+*A VE 200419022 200404007 000018  01119  01151              % 02886 AVL---
+200419022 Limpertsberg, Lycée          01119                % 02886 AVL---
+200419007 Limpertsberg, Avenir  01121  01121                % 02886 AVL---
+200419035 Limpertsberg, Waasse  01122  01122                % 02886 AVL---
+200419034 Limpertsberg, Square  01122  01122                % 02886 AVL---
+200419002 Limpertsberg, Alen T  01123  01123                % 02886 AVL---
+200419025 Limpertsberg, Lycée   01124  01124                % 02886 AVL---
+200419026 Limpertsberg, Theate  01125  01125                % 02886 AVL---
+200405014 Centre, Fondation Pe  01127  01127                % 02886 AVL---
+200405020 Hamilius (Bus)        01131  01135                % 02886 AVL---
+200405054 Centre, F.D. Rooseve  01138  01138                % 02886 AVL---
+200405039 Luxembourg, Wallis    01141  01141                % 02886 AVL---
+200405046 Luxembourg, Gare Roc  01142  01142                % 02886 AVL---
+200404034 Bonnevoie, Rotonde    01143  01143                % 02886 AVL---
+200404026 Bonnevoie, Léon XIII  01144  01144                % 02886 AVL---
+200404035 Bonnevoie, Vannérus   01145  01145                % 02886 AVL---
+200404038 Bonnevoie, Wisestroo  01146  01146                % 02886 AVL---
+200404019 Bonnevoie, Jean Jaco  01147  01147                % 02886 AVL---
+200404003 Bonnevoie, Anatole F  01147  01147                % 02886 AVL---
+200404018 Bonnevoie, Izeger Kn  01148  01148                % 02886 AVL---
+200404022 Bonnevoie, Kaltreis   01149  01149                % 02886 AVL---
+200404029 Bonnevoie, Nic Marth  01150  01150                % 02886 AVL---
+200404021 Bonnevoie, Jules Fis  01150  01150                % 02886 AVL---
+200404033 Bonnevoie, Pont-Remy  01151  01151                % 02886 AVL---
+200404007 Bonnevoie, Demy Schl  01151                       % 02886 AVL---
+*Z 02887 AVL---       082 010                               % 02887 AVL---
+*L 2        200419022 200404007  00601  00634               % 02887 AVL---
+*A BE 200419022 200404007 000033  00601  00634              % 02887 AVL---
+*R 2 200404007 200419022 200404007  00601  00634            % 02887 AVL---
+*G GEH 200419022 200404007  00601  00634                    % 02887 AVL---
+*A VE 200419022 200404007 000033  00601  00634              % 02887 AVL---
+200419022 Limpertsberg, Lycée          00601                % 02887 AVL---
+200419007 Limpertsberg, Avenir  00603  00603                % 02887 AVL---
+200419035 Limpertsberg, Waasse  00604  00604                % 02887 AVL---
+200419034 Limpertsberg, Square  00605  00605                % 02887 AVL---
+200419002 Limpertsberg, Alen T  00606  00606                % 02887 AVL---
+200419025 Limpertsberg, Lycée   00607  00607                % 02887 AVL---
+200419026 Limpertsberg, Theate  00609  00609                % 02887 AVL---
+200405014 Centre, Fondation Pe  00610  00610                % 02887 AVL---
+200405020 Hamilius (Bus)        00615  00615                % 02887 AVL---
+200405054 Centre, F.D. Rooseve  00618  00618                % 02887 AVL---
+200405039 Luxembourg, Wallis    00622  00622                % 02887 AVL---
+200405046 Luxembourg, Gare Roc  00623  00623                % 02887 AVL---
+200404034 Bonnevoie, Rotonde    00625  00625                % 02887 AVL---
+200404026 Bonnevoie, Léon XIII  00626  00626                % 02887 AVL---
+200404035 Bonnevoie, Vannérus   00627  00627                % 02887 AVL---
+200404038 Bonnevoie, Wisestroo  00628  00628                % 02887 AVL---
+200404019 Bonnevoie, Jean Jaco  00629  00629                % 02887 AVL---
+200404003 Bonnevoie, Anatole F  00629  00629                % 02887 AVL---
+200404018 Bonnevoie, Izeger Kn  00630  00630                % 02887 AVL---
+200404022 Bonnevoie, Kaltreis   00631  00631                % 02887 AVL---
+200404029 Bonnevoie, Nic Marth  00632  00632                % 02887 AVL---
+200404021 Bonnevoie, Jules Fis  00633  00633                % 02887 AVL---
+200404033 Bonnevoie, Pont-Remy  00634  00634                % 02887 AVL---
+200404007 Bonnevoie, Demy Schl  00634                       % 02887 AVL---

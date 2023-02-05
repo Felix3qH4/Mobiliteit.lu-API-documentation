@@ -1,0 +1,309 @@
+*F 03 2
+*Z 04397 AVL---                                             % 04397 AVL---
+*L CN3      200405014 200404001  02518  02544               % 04397 AVL---
+*A BE 200405014 200404001 000044  02518  02544              % 04397 AVL---
+*R 1 200404001 200405014 200404001  02518  02544            % 04397 AVL---
+*G MDE 200405014 200404001  02518  02544                    % 04397 AVL---
+*A VE 200405014 200404001 000044  02518  02544              % 04397 AVL---
+200405014 Centre, Fondation Pe         02518                % 04397 AVL---
+200405020 Hamilius (Bus)        02520  02520                % 04397 AVL---
+200405054 Centre, F.D. Rooseve  02522  02522                % 04397 AVL---
+200405001 Gare, Al Avenue       02524  02524                % 04397 AVL---
+200405032 Luxembourg, Gare Cen  02526  02526                % 04397 AVL---
+200404008 Bonnevoie, Dernier S  02527  02527                % 04397 AVL---
+200404016 Bonnevoie, Hippodrom  02528  02528                % 04397 AVL---
+200404027 Bonnevoie, Lycée Tec  02529  02529                % 04397 AVL---
+200404021 Bonnevoie, Jules Fis  02530  02530                % 04397 AVL---
+200404029 Bonnevoie, Nic Marth  02531  02531                % 04397 AVL---
+200404020 Bonnevoie, Jeanne d'  02532  02532                % 04397 AVL---
+200404038 Bonnevoie, Wisestroo  02533  02533                % 04397 AVL---
+200404035 Bonnevoie, Vannérus   02533  02533                % 04397 AVL---
+200404014 Bonnevoie, Gabriel L  02534  02534                % 04397 AVL---
+200404023 Bonnevoie, Kofferfab  02535  02535                % 04397 AVL---
+200414005 Hamm, Montmédy        02536  02536                % 04397 AVL---
+200414002 Hamm, Englebert Neve  02536  02536                % 04397 AVL---
+200414001 Hamm, Colonie         02537  02537                % 04397 AVL---
+200414008 Hamm, Schoul          02538  02538                % 04397 AVL---
+200414004 Hamm, Kierch          02539  02539                % 04397 AVL---
+200414011 Hamm, Peupliers       02540  02540                % 04397 AVL---
+200424001 Pulvermuhl, Hammer D  02542  02542                % 04397 AVL---
+200404030 Verlorenkost, Généra  02543  02543                % 04397 AVL---
+200404001 Verlorenkost, Al Mol  02544                       % 04397 AVL---
+*Z 04398 AVL---                                             % 04398 AVL---
+*L CN3      200405014 200404001  02518  02544               % 04398 AVL---
+*A BE 200405014 200404001 000045  02518  02544              % 04398 AVL---
+*R 1 200404001 200405014 200404001  02518  02544            % 04398 AVL---
+*G ST  200405014 200404001  02518  02544                    % 04398 AVL---
+*A VE 200405014 200404001 000045  02518  02544              % 04398 AVL---
+200405014 Centre, Fondation Pe         02518                % 04398 AVL---
+200405020 Hamilius (Bus)        02520  02520                % 04398 AVL---
+200405054 Centre, F.D. Rooseve  02522  02522                % 04398 AVL---
+200405001 Gare, Al Avenue       02524  02524                % 04398 AVL---
+200405032 Luxembourg, Gare Cen  02526  02526                % 04398 AVL---
+200404008 Bonnevoie, Dernier S  02527  02527                % 04398 AVL---
+200404016 Bonnevoie, Hippodrom  02528  02528                % 04398 AVL---
+200404027 Bonnevoie, Lycée Tec  02529  02529                % 04398 AVL---
+200404021 Bonnevoie, Jules Fis  02530  02530                % 04398 AVL---
+200404029 Bonnevoie, Nic Marth  02531  02531                % 04398 AVL---
+200404020 Bonnevoie, Jeanne d'  02532  02532                % 04398 AVL---
+200404038 Bonnevoie, Wisestroo  02533  02533                % 04398 AVL---
+200404035 Bonnevoie, Vannérus   02533  02533                % 04398 AVL---
+200404014 Bonnevoie, Gabriel L  02534  02534                % 04398 AVL---
+200404023 Bonnevoie, Kofferfab  02535  02535                % 04398 AVL---
+200414005 Hamm, Montmédy        02536  02536                % 04398 AVL---
+200414002 Hamm, Englebert Neve  02536  02536                % 04398 AVL---
+200414001 Hamm, Colonie         02537  02537                % 04398 AVL---
+200414008 Hamm, Schoul          02538  02538                % 04398 AVL---
+200414004 Hamm, Kierch          02539  02539                % 04398 AVL---
+200414011 Hamm, Peupliers       02540  02540                % 04398 AVL---
+200424001 Pulvermuhl, Hammer D  02542  02542                % 04398 AVL---
+200404030 Verlorenkost, Généra  02543  02543                % 04398 AVL---
+200404001 Verlorenkost, Al Mol  02544                       % 04398 AVL---
+*Z 04399 AVL---       001 060                               % 04399 AVL---
+*L CN3      200405020 200405020  02435  02504               % 04399 AVL---
+*A BE 200405020 200405020 000063  02435  02504              % 04399 AVL---
+*R 1 200405020 200405020 200405020  02435  02504            % 04399 AVL---
+*G ST  200405020 200405020  02435  02504                    % 04399 AVL---
+*A VE 200405020 200405020 000063  02435  02504              % 04399 AVL---
+200405020 Hamilius (Bus)               02435                % 04399 AVL---
+200405054 Centre, F.D. Rooseve  02437  02437                % 04399 AVL---
+200405001 Gare, Al Avenue       02439  02439                % 04399 AVL---
+200405032 Luxembourg, Gare Cen  02441  02441                % 04399 AVL---
+200404008 Bonnevoie, Dernier S  02442  02442                % 04399 AVL---
+200404016 Bonnevoie, Hippodrom  02443  02443                % 04399 AVL---
+200404027 Bonnevoie, Lycée Tec  02444  02444                % 04399 AVL---
+200404021 Bonnevoie, Jules Fis  02445  02445                % 04399 AVL---
+200404029 Bonnevoie, Nic Marth  02446  02446                % 04399 AVL---
+200404020 Bonnevoie, Jeanne d'  02447  02447                % 04399 AVL---
+200404038 Bonnevoie, Wisestroo  02448  02448                % 04399 AVL---
+200404035 Bonnevoie, Vannérus   02448  02448                % 04399 AVL---
+200404014 Bonnevoie, Gabriel L  02449  02449                % 04399 AVL---
+200404023 Bonnevoie, Kofferfab  02450  02450                % 04399 AVL---
+200414005 Hamm, Montmédy        02451  02451                % 04399 AVL---
+200414002 Hamm, Englebert Neve  02451  02451                % 04399 AVL---
+200414001 Hamm, Colonie         02452  02452                % 04399 AVL---
+200414008 Hamm, Schoul          02453  02453                % 04399 AVL---
+200414004 Hamm, Kierch          02454  02454                % 04399 AVL---
+200414011 Hamm, Peupliers       02455  02455                % 04399 AVL---
+200424001 Pulvermuhl, Hammer D  02457  02457                % 04399 AVL---
+200404030 Verlorenkost, Généra  02458  02458                % 04399 AVL---
+200404001 Verlorenkost, Al Mol  02459  02459                % 04399 AVL---
+200405013 Centre, F.D. Rooseve  02501  02501                % 04399 AVL---
+200405020 Hamilius (Bus)        02504                       % 04399 AVL---
+*Z 04400 AVL---       001 060                               % 04400 AVL---
+*L CN3      200405020 200405020  02605  02634               % 04400 AVL---
+*A BE 200405020 200405020 000063  02605  02634              % 04400 AVL---
+*R 1 200405020 200405020 200405020  02605  02634            % 04400 AVL---
+*G ST  200405020 200405020  02605  02634                    % 04400 AVL---
+*A VE 200405020 200405020 000063  02605  02634              % 04400 AVL---
+200405020 Hamilius (Bus)               02605                % 04400 AVL---
+200405054 Centre, F.D. Rooseve  02607  02607                % 04400 AVL---
+200405001 Gare, Al Avenue       02609  02609                % 04400 AVL---
+200405032 Luxembourg, Gare Cen  02611  02611                % 04400 AVL---
+200404008 Bonnevoie, Dernier S  02612  02612                % 04400 AVL---
+200404016 Bonnevoie, Hippodrom  02613  02613                % 04400 AVL---
+200404027 Bonnevoie, Lycée Tec  02614  02614                % 04400 AVL---
+200404021 Bonnevoie, Jules Fis  02615  02615                % 04400 AVL---
+200404029 Bonnevoie, Nic Marth  02616  02616                % 04400 AVL---
+200404020 Bonnevoie, Jeanne d'  02617  02617                % 04400 AVL---
+200404038 Bonnevoie, Wisestroo  02618  02618                % 04400 AVL---
+200404035 Bonnevoie, Vannérus   02618  02618                % 04400 AVL---
+200404014 Bonnevoie, Gabriel L  02619  02619                % 04400 AVL---
+200404023 Bonnevoie, Kofferfab  02620  02620                % 04400 AVL---
+200414005 Hamm, Montmédy        02621  02621                % 04400 AVL---
+200414002 Hamm, Englebert Neve  02621  02621                % 04400 AVL---
+200414001 Hamm, Colonie         02622  02622                % 04400 AVL---
+200414008 Hamm, Schoul          02623  02623                % 04400 AVL---
+200414004 Hamm, Kierch          02624  02624                % 04400 AVL---
+200414011 Hamm, Peupliers       02625  02625                % 04400 AVL---
+200424001 Pulvermuhl, Hammer D  02627  02627                % 04400 AVL---
+200404030 Verlorenkost, Généra  02628  02628                % 04400 AVL---
+200404001 Verlorenkost, Al Mol  02629  02629                % 04400 AVL---
+200405013 Centre, F.D. Rooseve  02631  02631                % 04400 AVL---
+200405020 Hamilius (Bus)        02634                       % 04400 AVL---
+*Z 04401 AVL---                                             % 04401 AVL---
+*L CN3      200405020 200405020  02735  02804               % 04401 AVL---
+*A BE 200405020 200405020 000063  02735  02804              % 04401 AVL---
+*R 1 200405020 200405020 200405020  02735  02804            % 04401 AVL---
+*G ST  200405020 200405020  02735  02804                    % 04401 AVL---
+*A VE 200405020 200405020 000063  02735  02804              % 04401 AVL---
+200405020 Hamilius (Bus)               02735                % 04401 AVL---
+200405054 Centre, F.D. Rooseve  02737  02737                % 04401 AVL---
+200405001 Gare, Al Avenue       02739  02739                % 04401 AVL---
+200405032 Luxembourg, Gare Cen  02741  02741                % 04401 AVL---
+200404008 Bonnevoie, Dernier S  02742  02742                % 04401 AVL---
+200404016 Bonnevoie, Hippodrom  02743  02743                % 04401 AVL---
+200404027 Bonnevoie, Lycée Tec  02744  02744                % 04401 AVL---
+200404021 Bonnevoie, Jules Fis  02745  02745                % 04401 AVL---
+200404029 Bonnevoie, Nic Marth  02746  02746                % 04401 AVL---
+200404020 Bonnevoie, Jeanne d'  02747  02747                % 04401 AVL---
+200404038 Bonnevoie, Wisestroo  02748  02748                % 04401 AVL---
+200404035 Bonnevoie, Vannérus   02748  02748                % 04401 AVL---
+200404014 Bonnevoie, Gabriel L  02749  02749                % 04401 AVL---
+200404023 Bonnevoie, Kofferfab  02750  02750                % 04401 AVL---
+200414005 Hamm, Montmédy        02751  02751                % 04401 AVL---
+200414002 Hamm, Englebert Neve  02751  02751                % 04401 AVL---
+200414001 Hamm, Colonie         02752  02752                % 04401 AVL---
+200414008 Hamm, Schoul          02753  02753                % 04401 AVL---
+200414004 Hamm, Kierch          02754  02754                % 04401 AVL---
+200414011 Hamm, Peupliers       02755  02755                % 04401 AVL---
+200424001 Pulvermuhl, Hammer D  02757  02757                % 04401 AVL---
+200404030 Verlorenkost, Généra  02758  02758                % 04401 AVL---
+200404001 Verlorenkost, Al Mol  02759  02759                % 04401 AVL---
+200405013 Centre, F.D. Rooseve  02801  02801                % 04401 AVL---
+200405020 Hamilius (Bus)        02804                       % 04401 AVL---
+*Z 04402 AVL---       001 090                               % 04402 AVL---
+*L CN3      200405020 200405020  02505  02534               % 04402 AVL---
+*A BE 200405020 200405020 000063  02505  02534              % 04402 AVL---
+*R 1 200405020 200405020 200405020  02505  02534            % 04402 AVL---
+*G MDE 200405020 200405020  02505  02534                    % 04402 AVL---
+*A VE 200405020 200405020 000063  02505  02534              % 04402 AVL---
+200405020 Hamilius (Bus)               02505                % 04402 AVL---
+200405054 Centre, F.D. Rooseve  02507  02507                % 04402 AVL---
+200405001 Gare, Al Avenue       02509  02509                % 04402 AVL---
+200405032 Luxembourg, Gare Cen  02511  02511                % 04402 AVL---
+200404008 Bonnevoie, Dernier S  02512  02512                % 04402 AVL---
+200404016 Bonnevoie, Hippodrom  02513  02513                % 04402 AVL---
+200404027 Bonnevoie, Lycée Tec  02514  02514                % 04402 AVL---
+200404021 Bonnevoie, Jules Fis  02515  02515                % 04402 AVL---
+200404029 Bonnevoie, Nic Marth  02516  02516                % 04402 AVL---
+200404020 Bonnevoie, Jeanne d'  02517  02517                % 04402 AVL---
+200404038 Bonnevoie, Wisestroo  02518  02518                % 04402 AVL---
+200404035 Bonnevoie, Vannérus   02518  02518                % 04402 AVL---
+200404014 Bonnevoie, Gabriel L  02519  02519                % 04402 AVL---
+200404023 Bonnevoie, Kofferfab  02520  02520                % 04402 AVL---
+200414005 Hamm, Montmédy        02521  02521                % 04402 AVL---
+200414002 Hamm, Englebert Neve  02521  02521                % 04402 AVL---
+200414001 Hamm, Colonie         02522  02522                % 04402 AVL---
+200414008 Hamm, Schoul          02523  02523                % 04402 AVL---
+200414004 Hamm, Kierch          02524  02524                % 04402 AVL---
+200414011 Hamm, Peupliers       02525  02525                % 04402 AVL---
+200424001 Pulvermuhl, Hammer D  02527  02527                % 04402 AVL---
+200404030 Verlorenkost, Généra  02528  02528                % 04402 AVL---
+200404001 Verlorenkost, Al Mol  02529  02529                % 04402 AVL---
+200405013 Centre, F.D. Rooseve  02531  02531                % 04402 AVL---
+200405020 Hamilius (Bus)        02534                       % 04402 AVL---
+*Z 04403 AVL---       001 060                               % 04403 AVL---
+*L CN3      200405020 200405020  02435  02504               % 04403 AVL---
+*A BE 200405020 200405020 000064  02435  02504              % 04403 AVL---
+*R 1 200405020 200405020 200405020  02435  02504            % 04403 AVL---
+*G ST  200405020 200405020  02435  02504                    % 04403 AVL---
+*A VE 200405020 200405020 000064  02435  02504              % 04403 AVL---
+200405020 Hamilius (Bus)               02435                % 04403 AVL---
+200405054 Centre, F.D. Rooseve  02437  02437                % 04403 AVL---
+200405001 Gare, Al Avenue       02439  02439                % 04403 AVL---
+200405032 Luxembourg, Gare Cen  02441  02441                % 04403 AVL---
+200404008 Bonnevoie, Dernier S  02442  02442                % 04403 AVL---
+200404016 Bonnevoie, Hippodrom  02443  02443                % 04403 AVL---
+200404027 Bonnevoie, Lycée Tec  02444  02444                % 04403 AVL---
+200404021 Bonnevoie, Jules Fis  02445  02445                % 04403 AVL---
+200404029 Bonnevoie, Nic Marth  02446  02446                % 04403 AVL---
+200404020 Bonnevoie, Jeanne d'  02447  02447                % 04403 AVL---
+200404038 Bonnevoie, Wisestroo  02448  02448                % 04403 AVL---
+200404035 Bonnevoie, Vannérus   02448  02448                % 04403 AVL---
+200404014 Bonnevoie, Gabriel L  02449  02449                % 04403 AVL---
+200404023 Bonnevoie, Kofferfab  02450  02450                % 04403 AVL---
+200414005 Hamm, Montmédy        02451  02451                % 04403 AVL---
+200414002 Hamm, Englebert Neve  02451  02451                % 04403 AVL---
+200414001 Hamm, Colonie         02452  02452                % 04403 AVL---
+200414008 Hamm, Schoul          02453  02453                % 04403 AVL---
+200414004 Hamm, Kierch          02454  02454                % 04403 AVL---
+200414011 Hamm, Peupliers       02455  02455                % 04403 AVL---
+200424001 Pulvermuhl, Hammer D  02457  02457                % 04403 AVL---
+200404030 Verlorenkost, Généra  02458  02458                % 04403 AVL---
+200404001 Verlorenkost, Al Mol  02459  02459                % 04403 AVL---
+200405013 Centre, F.D. Rooseve  02501  02501                % 04403 AVL---
+200405020 Hamilius (Bus)        02504                       % 04403 AVL---
+*Z 04404 AVL---       001 060                               % 04404 AVL---
+*L CN3      200405020 200405020  02605  02634               % 04404 AVL---
+*A BE 200405020 200405020 000064  02605  02634              % 04404 AVL---
+*R 1 200405020 200405020 200405020  02605  02634            % 04404 AVL---
+*G ST  200405020 200405020  02605  02634                    % 04404 AVL---
+*A VE 200405020 200405020 000064  02605  02634              % 04404 AVL---
+200405020 Hamilius (Bus)               02605                % 04404 AVL---
+200405054 Centre, F.D. Rooseve  02607  02607                % 04404 AVL---
+200405001 Gare, Al Avenue       02609  02609                % 04404 AVL---
+200405032 Luxembourg, Gare Cen  02611  02611                % 04404 AVL---
+200404008 Bonnevoie, Dernier S  02612  02612                % 04404 AVL---
+200404016 Bonnevoie, Hippodrom  02613  02613                % 04404 AVL---
+200404027 Bonnevoie, Lycée Tec  02614  02614                % 04404 AVL---
+200404021 Bonnevoie, Jules Fis  02615  02615                % 04404 AVL---
+200404029 Bonnevoie, Nic Marth  02616  02616                % 04404 AVL---
+200404020 Bonnevoie, Jeanne d'  02617  02617                % 04404 AVL---
+200404038 Bonnevoie, Wisestroo  02618  02618                % 04404 AVL---
+200404035 Bonnevoie, Vannérus   02618  02618                % 04404 AVL---
+200404014 Bonnevoie, Gabriel L  02619  02619                % 04404 AVL---
+200404023 Bonnevoie, Kofferfab  02620  02620                % 04404 AVL---
+200414005 Hamm, Montmédy        02621  02621                % 04404 AVL---
+200414002 Hamm, Englebert Neve  02621  02621                % 04404 AVL---
+200414001 Hamm, Colonie         02622  02622                % 04404 AVL---
+200414008 Hamm, Schoul          02623  02623                % 04404 AVL---
+200414004 Hamm, Kierch          02624  02624                % 04404 AVL---
+200414011 Hamm, Peupliers       02625  02625                % 04404 AVL---
+200424001 Pulvermuhl, Hammer D  02627  02627                % 04404 AVL---
+200404030 Verlorenkost, Généra  02628  02628                % 04404 AVL---
+200404001 Verlorenkost, Al Mol  02629  02629                % 04404 AVL---
+200405013 Centre, F.D. Rooseve  02631  02631                % 04404 AVL---
+200405020 Hamilius (Bus)        02634                       % 04404 AVL---
+*Z 04405 AVL---                                             % 04405 AVL---
+*L CN3      200405020 200405020  02735  02804               % 04405 AVL---
+*A BE 200405020 200405020 000064  02735  02804              % 04405 AVL---
+*R 1 200405020 200405020 200405020  02735  02804            % 04405 AVL---
+*G ST  200405020 200405020  02735  02804                    % 04405 AVL---
+*A VE 200405020 200405020 000064  02735  02804              % 04405 AVL---
+200405020 Hamilius (Bus)               02735                % 04405 AVL---
+200405054 Centre, F.D. Rooseve  02737  02737                % 04405 AVL---
+200405001 Gare, Al Avenue       02739  02739                % 04405 AVL---
+200405032 Luxembourg, Gare Cen  02741  02741                % 04405 AVL---
+200404008 Bonnevoie, Dernier S  02742  02742                % 04405 AVL---
+200404016 Bonnevoie, Hippodrom  02743  02743                % 04405 AVL---
+200404027 Bonnevoie, Lycée Tec  02744  02744                % 04405 AVL---
+200404021 Bonnevoie, Jules Fis  02745  02745                % 04405 AVL---
+200404029 Bonnevoie, Nic Marth  02746  02746                % 04405 AVL---
+200404020 Bonnevoie, Jeanne d'  02747  02747                % 04405 AVL---
+200404038 Bonnevoie, Wisestroo  02748  02748                % 04405 AVL---
+200404035 Bonnevoie, Vannérus   02748  02748                % 04405 AVL---
+200404014 Bonnevoie, Gabriel L  02749  02749                % 04405 AVL---
+200404023 Bonnevoie, Kofferfab  02750  02750                % 04405 AVL---
+200414005 Hamm, Montmédy        02751  02751                % 04405 AVL---
+200414002 Hamm, Englebert Neve  02751  02751                % 04405 AVL---
+200414001 Hamm, Colonie         02752  02752                % 04405 AVL---
+200414008 Hamm, Schoul          02753  02753                % 04405 AVL---
+200414004 Hamm, Kierch          02754  02754                % 04405 AVL---
+200414011 Hamm, Peupliers       02755  02755                % 04405 AVL---
+200424001 Pulvermuhl, Hammer D  02757  02757                % 04405 AVL---
+200404030 Verlorenkost, Généra  02758  02758                % 04405 AVL---
+200404001 Verlorenkost, Al Mol  02759  02759                % 04405 AVL---
+200405013 Centre, F.D. Rooseve  02801  02801                % 04405 AVL---
+200405020 Hamilius (Bus)        02804                       % 04405 AVL---
+*Z 04406 AVL---       001 090                               % 04406 AVL---
+*L CN3      200405020 200405020  02505  02534               % 04406 AVL---
+*A BE 200405020 200405020 000064  02505  02534              % 04406 AVL---
+*R 1 200405020 200405020 200405020  02505  02534            % 04406 AVL---
+*G MDE 200405020 200405020  02505  02534                    % 04406 AVL---
+*A VE 200405020 200405020 000064  02505  02534              % 04406 AVL---
+200405020 Hamilius (Bus)               02505                % 04406 AVL---
+200405054 Centre, F.D. Rooseve  02507  02507                % 04406 AVL---
+200405001 Gare, Al Avenue       02509  02509                % 04406 AVL---
+200405032 Luxembourg, Gare Cen  02511  02511                % 04406 AVL---
+200404008 Bonnevoie, Dernier S  02512  02512                % 04406 AVL---
+200404016 Bonnevoie, Hippodrom  02513  02513                % 04406 AVL---
+200404027 Bonnevoie, Lycée Tec  02514  02514                % 04406 AVL---
+200404021 Bonnevoie, Jules Fis  02515  02515                % 04406 AVL---
+200404029 Bonnevoie, Nic Marth  02516  02516                % 04406 AVL---
+200404020 Bonnevoie, Jeanne d'  02517  02517                % 04406 AVL---
+200404038 Bonnevoie, Wisestroo  02518  02518                % 04406 AVL---
+200404035 Bonnevoie, Vannérus   02518  02518                % 04406 AVL---
+200404014 Bonnevoie, Gabriel L  02519  02519                % 04406 AVL---
+200404023 Bonnevoie, Kofferfab  02520  02520                % 04406 AVL---
+200414005 Hamm, Montmédy        02521  02521                % 04406 AVL---
+200414002 Hamm, Englebert Neve  02521  02521                % 04406 AVL---
+200414001 Hamm, Colonie         02522  02522                % 04406 AVL---
+200414008 Hamm, Schoul          02523  02523                % 04406 AVL---
+200414004 Hamm, Kierch          02524  02524                % 04406 AVL---
+200414011 Hamm, Peupliers       02525  02525                % 04406 AVL---
+200424001 Pulvermuhl, Hammer D  02527  02527                % 04406 AVL---
+200404030 Verlorenkost, Généra  02528  02528                % 04406 AVL---
+200404001 Verlorenkost, Al Mol  02529  02529                % 04406 AVL---
+200405013 Centre, F.D. Rooseve  02531  02531                % 04406 AVL---
+200405020 Hamilius (Bus)        02534                       % 04406 AVL---

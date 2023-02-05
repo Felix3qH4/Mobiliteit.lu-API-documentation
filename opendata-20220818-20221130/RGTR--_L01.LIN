@@ -1,0 +1,197 @@
+*F 03 2
+*Z 18793 RGTR--                                             % 18793 RGTR--
+*L L01      220105002 500000065  00653  00741               % 18793 RGTR--
+*A cj 220105002 500000065 000338  00653  00741              % 18793 RGTR--
+*A LJ 220105002 500000065 000338  00653  00741              % 18793 RGTR--
+*A ad 220105002 500000065 000338  00653  00741              % 18793 RGTR--
+*R 1 500000065 220105002 500000065  00653  00741            % 18793 RGTR--
+*G 063 220105002 500000065  00653  00741                    % 18793 RGTR--
+*A VE 220105002 500000065 000338  00653  00741              % 18793 RGTR--
+*I FD 220105002 500000065        0002499  00653  00741      % 18793 RGTR--
+220105002 Noertzange, Gare rou         00653                % 18793 RGTR--
+220105004 Noertzange, Lohrwies  00654  00654                % 18793 RGTR--
+220801007 Bergem, Naerzengerst  00655  00655                % 18793 RGTR--
+220801010 Bergem, Am Haff       00656  00656                % 18793 RGTR--
+220104003 Huncherange, R. Rési  00658  00658                % 18793 RGTR--
+220104002 Huncherange, Kreizun  00659  00659                % 18793 RGTR--
+220104004 Huncherange, Rue d'E  00700  00700                % 18793 RGTR--
+220103001 Fennange, Am Duerf    00701  00701                % 18793 RGTR--
+220103002 Fennange, Rue des Ch  00702  00702                % 18793 RGTR--
+220102011 Bettembourg, Rousegä  00703  00703                % 18793 RGTR--
+220102006 Bettembourg, Kiirche  00704  00704                % 18793 RGTR--
+220102005 Bettembourg, Gare ro  00707  00711                % 18793 RGTR--
+220102004 Bettembourg, Café du  00713  00713                % 18793 RGTR--
+220102008 Bettembourg, Parc Me  00715  00715                % 18793 RGTR--
+220102007 Bettembourg, Mosselt  00715  00715                % 18793 RGTR--
+220503001 Hellange, Beteburger  00717  00717                % 18793 RGTR--
+220503003 Hellange, Kiirch      00718  00718                % 18793 RGTR--
+220503002 Hellange, Hoëner Hal  00719  00719                % 18793 RGTR--
+220502004 Frisange, Op der Krä  00722  00722                % 18793 RGTR--
+220502002 Frisange, Ennescht D  00723  00723                % 18793 RGTR--
+220501002 Aspelt, Gare          00725  00725                % 18793 RGTR--
+220501001 Aspelt, Am Grëndchen  00726  00726                % 18793 RGTR--
+500000065 Perl, Schengen Lyzeu  00741                       % 18793 RGTR--
+*Z 18794 RGTR--                                             % 18794 RGTR--
+*L L01      500000065 220105002  01600  01645               % 18794 RGTR--
+*A cj 500000065 220105002 000338  01600  01645              % 18794 RGTR--
+*A LL 500000065 220105002 000338  01600  01645              % 18794 RGTR--
+*A ad 500000065 220105002 000338  01600  01645              % 18794 RGTR--
+*R 2 220105002 500000065 220105002  01600  01645            % 18794 RGTR--
+*G 050 500000065 220105002  01600  01645                    % 18794 RGTR--
+*A VE 500000065 220105002 000338  01600  01645              % 18794 RGTR--
+*I FD 500000065 220105002        0001945  01600  01645      % 18794 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18794 RGTR--
+220501001 Aspelt, Am Grëndchen  01616  01616                % 18794 RGTR--
+220501002 Aspelt, Gare          01617  01617                % 18794 RGTR--
+220502002 Frisange, Ennescht D  01620  01620                % 18794 RGTR--
+220502004 Frisange, Op der Krä  01621  01621                % 18794 RGTR--
+220503002 Hellange, Hoëner Hal  01624  01624                % 18794 RGTR--
+220503003 Hellange, Kiirch      01625  01625                % 18794 RGTR--
+220503001 Hellange, Beteburger  01626  01626                % 18794 RGTR--
+220102007 Bettembourg, Mosselt  01627  01627                % 18794 RGTR--
+220102008 Bettembourg, Parc Me  01628  01628                % 18794 RGTR--
+220102004 Bettembourg, Café du  01629  01629                % 18794 RGTR--
+220102005 Bettembourg, Gare ro  01631  01631                % 18794 RGTR--
+220102006 Bettembourg, Kiirche  01634  01634                % 18794 RGTR--
+220102011 Bettembourg, Rousegä  01635  01635                % 18794 RGTR--
+220103002 Fennange, Rue des Ch  01636  01636                % 18794 RGTR--
+220103001 Fennange, Am Duerf    01637  01637                % 18794 RGTR--
+220104004 Huncherange, Rue d'E  01637  01637                % 18794 RGTR--
+220104002 Huncherange, Kreizun  01638  01638                % 18794 RGTR--
+220104003 Huncherange, R. Rési  01639  01639                % 18794 RGTR--
+220801008 Bergem, Raedelsboesc  01640  01640                % 18794 RGTR--
+220801010 Bergem, Am Haff       01641  01641                % 18794 RGTR--
+220801007 Bergem, Naerzengerst  01642  01642                % 18794 RGTR--
+220105004 Noertzange, Lohrwies  01643  01643                % 18794 RGTR--
+220105002 Noertzange, Gare rou  01645                       % 18794 RGTR--
+*Z 18795 RGTR--                                             % 18795 RGTR--
+*L L01      500000065 220105002  01310  01353               % 18795 RGTR--
+*A cj 500000065 220105002 000339  01310  01353              % 18795 RGTR--
+*A LL 500000065 220105002 000339  01310  01353              % 18795 RGTR--
+*A ad 500000065 220105002 000339  01310  01353              % 18795 RGTR--
+*R 2 220105002 500000065 220105002  01310  01353            % 18795 RGTR--
+*G 050 500000065 220105002  01310  01353                    % 18795 RGTR--
+*A VE 500000065 220105002 000339  01310  01353              % 18795 RGTR--
+*I FD 500000065 220105002        0001987  01310  01353      % 18795 RGTR--
+500000065 Perl, Schengen Lyzeu         01310                % 18795 RGTR--
+220501001 Aspelt, Am Grëndchen  01326  01326                % 18795 RGTR--
+220501002 Aspelt, Gare          01327  01327                % 18795 RGTR--
+220502002 Frisange, Ennescht D  01329  01329                % 18795 RGTR--
+220502004 Frisange, Op der Krä  01331  01331                % 18795 RGTR--
+220503002 Hellange, Hoëner Hal  01333  01333                % 18795 RGTR--
+220503003 Hellange, Kiirch      01334  01334                % 18795 RGTR--
+220503001 Hellange, Beteburger  01335  01335                % 18795 RGTR--
+220102007 Bettembourg, Mosselt  01337  01337                % 18795 RGTR--
+220102008 Bettembourg, Parc Me  01337  01337                % 18795 RGTR--
+220102004 Bettembourg, Café du  01338  01338                % 18795 RGTR--
+220102005 Bettembourg, Gare ro  01340  01340                % 18795 RGTR--
+220102006 Bettembourg, Kiirche  01342  01342                % 18795 RGTR--
+220102011 Bettembourg, Rousegä  01344  01344                % 18795 RGTR--
+220103002 Fennange, Rue des Ch  01344  01344                % 18795 RGTR--
+220103001 Fennange, Am Duerf    01345  01345                % 18795 RGTR--
+220104004 Huncherange, Rue d'E  01346  01346                % 18795 RGTR--
+220104002 Huncherange, Kreizun  01347  01347                % 18795 RGTR--
+220104003 Huncherange, R. Rési  01347  01347                % 18795 RGTR--
+220801008 Bergem, Raedelsboesc  01349  01349                % 18795 RGTR--
+220801010 Bergem, Am Haff       01350  01350                % 18795 RGTR--
+220801007 Bergem, Naerzengerst  01351  01351                % 18795 RGTR--
+220105004 Noertzange, Lohrwies  01352  01352                % 18795 RGTR--
+220105002 Noertzange, Gare rou  01353                       % 18795 RGTR--
+*Z 18796 RGTR--                                             % 18796 RGTR--
+*L L01      220105002 500000065  00653  00741               % 18796 RGTR--
+*A cj 220105002 500000065 000340  00653  00741              % 18796 RGTR--
+*A LJ 220105002 500000065 000340  00653  00741              % 18796 RGTR--
+*A ad 220105002 500000065 000340  00653  00741              % 18796 RGTR--
+*R 1 500000065 220105002 500000065  00653  00741            % 18796 RGTR--
+*G 063 220105002 500000065  00653  00741                    % 18796 RGTR--
+*A VE 220105002 500000065 000340  00653  00741              % 18796 RGTR--
+*I FD 220105002 500000065        0002499  00653  00741      % 18796 RGTR--
+220105002 Noertzange, Gare rou         00653                % 18796 RGTR--
+220105004 Noertzange, Lohrwies  00654  00654                % 18796 RGTR--
+220801007 Bergem, Naerzengerst  00655  00655                % 18796 RGTR--
+220801010 Bergem, Am Haff       00656  00656                % 18796 RGTR--
+220104003 Huncherange, R. Rési  00658  00658                % 18796 RGTR--
+220104002 Huncherange, Kreizun  00659  00659                % 18796 RGTR--
+220104004 Huncherange, Rue d'E  00700  00700                % 18796 RGTR--
+220103001 Fennange, Am Duerf    00701  00701                % 18796 RGTR--
+220103002 Fennange, Rue des Ch  00702  00702                % 18796 RGTR--
+220102011 Bettembourg, Rousegä  00703  00703                % 18796 RGTR--
+220102006 Bettembourg, Kiirche  00704  00704                % 18796 RGTR--
+220102005 Bettembourg, Gare ro  00707  00711                % 18796 RGTR--
+220102004 Bettembourg, Café du  00713  00713                % 18796 RGTR--
+220102008 Bettembourg, Parc Me  00715  00715                % 18796 RGTR--
+220102007 Bettembourg, Mosselt  00715  00715                % 18796 RGTR--
+220503001 Hellange, Beteburger  00717  00717                % 18796 RGTR--
+220503003 Hellange, Kiirch      00718  00718                % 18796 RGTR--
+220503002 Hellange, Hoëner Hal  00719  00719                % 18796 RGTR--
+220502004 Frisange, Op der Krä  00722  00722                % 18796 RGTR--
+220502002 Frisange, Ennescht D  00723  00723                % 18796 RGTR--
+220501002 Aspelt, Gare          00725  00725                % 18796 RGTR--
+220501001 Aspelt, Am Grëndchen  00726  00726                % 18796 RGTR--
+500000065 Perl, Schengen Lyzeu  00741                       % 18796 RGTR--
+*Z 18797 RGTR--                                             % 18797 RGTR--
+*L L01      500000065 220105002  01600  01645               % 18797 RGTR--
+*A cj 500000065 220105002 000340  01600  01645              % 18797 RGTR--
+*A LL 500000065 220105002 000340  01600  01645              % 18797 RGTR--
+*A ad 500000065 220105002 000340  01600  01645              % 18797 RGTR--
+*R 2 220105002 500000065 220105002  01600  01645            % 18797 RGTR--
+*G 050 500000065 220105002  01600  01645                    % 18797 RGTR--
+*A VE 500000065 220105002 000340  01600  01645              % 18797 RGTR--
+*I FD 500000065 220105002        0001945  01600  01645      % 18797 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18797 RGTR--
+220501001 Aspelt, Am Grëndchen  01616  01616                % 18797 RGTR--
+220501002 Aspelt, Gare          01617  01617                % 18797 RGTR--
+220502002 Frisange, Ennescht D  01620  01620                % 18797 RGTR--
+220502004 Frisange, Op der Krä  01621  01621                % 18797 RGTR--
+220503002 Hellange, Hoëner Hal  01624  01624                % 18797 RGTR--
+220503003 Hellange, Kiirch      01625  01625                % 18797 RGTR--
+220503001 Hellange, Beteburger  01626  01626                % 18797 RGTR--
+220102007 Bettembourg, Mosselt  01627  01627                % 18797 RGTR--
+220102008 Bettembourg, Parc Me  01628  01628                % 18797 RGTR--
+220102004 Bettembourg, Café du  01629  01629                % 18797 RGTR--
+220102005 Bettembourg, Gare ro  01631  01631                % 18797 RGTR--
+220102006 Bettembourg, Kiirche  01634  01634                % 18797 RGTR--
+220102011 Bettembourg, Rousegä  01635  01635                % 18797 RGTR--
+220103002 Fennange, Rue des Ch  01636  01636                % 18797 RGTR--
+220103001 Fennange, Am Duerf    01637  01637                % 18797 RGTR--
+220104004 Huncherange, Rue d'E  01637  01637                % 18797 RGTR--
+220104002 Huncherange, Kreizun  01638  01638                % 18797 RGTR--
+220104003 Huncherange, R. Rési  01639  01639                % 18797 RGTR--
+220801008 Bergem, Raedelsboesc  01640  01640                % 18797 RGTR--
+220801010 Bergem, Am Haff       01641  01641                % 18797 RGTR--
+220801007 Bergem, Naerzengerst  01642  01642                % 18797 RGTR--
+220105004 Noertzange, Lohrwies  01643  01643                % 18797 RGTR--
+220105002 Noertzange, Gare rou  01645                       % 18797 RGTR--
+*Z 18798 RGTR--                                             % 18798 RGTR--
+*L L01      500000065 220105002  01310  01353               % 18798 RGTR--
+*A cj 500000065 220105002 000341  01310  01353              % 18798 RGTR--
+*A LL 500000065 220105002 000341  01310  01353              % 18798 RGTR--
+*A ad 500000065 220105002 000341  01310  01353              % 18798 RGTR--
+*R 2 220105002 500000065 220105002  01310  01353            % 18798 RGTR--
+*G 050 500000065 220105002  01310  01353                    % 18798 RGTR--
+*A VE 500000065 220105002 000341  01310  01353              % 18798 RGTR--
+*I FD 500000065 220105002        0001987  01310  01353      % 18798 RGTR--
+500000065 Perl, Schengen Lyzeu         01310                % 18798 RGTR--
+220501001 Aspelt, Am Grëndchen  01326  01326                % 18798 RGTR--
+220501002 Aspelt, Gare          01327  01327                % 18798 RGTR--
+220502002 Frisange, Ennescht D  01329  01329                % 18798 RGTR--
+220502004 Frisange, Op der Krä  01331  01331                % 18798 RGTR--
+220503002 Hellange, Hoëner Hal  01333  01333                % 18798 RGTR--
+220503003 Hellange, Kiirch      01334  01334                % 18798 RGTR--
+220503001 Hellange, Beteburger  01335  01335                % 18798 RGTR--
+220102007 Bettembourg, Mosselt  01337  01337                % 18798 RGTR--
+220102008 Bettembourg, Parc Me  01337  01337                % 18798 RGTR--
+220102004 Bettembourg, Café du  01338  01338                % 18798 RGTR--
+220102005 Bettembourg, Gare ro  01340  01340                % 18798 RGTR--
+220102006 Bettembourg, Kiirche  01342  01342                % 18798 RGTR--
+220102011 Bettembourg, Rousegä  01344  01344                % 18798 RGTR--
+220103002 Fennange, Rue des Ch  01344  01344                % 18798 RGTR--
+220103001 Fennange, Am Duerf    01345  01345                % 18798 RGTR--
+220104004 Huncherange, Rue d'E  01346  01346                % 18798 RGTR--
+220104002 Huncherange, Kreizun  01347  01347                % 18798 RGTR--
+220104003 Huncherange, R. Rési  01347  01347                % 18798 RGTR--
+220801008 Bergem, Raedelsboesc  01349  01349                % 18798 RGTR--
+220801010 Bergem, Am Haff       01350  01350                % 18798 RGTR--
+220801007 Bergem, Naerzengerst  01351  01351                % 18798 RGTR--
+220105004 Noertzange, Lohrwies  01352  01352                % 18798 RGTR--
+220105002 Noertzange, Gare rou  01353                       % 18798 RGTR--

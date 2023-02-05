@@ -1,0 +1,59 @@
+*F 03 2
+*Z 18400 RGTR--                                             % 18400 RGTR--
+*L E04      200419021 200504011  01403  01434               % 18400 RGTR--
+*A cj 200419021 200504011 000042  01403  01434              % 18400 RGTR--
+*A ad 200419021 200504011 000042  01403  01434              % 18400 RGTR--
+*R 1 200504011 200419021 200504011  01403  01434            % 18400 RGTR--
+*G 063 200419021 200504011  01403  01434                    % 18400 RGTR--
+*A VE 200419021 200504011 000042  01403  01434              % 18400 RGTR--
+*I FD 200419021 200504011        0002093  01403  01434      % 18400 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 18400 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 18400 RGTR--
+200508007 Senningerberg, Laang  01419  01419                % 18400 RGTR--
+200508008 Senningerberg, Mënst  01419  01419                % 18400 RGTR--
+200507001 Senningen, Duerfplaz  01422  01422                % 18400 RGTR--
+200507003 Senningen, Um Kiem    01423  01423                % 18400 RGTR--
+200507002 Senningen, Kierch     01423  01423                % 18400 RGTR--
+200504006 Niederanven, Routsch  01424  01424                % 18400 RGTR--
+200504002 Niederanven, Laach    01424  01424                % 18400 RGTR--
+200504005 Niederanven, Op de W  01425  01425                % 18400 RGTR--
+200505003 Oberanven, Routstrac  01426  01426                % 18400 RGTR--
+200505001 Oberanven, Fielsenha  01426  01426                % 18400 RGTR--
+200505005 Oberanven, Rue Schet  01427  01427                % 18400 RGTR--
+200505004 Oberanven, rue d'Ern  01427  01427                % 18400 RGTR--
+200506005 Rameldange, Bounert   01428  01428                % 18400 RGTR--
+200506002 Rameldange, Rëtsch    01428  01428                % 18400 RGTR--
+200503003 Hostert, Am Bruch     01432  01432                % 18400 RGTR--
+200503002 Hostert, Kierfecht    01432  01432                % 18400 RGTR--
+200504012 Hostert, Binnewee     01433  01433                % 18400 RGTR--
+200504011 Hostert, Betzberg     01434                       % 18400 RGTR--
+*Z 18401 RGTR--                                             % 18401 RGTR--
+*L E04      200504011 200419021  00709  00745               % 18401 RGTR--
+*A cj 200504011 200419021 000042  00709  00745              % 18401 RGTR--
+*A BE 200504011 200419021 000042  00709  00745              % 18401 RGTR--
+*A ad 200504011 200419021 000042  00709  00745              % 18401 RGTR--
+*R 2 200419021 200504011 200419021  00709  00745            % 18401 RGTR--
+*G 090 200504011 200419021  00709  00745                    % 18401 RGTR--
+*A VE 200504011 200419021 000042  00709  00745              % 18401 RGTR--
+*I FD 200504011 200419021        0002808  00709  00745      % 18401 RGTR--
+200504011 Hostert, Betzberg            00709                % 18401 RGTR--
+200504012 Hostert, Binnewee     00709  00709                % 18401 RGTR--
+200503002 Hostert, Kierfecht    00710  00710                % 18401 RGTR--
+200503003 Hostert, Am Bruch     00711  00711                % 18401 RGTR--
+200506002 Rameldange, Rëtsch    00714  00714                % 18401 RGTR--
+200506005 Rameldange, Bounert   00715  00715                % 18401 RGTR--
+200505004 Oberanven, rue d'Ern  00716  00716                % 18401 RGTR--
+200505005 Oberanven, Rue Schet  00716  00716                % 18401 RGTR--
+200505001 Oberanven, Fielsenha  00717  00717                % 18401 RGTR--
+200505003 Oberanven, Routstrac  00718  00718                % 18401 RGTR--
+200504005 Niederanven, Op de W  00719  00719                % 18401 RGTR--
+200504002 Niederanven, Laach    00720  00720                % 18401 RGTR--
+200504006 Niederanven, Routsch  00721  00721                % 18401 RGTR--
+200507002 Senningen, Kierch     00721  00721                % 18401 RGTR--
+200507003 Senningen, Um Kiem    00722  00722                % 18401 RGTR--
+200507001 Senningen, Duerfplaz  00723  00723                % 18401 RGTR--
+200508008 Senningerberg, Mënst  00727  00727                % 18401 RGTR--
+200508007 Senningerberg, Laang  00727  00727                % 18401 RGTR--
+200419026 Limpertsberg, Theate  00738  00738                % 18401 RGTR--
+200419025 Limpertsberg, Lycée   00741  00741                % 18401 RGTR--
+200419021 Limpertsberg, L.T.C.  00745                       % 18401 RGTR--

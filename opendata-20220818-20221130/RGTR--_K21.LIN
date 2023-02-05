@@ -1,0 +1,604 @@
+*F 03 2
+*Z 00486 RGTR--                                             % 00486 RGTR--
+*L K21      140401009 110605006  01442  01537               % 00486 RGTR--
+*A cj 140401009 110605006 000015  01442  01537              % 00486 RGTR--
+*A LF 140401009 110605006 000015  01442  01537              % 00486 RGTR--
+*A NY 140401009 110605006 000015  01442  01537              % 00486 RGTR--
+*A NZ 140401009 110605006 000015  01442  01537              % 00486 RGTR--
+*A ad 140401009 110605006 000015  01442  01537              % 00486 RGTR--
+*R 1 110605006 140401009 110605006  01442  01537            % 00486 RGTR--
+*G 070 140401009 110605006  01442  01537                    % 00486 RGTR--
+*A VE 140401009 110605006 000015  01442  01537              % 00486 RGTR--
+*I FD 140401009 110605006        0002999  01442  01537      % 00486 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00486 RGTR--
+140401010 Diekirch, Place des   01445  01445                % 00486 RGTR--
+140402001 Fridhaff              01448  01448                % 00486 RGTR--
+140311002 Flebour, Op der Fléi  01451  01451                % 00486 RGTR--
+140306002 Lipperscheid, Beim L  01455  01455                % 00486 RGTR--
+140901003 Hoscheid, Markenbach  01458  01458                % 00486 RGTR--
+140901002 Hoscheid, Kräizgaass  01459  01459                % 00486 RGTR--
+140901001 Hoscheid, Braaken     01500  01500                % 00486 RGTR--
+140902001 Hoscheid-Dickt, Um P  01504  01504                % 00486 RGTR--
+140902002 Hoscheid-Dickt, Um W  01505  01505                % 00486 RGTR--
+110203001 Ennert Schinker       01506  01506                % 00486 RGTR--
+110203003 Um Schinker           01507  01507                % 00486 RGTR--
+110403003 Hosingen, Z.A.E.R.    01509  01509                % 00486 RGTR--
+110403001 Hosingen, Eesberwee   01510  01510                % 00486 RGTR--
+110403002 Hosingen, Ewescht Du  01511  01511                % 00486 RGTR--
+110403006 Hosingen, Bayrischt   01511  01511                % 00486 RGTR--
+110401002 Dorscheid, Am Poul    01513  01513                % 00486 RGTR--
+110401004 Dorscheid, Lehmkaul   01514  01514                % 00486 RGTR--
+110502002 Marnach, Beim Sender  01514  01514                % 00486 RGTR--
+110502010 Marnach, Schwaarzenh  01515  01515                % 00486 RGTR--
+110502003 Marnach, Dosberstroo  01516  01516                % 00486 RGTR--
+110502005 Marnach, Geschäftsze  01516  01516                % 00486 RGTR--
+110502008 Marnach, Op der Bréc  01517  01517                % 00486 RGTR--
+110502001 Marnach, Beim Cube    01518  01518                % 00486 RGTR--
+110502011 Marnach, Bombatsch    01519  01519                % 00486 RGTR--
+110502009 Marnach, Pënnik       01520  01520                % 00486 RGTR--
+110502004 Marnach, Fëschberstr  01521  01521                % 00486 RGTR--
+110301001 Fischbach/Heinersche  01522  01522                % 00486 RGTR--
+110303001 Heinerscheid, Bei Di  01524  01524                % 00486 RGTR--
+110303003 Heinerscheid, Geméin  01524  01524                % 00486 RGTR--
+110303002 Heinerscheid, Bei Mi  01525  01525                % 00486 RGTR--
+110307001 Lausdorn              01527  01527                % 00486 RGTR--
+110706004 Weiswampach, Om Knup  01530  01530                % 00486 RGTR--
+110706001 Weiswampach, Am Leem  01530  01530                % 00486 RGTR--
+110706003 Weiswampach, Hugerii  01531  01531                % 00486 RGTR--
+110706014 Wemperhardt, Beim Ma  01532  01532                % 00486 RGTR--
+110706010 Wemperhardt, Op der   01533  01533                % 00486 RGTR--
+110706013 Wemperhardt, 3 Brake  01534  01534                % 00486 RGTR--
+110605008 Huldange, Maison Kna  01535  01535                % 00486 RGTR--
+110605005 Huldange, Lenglerloo  01536  01536                % 00486 RGTR--
+110605006 Huldange, Schmëtt     01537                       % 00486 RGTR--
+*Z 00485 RGTR--                                             % 00485 RGTR--
+*L K21      140401009 110605006  01442  01537               % 00485 RGTR--
+*A cj 140401009 110605006 000009  01442  01537              % 00485 RGTR--
+*A LF 140401009 110605006 000009  01442  01537              % 00485 RGTR--
+*A NY 140401009 110605006 000009  01442  01537              % 00485 RGTR--
+*A NZ 140401009 110605006 000009  01442  01537              % 00485 RGTR--
+*A ad 140401009 110605006 000009  01442  01537              % 00485 RGTR--
+*R 1 110605006 140401009 110605006  01442  01537            % 00485 RGTR--
+*G 070 140401009 110605006  01442  01537                    % 00485 RGTR--
+*A VE 140401009 110605006 000009  01442  01537              % 00485 RGTR--
+*I FD 140401009 110605006        0002999  01442  01537      % 00485 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00485 RGTR--
+140401010 Diekirch, Place des   01445  01445                % 00485 RGTR--
+140402001 Fridhaff              01448  01448                % 00485 RGTR--
+140311002 Flebour, Op der Fléi  01451  01451                % 00485 RGTR--
+140306002 Lipperscheid, Beim L  01455  01455                % 00485 RGTR--
+140901003 Hoscheid, Markenbach  01458  01458                % 00485 RGTR--
+140901002 Hoscheid, Kräizgaass  01459  01459                % 00485 RGTR--
+140901001 Hoscheid, Braaken     01500  01500                % 00485 RGTR--
+140902001 Hoscheid-Dickt, Um P  01504  01504                % 00485 RGTR--
+140902002 Hoscheid-Dickt, Um W  01505  01505                % 00485 RGTR--
+110203001 Ennert Schinker       01506  01506                % 00485 RGTR--
+110203003 Um Schinker           01507  01507                % 00485 RGTR--
+110403003 Hosingen, Z.A.E.R.    01509  01509                % 00485 RGTR--
+110403001 Hosingen, Eesberwee   01510  01510                % 00485 RGTR--
+110403002 Hosingen, Ewescht Du  01511  01511                % 00485 RGTR--
+110403006 Hosingen, Bayrischt   01511  01511                % 00485 RGTR--
+110401002 Dorscheid, Am Poul    01513  01513                % 00485 RGTR--
+110401004 Dorscheid, Lehmkaul   01514  01514                % 00485 RGTR--
+110502002 Marnach, Beim Sender  01514  01514                % 00485 RGTR--
+110502010 Marnach, Schwaarzenh  01515  01515                % 00485 RGTR--
+110502003 Marnach, Dosberstroo  01516  01516                % 00485 RGTR--
+110502005 Marnach, Geschäftsze  01516  01516                % 00485 RGTR--
+110502008 Marnach, Op der Bréc  01517  01517                % 00485 RGTR--
+110502001 Marnach, Beim Cube    01518  01518                % 00485 RGTR--
+110502011 Marnach, Bombatsch    01519  01519                % 00485 RGTR--
+110502009 Marnach, Pënnik       01520  01520                % 00485 RGTR--
+110502004 Marnach, Fëschberstr  01521  01521                % 00485 RGTR--
+110301001 Fischbach/Heinersche  01522  01522                % 00485 RGTR--
+110303001 Heinerscheid, Bei Di  01524  01524                % 00485 RGTR--
+110303003 Heinerscheid, Geméin  01524  01524                % 00485 RGTR--
+110303002 Heinerscheid, Bei Mi  01525  01525                % 00485 RGTR--
+110307001 Lausdorn              01527  01527                % 00485 RGTR--
+110706004 Weiswampach, Om Knup  01530  01530                % 00485 RGTR--
+110706001 Weiswampach, Am Leem  01530  01530                % 00485 RGTR--
+110706003 Weiswampach, Hugerii  01531  01531                % 00485 RGTR--
+110706014 Wemperhardt, Beim Ma  01532  01532                % 00485 RGTR--
+110706010 Wemperhardt, Op der   01533  01533                % 00485 RGTR--
+110706013 Wemperhardt, 3 Brake  01534  01534                % 00485 RGTR--
+110605008 Huldange, Maison Kna  01535  01535                % 00485 RGTR--
+110605005 Huldange, Lenglerloo  01536  01536                % 00485 RGTR--
+110605006 Huldange, Schmëtt     01537                       % 00485 RGTR--
+*Z 00484 RGTR--                                             % 00484 RGTR--
+*L K21      140401009 110605006  01442  01537               % 00484 RGTR--
+*A cj 140401009 110605006 000013  01442  01537              % 00484 RGTR--
+*A LF 140401009 110605006 000013  01442  01537              % 00484 RGTR--
+*A NY 140401009 110605006 000013  01442  01537              % 00484 RGTR--
+*A NZ 140401009 110605006 000013  01442  01537              % 00484 RGTR--
+*A ad 140401009 110605006 000013  01442  01537              % 00484 RGTR--
+*R 1 110605006 140401009 110605006  01442  01537            % 00484 RGTR--
+*G 070 140401009 110605006  01442  01537                    % 00484 RGTR--
+*A VE 140401009 110605006 000013  01442  01537              % 00484 RGTR--
+*I FD 140401009 110605006        0002999  01442  01537      % 00484 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00484 RGTR--
+140401010 Diekirch, Place des   01445  01445                % 00484 RGTR--
+140402001 Fridhaff              01448  01448                % 00484 RGTR--
+140311002 Flebour, Op der Fléi  01451  01451                % 00484 RGTR--
+140306002 Lipperscheid, Beim L  01455  01455                % 00484 RGTR--
+140901003 Hoscheid, Markenbach  01458  01458                % 00484 RGTR--
+140901002 Hoscheid, Kräizgaass  01459  01459                % 00484 RGTR--
+140901001 Hoscheid, Braaken     01500  01500                % 00484 RGTR--
+140902001 Hoscheid-Dickt, Um P  01504  01504                % 00484 RGTR--
+140902002 Hoscheid-Dickt, Um W  01505  01505                % 00484 RGTR--
+110203001 Ennert Schinker       01506  01506                % 00484 RGTR--
+110203003 Um Schinker           01507  01507                % 00484 RGTR--
+110403003 Hosingen, Z.A.E.R.    01509  01509                % 00484 RGTR--
+110403001 Hosingen, Eesberwee   01510  01510                % 00484 RGTR--
+110403002 Hosingen, Ewescht Du  01511  01511                % 00484 RGTR--
+110403006 Hosingen, Bayrischt   01511  01511                % 00484 RGTR--
+110401002 Dorscheid, Am Poul    01513  01513                % 00484 RGTR--
+110401004 Dorscheid, Lehmkaul   01514  01514                % 00484 RGTR--
+110502002 Marnach, Beim Sender  01514  01514                % 00484 RGTR--
+110502010 Marnach, Schwaarzenh  01515  01515                % 00484 RGTR--
+110502003 Marnach, Dosberstroo  01516  01516                % 00484 RGTR--
+110502005 Marnach, Geschäftsze  01516  01516                % 00484 RGTR--
+110502008 Marnach, Op der Bréc  01517  01517                % 00484 RGTR--
+110502001 Marnach, Beim Cube    01518  01518                % 00484 RGTR--
+110502011 Marnach, Bombatsch    01519  01519                % 00484 RGTR--
+110502009 Marnach, Pënnik       01520  01520                % 00484 RGTR--
+110502004 Marnach, Fëschberstr  01521  01521                % 00484 RGTR--
+110301001 Fischbach/Heinersche  01522  01522                % 00484 RGTR--
+110303001 Heinerscheid, Bei Di  01524  01524                % 00484 RGTR--
+110303003 Heinerscheid, Geméin  01524  01524                % 00484 RGTR--
+110303002 Heinerscheid, Bei Mi  01525  01525                % 00484 RGTR--
+110307001 Lausdorn              01527  01527                % 00484 RGTR--
+110706004 Weiswampach, Om Knup  01530  01530                % 00484 RGTR--
+110706001 Weiswampach, Am Leem  01530  01530                % 00484 RGTR--
+110706003 Weiswampach, Hugerii  01531  01531                % 00484 RGTR--
+110706014 Wemperhardt, Beim Ma  01532  01532                % 00484 RGTR--
+110706010 Wemperhardt, Op der   01533  01533                % 00484 RGTR--
+110706013 Wemperhardt, 3 Brake  01534  01534                % 00484 RGTR--
+110605008 Huldange, Maison Kna  01535  01535                % 00484 RGTR--
+110605005 Huldange, Lenglerloo  01536  01536                % 00484 RGTR--
+110605006 Huldange, Schmëtt     01537                       % 00484 RGTR--
+*Z 00483 RGTR--                                             % 00483 RGTR--
+*L K21      140401009 110605006  01442  01537               % 00483 RGTR--
+*A cj 140401009 110605006 000007  01442  01537              % 00483 RGTR--
+*A LF 140401009 110605006 000007  01442  01537              % 00483 RGTR--
+*A NY 140401009 110605006 000007  01442  01537              % 00483 RGTR--
+*A NZ 140401009 110605006 000007  01442  01537              % 00483 RGTR--
+*A ad 140401009 110605006 000007  01442  01537              % 00483 RGTR--
+*R 1 110605006 140401009 110605006  01442  01537            % 00483 RGTR--
+*G 070 140401009 110605006  01442  01537                    % 00483 RGTR--
+*A VE 140401009 110605006 000007  01442  01537              % 00483 RGTR--
+*I FD 140401009 110605006        0002999  01442  01537      % 00483 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00483 RGTR--
+140401010 Diekirch, Place des   01445  01445                % 00483 RGTR--
+140402001 Fridhaff              01448  01448                % 00483 RGTR--
+140311002 Flebour, Op der Fléi  01451  01451                % 00483 RGTR--
+140306002 Lipperscheid, Beim L  01455  01455                % 00483 RGTR--
+140901003 Hoscheid, Markenbach  01458  01458                % 00483 RGTR--
+140901002 Hoscheid, Kräizgaass  01459  01459                % 00483 RGTR--
+140901001 Hoscheid, Braaken     01500  01500                % 00483 RGTR--
+140902001 Hoscheid-Dickt, Um P  01504  01504                % 00483 RGTR--
+140902002 Hoscheid-Dickt, Um W  01505  01505                % 00483 RGTR--
+110203001 Ennert Schinker       01506  01506                % 00483 RGTR--
+110203003 Um Schinker           01507  01507                % 00483 RGTR--
+110403003 Hosingen, Z.A.E.R.    01509  01509                % 00483 RGTR--
+110403001 Hosingen, Eesberwee   01510  01510                % 00483 RGTR--
+110403002 Hosingen, Ewescht Du  01511  01511                % 00483 RGTR--
+110403006 Hosingen, Bayrischt   01511  01511                % 00483 RGTR--
+110401002 Dorscheid, Am Poul    01513  01513                % 00483 RGTR--
+110401004 Dorscheid, Lehmkaul   01514  01514                % 00483 RGTR--
+110502002 Marnach, Beim Sender  01514  01514                % 00483 RGTR--
+110502010 Marnach, Schwaarzenh  01515  01515                % 00483 RGTR--
+110502003 Marnach, Dosberstroo  01516  01516                % 00483 RGTR--
+110502005 Marnach, Geschäftsze  01516  01516                % 00483 RGTR--
+110502008 Marnach, Op der Bréc  01517  01517                % 00483 RGTR--
+110502001 Marnach, Beim Cube    01518  01518                % 00483 RGTR--
+110502011 Marnach, Bombatsch    01519  01519                % 00483 RGTR--
+110502009 Marnach, Pënnik       01520  01520                % 00483 RGTR--
+110502004 Marnach, Fëschberstr  01521  01521                % 00483 RGTR--
+110301001 Fischbach/Heinersche  01522  01522                % 00483 RGTR--
+110303001 Heinerscheid, Bei Di  01524  01524                % 00483 RGTR--
+110303003 Heinerscheid, Geméin  01524  01524                % 00483 RGTR--
+110303002 Heinerscheid, Bei Mi  01525  01525                % 00483 RGTR--
+110307001 Lausdorn              01527  01527                % 00483 RGTR--
+110706004 Weiswampach, Om Knup  01530  01530                % 00483 RGTR--
+110706001 Weiswampach, Am Leem  01530  01530                % 00483 RGTR--
+110706003 Weiswampach, Hugerii  01531  01531                % 00483 RGTR--
+110706014 Wemperhardt, Beim Ma  01532  01532                % 00483 RGTR--
+110706010 Wemperhardt, Op der   01533  01533                % 00483 RGTR--
+110706013 Wemperhardt, 3 Brake  01534  01534                % 00483 RGTR--
+110605008 Huldange, Maison Kna  01535  01535                % 00483 RGTR--
+110605005 Huldange, Lenglerloo  01536  01536                % 00483 RGTR--
+110605006 Huldange, Schmëtt     01537                       % 00483 RGTR--
+*Z 00487 RGTR--                                             % 00487 RGTR--
+*L K21      140401009 110605006  01442  01537               % 00487 RGTR--
+*A cj 140401009 110605006 000011  01442  01537              % 00487 RGTR--
+*A LF 140401009 110605006 000011  01442  01537              % 00487 RGTR--
+*A NY 140401009 110605006 000011  01442  01537              % 00487 RGTR--
+*A NZ 140401009 110605006 000011  01442  01537              % 00487 RGTR--
+*A ad 140401009 110605006 000011  01442  01537              % 00487 RGTR--
+*R 1 110605006 140401009 110605006  01442  01537            % 00487 RGTR--
+*G 070 140401009 110605006  01442  01537                    % 00487 RGTR--
+*A VE 140401009 110605006 000011  01442  01537              % 00487 RGTR--
+*I FD 140401009 110605006        0002999  01442  01537      % 00487 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00487 RGTR--
+140401010 Diekirch, Place des   01445  01445                % 00487 RGTR--
+140402001 Fridhaff              01448  01448                % 00487 RGTR--
+140311002 Flebour, Op der Fléi  01451  01451                % 00487 RGTR--
+140306002 Lipperscheid, Beim L  01455  01455                % 00487 RGTR--
+140901003 Hoscheid, Markenbach  01458  01458                % 00487 RGTR--
+140901002 Hoscheid, Kräizgaass  01459  01459                % 00487 RGTR--
+140901001 Hoscheid, Braaken     01500  01500                % 00487 RGTR--
+140902001 Hoscheid-Dickt, Um P  01504  01504                % 00487 RGTR--
+140902002 Hoscheid-Dickt, Um W  01505  01505                % 00487 RGTR--
+110203001 Ennert Schinker       01506  01506                % 00487 RGTR--
+110203003 Um Schinker           01507  01507                % 00487 RGTR--
+110403003 Hosingen, Z.A.E.R.    01509  01509                % 00487 RGTR--
+110403001 Hosingen, Eesberwee   01510  01510                % 00487 RGTR--
+110403002 Hosingen, Ewescht Du  01511  01511                % 00487 RGTR--
+110403006 Hosingen, Bayrischt   01511  01511                % 00487 RGTR--
+110401002 Dorscheid, Am Poul    01513  01513                % 00487 RGTR--
+110401004 Dorscheid, Lehmkaul   01514  01514                % 00487 RGTR--
+110502002 Marnach, Beim Sender  01514  01514                % 00487 RGTR--
+110502010 Marnach, Schwaarzenh  01515  01515                % 00487 RGTR--
+110502003 Marnach, Dosberstroo  01516  01516                % 00487 RGTR--
+110502005 Marnach, Geschäftsze  01516  01516                % 00487 RGTR--
+110502008 Marnach, Op der Bréc  01517  01517                % 00487 RGTR--
+110502001 Marnach, Beim Cube    01518  01518                % 00487 RGTR--
+110502011 Marnach, Bombatsch    01519  01519                % 00487 RGTR--
+110502009 Marnach, Pënnik       01520  01520                % 00487 RGTR--
+110502004 Marnach, Fëschberstr  01521  01521                % 00487 RGTR--
+110301001 Fischbach/Heinersche  01522  01522                % 00487 RGTR--
+110303001 Heinerscheid, Bei Di  01524  01524                % 00487 RGTR--
+110303003 Heinerscheid, Geméin  01524  01524                % 00487 RGTR--
+110303002 Heinerscheid, Bei Mi  01525  01525                % 00487 RGTR--
+110307001 Lausdorn              01527  01527                % 00487 RGTR--
+110706004 Weiswampach, Om Knup  01530  01530                % 00487 RGTR--
+110706001 Weiswampach, Am Leem  01530  01530                % 00487 RGTR--
+110706003 Weiswampach, Hugerii  01531  01531                % 00487 RGTR--
+110706014 Wemperhardt, Beim Ma  01532  01532                % 00487 RGTR--
+110706010 Wemperhardt, Op der   01533  01533                % 00487 RGTR--
+110706013 Wemperhardt, 3 Brake  01534  01534                % 00487 RGTR--
+110605008 Huldange, Maison Kna  01535  01535                % 00487 RGTR--
+110605005 Huldange, Lenglerloo  01536  01536                % 00487 RGTR--
+110605006 Huldange, Schmëtt     01537                       % 00487 RGTR--
+*Z 00477 RGTR--                                             % 00477 RGTR--
+*L K21      140401004 110702003  01445  01542               % 00477 RGTR--
+*A cj 140401004 110702003 000015  01445  01542              % 00477 RGTR--
+*A LF 140401004 110702003 000015  01445  01542              % 00477 RGTR--
+*A NY 140401004 110702003 000015  01445  01542              % 00477 RGTR--
+*A NZ 140401004 110702003 000015  01445  01542              % 00477 RGTR--
+*A ad 140401004 110702003 000015  01445  01542              % 00477 RGTR--
+*R 1 110702003 140401004 110702003  01445  01542            % 00477 RGTR--
+*G 050 140401004 110702003  01445  01542                    % 00477 RGTR--
+*A VE 140401004 110702003 000015  01445  01542              % 00477 RGTR--
+*I FD 140401004 110702003        0001959  01445  01542      % 00477 RGTR--
+140401004 Diekirch, Gare routi         01445                % 00477 RGTR--
+140401001 Diekirch, Altersheem  01446  01446                % 00477 RGTR--
+140401010 Diekirch, Place des   01448  01448                % 00477 RGTR--
+140402001 Fridhaff              01451  01451                % 00477 RGTR--
+140311002 Flebour, Op der Fléi  01454  01454                % 00477 RGTR--
+140306002 Lipperscheid, Beim L  01458  01458                % 00477 RGTR--
+140901003 Hoscheid, Markenbach  01501  01501                % 00477 RGTR--
+140901002 Hoscheid, Kräizgaass  01503  01503                % 00477 RGTR--
+140901001 Hoscheid, Braaken     01503  01503                % 00477 RGTR--
+140902001 Hoscheid-Dickt, Um P  01507  01507                % 00477 RGTR--
+140902002 Hoscheid-Dickt, Um W  01508  01508                % 00477 RGTR--
+110203001 Ennert Schinker       01509  01509                % 00477 RGTR--
+110203003 Um Schinker           01510  01510                % 00477 RGTR--
+110403003 Hosingen, Z.A.E.R.    01512  01512                % 00477 RGTR--
+110403001 Hosingen, Eesberwee   01513  01513                % 00477 RGTR--
+110403002 Hosingen, Ewescht Du  01514  01514                % 00477 RGTR--
+110403006 Hosingen, Bayrischt   01514  01514                % 00477 RGTR--
+110401002 Dorscheid, Am Poul    01516  01516                % 00477 RGTR--
+110401004 Dorscheid, Lehmkaul   01517  01517                % 00477 RGTR--
+110502002 Marnach, Beim Sender  01518  01518                % 00477 RGTR--
+110502010 Marnach, Schwaarzenh  01519  01519                % 00477 RGTR--
+110502003 Marnach, Dosberstroo  01519  01519                % 00477 RGTR--
+110502005 Marnach, Geschäftsze  01520  01520                % 00477 RGTR--
+110502008 Marnach, Op der Bréc  01520  01520                % 00477 RGTR--
+110502001 Marnach, Beim Cube    01521  01521                % 00477 RGTR--
+110502011 Marnach, Bombatsch    01522  01522                % 00477 RGTR--
+110502009 Marnach, Pënnik       01523  01523                % 00477 RGTR--
+110502004 Marnach, Fëschberstr  01524  01524                % 00477 RGTR--
+110301001 Fischbach/Heinersche  01525  01525                % 00477 RGTR--
+110303001 Heinerscheid, Bei Di  01527  01527                % 00477 RGTR--
+110303003 Heinerscheid, Geméin  01528  01528                % 00477 RGTR--
+110303002 Heinerscheid, Bei Mi  01528  01528                % 00477 RGTR--
+110307001 Lausdorn              01531  01531                % 00477 RGTR--
+110706008 Weiswampach, Iäwwisc  01534  01534                % 00477 RGTR--
+110706007 Weiswampach, Post     01534  01534                % 00477 RGTR--
+110706005 Weiswampach, Ennisch  01535  01535                % 00477 RGTR--
+110706006 Weiswampach, Duarref  01535  01535                % 00477 RGTR--
+110703001 Breidfeld             01538  01538                % 00477 RGTR--
+110704001 Holler                01540  01540                % 00477 RGTR--
+110702001 Binsfeld, Om Béchel   01541  01541                % 00477 RGTR--
+110702002 Binsfeld, Beim alen   01541  01541                % 00477 RGTR--
+110702003 Binsfeld, Beim Musée  01542                       % 00477 RGTR--
+*Z 00474 RGTR--                                             % 00474 RGTR--
+*L K21      140401004 110702003  01445  01542               % 00474 RGTR--
+*A cj 140401004 110702003 000009  01445  01542              % 00474 RGTR--
+*A LF 140401004 110702003 000009  01445  01542              % 00474 RGTR--
+*A NY 140401004 110702003 000009  01445  01542              % 00474 RGTR--
+*A NZ 140401004 110702003 000009  01445  01542              % 00474 RGTR--
+*A ad 140401004 110702003 000009  01445  01542              % 00474 RGTR--
+*R 1 110702003 140401004 110702003  01445  01542            % 00474 RGTR--
+*G 050 140401004 110702003  01445  01542                    % 00474 RGTR--
+*A VE 140401004 110702003 000009  01445  01542              % 00474 RGTR--
+*I FD 140401004 110702003        0001959  01445  01542      % 00474 RGTR--
+140401004 Diekirch, Gare routi         01445                % 00474 RGTR--
+140401001 Diekirch, Altersheem  01446  01446                % 00474 RGTR--
+140401010 Diekirch, Place des   01448  01448                % 00474 RGTR--
+140402001 Fridhaff              01451  01451                % 00474 RGTR--
+140311002 Flebour, Op der Fléi  01454  01454                % 00474 RGTR--
+140306002 Lipperscheid, Beim L  01458  01458                % 00474 RGTR--
+140901003 Hoscheid, Markenbach  01501  01501                % 00474 RGTR--
+140901002 Hoscheid, Kräizgaass  01503  01503                % 00474 RGTR--
+140901001 Hoscheid, Braaken     01503  01503                % 00474 RGTR--
+140902001 Hoscheid-Dickt, Um P  01507  01507                % 00474 RGTR--
+140902002 Hoscheid-Dickt, Um W  01508  01508                % 00474 RGTR--
+110203001 Ennert Schinker       01509  01509                % 00474 RGTR--
+110203003 Um Schinker           01510  01510                % 00474 RGTR--
+110403003 Hosingen, Z.A.E.R.    01512  01512                % 00474 RGTR--
+110403001 Hosingen, Eesberwee   01513  01513                % 00474 RGTR--
+110403002 Hosingen, Ewescht Du  01514  01514                % 00474 RGTR--
+110403006 Hosingen, Bayrischt   01514  01514                % 00474 RGTR--
+110401002 Dorscheid, Am Poul    01516  01516                % 00474 RGTR--
+110401004 Dorscheid, Lehmkaul   01517  01517                % 00474 RGTR--
+110502002 Marnach, Beim Sender  01518  01518                % 00474 RGTR--
+110502010 Marnach, Schwaarzenh  01519  01519                % 00474 RGTR--
+110502003 Marnach, Dosberstroo  01519  01519                % 00474 RGTR--
+110502005 Marnach, Geschäftsze  01520  01520                % 00474 RGTR--
+110502008 Marnach, Op der Bréc  01520  01520                % 00474 RGTR--
+110502001 Marnach, Beim Cube    01521  01521                % 00474 RGTR--
+110502011 Marnach, Bombatsch    01522  01522                % 00474 RGTR--
+110502009 Marnach, Pënnik       01523  01523                % 00474 RGTR--
+110502004 Marnach, Fëschberstr  01524  01524                % 00474 RGTR--
+110301001 Fischbach/Heinersche  01525  01525                % 00474 RGTR--
+110303001 Heinerscheid, Bei Di  01527  01527                % 00474 RGTR--
+110303003 Heinerscheid, Geméin  01528  01528                % 00474 RGTR--
+110303002 Heinerscheid, Bei Mi  01528  01528                % 00474 RGTR--
+110307001 Lausdorn              01531  01531                % 00474 RGTR--
+110706008 Weiswampach, Iäwwisc  01534  01534                % 00474 RGTR--
+110706007 Weiswampach, Post     01534  01534                % 00474 RGTR--
+110706005 Weiswampach, Ennisch  01535  01535                % 00474 RGTR--
+110706006 Weiswampach, Duarref  01535  01535                % 00474 RGTR--
+110703001 Breidfeld             01538  01538                % 00474 RGTR--
+110704001 Holler                01540  01540                % 00474 RGTR--
+110702001 Binsfeld, Om Béchel   01541  01541                % 00474 RGTR--
+110702002 Binsfeld, Beim alen   01541  01541                % 00474 RGTR--
+110702003 Binsfeld, Beim Musée  01542                       % 00474 RGTR--
+*Z 00471 RGTR--                                             % 00471 RGTR--
+*L K21      140401004 110702003  01445  01542               % 00471 RGTR--
+*A cj 140401004 110702003 000013  01445  01542              % 00471 RGTR--
+*A LF 140401004 110702003 000013  01445  01542              % 00471 RGTR--
+*A NY 140401004 110702003 000013  01445  01542              % 00471 RGTR--
+*A NZ 140401004 110702003 000013  01445  01542              % 00471 RGTR--
+*A ad 140401004 110702003 000013  01445  01542              % 00471 RGTR--
+*R 1 110702003 140401004 110702003  01445  01542            % 00471 RGTR--
+*G 050 140401004 110702003  01445  01542                    % 00471 RGTR--
+*A VE 140401004 110702003 000013  01445  01542              % 00471 RGTR--
+*I FD 140401004 110702003        0001959  01445  01542      % 00471 RGTR--
+140401004 Diekirch, Gare routi         01445                % 00471 RGTR--
+140401001 Diekirch, Altersheem  01446  01446                % 00471 RGTR--
+140401010 Diekirch, Place des   01448  01448                % 00471 RGTR--
+140402001 Fridhaff              01451  01451                % 00471 RGTR--
+140311002 Flebour, Op der Fléi  01454  01454                % 00471 RGTR--
+140306002 Lipperscheid, Beim L  01458  01458                % 00471 RGTR--
+140901003 Hoscheid, Markenbach  01501  01501                % 00471 RGTR--
+140901002 Hoscheid, Kräizgaass  01503  01503                % 00471 RGTR--
+140901001 Hoscheid, Braaken     01503  01503                % 00471 RGTR--
+140902001 Hoscheid-Dickt, Um P  01507  01507                % 00471 RGTR--
+140902002 Hoscheid-Dickt, Um W  01508  01508                % 00471 RGTR--
+110203001 Ennert Schinker       01509  01509                % 00471 RGTR--
+110203003 Um Schinker           01510  01510                % 00471 RGTR--
+110403003 Hosingen, Z.A.E.R.    01512  01512                % 00471 RGTR--
+110403001 Hosingen, Eesberwee   01513  01513                % 00471 RGTR--
+110403002 Hosingen, Ewescht Du  01514  01514                % 00471 RGTR--
+110403006 Hosingen, Bayrischt   01514  01514                % 00471 RGTR--
+110401002 Dorscheid, Am Poul    01516  01516                % 00471 RGTR--
+110401004 Dorscheid, Lehmkaul   01517  01517                % 00471 RGTR--
+110502002 Marnach, Beim Sender  01518  01518                % 00471 RGTR--
+110502010 Marnach, Schwaarzenh  01519  01519                % 00471 RGTR--
+110502003 Marnach, Dosberstroo  01519  01519                % 00471 RGTR--
+110502005 Marnach, Geschäftsze  01520  01520                % 00471 RGTR--
+110502008 Marnach, Op der Bréc  01520  01520                % 00471 RGTR--
+110502001 Marnach, Beim Cube    01521  01521                % 00471 RGTR--
+110502011 Marnach, Bombatsch    01522  01522                % 00471 RGTR--
+110502009 Marnach, Pënnik       01523  01523                % 00471 RGTR--
+110502004 Marnach, Fëschberstr  01524  01524                % 00471 RGTR--
+110301001 Fischbach/Heinersche  01525  01525                % 00471 RGTR--
+110303001 Heinerscheid, Bei Di  01527  01527                % 00471 RGTR--
+110303003 Heinerscheid, Geméin  01528  01528                % 00471 RGTR--
+110303002 Heinerscheid, Bei Mi  01528  01528                % 00471 RGTR--
+110307001 Lausdorn              01531  01531                % 00471 RGTR--
+110706008 Weiswampach, Iäwwisc  01534  01534                % 00471 RGTR--
+110706007 Weiswampach, Post     01534  01534                % 00471 RGTR--
+110706005 Weiswampach, Ennisch  01535  01535                % 00471 RGTR--
+110706006 Weiswampach, Duarref  01535  01535                % 00471 RGTR--
+110703001 Breidfeld             01538  01538                % 00471 RGTR--
+110704001 Holler                01540  01540                % 00471 RGTR--
+110702001 Binsfeld, Om Béchel   01541  01541                % 00471 RGTR--
+110702002 Binsfeld, Beim alen   01541  01541                % 00471 RGTR--
+110702003 Binsfeld, Beim Musée  01542                       % 00471 RGTR--
+*Z 00468 RGTR--                                             % 00468 RGTR--
+*L K21      140401004 110702003  01445  01542               % 00468 RGTR--
+*A cj 140401004 110702003 000007  01445  01542              % 00468 RGTR--
+*A LF 140401004 110702003 000007  01445  01542              % 00468 RGTR--
+*A NY 140401004 110702003 000007  01445  01542              % 00468 RGTR--
+*A NZ 140401004 110702003 000007  01445  01542              % 00468 RGTR--
+*A ad 140401004 110702003 000007  01445  01542              % 00468 RGTR--
+*R 1 110702003 140401004 110702003  01445  01542            % 00468 RGTR--
+*G 050 140401004 110702003  01445  01542                    % 00468 RGTR--
+*A VE 140401004 110702003 000007  01445  01542              % 00468 RGTR--
+*I FD 140401004 110702003        0001959  01445  01542      % 00468 RGTR--
+140401004 Diekirch, Gare routi         01445                % 00468 RGTR--
+140401001 Diekirch, Altersheem  01446  01446                % 00468 RGTR--
+140401010 Diekirch, Place des   01448  01448                % 00468 RGTR--
+140402001 Fridhaff              01451  01451                % 00468 RGTR--
+140311002 Flebour, Op der Fléi  01454  01454                % 00468 RGTR--
+140306002 Lipperscheid, Beim L  01458  01458                % 00468 RGTR--
+140901003 Hoscheid, Markenbach  01501  01501                % 00468 RGTR--
+140901002 Hoscheid, Kräizgaass  01503  01503                % 00468 RGTR--
+140901001 Hoscheid, Braaken     01503  01503                % 00468 RGTR--
+140902001 Hoscheid-Dickt, Um P  01507  01507                % 00468 RGTR--
+140902002 Hoscheid-Dickt, Um W  01508  01508                % 00468 RGTR--
+110203001 Ennert Schinker       01509  01509                % 00468 RGTR--
+110203003 Um Schinker           01510  01510                % 00468 RGTR--
+110403003 Hosingen, Z.A.E.R.    01512  01512                % 00468 RGTR--
+110403001 Hosingen, Eesberwee   01513  01513                % 00468 RGTR--
+110403002 Hosingen, Ewescht Du  01514  01514                % 00468 RGTR--
+110403006 Hosingen, Bayrischt   01514  01514                % 00468 RGTR--
+110401002 Dorscheid, Am Poul    01516  01516                % 00468 RGTR--
+110401004 Dorscheid, Lehmkaul   01517  01517                % 00468 RGTR--
+110502002 Marnach, Beim Sender  01518  01518                % 00468 RGTR--
+110502010 Marnach, Schwaarzenh  01519  01519                % 00468 RGTR--
+110502003 Marnach, Dosberstroo  01519  01519                % 00468 RGTR--
+110502005 Marnach, Geschäftsze  01520  01520                % 00468 RGTR--
+110502008 Marnach, Op der Bréc  01520  01520                % 00468 RGTR--
+110502001 Marnach, Beim Cube    01521  01521                % 00468 RGTR--
+110502011 Marnach, Bombatsch    01522  01522                % 00468 RGTR--
+110502009 Marnach, Pënnik       01523  01523                % 00468 RGTR--
+110502004 Marnach, Fëschberstr  01524  01524                % 00468 RGTR--
+110301001 Fischbach/Heinersche  01525  01525                % 00468 RGTR--
+110303001 Heinerscheid, Bei Di  01527  01527                % 00468 RGTR--
+110303003 Heinerscheid, Geméin  01528  01528                % 00468 RGTR--
+110303002 Heinerscheid, Bei Mi  01528  01528                % 00468 RGTR--
+110307001 Lausdorn              01531  01531                % 00468 RGTR--
+110706008 Weiswampach, Iäwwisc  01534  01534                % 00468 RGTR--
+110706007 Weiswampach, Post     01534  01534                % 00468 RGTR--
+110706005 Weiswampach, Ennisch  01535  01535                % 00468 RGTR--
+110706006 Weiswampach, Duarref  01535  01535                % 00468 RGTR--
+110703001 Breidfeld             01538  01538                % 00468 RGTR--
+110704001 Holler                01540  01540                % 00468 RGTR--
+110702001 Binsfeld, Om Béchel   01541  01541                % 00468 RGTR--
+110702002 Binsfeld, Beim alen   01541  01541                % 00468 RGTR--
+110702003 Binsfeld, Beim Musée  01542                       % 00468 RGTR--
+*Z 00480 RGTR--                                             % 00480 RGTR--
+*L K21      140401004 110702003  01445  01542               % 00480 RGTR--
+*A cj 140401004 110702003 000011  01445  01542              % 00480 RGTR--
+*A LF 140401004 110702003 000011  01445  01542              % 00480 RGTR--
+*A NY 140401004 110702003 000011  01445  01542              % 00480 RGTR--
+*A NZ 140401004 110702003 000011  01445  01542              % 00480 RGTR--
+*A ad 140401004 110702003 000011  01445  01542              % 00480 RGTR--
+*R 1 110702003 140401004 110702003  01445  01542            % 00480 RGTR--
+*G 050 140401004 110702003  01445  01542                    % 00480 RGTR--
+*A VE 140401004 110702003 000011  01445  01542              % 00480 RGTR--
+*I FD 140401004 110702003        0001959  01445  01542      % 00480 RGTR--
+140401004 Diekirch, Gare routi         01445                % 00480 RGTR--
+140401001 Diekirch, Altersheem  01446  01446                % 00480 RGTR--
+140401010 Diekirch, Place des   01448  01448                % 00480 RGTR--
+140402001 Fridhaff              01451  01451                % 00480 RGTR--
+140311002 Flebour, Op der Fléi  01454  01454                % 00480 RGTR--
+140306002 Lipperscheid, Beim L  01458  01458                % 00480 RGTR--
+140901003 Hoscheid, Markenbach  01501  01501                % 00480 RGTR--
+140901002 Hoscheid, Kräizgaass  01503  01503                % 00480 RGTR--
+140901001 Hoscheid, Braaken     01503  01503                % 00480 RGTR--
+140902001 Hoscheid-Dickt, Um P  01507  01507                % 00480 RGTR--
+140902002 Hoscheid-Dickt, Um W  01508  01508                % 00480 RGTR--
+110203001 Ennert Schinker       01509  01509                % 00480 RGTR--
+110203003 Um Schinker           01510  01510                % 00480 RGTR--
+110403003 Hosingen, Z.A.E.R.    01512  01512                % 00480 RGTR--
+110403001 Hosingen, Eesberwee   01513  01513                % 00480 RGTR--
+110403002 Hosingen, Ewescht Du  01514  01514                % 00480 RGTR--
+110403006 Hosingen, Bayrischt   01514  01514                % 00480 RGTR--
+110401002 Dorscheid, Am Poul    01516  01516                % 00480 RGTR--
+110401004 Dorscheid, Lehmkaul   01517  01517                % 00480 RGTR--
+110502002 Marnach, Beim Sender  01518  01518                % 00480 RGTR--
+110502010 Marnach, Schwaarzenh  01519  01519                % 00480 RGTR--
+110502003 Marnach, Dosberstroo  01519  01519                % 00480 RGTR--
+110502005 Marnach, Geschäftsze  01520  01520                % 00480 RGTR--
+110502008 Marnach, Op der Bréc  01520  01520                % 00480 RGTR--
+110502001 Marnach, Beim Cube    01521  01521                % 00480 RGTR--
+110502011 Marnach, Bombatsch    01522  01522                % 00480 RGTR--
+110502009 Marnach, Pënnik       01523  01523                % 00480 RGTR--
+110502004 Marnach, Fëschberstr  01524  01524                % 00480 RGTR--
+110301001 Fischbach/Heinersche  01525  01525                % 00480 RGTR--
+110303001 Heinerscheid, Bei Di  01527  01527                % 00480 RGTR--
+110303003 Heinerscheid, Geméin  01528  01528                % 00480 RGTR--
+110303002 Heinerscheid, Bei Mi  01528  01528                % 00480 RGTR--
+110307001 Lausdorn              01531  01531                % 00480 RGTR--
+110706008 Weiswampach, Iäwwisc  01534  01534                % 00480 RGTR--
+110706007 Weiswampach, Post     01534  01534                % 00480 RGTR--
+110706005 Weiswampach, Ennisch  01535  01535                % 00480 RGTR--
+110706006 Weiswampach, Duarref  01535  01535                % 00480 RGTR--
+110703001 Breidfeld             01538  01538                % 00480 RGTR--
+110704001 Holler                01540  01540                % 00480 RGTR--
+110702001 Binsfeld, Om Béchel   01541  01541                % 00480 RGTR--
+110702002 Binsfeld, Beim alen   01541  01541                % 00480 RGTR--
+110702003 Binsfeld, Beim Musée  01542                       % 00480 RGTR--
+*Z 18679 RGTR--                                             % 18679 RGTR--
+*L K21      110702003 140203012  00649  00748               % 18679 RGTR--
+*A cj 110702003 140203012 000042  00649  00748              % 18679 RGTR--
+*A ad 110702003 140203012 000042  00649  00748              % 18679 RGTR--
+*R 2 140203012 110702003 140203012  00649  00748            % 18679 RGTR--
+*G 050 110702003 140203012  00649  00748                    % 18679 RGTR--
+*A VE 110702003 140203012 000042  00649  00748              % 18679 RGTR--
+*I FD 110702003 140203012        0003196  00649  00748      % 18679 RGTR--
+110702003 Binsfeld, Beim Musée         00649                % 18679 RGTR--
+110702002 Binsfeld, Beim alen   00649  00649                % 18679 RGTR--
+110702001 Binsfeld, Om Béchel   00650  00650                % 18679 RGTR--
+110704001 Holler                00650  00650                % 18679 RGTR--
+110703001 Breidfeld             00653  00653                % 18679 RGTR--
+110706006 Weiswampach, Duarref  00655  00655                % 18679 RGTR--
+110706012 Weiswampach, Grait    00655  00655                % 18679 RGTR--
+110706007 Weiswampach, Post     00656  00656                % 18679 RGTR--
+110706008 Weiswampach, Iäwwisc  00657  00657                % 18679 RGTR--
+110307001 Lausdorn              00700  00700                % 18679 RGTR--
+110303002 Heinerscheid, Bei Mi  00702  00702                % 18679 RGTR--
+110303003 Heinerscheid, Geméin  00703  00703                % 18679 RGTR--
+110303001 Heinerscheid, Bei Di  00704  00704                % 18679 RGTR--
+110301001 Fischbach/Heinersche  00706  00706                % 18679 RGTR--
+110502004 Marnach, Fëschberstr  00707  00707                % 18679 RGTR--
+110502009 Marnach, Pënnik       00708  00708                % 18679 RGTR--
+110502011 Marnach, Bombatsch    00709  00709                % 18679 RGTR--
+110502001 Marnach, Beim Cube    00709  00709                % 18679 RGTR--
+110502008 Marnach, Op der Bréc  00710  00710                % 18679 RGTR--
+110502005 Marnach, Geschäftsze  00711  00711                % 18679 RGTR--
+110502003 Marnach, Dosberstroo  00711  00711                % 18679 RGTR--
+110502010 Marnach, Schwaarzenh  00712  00712                % 18679 RGTR--
+110502002 Marnach, Beim Sender  00713  00713                % 18679 RGTR--
+110401004 Dorscheid, Lehmkaul   00713  00713                % 18679 RGTR--
+110403006 Hosingen, Bayrischt   00717  00717                % 18679 RGTR--
+110403005 Hosingen, Bei der Ki  00717  00717                % 18679 RGTR--
+110203003 Um Schinker           00721  00721                % 18679 RGTR--
+110203001 Ennert Schinker       00722  00722                % 18679 RGTR--
+140902002 Hoscheid-Dickt, Um W  00724  00724                % 18679 RGTR--
+140902001 Hoscheid-Dickt, Um P  00725  00725                % 18679 RGTR--
+140402001 Fridhaff              00735  00735                % 18679 RGTR--
+140401003 Diekirch, Dräi Brake  00737  00737                % 18679 RGTR--
+140401006 Diekirch, Kluuster    00738  00738                % 18679 RGTR--
+140401004 Diekirch, Gare routi  00740  00740                % 18679 RGTR--
+140401001 Diekirch, Altersheem  00742  00742                % 18679 RGTR--
+140401009 Diekirch, Neie Kolle  00745  00745                % 18679 RGTR--
+140401012 Diekirch, Fielserstr  00747  00747                % 18679 RGTR--
+140203012 Gilsdorf, Ackerbausc  00748                       % 18679 RGTR--
+*Z 18680 RGTR--                                             % 18680 RGTR--
+*L K21      110401002 140203012  00710  00747               % 18680 RGTR--
+*A cj 110401002 140203012 000042  00710  00747              % 18680 RGTR--
+*A KQ 110401002 140203012 000042  00710  00747              % 18680 RGTR--
+*A ad 110401002 140203012 000042  00710  00747              % 18680 RGTR--
+*R 2 140203012 110401002 140203012  00710  00747            % 18680 RGTR--
+*G 070 110401002 140203012  00710  00747                    % 18680 RGTR--
+*A VE 110401002 140203012 000042  00710  00747              % 18680 RGTR--
+*I FD 110401002 140203012        0001984  00710  00747      % 18680 RGTR--
+110401002 Dorscheid, Am Poul           00710                % 18680 RGTR--
+110403006 Hosingen, Bayrischt   00713  00713                % 18680 RGTR--
+110403005 Hosingen, Bei der Ki  00714  00714                % 18680 RGTR--
+110403001 Hosingen, Eesberwee   00715  00715                % 18680 RGTR--
+110403003 Hosingen, Z.A.E.R.    00715  00715                % 18680 RGTR--
+110203003 Um Schinker           00717  00717                % 18680 RGTR--
+110203001 Ennert Schinker       00718  00718                % 18680 RGTR--
+140902002 Hoscheid-Dickt, Um W  00720  00720                % 18680 RGTR--
+140902001 Hoscheid-Dickt, Um P  00721  00721                % 18680 RGTR--
+140901001 Hoscheid, Braaken     00722  00722                % 18680 RGTR--
+140901002 Hoscheid, Kräizgaass  00723  00723                % 18680 RGTR--
+140901003 Hoscheid, Markenbach  00724  00724                % 18680 RGTR--
+140306002 Lipperscheid, Beim L  00727  00727                % 18680 RGTR--
+140311002 Flebour, Op der Fléi  00729  00729                % 18680 RGTR--
+140311001 Closdelt              00730  00730                % 18680 RGTR--
+140402001 Fridhaff              00732  00732                % 18680 RGTR--
+140401003 Diekirch, Dräi Brake  00734  00734                % 18680 RGTR--
+140401006 Diekirch, Kluuster    00736  00736                % 18680 RGTR--
+140401004 Diekirch, Gare routi  00738  00738                % 18680 RGTR--
+140401001 Diekirch, Altersheem  00740  00740                % 18680 RGTR--
+140401009 Diekirch, Neie Kolle  00743  00743                % 18680 RGTR--
+140401012 Diekirch, Fielserstr  00745  00745                % 18680 RGTR--
+140203012 Gilsdorf, Ackerbausc  00747                       % 18680 RGTR--

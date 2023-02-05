@@ -1,0 +1,37 @@
+*F 03 2
+*Z 05874 TIC---                                             % 05874 TIC---
+*L 883      220301034 220402034  01534  01608               % 05874 TIC---
+*R 1 220402034 220301034 220402034  01534  01608            % 05874 TIC---
+*G SB  220301034 220402034  01534  01608                    % 05874 TIC---
+*A VE 220301034 220402034 000290  01534  01608              % 05874 TIC---
+*I FD 220301034 220402034        0001687  01534  01608      % 05874 TIC---
+220301034 Dudelange, Lycée Nic         01534                % 05874 TIC---
+220301022 Dudelange, Gare       01537 -01537                % 05874 TIC---
+220301030 Dudelange, Kierfecht  01539 -01539                % 05874 TIC---
+220301031 Dudelange, rue Aloys  01540 -01540                % 05874 TIC---
+220301019 Dudelange, Route de   01540 -01540                % 05874 TIC---
+220301002 Dudelange, Rue Angel  01541 -01541                % 05874 TIC---
+220301013 Dudelange, Butschebu  01542 -01542                % 05874 TIC---
+220301048 Dudelange, Scherr     01543 -01543                % 05874 TIC---
+220601013 Kayl, Diddelengerstr  01544 -01544                % 05874 TIC---
+220601021 Kayl, Brill           01545 -01545                % 05874 TIC---
+220601012 Kayl, Cité Berens     01546 -01546                % 05874 TIC---
+220602006 Tétange, Rue Neuve    01547 -01547                % 05874 TIC---
+220602007 Tétange, Schungfabri  01548 -01548                % 05874 TIC---
+220602009 Tétange, Bréck        01549 -01549                % 05874 TIC---
+220602010 Tétange, Schoul       01549 -01549                % 05874 TIC---
+220602008 Tétange, Um Haff      01550 -01550                % 05874 TIC---
+220602005 Tétange, Lorei        01550 -01550                % 05874 TIC---
+221201003 Rumelange, Atelier K  01551 -01551                % 05874 TIC---
+221201012 Rumelange, Schmelz    01552 -01552                % 05874 TIC---
+221201005 Rumelange, Gare rout  01553 -01553                % 05874 TIC---
+221201009 Rumelange, Maartplaz  01554 -01554                % 05874 TIC---
+221201002 Rumelange, Aale Kier  01555 -01555                % 05874 TIC---
+221201007 Rumelange, Laangegro  01555 -01555                % 05874 TIC---
+221201011 Rumelange, Rembour    01556 -01556                % 05874 TIC---
+220601004 Kayl, Arbed'shaff     01558 -01558                % 05874 TIC---
+220402065 Esch-sur-Alzette, No  01602 -01602                % 05874 TIC---
+220402108 Esch-sur-Alzette, Bu  01602 -01602                % 05874 TIC---
+220402064 Esch-sur-Alzette, Ne  01604 -01604                % 05874 TIC---
+220402072 Esch-sur-Alzette, Pl  01606 -01606                % 05874 TIC---
+220402034 Esch-sur-Alzette, Ga  01608                       % 05874 TIC---

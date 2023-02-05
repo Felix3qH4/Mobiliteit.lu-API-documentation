@@ -1,0 +1,1330 @@
+*F 14 2
+160301007 RGTR-- 050 12U      1 RGTR-- 063 90U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 12U      1 RGTR-- 063 90U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 12U      2 RGTR-- 063 90U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 12U      2 RGTR-- 063 90U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 13U      1 RGTR-- 050 15U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 13U      1 RGTR-- 050 15U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 13U      2 RGTR-- 050 15U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 13U      2 RGTR-- 050 15U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      1 RGTR-- 050 13U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      1 RGTR-- 050 13U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      1 RGTR-- 050 94U      2 000! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      1 RGTR-- 063 14U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      1 RGTR-- 063 14U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      1 RGTR-- 063 21U      2 000! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      1 RGTR-- 063 95U      2 000! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      2 RGTR-- 050 13U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      2 RGTR-- 050 13U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      2 RGTR-- 050 94U      2 000! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      2 RGTR-- 063 14U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      2 RGTR-- 063 14U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      2 RGTR-- 063 21U      2 000! Colmar-Berg, Usines
+160301007 RGTR-- 050 15U      2 RGTR-- 063 95U      2 000! Colmar-Berg, Usines
+160301007 RGTR-- 050 16U      1 RGTR-- 050 91U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 16U      1 RGTR-- 050 91U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 16U      1 RGTR-- 072 91U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 16U      1 RGTR-- 072 91U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 16U      2 RGTR-- 050 91U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 16U      2 RGTR-- 050 91U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 16U      2 RGTR-- 072 91U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 16U      2 RGTR-- 072 91U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 91U      1 RGTR-- 050 16U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 91U      1 RGTR-- 050 16U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 91U      2 RGTR-- 050 16U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 91U      2 RGTR-- 050 16U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 050 94U      1 RGTR-- 050 15U      1 000! Colmar-Berg, Usines
+160301007 RGTR-- 050 94U      1 RGTR-- 050 15U      2 000! Colmar-Berg, Usines
+160301007 RGTR-- 063 14U      1 RGTR-- 050 15U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 14U      1 RGTR-- 050 15U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 14U      2 RGTR-- 050 15U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 14U      2 RGTR-- 050 15U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 21U      1 RGTR-- 050 15U      1 000! Colmar-Berg, Usines
+160301007 RGTR-- 063 21U      1 RGTR-- 050 15U      2 000! Colmar-Berg, Usines
+160301007 RGTR-- 063 90U      1 RGTR-- 050 12U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 90U      1 RGTR-- 050 12U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 90U      1 RGTR-- 072 12U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 90U      1 RGTR-- 072 12U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 90U      2 RGTR-- 050 12U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 90U      2 RGTR-- 050 12U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 90U      2 RGTR-- 072 12U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 90U      2 RGTR-- 072 12U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 063 95U      1 RGTR-- 050 15U      1 000! Colmar-Berg, Usines
+160301007 RGTR-- 063 95U      1 RGTR-- 050 15U      2 000! Colmar-Berg, Usines
+160301007 RGTR-- 072 12U      1 RGTR-- 063 90U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 072 12U      1 RGTR-- 063 90U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 072 12U      2 RGTR-- 063 90U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 072 12U      2 RGTR-- 063 90U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 072 91U      1 RGTR-- 050 16U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 072 91U      1 RGTR-- 050 16U      2 001! Colmar-Berg, Usines
+160301007 RGTR-- 072 91U      2 RGTR-- 050 16U      1 001! Colmar-Berg, Usines
+160301007 RGTR-- 072 91U      2 RGTR-- 050 16U      2 001! Colmar-Berg, Usines
+141001004 RGTR-- 050 E01      1 RGTR-- 050 K02      1 001! Medernach, Op der Lann
+141001004 RGTR-- 050 E01      2 RGTR-- 050 K02      1 001! Medernach, Op der Lann
+141001004 RGTR-- 050 K01      1 RGTR-- 050 K02      1 001! Medernach, Op der Lann
+141001004 RGTR-- 050 K01      2 RGTR-- 050 K02      1 001! Medernach, Op der Lann
+141001004 RGTR-- 050 K02      2 RGTR-- 050 E01      1 001! Medernach, Op der Lann
+141001004 RGTR-- 050 K02      2 RGTR-- 050 E01      2 001! Medernach, Op der Lann
+141001004 RGTR-- 050 K02      2 RGTR-- 050 K01      1 001! Medernach, Op der Lann
+141001004 RGTR-- 050 K02      2 RGTR-- 050 K01      2 001! Medernach, Op der Lann
+141001004 RGTR-- 050 K02      2 RGTR-- 070 K01      1 001! Medernach, Op der Lann
+141001004 RGTR-- 050 K02      2 RGTR-- 070 K01      2 001! Medernach, Op der Lann
+141001004 RGTR-- 070 K01      1 RGTR-- 050 K02      1 001! Medernach, Op der Lann
+141001004 RGTR-- 070 K01      2 RGTR-- 050 K02      1 001! Medernach, Op der Lann
+210701006 RGTR-- 030 341      1 RGTR-- 050 550      2 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 050 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 050 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 050 L05      1 010! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 050 L05      2 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 050 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 050 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 063 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 063 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 063 L05      1 010! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 063 L05      2 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 063 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 063 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 072 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 072 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 072 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 030 341      1 RGTR-- 072 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 034 432      1 RGTR-- 072 406      1 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 050 550      2 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 050 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 050 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 050 L05      1 010! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 050 L05      2 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 050 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 050 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 063 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 063 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 063 L05      1 010! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 063 L05      2 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 063 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 063 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 072 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 072 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 072 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 050 341      1 RGTR-- 072 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 050 550      1 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 550      1 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 B04      2 RGTR-- 050 B08      1 001! Remich, Gare routière
+210701006 RGTR-- 050 B04      2 RGTR-- 050 B08      2 001! Remich, Gare routière
+210701006 RGTR-- 050 B04      2 RGTR-- 063 B08      1 001! Remich, Gare routière
+210701006 RGTR-- 050 B04      2 RGTR-- 063 B08      2 001! Remich, Gare routière
+210701006 RGTR-- 050 B04      2 RGTR-- 070 B08      1 001! Remich, Gare routière
+210701006 RGTR-- 050 B04      2 RGTR-- 070 B08      2 001! Remich, Gare routière
+210701006 RGTR-- 050 B04      2 RGTR-- 072 B08      1 001! Remich, Gare routière
+210701006 RGTR-- 050 B04      2 RGTR-- 072 B08      2 001! Remich, Gare routière
+210701006 RGTR-- 050 B08      1 RGTR-- 050 B04      2 001! Remich, Gare routière
+210701006 RGTR-- 050 B08      2 RGTR-- 050 B04      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L04      1 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L04      1 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L04      1 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L04      1 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L04      2 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L04      2 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L04      2 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L04      2 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L05      1 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L05      1 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L05      2 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L05      2 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L07      1 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L07      1 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L07      1 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L07      1 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L07      2 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L07      2 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L07      2 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 050 L07      2 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 063 B08      1 RGTR-- 050 B04      2 001! Remich, Gare routière
+210701006 RGTR-- 063 B08      2 RGTR-- 050 B04      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L04      1 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L04      1 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L04      1 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L04      1 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L04      2 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L04      2 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L04      2 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L04      2 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L05      1 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L05      1 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L05      2 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L05      2 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L07      1 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L07      1 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L07      1 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L07      1 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L07      2 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L07      2 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L07      2 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 063 L07      2 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 070 B08      1 RGTR-- 050 B04      2 001! Remich, Gare routière
+210701006 RGTR-- 070 B08      2 RGTR-- 050 B04      2 001! Remich, Gare routière
+210701006 RGTR-- 072 406      2 RGTR-- 034 432      2 001! Remich, Gare routière
+210701006 RGTR-- 072 B08      1 RGTR-- 050 B04      2 001! Remich, Gare routière
+210701006 RGTR-- 072 B08      2 RGTR-- 050 B04      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L04      1 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L04      1 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L04      1 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L04      1 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L04      2 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L04      2 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L04      2 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L04      2 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L07      1 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L07      1 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L07      1 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L07      1 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L07      2 RGTR-- 030 341      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L07      2 RGTR-- 050 341      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L07      2 RGTR-- 090 411      2 001! Remich, Gare routière
+210701006 RGTR-- 072 L07      2 RGTR-- 094 411      2 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 050 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 050 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 050 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 050 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 063 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 063 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 063 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 063 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 072 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 072 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 072 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 090 411      1 RGTR-- 072 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 050 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 050 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 050 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 050 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 063 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 063 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 063 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 063 L07      2 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 072 L04      1 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 072 L04      2 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 072 L07      1 001! Remich, Gare routière
+210701006 RGTR-- 094 411      1 RGTR-- 072 L07      2 001! Remich, Gare routière
+210803005 RGTR-- 050 B08      1 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 050 B08      1 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 050 B08      1 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 050 B08      1 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 050 B08      2 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 050 B08      2 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 050 B08      2 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 050 B08      2 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 063 B08      1 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 063 B08      1 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 063 B08      1 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 063 B08      1 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 063 B08      2 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 063 B08      2 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 063 B08      2 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 063 B08      2 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B08      1 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B08      1 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B08      1 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B08      1 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B08      2 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B08      2 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B08      2 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B08      2 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B09      1 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B09      1 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B09      1 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B09      1 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B09      2 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B09      2 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B09      2 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 070 B09      2 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 072 B08      1 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 072 B08      1 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 072 B08      1 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 072 B08      1 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 072 B08      2 RGTR-- 090 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 072 B08      2 RGTR-- 090 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 072 B08      2 RGTR-- 094 411      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 072 B08      2 RGTR-- 094 411      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 050 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 050 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 063 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 063 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 070 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 070 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 070 B09      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 070 B09      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 072 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      1 RGTR-- 072 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 050 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 050 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 063 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 063 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 070 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 070 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 070 B09      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 070 B09      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 072 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 090 411      2 RGTR-- 072 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 050 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 050 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 063 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 063 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 070 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 070 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 070 B09      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 070 B09      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 072 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      1 RGTR-- 072 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 050 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 050 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 063 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 063 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 070 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 070 B08      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 070 B09      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 070 B09      2 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 072 B08      1 001! Stadtbredimus, Vinsmoselle
+210803005 RGTR-- 094 411      2 RGTR-- 072 B08      2 001! Stadtbredimus, Vinsmoselle
+140701016 C82--- CIC IC       1 RGTR-- 034 116      1 001! Ettelbruck, Gare
+140701016 C82--- CIC IC       1 RGTR-- 034 116      2 001! Ettelbruck, Gare
+140701016 C82--- CIC IC       1 RGTR-- 072 170      1 001! Ettelbruck, Gare
+140701016 C82--- CIC IC       1 RGTR-- RGB 190      1 001! Ettelbruck, Gare
+140701016 C82--- CIC IC       1 RGTR-- RGB 191      1 001! Ettelbruck, Gare
+140701016 C82--- CRB RB       1 RGTR-- 034 116      1 001! Ettelbruck, Gare
+140701016 C82--- CRB RB       1 RGTR-- 034 116      2 001! Ettelbruck, Gare
+140701016 C82--- CRB RB       1 RGTR-- 072 170      1 001! Ettelbruck, Gare
+140701016 C82--- CRB RB       1 RGTR-- RGB 190      1 001! Ettelbruck, Gare
+140701016 C82--- CRB RB       1 RGTR-- RGB 191      1 001! Ettelbruck, Gare
+140701016 C82--- RE  RE       1 RGTR-- 034 116      1 001! Ettelbruck, Gare
+140701016 C82--- RE  RE       1 RGTR-- 034 116      2 001! Ettelbruck, Gare
+140701016 C82--- RE  RE       1 RGTR-- 072 170      1 001! Ettelbruck, Gare
+140701016 C82--- RE  RE       1 RGTR-- RGB 190      1 001! Ettelbruck, Gare
+140701016 C82--- RE  RE       1 RGTR-- RGB 191      1 001! Ettelbruck, Gare
+140701016 RGTR-- 034 116      1 C82--- CIC IC       1 001! Ettelbruck, Gare
+140701016 RGTR-- 034 116      1 C82--- CRB RB       1 001! Ettelbruck, Gare
+140701016 RGTR-- 034 116      1 C82--- RE  RE       1 001! Ettelbruck, Gare
+140701016 RGTR-- 034 116      2 C82--- CIC IC       1 001! Ettelbruck, Gare
+140701016 RGTR-- 034 116      2 C82--- CRB RB       1 001! Ettelbruck, Gare
+140701016 RGTR-- 034 116      2 C82--- RE  RE       1 001! Ettelbruck, Gare
+140701016 RGTR-- 050 16U      1 RGTR-- 063 134      1 001! Ettelbruck, Gare
+140701016 RGTR-- 050 16U      2 RGTR-- 063 134      1 001! Ettelbruck, Gare
+140701016 RGTR-- 063 134      2 RGTR-- 050 16U      1 001! Ettelbruck, Gare
+140701016 RGTR-- 063 134      2 RGTR-- 050 16U      2 001! Ettelbruck, Gare
+140701016 RGTR-- 072 170      2 C82--- CIC IC       1 001! Ettelbruck, Gare
+140701016 RGTR-- 072 170      2 C82--- CRB RB       1 001! Ettelbruck, Gare
+140701016 RGTR-- 072 170      2 C82--- RE  RE       1 001! Ettelbruck, Gare
+140701016 RGTR-- RGB 190      2 C82--- CIC IC       1 001! Ettelbruck, Gare
+140701016 RGTR-- RGB 190      2 C82--- CRB RB       1 001! Ettelbruck, Gare
+140701016 RGTR-- RGB 190      2 C82--- RE  RE       1 001! Ettelbruck, Gare
+140701016 RGTR-- RGB 191      2 C82--- CIC IC       1 001! Ettelbruck, Gare
+140701016 RGTR-- RGB 191      2 C82--- CRB RB       1 001! Ettelbruck, Gare
+140701016 RGTR-- RGB 191      2 C82--- RE  RE       1 001! Ettelbruck, Gare
+130204001 RGTR-- 020 K25      1 RGTR-- 050 K27      1 001! Fouhren, Halt
+130204001 RGTR-- 020 K25      1 RGTR-- 050 K27      2 001! Fouhren, Halt
+130204001 RGTR-- 020 K25      1 RGTR-- 063 181      1 001! Fouhren, Halt
+130204001 RGTR-- 020 K25      1 RGTR-- 063 181      2 001! Fouhren, Halt
+130204001 RGTR-- 020 K25      1 RGTR-- 063 K27      1 001! Fouhren, Halt
+130204001 RGTR-- 020 K25      1 RGTR-- 063 K27      2 001! Fouhren, Halt
+130204001 RGTR-- 020 K25      1 RGTR-- 070 K27      1 001! Fouhren, Halt
+130204001 RGTR-- 020 K25      1 RGTR-- 070 K27      2 001! Fouhren, Halt
+130204001 RGTR-- 050 K27      1 RGTR-- 020 K25      2 001! Fouhren, Halt
+130204001 RGTR-- 050 K27      2 RGTR-- 020 K25      2 001! Fouhren, Halt
+130204001 RGTR-- 063 181      1 RGTR-- 020 K25      2 001! Fouhren, Halt
+130204001 RGTR-- 063 181      2 RGTR-- 020 K25      2 001! Fouhren, Halt
+130204001 RGTR-- 063 K27      1 RGTR-- 020 K25      2 001! Fouhren, Halt
+130204001 RGTR-- 063 K27      2 RGTR-- 020 K25      2 001! Fouhren, Halt
+130204001 RGTR-- 070 K27      1 RGTR-- 020 K25      2 001! Fouhren, Halt
+130204001 RGTR-- 070 K27      2 RGTR-- 020 K25      2 001! Fouhren, Halt
+141203002 RGTR-- 050 K04      1 RGTR-- 063 K29      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 050 K04      1 RGTR-- 063 K29      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 050 K04      2 RGTR-- 063 K29      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 050 K04      2 RGTR-- 063 K29      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      1 RGTR-- 050 K04      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      1 RGTR-- 050 K04      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      1 RGTR-- 070 K04      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      1 RGTR-- 070 K04      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      1 RGTR-- 090 B23      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      1 RGTR-- 090 B23      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      1 RGTR-- 090 K04      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      1 RGTR-- 090 K04      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      2 RGTR-- 050 K04      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      2 RGTR-- 050 K04      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      2 RGTR-- 070 K04      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      2 RGTR-- 070 K04      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      2 RGTR-- 090 B23      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      2 RGTR-- 090 B23      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      2 RGTR-- 090 K04      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 063 K29      2 RGTR-- 090 K04      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 070 K04      1 RGTR-- 063 K29      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 070 K04      1 RGTR-- 063 K29      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 070 K04      2 RGTR-- 063 K29      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 070 K04      2 RGTR-- 063 K29      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 090 B23      1 RGTR-- 063 K29      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 090 B23      1 RGTR-- 063 K29      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 090 B23      2 RGTR-- 063 K29      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 090 B23      2 RGTR-- 063 K29      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 090 K04      1 RGTR-- 063 K29      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 090 K04      1 RGTR-- 063 K29      2 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 090 K04      2 RGTR-- 063 K29      1 001! Reisdorf, Bei der Gare
+141203002 RGTR-- 090 K04      2 RGTR-- 063 K29      2 001! Reisdorf, Bei der Gare
+130301006 RGTR-- 030 K28      2 RGTR-- 063 181      1 000! Vianden, Gare
+130301006 RGTR-- 030 K28      2 RGTR-- 063 181      2 000! Vianden, Gare
+130301006 RGTR-- 050 K28      2 RGTR-- 063 181      1 000! Vianden, Gare
+130301006 RGTR-- 050 K28      2 RGTR-- 063 181      2 000! Vianden, Gare
+130301006 RGTR-- 063 181      1 RGTR-- 030 K28      1 000! Vianden, Gare
+130301006 RGTR-- 063 181      1 RGTR-- 050 K28      1 000! Vianden, Gare
+130301006 RGTR-- 063 181      2 RGTR-- 030 K28      1 000! Vianden, Gare
+130301006 RGTR-- 063 181      2 RGTR-- 050 K28      1 000! Vianden, Gare
+180511002 RGTR-- 050 B01      1 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- 050 B01      2 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- 050 E02      1 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- 050 E02      2 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- 063 250      2 RGTR-- RGB 221      2 001! Junglinster, Op der Gare
+180511002 RGTR-- 063 B01      1 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- 063 B01      2 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- 063 E02      1 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- 063 E02      2 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 211      1 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 211      2 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 221      1 RGTR-- 063 250      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 223      1 RGTR-- RGB 261      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- 050 B01      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- 050 B01      2 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- 050 E02      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- 050 E02      2 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- 063 B01      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- 063 B01      2 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- 063 E02      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- 063 E02      2 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- RGB 211      1 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- RGB 211      2 001! Junglinster, Op der Gare
+180511002 RGTR-- RGB 261      1 RGTR-- RGB 223      1 001! Junglinster, Op der Gare
+180802003 RGTR-- 050 362      2 RGTR-- 072 421      2 001! Ehnen, Ieselsbreck
+180802003 RGTR-- 050 B03      2 RGTR-- 050 B04      2 001! Ehnen, Ieselsbreck
+180802003 RGTR-- 050 B03      2 RGTR-- 050 B08      2 001! Ehnen, Ieselsbreck
+180802003 RGTR-- 050 B03      2 RGTR-- 050 D06      2 001! Ehnen, Ieselsbreck
+180802003 RGTR-- 050 B03      2 RGTR-- 063 B08      2 001! Ehnen, Ieselsbreck
+180802003 RGTR-- 050 B03      2 RGTR-- 070 B08      2 001! Ehnen, Ieselsbreck
+180802003 RGTR-- 050 B03      2 RGTR-- 070 D06      2 001! Ehnen, Ieselsbreck
+180802003 RGTR-- 050 B03      2 RGTR-- 072 B08      2 001! Ehnen, Ieselsbreck
+140701023 RGTR-- 050 K33      2 RGTR-- 050 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 050 K33      2 RGTR-- 063 K06      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 050 K33      2 RGTR-- 070 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 050 K33      2 RGTR-- 090 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 060 K33      2 RGTR-- 050 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 060 K33      2 RGTR-- 063 K06      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 060 K33      2 RGTR-- 070 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 060 K33      2 RGTR-- 090 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 063 K33      2 RGTR-- 050 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 063 K33      2 RGTR-- 063 K06      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 063 K33      2 RGTR-- 070 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 063 K33      2 RGTR-- 090 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 070 K33      2 RGTR-- 050 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 070 K33      2 RGTR-- 063 K06      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 070 K33      2 RGTR-- 070 K04      1 001! Ettelbruck, LTEtt Gare routière
+140701023 RGTR-- 070 K33      2 RGTR-- 090 K04      1 001! Ettelbruck, LTEtt Gare routière
+160501002 RGTR-- 050 B05      1 RGTR-- 050 E01      2 001! Heffingen, Centre
+160501002 RGTR-- 050 B05      2 RGTR-- 050 E01      2 001! Heffingen, Centre
+160501002 RGTR-- 050 E01      2 RGTR-- 050 B05      1 001! Heffingen, Centre
+160501002 RGTR-- 050 E01      2 RGTR-- 050 B05      2 001! Heffingen, Centre
+160501002 RGTR-- 050 E01      2 RGTR-- 072 B05      1 001! Heffingen, Centre
+160501002 RGTR-- 050 E01      2 RGTR-- 072 B05      2 001! Heffingen, Centre
+160501002 RGTR-- 072 B05      1 RGTR-- 050 E01      2 001! Heffingen, Centre
+160501002 RGTR-- 072 B05      2 RGTR-- 050 E01      2 001! Heffingen, Centre
+180505001 RGTR-- 020 235      2 RGTR-- RGB 221      1 001! Eisenborn, Am Duerf
+180505001 RGTR-- 020 235      2 RGTR-- RGB 221      2 001! Eisenborn, Am Duerf
+180505001 RGTR-- RGB 221      1 RGTR-- 020 235      1 001! Eisenborn, Am Duerf
+180505001 RGTR-- RGB 221      2 RGTR-- 020 235      1 001! Eisenborn, Am Duerf
+160601007 RGTR-- 050 B07      1 RGTR-- 050 K01      1 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 B07      1 RGTR-- 050 K01      2 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 B07      1 RGTR-- 070 K01      1 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 B07      1 RGTR-- 070 K01      2 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 B07      2 RGTR-- 050 K01      1 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 B07      2 RGTR-- 050 K01      2 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 B07      2 RGTR-- 070 K01      1 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 B07      2 RGTR-- 070 K01      2 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 K01      1 RGTR-- 050 B07      1 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 K01      1 RGTR-- 050 B07      2 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 K01      2 RGTR-- 050 B07      1 001! Larochette, Pomjeesbau
+160601007 RGTR-- 050 K01      2 RGTR-- 050 B07      2 001! Larochette, Pomjeesbau
+160601007 RGTR-- 070 K01      1 RGTR-- 050 B07      1 001! Larochette, Pomjeesbau
+160601007 RGTR-- 070 K01      1 RGTR-- 050 B07      2 001! Larochette, Pomjeesbau
+160601007 RGTR-- 070 K01      2 RGTR-- 050 B07      1 001! Larochette, Pomjeesbau
+160601007 RGTR-- 070 K01      2 RGTR-- 050 B07      2 001! Larochette, Pomjeesbau
+170801002 RGTR-- 020 B06      1 RGTR-- 050 B05      1 001! Christnach, Schoulstrooss
+170801002 RGTR-- 020 B06      1 RGTR-- 050 B05      2 001! Christnach, Schoulstrooss
+170801002 RGTR-- 020 B06      1 RGTR-- 050 B07      1 001! Christnach, Schoulstrooss
+170801002 RGTR-- 020 B06      1 RGTR-- 050 B07      2 001! Christnach, Schoulstrooss
+170801002 RGTR-- 020 B06      1 RGTR-- 072 B05      1 001! Christnach, Schoulstrooss
+170801002 RGTR-- 020 B06      1 RGTR-- 072 B05      2 001! Christnach, Schoulstrooss
+170801002 RGTR-- 050 B05      1 RGTR-- 020 B06      2 001! Christnach, Schoulstrooss
+170801002 RGTR-- 050 B05      2 RGTR-- 020 B06      2 001! Christnach, Schoulstrooss
+170801002 RGTR-- 050 B07      1 RGTR-- 020 B06      2 001! Christnach, Schoulstrooss
+170801002 RGTR-- 050 B07      2 RGTR-- 020 B06      2 001! Christnach, Schoulstrooss
+170801002 RGTR-- 072 B05      1 RGTR-- 020 B06      2 001! Christnach, Schoulstrooss
+170801002 RGTR-- 072 B05      2 RGTR-- 020 B06      2 001! Christnach, Schoulstrooss
+170402005 RGTR-- RGB 211      1 RGTR-- RGB 261      1 001! Consdorf, Post
+170402005 RGTR-- RGB 211      1 RGTR-- RGB 261      2 001! Consdorf, Post
+170402005 RGTR-- RGB 211      2 RGTR-- RGB 261      1 001! Consdorf, Post
+170402005 RGTR-- RGB 211      2 RGTR-- RGB 261      2 001! Consdorf, Post
+170402005 RGTR-- RGB 261      1 RGTR-- RGB 211      1 001! Consdorf, Post
+170402005 RGTR-- RGB 261      1 RGTR-- RGB 211      2 001! Consdorf, Post
+170402005 RGTR-- RGB 261      2 RGTR-- RGB 211      1 001! Consdorf, Post
+170402005 RGTR-- RGB 261      2 RGTR-- RGB 211      2 001! Consdorf, Post
+170402001 RGTR-- RGB 211      1 RGTR-- RGB 261      1 001! Consdorf, Gare
+170402001 RGTR-- RGB 211      1 RGTR-- RGB 261      2 001! Consdorf, Gare
+170402001 RGTR-- RGB 211      2 RGTR-- RGB 261      1 001! Consdorf, Gare
+170402001 RGTR-- RGB 211      2 RGTR-- RGB 261      2 001! Consdorf, Gare
+170402001 RGTR-- RGB 261      1 RGTR-- RGB 211      1 001! Consdorf, Gare
+170402001 RGTR-- RGB 261      1 RGTR-- RGB 211      2 001! Consdorf, Gare
+170402001 RGTR-- RGB 261      2 RGTR-- RGB 211      1 001! Consdorf, Gare
+170402001 RGTR-- RGB 261      2 RGTR-- RGB 211      2 001! Consdorf, Gare
+200303006 RGTR-- 020 E11      1 RGTR-- 070 D13      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 020 E11      1 RGTR-- 070 D13      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 020 E11      2 RGTR-- 070 D13      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 020 E11      2 RGTR-- 070 D13      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 050 E11      1 RGTR-- 070 D13      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 050 E11      1 RGTR-- 070 D13      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 050 E11      2 RGTR-- 070 D13      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 050 E11      2 RGTR-- 070 D13      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      1 RGTR-- 020 E11      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      1 RGTR-- 020 E11      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      1 RGTR-- 050 E11      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      1 RGTR-- 050 E11      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      1 RGTR-- 072 E11      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      1 RGTR-- 072 E11      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      1 RGTR-- 090 E11      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      1 RGTR-- 090 E11      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      2 RGTR-- 020 E11      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      2 RGTR-- 020 E11      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      2 RGTR-- 050 E11      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      2 RGTR-- 050 E11      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      2 RGTR-- 072 E11      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      2 RGTR-- 072 E11      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      2 RGTR-- 090 E11      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 070 D13      2 RGTR-- 090 E11      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 072 E11      1 RGTR-- 070 D13      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 072 E11      1 RGTR-- 070 D13      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 072 E11      2 RGTR-- 070 D13      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 072 E11      2 RGTR-- 070 D13      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 090 E11      1 RGTR-- 070 D13      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 090 E11      1 RGTR-- 070 D13      2 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 090 E11      2 RGTR-- 070 D13      1 001! Hesperange, Urbengsschlass
+200303006 RGTR-- 090 E11      2 RGTR-- 070 D13      2 001! Hesperange, Urbengsschlass
+220903008 RGTR-- 063 609      1 RGTR-- 063 732      1 001! Rodange, Gare routière
+220903008 RGTR-- 063 732      2 RGTR-- 063 609      2 001! Rodange, Gare routière
+150606003 RGTR-- 034 961      1 RGTR-- 063 901      1 001! Redange, Gare
+150606003 RGTR-- 034 961      1 RGTR-- 063 901      2 001! Redange, Gare
+150606003 RGTR-- 034 961      2 RGTR-- 063 901      1 001! Redange, Gare
+150606003 RGTR-- 034 961      2 RGTR-- 063 901      2 001! Redange, Gare
+150606003 RGTR-- 063 901      1 RGTR-- 034 961      1 001! Redange, Gare
+150606003 RGTR-- 063 901      1 RGTR-- 034 961      2 001! Redange, Gare
+150606003 RGTR-- 063 901      2 RGTR-- 034 961      1 001! Redange, Gare
+150606003 RGTR-- 063 901      2 RGTR-- 034 961      2 001! Redange, Gare
+190502003 RGTR-- 034 832      1 RGTR-- 050 M10      1 001! Hobscheid, Schoul
+190502003 RGTR-- 034 832      1 RGTR-- 060 G02      1 001! Hobscheid, Schoul
+190502003 RGTR-- 034 832      1 RGTR-- 072 M10      1 001! Hobscheid, Schoul
+190502003 RGTR-- 034 832      2 RGTR-- 050 M10      1 001! Hobscheid, Schoul
+190502003 RGTR-- 034 832      2 RGTR-- 060 G02      1 001! Hobscheid, Schoul
+190502003 RGTR-- 034 832      2 RGTR-- 072 M10      1 001! Hobscheid, Schoul
+190502003 RGTR-- 050 M10      1 RGTR-- 034 832      1 001! Hobscheid, Schoul
+190502003 RGTR-- 050 M10      1 RGTR-- 034 832      2 001! Hobscheid, Schoul
+190502003 RGTR-- 060 G02      1 RGTR-- 034 832      1 001! Hobscheid, Schoul
+190502003 RGTR-- 060 G02      1 RGTR-- 034 832      2 001! Hobscheid, Schoul
+190502003 RGTR-- 072 M10      1 RGTR-- 034 832      1 001! Hobscheid, Schoul
+190502003 RGTR-- 072 M10      1 RGTR-- 034 832      2 001! Hobscheid, Schoul
+150303002 RGTR-- 050 D26      1 RGTR-- 050 K46      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 050 D26      1 RGTR-- 070 M11      1 001! Ell, Beim Musikssaul
+150303002 RGTR-- 050 D26      1 RGTR-- 070 M11      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 050 K46      1 RGTR-- 050 D26      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 050 K46      1 RGTR-- 063 950      1 001! Ell, Beim Musikssaul
+150303002 RGTR-- 050 K46      1 RGTR-- 063 950      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 063 950      1 RGTR-- 050 K46      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 063 950      1 RGTR-- 070 M11      1 001! Ell, Beim Musikssaul
+150303002 RGTR-- 063 950      1 RGTR-- 070 M11      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 063 950      2 RGTR-- 050 K46      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 063 950      2 RGTR-- 070 M11      1 001! Ell, Beim Musikssaul
+150303002 RGTR-- 063 950      2 RGTR-- 070 M11      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 070 M11      1 RGTR-- 050 D26      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 070 M11      1 RGTR-- 063 950      1 001! Ell, Beim Musikssaul
+150303002 RGTR-- 070 M11      1 RGTR-- 063 950      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 070 M11      2 RGTR-- 050 D26      2 001! Ell, Beim Musikssaul
+150303002 RGTR-- 070 M11      2 RGTR-- 063 950      1 001! Ell, Beim Musikssaul
+150303002 RGTR-- 070 M11      2 RGTR-- 063 950      2 001! Ell, Beim Musikssaul
+161102001 RGTR-- 020 E24      1 RGTR-- 050 D29      1 001! Bour
+161102001 RGTR-- 020 E24      1 RGTR-- 050 D29      2 001! Bour
+161102001 RGTR-- 020 E24      2 RGTR-- 050 D29      1 001! Bour
+161102001 RGTR-- 020 E24      2 RGTR-- 050 D29      2 001! Bour
+161102001 RGTR-- 050 D29      1 RGTR-- 020 E24      1 001! Bour
+161102001 RGTR-- 050 D29      1 RGTR-- 020 E24      2 001! Bour
+161102001 RGTR-- 050 D29      1 RGTR-- 050 E24      1 001! Bour
+161102001 RGTR-- 050 D29      1 RGTR-- 050 E24      2 001! Bour
+161102001 RGTR-- 050 D29      2 RGTR-- 020 E24      1 001! Bour
+161102001 RGTR-- 050 D29      2 RGTR-- 020 E24      2 001! Bour
+161102001 RGTR-- 050 D29      2 RGTR-- 050 E24      1 001! Bour
+161102001 RGTR-- 050 D29      2 RGTR-- 050 E24      2 001! Bour
+161102001 RGTR-- 050 E24      1 RGTR-- 050 D29      1 001! Bour
+161102001 RGTR-- 050 E24      1 RGTR-- 050 D29      2 001! Bour
+161102001 RGTR-- 050 E24      2 RGTR-- 050 D29      1 001! Bour
+161102001 RGTR-- 050 E24      2 RGTR-- 050 D29      2 001! Bour
+180205001 RGTR-- 030 B26      1 RGTR-- 063 B12      1 001! Brouch/Wecker
+180205001 RGTR-- 030 B26      1 RGTR-- 063 B12      2 001! Brouch/Wecker
+180205001 RGTR-- 050 B26      1 RGTR-- 063 B12      1 001! Brouch/Wecker
+180205001 RGTR-- 050 B26      1 RGTR-- 063 B12      2 001! Brouch/Wecker
+180205001 RGTR-- 063 B12      1 RGTR-- 030 B26      2 001! Brouch/Wecker
+180205001 RGTR-- 063 B12      1 RGTR-- 050 B26      2 001! Brouch/Wecker
+180205001 RGTR-- 063 B12      2 RGTR-- 030 B26      2 001! Brouch/Wecker
+180205001 RGTR-- 063 B12      2 RGTR-- 050 B26      2 001! Brouch/Wecker
+180207004 RGTR-- 050 B14      1 RGTR-- 063 274      1 001! Wecker, Gare routière
+180207004 RGTR-- 050 B14      1 RGTR-- 063 274      2 001! Wecker, Gare routière
+180207004 RGTR-- 050 B14      2 RGTR-- 063 274      1 001! Wecker, Gare routière
+180207004 RGTR-- 050 B14      2 RGTR-- 063 274      2 001! Wecker, Gare routière
+180207004 RGTR-- 063 274      1 RGTR-- 050 B14      1 001! Wecker, Gare routière
+180207004 RGTR-- 063 274      1 RGTR-- 050 B14      2 001! Wecker, Gare routière
+180207004 RGTR-- 063 274      1 RGTR-- 063 B12      1 001! Wecker, Gare routière
+180207004 RGTR-- 063 274      1 RGTR-- 063 B12      2 001! Wecker, Gare routière
+180207004 RGTR-- 063 274      2 RGTR-- 050 B14      1 001! Wecker, Gare routière
+180207004 RGTR-- 063 274      2 RGTR-- 050 B14      2 001! Wecker, Gare routière
+180207004 RGTR-- 063 274      2 RGTR-- 063 B12      1 001! Wecker, Gare routière
+180207004 RGTR-- 063 274      2 RGTR-- 063 B12      2 001! Wecker, Gare routière
+180207004 RGTR-- 063 B12      1 RGTR-- 063 274      1 001! Wecker, Gare routière
+180207004 RGTR-- 063 B12      1 RGTR-- 063 274      2 001! Wecker, Gare routière
+180207004 RGTR-- 063 B12      2 RGTR-- 063 274      1 001! Wecker, Gare routière
+180207004 RGTR-- 063 B12      2 RGTR-- 063 274      2 001! Wecker, Gare routière
+170701001 RGTR-- 050 C14      1 RGTR-- 050 C16      1 001! Dickweiler, Duerfplaz
+170701001 RGTR-- 050 C14      2 RGTR-- 050 C16      1 001! Dickweiler, Duerfplaz
+170701001 RGTR-- 050 C16      2 RGTR-- 050 C14      1 001! Dickweiler, Duerfplaz
+170701001 RGTR-- 050 C16      2 RGTR-- 050 C14      2 001! Dickweiler, Duerfplaz
+180603001 RGTR-- 050 B14      1 RGTR-- 050 B17      1 001! Manternach, Gare routière
+180603001 RGTR-- 050 B14      2 RGTR-- 050 B17      1 001! Manternach, Gare routière
+180603001 RGTR-- 050 B17      2 RGTR-- 050 B14      1 001! Manternach, Gare routière
+180603001 RGTR-- 050 B17      2 RGTR-- 050 B14      2 001! Manternach, Gare routière
+180603001 RGTR-- 050 B17      2 RGTR-- 050 B20      2 001! Manternach, Gare routière
+180603001 RGTR-- 050 B17      2 RGTR-- 050 B21      1 001! Manternach, Gare routière
+180603001 RGTR-- 050 B17      2 RGTR-- 050 B21      2 001! Manternach, Gare routière
+180603001 RGTR-- 050 B17      2 RGTR-- 063 B20      2 001! Manternach, Gare routière
+180603001 RGTR-- 050 B17      2 RGTR-- 063 B21      1 001! Manternach, Gare routière
+180603001 RGTR-- 050 B17      2 RGTR-- 063 B21      2 001! Manternach, Gare routière
+180603001 RGTR-- 050 B20      2 RGTR-- 050 B17      1 001! Manternach, Gare routière
+180603001 RGTR-- 050 B21      1 RGTR-- 050 B17      1 001! Manternach, Gare routière
+180603001 RGTR-- 050 B21      2 RGTR-- 050 B17      1 001! Manternach, Gare routière
+180603001 RGTR-- 063 B20      2 RGTR-- 050 B17      1 001! Manternach, Gare routière
+180603001 RGTR-- 063 B21      1 RGTR-- 050 B17      1 001! Manternach, Gare routière
+180603001 RGTR-- 063 B21      2 RGTR-- 050 B17      1 001! Manternach, Gare routière
+110303003 RGTR-- 010 K37      1 RGTR-- 050 K21      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 010 K37      1 RGTR-- 050 K21      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 010 K37      1 RGTR-- 070 K21      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 010 K37      1 RGTR-- 070 K21      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 010 K37      1 RGTR-- 072 170      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 010 K37      1 RGTR-- 072 170      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 034 163      1 RGTR-- 050 P17      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 034 163      1 RGTR-- 050 P17      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 034 163      1 RGTR-- 072 170      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 034 163      1 RGTR-- 072 170      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 034 163      2 RGTR-- 050 P17      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 034 163      2 RGTR-- 050 P17      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 034 163      2 RGTR-- 072 170      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 034 163      2 RGTR-- 072 170      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 A06      1 RGTR-- 072 170      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 A06      1 RGTR-- 072 170      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 A06      2 RGTR-- 072 170      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 A06      2 RGTR-- 072 170      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 K21      1 RGTR-- 010 K37      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 K21      1 RGTR-- 034 K41      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 K21      2 RGTR-- 010 K37      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 K21      2 RGTR-- 034 K41      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 P17      1 RGTR-- 034 163      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 P17      1 RGTR-- 034 163      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 P17      1 RGTR-- 072 170      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 P17      1 RGTR-- 072 170      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 P17      2 RGTR-- 034 163      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 P17      2 RGTR-- 034 163      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 P17      2 RGTR-- 072 170      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 050 P17      2 RGTR-- 072 170      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 070 K21      1 RGTR-- 010 K37      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 070 K21      1 RGTR-- 034 K41      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 070 K21      2 RGTR-- 010 K37      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 070 K21      2 RGTR-- 034 K41      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      1 RGTR-- 010 K37      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      1 RGTR-- 034 163      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      1 RGTR-- 034 163      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      1 RGTR-- 050 A06      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      1 RGTR-- 050 A06      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      1 RGTR-- 050 P17      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      1 RGTR-- 050 P17      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      2 RGTR-- 010 K37      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      2 RGTR-- 034 163      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      2 RGTR-- 034 163      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      2 RGTR-- 050 A06      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      2 RGTR-- 050 A06      2 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      2 RGTR-- 050 P17      1 001! Heinerscheid, Geméin
+110303003 RGTR-- 072 170      2 RGTR-- 050 P17      2 001! Heinerscheid, Geméin
+110502005 RGTR-- 050 P19      1 RGTR-- 072 170      1 001! Marnach, Geschäftszenter
+110502005 RGTR-- 050 P19      1 RGTR-- 072 170      2 001! Marnach, Geschäftszenter
+110502005 RGTR-- 050 P19      2 RGTR-- 072 170      1 001! Marnach, Geschäftszenter
+110502005 RGTR-- 050 P19      2 RGTR-- 072 170      2 001! Marnach, Geschäftszenter
+110502005 RGTR-- 072 170      1 RGTR-- 050 P19      1 001! Marnach, Geschäftszenter
+110502005 RGTR-- 072 170      1 RGTR-- 050 P19      2 001! Marnach, Geschäftszenter
+110502005 RGTR-- 072 170      2 RGTR-- 050 P19      1 001! Marnach, Geschäftszenter
+110502005 RGTR-- 072 170      2 RGTR-- 050 P19      2 001! Marnach, Geschäftszenter
+110403001 RGTR-- 010 A07      1 RGTR-- 050 A01      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 010 A07      1 RGTR-- 050 A01      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 010 A07      1 RGTR-- 050 K20      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 010 A07      1 RGTR-- 050 K20      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 010 A07      1 RGTR-- 072 K20      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 010 A07      1 RGTR-- 072 K20      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 010 K31      1 RGTR-- 072 170      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 010 K31      1 RGTR-- 072 170      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 010 K31      2 RGTR-- 072 170      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 010 K31      2 RGTR-- 072 170      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 020 K44      2 RGTR-- 050 K20      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 020 K44      2 RGTR-- 050 K20      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 020 K44      2 RGTR-- 050 K21      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 020 K44      2 RGTR-- 050 K21      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 020 K44      2 RGTR-- 070 K21      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 020 K44      2 RGTR-- 070 K21      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 020 K44      2 RGTR-- 072 K20      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 020 K44      2 RGTR-- 072 K20      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 030 K44      2 RGTR-- 050 K20      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 030 K44      2 RGTR-- 050 K20      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 030 K44      2 RGTR-- 050 K21      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 030 K44      2 RGTR-- 050 K21      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 030 K44      2 RGTR-- 070 K21      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 030 K44      2 RGTR-- 070 K21      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 030 K44      2 RGTR-- 072 K20      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 030 K44      2 RGTR-- 072 K20      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 A01      1 RGTR-- 010 A07      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 A01      2 RGTR-- 010 A07      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K20      1 RGTR-- 010 A07      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K20      1 RGTR-- 020 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K20      1 RGTR-- 030 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K20      2 RGTR-- 010 A07      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K20      2 RGTR-- 020 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K20      2 RGTR-- 030 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K21      1 RGTR-- 020 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K21      1 RGTR-- 030 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K21      1 RGTR-- 050 A19      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K21      2 RGTR-- 020 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K21      2 RGTR-- 030 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 K21      2 RGTR-- 050 A19      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 P19      1 RGTR-- 072 170      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 P19      1 RGTR-- 072 170      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 P19      2 RGTR-- 072 170      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 050 P19      2 RGTR-- 072 170      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 070 K21      1 RGTR-- 020 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 070 K21      1 RGTR-- 030 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 070 K21      1 RGTR-- 050 A19      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 070 K21      2 RGTR-- 020 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 070 K21      2 RGTR-- 030 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 070 K21      2 RGTR-- 050 A19      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 170      1 RGTR-- 010 K31      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 170      1 RGTR-- 010 K31      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 170      1 RGTR-- 050 P19      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 170      1 RGTR-- 050 P19      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 170      2 RGTR-- 010 K31      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 170      2 RGTR-- 010 K31      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 170      2 RGTR-- 050 P19      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 170      2 RGTR-- 050 P19      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 K20      1 RGTR-- 010 A07      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 K20      1 RGTR-- 020 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 K20      1 RGTR-- 030 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 K20      2 RGTR-- 010 A07      2 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 K20      2 RGTR-- 020 K44      1 001! Hosingen, Eesberwee
+110403001 RGTR-- 072 K20      2 RGTR-- 030 K44      1 001! Hosingen, Eesberwee
+130203002 RGTR-- 020 K24      2 RGTR-- 050 K26      1 001! Brandenbourg, Kapell
+130203002 RGTR-- 020 K24      2 RGTR-- 050 K26      2 001! Brandenbourg, Kapell
+130203002 RGTR-- 020 K24      2 RGTR-- 063 K26      1 001! Brandenbourg, Kapell
+130203002 RGTR-- 020 K24      2 RGTR-- 063 K26      2 001! Brandenbourg, Kapell
+130203002 RGTR-- 050 K26      1 RGTR-- 020 K24      1 001! Brandenbourg, Kapell
+130203002 RGTR-- 050 K26      2 RGTR-- 020 K24      1 001! Brandenbourg, Kapell
+130203002 RGTR-- 063 K26      1 RGTR-- 020 K24      1 001! Brandenbourg, Kapell
+130203002 RGTR-- 063 K26      2 RGTR-- 020 K24      1 001! Brandenbourg, Kapell
+120603002 RGTR-- 010 P01      1 RGTR-- 020 P02      1 001! Kautenbach, Gare routière
+120603002 RGTR-- 010 P01      1 RGTR-- 020 P02      2 001! Kautenbach, Gare routière
+120603002 RGTR-- 020 P01      1 RGTR-- 020 P02      1 001! Kautenbach, Gare routière
+120603002 RGTR-- 020 P01      1 RGTR-- 020 P02      2 001! Kautenbach, Gare routière
+120603002 RGTR-- 020 P02      1 RGTR-- 010 P01      2 001! Kautenbach, Gare routière
+120603002 RGTR-- 020 P02      1 RGTR-- 020 P01      2 001! Kautenbach, Gare routière
+120603002 RGTR-- 020 P02      1 RGTR-- 040 P01      2 001! Kautenbach, Gare routière
+120603002 RGTR-- 020 P02      2 RGTR-- 010 P01      2 001! Kautenbach, Gare routière
+120603002 RGTR-- 020 P02      2 RGTR-- 020 P01      2 001! Kautenbach, Gare routière
+120603002 RGTR-- 020 P02      2 RGTR-- 040 P01      2 001! Kautenbach, Gare routière
+120603002 RGTR-- 040 P01      1 RGTR-- 020 P02      1 001! Kautenbach, Gare routière
+120603002 RGTR-- 040 P01      1 RGTR-- 020 P02      2 001! Kautenbach, Gare routière
+110821002 RGTR-- 010 176      1 RGTR-- 063 161      1 001! Wincrange, Haaptstrooss
+110821002 RGTR-- 010 176      1 RGTR-- 063 161      2 001! Wincrange, Haaptstrooss
+110821002 RGTR-- 010 176      2 RGTR-- 063 161      1 001! Wincrange, Haaptstrooss
+110821002 RGTR-- 010 176      2 RGTR-- 063 161      2 001! Wincrange, Haaptstrooss
+110821002 RGTR-- 063 161      1 RGTR-- 010 176      1 001! Wincrange, Haaptstrooss
+110821002 RGTR-- 063 161      1 RGTR-- 010 176      2 001! Wincrange, Haaptstrooss
+110821002 RGTR-- 063 161      2 RGTR-- 010 176      1 001! Wincrange, Haaptstrooss
+110821002 RGTR-- 063 161      2 RGTR-- 010 176      2 001! Wincrange, Haaptstrooss
+120201002 RGTR-- 020 133      1 RGTR-- 063 131      1 001! Esch-sur-Sûre, An de Gäert
+120201002 RGTR-- 020 133      1 RGTR-- 063 131      2 001! Esch-sur-Sûre, An de Gäert
+120201002 RGTR-- 063 131      1 RGTR-- 020 133      2 001! Esch-sur-Sûre, An de Gäert
+120201002 RGTR-- 063 131      2 RGTR-- 020 133      2 001! Esch-sur-Sûre, An de Gäert
+150605002 RGTR-- 034 121      1 RGTR-- 050 K11      1 001! Ospern, Wäschbur
+150605002 RGTR-- 034 121      1 RGTR-- 050 K11      2 001! Ospern, Wäschbur
+150605002 RGTR-- 034 121      2 RGTR-- 050 K11      1 001! Ospern, Wäschbur
+150605002 RGTR-- 034 121      2 RGTR-- 050 K11      2 001! Ospern, Wäschbur
+150605002 RGTR-- 050 K11      1 RGTR-- 034 121      1 001! Ospern, Wäschbur
+150605002 RGTR-- 050 K11      1 RGTR-- 034 121      2 001! Ospern, Wäschbur
+150605002 RGTR-- 050 K11      2 RGTR-- 034 121      1 001! Ospern, Wäschbur
+150605002 RGTR-- 050 K11      2 RGTR-- 034 121      2 001! Ospern, Wäschbur
+140202001 RGTR-- 034 116      1 RGTR-- 050 K04      1 001! Bleesbréck
+140202001 RGTR-- 034 116      1 RGTR-- 050 K04      2 001! Bleesbréck
+140202001 RGTR-- 034 116      1 RGTR-- 070 K04      1 001! Bleesbréck
+140202001 RGTR-- 034 116      1 RGTR-- 070 K04      2 001! Bleesbréck
+140202001 RGTR-- 034 116      1 RGTR-- 090 B23      1 001! Bleesbréck
+140202001 RGTR-- 034 116      1 RGTR-- 090 B23      2 001! Bleesbréck
+140202001 RGTR-- 034 116      1 RGTR-- 090 K04      1 001! Bleesbréck
+140202001 RGTR-- 034 116      1 RGTR-- 090 K04      2 001! Bleesbréck
+140202001 RGTR-- 034 116      2 RGTR-- 050 K04      1 001! Bleesbréck
+140202001 RGTR-- 034 116      2 RGTR-- 050 K04      2 001! Bleesbréck
+140202001 RGTR-- 034 116      2 RGTR-- 070 K04      1 001! Bleesbréck
+140202001 RGTR-- 034 116      2 RGTR-- 070 K04      2 001! Bleesbréck
+140202001 RGTR-- 034 116      2 RGTR-- 090 B23      1 001! Bleesbréck
+140202001 RGTR-- 034 116      2 RGTR-- 090 B23      2 001! Bleesbréck
+140202001 RGTR-- 034 116      2 RGTR-- 090 K04      1 001! Bleesbréck
+140202001 RGTR-- 034 116      2 RGTR-- 090 K04      2 001! Bleesbréck
+140202001 RGTR-- 050 K04      1 RGTR-- 034 116      1 001! Bleesbréck
+140202001 RGTR-- 050 K04      1 RGTR-- 034 116      2 001! Bleesbréck
+140202001 RGTR-- 050 K04      2 RGTR-- 034 116      1 001! Bleesbréck
+140202001 RGTR-- 050 K04      2 RGTR-- 034 116      2 001! Bleesbréck
+140202001 RGTR-- 070 K04      1 RGTR-- 034 116      1 001! Bleesbréck
+140202001 RGTR-- 070 K04      1 RGTR-- 034 116      2 001! Bleesbréck
+140202001 RGTR-- 070 K04      2 RGTR-- 034 116      1 001! Bleesbréck
+140202001 RGTR-- 070 K04      2 RGTR-- 034 116      2 001! Bleesbréck
+140202001 RGTR-- 090 B23      2 RGTR-- 034 116      1 001! Bleesbréck
+140202001 RGTR-- 090 B23      2 RGTR-- 034 116      2 001! Bleesbréck
+140202001 RGTR-- 090 K04      1 RGTR-- 034 116      1 001! Bleesbréck
+140202001 RGTR-- 090 K04      1 RGTR-- 034 116      2 001! Bleesbréck
+140202001 RGTR-- 090 K04      2 RGTR-- 034 116      1 001! Bleesbréck
+140202001 RGTR-- 090 K04      2 RGTR-- 034 116      2 001! Bleesbréck
+220301034 RGTR-- 060 N02      1 RGTR-- 060 N03      1 001! Dudelange, Lycée Nic Biever
+220301034 RGTR-- 060 N02      1 RGTR-- 060 N03      2 001! Dudelange, Lycée Nic Biever
+220301034 RGTR-- 060 N03      1 RGTR-- 060 N02      2 001! Dudelange, Lycée Nic Biever
+220301034 RGTR-- 060 N03      2 RGTR-- 060 N02      2 001! Dudelange, Lycée Nic Biever
+190403001 RGTR-- 034 831      1 RGTR-- 060 D24      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      1 RGTR-- 060 D24      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      1 RGTR-- 060 E18      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      1 RGTR-- 060 E18      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      1 RGTR-- 063 E18      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      1 RGTR-- 063 E18      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      1 RGTR-- 070 D24      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      1 RGTR-- 070 D24      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      1 RGTR-- 072 D24      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      1 RGTR-- 072 D24      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 060 D24      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 060 D24      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 060 E18      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 060 E18      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 063 E18      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 063 E18      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 070 D24      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 070 D24      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 072 D24      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 034 831      2 RGTR-- 072 D24      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 060 D24      1 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 060 D24      1 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 060 D24      2 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 060 D24      2 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 060 E18      1 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 060 E18      1 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 060 E18      2 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 060 E18      2 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 063 E18      1 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 063 E18      1 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 063 E18      2 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 063 E18      2 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 070 D24      1 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 070 D24      1 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 070 D24      2 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 070 D24      2 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 072 D24      1 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 072 D24      1 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+190403001 RGTR-- 072 D24      2 RGTR-- 034 831      1 001! Hivange, Areler Strooss
+190403001 RGTR-- 072 D24      2 RGTR-- 034 831      2 001! Hivange, Areler Strooss
+180401003 RGTR-- 050 331      1 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 331      1 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 332      1 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 332      1 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B08      1 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B08      1 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B08      1 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B08      1 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B08      2 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B08      2 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B08      2 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B08      2 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B10      1 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B10      1 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B10      2 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B10      2 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B18      2 RGTR-- 050 B10      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B18      2 RGTR-- 050 B10      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B18      2 RGTR-- 063 B10      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B18      2 RGTR-- 063 B10      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B18      2 RGTR-- 070 B10      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 050 B18      2 RGTR-- 070 B10      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B08      1 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B08      1 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B08      1 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B08      1 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B08      2 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B08      2 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B08      2 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B08      2 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B10      1 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B10      1 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B10      2 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 063 B10      2 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B08      1 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B08      1 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B08      1 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B08      1 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B08      2 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B08      2 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B08      2 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B08      2 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B10      1 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B10      1 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B10      2 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B10      2 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B18      2 RGTR-- 050 B10      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B18      2 RGTR-- 050 B10      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B18      2 RGTR-- 063 B10      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B18      2 RGTR-- 063 B10      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B18      2 RGTR-- 070 B10      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 070 B18      2 RGTR-- 070 B10      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 050 331      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 050 332      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 050 B08      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 050 B08      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 063 B08      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 063 B08      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 070 B08      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 070 B08      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 072 B08      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- 072 B08      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      1 RGTR-- RGB 271      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 050 331      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 050 332      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 050 B08      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 050 B08      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 063 B08      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 063 B08      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 070 B08      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 070 B08      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 072 B08      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- 072 B08      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 311      2 RGTR-- RGB 271      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 B08      1 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 B08      1 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 B08      1 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 B08      1 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 B08      2 RGTR-- 050 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 B08      2 RGTR-- 070 B18      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 B08      2 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- 072 B08      2 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180401003 RGTR-- RGB 271      2 RGTR-- 072 311      1 001! Grevenmacher, Gare routière
+180401003 RGTR-- RGB 271      2 RGTR-- 072 311      2 001! Grevenmacher, Gare routière
+180106001 RGTR-- 050 B01      2 RGTR-- 050 B11      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B01      2 RGTR-- 050 B11      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B01      2 RGTR-- 060 B11      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B01      2 RGTR-- 060 B11      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B01      2 RGTR-- 063 B11      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B01      2 RGTR-- 063 B11      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B01      2 RGTR-- 064 326      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B01      2 RGTR-- 064 326      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B11      1 RGTR-- 050 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B11      1 RGTR-- 063 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B11      2 RGTR-- 050 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 B11      2 RGTR-- 063 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 H05      1 RGTR-- 072 311      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 H05      1 RGTR-- 072 311      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 H05      2 RGTR-- 072 311      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 050 H05      2 RGTR-- 072 311      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 060 B11      1 RGTR-- 050 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 060 B11      1 RGTR-- 063 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 060 B11      2 RGTR-- 050 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 060 B11      2 RGTR-- 063 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B01      2 RGTR-- 050 B11      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B01      2 RGTR-- 050 B11      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B01      2 RGTR-- 060 B11      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B01      2 RGTR-- 060 B11      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B01      2 RGTR-- 063 B11      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B01      2 RGTR-- 063 B11      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B01      2 RGTR-- 064 326      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B01      2 RGTR-- 064 326      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B11      1 RGTR-- 050 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B11      1 RGTR-- 063 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B11      2 RGTR-- 050 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 063 B11      2 RGTR-- 063 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 064 326      1 RGTR-- 050 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 064 326      1 RGTR-- 063 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 064 326      2 RGTR-- 050 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 064 326      2 RGTR-- 063 B01      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 072 311      1 RGTR-- 050 H05      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 072 311      1 RGTR-- 050 H05      2 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 072 311      2 RGTR-- 050 H05      1 001! Roodt-sur-Syre, Barriär
+180106001 RGTR-- 072 311      2 RGTR-- 050 H05      2 001! Roodt-sur-Syre, Barriär
+170202003 RGTR-- 050 B17      1 RGTR-- 050 E02      2 001! Bech, Béiwerwiss
+170202003 RGTR-- 050 B17      1 RGTR-- 063 E02      2 001! Bech, Béiwerwiss
+170202003 RGTR-- 050 B17      2 RGTR-- 050 E02      2 001! Bech, Béiwerwiss
+170202003 RGTR-- 050 B17      2 RGTR-- 063 E02      2 001! Bech, Béiwerwiss
+170202003 RGTR-- 050 E02      2 RGTR-- 050 B17      1 001! Bech, Béiwerwiss
+170202003 RGTR-- 050 E02      2 RGTR-- 050 B17      2 001! Bech, Béiwerwiss
+170202003 RGTR-- 063 E02      2 RGTR-- 050 B17      1 001! Bech, Béiwerwiss
+170202003 RGTR-- 063 E02      2 RGTR-- 050 B17      2 001! Bech, Béiwerwiss
+210503003 RGTR-- 020 E11      1 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 050 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 050 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 072 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 072 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 090 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 090 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      1 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 050 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 050 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 072 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 072 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 090 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 090 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 020 E11      2 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 034 432      1 RGTR-- 063 413      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 034 432      1 RGTR-- 063 413      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 034 432      1 RGTR-- 072 412      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 034 432      1 RGTR-- 072 412      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 034 432      2 RGTR-- 063 413      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 034 432      2 RGTR-- 063 413      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 034 432      2 RGTR-- 072 412      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 034 432      2 RGTR-- 072 412      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      1 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      1 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      1 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      1 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      1 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      1 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      1 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      1 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      2 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      2 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      2 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      2 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      2 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      2 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      2 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 D11      2 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 050 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 050 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 072 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 072 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 090 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 090 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      1 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 050 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 050 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 072 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 072 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 090 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 090 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 050 E11      2 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 063 413      1 RGTR-- 034 432      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 063 413      1 RGTR-- 034 432      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 063 413      2 RGTR-- 034 432      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 063 413      2 RGTR-- 034 432      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 412      1 RGTR-- 034 432      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 412      1 RGTR-- 034 432      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 412      2 RGTR-- 034 432      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 412      2 RGTR-- 034 432      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      1 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      1 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      1 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      1 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      1 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      1 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      1 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      1 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      2 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      2 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      2 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      2 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      2 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      2 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      2 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 D11      2 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 050 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 050 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 072 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 072 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 090 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 090 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      1 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 050 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 050 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 072 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 072 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 090 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 090 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 072 E11      2 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      1 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      1 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      1 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      1 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      1 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      1 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      1 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      1 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      2 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      2 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      2 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      2 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      2 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      2 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      2 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 D11      2 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 050 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 050 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 072 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 072 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 090 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 090 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      1 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 020 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 020 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 050 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 050 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 050 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 050 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 072 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 072 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 072 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 072 E11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 090 D11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 090 D11      2 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 090 E11      1 001! Mondorf-les-Bains, Christophorus
+210503003 RGTR-- 090 E11      2 RGTR-- 090 E11      2 001! Mondorf-les-Bains, Christophorus
+120606001 RGTR-- 010 A04      2 RGTR-- 050 P20      1 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 010 A04      2 RGTR-- 050 P20      2 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 030 A04      2 RGTR-- 050 P20      1 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 030 A04      2 RGTR-- 050 P20      2 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 050 A04      2 RGTR-- 050 P20      1 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 050 A04      2 RGTR-- 050 P20      2 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 050 P20      1 RGTR-- 010 A04      1 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 050 P20      1 RGTR-- 030 A04      1 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 050 P20      1 RGTR-- 050 A04      1 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 050 P20      2 RGTR-- 010 A04      1 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 050 P20      2 RGTR-- 030 A04      1 001! Wilwerwiltz, Gare routière
+120606001 RGTR-- 050 P20      2 RGTR-- 050 A04      1 001! Wilwerwiltz, Gare routière
+220102011 RGTR-- 034 632      1 RGTR-- 060 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      1 RGTR-- 060 N01      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      1 RGTR-- 060 N02      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      1 RGTR-- 060 N02      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      1 RGTR-- 090 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      1 RGTR-- 090 N01      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      2 RGTR-- 060 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      2 RGTR-- 060 N01      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      2 RGTR-- 060 N02      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      2 RGTR-- 060 N02      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      2 RGTR-- 090 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 034 632      2 RGTR-- 090 N01      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 D15      2 RGTR-- 060 N02      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 D15      2 RGTR-- 060 N02      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 D15      2 RGTR-- 064 641      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 D15      2 RGTR-- 064 641      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N01      1 RGTR-- 034 632      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N01      1 RGTR-- 034 632      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N01      2 RGTR-- 034 632      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N01      2 RGTR-- 034 632      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      1 RGTR-- 034 632      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      1 RGTR-- 034 632      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      1 RGTR-- 060 D15      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      1 RGTR-- 060 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      1 RGTR-- 090 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      2 RGTR-- 034 632      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      2 RGTR-- 034 632      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      2 RGTR-- 060 D15      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      2 RGTR-- 060 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 060 N02      2 RGTR-- 090 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 064 641      1 RGTR-- 060 D15      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 064 641      1 RGTR-- 060 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 064 641      1 RGTR-- 090 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 064 641      2 RGTR-- 060 D15      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 064 641      2 RGTR-- 060 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 064 641      2 RGTR-- 090 N01      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 090 N01      1 RGTR-- 034 632      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 090 N01      1 RGTR-- 034 632      2 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 090 N01      2 RGTR-- 034 632      1 001! Bettembourg, Rousegärtchen
+220102011 RGTR-- 090 N01      2 RGTR-- 034 632      2 001! Bettembourg, Rousegärtchen
+150512006 RGTR-- 034 120      1 RGTR-- 050 K15      1 001! Rambrouch, Gare
+150512006 RGTR-- 034 120      1 RGTR-- 050 K15      2 001! Rambrouch, Gare
+150512006 RGTR-- 034 120      1 RGTR-- 063 K15      1 001! Rambrouch, Gare
+150512006 RGTR-- 034 120      1 RGTR-- 063 K15      2 001! Rambrouch, Gare
+150512006 RGTR-- 034 120      2 RGTR-- 050 K15      1 001! Rambrouch, Gare
+150512006 RGTR-- 034 120      2 RGTR-- 050 K15      2 001! Rambrouch, Gare
+150512006 RGTR-- 034 120      2 RGTR-- 063 K15      1 001! Rambrouch, Gare
+150512006 RGTR-- 034 120      2 RGTR-- 063 K15      2 001! Rambrouch, Gare
+150512006 RGTR-- 034 121      1 RGTR-- 050 K15      1 001! Rambrouch, Gare
+150512006 RGTR-- 034 121      1 RGTR-- 050 K15      2 001! Rambrouch, Gare
+150512006 RGTR-- 034 121      1 RGTR-- 063 902      1 000! Rambrouch, Gare
+150512006 RGTR-- 034 121      1 RGTR-- 063 902      2 000! Rambrouch, Gare
+150512006 RGTR-- 034 121      1 RGTR-- 063 K15      1 001! Rambrouch, Gare
+150512006 RGTR-- 034 121      1 RGTR-- 063 K15      2 001! Rambrouch, Gare
+150512006 RGTR-- 034 121      2 RGTR-- 050 K15      1 001! Rambrouch, Gare
+150512006 RGTR-- 034 121      2 RGTR-- 050 K15      2 001! Rambrouch, Gare
+150512006 RGTR-- 034 121      2 RGTR-- 063 902      1 000! Rambrouch, Gare
+150512006 RGTR-- 034 121      2 RGTR-- 063 902      2 000! Rambrouch, Gare
+150512006 RGTR-- 034 121      2 RGTR-- 063 K15      1 001! Rambrouch, Gare
+150512006 RGTR-- 034 121      2 RGTR-- 063 K15      2 001! Rambrouch, Gare
+150512006 RGTR-- 050 K15      1 RGTR-- 034 120      1 001! Rambrouch, Gare
+150512006 RGTR-- 050 K15      1 RGTR-- 034 120      2 001! Rambrouch, Gare
+150512006 RGTR-- 050 K15      1 RGTR-- 034 121      1 001! Rambrouch, Gare
+150512006 RGTR-- 050 K15      1 RGTR-- 034 121      2 001! Rambrouch, Gare
+150512006 RGTR-- 050 K15      2 RGTR-- 034 120      1 001! Rambrouch, Gare
+150512006 RGTR-- 050 K15      2 RGTR-- 034 120      2 001! Rambrouch, Gare
+150512006 RGTR-- 050 K15      2 RGTR-- 034 121      1 001! Rambrouch, Gare
+150512006 RGTR-- 050 K15      2 RGTR-- 034 121      2 001! Rambrouch, Gare
+150512006 RGTR-- 063 902      1 RGTR-- 034 121      1 000! Rambrouch, Gare
+150512006 RGTR-- 063 902      1 RGTR-- 034 121      2 000! Rambrouch, Gare
+150512006 RGTR-- 063 902      2 RGTR-- 034 121      1 000! Rambrouch, Gare
+150512006 RGTR-- 063 902      2 RGTR-- 034 121      2 000! Rambrouch, Gare
+150512006 RGTR-- 063 K15      1 RGTR-- 034 120      1 001! Rambrouch, Gare
+150512006 RGTR-- 063 K15      1 RGTR-- 034 120      2 001! Rambrouch, Gare
+150512006 RGTR-- 063 K15      1 RGTR-- 034 121      1 001! Rambrouch, Gare
+150512006 RGTR-- 063 K15      1 RGTR-- 034 121      2 001! Rambrouch, Gare
+150512006 RGTR-- 063 K15      2 RGTR-- 034 120      1 001! Rambrouch, Gare
+150512006 RGTR-- 063 K15      2 RGTR-- 034 120      2 001! Rambrouch, Gare
+150512006 RGTR-- 063 K15      2 RGTR-- 034 121      1 001! Rambrouch, Gare
+150512006 RGTR-- 063 K15      2 RGTR-- 034 121      2 001! Rambrouch, Gare
+150512006 RGTR-- 063 M13      1 RGTR-- 063 M18      1 001! Rambrouch, Gare
+150512006 RGTR-- 063 M13      2 RGTR-- 063 M18      1 001! Rambrouch, Gare
+150512006 RGTR-- 063 M18      2 RGTR-- 063 M13      1 001! Rambrouch, Gare
+150512006 RGTR-- 063 M18      2 RGTR-- 063 M13      2 001! Rambrouch, Gare
+150512006 RGTR-- 063 M18      2 RGTR-- 072 M13      1 001! Rambrouch, Gare
+150512006 RGTR-- 063 M18      2 RGTR-- 072 M13      2 001! Rambrouch, Gare
+150512006 RGTR-- 072 M13      1 RGTR-- 063 M18      1 001! Rambrouch, Gare
+150512006 RGTR-- 072 M13      2 RGTR-- 063 M18      1 001! Rambrouch, Gare
+180802007 RGTR-- 050 B04      1 RGTR-- 050 B03      1 001! Ehnen, Puddel
+180802007 RGTR-- 050 D06      1 RGTR-- 050 362      1 001! Ehnen, Puddel
+180802007 RGTR-- 050 E07      1 RGTR-- 050 362      1 001! Ehnen, Puddel
+180802007 RGTR-- 070 D06      1 RGTR-- 050 362      1 001! Ehnen, Puddel
+180802007 RGTR-- 070 E07      1 RGTR-- 050 362      1 001! Ehnen, Puddel
+180802007 RGTR-- 072 421      1 RGTR-- 050 362      1 001! Ehnen, Puddel
+180802007 RGTR-- 072 E07      1 RGTR-- 050 362      1 001! Ehnen, Puddel
+180802007 RGTR-- 090 E07      1 RGTR-- 050 362      1 001! Ehnen, Puddel
+180802007 RGTR-- 130 E07      1 RGTR-- 050 362      1 001! Ehnen, Puddel
+160501006 RGTR-- 034 234      1 RGTR-- 050 E01      1 001! Heffingen, Abri (Centre)
+160501006 RGTR-- 034 234      1 RGTR-- 050 E01      2 001! Heffingen, Abri (Centre)
+160501006 RGTR-- 050 E01      1 RGTR-- 034 234      2 001! Heffingen, Abri (Centre)
+160501006 RGTR-- 050 E01      2 RGTR-- 034 234      2 001! Heffingen, Abri (Centre)
+170501016 RGTR-- 050 B18      1 RGTR-- 050 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 B18      1 RGTR-- 070 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 B18      1 RGTR-- 090 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 B19      1 RGTR-- 050 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 B19      1 RGTR-- 070 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 B19      1 RGTR-- 090 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 B19      1 RGTR-- RGB 190      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 E02      1 RGTR-- 050 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 E02      1 RGTR-- 070 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 E02      1 RGTR-- 090 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 E02      1 RGTR-- RGB 271      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 K04      1 RGTR-- 050 B18      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 K04      1 RGTR-- 050 B19      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 K04      1 RGTR-- 050 E02      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 K04      1 RGTR-- 063 274      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 K04      1 RGTR-- 063 B19      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 K04      1 RGTR-- 063 E02      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 K04      1 RGTR-- 070 B18      2 001! Echternach, Gare Centre
+170501016 RGTR-- 050 K04      1 RGTR-- RGB 271      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 274      1 RGTR-- 050 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 274      1 RGTR-- 070 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 274      1 RGTR-- 090 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 B19      1 RGTR-- 050 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 B19      1 RGTR-- 070 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 B19      1 RGTR-- 090 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 B19      1 RGTR-- RGB 190      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 E02      1 RGTR-- 050 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 E02      1 RGTR-- 070 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 E02      1 RGTR-- 090 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 063 E02      1 RGTR-- RGB 271      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 B18      1 RGTR-- 050 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 B18      1 RGTR-- 070 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 B18      1 RGTR-- 090 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 K04      1 RGTR-- 050 B18      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 K04      1 RGTR-- 050 B19      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 K04      1 RGTR-- 050 E02      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 K04      1 RGTR-- 063 274      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 K04      1 RGTR-- 063 B19      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 K04      1 RGTR-- 063 E02      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 K04      1 RGTR-- 070 B18      2 001! Echternach, Gare Centre
+170501016 RGTR-- 070 K04      1 RGTR-- RGB 271      2 001! Echternach, Gare Centre
+170501016 RGTR-- 090 K04      1 RGTR-- 050 B18      2 001! Echternach, Gare Centre
+170501016 RGTR-- 090 K04      1 RGTR-- 050 B19      2 001! Echternach, Gare Centre
+170501016 RGTR-- 090 K04      1 RGTR-- 050 E02      2 001! Echternach, Gare Centre
+170501016 RGTR-- 090 K04      1 RGTR-- 063 274      2 001! Echternach, Gare Centre
+170501016 RGTR-- 090 K04      1 RGTR-- 063 B19      2 001! Echternach, Gare Centre
+170501016 RGTR-- 090 K04      1 RGTR-- 063 E02      2 001! Echternach, Gare Centre
+170501016 RGTR-- 090 K04      1 RGTR-- 070 B18      2 001! Echternach, Gare Centre
+170501016 RGTR-- 090 K04      1 RGTR-- RGB 271      2 001! Echternach, Gare Centre
+170501016 RGTR-- RGB 190      1 RGTR-- 050 B19      2 001! Echternach, Gare Centre
+170501016 RGTR-- RGB 190      1 RGTR-- 063 B19      2 001! Echternach, Gare Centre
+170501016 RGTR-- RGB 190      1 RGTR-- RGB 201      2 001! Echternach, Gare Centre
+170501016 RGTR-- RGB 201      1 RGTR-- RGB 190      2 001! Echternach, Gare Centre
+170501016 RGTR-- RGB 271      1 RGTR-- 050 E02      2 001! Echternach, Gare Centre
+170501016 RGTR-- RGB 271      1 RGTR-- 050 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- RGB 271      1 RGTR-- 063 E02      2 001! Echternach, Gare Centre
+170501016 RGTR-- RGB 271      1 RGTR-- 070 K04      2 001! Echternach, Gare Centre
+170501016 RGTR-- RGB 271      1 RGTR-- 090 K04      2 001! Echternach, Gare Centre
+110706015 RGTR-- 050 P13      2 RGTR-- 072 170      2 001! Weiswampach, Kiämmel
+110706015 RGTR-- 072 170      2 RGTR-- 050 P13      2 001! Weiswampach, Kiämmel
+110706015 RGTR-- 072 170      2 RGTR-- 072 P13      2 001! Weiswampach, Kiämmel
+110706015 RGTR-- 072 P13      2 RGTR-- 072 170      2 001! Weiswampach, Kiämmel

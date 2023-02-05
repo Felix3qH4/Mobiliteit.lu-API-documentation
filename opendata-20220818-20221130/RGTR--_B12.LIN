@@ -1,0 +1,196 @@
+*F 03 2
+*Z 18088 RGTR--                                             % 18088 RGTR--
+*L B12      180401003 180204001  01403  01434               % 18088 RGTR--
+*A cj 180401003 180204001 000042  01403  01434              % 18088 RGTR--
+*A ad 180401003 180204001 000042  01403  01434              % 18088 RGTR--
+*R 1 180204001 180401003 180204001  01403  01434            % 18088 RGTR--
+*G 063 180401003 180204001  01403  01434                    % 18088 RGTR--
+*A VE 180401003 180204001 000042  01403  01434              % 18088 RGTR--
+*I FD 180401003 180204001        0002093  01403  01434      % 18088 RGTR--
+180401003 Grevenmacher, Gare r         01403                % 18088 RGTR--
+180401006 Grevenmacher, Schoul  01404  01404                % 18088 RGTR--
+180401008 Grevenmacher, Tanneu  01405  01405                % 18088 RGTR--
+180401001 Grevenmacher, Copal   01407  01407                % 18088 RGTR--
+180401007 Grevenmacher, Seiden  01408  01408                % 18088 RGTR--
+180402001 Potaschbierg          01409  01409                % 18088 RGTR--
+180402002 Potaschbierg, Z.I.    01410  01410                % 18088 RGTR--
+180207002 Wecker, Coboulux      01413  01413                % 18088 RGTR--
+180207003 Wecker, Eglise        01413  01413                % 18088 RGTR--
+180207004 Wecker, Gare routièr  01415  01415                % 18088 RGTR--
+180201001 Wecker, Grousswiss    01416  01416                % 18088 RGTR--
+180201002 Biwer, Haaptstrooss   01417  01417                % 18088 RGTR--
+180201004 Biwer, Mairie         01418  01418                % 18088 RGTR--
+180201003 Biwer, Klosmillen     01420  01420                % 18088 RGTR--
+180203001 Boudlerbach, Boudler  01421  01421                % 18088 RGTR--
+180202001 Boudler               01422  01422                % 18088 RGTR--
+180205001 Brouch/Wecker         01423  01423                % 18088 RGTR--
+180506001 Eschweiler/Junglinst  01427  01427                % 18088 RGTR--
+180502001 Beidweiler, Am Duerf  01430  01430                % 18088 RGTR--
+180208001 Weidig                01432  01432                % 18088 RGTR--
+180204002 Breinertknupp         01433  01433                % 18088 RGTR--
+180204001 Breinert              01434                       % 18088 RGTR--
+*Z 00379 RGTR--                                             % 00379 RGTR--
+*L B12      180204001 180401003  00648  00722               % 00379 RGTR--
+*A cj 180204001 180401003 000015  00648  00722              % 00379 RGTR--
+*A KO 180204001 180401003 000015  00648  00722              % 00379 RGTR--
+*A DL 180204001 180401003 000015  00648  00722              % 00379 RGTR--
+*A OX 180204001 180401003 000015  00648  00722              % 00379 RGTR--
+*A ad 180204001 180401003 000015  00648  00722              % 00379 RGTR--
+*R 2 180401003 180204001 180401003  00648  00722            % 00379 RGTR--
+*G 063 180204001 180401003  00648  00722                    % 00379 RGTR--
+*A VE 180204001 180401003 000015  00648  00722              % 00379 RGTR--
+*I FD 180204001 180401003        0002527  00648  00722      % 00379 RGTR--
+180204001 Breinert                     00648                % 00379 RGTR--
+180204002 Breinertknupp         00649  00649                % 00379 RGTR--
+180208001 Weidig                00651  00651                % 00379 RGTR--
+180502001 Beidweiler, Am Duerf  00654  00654                % 00379 RGTR--
+180506001 Eschweiler/Junglinst  00657  00657                % 00379 RGTR--
+180205001 Brouch/Wecker         00700  00700                % 00379 RGTR--
+180202001 Boudler               00702  00702                % 00379 RGTR--
+180203001 Boudlerbach, Boudler  00702  00702                % 00379 RGTR--
+180201003 Biwer, Klosmillen     00703  00703                % 00379 RGTR--
+180201004 Biwer, Mairie         00706  00706                % 00379 RGTR--
+180201002 Biwer, Haaptstrooss   00707  00707                % 00379 RGTR--
+180201001 Wecker, Grousswiss    00708  00708                % 00379 RGTR--
+180207004 Wecker, Gare routièr  00710  00710                % 00379 RGTR--
+180207003 Wecker, Eglise        00711  00711                % 00379 RGTR--
+180207002 Wecker, Coboulux      00711  00711                % 00379 RGTR--
+180402002 Potaschbierg, Z.I.    00714  00714                % 00379 RGTR--
+180402001 Potaschbierg          00715  00715                % 00379 RGTR--
+180401007 Grevenmacher, Seiden  00716  00716                % 00379 RGTR--
+180401001 Grevenmacher, Copal   00717  00717                % 00379 RGTR--
+180401008 Grevenmacher, Tanneu  00719  00719                % 00379 RGTR--
+180401006 Grevenmacher, Schoul  00720  00720                % 00379 RGTR--
+180401003 Grevenmacher, Gare r  00722                       % 00379 RGTR--
+*Z 00377 RGTR--                                             % 00377 RGTR--
+*L B12      180204001 180401003  00648  00722               % 00377 RGTR--
+*A cj 180204001 180401003 000009  00648  00722              % 00377 RGTR--
+*A KO 180204001 180401003 000009  00648  00722              % 00377 RGTR--
+*A DL 180204001 180401003 000009  00648  00722              % 00377 RGTR--
+*A OX 180204001 180401003 000009  00648  00722              % 00377 RGTR--
+*A ad 180204001 180401003 000009  00648  00722              % 00377 RGTR--
+*R 2 180401003 180204001 180401003  00648  00722            % 00377 RGTR--
+*G 063 180204001 180401003  00648  00722                    % 00377 RGTR--
+*A VE 180204001 180401003 000009  00648  00722              % 00377 RGTR--
+*I FD 180204001 180401003        0002527  00648  00722      % 00377 RGTR--
+180204001 Breinert                     00648                % 00377 RGTR--
+180204002 Breinertknupp         00649  00649                % 00377 RGTR--
+180208001 Weidig                00651  00651                % 00377 RGTR--
+180502001 Beidweiler, Am Duerf  00654  00654                % 00377 RGTR--
+180506001 Eschweiler/Junglinst  00657  00657                % 00377 RGTR--
+180205001 Brouch/Wecker         00700  00700                % 00377 RGTR--
+180202001 Boudler               00702  00702                % 00377 RGTR--
+180203001 Boudlerbach, Boudler  00702  00702                % 00377 RGTR--
+180201003 Biwer, Klosmillen     00703  00703                % 00377 RGTR--
+180201004 Biwer, Mairie         00706  00706                % 00377 RGTR--
+180201002 Biwer, Haaptstrooss   00707  00707                % 00377 RGTR--
+180201001 Wecker, Grousswiss    00708  00708                % 00377 RGTR--
+180207004 Wecker, Gare routièr  00710  00710                % 00377 RGTR--
+180207003 Wecker, Eglise        00711  00711                % 00377 RGTR--
+180207002 Wecker, Coboulux      00711  00711                % 00377 RGTR--
+180402002 Potaschbierg, Z.I.    00714  00714                % 00377 RGTR--
+180402001 Potaschbierg          00715  00715                % 00377 RGTR--
+180401007 Grevenmacher, Seiden  00716  00716                % 00377 RGTR--
+180401001 Grevenmacher, Copal   00717  00717                % 00377 RGTR--
+180401008 Grevenmacher, Tanneu  00719  00719                % 00377 RGTR--
+180401006 Grevenmacher, Schoul  00720  00720                % 00377 RGTR--
+180401003 Grevenmacher, Gare r  00722                       % 00377 RGTR--
+*Z 00375 RGTR--                                             % 00375 RGTR--
+*L B12      180204001 180401003  00648  00722               % 00375 RGTR--
+*A cj 180204001 180401003 000013  00648  00722              % 00375 RGTR--
+*A KO 180204001 180401003 000013  00648  00722              % 00375 RGTR--
+*A DL 180204001 180401003 000013  00648  00722              % 00375 RGTR--
+*A OX 180204001 180401003 000013  00648  00722              % 00375 RGTR--
+*A ad 180204001 180401003 000013  00648  00722              % 00375 RGTR--
+*R 2 180401003 180204001 180401003  00648  00722            % 00375 RGTR--
+*G 063 180204001 180401003  00648  00722                    % 00375 RGTR--
+*A VE 180204001 180401003 000013  00648  00722              % 00375 RGTR--
+*I FD 180204001 180401003        0002527  00648  00722      % 00375 RGTR--
+180204001 Breinert                     00648                % 00375 RGTR--
+180204002 Breinertknupp         00649  00649                % 00375 RGTR--
+180208001 Weidig                00651  00651                % 00375 RGTR--
+180502001 Beidweiler, Am Duerf  00654  00654                % 00375 RGTR--
+180506001 Eschweiler/Junglinst  00657  00657                % 00375 RGTR--
+180205001 Brouch/Wecker         00700  00700                % 00375 RGTR--
+180202001 Boudler               00702  00702                % 00375 RGTR--
+180203001 Boudlerbach, Boudler  00702  00702                % 00375 RGTR--
+180201003 Biwer, Klosmillen     00703  00703                % 00375 RGTR--
+180201004 Biwer, Mairie         00706  00706                % 00375 RGTR--
+180201002 Biwer, Haaptstrooss   00707  00707                % 00375 RGTR--
+180201001 Wecker, Grousswiss    00708  00708                % 00375 RGTR--
+180207004 Wecker, Gare routièr  00710  00710                % 00375 RGTR--
+180207003 Wecker, Eglise        00711  00711                % 00375 RGTR--
+180207002 Wecker, Coboulux      00711  00711                % 00375 RGTR--
+180402002 Potaschbierg, Z.I.    00714  00714                % 00375 RGTR--
+180402001 Potaschbierg          00715  00715                % 00375 RGTR--
+180401007 Grevenmacher, Seiden  00716  00716                % 00375 RGTR--
+180401001 Grevenmacher, Copal   00717  00717                % 00375 RGTR--
+180401008 Grevenmacher, Tanneu  00719  00719                % 00375 RGTR--
+180401006 Grevenmacher, Schoul  00720  00720                % 00375 RGTR--
+180401003 Grevenmacher, Gare r  00722                       % 00375 RGTR--
+*Z 00373 RGTR--                                             % 00373 RGTR--
+*L B12      180204001 180401003  00648  00722               % 00373 RGTR--
+*A cj 180204001 180401003 000007  00648  00722              % 00373 RGTR--
+*A KO 180204001 180401003 000007  00648  00722              % 00373 RGTR--
+*A DL 180204001 180401003 000007  00648  00722              % 00373 RGTR--
+*A OX 180204001 180401003 000007  00648  00722              % 00373 RGTR--
+*A ad 180204001 180401003 000007  00648  00722              % 00373 RGTR--
+*R 2 180401003 180204001 180401003  00648  00722            % 00373 RGTR--
+*G 063 180204001 180401003  00648  00722                    % 00373 RGTR--
+*A VE 180204001 180401003 000007  00648  00722              % 00373 RGTR--
+*I FD 180204001 180401003        0002527  00648  00722      % 00373 RGTR--
+180204001 Breinert                     00648                % 00373 RGTR--
+180204002 Breinertknupp         00649  00649                % 00373 RGTR--
+180208001 Weidig                00651  00651                % 00373 RGTR--
+180502001 Beidweiler, Am Duerf  00654  00654                % 00373 RGTR--
+180506001 Eschweiler/Junglinst  00657  00657                % 00373 RGTR--
+180205001 Brouch/Wecker         00700  00700                % 00373 RGTR--
+180202001 Boudler               00702  00702                % 00373 RGTR--
+180203001 Boudlerbach, Boudler  00702  00702                % 00373 RGTR--
+180201003 Biwer, Klosmillen     00703  00703                % 00373 RGTR--
+180201004 Biwer, Mairie         00706  00706                % 00373 RGTR--
+180201002 Biwer, Haaptstrooss   00707  00707                % 00373 RGTR--
+180201001 Wecker, Grousswiss    00708  00708                % 00373 RGTR--
+180207004 Wecker, Gare routièr  00710  00710                % 00373 RGTR--
+180207003 Wecker, Eglise        00711  00711                % 00373 RGTR--
+180207002 Wecker, Coboulux      00711  00711                % 00373 RGTR--
+180402002 Potaschbierg, Z.I.    00714  00714                % 00373 RGTR--
+180402001 Potaschbierg          00715  00715                % 00373 RGTR--
+180401007 Grevenmacher, Seiden  00716  00716                % 00373 RGTR--
+180401001 Grevenmacher, Copal   00717  00717                % 00373 RGTR--
+180401008 Grevenmacher, Tanneu  00719  00719                % 00373 RGTR--
+180401006 Grevenmacher, Schoul  00720  00720                % 00373 RGTR--
+180401003 Grevenmacher, Gare r  00722                       % 00373 RGTR--
+*Z 00381 RGTR--                                             % 00381 RGTR--
+*L B12      180204001 180401003  00648  00722               % 00381 RGTR--
+*A cj 180204001 180401003 000011  00648  00722              % 00381 RGTR--
+*A KO 180204001 180401003 000011  00648  00722              % 00381 RGTR--
+*A DL 180204001 180401003 000011  00648  00722              % 00381 RGTR--
+*A OX 180204001 180401003 000011  00648  00722              % 00381 RGTR--
+*A ad 180204001 180401003 000011  00648  00722              % 00381 RGTR--
+*R 2 180401003 180204001 180401003  00648  00722            % 00381 RGTR--
+*G 063 180204001 180401003  00648  00722                    % 00381 RGTR--
+*A VE 180204001 180401003 000011  00648  00722              % 00381 RGTR--
+*I FD 180204001 180401003        0002527  00648  00722      % 00381 RGTR--
+180204001 Breinert                     00648                % 00381 RGTR--
+180204002 Breinertknupp         00649  00649                % 00381 RGTR--
+180208001 Weidig                00651  00651                % 00381 RGTR--
+180502001 Beidweiler, Am Duerf  00654  00654                % 00381 RGTR--
+180506001 Eschweiler/Junglinst  00657  00657                % 00381 RGTR--
+180205001 Brouch/Wecker         00700  00700                % 00381 RGTR--
+180202001 Boudler               00702  00702                % 00381 RGTR--
+180203001 Boudlerbach, Boudler  00702  00702                % 00381 RGTR--
+180201003 Biwer, Klosmillen     00703  00703                % 00381 RGTR--
+180201004 Biwer, Mairie         00706  00706                % 00381 RGTR--
+180201002 Biwer, Haaptstrooss   00707  00707                % 00381 RGTR--
+180201001 Wecker, Grousswiss    00708  00708                % 00381 RGTR--
+180207004 Wecker, Gare routièr  00710  00710                % 00381 RGTR--
+180207003 Wecker, Eglise        00711  00711                % 00381 RGTR--
+180207002 Wecker, Coboulux      00711  00711                % 00381 RGTR--
+180402002 Potaschbierg, Z.I.    00714  00714                % 00381 RGTR--
+180402001 Potaschbierg          00715  00715                % 00381 RGTR--
+180401007 Grevenmacher, Seiden  00716  00716                % 00381 RGTR--
+180401001 Grevenmacher, Copal   00717  00717                % 00381 RGTR--
+180401008 Grevenmacher, Tanneu  00719  00719                % 00381 RGTR--
+180401006 Grevenmacher, Schoul  00720  00720                % 00381 RGTR--
+180401003 Grevenmacher, Gare r  00722                       % 00381 RGTR--

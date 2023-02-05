@@ -1,0 +1,133 @@
+*F 03 2
+*Z 18045 RGTR--                                             % 18045 RGTR--
+*L A13      110101002 110809001  01214  01249               % 18045 RGTR--
+*A cj 110101002 110809001 000042  01214  01249              % 18045 RGTR--
+*A ad 110101002 110809001 000042  01214  01249              % 18045 RGTR--
+*R 1 110809001 110101002 110809001  01214  01249            % 18045 RGTR--
+*G 063 110101002 110809001  01214  01249                    % 18045 RGTR--
+*A VE 110101002 110809001 000042  01214  01249              % 18045 RGTR--
+*I FD 110101002 110809001        0002899  01214  01249      % 18045 RGTR--
+110101002 Clervaux, Gare routi         01214                % 18045 RGTR--
+110101004 Clervaux, Maison de   01215  01215                % 18045 RGTR--
+110101009 Clervaux, Place Bene  01216  01216                % 18045 RGTR--
+110101003 Clervaux, Klatzewee   01217  01217                % 18045 RGTR--
+110101007 Clervaux, Piscine     01218  01218                % 18045 RGTR--
+110101008 Clervaux, Pl. de la   01220  01220                % 18045 RGTR--
+110101011 Clervaux, Postes      01221  01221                % 18045 RGTR--
+110101004 Clervaux, Maison de   01222  01222                % 18045 RGTR--
+110101002 Clervaux, Gare routi  01223  01223                % 18045 RGTR--
+110101013 Clervaux, Baastneche  01224  01224                % 18045 RGTR--
+110803002 Boxhorn, Hauptstroos  01227  01227                % 18045 RGTR--
+110803003 Boxhorn, Schemer      01228  01228                % 18045 RGTR--
+110816001 Rumlange, Om Knäppch  01230  01230                % 18045 RGTR--
+110819001 Stockem, Duärrefstro  01233  01233                % 18045 RGTR--
+110823001 Emeschbach            01236  01236                % 18045 RGTR--
+110802003 Asselborn, Seeërei    01238  01238                % 18045 RGTR--
+110802002 Asselborn, Uäwwelaan  01239  01239                % 18045 RGTR--
+110802001 Asselborn, Burregaas  01240  01240                % 18045 RGTR--
+130107002 Weiler/Wincrange, Du  01244  01244                % 18045 RGTR--
+110811002 Hoffelt, Bei der Kir  01247  01247                % 18045 RGTR--
+110809002 Hachiville, Kräizung  01248  01248                % 18045 RGTR--
+110809001 Hachiville, Duärrefs  01249                       % 18045 RGTR--
+*Z 18046 RGTR--                                             % 18046 RGTR--
+*L A13      110101002 110809001  01609  01647               % 18046 RGTR--
+*A cj 110101002 110809001 000047  01609  01647              % 18046 RGTR--
+*A ad 110101002 110809001 000047  01609  01647              % 18046 RGTR--
+*R 1 110809001 110101002 110809001  01609  01647            % 18046 RGTR--
+*G 050 110101002 110809001  01609  01647                    % 18046 RGTR--
+*A VE 110101002 110809001 000047  01609  01647              % 18046 RGTR--
+*I FD 110101002 110809001        0002031  01609  01647      % 18046 RGTR--
+110101002 Clervaux, Gare routi         01609                % 18046 RGTR--
+110101004 Clervaux, Maison de   01610  01610                % 18046 RGTR--
+110101009 Clervaux, Place Bene  01611  01611                % 18046 RGTR--
+110101003 Clervaux, Klatzewee   01612  01612                % 18046 RGTR--
+110101007 Clervaux, Piscine     01613  01613                % 18046 RGTR--
+110101008 Clervaux, Pl. de la   01615  01615                % 18046 RGTR--
+110101011 Clervaux, Postes      01617  01617                % 18046 RGTR--
+110101004 Clervaux, Maison de   01617  01617                % 18046 RGTR--
+110101002 Clervaux, Gare routi  01618  01618                % 18046 RGTR--
+110101013 Clervaux, Baastneche  01620  01620                % 18046 RGTR--
+110803002 Boxhorn, Hauptstroos  01623  01623                % 18046 RGTR--
+110803003 Boxhorn, Schemer      01624  01624                % 18046 RGTR--
+110816001 Rumlange, Om Knäppch  01626  01626                % 18046 RGTR--
+110819001 Stockem, Duärrefstro  01629  01629                % 18046 RGTR--
+110823001 Emeschbach            01632  01632                % 18046 RGTR--
+110802003 Asselborn, Seeërei    01634  01634                % 18046 RGTR--
+110802002 Asselborn, Uäwwelaan  01635  01635                % 18046 RGTR--
+110802001 Asselborn, Burregaas  01636  01636                % 18046 RGTR--
+130107002 Weiler/Wincrange, Du  01641  01641                % 18046 RGTR--
+110811002 Hoffelt, Bei der Kir  01645  01645                % 18046 RGTR--
+110809002 Hachiville, Kräizung  01646  01646                % 18046 RGTR--
+110809001 Hachiville, Duärrefs  01647                       % 18046 RGTR--
+*Z 18047 RGTR--                                             % 18047 RGTR--
+*L A13      110101002 110809001  01452  01517               % 18047 RGTR--
+*A cj 110101002 110809001 000042  01452  01517              % 18047 RGTR--
+*A ad 110101002 110809001 000042  01452  01517              % 18047 RGTR--
+*R 1 110809001 110101002 110809001  01452  01517            % 18047 RGTR--
+*G 050 110101002 110809001  01452  01517                    % 18047 RGTR--
+*A VE 110101002 110809001 000042  01452  01517              % 18047 RGTR--
+*I FD 110101002 110809001        0003008  01452  01517      % 18047 RGTR--
+110101002 Clervaux, Gare routi         01452                % 18047 RGTR--
+110803002 Boxhorn, Hauptstroos  01456  01456                % 18047 RGTR--
+110803003 Boxhorn, Schemer      01457  01457                % 18047 RGTR--
+110816001 Rumlange, Om Knäppch  01458  01458                % 18047 RGTR--
+110819001 Stockem, Duärrefstro  01501  01501                % 18047 RGTR--
+110823001 Emeschbach            01504  01504                % 18047 RGTR--
+110802003 Asselborn, Seeërei    01506  01506                % 18047 RGTR--
+110802002 Asselborn, Uäwwelaan  01507  01507                % 18047 RGTR--
+110802001 Asselborn, Burregaas  01508  01508                % 18047 RGTR--
+130107002 Weiler/Wincrange, Du  01512  01512                % 18047 RGTR--
+110811002 Hoffelt, Bei der Kir  01515  01515                % 18047 RGTR--
+110809002 Hachiville, Kräizung  01516  01516                % 18047 RGTR--
+110809001 Hachiville, Duärrefs  01517                       % 18047 RGTR--
+*Z 18048 RGTR--                                             % 18048 RGTR--
+*L A13      110809001 110101002  00705  00743               % 18048 RGTR--
+*A cj 110809001 110101002 000042  00705  00743              % 18048 RGTR--
+*A ad 110809001 110101002 000042  00705  00743              % 18048 RGTR--
+*R 2 110101002 110809001 110101002  00705  00743            % 18048 RGTR--
+*G 063 110809001 110101002  00705  00743                    % 18048 RGTR--
+*A VE 110809001 110101002 000042  00705  00743              % 18048 RGTR--
+*I FD 110809001 110101002        0001813  00705  00743      % 18048 RGTR--
+110809001 Hachiville, Duärrefs         00705                % 18048 RGTR--
+110809002 Hachiville, Kräizung  00706  00706                % 18048 RGTR--
+110811002 Hoffelt, Bei der Kir  00707  00707                % 18048 RGTR--
+130107002 Weiler/Wincrange, Du  00710  00710                % 18048 RGTR--
+110802003 Asselborn, Seeërei    00716  00716                % 18048 RGTR--
+110802002 Asselborn, Uäwwelaan  00717  00717                % 18048 RGTR--
+110802001 Asselborn, Burregaas  00718  00718                % 18048 RGTR--
+110823001 Emeschbach            00721  00721                % 18048 RGTR--
+110819001 Stockem, Duärrefstro  00724  00724                % 18048 RGTR--
+110816001 Rumlange, Om Knäppch  00727  00727                % 18048 RGTR--
+110803003 Boxhorn, Schemer      00728  00728                % 18048 RGTR--
+110803002 Boxhorn, Hauptstroos  00729  00729                % 18048 RGTR--
+110101013 Clervaux, Baastneche  00733  00733                % 18048 RGTR--
+110101002 Clervaux, Gare routi  00734  00734                % 18048 RGTR--
+110101004 Clervaux, Maison de   00735  00735                % 18048 RGTR--
+110101009 Clervaux, Place Bene  00736  00736                % 18048 RGTR--
+110101003 Clervaux, Klatzewee   00737  00737                % 18048 RGTR--
+110101007 Clervaux, Piscine     00738  00738                % 18048 RGTR--
+110101008 Clervaux, Pl. de la   00740  00740                % 18048 RGTR--
+110101011 Clervaux, Postes      00741  00741                % 18048 RGTR--
+110101004 Clervaux, Maison de   00742  00742                % 18048 RGTR--
+110101002 Clervaux, Gare routi  00743                       % 18048 RGTR--
+*Z 18049 RGTR--                                             % 18049 RGTR--
+*L A13      110809001 110101002  00750  00819               % 18049 RGTR--
+*A cj 110809001 110101002 000042  00750  00819              % 18049 RGTR--
+*A ad 110809001 110101002 000042  00750  00819              % 18049 RGTR--
+*R 2 110101002 110809001 110101002  00750  00819            % 18049 RGTR--
+*G 050 110809001 110101002  00750  00819                    % 18049 RGTR--
+*A VE 110809001 110101002 000042  00750  00819              % 18049 RGTR--
+*I FD 110809001 110101002        0001900  00750  00819      % 18049 RGTR--
+110809001 Hachiville, Duärrefs         00750                % 18049 RGTR--
+110809002 Hachiville, Kräizung  00751  00751                % 18049 RGTR--
+110811002 Hoffelt, Bei der Kir  00752  00752                % 18049 RGTR--
+130107002 Weiler/Wincrange, Du  00755  00755                % 18049 RGTR--
+110802003 Asselborn, Seeërei    00801  00801                % 18049 RGTR--
+110802002 Asselborn, Uäwwelaan  00802  00802                % 18049 RGTR--
+110802001 Asselborn, Burregaas  00803  00803                % 18049 RGTR--
+110823001 Emeschbach            00806  00806                % 18049 RGTR--
+110819001 Stockem, Duärrefstro  00809  00809                % 18049 RGTR--
+110816001 Rumlange, Om Knäppch  00812  00812                % 18049 RGTR--
+110803003 Boxhorn, Schemer      00813  00813                % 18049 RGTR--
+110803002 Boxhorn, Hauptstroos  00814  00814                % 18049 RGTR--
+110101002 Clervaux, Gare routi  00819                       % 18049 RGTR--

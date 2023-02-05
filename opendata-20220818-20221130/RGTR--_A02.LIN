@@ -1,0 +1,58 @@
+*F 03 2
+*Z 18008 RGTR--                                             % 18008 RGTR--
+*L A02      120603002 110101002  00740  00815               % 18008 RGTR--
+*A cj 120603002 110101002 000042  00740  00815              % 18008 RGTR--
+*A ad 120603002 110101002 000042  00740  00815              % 18008 RGTR--
+*R 1 110101002 120603002 110101002  00740  00815            % 18008 RGTR--
+*G 030 120603002 110101002  00740  00815                    % 18008 RGTR--
+*A VE 120603002 110101002 000042  00740  00815              % 18008 RGTR--
+*I FD 120603002 110101002        0002568  00740  00815      % 18008 RGTR--
+120603002 Kautenbach, Gare rou         00740                % 18008 RGTR--
+120603001 Kautenbach, Am Duerf  00741  00741                % 18008 RGTR--
+110201001 Consthum, Ennescht D  00748  00748                % 18008 RGTR--
+110201003 Consthum, Knupp       00749  00749                % 18008 RGTR--
+110201002 Consthum, Kémel       00750  00750                % 18008 RGTR--
+110202001 Holzthum, Op der Hoe  00752  00752                % 18008 RGTR--
+110202002 Holzthum, Bei der Ki  00753  00753                % 18008 RGTR--
+110202003 Holzthum, Kiirfecht   00753  00753                % 18008 RGTR--
+110202004 Holzthum, Ferme Thev  00754  00754                % 18008 RGTR--
+110203002 Schinker, Um Rank     00755  00755                % 18008 RGTR--
+110403002 Hosingen, Ewescht Du  00800  00800                % 18008 RGTR--
+110403006 Hosingen, Bayrischt   00800  00800                % 18008 RGTR--
+110502005 Marnach, Geschäftsze  00805  00805                % 18008 RGTR--
+110502008 Marnach, Op der Bréc  00806  00806                % 18008 RGTR--
+110502006 Marnach, Bei der Kie  00807  00807                % 18008 RGTR--
+110103003 Reuler, Hôh           00810  00810                % 18008 RGTR--
+110101001 Clervaux, Clinique    00811  00811                % 18008 RGTR--
+110101010 Clervaux, Police      00811  00811                % 18008 RGTR--
+110101008 Clervaux, Pl. de la   00812  00812                % 18008 RGTR--
+110101011 Clervaux, Postes      00813  00813                % 18008 RGTR--
+110101004 Clervaux, Maison de   00814  00814                % 18008 RGTR--
+110101002 Clervaux, Gare routi  00815                       % 18008 RGTR--
+*Z 18009 RGTR--                                             % 18009 RGTR--
+*L A02      110101002 120603002  01455  01526               % 18009 RGTR--
+*A cj 110101002 120603002 000042  01455  01526              % 18009 RGTR--
+*A ad 110101002 120603002 000042  01455  01526              % 18009 RGTR--
+*R 2 120603002 110101002 120603002  01455  01526            % 18009 RGTR--
+*G 030 110101002 120603002  01455  01526                    % 18009 RGTR--
+*A VE 110101002 120603002 000042  01455  01526              % 18009 RGTR--
+*I FD 110101002 120603002        0002537  01455  01526      % 18009 RGTR--
+110101002 Clervaux, Gare routi         01455                % 18009 RGTR--
+110101004 Clervaux, Maison de   01456  01456                % 18009 RGTR--
+110101009 Clervaux, Place Bene  01457  01457                % 18009 RGTR--
+110101010 Clervaux, Police      01458  01458                % 18009 RGTR--
+110101001 Clervaux, Clinique    01459  01459                % 18009 RGTR--
+110103003 Reuler, Hôh           01500  01500                % 18009 RGTR--
+110502006 Marnach, Bei der Kie  01502  01502                % 18009 RGTR--
+110403006 Hosingen, Bayrischt   01507  01507                % 18009 RGTR--
+110403005 Hosingen, Bei der Ki  01507  01507                % 18009 RGTR--
+110203002 Schinker, Um Rank     01511  01511                % 18009 RGTR--
+110202004 Holzthum, Ferme Thev  01512  01512                % 18009 RGTR--
+110202003 Holzthum, Kiirfecht   01513  01513                % 18009 RGTR--
+110202002 Holzthum, Bei der Ki  01514  01514                % 18009 RGTR--
+110202001 Holzthum, Op der Hoe  01514  01514                % 18009 RGTR--
+110201002 Consthum, Kémel       01516  01516                % 18009 RGTR--
+110201003 Consthum, Knupp       01517  01517                % 18009 RGTR--
+110201001 Consthum, Ennescht D  01518  01518                % 18009 RGTR--
+120603001 Kautenbach, Am Duerf  01525  01525                % 18009 RGTR--
+120603002 Kautenbach, Gare rou  01526                       % 18009 RGTR--

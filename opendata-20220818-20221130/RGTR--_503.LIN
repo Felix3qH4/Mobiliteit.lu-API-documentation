@@ -1,0 +1,1701 @@
+*F 03 2
+*Z 01653 RGTR--                                             % 01653 RGTR--
+*L 503      400000092 200417048  00500  00544               % 01653 RGTR--
+*R 1 200417048 400000092 200417048  00500  00544            % 01653 RGTR--
+*G 070 400000092 200417048  00500  00544                    % 01653 RGTR--
+*A VE 400000092 200417048 000033  00500  00544              % 01653 RGTR--
+*I FD 400000092 200417048        0001725  00500  00544      % 01653 RGTR--
+400000092 Thionville, Foch Kio         00500                % 01653 RGTR--
+400000116 Thionville, Esch     -00506  00506                % 01653 RGTR--
+400000077 Metzange, P&R Metzan  00511  00511                % 01653 RGTR--
+200417015 Kirchberg, Hôpital    00537 -00537                % 01653 RGTR--
+200417004 Kirchberg, Alphonse   00538 -00538                % 01653 RGTR--
+200417036 Kirchberg, Réimerwee  00539 -00539                % 01653 RGTR--
+200417002 Kirchberg, Albert Bo  00540 -00540                % 01653 RGTR--
+200417013 Kirchberg, Coudenhov  00541 -00541                % 01653 RGTR--
+200417019 Kirchberg, Konrad Ad  00542 -00542                % 01653 RGTR--
+200417005 Kirchberg, Antoine d  00543 -00543                % 01653 RGTR--
+200417048 Kirchberg, Europe Ga  00544                       % 01653 RGTR--
+*Z 01654 RGTR--                                             % 01654 RGTR--
+*L 503      400000092 200417048  00530  00614               % 01654 RGTR--
+*R 1 200417048 400000092 200417048  00530  00614            % 01654 RGTR--
+*G 070 400000092 200417048  00530  00614                    % 01654 RGTR--
+*A VE 400000092 200417048 000033  00530  00614              % 01654 RGTR--
+*I FD 400000092 200417048        0001969  00530  00614      % 01654 RGTR--
+400000092 Thionville, Foch Kio         00530                % 01654 RGTR--
+400000116 Thionville, Esch     -00536  00536                % 01654 RGTR--
+400000077 Metzange, P&R Metzan  00541  00541                % 01654 RGTR--
+200417015 Kirchberg, Hôpital    00607 -00607                % 01654 RGTR--
+200417004 Kirchberg, Alphonse   00608 -00608                % 01654 RGTR--
+200417036 Kirchberg, Réimerwee  00609 -00609                % 01654 RGTR--
+200417002 Kirchberg, Albert Bo  00610 -00610                % 01654 RGTR--
+200417013 Kirchberg, Coudenhov  00611 -00611                % 01654 RGTR--
+200417019 Kirchberg, Konrad Ad  00612 -00612                % 01654 RGTR--
+200417005 Kirchberg, Antoine d  00613 -00613                % 01654 RGTR--
+200417048 Kirchberg, Europe Ga  00614                       % 01654 RGTR--
+*Z 01655 RGTR--                                             % 01655 RGTR--
+*L 503      400000092 200417048  00615  00659               % 01655 RGTR--
+*R 1 200417048 400000092 200417048  00615  00659            % 01655 RGTR--
+*G 070 400000092 200417048  00615  00659                    % 01655 RGTR--
+*A VE 400000092 200417048 000033  00615  00659              % 01655 RGTR--
+*I FD 400000092 200417048        0001887  00615  00659      % 01655 RGTR--
+400000092 Thionville, Foch Kio         00615                % 01655 RGTR--
+400000116 Thionville, Esch     -00621  00621                % 01655 RGTR--
+400000077 Metzange, P&R Metzan  00626  00626                % 01655 RGTR--
+200417015 Kirchberg, Hôpital    00652 -00652                % 01655 RGTR--
+200417004 Kirchberg, Alphonse   00653 -00653                % 01655 RGTR--
+200417036 Kirchberg, Réimerwee  00654 -00654                % 01655 RGTR--
+200417002 Kirchberg, Albert Bo  00655 -00655                % 01655 RGTR--
+200417013 Kirchberg, Coudenhov  00656 -00656                % 01655 RGTR--
+200417019 Kirchberg, Konrad Ad  00657 -00657                % 01655 RGTR--
+200417005 Kirchberg, Antoine d  00658 -00658                % 01655 RGTR--
+200417048 Kirchberg, Europe Ga  00659                       % 01655 RGTR--
+*Z 01656 RGTR--                                             % 01656 RGTR--
+*L 503      400000092 200417048  01030  01114               % 01656 RGTR--
+*R 1 200417048 400000092 200417048  01030  01114            % 01656 RGTR--
+*G 070 400000092 200417048  01030  01114                    % 01656 RGTR--
+*A VE 400000092 200417048 000033  01030  01114              % 01656 RGTR--
+*I FD 400000092 200417048        0001970  01030  01114      % 01656 RGTR--
+400000092 Thionville, Foch Kio         01030                % 01656 RGTR--
+400000116 Thionville, Esch     -01036  01036                % 01656 RGTR--
+400000077 Metzange, P&R Metzan  01041  01041                % 01656 RGTR--
+200417015 Kirchberg, Hôpital    01107 -01107                % 01656 RGTR--
+200417004 Kirchberg, Alphonse   01108 -01108                % 01656 RGTR--
+200417036 Kirchberg, Réimerwee  01109 -01109                % 01656 RGTR--
+200417002 Kirchberg, Albert Bo  01110 -01110                % 01656 RGTR--
+200417013 Kirchberg, Coudenhov  01111 -01111                % 01656 RGTR--
+200417019 Kirchberg, Konrad Ad  01112 -01112                % 01656 RGTR--
+200417005 Kirchberg, Antoine d  01113 -01113                % 01656 RGTR--
+200417048 Kirchberg, Europe Ga  01114                       % 01656 RGTR--
+*Z 01657 RGTR--                                             % 01657 RGTR--
+*L 503      400000092 200417048  01330  01414               % 01657 RGTR--
+*R 1 200417048 400000092 200417048  01330  01414            % 01657 RGTR--
+*G 070 400000092 200417048  01330  01414                    % 01657 RGTR--
+*A VE 400000092 200417048 000033  01330  01414              % 01657 RGTR--
+*I FD 400000092 200417048        0001971  01330  01414      % 01657 RGTR--
+400000092 Thionville, Foch Kio         01330                % 01657 RGTR--
+400000116 Thionville, Esch     -01336  01336                % 01657 RGTR--
+400000077 Metzange, P&R Metzan  01341  01341                % 01657 RGTR--
+200417015 Kirchberg, Hôpital    01407 -01407                % 01657 RGTR--
+200417004 Kirchberg, Alphonse   01408 -01408                % 01657 RGTR--
+200417036 Kirchberg, Réimerwee  01409 -01409                % 01657 RGTR--
+200417002 Kirchberg, Albert Bo  01410 -01410                % 01657 RGTR--
+200417013 Kirchberg, Coudenhov  01411 -01411                % 01657 RGTR--
+200417019 Kirchberg, Konrad Ad  01412 -01412                % 01657 RGTR--
+200417005 Kirchberg, Antoine d  01413 -01413                % 01657 RGTR--
+200417048 Kirchberg, Europe Ga  01414                       % 01657 RGTR--
+*Z 01658 RGTR--                                             % 01658 RGTR--
+*L 503      400000092 200417048  01630  01714               % 01658 RGTR--
+*R 1 200417048 400000092 200417048  01630  01714            % 01658 RGTR--
+*G 070 400000092 200417048  01630  01714                    % 01658 RGTR--
+*A VE 400000092 200417048 000033  01630  01714              % 01658 RGTR--
+*I FD 400000092 200417048        0001731  01630  01714      % 01658 RGTR--
+400000092 Thionville, Foch Kio         01630                % 01658 RGTR--
+400000116 Thionville, Esch     -01636  01636                % 01658 RGTR--
+400000077 Metzange, P&R Metzan  01641  01641                % 01658 RGTR--
+200417015 Kirchberg, Hôpital    01707 -01707                % 01658 RGTR--
+200417004 Kirchberg, Alphonse   01708 -01708                % 01658 RGTR--
+200417036 Kirchberg, Réimerwee  01709 -01709                % 01658 RGTR--
+200417002 Kirchberg, Albert Bo  01710 -01710                % 01658 RGTR--
+200417013 Kirchberg, Coudenhov  01711 -01711                % 01658 RGTR--
+200417019 Kirchberg, Konrad Ad  01712 -01712                % 01658 RGTR--
+200417005 Kirchberg, Antoine d  01713 -01713                % 01658 RGTR--
+200417048 Kirchberg, Europe Ga  01714                       % 01658 RGTR--
+*Z 01659 RGTR--                                             % 01659 RGTR--
+*L 503      400000092 200417048  01730  01814               % 01659 RGTR--
+*R 1 200417048 400000092 200417048  01730  01814            % 01659 RGTR--
+*G 070 400000092 200417048  01730  01814                    % 01659 RGTR--
+*A VE 400000092 200417048 000033  01730  01814              % 01659 RGTR--
+*I FD 400000092 200417048        0001733  01730  01814      % 01659 RGTR--
+400000092 Thionville, Foch Kio         01730                % 01659 RGTR--
+400000116 Thionville, Esch     -01736  01736                % 01659 RGTR--
+400000077 Metzange, P&R Metzan  01741  01741                % 01659 RGTR--
+200417015 Kirchberg, Hôpital    01807 -01807                % 01659 RGTR--
+200417004 Kirchberg, Alphonse   01808 -01808                % 01659 RGTR--
+200417036 Kirchberg, Réimerwee  01809 -01809                % 01659 RGTR--
+200417002 Kirchberg, Albert Bo  01810 -01810                % 01659 RGTR--
+200417013 Kirchberg, Coudenhov  01811 -01811                % 01659 RGTR--
+200417019 Kirchberg, Konrad Ad  01812 -01812                % 01659 RGTR--
+200417005 Kirchberg, Antoine d  01813 -01813                % 01659 RGTR--
+200417048 Kirchberg, Europe Ga  01814                       % 01659 RGTR--
+*Z 01660 RGTR--                                             % 01660 RGTR--
+*L 503      400000092 200417048  01930  02014               % 01660 RGTR--
+*R 1 200417048 400000092 200417048  01930  02014            % 01660 RGTR--
+*G 070 400000092 200417048  01930  02014                    % 01660 RGTR--
+*A VE 400000092 200417048 000033  01930  02014              % 01660 RGTR--
+*I FD 400000092 200417048        0001386  01930  02014      % 01660 RGTR--
+400000092 Thionville, Foch Kio         01930                % 01660 RGTR--
+400000116 Thionville, Esch     -01936  01936                % 01660 RGTR--
+400000077 Metzange, P&R Metzan  01941  01941                % 01660 RGTR--
+200417015 Kirchberg, Hôpital    02007 -02007                % 01660 RGTR--
+200417004 Kirchberg, Alphonse   02008 -02008                % 01660 RGTR--
+200417036 Kirchberg, Réimerwee  02009 -02009                % 01660 RGTR--
+200417002 Kirchberg, Albert Bo  02010 -02010                % 01660 RGTR--
+200417013 Kirchberg, Coudenhov  02011 -02011                % 01660 RGTR--
+200417019 Kirchberg, Konrad Ad  02012 -02012                % 01660 RGTR--
+200417005 Kirchberg, Antoine d  02013 -02013                % 01660 RGTR--
+200417048 Kirchberg, Europe Ga  02014                       % 01660 RGTR--
+*Z 01661 RGTR--                                             % 01661 RGTR--
+*L 503      400000092 200417048  02230  02314               % 01661 RGTR--
+*R 1 200417048 400000092 200417048  02230  02314            % 01661 RGTR--
+*G 070 400000092 200417048  02230  02314                    % 01661 RGTR--
+*A VE 400000092 200417048 000033  02230  02314              % 01661 RGTR--
+*I FD 400000092 200417048        0001972  02230  02314      % 01661 RGTR--
+400000092 Thionville, Foch Kio         02230                % 01661 RGTR--
+400000116 Thionville, Esch     -02236  02236                % 01661 RGTR--
+400000077 Metzange, P&R Metzan  02241  02241                % 01661 RGTR--
+200417015 Kirchberg, Hôpital    02307 -02307                % 01661 RGTR--
+200417004 Kirchberg, Alphonse   02308 -02308                % 01661 RGTR--
+200417036 Kirchberg, Réimerwee  02309 -02309                % 01661 RGTR--
+200417002 Kirchberg, Albert Bo  02310 -02310                % 01661 RGTR--
+200417013 Kirchberg, Coudenhov  02311 -02311                % 01661 RGTR--
+200417019 Kirchberg, Konrad Ad  02312 -02312                % 01661 RGTR--
+200417005 Kirchberg, Antoine d  02313 -02313                % 01661 RGTR--
+200417048 Kirchberg, Europe Ga  02314                       % 01661 RGTR--
+*Z 01662 RGTR--                                             % 01662 RGTR--
+*L 503      400000092 200417048  00515  00559               % 01662 RGTR--
+*R 1 200417048 400000092 200417048  00515  00559            % 01662 RGTR--
+*G 130 400000092 200417048  00515  00559                    % 01662 RGTR--
+*A VE 400000092 200417048 000033  00515  00559              % 01662 RGTR--
+*I FD 400000092 200417048        0001886  00515  00559      % 01662 RGTR--
+400000092 Thionville, Foch Kio         00515                % 01662 RGTR--
+400000116 Thionville, Esch     -00521  00521                % 01662 RGTR--
+400000077 Metzange, P&R Metzan  00526  00526                % 01662 RGTR--
+200417015 Kirchberg, Hôpital    00552 -00552                % 01662 RGTR--
+200417004 Kirchberg, Alphonse   00553 -00553                % 01662 RGTR--
+200417036 Kirchberg, Réimerwee  00554 -00554                % 01662 RGTR--
+200417002 Kirchberg, Albert Bo  00555 -00555                % 01662 RGTR--
+200417013 Kirchberg, Coudenhov  00556 -00556                % 01662 RGTR--
+200417019 Kirchberg, Konrad Ad  00557 -00557                % 01662 RGTR--
+200417005 Kirchberg, Antoine d  00558 -00558                % 01662 RGTR--
+200417048 Kirchberg, Europe Ga  00559                       % 01662 RGTR--
+*Z 01663 RGTR--                                             % 01663 RGTR--
+*L 503      400000092 200417048  00545  00629               % 01663 RGTR--
+*R 1 200417048 400000092 200417048  00545  00629            % 01663 RGTR--
+*G 130 400000092 200417048  00545  00629                    % 01663 RGTR--
+*A VE 400000092 200417048 000033  00545  00629              % 01663 RGTR--
+*I FD 400000092 200417048        0001953  00545  00629      % 01663 RGTR--
+400000092 Thionville, Foch Kio         00545                % 01663 RGTR--
+400000116 Thionville, Esch     -00551  00551                % 01663 RGTR--
+400000077 Metzange, P&R Metzan  00556  00556                % 01663 RGTR--
+200417015 Kirchberg, Hôpital    00622 -00622                % 01663 RGTR--
+200417004 Kirchberg, Alphonse   00623 -00623                % 01663 RGTR--
+200417036 Kirchberg, Réimerwee  00624 -00624                % 01663 RGTR--
+200417002 Kirchberg, Albert Bo  00625 -00625                % 01663 RGTR--
+200417013 Kirchberg, Coudenhov  00626 -00626                % 01663 RGTR--
+200417019 Kirchberg, Konrad Ad  00627 -00627                % 01663 RGTR--
+200417005 Kirchberg, Antoine d  00628 -00628                % 01663 RGTR--
+200417048 Kirchberg, Europe Ga  00629                       % 01663 RGTR--
+*Z 01664 RGTR--                                             % 01664 RGTR--
+*L 503      400000092 200417048  00600  00644               % 01664 RGTR--
+*R 1 200417048 400000092 200417048  00600  00644            % 01664 RGTR--
+*G 130 400000092 200417048  00600  00644                    % 01664 RGTR--
+*A VE 400000092 200417048 000033  00600  00644              % 01664 RGTR--
+*I FD 400000092 200417048        0001717  00600  00644      % 01664 RGTR--
+400000092 Thionville, Foch Kio         00600                % 01664 RGTR--
+400000116 Thionville, Esch     -00606  00606                % 01664 RGTR--
+400000077 Metzange, P&R Metzan  00611  00611                % 01664 RGTR--
+200417015 Kirchberg, Hôpital    00637 -00637                % 01664 RGTR--
+200417004 Kirchberg, Alphonse   00638 -00638                % 01664 RGTR--
+200417036 Kirchberg, Réimerwee  00639 -00639                % 01664 RGTR--
+200417002 Kirchberg, Albert Bo  00640 -00640                % 01664 RGTR--
+200417013 Kirchberg, Coudenhov  00641 -00641                % 01664 RGTR--
+200417019 Kirchberg, Konrad Ad  00642 -00642                % 01664 RGTR--
+200417005 Kirchberg, Antoine d  00643 -00643                % 01664 RGTR--
+200417048 Kirchberg, Europe Ga  00644                       % 01664 RGTR--
+*Z 01665 RGTR--                                             % 01665 RGTR--
+*L 503      400000092 200417048  00630  00714               % 01665 RGTR--
+*R 1 200417048 400000092 200417048  00630  00714            % 01665 RGTR--
+*G 130 400000092 200417048  00630  00714                    % 01665 RGTR--
+*A VE 400000092 200417048 000033  00630  00714              % 01665 RGTR--
+*I FD 400000092 200417048        0000839  00630  00714      % 01665 RGTR--
+400000092 Thionville, Foch Kio         00630                % 01665 RGTR--
+400000116 Thionville, Esch     -00636  00636                % 01665 RGTR--
+400000077 Metzange, P&R Metzan  00641  00641                % 01665 RGTR--
+200417015 Kirchberg, Hôpital    00707 -00707                % 01665 RGTR--
+200417004 Kirchberg, Alphonse   00708 -00708                % 01665 RGTR--
+200417036 Kirchberg, Réimerwee  00709 -00709                % 01665 RGTR--
+200417002 Kirchberg, Albert Bo  00710 -00710                % 01665 RGTR--
+200417013 Kirchberg, Coudenhov  00711 -00711                % 01665 RGTR--
+200417019 Kirchberg, Konrad Ad  00712 -00712                % 01665 RGTR--
+200417005 Kirchberg, Antoine d  00713 -00713                % 01665 RGTR--
+200417048 Kirchberg, Europe Ga  00714                       % 01665 RGTR--
+*Z 01666 RGTR--                                             % 01666 RGTR--
+*L 503      400000092 200417048  01130  01214               % 01666 RGTR--
+*R 1 200417048 400000092 200417048  01130  01214            % 01666 RGTR--
+*G 130 400000092 200417048  01130  01214                    % 01666 RGTR--
+*A VE 400000092 200417048 000033  01130  01214              % 01666 RGTR--
+*I FD 400000092 200417048        0001973  01130  01214      % 01666 RGTR--
+400000092 Thionville, Foch Kio         01130                % 01666 RGTR--
+400000116 Thionville, Esch     -01136  01136                % 01666 RGTR--
+400000077 Metzange, P&R Metzan  01141  01141                % 01666 RGTR--
+200417015 Kirchberg, Hôpital    01207 -01207                % 01666 RGTR--
+200417004 Kirchberg, Alphonse   01208 -01208                % 01666 RGTR--
+200417036 Kirchberg, Réimerwee  01209 -01209                % 01666 RGTR--
+200417002 Kirchberg, Albert Bo  01210 -01210                % 01666 RGTR--
+200417013 Kirchberg, Coudenhov  01211 -01211                % 01666 RGTR--
+200417019 Kirchberg, Konrad Ad  01212 -01212                % 01666 RGTR--
+200417005 Kirchberg, Antoine d  01213 -01213                % 01666 RGTR--
+200417048 Kirchberg, Europe Ga  01214                       % 01666 RGTR--
+*Z 01667 RGTR--                                             % 01667 RGTR--
+*L 503      400000092 200417048  01230  01314               % 01667 RGTR--
+*R 1 200417048 400000092 200417048  01230  01314            % 01667 RGTR--
+*G 130 400000092 200417048  01230  01314                    % 01667 RGTR--
+*A VE 400000092 200417048 000033  01230  01314              % 01667 RGTR--
+*I FD 400000092 200417048        0001974  01230  01314      % 01667 RGTR--
+400000092 Thionville, Foch Kio         01230                % 01667 RGTR--
+400000116 Thionville, Esch     -01236  01236                % 01667 RGTR--
+400000077 Metzange, P&R Metzan  01241  01241                % 01667 RGTR--
+200417015 Kirchberg, Hôpital    01307 -01307                % 01667 RGTR--
+200417004 Kirchberg, Alphonse   01308 -01308                % 01667 RGTR--
+200417036 Kirchberg, Réimerwee  01309 -01309                % 01667 RGTR--
+200417002 Kirchberg, Albert Bo  01310 -01310                % 01667 RGTR--
+200417013 Kirchberg, Coudenhov  01311 -01311                % 01667 RGTR--
+200417019 Kirchberg, Konrad Ad  01312 -01312                % 01667 RGTR--
+200417005 Kirchberg, Antoine d  01313 -01313                % 01667 RGTR--
+200417048 Kirchberg, Europe Ga  01314                       % 01667 RGTR--
+*Z 01668 RGTR--                                             % 01668 RGTR--
+*L 503      400000092 200417048  01430  01514               % 01668 RGTR--
+*R 1 200417048 400000092 200417048  01430  01514            % 01668 RGTR--
+*G 130 400000092 200417048  01430  01514                    % 01668 RGTR--
+*A VE 400000092 200417048 000033  01430  01514              % 01668 RGTR--
+*I FD 400000092 200417048        0001975  01430  01514      % 01668 RGTR--
+400000092 Thionville, Foch Kio         01430                % 01668 RGTR--
+400000116 Thionville, Esch     -01436  01436                % 01668 RGTR--
+400000077 Metzange, P&R Metzan  01441  01441                % 01668 RGTR--
+200417015 Kirchberg, Hôpital    01507 -01507                % 01668 RGTR--
+200417004 Kirchberg, Alphonse   01508 -01508                % 01668 RGTR--
+200417036 Kirchberg, Réimerwee  01509 -01509                % 01668 RGTR--
+200417002 Kirchberg, Albert Bo  01510 -01510                % 01668 RGTR--
+200417013 Kirchberg, Coudenhov  01511 -01511                % 01668 RGTR--
+200417019 Kirchberg, Konrad Ad  01512 -01512                % 01668 RGTR--
+200417005 Kirchberg, Antoine d  01513 -01513                % 01668 RGTR--
+200417048 Kirchberg, Europe Ga  01514                       % 01668 RGTR--
+*Z 01669 RGTR--                                             % 01669 RGTR--
+*L 503      400000092 200417048  01530  01614               % 01669 RGTR--
+*R 1 200417048 400000092 200417048  01530  01614            % 01669 RGTR--
+*G 130 400000092 200417048  01530  01614                    % 01669 RGTR--
+*A VE 400000092 200417048 000033  01530  01614              % 01669 RGTR--
+*I FD 400000092 200417048        0001976  01530  01614      % 01669 RGTR--
+400000092 Thionville, Foch Kio         01530                % 01669 RGTR--
+400000116 Thionville, Esch     -01536  01536                % 01669 RGTR--
+400000077 Metzange, P&R Metzan  01541  01541                % 01669 RGTR--
+200417015 Kirchberg, Hôpital    01607 -01607                % 01669 RGTR--
+200417004 Kirchberg, Alphonse   01608 -01608                % 01669 RGTR--
+200417036 Kirchberg, Réimerwee  01609 -01609                % 01669 RGTR--
+200417002 Kirchberg, Albert Bo  01610 -01610                % 01669 RGTR--
+200417013 Kirchberg, Coudenhov  01611 -01611                % 01669 RGTR--
+200417019 Kirchberg, Konrad Ad  01612 -01612                % 01669 RGTR--
+200417005 Kirchberg, Antoine d  01613 -01613                % 01669 RGTR--
+200417048 Kirchberg, Europe Ga  01614                       % 01669 RGTR--
+*Z 01670 RGTR--                                             % 01670 RGTR--
+*L 503      400000092 200417048  01830  01914               % 01670 RGTR--
+*R 1 200417048 400000092 200417048  01830  01914            % 01670 RGTR--
+*G 130 400000092 200417048  01830  01914                    % 01670 RGTR--
+*A VE 400000092 200417048 000033  01830  01914              % 01670 RGTR--
+*I FD 400000092 200417048        0001722  01830  01914      % 01670 RGTR--
+400000092 Thionville, Foch Kio         01830                % 01670 RGTR--
+400000116 Thionville, Esch     -01836  01836                % 01670 RGTR--
+400000077 Metzange, P&R Metzan  01841  01841                % 01670 RGTR--
+200417015 Kirchberg, Hôpital    01907 -01907                % 01670 RGTR--
+200417004 Kirchberg, Alphonse   01908 -01908                % 01670 RGTR--
+200417036 Kirchberg, Réimerwee  01909 -01909                % 01670 RGTR--
+200417002 Kirchberg, Albert Bo  01910 -01910                % 01670 RGTR--
+200417013 Kirchberg, Coudenhov  01911 -01911                % 01670 RGTR--
+200417019 Kirchberg, Konrad Ad  01912 -01912                % 01670 RGTR--
+200417005 Kirchberg, Antoine d  01913 -01913                % 01670 RGTR--
+200417048 Kirchberg, Europe Ga  01914                       % 01670 RGTR--
+*Z 01671 RGTR--                                             % 01671 RGTR--
+*L 503      400000092 200417048  02030  02114               % 01671 RGTR--
+*R 1 200417048 400000092 200417048  02030  02114            % 01671 RGTR--
+*G 130 400000092 200417048  02030  02114                    % 01671 RGTR--
+*A VE 400000092 200417048 000033  02030  02114              % 01671 RGTR--
+*I FD 400000092 200417048        0001977  02030  02114      % 01671 RGTR--
+400000092 Thionville, Foch Kio         02030                % 01671 RGTR--
+400000116 Thionville, Esch     -02036  02036                % 01671 RGTR--
+400000077 Metzange, P&R Metzan  02041  02041                % 01671 RGTR--
+200417015 Kirchberg, Hôpital    02107 -02107                % 01671 RGTR--
+200417004 Kirchberg, Alphonse   02108 -02108                % 01671 RGTR--
+200417036 Kirchberg, Réimerwee  02109 -02109                % 01671 RGTR--
+200417002 Kirchberg, Albert Bo  02110 -02110                % 01671 RGTR--
+200417013 Kirchberg, Coudenhov  02111 -02111                % 01671 RGTR--
+200417019 Kirchberg, Konrad Ad  02112 -02112                % 01671 RGTR--
+200417005 Kirchberg, Antoine d  02113 -02113                % 01671 RGTR--
+200417048 Kirchberg, Europe Ga  02114                       % 01671 RGTR--
+*Z 01672 RGTR--                                             % 01672 RGTR--
+*L 503      400000092 200417048  02130  02214               % 01672 RGTR--
+*R 1 200417048 400000092 200417048  02130  02214            % 01672 RGTR--
+*G 130 400000092 200417048  02130  02214                    % 01672 RGTR--
+*A VE 400000092 200417048 000033  02130  02214              % 01672 RGTR--
+*I FD 400000092 200417048        0001978  02130  02214      % 01672 RGTR--
+400000092 Thionville, Foch Kio         02130                % 01672 RGTR--
+400000116 Thionville, Esch     -02136  02136                % 01672 RGTR--
+400000077 Metzange, P&R Metzan  02141  02141                % 01672 RGTR--
+200417015 Kirchberg, Hôpital    02207 -02207                % 01672 RGTR--
+200417004 Kirchberg, Alphonse   02208 -02208                % 01672 RGTR--
+200417036 Kirchberg, Réimerwee  02209 -02209                % 01672 RGTR--
+200417002 Kirchberg, Albert Bo  02210 -02210                % 01672 RGTR--
+200417013 Kirchberg, Coudenhov  02211 -02211                % 01672 RGTR--
+200417019 Kirchberg, Konrad Ad  02212 -02212                % 01672 RGTR--
+200417005 Kirchberg, Antoine d  02213 -02213                % 01672 RGTR--
+200417048 Kirchberg, Europe Ga  02214                       % 01672 RGTR--
+*Z 01673 RGTR--                                             % 01673 RGTR--
+*L 503      400000092 200417048  00700  00818               % 01673 RGTR--
+*R 1 200417048 400000092 200417048  00700  00818            % 01673 RGTR--
+*G 070 400000092 200417048  00700  00818                    % 01673 RGTR--
+*A VE 400000092 200417048 000033  00700  00818              % 01673 RGTR--
+*I FD 400000092 200417048        0001729  00700  00818      % 01673 RGTR--
+400000092 Thionville, Foch Kio         00700                % 01673 RGTR--
+400000116 Thionville, Esch     -00708  00708                % 01673 RGTR--
+400000077 Metzange, P&R Metzan  00714  00714                % 01673 RGTR--
+200417015 Kirchberg, Hôpital    00809 -00809                % 01673 RGTR--
+200417004 Kirchberg, Alphonse   00811 -00811                % 01673 RGTR--
+200417036 Kirchberg, Réimerwee  00812 -00812                % 01673 RGTR--
+200417002 Kirchberg, Albert Bo  00813 -00813                % 01673 RGTR--
+200417013 Kirchberg, Coudenhov  00814 -00814                % 01673 RGTR--
+200417019 Kirchberg, Konrad Ad  00816 -00816                % 01673 RGTR--
+200417005 Kirchberg, Antoine d  00817 -00817                % 01673 RGTR--
+200417048 Kirchberg, Europe Ga  00818                       % 01673 RGTR--
+*Z 01674 RGTR--                                             % 01674 RGTR--
+*L 503      400000092 200417048  00730  00848               % 01674 RGTR--
+*R 1 200417048 400000092 200417048  00730  00848            % 01674 RGTR--
+*G 070 400000092 200417048  00730  00848                    % 01674 RGTR--
+*A VE 400000092 200417048 000033  00730  00848              % 01674 RGTR--
+*I FD 400000092 200417048        0001730  00730  00848      % 01674 RGTR--
+400000092 Thionville, Foch Kio         00730                % 01674 RGTR--
+400000116 Thionville, Esch     -00738  00738                % 01674 RGTR--
+400000077 Metzange, P&R Metzan  00744  00744                % 01674 RGTR--
+200417015 Kirchberg, Hôpital    00839 -00839                % 01674 RGTR--
+200417004 Kirchberg, Alphonse   00841 -00841                % 01674 RGTR--
+200417036 Kirchberg, Réimerwee  00842 -00842                % 01674 RGTR--
+200417002 Kirchberg, Albert Bo  00843 -00843                % 01674 RGTR--
+200417013 Kirchberg, Coudenhov  00844 -00844                % 01674 RGTR--
+200417019 Kirchberg, Konrad Ad  00846 -00846                % 01674 RGTR--
+200417005 Kirchberg, Antoine d  00847 -00847                % 01674 RGTR--
+200417048 Kirchberg, Europe Ga  00848                       % 01674 RGTR--
+*Z 01675 RGTR--                                             % 01675 RGTR--
+*L 503      400000092 200417048  00800  00918               % 01675 RGTR--
+*R 1 200417048 400000092 200417048  00800  00918            % 01675 RGTR--
+*G 130 400000092 200417048  00800  00918                    % 01675 RGTR--
+*A VE 400000092 200417048 000033  00800  00918              % 01675 RGTR--
+*I FD 400000092 200417048        0001726  00800  00918      % 01675 RGTR--
+400000092 Thionville, Foch Kio         00800                % 01675 RGTR--
+400000116 Thionville, Esch     -00808  00808                % 01675 RGTR--
+400000077 Metzange, P&R Metzan  00814  00814                % 01675 RGTR--
+200417015 Kirchberg, Hôpital    00909 -00909                % 01675 RGTR--
+200417004 Kirchberg, Alphonse   00911 -00911                % 01675 RGTR--
+200417036 Kirchberg, Réimerwee  00912 -00912                % 01675 RGTR--
+200417002 Kirchberg, Albert Bo  00913 -00913                % 01675 RGTR--
+200417013 Kirchberg, Coudenhov  00914 -00914                % 01675 RGTR--
+200417019 Kirchberg, Konrad Ad  00916 -00916                % 01675 RGTR--
+200417005 Kirchberg, Antoine d  00917 -00917                % 01675 RGTR--
+200417048 Kirchberg, Europe Ga  00918                       % 01675 RGTR--
+*Z 01676 RGTR--                                             % 01676 RGTR--
+*L 503      400000092 200417048  00830  00948               % 01676 RGTR--
+*R 1 200417048 400000092 200417048  00830  00948            % 01676 RGTR--
+*G 130 400000092 200417048  00830  00948                    % 01676 RGTR--
+*A VE 400000092 200417048 000033  00830  00948              % 01676 RGTR--
+*I FD 400000092 200417048        0000915  00830  00948      % 01676 RGTR--
+400000092 Thionville, Foch Kio         00830                % 01676 RGTR--
+400000116 Thionville, Esch     -00838  00838                % 01676 RGTR--
+400000077 Metzange, P&R Metzan  00844  00844                % 01676 RGTR--
+200417015 Kirchberg, Hôpital    00939 -00939                % 01676 RGTR--
+200417004 Kirchberg, Alphonse   00941 -00941                % 01676 RGTR--
+200417036 Kirchberg, Réimerwee  00942 -00942                % 01676 RGTR--
+200417002 Kirchberg, Albert Bo  00943 -00943                % 01676 RGTR--
+200417013 Kirchberg, Coudenhov  00944 -00944                % 01676 RGTR--
+200417019 Kirchberg, Konrad Ad  00946 -00946                % 01676 RGTR--
+200417005 Kirchberg, Antoine d  00947 -00947                % 01676 RGTR--
+200417048 Kirchberg, Europe Ga  00948                       % 01676 RGTR--
+*Z 01677 RGTR--                                             % 01677 RGTR--
+*L 503      400000092 200417048  00900  01018               % 01677 RGTR--
+*R 1 200417048 400000092 200417048  00900  01018            % 01677 RGTR--
+*G 130 400000092 200417048  00900  01018                    % 01677 RGTR--
+*A VE 400000092 200417048 000033  00900  01018              % 01677 RGTR--
+*I FD 400000092 200417048        0001718  00900  01018      % 01677 RGTR--
+400000092 Thionville, Foch Kio         00900                % 01677 RGTR--
+400000116 Thionville, Esch     -00908  00908                % 01677 RGTR--
+400000077 Metzange, P&R Metzan  00914  00914                % 01677 RGTR--
+200417015 Kirchberg, Hôpital    01009 -01009                % 01677 RGTR--
+200417004 Kirchberg, Alphonse   01011 -01011                % 01677 RGTR--
+200417036 Kirchberg, Réimerwee  01012 -01012                % 01677 RGTR--
+200417002 Kirchberg, Albert Bo  01013 -01013                % 01677 RGTR--
+200417013 Kirchberg, Coudenhov  01014 -01014                % 01677 RGTR--
+200417019 Kirchberg, Konrad Ad  01016 -01016                % 01677 RGTR--
+200417005 Kirchberg, Antoine d  01017 -01017                % 01677 RGTR--
+200417048 Kirchberg, Europe Ga  01018                       % 01677 RGTR--
+*Z 01678 RGTR--                                             % 01678 RGTR--
+*L 503      400000092 200417048  00930  01048               % 01678 RGTR--
+*R 1 200417048 400000092 200417048  00930  01048            % 01678 RGTR--
+*G 130 400000092 200417048  00930  01048                    % 01678 RGTR--
+*A VE 400000092 200417048 000033  00930  01048              % 01678 RGTR--
+*I FD 400000092 200417048        0000923  00930  01048      % 01678 RGTR--
+400000092 Thionville, Foch Kio         00930                % 01678 RGTR--
+400000116 Thionville, Esch     -00938  00938                % 01678 RGTR--
+400000077 Metzange, P&R Metzan  00944  00944                % 01678 RGTR--
+200417015 Kirchberg, Hôpital    01039 -01039                % 01678 RGTR--
+200417004 Kirchberg, Alphonse   01041 -01041                % 01678 RGTR--
+200417036 Kirchberg, Réimerwee  01042 -01042                % 01678 RGTR--
+200417002 Kirchberg, Albert Bo  01043 -01043                % 01678 RGTR--
+200417013 Kirchberg, Coudenhov  01044 -01044                % 01678 RGTR--
+200417019 Kirchberg, Konrad Ad  01046 -01046                % 01678 RGTR--
+200417005 Kirchberg, Antoine d  01047 -01047                % 01678 RGTR--
+200417048 Kirchberg, Europe Ga  01048                       % 01678 RGTR--
+*Z 01679 RGTR--                                             % 01679 RGTR--
+*L 503      200417048 400000092  00610  00654               % 01679 RGTR--
+*R 2 400000092 200417048 400000092  00610  00654            % 01679 RGTR--
+*G 070 200417048 400000092  00610  00654                    % 01679 RGTR--
+*A VE 200417048 400000092 000033  00610  00654              % 01679 RGTR--
+*I FD 200417048 400000092        0001979  00610  00654      % 01679 RGTR--
+200417048 Kirchberg, Europe Ga         00610                % 01679 RGTR--
+200417005 Kirchberg, Antoine d -00610  00610                % 01679 RGTR--
+200417019 Kirchberg, Konrad Ad -00611  00611                % 01679 RGTR--
+200417013 Kirchberg, Coudenhov -00612  00612                % 01679 RGTR--
+200417002 Kirchberg, Albert Bo -00613  00613                % 01679 RGTR--
+200417036 Kirchberg, Réimerwee -00614  00614                % 01679 RGTR--
+200417004 Kirchberg, Alphonse  -00614  00614                % 01679 RGTR--
+200417015 Kirchberg, Hôpital   -00616  00616                % 01679 RGTR--
+400000077 Metzange, P&R Metzan  00644  00644                % 01679 RGTR--
+400000115 Thionville, Arlon     00648 -00648                % 01679 RGTR--
+400000092 Thionville, Foch Kio  00654                       % 01679 RGTR--
+*Z 01680 RGTR--                                             % 01680 RGTR--
+*L 503      200417048 400000092  00910  00954               % 01680 RGTR--
+*R 2 400000092 200417048 400000092  00910  00954            % 01680 RGTR--
+*G 070 200417048 400000092  00910  00954                    % 01680 RGTR--
+*A VE 200417048 400000092 000033  00910  00954              % 01680 RGTR--
+*I FD 200417048 400000092        0001980  00910  00954      % 01680 RGTR--
+200417048 Kirchberg, Europe Ga         00910                % 01680 RGTR--
+200417005 Kirchberg, Antoine d -00910  00910                % 01680 RGTR--
+200417019 Kirchberg, Konrad Ad -00911  00911                % 01680 RGTR--
+200417013 Kirchberg, Coudenhov -00912  00912                % 01680 RGTR--
+200417002 Kirchberg, Albert Bo -00913  00913                % 01680 RGTR--
+200417036 Kirchberg, Réimerwee -00914  00914                % 01680 RGTR--
+200417004 Kirchberg, Alphonse  -00914  00914                % 01680 RGTR--
+200417015 Kirchberg, Hôpital   -00916  00916                % 01680 RGTR--
+400000077 Metzange, P&R Metzan  00944  00944                % 01680 RGTR--
+400000115 Thionville, Arlon     00948 -00948                % 01680 RGTR--
+400000092 Thionville, Foch Kio  00954                       % 01680 RGTR--
+*Z 01681 RGTR--                                             % 01681 RGTR--
+*L 503      200417048 400000092  01210  01254               % 01681 RGTR--
+*R 2 400000092 200417048 400000092  01210  01254            % 01681 RGTR--
+*G 070 200417048 400000092  01210  01254                    % 01681 RGTR--
+*A VE 200417048 400000092 000033  01210  01254              % 01681 RGTR--
+*I FD 200417048 400000092        0001981  01210  01254      % 01681 RGTR--
+200417048 Kirchberg, Europe Ga         01210                % 01681 RGTR--
+200417005 Kirchberg, Antoine d -01210  01210                % 01681 RGTR--
+200417019 Kirchberg, Konrad Ad -01211  01211                % 01681 RGTR--
+200417013 Kirchberg, Coudenhov -01212  01212                % 01681 RGTR--
+200417002 Kirchberg, Albert Bo -01213  01213                % 01681 RGTR--
+200417036 Kirchberg, Réimerwee -01214  01214                % 01681 RGTR--
+200417004 Kirchberg, Alphonse  -01214  01214                % 01681 RGTR--
+200417015 Kirchberg, Hôpital   -01216  01216                % 01681 RGTR--
+400000077 Metzange, P&R Metzan  01244  01244                % 01681 RGTR--
+400000115 Thionville, Arlon     01248 -01248                % 01681 RGTR--
+400000092 Thionville, Foch Kio  01254                       % 01681 RGTR--
+*Z 01682 RGTR--                                             % 01682 RGTR--
+*L 503      200417048 400000092  01510  01554               % 01682 RGTR--
+*R 2 400000092 200417048 400000092  01510  01554            % 01682 RGTR--
+*G 070 200417048 400000092  01510  01554                    % 01682 RGTR--
+*A VE 200417048 400000092 000033  01510  01554              % 01682 RGTR--
+*I FD 200417048 400000092        0001982  01510  01554      % 01682 RGTR--
+200417048 Kirchberg, Europe Ga         01510                % 01682 RGTR--
+200417005 Kirchberg, Antoine d -01510  01510                % 01682 RGTR--
+200417019 Kirchberg, Konrad Ad -01511  01511                % 01682 RGTR--
+200417013 Kirchberg, Coudenhov -01512  01512                % 01682 RGTR--
+200417002 Kirchberg, Albert Bo -01513  01513                % 01682 RGTR--
+200417036 Kirchberg, Réimerwee -01514  01514                % 01682 RGTR--
+200417004 Kirchberg, Alphonse  -01514  01514                % 01682 RGTR--
+200417015 Kirchberg, Hôpital   -01516  01516                % 01682 RGTR--
+400000077 Metzange, P&R Metzan  01544  01544                % 01682 RGTR--
+400000115 Thionville, Arlon     01548 -01548                % 01682 RGTR--
+400000092 Thionville, Foch Kio  01554                       % 01682 RGTR--
+*Z 01683 RGTR--                                             % 01683 RGTR--
+*L 503      200417048 400000092  01840  01924               % 01683 RGTR--
+*R 2 400000092 200417048 400000092  01840  01924            % 01683 RGTR--
+*G 070 200417048 400000092  01840  01924                    % 01683 RGTR--
+*A VE 200417048 400000092 000033  01840  01924              % 01683 RGTR--
+*I FD 200417048 400000092        0001336  01840  01924      % 01683 RGTR--
+200417048 Kirchberg, Europe Ga         01840                % 01683 RGTR--
+200417005 Kirchberg, Antoine d -01840  01840                % 01683 RGTR--
+200417019 Kirchberg, Konrad Ad -01841  01841                % 01683 RGTR--
+200417013 Kirchberg, Coudenhov -01842  01842                % 01683 RGTR--
+200417002 Kirchberg, Albert Bo -01843  01843                % 01683 RGTR--
+200417036 Kirchberg, Réimerwee -01844  01844                % 01683 RGTR--
+200417004 Kirchberg, Alphonse  -01844  01844                % 01683 RGTR--
+200417015 Kirchberg, Hôpital   -01846  01846                % 01683 RGTR--
+400000077 Metzange, P&R Metzan  01914  01914                % 01683 RGTR--
+400000115 Thionville, Arlon     01918 -01918                % 01683 RGTR--
+400000092 Thionville, Foch Kio  01924                       % 01683 RGTR--
+*Z 01684 RGTR--                                             % 01684 RGTR--
+*L 503      200417048 400000092  02110  02154               % 01684 RGTR--
+*R 2 400000092 200417048 400000092  02110  02154            % 01684 RGTR--
+*G 070 200417048 400000092  02110  02154                    % 01684 RGTR--
+*A VE 200417048 400000092 000033  02110  02154              % 01684 RGTR--
+*I FD 200417048 400000092        0001983  02110  02154      % 01684 RGTR--
+200417048 Kirchberg, Europe Ga         02110                % 01684 RGTR--
+200417005 Kirchberg, Antoine d -02110  02110                % 01684 RGTR--
+200417019 Kirchberg, Konrad Ad -02111  02111                % 01684 RGTR--
+200417013 Kirchberg, Coudenhov -02112  02112                % 01684 RGTR--
+200417002 Kirchberg, Albert Bo -02113  02113                % 01684 RGTR--
+200417036 Kirchberg, Réimerwee -02114  02114                % 01684 RGTR--
+200417004 Kirchberg, Alphonse  -02114  02114                % 01684 RGTR--
+200417015 Kirchberg, Hôpital   -02116  02116                % 01684 RGTR--
+400000077 Metzange, P&R Metzan  02144  02144                % 01684 RGTR--
+400000115 Thionville, Arlon     02148 -02148                % 01684 RGTR--
+400000092 Thionville, Foch Kio  02154                       % 01684 RGTR--
+*Z 01685 RGTR--                                             % 01685 RGTR--
+*L 503      200417048 400000092  00710  00754               % 01685 RGTR--
+*R 2 400000092 200417048 400000092  00710  00754            % 01685 RGTR--
+*G 130 200417048 400000092  00710  00754                    % 01685 RGTR--
+*A VE 200417048 400000092 000033  00710  00754              % 01685 RGTR--
+*I FD 200417048 400000092        0001984  00710  00754      % 01685 RGTR--
+200417048 Kirchberg, Europe Ga         00710                % 01685 RGTR--
+200417005 Kirchberg, Antoine d -00710  00710                % 01685 RGTR--
+200417019 Kirchberg, Konrad Ad -00711  00711                % 01685 RGTR--
+200417013 Kirchberg, Coudenhov -00712  00712                % 01685 RGTR--
+200417002 Kirchberg, Albert Bo -00713  00713                % 01685 RGTR--
+200417036 Kirchberg, Réimerwee -00714  00714                % 01685 RGTR--
+200417004 Kirchberg, Alphonse  -00714  00714                % 01685 RGTR--
+200417015 Kirchberg, Hôpital   -00716  00716                % 01685 RGTR--
+400000077 Metzange, P&R Metzan  00744  00744                % 01685 RGTR--
+400000115 Thionville, Arlon     00748 -00748                % 01685 RGTR--
+400000092 Thionville, Foch Kio  00754                       % 01685 RGTR--
+*Z 01686 RGTR--                                             % 01686 RGTR--
+*L 503      200417048 400000092  00810  00854               % 01686 RGTR--
+*R 2 400000092 200417048 400000092  00810  00854            % 01686 RGTR--
+*G 130 200417048 400000092  00810  00854                    % 01686 RGTR--
+*A VE 200417048 400000092 000033  00810  00854              % 01686 RGTR--
+*I FD 200417048 400000092        0001985  00810  00854      % 01686 RGTR--
+200417048 Kirchberg, Europe Ga         00810                % 01686 RGTR--
+200417005 Kirchberg, Antoine d -00810  00810                % 01686 RGTR--
+200417019 Kirchberg, Konrad Ad -00811  00811                % 01686 RGTR--
+200417013 Kirchberg, Coudenhov -00812  00812                % 01686 RGTR--
+200417002 Kirchberg, Albert Bo -00813  00813                % 01686 RGTR--
+200417036 Kirchberg, Réimerwee -00814  00814                % 01686 RGTR--
+200417004 Kirchberg, Alphonse  -00814  00814                % 01686 RGTR--
+200417015 Kirchberg, Hôpital   -00816  00816                % 01686 RGTR--
+400000077 Metzange, P&R Metzan  00844  00844                % 01686 RGTR--
+400000115 Thionville, Arlon     00848 -00848                % 01686 RGTR--
+400000092 Thionville, Foch Kio  00854                       % 01686 RGTR--
+*Z 01687 RGTR--                                             % 01687 RGTR--
+*L 503      200417048 400000092  01010  01054               % 01687 RGTR--
+*R 2 400000092 200417048 400000092  01010  01054            % 01687 RGTR--
+*G 130 200417048 400000092  01010  01054                    % 01687 RGTR--
+*A VE 200417048 400000092 000033  01010  01054              % 01687 RGTR--
+*I FD 200417048 400000092        0001986  01010  01054      % 01687 RGTR--
+200417048 Kirchberg, Europe Ga         01010                % 01687 RGTR--
+200417005 Kirchberg, Antoine d -01010  01010                % 01687 RGTR--
+200417019 Kirchberg, Konrad Ad -01011  01011                % 01687 RGTR--
+200417013 Kirchberg, Coudenhov -01012  01012                % 01687 RGTR--
+200417002 Kirchberg, Albert Bo -01013  01013                % 01687 RGTR--
+200417036 Kirchberg, Réimerwee -01014  01014                % 01687 RGTR--
+200417004 Kirchberg, Alphonse  -01014  01014                % 01687 RGTR--
+200417015 Kirchberg, Hôpital   -01016  01016                % 01687 RGTR--
+400000077 Metzange, P&R Metzan  01044  01044                % 01687 RGTR--
+400000115 Thionville, Arlon     01048 -01048                % 01687 RGTR--
+400000092 Thionville, Foch Kio  01054                       % 01687 RGTR--
+*Z 01688 RGTR--                                             % 01688 RGTR--
+*L 503      200417048 400000092  01110  01154               % 01688 RGTR--
+*R 2 400000092 200417048 400000092  01110  01154            % 01688 RGTR--
+*G 130 200417048 400000092  01110  01154                    % 01688 RGTR--
+*A VE 200417048 400000092 000033  01110  01154              % 01688 RGTR--
+*I FD 200417048 400000092        0001063  01110  01154      % 01688 RGTR--
+200417048 Kirchberg, Europe Ga         01110                % 01688 RGTR--
+200417005 Kirchberg, Antoine d -01110  01110                % 01688 RGTR--
+200417019 Kirchberg, Konrad Ad -01111  01111                % 01688 RGTR--
+200417013 Kirchberg, Coudenhov -01112  01112                % 01688 RGTR--
+200417002 Kirchberg, Albert Bo -01113  01113                % 01688 RGTR--
+200417036 Kirchberg, Réimerwee -01114  01114                % 01688 RGTR--
+200417004 Kirchberg, Alphonse  -01114  01114                % 01688 RGTR--
+200417015 Kirchberg, Hôpital   -01116  01116                % 01688 RGTR--
+400000077 Metzange, P&R Metzan  01144  01144                % 01688 RGTR--
+400000115 Thionville, Arlon     01148 -01148                % 01688 RGTR--
+400000092 Thionville, Foch Kio  01154                       % 01688 RGTR--
+*Z 01689 RGTR--                                             % 01689 RGTR--
+*L 503      200417048 400000092  01310  01354               % 01689 RGTR--
+*R 2 400000092 200417048 400000092  01310  01354            % 01689 RGTR--
+*G 130 200417048 400000092  01310  01354                    % 01689 RGTR--
+*A VE 200417048 400000092 000033  01310  01354              % 01689 RGTR--
+*I FD 200417048 400000092        0001987  01310  01354      % 01689 RGTR--
+200417048 Kirchberg, Europe Ga         01310                % 01689 RGTR--
+200417005 Kirchberg, Antoine d -01310  01310                % 01689 RGTR--
+200417019 Kirchberg, Konrad Ad -01311  01311                % 01689 RGTR--
+200417013 Kirchberg, Coudenhov -01312  01312                % 01689 RGTR--
+200417002 Kirchberg, Albert Bo -01313  01313                % 01689 RGTR--
+200417036 Kirchberg, Réimerwee -01314  01314                % 01689 RGTR--
+200417004 Kirchberg, Alphonse  -01314  01314                % 01689 RGTR--
+200417015 Kirchberg, Hôpital   -01316  01316                % 01689 RGTR--
+400000077 Metzange, P&R Metzan  01344  01344                % 01689 RGTR--
+400000115 Thionville, Arlon     01348 -01348                % 01689 RGTR--
+400000092 Thionville, Foch Kio  01354                       % 01689 RGTR--
+*Z 01690 RGTR--                                             % 01690 RGTR--
+*L 503      200417048 400000092  01410  01454               % 01690 RGTR--
+*R 2 400000092 200417048 400000092  01410  01454            % 01690 RGTR--
+*G 130 200417048 400000092  01410  01454                    % 01690 RGTR--
+*A VE 200417048 400000092 000033  01410  01454              % 01690 RGTR--
+*I FD 200417048 400000092        0001988  01410  01454      % 01690 RGTR--
+200417048 Kirchberg, Europe Ga         01410                % 01690 RGTR--
+200417005 Kirchberg, Antoine d -01410  01410                % 01690 RGTR--
+200417019 Kirchberg, Konrad Ad -01411  01411                % 01690 RGTR--
+200417013 Kirchberg, Coudenhov -01412  01412                % 01690 RGTR--
+200417002 Kirchberg, Albert Bo -01413  01413                % 01690 RGTR--
+200417036 Kirchberg, Réimerwee -01414  01414                % 01690 RGTR--
+200417004 Kirchberg, Alphonse  -01414  01414                % 01690 RGTR--
+200417015 Kirchberg, Hôpital   -01416  01416                % 01690 RGTR--
+400000077 Metzange, P&R Metzan  01444  01444                % 01690 RGTR--
+400000115 Thionville, Arlon     01448 -01448                % 01690 RGTR--
+400000092 Thionville, Foch Kio  01454                       % 01690 RGTR--
+*Z 01691 RGTR--                                             % 01691 RGTR--
+*L 503      200417048 400000092  01910  01954               % 01691 RGTR--
+*R 2 400000092 200417048 400000092  01910  01954            % 01691 RGTR--
+*G 130 200417048 400000092  01910  01954                    % 01691 RGTR--
+*A VE 200417048 400000092 000033  01910  01954              % 01691 RGTR--
+*I FD 200417048 400000092        0001989  01910  01954      % 01691 RGTR--
+200417048 Kirchberg, Europe Ga         01910                % 01691 RGTR--
+200417005 Kirchberg, Antoine d -01910  01910                % 01691 RGTR--
+200417019 Kirchberg, Konrad Ad -01911  01911                % 01691 RGTR--
+200417013 Kirchberg, Coudenhov -01912  01912                % 01691 RGTR--
+200417002 Kirchberg, Albert Bo -01913  01913                % 01691 RGTR--
+200417036 Kirchberg, Réimerwee -01914  01914                % 01691 RGTR--
+200417004 Kirchberg, Alphonse  -01914  01914                % 01691 RGTR--
+200417015 Kirchberg, Hôpital   -01916  01916                % 01691 RGTR--
+400000077 Metzange, P&R Metzan  01944  01944                % 01691 RGTR--
+400000115 Thionville, Arlon     01948 -01948                % 01691 RGTR--
+400000092 Thionville, Foch Kio  01954                       % 01691 RGTR--
+*Z 01692 RGTR--                                             % 01692 RGTR--
+*L 503      200417048 400000092  02010  02054               % 01692 RGTR--
+*R 2 400000092 200417048 400000092  02010  02054            % 01692 RGTR--
+*G 130 200417048 400000092  02010  02054                    % 01692 RGTR--
+*A VE 200417048 400000092 000033  02010  02054              % 01692 RGTR--
+*I FD 200417048 400000092        0001990  02010  02054      % 01692 RGTR--
+200417048 Kirchberg, Europe Ga         02010                % 01692 RGTR--
+200417005 Kirchberg, Antoine d -02010  02010                % 01692 RGTR--
+200417019 Kirchberg, Konrad Ad -02011  02011                % 01692 RGTR--
+200417013 Kirchberg, Coudenhov -02012  02012                % 01692 RGTR--
+200417002 Kirchberg, Albert Bo -02013  02013                % 01692 RGTR--
+200417036 Kirchberg, Réimerwee -02014  02014                % 01692 RGTR--
+200417004 Kirchberg, Alphonse  -02014  02014                % 01692 RGTR--
+200417015 Kirchberg, Hôpital   -02016  02016                % 01692 RGTR--
+400000077 Metzange, P&R Metzan  02044  02044                % 01692 RGTR--
+400000115 Thionville, Arlon     02048 -02048                % 01692 RGTR--
+400000092 Thionville, Foch Kio  02054                       % 01692 RGTR--
+*Z 01693 RGTR--                                             % 01693 RGTR--
+*L 503      200417048 400000092  02210  02254               % 01693 RGTR--
+*R 2 400000092 200417048 400000092  02210  02254            % 01693 RGTR--
+*G 130 200417048 400000092  02210  02254                    % 01693 RGTR--
+*A VE 200417048 400000092 000033  02210  02254              % 01693 RGTR--
+*I FD 200417048 400000092        0001991  02210  02254      % 01693 RGTR--
+200417048 Kirchberg, Europe Ga         02210                % 01693 RGTR--
+200417005 Kirchberg, Antoine d -02210  02210                % 01693 RGTR--
+200417019 Kirchberg, Konrad Ad -02211  02211                % 01693 RGTR--
+200417013 Kirchberg, Coudenhov -02212  02212                % 01693 RGTR--
+200417002 Kirchberg, Albert Bo -02213  02213                % 01693 RGTR--
+200417036 Kirchberg, Réimerwee -02214  02214                % 01693 RGTR--
+200417004 Kirchberg, Alphonse  -02214  02214                % 01693 RGTR--
+200417015 Kirchberg, Hôpital   -02216  02216                % 01693 RGTR--
+400000077 Metzange, P&R Metzan  02244  02244                % 01693 RGTR--
+400000115 Thionville, Arlon     02248 -02248                % 01693 RGTR--
+400000092 Thionville, Foch Kio  02254                       % 01693 RGTR--
+*Z 01694 RGTR--                                             % 01694 RGTR--
+*L 503      200417048 400000092  02310  02354               % 01694 RGTR--
+*R 2 400000092 200417048 400000092  02310  02354            % 01694 RGTR--
+*G 130 200417048 400000092  02310  02354                    % 01694 RGTR--
+*A VE 200417048 400000092 000033  02310  02354              % 01694 RGTR--
+*I FD 200417048 400000092        0001992  02310  02354      % 01694 RGTR--
+200417048 Kirchberg, Europe Ga         02310                % 01694 RGTR--
+200417005 Kirchberg, Antoine d -02310  02310                % 01694 RGTR--
+200417019 Kirchberg, Konrad Ad -02311  02311                % 01694 RGTR--
+200417013 Kirchberg, Coudenhov -02312  02312                % 01694 RGTR--
+200417002 Kirchberg, Albert Bo -02313  02313                % 01694 RGTR--
+200417036 Kirchberg, Réimerwee -02314  02314                % 01694 RGTR--
+200417004 Kirchberg, Alphonse  -02314  02314                % 01694 RGTR--
+200417015 Kirchberg, Hôpital   -02316  02316                % 01694 RGTR--
+400000077 Metzange, P&R Metzan  02344  02344                % 01694 RGTR--
+400000115 Thionville, Arlon     02348 -02348                % 01694 RGTR--
+400000092 Thionville, Foch Kio  02354                       % 01694 RGTR--
+*Z 01695 RGTR--                                             % 01695 RGTR--
+*L 503      200417048 400000092  01710  01821               % 01695 RGTR--
+*R 2 400000092 200417048 400000092  01710  01821            % 01695 RGTR--
+*G 070 200417048 400000092  01710  01821                    % 01695 RGTR--
+*A VE 200417048 400000092 000033  01710  01821              % 01695 RGTR--
+*I FD 200417048 400000092        0001993  01710  01821      % 01695 RGTR--
+200417048 Kirchberg, Europe Ga         01710                % 01695 RGTR--
+200417005 Kirchberg, Antoine d -01711  01711                % 01695 RGTR--
+200417019 Kirchberg, Konrad Ad -01712  01712                % 01695 RGTR--
+200417013 Kirchberg, Coudenhov -01713  01713                % 01695 RGTR--
+200417002 Kirchberg, Albert Bo -01714  01714                % 01695 RGTR--
+200417036 Kirchberg, Réimerwee -01715  01715                % 01695 RGTR--
+200417004 Kirchberg, Alphonse  -01716  01716                % 01695 RGTR--
+200417015 Kirchberg, Hôpital   -01718  01718                % 01695 RGTR--
+400000077 Metzange, P&R Metzan  01804  01804                % 01695 RGTR--
+400000115 Thionville, Arlon     01810 -01810                % 01695 RGTR--
+400000092 Thionville, Foch Kio  01821                       % 01695 RGTR--
+*Z 01696 RGTR--                                             % 01696 RGTR--
+*L 503      200417048 400000092  01740  01851               % 01696 RGTR--
+*R 2 400000092 200417048 400000092  01740  01851            % 01696 RGTR--
+*G 070 200417048 400000092  01740  01851                    % 01696 RGTR--
+*A VE 200417048 400000092 000033  01740  01851              % 01696 RGTR--
+*I FD 200417048 400000092        0001994  01740  01851      % 01696 RGTR--
+200417048 Kirchberg, Europe Ga         01740                % 01696 RGTR--
+200417005 Kirchberg, Antoine d -01741  01741                % 01696 RGTR--
+200417019 Kirchberg, Konrad Ad -01742  01742                % 01696 RGTR--
+200417013 Kirchberg, Coudenhov -01743  01743                % 01696 RGTR--
+200417002 Kirchberg, Albert Bo -01744  01744                % 01696 RGTR--
+200417036 Kirchberg, Réimerwee -01745  01745                % 01696 RGTR--
+200417004 Kirchberg, Alphonse  -01746  01746                % 01696 RGTR--
+200417015 Kirchberg, Hôpital   -01748  01748                % 01696 RGTR--
+400000077 Metzange, P&R Metzan  01834  01834                % 01696 RGTR--
+400000115 Thionville, Arlon     01840 -01840                % 01696 RGTR--
+400000092 Thionville, Foch Kio  01851                       % 01696 RGTR--
+*Z 01697 RGTR--                                             % 01697 RGTR--
+*L 503      200417048 400000092  01755  01906               % 01697 RGTR--
+*R 2 400000092 200417048 400000092  01755  01906            % 01697 RGTR--
+*G 070 200417048 400000092  01755  01906                    % 01697 RGTR--
+*A VE 200417048 400000092 000033  01755  01906              % 01697 RGTR--
+*I FD 200417048 400000092        0001995  01755  01906      % 01697 RGTR--
+200417048 Kirchberg, Europe Ga         01755                % 01697 RGTR--
+200417005 Kirchberg, Antoine d -01756  01756                % 01697 RGTR--
+200417019 Kirchberg, Konrad Ad -01757  01757                % 01697 RGTR--
+200417013 Kirchberg, Coudenhov -01758  01758                % 01697 RGTR--
+200417002 Kirchberg, Albert Bo -01759  01759                % 01697 RGTR--
+200417036 Kirchberg, Réimerwee -01800  01800                % 01697 RGTR--
+200417004 Kirchberg, Alphonse  -01801  01801                % 01697 RGTR--
+200417015 Kirchberg, Hôpital   -01803  01803                % 01697 RGTR--
+400000077 Metzange, P&R Metzan  01849  01849                % 01697 RGTR--
+400000115 Thionville, Arlon     01855 -01855                % 01697 RGTR--
+400000092 Thionville, Foch Kio  01906                       % 01697 RGTR--
+*Z 01698 RGTR--                                             % 01698 RGTR--
+*L 503      200417048 400000092  01810  01921               % 01698 RGTR--
+*R 2 400000092 200417048 400000092  01810  01921            % 01698 RGTR--
+*G 070 200417048 400000092  01810  01921                    % 01698 RGTR--
+*A VE 200417048 400000092 000033  01810  01921              % 01698 RGTR--
+*I FD 200417048 400000092        0001996  01810  01921      % 01698 RGTR--
+200417048 Kirchberg, Europe Ga         01810                % 01698 RGTR--
+200417005 Kirchberg, Antoine d -01811  01811                % 01698 RGTR--
+200417019 Kirchberg, Konrad Ad -01812  01812                % 01698 RGTR--
+200417013 Kirchberg, Coudenhov -01813  01813                % 01698 RGTR--
+200417002 Kirchberg, Albert Bo -01814  01814                % 01698 RGTR--
+200417036 Kirchberg, Réimerwee -01815  01815                % 01698 RGTR--
+200417004 Kirchberg, Alphonse  -01816  01816                % 01698 RGTR--
+200417015 Kirchberg, Hôpital   -01818  01818                % 01698 RGTR--
+400000077 Metzange, P&R Metzan  01904  01904                % 01698 RGTR--
+400000115 Thionville, Arlon     01910 -01910                % 01698 RGTR--
+400000092 Thionville, Foch Kio  01921                       % 01698 RGTR--
+*Z 01699 RGTR--                                             % 01699 RGTR--
+*L 503      200417048 400000092  01610  01721               % 01699 RGTR--
+*R 2 400000092 200417048 400000092  01610  01721            % 01699 RGTR--
+*G 130 200417048 400000092  01610  01721                    % 01699 RGTR--
+*A VE 200417048 400000092 000033  01610  01721              % 01699 RGTR--
+*I FD 200417048 400000092        0001997  01610  01721      % 01699 RGTR--
+200417048 Kirchberg, Europe Ga         01610                % 01699 RGTR--
+200417005 Kirchberg, Antoine d -01611  01611                % 01699 RGTR--
+200417019 Kirchberg, Konrad Ad -01612  01612                % 01699 RGTR--
+200417013 Kirchberg, Coudenhov -01613  01613                % 01699 RGTR--
+200417002 Kirchberg, Albert Bo -01614  01614                % 01699 RGTR--
+200417036 Kirchberg, Réimerwee -01615  01615                % 01699 RGTR--
+200417004 Kirchberg, Alphonse  -01616  01616                % 01699 RGTR--
+200417015 Kirchberg, Hôpital   -01618  01618                % 01699 RGTR--
+400000077 Metzange, P&R Metzan  01704  01704                % 01699 RGTR--
+400000115 Thionville, Arlon     01710 -01710                % 01699 RGTR--
+400000092 Thionville, Foch Kio  01721                       % 01699 RGTR--
+*Z 01700 RGTR--                                             % 01700 RGTR--
+*L 503      200417048 400000092  01640  01751               % 01700 RGTR--
+*R 2 400000092 200417048 400000092  01640  01751            % 01700 RGTR--
+*G 130 200417048 400000092  01640  01751                    % 01700 RGTR--
+*A VE 200417048 400000092 000033  01640  01751              % 01700 RGTR--
+*I FD 200417048 400000092        0001261  01640  01751      % 01700 RGTR--
+200417048 Kirchberg, Europe Ga         01640                % 01700 RGTR--
+200417005 Kirchberg, Antoine d -01641  01641                % 01700 RGTR--
+200417019 Kirchberg, Konrad Ad -01642  01642                % 01700 RGTR--
+200417013 Kirchberg, Coudenhov -01643  01643                % 01700 RGTR--
+200417002 Kirchberg, Albert Bo -01644  01644                % 01700 RGTR--
+200417036 Kirchberg, Réimerwee -01645  01645                % 01700 RGTR--
+200417004 Kirchberg, Alphonse  -01646  01646                % 01700 RGTR--
+200417015 Kirchberg, Hôpital   -01648  01648                % 01700 RGTR--
+400000077 Metzange, P&R Metzan  01734  01734                % 01700 RGTR--
+400000115 Thionville, Arlon     01740 -01740                % 01700 RGTR--
+400000092 Thionville, Foch Kio  01751                       % 01700 RGTR--
+*Z 01701 RGTR--                                             % 01701 RGTR--
+*L 503      200417048 400000092  01655  01806               % 01701 RGTR--
+*R 2 400000092 200417048 400000092  01655  01806            % 01701 RGTR--
+*G 130 200417048 400000092  01655  01806                    % 01701 RGTR--
+*A VE 200417048 400000092 000033  01655  01806              % 01701 RGTR--
+*I FD 200417048 400000092        0001998  01655  01806      % 01701 RGTR--
+200417048 Kirchberg, Europe Ga         01655                % 01701 RGTR--
+200417005 Kirchberg, Antoine d -01656  01656                % 01701 RGTR--
+200417019 Kirchberg, Konrad Ad -01657  01657                % 01701 RGTR--
+200417013 Kirchberg, Coudenhov -01658  01658                % 01701 RGTR--
+200417002 Kirchberg, Albert Bo -01659  01659                % 01701 RGTR--
+200417036 Kirchberg, Réimerwee -01700  01700                % 01701 RGTR--
+200417004 Kirchberg, Alphonse  -01701  01701                % 01701 RGTR--
+200417015 Kirchberg, Hôpital   -01703  01703                % 01701 RGTR--
+400000077 Metzange, P&R Metzan  01749  01749                % 01701 RGTR--
+400000115 Thionville, Arlon     01755 -01755                % 01701 RGTR--
+400000092 Thionville, Foch Kio  01806                       % 01701 RGTR--
+*Z 01702 RGTR--                                             % 01702 RGTR--
+*L 503      200417048 400000092  01725  01836               % 01702 RGTR--
+*R 2 400000092 200417048 400000092  01725  01836            % 01702 RGTR--
+*G 130 200417048 400000092  01725  01836                    % 01702 RGTR--
+*A VE 200417048 400000092 000033  01725  01836              % 01702 RGTR--
+*I FD 200417048 400000092        0001999  01725  01836      % 01702 RGTR--
+200417048 Kirchberg, Europe Ga         01725                % 01702 RGTR--
+200417005 Kirchberg, Antoine d -01726  01726                % 01702 RGTR--
+200417019 Kirchberg, Konrad Ad -01727  01727                % 01702 RGTR--
+200417013 Kirchberg, Coudenhov -01728  01728                % 01702 RGTR--
+200417002 Kirchberg, Albert Bo -01729  01729                % 01702 RGTR--
+200417036 Kirchberg, Réimerwee -01730  01730                % 01702 RGTR--
+200417004 Kirchberg, Alphonse  -01731  01731                % 01702 RGTR--
+200417015 Kirchberg, Hôpital   -01733  01733                % 01702 RGTR--
+400000077 Metzange, P&R Metzan  01819  01819                % 01702 RGTR--
+400000115 Thionville, Arlon     01825 -01825                % 01702 RGTR--
+400000092 Thionville, Foch Kio  01836                       % 01702 RGTR--
+*Z 01703 RGTR--                                             % 01703 RGTR--
+*L 503      400000092 200417048  00500  00544               % 01703 RGTR--
+*R 1 200417048 400000092 200417048  00500  00544            % 01703 RGTR--
+*G 070 400000092 200417048  00500  00544                    % 01703 RGTR--
+*A VE 400000092 200417048 000034  00500  00544              % 01703 RGTR--
+*I FD 400000092 200417048        0001725  00500  00544      % 01703 RGTR--
+400000092 Thionville, Foch Kio         00500                % 01703 RGTR--
+400000116 Thionville, Esch     -00506  00506                % 01703 RGTR--
+400000077 Metzange, P&R Metzan  00511  00511                % 01703 RGTR--
+200417015 Kirchberg, Hôpital    00537 -00537                % 01703 RGTR--
+200417004 Kirchberg, Alphonse   00538 -00538                % 01703 RGTR--
+200417036 Kirchberg, Réimerwee  00539 -00539                % 01703 RGTR--
+200417002 Kirchberg, Albert Bo  00540 -00540                % 01703 RGTR--
+200417013 Kirchberg, Coudenhov  00541 -00541                % 01703 RGTR--
+200417019 Kirchberg, Konrad Ad  00542 -00542                % 01703 RGTR--
+200417005 Kirchberg, Antoine d  00543 -00543                % 01703 RGTR--
+200417048 Kirchberg, Europe Ga  00544                       % 01703 RGTR--
+*Z 01704 RGTR--                                             % 01704 RGTR--
+*L 503      400000092 200417048  00530  00614               % 01704 RGTR--
+*R 1 200417048 400000092 200417048  00530  00614            % 01704 RGTR--
+*G 070 400000092 200417048  00530  00614                    % 01704 RGTR--
+*A VE 400000092 200417048 000034  00530  00614              % 01704 RGTR--
+*I FD 400000092 200417048        0001969  00530  00614      % 01704 RGTR--
+400000092 Thionville, Foch Kio         00530                % 01704 RGTR--
+400000116 Thionville, Esch     -00536  00536                % 01704 RGTR--
+400000077 Metzange, P&R Metzan  00541  00541                % 01704 RGTR--
+200417015 Kirchberg, Hôpital    00607 -00607                % 01704 RGTR--
+200417004 Kirchberg, Alphonse   00608 -00608                % 01704 RGTR--
+200417036 Kirchberg, Réimerwee  00609 -00609                % 01704 RGTR--
+200417002 Kirchberg, Albert Bo  00610 -00610                % 01704 RGTR--
+200417013 Kirchberg, Coudenhov  00611 -00611                % 01704 RGTR--
+200417019 Kirchberg, Konrad Ad  00612 -00612                % 01704 RGTR--
+200417005 Kirchberg, Antoine d  00613 -00613                % 01704 RGTR--
+200417048 Kirchberg, Europe Ga  00614                       % 01704 RGTR--
+*Z 01705 RGTR--                                             % 01705 RGTR--
+*L 503      400000092 200417048  00615  00659               % 01705 RGTR--
+*R 1 200417048 400000092 200417048  00615  00659            % 01705 RGTR--
+*G 070 400000092 200417048  00615  00659                    % 01705 RGTR--
+*A VE 400000092 200417048 000034  00615  00659              % 01705 RGTR--
+*I FD 400000092 200417048        0001887  00615  00659      % 01705 RGTR--
+400000092 Thionville, Foch Kio         00615                % 01705 RGTR--
+400000116 Thionville, Esch     -00621  00621                % 01705 RGTR--
+400000077 Metzange, P&R Metzan  00626  00626                % 01705 RGTR--
+200417015 Kirchberg, Hôpital    00652 -00652                % 01705 RGTR--
+200417004 Kirchberg, Alphonse   00653 -00653                % 01705 RGTR--
+200417036 Kirchberg, Réimerwee  00654 -00654                % 01705 RGTR--
+200417002 Kirchberg, Albert Bo  00655 -00655                % 01705 RGTR--
+200417013 Kirchberg, Coudenhov  00656 -00656                % 01705 RGTR--
+200417019 Kirchberg, Konrad Ad  00657 -00657                % 01705 RGTR--
+200417005 Kirchberg, Antoine d  00658 -00658                % 01705 RGTR--
+200417048 Kirchberg, Europe Ga  00659                       % 01705 RGTR--
+*Z 01706 RGTR--                                             % 01706 RGTR--
+*L 503      400000092 200417048  01030  01114               % 01706 RGTR--
+*R 1 200417048 400000092 200417048  01030  01114            % 01706 RGTR--
+*G 070 400000092 200417048  01030  01114                    % 01706 RGTR--
+*A VE 400000092 200417048 000034  01030  01114              % 01706 RGTR--
+*I FD 400000092 200417048        0001970  01030  01114      % 01706 RGTR--
+400000092 Thionville, Foch Kio         01030                % 01706 RGTR--
+400000116 Thionville, Esch     -01036  01036                % 01706 RGTR--
+400000077 Metzange, P&R Metzan  01041  01041                % 01706 RGTR--
+200417015 Kirchberg, Hôpital    01107 -01107                % 01706 RGTR--
+200417004 Kirchberg, Alphonse   01108 -01108                % 01706 RGTR--
+200417036 Kirchberg, Réimerwee  01109 -01109                % 01706 RGTR--
+200417002 Kirchberg, Albert Bo  01110 -01110                % 01706 RGTR--
+200417013 Kirchberg, Coudenhov  01111 -01111                % 01706 RGTR--
+200417019 Kirchberg, Konrad Ad  01112 -01112                % 01706 RGTR--
+200417005 Kirchberg, Antoine d  01113 -01113                % 01706 RGTR--
+200417048 Kirchberg, Europe Ga  01114                       % 01706 RGTR--
+*Z 01707 RGTR--                                             % 01707 RGTR--
+*L 503      400000092 200417048  01330  01414               % 01707 RGTR--
+*R 1 200417048 400000092 200417048  01330  01414            % 01707 RGTR--
+*G 070 400000092 200417048  01330  01414                    % 01707 RGTR--
+*A VE 400000092 200417048 000034  01330  01414              % 01707 RGTR--
+*I FD 400000092 200417048        0001971  01330  01414      % 01707 RGTR--
+400000092 Thionville, Foch Kio         01330                % 01707 RGTR--
+400000116 Thionville, Esch     -01336  01336                % 01707 RGTR--
+400000077 Metzange, P&R Metzan  01341  01341                % 01707 RGTR--
+200417015 Kirchberg, Hôpital    01407 -01407                % 01707 RGTR--
+200417004 Kirchberg, Alphonse   01408 -01408                % 01707 RGTR--
+200417036 Kirchberg, Réimerwee  01409 -01409                % 01707 RGTR--
+200417002 Kirchberg, Albert Bo  01410 -01410                % 01707 RGTR--
+200417013 Kirchberg, Coudenhov  01411 -01411                % 01707 RGTR--
+200417019 Kirchberg, Konrad Ad  01412 -01412                % 01707 RGTR--
+200417005 Kirchberg, Antoine d  01413 -01413                % 01707 RGTR--
+200417048 Kirchberg, Europe Ga  01414                       % 01707 RGTR--
+*Z 01708 RGTR--                                             % 01708 RGTR--
+*L 503      400000092 200417048  01630  01714               % 01708 RGTR--
+*R 1 200417048 400000092 200417048  01630  01714            % 01708 RGTR--
+*G 070 400000092 200417048  01630  01714                    % 01708 RGTR--
+*A VE 400000092 200417048 000034  01630  01714              % 01708 RGTR--
+*I FD 400000092 200417048        0001731  01630  01714      % 01708 RGTR--
+400000092 Thionville, Foch Kio         01630                % 01708 RGTR--
+400000116 Thionville, Esch     -01636  01636                % 01708 RGTR--
+400000077 Metzange, P&R Metzan  01641  01641                % 01708 RGTR--
+200417015 Kirchberg, Hôpital    01707 -01707                % 01708 RGTR--
+200417004 Kirchberg, Alphonse   01708 -01708                % 01708 RGTR--
+200417036 Kirchberg, Réimerwee  01709 -01709                % 01708 RGTR--
+200417002 Kirchberg, Albert Bo  01710 -01710                % 01708 RGTR--
+200417013 Kirchberg, Coudenhov  01711 -01711                % 01708 RGTR--
+200417019 Kirchberg, Konrad Ad  01712 -01712                % 01708 RGTR--
+200417005 Kirchberg, Antoine d  01713 -01713                % 01708 RGTR--
+200417048 Kirchberg, Europe Ga  01714                       % 01708 RGTR--
+*Z 01709 RGTR--                                             % 01709 RGTR--
+*L 503      400000092 200417048  01730  01814               % 01709 RGTR--
+*R 1 200417048 400000092 200417048  01730  01814            % 01709 RGTR--
+*G 070 400000092 200417048  01730  01814                    % 01709 RGTR--
+*A VE 400000092 200417048 000034  01730  01814              % 01709 RGTR--
+*I FD 400000092 200417048        0001733  01730  01814      % 01709 RGTR--
+400000092 Thionville, Foch Kio         01730                % 01709 RGTR--
+400000116 Thionville, Esch     -01736  01736                % 01709 RGTR--
+400000077 Metzange, P&R Metzan  01741  01741                % 01709 RGTR--
+200417015 Kirchberg, Hôpital    01807 -01807                % 01709 RGTR--
+200417004 Kirchberg, Alphonse   01808 -01808                % 01709 RGTR--
+200417036 Kirchberg, Réimerwee  01809 -01809                % 01709 RGTR--
+200417002 Kirchberg, Albert Bo  01810 -01810                % 01709 RGTR--
+200417013 Kirchberg, Coudenhov  01811 -01811                % 01709 RGTR--
+200417019 Kirchberg, Konrad Ad  01812 -01812                % 01709 RGTR--
+200417005 Kirchberg, Antoine d  01813 -01813                % 01709 RGTR--
+200417048 Kirchberg, Europe Ga  01814                       % 01709 RGTR--
+*Z 01710 RGTR--                                             % 01710 RGTR--
+*L 503      400000092 200417048  01930  02014               % 01710 RGTR--
+*R 1 200417048 400000092 200417048  01930  02014            % 01710 RGTR--
+*G 070 400000092 200417048  01930  02014                    % 01710 RGTR--
+*A VE 400000092 200417048 000034  01930  02014              % 01710 RGTR--
+*I FD 400000092 200417048        0001386  01930  02014      % 01710 RGTR--
+400000092 Thionville, Foch Kio         01930                % 01710 RGTR--
+400000116 Thionville, Esch     -01936  01936                % 01710 RGTR--
+400000077 Metzange, P&R Metzan  01941  01941                % 01710 RGTR--
+200417015 Kirchberg, Hôpital    02007 -02007                % 01710 RGTR--
+200417004 Kirchberg, Alphonse   02008 -02008                % 01710 RGTR--
+200417036 Kirchberg, Réimerwee  02009 -02009                % 01710 RGTR--
+200417002 Kirchberg, Albert Bo  02010 -02010                % 01710 RGTR--
+200417013 Kirchberg, Coudenhov  02011 -02011                % 01710 RGTR--
+200417019 Kirchberg, Konrad Ad  02012 -02012                % 01710 RGTR--
+200417005 Kirchberg, Antoine d  02013 -02013                % 01710 RGTR--
+200417048 Kirchberg, Europe Ga  02014                       % 01710 RGTR--
+*Z 01711 RGTR--                                             % 01711 RGTR--
+*L 503      400000092 200417048  02230  02314               % 01711 RGTR--
+*R 1 200417048 400000092 200417048  02230  02314            % 01711 RGTR--
+*G 070 400000092 200417048  02230  02314                    % 01711 RGTR--
+*A VE 400000092 200417048 000034  02230  02314              % 01711 RGTR--
+*I FD 400000092 200417048        0001972  02230  02314      % 01711 RGTR--
+400000092 Thionville, Foch Kio         02230                % 01711 RGTR--
+400000116 Thionville, Esch     -02236  02236                % 01711 RGTR--
+400000077 Metzange, P&R Metzan  02241  02241                % 01711 RGTR--
+200417015 Kirchberg, Hôpital    02307 -02307                % 01711 RGTR--
+200417004 Kirchberg, Alphonse   02308 -02308                % 01711 RGTR--
+200417036 Kirchberg, Réimerwee  02309 -02309                % 01711 RGTR--
+200417002 Kirchberg, Albert Bo  02310 -02310                % 01711 RGTR--
+200417013 Kirchberg, Coudenhov  02311 -02311                % 01711 RGTR--
+200417019 Kirchberg, Konrad Ad  02312 -02312                % 01711 RGTR--
+200417005 Kirchberg, Antoine d  02313 -02313                % 01711 RGTR--
+200417048 Kirchberg, Europe Ga  02314                       % 01711 RGTR--
+*Z 01712 RGTR--                                             % 01712 RGTR--
+*L 503      400000092 200417048  00515  00559               % 01712 RGTR--
+*R 1 200417048 400000092 200417048  00515  00559            % 01712 RGTR--
+*G 130 400000092 200417048  00515  00559                    % 01712 RGTR--
+*A VE 400000092 200417048 000034  00515  00559              % 01712 RGTR--
+*I FD 400000092 200417048        0001886  00515  00559      % 01712 RGTR--
+400000092 Thionville, Foch Kio         00515                % 01712 RGTR--
+400000116 Thionville, Esch     -00521  00521                % 01712 RGTR--
+400000077 Metzange, P&R Metzan  00526  00526                % 01712 RGTR--
+200417015 Kirchberg, Hôpital    00552 -00552                % 01712 RGTR--
+200417004 Kirchberg, Alphonse   00553 -00553                % 01712 RGTR--
+200417036 Kirchberg, Réimerwee  00554 -00554                % 01712 RGTR--
+200417002 Kirchberg, Albert Bo  00555 -00555                % 01712 RGTR--
+200417013 Kirchberg, Coudenhov  00556 -00556                % 01712 RGTR--
+200417019 Kirchberg, Konrad Ad  00557 -00557                % 01712 RGTR--
+200417005 Kirchberg, Antoine d  00558 -00558                % 01712 RGTR--
+200417048 Kirchberg, Europe Ga  00559                       % 01712 RGTR--
+*Z 01713 RGTR--                                             % 01713 RGTR--
+*L 503      400000092 200417048  00545  00629               % 01713 RGTR--
+*R 1 200417048 400000092 200417048  00545  00629            % 01713 RGTR--
+*G 130 400000092 200417048  00545  00629                    % 01713 RGTR--
+*A VE 400000092 200417048 000034  00545  00629              % 01713 RGTR--
+*I FD 400000092 200417048        0001953  00545  00629      % 01713 RGTR--
+400000092 Thionville, Foch Kio         00545                % 01713 RGTR--
+400000116 Thionville, Esch     -00551  00551                % 01713 RGTR--
+400000077 Metzange, P&R Metzan  00556  00556                % 01713 RGTR--
+200417015 Kirchberg, Hôpital    00622 -00622                % 01713 RGTR--
+200417004 Kirchberg, Alphonse   00623 -00623                % 01713 RGTR--
+200417036 Kirchberg, Réimerwee  00624 -00624                % 01713 RGTR--
+200417002 Kirchberg, Albert Bo  00625 -00625                % 01713 RGTR--
+200417013 Kirchberg, Coudenhov  00626 -00626                % 01713 RGTR--
+200417019 Kirchberg, Konrad Ad  00627 -00627                % 01713 RGTR--
+200417005 Kirchberg, Antoine d  00628 -00628                % 01713 RGTR--
+200417048 Kirchberg, Europe Ga  00629                       % 01713 RGTR--
+*Z 01714 RGTR--                                             % 01714 RGTR--
+*L 503      400000092 200417048  00600  00644               % 01714 RGTR--
+*R 1 200417048 400000092 200417048  00600  00644            % 01714 RGTR--
+*G 130 400000092 200417048  00600  00644                    % 01714 RGTR--
+*A VE 400000092 200417048 000034  00600  00644              % 01714 RGTR--
+*I FD 400000092 200417048        0001717  00600  00644      % 01714 RGTR--
+400000092 Thionville, Foch Kio         00600                % 01714 RGTR--
+400000116 Thionville, Esch     -00606  00606                % 01714 RGTR--
+400000077 Metzange, P&R Metzan  00611  00611                % 01714 RGTR--
+200417015 Kirchberg, Hôpital    00637 -00637                % 01714 RGTR--
+200417004 Kirchberg, Alphonse   00638 -00638                % 01714 RGTR--
+200417036 Kirchberg, Réimerwee  00639 -00639                % 01714 RGTR--
+200417002 Kirchberg, Albert Bo  00640 -00640                % 01714 RGTR--
+200417013 Kirchberg, Coudenhov  00641 -00641                % 01714 RGTR--
+200417019 Kirchberg, Konrad Ad  00642 -00642                % 01714 RGTR--
+200417005 Kirchberg, Antoine d  00643 -00643                % 01714 RGTR--
+200417048 Kirchberg, Europe Ga  00644                       % 01714 RGTR--
+*Z 01715 RGTR--                                             % 01715 RGTR--
+*L 503      400000092 200417048  00630  00714               % 01715 RGTR--
+*R 1 200417048 400000092 200417048  00630  00714            % 01715 RGTR--
+*G 130 400000092 200417048  00630  00714                    % 01715 RGTR--
+*A VE 400000092 200417048 000034  00630  00714              % 01715 RGTR--
+*I FD 400000092 200417048        0000839  00630  00714      % 01715 RGTR--
+400000092 Thionville, Foch Kio         00630                % 01715 RGTR--
+400000116 Thionville, Esch     -00636  00636                % 01715 RGTR--
+400000077 Metzange, P&R Metzan  00641  00641                % 01715 RGTR--
+200417015 Kirchberg, Hôpital    00707 -00707                % 01715 RGTR--
+200417004 Kirchberg, Alphonse   00708 -00708                % 01715 RGTR--
+200417036 Kirchberg, Réimerwee  00709 -00709                % 01715 RGTR--
+200417002 Kirchberg, Albert Bo  00710 -00710                % 01715 RGTR--
+200417013 Kirchberg, Coudenhov  00711 -00711                % 01715 RGTR--
+200417019 Kirchberg, Konrad Ad  00712 -00712                % 01715 RGTR--
+200417005 Kirchberg, Antoine d  00713 -00713                % 01715 RGTR--
+200417048 Kirchberg, Europe Ga  00714                       % 01715 RGTR--
+*Z 01716 RGTR--                                             % 01716 RGTR--
+*L 503      400000092 200417048  01130  01214               % 01716 RGTR--
+*R 1 200417048 400000092 200417048  01130  01214            % 01716 RGTR--
+*G 130 400000092 200417048  01130  01214                    % 01716 RGTR--
+*A VE 400000092 200417048 000034  01130  01214              % 01716 RGTR--
+*I FD 400000092 200417048        0001973  01130  01214      % 01716 RGTR--
+400000092 Thionville, Foch Kio         01130                % 01716 RGTR--
+400000116 Thionville, Esch     -01136  01136                % 01716 RGTR--
+400000077 Metzange, P&R Metzan  01141  01141                % 01716 RGTR--
+200417015 Kirchberg, Hôpital    01207 -01207                % 01716 RGTR--
+200417004 Kirchberg, Alphonse   01208 -01208                % 01716 RGTR--
+200417036 Kirchberg, Réimerwee  01209 -01209                % 01716 RGTR--
+200417002 Kirchberg, Albert Bo  01210 -01210                % 01716 RGTR--
+200417013 Kirchberg, Coudenhov  01211 -01211                % 01716 RGTR--
+200417019 Kirchberg, Konrad Ad  01212 -01212                % 01716 RGTR--
+200417005 Kirchberg, Antoine d  01213 -01213                % 01716 RGTR--
+200417048 Kirchberg, Europe Ga  01214                       % 01716 RGTR--
+*Z 01717 RGTR--                                             % 01717 RGTR--
+*L 503      400000092 200417048  01230  01314               % 01717 RGTR--
+*R 1 200417048 400000092 200417048  01230  01314            % 01717 RGTR--
+*G 130 400000092 200417048  01230  01314                    % 01717 RGTR--
+*A VE 400000092 200417048 000034  01230  01314              % 01717 RGTR--
+*I FD 400000092 200417048        0001974  01230  01314      % 01717 RGTR--
+400000092 Thionville, Foch Kio         01230                % 01717 RGTR--
+400000116 Thionville, Esch     -01236  01236                % 01717 RGTR--
+400000077 Metzange, P&R Metzan  01241  01241                % 01717 RGTR--
+200417015 Kirchberg, Hôpital    01307 -01307                % 01717 RGTR--
+200417004 Kirchberg, Alphonse   01308 -01308                % 01717 RGTR--
+200417036 Kirchberg, Réimerwee  01309 -01309                % 01717 RGTR--
+200417002 Kirchberg, Albert Bo  01310 -01310                % 01717 RGTR--
+200417013 Kirchberg, Coudenhov  01311 -01311                % 01717 RGTR--
+200417019 Kirchberg, Konrad Ad  01312 -01312                % 01717 RGTR--
+200417005 Kirchberg, Antoine d  01313 -01313                % 01717 RGTR--
+200417048 Kirchberg, Europe Ga  01314                       % 01717 RGTR--
+*Z 01718 RGTR--                                             % 01718 RGTR--
+*L 503      400000092 200417048  01430  01514               % 01718 RGTR--
+*R 1 200417048 400000092 200417048  01430  01514            % 01718 RGTR--
+*G 130 400000092 200417048  01430  01514                    % 01718 RGTR--
+*A VE 400000092 200417048 000034  01430  01514              % 01718 RGTR--
+*I FD 400000092 200417048        0001975  01430  01514      % 01718 RGTR--
+400000092 Thionville, Foch Kio         01430                % 01718 RGTR--
+400000116 Thionville, Esch     -01436  01436                % 01718 RGTR--
+400000077 Metzange, P&R Metzan  01441  01441                % 01718 RGTR--
+200417015 Kirchberg, Hôpital    01507 -01507                % 01718 RGTR--
+200417004 Kirchberg, Alphonse   01508 -01508                % 01718 RGTR--
+200417036 Kirchberg, Réimerwee  01509 -01509                % 01718 RGTR--
+200417002 Kirchberg, Albert Bo  01510 -01510                % 01718 RGTR--
+200417013 Kirchberg, Coudenhov  01511 -01511                % 01718 RGTR--
+200417019 Kirchberg, Konrad Ad  01512 -01512                % 01718 RGTR--
+200417005 Kirchberg, Antoine d  01513 -01513                % 01718 RGTR--
+200417048 Kirchberg, Europe Ga  01514                       % 01718 RGTR--
+*Z 01719 RGTR--                                             % 01719 RGTR--
+*L 503      400000092 200417048  01530  01614               % 01719 RGTR--
+*R 1 200417048 400000092 200417048  01530  01614            % 01719 RGTR--
+*G 130 400000092 200417048  01530  01614                    % 01719 RGTR--
+*A VE 400000092 200417048 000034  01530  01614              % 01719 RGTR--
+*I FD 400000092 200417048        0001976  01530  01614      % 01719 RGTR--
+400000092 Thionville, Foch Kio         01530                % 01719 RGTR--
+400000116 Thionville, Esch     -01536  01536                % 01719 RGTR--
+400000077 Metzange, P&R Metzan  01541  01541                % 01719 RGTR--
+200417015 Kirchberg, Hôpital    01607 -01607                % 01719 RGTR--
+200417004 Kirchberg, Alphonse   01608 -01608                % 01719 RGTR--
+200417036 Kirchberg, Réimerwee  01609 -01609                % 01719 RGTR--
+200417002 Kirchberg, Albert Bo  01610 -01610                % 01719 RGTR--
+200417013 Kirchberg, Coudenhov  01611 -01611                % 01719 RGTR--
+200417019 Kirchberg, Konrad Ad  01612 -01612                % 01719 RGTR--
+200417005 Kirchberg, Antoine d  01613 -01613                % 01719 RGTR--
+200417048 Kirchberg, Europe Ga  01614                       % 01719 RGTR--
+*Z 01720 RGTR--                                             % 01720 RGTR--
+*L 503      400000092 200417048  01830  01914               % 01720 RGTR--
+*R 1 200417048 400000092 200417048  01830  01914            % 01720 RGTR--
+*G 130 400000092 200417048  01830  01914                    % 01720 RGTR--
+*A VE 400000092 200417048 000034  01830  01914              % 01720 RGTR--
+*I FD 400000092 200417048        0001722  01830  01914      % 01720 RGTR--
+400000092 Thionville, Foch Kio         01830                % 01720 RGTR--
+400000116 Thionville, Esch     -01836  01836                % 01720 RGTR--
+400000077 Metzange, P&R Metzan  01841  01841                % 01720 RGTR--
+200417015 Kirchberg, Hôpital    01907 -01907                % 01720 RGTR--
+200417004 Kirchberg, Alphonse   01908 -01908                % 01720 RGTR--
+200417036 Kirchberg, Réimerwee  01909 -01909                % 01720 RGTR--
+200417002 Kirchberg, Albert Bo  01910 -01910                % 01720 RGTR--
+200417013 Kirchberg, Coudenhov  01911 -01911                % 01720 RGTR--
+200417019 Kirchberg, Konrad Ad  01912 -01912                % 01720 RGTR--
+200417005 Kirchberg, Antoine d  01913 -01913                % 01720 RGTR--
+200417048 Kirchberg, Europe Ga  01914                       % 01720 RGTR--
+*Z 01721 RGTR--                                             % 01721 RGTR--
+*L 503      400000092 200417048  02030  02114               % 01721 RGTR--
+*R 1 200417048 400000092 200417048  02030  02114            % 01721 RGTR--
+*G 130 400000092 200417048  02030  02114                    % 01721 RGTR--
+*A VE 400000092 200417048 000034  02030  02114              % 01721 RGTR--
+*I FD 400000092 200417048        0001977  02030  02114      % 01721 RGTR--
+400000092 Thionville, Foch Kio         02030                % 01721 RGTR--
+400000116 Thionville, Esch     -02036  02036                % 01721 RGTR--
+400000077 Metzange, P&R Metzan  02041  02041                % 01721 RGTR--
+200417015 Kirchberg, Hôpital    02107 -02107                % 01721 RGTR--
+200417004 Kirchberg, Alphonse   02108 -02108                % 01721 RGTR--
+200417036 Kirchberg, Réimerwee  02109 -02109                % 01721 RGTR--
+200417002 Kirchberg, Albert Bo  02110 -02110                % 01721 RGTR--
+200417013 Kirchberg, Coudenhov  02111 -02111                % 01721 RGTR--
+200417019 Kirchberg, Konrad Ad  02112 -02112                % 01721 RGTR--
+200417005 Kirchberg, Antoine d  02113 -02113                % 01721 RGTR--
+200417048 Kirchberg, Europe Ga  02114                       % 01721 RGTR--
+*Z 01722 RGTR--                                             % 01722 RGTR--
+*L 503      400000092 200417048  02130  02214               % 01722 RGTR--
+*R 1 200417048 400000092 200417048  02130  02214            % 01722 RGTR--
+*G 130 400000092 200417048  02130  02214                    % 01722 RGTR--
+*A VE 400000092 200417048 000034  02130  02214              % 01722 RGTR--
+*I FD 400000092 200417048        0001978  02130  02214      % 01722 RGTR--
+400000092 Thionville, Foch Kio         02130                % 01722 RGTR--
+400000116 Thionville, Esch     -02136  02136                % 01722 RGTR--
+400000077 Metzange, P&R Metzan  02141  02141                % 01722 RGTR--
+200417015 Kirchberg, Hôpital    02207 -02207                % 01722 RGTR--
+200417004 Kirchberg, Alphonse   02208 -02208                % 01722 RGTR--
+200417036 Kirchberg, Réimerwee  02209 -02209                % 01722 RGTR--
+200417002 Kirchberg, Albert Bo  02210 -02210                % 01722 RGTR--
+200417013 Kirchberg, Coudenhov  02211 -02211                % 01722 RGTR--
+200417019 Kirchberg, Konrad Ad  02212 -02212                % 01722 RGTR--
+200417005 Kirchberg, Antoine d  02213 -02213                % 01722 RGTR--
+200417048 Kirchberg, Europe Ga  02214                       % 01722 RGTR--
+*Z 01723 RGTR--                                             % 01723 RGTR--
+*L 503      400000092 200417048  00700  00818               % 01723 RGTR--
+*R 1 200417048 400000092 200417048  00700  00818            % 01723 RGTR--
+*G 070 400000092 200417048  00700  00818                    % 01723 RGTR--
+*A VE 400000092 200417048 000034  00700  00818              % 01723 RGTR--
+*I FD 400000092 200417048        0001729  00700  00818      % 01723 RGTR--
+400000092 Thionville, Foch Kio         00700                % 01723 RGTR--
+400000116 Thionville, Esch     -00708  00708                % 01723 RGTR--
+400000077 Metzange, P&R Metzan  00714  00714                % 01723 RGTR--
+200417015 Kirchberg, Hôpital    00809 -00809                % 01723 RGTR--
+200417004 Kirchberg, Alphonse   00811 -00811                % 01723 RGTR--
+200417036 Kirchberg, Réimerwee  00812 -00812                % 01723 RGTR--
+200417002 Kirchberg, Albert Bo  00813 -00813                % 01723 RGTR--
+200417013 Kirchberg, Coudenhov  00814 -00814                % 01723 RGTR--
+200417019 Kirchberg, Konrad Ad  00816 -00816                % 01723 RGTR--
+200417005 Kirchberg, Antoine d  00817 -00817                % 01723 RGTR--
+200417048 Kirchberg, Europe Ga  00818                       % 01723 RGTR--
+*Z 01724 RGTR--                                             % 01724 RGTR--
+*L 503      400000092 200417048  00730  00848               % 01724 RGTR--
+*R 1 200417048 400000092 200417048  00730  00848            % 01724 RGTR--
+*G 070 400000092 200417048  00730  00848                    % 01724 RGTR--
+*A VE 400000092 200417048 000034  00730  00848              % 01724 RGTR--
+*I FD 400000092 200417048        0001730  00730  00848      % 01724 RGTR--
+400000092 Thionville, Foch Kio         00730                % 01724 RGTR--
+400000116 Thionville, Esch     -00738  00738                % 01724 RGTR--
+400000077 Metzange, P&R Metzan  00744  00744                % 01724 RGTR--
+200417015 Kirchberg, Hôpital    00839 -00839                % 01724 RGTR--
+200417004 Kirchberg, Alphonse   00841 -00841                % 01724 RGTR--
+200417036 Kirchberg, Réimerwee  00842 -00842                % 01724 RGTR--
+200417002 Kirchberg, Albert Bo  00843 -00843                % 01724 RGTR--
+200417013 Kirchberg, Coudenhov  00844 -00844                % 01724 RGTR--
+200417019 Kirchberg, Konrad Ad  00846 -00846                % 01724 RGTR--
+200417005 Kirchberg, Antoine d  00847 -00847                % 01724 RGTR--
+200417048 Kirchberg, Europe Ga  00848                       % 01724 RGTR--
+*Z 01725 RGTR--                                             % 01725 RGTR--
+*L 503      400000092 200417048  00800  00918               % 01725 RGTR--
+*R 1 200417048 400000092 200417048  00800  00918            % 01725 RGTR--
+*G 130 400000092 200417048  00800  00918                    % 01725 RGTR--
+*A VE 400000092 200417048 000034  00800  00918              % 01725 RGTR--
+*I FD 400000092 200417048        0001726  00800  00918      % 01725 RGTR--
+400000092 Thionville, Foch Kio         00800                % 01725 RGTR--
+400000116 Thionville, Esch     -00808  00808                % 01725 RGTR--
+400000077 Metzange, P&R Metzan  00814  00814                % 01725 RGTR--
+200417015 Kirchberg, Hôpital    00909 -00909                % 01725 RGTR--
+200417004 Kirchberg, Alphonse   00911 -00911                % 01725 RGTR--
+200417036 Kirchberg, Réimerwee  00912 -00912                % 01725 RGTR--
+200417002 Kirchberg, Albert Bo  00913 -00913                % 01725 RGTR--
+200417013 Kirchberg, Coudenhov  00914 -00914                % 01725 RGTR--
+200417019 Kirchberg, Konrad Ad  00916 -00916                % 01725 RGTR--
+200417005 Kirchberg, Antoine d  00917 -00917                % 01725 RGTR--
+200417048 Kirchberg, Europe Ga  00918                       % 01725 RGTR--
+*Z 01726 RGTR--                                             % 01726 RGTR--
+*L 503      400000092 200417048  00830  00948               % 01726 RGTR--
+*R 1 200417048 400000092 200417048  00830  00948            % 01726 RGTR--
+*G 130 400000092 200417048  00830  00948                    % 01726 RGTR--
+*A VE 400000092 200417048 000034  00830  00948              % 01726 RGTR--
+*I FD 400000092 200417048        0000915  00830  00948      % 01726 RGTR--
+400000092 Thionville, Foch Kio         00830                % 01726 RGTR--
+400000116 Thionville, Esch     -00838  00838                % 01726 RGTR--
+400000077 Metzange, P&R Metzan  00844  00844                % 01726 RGTR--
+200417015 Kirchberg, Hôpital    00939 -00939                % 01726 RGTR--
+200417004 Kirchberg, Alphonse   00941 -00941                % 01726 RGTR--
+200417036 Kirchberg, Réimerwee  00942 -00942                % 01726 RGTR--
+200417002 Kirchberg, Albert Bo  00943 -00943                % 01726 RGTR--
+200417013 Kirchberg, Coudenhov  00944 -00944                % 01726 RGTR--
+200417019 Kirchberg, Konrad Ad  00946 -00946                % 01726 RGTR--
+200417005 Kirchberg, Antoine d  00947 -00947                % 01726 RGTR--
+200417048 Kirchberg, Europe Ga  00948                       % 01726 RGTR--
+*Z 01727 RGTR--                                             % 01727 RGTR--
+*L 503      400000092 200417048  00900  01018               % 01727 RGTR--
+*R 1 200417048 400000092 200417048  00900  01018            % 01727 RGTR--
+*G 130 400000092 200417048  00900  01018                    % 01727 RGTR--
+*A VE 400000092 200417048 000034  00900  01018              % 01727 RGTR--
+*I FD 400000092 200417048        0001718  00900  01018      % 01727 RGTR--
+400000092 Thionville, Foch Kio         00900                % 01727 RGTR--
+400000116 Thionville, Esch     -00908  00908                % 01727 RGTR--
+400000077 Metzange, P&R Metzan  00914  00914                % 01727 RGTR--
+200417015 Kirchberg, Hôpital    01009 -01009                % 01727 RGTR--
+200417004 Kirchberg, Alphonse   01011 -01011                % 01727 RGTR--
+200417036 Kirchberg, Réimerwee  01012 -01012                % 01727 RGTR--
+200417002 Kirchberg, Albert Bo  01013 -01013                % 01727 RGTR--
+200417013 Kirchberg, Coudenhov  01014 -01014                % 01727 RGTR--
+200417019 Kirchberg, Konrad Ad  01016 -01016                % 01727 RGTR--
+200417005 Kirchberg, Antoine d  01017 -01017                % 01727 RGTR--
+200417048 Kirchberg, Europe Ga  01018                       % 01727 RGTR--
+*Z 01728 RGTR--                                             % 01728 RGTR--
+*L 503      400000092 200417048  00930  01048               % 01728 RGTR--
+*R 1 200417048 400000092 200417048  00930  01048            % 01728 RGTR--
+*G 130 400000092 200417048  00930  01048                    % 01728 RGTR--
+*A VE 400000092 200417048 000034  00930  01048              % 01728 RGTR--
+*I FD 400000092 200417048        0000923  00930  01048      % 01728 RGTR--
+400000092 Thionville, Foch Kio         00930                % 01728 RGTR--
+400000116 Thionville, Esch     -00938  00938                % 01728 RGTR--
+400000077 Metzange, P&R Metzan  00944  00944                % 01728 RGTR--
+200417015 Kirchberg, Hôpital    01039 -01039                % 01728 RGTR--
+200417004 Kirchberg, Alphonse   01041 -01041                % 01728 RGTR--
+200417036 Kirchberg, Réimerwee  01042 -01042                % 01728 RGTR--
+200417002 Kirchberg, Albert Bo  01043 -01043                % 01728 RGTR--
+200417013 Kirchberg, Coudenhov  01044 -01044                % 01728 RGTR--
+200417019 Kirchberg, Konrad Ad  01046 -01046                % 01728 RGTR--
+200417005 Kirchberg, Antoine d  01047 -01047                % 01728 RGTR--
+200417048 Kirchberg, Europe Ga  01048                       % 01728 RGTR--
+*Z 01729 RGTR--                                             % 01729 RGTR--
+*L 503      200417048 400000092  00610  00654               % 01729 RGTR--
+*R 2 400000092 200417048 400000092  00610  00654            % 01729 RGTR--
+*G 070 200417048 400000092  00610  00654                    % 01729 RGTR--
+*A VE 200417048 400000092 000034  00610  00654              % 01729 RGTR--
+*I FD 200417048 400000092        0001979  00610  00654      % 01729 RGTR--
+200417048 Kirchberg, Europe Ga         00610                % 01729 RGTR--
+200417005 Kirchberg, Antoine d -00610  00610                % 01729 RGTR--
+200417019 Kirchberg, Konrad Ad -00611  00611                % 01729 RGTR--
+200417013 Kirchberg, Coudenhov -00612  00612                % 01729 RGTR--
+200417002 Kirchberg, Albert Bo -00613  00613                % 01729 RGTR--
+200417036 Kirchberg, Réimerwee -00614  00614                % 01729 RGTR--
+200417004 Kirchberg, Alphonse  -00614  00614                % 01729 RGTR--
+200417015 Kirchberg, Hôpital   -00616  00616                % 01729 RGTR--
+400000077 Metzange, P&R Metzan  00644  00644                % 01729 RGTR--
+400000115 Thionville, Arlon     00648 -00648                % 01729 RGTR--
+400000092 Thionville, Foch Kio  00654                       % 01729 RGTR--
+*Z 01730 RGTR--                                             % 01730 RGTR--
+*L 503      200417048 400000092  00910  00954               % 01730 RGTR--
+*R 2 400000092 200417048 400000092  00910  00954            % 01730 RGTR--
+*G 070 200417048 400000092  00910  00954                    % 01730 RGTR--
+*A VE 200417048 400000092 000034  00910  00954              % 01730 RGTR--
+*I FD 200417048 400000092        0001980  00910  00954      % 01730 RGTR--
+200417048 Kirchberg, Europe Ga         00910                % 01730 RGTR--
+200417005 Kirchberg, Antoine d -00910  00910                % 01730 RGTR--
+200417019 Kirchberg, Konrad Ad -00911  00911                % 01730 RGTR--
+200417013 Kirchberg, Coudenhov -00912  00912                % 01730 RGTR--
+200417002 Kirchberg, Albert Bo -00913  00913                % 01730 RGTR--
+200417036 Kirchberg, Réimerwee -00914  00914                % 01730 RGTR--
+200417004 Kirchberg, Alphonse  -00914  00914                % 01730 RGTR--
+200417015 Kirchberg, Hôpital   -00916  00916                % 01730 RGTR--
+400000077 Metzange, P&R Metzan  00944  00944                % 01730 RGTR--
+400000115 Thionville, Arlon     00948 -00948                % 01730 RGTR--
+400000092 Thionville, Foch Kio  00954                       % 01730 RGTR--
+*Z 01731 RGTR--                                             % 01731 RGTR--
+*L 503      200417048 400000092  01210  01254               % 01731 RGTR--
+*R 2 400000092 200417048 400000092  01210  01254            % 01731 RGTR--
+*G 070 200417048 400000092  01210  01254                    % 01731 RGTR--
+*A VE 200417048 400000092 000034  01210  01254              % 01731 RGTR--
+*I FD 200417048 400000092        0001981  01210  01254      % 01731 RGTR--
+200417048 Kirchberg, Europe Ga         01210                % 01731 RGTR--
+200417005 Kirchberg, Antoine d -01210  01210                % 01731 RGTR--
+200417019 Kirchberg, Konrad Ad -01211  01211                % 01731 RGTR--
+200417013 Kirchberg, Coudenhov -01212  01212                % 01731 RGTR--
+200417002 Kirchberg, Albert Bo -01213  01213                % 01731 RGTR--
+200417036 Kirchberg, Réimerwee -01214  01214                % 01731 RGTR--
+200417004 Kirchberg, Alphonse  -01214  01214                % 01731 RGTR--
+200417015 Kirchberg, Hôpital   -01216  01216                % 01731 RGTR--
+400000077 Metzange, P&R Metzan  01244  01244                % 01731 RGTR--
+400000115 Thionville, Arlon     01248 -01248                % 01731 RGTR--
+400000092 Thionville, Foch Kio  01254                       % 01731 RGTR--
+*Z 01732 RGTR--                                             % 01732 RGTR--
+*L 503      200417048 400000092  01510  01554               % 01732 RGTR--
+*R 2 400000092 200417048 400000092  01510  01554            % 01732 RGTR--
+*G 070 200417048 400000092  01510  01554                    % 01732 RGTR--
+*A VE 200417048 400000092 000034  01510  01554              % 01732 RGTR--
+*I FD 200417048 400000092        0001982  01510  01554      % 01732 RGTR--
+200417048 Kirchberg, Europe Ga         01510                % 01732 RGTR--
+200417005 Kirchberg, Antoine d -01510  01510                % 01732 RGTR--
+200417019 Kirchberg, Konrad Ad -01511  01511                % 01732 RGTR--
+200417013 Kirchberg, Coudenhov -01512  01512                % 01732 RGTR--
+200417002 Kirchberg, Albert Bo -01513  01513                % 01732 RGTR--
+200417036 Kirchberg, Réimerwee -01514  01514                % 01732 RGTR--
+200417004 Kirchberg, Alphonse  -01514  01514                % 01732 RGTR--
+200417015 Kirchberg, Hôpital   -01516  01516                % 01732 RGTR--
+400000077 Metzange, P&R Metzan  01544  01544                % 01732 RGTR--
+400000115 Thionville, Arlon     01548 -01548                % 01732 RGTR--
+400000092 Thionville, Foch Kio  01554                       % 01732 RGTR--
+*Z 01733 RGTR--                                             % 01733 RGTR--
+*L 503      200417048 400000092  01840  01924               % 01733 RGTR--
+*R 2 400000092 200417048 400000092  01840  01924            % 01733 RGTR--
+*G 070 200417048 400000092  01840  01924                    % 01733 RGTR--
+*A VE 200417048 400000092 000034  01840  01924              % 01733 RGTR--
+*I FD 200417048 400000092        0001336  01840  01924      % 01733 RGTR--
+200417048 Kirchberg, Europe Ga         01840                % 01733 RGTR--
+200417005 Kirchberg, Antoine d -01840  01840                % 01733 RGTR--
+200417019 Kirchberg, Konrad Ad -01841  01841                % 01733 RGTR--
+200417013 Kirchberg, Coudenhov -01842  01842                % 01733 RGTR--
+200417002 Kirchberg, Albert Bo -01843  01843                % 01733 RGTR--
+200417036 Kirchberg, Réimerwee -01844  01844                % 01733 RGTR--
+200417004 Kirchberg, Alphonse  -01844  01844                % 01733 RGTR--
+200417015 Kirchberg, Hôpital   -01846  01846                % 01733 RGTR--
+400000077 Metzange, P&R Metzan  01914  01914                % 01733 RGTR--
+400000115 Thionville, Arlon     01918 -01918                % 01733 RGTR--
+400000092 Thionville, Foch Kio  01924                       % 01733 RGTR--
+*Z 01734 RGTR--                                             % 01734 RGTR--
+*L 503      200417048 400000092  02110  02154               % 01734 RGTR--
+*R 2 400000092 200417048 400000092  02110  02154            % 01734 RGTR--
+*G 070 200417048 400000092  02110  02154                    % 01734 RGTR--
+*A VE 200417048 400000092 000034  02110  02154              % 01734 RGTR--
+*I FD 200417048 400000092        0001983  02110  02154      % 01734 RGTR--
+200417048 Kirchberg, Europe Ga         02110                % 01734 RGTR--
+200417005 Kirchberg, Antoine d -02110  02110                % 01734 RGTR--
+200417019 Kirchberg, Konrad Ad -02111  02111                % 01734 RGTR--
+200417013 Kirchberg, Coudenhov -02112  02112                % 01734 RGTR--
+200417002 Kirchberg, Albert Bo -02113  02113                % 01734 RGTR--
+200417036 Kirchberg, Réimerwee -02114  02114                % 01734 RGTR--
+200417004 Kirchberg, Alphonse  -02114  02114                % 01734 RGTR--
+200417015 Kirchberg, Hôpital   -02116  02116                % 01734 RGTR--
+400000077 Metzange, P&R Metzan  02144  02144                % 01734 RGTR--
+400000115 Thionville, Arlon     02148 -02148                % 01734 RGTR--
+400000092 Thionville, Foch Kio  02154                       % 01734 RGTR--
+*Z 01735 RGTR--                                             % 01735 RGTR--
+*L 503      200417048 400000092  00710  00754               % 01735 RGTR--
+*R 2 400000092 200417048 400000092  00710  00754            % 01735 RGTR--
+*G 130 200417048 400000092  00710  00754                    % 01735 RGTR--
+*A VE 200417048 400000092 000034  00710  00754              % 01735 RGTR--
+*I FD 200417048 400000092        0001984  00710  00754      % 01735 RGTR--
+200417048 Kirchberg, Europe Ga         00710                % 01735 RGTR--
+200417005 Kirchberg, Antoine d -00710  00710                % 01735 RGTR--
+200417019 Kirchberg, Konrad Ad -00711  00711                % 01735 RGTR--
+200417013 Kirchberg, Coudenhov -00712  00712                % 01735 RGTR--
+200417002 Kirchberg, Albert Bo -00713  00713                % 01735 RGTR--
+200417036 Kirchberg, Réimerwee -00714  00714                % 01735 RGTR--
+200417004 Kirchberg, Alphonse  -00714  00714                % 01735 RGTR--
+200417015 Kirchberg, Hôpital   -00716  00716                % 01735 RGTR--
+400000077 Metzange, P&R Metzan  00744  00744                % 01735 RGTR--
+400000115 Thionville, Arlon     00748 -00748                % 01735 RGTR--
+400000092 Thionville, Foch Kio  00754                       % 01735 RGTR--
+*Z 01736 RGTR--                                             % 01736 RGTR--
+*L 503      200417048 400000092  00810  00854               % 01736 RGTR--
+*R 2 400000092 200417048 400000092  00810  00854            % 01736 RGTR--
+*G 130 200417048 400000092  00810  00854                    % 01736 RGTR--
+*A VE 200417048 400000092 000034  00810  00854              % 01736 RGTR--
+*I FD 200417048 400000092        0001985  00810  00854      % 01736 RGTR--
+200417048 Kirchberg, Europe Ga         00810                % 01736 RGTR--
+200417005 Kirchberg, Antoine d -00810  00810                % 01736 RGTR--
+200417019 Kirchberg, Konrad Ad -00811  00811                % 01736 RGTR--
+200417013 Kirchberg, Coudenhov -00812  00812                % 01736 RGTR--
+200417002 Kirchberg, Albert Bo -00813  00813                % 01736 RGTR--
+200417036 Kirchberg, Réimerwee -00814  00814                % 01736 RGTR--
+200417004 Kirchberg, Alphonse  -00814  00814                % 01736 RGTR--
+200417015 Kirchberg, Hôpital   -00816  00816                % 01736 RGTR--
+400000077 Metzange, P&R Metzan  00844  00844                % 01736 RGTR--
+400000115 Thionville, Arlon     00848 -00848                % 01736 RGTR--
+400000092 Thionville, Foch Kio  00854                       % 01736 RGTR--
+*Z 01737 RGTR--                                             % 01737 RGTR--
+*L 503      200417048 400000092  01010  01054               % 01737 RGTR--
+*R 2 400000092 200417048 400000092  01010  01054            % 01737 RGTR--
+*G 130 200417048 400000092  01010  01054                    % 01737 RGTR--
+*A VE 200417048 400000092 000034  01010  01054              % 01737 RGTR--
+*I FD 200417048 400000092        0001986  01010  01054      % 01737 RGTR--
+200417048 Kirchberg, Europe Ga         01010                % 01737 RGTR--
+200417005 Kirchberg, Antoine d -01010  01010                % 01737 RGTR--
+200417019 Kirchberg, Konrad Ad -01011  01011                % 01737 RGTR--
+200417013 Kirchberg, Coudenhov -01012  01012                % 01737 RGTR--
+200417002 Kirchberg, Albert Bo -01013  01013                % 01737 RGTR--
+200417036 Kirchberg, Réimerwee -01014  01014                % 01737 RGTR--
+200417004 Kirchberg, Alphonse  -01014  01014                % 01737 RGTR--
+200417015 Kirchberg, Hôpital   -01016  01016                % 01737 RGTR--
+400000077 Metzange, P&R Metzan  01044  01044                % 01737 RGTR--
+400000115 Thionville, Arlon     01048 -01048                % 01737 RGTR--
+400000092 Thionville, Foch Kio  01054                       % 01737 RGTR--
+*Z 01738 RGTR--                                             % 01738 RGTR--
+*L 503      200417048 400000092  01110  01154               % 01738 RGTR--
+*R 2 400000092 200417048 400000092  01110  01154            % 01738 RGTR--
+*G 130 200417048 400000092  01110  01154                    % 01738 RGTR--
+*A VE 200417048 400000092 000034  01110  01154              % 01738 RGTR--
+*I FD 200417048 400000092        0001063  01110  01154      % 01738 RGTR--
+200417048 Kirchberg, Europe Ga         01110                % 01738 RGTR--
+200417005 Kirchberg, Antoine d -01110  01110                % 01738 RGTR--
+200417019 Kirchberg, Konrad Ad -01111  01111                % 01738 RGTR--
+200417013 Kirchberg, Coudenhov -01112  01112                % 01738 RGTR--
+200417002 Kirchberg, Albert Bo -01113  01113                % 01738 RGTR--
+200417036 Kirchberg, Réimerwee -01114  01114                % 01738 RGTR--
+200417004 Kirchberg, Alphonse  -01114  01114                % 01738 RGTR--
+200417015 Kirchberg, Hôpital   -01116  01116                % 01738 RGTR--
+400000077 Metzange, P&R Metzan  01144  01144                % 01738 RGTR--
+400000115 Thionville, Arlon     01148 -01148                % 01738 RGTR--
+400000092 Thionville, Foch Kio  01154                       % 01738 RGTR--
+*Z 01739 RGTR--                                             % 01739 RGTR--
+*L 503      200417048 400000092  01310  01354               % 01739 RGTR--
+*R 2 400000092 200417048 400000092  01310  01354            % 01739 RGTR--
+*G 130 200417048 400000092  01310  01354                    % 01739 RGTR--
+*A VE 200417048 400000092 000034  01310  01354              % 01739 RGTR--
+*I FD 200417048 400000092        0001987  01310  01354      % 01739 RGTR--
+200417048 Kirchberg, Europe Ga         01310                % 01739 RGTR--
+200417005 Kirchberg, Antoine d -01310  01310                % 01739 RGTR--
+200417019 Kirchberg, Konrad Ad -01311  01311                % 01739 RGTR--
+200417013 Kirchberg, Coudenhov -01312  01312                % 01739 RGTR--
+200417002 Kirchberg, Albert Bo -01313  01313                % 01739 RGTR--
+200417036 Kirchberg, Réimerwee -01314  01314                % 01739 RGTR--
+200417004 Kirchberg, Alphonse  -01314  01314                % 01739 RGTR--
+200417015 Kirchberg, Hôpital   -01316  01316                % 01739 RGTR--
+400000077 Metzange, P&R Metzan  01344  01344                % 01739 RGTR--
+400000115 Thionville, Arlon     01348 -01348                % 01739 RGTR--
+400000092 Thionville, Foch Kio  01354                       % 01739 RGTR--
+*Z 01740 RGTR--                                             % 01740 RGTR--
+*L 503      200417048 400000092  01410  01454               % 01740 RGTR--
+*R 2 400000092 200417048 400000092  01410  01454            % 01740 RGTR--
+*G 130 200417048 400000092  01410  01454                    % 01740 RGTR--
+*A VE 200417048 400000092 000034  01410  01454              % 01740 RGTR--
+*I FD 200417048 400000092        0001988  01410  01454      % 01740 RGTR--
+200417048 Kirchberg, Europe Ga         01410                % 01740 RGTR--
+200417005 Kirchberg, Antoine d -01410  01410                % 01740 RGTR--
+200417019 Kirchberg, Konrad Ad -01411  01411                % 01740 RGTR--
+200417013 Kirchberg, Coudenhov -01412  01412                % 01740 RGTR--
+200417002 Kirchberg, Albert Bo -01413  01413                % 01740 RGTR--
+200417036 Kirchberg, Réimerwee -01414  01414                % 01740 RGTR--
+200417004 Kirchberg, Alphonse  -01414  01414                % 01740 RGTR--
+200417015 Kirchberg, Hôpital   -01416  01416                % 01740 RGTR--
+400000077 Metzange, P&R Metzan  01444  01444                % 01740 RGTR--
+400000115 Thionville, Arlon     01448 -01448                % 01740 RGTR--
+400000092 Thionville, Foch Kio  01454                       % 01740 RGTR--
+*Z 01741 RGTR--                                             % 01741 RGTR--
+*L 503      200417048 400000092  01910  01954               % 01741 RGTR--
+*R 2 400000092 200417048 400000092  01910  01954            % 01741 RGTR--
+*G 130 200417048 400000092  01910  01954                    % 01741 RGTR--
+*A VE 200417048 400000092 000034  01910  01954              % 01741 RGTR--
+*I FD 200417048 400000092        0001989  01910  01954      % 01741 RGTR--
+200417048 Kirchberg, Europe Ga         01910                % 01741 RGTR--
+200417005 Kirchberg, Antoine d -01910  01910                % 01741 RGTR--
+200417019 Kirchberg, Konrad Ad -01911  01911                % 01741 RGTR--
+200417013 Kirchberg, Coudenhov -01912  01912                % 01741 RGTR--
+200417002 Kirchberg, Albert Bo -01913  01913                % 01741 RGTR--
+200417036 Kirchberg, Réimerwee -01914  01914                % 01741 RGTR--
+200417004 Kirchberg, Alphonse  -01914  01914                % 01741 RGTR--
+200417015 Kirchberg, Hôpital   -01916  01916                % 01741 RGTR--
+400000077 Metzange, P&R Metzan  01944  01944                % 01741 RGTR--
+400000115 Thionville, Arlon     01948 -01948                % 01741 RGTR--
+400000092 Thionville, Foch Kio  01954                       % 01741 RGTR--
+*Z 01742 RGTR--                                             % 01742 RGTR--
+*L 503      200417048 400000092  02010  02054               % 01742 RGTR--
+*R 2 400000092 200417048 400000092  02010  02054            % 01742 RGTR--
+*G 130 200417048 400000092  02010  02054                    % 01742 RGTR--
+*A VE 200417048 400000092 000034  02010  02054              % 01742 RGTR--
+*I FD 200417048 400000092        0001990  02010  02054      % 01742 RGTR--
+200417048 Kirchberg, Europe Ga         02010                % 01742 RGTR--
+200417005 Kirchberg, Antoine d -02010  02010                % 01742 RGTR--
+200417019 Kirchberg, Konrad Ad -02011  02011                % 01742 RGTR--
+200417013 Kirchberg, Coudenhov -02012  02012                % 01742 RGTR--
+200417002 Kirchberg, Albert Bo -02013  02013                % 01742 RGTR--
+200417036 Kirchberg, Réimerwee -02014  02014                % 01742 RGTR--
+200417004 Kirchberg, Alphonse  -02014  02014                % 01742 RGTR--
+200417015 Kirchberg, Hôpital   -02016  02016                % 01742 RGTR--
+400000077 Metzange, P&R Metzan  02044  02044                % 01742 RGTR--
+400000115 Thionville, Arlon     02048 -02048                % 01742 RGTR--
+400000092 Thionville, Foch Kio  02054                       % 01742 RGTR--
+*Z 01743 RGTR--                                             % 01743 RGTR--
+*L 503      200417048 400000092  02210  02254               % 01743 RGTR--
+*R 2 400000092 200417048 400000092  02210  02254            % 01743 RGTR--
+*G 130 200417048 400000092  02210  02254                    % 01743 RGTR--
+*A VE 200417048 400000092 000034  02210  02254              % 01743 RGTR--
+*I FD 200417048 400000092        0001991  02210  02254      % 01743 RGTR--
+200417048 Kirchberg, Europe Ga         02210                % 01743 RGTR--
+200417005 Kirchberg, Antoine d -02210  02210                % 01743 RGTR--
+200417019 Kirchberg, Konrad Ad -02211  02211                % 01743 RGTR--
+200417013 Kirchberg, Coudenhov -02212  02212                % 01743 RGTR--
+200417002 Kirchberg, Albert Bo -02213  02213                % 01743 RGTR--
+200417036 Kirchberg, Réimerwee -02214  02214                % 01743 RGTR--
+200417004 Kirchberg, Alphonse  -02214  02214                % 01743 RGTR--
+200417015 Kirchberg, Hôpital   -02216  02216                % 01743 RGTR--
+400000077 Metzange, P&R Metzan  02244  02244                % 01743 RGTR--
+400000115 Thionville, Arlon     02248 -02248                % 01743 RGTR--
+400000092 Thionville, Foch Kio  02254                       % 01743 RGTR--
+*Z 01744 RGTR--                                             % 01744 RGTR--
+*L 503      200417048 400000092  02310  02354               % 01744 RGTR--
+*R 2 400000092 200417048 400000092  02310  02354            % 01744 RGTR--
+*G 130 200417048 400000092  02310  02354                    % 01744 RGTR--
+*A VE 200417048 400000092 000034  02310  02354              % 01744 RGTR--
+*I FD 200417048 400000092        0001992  02310  02354      % 01744 RGTR--
+200417048 Kirchberg, Europe Ga         02310                % 01744 RGTR--
+200417005 Kirchberg, Antoine d -02310  02310                % 01744 RGTR--
+200417019 Kirchberg, Konrad Ad -02311  02311                % 01744 RGTR--
+200417013 Kirchberg, Coudenhov -02312  02312                % 01744 RGTR--
+200417002 Kirchberg, Albert Bo -02313  02313                % 01744 RGTR--
+200417036 Kirchberg, Réimerwee -02314  02314                % 01744 RGTR--
+200417004 Kirchberg, Alphonse  -02314  02314                % 01744 RGTR--
+200417015 Kirchberg, Hôpital   -02316  02316                % 01744 RGTR--
+400000077 Metzange, P&R Metzan  02344  02344                % 01744 RGTR--
+400000115 Thionville, Arlon     02348 -02348                % 01744 RGTR--
+400000092 Thionville, Foch Kio  02354                       % 01744 RGTR--
+*Z 01745 RGTR--                                             % 01745 RGTR--
+*L 503      200417048 400000092  01710  01821               % 01745 RGTR--
+*R 2 400000092 200417048 400000092  01710  01821            % 01745 RGTR--
+*G 070 200417048 400000092  01710  01821                    % 01745 RGTR--
+*A VE 200417048 400000092 000034  01710  01821              % 01745 RGTR--
+*I FD 200417048 400000092        0001993  01710  01821      % 01745 RGTR--
+200417048 Kirchberg, Europe Ga         01710                % 01745 RGTR--
+200417005 Kirchberg, Antoine d -01711  01711                % 01745 RGTR--
+200417019 Kirchberg, Konrad Ad -01712  01712                % 01745 RGTR--
+200417013 Kirchberg, Coudenhov -01713  01713                % 01745 RGTR--
+200417002 Kirchberg, Albert Bo -01714  01714                % 01745 RGTR--
+200417036 Kirchberg, Réimerwee -01715  01715                % 01745 RGTR--
+200417004 Kirchberg, Alphonse  -01716  01716                % 01745 RGTR--
+200417015 Kirchberg, Hôpital   -01718  01718                % 01745 RGTR--
+400000077 Metzange, P&R Metzan  01804  01804                % 01745 RGTR--
+400000115 Thionville, Arlon     01810 -01810                % 01745 RGTR--
+400000092 Thionville, Foch Kio  01821                       % 01745 RGTR--
+*Z 01746 RGTR--                                             % 01746 RGTR--
+*L 503      200417048 400000092  01740  01851               % 01746 RGTR--
+*R 2 400000092 200417048 400000092  01740  01851            % 01746 RGTR--
+*G 070 200417048 400000092  01740  01851                    % 01746 RGTR--
+*A VE 200417048 400000092 000034  01740  01851              % 01746 RGTR--
+*I FD 200417048 400000092        0001994  01740  01851      % 01746 RGTR--
+200417048 Kirchberg, Europe Ga         01740                % 01746 RGTR--
+200417005 Kirchberg, Antoine d -01741  01741                % 01746 RGTR--
+200417019 Kirchberg, Konrad Ad -01742  01742                % 01746 RGTR--
+200417013 Kirchberg, Coudenhov -01743  01743                % 01746 RGTR--
+200417002 Kirchberg, Albert Bo -01744  01744                % 01746 RGTR--
+200417036 Kirchberg, Réimerwee -01745  01745                % 01746 RGTR--
+200417004 Kirchberg, Alphonse  -01746  01746                % 01746 RGTR--
+200417015 Kirchberg, Hôpital   -01748  01748                % 01746 RGTR--
+400000077 Metzange, P&R Metzan  01834  01834                % 01746 RGTR--
+400000115 Thionville, Arlon     01840 -01840                % 01746 RGTR--
+400000092 Thionville, Foch Kio  01851                       % 01746 RGTR--
+*Z 01747 RGTR--                                             % 01747 RGTR--
+*L 503      200417048 400000092  01755  01906               % 01747 RGTR--
+*R 2 400000092 200417048 400000092  01755  01906            % 01747 RGTR--
+*G 070 200417048 400000092  01755  01906                    % 01747 RGTR--
+*A VE 200417048 400000092 000034  01755  01906              % 01747 RGTR--
+*I FD 200417048 400000092        0001995  01755  01906      % 01747 RGTR--
+200417048 Kirchberg, Europe Ga         01755                % 01747 RGTR--
+200417005 Kirchberg, Antoine d -01756  01756                % 01747 RGTR--
+200417019 Kirchberg, Konrad Ad -01757  01757                % 01747 RGTR--
+200417013 Kirchberg, Coudenhov -01758  01758                % 01747 RGTR--
+200417002 Kirchberg, Albert Bo -01759  01759                % 01747 RGTR--
+200417036 Kirchberg, Réimerwee -01800  01800                % 01747 RGTR--
+200417004 Kirchberg, Alphonse  -01801  01801                % 01747 RGTR--
+200417015 Kirchberg, Hôpital   -01803  01803                % 01747 RGTR--
+400000077 Metzange, P&R Metzan  01849  01849                % 01747 RGTR--
+400000115 Thionville, Arlon     01855 -01855                % 01747 RGTR--
+400000092 Thionville, Foch Kio  01906                       % 01747 RGTR--
+*Z 01748 RGTR--                                             % 01748 RGTR--
+*L 503      200417048 400000092  01810  01921               % 01748 RGTR--
+*R 2 400000092 200417048 400000092  01810  01921            % 01748 RGTR--
+*G 070 200417048 400000092  01810  01921                    % 01748 RGTR--
+*A VE 200417048 400000092 000034  01810  01921              % 01748 RGTR--
+*I FD 200417048 400000092        0001996  01810  01921      % 01748 RGTR--
+200417048 Kirchberg, Europe Ga         01810                % 01748 RGTR--
+200417005 Kirchberg, Antoine d -01811  01811                % 01748 RGTR--
+200417019 Kirchberg, Konrad Ad -01812  01812                % 01748 RGTR--
+200417013 Kirchberg, Coudenhov -01813  01813                % 01748 RGTR--
+200417002 Kirchberg, Albert Bo -01814  01814                % 01748 RGTR--
+200417036 Kirchberg, Réimerwee -01815  01815                % 01748 RGTR--
+200417004 Kirchberg, Alphonse  -01816  01816                % 01748 RGTR--
+200417015 Kirchberg, Hôpital   -01818  01818                % 01748 RGTR--
+400000077 Metzange, P&R Metzan  01904  01904                % 01748 RGTR--
+400000115 Thionville, Arlon     01910 -01910                % 01748 RGTR--
+400000092 Thionville, Foch Kio  01921                       % 01748 RGTR--
+*Z 01749 RGTR--                                             % 01749 RGTR--
+*L 503      200417048 400000092  01610  01721               % 01749 RGTR--
+*R 2 400000092 200417048 400000092  01610  01721            % 01749 RGTR--
+*G 130 200417048 400000092  01610  01721                    % 01749 RGTR--
+*A VE 200417048 400000092 000034  01610  01721              % 01749 RGTR--
+*I FD 200417048 400000092        0001997  01610  01721      % 01749 RGTR--
+200417048 Kirchberg, Europe Ga         01610                % 01749 RGTR--
+200417005 Kirchberg, Antoine d -01611  01611                % 01749 RGTR--
+200417019 Kirchberg, Konrad Ad -01612  01612                % 01749 RGTR--
+200417013 Kirchberg, Coudenhov -01613  01613                % 01749 RGTR--
+200417002 Kirchberg, Albert Bo -01614  01614                % 01749 RGTR--
+200417036 Kirchberg, Réimerwee -01615  01615                % 01749 RGTR--
+200417004 Kirchberg, Alphonse  -01616  01616                % 01749 RGTR--
+200417015 Kirchberg, Hôpital   -01618  01618                % 01749 RGTR--
+400000077 Metzange, P&R Metzan  01704  01704                % 01749 RGTR--
+400000115 Thionville, Arlon     01710 -01710                % 01749 RGTR--
+400000092 Thionville, Foch Kio  01721                       % 01749 RGTR--
+*Z 01750 RGTR--                                             % 01750 RGTR--
+*L 503      200417048 400000092  01640  01751               % 01750 RGTR--
+*R 2 400000092 200417048 400000092  01640  01751            % 01750 RGTR--
+*G 130 200417048 400000092  01640  01751                    % 01750 RGTR--
+*A VE 200417048 400000092 000034  01640  01751              % 01750 RGTR--
+*I FD 200417048 400000092        0001261  01640  01751      % 01750 RGTR--
+200417048 Kirchberg, Europe Ga         01640                % 01750 RGTR--
+200417005 Kirchberg, Antoine d -01641  01641                % 01750 RGTR--
+200417019 Kirchberg, Konrad Ad -01642  01642                % 01750 RGTR--
+200417013 Kirchberg, Coudenhov -01643  01643                % 01750 RGTR--
+200417002 Kirchberg, Albert Bo -01644  01644                % 01750 RGTR--
+200417036 Kirchberg, Réimerwee -01645  01645                % 01750 RGTR--
+200417004 Kirchberg, Alphonse  -01646  01646                % 01750 RGTR--
+200417015 Kirchberg, Hôpital   -01648  01648                % 01750 RGTR--
+400000077 Metzange, P&R Metzan  01734  01734                % 01750 RGTR--
+400000115 Thionville, Arlon     01740 -01740                % 01750 RGTR--
+400000092 Thionville, Foch Kio  01751                       % 01750 RGTR--
+*Z 01751 RGTR--                                             % 01751 RGTR--
+*L 503      200417048 400000092  01655  01806               % 01751 RGTR--
+*R 2 400000092 200417048 400000092  01655  01806            % 01751 RGTR--
+*G 130 200417048 400000092  01655  01806                    % 01751 RGTR--
+*A VE 200417048 400000092 000034  01655  01806              % 01751 RGTR--
+*I FD 200417048 400000092        0001998  01655  01806      % 01751 RGTR--
+200417048 Kirchberg, Europe Ga         01655                % 01751 RGTR--
+200417005 Kirchberg, Antoine d -01656  01656                % 01751 RGTR--
+200417019 Kirchberg, Konrad Ad -01657  01657                % 01751 RGTR--
+200417013 Kirchberg, Coudenhov -01658  01658                % 01751 RGTR--
+200417002 Kirchberg, Albert Bo -01659  01659                % 01751 RGTR--
+200417036 Kirchberg, Réimerwee -01700  01700                % 01751 RGTR--
+200417004 Kirchberg, Alphonse  -01701  01701                % 01751 RGTR--
+200417015 Kirchberg, Hôpital   -01703  01703                % 01751 RGTR--
+400000077 Metzange, P&R Metzan  01749  01749                % 01751 RGTR--
+400000115 Thionville, Arlon     01755 -01755                % 01751 RGTR--
+400000092 Thionville, Foch Kio  01806                       % 01751 RGTR--
+*Z 01752 RGTR--                                             % 01752 RGTR--
+*L 503      200417048 400000092  01725  01836               % 01752 RGTR--
+*R 2 400000092 200417048 400000092  01725  01836            % 01752 RGTR--
+*G 130 200417048 400000092  01725  01836                    % 01752 RGTR--
+*A VE 200417048 400000092 000034  01725  01836              % 01752 RGTR--
+*I FD 200417048 400000092        0001999  01725  01836      % 01752 RGTR--
+200417048 Kirchberg, Europe Ga         01725                % 01752 RGTR--
+200417005 Kirchberg, Antoine d -01726  01726                % 01752 RGTR--
+200417019 Kirchberg, Konrad Ad -01727  01727                % 01752 RGTR--
+200417013 Kirchberg, Coudenhov -01728  01728                % 01752 RGTR--
+200417002 Kirchberg, Albert Bo -01729  01729                % 01752 RGTR--
+200417036 Kirchberg, Réimerwee -01730  01730                % 01752 RGTR--
+200417004 Kirchberg, Alphonse  -01731  01731                % 01752 RGTR--
+200417015 Kirchberg, Hôpital   -01733  01733                % 01752 RGTR--
+400000077 Metzange, P&R Metzan  01819  01819                % 01752 RGTR--
+400000115 Thionville, Arlon     01825 -01825                % 01752 RGTR--
+400000092 Thionville, Foch Kio  01836                       % 01752 RGTR--

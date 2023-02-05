@@ -1,0 +1,733 @@
+*F 03 2
+*Z 16995 RGTR--                                             % 16995 RGTR--
+*L 90U      150511005 140701016  00633  00750               % 16995 RGTR--
+*R 1 140701016 150511005 140701016  00633  00750            % 16995 RGTR--
+*G 063 150511005 140701016  00633  00750                    % 16995 RGTR--
+*A VE 150511005 140701016 000033  00633  00750              % 16995 RGTR--
+*I FD 150511005 140701016        0002098  00633  00750      % 16995 RGTR--
+150511005 Perlé, Schoul                00633                % 16995 RGTR--
+150511001 Perlé, An der Huel    00634  00634                % 16995 RGTR--
+150511006 Perlé, Kuelewee       00635  00635                % 16995 RGTR--
+150511002 Perlé, Gare           00635  00635                % 16995 RGTR--
+150515003 Wolwelange, Spëtzt    00638  00638                % 16995 RGTR--
+150515002 Wolwelange, Kiosk     00638  00638                % 16995 RGTR--
+150515001 Wolwelange, Ennescht  00639  00639                % 16995 RGTR--
+150510002 Martelange, Leekoll   00639  00639                % 16995 RGTR--
+150510001 Martelange, Gare      00641  00641                % 16995 RGTR--
+150502006 Bigonville, Am Duerf  00650  00650                % 16995 RGTR--
+150502001 Bigonville, Huelgaas  00650  00650                % 16995 RGTR--
+150502004 Bigonville, Knupp     00651  00651                % 16995 RGTR--
+150502007 Bigonville, Haaptstr  00652  00652                % 16995 RGTR--
+150502002 Bigonville, Kéismaar  00652  00652                % 16995 RGTR--
+150502005 Bigonville, Réimerwe  00653  00653                % 16995 RGTR--
+150502003 Bigonville, Kimm      00654  00654                % 16995 RGTR--
+150513001 Riesenhaff            00657  00657                % 16995 RGTR--
+150509001 Koetschette, Rond-Po  00658  00658                % 16995 RGTR--
+150512005 Rambrouch, Schlass    00700  00700                % 16995 RGTR--
+150512006 Rambrouch, Gare       00701  00701                % 16995 RGTR--
+150512004 Rambrouch, Riesenknä  00702  00702                % 16995 RGTR--
+150508002 Hostert, Wäschbur     00705  00705                % 16995 RGTR--
+150506007 Brisenhaff            00706  00706                % 16995 RGTR--
+150605002 Ospern, Wäschbur      00709  00709                % 16995 RGTR--
+150605001 Ospern, Kiirch        00710  00710                % 16995 RGTR--
+150607001 Reichlange, Hostelle  00712  00712                % 16995 RGTR--
+150202002 Platen                00713  00713                % 16995 RGTR--
+150202001 Platen, Kinnebësch    00714  00714                % 16995 RGTR--
+150206001 Bettborn, Gemenge Pl  00714  00714                % 16995 RGTR--
+150204001 Reimberg, Michel Luc  00716  00716                % 16995 RGTR--
+150204002 Reimberg              00716  00716                % 16995 RGTR--
+150803002 Schandel, Kreizung    00718  00718                % 16995 RGTR--
+150803001 Schandel, Kiirch      00719  00719                % 16995 RGTR--
+150803003 Schandel, Viichtener  00720  00720                % 16995 RGTR--
+150902003 Vichten, Bäerig       00722  00722                % 16995 RGTR--
+150902004 Vichten, Gemeng       00724  00724                % 16995 RGTR--
+150902007 Vichten, Schoul       00725  00725                % 16995 RGTR--
+150902006 Vichten, Ohligsfeld   00725  00725                % 16995 RGTR--
+150902005 Vichten, Hemeschbaac  00726  00726                % 16995 RGTR--
+160101002 Bissen, Kräizung      00731  00731                % 16995 RGTR--
+160101004 Bissen, Kiirch        00732  00732                % 16995 RGTR--
+160101007 Bissen, Steekräiz     00733  00733                % 16995 RGTR--
+160102002 Rouscht               00735  00735                % 16995 RGTR--
+160102001 Roost (Bissen), Mold  00736  00736                % 16995 RGTR--
+160301006 Colmar-Berg, Raedels  00737  00737                % 16995 RGTR--
+160301001 Colmar-Berg, C. Admi  00739  00739                % 16995 RGTR--
+160301007 Colmar-Berg, Usines   00739  00739                % 16995 RGTR--
+160301002 Colmar-Berg, Centre   00741  00741                % 16995 RGTR--
+141301007 Schieren, Porte de S  00743  00743                % 16995 RGTR--
+141301004 Schieren, Neie Wee    00744  00744                % 16995 RGTR--
+141301006 Schieren, Vali's Pla  00745  00745                % 16995 RGTR--
+140701018 Ettelbruck, H.v.Land  00746  00746                % 16995 RGTR--
+140701026 Ettelbruck, Rond Poi  00747  00747                % 16995 RGTR--
+140701015 Ettelbruck, Ecole Pr  00748  00748                % 16995 RGTR--
+140701016 Ettelbruck, Gare      00750                       % 16995 RGTR--
+*Z 00076 RGTR--                                             % 00076 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00076 RGTR--
+*A GW 140701016 150511005 000010  01648  01806              % 00076 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00076 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00076 RGTR--
+*A VE 140701016 150511005 000010  01648  01806              % 00076 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00076 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00076 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00076 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00076 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00076 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00076 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00076 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00076 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00076 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00076 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00076 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00076 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00076 RGTR--
+160102002 Rouscht               01701  01701                % 00076 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00076 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00076 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00076 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00076 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00076 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00076 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00076 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00076 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00076 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00076 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00076 RGTR--
+150204002 Reimberg              01720  01720                % 00076 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00076 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00076 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00076 RGTR--
+150202002 Platen                01724  01724                % 00076 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00076 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00076 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00076 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00076 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00076 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00076 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00076 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00076 RGTR--
+150513001 Riesenhaff            01741  01741                % 00076 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00076 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00076 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00076 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00076 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00076 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00076 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00076 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00076 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00076 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00076 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00076 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00076 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00076 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00076 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00076 RGTR--
+150511005 Perlé, Schoul         01806                       % 00076 RGTR--
+*Z 00070 RGTR--                                             % 00070 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00070 RGTR--
+*A GW 140701016 150511005 000012  01648  01806              % 00070 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00070 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00070 RGTR--
+*A VE 140701016 150511005 000012  01648  01806              % 00070 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00070 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00070 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00070 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00070 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00070 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00070 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00070 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00070 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00070 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00070 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00070 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00070 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00070 RGTR--
+160102002 Rouscht               01701  01701                % 00070 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00070 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00070 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00070 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00070 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00070 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00070 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00070 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00070 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00070 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00070 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00070 RGTR--
+150204002 Reimberg              01720  01720                % 00070 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00070 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00070 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00070 RGTR--
+150202002 Platen                01724  01724                % 00070 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00070 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00070 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00070 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00070 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00070 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00070 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00070 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00070 RGTR--
+150513001 Riesenhaff            01741  01741                % 00070 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00070 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00070 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00070 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00070 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00070 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00070 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00070 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00070 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00070 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00070 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00070 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00070 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00070 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00070 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00070 RGTR--
+150511005 Perlé, Schoul         01806                       % 00070 RGTR--
+*Z 00068 RGTR--                                             % 00068 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00068 RGTR--
+*A GW 140701016 150511005 000006  01648  01806              % 00068 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00068 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00068 RGTR--
+*A VE 140701016 150511005 000006  01648  01806              % 00068 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00068 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00068 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00068 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00068 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00068 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00068 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00068 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00068 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00068 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00068 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00068 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00068 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00068 RGTR--
+160102002 Rouscht               01701  01701                % 00068 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00068 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00068 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00068 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00068 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00068 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00068 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00068 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00068 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00068 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00068 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00068 RGTR--
+150204002 Reimberg              01720  01720                % 00068 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00068 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00068 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00068 RGTR--
+150202002 Platen                01724  01724                % 00068 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00068 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00068 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00068 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00068 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00068 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00068 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00068 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00068 RGTR--
+150513001 Riesenhaff            01741  01741                % 00068 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00068 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00068 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00068 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00068 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00068 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00068 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00068 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00068 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00068 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00068 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00068 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00068 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00068 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00068 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00068 RGTR--
+150511005 Perlé, Schoul         01806                       % 00068 RGTR--
+*Z 00074 RGTR--                                             % 00074 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00074 RGTR--
+*A GW 140701016 150511005 000014  01648  01806              % 00074 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00074 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00074 RGTR--
+*A VE 140701016 150511005 000014  01648  01806              % 00074 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00074 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00074 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00074 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00074 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00074 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00074 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00074 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00074 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00074 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00074 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00074 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00074 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00074 RGTR--
+160102002 Rouscht               01701  01701                % 00074 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00074 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00074 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00074 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00074 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00074 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00074 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00074 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00074 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00074 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00074 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00074 RGTR--
+150204002 Reimberg              01720  01720                % 00074 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00074 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00074 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00074 RGTR--
+150202002 Platen                01724  01724                % 00074 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00074 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00074 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00074 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00074 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00074 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00074 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00074 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00074 RGTR--
+150513001 Riesenhaff            01741  01741                % 00074 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00074 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00074 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00074 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00074 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00074 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00074 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00074 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00074 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00074 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00074 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00074 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00074 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00074 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00074 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00074 RGTR--
+150511005 Perlé, Schoul         01806                       % 00074 RGTR--
+*Z 00072 RGTR--                                             % 00072 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00072 RGTR--
+*A GW 140701016 150511005 000008  01648  01806              % 00072 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00072 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00072 RGTR--
+*A VE 140701016 150511005 000008  01648  01806              % 00072 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00072 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00072 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00072 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00072 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00072 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00072 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00072 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00072 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00072 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00072 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00072 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00072 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00072 RGTR--
+160102002 Rouscht               01701  01701                % 00072 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00072 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00072 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00072 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00072 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00072 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00072 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00072 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00072 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00072 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00072 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00072 RGTR--
+150204002 Reimberg              01720  01720                % 00072 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00072 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00072 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00072 RGTR--
+150202002 Platen                01724  01724                % 00072 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00072 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00072 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00072 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00072 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00072 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00072 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00072 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00072 RGTR--
+150513001 Riesenhaff            01741  01741                % 00072 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00072 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00072 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00072 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00072 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00072 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00072 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00072 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00072 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00072 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00072 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00072 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00072 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00072 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00072 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00072 RGTR--
+150511005 Perlé, Schoul         01806                       % 00072 RGTR--
+*Z 16996 RGTR--                                             % 16996 RGTR--
+*L 90U      150511005 140701016  00633  00750               % 16996 RGTR--
+*R 1 140701016 150511005 140701016  00633  00750            % 16996 RGTR--
+*G 063 150511005 140701016  00633  00750                    % 16996 RGTR--
+*A VE 150511005 140701016 000034  00633  00750              % 16996 RGTR--
+*I FD 150511005 140701016        0002098  00633  00750      % 16996 RGTR--
+150511005 Perlé, Schoul                00633                % 16996 RGTR--
+150511001 Perlé, An der Huel    00634  00634                % 16996 RGTR--
+150511006 Perlé, Kuelewee       00635  00635                % 16996 RGTR--
+150511002 Perlé, Gare           00635  00635                % 16996 RGTR--
+150515003 Wolwelange, Spëtzt    00638  00638                % 16996 RGTR--
+150515002 Wolwelange, Kiosk     00638  00638                % 16996 RGTR--
+150515001 Wolwelange, Ennescht  00639  00639                % 16996 RGTR--
+150510002 Martelange, Leekoll   00639  00639                % 16996 RGTR--
+150510001 Martelange, Gare      00641  00641                % 16996 RGTR--
+150502006 Bigonville, Am Duerf  00650  00650                % 16996 RGTR--
+150502001 Bigonville, Huelgaas  00650  00650                % 16996 RGTR--
+150502004 Bigonville, Knupp     00651  00651                % 16996 RGTR--
+150502007 Bigonville, Haaptstr  00652  00652                % 16996 RGTR--
+150502002 Bigonville, Kéismaar  00652  00652                % 16996 RGTR--
+150502005 Bigonville, Réimerwe  00653  00653                % 16996 RGTR--
+150502003 Bigonville, Kimm      00654  00654                % 16996 RGTR--
+150513001 Riesenhaff            00657  00657                % 16996 RGTR--
+150509001 Koetschette, Rond-Po  00658  00658                % 16996 RGTR--
+150512005 Rambrouch, Schlass    00700  00700                % 16996 RGTR--
+150512006 Rambrouch, Gare       00701  00701                % 16996 RGTR--
+150512004 Rambrouch, Riesenknä  00702  00702                % 16996 RGTR--
+150508002 Hostert, Wäschbur     00705  00705                % 16996 RGTR--
+150506007 Brisenhaff            00706  00706                % 16996 RGTR--
+150605002 Ospern, Wäschbur      00709  00709                % 16996 RGTR--
+150605001 Ospern, Kiirch        00710  00710                % 16996 RGTR--
+150607001 Reichlange, Hostelle  00712  00712                % 16996 RGTR--
+150202002 Platen                00713  00713                % 16996 RGTR--
+150202001 Platen, Kinnebësch    00714  00714                % 16996 RGTR--
+150206001 Bettborn, Gemenge Pl  00714  00714                % 16996 RGTR--
+150204001 Reimberg, Michel Luc  00716  00716                % 16996 RGTR--
+150204002 Reimberg              00716  00716                % 16996 RGTR--
+150803002 Schandel, Kreizung    00718  00718                % 16996 RGTR--
+150803001 Schandel, Kiirch      00719  00719                % 16996 RGTR--
+150803003 Schandel, Viichtener  00720  00720                % 16996 RGTR--
+150902003 Vichten, Bäerig       00722  00722                % 16996 RGTR--
+150902004 Vichten, Gemeng       00724  00724                % 16996 RGTR--
+150902007 Vichten, Schoul       00725  00725                % 16996 RGTR--
+150902006 Vichten, Ohligsfeld   00725  00725                % 16996 RGTR--
+150902005 Vichten, Hemeschbaac  00726  00726                % 16996 RGTR--
+160101002 Bissen, Kräizung      00731  00731                % 16996 RGTR--
+160101004 Bissen, Kiirch        00732  00732                % 16996 RGTR--
+160101007 Bissen, Steekräiz     00733  00733                % 16996 RGTR--
+160102002 Rouscht               00735  00735                % 16996 RGTR--
+160102001 Roost (Bissen), Mold  00736  00736                % 16996 RGTR--
+160301006 Colmar-Berg, Raedels  00737  00737                % 16996 RGTR--
+160301001 Colmar-Berg, C. Admi  00739  00739                % 16996 RGTR--
+160301007 Colmar-Berg, Usines   00739  00739                % 16996 RGTR--
+160301002 Colmar-Berg, Centre   00741  00741                % 16996 RGTR--
+141301007 Schieren, Porte de S  00743  00743                % 16996 RGTR--
+141301004 Schieren, Neie Wee    00744  00744                % 16996 RGTR--
+141301006 Schieren, Vali's Pla  00745  00745                % 16996 RGTR--
+140701018 Ettelbruck, H.v.Land  00746  00746                % 16996 RGTR--
+140701026 Ettelbruck, Rond Poi  00747  00747                % 16996 RGTR--
+140701015 Ettelbruck, Ecole Pr  00748  00748                % 16996 RGTR--
+140701016 Ettelbruck, Gare      00750                       % 16996 RGTR--
+*Z 00062 RGTR--                                             % 00062 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00062 RGTR--
+*A GW 140701016 150511005 000002  01648  01806              % 00062 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00062 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00062 RGTR--
+*A VE 140701016 150511005 000002  01648  01806              % 00062 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00062 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00062 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00062 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00062 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00062 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00062 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00062 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00062 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00062 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00062 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00062 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00062 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00062 RGTR--
+160102002 Rouscht               01701  01701                % 00062 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00062 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00062 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00062 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00062 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00062 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00062 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00062 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00062 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00062 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00062 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00062 RGTR--
+150204002 Reimberg              01720  01720                % 00062 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00062 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00062 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00062 RGTR--
+150202002 Platen                01724  01724                % 00062 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00062 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00062 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00062 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00062 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00062 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00062 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00062 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00062 RGTR--
+150513001 Riesenhaff            01741  01741                % 00062 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00062 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00062 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00062 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00062 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00062 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00062 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00062 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00062 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00062 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00062 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00062 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00062 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00062 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00062 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00062 RGTR--
+150511005 Perlé, Schoul         01806                       % 00062 RGTR--
+*Z 00064 RGTR--                                             % 00064 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00064 RGTR--
+*A GW 140701016 150511005 000005  01648  01806              % 00064 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00064 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00064 RGTR--
+*A VE 140701016 150511005 000005  01648  01806              % 00064 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00064 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00064 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00064 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00064 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00064 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00064 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00064 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00064 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00064 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00064 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00064 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00064 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00064 RGTR--
+160102002 Rouscht               01701  01701                % 00064 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00064 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00064 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00064 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00064 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00064 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00064 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00064 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00064 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00064 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00064 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00064 RGTR--
+150204002 Reimberg              01720  01720                % 00064 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00064 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00064 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00064 RGTR--
+150202002 Platen                01724  01724                % 00064 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00064 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00064 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00064 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00064 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00064 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00064 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00064 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00064 RGTR--
+150513001 Riesenhaff            01741  01741                % 00064 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00064 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00064 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00064 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00064 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00064 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00064 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00064 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00064 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00064 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00064 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00064 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00064 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00064 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00064 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00064 RGTR--
+150511005 Perlé, Schoul         01806                       % 00064 RGTR--
+*Z 00066 RGTR--                                             % 00066 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00066 RGTR--
+*A GW 140701016 150511005 000003  01648  01806              % 00066 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00066 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00066 RGTR--
+*A VE 140701016 150511005 000003  01648  01806              % 00066 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00066 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00066 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00066 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00066 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00066 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00066 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00066 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00066 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00066 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00066 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00066 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00066 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00066 RGTR--
+160102002 Rouscht               01701  01701                % 00066 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00066 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00066 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00066 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00066 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00066 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00066 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00066 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00066 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00066 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00066 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00066 RGTR--
+150204002 Reimberg              01720  01720                % 00066 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00066 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00066 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00066 RGTR--
+150202002 Platen                01724  01724                % 00066 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00066 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00066 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00066 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00066 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00066 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00066 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00066 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00066 RGTR--
+150513001 Riesenhaff            01741  01741                % 00066 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00066 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00066 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00066 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00066 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00066 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00066 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00066 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00066 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00066 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00066 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00066 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00066 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00066 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00066 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00066 RGTR--
+150511005 Perlé, Schoul         01806                       % 00066 RGTR--
+*Z 00060 RGTR--                                             % 00060 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00060 RGTR--
+*A GW 140701016 150511005 000004  01648  01806              % 00060 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00060 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00060 RGTR--
+*A VE 140701016 150511005 000004  01648  01806              % 00060 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00060 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00060 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00060 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00060 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00060 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00060 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00060 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00060 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00060 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00060 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00060 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00060 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00060 RGTR--
+160102002 Rouscht               01701  01701                % 00060 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00060 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00060 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00060 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00060 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00060 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00060 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00060 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00060 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00060 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00060 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00060 RGTR--
+150204002 Reimberg              01720  01720                % 00060 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00060 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00060 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00060 RGTR--
+150202002 Platen                01724  01724                % 00060 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00060 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00060 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00060 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00060 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00060 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00060 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00060 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00060 RGTR--
+150513001 Riesenhaff            01741  01741                % 00060 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00060 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00060 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00060 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00060 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00060 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00060 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00060 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00060 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00060 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00060 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00060 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00060 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00060 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00060 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00060 RGTR--
+150511005 Perlé, Schoul         01806                       % 00060 RGTR--
+*Z 00058 RGTR--                                             % 00058 RGTR--
+*L 90U      140701016 150511005  01648  01806               % 00058 RGTR--
+*A GW 140701016 150511005 000001  01648  01806              % 00058 RGTR--
+*R 2 150511005 140701016 150511005  01648  01806            % 00058 RGTR--
+*G 063 140701016 150511005  01648  01806                    % 00058 RGTR--
+*A VE 140701016 150511005 000001  01648  01806              % 00058 RGTR--
+*I FD 140701016 150511005        0001250  01648  01806      % 00058 RGTR--
+140701016 Ettelbruck, Gare             01648                % 00058 RGTR--
+140701034 Ettelbruck, Apdikt P  01649  01649                % 00058 RGTR--
+140701026 Ettelbruck, Rond Poi  01650  01650                % 00058 RGTR--
+140701018 Ettelbruck, H.v.Land  01651  01651                % 00058 RGTR--
+141301002 Schieren, Faubourg    01652  01652                % 00058 RGTR--
+141301005 Schieren, Uewerschie  01653  01653                % 00058 RGTR--
+141301007 Schieren, Porte de S  01654  01654                % 00058 RGTR--
+160301002 Colmar-Berg, Centre   01655  01655                % 00058 RGTR--
+160301007 Colmar-Berg, Usines   01657  01657                % 00058 RGTR--
+160301001 Colmar-Berg, C. Admi  01658  01658                % 00058 RGTR--
+160301006 Colmar-Berg, Raedels  01659  01659                % 00058 RGTR--
+160102001 Roost (Bissen), Mold  01700  01700                % 00058 RGTR--
+160102002 Rouscht               01701  01701                % 00058 RGTR--
+160101007 Bissen, Steekräiz     01703  01703                % 00058 RGTR--
+160101004 Bissen, Kiirch        01704  01704                % 00058 RGTR--
+160101002 Bissen, Kräizung      01705  01705                % 00058 RGTR--
+150902005 Vichten, Hemeschbaac  01710  01710                % 00058 RGTR--
+150902006 Vichten, Ohligsfeld   01711  01711                % 00058 RGTR--
+150902007 Vichten, Schoul       01711  01711                % 00058 RGTR--
+150902004 Vichten, Gemeng       01712  01712                % 00058 RGTR--
+150902003 Vichten, Bäerig       01714  01714                % 00058 RGTR--
+150803003 Schandel, Viichtener  01717  01717                % 00058 RGTR--
+150803001 Schandel, Kiirch      01718  01718                % 00058 RGTR--
+150803002 Schandel, Kreizung    01718  01718                % 00058 RGTR--
+150204002 Reimberg              01720  01720                % 00058 RGTR--
+150204001 Reimberg, Michel Luc  01721  01721                % 00058 RGTR--
+150206001 Bettborn, Gemenge Pl  01723  01723                % 00058 RGTR--
+150202001 Platen, Kinnebësch    01723  01723                % 00058 RGTR--
+150202002 Platen                01724  01724                % 00058 RGTR--
+150607001 Reichlange, Hostelle  01726  01726                % 00058 RGTR--
+150605001 Ospern, Kiirch        01728  01728                % 00058 RGTR--
+150605002 Ospern, Wäschbur      01729  01729                % 00058 RGTR--
+150508002 Hostert, Wäschbur     01733  01733                % 00058 RGTR--
+150512004 Rambrouch, Riesenknä  01736  01736                % 00058 RGTR--
+150512006 Rambrouch, Gare       01737  01737                % 00058 RGTR--
+150512005 Rambrouch, Schlass    01738  01738                % 00058 RGTR--
+150509001 Koetschette, Rond-Po  01739  01739                % 00058 RGTR--
+150513001 Riesenhaff            01741  01741                % 00058 RGTR--
+150502003 Bigonville, Kimm      01744  01744                % 00058 RGTR--
+150502005 Bigonville, Réimerwe  01745  01745                % 00058 RGTR--
+150502006 Bigonville, Am Duerf  01745  01745                % 00058 RGTR--
+150502001 Bigonville, Huelgaas  01746  01746                % 00058 RGTR--
+150502004 Bigonville, Knupp     01747  01747                % 00058 RGTR--
+150502007 Bigonville, Haaptstr  01748  01748                % 00058 RGTR--
+150502002 Bigonville, Kéismaar  01749  01749                % 00058 RGTR--
+150510001 Martelange, Gare      01758  01758                % 00058 RGTR--
+150510002 Martelange, Leekoll   01759  01759                % 00058 RGTR--
+150515001 Wolwelange, Ennescht  01800  01800                % 00058 RGTR--
+150515002 Wolwelange, Kiosk     01800  01800                % 00058 RGTR--
+150515003 Wolwelange, Spëtzt    01801  01801                % 00058 RGTR--
+150511002 Perlé, Gare           01804  01804                % 00058 RGTR--
+150511006 Perlé, Kuelewee       01804  01804                % 00058 RGTR--
+150511001 Perlé, An der Huel    01805  01805                % 00058 RGTR--
+150511005 Perlé, Schoul         01806                       % 00058 RGTR--

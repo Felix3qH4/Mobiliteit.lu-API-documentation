@@ -1,0 +1,253 @@
+*F 03 2
+*Z 18101 RGTR--                                             % 18101 RGTR--
+*L B18      180401003 170501016  00713  00751               % 18101 RGTR--
+*A cj 180401003 170501016 000042  00713  00751              % 18101 RGTR--
+*A UK 180401003 170501016 000042  00713  00751              % 18101 RGTR--
+*A ad 180401003 170501016 000042  00713  00751              % 18101 RGTR--
+*R 1 170501016 180401003 170501016  00713  00751            % 18101 RGTR--
+*G 050 180401003 170501016  00713  00751                    % 18101 RGTR--
+*A VE 180401003 170501016 000042  00713  00751              % 18101 RGTR--
+*I FD 180401003 170501016        0003345  00713  00751      % 18101 RGTR--
+180401003 Grevenmacher, Gare r         00713                % 18101 RGTR--
+180401004 Grevenmacher, Jardin  00714  00714                % 18101 RGTR--
+180701006 Mertert, route Natio  00718  00718                % 18101 RGTR--
+180701002 Mertert, Copal        00719  00719                % 18101 RGTR--
+180703004 Wasserbillig, Marais  00720  00720                % 18101 RGTR--
+180703003 Wasserbillig, Gare r  00721  00722                % 18101 RGTR--
+180703001 Wasserbillig, Centre  00723  00723                % 18101 RGTR--
+180703002 Wasserbillig, Cimeti  00724  00724                % 18101 RGTR--
+180702001 Pont de Langsur       00725  00725                % 18101 RGTR--
+170605002 Moersdorf, Olek       00729  00729                % 18101 RGTR--
+170605001 Moersdorf, Duerf      00729  00729                % 18101 RGTR--
+170601002 Born, Op der Gare     00731  00731                % 18101 RGTR--
+170601001 Born, Kapell          00732  00732                % 18101 RGTR--
+170601004 Born, Pëtzwee         00732  00732                % 18101 RGTR--
+170601003 Born, Op Kimmelt      00733  00733                % 18101 RGTR--
+170607001 Burer Millen          00734  00734                % 18101 RGTR--
+170703001 Hinkel, Haaptstrooss  00735  00735                % 18101 RGTR--
+170703003 Hinkel, Schiltzhaus   00736  00736                % 18101 RGTR--
+170704002 Rosport, Centr.Elect  00737  00737                % 18101 RGTR--
+170704003 Rosport, Lokal        00739  00739                % 18101 RGTR--
+170704001 Rosport, Camping      00740  00740                % 18101 RGTR--
+170704005 Rosport, Source       00741  00741                % 18101 RGTR--
+170705002 Steinheim, Maeleck    00742  00742                % 18101 RGTR--
+170705003 Steinheim, Spillscho  00743  00743                % 18101 RGTR--
+170501009 Echternach, Lycée     00748  00748                % 18101 RGTR--
+170501005 Echternach, Centre V  00749  00749                % 18101 RGTR--
+170501016 Echternach, Gare Cen  00751                       % 18101 RGTR--
+*Z 18102 RGTR--                                             % 18102 RGTR--
+*L B18      180701003 170501016  00718  00753               % 18102 RGTR--
+*A cj 180701003 170501016 000042  00718  00753              % 18102 RGTR--
+*A ad 180701003 170501016 000042  00718  00753              % 18102 RGTR--
+*R 1 170501016 180701003 170501016  00718  00753            % 18102 RGTR--
+*G 070 180701003 170501016  00718  00753                    % 18102 RGTR--
+*A VE 180701003 170501016 000042  00718  00753              % 18102 RGTR--
+*I FD 180701003 170501016        0002223  00718  00753      % 18102 RGTR--
+180701003 Mertert, Eglise              00718                % 18102 RGTR--
+180701001 Mertert, Beckius      00720  00720                % 18102 RGTR--
+180701002 Mertert, Copal        00721  00721                % 18102 RGTR--
+180703004 Wasserbillig, Marais  00722  00722                % 18102 RGTR--
+180703003 Wasserbillig, Gare r  00723  00724                % 18102 RGTR--
+180703001 Wasserbillig, Centre  00725  00725                % 18102 RGTR--
+180703002 Wasserbillig, Cimeti  00726  00726                % 18102 RGTR--
+180702001 Pont de Langsur       00727  00727                % 18102 RGTR--
+170605002 Moersdorf, Olek       00731  00731                % 18102 RGTR--
+170605001 Moersdorf, Duerf      00731  00731                % 18102 RGTR--
+170601002 Born, Op der Gare     00733  00733                % 18102 RGTR--
+170601001 Born, Kapell          00734  00734                % 18102 RGTR--
+170601004 Born, Pëtzwee         00734  00734                % 18102 RGTR--
+170601003 Born, Op Kimmelt      00735  00735                % 18102 RGTR--
+170607001 Burer Millen          00736  00736                % 18102 RGTR--
+170703001 Hinkel, Haaptstrooss  00737  00737                % 18102 RGTR--
+170703003 Hinkel, Schiltzhaus   00738  00738                % 18102 RGTR--
+170704002 Rosport, Centr.Elect  00739  00739                % 18102 RGTR--
+170704003 Rosport, Lokal        00741  00741                % 18102 RGTR--
+170704001 Rosport, Camping      00742  00742                % 18102 RGTR--
+170704005 Rosport, Source       00743  00743                % 18102 RGTR--
+170705002 Steinheim, Maeleck    00744  00744                % 18102 RGTR--
+170705003 Steinheim, Spillscho  00745  00745                % 18102 RGTR--
+170501009 Echternach, Lycée     00750  00750                % 18102 RGTR--
+170501005 Echternach, Centre V  00751  00751                % 18102 RGTR--
+170501016 Echternach, Gare Cen  00753                       % 18102 RGTR--
+*Z 18103 RGTR--                                             % 18103 RGTR--
+*L B18      180401003 170501016  00720  00755               % 18103 RGTR--
+*A cj 180401003 170501016 000042  00720  00755              % 18103 RGTR--
+*A ad 180401003 170501016 000042  00720  00755              % 18103 RGTR--
+*R 1 170501016 180401003 170501016  00720  00755            % 18103 RGTR--
+*G 050 180401003 170501016  00720  00755                    % 18103 RGTR--
+*A VE 180401003 170501016 000042  00720  00755              % 18103 RGTR--
+*I FD 180401003 170501016        0002604  00720  00755      % 18103 RGTR--
+180401003 Grevenmacher, Gare r         00720                % 18103 RGTR--
+180401004 Grevenmacher, Jardin  00720  00720                % 18103 RGTR--
+180701006 Mertert, route Natio  00724  00724                % 18103 RGTR--
+180701002 Mertert, Copal        00725  00725                % 18103 RGTR--
+180703004 Wasserbillig, Marais  00726  00726                % 18103 RGTR--
+180703003 Wasserbillig, Gare r  00727  00728                % 18103 RGTR--
+180703001 Wasserbillig, Centre  00730  00730                % 18103 RGTR--
+180703002 Wasserbillig, Cimeti  00730  00730                % 18103 RGTR--
+170704002 Rosport, Centr.Elect  00741  00741                % 18103 RGTR--
+170704003 Rosport, Lokal        00743  00743                % 18103 RGTR--
+170704001 Rosport, Camping      00744  00744                % 18103 RGTR--
+170704005 Rosport, Source       00745  00745                % 18103 RGTR--
+170705002 Steinheim, Maeleck    00746  00746                % 18103 RGTR--
+170705003 Steinheim, Spillscho  00747  00747                % 18103 RGTR--
+170501009 Echternach, Lycée     00752  00752                % 18103 RGTR--
+170501005 Echternach, Centre V  00754  00754                % 18103 RGTR--
+170501016 Echternach, Gare Cen  00755                       % 18103 RGTR--
+*Z 18104 RGTR--                                             % 18104 RGTR--
+*L B18      180401003 170501009  00722  00753               % 18104 RGTR--
+*A cj 180401003 170501009 000042  00722  00753              % 18104 RGTR--
+*A DS 180401003 170501009 000042  00722  00753              % 18104 RGTR--
+*A SO 180401003 170501009 000042  00722  00753              % 18104 RGTR--
+*A ad 180401003 170501009 000042  00722  00753              % 18104 RGTR--
+*R 1 170501009 180401003 170501009  00722  00753            % 18104 RGTR--
+*G 050 180401003 170501009  00722  00753                    % 18104 RGTR--
+*A VE 180401003 170501009 000042  00722  00753              % 18104 RGTR--
+*I FD 180401003 170501009        0003125  00722  00753      % 18104 RGTR--
+180401003 Grevenmacher, Gare r         00722                % 18104 RGTR--
+180401004 Grevenmacher, Jardin  00722  00722                % 18104 RGTR--
+180701006 Mertert, route Natio  00726  00726                % 18104 RGTR--
+180701002 Mertert, Copal        00727  00727                % 18104 RGTR--
+180703004 Wasserbillig, Marais  00728  00728                % 18104 RGTR--
+180703003 Wasserbillig, Gare r  00729  00730                % 18104 RGTR--
+180703001 Wasserbillig, Centre  00732  00732                % 18104 RGTR--
+180703002 Wasserbillig, Cimeti  00732  00732                % 18104 RGTR--
+170501009 Echternach, Lycée     00753                       % 18104 RGTR--
+*Z 18105 RGTR--                                             % 18105 RGTR--
+*L B18      170704003 170501009  00742  00750               % 18105 RGTR--
+*A cj 170704003 170501009 000042  00742  00750              % 18105 RGTR--
+*A ad 170704003 170501009 000042  00742  00750              % 18105 RGTR--
+*R 1 170501009 170704003 170501009  00742  00750            % 18105 RGTR--
+*G 050 170704003 170501009  00742  00750                    % 18105 RGTR--
+*A VE 170704003 170501009 000042  00742  00750              % 18105 RGTR--
+*I FD 170704003 170501009        0003002  00742  00750      % 18105 RGTR--
+170704003 Rosport, Lokal               00742                % 18105 RGTR--
+170704001 Rosport, Camping      00742  00742                % 18105 RGTR--
+170704005 Rosport, Source       00743  00743                % 18105 RGTR--
+170705002 Steinheim, Maeleck    00745  00745                % 18105 RGTR--
+170705003 Steinheim, Spillscho  00746  00746                % 18105 RGTR--
+170501009 Echternach, Lycée     00750                       % 18105 RGTR--
+*Z 18106 RGTR--                                             % 18106 RGTR--
+*L B18      170501009 180401003  01440  01517               % 18106 RGTR--
+*A cj 170501009 180401003 000042  01440  01517              % 18106 RGTR--
+*A ad 170501009 180401003 000042  01440  01517              % 18106 RGTR--
+*R 2 180401003 170501009 180401003  01440  01517            % 18106 RGTR--
+*G 050 170501009 180401003  01440  01517                    % 18106 RGTR--
+*A VE 170501009 180401003 000042  01440  01517              % 18106 RGTR--
+*I FD 170501009 180401003        0002330  01440  01517      % 18106 RGTR--
+170501009 Echternach, Lycée            01440                % 18106 RGTR--
+170501011 Echternach, Morgenst  01444  01444                % 18106 RGTR--
+170501015 Echternach, Ste Croi  01444  01444                % 18106 RGTR--
+180703002 Wasserbillig, Cimeti  01503  01503                % 18106 RGTR--
+180703001 Wasserbillig, Centre  01504  01504                % 18106 RGTR--
+180703003 Wasserbillig, Gare r  01506  01508                % 18106 RGTR--
+180703004 Wasserbillig, Marais  01508  01508                % 18106 RGTR--
+180701002 Mertert, Copal        01509  01509                % 18106 RGTR--
+180701001 Mertert, Beckius      01510  01510                % 18106 RGTR--
+180701003 Mertert, Eglise       01512  01512                % 18106 RGTR--
+180701005 Mertert, Parc         01512  01512                % 18106 RGTR--
+180401004 Grevenmacher, Jardin  01516  01516                % 18106 RGTR--
+180401003 Grevenmacher, Gare r  01517                       % 18106 RGTR--
+*Z 18107 RGTR--                                             % 18107 RGTR--
+*L B18      170501009 180401003  01440  01518               % 18107 RGTR--
+*A cj 170501009 180401003 000042  01440  01518              % 18107 RGTR--
+*A ad 170501009 180401003 000042  01440  01518              % 18107 RGTR--
+*R 2 180401003 170501009 180401003  01440  01518            % 18107 RGTR--
+*G 050 170501009 180401003  01440  01518                    % 18107 RGTR--
+*A VE 170501009 180401003 000042  01440  01518              % 18107 RGTR--
+*I FD 170501009 180401003        0003387  01440  01518      % 18107 RGTR--
+170501009 Echternach, Lycée            01440                % 18107 RGTR--
+170501011 Echternach, Morgenst  01444  01444                % 18107 RGTR--
+170501015 Echternach, Ste Croi  01444  01444                % 18107 RGTR--
+170705001 Steinheim, An der Ue  01449  01449                % 18107 RGTR--
+170705002 Steinheim, Maeleck    01449  01449                % 18107 RGTR--
+170704005 Rosport, Source       01451  01451                % 18107 RGTR--
+170704001 Rosport, Camping      01452  01452                % 18107 RGTR--
+170704003 Rosport, Lokal        01452  01452                % 18107 RGTR--
+170704002 Rosport, Centr.Elect  01454  01454                % 18107 RGTR--
+170703003 Hinkel, Schiltzhaus   01455  01455                % 18107 RGTR--
+170703001 Hinkel, Haaptstrooss  01456  01456                % 18107 RGTR--
+170607001 Burer Millen          01457  01457                % 18107 RGTR--
+170601003 Born, Op Kimmelt      01458  01458                % 18107 RGTR--
+170601004 Born, Pëtzwee         01459  01459                % 18107 RGTR--
+170601001 Born, Kapell          01500  01500                % 18107 RGTR--
+170601002 Born, Op der Gare     01500  01500                % 18107 RGTR--
+170605001 Moersdorf, Duerf      01502  01502                % 18107 RGTR--
+170605002 Moersdorf, Olek       01502  01502                % 18107 RGTR--
+180702001 Pont de Langsur       01505  01505                % 18107 RGTR--
+180703002 Wasserbillig, Cimeti  01507  01507                % 18107 RGTR--
+180703001 Wasserbillig, Centre  01508  01508                % 18107 RGTR--
+180703003 Wasserbillig, Gare r  01509  01511                % 18107 RGTR--
+180703004 Wasserbillig, Marais  01512  01512                % 18107 RGTR--
+180701002 Mertert, Copal        01513  01513                % 18107 RGTR--
+180701006 Mertert, route Natio  01514  01514                % 18107 RGTR--
+180401004 Grevenmacher, Jardin  01517  01517                % 18107 RGTR--
+180401003 Grevenmacher, Gare r  01518                       % 18107 RGTR--
+*Z 18108 RGTR--                                             % 18108 RGTR--
+*L B18      170501009 180401003  01445  01514               % 18108 RGTR--
+*A cj 170501009 180401003 000042  01445  01514              % 18108 RGTR--
+*A ad 170501009 180401003 000042  01445  01514              % 18108 RGTR--
+*R 2 180401003 170501009 180401003  01445  01514            % 18108 RGTR--
+*G 050 170501009 180401003  01445  01514                    % 18108 RGTR--
+*A VE 170501009 180401003 000042  01445  01514              % 18108 RGTR--
+*I FD 170501009 180401003        0003388  01445  01514      % 18108 RGTR--
+170501009 Echternach, Lycée            01445                % 18108 RGTR--
+170501011 Echternach, Morgenst  01449  01449                % 18108 RGTR--
+170501015 Echternach, Ste Croi  01449  01449                % 18108 RGTR--
+180701006 Mertert, route Natio  01509  01509                % 18108 RGTR--
+180401004 Grevenmacher, Jardin  01513  01513                % 18108 RGTR--
+180401003 Grevenmacher, Gare r  01514                       % 18108 RGTR--
+*Z 18109 RGTR--                                             % 18109 RGTR--
+*L B18      170501016 180401003  01540  01618               % 18109 RGTR--
+*A cj 170501016 180401003 000042  01540  01618              % 18109 RGTR--
+*A IE 170501016 180401003 000042  01540  01618              % 18109 RGTR--
+*A ad 170501016 180401003 000042  01540  01618              % 18109 RGTR--
+*R 2 180401003 170501016 180401003  01540  01618            % 18109 RGTR--
+*G 050 170501016 180401003  01540  01618                    % 18109 RGTR--
+*A VE 170501016 180401003 000042  01540  01618              % 18109 RGTR--
+*I FD 170501016 180401003        0002323  01540  01618      % 18109 RGTR--
+170501016 Echternach, Gare Cen         01540                % 18109 RGTR--
+170501011 Echternach, Morgenst  01541  01541                % 18109 RGTR--
+170501015 Echternach, Ste Croi  01541  01541                % 18109 RGTR--
+170705001 Steinheim, An der Ue  01546  01546                % 18109 RGTR--
+170705002 Steinheim, Maeleck    01546  01546                % 18109 RGTR--
+170704005 Rosport, Source       01548  01548                % 18109 RGTR--
+170704001 Rosport, Camping      01549  01549                % 18109 RGTR--
+170704003 Rosport, Lokal        01549  01549                % 18109 RGTR--
+170704002 Rosport, Centr.Elect  01551  01551                % 18109 RGTR--
+170703003 Hinkel, Schiltzhaus   01552  01552                % 18109 RGTR--
+170703001 Hinkel, Haaptstrooss  01553  01553                % 18109 RGTR--
+170607001 Burer Millen          01554  01554                % 18109 RGTR--
+170601003 Born, Op Kimmelt      01555  01555                % 18109 RGTR--
+170601004 Born, Pëtzwee         01556  01556                % 18109 RGTR--
+170601001 Born, Kapell          01557  01557                % 18109 RGTR--
+170601002 Born, Op der Gare     01557  01557                % 18109 RGTR--
+170605001 Moersdorf, Duerf      01559  01559                % 18109 RGTR--
+170605002 Moersdorf, Olek       01559  01559                % 18109 RGTR--
+180702001 Pont de Langsur       01602  01602                % 18109 RGTR--
+180703002 Wasserbillig, Cimeti  01604  01604                % 18109 RGTR--
+180703001 Wasserbillig, Centre  01605  01605                % 18109 RGTR--
+180703003 Wasserbillig, Gare r  01606  01608                % 18109 RGTR--
+180703004 Wasserbillig, Marais  01609  01609                % 18109 RGTR--
+180701002 Mertert, Copal        01610  01610                % 18109 RGTR--
+180701001 Mertert, Beckius      01611  01611                % 18109 RGTR--
+180701003 Mertert, Eglise       01613  01613                % 18109 RGTR--
+180701005 Mertert, Parc         01613  01613                % 18109 RGTR--
+180401004 Grevenmacher, Jardin  01617  01617                % 18109 RGTR--
+180401003 Grevenmacher, Gare r  01618                       % 18109 RGTR--
+*Z 00709 RGTR--                                             % 00709 RGTR--
+*L B18      170501016 170704003  01633  01643               % 00709 RGTR--
+*A cj 170501016 170704003 000047  01633  01643              % 00709 RGTR--
+*A ad 170501016 170704003 000047  01633  01643              % 00709 RGTR--
+*R 2 170704003 170501016 170704003  01633  01643            % 00709 RGTR--
+*G 050 170501016 170704003  01633  01643                    % 00709 RGTR--
+*A VE 170501016 170704003 000047  01633  01643              % 00709 RGTR--
+*I FD 170501016 170704003        0002741  01633  01643      % 00709 RGTR--
+170501016 Echternach, Gare Cen         01633                % 00709 RGTR--
+170501011 Echternach, Morgenst  01634  01634                % 00709 RGTR--
+170501015 Echternach, Ste Croi  01634  01634                % 00709 RGTR--
+170705001 Steinheim, An der Ue  01639  01639                % 00709 RGTR--
+170705002 Steinheim, Maeleck    01640  01640                % 00709 RGTR--
+170704005 Rosport, Source       01641  01641                % 00709 RGTR--
+170704001 Rosport, Camping      01642  01642                % 00709 RGTR--
+170704003 Rosport, Lokal        01643                       % 00709 RGTR--

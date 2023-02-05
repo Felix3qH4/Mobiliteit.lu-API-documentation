@@ -1,0 +1,29 @@
+*F 03 2
+*Z 05845 TIC---                                             % 05845 TIC---
+*L 773      220402062 220201053  01540  01603               % 05845 TIC---
+*R 1 220201053 220402062 220201053  01540  01603            % 05845 TIC---
+*G TRB 220402062 220201053  01540  01603                    % 05845 TIC---
+*A VE 220402062 220201053 000290  01540  01603              % 05845 TIC---
+*I FD 220402062 220201053        0001658  01540  01603      % 05845 TIC---
+220402062 Esch-sur-Alzette, Ly         01540                % 05845 TIC---
+220402079 Esch-sur-Alzette, Ra  01542 -01542                % 05845 TIC---
+221301005 Belvaux, Brill        01543 -01543                % 05845 TIC---
+221301016 Belvaux, Roudewee     01544 -01544                % 05845 TIC---
+221301018 Belvaux, Roudewee Sc  01545 -01545                % 05845 TIC---
+221301011 Belvaux, Boulodrome   01546 -01546                % 05845 TIC---
+221304010 Soleuvre, Huuschtewe  01547 -01547                % 05845 TIC---
+221304003 Soleuvre, Cité 2000   01548 -01548                % 05845 TIC---
+221304012 Soleuvre, Place de l  01550 -01550                % 05845 TIC---
+221304009 Soleuvre, Emile Mayr  01550 -01550                % 05845 TIC---
+221304005 Soleuvre, Cité Schei  01551 -01551                % 05845 TIC---
+221304007 Soleuvre, Déifferden  01552 -01552                % 05845 TIC---
+221304004 Soleuvre, Cité Kauff  01553 -01553                % 05845 TIC---
+220201011 Differdange, Cité Br  01553 -01553                % 05845 TIC---
+220201026 Differdange, Hansen   01555 -01555                % 05845 TIC---
+220201039 Differdange, Profi    01556 -01556                % 05845 TIC---
+220201019 Differdange, Fousban  01557 -01557                % 05845 TIC---
+220201003 Differdange, Arbed    01558 -01558                % 05845 TIC---
+220201001 Differdange, Aal Gar  01559 -01559                % 05845 TIC---
+220201006 Differdange, Centre   01600 -01600                % 05845 TIC---
+220201018 Differdange, Fonds d  01601 -01601                % 05845 TIC---
+220201053 Differdange, Schoul   01603                       % 05845 TIC---

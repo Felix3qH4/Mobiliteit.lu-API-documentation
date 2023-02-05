@@ -1,0 +1,77 @@
+*F 03 2
+*Z 18614 RGTR--                                             % 18614 RGTR--
+*L K07      140401004 170101003  01450  01523               % 18614 RGTR--
+*A cj 140401004 170101003 000042  01450  01523              % 18614 RGTR--
+*A ad 140401004 170101003 000042  01450  01523              % 18614 RGTR--
+*R 1 170101003 140401004 170101003  01450  01523            % 18614 RGTR--
+*G 050 140401004 170101003  01450  01523                    % 18614 RGTR--
+*A VE 140401004 170101003 000042  01450  01523              % 18614 RGTR--
+*I FD 140401004 170101003        0002072  01450  01523      % 18614 RGTR--
+140401004 Diekirch, Gare routi         01450                % 18614 RGTR--
+140401001 Diekirch, Altersheem  01451  01451                % 18614 RGTR--
+140401007 Diekirch, rue Merten  01453  01453                % 18614 RGTR--
+140401016 Diekirch, Beim Waass  01455  01455                % 18614 RGTR--
+141001004 Medernach, Op der La  01505  01505                % 18614 RGTR--
+141001002 Medernach, Iermsdrëf  01506  01506                % 18614 RGTR--
+140502002 Ermsdorf              01508  01508                % 18614 RGTR--
+140504002 Neimillen             01509  01509                % 18614 RGTR--
+140504003 Reisermillen          01510  01510                % 18614 RGTR--
+140504001 Keiwelbaach           01511  01511                % 18614 RGTR--
+140501002 Eppeldorf, Gaich      01513  01513                % 18614 RGTR--
+140501003 Eppeldorf, Haaptstro  01514  01514                % 18614 RGTR--
+140501001 Eppeldorf, Faubourg   01515  01515                % 18614 RGTR--
+140501005 Eppeldorf, Op Baach   01516  01516                % 18614 RGTR--
+140501004 Eppeldorf, Hossebier  01518  01518                % 18614 RGTR--
+170101002 Beaufort, Ennescht H  01519  01519                % 18614 RGTR--
+170101009 Beaufort, Um Bierg    01520  01520                % 18614 RGTR--
+170101001 Beaufort, Aispist     01521  01521                % 18614 RGTR--
+170101006 Beaufort, Op der Gar  01522  01522                % 18614 RGTR--
+170101003 Beaufort, Härewiss    01523                       % 18614 RGTR--
+*Z 18615 RGTR--                                             % 18615 RGTR--
+*L K07      170101002 140701016  00650  00736               % 18615 RGTR--
+*A cj 170101002 140701016 000042  00650  00736              % 18615 RGTR--
+*A ad 170101002 140701016 000042  00650  00736              % 18615 RGTR--
+*R 2 140701016 170101002 140701016  00650  00736            % 18615 RGTR--
+*G 070 170101002 140701016  00650  00736                    % 18615 RGTR--
+*A VE 170101002 140701016 000042  00650  00736              % 18615 RGTR--
+*I FD 170101002 140701016        0002541  00650  00736      % 18615 RGTR--
+170101002 Beaufort, Ennescht H         00650                % 18615 RGTR--
+140501004 Eppeldorf, Hossebier  00651  00651                % 18615 RGTR--
+140501005 Eppeldorf, Op Baach   00653  00653                % 18615 RGTR--
+140501001 Eppeldorf, Faubourg   00654  00654                % 18615 RGTR--
+140501003 Eppeldorf, Haaptstro  00655  00655                % 18615 RGTR--
+140501002 Eppeldorf, Gaich      00656  00656                % 18615 RGTR--
+140504001 Keiwelbaach           00658  00658                % 18615 RGTR--
+140504003 Reisermillen          00700  00700                % 18615 RGTR--
+140504002 Neimillen             00700  00700                % 18615 RGTR--
+140502002 Ermsdorf              00702  00702                % 18615 RGTR--
+141001002 Medernach, Iermsdrëf  00704  00704                % 18615 RGTR--
+141001004 Medernach, Op der La  00706  00706                % 18615 RGTR--
+140401016 Diekirch, Beim Waass  00716  00716                % 18615 RGTR--
+140401007 Diekirch, rue Merten  00718  00718                % 18615 RGTR--
+140401011 Diekirch, Alexis Hec  00720  00720                % 18615 RGTR--
+140401006 Diekirch, Kluuster    00721  00721                % 18615 RGTR--
+140401004 Diekirch, Gare routi  00723  00723                % 18615 RGTR--
+140401008 Diekirch, Lorentzwue  00725  00725                % 18615 RGTR--
+140603002 Ingeldorf, Café de l  00726  00726                % 18615 RGTR--
+140602008 Erpeldange-sur-Sûre,  00728  00728                % 18615 RGTR--
+140701001 Ettelbruck, Anc. Cli  00731  00731                % 18615 RGTR--
+140701023 Ettelbruck, LTEtt Ga  00733  00733                % 18615 RGTR--
+140701024 Ettelbruck, Poste     00735  00735                % 18615 RGTR--
+140701016 Ettelbruck, Gare      00736                       % 18615 RGTR--
+*Z 18616 RGTR--                                             % 18616 RGTR--
+*L K07      140401004 140701016  00727  00740               % 18616 RGTR--
+*A cj 140401004 140701016 000042  00727  00740              % 18616 RGTR--
+*A ad 140401004 140701016 000042  00727  00740              % 18616 RGTR--
+*R 2 140701016 140401004 140701016  00727  00740            % 18616 RGTR--
+*G 070 140401004 140701016  00727  00740                    % 18616 RGTR--
+*A VE 140401004 140701016 000042  00727  00740              % 18616 RGTR--
+*I FD 140401004 140701016        0002451  00727  00740      % 18616 RGTR--
+140401004 Diekirch, Gare routi         00727                % 18616 RGTR--
+140401008 Diekirch, Lorentzwue  00728  00728                % 18616 RGTR--
+140603002 Ingeldorf, Café de l  00730  00730                % 18616 RGTR--
+140602008 Erpeldange-sur-Sûre,  00732  00732                % 18616 RGTR--
+140701001 Ettelbruck, Anc. Cli  00735  00735                % 18616 RGTR--
+140701023 Ettelbruck, LTEtt Ga  00737  00737                % 18616 RGTR--
+140701024 Ettelbruck, Poste     00738  00738                % 18616 RGTR--
+140701016 Ettelbruck, Gare      00740                       % 18616 RGTR--

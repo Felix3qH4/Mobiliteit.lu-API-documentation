@@ -1,0 +1,99 @@
+*F 03 2
+*Z 20100 RGTR--                                             % 20100 RGTR--
+*L F04      151003003 300000138  00640  00757               % 20100 RGTR--
+*A ad 151003003 300000138 000042  00640  00757              % 20100 RGTR--
+*R 1 300000138 151003003 300000138  00640  00757            % 20100 RGTR--
+*G 050 151003003 300000138  00640  00757                    % 20100 RGTR--
+*A VE 151003003 300000138 000042  00640  00757              % 20100 RGTR--
+*I FD 151003003 300000138        0002584  00640  00757      % 20100 RGTR--
+151003003 Grevels, Zentrum             00640                % 20100 RGTR--
+150512006 Rambrouch, Gare       00647  00647                % 20100 RGTR--
+150305001 Roodt/Redange, Schou  00652  00652                % 20100 RGTR--
+150602001 Lannen, Schoul        00655  00655                % 20100 RGTR--
+150603003 Nagem, Pompstatioun   00657  00657                % 20100 RGTR--
+150603002 Nagem, Centre Cultur  00658  00658                % 20100 RGTR--
+150508002 Hostert, Wäschbur     00701  00701                % 20100 RGTR--
+150605001 Ospern, Kiirch        00706  00706                % 20100 RGTR--
+150303003 Ell, Beim Schreider   00716  00716                % 20100 RGTR--
+150107001 Oberpallen, Bréck     00721  00721                % 20100 RGTR--
+300000012 Arlon, Inst. St. Mar  00729 -00729                % 20100 RGTR--
+300000001 Arlon, Square Astrid  00730 -00730                % 20100 RGTR--
+300000004 Arlon, Institut notr  00734 -00734                % 20100 RGTR--
+300000137 Arlon, Clinique       00736 -00736                % 20100 RGTR--
+300000013 Arlon, Institut Itel  00740 -00740                % 20100 RGTR--
+300000136 Arlon, Athénée Royal  00742 -00742                % 20100 RGTR--
+300000138 Differt, Institut Ca  00757                       % 20100 RGTR--
+*Z 20101 RGTR--                                             % 20101 RGTR--
+*L F04      300000138 151003003  01205  01330               % 20101 RGTR--
+*A ad 300000138 151003003 000009  01205  01330              % 20101 RGTR--
+*R 2 151003003 300000138 151003003  01205  01330            % 20101 RGTR--
+*G 050 300000138 151003003  01205  01330                    % 20101 RGTR--
+*A VE 300000138 151003003 000009  01205  01330              % 20101 RGTR--
+*I FD 300000138 151003003        0001115  01205  01330      % 20101 RGTR--
+300000138 Differt, Institut Ca         01205                % 20101 RGTR--
+300000012 Arlon, Inst. St. Mar -01219  01219                % 20101 RGTR--
+300000001 Arlon, Square Astrid -01220  01220                % 20101 RGTR--
+300000004 Arlon, Institut notr -01224  01224                % 20101 RGTR--
+300000136 Arlon, Athénée Royal -01230  01230                % 20101 RGTR--
+300000013 Arlon, Institut Itel -01233  01233                % 20101 RGTR--
+300000137 Arlon, Clinique      -01239  01239                % 20101 RGTR--
+300000031 Frassem, Carrefour   -01245  01245                % 20101 RGTR--
+150107001 Oberpallen, Bréck     01250  01250                % 20101 RGTR--
+150303003 Ell, Beim Schreider   01255  01255                % 20101 RGTR--
+150605001 Ospern, Kiirch        01304  01304                % 20101 RGTR--
+150508002 Hostert, Wäschbur     01309  01309                % 20101 RGTR--
+150603002 Nagem, Centre Cultur  01312  01312                % 20101 RGTR--
+150603003 Nagem, Pompstatioun   01313  01313                % 20101 RGTR--
+150602001 Lannen, Schoul        01315  01315                % 20101 RGTR--
+150305001 Roodt/Redange, Schou  01317  01317                % 20101 RGTR--
+150512006 Rambrouch, Gare       01323  01323                % 20101 RGTR--
+151003003 Grevels, Zentrum      01330                       % 20101 RGTR--
+*Z 20102 RGTR--                                             % 20102 RGTR--
+*L F04      300000138 151003003  01605  01730               % 20102 RGTR--
+*A ad 300000138 151003003 000337  01605  01730              % 20102 RGTR--
+*R 2 151003003 300000138 151003003  01605  01730            % 20102 RGTR--
+*G 050 300000138 151003003  01605  01730                    % 20102 RGTR--
+*A VE 300000138 151003003 000337  01605  01730              % 20102 RGTR--
+*I FD 300000138 151003003        0001816  01605  01730      % 20102 RGTR--
+300000138 Differt, Institut Ca         01605                % 20102 RGTR--
+300000012 Arlon, Inst. St. Mar -01619  01619                % 20102 RGTR--
+300000001 Arlon, Square Astrid -01620  01620                % 20102 RGTR--
+300000004 Arlon, Institut notr -01624  01624                % 20102 RGTR--
+300000136 Arlon, Athénée Royal -01630  01630                % 20102 RGTR--
+300000013 Arlon, Institut Itel -01633  01633                % 20102 RGTR--
+300000137 Arlon, Clinique      -01639  01639                % 20102 RGTR--
+300000031 Frassem, Carrefour   -01645  01645                % 20102 RGTR--
+150107001 Oberpallen, Bréck     01650  01650                % 20102 RGTR--
+150303003 Ell, Beim Schreider   01655  01655                % 20102 RGTR--
+150605001 Ospern, Kiirch        01704  01704                % 20102 RGTR--
+150508002 Hostert, Wäschbur     01709  01709                % 20102 RGTR--
+150603002 Nagem, Centre Cultur  01712  01712                % 20102 RGTR--
+150603003 Nagem, Pompstatioun   01713  01713                % 20102 RGTR--
+150602001 Lannen, Schoul        01715  01715                % 20102 RGTR--
+150305001 Roodt/Redange, Schou  01717  01717                % 20102 RGTR--
+150512006 Rambrouch, Gare       01723  01723                % 20102 RGTR--
+151003003 Grevels, Zentrum      01730                       % 20102 RGTR--
+*Z 20103 RGTR--                                             % 20103 RGTR--
+*L F04      300000012 151003003  01605  01716               % 20103 RGTR--
+*A ad 300000012 151003003 000009  01605  01716              % 20103 RGTR--
+*R 2 151003003 300000012 151003003  01605  01716            % 20103 RGTR--
+*G 050 300000012 151003003  01605  01716                    % 20103 RGTR--
+*A VE 300000012 151003003 000009  01605  01716              % 20103 RGTR--
+*I FD 300000012 151003003        0001816  01605  01716      % 20103 RGTR--
+300000012 Arlon, Inst. St. Mar         01605                % 20103 RGTR--
+300000001 Arlon, Square Astrid -01606  01606                % 20103 RGTR--
+300000004 Arlon, Institut notr -01610  01610                % 20103 RGTR--
+300000136 Arlon, Athénée Royal -01616  01616                % 20103 RGTR--
+300000013 Arlon, Institut Itel -01619  01619                % 20103 RGTR--
+300000137 Arlon, Clinique      -01625  01625                % 20103 RGTR--
+300000031 Frassem, Carrefour   -01631  01631                % 20103 RGTR--
+150107001 Oberpallen, Bréck     01636  01636                % 20103 RGTR--
+150303003 Ell, Beim Schreider   01641  01641                % 20103 RGTR--
+150605001 Ospern, Kiirch        01650  01650                % 20103 RGTR--
+150508002 Hostert, Wäschbur     01655  01655                % 20103 RGTR--
+150603002 Nagem, Centre Cultur  01658  01658                % 20103 RGTR--
+150603003 Nagem, Pompstatioun   01659  01659                % 20103 RGTR--
+150602001 Lannen, Schoul        01701  01701                % 20103 RGTR--
+150305001 Roodt/Redange, Schou  01703  01703                % 20103 RGTR--
+150512006 Rambrouch, Gare       01709  01709                % 20103 RGTR--
+151003003 Grevels, Zentrum      01716                       % 20103 RGTR--

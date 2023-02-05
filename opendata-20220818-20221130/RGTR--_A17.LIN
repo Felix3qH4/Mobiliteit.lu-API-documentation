@@ -1,0 +1,116 @@
+*F 03 2
+*Z 18056 RGTR--                                             % 18056 RGTR--
+*L A17      110605006 110606001  00714  00730               % 18056 RGTR--
+*A cj 110605006 110606001 000042  00714  00730              % 18056 RGTR--
+*A ad 110605006 110606001 000042  00714  00730              % 18056 RGTR--
+*R 1 110606001 110605006 110606001  00714  00730            % 18056 RGTR--
+*G 050 110605006 110606001  00714  00730                    % 18056 RGTR--
+*A VE 110605006 110606001 000042  00714  00730              % 18056 RGTR--
+*I FD 110605006 110606001        0002878  00714  00730      % 18056 RGTR--
+110605006 Huldange, Schmëtt            00714                % 18056 RGTR--
+110605007 Huldange, Scierie     00716  00716                % 18056 RGTR--
+110605003 Huldange, Groussefel  00717  00717                % 18056 RGTR--
+110605001 Huldange, Eglise      00718  00718                % 18056 RGTR--
+110605002 Huldange, Grotte      00718  00718                % 18056 RGTR--
+110603001 Goedange              00720  00720                % 18056 RGTR--
+110607003 Wilwerdange, Station  00722  00722                % 18056 RGTR--
+110607001 Wilwerdange, Kiirch   00724  00724                % 18056 RGTR--
+110607002 Wilwerdange, Schoul   00724  00724                % 18056 RGTR--
+110602001 Drinklange            00725  00725                % 18056 RGTR--
+110606004 Troisvierges, Paster  00726  00726                % 18056 RGTR--
+110606006 Troisvierges, Tomm    00727  00727                % 18056 RGTR--
+110606002 Troisvierges, Mairie  00728  00728                % 18056 RGTR--
+110606003 Troisvierges, Milleb  00729  00729                % 18056 RGTR--
+110606001 Troisvierges, Gare r  00730                       % 18056 RGTR--
+*Z 18057 RGTR--                                             % 18057 RGTR--
+*L A17      110605006 110606001  00744  00800               % 18057 RGTR--
+*A cj 110605006 110606001 000042  00744  00800              % 18057 RGTR--
+*A ad 110605006 110606001 000042  00744  00800              % 18057 RGTR--
+*R 1 110606001 110605006 110606001  00744  00800            % 18057 RGTR--
+*G 050 110605006 110606001  00744  00800                    % 18057 RGTR--
+*A VE 110605006 110606001 000042  00744  00800              % 18057 RGTR--
+*I FD 110605006 110606001        0002401  00744  00800      % 18057 RGTR--
+110605006 Huldange, Schmëtt            00744                % 18057 RGTR--
+110605007 Huldange, Scierie     00746  00746                % 18057 RGTR--
+110605003 Huldange, Groussefel  00747  00747                % 18057 RGTR--
+110605001 Huldange, Eglise      00748  00748                % 18057 RGTR--
+110605002 Huldange, Grotte      00748  00748                % 18057 RGTR--
+110603001 Goedange              00750  00750                % 18057 RGTR--
+110607003 Wilwerdange, Station  00752  00752                % 18057 RGTR--
+110607001 Wilwerdange, Kiirch   00754  00754                % 18057 RGTR--
+110607002 Wilwerdange, Schoul   00754  00754                % 18057 RGTR--
+110602001 Drinklange            00755  00755                % 18057 RGTR--
+110606004 Troisvierges, Paster  00756  00756                % 18057 RGTR--
+110606006 Troisvierges, Tomm    00757  00757                % 18057 RGTR--
+110606002 Troisvierges, Mairie  00758  00758                % 18057 RGTR--
+110606003 Troisvierges, Milleb  00759  00759                % 18057 RGTR--
+110606001 Troisvierges, Gare r  00800                       % 18057 RGTR--
+*Z 18058 RGTR--                                             % 18058 RGTR--
+*L A17      110605006 110606001  01334  01349               % 18058 RGTR--
+*A cj 110605006 110606001 000047  01334  01349              % 18058 RGTR--
+*A ad 110605006 110606001 000047  01334  01349              % 18058 RGTR--
+*R 1 110606001 110605006 110606001  01334  01349            % 18058 RGTR--
+*G 050 110605006 110606001  01334  01349                    % 18058 RGTR--
+*A VE 110605006 110606001 000047  01334  01349              % 18058 RGTR--
+*I FD 110605006 110606001        0001852  01334  01349      % 18058 RGTR--
+110605006 Huldange, Schmëtt            01334                % 18058 RGTR--
+110605007 Huldange, Scierie     01336  01336                % 18058 RGTR--
+110605003 Huldange, Groussefel  01336  01336                % 18058 RGTR--
+110605001 Huldange, Eglise      01337  01337                % 18058 RGTR--
+110605002 Huldange, Grotte      01338  01338                % 18058 RGTR--
+110603001 Goedange              01340  01340                % 18058 RGTR--
+110607003 Wilwerdange, Station  01341  01341                % 18058 RGTR--
+110607001 Wilwerdange, Kiirch   01343  01343                % 18058 RGTR--
+110607002 Wilwerdange, Schoul   01343  01343                % 18058 RGTR--
+110602001 Drinklange            01344  01344                % 18058 RGTR--
+110606004 Troisvierges, Paster  01345  01345                % 18058 RGTR--
+110606006 Troisvierges, Tomm    01346  01346                % 18058 RGTR--
+110606002 Troisvierges, Mairie  01346  01346                % 18058 RGTR--
+110606003 Troisvierges, Milleb  01347  01347                % 18058 RGTR--
+110606001 Troisvierges, Gare r  01349                       % 18058 RGTR--
+*Z 18059 RGTR--                                             % 18059 RGTR--
+*L A17      110606001 110605006  01459  01513               % 18059 RGTR--
+*A cj 110606001 110605006 000042  01459  01513              % 18059 RGTR--
+*A ad 110606001 110605006 000042  01459  01513              % 18059 RGTR--
+*R 2 110605006 110606001 110605006  01459  01513            % 18059 RGTR--
+*G 050 110606001 110605006  01459  01513                    % 18059 RGTR--
+*A VE 110606001 110605006 000042  01459  01513              % 18059 RGTR--
+*I FD 110606001 110605006        0003379  01459  01513      % 18059 RGTR--
+110606001 Troisvierges, Gare r         01459                % 18059 RGTR--
+110606003 Troisvierges, Milleb  01459  01459                % 18059 RGTR--
+110606002 Troisvierges, Mairie  01501  01501                % 18059 RGTR--
+110606006 Troisvierges, Tomm    01501  01501                % 18059 RGTR--
+110606004 Troisvierges, Paster  01502  01502                % 18059 RGTR--
+110602001 Drinklange            01503  01503                % 18059 RGTR--
+110607002 Wilwerdange, Schoul   01504  01504                % 18059 RGTR--
+110607001 Wilwerdange, Kiirch   01505  01505                % 18059 RGTR--
+110607003 Wilwerdange, Station  01506  01506                % 18059 RGTR--
+110603001 Goedange              01507  01507                % 18059 RGTR--
+110605002 Huldange, Grotte      01509  01509                % 18059 RGTR--
+110605001 Huldange, Eglise      01510  01510                % 18059 RGTR--
+110605003 Huldange, Groussefel  01511  01511                % 18059 RGTR--
+110605007 Huldange, Scierie     01512  01512                % 18059 RGTR--
+110605006 Huldange, Schmëtt     01513                       % 18059 RGTR--
+*Z 18060 RGTR--                                             % 18060 RGTR--
+*L A17      110606001 110605006  01659  01714               % 18060 RGTR--
+*A cj 110606001 110605006 000047  01659  01714              % 18060 RGTR--
+*A ad 110606001 110605006 000047  01659  01714              % 18060 RGTR--
+*R 2 110605006 110606001 110605006  01659  01714            % 18060 RGTR--
+*G 050 110606001 110605006  01659  01714                    % 18060 RGTR--
+*A VE 110606001 110605006 000047  01659  01714              % 18060 RGTR--
+*I FD 110606001 110605006        0003380  01659  01714      % 18060 RGTR--
+110606001 Troisvierges, Gare r         01659                % 18060 RGTR--
+110606003 Troisvierges, Milleb  01700  01700                % 18060 RGTR--
+110606002 Troisvierges, Mairie  01701  01701                % 18060 RGTR--
+110606006 Troisvierges, Tomm    01702  01702                % 18060 RGTR--
+110606004 Troisvierges, Paster  01703  01703                % 18060 RGTR--
+110602001 Drinklange            01704  01704                % 18060 RGTR--
+110607002 Wilwerdange, Schoul   01705  01705                % 18060 RGTR--
+110607001 Wilwerdange, Kiirch   01705  01705                % 18060 RGTR--
+110607003 Wilwerdange, Station  01707  01707                % 18060 RGTR--
+110603001 Goedange              01708  01708                % 18060 RGTR--
+110605002 Huldange, Grotte      01710  01710                % 18060 RGTR--
+110605001 Huldange, Eglise      01711  01711                % 18060 RGTR--
+110605003 Huldange, Groussefel  01712  01712                % 18060 RGTR--
+110605007 Huldange, Scierie     01713  01713                % 18060 RGTR--
+110605006 Huldange, Schmëtt     01714                       % 18060 RGTR--

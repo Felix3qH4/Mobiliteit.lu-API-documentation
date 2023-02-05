@@ -1,0 +1,151 @@
+*F 03 2
+*Z 04407 AVL---                                             % 04407 AVL---
+*L CN4      200405020 200426001  02520  02537               % 04407 AVL---
+*A BE 200405020 200426001 000044  02520  02537              % 04407 AVL---
+*R 1 200426001 200405020 200426001  02520  02537            % 04407 AVL---
+*G ST  200405020 200426001  02520  02537                    % 04407 AVL---
+*A VE 200405020 200426001 000044  02520  02537              % 04407 AVL---
+200405020 Hamilius (Bus)               02520                % 04407 AVL---
+200405014 Centre, Fondation Pe  02522  02522                % 04407 AVL---
+200417047 Kirchberg, Rout Bréc  02523  02523                % 04407 AVL---
+200417061 Kirchberg, Philharmo  02525  02525                % 04407 AVL---
+200417049 Kirchberg, Niedergrü  02526  02526                % 04407 AVL---
+200417021 Kirchberg, Léon Heng  02527  02527                % 04407 AVL---
+200417005 Kirchberg, Antoine d  02528  02528                % 04407 AVL---
+200417019 Kirchberg, Konrad Ad  02529  02529                % 04407 AVL---
+200417039 Kirchberg, Avalon     02530  02530                % 04407 AVL---
+200417012 Kirchberg, Chambre d  02531  02531                % 04407 AVL---
+200417004 Kirchberg, Alphonse   02532  02532                % 04407 AVL---
+200426002 Weimershof, Joseph H  02533  02533                % 04407 AVL---
+200417020 Kirchberg, Labours    02534  02534                % 04407 AVL---
+200417026 Kirchberg, Muguets    02535  02535                % 04407 AVL---
+200417024 Kirchberg, Marguerit  02535  02535                % 04407 AVL---
+200426003 Weimershof, Pâqueret  02536  02536                % 04407 AVL---
+200426001 Weimershof, Bleuets   02537                       % 04407 AVL---
+*Z 04408 AVL---                                             % 04408 AVL---
+*L CN4      200405020 200426001  02520  02537               % 04408 AVL---
+*A BE 200405020 200426001 000045  02520  02537              % 04408 AVL---
+*R 1 200426001 200405020 200426001  02520  02537            % 04408 AVL---
+*G STR 200405020 200426001  02520  02537                    % 04408 AVL---
+*A VE 200405020 200426001 000045  02520  02537              % 04408 AVL---
+200405020 Hamilius (Bus)               02520                % 04408 AVL---
+200405014 Centre, Fondation Pe  02522  02522                % 04408 AVL---
+200417047 Kirchberg, Rout Bréc  02523  02523                % 04408 AVL---
+200417061 Kirchberg, Philharmo  02525  02525                % 04408 AVL---
+200417049 Kirchberg, Niedergrü  02526  02526                % 04408 AVL---
+200417021 Kirchberg, Léon Heng  02527  02527                % 04408 AVL---
+200417005 Kirchberg, Antoine d  02528  02528                % 04408 AVL---
+200417019 Kirchberg, Konrad Ad  02529  02529                % 04408 AVL---
+200417039 Kirchberg, Avalon     02530  02530                % 04408 AVL---
+200417012 Kirchberg, Chambre d  02531  02531                % 04408 AVL---
+200417004 Kirchberg, Alphonse   02532  02532                % 04408 AVL---
+200426002 Weimershof, Joseph H  02533  02533                % 04408 AVL---
+200417020 Kirchberg, Labours    02534  02534                % 04408 AVL---
+200417026 Kirchberg, Muguets    02535  02535                % 04408 AVL---
+200417024 Kirchberg, Marguerit  02535  02535                % 04408 AVL---
+200426003 Weimershof, Pâqueret  02536  02536                % 04408 AVL---
+200426001 Weimershof, Bleuets   02537                       % 04408 AVL---
+*Z 04409 AVL---       005 030                               % 04409 AVL---
+*L CN4      200405020 200405020  02435  02459               % 04409 AVL---
+*A BE 200405020 200405020 000063  02435  02459              % 04409 AVL---
+*R 1 200405020 200405020 200405020  02435  02459            % 04409 AVL---
+*G ST  200405020 200405020  02435  02459                    % 04409 AVL---
+*A VE 200405020 200405020 000063  02435  02459              % 04409 AVL---
+200405020 Hamilius (Bus)               02435                % 04409 AVL---
+200405014 Centre, Fondation Pe  02437  02437                % 04409 AVL---
+200417047 Kirchberg, Rout Bréc  02438  02438                % 04409 AVL---
+200417061 Kirchberg, Philharmo  02440  02440                % 04409 AVL---
+200417049 Kirchberg, Niedergrü  02441  02441                % 04409 AVL---
+200417021 Kirchberg, Léon Heng  02442  02442                % 04409 AVL---
+200417005 Kirchberg, Antoine d  02443  02443                % 04409 AVL---
+200417019 Kirchberg, Konrad Ad  02444  02444                % 04409 AVL---
+200417039 Kirchberg, Avalon     02445  02445                % 04409 AVL---
+200417012 Kirchberg, Chambre d  02446  02446                % 04409 AVL---
+200417004 Kirchberg, Alphonse   02447  02447                % 04409 AVL---
+200426002 Weimershof, Joseph H  02448  02448                % 04409 AVL---
+200417020 Kirchberg, Labours    02449  02449                % 04409 AVL---
+200417026 Kirchberg, Muguets    02450  02450                % 04409 AVL---
+200417024 Kirchberg, Marguerit  02450  02450                % 04409 AVL---
+200426003 Weimershof, Pâqueret  02451  02451                % 04409 AVL---
+200426001 Weimershof, Bleuets   02452  02452                % 04409 AVL---
+200417047 Kirchberg, Rout Bréc  02455  02455                % 04409 AVL---
+200405014 Centre, Fondation Pe  02458  02458                % 04409 AVL---
+200405020 Hamilius (Bus)        02459                       % 04409 AVL---
+*Z 04410 AVL---                                             % 04410 AVL---
+*L CN4      200405020 200405020  02735  02759               % 04410 AVL---
+*A BE 200405020 200405020 000063  02735  02759              % 04410 AVL---
+*R 1 200405020 200405020 200405020  02735  02759            % 04410 AVL---
+*G ST  200405020 200405020  02735  02759                    % 04410 AVL---
+*A VE 200405020 200405020 000063  02735  02759              % 04410 AVL---
+200405020 Hamilius (Bus)               02735                % 04410 AVL---
+200405014 Centre, Fondation Pe  02737  02737                % 04410 AVL---
+200417047 Kirchberg, Rout Bréc  02738  02738                % 04410 AVL---
+200417061 Kirchberg, Philharmo  02740  02740                % 04410 AVL---
+200417049 Kirchberg, Niedergrü  02741  02741                % 04410 AVL---
+200417021 Kirchberg, Léon Heng  02742  02742                % 04410 AVL---
+200417005 Kirchberg, Antoine d  02743  02743                % 04410 AVL---
+200417019 Kirchberg, Konrad Ad  02744  02744                % 04410 AVL---
+200417039 Kirchberg, Avalon     02745  02745                % 04410 AVL---
+200417012 Kirchberg, Chambre d  02746  02746                % 04410 AVL---
+200417004 Kirchberg, Alphonse   02747  02747                % 04410 AVL---
+200426002 Weimershof, Joseph H  02748  02748                % 04410 AVL---
+200417020 Kirchberg, Labours    02749  02749                % 04410 AVL---
+200417026 Kirchberg, Muguets    02750  02750                % 04410 AVL---
+200417024 Kirchberg, Marguerit  02750  02750                % 04410 AVL---
+200426003 Weimershof, Pâqueret  02751  02751                % 04410 AVL---
+200426001 Weimershof, Bleuets   02752  02752                % 04410 AVL---
+200417047 Kirchberg, Rout Bréc  02755  02755                % 04410 AVL---
+200405014 Centre, Fondation Pe  02758  02758                % 04410 AVL---
+200405020 Hamilius (Bus)        02759                       % 04410 AVL---
+*Z 04411 AVL---       005 030                               % 04411 AVL---
+*L CN4      200405020 200405020  02435  02459               % 04411 AVL---
+*A BE 200405020 200405020 000064  02435  02459              % 04411 AVL---
+*R 1 200405020 200405020 200405020  02435  02459            % 04411 AVL---
+*G ST  200405020 200405020  02435  02459                    % 04411 AVL---
+*A VE 200405020 200405020 000064  02435  02459              % 04411 AVL---
+200405020 Hamilius (Bus)               02435                % 04411 AVL---
+200405014 Centre, Fondation Pe  02437  02437                % 04411 AVL---
+200417047 Kirchberg, Rout Bréc  02438  02438                % 04411 AVL---
+200417061 Kirchberg, Philharmo  02440  02440                % 04411 AVL---
+200417049 Kirchberg, Niedergrü  02441  02441                % 04411 AVL---
+200417021 Kirchberg, Léon Heng  02442  02442                % 04411 AVL---
+200417005 Kirchberg, Antoine d  02443  02443                % 04411 AVL---
+200417019 Kirchberg, Konrad Ad  02444  02444                % 04411 AVL---
+200417039 Kirchberg, Avalon     02445  02445                % 04411 AVL---
+200417012 Kirchberg, Chambre d  02446  02446                % 04411 AVL---
+200417004 Kirchberg, Alphonse   02447  02447                % 04411 AVL---
+200426002 Weimershof, Joseph H  02448  02448                % 04411 AVL---
+200417020 Kirchberg, Labours    02449  02449                % 04411 AVL---
+200417026 Kirchberg, Muguets    02450  02450                % 04411 AVL---
+200417024 Kirchberg, Marguerit  02450  02450                % 04411 AVL---
+200426003 Weimershof, Pâqueret  02451  02451                % 04411 AVL---
+200426001 Weimershof, Bleuets   02452  02452                % 04411 AVL---
+200417047 Kirchberg, Rout Bréc  02455  02455                % 04411 AVL---
+200405014 Centre, Fondation Pe  02458  02458                % 04411 AVL---
+200405020 Hamilius (Bus)        02459                       % 04411 AVL---
+*Z 04412 AVL---                                             % 04412 AVL---
+*L CN4      200405020 200405020  02735  02759               % 04412 AVL---
+*A BE 200405020 200405020 000064  02735  02759              % 04412 AVL---
+*R 1 200405020 200405020 200405020  02735  02759            % 04412 AVL---
+*G ST  200405020 200405020  02735  02759                    % 04412 AVL---
+*A VE 200405020 200405020 000064  02735  02759              % 04412 AVL---
+200405020 Hamilius (Bus)               02735                % 04412 AVL---
+200405014 Centre, Fondation Pe  02737  02737                % 04412 AVL---
+200417047 Kirchberg, Rout Bréc  02738  02738                % 04412 AVL---
+200417061 Kirchberg, Philharmo  02740  02740                % 04412 AVL---
+200417049 Kirchberg, Niedergrü  02741  02741                % 04412 AVL---
+200417021 Kirchberg, Léon Heng  02742  02742                % 04412 AVL---
+200417005 Kirchberg, Antoine d  02743  02743                % 04412 AVL---
+200417019 Kirchberg, Konrad Ad  02744  02744                % 04412 AVL---
+200417039 Kirchberg, Avalon     02745  02745                % 04412 AVL---
+200417012 Kirchberg, Chambre d  02746  02746                % 04412 AVL---
+200417004 Kirchberg, Alphonse   02747  02747                % 04412 AVL---
+200426002 Weimershof, Joseph H  02748  02748                % 04412 AVL---
+200417020 Kirchberg, Labours    02749  02749                % 04412 AVL---
+200417026 Kirchberg, Muguets    02750  02750                % 04412 AVL---
+200417024 Kirchberg, Marguerit  02750  02750                % 04412 AVL---
+200426003 Weimershof, Pâqueret  02751  02751                % 04412 AVL---
+200426001 Weimershof, Bleuets   02752  02752                % 04412 AVL---
+200417047 Kirchberg, Rout Bréc  02755  02755                % 04412 AVL---
+200405014 Centre, Fondation Pe  02758  02758                % 04412 AVL---
+200405020 Hamilius (Bus)        02759                       % 04412 AVL---

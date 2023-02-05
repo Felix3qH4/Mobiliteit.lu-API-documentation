@@ -1,0 +1,83 @@
+*F 03 2
+*Z 18899 RGTR--                                             % 18899 RGTR--
+*L M17      160904001 150606005  00715  00741               % 18899 RGTR--
+*A cj 160904001 150606005 000042  00715  00741              % 18899 RGTR--
+*A ad 160904001 150606005 000042  00715  00741              % 18899 RGTR--
+*R 1 150606005 160904001 150606005  00715  00741            % 18899 RGTR--
+*G 072 160904001 150606005  00715  00741                    % 18899 RGTR--
+*A VE 160904001 150606005 000042  00715  00741              % 18899 RGTR--
+*I FD 160904001 150606005        0001898  00715  00741      % 18899 RGTR--
+160904001 Mersch, Gare routièr         00715                % 18899 RGTR--
+160904005 Mersch, Stäereplaz    00717  00717                % 18899 RGTR--
+160904004 Mersch, Reckenerstro  00718  00718                % 18899 RGTR--
+160907002 Reckange/Mersch, Bei  00719  00719                % 18899 RGTR--
+160907003 Reckange/Mersch, Hos  00720  00720                % 18899 RGTR--
+160907001 Reckange/Mersch, Bar  00721  00721                % 18899 RGTR--
+160204001 Openthalt, Finsterth  00724  00724                % 18899 RGTR--
+160205002 Grevenknapp, Riesenh  00725  00725                % 18899 RGTR--
+160205003 Grevenknapp, Um ënns  00725  00725                % 18899 RGTR--
+160201007 Boevange, Beim Wald   00726  00726                % 18899 RGTR--
+160201005 Boevange, Lëtschert   00727  00727                % 18899 RGTR--
+160201004 Boevange, Helpert     00728  00728                % 18899 RGTR--
+160201003 Boevange, Gare        00728  00728                % 18899 RGTR--
+150804002 Useldange, Raiffeise  00732  00732                % 18899 RGTR--
+150804003 Useldange, Spuerkees  00732  00732                % 18899 RGTR--
+150801001 Everlange, Beim Enge  00735  00735                % 18899 RGTR--
+150805002 Everlange, Everlénge  00736  00736                % 18899 RGTR--
+150205001 Platen, Roudbach      00737  00737                % 18899 RGTR--
+150607001 Reichlange, Hostelle  00738  00738                % 18899 RGTR--
+150606005 Redange/Attert, Lycé  00741                       % 18899 RGTR--
+*Z 18900 RGTR--                                             % 18900 RGTR--
+*L M17      150606005 160904001  01225  01252               % 18900 RGTR--
+*A cj 150606005 160904001 000007  01225  01252              % 18900 RGTR--
+*A ad 150606005 160904001 000007  01225  01252              % 18900 RGTR--
+*R 2 160904001 150606005 160904001  01225  01252            % 18900 RGTR--
+*G 072 150606005 160904001  01225  01252                    % 18900 RGTR--
+*A VE 150606005 160904001 000007  01225  01252              % 18900 RGTR--
+*I FD 150606005 160904001        0002422  01225  01252      % 18900 RGTR--
+150606005 Redange/Attert, Lycé         01225                % 18900 RGTR--
+150607001 Reichlange, Hostelle  01229  01229                % 18900 RGTR--
+150205001 Platen, Roudbach      01230  01230                % 18900 RGTR--
+150805002 Everlange, Everlénge  01230  01230                % 18900 RGTR--
+150801001 Everlange, Beim Enge  01232  01232                % 18900 RGTR--
+150804003 Useldange, Spuerkees  01235  01235                % 18900 RGTR--
+160201006 Boevange, Uerbelt     01238  01238                % 18900 RGTR--
+160201004 Boevange, Helpert     01239  01239                % 18900 RGTR--
+160201005 Boevange, Lëtschert   01240  01240                % 18900 RGTR--
+160201007 Boevange, Beim Wald   01241  01241                % 18900 RGTR--
+160205003 Grevenknapp, Um ënns  01242  01242                % 18900 RGTR--
+160205002 Grevenknapp, Riesenh  01242  01242                % 18900 RGTR--
+160204001 Openthalt, Finsterth  01243  01243                % 18900 RGTR--
+160907001 Reckange/Mersch, Bar  01246  01246                % 18900 RGTR--
+160907003 Reckange/Mersch, Hos  01247  01247                % 18900 RGTR--
+160907002 Reckange/Mersch, Bei  01248  01248                % 18900 RGTR--
+160904004 Mersch, Reckenerstro  01249  01249                % 18900 RGTR--
+160904005 Mersch, Stäereplaz    01251  01251                % 18900 RGTR--
+160904001 Mersch, Gare routièr  01252                       % 18900 RGTR--
+*Z 18901 RGTR--                                             % 18901 RGTR--
+*L M17      150606005 160904001  01540  01607               % 18901 RGTR--
+*A cj 150606005 160904001 000312  01540  01607              % 18901 RGTR--
+*A ad 150606005 160904001 000312  01540  01607              % 18901 RGTR--
+*R 2 160904001 150606005 160904001  01540  01607            % 18901 RGTR--
+*G 072 150606005 160904001  01540  01607                    % 18901 RGTR--
+*A VE 150606005 160904001 000312  01540  01607              % 18901 RGTR--
+*I FD 150606005 160904001        0002323  01540  01607      % 18901 RGTR--
+150606005 Redange/Attert, Lycé         01540                % 18901 RGTR--
+150607001 Reichlange, Hostelle  01544  01544                % 18901 RGTR--
+150205001 Platen, Roudbach      01545  01545                % 18901 RGTR--
+150805002 Everlange, Everlénge  01545  01545                % 18901 RGTR--
+150801001 Everlange, Beim Enge  01547  01547                % 18901 RGTR--
+150804003 Useldange, Spuerkees  01550  01550                % 18901 RGTR--
+160201006 Boevange, Uerbelt     01553  01553                % 18901 RGTR--
+160201004 Boevange, Helpert     01554  01554                % 18901 RGTR--
+160201005 Boevange, Lëtschert   01555  01555                % 18901 RGTR--
+160201007 Boevange, Beim Wald   01556  01556                % 18901 RGTR--
+160205003 Grevenknapp, Um ënns  01557  01557                % 18901 RGTR--
+160205002 Grevenknapp, Riesenh  01557  01557                % 18901 RGTR--
+160204001 Openthalt, Finsterth  01558  01558                % 18901 RGTR--
+160907001 Reckange/Mersch, Bar  01601  01601                % 18901 RGTR--
+160907003 Reckange/Mersch, Hos  01602  01602                % 18901 RGTR--
+160907002 Reckange/Mersch, Bei  01603  01603                % 18901 RGTR--
+160904004 Mersch, Reckenerstro  01604  01604                % 18901 RGTR--
+160904005 Mersch, Stäereplaz    01606  01606                % 18901 RGTR--
+160904001 Mersch, Gare routièr  01607                       % 18901 RGTR--

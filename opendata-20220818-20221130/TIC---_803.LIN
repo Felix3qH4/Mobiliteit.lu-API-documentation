@@ -1,0 +1,43 @@
+*F 03 2
+*Z 05805 TIC---                                             % 05805 TIC---
+*L 803      220301054 220402062  00640  00728               % 05805 TIC---
+*R 1 220402062 220301054 220402062  00640  00728            % 05805 TIC---
+*G SB  220301054 220402062  00640  00728                    % 05805 TIC---
+*A VE 220301054 220402062 000290  00640  00728              % 05805 TIC---
+*I FD 220301054 220402062        0001618  00640  00728      % 05805 TIC---
+220301054 Dudelange, Soibelkau         00640                % 05805 TIC---
+220301044 Dudelange, Rue des L  00641  00641                % 05805 TIC---
+220301066 Dudelange, Rue des B  00642  00642                % 05805 TIC---
+220301045 Dudelange, Rue des M  00643  00643                % 05805 TIC---
+220301021 Dudelange, Rue des M  00644  00644                % 05805 TIC---
+220301084 Dudelange, Schoul Ri  00645  00645                % 05805 TIC---
+220301006 Dudelange, Birenger   00646  00646                % 05805 TIC---
+220301046 Dudelange, Rue Alexa  00647  00647                % 05805 TIC---
+220301069 Dudelange, Rue Fany   00648  00648                % 05805 TIC---
+220301061 Dudelange, Rue du Pa  00648  00648                % 05805 TIC---
+220301016 Dudelange, Centre Sp  00649  00649                % 05805 TIC---
+220301078 Dudelange, Square Ma  00650  00650                % 05805 TIC---
+220301022 Dudelange, Gare       00651  00651                % 05805 TIC---
+220301030 Dudelange, Kierfecht  00653  00653                % 05805 TIC---
+220301031 Dudelange, rue Aloys  00654  00654                % 05805 TIC---
+220301019 Dudelange, Route de   00654  00654                % 05805 TIC---
+220301002 Dudelange, Rue Angel  00655  00655                % 05805 TIC---
+220301013 Dudelange, Butschebu  00656  00656                % 05805 TIC---
+220301048 Dudelange, Scherr     00657  00657                % 05805 TIC---
+220601013 Kayl, Diddelengerstr  00658  00658                % 05805 TIC---
+220601021 Kayl, Brill           00659  00659                % 05805 TIC---
+220601007 Kayl, Post            00701  00701                % 05805 TIC---
+220601002 Kayl, Am Pull         00702  00702                % 05805 TIC---
+220601005 Kayl, Barrière        00703  00703                % 05805 TIC---
+220601011 Kayl, Broucherbierg   00703  00703                % 05805 TIC---
+220601009 Kayl, Stellwierk      00703  00703                % 05805 TIC---
+221401008 Schifflange, Poto     00706  00706                % 05805 TIC---
+221401004 Schifflange, Gringe   00707  00707                % 05805 TIC---
+221401012 Schifflange, Paerche  00708  00708                % 05805 TIC---
+221401011 Schifflange, Ecole N  00709  00709                % 05805 TIC---
+221401010 Schifflange, Cité Em  00710  00710                % 05805 TIC---
+220402037 Esch-sur Alzette, E.  00715  00715                % 05805 TIC---
+220402027 Esch-sur-Alzette, De  00719  00719                % 05805 TIC---
+220402059 Esch-sur-Alzette, Ly  00721  00721                % 05805 TIC---
+220402071 Esch-sur-Alzette, Pl  00723  00723                % 05805 TIC---
+220402062 Esch-sur-Alzette, Ly  00728                       % 05805 TIC---

@@ -1,0 +1,64 @@
+*F 03 2
+*Z 18540 RGTR--                                             % 18540 RGTR--
+*L G11      220701007 190903015  00717  00750               % 18540 RGTR--
+*A cj 220701007 190903015 000042  00717  00750              % 18540 RGTR--
+*A ad 220701007 190903015 000042  00717  00750              % 18540 RGTR--
+*R 1 190903015 220701007 190903015  00717  00750            % 18540 RGTR--
+*G 050 220701007 190903015  00717  00750                    % 18540 RGTR--
+*A VE 220701007 190903015 000042  00717  00750              % 18540 RGTR--
+*I FD 220701007 190903015        0002837  00717  00750      % 18540 RGTR--
+220701007 Leudelange, Grasbösc         00717                % 18540 RGTR--
+220701018 Leudelange, Foyer     00719  00719                % 18540 RGTR--
+220701003 Leudelange, Edeleck   00721  00721                % 18540 RGTR--
+220701011 Leudelange, Op der S  00722  00722                % 18540 RGTR--
+220701008 Leudelange, Gruef     00723  00723                % 18540 RGTR--
+220701016 Leudelange, Wäschbur  00724  00724                % 18540 RGTR--
+220701009 Leudelange, Kamelleb  00726  00726                % 18540 RGTR--
+220701017 Leudelange, Pëssenda  00726  00726                % 18540 RGTR--
+220702001 Leudelange, Schléiwe  00728  00728                % 18540 RGTR--
+220701010 Leudelange, Ketzelac  00728  00728                % 18540 RGTR--
+220702002 Leudelange, Ackerhee  00729  00729                % 18540 RGTR--
+220701005 Leudelange, Gare rou  00730  00730                % 18540 RGTR--
+200102002 Helfent, City Concor  00735  00735                % 18540 RGTR--
+200102001 Helfent, Automobile   00736  00736                % 18540 RGTR--
+200101006 Bertrange, Fleuri     00738  00738                % 18540 RGTR--
+200101014 Bertrange, Richterwe  00739  00739                % 18540 RGTR--
+200101012 Bertrange, Montereal  00740  00740                % 18540 RGTR--
+200101010 Bertrange, Kierfecht  00741  00741                % 18540 RGTR--
+200101008 Bertrange, Gemeng     00743  00743                % 18540 RGTR--
+200101017 Bertrange, Rue de Ma  00744  00744                % 18540 RGTR--
+200101011 Bertrange, Millewee   00744  00744                % 18540 RGTR--
+200101019 Bertrange, Waassertu  00745  00745                % 18540 RGTR--
+190903015 Mamer (Lycée), Gare   00750                       % 18540 RGTR--
+*Z 18541 RGTR--                                             % 18541 RGTR--
+*L G11      190903015 220701007  01430  01502               % 18541 RGTR--
+*A cj 190903015 220701007 000042  01430  01502              % 18541 RGTR--
+*A ad 190903015 220701007 000042  01430  01502              % 18541 RGTR--
+*R 2 220701007 190903015 220701007  01430  01502            % 18541 RGTR--
+*G 050 190903015 220701007  01430  01502                    % 18541 RGTR--
+*A VE 190903015 220701007 000042  01430  01502              % 18541 RGTR--
+*I FD 190903015 220701007        0002354  01430  01502      % 18541 RGTR--
+190903015 Mamer (Lycée), Gare          01430                % 18541 RGTR--
+200101002 Bertrange, Belle Eto  01435  01435                % 18541 RGTR--
+200101011 Bertrange, Millewee   01436  01436                % 18541 RGTR--
+200101017 Bertrange, Rue de Ma  01437  01437                % 18541 RGTR--
+200101008 Bertrange, Gemeng     01439  01439                % 18541 RGTR--
+200101010 Bertrange, Kierfecht  01440  01440                % 18541 RGTR--
+200101012 Bertrange, Montereal  01441  01441                % 18541 RGTR--
+200101014 Bertrange, Richterwe  01442  01442                % 18541 RGTR--
+200101006 Bertrange, Fleuri     01443  01443                % 18541 RGTR--
+200102003 Helfenterbréck, Plet  01444  01444                % 18541 RGTR--
+200102001 Helfent, Automobile   01445  01445                % 18541 RGTR--
+200102002 Helfent, City Concor  01445  01445                % 18541 RGTR--
+220701005 Leudelange, Gare rou  01449  01449                % 18541 RGTR--
+220702002 Leudelange, Ackerhee  01450  01450                % 18541 RGTR--
+220701010 Leudelange, Ketzelac  01451  01451                % 18541 RGTR--
+220702001 Leudelange, Schléiwe  01451  01451                % 18541 RGTR--
+220701017 Leudelange, Pëssenda  01453  01453                % 18541 RGTR--
+220701009 Leudelange, Kamelleb  01453  01453                % 18541 RGTR--
+220701016 Leudelange, Wäschbur  01455  01455                % 18541 RGTR--
+220701008 Leudelange, Gruef     01456  01456                % 18541 RGTR--
+220701011 Leudelange, Op der S  01457  01457                % 18541 RGTR--
+220701003 Leudelange, Edeleck   01458  01458                % 18541 RGTR--
+220701018 Leudelange, Foyer     01500  01500                % 18541 RGTR--
+220701007 Leudelange, Grasbösc  01502                       % 18541 RGTR--

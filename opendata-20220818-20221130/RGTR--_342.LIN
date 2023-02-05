@@ -1,0 +1,2593 @@
+*F 03 2
+*Z 07861 RGTR--                                             % 07861 RGTR--
+*L 342      180401003 210701006  01005  01036               % 07861 RGTR--
+*R 1 210701006 180401003 210701006  01005  01036            % 07861 RGTR--
+*G 020 180401003 210701006  01005  01036                    % 07861 RGTR--
+*A VE 180401003 210701006 000039  01005  01036              % 07861 RGTR--
+*I FD 180401003 210701006        0002003  01005  01036      % 07861 RGTR--
+180401003 Grevenmacher, Gare r         01005                % 07861 RGTR--
+180401002 Grevenmacher, Enner   01006  01006                % 07861 RGTR--
+180401005 Grevenmacher, Route   01007  01007                % 07861 RGTR--
+180803002 Machtum, Deisermille  01008  01008                % 07861 RGTR--
+180803003 Machtum, Gellebur     01009  01009                % 07861 RGTR--
+180803001 Machtum, Bei Kallek'  01009  01009                % 07861 RGTR--
+180305004 Niederdonven, Op der  01015  01015                % 07861 RGTR--
+180305001 Niederdonven, Beim F  01016  01016                % 07861 RGTR--
+180305003 Niederdonven, Bei de  01017  01017                % 07861 RGTR--
+210402002 Lenningen, Basilika   01024  01024                % 07861 RGTR--
+210402001 Lenningen, Am Aker    01025  01025                % 07861 RGTR--
+210801002 Greiveldange, Gemeng  01027  01027                % 07861 RGTR--
+210803003 Stadtbredimus, Schle  01031  01031                % 07861 RGTR--
+210803005 Stadtbredimus, Vinsm  01032  01032                % 07861 RGTR--
+210803006 Stadtbredimus, Wandm  01032  01032                % 07861 RGTR--
+210701003 Remich, Caves St. Ma  01033  01033                % 07861 RGTR--
+210701008 Remich, Maatebierg    01034  01034                % 07861 RGTR--
+210701006 Remich, Gare routièr  01036                       % 07861 RGTR--
+*Z 07862 RGTR--                                             % 07862 RGTR--
+*L 342      180401003 210701006  01205  01236               % 07862 RGTR--
+*R 1 210701006 180401003 210701006  01205  01236            % 07862 RGTR--
+*G 020 180401003 210701006  01205  01236                    % 07862 RGTR--
+*A VE 180401003 210701006 000039  01205  01236              % 07862 RGTR--
+*I FD 180401003 210701006        0002006  01205  01236      % 07862 RGTR--
+180401003 Grevenmacher, Gare r         01205                % 07862 RGTR--
+180401002 Grevenmacher, Enner   01206  01206                % 07862 RGTR--
+180401005 Grevenmacher, Route   01207  01207                % 07862 RGTR--
+180803002 Machtum, Deisermille  01208  01208                % 07862 RGTR--
+180803003 Machtum, Gellebur     01209  01209                % 07862 RGTR--
+180803001 Machtum, Bei Kallek'  01209  01209                % 07862 RGTR--
+180305004 Niederdonven, Op der  01215  01215                % 07862 RGTR--
+180305001 Niederdonven, Beim F  01216  01216                % 07862 RGTR--
+180305003 Niederdonven, Bei de  01217  01217                % 07862 RGTR--
+210402002 Lenningen, Basilika   01224  01224                % 07862 RGTR--
+210402001 Lenningen, Am Aker    01225  01225                % 07862 RGTR--
+210801002 Greiveldange, Gemeng  01227  01227                % 07862 RGTR--
+210803003 Stadtbredimus, Schle  01231  01231                % 07862 RGTR--
+210803005 Stadtbredimus, Vinsm  01232  01232                % 07862 RGTR--
+210803006 Stadtbredimus, Wandm  01232  01232                % 07862 RGTR--
+210701003 Remich, Caves St. Ma  01233  01233                % 07862 RGTR--
+210701008 Remich, Maatebierg    01234  01234                % 07862 RGTR--
+210701006 Remich, Gare routièr  01236                       % 07862 RGTR--
+*Z 07863 RGTR--                                             % 07863 RGTR--
+*L 342      180401003 210701006  01405  01436               % 07863 RGTR--
+*R 1 210701006 180401003 210701006  01405  01436            % 07863 RGTR--
+*G 020 180401003 210701006  01405  01436                    % 07863 RGTR--
+*A VE 180401003 210701006 000039  01405  01436              % 07863 RGTR--
+*I FD 180401003 210701006        0002008  01405  01436      % 07863 RGTR--
+180401003 Grevenmacher, Gare r         01405                % 07863 RGTR--
+180401002 Grevenmacher, Enner   01406  01406                % 07863 RGTR--
+180401005 Grevenmacher, Route   01407  01407                % 07863 RGTR--
+180803002 Machtum, Deisermille  01408  01408                % 07863 RGTR--
+180803003 Machtum, Gellebur     01409  01409                % 07863 RGTR--
+180803001 Machtum, Bei Kallek'  01409  01409                % 07863 RGTR--
+180305004 Niederdonven, Op der  01415  01415                % 07863 RGTR--
+180305001 Niederdonven, Beim F  01416  01416                % 07863 RGTR--
+180305003 Niederdonven, Bei de  01417  01417                % 07863 RGTR--
+210402002 Lenningen, Basilika   01424  01424                % 07863 RGTR--
+210402001 Lenningen, Am Aker    01425  01425                % 07863 RGTR--
+210801002 Greiveldange, Gemeng  01427  01427                % 07863 RGTR--
+210803003 Stadtbredimus, Schle  01431  01431                % 07863 RGTR--
+210803005 Stadtbredimus, Vinsm  01432  01432                % 07863 RGTR--
+210803006 Stadtbredimus, Wandm  01432  01432                % 07863 RGTR--
+210701003 Remich, Caves St. Ma  01433  01433                % 07863 RGTR--
+210701008 Remich, Maatebierg    01434  01434                % 07863 RGTR--
+210701006 Remich, Gare routièr  01436                       % 07863 RGTR--
+*Z 07864 RGTR--                                             % 07864 RGTR--
+*L 342      180401003 210701006  01605  01636               % 07864 RGTR--
+*R 1 210701006 180401003 210701006  01605  01636            % 07864 RGTR--
+*G 020 180401003 210701006  01605  01636                    % 07864 RGTR--
+*A VE 180401003 210701006 000039  01605  01636              % 07864 RGTR--
+*I FD 180401003 210701006        0002031  01605  01636      % 07864 RGTR--
+180401003 Grevenmacher, Gare r         01605                % 07864 RGTR--
+180401002 Grevenmacher, Enner   01606  01606                % 07864 RGTR--
+180401005 Grevenmacher, Route   01607  01607                % 07864 RGTR--
+180803002 Machtum, Deisermille  01608  01608                % 07864 RGTR--
+180803003 Machtum, Gellebur     01609  01609                % 07864 RGTR--
+180803001 Machtum, Bei Kallek'  01609  01609                % 07864 RGTR--
+180305004 Niederdonven, Op der  01615  01615                % 07864 RGTR--
+180305001 Niederdonven, Beim F  01616  01616                % 07864 RGTR--
+180305003 Niederdonven, Bei de  01617  01617                % 07864 RGTR--
+210402002 Lenningen, Basilika   01624  01624                % 07864 RGTR--
+210402001 Lenningen, Am Aker    01625  01625                % 07864 RGTR--
+210801002 Greiveldange, Gemeng  01627  01627                % 07864 RGTR--
+210803003 Stadtbredimus, Schle  01631  01631                % 07864 RGTR--
+210803005 Stadtbredimus, Vinsm  01632  01632                % 07864 RGTR--
+210803006 Stadtbredimus, Wandm  01632  01632                % 07864 RGTR--
+210701003 Remich, Caves St. Ma  01633  01633                % 07864 RGTR--
+210701008 Remich, Maatebierg    01634  01634                % 07864 RGTR--
+210701006 Remich, Gare routièr  01636                       % 07864 RGTR--
+*Z 07865 RGTR--                                             % 07865 RGTR--
+*L 342      180401003 210701006  02005  02036               % 07865 RGTR--
+*R 1 210701006 180401003 210701006  02005  02036            % 07865 RGTR--
+*G 020 180401003 210701006  02005  02036                    % 07865 RGTR--
+*A VE 180401003 210701006 000039  02005  02036              % 07865 RGTR--
+*I FD 180401003 210701006        0002017  02005  02036      % 07865 RGTR--
+180401003 Grevenmacher, Gare r         02005                % 07865 RGTR--
+180401002 Grevenmacher, Enner   02006  02006                % 07865 RGTR--
+180401005 Grevenmacher, Route   02007  02007                % 07865 RGTR--
+180803002 Machtum, Deisermille  02008  02008                % 07865 RGTR--
+180803003 Machtum, Gellebur     02009  02009                % 07865 RGTR--
+180803001 Machtum, Bei Kallek'  02009  02009                % 07865 RGTR--
+180305004 Niederdonven, Op der  02015  02015                % 07865 RGTR--
+180305001 Niederdonven, Beim F  02016  02016                % 07865 RGTR--
+180305003 Niederdonven, Bei de  02017  02017                % 07865 RGTR--
+210402002 Lenningen, Basilika   02024  02024                % 07865 RGTR--
+210402001 Lenningen, Am Aker    02025  02025                % 07865 RGTR--
+210801002 Greiveldange, Gemeng  02027  02027                % 07865 RGTR--
+210803003 Stadtbredimus, Schle  02031  02031                % 07865 RGTR--
+210803005 Stadtbredimus, Vinsm  02032  02032                % 07865 RGTR--
+210803006 Stadtbredimus, Wandm  02032  02032                % 07865 RGTR--
+210701003 Remich, Caves St. Ma  02033  02033                % 07865 RGTR--
+210701008 Remich, Maatebierg    02034  02034                % 07865 RGTR--
+210701006 Remich, Gare routièr  02036                       % 07865 RGTR--
+*Z 07866 RGTR--                                             % 07866 RGTR--
+*L 342      180401003 210701006  02205  02236               % 07866 RGTR--
+*R 1 210701006 180401003 210701006  02205  02236            % 07866 RGTR--
+*G 020 180401003 210701006  02205  02236                    % 07866 RGTR--
+*A VE 180401003 210701006 000039  02205  02236              % 07866 RGTR--
+*I FD 180401003 210701006        0002018  02205  02236      % 07866 RGTR--
+180401003 Grevenmacher, Gare r         02205                % 07866 RGTR--
+180401002 Grevenmacher, Enner   02206  02206                % 07866 RGTR--
+180401005 Grevenmacher, Route   02207  02207                % 07866 RGTR--
+180803002 Machtum, Deisermille  02208  02208                % 07866 RGTR--
+180803003 Machtum, Gellebur     02209  02209                % 07866 RGTR--
+180803001 Machtum, Bei Kallek'  02209  02209                % 07866 RGTR--
+180305004 Niederdonven, Op der  02215  02215                % 07866 RGTR--
+180305001 Niederdonven, Beim F  02216  02216                % 07866 RGTR--
+180305003 Niederdonven, Bei de  02217  02217                % 07866 RGTR--
+210402002 Lenningen, Basilika   02224  02224                % 07866 RGTR--
+210402001 Lenningen, Am Aker    02225  02225                % 07866 RGTR--
+210801002 Greiveldange, Gemeng  02227  02227                % 07866 RGTR--
+210803003 Stadtbredimus, Schle  02231  02231                % 07866 RGTR--
+210803005 Stadtbredimus, Vinsm  02232  02232                % 07866 RGTR--
+210803006 Stadtbredimus, Wandm  02232  02232                % 07866 RGTR--
+210701003 Remich, Caves St. Ma  02233  02233                % 07866 RGTR--
+210701008 Remich, Maatebierg    02234  02234                % 07866 RGTR--
+210701006 Remich, Gare routièr  02236                       % 07866 RGTR--
+*Z 07867 RGTR--                                             % 07867 RGTR--
+*L 342      180401003 210701006  00505  00536               % 07867 RGTR--
+*R 1 210701006 180401003 210701006  00505  00536            % 07867 RGTR--
+*G 020 180401003 210701006  00505  00536                    % 07867 RGTR--
+*A VE 180401003 210701006 000036  00505  00536              % 07867 RGTR--
+*I FD 180401003 210701006        0002708  00505  00536      % 07867 RGTR--
+180401003 Grevenmacher, Gare r         00505                % 07867 RGTR--
+180401002 Grevenmacher, Enner   00506  00506                % 07867 RGTR--
+180401005 Grevenmacher, Route   00507  00507                % 07867 RGTR--
+180803002 Machtum, Deisermille  00508  00508                % 07867 RGTR--
+180803003 Machtum, Gellebur     00509  00509                % 07867 RGTR--
+180803001 Machtum, Bei Kallek'  00509  00509                % 07867 RGTR--
+180305004 Niederdonven, Op der  00515  00515                % 07867 RGTR--
+180305001 Niederdonven, Beim F  00516  00516                % 07867 RGTR--
+180305003 Niederdonven, Bei de  00517  00517                % 07867 RGTR--
+210402002 Lenningen, Basilika   00524  00524                % 07867 RGTR--
+210402001 Lenningen, Am Aker    00525  00525                % 07867 RGTR--
+210801002 Greiveldange, Gemeng  00527  00527                % 07867 RGTR--
+210803003 Stadtbredimus, Schle  00531  00531                % 07867 RGTR--
+210803005 Stadtbredimus, Vinsm  00532  00532                % 07867 RGTR--
+210803006 Stadtbredimus, Wandm  00532  00532                % 07867 RGTR--
+210701003 Remich, Caves St. Ma  00533  00533                % 07867 RGTR--
+210701008 Remich, Maatebierg    00534  00534                % 07867 RGTR--
+210701006 Remich, Gare routièr  00536                       % 07867 RGTR--
+*Z 07868 RGTR--                                             % 07868 RGTR--
+*L 342      180401003 210701006  00605  00636               % 07868 RGTR--
+*R 1 210701006 180401003 210701006  00605  00636            % 07868 RGTR--
+*G 020 180401003 210701006  00605  00636                    % 07868 RGTR--
+*A VE 180401003 210701006 000036  00605  00636              % 07868 RGTR--
+*I FD 180401003 210701006        0002026  00605  00636      % 07868 RGTR--
+180401003 Grevenmacher, Gare r         00605                % 07868 RGTR--
+180401002 Grevenmacher, Enner   00606  00606                % 07868 RGTR--
+180401005 Grevenmacher, Route   00607  00607                % 07868 RGTR--
+180803002 Machtum, Deisermille  00608  00608                % 07868 RGTR--
+180803003 Machtum, Gellebur     00609  00609                % 07868 RGTR--
+180803001 Machtum, Bei Kallek'  00609  00609                % 07868 RGTR--
+180305004 Niederdonven, Op der  00615  00615                % 07868 RGTR--
+180305001 Niederdonven, Beim F  00616  00616                % 07868 RGTR--
+180305003 Niederdonven, Bei de  00617  00617                % 07868 RGTR--
+210402002 Lenningen, Basilika   00624  00624                % 07868 RGTR--
+210402001 Lenningen, Am Aker    00625  00625                % 07868 RGTR--
+210801002 Greiveldange, Gemeng  00627  00627                % 07868 RGTR--
+210803003 Stadtbredimus, Schle  00631  00631                % 07868 RGTR--
+210803005 Stadtbredimus, Vinsm  00632  00632                % 07868 RGTR--
+210803006 Stadtbredimus, Wandm  00632  00632                % 07868 RGTR--
+210701003 Remich, Caves St. Ma  00633  00633                % 07868 RGTR--
+210701008 Remich, Maatebierg    00634  00634                % 07868 RGTR--
+210701006 Remich, Gare routièr  00636                       % 07868 RGTR--
+*Z 07869 RGTR--                                             % 07869 RGTR--
+*L 342      180401003 210701006  01105  01136               % 07869 RGTR--
+*R 1 210701006 180401003 210701006  01105  01136            % 07869 RGTR--
+*G 020 180401003 210701006  01105  01136                    % 07869 RGTR--
+*A VE 180401003 210701006 000036  01105  01136              % 07869 RGTR--
+*I FD 180401003 210701006        0002021  01105  01136      % 07869 RGTR--
+180401003 Grevenmacher, Gare r         01105                % 07869 RGTR--
+180401002 Grevenmacher, Enner   01106  01106                % 07869 RGTR--
+180401005 Grevenmacher, Route   01107  01107                % 07869 RGTR--
+180803002 Machtum, Deisermille  01108  01108                % 07869 RGTR--
+180803003 Machtum, Gellebur     01109  01109                % 07869 RGTR--
+180803001 Machtum, Bei Kallek'  01109  01109                % 07869 RGTR--
+180305004 Niederdonven, Op der  01115  01115                % 07869 RGTR--
+180305001 Niederdonven, Beim F  01116  01116                % 07869 RGTR--
+180305003 Niederdonven, Bei de  01117  01117                % 07869 RGTR--
+210402002 Lenningen, Basilika   01124  01124                % 07869 RGTR--
+210402001 Lenningen, Am Aker    01125  01125                % 07869 RGTR--
+210801002 Greiveldange, Gemeng  01127  01127                % 07869 RGTR--
+210803003 Stadtbredimus, Schle  01131  01131                % 07869 RGTR--
+210803005 Stadtbredimus, Vinsm  01132  01132                % 07869 RGTR--
+210803006 Stadtbredimus, Wandm  01132  01132                % 07869 RGTR--
+210701003 Remich, Caves St. Ma  01133  01133                % 07869 RGTR--
+210701008 Remich, Maatebierg    01134  01134                % 07869 RGTR--
+210701006 Remich, Gare routièr  01136                       % 07869 RGTR--
+*Z 07870 RGTR--                                             % 07870 RGTR--
+*L 342      180401003 210701006  01305  01336               % 07870 RGTR--
+*R 1 210701006 180401003 210701006  01305  01336            % 07870 RGTR--
+*G 020 180401003 210701006  01305  01336                    % 07870 RGTR--
+*A VE 180401003 210701006 000036  01305  01336              % 07870 RGTR--
+*I FD 180401003 210701006        0002022  01305  01336      % 07870 RGTR--
+180401003 Grevenmacher, Gare r         01305                % 07870 RGTR--
+180401002 Grevenmacher, Enner   01306  01306                % 07870 RGTR--
+180401005 Grevenmacher, Route   01307  01307                % 07870 RGTR--
+180803002 Machtum, Deisermille  01308  01308                % 07870 RGTR--
+180803003 Machtum, Gellebur     01309  01309                % 07870 RGTR--
+180803001 Machtum, Bei Kallek'  01309  01309                % 07870 RGTR--
+180305004 Niederdonven, Op der  01315  01315                % 07870 RGTR--
+180305001 Niederdonven, Beim F  01316  01316                % 07870 RGTR--
+180305003 Niederdonven, Bei de  01317  01317                % 07870 RGTR--
+210402002 Lenningen, Basilika   01324  01324                % 07870 RGTR--
+210402001 Lenningen, Am Aker    01325  01325                % 07870 RGTR--
+210801002 Greiveldange, Gemeng  01327  01327                % 07870 RGTR--
+210803003 Stadtbredimus, Schle  01331  01331                % 07870 RGTR--
+210803005 Stadtbredimus, Vinsm  01332  01332                % 07870 RGTR--
+210803006 Stadtbredimus, Wandm  01332  01332                % 07870 RGTR--
+210701003 Remich, Caves St. Ma  01333  01333                % 07870 RGTR--
+210701008 Remich, Maatebierg    01334  01334                % 07870 RGTR--
+210701006 Remich, Gare routièr  01336                       % 07870 RGTR--
+*Z 07871 RGTR--                                             % 07871 RGTR--
+*L 342      180401003 210701006  01505  01536               % 07871 RGTR--
+*R 1 210701006 180401003 210701006  01505  01536            % 07871 RGTR--
+*G 020 180401003 210701006  01505  01536                    % 07871 RGTR--
+*A VE 180401003 210701006 000036  01505  01536              % 07871 RGTR--
+*I FD 180401003 210701006        0002023  01505  01536      % 07871 RGTR--
+180401003 Grevenmacher, Gare r         01505                % 07871 RGTR--
+180401002 Grevenmacher, Enner   01506  01506                % 07871 RGTR--
+180401005 Grevenmacher, Route   01507  01507                % 07871 RGTR--
+180803002 Machtum, Deisermille  01508  01508                % 07871 RGTR--
+180803003 Machtum, Gellebur     01509  01509                % 07871 RGTR--
+180803001 Machtum, Bei Kallek'  01509  01509                % 07871 RGTR--
+180305004 Niederdonven, Op der  01515  01515                % 07871 RGTR--
+180305001 Niederdonven, Beim F  01516  01516                % 07871 RGTR--
+180305003 Niederdonven, Bei de  01517  01517                % 07871 RGTR--
+210402002 Lenningen, Basilika   01524  01524                % 07871 RGTR--
+210402001 Lenningen, Am Aker    01525  01525                % 07871 RGTR--
+210801002 Greiveldange, Gemeng  01527  01527                % 07871 RGTR--
+210803003 Stadtbredimus, Schle  01531  01531                % 07871 RGTR--
+210803005 Stadtbredimus, Vinsm  01532  01532                % 07871 RGTR--
+210803006 Stadtbredimus, Wandm  01532  01532                % 07871 RGTR--
+210701003 Remich, Caves St. Ma  01533  01533                % 07871 RGTR--
+210701008 Remich, Maatebierg    01534  01534                % 07871 RGTR--
+210701006 Remich, Gare routièr  01536                       % 07871 RGTR--
+*Z 07872 RGTR--                                             % 07872 RGTR--
+*L 342      180401003 210701006  01905  01936               % 07872 RGTR--
+*R 1 210701006 180401003 210701006  01905  01936            % 07872 RGTR--
+*G 020 180401003 210701006  01905  01936                    % 07872 RGTR--
+*A VE 180401003 210701006 000036  01905  01936              % 07872 RGTR--
+*I FD 180401003 210701006        0002012  01905  01936      % 07872 RGTR--
+180401003 Grevenmacher, Gare r         01905                % 07872 RGTR--
+180401002 Grevenmacher, Enner   01906  01906                % 07872 RGTR--
+180401005 Grevenmacher, Route   01907  01907                % 07872 RGTR--
+180803002 Machtum, Deisermille  01908  01908                % 07872 RGTR--
+180803003 Machtum, Gellebur     01909  01909                % 07872 RGTR--
+180803001 Machtum, Bei Kallek'  01909  01909                % 07872 RGTR--
+180305004 Niederdonven, Op der  01915  01915                % 07872 RGTR--
+180305001 Niederdonven, Beim F  01916  01916                % 07872 RGTR--
+180305003 Niederdonven, Bei de  01917  01917                % 07872 RGTR--
+210402002 Lenningen, Basilika   01924  01924                % 07872 RGTR--
+210402001 Lenningen, Am Aker    01925  01925                % 07872 RGTR--
+210801002 Greiveldange, Gemeng  01927  01927                % 07872 RGTR--
+210803003 Stadtbredimus, Schle  01931  01931                % 07872 RGTR--
+210803005 Stadtbredimus, Vinsm  01932  01932                % 07872 RGTR--
+210803006 Stadtbredimus, Wandm  01932  01932                % 07872 RGTR--
+210701003 Remich, Caves St. Ma  01933  01933                % 07872 RGTR--
+210701008 Remich, Maatebierg    01934  01934                % 07872 RGTR--
+210701006 Remich, Gare routièr  01936                       % 07872 RGTR--
+*Z 07873 RGTR--                                             % 07873 RGTR--
+*L 342      180401003 210701006  02105  02136               % 07873 RGTR--
+*R 1 210701006 180401003 210701006  02105  02136            % 07873 RGTR--
+*G 020 180401003 210701006  02105  02136                    % 07873 RGTR--
+*A VE 180401003 210701006 000036  02105  02136              % 07873 RGTR--
+*I FD 180401003 210701006        0002014  02105  02136      % 07873 RGTR--
+180401003 Grevenmacher, Gare r         02105                % 07873 RGTR--
+180401002 Grevenmacher, Enner   02106  02106                % 07873 RGTR--
+180401005 Grevenmacher, Route   02107  02107                % 07873 RGTR--
+180803002 Machtum, Deisermille  02108  02108                % 07873 RGTR--
+180803003 Machtum, Gellebur     02109  02109                % 07873 RGTR--
+180803001 Machtum, Bei Kallek'  02109  02109                % 07873 RGTR--
+180305004 Niederdonven, Op der  02115  02115                % 07873 RGTR--
+180305001 Niederdonven, Beim F  02116  02116                % 07873 RGTR--
+180305003 Niederdonven, Bei de  02117  02117                % 07873 RGTR--
+210402002 Lenningen, Basilika   02124  02124                % 07873 RGTR--
+210402001 Lenningen, Am Aker    02125  02125                % 07873 RGTR--
+210801002 Greiveldange, Gemeng  02127  02127                % 07873 RGTR--
+210803003 Stadtbredimus, Schle  02131  02131                % 07873 RGTR--
+210803005 Stadtbredimus, Vinsm  02132  02132                % 07873 RGTR--
+210803006 Stadtbredimus, Wandm  02132  02132                % 07873 RGTR--
+210701003 Remich, Caves St. Ma  02133  02133                % 07873 RGTR--
+210701008 Remich, Maatebierg    02134  02134                % 07873 RGTR--
+210701006 Remich, Gare routièr  02136                       % 07873 RGTR--
+*Z 07874 RGTR--                                             % 07874 RGTR--
+*L 342      180401003 210701006  02305  02336               % 07874 RGTR--
+*R 1 210701006 180401003 210701006  02305  02336            % 07874 RGTR--
+*G 020 180401003 210701006  02305  02336                    % 07874 RGTR--
+*A VE 180401003 210701006 000036  02305  02336              % 07874 RGTR--
+*I FD 180401003 210701006        0002016  02305  02336      % 07874 RGTR--
+180401003 Grevenmacher, Gare r         02305                % 07874 RGTR--
+180401002 Grevenmacher, Enner   02306  02306                % 07874 RGTR--
+180401005 Grevenmacher, Route   02307  02307                % 07874 RGTR--
+180803002 Machtum, Deisermille  02308  02308                % 07874 RGTR--
+180803003 Machtum, Gellebur     02309  02309                % 07874 RGTR--
+180803001 Machtum, Bei Kallek'  02309  02309                % 07874 RGTR--
+180305004 Niederdonven, Op der  02315  02315                % 07874 RGTR--
+180305001 Niederdonven, Beim F  02316  02316                % 07874 RGTR--
+180305003 Niederdonven, Bei de  02317  02317                % 07874 RGTR--
+210402002 Lenningen, Basilika   02324  02324                % 07874 RGTR--
+210402001 Lenningen, Am Aker    02325  02325                % 07874 RGTR--
+210801002 Greiveldange, Gemeng  02327  02327                % 07874 RGTR--
+210803003 Stadtbredimus, Schle  02331  02331                % 07874 RGTR--
+210803005 Stadtbredimus, Vinsm  02332  02332                % 07874 RGTR--
+210803006 Stadtbredimus, Wandm  02332  02332                % 07874 RGTR--
+210701003 Remich, Caves St. Ma  02333  02333                % 07874 RGTR--
+210701008 Remich, Maatebierg    02334  02334                % 07874 RGTR--
+210701006 Remich, Gare routièr  02336                       % 07874 RGTR--
+*Z 07875 RGTR--                                             % 07875 RGTR--
+*L 342      180401003 210701006  01835  01906               % 07875 RGTR--
+*R 1 210701006 180401003 210701006  01835  01906            % 07875 RGTR--
+*G 020 180401003 210701006  01835  01906                    % 07875 RGTR--
+*A VE 180401003 210701006 000033  01835  01906              % 07875 RGTR--
+*I FD 180401003 210701006        0002011  01835  01906      % 07875 RGTR--
+180401003 Grevenmacher, Gare r         01835                % 07875 RGTR--
+180401002 Grevenmacher, Enner   01836  01836                % 07875 RGTR--
+180401005 Grevenmacher, Route   01837  01837                % 07875 RGTR--
+180803002 Machtum, Deisermille  01838  01838                % 07875 RGTR--
+180803003 Machtum, Gellebur     01839  01839                % 07875 RGTR--
+180803001 Machtum, Bei Kallek'  01839  01839                % 07875 RGTR--
+180305004 Niederdonven, Op der  01845  01845                % 07875 RGTR--
+180305001 Niederdonven, Beim F  01846  01846                % 07875 RGTR--
+180305003 Niederdonven, Bei de  01847  01847                % 07875 RGTR--
+210402002 Lenningen, Basilika   01854  01854                % 07875 RGTR--
+210402001 Lenningen, Am Aker    01855  01855                % 07875 RGTR--
+210801002 Greiveldange, Gemeng  01857  01857                % 07875 RGTR--
+210803003 Stadtbredimus, Schle  01901  01901                % 07875 RGTR--
+210803005 Stadtbredimus, Vinsm  01902  01902                % 07875 RGTR--
+210803006 Stadtbredimus, Wandm  01902  01902                % 07875 RGTR--
+210701003 Remich, Caves St. Ma  01903  01903                % 07875 RGTR--
+210701008 Remich, Maatebierg    01904  01904                % 07875 RGTR--
+210701006 Remich, Gare routièr  01906                       % 07875 RGTR--
+*Z 07876 RGTR--                                             % 07876 RGTR--
+*L 342      180401003 210701006  00805  00836               % 07876 RGTR--
+*R 1 210701006 180401003 210701006  00805  00836            % 07876 RGTR--
+*G 020 180401003 210701006  00805  00836                    % 07876 RGTR--
+*A VE 180401003 210701006 000018  00805  00836              % 07876 RGTR--
+*I FD 180401003 210701006        0002001  00805  00836      % 07876 RGTR--
+180401003 Grevenmacher, Gare r         00805                % 07876 RGTR--
+180401002 Grevenmacher, Enner   00806  00806                % 07876 RGTR--
+180401005 Grevenmacher, Route   00807  00807                % 07876 RGTR--
+180803002 Machtum, Deisermille  00808  00808                % 07876 RGTR--
+180803003 Machtum, Gellebur     00809  00809                % 07876 RGTR--
+180803001 Machtum, Bei Kallek'  00809  00809                % 07876 RGTR--
+180305004 Niederdonven, Op der  00815  00815                % 07876 RGTR--
+180305001 Niederdonven, Beim F  00816  00816                % 07876 RGTR--
+180305003 Niederdonven, Bei de  00817  00817                % 07876 RGTR--
+210402002 Lenningen, Basilika   00824  00824                % 07876 RGTR--
+210402001 Lenningen, Am Aker    00825  00825                % 07876 RGTR--
+210801002 Greiveldange, Gemeng  00827  00827                % 07876 RGTR--
+210803003 Stadtbredimus, Schle  00831  00831                % 07876 RGTR--
+210803005 Stadtbredimus, Vinsm  00832  00832                % 07876 RGTR--
+210803006 Stadtbredimus, Wandm  00832  00832                % 07876 RGTR--
+210701003 Remich, Caves St. Ma  00833  00833                % 07876 RGTR--
+210701008 Remich, Maatebierg    00834  00834                % 07876 RGTR--
+210701006 Remich, Gare routièr  00836                       % 07876 RGTR--
+*Z 07877 RGTR--                                             % 07877 RGTR--
+*L 342      180401003 210701006  01805  01836               % 07877 RGTR--
+*R 1 210701006 180401003 210701006  01805  01836            % 07877 RGTR--
+*G 020 180401003 210701006  01805  01836                    % 07877 RGTR--
+*A VE 180401003 210701006 000018  01805  01836              % 07877 RGTR--
+*I FD 180401003 210701006        0002033  01805  01836      % 07877 RGTR--
+180401003 Grevenmacher, Gare r         01805                % 07877 RGTR--
+180401002 Grevenmacher, Enner   01806  01806                % 07877 RGTR--
+180401005 Grevenmacher, Route   01807  01807                % 07877 RGTR--
+180803002 Machtum, Deisermille  01808  01808                % 07877 RGTR--
+180803003 Machtum, Gellebur     01809  01809                % 07877 RGTR--
+180803001 Machtum, Bei Kallek'  01809  01809                % 07877 RGTR--
+180305004 Niederdonven, Op der  01815  01815                % 07877 RGTR--
+180305001 Niederdonven, Beim F  01816  01816                % 07877 RGTR--
+180305003 Niederdonven, Bei de  01817  01817                % 07877 RGTR--
+210402002 Lenningen, Basilika   01824  01824                % 07877 RGTR--
+210402001 Lenningen, Am Aker    01825  01825                % 07877 RGTR--
+210801002 Greiveldange, Gemeng  01827  01827                % 07877 RGTR--
+210803003 Stadtbredimus, Schle  01831  01831                % 07877 RGTR--
+210803005 Stadtbredimus, Vinsm  01832  01832                % 07877 RGTR--
+210803006 Stadtbredimus, Wandm  01832  01832                % 07877 RGTR--
+210701003 Remich, Caves St. Ma  01833  01833                % 07877 RGTR--
+210701008 Remich, Maatebierg    01834  01834                % 07877 RGTR--
+210701006 Remich, Gare routièr  01836                       % 07877 RGTR--
+*Z 07878 RGTR--                                             % 07878 RGTR--
+*L 342      180401003 210701006  00705  00737               % 07878 RGTR--
+*R 1 210701006 180401003 210701006  00705  00737            % 07878 RGTR--
+*G 020 180401003 210701006  00705  00737                    % 07878 RGTR--
+*A VE 180401003 210701006 000036  00705  00737              % 07878 RGTR--
+*I FD 180401003 210701006        0002027  00705  00737      % 07878 RGTR--
+180401003 Grevenmacher, Gare r         00705                % 07878 RGTR--
+180401002 Grevenmacher, Enner   00706  00706                % 07878 RGTR--
+180401005 Grevenmacher, Route   00707  00707                % 07878 RGTR--
+180803002 Machtum, Deisermille  00708  00708                % 07878 RGTR--
+180803003 Machtum, Gellebur     00709  00709                % 07878 RGTR--
+180803001 Machtum, Bei Kallek'  00710  00710                % 07878 RGTR--
+180305004 Niederdonven, Op der  00716  00716                % 07878 RGTR--
+180305001 Niederdonven, Beim F  00716  00716                % 07878 RGTR--
+180305003 Niederdonven, Bei de  00717  00717                % 07878 RGTR--
+210402002 Lenningen, Basilika   00724  00724                % 07878 RGTR--
+210402001 Lenningen, Am Aker    00725  00725                % 07878 RGTR--
+210801002 Greiveldange, Gemeng  00728  00728                % 07878 RGTR--
+210803003 Stadtbredimus, Schle  00731  00731                % 07878 RGTR--
+210803005 Stadtbredimus, Vinsm  00732  00732                % 07878 RGTR--
+210803006 Stadtbredimus, Wandm  00733  00733                % 07878 RGTR--
+210701003 Remich, Caves St. Ma  00734  00734                % 07878 RGTR--
+210701008 Remich, Maatebierg    00735  00735                % 07878 RGTR--
+210701006 Remich, Gare routièr  00737                       % 07878 RGTR--
+*Z 07879 RGTR--                                             % 07879 RGTR--
+*L 342      180401003 210701006  00805  00837               % 07879 RGTR--
+*R 1 210701006 180401003 210701006  00805  00837            % 07879 RGTR--
+*G 020 180401003 210701006  00805  00837                    % 07879 RGTR--
+*A VE 180401003 210701006 000036  00805  00837              % 07879 RGTR--
+*I FD 180401003 210701006        0002001  00805  00837      % 07879 RGTR--
+180401003 Grevenmacher, Gare r         00805                % 07879 RGTR--
+180401002 Grevenmacher, Enner   00806  00806                % 07879 RGTR--
+180401005 Grevenmacher, Route   00807  00807                % 07879 RGTR--
+180803002 Machtum, Deisermille  00808  00808                % 07879 RGTR--
+180803003 Machtum, Gellebur     00809  00809                % 07879 RGTR--
+180803001 Machtum, Bei Kallek'  00810  00810                % 07879 RGTR--
+180305004 Niederdonven, Op der  00816  00816                % 07879 RGTR--
+180305001 Niederdonven, Beim F  00816  00816                % 07879 RGTR--
+180305003 Niederdonven, Bei de  00817  00817                % 07879 RGTR--
+210402002 Lenningen, Basilika   00824  00824                % 07879 RGTR--
+210402001 Lenningen, Am Aker    00825  00825                % 07879 RGTR--
+210801002 Greiveldange, Gemeng  00828  00828                % 07879 RGTR--
+210803003 Stadtbredimus, Schle  00831  00831                % 07879 RGTR--
+210803005 Stadtbredimus, Vinsm  00832  00832                % 07879 RGTR--
+210803006 Stadtbredimus, Wandm  00833  00833                % 07879 RGTR--
+210701003 Remich, Caves St. Ma  00834  00834                % 07879 RGTR--
+210701008 Remich, Maatebierg    00835  00835                % 07879 RGTR--
+210701006 Remich, Gare routièr  00837                       % 07879 RGTR--
+*Z 07880 RGTR--                                             % 07880 RGTR--
+*L 342      180401003 210701006  00905  00937               % 07880 RGTR--
+*R 1 210701006 180401003 210701006  00905  00937            % 07880 RGTR--
+*G 020 180401003 210701006  00905  00937                    % 07880 RGTR--
+*A VE 180401003 210701006 000036  00905  00937              % 07880 RGTR--
+*I FD 180401003 210701006        0002020  00905  00937      % 07880 RGTR--
+180401003 Grevenmacher, Gare r         00905                % 07880 RGTR--
+180401002 Grevenmacher, Enner   00906  00906                % 07880 RGTR--
+180401005 Grevenmacher, Route   00907  00907                % 07880 RGTR--
+180803002 Machtum, Deisermille  00908  00908                % 07880 RGTR--
+180803003 Machtum, Gellebur     00909  00909                % 07880 RGTR--
+180803001 Machtum, Bei Kallek'  00910  00910                % 07880 RGTR--
+180305004 Niederdonven, Op der  00916  00916                % 07880 RGTR--
+180305001 Niederdonven, Beim F  00916  00916                % 07880 RGTR--
+180305003 Niederdonven, Bei de  00917  00917                % 07880 RGTR--
+210402002 Lenningen, Basilika   00924  00924                % 07880 RGTR--
+210402001 Lenningen, Am Aker    00925  00925                % 07880 RGTR--
+210801002 Greiveldange, Gemeng  00928  00928                % 07880 RGTR--
+210803003 Stadtbredimus, Schle  00931  00931                % 07880 RGTR--
+210803005 Stadtbredimus, Vinsm  00932  00932                % 07880 RGTR--
+210803006 Stadtbredimus, Wandm  00933  00933                % 07880 RGTR--
+210701003 Remich, Caves St. Ma  00934  00934                % 07880 RGTR--
+210701008 Remich, Maatebierg    00935  00935                % 07880 RGTR--
+210701006 Remich, Gare routièr  00937                       % 07880 RGTR--
+*Z 07881 RGTR--                                             % 07881 RGTR--
+*L 342      180401003 210701006  01705  01737               % 07881 RGTR--
+*R 1 210701006 180401003 210701006  01705  01737            % 07881 RGTR--
+*G 020 180401003 210701006  01705  01737                    % 07881 RGTR--
+*A VE 180401003 210701006 000036  01705  01737              % 07881 RGTR--
+*I FD 180401003 210701006        0002032  01705  01737      % 07881 RGTR--
+180401003 Grevenmacher, Gare r         01705                % 07881 RGTR--
+180401002 Grevenmacher, Enner   01706  01706                % 07881 RGTR--
+180401005 Grevenmacher, Route   01707  01707                % 07881 RGTR--
+180803002 Machtum, Deisermille  01708  01708                % 07881 RGTR--
+180803003 Machtum, Gellebur     01709  01709                % 07881 RGTR--
+180803001 Machtum, Bei Kallek'  01710  01710                % 07881 RGTR--
+180305004 Niederdonven, Op der  01716  01716                % 07881 RGTR--
+180305001 Niederdonven, Beim F  01716  01716                % 07881 RGTR--
+180305003 Niederdonven, Bei de  01717  01717                % 07881 RGTR--
+210402002 Lenningen, Basilika   01724  01724                % 07881 RGTR--
+210402001 Lenningen, Am Aker    01725  01725                % 07881 RGTR--
+210801002 Greiveldange, Gemeng  01728  01728                % 07881 RGTR--
+210803003 Stadtbredimus, Schle  01731  01731                % 07881 RGTR--
+210803005 Stadtbredimus, Vinsm  01732  01732                % 07881 RGTR--
+210803006 Stadtbredimus, Wandm  01733  01733                % 07881 RGTR--
+210701003 Remich, Caves St. Ma  01734  01734                % 07881 RGTR--
+210701008 Remich, Maatebierg    01735  01735                % 07881 RGTR--
+210701006 Remich, Gare routièr  01737                       % 07881 RGTR--
+*Z 07882 RGTR--                                             % 07882 RGTR--
+*L 342      180401003 210701006  01805  01837               % 07882 RGTR--
+*R 1 210701006 180401003 210701006  01805  01837            % 07882 RGTR--
+*G 020 180401003 210701006  01805  01837                    % 07882 RGTR--
+*A VE 180401003 210701006 000036  01805  01837              % 07882 RGTR--
+*I FD 180401003 210701006        0002033  01805  01837      % 07882 RGTR--
+180401003 Grevenmacher, Gare r         01805                % 07882 RGTR--
+180401002 Grevenmacher, Enner   01806  01806                % 07882 RGTR--
+180401005 Grevenmacher, Route   01807  01807                % 07882 RGTR--
+180803002 Machtum, Deisermille  01808  01808                % 07882 RGTR--
+180803003 Machtum, Gellebur     01809  01809                % 07882 RGTR--
+180803001 Machtum, Bei Kallek'  01810  01810                % 07882 RGTR--
+180305004 Niederdonven, Op der  01816  01816                % 07882 RGTR--
+180305001 Niederdonven, Beim F  01816  01816                % 07882 RGTR--
+180305003 Niederdonven, Bei de  01817  01817                % 07882 RGTR--
+210402002 Lenningen, Basilika   01824  01824                % 07882 RGTR--
+210402001 Lenningen, Am Aker    01825  01825                % 07882 RGTR--
+210801002 Greiveldange, Gemeng  01828  01828                % 07882 RGTR--
+210803003 Stadtbredimus, Schle  01831  01831                % 07882 RGTR--
+210803005 Stadtbredimus, Vinsm  01832  01832                % 07882 RGTR--
+210803006 Stadtbredimus, Wandm  01833  01833                % 07882 RGTR--
+210701003 Remich, Caves St. Ma  01834  01834                % 07882 RGTR--
+210701008 Remich, Maatebierg    01835  01835                % 07882 RGTR--
+210701006 Remich, Gare routièr  01837                       % 07882 RGTR--
+*Z 07883 RGTR--                                             % 07883 RGTR--
+*L 342      180401003 210701006  00635  00707               % 07883 RGTR--
+*R 1 210701006 180401003 210701006  00635  00707            % 07883 RGTR--
+*G 020 180401003 210701006  00635  00707                    % 07883 RGTR--
+*A VE 180401003 210701006 000033  00635  00707              % 07883 RGTR--
+*I FD 180401003 210701006        0002019  00635  00707      % 07883 RGTR--
+180401003 Grevenmacher, Gare r         00635                % 07883 RGTR--
+180401002 Grevenmacher, Enner   00636  00636                % 07883 RGTR--
+180401005 Grevenmacher, Route   00637  00637                % 07883 RGTR--
+180803002 Machtum, Deisermille  00638  00638                % 07883 RGTR--
+180803003 Machtum, Gellebur     00639  00639                % 07883 RGTR--
+180803001 Machtum, Bei Kallek'  00640  00640                % 07883 RGTR--
+180305004 Niederdonven, Op der  00646  00646                % 07883 RGTR--
+180305001 Niederdonven, Beim F  00646  00646                % 07883 RGTR--
+180305003 Niederdonven, Bei de  00647  00647                % 07883 RGTR--
+210402002 Lenningen, Basilika   00654  00654                % 07883 RGTR--
+210402001 Lenningen, Am Aker    00655  00655                % 07883 RGTR--
+210801002 Greiveldange, Gemeng  00658  00658                % 07883 RGTR--
+210803003 Stadtbredimus, Schle  00701  00701                % 07883 RGTR--
+210803005 Stadtbredimus, Vinsm  00702  00702                % 07883 RGTR--
+210803006 Stadtbredimus, Wandm  00703  00703                % 07883 RGTR--
+210701003 Remich, Caves St. Ma  00704  00704                % 07883 RGTR--
+210701008 Remich, Maatebierg    00705  00705                % 07883 RGTR--
+210701006 Remich, Gare routièr  00707                       % 07883 RGTR--
+*Z 07884 RGTR--                                             % 07884 RGTR--
+*L 342      180401003 210701006  00735  00807               % 07884 RGTR--
+*R 1 210701006 180401003 210701006  00735  00807            % 07884 RGTR--
+*G 020 180401003 210701006  00735  00807                    % 07884 RGTR--
+*A VE 180401003 210701006 000033  00735  00807              % 07884 RGTR--
+*I FD 180401003 210701006        0002000  00735  00807      % 07884 RGTR--
+180401003 Grevenmacher, Gare r         00735                % 07884 RGTR--
+180401002 Grevenmacher, Enner   00736  00736                % 07884 RGTR--
+180401005 Grevenmacher, Route   00737  00737                % 07884 RGTR--
+180803002 Machtum, Deisermille  00738  00738                % 07884 RGTR--
+180803003 Machtum, Gellebur     00739  00739                % 07884 RGTR--
+180803001 Machtum, Bei Kallek'  00740  00740                % 07884 RGTR--
+180305004 Niederdonven, Op der  00746  00746                % 07884 RGTR--
+180305001 Niederdonven, Beim F  00746  00746                % 07884 RGTR--
+180305003 Niederdonven, Bei de  00747  00747                % 07884 RGTR--
+210402002 Lenningen, Basilika   00754  00754                % 07884 RGTR--
+210402001 Lenningen, Am Aker    00755  00755                % 07884 RGTR--
+210801002 Greiveldange, Gemeng  00758  00758                % 07884 RGTR--
+210803003 Stadtbredimus, Schle  00801  00801                % 07884 RGTR--
+210803005 Stadtbredimus, Vinsm  00802  00802                % 07884 RGTR--
+210803006 Stadtbredimus, Wandm  00803  00803                % 07884 RGTR--
+210701003 Remich, Caves St. Ma  00804  00804                % 07884 RGTR--
+210701008 Remich, Maatebierg    00805  00805                % 07884 RGTR--
+210701006 Remich, Gare routièr  00807                       % 07884 RGTR--
+*Z 07885 RGTR--                                             % 07885 RGTR--
+*L 342      180401003 210701006  00835  00907               % 07885 RGTR--
+*R 1 210701006 180401003 210701006  00835  00907            % 07885 RGTR--
+*G 020 180401003 210701006  00835  00907                    % 07885 RGTR--
+*A VE 180401003 210701006 000033  00835  00907              % 07885 RGTR--
+*I FD 180401003 210701006        0002002  00835  00907      % 07885 RGTR--
+180401003 Grevenmacher, Gare r         00835                % 07885 RGTR--
+180401002 Grevenmacher, Enner   00836  00836                % 07885 RGTR--
+180401005 Grevenmacher, Route   00837  00837                % 07885 RGTR--
+180803002 Machtum, Deisermille  00838  00838                % 07885 RGTR--
+180803003 Machtum, Gellebur     00839  00839                % 07885 RGTR--
+180803001 Machtum, Bei Kallek'  00840  00840                % 07885 RGTR--
+180305004 Niederdonven, Op der  00846  00846                % 07885 RGTR--
+180305001 Niederdonven, Beim F  00846  00846                % 07885 RGTR--
+180305003 Niederdonven, Bei de  00847  00847                % 07885 RGTR--
+210402002 Lenningen, Basilika   00854  00854                % 07885 RGTR--
+210402001 Lenningen, Am Aker    00855  00855                % 07885 RGTR--
+210801002 Greiveldange, Gemeng  00858  00858                % 07885 RGTR--
+210803003 Stadtbredimus, Schle  00901  00901                % 07885 RGTR--
+210803005 Stadtbredimus, Vinsm  00902  00902                % 07885 RGTR--
+210803006 Stadtbredimus, Wandm  00903  00903                % 07885 RGTR--
+210701003 Remich, Caves St. Ma  00904  00904                % 07885 RGTR--
+210701008 Remich, Maatebierg    00905  00905                % 07885 RGTR--
+210701006 Remich, Gare routièr  00907                       % 07885 RGTR--
+*Z 07886 RGTR--                                             % 07886 RGTR--
+*L 342      180401003 210701006  01635  01707               % 07886 RGTR--
+*R 1 210701006 180401003 210701006  01635  01707            % 07886 RGTR--
+*G 020 180401003 210701006  01635  01707                    % 07886 RGTR--
+*A VE 180401003 210701006 000033  01635  01707              % 07886 RGTR--
+*I FD 180401003 210701006        0002010  01635  01707      % 07886 RGTR--
+180401003 Grevenmacher, Gare r         01635                % 07886 RGTR--
+180401002 Grevenmacher, Enner   01636  01636                % 07886 RGTR--
+180401005 Grevenmacher, Route   01637  01637                % 07886 RGTR--
+180803002 Machtum, Deisermille  01638  01638                % 07886 RGTR--
+180803003 Machtum, Gellebur     01639  01639                % 07886 RGTR--
+180803001 Machtum, Bei Kallek'  01640  01640                % 07886 RGTR--
+180305004 Niederdonven, Op der  01646  01646                % 07886 RGTR--
+180305001 Niederdonven, Beim F  01646  01646                % 07886 RGTR--
+180305003 Niederdonven, Bei de  01647  01647                % 07886 RGTR--
+210402002 Lenningen, Basilika   01654  01654                % 07886 RGTR--
+210402001 Lenningen, Am Aker    01655  01655                % 07886 RGTR--
+210801002 Greiveldange, Gemeng  01658  01658                % 07886 RGTR--
+210803003 Stadtbredimus, Schle  01701  01701                % 07886 RGTR--
+210803005 Stadtbredimus, Vinsm  01702  01702                % 07886 RGTR--
+210803006 Stadtbredimus, Wandm  01703  01703                % 07886 RGTR--
+210701003 Remich, Caves St. Ma  01704  01704                % 07886 RGTR--
+210701008 Remich, Maatebierg    01705  01705                % 07886 RGTR--
+210701006 Remich, Gare routièr  01707                       % 07886 RGTR--
+*Z 07887 RGTR--                                             % 07887 RGTR--
+*L 342      180401003 210701006  01735  01807               % 07887 RGTR--
+*R 1 210701006 180401003 210701006  01735  01807            % 07887 RGTR--
+*G 020 180401003 210701006  01735  01807                    % 07887 RGTR--
+*A VE 180401003 210701006 000033  01735  01807              % 07887 RGTR--
+*I FD 180401003 210701006        0002028  01735  01807      % 07887 RGTR--
+180401003 Grevenmacher, Gare r         01735                % 07887 RGTR--
+180401002 Grevenmacher, Enner   01736  01736                % 07887 RGTR--
+180401005 Grevenmacher, Route   01737  01737                % 07887 RGTR--
+180803002 Machtum, Deisermille  01738  01738                % 07887 RGTR--
+180803003 Machtum, Gellebur     01739  01739                % 07887 RGTR--
+180803001 Machtum, Bei Kallek'  01740  01740                % 07887 RGTR--
+180305004 Niederdonven, Op der  01746  01746                % 07887 RGTR--
+180305001 Niederdonven, Beim F  01746  01746                % 07887 RGTR--
+180305003 Niederdonven, Bei de  01747  01747                % 07887 RGTR--
+210402002 Lenningen, Basilika   01754  01754                % 07887 RGTR--
+210402001 Lenningen, Am Aker    01755  01755                % 07887 RGTR--
+210801002 Greiveldange, Gemeng  01758  01758                % 07887 RGTR--
+210803003 Stadtbredimus, Schle  01801  01801                % 07887 RGTR--
+210803005 Stadtbredimus, Vinsm  01802  01802                % 07887 RGTR--
+210803006 Stadtbredimus, Wandm  01803  01803                % 07887 RGTR--
+210701003 Remich, Caves St. Ma  01804  01804                % 07887 RGTR--
+210701008 Remich, Maatebierg    01805  01805                % 07887 RGTR--
+210701006 Remich, Gare routièr  01807                       % 07887 RGTR--
+*Z 07888 RGTR--                                             % 07888 RGTR--
+*L 342      210701006 180401003  00915  00946               % 07888 RGTR--
+*R 2 180401003 210701006 180401003  00915  00946            % 07888 RGTR--
+*G 020 210701006 180401003  00915  00946                    % 07888 RGTR--
+*A VE 210701006 180401003 000039  00915  00946              % 07888 RGTR--
+*I FD 210701006 180401003        0002053  00915  00946      % 07888 RGTR--
+210701006 Remich, Gare routièr         00915                % 07888 RGTR--
+210701008 Remich, Maatebierg    00916  00916                % 07888 RGTR--
+210701003 Remich, Caves St. Ma  00917  00917                % 07888 RGTR--
+210803006 Stadtbredimus, Wandm  00918  00918                % 07888 RGTR--
+210803005 Stadtbredimus, Vinsm  00919  00919                % 07888 RGTR--
+210803003 Stadtbredimus, Schle  00919  00919                % 07888 RGTR--
+210801002 Greiveldange, Gemeng  00924  00924                % 07888 RGTR--
+210402001 Lenningen, Am Aker    00926  00926                % 07888 RGTR--
+210402002 Lenningen, Basilika   00927  00927                % 07888 RGTR--
+180305003 Niederdonven, Bei de  00933  00933                % 07888 RGTR--
+180305001 Niederdonven, Beim F  00934  00934                % 07888 RGTR--
+180305004 Niederdonven, Op der  00935  00935                % 07888 RGTR--
+180803004 Machtum, Ongkaf       00941  00941                % 07888 RGTR--
+180803003 Machtum, Gellebur     00942  00942                % 07888 RGTR--
+180803002 Machtum, Deisermille  00942  00942                % 07888 RGTR--
+180401005 Grevenmacher, Route   00943  00943                % 07888 RGTR--
+180401002 Grevenmacher, Enner   00944  00944                % 07888 RGTR--
+180401003 Grevenmacher, Gare r  00946                       % 07888 RGTR--
+*Z 07889 RGTR--                                             % 07889 RGTR--
+*L 342      210701006 180401003  01115  01146               % 07889 RGTR--
+*R 2 180401003 210701006 180401003  01115  01146            % 07889 RGTR--
+*G 020 210701006 180401003  01115  01146                    % 07889 RGTR--
+*A VE 210701006 180401003 000039  01115  01146              % 07889 RGTR--
+*I FD 210701006 180401003        0001071  01115  01146      % 07889 RGTR--
+210701006 Remich, Gare routièr         01115                % 07889 RGTR--
+210701008 Remich, Maatebierg    01116  01116                % 07889 RGTR--
+210701003 Remich, Caves St. Ma  01117  01117                % 07889 RGTR--
+210803006 Stadtbredimus, Wandm  01118  01118                % 07889 RGTR--
+210803005 Stadtbredimus, Vinsm  01119  01119                % 07889 RGTR--
+210803003 Stadtbredimus, Schle  01119  01119                % 07889 RGTR--
+210801002 Greiveldange, Gemeng  01124  01124                % 07889 RGTR--
+210402001 Lenningen, Am Aker    01126  01126                % 07889 RGTR--
+210402002 Lenningen, Basilika   01127  01127                % 07889 RGTR--
+180305003 Niederdonven, Bei de  01133  01133                % 07889 RGTR--
+180305001 Niederdonven, Beim F  01134  01134                % 07889 RGTR--
+180305004 Niederdonven, Op der  01135  01135                % 07889 RGTR--
+180803004 Machtum, Ongkaf       01141  01141                % 07889 RGTR--
+180803003 Machtum, Gellebur     01142  01142                % 07889 RGTR--
+180803002 Machtum, Deisermille  01142  01142                % 07889 RGTR--
+180401005 Grevenmacher, Route   01143  01143                % 07889 RGTR--
+180401002 Grevenmacher, Enner   01144  01144                % 07889 RGTR--
+180401003 Grevenmacher, Gare r  01146                       % 07889 RGTR--
+*Z 07890 RGTR--                                             % 07890 RGTR--
+*L 342      210701006 180401003  01315  01346               % 07890 RGTR--
+*R 2 180401003 210701006 180401003  01315  01346            % 07890 RGTR--
+*G 020 210701006 180401003  01315  01346                    % 07890 RGTR--
+*A VE 210701006 180401003 000039  01315  01346              % 07890 RGTR--
+*I FD 210701006 180401003        0002048  01315  01346      % 07890 RGTR--
+210701006 Remich, Gare routièr         01315                % 07890 RGTR--
+210701008 Remich, Maatebierg    01316  01316                % 07890 RGTR--
+210701003 Remich, Caves St. Ma  01317  01317                % 07890 RGTR--
+210803006 Stadtbredimus, Wandm  01318  01318                % 07890 RGTR--
+210803005 Stadtbredimus, Vinsm  01319  01319                % 07890 RGTR--
+210803003 Stadtbredimus, Schle  01319  01319                % 07890 RGTR--
+210801002 Greiveldange, Gemeng  01324  01324                % 07890 RGTR--
+210402001 Lenningen, Am Aker    01326  01326                % 07890 RGTR--
+210402002 Lenningen, Basilika   01327  01327                % 07890 RGTR--
+180305003 Niederdonven, Bei de  01333  01333                % 07890 RGTR--
+180305001 Niederdonven, Beim F  01334  01334                % 07890 RGTR--
+180305004 Niederdonven, Op der  01335  01335                % 07890 RGTR--
+180803004 Machtum, Ongkaf       01341  01341                % 07890 RGTR--
+180803003 Machtum, Gellebur     01342  01342                % 07890 RGTR--
+180803002 Machtum, Deisermille  01342  01342                % 07890 RGTR--
+180401005 Grevenmacher, Route   01343  01343                % 07890 RGTR--
+180401002 Grevenmacher, Enner   01344  01344                % 07890 RGTR--
+180401003 Grevenmacher, Gare r  01346                       % 07890 RGTR--
+*Z 07891 RGTR--                                             % 07891 RGTR--
+*L 342      210701006 180401003  01515  01546               % 07891 RGTR--
+*R 2 180401003 210701006 180401003  01515  01546            % 07891 RGTR--
+*G 020 210701006 180401003  01515  01546                    % 07891 RGTR--
+*A VE 210701006 180401003 000039  01515  01546              % 07891 RGTR--
+*I FD 210701006 180401003        0002056  01515  01546      % 07891 RGTR--
+210701006 Remich, Gare routièr         01515                % 07891 RGTR--
+210701008 Remich, Maatebierg    01516  01516                % 07891 RGTR--
+210701003 Remich, Caves St. Ma  01517  01517                % 07891 RGTR--
+210803006 Stadtbredimus, Wandm  01518  01518                % 07891 RGTR--
+210803005 Stadtbredimus, Vinsm  01519  01519                % 07891 RGTR--
+210803003 Stadtbredimus, Schle  01519  01519                % 07891 RGTR--
+210801002 Greiveldange, Gemeng  01524  01524                % 07891 RGTR--
+210402001 Lenningen, Am Aker    01526  01526                % 07891 RGTR--
+210402002 Lenningen, Basilika   01527  01527                % 07891 RGTR--
+180305003 Niederdonven, Bei de  01533  01533                % 07891 RGTR--
+180305001 Niederdonven, Beim F  01534  01534                % 07891 RGTR--
+180305004 Niederdonven, Op der  01535  01535                % 07891 RGTR--
+180803004 Machtum, Ongkaf       01541  01541                % 07891 RGTR--
+180803003 Machtum, Gellebur     01542  01542                % 07891 RGTR--
+180803002 Machtum, Deisermille  01542  01542                % 07891 RGTR--
+180401005 Grevenmacher, Route   01543  01543                % 07891 RGTR--
+180401002 Grevenmacher, Enner   01544  01544                % 07891 RGTR--
+180401003 Grevenmacher, Gare r  01546                       % 07891 RGTR--
+*Z 07892 RGTR--                                             % 07892 RGTR--
+*L 342      210701006 180401003  01915  01946               % 07892 RGTR--
+*R 2 180401003 210701006 180401003  01915  01946            % 07892 RGTR--
+*G 020 210701006 180401003  01915  01946                    % 07892 RGTR--
+*A VE 210701006 180401003 000039  01915  01946              % 07892 RGTR--
+*I FD 210701006 180401003        0002057  01915  01946      % 07892 RGTR--
+210701006 Remich, Gare routièr         01915                % 07892 RGTR--
+210701008 Remich, Maatebierg    01916  01916                % 07892 RGTR--
+210701003 Remich, Caves St. Ma  01917  01917                % 07892 RGTR--
+210803006 Stadtbredimus, Wandm  01918  01918                % 07892 RGTR--
+210803005 Stadtbredimus, Vinsm  01919  01919                % 07892 RGTR--
+210803003 Stadtbredimus, Schle  01919  01919                % 07892 RGTR--
+210801002 Greiveldange, Gemeng  01924  01924                % 07892 RGTR--
+210402001 Lenningen, Am Aker    01926  01926                % 07892 RGTR--
+210402002 Lenningen, Basilika   01927  01927                % 07892 RGTR--
+180305003 Niederdonven, Bei de  01933  01933                % 07892 RGTR--
+180305001 Niederdonven, Beim F  01934  01934                % 07892 RGTR--
+180305004 Niederdonven, Op der  01935  01935                % 07892 RGTR--
+180803004 Machtum, Ongkaf       01941  01941                % 07892 RGTR--
+180803003 Machtum, Gellebur     01942  01942                % 07892 RGTR--
+180803002 Machtum, Deisermille  01942  01942                % 07892 RGTR--
+180401005 Grevenmacher, Route   01943  01943                % 07892 RGTR--
+180401002 Grevenmacher, Enner   01944  01944                % 07892 RGTR--
+180401003 Grevenmacher, Gare r  01946                       % 07892 RGTR--
+*Z 07893 RGTR--                                             % 07893 RGTR--
+*L 342      210701006 180401003  02115  02146               % 07893 RGTR--
+*R 2 180401003 210701006 180401003  02115  02146            % 07893 RGTR--
+*G 020 210701006 180401003  02115  02146                    % 07893 RGTR--
+*A VE 210701006 180401003 000039  02115  02146              % 07893 RGTR--
+*I FD 210701006 180401003        0002049  02115  02146      % 07893 RGTR--
+210701006 Remich, Gare routièr         02115                % 07893 RGTR--
+210701008 Remich, Maatebierg    02116  02116                % 07893 RGTR--
+210701003 Remich, Caves St. Ma  02117  02117                % 07893 RGTR--
+210803006 Stadtbredimus, Wandm  02118  02118                % 07893 RGTR--
+210803005 Stadtbredimus, Vinsm  02119  02119                % 07893 RGTR--
+210803003 Stadtbredimus, Schle  02119  02119                % 07893 RGTR--
+210801002 Greiveldange, Gemeng  02124  02124                % 07893 RGTR--
+210402001 Lenningen, Am Aker    02126  02126                % 07893 RGTR--
+210402002 Lenningen, Basilika   02127  02127                % 07893 RGTR--
+180305003 Niederdonven, Bei de  02133  02133                % 07893 RGTR--
+180305001 Niederdonven, Beim F  02134  02134                % 07893 RGTR--
+180305004 Niederdonven, Op der  02135  02135                % 07893 RGTR--
+180803004 Machtum, Ongkaf       02141  02141                % 07893 RGTR--
+180803003 Machtum, Gellebur     02142  02142                % 07893 RGTR--
+180803002 Machtum, Deisermille  02142  02142                % 07893 RGTR--
+180401005 Grevenmacher, Route   02143  02143                % 07893 RGTR--
+180401002 Grevenmacher, Enner   02144  02144                % 07893 RGTR--
+180401003 Grevenmacher, Gare r  02146                       % 07893 RGTR--
+*Z 07894 RGTR--                                             % 07894 RGTR--
+*L 342      210701006 180401003  00515  00546               % 07894 RGTR--
+*R 2 180401003 210701006 180401003  00515  00546            % 07894 RGTR--
+*G 020 210701006 180401003  00515  00546                    % 07894 RGTR--
+*A VE 210701006 180401003 000036  00515  00546              % 07894 RGTR--
+*I FD 210701006 180401003        0002385  00515  00546      % 07894 RGTR--
+210701006 Remich, Gare routièr         00515                % 07894 RGTR--
+210701008 Remich, Maatebierg    00516  00516                % 07894 RGTR--
+210701003 Remich, Caves St. Ma  00517  00517                % 07894 RGTR--
+210803006 Stadtbredimus, Wandm  00518  00518                % 07894 RGTR--
+210803005 Stadtbredimus, Vinsm  00519  00519                % 07894 RGTR--
+210803003 Stadtbredimus, Schle  00519  00519                % 07894 RGTR--
+210801002 Greiveldange, Gemeng  00524  00524                % 07894 RGTR--
+210402001 Lenningen, Am Aker    00526  00526                % 07894 RGTR--
+210402002 Lenningen, Basilika   00527  00527                % 07894 RGTR--
+180305003 Niederdonven, Bei de  00533  00533                % 07894 RGTR--
+180305001 Niederdonven, Beim F  00534  00534                % 07894 RGTR--
+180305004 Niederdonven, Op der  00535  00535                % 07894 RGTR--
+180803004 Machtum, Ongkaf       00541  00541                % 07894 RGTR--
+180803003 Machtum, Gellebur     00542  00542                % 07894 RGTR--
+180803002 Machtum, Deisermille  00542  00542                % 07894 RGTR--
+180401005 Grevenmacher, Route   00543  00543                % 07894 RGTR--
+180401002 Grevenmacher, Enner   00544  00544                % 07894 RGTR--
+180401003 Grevenmacher, Gare r  00546                       % 07894 RGTR--
+*Z 07895 RGTR--                                             % 07895 RGTR--
+*L 342      210701006 180401003  00615  00646               % 07895 RGTR--
+*R 2 180401003 210701006 180401003  00615  00646            % 07895 RGTR--
+*G 020 210701006 180401003  00615  00646                    % 07895 RGTR--
+*A VE 210701006 180401003 000036  00615  00646              % 07895 RGTR--
+*I FD 210701006 180401003        0002051  00615  00646      % 07895 RGTR--
+210701006 Remich, Gare routièr         00615                % 07895 RGTR--
+210701008 Remich, Maatebierg    00616  00616                % 07895 RGTR--
+210701003 Remich, Caves St. Ma  00617  00617                % 07895 RGTR--
+210803006 Stadtbredimus, Wandm  00618  00618                % 07895 RGTR--
+210803005 Stadtbredimus, Vinsm  00619  00619                % 07895 RGTR--
+210803003 Stadtbredimus, Schle  00619  00619                % 07895 RGTR--
+210801002 Greiveldange, Gemeng  00624  00624                % 07895 RGTR--
+210402001 Lenningen, Am Aker    00626  00626                % 07895 RGTR--
+210402002 Lenningen, Basilika   00627  00627                % 07895 RGTR--
+180305003 Niederdonven, Bei de  00633  00633                % 07895 RGTR--
+180305001 Niederdonven, Beim F  00634  00634                % 07895 RGTR--
+180305004 Niederdonven, Op der  00635  00635                % 07895 RGTR--
+180803004 Machtum, Ongkaf       00641  00641                % 07895 RGTR--
+180803003 Machtum, Gellebur     00642  00642                % 07895 RGTR--
+180803002 Machtum, Deisermille  00642  00642                % 07895 RGTR--
+180401005 Grevenmacher, Route   00643  00643                % 07895 RGTR--
+180401002 Grevenmacher, Enner   00644  00644                % 07895 RGTR--
+180401003 Grevenmacher, Gare r  00646                       % 07895 RGTR--
+*Z 07896 RGTR--                                             % 07896 RGTR--
+*L 342      210701006 180401003  01015  01046               % 07896 RGTR--
+*R 2 180401003 210701006 180401003  01015  01046            % 07896 RGTR--
+*G 020 210701006 180401003  01015  01046                    % 07896 RGTR--
+*A VE 210701006 180401003 000036  01015  01046              % 07896 RGTR--
+*I FD 210701006 180401003        0002047  01015  01046      % 07896 RGTR--
+210701006 Remich, Gare routièr         01015                % 07896 RGTR--
+210701008 Remich, Maatebierg    01016  01016                % 07896 RGTR--
+210701003 Remich, Caves St. Ma  01017  01017                % 07896 RGTR--
+210803006 Stadtbredimus, Wandm  01018  01018                % 07896 RGTR--
+210803005 Stadtbredimus, Vinsm  01019  01019                % 07896 RGTR--
+210803003 Stadtbredimus, Schle  01019  01019                % 07896 RGTR--
+210801002 Greiveldange, Gemeng  01024  01024                % 07896 RGTR--
+210402001 Lenningen, Am Aker    01026  01026                % 07896 RGTR--
+210402002 Lenningen, Basilika   01027  01027                % 07896 RGTR--
+180305003 Niederdonven, Bei de  01033  01033                % 07896 RGTR--
+180305001 Niederdonven, Beim F  01034  01034                % 07896 RGTR--
+180305004 Niederdonven, Op der  01035  01035                % 07896 RGTR--
+180803004 Machtum, Ongkaf       01041  01041                % 07896 RGTR--
+180803003 Machtum, Gellebur     01042  01042                % 07896 RGTR--
+180803002 Machtum, Deisermille  01042  01042                % 07896 RGTR--
+180401005 Grevenmacher, Route   01043  01043                % 07896 RGTR--
+180401002 Grevenmacher, Enner   01044  01044                % 07896 RGTR--
+180401003 Grevenmacher, Gare r  01046                       % 07896 RGTR--
+*Z 07897 RGTR--                                             % 07897 RGTR--
+*L 342      210701006 180401003  01215  01246               % 07897 RGTR--
+*R 2 180401003 210701006 180401003  01215  01246            % 07897 RGTR--
+*G 020 210701006 180401003  01215  01246                    % 07897 RGTR--
+*A VE 210701006 180401003 000036  01215  01246              % 07897 RGTR--
+*I FD 210701006 180401003        0002054  01215  01246      % 07897 RGTR--
+210701006 Remich, Gare routièr         01215                % 07897 RGTR--
+210701008 Remich, Maatebierg    01216  01216                % 07897 RGTR--
+210701003 Remich, Caves St. Ma  01217  01217                % 07897 RGTR--
+210803006 Stadtbredimus, Wandm  01218  01218                % 07897 RGTR--
+210803005 Stadtbredimus, Vinsm  01219  01219                % 07897 RGTR--
+210803003 Stadtbredimus, Schle  01219  01219                % 07897 RGTR--
+210801002 Greiveldange, Gemeng  01224  01224                % 07897 RGTR--
+210402001 Lenningen, Am Aker    01226  01226                % 07897 RGTR--
+210402002 Lenningen, Basilika   01227  01227                % 07897 RGTR--
+180305003 Niederdonven, Bei de  01233  01233                % 07897 RGTR--
+180305001 Niederdonven, Beim F  01234  01234                % 07897 RGTR--
+180305004 Niederdonven, Op der  01235  01235                % 07897 RGTR--
+180803004 Machtum, Ongkaf       01241  01241                % 07897 RGTR--
+180803003 Machtum, Gellebur     01242  01242                % 07897 RGTR--
+180803002 Machtum, Deisermille  01242  01242                % 07897 RGTR--
+180401005 Grevenmacher, Route   01243  01243                % 07897 RGTR--
+180401002 Grevenmacher, Enner   01244  01244                % 07897 RGTR--
+180401003 Grevenmacher, Gare r  01246                       % 07897 RGTR--
+*Z 07898 RGTR--                                             % 07898 RGTR--
+*L 342      210701006 180401003  01415  01446               % 07898 RGTR--
+*R 2 180401003 210701006 180401003  01415  01446            % 07898 RGTR--
+*G 020 210701006 180401003  01415  01446                    % 07898 RGTR--
+*A VE 210701006 180401003 000036  01415  01446              % 07898 RGTR--
+*I FD 210701006 180401003        0002055  01415  01446      % 07898 RGTR--
+210701006 Remich, Gare routièr         01415                % 07898 RGTR--
+210701008 Remich, Maatebierg    01416  01416                % 07898 RGTR--
+210701003 Remich, Caves St. Ma  01417  01417                % 07898 RGTR--
+210803006 Stadtbredimus, Wandm  01418  01418                % 07898 RGTR--
+210803005 Stadtbredimus, Vinsm  01419  01419                % 07898 RGTR--
+210803003 Stadtbredimus, Schle  01419  01419                % 07898 RGTR--
+210801002 Greiveldange, Gemeng  01424  01424                % 07898 RGTR--
+210402001 Lenningen, Am Aker    01426  01426                % 07898 RGTR--
+210402002 Lenningen, Basilika   01427  01427                % 07898 RGTR--
+180305003 Niederdonven, Bei de  01433  01433                % 07898 RGTR--
+180305001 Niederdonven, Beim F  01434  01434                % 07898 RGTR--
+180305004 Niederdonven, Op der  01435  01435                % 07898 RGTR--
+180803004 Machtum, Ongkaf       01441  01441                % 07898 RGTR--
+180803003 Machtum, Gellebur     01442  01442                % 07898 RGTR--
+180803002 Machtum, Deisermille  01442  01442                % 07898 RGTR--
+180401005 Grevenmacher, Route   01443  01443                % 07898 RGTR--
+180401002 Grevenmacher, Enner   01444  01444                % 07898 RGTR--
+180401003 Grevenmacher, Gare r  01446                       % 07898 RGTR--
+*Z 07899 RGTR--                                             % 07899 RGTR--
+*L 342      210701006 180401003  02015  02046               % 07899 RGTR--
+*R 2 180401003 210701006 180401003  02015  02046            % 07899 RGTR--
+*G 020 210701006 180401003  02015  02046                    % 07899 RGTR--
+*A VE 210701006 180401003 000036  02015  02046              % 07899 RGTR--
+*I FD 210701006 180401003        0002058  02015  02046      % 07899 RGTR--
+210701006 Remich, Gare routièr         02015                % 07899 RGTR--
+210701008 Remich, Maatebierg    02016  02016                % 07899 RGTR--
+210701003 Remich, Caves St. Ma  02017  02017                % 07899 RGTR--
+210803006 Stadtbredimus, Wandm  02018  02018                % 07899 RGTR--
+210803005 Stadtbredimus, Vinsm  02019  02019                % 07899 RGTR--
+210803003 Stadtbredimus, Schle  02019  02019                % 07899 RGTR--
+210801002 Greiveldange, Gemeng  02024  02024                % 07899 RGTR--
+210402001 Lenningen, Am Aker    02026  02026                % 07899 RGTR--
+210402002 Lenningen, Basilika   02027  02027                % 07899 RGTR--
+180305003 Niederdonven, Bei de  02033  02033                % 07899 RGTR--
+180305001 Niederdonven, Beim F  02034  02034                % 07899 RGTR--
+180305004 Niederdonven, Op der  02035  02035                % 07899 RGTR--
+180803004 Machtum, Ongkaf       02041  02041                % 07899 RGTR--
+180803003 Machtum, Gellebur     02042  02042                % 07899 RGTR--
+180803002 Machtum, Deisermille  02042  02042                % 07899 RGTR--
+180401005 Grevenmacher, Route   02043  02043                % 07899 RGTR--
+180401002 Grevenmacher, Enner   02044  02044                % 07899 RGTR--
+180401003 Grevenmacher, Gare r  02046                       % 07899 RGTR--
+*Z 07900 RGTR--                                             % 07900 RGTR--
+*L 342      210701006 180401003  02215  02246               % 07900 RGTR--
+*R 2 180401003 210701006 180401003  02215  02246            % 07900 RGTR--
+*G 020 210701006 180401003  02215  02246                    % 07900 RGTR--
+*A VE 210701006 180401003 000036  02215  02246              % 07900 RGTR--
+*I FD 210701006 180401003        0001439  02215  02246      % 07900 RGTR--
+210701006 Remich, Gare routièr         02215                % 07900 RGTR--
+210701008 Remich, Maatebierg    02216  02216                % 07900 RGTR--
+210701003 Remich, Caves St. Ma  02217  02217                % 07900 RGTR--
+210803006 Stadtbredimus, Wandm  02218  02218                % 07900 RGTR--
+210803005 Stadtbredimus, Vinsm  02219  02219                % 07900 RGTR--
+210803003 Stadtbredimus, Schle  02219  02219                % 07900 RGTR--
+210801002 Greiveldange, Gemeng  02224  02224                % 07900 RGTR--
+210402001 Lenningen, Am Aker    02226  02226                % 07900 RGTR--
+210402002 Lenningen, Basilika   02227  02227                % 07900 RGTR--
+180305003 Niederdonven, Bei de  02233  02233                % 07900 RGTR--
+180305001 Niederdonven, Beim F  02234  02234                % 07900 RGTR--
+180305004 Niederdonven, Op der  02235  02235                % 07900 RGTR--
+180803004 Machtum, Ongkaf       02241  02241                % 07900 RGTR--
+180803003 Machtum, Gellebur     02242  02242                % 07900 RGTR--
+180803002 Machtum, Deisermille  02242  02242                % 07900 RGTR--
+180401005 Grevenmacher, Route   02243  02243                % 07900 RGTR--
+180401002 Grevenmacher, Enner   02244  02244                % 07900 RGTR--
+180401003 Grevenmacher, Gare r  02246                       % 07900 RGTR--
+*Z 07901 RGTR--                                             % 07901 RGTR--
+*L 342      210701006 180401003  02315  02346               % 07901 RGTR--
+*R 2 180401003 210701006 180401003  02315  02346            % 07901 RGTR--
+*G 020 210701006 180401003  02315  02346                    % 07901 RGTR--
+*A VE 210701006 180401003 000036  02315  02346              % 07901 RGTR--
+*I FD 210701006 180401003        0002050  02315  02346      % 07901 RGTR--
+210701006 Remich, Gare routièr         02315                % 07901 RGTR--
+210701008 Remich, Maatebierg    02316  02316                % 07901 RGTR--
+210701003 Remich, Caves St. Ma  02317  02317                % 07901 RGTR--
+210803006 Stadtbredimus, Wandm  02318  02318                % 07901 RGTR--
+210803005 Stadtbredimus, Vinsm  02319  02319                % 07901 RGTR--
+210803003 Stadtbredimus, Schle  02319  02319                % 07901 RGTR--
+210801002 Greiveldange, Gemeng  02324  02324                % 07901 RGTR--
+210402001 Lenningen, Am Aker    02326  02326                % 07901 RGTR--
+210402002 Lenningen, Basilika   02327  02327                % 07901 RGTR--
+180305003 Niederdonven, Bei de  02333  02333                % 07901 RGTR--
+180305001 Niederdonven, Beim F  02334  02334                % 07901 RGTR--
+180305004 Niederdonven, Op der  02335  02335                % 07901 RGTR--
+180803004 Machtum, Ongkaf       02341  02341                % 07901 RGTR--
+180803003 Machtum, Gellebur     02342  02342                % 07901 RGTR--
+180803002 Machtum, Deisermille  02342  02342                % 07901 RGTR--
+180401005 Grevenmacher, Route   02343  02343                % 07901 RGTR--
+180401002 Grevenmacher, Enner   02344  02344                % 07901 RGTR--
+180401003 Grevenmacher, Gare r  02346                       % 07901 RGTR--
+*Z 07902 RGTR--                                             % 07902 RGTR--
+*L 342      210701006 180401003  01845  01916               % 07902 RGTR--
+*R 2 180401003 210701006 180401003  01845  01916            % 07902 RGTR--
+*G 020 210701006 180401003  01845  01916                    % 07902 RGTR--
+*A VE 210701006 180401003 000033  01845  01916              % 07902 RGTR--
+*I FD 210701006 180401003        0001339  01845  01916      % 07902 RGTR--
+210701006 Remich, Gare routièr         01845                % 07902 RGTR--
+210701008 Remich, Maatebierg    01846  01846                % 07902 RGTR--
+210701003 Remich, Caves St. Ma  01847  01847                % 07902 RGTR--
+210803006 Stadtbredimus, Wandm  01848  01848                % 07902 RGTR--
+210803005 Stadtbredimus, Vinsm  01849  01849                % 07902 RGTR--
+210803003 Stadtbredimus, Schle  01849  01849                % 07902 RGTR--
+210801002 Greiveldange, Gemeng  01854  01854                % 07902 RGTR--
+210402001 Lenningen, Am Aker    01856  01856                % 07902 RGTR--
+210402002 Lenningen, Basilika   01857  01857                % 07902 RGTR--
+180305003 Niederdonven, Bei de  01903  01903                % 07902 RGTR--
+180305001 Niederdonven, Beim F  01904  01904                % 07902 RGTR--
+180305004 Niederdonven, Op der  01905  01905                % 07902 RGTR--
+180803004 Machtum, Ongkaf       01911  01911                % 07902 RGTR--
+180803003 Machtum, Gellebur     01912  01912                % 07902 RGTR--
+180803002 Machtum, Deisermille  01912  01912                % 07902 RGTR--
+180401005 Grevenmacher, Route   01913  01913                % 07902 RGTR--
+180401002 Grevenmacher, Enner   01914  01914                % 07902 RGTR--
+180401003 Grevenmacher, Gare r  01916                       % 07902 RGTR--
+*Z 07903 RGTR--                                             % 07903 RGTR--
+*L 342      210701006 180401003  00715  00746               % 07903 RGTR--
+*R 2 180401003 210701006 180401003  00715  00746            % 07903 RGTR--
+*G 020 210701006 180401003  00715  00746                    % 07903 RGTR--
+*A VE 210701006 180401003 000018  00715  00746              % 07903 RGTR--
+*I FD 210701006 180401003        0002046  00715  00746      % 07903 RGTR--
+210701006 Remich, Gare routièr         00715                % 07903 RGTR--
+210701008 Remich, Maatebierg    00716  00716                % 07903 RGTR--
+210701003 Remich, Caves St. Ma  00717  00717                % 07903 RGTR--
+210803006 Stadtbredimus, Wandm  00718  00718                % 07903 RGTR--
+210803005 Stadtbredimus, Vinsm  00719  00719                % 07903 RGTR--
+210803003 Stadtbredimus, Schle  00719  00719                % 07903 RGTR--
+210801002 Greiveldange, Gemeng  00724  00724                % 07903 RGTR--
+210402001 Lenningen, Am Aker    00726  00726                % 07903 RGTR--
+210402002 Lenningen, Basilika   00727  00727                % 07903 RGTR--
+180305003 Niederdonven, Bei de  00733  00733                % 07903 RGTR--
+180305001 Niederdonven, Beim F  00734  00734                % 07903 RGTR--
+180305004 Niederdonven, Op der  00735  00735                % 07903 RGTR--
+180803004 Machtum, Ongkaf       00741  00741                % 07903 RGTR--
+180803003 Machtum, Gellebur     00742  00742                % 07903 RGTR--
+180803002 Machtum, Deisermille  00742  00742                % 07903 RGTR--
+180401005 Grevenmacher, Route   00743  00743                % 07903 RGTR--
+180401002 Grevenmacher, Enner   00744  00744                % 07903 RGTR--
+180401003 Grevenmacher, Gare r  00746                       % 07903 RGTR--
+*Z 07904 RGTR--                                             % 07904 RGTR--
+*L 342      210701006 180401003  01715  01746               % 07904 RGTR--
+*R 2 180401003 210701006 180401003  01715  01746            % 07904 RGTR--
+*G 020 210701006 180401003  01715  01746                    % 07904 RGTR--
+*A VE 210701006 180401003 000018  01715  01746              % 07904 RGTR--
+*I FD 210701006 180401003        0002061  01715  01746      % 07904 RGTR--
+210701006 Remich, Gare routièr         01715                % 07904 RGTR--
+210701008 Remich, Maatebierg    01716  01716                % 07904 RGTR--
+210701003 Remich, Caves St. Ma  01717  01717                % 07904 RGTR--
+210803006 Stadtbredimus, Wandm  01718  01718                % 07904 RGTR--
+210803005 Stadtbredimus, Vinsm  01719  01719                % 07904 RGTR--
+210803003 Stadtbredimus, Schle  01719  01719                % 07904 RGTR--
+210801002 Greiveldange, Gemeng  01724  01724                % 07904 RGTR--
+210402001 Lenningen, Am Aker    01726  01726                % 07904 RGTR--
+210402002 Lenningen, Basilika   01727  01727                % 07904 RGTR--
+180305003 Niederdonven, Bei de  01733  01733                % 07904 RGTR--
+180305001 Niederdonven, Beim F  01734  01734                % 07904 RGTR--
+180305004 Niederdonven, Op der  01735  01735                % 07904 RGTR--
+180803004 Machtum, Ongkaf       01741  01741                % 07904 RGTR--
+180803003 Machtum, Gellebur     01742  01742                % 07904 RGTR--
+180803002 Machtum, Deisermille  01742  01742                % 07904 RGTR--
+180401005 Grevenmacher, Route   01743  01743                % 07904 RGTR--
+180401002 Grevenmacher, Enner   01744  01744                % 07904 RGTR--
+180401003 Grevenmacher, Gare r  01746                       % 07904 RGTR--
+*Z 07905 RGTR--                                             % 07905 RGTR--
+*L 342      210701006 180401003  00715  00747               % 07905 RGTR--
+*R 2 180401003 210701006 180401003  00715  00747            % 07905 RGTR--
+*G 020 210701006 180401003  00715  00747                    % 07905 RGTR--
+*A VE 210701006 180401003 000036  00715  00747              % 07905 RGTR--
+*I FD 210701006 180401003        0002046  00715  00747      % 07905 RGTR--
+210701006 Remich, Gare routièr         00715                % 07905 RGTR--
+210701008 Remich, Maatebierg    00716  00716                % 07905 RGTR--
+210701003 Remich, Caves St. Ma  00717  00717                % 07905 RGTR--
+210803006 Stadtbredimus, Wandm  00719  00719                % 07905 RGTR--
+210803005 Stadtbredimus, Vinsm  00719  00719                % 07905 RGTR--
+210803003 Stadtbredimus, Schle  00720  00720                % 07905 RGTR--
+210801002 Greiveldange, Gemeng  00724  00724                % 07905 RGTR--
+210402001 Lenningen, Am Aker    00727  00727                % 07905 RGTR--
+210402002 Lenningen, Basilika   00727  00727                % 07905 RGTR--
+180305003 Niederdonven, Bei de  00734  00734                % 07905 RGTR--
+180305001 Niederdonven, Beim F  00735  00735                % 07905 RGTR--
+180305004 Niederdonven, Op der  00736  00736                % 07905 RGTR--
+180803004 Machtum, Ongkaf       00742  00742                % 07905 RGTR--
+180803003 Machtum, Gellebur     00743  00743                % 07905 RGTR--
+180803002 Machtum, Deisermille  00743  00743                % 07905 RGTR--
+180401005 Grevenmacher, Route   00744  00744                % 07905 RGTR--
+180401002 Grevenmacher, Enner   00746  00746                % 07905 RGTR--
+180401003 Grevenmacher, Gare r  00747                       % 07905 RGTR--
+*Z 07906 RGTR--                                             % 07906 RGTR--
+*L 342      210701006 180401003  00815  00847               % 07906 RGTR--
+*R 2 180401003 210701006 180401003  00815  00847            % 07906 RGTR--
+*G 020 210701006 180401003  00815  00847                    % 07906 RGTR--
+*A VE 210701006 180401003 000036  00815  00847              % 07906 RGTR--
+*I FD 210701006 180401003        0002052  00815  00847      % 07906 RGTR--
+210701006 Remich, Gare routièr         00815                % 07906 RGTR--
+210701008 Remich, Maatebierg    00816  00816                % 07906 RGTR--
+210701003 Remich, Caves St. Ma  00817  00817                % 07906 RGTR--
+210803006 Stadtbredimus, Wandm  00819  00819                % 07906 RGTR--
+210803005 Stadtbredimus, Vinsm  00819  00819                % 07906 RGTR--
+210803003 Stadtbredimus, Schle  00820  00820                % 07906 RGTR--
+210801002 Greiveldange, Gemeng  00824  00824                % 07906 RGTR--
+210402001 Lenningen, Am Aker    00827  00827                % 07906 RGTR--
+210402002 Lenningen, Basilika   00827  00827                % 07906 RGTR--
+180305003 Niederdonven, Bei de  00834  00834                % 07906 RGTR--
+180305001 Niederdonven, Beim F  00835  00835                % 07906 RGTR--
+180305004 Niederdonven, Op der  00836  00836                % 07906 RGTR--
+180803004 Machtum, Ongkaf       00842  00842                % 07906 RGTR--
+180803003 Machtum, Gellebur     00843  00843                % 07906 RGTR--
+180803002 Machtum, Deisermille  00843  00843                % 07906 RGTR--
+180401005 Grevenmacher, Route   00844  00844                % 07906 RGTR--
+180401002 Grevenmacher, Enner   00846  00846                % 07906 RGTR--
+180401003 Grevenmacher, Gare r  00847                       % 07906 RGTR--
+*Z 07907 RGTR--                                             % 07907 RGTR--
+*L 342      210701006 180401003  01615  01647               % 07907 RGTR--
+*R 2 180401003 210701006 180401003  01615  01647            % 07907 RGTR--
+*G 020 210701006 180401003  01615  01647                    % 07907 RGTR--
+*A VE 210701006 180401003 000036  01615  01647              % 07907 RGTR--
+*I FD 210701006 180401003        0002060  01615  01647      % 07907 RGTR--
+210701006 Remich, Gare routièr         01615                % 07907 RGTR--
+210701008 Remich, Maatebierg    01616  01616                % 07907 RGTR--
+210701003 Remich, Caves St. Ma  01617  01617                % 07907 RGTR--
+210803006 Stadtbredimus, Wandm  01619  01619                % 07907 RGTR--
+210803005 Stadtbredimus, Vinsm  01619  01619                % 07907 RGTR--
+210803003 Stadtbredimus, Schle  01620  01620                % 07907 RGTR--
+210801002 Greiveldange, Gemeng  01624  01624                % 07907 RGTR--
+210402001 Lenningen, Am Aker    01627  01627                % 07907 RGTR--
+210402002 Lenningen, Basilika   01627  01627                % 07907 RGTR--
+180305003 Niederdonven, Bei de  01634  01634                % 07907 RGTR--
+180305001 Niederdonven, Beim F  01635  01635                % 07907 RGTR--
+180305004 Niederdonven, Op der  01636  01636                % 07907 RGTR--
+180803004 Machtum, Ongkaf       01642  01642                % 07907 RGTR--
+180803003 Machtum, Gellebur     01643  01643                % 07907 RGTR--
+180803002 Machtum, Deisermille  01643  01643                % 07907 RGTR--
+180401005 Grevenmacher, Route   01644  01644                % 07907 RGTR--
+180401002 Grevenmacher, Enner   01646  01646                % 07907 RGTR--
+180401003 Grevenmacher, Gare r  01647                       % 07907 RGTR--
+*Z 07908 RGTR--                                             % 07908 RGTR--
+*L 342      210701006 180401003  01715  01747               % 07908 RGTR--
+*R 2 180401003 210701006 180401003  01715  01747            % 07908 RGTR--
+*G 020 210701006 180401003  01715  01747                    % 07908 RGTR--
+*A VE 210701006 180401003 000036  01715  01747              % 07908 RGTR--
+*I FD 210701006 180401003        0002061  01715  01747      % 07908 RGTR--
+210701006 Remich, Gare routièr         01715                % 07908 RGTR--
+210701008 Remich, Maatebierg    01716  01716                % 07908 RGTR--
+210701003 Remich, Caves St. Ma  01717  01717                % 07908 RGTR--
+210803006 Stadtbredimus, Wandm  01719  01719                % 07908 RGTR--
+210803005 Stadtbredimus, Vinsm  01719  01719                % 07908 RGTR--
+210803003 Stadtbredimus, Schle  01720  01720                % 07908 RGTR--
+210801002 Greiveldange, Gemeng  01724  01724                % 07908 RGTR--
+210402001 Lenningen, Am Aker    01727  01727                % 07908 RGTR--
+210402002 Lenningen, Basilika   01727  01727                % 07908 RGTR--
+180305003 Niederdonven, Bei de  01734  01734                % 07908 RGTR--
+180305001 Niederdonven, Beim F  01735  01735                % 07908 RGTR--
+180305004 Niederdonven, Op der  01736  01736                % 07908 RGTR--
+180803004 Machtum, Ongkaf       01742  01742                % 07908 RGTR--
+180803003 Machtum, Gellebur     01743  01743                % 07908 RGTR--
+180803002 Machtum, Deisermille  01743  01743                % 07908 RGTR--
+180401005 Grevenmacher, Route   01744  01744                % 07908 RGTR--
+180401002 Grevenmacher, Enner   01746  01746                % 07908 RGTR--
+180401003 Grevenmacher, Gare r  01747                       % 07908 RGTR--
+*Z 07909 RGTR--                                             % 07909 RGTR--
+*L 342      210701006 180401003  01815  01847               % 07909 RGTR--
+*R 2 180401003 210701006 180401003  01815  01847            % 07909 RGTR--
+*G 020 210701006 180401003  01815  01847                    % 07909 RGTR--
+*A VE 210701006 180401003 000036  01815  01847              % 07909 RGTR--
+*I FD 210701006 180401003        0002064  01815  01847      % 07909 RGTR--
+210701006 Remich, Gare routièr         01815                % 07909 RGTR--
+210701008 Remich, Maatebierg    01816  01816                % 07909 RGTR--
+210701003 Remich, Caves St. Ma  01817  01817                % 07909 RGTR--
+210803006 Stadtbredimus, Wandm  01819  01819                % 07909 RGTR--
+210803005 Stadtbredimus, Vinsm  01819  01819                % 07909 RGTR--
+210803003 Stadtbredimus, Schle  01820  01820                % 07909 RGTR--
+210801002 Greiveldange, Gemeng  01824  01824                % 07909 RGTR--
+210402001 Lenningen, Am Aker    01827  01827                % 07909 RGTR--
+210402002 Lenningen, Basilika   01827  01827                % 07909 RGTR--
+180305003 Niederdonven, Bei de  01834  01834                % 07909 RGTR--
+180305001 Niederdonven, Beim F  01835  01835                % 07909 RGTR--
+180305004 Niederdonven, Op der  01836  01836                % 07909 RGTR--
+180803004 Machtum, Ongkaf       01842  01842                % 07909 RGTR--
+180803003 Machtum, Gellebur     01843  01843                % 07909 RGTR--
+180803002 Machtum, Deisermille  01843  01843                % 07909 RGTR--
+180401005 Grevenmacher, Route   01844  01844                % 07909 RGTR--
+180401002 Grevenmacher, Enner   01846  01846                % 07909 RGTR--
+180401003 Grevenmacher, Gare r  01847                       % 07909 RGTR--
+*Z 07910 RGTR--                                             % 07910 RGTR--
+*L 342      210701006 180401003  00645  00717               % 07910 RGTR--
+*R 2 180401003 210701006 180401003  00645  00717            % 07910 RGTR--
+*G 020 210701006 180401003  00645  00717                    % 07910 RGTR--
+*A VE 210701006 180401003 000033  00645  00717              % 07910 RGTR--
+*I FD 210701006 180401003        0002336  00645  00717      % 07910 RGTR--
+210701006 Remich, Gare routièr         00645                % 07910 RGTR--
+210701008 Remich, Maatebierg    00646  00646                % 07910 RGTR--
+210701003 Remich, Caves St. Ma  00647  00647                % 07910 RGTR--
+210803006 Stadtbredimus, Wandm  00649  00649                % 07910 RGTR--
+210803005 Stadtbredimus, Vinsm  00649  00649                % 07910 RGTR--
+210803003 Stadtbredimus, Schle  00650  00650                % 07910 RGTR--
+210801002 Greiveldange, Gemeng  00654  00654                % 07910 RGTR--
+210402001 Lenningen, Am Aker    00657  00657                % 07910 RGTR--
+210402002 Lenningen, Basilika   00657  00657                % 07910 RGTR--
+180305003 Niederdonven, Bei de  00704  00704                % 07910 RGTR--
+180305001 Niederdonven, Beim F  00705  00705                % 07910 RGTR--
+180305004 Niederdonven, Op der  00706  00706                % 07910 RGTR--
+180803004 Machtum, Ongkaf       00712  00712                % 07910 RGTR--
+180803003 Machtum, Gellebur     00713  00713                % 07910 RGTR--
+180803002 Machtum, Deisermille  00713  00713                % 07910 RGTR--
+180401005 Grevenmacher, Route   00714  00714                % 07910 RGTR--
+180401002 Grevenmacher, Enner   00716  00716                % 07910 RGTR--
+180401003 Grevenmacher, Gare r  00717                       % 07910 RGTR--
+*Z 07911 RGTR--                                             % 07911 RGTR--
+*L 342      210701006 180401003  00745  00817               % 07911 RGTR--
+*R 2 180401003 210701006 180401003  00745  00817            % 07911 RGTR--
+*G 020 210701006 180401003  00745  00817                    % 07911 RGTR--
+*A VE 210701006 180401003 000033  00745  00817              % 07911 RGTR--
+*I FD 210701006 180401003        0002339  00745  00817      % 07911 RGTR--
+210701006 Remich, Gare routièr         00745                % 07911 RGTR--
+210701008 Remich, Maatebierg    00746  00746                % 07911 RGTR--
+210701003 Remich, Caves St. Ma  00747  00747                % 07911 RGTR--
+210803006 Stadtbredimus, Wandm  00749  00749                % 07911 RGTR--
+210803005 Stadtbredimus, Vinsm  00749  00749                % 07911 RGTR--
+210803003 Stadtbredimus, Schle  00750  00750                % 07911 RGTR--
+210801002 Greiveldange, Gemeng  00754  00754                % 07911 RGTR--
+210402001 Lenningen, Am Aker    00757  00757                % 07911 RGTR--
+210402002 Lenningen, Basilika   00757  00757                % 07911 RGTR--
+180305003 Niederdonven, Bei de  00804  00804                % 07911 RGTR--
+180305001 Niederdonven, Beim F  00805  00805                % 07911 RGTR--
+180305004 Niederdonven, Op der  00806  00806                % 07911 RGTR--
+180803004 Machtum, Ongkaf       00812  00812                % 07911 RGTR--
+180803003 Machtum, Gellebur     00813  00813                % 07911 RGTR--
+180803002 Machtum, Deisermille  00813  00813                % 07911 RGTR--
+180401005 Grevenmacher, Route   00814  00814                % 07911 RGTR--
+180401002 Grevenmacher, Enner   00816  00816                % 07911 RGTR--
+180401003 Grevenmacher, Gare r  00817                       % 07911 RGTR--
+*Z 07912 RGTR--                                             % 07912 RGTR--
+*L 342      210701006 180401003  00845  00917               % 07912 RGTR--
+*R 2 180401003 210701006 180401003  00845  00917            % 07912 RGTR--
+*G 020 210701006 180401003  00845  00917                    % 07912 RGTR--
+*A VE 210701006 180401003 000033  00845  00917              % 07912 RGTR--
+*I FD 210701006 180401003        0002340  00845  00917      % 07912 RGTR--
+210701006 Remich, Gare routièr         00845                % 07912 RGTR--
+210701008 Remich, Maatebierg    00846  00846                % 07912 RGTR--
+210701003 Remich, Caves St. Ma  00847  00847                % 07912 RGTR--
+210803006 Stadtbredimus, Wandm  00849  00849                % 07912 RGTR--
+210803005 Stadtbredimus, Vinsm  00849  00849                % 07912 RGTR--
+210803003 Stadtbredimus, Schle  00850  00850                % 07912 RGTR--
+210801002 Greiveldange, Gemeng  00854  00854                % 07912 RGTR--
+210402001 Lenningen, Am Aker    00857  00857                % 07912 RGTR--
+210402002 Lenningen, Basilika   00857  00857                % 07912 RGTR--
+180305003 Niederdonven, Bei de  00904  00904                % 07912 RGTR--
+180305001 Niederdonven, Beim F  00905  00905                % 07912 RGTR--
+180305004 Niederdonven, Op der  00906  00906                % 07912 RGTR--
+180803004 Machtum, Ongkaf       00912  00912                % 07912 RGTR--
+180803003 Machtum, Gellebur     00913  00913                % 07912 RGTR--
+180803002 Machtum, Deisermille  00913  00913                % 07912 RGTR--
+180401005 Grevenmacher, Route   00914  00914                % 07912 RGTR--
+180401002 Grevenmacher, Enner   00916  00916                % 07912 RGTR--
+180401003 Grevenmacher, Gare r  00917                       % 07912 RGTR--
+*Z 07913 RGTR--                                             % 07913 RGTR--
+*L 342      210701006 180401003  01645  01717               % 07913 RGTR--
+*R 2 180401003 210701006 180401003  01645  01717            % 07913 RGTR--
+*G 020 210701006 180401003  01645  01717                    % 07913 RGTR--
+*A VE 210701006 180401003 000033  01645  01717              % 07913 RGTR--
+*I FD 210701006 180401003        0001236  01645  01717      % 07913 RGTR--
+210701006 Remich, Gare routièr         01645                % 07913 RGTR--
+210701008 Remich, Maatebierg    01646  01646                % 07913 RGTR--
+210701003 Remich, Caves St. Ma  01647  01647                % 07913 RGTR--
+210803006 Stadtbredimus, Wandm  01649  01649                % 07913 RGTR--
+210803005 Stadtbredimus, Vinsm  01649  01649                % 07913 RGTR--
+210803003 Stadtbredimus, Schle  01650  01650                % 07913 RGTR--
+210801002 Greiveldange, Gemeng  01654  01654                % 07913 RGTR--
+210402001 Lenningen, Am Aker    01657  01657                % 07913 RGTR--
+210402002 Lenningen, Basilika   01657  01657                % 07913 RGTR--
+180305003 Niederdonven, Bei de  01704  01704                % 07913 RGTR--
+180305001 Niederdonven, Beim F  01705  01705                % 07913 RGTR--
+180305004 Niederdonven, Op der  01706  01706                % 07913 RGTR--
+180803004 Machtum, Ongkaf       01712  01712                % 07913 RGTR--
+180803003 Machtum, Gellebur     01713  01713                % 07913 RGTR--
+180803002 Machtum, Deisermille  01713  01713                % 07913 RGTR--
+180401005 Grevenmacher, Route   01714  01714                % 07913 RGTR--
+180401002 Grevenmacher, Enner   01716  01716                % 07913 RGTR--
+180401003 Grevenmacher, Gare r  01717                       % 07913 RGTR--
+*Z 07914 RGTR--                                             % 07914 RGTR--
+*L 342      210701006 180401003  01745  01817               % 07914 RGTR--
+*R 2 180401003 210701006 180401003  01745  01817            % 07914 RGTR--
+*G 020 210701006 180401003  01745  01817                    % 07914 RGTR--
+*A VE 210701006 180401003 000033  01745  01817              % 07914 RGTR--
+*I FD 210701006 180401003        0002063  01745  01817      % 07914 RGTR--
+210701006 Remich, Gare routièr         01745                % 07914 RGTR--
+210701008 Remich, Maatebierg    01746  01746                % 07914 RGTR--
+210701003 Remich, Caves St. Ma  01747  01747                % 07914 RGTR--
+210803006 Stadtbredimus, Wandm  01749  01749                % 07914 RGTR--
+210803005 Stadtbredimus, Vinsm  01749  01749                % 07914 RGTR--
+210803003 Stadtbredimus, Schle  01750  01750                % 07914 RGTR--
+210801002 Greiveldange, Gemeng  01754  01754                % 07914 RGTR--
+210402001 Lenningen, Am Aker    01757  01757                % 07914 RGTR--
+210402002 Lenningen, Basilika   01757  01757                % 07914 RGTR--
+180305003 Niederdonven, Bei de  01804  01804                % 07914 RGTR--
+180305001 Niederdonven, Beim F  01805  01805                % 07914 RGTR--
+180305004 Niederdonven, Op der  01806  01806                % 07914 RGTR--
+180803004 Machtum, Ongkaf       01812  01812                % 07914 RGTR--
+180803003 Machtum, Gellebur     01813  01813                % 07914 RGTR--
+180803002 Machtum, Deisermille  01813  01813                % 07914 RGTR--
+180401005 Grevenmacher, Route   01814  01814                % 07914 RGTR--
+180401002 Grevenmacher, Enner   01816  01816                % 07914 RGTR--
+180401003 Grevenmacher, Gare r  01817                       % 07914 RGTR--
+*Z 07915 RGTR--                                             % 07915 RGTR--
+*L 342      180401003 210701006  01005  01036               % 07915 RGTR--
+*R 1 210701006 180401003 210701006  01005  01036            % 07915 RGTR--
+*G 020 180401003 210701006  01005  01036                    % 07915 RGTR--
+*A VE 180401003 210701006 000040  01005  01036              % 07915 RGTR--
+*I FD 180401003 210701006        0002003  01005  01036      % 07915 RGTR--
+180401003 Grevenmacher, Gare r         01005                % 07915 RGTR--
+180401002 Grevenmacher, Enner   01006  01006                % 07915 RGTR--
+180401005 Grevenmacher, Route   01007  01007                % 07915 RGTR--
+180803002 Machtum, Deisermille  01008  01008                % 07915 RGTR--
+180803003 Machtum, Gellebur     01009  01009                % 07915 RGTR--
+180803001 Machtum, Bei Kallek'  01009  01009                % 07915 RGTR--
+180305004 Niederdonven, Op der  01015  01015                % 07915 RGTR--
+180305001 Niederdonven, Beim F  01016  01016                % 07915 RGTR--
+180305003 Niederdonven, Bei de  01017  01017                % 07915 RGTR--
+210402002 Lenningen, Basilika   01024  01024                % 07915 RGTR--
+210402001 Lenningen, Am Aker    01025  01025                % 07915 RGTR--
+210801002 Greiveldange, Gemeng  01027  01027                % 07915 RGTR--
+210803003 Stadtbredimus, Schle  01031  01031                % 07915 RGTR--
+210803005 Stadtbredimus, Vinsm  01032  01032                % 07915 RGTR--
+210803006 Stadtbredimus, Wandm  01032  01032                % 07915 RGTR--
+210701003 Remich, Caves St. Ma  01033  01033                % 07915 RGTR--
+210701008 Remich, Maatebierg    01034  01034                % 07915 RGTR--
+210701006 Remich, Gare routièr  01036                       % 07915 RGTR--
+*Z 07916 RGTR--                                             % 07916 RGTR--
+*L 342      180401003 210701006  01205  01236               % 07916 RGTR--
+*R 1 210701006 180401003 210701006  01205  01236            % 07916 RGTR--
+*G 020 180401003 210701006  01205  01236                    % 07916 RGTR--
+*A VE 180401003 210701006 000040  01205  01236              % 07916 RGTR--
+*I FD 180401003 210701006        0002006  01205  01236      % 07916 RGTR--
+180401003 Grevenmacher, Gare r         01205                % 07916 RGTR--
+180401002 Grevenmacher, Enner   01206  01206                % 07916 RGTR--
+180401005 Grevenmacher, Route   01207  01207                % 07916 RGTR--
+180803002 Machtum, Deisermille  01208  01208                % 07916 RGTR--
+180803003 Machtum, Gellebur     01209  01209                % 07916 RGTR--
+180803001 Machtum, Bei Kallek'  01209  01209                % 07916 RGTR--
+180305004 Niederdonven, Op der  01215  01215                % 07916 RGTR--
+180305001 Niederdonven, Beim F  01216  01216                % 07916 RGTR--
+180305003 Niederdonven, Bei de  01217  01217                % 07916 RGTR--
+210402002 Lenningen, Basilika   01224  01224                % 07916 RGTR--
+210402001 Lenningen, Am Aker    01225  01225                % 07916 RGTR--
+210801002 Greiveldange, Gemeng  01227  01227                % 07916 RGTR--
+210803003 Stadtbredimus, Schle  01231  01231                % 07916 RGTR--
+210803005 Stadtbredimus, Vinsm  01232  01232                % 07916 RGTR--
+210803006 Stadtbredimus, Wandm  01232  01232                % 07916 RGTR--
+210701003 Remich, Caves St. Ma  01233  01233                % 07916 RGTR--
+210701008 Remich, Maatebierg    01234  01234                % 07916 RGTR--
+210701006 Remich, Gare routièr  01236                       % 07916 RGTR--
+*Z 07917 RGTR--                                             % 07917 RGTR--
+*L 342      180401003 210701006  01405  01436               % 07917 RGTR--
+*R 1 210701006 180401003 210701006  01405  01436            % 07917 RGTR--
+*G 020 180401003 210701006  01405  01436                    % 07917 RGTR--
+*A VE 180401003 210701006 000040  01405  01436              % 07917 RGTR--
+*I FD 180401003 210701006        0002008  01405  01436      % 07917 RGTR--
+180401003 Grevenmacher, Gare r         01405                % 07917 RGTR--
+180401002 Grevenmacher, Enner   01406  01406                % 07917 RGTR--
+180401005 Grevenmacher, Route   01407  01407                % 07917 RGTR--
+180803002 Machtum, Deisermille  01408  01408                % 07917 RGTR--
+180803003 Machtum, Gellebur     01409  01409                % 07917 RGTR--
+180803001 Machtum, Bei Kallek'  01409  01409                % 07917 RGTR--
+180305004 Niederdonven, Op der  01415  01415                % 07917 RGTR--
+180305001 Niederdonven, Beim F  01416  01416                % 07917 RGTR--
+180305003 Niederdonven, Bei de  01417  01417                % 07917 RGTR--
+210402002 Lenningen, Basilika   01424  01424                % 07917 RGTR--
+210402001 Lenningen, Am Aker    01425  01425                % 07917 RGTR--
+210801002 Greiveldange, Gemeng  01427  01427                % 07917 RGTR--
+210803003 Stadtbredimus, Schle  01431  01431                % 07917 RGTR--
+210803005 Stadtbredimus, Vinsm  01432  01432                % 07917 RGTR--
+210803006 Stadtbredimus, Wandm  01432  01432                % 07917 RGTR--
+210701003 Remich, Caves St. Ma  01433  01433                % 07917 RGTR--
+210701008 Remich, Maatebierg    01434  01434                % 07917 RGTR--
+210701006 Remich, Gare routièr  01436                       % 07917 RGTR--
+*Z 07918 RGTR--                                             % 07918 RGTR--
+*L 342      180401003 210701006  01605  01636               % 07918 RGTR--
+*R 1 210701006 180401003 210701006  01605  01636            % 07918 RGTR--
+*G 020 180401003 210701006  01605  01636                    % 07918 RGTR--
+*A VE 180401003 210701006 000040  01605  01636              % 07918 RGTR--
+*I FD 180401003 210701006        0002031  01605  01636      % 07918 RGTR--
+180401003 Grevenmacher, Gare r         01605                % 07918 RGTR--
+180401002 Grevenmacher, Enner   01606  01606                % 07918 RGTR--
+180401005 Grevenmacher, Route   01607  01607                % 07918 RGTR--
+180803002 Machtum, Deisermille  01608  01608                % 07918 RGTR--
+180803003 Machtum, Gellebur     01609  01609                % 07918 RGTR--
+180803001 Machtum, Bei Kallek'  01609  01609                % 07918 RGTR--
+180305004 Niederdonven, Op der  01615  01615                % 07918 RGTR--
+180305001 Niederdonven, Beim F  01616  01616                % 07918 RGTR--
+180305003 Niederdonven, Bei de  01617  01617                % 07918 RGTR--
+210402002 Lenningen, Basilika   01624  01624                % 07918 RGTR--
+210402001 Lenningen, Am Aker    01625  01625                % 07918 RGTR--
+210801002 Greiveldange, Gemeng  01627  01627                % 07918 RGTR--
+210803003 Stadtbredimus, Schle  01631  01631                % 07918 RGTR--
+210803005 Stadtbredimus, Vinsm  01632  01632                % 07918 RGTR--
+210803006 Stadtbredimus, Wandm  01632  01632                % 07918 RGTR--
+210701003 Remich, Caves St. Ma  01633  01633                % 07918 RGTR--
+210701008 Remich, Maatebierg    01634  01634                % 07918 RGTR--
+210701006 Remich, Gare routièr  01636                       % 07918 RGTR--
+*Z 07919 RGTR--                                             % 07919 RGTR--
+*L 342      180401003 210701006  02005  02036               % 07919 RGTR--
+*R 1 210701006 180401003 210701006  02005  02036            % 07919 RGTR--
+*G 020 180401003 210701006  02005  02036                    % 07919 RGTR--
+*A VE 180401003 210701006 000040  02005  02036              % 07919 RGTR--
+*I FD 180401003 210701006        0002017  02005  02036      % 07919 RGTR--
+180401003 Grevenmacher, Gare r         02005                % 07919 RGTR--
+180401002 Grevenmacher, Enner   02006  02006                % 07919 RGTR--
+180401005 Grevenmacher, Route   02007  02007                % 07919 RGTR--
+180803002 Machtum, Deisermille  02008  02008                % 07919 RGTR--
+180803003 Machtum, Gellebur     02009  02009                % 07919 RGTR--
+180803001 Machtum, Bei Kallek'  02009  02009                % 07919 RGTR--
+180305004 Niederdonven, Op der  02015  02015                % 07919 RGTR--
+180305001 Niederdonven, Beim F  02016  02016                % 07919 RGTR--
+180305003 Niederdonven, Bei de  02017  02017                % 07919 RGTR--
+210402002 Lenningen, Basilika   02024  02024                % 07919 RGTR--
+210402001 Lenningen, Am Aker    02025  02025                % 07919 RGTR--
+210801002 Greiveldange, Gemeng  02027  02027                % 07919 RGTR--
+210803003 Stadtbredimus, Schle  02031  02031                % 07919 RGTR--
+210803005 Stadtbredimus, Vinsm  02032  02032                % 07919 RGTR--
+210803006 Stadtbredimus, Wandm  02032  02032                % 07919 RGTR--
+210701003 Remich, Caves St. Ma  02033  02033                % 07919 RGTR--
+210701008 Remich, Maatebierg    02034  02034                % 07919 RGTR--
+210701006 Remich, Gare routièr  02036                       % 07919 RGTR--
+*Z 07920 RGTR--                                             % 07920 RGTR--
+*L 342      180401003 210701006  02205  02236               % 07920 RGTR--
+*R 1 210701006 180401003 210701006  02205  02236            % 07920 RGTR--
+*G 020 180401003 210701006  02205  02236                    % 07920 RGTR--
+*A VE 180401003 210701006 000040  02205  02236              % 07920 RGTR--
+*I FD 180401003 210701006        0002018  02205  02236      % 07920 RGTR--
+180401003 Grevenmacher, Gare r         02205                % 07920 RGTR--
+180401002 Grevenmacher, Enner   02206  02206                % 07920 RGTR--
+180401005 Grevenmacher, Route   02207  02207                % 07920 RGTR--
+180803002 Machtum, Deisermille  02208  02208                % 07920 RGTR--
+180803003 Machtum, Gellebur     02209  02209                % 07920 RGTR--
+180803001 Machtum, Bei Kallek'  02209  02209                % 07920 RGTR--
+180305004 Niederdonven, Op der  02215  02215                % 07920 RGTR--
+180305001 Niederdonven, Beim F  02216  02216                % 07920 RGTR--
+180305003 Niederdonven, Bei de  02217  02217                % 07920 RGTR--
+210402002 Lenningen, Basilika   02224  02224                % 07920 RGTR--
+210402001 Lenningen, Am Aker    02225  02225                % 07920 RGTR--
+210801002 Greiveldange, Gemeng  02227  02227                % 07920 RGTR--
+210803003 Stadtbredimus, Schle  02231  02231                % 07920 RGTR--
+210803005 Stadtbredimus, Vinsm  02232  02232                % 07920 RGTR--
+210803006 Stadtbredimus, Wandm  02232  02232                % 07920 RGTR--
+210701003 Remich, Caves St. Ma  02233  02233                % 07920 RGTR--
+210701008 Remich, Maatebierg    02234  02234                % 07920 RGTR--
+210701006 Remich, Gare routièr  02236                       % 07920 RGTR--
+*Z 07921 RGTR--                                             % 07921 RGTR--
+*L 342      180401003 210701006  00505  00536               % 07921 RGTR--
+*R 1 210701006 180401003 210701006  00505  00536            % 07921 RGTR--
+*G 020 180401003 210701006  00505  00536                    % 07921 RGTR--
+*A VE 180401003 210701006 000038  00505  00536              % 07921 RGTR--
+*I FD 180401003 210701006        0002708  00505  00536      % 07921 RGTR--
+180401003 Grevenmacher, Gare r         00505                % 07921 RGTR--
+180401002 Grevenmacher, Enner   00506  00506                % 07921 RGTR--
+180401005 Grevenmacher, Route   00507  00507                % 07921 RGTR--
+180803002 Machtum, Deisermille  00508  00508                % 07921 RGTR--
+180803003 Machtum, Gellebur     00509  00509                % 07921 RGTR--
+180803001 Machtum, Bei Kallek'  00509  00509                % 07921 RGTR--
+180305004 Niederdonven, Op der  00515  00515                % 07921 RGTR--
+180305001 Niederdonven, Beim F  00516  00516                % 07921 RGTR--
+180305003 Niederdonven, Bei de  00517  00517                % 07921 RGTR--
+210402002 Lenningen, Basilika   00524  00524                % 07921 RGTR--
+210402001 Lenningen, Am Aker    00525  00525                % 07921 RGTR--
+210801002 Greiveldange, Gemeng  00527  00527                % 07921 RGTR--
+210803003 Stadtbredimus, Schle  00531  00531                % 07921 RGTR--
+210803005 Stadtbredimus, Vinsm  00532  00532                % 07921 RGTR--
+210803006 Stadtbredimus, Wandm  00532  00532                % 07921 RGTR--
+210701003 Remich, Caves St. Ma  00533  00533                % 07921 RGTR--
+210701008 Remich, Maatebierg    00534  00534                % 07921 RGTR--
+210701006 Remich, Gare routièr  00536                       % 07921 RGTR--
+*Z 07922 RGTR--                                             % 07922 RGTR--
+*L 342      180401003 210701006  00605  00636               % 07922 RGTR--
+*R 1 210701006 180401003 210701006  00605  00636            % 07922 RGTR--
+*G 020 180401003 210701006  00605  00636                    % 07922 RGTR--
+*A VE 180401003 210701006 000038  00605  00636              % 07922 RGTR--
+*I FD 180401003 210701006        0002026  00605  00636      % 07922 RGTR--
+180401003 Grevenmacher, Gare r         00605                % 07922 RGTR--
+180401002 Grevenmacher, Enner   00606  00606                % 07922 RGTR--
+180401005 Grevenmacher, Route   00607  00607                % 07922 RGTR--
+180803002 Machtum, Deisermille  00608  00608                % 07922 RGTR--
+180803003 Machtum, Gellebur     00609  00609                % 07922 RGTR--
+180803001 Machtum, Bei Kallek'  00609  00609                % 07922 RGTR--
+180305004 Niederdonven, Op der  00615  00615                % 07922 RGTR--
+180305001 Niederdonven, Beim F  00616  00616                % 07922 RGTR--
+180305003 Niederdonven, Bei de  00617  00617                % 07922 RGTR--
+210402002 Lenningen, Basilika   00624  00624                % 07922 RGTR--
+210402001 Lenningen, Am Aker    00625  00625                % 07922 RGTR--
+210801002 Greiveldange, Gemeng  00627  00627                % 07922 RGTR--
+210803003 Stadtbredimus, Schle  00631  00631                % 07922 RGTR--
+210803005 Stadtbredimus, Vinsm  00632  00632                % 07922 RGTR--
+210803006 Stadtbredimus, Wandm  00632  00632                % 07922 RGTR--
+210701003 Remich, Caves St. Ma  00633  00633                % 07922 RGTR--
+210701008 Remich, Maatebierg    00634  00634                % 07922 RGTR--
+210701006 Remich, Gare routièr  00636                       % 07922 RGTR--
+*Z 07923 RGTR--                                             % 07923 RGTR--
+*L 342      180401003 210701006  01105  01136               % 07923 RGTR--
+*R 1 210701006 180401003 210701006  01105  01136            % 07923 RGTR--
+*G 020 180401003 210701006  01105  01136                    % 07923 RGTR--
+*A VE 180401003 210701006 000038  01105  01136              % 07923 RGTR--
+*I FD 180401003 210701006        0002021  01105  01136      % 07923 RGTR--
+180401003 Grevenmacher, Gare r         01105                % 07923 RGTR--
+180401002 Grevenmacher, Enner   01106  01106                % 07923 RGTR--
+180401005 Grevenmacher, Route   01107  01107                % 07923 RGTR--
+180803002 Machtum, Deisermille  01108  01108                % 07923 RGTR--
+180803003 Machtum, Gellebur     01109  01109                % 07923 RGTR--
+180803001 Machtum, Bei Kallek'  01109  01109                % 07923 RGTR--
+180305004 Niederdonven, Op der  01115  01115                % 07923 RGTR--
+180305001 Niederdonven, Beim F  01116  01116                % 07923 RGTR--
+180305003 Niederdonven, Bei de  01117  01117                % 07923 RGTR--
+210402002 Lenningen, Basilika   01124  01124                % 07923 RGTR--
+210402001 Lenningen, Am Aker    01125  01125                % 07923 RGTR--
+210801002 Greiveldange, Gemeng  01127  01127                % 07923 RGTR--
+210803003 Stadtbredimus, Schle  01131  01131                % 07923 RGTR--
+210803005 Stadtbredimus, Vinsm  01132  01132                % 07923 RGTR--
+210803006 Stadtbredimus, Wandm  01132  01132                % 07923 RGTR--
+210701003 Remich, Caves St. Ma  01133  01133                % 07923 RGTR--
+210701008 Remich, Maatebierg    01134  01134                % 07923 RGTR--
+210701006 Remich, Gare routièr  01136                       % 07923 RGTR--
+*Z 07924 RGTR--                                             % 07924 RGTR--
+*L 342      180401003 210701006  01305  01336               % 07924 RGTR--
+*R 1 210701006 180401003 210701006  01305  01336            % 07924 RGTR--
+*G 020 180401003 210701006  01305  01336                    % 07924 RGTR--
+*A VE 180401003 210701006 000038  01305  01336              % 07924 RGTR--
+*I FD 180401003 210701006        0002022  01305  01336      % 07924 RGTR--
+180401003 Grevenmacher, Gare r         01305                % 07924 RGTR--
+180401002 Grevenmacher, Enner   01306  01306                % 07924 RGTR--
+180401005 Grevenmacher, Route   01307  01307                % 07924 RGTR--
+180803002 Machtum, Deisermille  01308  01308                % 07924 RGTR--
+180803003 Machtum, Gellebur     01309  01309                % 07924 RGTR--
+180803001 Machtum, Bei Kallek'  01309  01309                % 07924 RGTR--
+180305004 Niederdonven, Op der  01315  01315                % 07924 RGTR--
+180305001 Niederdonven, Beim F  01316  01316                % 07924 RGTR--
+180305003 Niederdonven, Bei de  01317  01317                % 07924 RGTR--
+210402002 Lenningen, Basilika   01324  01324                % 07924 RGTR--
+210402001 Lenningen, Am Aker    01325  01325                % 07924 RGTR--
+210801002 Greiveldange, Gemeng  01327  01327                % 07924 RGTR--
+210803003 Stadtbredimus, Schle  01331  01331                % 07924 RGTR--
+210803005 Stadtbredimus, Vinsm  01332  01332                % 07924 RGTR--
+210803006 Stadtbredimus, Wandm  01332  01332                % 07924 RGTR--
+210701003 Remich, Caves St. Ma  01333  01333                % 07924 RGTR--
+210701008 Remich, Maatebierg    01334  01334                % 07924 RGTR--
+210701006 Remich, Gare routièr  01336                       % 07924 RGTR--
+*Z 07925 RGTR--                                             % 07925 RGTR--
+*L 342      180401003 210701006  01505  01536               % 07925 RGTR--
+*R 1 210701006 180401003 210701006  01505  01536            % 07925 RGTR--
+*G 020 180401003 210701006  01505  01536                    % 07925 RGTR--
+*A VE 180401003 210701006 000038  01505  01536              % 07925 RGTR--
+*I FD 180401003 210701006        0002023  01505  01536      % 07925 RGTR--
+180401003 Grevenmacher, Gare r         01505                % 07925 RGTR--
+180401002 Grevenmacher, Enner   01506  01506                % 07925 RGTR--
+180401005 Grevenmacher, Route   01507  01507                % 07925 RGTR--
+180803002 Machtum, Deisermille  01508  01508                % 07925 RGTR--
+180803003 Machtum, Gellebur     01509  01509                % 07925 RGTR--
+180803001 Machtum, Bei Kallek'  01509  01509                % 07925 RGTR--
+180305004 Niederdonven, Op der  01515  01515                % 07925 RGTR--
+180305001 Niederdonven, Beim F  01516  01516                % 07925 RGTR--
+180305003 Niederdonven, Bei de  01517  01517                % 07925 RGTR--
+210402002 Lenningen, Basilika   01524  01524                % 07925 RGTR--
+210402001 Lenningen, Am Aker    01525  01525                % 07925 RGTR--
+210801002 Greiveldange, Gemeng  01527  01527                % 07925 RGTR--
+210803003 Stadtbredimus, Schle  01531  01531                % 07925 RGTR--
+210803005 Stadtbredimus, Vinsm  01532  01532                % 07925 RGTR--
+210803006 Stadtbredimus, Wandm  01532  01532                % 07925 RGTR--
+210701003 Remich, Caves St. Ma  01533  01533                % 07925 RGTR--
+210701008 Remich, Maatebierg    01534  01534                % 07925 RGTR--
+210701006 Remich, Gare routièr  01536                       % 07925 RGTR--
+*Z 07926 RGTR--                                             % 07926 RGTR--
+*L 342      180401003 210701006  01905  01936               % 07926 RGTR--
+*R 1 210701006 180401003 210701006  01905  01936            % 07926 RGTR--
+*G 020 180401003 210701006  01905  01936                    % 07926 RGTR--
+*A VE 180401003 210701006 000038  01905  01936              % 07926 RGTR--
+*I FD 180401003 210701006        0002012  01905  01936      % 07926 RGTR--
+180401003 Grevenmacher, Gare r         01905                % 07926 RGTR--
+180401002 Grevenmacher, Enner   01906  01906                % 07926 RGTR--
+180401005 Grevenmacher, Route   01907  01907                % 07926 RGTR--
+180803002 Machtum, Deisermille  01908  01908                % 07926 RGTR--
+180803003 Machtum, Gellebur     01909  01909                % 07926 RGTR--
+180803001 Machtum, Bei Kallek'  01909  01909                % 07926 RGTR--
+180305004 Niederdonven, Op der  01915  01915                % 07926 RGTR--
+180305001 Niederdonven, Beim F  01916  01916                % 07926 RGTR--
+180305003 Niederdonven, Bei de  01917  01917                % 07926 RGTR--
+210402002 Lenningen, Basilika   01924  01924                % 07926 RGTR--
+210402001 Lenningen, Am Aker    01925  01925                % 07926 RGTR--
+210801002 Greiveldange, Gemeng  01927  01927                % 07926 RGTR--
+210803003 Stadtbredimus, Schle  01931  01931                % 07926 RGTR--
+210803005 Stadtbredimus, Vinsm  01932  01932                % 07926 RGTR--
+210803006 Stadtbredimus, Wandm  01932  01932                % 07926 RGTR--
+210701003 Remich, Caves St. Ma  01933  01933                % 07926 RGTR--
+210701008 Remich, Maatebierg    01934  01934                % 07926 RGTR--
+210701006 Remich, Gare routièr  01936                       % 07926 RGTR--
+*Z 07927 RGTR--                                             % 07927 RGTR--
+*L 342      180401003 210701006  02105  02136               % 07927 RGTR--
+*R 1 210701006 180401003 210701006  02105  02136            % 07927 RGTR--
+*G 020 180401003 210701006  02105  02136                    % 07927 RGTR--
+*A VE 180401003 210701006 000038  02105  02136              % 07927 RGTR--
+*I FD 180401003 210701006        0002014  02105  02136      % 07927 RGTR--
+180401003 Grevenmacher, Gare r         02105                % 07927 RGTR--
+180401002 Grevenmacher, Enner   02106  02106                % 07927 RGTR--
+180401005 Grevenmacher, Route   02107  02107                % 07927 RGTR--
+180803002 Machtum, Deisermille  02108  02108                % 07927 RGTR--
+180803003 Machtum, Gellebur     02109  02109                % 07927 RGTR--
+180803001 Machtum, Bei Kallek'  02109  02109                % 07927 RGTR--
+180305004 Niederdonven, Op der  02115  02115                % 07927 RGTR--
+180305001 Niederdonven, Beim F  02116  02116                % 07927 RGTR--
+180305003 Niederdonven, Bei de  02117  02117                % 07927 RGTR--
+210402002 Lenningen, Basilika   02124  02124                % 07927 RGTR--
+210402001 Lenningen, Am Aker    02125  02125                % 07927 RGTR--
+210801002 Greiveldange, Gemeng  02127  02127                % 07927 RGTR--
+210803003 Stadtbredimus, Schle  02131  02131                % 07927 RGTR--
+210803005 Stadtbredimus, Vinsm  02132  02132                % 07927 RGTR--
+210803006 Stadtbredimus, Wandm  02132  02132                % 07927 RGTR--
+210701003 Remich, Caves St. Ma  02133  02133                % 07927 RGTR--
+210701008 Remich, Maatebierg    02134  02134                % 07927 RGTR--
+210701006 Remich, Gare routièr  02136                       % 07927 RGTR--
+*Z 07928 RGTR--                                             % 07928 RGTR--
+*L 342      180401003 210701006  02305  02336               % 07928 RGTR--
+*R 1 210701006 180401003 210701006  02305  02336            % 07928 RGTR--
+*G 020 180401003 210701006  02305  02336                    % 07928 RGTR--
+*A VE 180401003 210701006 000038  02305  02336              % 07928 RGTR--
+*I FD 180401003 210701006        0002016  02305  02336      % 07928 RGTR--
+180401003 Grevenmacher, Gare r         02305                % 07928 RGTR--
+180401002 Grevenmacher, Enner   02306  02306                % 07928 RGTR--
+180401005 Grevenmacher, Route   02307  02307                % 07928 RGTR--
+180803002 Machtum, Deisermille  02308  02308                % 07928 RGTR--
+180803003 Machtum, Gellebur     02309  02309                % 07928 RGTR--
+180803001 Machtum, Bei Kallek'  02309  02309                % 07928 RGTR--
+180305004 Niederdonven, Op der  02315  02315                % 07928 RGTR--
+180305001 Niederdonven, Beim F  02316  02316                % 07928 RGTR--
+180305003 Niederdonven, Bei de  02317  02317                % 07928 RGTR--
+210402002 Lenningen, Basilika   02324  02324                % 07928 RGTR--
+210402001 Lenningen, Am Aker    02325  02325                % 07928 RGTR--
+210801002 Greiveldange, Gemeng  02327  02327                % 07928 RGTR--
+210803003 Stadtbredimus, Schle  02331  02331                % 07928 RGTR--
+210803005 Stadtbredimus, Vinsm  02332  02332                % 07928 RGTR--
+210803006 Stadtbredimus, Wandm  02332  02332                % 07928 RGTR--
+210701003 Remich, Caves St. Ma  02333  02333                % 07928 RGTR--
+210701008 Remich, Maatebierg    02334  02334                % 07928 RGTR--
+210701006 Remich, Gare routièr  02336                       % 07928 RGTR--
+*Z 07929 RGTR--                                             % 07929 RGTR--
+*L 342      180401003 210701006  00805  00836               % 07929 RGTR--
+*R 1 210701006 180401003 210701006  00805  00836            % 07929 RGTR--
+*G 020 180401003 210701006  00805  00836                    % 07929 RGTR--
+*A VE 180401003 210701006 000016  00805  00836              % 07929 RGTR--
+*I FD 180401003 210701006        0002001  00805  00836      % 07929 RGTR--
+180401003 Grevenmacher, Gare r         00805                % 07929 RGTR--
+180401002 Grevenmacher, Enner   00806  00806                % 07929 RGTR--
+180401005 Grevenmacher, Route   00807  00807                % 07929 RGTR--
+180803002 Machtum, Deisermille  00808  00808                % 07929 RGTR--
+180803003 Machtum, Gellebur     00809  00809                % 07929 RGTR--
+180803001 Machtum, Bei Kallek'  00809  00809                % 07929 RGTR--
+180305004 Niederdonven, Op der  00815  00815                % 07929 RGTR--
+180305001 Niederdonven, Beim F  00816  00816                % 07929 RGTR--
+180305003 Niederdonven, Bei de  00817  00817                % 07929 RGTR--
+210402002 Lenningen, Basilika   00824  00824                % 07929 RGTR--
+210402001 Lenningen, Am Aker    00825  00825                % 07929 RGTR--
+210801002 Greiveldange, Gemeng  00827  00827                % 07929 RGTR--
+210803003 Stadtbredimus, Schle  00831  00831                % 07929 RGTR--
+210803005 Stadtbredimus, Vinsm  00832  00832                % 07929 RGTR--
+210803006 Stadtbredimus, Wandm  00832  00832                % 07929 RGTR--
+210701003 Remich, Caves St. Ma  00833  00833                % 07929 RGTR--
+210701008 Remich, Maatebierg    00834  00834                % 07929 RGTR--
+210701006 Remich, Gare routièr  00836                       % 07929 RGTR--
+*Z 07930 RGTR--                                             % 07930 RGTR--
+*L 342      180401003 210701006  01805  01836               % 07930 RGTR--
+*R 1 210701006 180401003 210701006  01805  01836            % 07930 RGTR--
+*G 020 180401003 210701006  01805  01836                    % 07930 RGTR--
+*A VE 180401003 210701006 000016  01805  01836              % 07930 RGTR--
+*I FD 180401003 210701006        0002033  01805  01836      % 07930 RGTR--
+180401003 Grevenmacher, Gare r         01805                % 07930 RGTR--
+180401002 Grevenmacher, Enner   01806  01806                % 07930 RGTR--
+180401005 Grevenmacher, Route   01807  01807                % 07930 RGTR--
+180803002 Machtum, Deisermille  01808  01808                % 07930 RGTR--
+180803003 Machtum, Gellebur     01809  01809                % 07930 RGTR--
+180803001 Machtum, Bei Kallek'  01809  01809                % 07930 RGTR--
+180305004 Niederdonven, Op der  01815  01815                % 07930 RGTR--
+180305001 Niederdonven, Beim F  01816  01816                % 07930 RGTR--
+180305003 Niederdonven, Bei de  01817  01817                % 07930 RGTR--
+210402002 Lenningen, Basilika   01824  01824                % 07930 RGTR--
+210402001 Lenningen, Am Aker    01825  01825                % 07930 RGTR--
+210801002 Greiveldange, Gemeng  01827  01827                % 07930 RGTR--
+210803003 Stadtbredimus, Schle  01831  01831                % 07930 RGTR--
+210803005 Stadtbredimus, Vinsm  01832  01832                % 07930 RGTR--
+210803006 Stadtbredimus, Wandm  01832  01832                % 07930 RGTR--
+210701003 Remich, Caves St. Ma  01833  01833                % 07930 RGTR--
+210701008 Remich, Maatebierg    01834  01834                % 07930 RGTR--
+210701006 Remich, Gare routièr  01836                       % 07930 RGTR--
+*Z 07931 RGTR--                                             % 07931 RGTR--
+*L 342      180401003 210701006  01835  01906               % 07931 RGTR--
+*R 1 210701006 180401003 210701006  01835  01906            % 07931 RGTR--
+*G 020 180401003 210701006  01835  01906                    % 07931 RGTR--
+*A VE 180401003 210701006 000034  01835  01906              % 07931 RGTR--
+*I FD 180401003 210701006        0002011  01835  01906      % 07931 RGTR--
+180401003 Grevenmacher, Gare r         01835                % 07931 RGTR--
+180401002 Grevenmacher, Enner   01836  01836                % 07931 RGTR--
+180401005 Grevenmacher, Route   01837  01837                % 07931 RGTR--
+180803002 Machtum, Deisermille  01838  01838                % 07931 RGTR--
+180803003 Machtum, Gellebur     01839  01839                % 07931 RGTR--
+180803001 Machtum, Bei Kallek'  01839  01839                % 07931 RGTR--
+180305004 Niederdonven, Op der  01845  01845                % 07931 RGTR--
+180305001 Niederdonven, Beim F  01846  01846                % 07931 RGTR--
+180305003 Niederdonven, Bei de  01847  01847                % 07931 RGTR--
+210402002 Lenningen, Basilika   01854  01854                % 07931 RGTR--
+210402001 Lenningen, Am Aker    01855  01855                % 07931 RGTR--
+210801002 Greiveldange, Gemeng  01857  01857                % 07931 RGTR--
+210803003 Stadtbredimus, Schle  01901  01901                % 07931 RGTR--
+210803005 Stadtbredimus, Vinsm  01902  01902                % 07931 RGTR--
+210803006 Stadtbredimus, Wandm  01902  01902                % 07931 RGTR--
+210701003 Remich, Caves St. Ma  01903  01903                % 07931 RGTR--
+210701008 Remich, Maatebierg    01904  01904                % 07931 RGTR--
+210701006 Remich, Gare routièr  01906                       % 07931 RGTR--
+*Z 07932 RGTR--                                             % 07932 RGTR--
+*L 342      180401003 210701006  00705  00737               % 07932 RGTR--
+*R 1 210701006 180401003 210701006  00705  00737            % 07932 RGTR--
+*G 020 180401003 210701006  00705  00737                    % 07932 RGTR--
+*A VE 180401003 210701006 000038  00705  00737              % 07932 RGTR--
+*I FD 180401003 210701006        0002027  00705  00737      % 07932 RGTR--
+180401003 Grevenmacher, Gare r         00705                % 07932 RGTR--
+180401002 Grevenmacher, Enner   00706  00706                % 07932 RGTR--
+180401005 Grevenmacher, Route   00707  00707                % 07932 RGTR--
+180803002 Machtum, Deisermille  00708  00708                % 07932 RGTR--
+180803003 Machtum, Gellebur     00709  00709                % 07932 RGTR--
+180803001 Machtum, Bei Kallek'  00710  00710                % 07932 RGTR--
+180305004 Niederdonven, Op der  00716  00716                % 07932 RGTR--
+180305001 Niederdonven, Beim F  00716  00716                % 07932 RGTR--
+180305003 Niederdonven, Bei de  00717  00717                % 07932 RGTR--
+210402002 Lenningen, Basilika   00724  00724                % 07932 RGTR--
+210402001 Lenningen, Am Aker    00725  00725                % 07932 RGTR--
+210801002 Greiveldange, Gemeng  00728  00728                % 07932 RGTR--
+210803003 Stadtbredimus, Schle  00731  00731                % 07932 RGTR--
+210803005 Stadtbredimus, Vinsm  00732  00732                % 07932 RGTR--
+210803006 Stadtbredimus, Wandm  00733  00733                % 07932 RGTR--
+210701003 Remich, Caves St. Ma  00734  00734                % 07932 RGTR--
+210701008 Remich, Maatebierg    00735  00735                % 07932 RGTR--
+210701006 Remich, Gare routièr  00737                       % 07932 RGTR--
+*Z 07933 RGTR--                                             % 07933 RGTR--
+*L 342      180401003 210701006  00805  00837               % 07933 RGTR--
+*R 1 210701006 180401003 210701006  00805  00837            % 07933 RGTR--
+*G 020 180401003 210701006  00805  00837                    % 07933 RGTR--
+*A VE 180401003 210701006 000038  00805  00837              % 07933 RGTR--
+*I FD 180401003 210701006        0002001  00805  00837      % 07933 RGTR--
+180401003 Grevenmacher, Gare r         00805                % 07933 RGTR--
+180401002 Grevenmacher, Enner   00806  00806                % 07933 RGTR--
+180401005 Grevenmacher, Route   00807  00807                % 07933 RGTR--
+180803002 Machtum, Deisermille  00808  00808                % 07933 RGTR--
+180803003 Machtum, Gellebur     00809  00809                % 07933 RGTR--
+180803001 Machtum, Bei Kallek'  00810  00810                % 07933 RGTR--
+180305004 Niederdonven, Op der  00816  00816                % 07933 RGTR--
+180305001 Niederdonven, Beim F  00816  00816                % 07933 RGTR--
+180305003 Niederdonven, Bei de  00817  00817                % 07933 RGTR--
+210402002 Lenningen, Basilika   00824  00824                % 07933 RGTR--
+210402001 Lenningen, Am Aker    00825  00825                % 07933 RGTR--
+210801002 Greiveldange, Gemeng  00828  00828                % 07933 RGTR--
+210803003 Stadtbredimus, Schle  00831  00831                % 07933 RGTR--
+210803005 Stadtbredimus, Vinsm  00832  00832                % 07933 RGTR--
+210803006 Stadtbredimus, Wandm  00833  00833                % 07933 RGTR--
+210701003 Remich, Caves St. Ma  00834  00834                % 07933 RGTR--
+210701008 Remich, Maatebierg    00835  00835                % 07933 RGTR--
+210701006 Remich, Gare routièr  00837                       % 07933 RGTR--
+*Z 07934 RGTR--                                             % 07934 RGTR--
+*L 342      180401003 210701006  00905  00937               % 07934 RGTR--
+*R 1 210701006 180401003 210701006  00905  00937            % 07934 RGTR--
+*G 020 180401003 210701006  00905  00937                    % 07934 RGTR--
+*A VE 180401003 210701006 000038  00905  00937              % 07934 RGTR--
+*I FD 180401003 210701006        0002020  00905  00937      % 07934 RGTR--
+180401003 Grevenmacher, Gare r         00905                % 07934 RGTR--
+180401002 Grevenmacher, Enner   00906  00906                % 07934 RGTR--
+180401005 Grevenmacher, Route   00907  00907                % 07934 RGTR--
+180803002 Machtum, Deisermille  00908  00908                % 07934 RGTR--
+180803003 Machtum, Gellebur     00909  00909                % 07934 RGTR--
+180803001 Machtum, Bei Kallek'  00910  00910                % 07934 RGTR--
+180305004 Niederdonven, Op der  00916  00916                % 07934 RGTR--
+180305001 Niederdonven, Beim F  00916  00916                % 07934 RGTR--
+180305003 Niederdonven, Bei de  00917  00917                % 07934 RGTR--
+210402002 Lenningen, Basilika   00924  00924                % 07934 RGTR--
+210402001 Lenningen, Am Aker    00925  00925                % 07934 RGTR--
+210801002 Greiveldange, Gemeng  00928  00928                % 07934 RGTR--
+210803003 Stadtbredimus, Schle  00931  00931                % 07934 RGTR--
+210803005 Stadtbredimus, Vinsm  00932  00932                % 07934 RGTR--
+210803006 Stadtbredimus, Wandm  00933  00933                % 07934 RGTR--
+210701003 Remich, Caves St. Ma  00934  00934                % 07934 RGTR--
+210701008 Remich, Maatebierg    00935  00935                % 07934 RGTR--
+210701006 Remich, Gare routièr  00937                       % 07934 RGTR--
+*Z 07935 RGTR--                                             % 07935 RGTR--
+*L 342      180401003 210701006  01705  01737               % 07935 RGTR--
+*R 1 210701006 180401003 210701006  01705  01737            % 07935 RGTR--
+*G 020 180401003 210701006  01705  01737                    % 07935 RGTR--
+*A VE 180401003 210701006 000038  01705  01737              % 07935 RGTR--
+*I FD 180401003 210701006        0002032  01705  01737      % 07935 RGTR--
+180401003 Grevenmacher, Gare r         01705                % 07935 RGTR--
+180401002 Grevenmacher, Enner   01706  01706                % 07935 RGTR--
+180401005 Grevenmacher, Route   01707  01707                % 07935 RGTR--
+180803002 Machtum, Deisermille  01708  01708                % 07935 RGTR--
+180803003 Machtum, Gellebur     01709  01709                % 07935 RGTR--
+180803001 Machtum, Bei Kallek'  01710  01710                % 07935 RGTR--
+180305004 Niederdonven, Op der  01716  01716                % 07935 RGTR--
+180305001 Niederdonven, Beim F  01716  01716                % 07935 RGTR--
+180305003 Niederdonven, Bei de  01717  01717                % 07935 RGTR--
+210402002 Lenningen, Basilika   01724  01724                % 07935 RGTR--
+210402001 Lenningen, Am Aker    01725  01725                % 07935 RGTR--
+210801002 Greiveldange, Gemeng  01728  01728                % 07935 RGTR--
+210803003 Stadtbredimus, Schle  01731  01731                % 07935 RGTR--
+210803005 Stadtbredimus, Vinsm  01732  01732                % 07935 RGTR--
+210803006 Stadtbredimus, Wandm  01733  01733                % 07935 RGTR--
+210701003 Remich, Caves St. Ma  01734  01734                % 07935 RGTR--
+210701008 Remich, Maatebierg    01735  01735                % 07935 RGTR--
+210701006 Remich, Gare routièr  01737                       % 07935 RGTR--
+*Z 07936 RGTR--                                             % 07936 RGTR--
+*L 342      180401003 210701006  01805  01837               % 07936 RGTR--
+*R 1 210701006 180401003 210701006  01805  01837            % 07936 RGTR--
+*G 020 180401003 210701006  01805  01837                    % 07936 RGTR--
+*A VE 180401003 210701006 000038  01805  01837              % 07936 RGTR--
+*I FD 180401003 210701006        0002033  01805  01837      % 07936 RGTR--
+180401003 Grevenmacher, Gare r         01805                % 07936 RGTR--
+180401002 Grevenmacher, Enner   01806  01806                % 07936 RGTR--
+180401005 Grevenmacher, Route   01807  01807                % 07936 RGTR--
+180803002 Machtum, Deisermille  01808  01808                % 07936 RGTR--
+180803003 Machtum, Gellebur     01809  01809                % 07936 RGTR--
+180803001 Machtum, Bei Kallek'  01810  01810                % 07936 RGTR--
+180305004 Niederdonven, Op der  01816  01816                % 07936 RGTR--
+180305001 Niederdonven, Beim F  01816  01816                % 07936 RGTR--
+180305003 Niederdonven, Bei de  01817  01817                % 07936 RGTR--
+210402002 Lenningen, Basilika   01824  01824                % 07936 RGTR--
+210402001 Lenningen, Am Aker    01825  01825                % 07936 RGTR--
+210801002 Greiveldange, Gemeng  01828  01828                % 07936 RGTR--
+210803003 Stadtbredimus, Schle  01831  01831                % 07936 RGTR--
+210803005 Stadtbredimus, Vinsm  01832  01832                % 07936 RGTR--
+210803006 Stadtbredimus, Wandm  01833  01833                % 07936 RGTR--
+210701003 Remich, Caves St. Ma  01834  01834                % 07936 RGTR--
+210701008 Remich, Maatebierg    01835  01835                % 07936 RGTR--
+210701006 Remich, Gare routièr  01837                       % 07936 RGTR--
+*Z 07937 RGTR--                                             % 07937 RGTR--
+*L 342      180401003 210701006  00635  00707               % 07937 RGTR--
+*R 1 210701006 180401003 210701006  00635  00707            % 07937 RGTR--
+*G 020 180401003 210701006  00635  00707                    % 07937 RGTR--
+*A VE 180401003 210701006 000034  00635  00707              % 07937 RGTR--
+*I FD 180401003 210701006        0002019  00635  00707      % 07937 RGTR--
+180401003 Grevenmacher, Gare r         00635                % 07937 RGTR--
+180401002 Grevenmacher, Enner   00636  00636                % 07937 RGTR--
+180401005 Grevenmacher, Route   00637  00637                % 07937 RGTR--
+180803002 Machtum, Deisermille  00638  00638                % 07937 RGTR--
+180803003 Machtum, Gellebur     00639  00639                % 07937 RGTR--
+180803001 Machtum, Bei Kallek'  00640  00640                % 07937 RGTR--
+180305004 Niederdonven, Op der  00646  00646                % 07937 RGTR--
+180305001 Niederdonven, Beim F  00646  00646                % 07937 RGTR--
+180305003 Niederdonven, Bei de  00647  00647                % 07937 RGTR--
+210402002 Lenningen, Basilika   00654  00654                % 07937 RGTR--
+210402001 Lenningen, Am Aker    00655  00655                % 07937 RGTR--
+210801002 Greiveldange, Gemeng  00658  00658                % 07937 RGTR--
+210803003 Stadtbredimus, Schle  00701  00701                % 07937 RGTR--
+210803005 Stadtbredimus, Vinsm  00702  00702                % 07937 RGTR--
+210803006 Stadtbredimus, Wandm  00703  00703                % 07937 RGTR--
+210701003 Remich, Caves St. Ma  00704  00704                % 07937 RGTR--
+210701008 Remich, Maatebierg    00705  00705                % 07937 RGTR--
+210701006 Remich, Gare routièr  00707                       % 07937 RGTR--
+*Z 07938 RGTR--                                             % 07938 RGTR--
+*L 342      180401003 210701006  00735  00807               % 07938 RGTR--
+*R 1 210701006 180401003 210701006  00735  00807            % 07938 RGTR--
+*G 020 180401003 210701006  00735  00807                    % 07938 RGTR--
+*A VE 180401003 210701006 000034  00735  00807              % 07938 RGTR--
+*I FD 180401003 210701006        0002000  00735  00807      % 07938 RGTR--
+180401003 Grevenmacher, Gare r         00735                % 07938 RGTR--
+180401002 Grevenmacher, Enner   00736  00736                % 07938 RGTR--
+180401005 Grevenmacher, Route   00737  00737                % 07938 RGTR--
+180803002 Machtum, Deisermille  00738  00738                % 07938 RGTR--
+180803003 Machtum, Gellebur     00739  00739                % 07938 RGTR--
+180803001 Machtum, Bei Kallek'  00740  00740                % 07938 RGTR--
+180305004 Niederdonven, Op der  00746  00746                % 07938 RGTR--
+180305001 Niederdonven, Beim F  00746  00746                % 07938 RGTR--
+180305003 Niederdonven, Bei de  00747  00747                % 07938 RGTR--
+210402002 Lenningen, Basilika   00754  00754                % 07938 RGTR--
+210402001 Lenningen, Am Aker    00755  00755                % 07938 RGTR--
+210801002 Greiveldange, Gemeng  00758  00758                % 07938 RGTR--
+210803003 Stadtbredimus, Schle  00801  00801                % 07938 RGTR--
+210803005 Stadtbredimus, Vinsm  00802  00802                % 07938 RGTR--
+210803006 Stadtbredimus, Wandm  00803  00803                % 07938 RGTR--
+210701003 Remich, Caves St. Ma  00804  00804                % 07938 RGTR--
+210701008 Remich, Maatebierg    00805  00805                % 07938 RGTR--
+210701006 Remich, Gare routièr  00807                       % 07938 RGTR--
+*Z 07939 RGTR--                                             % 07939 RGTR--
+*L 342      180401003 210701006  00835  00907               % 07939 RGTR--
+*R 1 210701006 180401003 210701006  00835  00907            % 07939 RGTR--
+*G 020 180401003 210701006  00835  00907                    % 07939 RGTR--
+*A VE 180401003 210701006 000034  00835  00907              % 07939 RGTR--
+*I FD 180401003 210701006        0002002  00835  00907      % 07939 RGTR--
+180401003 Grevenmacher, Gare r         00835                % 07939 RGTR--
+180401002 Grevenmacher, Enner   00836  00836                % 07939 RGTR--
+180401005 Grevenmacher, Route   00837  00837                % 07939 RGTR--
+180803002 Machtum, Deisermille  00838  00838                % 07939 RGTR--
+180803003 Machtum, Gellebur     00839  00839                % 07939 RGTR--
+180803001 Machtum, Bei Kallek'  00840  00840                % 07939 RGTR--
+180305004 Niederdonven, Op der  00846  00846                % 07939 RGTR--
+180305001 Niederdonven, Beim F  00846  00846                % 07939 RGTR--
+180305003 Niederdonven, Bei de  00847  00847                % 07939 RGTR--
+210402002 Lenningen, Basilika   00854  00854                % 07939 RGTR--
+210402001 Lenningen, Am Aker    00855  00855                % 07939 RGTR--
+210801002 Greiveldange, Gemeng  00858  00858                % 07939 RGTR--
+210803003 Stadtbredimus, Schle  00901  00901                % 07939 RGTR--
+210803005 Stadtbredimus, Vinsm  00902  00902                % 07939 RGTR--
+210803006 Stadtbredimus, Wandm  00903  00903                % 07939 RGTR--
+210701003 Remich, Caves St. Ma  00904  00904                % 07939 RGTR--
+210701008 Remich, Maatebierg    00905  00905                % 07939 RGTR--
+210701006 Remich, Gare routièr  00907                       % 07939 RGTR--
+*Z 07940 RGTR--                                             % 07940 RGTR--
+*L 342      180401003 210701006  01635  01707               % 07940 RGTR--
+*R 1 210701006 180401003 210701006  01635  01707            % 07940 RGTR--
+*G 020 180401003 210701006  01635  01707                    % 07940 RGTR--
+*A VE 180401003 210701006 000034  01635  01707              % 07940 RGTR--
+*I FD 180401003 210701006        0002010  01635  01707      % 07940 RGTR--
+180401003 Grevenmacher, Gare r         01635                % 07940 RGTR--
+180401002 Grevenmacher, Enner   01636  01636                % 07940 RGTR--
+180401005 Grevenmacher, Route   01637  01637                % 07940 RGTR--
+180803002 Machtum, Deisermille  01638  01638                % 07940 RGTR--
+180803003 Machtum, Gellebur     01639  01639                % 07940 RGTR--
+180803001 Machtum, Bei Kallek'  01640  01640                % 07940 RGTR--
+180305004 Niederdonven, Op der  01646  01646                % 07940 RGTR--
+180305001 Niederdonven, Beim F  01646  01646                % 07940 RGTR--
+180305003 Niederdonven, Bei de  01647  01647                % 07940 RGTR--
+210402002 Lenningen, Basilika   01654  01654                % 07940 RGTR--
+210402001 Lenningen, Am Aker    01655  01655                % 07940 RGTR--
+210801002 Greiveldange, Gemeng  01658  01658                % 07940 RGTR--
+210803003 Stadtbredimus, Schle  01701  01701                % 07940 RGTR--
+210803005 Stadtbredimus, Vinsm  01702  01702                % 07940 RGTR--
+210803006 Stadtbredimus, Wandm  01703  01703                % 07940 RGTR--
+210701003 Remich, Caves St. Ma  01704  01704                % 07940 RGTR--
+210701008 Remich, Maatebierg    01705  01705                % 07940 RGTR--
+210701006 Remich, Gare routièr  01707                       % 07940 RGTR--
+*Z 07941 RGTR--                                             % 07941 RGTR--
+*L 342      180401003 210701006  01735  01807               % 07941 RGTR--
+*R 1 210701006 180401003 210701006  01735  01807            % 07941 RGTR--
+*G 020 180401003 210701006  01735  01807                    % 07941 RGTR--
+*A VE 180401003 210701006 000034  01735  01807              % 07941 RGTR--
+*I FD 180401003 210701006        0002028  01735  01807      % 07941 RGTR--
+180401003 Grevenmacher, Gare r         01735                % 07941 RGTR--
+180401002 Grevenmacher, Enner   01736  01736                % 07941 RGTR--
+180401005 Grevenmacher, Route   01737  01737                % 07941 RGTR--
+180803002 Machtum, Deisermille  01738  01738                % 07941 RGTR--
+180803003 Machtum, Gellebur     01739  01739                % 07941 RGTR--
+180803001 Machtum, Bei Kallek'  01740  01740                % 07941 RGTR--
+180305004 Niederdonven, Op der  01746  01746                % 07941 RGTR--
+180305001 Niederdonven, Beim F  01746  01746                % 07941 RGTR--
+180305003 Niederdonven, Bei de  01747  01747                % 07941 RGTR--
+210402002 Lenningen, Basilika   01754  01754                % 07941 RGTR--
+210402001 Lenningen, Am Aker    01755  01755                % 07941 RGTR--
+210801002 Greiveldange, Gemeng  01758  01758                % 07941 RGTR--
+210803003 Stadtbredimus, Schle  01801  01801                % 07941 RGTR--
+210803005 Stadtbredimus, Vinsm  01802  01802                % 07941 RGTR--
+210803006 Stadtbredimus, Wandm  01803  01803                % 07941 RGTR--
+210701003 Remich, Caves St. Ma  01804  01804                % 07941 RGTR--
+210701008 Remich, Maatebierg    01805  01805                % 07941 RGTR--
+210701006 Remich, Gare routièr  01807                       % 07941 RGTR--
+*Z 07942 RGTR--                                             % 07942 RGTR--
+*L 342      210701006 180401003  00915  00945               % 07942 RGTR--
+*R 2 180401003 210701006 180401003  00915  00945            % 07942 RGTR--
+*G 020 210701006 180401003  00915  00945                    % 07942 RGTR--
+*A VE 210701006 180401003 000040  00915  00945              % 07942 RGTR--
+*I FD 210701006 180401003        0002053  00915  00945      % 07942 RGTR--
+210701006 Remich, Gare routièr         00915                % 07942 RGTR--
+210701008 Remich, Maatebierg    00916  00916                % 07942 RGTR--
+210701003 Remich, Caves St. Ma  00917  00917                % 07942 RGTR--
+210803006 Stadtbredimus, Wandm  00918  00918                % 07942 RGTR--
+210803005 Stadtbredimus, Vinsm  00919  00919                % 07942 RGTR--
+210803003 Stadtbredimus, Schle  00919  00919                % 07942 RGTR--
+210801002 Greiveldange, Gemeng  00924  00924                % 07942 RGTR--
+210402001 Lenningen, Am Aker    00926  00926                % 07942 RGTR--
+210402002 Lenningen, Basilika   00927  00927                % 07942 RGTR--
+180305003 Niederdonven, Bei de  00933  00933                % 07942 RGTR--
+180305001 Niederdonven, Beim F  00934  00934                % 07942 RGTR--
+180305004 Niederdonven, Op der  00935  00935                % 07942 RGTR--
+180803004 Machtum, Ongkaf       00940  00940                % 07942 RGTR--
+180803003 Machtum, Gellebur     00941  00941                % 07942 RGTR--
+180803002 Machtum, Deisermille  00941  00941                % 07942 RGTR--
+180401005 Grevenmacher, Route   00942  00942                % 07942 RGTR--
+180401002 Grevenmacher, Enner   00943  00943                % 07942 RGTR--
+180401003 Grevenmacher, Gare r  00945                       % 07942 RGTR--
+*Z 07943 RGTR--                                             % 07943 RGTR--
+*L 342      210701006 180401003  01115  01145               % 07943 RGTR--
+*R 2 180401003 210701006 180401003  01115  01145            % 07943 RGTR--
+*G 020 210701006 180401003  01115  01145                    % 07943 RGTR--
+*A VE 210701006 180401003 000040  01115  01145              % 07943 RGTR--
+*I FD 210701006 180401003        0001071  01115  01145      % 07943 RGTR--
+210701006 Remich, Gare routièr         01115                % 07943 RGTR--
+210701008 Remich, Maatebierg    01116  01116                % 07943 RGTR--
+210701003 Remich, Caves St. Ma  01117  01117                % 07943 RGTR--
+210803006 Stadtbredimus, Wandm  01118  01118                % 07943 RGTR--
+210803005 Stadtbredimus, Vinsm  01119  01119                % 07943 RGTR--
+210803003 Stadtbredimus, Schle  01119  01119                % 07943 RGTR--
+210801002 Greiveldange, Gemeng  01124  01124                % 07943 RGTR--
+210402001 Lenningen, Am Aker    01126  01126                % 07943 RGTR--
+210402002 Lenningen, Basilika   01127  01127                % 07943 RGTR--
+180305003 Niederdonven, Bei de  01133  01133                % 07943 RGTR--
+180305001 Niederdonven, Beim F  01134  01134                % 07943 RGTR--
+180305004 Niederdonven, Op der  01135  01135                % 07943 RGTR--
+180803004 Machtum, Ongkaf       01140  01140                % 07943 RGTR--
+180803003 Machtum, Gellebur     01141  01141                % 07943 RGTR--
+180803002 Machtum, Deisermille  01141  01141                % 07943 RGTR--
+180401005 Grevenmacher, Route   01142  01142                % 07943 RGTR--
+180401002 Grevenmacher, Enner   01143  01143                % 07943 RGTR--
+180401003 Grevenmacher, Gare r  01145                       % 07943 RGTR--
+*Z 07944 RGTR--                                             % 07944 RGTR--
+*L 342      210701006 180401003  01315  01345               % 07944 RGTR--
+*R 2 180401003 210701006 180401003  01315  01345            % 07944 RGTR--
+*G 020 210701006 180401003  01315  01345                    % 07944 RGTR--
+*A VE 210701006 180401003 000040  01315  01345              % 07944 RGTR--
+*I FD 210701006 180401003        0002048  01315  01345      % 07944 RGTR--
+210701006 Remich, Gare routièr         01315                % 07944 RGTR--
+210701008 Remich, Maatebierg    01316  01316                % 07944 RGTR--
+210701003 Remich, Caves St. Ma  01317  01317                % 07944 RGTR--
+210803006 Stadtbredimus, Wandm  01318  01318                % 07944 RGTR--
+210803005 Stadtbredimus, Vinsm  01319  01319                % 07944 RGTR--
+210803003 Stadtbredimus, Schle  01319  01319                % 07944 RGTR--
+210801002 Greiveldange, Gemeng  01324  01324                % 07944 RGTR--
+210402001 Lenningen, Am Aker    01326  01326                % 07944 RGTR--
+210402002 Lenningen, Basilika   01327  01327                % 07944 RGTR--
+180305003 Niederdonven, Bei de  01333  01333                % 07944 RGTR--
+180305001 Niederdonven, Beim F  01334  01334                % 07944 RGTR--
+180305004 Niederdonven, Op der  01335  01335                % 07944 RGTR--
+180803004 Machtum, Ongkaf       01340  01340                % 07944 RGTR--
+180803003 Machtum, Gellebur     01341  01341                % 07944 RGTR--
+180803002 Machtum, Deisermille  01341  01341                % 07944 RGTR--
+180401005 Grevenmacher, Route   01342  01342                % 07944 RGTR--
+180401002 Grevenmacher, Enner   01343  01343                % 07944 RGTR--
+180401003 Grevenmacher, Gare r  01345                       % 07944 RGTR--
+*Z 07945 RGTR--                                             % 07945 RGTR--
+*L 342      210701006 180401003  01515  01545               % 07945 RGTR--
+*R 2 180401003 210701006 180401003  01515  01545            % 07945 RGTR--
+*G 020 210701006 180401003  01515  01545                    % 07945 RGTR--
+*A VE 210701006 180401003 000040  01515  01545              % 07945 RGTR--
+*I FD 210701006 180401003        0002056  01515  01545      % 07945 RGTR--
+210701006 Remich, Gare routièr         01515                % 07945 RGTR--
+210701008 Remich, Maatebierg    01516  01516                % 07945 RGTR--
+210701003 Remich, Caves St. Ma  01517  01517                % 07945 RGTR--
+210803006 Stadtbredimus, Wandm  01518  01518                % 07945 RGTR--
+210803005 Stadtbredimus, Vinsm  01519  01519                % 07945 RGTR--
+210803003 Stadtbredimus, Schle  01519  01519                % 07945 RGTR--
+210801002 Greiveldange, Gemeng  01524  01524                % 07945 RGTR--
+210402001 Lenningen, Am Aker    01526  01526                % 07945 RGTR--
+210402002 Lenningen, Basilika   01527  01527                % 07945 RGTR--
+180305003 Niederdonven, Bei de  01533  01533                % 07945 RGTR--
+180305001 Niederdonven, Beim F  01534  01534                % 07945 RGTR--
+180305004 Niederdonven, Op der  01535  01535                % 07945 RGTR--
+180803004 Machtum, Ongkaf       01540  01540                % 07945 RGTR--
+180803003 Machtum, Gellebur     01541  01541                % 07945 RGTR--
+180803002 Machtum, Deisermille  01541  01541                % 07945 RGTR--
+180401005 Grevenmacher, Route   01542  01542                % 07945 RGTR--
+180401002 Grevenmacher, Enner   01543  01543                % 07945 RGTR--
+180401003 Grevenmacher, Gare r  01545                       % 07945 RGTR--
+*Z 07946 RGTR--                                             % 07946 RGTR--
+*L 342      210701006 180401003  01915  01945               % 07946 RGTR--
+*R 2 180401003 210701006 180401003  01915  01945            % 07946 RGTR--
+*G 020 210701006 180401003  01915  01945                    % 07946 RGTR--
+*A VE 210701006 180401003 000040  01915  01945              % 07946 RGTR--
+*I FD 210701006 180401003        0002057  01915  01945      % 07946 RGTR--
+210701006 Remich, Gare routièr         01915                % 07946 RGTR--
+210701008 Remich, Maatebierg    01916  01916                % 07946 RGTR--
+210701003 Remich, Caves St. Ma  01917  01917                % 07946 RGTR--
+210803006 Stadtbredimus, Wandm  01918  01918                % 07946 RGTR--
+210803005 Stadtbredimus, Vinsm  01919  01919                % 07946 RGTR--
+210803003 Stadtbredimus, Schle  01919  01919                % 07946 RGTR--
+210801002 Greiveldange, Gemeng  01924  01924                % 07946 RGTR--
+210402001 Lenningen, Am Aker    01926  01926                % 07946 RGTR--
+210402002 Lenningen, Basilika   01927  01927                % 07946 RGTR--
+180305003 Niederdonven, Bei de  01933  01933                % 07946 RGTR--
+180305001 Niederdonven, Beim F  01934  01934                % 07946 RGTR--
+180305004 Niederdonven, Op der  01935  01935                % 07946 RGTR--
+180803004 Machtum, Ongkaf       01940  01940                % 07946 RGTR--
+180803003 Machtum, Gellebur     01941  01941                % 07946 RGTR--
+180803002 Machtum, Deisermille  01941  01941                % 07946 RGTR--
+180401005 Grevenmacher, Route   01942  01942                % 07946 RGTR--
+180401002 Grevenmacher, Enner   01943  01943                % 07946 RGTR--
+180401003 Grevenmacher, Gare r  01945                       % 07946 RGTR--
+*Z 07947 RGTR--                                             % 07947 RGTR--
+*L 342      210701006 180401003  02115  02145               % 07947 RGTR--
+*R 2 180401003 210701006 180401003  02115  02145            % 07947 RGTR--
+*G 020 210701006 180401003  02115  02145                    % 07947 RGTR--
+*A VE 210701006 180401003 000040  02115  02145              % 07947 RGTR--
+*I FD 210701006 180401003        0002049  02115  02145      % 07947 RGTR--
+210701006 Remich, Gare routièr         02115                % 07947 RGTR--
+210701008 Remich, Maatebierg    02116  02116                % 07947 RGTR--
+210701003 Remich, Caves St. Ma  02117  02117                % 07947 RGTR--
+210803006 Stadtbredimus, Wandm  02118  02118                % 07947 RGTR--
+210803005 Stadtbredimus, Vinsm  02119  02119                % 07947 RGTR--
+210803003 Stadtbredimus, Schle  02119  02119                % 07947 RGTR--
+210801002 Greiveldange, Gemeng  02124  02124                % 07947 RGTR--
+210402001 Lenningen, Am Aker    02126  02126                % 07947 RGTR--
+210402002 Lenningen, Basilika   02127  02127                % 07947 RGTR--
+180305003 Niederdonven, Bei de  02133  02133                % 07947 RGTR--
+180305001 Niederdonven, Beim F  02134  02134                % 07947 RGTR--
+180305004 Niederdonven, Op der  02135  02135                % 07947 RGTR--
+180803004 Machtum, Ongkaf       02140  02140                % 07947 RGTR--
+180803003 Machtum, Gellebur     02141  02141                % 07947 RGTR--
+180803002 Machtum, Deisermille  02141  02141                % 07947 RGTR--
+180401005 Grevenmacher, Route   02142  02142                % 07947 RGTR--
+180401002 Grevenmacher, Enner   02143  02143                % 07947 RGTR--
+180401003 Grevenmacher, Gare r  02145                       % 07947 RGTR--
+*Z 07948 RGTR--                                             % 07948 RGTR--
+*L 342      210701006 180401003  00515  00545               % 07948 RGTR--
+*R 2 180401003 210701006 180401003  00515  00545            % 07948 RGTR--
+*G 020 210701006 180401003  00515  00545                    % 07948 RGTR--
+*A VE 210701006 180401003 000038  00515  00545              % 07948 RGTR--
+*I FD 210701006 180401003        0002385  00515  00545      % 07948 RGTR--
+210701006 Remich, Gare routièr         00515                % 07948 RGTR--
+210701008 Remich, Maatebierg    00516  00516                % 07948 RGTR--
+210701003 Remich, Caves St. Ma  00517  00517                % 07948 RGTR--
+210803006 Stadtbredimus, Wandm  00518  00518                % 07948 RGTR--
+210803005 Stadtbredimus, Vinsm  00519  00519                % 07948 RGTR--
+210803003 Stadtbredimus, Schle  00519  00519                % 07948 RGTR--
+210801002 Greiveldange, Gemeng  00524  00524                % 07948 RGTR--
+210402001 Lenningen, Am Aker    00526  00526                % 07948 RGTR--
+210402002 Lenningen, Basilika   00527  00527                % 07948 RGTR--
+180305003 Niederdonven, Bei de  00533  00533                % 07948 RGTR--
+180305001 Niederdonven, Beim F  00534  00534                % 07948 RGTR--
+180305004 Niederdonven, Op der  00535  00535                % 07948 RGTR--
+180803004 Machtum, Ongkaf       00540  00540                % 07948 RGTR--
+180803003 Machtum, Gellebur     00541  00541                % 07948 RGTR--
+180803002 Machtum, Deisermille  00541  00541                % 07948 RGTR--
+180401005 Grevenmacher, Route   00542  00542                % 07948 RGTR--
+180401002 Grevenmacher, Enner   00543  00543                % 07948 RGTR--
+180401003 Grevenmacher, Gare r  00545                       % 07948 RGTR--
+*Z 07949 RGTR--                                             % 07949 RGTR--
+*L 342      210701006 180401003  00615  00645               % 07949 RGTR--
+*R 2 180401003 210701006 180401003  00615  00645            % 07949 RGTR--
+*G 020 210701006 180401003  00615  00645                    % 07949 RGTR--
+*A VE 210701006 180401003 000038  00615  00645              % 07949 RGTR--
+*I FD 210701006 180401003        0002051  00615  00645      % 07949 RGTR--
+210701006 Remich, Gare routièr         00615                % 07949 RGTR--
+210701008 Remich, Maatebierg    00616  00616                % 07949 RGTR--
+210701003 Remich, Caves St. Ma  00617  00617                % 07949 RGTR--
+210803006 Stadtbredimus, Wandm  00618  00618                % 07949 RGTR--
+210803005 Stadtbredimus, Vinsm  00619  00619                % 07949 RGTR--
+210803003 Stadtbredimus, Schle  00619  00619                % 07949 RGTR--
+210801002 Greiveldange, Gemeng  00624  00624                % 07949 RGTR--
+210402001 Lenningen, Am Aker    00626  00626                % 07949 RGTR--
+210402002 Lenningen, Basilika   00627  00627                % 07949 RGTR--
+180305003 Niederdonven, Bei de  00633  00633                % 07949 RGTR--
+180305001 Niederdonven, Beim F  00634  00634                % 07949 RGTR--
+180305004 Niederdonven, Op der  00635  00635                % 07949 RGTR--
+180803004 Machtum, Ongkaf       00640  00640                % 07949 RGTR--
+180803003 Machtum, Gellebur     00641  00641                % 07949 RGTR--
+180803002 Machtum, Deisermille  00641  00641                % 07949 RGTR--
+180401005 Grevenmacher, Route   00642  00642                % 07949 RGTR--
+180401002 Grevenmacher, Enner   00643  00643                % 07949 RGTR--
+180401003 Grevenmacher, Gare r  00645                       % 07949 RGTR--
+*Z 07950 RGTR--                                             % 07950 RGTR--
+*L 342      210701006 180401003  01015  01045               % 07950 RGTR--
+*R 2 180401003 210701006 180401003  01015  01045            % 07950 RGTR--
+*G 020 210701006 180401003  01015  01045                    % 07950 RGTR--
+*A VE 210701006 180401003 000038  01015  01045              % 07950 RGTR--
+*I FD 210701006 180401003        0002047  01015  01045      % 07950 RGTR--
+210701006 Remich, Gare routièr         01015                % 07950 RGTR--
+210701008 Remich, Maatebierg    01016  01016                % 07950 RGTR--
+210701003 Remich, Caves St. Ma  01017  01017                % 07950 RGTR--
+210803006 Stadtbredimus, Wandm  01018  01018                % 07950 RGTR--
+210803005 Stadtbredimus, Vinsm  01019  01019                % 07950 RGTR--
+210803003 Stadtbredimus, Schle  01019  01019                % 07950 RGTR--
+210801002 Greiveldange, Gemeng  01024  01024                % 07950 RGTR--
+210402001 Lenningen, Am Aker    01026  01026                % 07950 RGTR--
+210402002 Lenningen, Basilika   01027  01027                % 07950 RGTR--
+180305003 Niederdonven, Bei de  01033  01033                % 07950 RGTR--
+180305001 Niederdonven, Beim F  01034  01034                % 07950 RGTR--
+180305004 Niederdonven, Op der  01035  01035                % 07950 RGTR--
+180803004 Machtum, Ongkaf       01040  01040                % 07950 RGTR--
+180803003 Machtum, Gellebur     01041  01041                % 07950 RGTR--
+180803002 Machtum, Deisermille  01041  01041                % 07950 RGTR--
+180401005 Grevenmacher, Route   01042  01042                % 07950 RGTR--
+180401002 Grevenmacher, Enner   01043  01043                % 07950 RGTR--
+180401003 Grevenmacher, Gare r  01045                       % 07950 RGTR--
+*Z 07951 RGTR--                                             % 07951 RGTR--
+*L 342      210701006 180401003  01215  01245               % 07951 RGTR--
+*R 2 180401003 210701006 180401003  01215  01245            % 07951 RGTR--
+*G 020 210701006 180401003  01215  01245                    % 07951 RGTR--
+*A VE 210701006 180401003 000038  01215  01245              % 07951 RGTR--
+*I FD 210701006 180401003        0002054  01215  01245      % 07951 RGTR--
+210701006 Remich, Gare routièr         01215                % 07951 RGTR--
+210701008 Remich, Maatebierg    01216  01216                % 07951 RGTR--
+210701003 Remich, Caves St. Ma  01217  01217                % 07951 RGTR--
+210803006 Stadtbredimus, Wandm  01218  01218                % 07951 RGTR--
+210803005 Stadtbredimus, Vinsm  01219  01219                % 07951 RGTR--
+210803003 Stadtbredimus, Schle  01219  01219                % 07951 RGTR--
+210801002 Greiveldange, Gemeng  01224  01224                % 07951 RGTR--
+210402001 Lenningen, Am Aker    01226  01226                % 07951 RGTR--
+210402002 Lenningen, Basilika   01227  01227                % 07951 RGTR--
+180305003 Niederdonven, Bei de  01233  01233                % 07951 RGTR--
+180305001 Niederdonven, Beim F  01234  01234                % 07951 RGTR--
+180305004 Niederdonven, Op der  01235  01235                % 07951 RGTR--
+180803004 Machtum, Ongkaf       01240  01240                % 07951 RGTR--
+180803003 Machtum, Gellebur     01241  01241                % 07951 RGTR--
+180803002 Machtum, Deisermille  01241  01241                % 07951 RGTR--
+180401005 Grevenmacher, Route   01242  01242                % 07951 RGTR--
+180401002 Grevenmacher, Enner   01243  01243                % 07951 RGTR--
+180401003 Grevenmacher, Gare r  01245                       % 07951 RGTR--
+*Z 07952 RGTR--                                             % 07952 RGTR--
+*L 342      210701006 180401003  01415  01445               % 07952 RGTR--
+*R 2 180401003 210701006 180401003  01415  01445            % 07952 RGTR--
+*G 020 210701006 180401003  01415  01445                    % 07952 RGTR--
+*A VE 210701006 180401003 000038  01415  01445              % 07952 RGTR--
+*I FD 210701006 180401003        0002055  01415  01445      % 07952 RGTR--
+210701006 Remich, Gare routièr         01415                % 07952 RGTR--
+210701008 Remich, Maatebierg    01416  01416                % 07952 RGTR--
+210701003 Remich, Caves St. Ma  01417  01417                % 07952 RGTR--
+210803006 Stadtbredimus, Wandm  01418  01418                % 07952 RGTR--
+210803005 Stadtbredimus, Vinsm  01419  01419                % 07952 RGTR--
+210803003 Stadtbredimus, Schle  01419  01419                % 07952 RGTR--
+210801002 Greiveldange, Gemeng  01424  01424                % 07952 RGTR--
+210402001 Lenningen, Am Aker    01426  01426                % 07952 RGTR--
+210402002 Lenningen, Basilika   01427  01427                % 07952 RGTR--
+180305003 Niederdonven, Bei de  01433  01433                % 07952 RGTR--
+180305001 Niederdonven, Beim F  01434  01434                % 07952 RGTR--
+180305004 Niederdonven, Op der  01435  01435                % 07952 RGTR--
+180803004 Machtum, Ongkaf       01440  01440                % 07952 RGTR--
+180803003 Machtum, Gellebur     01441  01441                % 07952 RGTR--
+180803002 Machtum, Deisermille  01441  01441                % 07952 RGTR--
+180401005 Grevenmacher, Route   01442  01442                % 07952 RGTR--
+180401002 Grevenmacher, Enner   01443  01443                % 07952 RGTR--
+180401003 Grevenmacher, Gare r  01445                       % 07952 RGTR--
+*Z 07953 RGTR--                                             % 07953 RGTR--
+*L 342      210701006 180401003  02015  02045               % 07953 RGTR--
+*R 2 180401003 210701006 180401003  02015  02045            % 07953 RGTR--
+*G 020 210701006 180401003  02015  02045                    % 07953 RGTR--
+*A VE 210701006 180401003 000038  02015  02045              % 07953 RGTR--
+*I FD 210701006 180401003        0002058  02015  02045      % 07953 RGTR--
+210701006 Remich, Gare routièr         02015                % 07953 RGTR--
+210701008 Remich, Maatebierg    02016  02016                % 07953 RGTR--
+210701003 Remich, Caves St. Ma  02017  02017                % 07953 RGTR--
+210803006 Stadtbredimus, Wandm  02018  02018                % 07953 RGTR--
+210803005 Stadtbredimus, Vinsm  02019  02019                % 07953 RGTR--
+210803003 Stadtbredimus, Schle  02019  02019                % 07953 RGTR--
+210801002 Greiveldange, Gemeng  02024  02024                % 07953 RGTR--
+210402001 Lenningen, Am Aker    02026  02026                % 07953 RGTR--
+210402002 Lenningen, Basilika   02027  02027                % 07953 RGTR--
+180305003 Niederdonven, Bei de  02033  02033                % 07953 RGTR--
+180305001 Niederdonven, Beim F  02034  02034                % 07953 RGTR--
+180305004 Niederdonven, Op der  02035  02035                % 07953 RGTR--
+180803004 Machtum, Ongkaf       02040  02040                % 07953 RGTR--
+180803003 Machtum, Gellebur     02041  02041                % 07953 RGTR--
+180803002 Machtum, Deisermille  02041  02041                % 07953 RGTR--
+180401005 Grevenmacher, Route   02042  02042                % 07953 RGTR--
+180401002 Grevenmacher, Enner   02043  02043                % 07953 RGTR--
+180401003 Grevenmacher, Gare r  02045                       % 07953 RGTR--
+*Z 07954 RGTR--                                             % 07954 RGTR--
+*L 342      210701006 180401003  02215  02245               % 07954 RGTR--
+*R 2 180401003 210701006 180401003  02215  02245            % 07954 RGTR--
+*G 020 210701006 180401003  02215  02245                    % 07954 RGTR--
+*A VE 210701006 180401003 000038  02215  02245              % 07954 RGTR--
+*I FD 210701006 180401003        0001439  02215  02245      % 07954 RGTR--
+210701006 Remich, Gare routièr         02215                % 07954 RGTR--
+210701008 Remich, Maatebierg    02216  02216                % 07954 RGTR--
+210701003 Remich, Caves St. Ma  02217  02217                % 07954 RGTR--
+210803006 Stadtbredimus, Wandm  02218  02218                % 07954 RGTR--
+210803005 Stadtbredimus, Vinsm  02219  02219                % 07954 RGTR--
+210803003 Stadtbredimus, Schle  02219  02219                % 07954 RGTR--
+210801002 Greiveldange, Gemeng  02224  02224                % 07954 RGTR--
+210402001 Lenningen, Am Aker    02226  02226                % 07954 RGTR--
+210402002 Lenningen, Basilika   02227  02227                % 07954 RGTR--
+180305003 Niederdonven, Bei de  02233  02233                % 07954 RGTR--
+180305001 Niederdonven, Beim F  02234  02234                % 07954 RGTR--
+180305004 Niederdonven, Op der  02235  02235                % 07954 RGTR--
+180803004 Machtum, Ongkaf       02240  02240                % 07954 RGTR--
+180803003 Machtum, Gellebur     02241  02241                % 07954 RGTR--
+180803002 Machtum, Deisermille  02241  02241                % 07954 RGTR--
+180401005 Grevenmacher, Route   02242  02242                % 07954 RGTR--
+180401002 Grevenmacher, Enner   02243  02243                % 07954 RGTR--
+180401003 Grevenmacher, Gare r  02245                       % 07954 RGTR--
+*Z 07955 RGTR--                                             % 07955 RGTR--
+*L 342      210701006 180401003  02315  02345               % 07955 RGTR--
+*R 2 180401003 210701006 180401003  02315  02345            % 07955 RGTR--
+*G 020 210701006 180401003  02315  02345                    % 07955 RGTR--
+*A VE 210701006 180401003 000038  02315  02345              % 07955 RGTR--
+*I FD 210701006 180401003        0002050  02315  02345      % 07955 RGTR--
+210701006 Remich, Gare routièr         02315                % 07955 RGTR--
+210701008 Remich, Maatebierg    02316  02316                % 07955 RGTR--
+210701003 Remich, Caves St. Ma  02317  02317                % 07955 RGTR--
+210803006 Stadtbredimus, Wandm  02318  02318                % 07955 RGTR--
+210803005 Stadtbredimus, Vinsm  02319  02319                % 07955 RGTR--
+210803003 Stadtbredimus, Schle  02319  02319                % 07955 RGTR--
+210801002 Greiveldange, Gemeng  02324  02324                % 07955 RGTR--
+210402001 Lenningen, Am Aker    02326  02326                % 07955 RGTR--
+210402002 Lenningen, Basilika   02327  02327                % 07955 RGTR--
+180305003 Niederdonven, Bei de  02333  02333                % 07955 RGTR--
+180305001 Niederdonven, Beim F  02334  02334                % 07955 RGTR--
+180305004 Niederdonven, Op der  02335  02335                % 07955 RGTR--
+180803004 Machtum, Ongkaf       02340  02340                % 07955 RGTR--
+180803003 Machtum, Gellebur     02341  02341                % 07955 RGTR--
+180803002 Machtum, Deisermille  02341  02341                % 07955 RGTR--
+180401005 Grevenmacher, Route   02342  02342                % 07955 RGTR--
+180401002 Grevenmacher, Enner   02343  02343                % 07955 RGTR--
+180401003 Grevenmacher, Gare r  02345                       % 07955 RGTR--
+*Z 07956 RGTR--                                             % 07956 RGTR--
+*L 342      210701006 180401003  00715  00745               % 07956 RGTR--
+*R 2 180401003 210701006 180401003  00715  00745            % 07956 RGTR--
+*G 020 210701006 180401003  00715  00745                    % 07956 RGTR--
+*A VE 210701006 180401003 000016  00715  00745              % 07956 RGTR--
+*I FD 210701006 180401003        0002046  00715  00745      % 07956 RGTR--
+210701006 Remich, Gare routièr         00715                % 07956 RGTR--
+210701008 Remich, Maatebierg    00716  00716                % 07956 RGTR--
+210701003 Remich, Caves St. Ma  00717  00717                % 07956 RGTR--
+210803006 Stadtbredimus, Wandm  00718  00718                % 07956 RGTR--
+210803005 Stadtbredimus, Vinsm  00719  00719                % 07956 RGTR--
+210803003 Stadtbredimus, Schle  00719  00719                % 07956 RGTR--
+210801002 Greiveldange, Gemeng  00724  00724                % 07956 RGTR--
+210402001 Lenningen, Am Aker    00726  00726                % 07956 RGTR--
+210402002 Lenningen, Basilika   00727  00727                % 07956 RGTR--
+180305003 Niederdonven, Bei de  00733  00733                % 07956 RGTR--
+180305001 Niederdonven, Beim F  00734  00734                % 07956 RGTR--
+180305004 Niederdonven, Op der  00735  00735                % 07956 RGTR--
+180803004 Machtum, Ongkaf       00740  00740                % 07956 RGTR--
+180803003 Machtum, Gellebur     00741  00741                % 07956 RGTR--
+180803002 Machtum, Deisermille  00741  00741                % 07956 RGTR--
+180401005 Grevenmacher, Route   00742  00742                % 07956 RGTR--
+180401002 Grevenmacher, Enner   00743  00743                % 07956 RGTR--
+180401003 Grevenmacher, Gare r  00745                       % 07956 RGTR--
+*Z 07957 RGTR--                                             % 07957 RGTR--
+*L 342      210701006 180401003  01715  01745               % 07957 RGTR--
+*R 2 180401003 210701006 180401003  01715  01745            % 07957 RGTR--
+*G 020 210701006 180401003  01715  01745                    % 07957 RGTR--
+*A VE 210701006 180401003 000016  01715  01745              % 07957 RGTR--
+*I FD 210701006 180401003        0002061  01715  01745      % 07957 RGTR--
+210701006 Remich, Gare routièr         01715                % 07957 RGTR--
+210701008 Remich, Maatebierg    01716  01716                % 07957 RGTR--
+210701003 Remich, Caves St. Ma  01717  01717                % 07957 RGTR--
+210803006 Stadtbredimus, Wandm  01718  01718                % 07957 RGTR--
+210803005 Stadtbredimus, Vinsm  01719  01719                % 07957 RGTR--
+210803003 Stadtbredimus, Schle  01719  01719                % 07957 RGTR--
+210801002 Greiveldange, Gemeng  01724  01724                % 07957 RGTR--
+210402001 Lenningen, Am Aker    01726  01726                % 07957 RGTR--
+210402002 Lenningen, Basilika   01727  01727                % 07957 RGTR--
+180305003 Niederdonven, Bei de  01733  01733                % 07957 RGTR--
+180305001 Niederdonven, Beim F  01734  01734                % 07957 RGTR--
+180305004 Niederdonven, Op der  01735  01735                % 07957 RGTR--
+180803004 Machtum, Ongkaf       01740  01740                % 07957 RGTR--
+180803003 Machtum, Gellebur     01741  01741                % 07957 RGTR--
+180803002 Machtum, Deisermille  01741  01741                % 07957 RGTR--
+180401005 Grevenmacher, Route   01742  01742                % 07957 RGTR--
+180401002 Grevenmacher, Enner   01743  01743                % 07957 RGTR--
+180401003 Grevenmacher, Gare r  01745                       % 07957 RGTR--
+*Z 07958 RGTR--                                             % 07958 RGTR--
+*L 342      210701006 180401003  01845  01915               % 07958 RGTR--
+*R 2 180401003 210701006 180401003  01845  01915            % 07958 RGTR--
+*G 020 210701006 180401003  01845  01915                    % 07958 RGTR--
+*A VE 210701006 180401003 000034  01845  01915              % 07958 RGTR--
+*I FD 210701006 180401003        0001339  01845  01915      % 07958 RGTR--
+210701006 Remich, Gare routièr         01845                % 07958 RGTR--
+210701008 Remich, Maatebierg    01846  01846                % 07958 RGTR--
+210701003 Remich, Caves St. Ma  01847  01847                % 07958 RGTR--
+210803006 Stadtbredimus, Wandm  01848  01848                % 07958 RGTR--
+210803005 Stadtbredimus, Vinsm  01849  01849                % 07958 RGTR--
+210803003 Stadtbredimus, Schle  01849  01849                % 07958 RGTR--
+210801002 Greiveldange, Gemeng  01854  01854                % 07958 RGTR--
+210402001 Lenningen, Am Aker    01856  01856                % 07958 RGTR--
+210402002 Lenningen, Basilika   01857  01857                % 07958 RGTR--
+180305003 Niederdonven, Bei de  01903  01903                % 07958 RGTR--
+180305001 Niederdonven, Beim F  01904  01904                % 07958 RGTR--
+180305004 Niederdonven, Op der  01905  01905                % 07958 RGTR--
+180803004 Machtum, Ongkaf       01910  01910                % 07958 RGTR--
+180803003 Machtum, Gellebur     01911  01911                % 07958 RGTR--
+180803002 Machtum, Deisermille  01911  01911                % 07958 RGTR--
+180401005 Grevenmacher, Route   01912  01912                % 07958 RGTR--
+180401002 Grevenmacher, Enner   01913  01913                % 07958 RGTR--
+180401003 Grevenmacher, Gare r  01915                       % 07958 RGTR--
+*Z 07959 RGTR--                                             % 07959 RGTR--
+*L 342      210701006 180401003  00715  00746               % 07959 RGTR--
+*R 2 180401003 210701006 180401003  00715  00746            % 07959 RGTR--
+*G 020 210701006 180401003  00715  00746                    % 07959 RGTR--
+*A VE 210701006 180401003 000038  00715  00746              % 07959 RGTR--
+*I FD 210701006 180401003        0002046  00715  00746      % 07959 RGTR--
+210701006 Remich, Gare routièr         00715                % 07959 RGTR--
+210701008 Remich, Maatebierg    00716  00716                % 07959 RGTR--
+210701003 Remich, Caves St. Ma  00717  00717                % 07959 RGTR--
+210803006 Stadtbredimus, Wandm  00719  00719                % 07959 RGTR--
+210803005 Stadtbredimus, Vinsm  00719  00719                % 07959 RGTR--
+210803003 Stadtbredimus, Schle  00720  00720                % 07959 RGTR--
+210801002 Greiveldange, Gemeng  00724  00724                % 07959 RGTR--
+210402001 Lenningen, Am Aker    00727  00727                % 07959 RGTR--
+210402002 Lenningen, Basilika   00727  00727                % 07959 RGTR--
+180305003 Niederdonven, Bei de  00734  00734                % 07959 RGTR--
+180305001 Niederdonven, Beim F  00735  00735                % 07959 RGTR--
+180305004 Niederdonven, Op der  00736  00736                % 07959 RGTR--
+180803004 Machtum, Ongkaf       00741  00741                % 07959 RGTR--
+180803003 Machtum, Gellebur     00742  00742                % 07959 RGTR--
+180803002 Machtum, Deisermille  00742  00742                % 07959 RGTR--
+180401005 Grevenmacher, Route   00743  00743                % 07959 RGTR--
+180401002 Grevenmacher, Enner   00745  00745                % 07959 RGTR--
+180401003 Grevenmacher, Gare r  00746                       % 07959 RGTR--
+*Z 07960 RGTR--                                             % 07960 RGTR--
+*L 342      210701006 180401003  00815  00846               % 07960 RGTR--
+*R 2 180401003 210701006 180401003  00815  00846            % 07960 RGTR--
+*G 020 210701006 180401003  00815  00846                    % 07960 RGTR--
+*A VE 210701006 180401003 000038  00815  00846              % 07960 RGTR--
+*I FD 210701006 180401003        0002052  00815  00846      % 07960 RGTR--
+210701006 Remich, Gare routièr         00815                % 07960 RGTR--
+210701008 Remich, Maatebierg    00816  00816                % 07960 RGTR--
+210701003 Remich, Caves St. Ma  00817  00817                % 07960 RGTR--
+210803006 Stadtbredimus, Wandm  00819  00819                % 07960 RGTR--
+210803005 Stadtbredimus, Vinsm  00819  00819                % 07960 RGTR--
+210803003 Stadtbredimus, Schle  00820  00820                % 07960 RGTR--
+210801002 Greiveldange, Gemeng  00824  00824                % 07960 RGTR--
+210402001 Lenningen, Am Aker    00827  00827                % 07960 RGTR--
+210402002 Lenningen, Basilika   00827  00827                % 07960 RGTR--
+180305003 Niederdonven, Bei de  00834  00834                % 07960 RGTR--
+180305001 Niederdonven, Beim F  00835  00835                % 07960 RGTR--
+180305004 Niederdonven, Op der  00836  00836                % 07960 RGTR--
+180803004 Machtum, Ongkaf       00841  00841                % 07960 RGTR--
+180803003 Machtum, Gellebur     00842  00842                % 07960 RGTR--
+180803002 Machtum, Deisermille  00842  00842                % 07960 RGTR--
+180401005 Grevenmacher, Route   00843  00843                % 07960 RGTR--
+180401002 Grevenmacher, Enner   00845  00845                % 07960 RGTR--
+180401003 Grevenmacher, Gare r  00846                       % 07960 RGTR--
+*Z 07961 RGTR--                                             % 07961 RGTR--
+*L 342      210701006 180401003  01615  01646               % 07961 RGTR--
+*R 2 180401003 210701006 180401003  01615  01646            % 07961 RGTR--
+*G 020 210701006 180401003  01615  01646                    % 07961 RGTR--
+*A VE 210701006 180401003 000038  01615  01646              % 07961 RGTR--
+*I FD 210701006 180401003        0002060  01615  01646      % 07961 RGTR--
+210701006 Remich, Gare routièr         01615                % 07961 RGTR--
+210701008 Remich, Maatebierg    01616  01616                % 07961 RGTR--
+210701003 Remich, Caves St. Ma  01617  01617                % 07961 RGTR--
+210803006 Stadtbredimus, Wandm  01619  01619                % 07961 RGTR--
+210803005 Stadtbredimus, Vinsm  01619  01619                % 07961 RGTR--
+210803003 Stadtbredimus, Schle  01620  01620                % 07961 RGTR--
+210801002 Greiveldange, Gemeng  01624  01624                % 07961 RGTR--
+210402001 Lenningen, Am Aker    01627  01627                % 07961 RGTR--
+210402002 Lenningen, Basilika   01627  01627                % 07961 RGTR--
+180305003 Niederdonven, Bei de  01634  01634                % 07961 RGTR--
+180305001 Niederdonven, Beim F  01635  01635                % 07961 RGTR--
+180305004 Niederdonven, Op der  01636  01636                % 07961 RGTR--
+180803004 Machtum, Ongkaf       01641  01641                % 07961 RGTR--
+180803003 Machtum, Gellebur     01642  01642                % 07961 RGTR--
+180803002 Machtum, Deisermille  01642  01642                % 07961 RGTR--
+180401005 Grevenmacher, Route   01643  01643                % 07961 RGTR--
+180401002 Grevenmacher, Enner   01645  01645                % 07961 RGTR--
+180401003 Grevenmacher, Gare r  01646                       % 07961 RGTR--
+*Z 07962 RGTR--                                             % 07962 RGTR--
+*L 342      210701006 180401003  01715  01746               % 07962 RGTR--
+*R 2 180401003 210701006 180401003  01715  01746            % 07962 RGTR--
+*G 020 210701006 180401003  01715  01746                    % 07962 RGTR--
+*A VE 210701006 180401003 000038  01715  01746              % 07962 RGTR--
+*I FD 210701006 180401003        0002061  01715  01746      % 07962 RGTR--
+210701006 Remich, Gare routièr         01715                % 07962 RGTR--
+210701008 Remich, Maatebierg    01716  01716                % 07962 RGTR--
+210701003 Remich, Caves St. Ma  01717  01717                % 07962 RGTR--
+210803006 Stadtbredimus, Wandm  01719  01719                % 07962 RGTR--
+210803005 Stadtbredimus, Vinsm  01719  01719                % 07962 RGTR--
+210803003 Stadtbredimus, Schle  01720  01720                % 07962 RGTR--
+210801002 Greiveldange, Gemeng  01724  01724                % 07962 RGTR--
+210402001 Lenningen, Am Aker    01727  01727                % 07962 RGTR--
+210402002 Lenningen, Basilika   01727  01727                % 07962 RGTR--
+180305003 Niederdonven, Bei de  01734  01734                % 07962 RGTR--
+180305001 Niederdonven, Beim F  01735  01735                % 07962 RGTR--
+180305004 Niederdonven, Op der  01736  01736                % 07962 RGTR--
+180803004 Machtum, Ongkaf       01741  01741                % 07962 RGTR--
+180803003 Machtum, Gellebur     01742  01742                % 07962 RGTR--
+180803002 Machtum, Deisermille  01742  01742                % 07962 RGTR--
+180401005 Grevenmacher, Route   01743  01743                % 07962 RGTR--
+180401002 Grevenmacher, Enner   01745  01745                % 07962 RGTR--
+180401003 Grevenmacher, Gare r  01746                       % 07962 RGTR--
+*Z 07963 RGTR--                                             % 07963 RGTR--
+*L 342      210701006 180401003  01815  01846               % 07963 RGTR--
+*R 2 180401003 210701006 180401003  01815  01846            % 07963 RGTR--
+*G 020 210701006 180401003  01815  01846                    % 07963 RGTR--
+*A VE 210701006 180401003 000038  01815  01846              % 07963 RGTR--
+*I FD 210701006 180401003        0002064  01815  01846      % 07963 RGTR--
+210701006 Remich, Gare routièr         01815                % 07963 RGTR--
+210701008 Remich, Maatebierg    01816  01816                % 07963 RGTR--
+210701003 Remich, Caves St. Ma  01817  01817                % 07963 RGTR--
+210803006 Stadtbredimus, Wandm  01819  01819                % 07963 RGTR--
+210803005 Stadtbredimus, Vinsm  01819  01819                % 07963 RGTR--
+210803003 Stadtbredimus, Schle  01820  01820                % 07963 RGTR--
+210801002 Greiveldange, Gemeng  01824  01824                % 07963 RGTR--
+210402001 Lenningen, Am Aker    01827  01827                % 07963 RGTR--
+210402002 Lenningen, Basilika   01827  01827                % 07963 RGTR--
+180305003 Niederdonven, Bei de  01834  01834                % 07963 RGTR--
+180305001 Niederdonven, Beim F  01835  01835                % 07963 RGTR--
+180305004 Niederdonven, Op der  01836  01836                % 07963 RGTR--
+180803004 Machtum, Ongkaf       01841  01841                % 07963 RGTR--
+180803003 Machtum, Gellebur     01842  01842                % 07963 RGTR--
+180803002 Machtum, Deisermille  01842  01842                % 07963 RGTR--
+180401005 Grevenmacher, Route   01843  01843                % 07963 RGTR--
+180401002 Grevenmacher, Enner   01845  01845                % 07963 RGTR--
+180401003 Grevenmacher, Gare r  01846                       % 07963 RGTR--
+*Z 07964 RGTR--                                             % 07964 RGTR--
+*L 342      210701006 180401003  00645  00716               % 07964 RGTR--
+*R 2 180401003 210701006 180401003  00645  00716            % 07964 RGTR--
+*G 020 210701006 180401003  00645  00716                    % 07964 RGTR--
+*A VE 210701006 180401003 000034  00645  00716              % 07964 RGTR--
+*I FD 210701006 180401003        0002336  00645  00716      % 07964 RGTR--
+210701006 Remich, Gare routièr         00645                % 07964 RGTR--
+210701008 Remich, Maatebierg    00646  00646                % 07964 RGTR--
+210701003 Remich, Caves St. Ma  00647  00647                % 07964 RGTR--
+210803006 Stadtbredimus, Wandm  00649  00649                % 07964 RGTR--
+210803005 Stadtbredimus, Vinsm  00649  00649                % 07964 RGTR--
+210803003 Stadtbredimus, Schle  00650  00650                % 07964 RGTR--
+210801002 Greiveldange, Gemeng  00654  00654                % 07964 RGTR--
+210402001 Lenningen, Am Aker    00657  00657                % 07964 RGTR--
+210402002 Lenningen, Basilika   00657  00657                % 07964 RGTR--
+180305003 Niederdonven, Bei de  00704  00704                % 07964 RGTR--
+180305001 Niederdonven, Beim F  00705  00705                % 07964 RGTR--
+180305004 Niederdonven, Op der  00706  00706                % 07964 RGTR--
+180803004 Machtum, Ongkaf       00711  00711                % 07964 RGTR--
+180803003 Machtum, Gellebur     00712  00712                % 07964 RGTR--
+180803002 Machtum, Deisermille  00712  00712                % 07964 RGTR--
+180401005 Grevenmacher, Route   00713  00713                % 07964 RGTR--
+180401002 Grevenmacher, Enner   00715  00715                % 07964 RGTR--
+180401003 Grevenmacher, Gare r  00716                       % 07964 RGTR--
+*Z 07965 RGTR--                                             % 07965 RGTR--
+*L 342      210701006 180401003  00745  00816               % 07965 RGTR--
+*R 2 180401003 210701006 180401003  00745  00816            % 07965 RGTR--
+*G 020 210701006 180401003  00745  00816                    % 07965 RGTR--
+*A VE 210701006 180401003 000034  00745  00816              % 07965 RGTR--
+*I FD 210701006 180401003        0002339  00745  00816      % 07965 RGTR--
+210701006 Remich, Gare routièr         00745                % 07965 RGTR--
+210701008 Remich, Maatebierg    00746  00746                % 07965 RGTR--
+210701003 Remich, Caves St. Ma  00747  00747                % 07965 RGTR--
+210803006 Stadtbredimus, Wandm  00749  00749                % 07965 RGTR--
+210803005 Stadtbredimus, Vinsm  00749  00749                % 07965 RGTR--
+210803003 Stadtbredimus, Schle  00750  00750                % 07965 RGTR--
+210801002 Greiveldange, Gemeng  00754  00754                % 07965 RGTR--
+210402001 Lenningen, Am Aker    00757  00757                % 07965 RGTR--
+210402002 Lenningen, Basilika   00757  00757                % 07965 RGTR--
+180305003 Niederdonven, Bei de  00804  00804                % 07965 RGTR--
+180305001 Niederdonven, Beim F  00805  00805                % 07965 RGTR--
+180305004 Niederdonven, Op der  00806  00806                % 07965 RGTR--
+180803004 Machtum, Ongkaf       00811  00811                % 07965 RGTR--
+180803003 Machtum, Gellebur     00812  00812                % 07965 RGTR--
+180803002 Machtum, Deisermille  00812  00812                % 07965 RGTR--
+180401005 Grevenmacher, Route   00813  00813                % 07965 RGTR--
+180401002 Grevenmacher, Enner   00815  00815                % 07965 RGTR--
+180401003 Grevenmacher, Gare r  00816                       % 07965 RGTR--
+*Z 07966 RGTR--                                             % 07966 RGTR--
+*L 342      210701006 180401003  00845  00916               % 07966 RGTR--
+*R 2 180401003 210701006 180401003  00845  00916            % 07966 RGTR--
+*G 020 210701006 180401003  00845  00916                    % 07966 RGTR--
+*A VE 210701006 180401003 000034  00845  00916              % 07966 RGTR--
+*I FD 210701006 180401003        0002340  00845  00916      % 07966 RGTR--
+210701006 Remich, Gare routièr         00845                % 07966 RGTR--
+210701008 Remich, Maatebierg    00846  00846                % 07966 RGTR--
+210701003 Remich, Caves St. Ma  00847  00847                % 07966 RGTR--
+210803006 Stadtbredimus, Wandm  00849  00849                % 07966 RGTR--
+210803005 Stadtbredimus, Vinsm  00849  00849                % 07966 RGTR--
+210803003 Stadtbredimus, Schle  00850  00850                % 07966 RGTR--
+210801002 Greiveldange, Gemeng  00854  00854                % 07966 RGTR--
+210402001 Lenningen, Am Aker    00857  00857                % 07966 RGTR--
+210402002 Lenningen, Basilika   00857  00857                % 07966 RGTR--
+180305003 Niederdonven, Bei de  00904  00904                % 07966 RGTR--
+180305001 Niederdonven, Beim F  00905  00905                % 07966 RGTR--
+180305004 Niederdonven, Op der  00906  00906                % 07966 RGTR--
+180803004 Machtum, Ongkaf       00911  00911                % 07966 RGTR--
+180803003 Machtum, Gellebur     00912  00912                % 07966 RGTR--
+180803002 Machtum, Deisermille  00912  00912                % 07966 RGTR--
+180401005 Grevenmacher, Route   00913  00913                % 07966 RGTR--
+180401002 Grevenmacher, Enner   00915  00915                % 07966 RGTR--
+180401003 Grevenmacher, Gare r  00916                       % 07966 RGTR--
+*Z 07967 RGTR--                                             % 07967 RGTR--
+*L 342      210701006 180401003  01645  01716               % 07967 RGTR--
+*R 2 180401003 210701006 180401003  01645  01716            % 07967 RGTR--
+*G 020 210701006 180401003  01645  01716                    % 07967 RGTR--
+*A VE 210701006 180401003 000034  01645  01716              % 07967 RGTR--
+*I FD 210701006 180401003        0001236  01645  01716      % 07967 RGTR--
+210701006 Remich, Gare routièr         01645                % 07967 RGTR--
+210701008 Remich, Maatebierg    01646  01646                % 07967 RGTR--
+210701003 Remich, Caves St. Ma  01647  01647                % 07967 RGTR--
+210803006 Stadtbredimus, Wandm  01649  01649                % 07967 RGTR--
+210803005 Stadtbredimus, Vinsm  01649  01649                % 07967 RGTR--
+210803003 Stadtbredimus, Schle  01650  01650                % 07967 RGTR--
+210801002 Greiveldange, Gemeng  01654  01654                % 07967 RGTR--
+210402001 Lenningen, Am Aker    01657  01657                % 07967 RGTR--
+210402002 Lenningen, Basilika   01657  01657                % 07967 RGTR--
+180305003 Niederdonven, Bei de  01704  01704                % 07967 RGTR--
+180305001 Niederdonven, Beim F  01705  01705                % 07967 RGTR--
+180305004 Niederdonven, Op der  01706  01706                % 07967 RGTR--
+180803004 Machtum, Ongkaf       01711  01711                % 07967 RGTR--
+180803003 Machtum, Gellebur     01712  01712                % 07967 RGTR--
+180803002 Machtum, Deisermille  01712  01712                % 07967 RGTR--
+180401005 Grevenmacher, Route   01713  01713                % 07967 RGTR--
+180401002 Grevenmacher, Enner   01715  01715                % 07967 RGTR--
+180401003 Grevenmacher, Gare r  01716                       % 07967 RGTR--
+*Z 07968 RGTR--                                             % 07968 RGTR--
+*L 342      210701006 180401003  01745  01816               % 07968 RGTR--
+*R 2 180401003 210701006 180401003  01745  01816            % 07968 RGTR--
+*G 020 210701006 180401003  01745  01816                    % 07968 RGTR--
+*A VE 210701006 180401003 000034  01745  01816              % 07968 RGTR--
+*I FD 210701006 180401003        0002063  01745  01816      % 07968 RGTR--
+210701006 Remich, Gare routièr         01745                % 07968 RGTR--
+210701008 Remich, Maatebierg    01746  01746                % 07968 RGTR--
+210701003 Remich, Caves St. Ma  01747  01747                % 07968 RGTR--
+210803006 Stadtbredimus, Wandm  01749  01749                % 07968 RGTR--
+210803005 Stadtbredimus, Vinsm  01749  01749                % 07968 RGTR--
+210803003 Stadtbredimus, Schle  01750  01750                % 07968 RGTR--
+210801002 Greiveldange, Gemeng  01754  01754                % 07968 RGTR--
+210402001 Lenningen, Am Aker    01757  01757                % 07968 RGTR--
+210402002 Lenningen, Basilika   01757  01757                % 07968 RGTR--
+180305003 Niederdonven, Bei de  01804  01804                % 07968 RGTR--
+180305001 Niederdonven, Beim F  01805  01805                % 07968 RGTR--
+180305004 Niederdonven, Op der  01806  01806                % 07968 RGTR--
+180803004 Machtum, Ongkaf       01811  01811                % 07968 RGTR--
+180803003 Machtum, Gellebur     01812  01812                % 07968 RGTR--
+180803002 Machtum, Deisermille  01812  01812                % 07968 RGTR--
+180401005 Grevenmacher, Route   01813  01813                % 07968 RGTR--
+180401002 Grevenmacher, Enner   01815  01815                % 07968 RGTR--
+180401003 Grevenmacher, Gare r  01816                       % 07968 RGTR--

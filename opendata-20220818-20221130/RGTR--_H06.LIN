@@ -1,0 +1,133 @@
+*F 03 2
+*Z 18560 RGTR--                                             % 18560 RGTR--
+*L H06      210701012 160904007  00635  00757               % 18560 RGTR--
+*A cj 210701012 160904007 000042  00635  00757              % 18560 RGTR--
+*A ad 210701012 160904007 000042  00635  00757              % 18560 RGTR--
+*R 1 160904007 210701012 160904007  00635  00757            % 18560 RGTR--
+*G 050 210701012 160904007  00635  00757                    % 18560 RGTR--
+*A VE 210701012 160904007 000042  00635  00757              % 18560 RGTR--
+*I FD 210701012 160904007        0002019  00635  00757      % 18560 RGTR--
+210701012 Remich, Pl. Nico Klo         00635                % 18560 RGTR--
+210701024 Remich, Schoul        00635  00635                % 18560 RGTR--
+210701006 Remich, Gare routièr  00638  00638                % 18560 RGTR--
+210701008 Remich, Maatebierg    00639  00639                % 18560 RGTR--
+210701003 Remich, Caves St. Ma  00641  00641                % 18560 RGTR--
+210803006 Stadtbredimus, Wandm  00642  00642                % 18560 RGTR--
+210803005 Stadtbredimus, Vinsm  00642  00642                % 18560 RGTR--
+210803004 Stadtbredimus, Schou  00644  00644                % 18560 RGTR--
+210803001 Stadtbredimus, Dicks  00644  00644                % 18560 RGTR--
+210102002 Bous, Herdermillen    00646  00646                % 18560 RGTR--
+210102001 Bous, Enner dem Pavé  00647  00647                % 18560 RGTR--
+210102004 Bous, Kierch          00647  00647                % 18560 RGTR--
+210102003 Bous, Kapell          00648  00648                % 18560 RGTR--
+210103001 Erpeldange/Bous, Krä  00651  00651                % 18560 RGTR--
+210103002 Erpeldange/Bous, Rol  00652  00652                % 18560 RGTR--
+210104001 Rolling/Bous          00653  00653                % 18560 RGTR--
+210101001 Assel                 00654  00654                % 18560 RGTR--
+210904002 Waldbredimus, Kiirch  00658  00658                % 18560 RGTR--
+210904001 Waldbredimus, Hanner  00659  00659                % 18560 RGTR--
+210902001 Roedt                 00703  00703                % 18560 RGTR--
+210903001 Trintange, Trenteng   00703  00703                % 18560 RGTR--
+210901001 Ersange/Ierséng       00704  00704                % 18560 RGTR--
+200203004 Moutfort-Kiem         00706  00706                % 18560 RGTR--
+200203003 Moutfort, Kapell      00707  00707                % 18560 RGTR--
+200203002 Moutfort, Juxgaass    00709  00709                % 18560 RGTR--
+200205001 Milbech               00709  00709                % 18560 RGTR--
+200201006 Contern, Millewee     00712  00712                % 18560 RGTR--
+200201003 Contern, Kiircheplaz  00712  00712                % 18560 RGTR--
+200201004 Contern, Kräizgaass   00713  00713                % 18560 RGTR--
+200201001 Contern, Birewee      00714  00714                % 18560 RGTR--
+180505001 Eisenborn, Am Duerf   00738  00738                % 18560 RGTR--
+160801001 Asselscheuer/Uessels  00739  00739                % 18560 RGTR--
+160802003 Blaschette, r.de Wor  00741  00741                % 18560 RGTR--
+160802002 Blaschette, Kreizung  00741  00741                % 18560 RGTR--
+160807004 Lorentzweiler, rue d  00744  00744                % 18560 RGTR--
+160904007 Mersch, Lycée Ermesi  00757                       % 18560 RGTR--
+*Z 18561 RGTR--                                             % 18561 RGTR--
+*L H06      160904007 210701012  01410  01522               % 18561 RGTR--
+*A cj 160904007 210701012 000011  01410  01522              % 18561 RGTR--
+*A ad 160904007 210701012 000011  01410  01522              % 18561 RGTR--
+*R 2 210701012 160904007 210701012  01410  01522            % 18561 RGTR--
+*G 050 160904007 210701012  01410  01522                    % 18561 RGTR--
+*A VE 160904007 210701012 000011  01410  01522              % 18561 RGTR--
+*I FD 160904007 210701012        0001988  01410  01522      % 18561 RGTR--
+160904007 Mersch, Lycée Ermesi         01410                % 18561 RGTR--
+160807004 Lorentzweiler, rue d  01422  01422                % 18561 RGTR--
+160802002 Blaschette, Kreizung  01425  01425                % 18561 RGTR--
+160802003 Blaschette, r.de Wor  01426  01426                % 18561 RGTR--
+160801001 Asselscheuer/Uessels  01427  01427                % 18561 RGTR--
+180505001 Eisenborn, Am Duerf   01429  01429                % 18561 RGTR--
+200201001 Contern, Birewee      01448  01448                % 18561 RGTR--
+200201004 Contern, Kräizgaass   01448  01448                % 18561 RGTR--
+200201003 Contern, Kiircheplaz  01449  01449                % 18561 RGTR--
+200201006 Contern, Millewee     01449  01449                % 18561 RGTR--
+200205001 Milbech               01451  01451                % 18561 RGTR--
+200203002 Moutfort, Juxgaass    01452  01452                % 18561 RGTR--
+200203003 Moutfort, Kapell      01453  01453                % 18561 RGTR--
+200203004 Moutfort-Kiem         01454  01454                % 18561 RGTR--
+210901001 Ersange/Ierséng       01455  01455                % 18561 RGTR--
+210903001 Trintange, Trenteng   01456  01456                % 18561 RGTR--
+210902001 Roedt                 01457  01457                % 18561 RGTR--
+210904001 Waldbredimus, Hanner  01500  01500                % 18561 RGTR--
+210904002 Waldbredimus, Kiirch  01501  01501                % 18561 RGTR--
+210101001 Assel                 01504  01504                % 18561 RGTR--
+210104001 Rolling/Bous          01505  01505                % 18561 RGTR--
+210103002 Erpeldange/Bous, Rol  01507  01507                % 18561 RGTR--
+210103001 Erpeldange/Bous, Krä  01507  01507                % 18561 RGTR--
+210102003 Bous, Kapell          01509  01509                % 18561 RGTR--
+210102004 Bous, Kierch          01510  01510                % 18561 RGTR--
+210102001 Bous, Enner dem Pavé  01511  01511                % 18561 RGTR--
+210102002 Bous, Herdermillen    01511  01511                % 18561 RGTR--
+210803001 Stadtbredimus, Dicks  01513  01513                % 18561 RGTR--
+210803002 Stadtbredimus, Kreiz  01514  01514                % 18561 RGTR--
+210803005 Stadtbredimus, Vinsm  01515  01515                % 18561 RGTR--
+210803006 Stadtbredimus, Wandm  01515  01515                % 18561 RGTR--
+210701003 Remich, Caves St. Ma  01516  01516                % 18561 RGTR--
+210701008 Remich, Maatebierg    01517  01517                % 18561 RGTR--
+210701006 Remich, Gare routièr  01519  01519                % 18561 RGTR--
+210701024 Remich, Schoul        01521  01521                % 18561 RGTR--
+210701012 Remich, Pl. Nico Klo  01522                       % 18561 RGTR--
+*Z 18562 RGTR--                                             % 18562 RGTR--
+*L H06      160904007 210701012  01630  01747               % 18562 RGTR--
+*A cj 160904007 210701012 000335  01630  01747              % 18562 RGTR--
+*A ad 160904007 210701012 000335  01630  01747              % 18562 RGTR--
+*R 2 210701012 160904007 210701012  01630  01747            % 18562 RGTR--
+*G 050 160904007 210701012  01630  01747                    % 18562 RGTR--
+*A VE 160904007 210701012 000335  01630  01747              % 18562 RGTR--
+*I FD 160904007 210701012        0002059  01630  01747      % 18562 RGTR--
+160904007 Mersch, Lycée Ermesi         01630                % 18562 RGTR--
+160807004 Lorentzweiler, rue d  01643  01643                % 18562 RGTR--
+160802002 Blaschette, Kreizung  01646  01646                % 18562 RGTR--
+160802003 Blaschette, r.de Wor  01647  01647                % 18562 RGTR--
+160801001 Asselscheuer/Uessels  01648  01648                % 18562 RGTR--
+180505001 Eisenborn, Am Duerf   01650  01650                % 18562 RGTR--
+200201001 Contern, Birewee      01710  01710                % 18562 RGTR--
+200201004 Contern, Kräizgaass   01710  01710                % 18562 RGTR--
+200201003 Contern, Kiircheplaz  01711  01711                % 18562 RGTR--
+200201006 Contern, Millewee     01711  01711                % 18562 RGTR--
+200205001 Milbech               01713  01713                % 18562 RGTR--
+200203002 Moutfort, Juxgaass    01714  01714                % 18562 RGTR--
+200203003 Moutfort, Kapell      01716  01716                % 18562 RGTR--
+200203004 Moutfort-Kiem         01716  01716                % 18562 RGTR--
+210901001 Ersange/Ierséng       01718  01718                % 18562 RGTR--
+210903001 Trintange, Trenteng   01719  01719                % 18562 RGTR--
+210902001 Roedt                 01720  01720                % 18562 RGTR--
+210904001 Waldbredimus, Hanner  01723  01723                % 18562 RGTR--
+210904002 Waldbredimus, Kiirch  01725  01725                % 18562 RGTR--
+210101001 Assel                 01728  01728                % 18562 RGTR--
+210104001 Rolling/Bous          01729  01729                % 18562 RGTR--
+210103002 Erpeldange/Bous, Rol  01730  01730                % 18562 RGTR--
+210103001 Erpeldange/Bous, Krä  01731  01731                % 18562 RGTR--
+210102003 Bous, Kapell          01733  01733                % 18562 RGTR--
+210102004 Bous, Kierch          01734  01734                % 18562 RGTR--
+210102001 Bous, Enner dem Pavé  01734  01734                % 18562 RGTR--
+210102002 Bous, Herdermillen    01735  01735                % 18562 RGTR--
+210803001 Stadtbredimus, Dicks  01737  01737                % 18562 RGTR--
+210803002 Stadtbredimus, Kreiz  01738  01738                % 18562 RGTR--
+210803005 Stadtbredimus, Vinsm  01738  01738                % 18562 RGTR--
+210803006 Stadtbredimus, Wandm  01739  01739                % 18562 RGTR--
+210701003 Remich, Caves St. Ma  01740  01740                % 18562 RGTR--
+210701008 Remich, Maatebierg    01741  01741                % 18562 RGTR--
+210701006 Remich, Gare routièr  01743  01743                % 18562 RGTR--
+210701024 Remich, Schoul        01746  01746                % 18562 RGTR--
+210701012 Remich, Pl. Nico Klo  01747                       % 18562 RGTR--

@@ -1,0 +1,157 @@
+*F 03 2
+*Z 19034 RGTR--                                             % 19034 RGTR--
+*L R05      200302001 210503012  00705  00746               % 19034 RGTR--
+*A cj 200302001 210503012 000042  00705  00746              % 19034 RGTR--
+*A ad 200302001 210503012 000042  00705  00746              % 19034 RGTR--
+*R 1 210503012 200302001 210503012  00705  00746            % 19034 RGTR--
+*G 070 200302001 210503012  00705  00746                    % 19034 RGTR--
+*A VE 200302001 210503012 000042  00705  00746              % 19034 RGTR--
+*I FD 200302001 210503012        0002027  00705  00746      % 19034 RGTR--
+200302001 Fentange, Duelemerba         00705                % 19034 RGTR--
+200302003 Fentange, Hiehl       00705  00705                % 19034 RGTR--
+200302002 Fentange, Fuertwee    00706  00706                % 19034 RGTR--
+200302004 Fentange, Op de Leem  00707  00707                % 19034 RGTR--
+221102001 Bivange, Edward Stei  00709  00709                % 19034 RGTR--
+221102002 Bivange, Schoul       00710  00710                % 19034 RGTR--
+221104002 Livange, Geespelt     00712  00712                % 19034 RGTR--
+221104001 Livange, Am Duerf     00713  00713                % 19034 RGTR--
+221105001 Peppange, Duerfplaz   00715  00715                % 19034 RGTR--
+221105003 Peppange, Musée       00716  00716                % 19034 RGTR--
+221105002 Peppange, Kirchwois   00717  00717                % 19034 RGTR--
+221103002 Crauthem, Beim Schla  00718  00718                % 19034 RGTR--
+221103001 Crauthem, Am Gruef    00719  00719                % 19034 RGTR--
+221106002 Roeser, Gemeng        00720  00720                % 19034 RGTR--
+201103004 Weiler-la-Tour, Schl  00725  00725                % 19034 RGTR--
+201103003 Weiler-la-Tour, Hueh  00726  00726                % 19034 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00727  00727                % 19034 RGTR--
+201103005 Weiler-la-Tour, Peke  00728  00728                % 19034 RGTR--
+201101001 Hassel, Dielchen      00729  00729                % 19034 RGTR--
+201101002 Hassel, Karmesch      00730  00730                % 19034 RGTR--
+210302002 Filsdorf, Wäschbour   00734  00734                % 19034 RGTR--
+220501002 Aspelt, Gare          00737  00737                % 19034 RGTR--
+220501001 Aspelt, Am Grëndchen  00738  00738                % 19034 RGTR--
+210501002 Altwies, Beckeschmil  00740  00740                % 19034 RGTR--
+210501001 Altwies, An der Kaz   00741  00741                % 19034 RGTR--
+210501004 Altwies, Millbaach    00742  00742                % 19034 RGTR--
+210503005 Mondorf-les-Bains, K  00743  00743                % 19034 RGTR--
+210503001 Mondorf-les-Bains, B  00743  00743                % 19034 RGTR--
+210503003 Mondorf-les-Bains, C  00744  00744                % 19034 RGTR--
+210503002 Mondorf-les-Bains, C  00745  00745                % 19034 RGTR--
+210503012 Mondorf-les-Bains, E  00746                       % 19034 RGTR--
+*Z 19035 RGTR--                                             % 19035 RGTR--
+*L R05      210503012 200302001  01610  01650               % 19035 RGTR--
+*A cj 210503012 200302001 000347  01610  01650              % 19035 RGTR--
+*A ad 210503012 200302001 000347  01610  01650              % 19035 RGTR--
+*R 2 200302001 210503012 200302001  01610  01650            % 19035 RGTR--
+*G 070 210503012 200302001  01610  01650                    % 19035 RGTR--
+*A VE 210503012 200302001 000347  01610  01650              % 19035 RGTR--
+*I FD 210503012 200302001        0001997  01610  01650      % 19035 RGTR--
+210503012 Mondorf-les-Bains, E         01610                % 19035 RGTR--
+210503002 Mondorf-les-Bains, C  01612  01612                % 19035 RGTR--
+210503003 Mondorf-les-Bains, C  01613  01613                % 19035 RGTR--
+210503001 Mondorf-les-Bains, B  01613  01613                % 19035 RGTR--
+210503005 Mondorf-les-Bains, K  01614  01614                % 19035 RGTR--
+210501004 Altwies, Millbaach    01615  01615                % 19035 RGTR--
+210501003 Altwies, Bourgässel   01616  01616                % 19035 RGTR--
+210501002 Altwies, Beckeschmil  01616  01616                % 19035 RGTR--
+220501001 Aspelt, Am Grëndchen  01618  01618                % 19035 RGTR--
+220501002 Aspelt, Gare          01619  01619                % 19035 RGTR--
+210302002 Filsdorf, Wäschbour   01622  01622                % 19035 RGTR--
+201101002 Hassel, Karmesch      01626  01626                % 19035 RGTR--
+201101001 Hassel, Dielchen      01627  01627                % 19035 RGTR--
+201103005 Weiler-la-Tour, Peke  01628  01628                % 19035 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01629  01629                % 19035 RGTR--
+201103003 Weiler-la-Tour, Hueh  01630  01630                % 19035 RGTR--
+201103004 Weiler-la-Tour, Schl  01632  01632                % 19035 RGTR--
+221106002 Roeser, Gemeng        01635  01635                % 19035 RGTR--
+221103001 Crauthem, Am Gruef    01636  01636                % 19035 RGTR--
+221103002 Crauthem, Beim Schla  01637  01637                % 19035 RGTR--
+221105002 Peppange, Kirchwois   01638  01638                % 19035 RGTR--
+221105003 Peppange, Musée       01639  01639                % 19035 RGTR--
+221105001 Peppange, Duerfplaz   01640  01640                % 19035 RGTR--
+221104001 Livange, Am Duerf     01642  01642                % 19035 RGTR--
+221104002 Livange, Geespelt     01643  01643                % 19035 RGTR--
+221102002 Bivange, Schoul       01645  01645                % 19035 RGTR--
+221102001 Bivange, Edward Stei  01646  01646                % 19035 RGTR--
+200302004 Fentange, Op de Leem  01648  01648                % 19035 RGTR--
+200302002 Fentange, Fuertwee    01649  01649                % 19035 RGTR--
+200302003 Fentange, Hiehl       01650  01650                % 19035 RGTR--
+200302001 Fentange, Duelemerba  01650                       % 19035 RGTR--
+*Z 19036 RGTR--                                             % 19036 RGTR--
+*L R05      210503012 200302001  01225  01304               % 19036 RGTR--
+*A cj 210503012 200302001 000046  01225  01304              % 19036 RGTR--
+*A ad 210503012 200302001 000046  01225  01304              % 19036 RGTR--
+*R 2 200302001 210503012 200302001  01225  01304            % 19036 RGTR--
+*G 050 210503012 200302001  01225  01304                    % 19036 RGTR--
+*A VE 210503012 200302001 000046  01225  01304              % 19036 RGTR--
+*I FD 210503012 200302001        0002422  01225  01304      % 19036 RGTR--
+210503012 Mondorf-les-Bains, E         01225                % 19036 RGTR--
+210503002 Mondorf-les-Bains, C  01226  01226                % 19036 RGTR--
+210503003 Mondorf-les-Bains, C  01227  01227                % 19036 RGTR--
+210503001 Mondorf-les-Bains, B  01228  01228                % 19036 RGTR--
+210503005 Mondorf-les-Bains, K  01229  01229                % 19036 RGTR--
+210501004 Altwies, Millbaach    01230  01230                % 19036 RGTR--
+210501003 Altwies, Bourgässel   01230  01230                % 19036 RGTR--
+210501002 Altwies, Beckeschmil  01231  01231                % 19036 RGTR--
+220501001 Aspelt, Am Grëndchen  01233  01233                % 19036 RGTR--
+220501002 Aspelt, Gare          01234  01234                % 19036 RGTR--
+210302002 Filsdorf, Wäschbour   01237  01237                % 19036 RGTR--
+201101002 Hassel, Karmesch      01241  01241                % 19036 RGTR--
+201101001 Hassel, Dielchen      01241  01241                % 19036 RGTR--
+201103005 Weiler-la-Tour, Peke  01242  01242                % 19036 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01243  01243                % 19036 RGTR--
+201103003 Weiler-la-Tour, Hueh  01244  01244                % 19036 RGTR--
+201103004 Weiler-la-Tour, Schl  01246  01246                % 19036 RGTR--
+221106002 Roeser, Gemeng        01249  01249                % 19036 RGTR--
+221103001 Crauthem, Am Gruef    01250  01250                % 19036 RGTR--
+221103002 Crauthem, Beim Schla  01251  01251                % 19036 RGTR--
+221105002 Peppange, Kirchwois   01252  01252                % 19036 RGTR--
+221105003 Peppange, Musée       01253  01253                % 19036 RGTR--
+221105001 Peppange, Duerfplaz   01254  01254                % 19036 RGTR--
+221104001 Livange, Am Duerf     01256  01256                % 19036 RGTR--
+221104002 Livange, Geespelt     01257  01257                % 19036 RGTR--
+221102002 Bivange, Schoul       01259  01259                % 19036 RGTR--
+221102001 Bivange, Edward Stei  01300  01300                % 19036 RGTR--
+200302004 Fentange, Op de Leem  01302  01302                % 19036 RGTR--
+200302002 Fentange, Fuertwee    01303  01303                % 19036 RGTR--
+200302003 Fentange, Hiehl       01304  01304                % 19036 RGTR--
+200302001 Fentange, Duelemerba  01304                       % 19036 RGTR--
+*Z 19037 RGTR--                                             % 19037 RGTR--
+*L R05      210503012 200302001  01310  01349               % 19037 RGTR--
+*A cj 210503012 200302001 000348  01310  01349              % 19037 RGTR--
+*A ad 210503012 200302001 000348  01310  01349              % 19037 RGTR--
+*R 2 200302001 210503012 200302001  01310  01349            % 19037 RGTR--
+*G 050 210503012 200302001  01310  01349                    % 19037 RGTR--
+*A VE 210503012 200302001 000348  01310  01349              % 19037 RGTR--
+*I FD 210503012 200302001        0001987  01310  01349      % 19037 RGTR--
+210503012 Mondorf-les-Bains, E         01310                % 19037 RGTR--
+210503002 Mondorf-les-Bains, C  01311  01311                % 19037 RGTR--
+210503003 Mondorf-les-Bains, C  01312  01312                % 19037 RGTR--
+210503001 Mondorf-les-Bains, B  01313  01313                % 19037 RGTR--
+210503005 Mondorf-les-Bains, K  01314  01314                % 19037 RGTR--
+210501004 Altwies, Millbaach    01315  01315                % 19037 RGTR--
+210501003 Altwies, Bourgässel   01315  01315                % 19037 RGTR--
+210501002 Altwies, Beckeschmil  01316  01316                % 19037 RGTR--
+220501001 Aspelt, Am Grëndchen  01318  01318                % 19037 RGTR--
+220501002 Aspelt, Gare          01319  01319                % 19037 RGTR--
+210302002 Filsdorf, Wäschbour   01322  01322                % 19037 RGTR--
+201101002 Hassel, Karmesch      01326  01326                % 19037 RGTR--
+201101001 Hassel, Dielchen      01326  01326                % 19037 RGTR--
+201103005 Weiler-la-Tour, Peke  01327  01327                % 19037 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01328  01328                % 19037 RGTR--
+201103003 Weiler-la-Tour, Hueh  01329  01329                % 19037 RGTR--
+201103004 Weiler-la-Tour, Schl  01331  01331                % 19037 RGTR--
+221106002 Roeser, Gemeng        01334  01334                % 19037 RGTR--
+221103001 Crauthem, Am Gruef    01335  01335                % 19037 RGTR--
+221103002 Crauthem, Beim Schla  01336  01336                % 19037 RGTR--
+221105002 Peppange, Kirchwois   01337  01337                % 19037 RGTR--
+221105003 Peppange, Musée       01338  01338                % 19037 RGTR--
+221105001 Peppange, Duerfplaz   01339  01339                % 19037 RGTR--
+221104001 Livange, Am Duerf     01341  01341                % 19037 RGTR--
+221104002 Livange, Geespelt     01342  01342                % 19037 RGTR--
+221102002 Bivange, Schoul       01344  01344                % 19037 RGTR--
+221102001 Bivange, Edward Stei  01345  01345                % 19037 RGTR--
+200302004 Fentange, Op de Leem  01347  01347                % 19037 RGTR--
+200302002 Fentange, Fuertwee    01348  01348                % 19037 RGTR--
+200302003 Fentange, Hiehl       01349  01349                % 19037 RGTR--
+200302001 Fentange, Duelemerba  01349                       % 19037 RGTR--

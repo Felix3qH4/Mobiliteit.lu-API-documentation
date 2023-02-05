@@ -1,0 +1,161 @@
+*F 03 2
+*Z 18492 RGTR--                                             % 18492 RGTR--
+*L E27      200419021 160805002  01403  01430               % 18492 RGTR--
+*A cj 200419021 160805002 000042  01403  01430              % 18492 RGTR--
+*A BE 200419021 160805002 000042  01403  01430              % 18492 RGTR--
+*A ad 200419021 160805002 000042  01403  01430              % 18492 RGTR--
+*R 1 160805002 200419021 160805002  01403  01430            % 18492 RGTR--
+*G 090 200419021 160805002  01403  01430                    % 18492 RGTR--
+*A VE 200419021 160805002 000042  01403  01430              % 18492 RGTR--
+*I FD 200419021 160805002        0002093  01403  01430      % 18492 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 18492 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 18492 RGTR--
+201001004 Bereldange, Rue du P  01417  01417                % 18492 RGTR--
+201001003 Bereldange, Schoul    01417  01417                % 18492 RGTR--
+201001002 Bereldange, Police    01418  01418                % 18492 RGTR--
+201004002 Walferdange, Gemenge  01419  01419                % 18492 RGTR--
+201003004 Helmsange, Tricenten  01420  01420                % 18492 RGTR--
+201003002 Helmsange, Mercatori  01420  01420                % 18492 RGTR--
+201003003 Heisdorf, Millewee    01421  01421                % 18492 RGTR--
+200802002 Heisdorf, Bei der Pa  01421  01421                % 18492 RGTR--
+200802004 Heisdorf, Klouster    01422  01422                % 18492 RGTR--
+200802001 Heisdorf, Altersheem  01423  01423                % 18492 RGTR--
+200801001 Müllendorf/Mëlleref   01424  01424                % 18492 RGTR--
+200801007 Steinsel, Schoul      01424  01424                % 18492 RGTR--
+200801002 Steinsel, Bourgaass   01425  01425                % 18492 RGTR--
+200801005 Steinsel, Michel Rod  01426  01426                % 18492 RGTR--
+200801012 Mullendorf, Op der M  01427  01427                % 18492 RGTR--
+160805001 Hunsdorf, Alsbich     01429  01429                % 18492 RGTR--
+160805002 Hunsdorf, Bei der Ki  01430                       % 18492 RGTR--
+*Z 18493 RGTR--                                             % 18493 RGTR--
+*L E27      200419021 160805002  01510  01539               % 18493 RGTR--
+*A cj 200419021 160805002 000042  01510  01539              % 18493 RGTR--
+*A ad 200419021 160805002 000042  01510  01539              % 18493 RGTR--
+*R 1 160805002 200419021 160805002  01510  01539            % 18493 RGTR--
+*G 063 200419021 160805002  01510  01539                    % 18493 RGTR--
+*A VE 200419021 160805002 000042  01510  01539              % 18493 RGTR--
+*I FD 200419021 160805002        0002757  01510  01539      % 18493 RGTR--
+200419021 Limpertsberg, L.T.C.         01510                % 18493 RGTR--
+200419025 Limpertsberg, Lycée   01514  01514                % 18493 RGTR--
+201001004 Bereldange, Rue du P  01524  01524                % 18493 RGTR--
+201001003 Bereldange, Schoul    01524  01524                % 18493 RGTR--
+201001002 Bereldange, Police    01525  01525                % 18493 RGTR--
+201004002 Walferdange, Gemenge  01526  01526                % 18493 RGTR--
+201003001 Helmsange, Barriär    01527  01527                % 18493 RGTR--
+201004003 Walferdange, Gare ro  01528  01528                % 18493 RGTR--
+201003004 Helmsange, Tricenten  01529  01529                % 18493 RGTR--
+201003002 Helmsange, Mercatori  01529  01529                % 18493 RGTR--
+201003003 Heisdorf, Millewee    01530  01530                % 18493 RGTR--
+200802002 Heisdorf, Bei der Pa  01531  01531                % 18493 RGTR--
+200802004 Heisdorf, Klouster    01531  01531                % 18493 RGTR--
+200802001 Heisdorf, Altersheem  01532  01532                % 18493 RGTR--
+200801001 Müllendorf/Mëlleref   01533  01533                % 18493 RGTR--
+200801007 Steinsel, Schoul      01534  01534                % 18493 RGTR--
+200801002 Steinsel, Bourgaass   01534  01534                % 18493 RGTR--
+200801005 Steinsel, Michel Rod  01535  01535                % 18493 RGTR--
+200801012 Mullendorf, Op der M  01537  01537                % 18493 RGTR--
+160805001 Hunsdorf, Alsbich     01538  01538                % 18493 RGTR--
+160805002 Hunsdorf, Bei der Ki  01539                       % 18493 RGTR--
+*Z 18494 RGTR--                                             % 18494 RGTR--
+*L E27      200419021 200801005  01535  01603               % 18494 RGTR--
+*A cj 200419021 200801005 000047  01535  01603              % 18494 RGTR--
+*A ad 200419021 200801005 000047  01535  01603              % 18494 RGTR--
+*R 1 200801005 200419021 200801005  01535  01603            % 18494 RGTR--
+*G 060 200419021 200801005  01535  01603                    % 18494 RGTR--
+*A VE 200419021 200801005 000047  01535  01603              % 18494 RGTR--
+*I FD 200419021 200801005        0001193  01535  01603      % 18494 RGTR--
+200419021 Limpertsberg, L.T.C.         01535                % 18494 RGTR--
+200419025 Limpertsberg, Lycée   01539  01539                % 18494 RGTR--
+200419009 Limpertsberg, Bd.P.   01542  01542                % 18494 RGTR--
+201001004 Bereldange, Rue du P  01552  01552                % 18494 RGTR--
+201001003 Bereldange, Schoul    01552  01552                % 18494 RGTR--
+201001002 Bereldange, Police    01553  01553                % 18494 RGTR--
+201004002 Walferdange, Gemenge  01554  01554                % 18494 RGTR--
+201003001 Helmsange, Barriär    01555  01555                % 18494 RGTR--
+201004003 Walferdange, Gare ro  01556  01556                % 18494 RGTR--
+201003004 Helmsange, Tricenten  01557  01557                % 18494 RGTR--
+201003002 Helmsange, Mercatori  01557  01557                % 18494 RGTR--
+201003003 Heisdorf, Millewee    01558  01558                % 18494 RGTR--
+200802002 Heisdorf, Bei der Pa  01559  01559                % 18494 RGTR--
+200802004 Heisdorf, Klouster    01559  01559                % 18494 RGTR--
+200802001 Heisdorf, Altersheem  01600  01600                % 18494 RGTR--
+200801001 Müllendorf/Mëlleref   01601  01601                % 18494 RGTR--
+200801007 Steinsel, Schoul      01602  01602                % 18494 RGTR--
+200801002 Steinsel, Bourgaass   01602  01602                % 18494 RGTR--
+200801005 Steinsel, Michel Rod  01603                       % 18494 RGTR--
+*Z 18495 RGTR--                                             % 18495 RGTR--
+*L E27      200419021 160805002  01145  01217               % 18495 RGTR--
+*A cj 200419021 160805002 000046  01145  01217              % 18495 RGTR--
+*A BE 200419021 160805002 000046  01145  01217              % 18495 RGTR--
+*A ad 200419021 160805002 000046  01145  01217              % 18495 RGTR--
+*R 1 160805002 200419021 160805002  01145  01217            % 18495 RGTR--
+*G 090 200419021 160805002  01145  01217                    % 18495 RGTR--
+*A VE 200419021 160805002 000046  01145  01217              % 18495 RGTR--
+*I FD 200419021 160805002        0001956  01145  01217      % 18495 RGTR--
+200419021 Limpertsberg, L.T.C.         01145                % 18495 RGTR--
+200419025 Limpertsberg, Lycée   01149  01149                % 18495 RGTR--
+200419009 Limpertsberg, Bd.P.   01152  01152                % 18495 RGTR--
+201001004 Bereldange, Rue du P  01202  01202                % 18495 RGTR--
+201001003 Bereldange, Schoul    01202  01202                % 18495 RGTR--
+201001002 Bereldange, Police    01203  01203                % 18495 RGTR--
+201004002 Walferdange, Gemenge  01204  01204                % 18495 RGTR--
+201003001 Helmsange, Barriär    01205  01205                % 18495 RGTR--
+201004003 Walferdange, Gare ro  01206  01206                % 18495 RGTR--
+201003004 Helmsange, Tricenten  01207  01207                % 18495 RGTR--
+201003002 Helmsange, Mercatori  01207  01207                % 18495 RGTR--
+201003003 Heisdorf, Millewee    01208  01208                % 18495 RGTR--
+200802002 Heisdorf, Bei der Pa  01209  01209                % 18495 RGTR--
+200802004 Heisdorf, Klouster    01209  01209                % 18495 RGTR--
+200802001 Heisdorf, Altersheem  01210  01210                % 18495 RGTR--
+200801001 Müllendorf/Mëlleref   01211  01211                % 18495 RGTR--
+200801007 Steinsel, Schoul      01212  01212                % 18495 RGTR--
+200801002 Steinsel, Bourgaass   01212  01212                % 18495 RGTR--
+200801005 Steinsel, Michel Rod  01213  01213                % 18495 RGTR--
+200801012 Mullendorf, Op der M  01215  01215                % 18495 RGTR--
+160805001 Hunsdorf, Alsbich     01216  01216                % 18495 RGTR--
+160805002 Hunsdorf, Bei der Ki  01217                       % 18495 RGTR--
+*Z 18496 RGTR--                                             % 18496 RGTR--
+*L E27      200801001 200419021  00716  00742               % 18496 RGTR--
+*A cj 200801001 200419021 000042  00716  00742              % 18496 RGTR--
+*A ad 200801001 200419021 000042  00716  00742              % 18496 RGTR--
+*R 2 200419021 200801001 200419021  00716  00742            % 18496 RGTR--
+*G 063 200801001 200419021  00716  00742                    % 18496 RGTR--
+*A VE 200801001 200419021 000042  00716  00742              % 18496 RGTR--
+*I FD 200801001 200419021        0003258  00716  00742      % 18496 RGTR--
+200801001 Müllendorf/Mëlleref          00716                % 18496 RGTR--
+200802001 Heisdorf, Altersheem  00717  00717                % 18496 RGTR--
+200802004 Heisdorf, Klouster    00718  00718                % 18496 RGTR--
+200802002 Heisdorf, Bei der Pa  00719  00719                % 18496 RGTR--
+201003003 Heisdorf, Millewee    00719  00719                % 18496 RGTR--
+201003002 Helmsange, Mercatori  00720  00720                % 18496 RGTR--
+201003004 Helmsange, Tricenten  00721  00721                % 18496 RGTR--
+201004002 Walferdange, Gemenge  00722  00722                % 18496 RGTR--
+201001002 Bereldange, Police    00723  00723                % 18496 RGTR--
+201001003 Bereldange, Schoul    00724  00724                % 18496 RGTR--
+200402007 Beggen, Rue du Pont   00725  00725                % 18496 RGTR--
+200419037 Limpertsberg, Kiisch  00736  00736                % 18496 RGTR--
+200419025 Limpertsberg, Lycée   00738  00738                % 18496 RGTR--
+200419021 Limpertsberg, L.T.C.  00742                       % 18496 RGTR--
+*Z 18497 RGTR--                                             % 18497 RGTR--
+*L E27      200802001 200419021  00717  00743               % 18497 RGTR--
+*A cj 200802001 200419021 000042  00717  00743              % 18497 RGTR--
+*A BE 200802001 200419021 000042  00717  00743              % 18497 RGTR--
+*A ad 200802001 200419021 000042  00717  00743              % 18497 RGTR--
+*R 2 200419021 200802001 200419021  00717  00743            % 18497 RGTR--
+*G 090 200802001 200419021  00717  00743                    % 18497 RGTR--
+*A VE 200802001 200419021 000042  00717  00743              % 18497 RGTR--
+*I FD 200802001 200419021        0003409  00717  00743      % 18497 RGTR--
+200802001 Heisdorf, Altersheem         00717                % 18497 RGTR--
+200802004 Heisdorf, Klouster    00717  00717                % 18497 RGTR--
+200802002 Heisdorf, Bei der Pa  00718  00718                % 18497 RGTR--
+201003003 Heisdorf, Millewee    00719  00719                % 18497 RGTR--
+201003002 Helmsange, Mercatori  00720  00720                % 18497 RGTR--
+201004003 Walferdange, Gare ro  00721  00721                % 18497 RGTR--
+201003001 Helmsange, Barriär    00722  00722                % 18497 RGTR--
+201004002 Walferdange, Gemenge  00724  00724                % 18497 RGTR--
+201001002 Bereldange, Police    00725  00725                % 18497 RGTR--
+201001003 Bereldange, Schoul    00725  00725                % 18497 RGTR--
+200402007 Beggen, Rue du Pont   00726  00726                % 18497 RGTR--
+200419037 Limpertsberg, Kiisch  00737  00737                % 18497 RGTR--
+200419025 Limpertsberg, Lycée   00739  00739                % 18497 RGTR--
+200419021 Limpertsberg, L.T.C.  00743                       % 18497 RGTR--

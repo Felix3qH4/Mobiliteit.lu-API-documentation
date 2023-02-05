@@ -1,0 +1,1977 @@
+*F 03 2
+*Z 12611 RGTR--                                             % 12611 RGTR--
+*L 234      160904001 160501006  01100  01122               % 12611 RGTR--
+*A CF 160904001 160501006 000039  01100  01122              % 12611 RGTR--
+*R 1 160501006 160904001 160501006  01100  01122            % 12611 RGTR--
+*G 034 160904001 160501006  01100  01122                    % 12611 RGTR--
+*A VE 160904001 160501006 000039  01100  01122              % 12611 RGTR--
+*I FD 160904001 160501006        0001719  01100  01122      % 12611 RGTR--
+160904001 Mersch, Gare routièr         01100                % 12611 RGTR--
+160902002 Rollingen, Fielserst  01102  01102                % 12611 RGTR--
+160910001 Mersch, Bënzert       01104  01104                % 12611 RGTR--
+160401001 Angelsberg, Paafenda  01106  01106                % 12611 RGTR--
+160404001 Schoos, Um Hiervel    01108  01108                % 12611 RGTR--
+160402002 Fischbach/Mersch, Pa  01111  01111                % 12611 RGTR--
+160402001 Fischbach/Mersch, Kr  01111  01111                % 12611 RGTR--
+160403001 Schmët                01113  01113                % 12611 RGTR--
+160602001 Ernzen, Kapell        01117  01117                % 12611 RGTR--
+160602002 Ernzen, Manzebach     01118  01118                % 12611 RGTR--
+160601007 Larochette, Pomjeesb  01119  01119                % 12611 RGTR--
+160501006 Heffingen, Abri (Cen  01122                       % 12611 RGTR--
+*Z 12612 RGTR--                                             % 12612 RGTR--
+*L 234      160904001 160501006  01300  01322               % 12612 RGTR--
+*A CF 160904001 160501006 000039  01300  01322              % 12612 RGTR--
+*R 1 160501006 160904001 160501006  01300  01322            % 12612 RGTR--
+*G 034 160904001 160501006  01300  01322                    % 12612 RGTR--
+*A VE 160904001 160501006 000039  01300  01322              % 12612 RGTR--
+*I FD 160904001 160501006        0001720  01300  01322      % 12612 RGTR--
+160904001 Mersch, Gare routièr         01300                % 12612 RGTR--
+160902002 Rollingen, Fielserst  01302  01302                % 12612 RGTR--
+160910001 Mersch, Bënzert       01304  01304                % 12612 RGTR--
+160401001 Angelsberg, Paafenda  01306  01306                % 12612 RGTR--
+160404001 Schoos, Um Hiervel    01308  01308                % 12612 RGTR--
+160402002 Fischbach/Mersch, Pa  01311  01311                % 12612 RGTR--
+160402001 Fischbach/Mersch, Kr  01311  01311                % 12612 RGTR--
+160403001 Schmët                01313  01313                % 12612 RGTR--
+160602001 Ernzen, Kapell        01317  01317                % 12612 RGTR--
+160602002 Ernzen, Manzebach     01318  01318                % 12612 RGTR--
+160601007 Larochette, Pomjeesb  01319  01319                % 12612 RGTR--
+160501006 Heffingen, Abri (Cen  01322                       % 12612 RGTR--
+*Z 12613 RGTR--                                             % 12613 RGTR--
+*L 234      160904001 160501006  01500  01522               % 12613 RGTR--
+*A CF 160904001 160501006 000039  01500  01522              % 12613 RGTR--
+*A IT 160904001 160501006 000039  01500  01522              % 12613 RGTR--
+*R 1 160501006 160904001 160501006  01500  01522            % 12613 RGTR--
+*G 034 160904001 160501006  01500  01522                    % 12613 RGTR--
+*A VE 160904001 160501006 000039  01500  01522              % 12613 RGTR--
+*I FD 160904001 160501006        0001721  01500  01522      % 12613 RGTR--
+160904001 Mersch, Gare routièr         01500                % 12613 RGTR--
+160902002 Rollingen, Fielserst  01502  01502                % 12613 RGTR--
+160910001 Mersch, Bënzert       01504  01504                % 12613 RGTR--
+160401001 Angelsberg, Paafenda  01506  01506                % 12613 RGTR--
+160404001 Schoos, Um Hiervel    01508  01508                % 12613 RGTR--
+160402002 Fischbach/Mersch, Pa  01511  01511                % 12613 RGTR--
+160402001 Fischbach/Mersch, Kr  01511  01511                % 12613 RGTR--
+160403001 Schmët                01513  01513                % 12613 RGTR--
+160602001 Ernzen, Kapell        01517  01517                % 12613 RGTR--
+160602002 Ernzen, Manzebach     01518  01518                % 12613 RGTR--
+160601007 Larochette, Pomjeesb  01519  01519                % 12613 RGTR--
+160501006 Heffingen, Abri (Cen  01522                       % 12613 RGTR--
+*Z 12614 RGTR--                                             % 12614 RGTR--
+*L 234      160904001 160501006  01900  01922               % 12614 RGTR--
+*A CF 160904001 160501006 000039  01900  01922              % 12614 RGTR--
+*R 1 160501006 160904001 160501006  01900  01922            % 12614 RGTR--
+*G 034 160904001 160501006  01900  01922                    % 12614 RGTR--
+*A VE 160904001 160501006 000039  01900  01922              % 12614 RGTR--
+*I FD 160904001 160501006        0001723  01900  01922      % 12614 RGTR--
+160904001 Mersch, Gare routièr         01900                % 12614 RGTR--
+160902002 Rollingen, Fielserst  01902  01902                % 12614 RGTR--
+160910001 Mersch, Bënzert       01904  01904                % 12614 RGTR--
+160401001 Angelsberg, Paafenda  01906  01906                % 12614 RGTR--
+160404001 Schoos, Um Hiervel    01908  01908                % 12614 RGTR--
+160402002 Fischbach/Mersch, Pa  01911  01911                % 12614 RGTR--
+160402001 Fischbach/Mersch, Kr  01911  01911                % 12614 RGTR--
+160403001 Schmët                01913  01913                % 12614 RGTR--
+160602001 Ernzen, Kapell        01917  01917                % 12614 RGTR--
+160602002 Ernzen, Manzebach     01918  01918                % 12614 RGTR--
+160601007 Larochette, Pomjeesb  01919  01919                % 12614 RGTR--
+160501006 Heffingen, Abri (Cen  01922                       % 12614 RGTR--
+*Z 12615 RGTR--                                             % 12615 RGTR--
+*L 234      160904001 160501006  02100  02122               % 12615 RGTR--
+*A CF 160904001 160501006 000039  02100  02122              % 12615 RGTR--
+*R 1 160501006 160904001 160501006  02100  02122            % 12615 RGTR--
+*G 034 160904001 160501006  02100  02122                    % 12615 RGTR--
+*A VE 160904001 160501006 000039  02100  02122              % 12615 RGTR--
+*I FD 160904001 160501006        0001928  02100  02122      % 12615 RGTR--
+160904001 Mersch, Gare routièr         02100                % 12615 RGTR--
+160902002 Rollingen, Fielserst  02102  02102                % 12615 RGTR--
+160910001 Mersch, Bënzert       02104  02104                % 12615 RGTR--
+160401001 Angelsberg, Paafenda  02106  02106                % 12615 RGTR--
+160404001 Schoos, Um Hiervel    02108  02108                % 12615 RGTR--
+160402002 Fischbach/Mersch, Pa  02111  02111                % 12615 RGTR--
+160402001 Fischbach/Mersch, Kr  02111  02111                % 12615 RGTR--
+160403001 Schmët                02113  02113                % 12615 RGTR--
+160602001 Ernzen, Kapell        02117  02117                % 12615 RGTR--
+160602002 Ernzen, Manzebach     02118  02118                % 12615 RGTR--
+160601007 Larochette, Pomjeesb  02119  02119                % 12615 RGTR--
+160501006 Heffingen, Abri (Cen  02122                       % 12615 RGTR--
+*Z 12616 RGTR--                                             % 12616 RGTR--
+*L 234      160904001 160501006  00500  00522               % 12616 RGTR--
+*R 1 160501006 160904001 160501006  00500  00522            % 12616 RGTR--
+*G 034 160904001 160501006  00500  00522                    % 12616 RGTR--
+*A VE 160904001 160501006 000036  00500  00522              % 12616 RGTR--
+*I FD 160904001 160501006        0001725  00500  00522      % 12616 RGTR--
+160904001 Mersch, Gare routièr         00500                % 12616 RGTR--
+160902002 Rollingen, Fielserst  00502  00502                % 12616 RGTR--
+160910001 Mersch, Bënzert       00504  00504                % 12616 RGTR--
+160401001 Angelsberg, Paafenda  00506  00506                % 12616 RGTR--
+160404001 Schoos, Um Hiervel    00508  00508                % 12616 RGTR--
+160402002 Fischbach/Mersch, Pa  00511  00511                % 12616 RGTR--
+160402001 Fischbach/Mersch, Kr  00511  00511                % 12616 RGTR--
+160403001 Schmët                00513  00513                % 12616 RGTR--
+160602001 Ernzen, Kapell        00517  00517                % 12616 RGTR--
+160602002 Ernzen, Manzebach     00518  00518                % 12616 RGTR--
+160601007 Larochette, Pomjeesb  00519  00519                % 12616 RGTR--
+160501006 Heffingen, Abri (Cen  00522                       % 12616 RGTR--
+*Z 12617 RGTR--                                             % 12617 RGTR--
+*L 234      160904001 160501006  01000  01022               % 12617 RGTR--
+*A CF 160904001 160501006 000036  01000  01022              % 12617 RGTR--
+*R 1 160501006 160904001 160501006  01000  01022            % 12617 RGTR--
+*G 034 160904001 160501006  01000  01022                    % 12617 RGTR--
+*A VE 160904001 160501006 000036  01000  01022              % 12617 RGTR--
+*I FD 160904001 160501006        0001712  01000  01022      % 12617 RGTR--
+160904001 Mersch, Gare routièr         01000                % 12617 RGTR--
+160902002 Rollingen, Fielserst  01002  01002                % 12617 RGTR--
+160910001 Mersch, Bënzert       01004  01004                % 12617 RGTR--
+160401001 Angelsberg, Paafenda  01006  01006                % 12617 RGTR--
+160404001 Schoos, Um Hiervel    01008  01008                % 12617 RGTR--
+160402002 Fischbach/Mersch, Pa  01011  01011                % 12617 RGTR--
+160402001 Fischbach/Mersch, Kr  01011  01011                % 12617 RGTR--
+160403001 Schmët                01013  01013                % 12617 RGTR--
+160602001 Ernzen, Kapell        01017  01017                % 12617 RGTR--
+160602002 Ernzen, Manzebach     01018  01018                % 12617 RGTR--
+160601007 Larochette, Pomjeesb  01019  01019                % 12617 RGTR--
+160501006 Heffingen, Abri (Cen  01022                       % 12617 RGTR--
+*Z 12618 RGTR--                                             % 12618 RGTR--
+*L 234      160904001 160501006  01200  01222               % 12618 RGTR--
+*A CF 160904001 160501006 000036  01200  01222              % 12618 RGTR--
+*R 1 160501006 160904001 160501006  01200  01222            % 12618 RGTR--
+*G 034 160904001 160501006  01200  01222                    % 12618 RGTR--
+*A VE 160904001 160501006 000036  01200  01222              % 12618 RGTR--
+*I FD 160904001 160501006        0001713  01200  01222      % 12618 RGTR--
+160904001 Mersch, Gare routièr         01200                % 12618 RGTR--
+160902002 Rollingen, Fielserst  01202  01202                % 12618 RGTR--
+160910001 Mersch, Bënzert       01204  01204                % 12618 RGTR--
+160401001 Angelsberg, Paafenda  01206  01206                % 12618 RGTR--
+160404001 Schoos, Um Hiervel    01208  01208                % 12618 RGTR--
+160402002 Fischbach/Mersch, Pa  01211  01211                % 12618 RGTR--
+160402001 Fischbach/Mersch, Kr  01211  01211                % 12618 RGTR--
+160403001 Schmët                01213  01213                % 12618 RGTR--
+160602001 Ernzen, Kapell        01217  01217                % 12618 RGTR--
+160602002 Ernzen, Manzebach     01218  01218                % 12618 RGTR--
+160601007 Larochette, Pomjeesb  01219  01219                % 12618 RGTR--
+160501006 Heffingen, Abri (Cen  01222                       % 12618 RGTR--
+*Z 12619 RGTR--                                             % 12619 RGTR--
+*L 234      160904001 160501006  01400  01422               % 12619 RGTR--
+*A CF 160904001 160501006 000036  01400  01422              % 12619 RGTR--
+*R 1 160501006 160904001 160501006  01400  01422            % 12619 RGTR--
+*G 034 160904001 160501006  01400  01422                    % 12619 RGTR--
+*A VE 160904001 160501006 000036  01400  01422              % 12619 RGTR--
+*I FD 160904001 160501006        0001714  01400  01422      % 12619 RGTR--
+160904001 Mersch, Gare routièr         01400                % 12619 RGTR--
+160902002 Rollingen, Fielserst  01402  01402                % 12619 RGTR--
+160910001 Mersch, Bënzert       01404  01404                % 12619 RGTR--
+160401001 Angelsberg, Paafenda  01406  01406                % 12619 RGTR--
+160404001 Schoos, Um Hiervel    01408  01408                % 12619 RGTR--
+160402002 Fischbach/Mersch, Pa  01411  01411                % 12619 RGTR--
+160402001 Fischbach/Mersch, Kr  01411  01411                % 12619 RGTR--
+160403001 Schmët                01413  01413                % 12619 RGTR--
+160602001 Ernzen, Kapell        01417  01417                % 12619 RGTR--
+160602002 Ernzen, Manzebach     01418  01418                % 12619 RGTR--
+160601007 Larochette, Pomjeesb  01419  01419                % 12619 RGTR--
+160501006 Heffingen, Abri (Cen  01422                       % 12619 RGTR--
+*Z 12620 RGTR--                                             % 12620 RGTR--
+*L 234      160904001 160501006  02300  02322               % 12620 RGTR--
+*A CF 160904001 160501006 000036  02300  02322              % 12620 RGTR--
+*R 1 160501006 160904001 160501006  02300  02322            % 12620 RGTR--
+*G 034 160904001 160501006  02300  02322                    % 12620 RGTR--
+*A VE 160904001 160501006 000036  02300  02322              % 12620 RGTR--
+*I FD 160904001 160501006        0001929  02300  02322      % 12620 RGTR--
+160904001 Mersch, Gare routièr         02300                % 12620 RGTR--
+160902002 Rollingen, Fielserst  02302  02302                % 12620 RGTR--
+160910001 Mersch, Bënzert       02304  02304                % 12620 RGTR--
+160401001 Angelsberg, Paafenda  02306  02306                % 12620 RGTR--
+160404001 Schoos, Um Hiervel    02308  02308                % 12620 RGTR--
+160402002 Fischbach/Mersch, Pa  02311  02311                % 12620 RGTR--
+160402001 Fischbach/Mersch, Kr  02311  02311                % 12620 RGTR--
+160403001 Schmët                02313  02313                % 12620 RGTR--
+160602001 Ernzen, Kapell        02317  02317                % 12620 RGTR--
+160602002 Ernzen, Manzebach     02318  02318                % 12620 RGTR--
+160601007 Larochette, Pomjeesb  02319  02319                % 12620 RGTR--
+160501006 Heffingen, Abri (Cen  02322                       % 12620 RGTR--
+*Z 12621 RGTR--                                             % 12621 RGTR--
+*L 234      160904001 160501006  02000  02022               % 12621 RGTR--
+*A CF 160904001 160501006 000033  02000  02022              % 12621 RGTR--
+*R 1 160501006 160904001 160501006  02000  02022            % 12621 RGTR--
+*G 034 160904001 160501006  02000  02022                    % 12621 RGTR--
+*A VE 160904001 160501006 000033  02000  02022              % 12621 RGTR--
+*I FD 160904001 160501006        0001927  02000  02022      % 12621 RGTR--
+160904001 Mersch, Gare routièr         02000                % 12621 RGTR--
+160902002 Rollingen, Fielserst  02002  02002                % 12621 RGTR--
+160910001 Mersch, Bënzert       02004  02004                % 12621 RGTR--
+160401001 Angelsberg, Paafenda  02006  02006                % 12621 RGTR--
+160404001 Schoos, Um Hiervel    02008  02008                % 12621 RGTR--
+160402002 Fischbach/Mersch, Pa  02011  02011                % 12621 RGTR--
+160402001 Fischbach/Mersch, Kr  02011  02011                % 12621 RGTR--
+160403001 Schmët                02013  02013                % 12621 RGTR--
+160602001 Ernzen, Kapell        02017  02017                % 12621 RGTR--
+160602002 Ernzen, Manzebach     02018  02018                % 12621 RGTR--
+160601007 Larochette, Pomjeesb  02019  02019                % 12621 RGTR--
+160501006 Heffingen, Abri (Cen  02022                       % 12621 RGTR--
+*Z 12622 RGTR--                                             % 12622 RGTR--
+*L 234      160904001 160501006  02200  02222               % 12622 RGTR--
+*A CF 160904001 160501006 000033  02200  02222              % 12622 RGTR--
+*R 1 160501006 160904001 160501006  02200  02222            % 12622 RGTR--
+*G 034 160904001 160501006  02200  02222                    % 12622 RGTR--
+*A VE 160904001 160501006 000033  02200  02222              % 12622 RGTR--
+*I FD 160904001 160501006        0001934  02200  02222      % 12622 RGTR--
+160904001 Mersch, Gare routièr         02200                % 12622 RGTR--
+160902002 Rollingen, Fielserst  02202  02202                % 12622 RGTR--
+160910001 Mersch, Bënzert       02204  02204                % 12622 RGTR--
+160401001 Angelsberg, Paafenda  02206  02206                % 12622 RGTR--
+160404001 Schoos, Um Hiervel    02208  02208                % 12622 RGTR--
+160402002 Fischbach/Mersch, Pa  02211  02211                % 12622 RGTR--
+160402001 Fischbach/Mersch, Kr  02211  02211                % 12622 RGTR--
+160403001 Schmët                02213  02213                % 12622 RGTR--
+160602001 Ernzen, Kapell        02217  02217                % 12622 RGTR--
+160602002 Ernzen, Manzebach     02218  02218                % 12622 RGTR--
+160601007 Larochette, Pomjeesb  02219  02219                % 12622 RGTR--
+160501006 Heffingen, Abri (Cen  02222                       % 12622 RGTR--
+*Z 12623 RGTR--                                             % 12623 RGTR--
+*L 234      160904001 160501006  00700  00722               % 12623 RGTR--
+*A CF 160904001 160501006 000035  00700  00722              % 12623 RGTR--
+*R 1 160501006 160904001 160501006  00700  00722            % 12623 RGTR--
+*G 034 160904001 160501006  00700  00722                    % 12623 RGTR--
+*A VE 160904001 160501006 000035  00700  00722              % 12623 RGTR--
+*I FD 160904001 160501006        0001729  00700  00722      % 12623 RGTR--
+160904001 Mersch, Gare routièr         00700                % 12623 RGTR--
+160902002 Rollingen, Fielserst  00702  00702                % 12623 RGTR--
+160910001 Mersch, Bënzert       00704  00704                % 12623 RGTR--
+160401001 Angelsberg, Paafenda  00706  00706                % 12623 RGTR--
+160404001 Schoos, Um Hiervel    00708  00708                % 12623 RGTR--
+160402002 Fischbach/Mersch, Pa  00711  00711                % 12623 RGTR--
+160402001 Fischbach/Mersch, Kr  00711  00711                % 12623 RGTR--
+160403001 Schmët                00713  00713                % 12623 RGTR--
+160602001 Ernzen, Kapell        00717  00717                % 12623 RGTR--
+160602002 Ernzen, Manzebach     00718  00718                % 12623 RGTR--
+160601007 Larochette, Pomjeesb  00719  00719                % 12623 RGTR--
+160501006 Heffingen, Abri (Cen  00722                       % 12623 RGTR--
+*Z 12624 RGTR--                                             % 12624 RGTR--
+*L 234      160904001 160501006  00900  00922               % 12624 RGTR--
+*A CF 160904001 160501006 000035  00900  00922              % 12624 RGTR--
+*R 1 160501006 160904001 160501006  00900  00922            % 12624 RGTR--
+*G 034 160904001 160501006  00900  00922                    % 12624 RGTR--
+*A VE 160904001 160501006 000035  00900  00922              % 12624 RGTR--
+*I FD 160904001 160501006        0001718  00900  00922      % 12624 RGTR--
+160904001 Mersch, Gare routièr         00900                % 12624 RGTR--
+160902002 Rollingen, Fielserst  00902  00902                % 12624 RGTR--
+160910001 Mersch, Bënzert       00904  00904                % 12624 RGTR--
+160401001 Angelsberg, Paafenda  00906  00906                % 12624 RGTR--
+160404001 Schoos, Um Hiervel    00908  00908                % 12624 RGTR--
+160402002 Fischbach/Mersch, Pa  00911  00911                % 12624 RGTR--
+160402001 Fischbach/Mersch, Kr  00911  00911                % 12624 RGTR--
+160403001 Schmët                00913  00913                % 12624 RGTR--
+160602001 Ernzen, Kapell        00917  00917                % 12624 RGTR--
+160602002 Ernzen, Manzebach     00918  00918                % 12624 RGTR--
+160601007 Larochette, Pomjeesb  00919  00919                % 12624 RGTR--
+160501006 Heffingen, Abri (Cen  00922                       % 12624 RGTR--
+*Z 12625 RGTR--                                             % 12625 RGTR--
+*L 234      160904001 160501006  01700  01722               % 12625 RGTR--
+*A CF 160904001 160501006 000035  01700  01722              % 12625 RGTR--
+*R 1 160501006 160904001 160501006  01700  01722            % 12625 RGTR--
+*G 034 160904001 160501006  01700  01722                    % 12625 RGTR--
+*A VE 160904001 160501006 000035  01700  01722              % 12625 RGTR--
+*I FD 160904001 160501006        0001732  01700  01722      % 12625 RGTR--
+160904001 Mersch, Gare routièr         01700                % 12625 RGTR--
+160902002 Rollingen, Fielserst  01702  01702                % 12625 RGTR--
+160910001 Mersch, Bënzert       01704  01704                % 12625 RGTR--
+160401001 Angelsberg, Paafenda  01706  01706                % 12625 RGTR--
+160404001 Schoos, Um Hiervel    01708  01708                % 12625 RGTR--
+160402002 Fischbach/Mersch, Pa  01711  01711                % 12625 RGTR--
+160402001 Fischbach/Mersch, Kr  01711  01711                % 12625 RGTR--
+160403001 Schmët                01713  01713                % 12625 RGTR--
+160602001 Ernzen, Kapell        01717  01717                % 12625 RGTR--
+160602002 Ernzen, Manzebach     01718  01718                % 12625 RGTR--
+160601007 Larochette, Pomjeesb  01719  01719                % 12625 RGTR--
+160501006 Heffingen, Abri (Cen  01722                       % 12625 RGTR--
+*Z 12626 RGTR--                                             % 12626 RGTR--
+*L 234      160904001 160501006  00600  00622               % 12626 RGTR--
+*A CF 160904001 160501006 000025  00600  00622              % 12626 RGTR--
+*R 1 160501006 160904001 160501006  00600  00622            % 12626 RGTR--
+*G 034 160904001 160501006  00600  00622                    % 12626 RGTR--
+*A VE 160904001 160501006 000025  00600  00622              % 12626 RGTR--
+*I FD 160904001 160501006        0001717  00600  00622      % 12626 RGTR--
+160904001 Mersch, Gare routièr         00600                % 12626 RGTR--
+160902002 Rollingen, Fielserst  00602  00602                % 12626 RGTR--
+160910001 Mersch, Bënzert       00604  00604                % 12626 RGTR--
+160401001 Angelsberg, Paafenda  00606  00606                % 12626 RGTR--
+160404001 Schoos, Um Hiervel    00608  00608                % 12626 RGTR--
+160402002 Fischbach/Mersch, Pa  00611  00611                % 12626 RGTR--
+160402001 Fischbach/Mersch, Kr  00611  00611                % 12626 RGTR--
+160403001 Schmët                00613  00613                % 12626 RGTR--
+160602001 Ernzen, Kapell        00617  00617                % 12626 RGTR--
+160602002 Ernzen, Manzebach     00618  00618                % 12626 RGTR--
+160601007 Larochette, Pomjeesb  00619  00619                % 12626 RGTR--
+160501006 Heffingen, Abri (Cen  00622                       % 12626 RGTR--
+*Z 12627 RGTR--                                             % 12627 RGTR--
+*L 234      160904001 160501006  00800  00822               % 12627 RGTR--
+*A CF 160904001 160501006 000025  00800  00822              % 12627 RGTR--
+*R 1 160501006 160904001 160501006  00800  00822            % 12627 RGTR--
+*G 034 160904001 160501006  00800  00822                    % 12627 RGTR--
+*A VE 160904001 160501006 000025  00800  00822              % 12627 RGTR--
+*I FD 160904001 160501006        0001726  00800  00822      % 12627 RGTR--
+160904001 Mersch, Gare routièr         00800                % 12627 RGTR--
+160902002 Rollingen, Fielserst  00802  00802                % 12627 RGTR--
+160910001 Mersch, Bënzert       00804  00804                % 12627 RGTR--
+160401001 Angelsberg, Paafenda  00806  00806                % 12627 RGTR--
+160404001 Schoos, Um Hiervel    00808  00808                % 12627 RGTR--
+160402002 Fischbach/Mersch, Pa  00811  00811                % 12627 RGTR--
+160402001 Fischbach/Mersch, Kr  00811  00811                % 12627 RGTR--
+160403001 Schmët                00813  00813                % 12627 RGTR--
+160602001 Ernzen, Kapell        00817  00817                % 12627 RGTR--
+160602002 Ernzen, Manzebach     00818  00818                % 12627 RGTR--
+160601007 Larochette, Pomjeesb  00819  00819                % 12627 RGTR--
+160501006 Heffingen, Abri (Cen  00822                       % 12627 RGTR--
+*Z 12628 RGTR--                                             % 12628 RGTR--
+*L 234      160904001 160501006  01600  01622               % 12628 RGTR--
+*A CF 160904001 160501006 000025  01600  01622              % 12628 RGTR--
+*R 1 160501006 160904001 160501006  01600  01622            % 12628 RGTR--
+*G 034 160904001 160501006  01600  01622                    % 12628 RGTR--
+*A VE 160904001 160501006 000025  01600  01622              % 12628 RGTR--
+*I FD 160904001 160501006        0001727  01600  01622      % 12628 RGTR--
+160904001 Mersch, Gare routièr         01600                % 12628 RGTR--
+160902002 Rollingen, Fielserst  01602  01602                % 12628 RGTR--
+160910001 Mersch, Bënzert       01604  01604                % 12628 RGTR--
+160401001 Angelsberg, Paafenda  01606  01606                % 12628 RGTR--
+160404001 Schoos, Um Hiervel    01608  01608                % 12628 RGTR--
+160402002 Fischbach/Mersch, Pa  01611  01611                % 12628 RGTR--
+160402001 Fischbach/Mersch, Kr  01611  01611                % 12628 RGTR--
+160403001 Schmët                01613  01613                % 12628 RGTR--
+160602001 Ernzen, Kapell        01617  01617                % 12628 RGTR--
+160602002 Ernzen, Manzebach     01618  01618                % 12628 RGTR--
+160601007 Larochette, Pomjeesb  01619  01619                % 12628 RGTR--
+160501006 Heffingen, Abri (Cen  01622                       % 12628 RGTR--
+*Z 12629 RGTR--                                             % 12629 RGTR--
+*L 234      160904001 160501006  01800  01822               % 12629 RGTR--
+*A CF 160904001 160501006 000025  01800  01822              % 12629 RGTR--
+*R 1 160501006 160904001 160501006  01800  01822            % 12629 RGTR--
+*G 034 160904001 160501006  01800  01822                    % 12629 RGTR--
+*A VE 160904001 160501006 000025  01800  01822              % 12629 RGTR--
+*I FD 160904001 160501006        0001728  01800  01822      % 12629 RGTR--
+160904001 Mersch, Gare routièr         01800                % 12629 RGTR--
+160902002 Rollingen, Fielserst  01802  01802                % 12629 RGTR--
+160910001 Mersch, Bënzert       01804  01804                % 12629 RGTR--
+160401001 Angelsberg, Paafenda  01806  01806                % 12629 RGTR--
+160404001 Schoos, Um Hiervel    01808  01808                % 12629 RGTR--
+160402002 Fischbach/Mersch, Pa  01811  01811                % 12629 RGTR--
+160402001 Fischbach/Mersch, Kr  01811  01811                % 12629 RGTR--
+160403001 Schmët                01813  01813                % 12629 RGTR--
+160602001 Ernzen, Kapell        01817  01817                % 12629 RGTR--
+160602002 Ernzen, Manzebach     01818  01818                % 12629 RGTR--
+160601007 Larochette, Pomjeesb  01819  01819                % 12629 RGTR--
+160501006 Heffingen, Abri (Cen  01822                       % 12629 RGTR--
+*Z 12630 RGTR--                                             % 12630 RGTR--
+*L 234      160904001 160501006  00600  00624               % 12630 RGTR--
+*A CF 160904001 160501006 000033  00600  00624              % 12630 RGTR--
+*R 1 160501006 160904001 160501006  00600  00624            % 12630 RGTR--
+*G 034 160904001 160501006  00600  00624                    % 12630 RGTR--
+*A VE 160904001 160501006 000033  00600  00624              % 12630 RGTR--
+*I FD 160904001 160501006        0001717  00600  00624      % 12630 RGTR--
+160904001 Mersch, Gare routièr         00600                % 12630 RGTR--
+160902002 Rollingen, Fielserst  00602  00602                % 12630 RGTR--
+160910001 Mersch, Bënzert       00604  00604                % 12630 RGTR--
+160401001 Angelsberg, Paafenda  00606  00606                % 12630 RGTR--
+160404001 Schoos, Um Hiervel    00609  00609                % 12630 RGTR--
+160402002 Fischbach/Mersch, Pa  00612  00612                % 12630 RGTR--
+160402001 Fischbach/Mersch, Kr  00613  00613                % 12630 RGTR--
+160403001 Schmët                00614  00614                % 12630 RGTR--
+160602001 Ernzen, Kapell        00619  00619                % 12630 RGTR--
+160602002 Ernzen, Manzebach     00620  00620                % 12630 RGTR--
+160601007 Larochette, Pomjeesb  00621  00621                % 12630 RGTR--
+160501006 Heffingen, Abri (Cen  00624                       % 12630 RGTR--
+*Z 12631 RGTR--                                             % 12631 RGTR--
+*L 234      160904001 160501006  00700  00724               % 12631 RGTR--
+*A CF 160904001 160501006 000033  00700  00724              % 12631 RGTR--
+*R 1 160501006 160904001 160501006  00700  00724            % 12631 RGTR--
+*G 034 160904001 160501006  00700  00724                    % 12631 RGTR--
+*A VE 160904001 160501006 000033  00700  00724              % 12631 RGTR--
+*I FD 160904001 160501006        0001729  00700  00724      % 12631 RGTR--
+160904001 Mersch, Gare routièr         00700                % 12631 RGTR--
+160902002 Rollingen, Fielserst  00702  00702                % 12631 RGTR--
+160910001 Mersch, Bënzert       00704  00704                % 12631 RGTR--
+160401001 Angelsberg, Paafenda  00706  00706                % 12631 RGTR--
+160404001 Schoos, Um Hiervel    00709  00709                % 12631 RGTR--
+160402002 Fischbach/Mersch, Pa  00712  00712                % 12631 RGTR--
+160402001 Fischbach/Mersch, Kr  00713  00713                % 12631 RGTR--
+160403001 Schmët                00714  00714                % 12631 RGTR--
+160602001 Ernzen, Kapell        00719  00719                % 12631 RGTR--
+160602002 Ernzen, Manzebach     00720  00720                % 12631 RGTR--
+160601007 Larochette, Pomjeesb  00721  00721                % 12631 RGTR--
+160501006 Heffingen, Abri (Cen  00724                       % 12631 RGTR--
+*Z 12632 RGTR--                                             % 12632 RGTR--
+*L 234      160904001 160501006  00800  00824               % 12632 RGTR--
+*A CF 160904001 160501006 000033  00800  00824              % 12632 RGTR--
+*R 1 160501006 160904001 160501006  00800  00824            % 12632 RGTR--
+*G 034 160904001 160501006  00800  00824                    % 12632 RGTR--
+*A VE 160904001 160501006 000033  00800  00824              % 12632 RGTR--
+*I FD 160904001 160501006        0001726  00800  00824      % 12632 RGTR--
+160904001 Mersch, Gare routièr         00800                % 12632 RGTR--
+160902002 Rollingen, Fielserst  00802  00802                % 12632 RGTR--
+160910001 Mersch, Bënzert       00804  00804                % 12632 RGTR--
+160401001 Angelsberg, Paafenda  00806  00806                % 12632 RGTR--
+160404001 Schoos, Um Hiervel    00809  00809                % 12632 RGTR--
+160402002 Fischbach/Mersch, Pa  00812  00812                % 12632 RGTR--
+160402001 Fischbach/Mersch, Kr  00813  00813                % 12632 RGTR--
+160403001 Schmët                00814  00814                % 12632 RGTR--
+160602001 Ernzen, Kapell        00819  00819                % 12632 RGTR--
+160602002 Ernzen, Manzebach     00820  00820                % 12632 RGTR--
+160601007 Larochette, Pomjeesb  00821  00821                % 12632 RGTR--
+160501006 Heffingen, Abri (Cen  00824                       % 12632 RGTR--
+*Z 12633 RGTR--                                             % 12633 RGTR--
+*L 234      160904001 160501006  00900  00924               % 12633 RGTR--
+*A CF 160904001 160501006 000033  00900  00924              % 12633 RGTR--
+*R 1 160501006 160904001 160501006  00900  00924            % 12633 RGTR--
+*G 034 160904001 160501006  00900  00924                    % 12633 RGTR--
+*A VE 160904001 160501006 000033  00900  00924              % 12633 RGTR--
+*I FD 160904001 160501006        0001718  00900  00924      % 12633 RGTR--
+160904001 Mersch, Gare routièr         00900                % 12633 RGTR--
+160902002 Rollingen, Fielserst  00902  00902                % 12633 RGTR--
+160910001 Mersch, Bënzert       00904  00904                % 12633 RGTR--
+160401001 Angelsberg, Paafenda  00906  00906                % 12633 RGTR--
+160404001 Schoos, Um Hiervel    00909  00909                % 12633 RGTR--
+160402002 Fischbach/Mersch, Pa  00912  00912                % 12633 RGTR--
+160402001 Fischbach/Mersch, Kr  00913  00913                % 12633 RGTR--
+160403001 Schmët                00914  00914                % 12633 RGTR--
+160602001 Ernzen, Kapell        00919  00919                % 12633 RGTR--
+160602002 Ernzen, Manzebach     00920  00920                % 12633 RGTR--
+160601007 Larochette, Pomjeesb  00921  00921                % 12633 RGTR--
+160501006 Heffingen, Abri (Cen  00924                       % 12633 RGTR--
+*Z 12634 RGTR--                                             % 12634 RGTR--
+*L 234      160904001 160501006  01600  01624               % 12634 RGTR--
+*A CF 160904001 160501006 000033  01600  01624              % 12634 RGTR--
+*R 1 160501006 160904001 160501006  01600  01624            % 12634 RGTR--
+*G 034 160904001 160501006  01600  01624                    % 12634 RGTR--
+*A VE 160904001 160501006 000033  01600  01624              % 12634 RGTR--
+*I FD 160904001 160501006        0001727  01600  01624      % 12634 RGTR--
+160904001 Mersch, Gare routièr         01600                % 12634 RGTR--
+160902002 Rollingen, Fielserst  01602  01602                % 12634 RGTR--
+160910001 Mersch, Bënzert       01604  01604                % 12634 RGTR--
+160401001 Angelsberg, Paafenda  01606  01606                % 12634 RGTR--
+160404001 Schoos, Um Hiervel    01609  01609                % 12634 RGTR--
+160402002 Fischbach/Mersch, Pa  01612  01612                % 12634 RGTR--
+160402001 Fischbach/Mersch, Kr  01613  01613                % 12634 RGTR--
+160403001 Schmët                01614  01614                % 12634 RGTR--
+160602001 Ernzen, Kapell        01619  01619                % 12634 RGTR--
+160602002 Ernzen, Manzebach     01620  01620                % 12634 RGTR--
+160601007 Larochette, Pomjeesb  01621  01621                % 12634 RGTR--
+160501006 Heffingen, Abri (Cen  01624                       % 12634 RGTR--
+*Z 12635 RGTR--                                             % 12635 RGTR--
+*L 234      160904001 160501006  01700  01724               % 12635 RGTR--
+*A CF 160904001 160501006 000033  01700  01724              % 12635 RGTR--
+*R 1 160501006 160904001 160501006  01700  01724            % 12635 RGTR--
+*G 034 160904001 160501006  01700  01724                    % 12635 RGTR--
+*A VE 160904001 160501006 000033  01700  01724              % 12635 RGTR--
+*I FD 160904001 160501006        0001732  01700  01724      % 12635 RGTR--
+160904001 Mersch, Gare routièr         01700                % 12635 RGTR--
+160902002 Rollingen, Fielserst  01702  01702                % 12635 RGTR--
+160910001 Mersch, Bënzert       01704  01704                % 12635 RGTR--
+160401001 Angelsberg, Paafenda  01706  01706                % 12635 RGTR--
+160404001 Schoos, Um Hiervel    01709  01709                % 12635 RGTR--
+160402002 Fischbach/Mersch, Pa  01712  01712                % 12635 RGTR--
+160402001 Fischbach/Mersch, Kr  01713  01713                % 12635 RGTR--
+160403001 Schmët                01714  01714                % 12635 RGTR--
+160602001 Ernzen, Kapell        01719  01719                % 12635 RGTR--
+160602002 Ernzen, Manzebach     01720  01720                % 12635 RGTR--
+160601007 Larochette, Pomjeesb  01721  01721                % 12635 RGTR--
+160501006 Heffingen, Abri (Cen  01724                       % 12635 RGTR--
+*Z 12636 RGTR--                                             % 12636 RGTR--
+*L 234      160904001 160501006  01800  01824               % 12636 RGTR--
+*A CF 160904001 160501006 000033  01800  01824              % 12636 RGTR--
+*R 1 160501006 160904001 160501006  01800  01824            % 12636 RGTR--
+*G 034 160904001 160501006  01800  01824                    % 12636 RGTR--
+*A VE 160904001 160501006 000033  01800  01824              % 12636 RGTR--
+*I FD 160904001 160501006        0001728  01800  01824      % 12636 RGTR--
+160904001 Mersch, Gare routièr         01800                % 12636 RGTR--
+160902002 Rollingen, Fielserst  01802  01802                % 12636 RGTR--
+160910001 Mersch, Bënzert       01804  01804                % 12636 RGTR--
+160401001 Angelsberg, Paafenda  01806  01806                % 12636 RGTR--
+160404001 Schoos, Um Hiervel    01809  01809                % 12636 RGTR--
+160402002 Fischbach/Mersch, Pa  01812  01812                % 12636 RGTR--
+160402001 Fischbach/Mersch, Kr  01813  01813                % 12636 RGTR--
+160403001 Schmët                01814  01814                % 12636 RGTR--
+160602001 Ernzen, Kapell        01819  01819                % 12636 RGTR--
+160602002 Ernzen, Manzebach     01820  01820                % 12636 RGTR--
+160601007 Larochette, Pomjeesb  01821  01821                % 12636 RGTR--
+160501006 Heffingen, Abri (Cen  01824                       % 12636 RGTR--
+*Z 12637 RGTR--                                             % 12637 RGTR--
+*L 234      160501006 160904001  01008  01031               % 12637 RGTR--
+*A CH 160501006 160904001 000039  01008  01031              % 12637 RGTR--
+*R 2 160904001 160501006 160904001  01008  01031            % 12637 RGTR--
+*G 034 160501006 160904001  01008  01031                    % 12637 RGTR--
+*A VE 160501006 160904001 000039  01008  01031              % 12637 RGTR--
+*I FD 160501006 160904001        0001865  01008  01031      % 12637 RGTR--
+160501006 Heffingen, Abri (Cen         01008                % 12637 RGTR--
+160601007 Larochette, Pomjeesb  01011  01011                % 12637 RGTR--
+160602002 Ernzen, Manzebach     01012  01012                % 12637 RGTR--
+160602001 Ernzen, Kapell        01013  01013                % 12637 RGTR--
+160403001 Schmët                01017  01017                % 12637 RGTR--
+160402001 Fischbach/Mersch, Kr  01019  01019                % 12637 RGTR--
+160402002 Fischbach/Mersch, Pa  01020  01020                % 12637 RGTR--
+160404001 Schoos, Um Hiervel    01022  01022                % 12637 RGTR--
+160401001 Angelsberg, Paafenda  01026  01026                % 12637 RGTR--
+160910001 Mersch, Bënzert       01027  01027                % 12637 RGTR--
+160902002 Rollingen, Fielserst  01029  01029                % 12637 RGTR--
+160904001 Mersch, Gare routièr  01031                       % 12637 RGTR--
+*Z 12638 RGTR--                                             % 12638 RGTR--
+*L 234      160501006 160904001  01208  01231               % 12638 RGTR--
+*A CH 160501006 160904001 000039  01208  01231              % 12638 RGTR--
+*R 2 160904001 160501006 160904001  01208  01231            % 12638 RGTR--
+*G 034 160501006 160904001  01208  01231                    % 12638 RGTR--
+*A VE 160501006 160904001 000039  01208  01231              % 12638 RGTR--
+*I FD 160501006 160904001        0001866  01208  01231      % 12638 RGTR--
+160501006 Heffingen, Abri (Cen         01208                % 12638 RGTR--
+160601007 Larochette, Pomjeesb  01211  01211                % 12638 RGTR--
+160602002 Ernzen, Manzebach     01212  01212                % 12638 RGTR--
+160602001 Ernzen, Kapell        01213  01213                % 12638 RGTR--
+160403001 Schmët                01217  01217                % 12638 RGTR--
+160402001 Fischbach/Mersch, Kr  01219  01219                % 12638 RGTR--
+160402002 Fischbach/Mersch, Pa  01220  01220                % 12638 RGTR--
+160404001 Schoos, Um Hiervel    01222  01222                % 12638 RGTR--
+160401001 Angelsberg, Paafenda  01226  01226                % 12638 RGTR--
+160910001 Mersch, Bënzert       01227  01227                % 12638 RGTR--
+160902002 Rollingen, Fielserst  01229  01229                % 12638 RGTR--
+160904001 Mersch, Gare routièr  01231                       % 12638 RGTR--
+*Z 12639 RGTR--                                             % 12639 RGTR--
+*L 234      160501006 160904001  01408  01431               % 12639 RGTR--
+*A CH 160501006 160904001 000039  01408  01431              % 12639 RGTR--
+*R 2 160904001 160501006 160904001  01408  01431            % 12639 RGTR--
+*G 034 160501006 160904001  01408  01431                    % 12639 RGTR--
+*A VE 160501006 160904001 000039  01408  01431              % 12639 RGTR--
+*I FD 160501006 160904001        0001867  01408  01431      % 12639 RGTR--
+160501006 Heffingen, Abri (Cen         01408                % 12639 RGTR--
+160601007 Larochette, Pomjeesb  01411  01411                % 12639 RGTR--
+160602002 Ernzen, Manzebach     01412  01412                % 12639 RGTR--
+160602001 Ernzen, Kapell        01413  01413                % 12639 RGTR--
+160403001 Schmët                01417  01417                % 12639 RGTR--
+160402001 Fischbach/Mersch, Kr  01419  01419                % 12639 RGTR--
+160402002 Fischbach/Mersch, Pa  01420  01420                % 12639 RGTR--
+160404001 Schoos, Um Hiervel    01422  01422                % 12639 RGTR--
+160401001 Angelsberg, Paafenda  01426  01426                % 12639 RGTR--
+160910001 Mersch, Bënzert       01427  01427                % 12639 RGTR--
+160902002 Rollingen, Fielserst  01429  01429                % 12639 RGTR--
+160904001 Mersch, Gare routièr  01431                       % 12639 RGTR--
+*Z 12640 RGTR--                                             % 12640 RGTR--
+*L 234      160501006 160904001  02008  02031               % 12640 RGTR--
+*A CH 160501006 160904001 000039  02008  02031              % 12640 RGTR--
+*R 2 160904001 160501006 160904001  02008  02031            % 12640 RGTR--
+*G 034 160501006 160904001  02008  02031                    % 12640 RGTR--
+*A VE 160501006 160904001 000039  02008  02031              % 12640 RGTR--
+*I FD 160501006 160904001        0001868  02008  02031      % 12640 RGTR--
+160501006 Heffingen, Abri (Cen         02008                % 12640 RGTR--
+160601007 Larochette, Pomjeesb  02011  02011                % 12640 RGTR--
+160602002 Ernzen, Manzebach     02012  02012                % 12640 RGTR--
+160602001 Ernzen, Kapell        02013  02013                % 12640 RGTR--
+160403001 Schmët                02017  02017                % 12640 RGTR--
+160402001 Fischbach/Mersch, Kr  02019  02019                % 12640 RGTR--
+160402002 Fischbach/Mersch, Pa  02020  02020                % 12640 RGTR--
+160404001 Schoos, Um Hiervel    02022  02022                % 12640 RGTR--
+160401001 Angelsberg, Paafenda  02026  02026                % 12640 RGTR--
+160910001 Mersch, Bënzert       02027  02027                % 12640 RGTR--
+160902002 Rollingen, Fielserst  02029  02029                % 12640 RGTR--
+160904001 Mersch, Gare routièr  02031                       % 12640 RGTR--
+*Z 12641 RGTR--                                             % 12641 RGTR--
+*L 234      160501006 160904001  02208  02231               % 12641 RGTR--
+*A CH 160501006 160904001 000039  02208  02231              % 12641 RGTR--
+*R 2 160904001 160501006 160904001  02208  02231            % 12641 RGTR--
+*G 034 160501006 160904001  02208  02231                    % 12641 RGTR--
+*A VE 160501006 160904001 000039  02208  02231              % 12641 RGTR--
+*I FD 160501006 160904001        0001869  02208  02231      % 12641 RGTR--
+160501006 Heffingen, Abri (Cen         02208                % 12641 RGTR--
+160601007 Larochette, Pomjeesb  02211  02211                % 12641 RGTR--
+160602002 Ernzen, Manzebach     02212  02212                % 12641 RGTR--
+160602001 Ernzen, Kapell        02213  02213                % 12641 RGTR--
+160403001 Schmët                02217  02217                % 12641 RGTR--
+160402001 Fischbach/Mersch, Kr  02219  02219                % 12641 RGTR--
+160402002 Fischbach/Mersch, Pa  02220  02220                % 12641 RGTR--
+160404001 Schoos, Um Hiervel    02222  02222                % 12641 RGTR--
+160401001 Angelsberg, Paafenda  02226  02226                % 12641 RGTR--
+160910001 Mersch, Bënzert       02227  02227                % 12641 RGTR--
+160902002 Rollingen, Fielserst  02229  02229                % 12641 RGTR--
+160904001 Mersch, Gare routièr  02231                       % 12641 RGTR--
+*Z 12642 RGTR--                                             % 12642 RGTR--
+*L 234      160501006 160904001  00508  00531               % 12642 RGTR--
+*A CH 160501006 160904001 000036  00508  00531              % 12642 RGTR--
+*R 2 160904001 160501006 160904001  00508  00531            % 12642 RGTR--
+*G 034 160501006 160904001  00508  00531                    % 12642 RGTR--
+*A VE 160501006 160904001 000036  00508  00531              % 12642 RGTR--
+*I FD 160501006 160904001        0001870  00508  00531      % 12642 RGTR--
+160501006 Heffingen, Abri (Cen         00508                % 12642 RGTR--
+160601007 Larochette, Pomjeesb  00511  00511                % 12642 RGTR--
+160602002 Ernzen, Manzebach     00512  00512                % 12642 RGTR--
+160602001 Ernzen, Kapell        00513  00513                % 12642 RGTR--
+160403001 Schmët                00517  00517                % 12642 RGTR--
+160402001 Fischbach/Mersch, Kr  00519  00519                % 12642 RGTR--
+160402002 Fischbach/Mersch, Pa  00520  00520                % 12642 RGTR--
+160404001 Schoos, Um Hiervel    00522  00522                % 12642 RGTR--
+160401001 Angelsberg, Paafenda  00526  00526                % 12642 RGTR--
+160910001 Mersch, Bënzert       00527  00527                % 12642 RGTR--
+160902002 Rollingen, Fielserst  00529  00529                % 12642 RGTR--
+160904001 Mersch, Gare routièr  00531                       % 12642 RGTR--
+*Z 12643 RGTR--                                             % 12643 RGTR--
+*L 234      160501006 160904001  01108  01131               % 12643 RGTR--
+*A CH 160501006 160904001 000036  01108  01131              % 12643 RGTR--
+*R 2 160904001 160501006 160904001  01108  01131            % 12643 RGTR--
+*G 034 160501006 160904001  01108  01131                    % 12643 RGTR--
+*A VE 160501006 160904001 000036  01108  01131              % 12643 RGTR--
+*I FD 160501006 160904001        0001029  01108  01131      % 12643 RGTR--
+160501006 Heffingen, Abri (Cen         01108                % 12643 RGTR--
+160601007 Larochette, Pomjeesb  01111  01111                % 12643 RGTR--
+160602002 Ernzen, Manzebach     01112  01112                % 12643 RGTR--
+160602001 Ernzen, Kapell        01113  01113                % 12643 RGTR--
+160403001 Schmët                01117  01117                % 12643 RGTR--
+160402001 Fischbach/Mersch, Kr  01119  01119                % 12643 RGTR--
+160402002 Fischbach/Mersch, Pa  01120  01120                % 12643 RGTR--
+160404001 Schoos, Um Hiervel    01122  01122                % 12643 RGTR--
+160401001 Angelsberg, Paafenda  01126  01126                % 12643 RGTR--
+160910001 Mersch, Bënzert       01127  01127                % 12643 RGTR--
+160902002 Rollingen, Fielserst  01129  01129                % 12643 RGTR--
+160904001 Mersch, Gare routièr  01131                       % 12643 RGTR--
+*Z 12644 RGTR--                                             % 12644 RGTR--
+*L 234      160501006 160904001  01308  01331               % 12644 RGTR--
+*A CH 160501006 160904001 000036  01308  01331              % 12644 RGTR--
+*R 2 160904001 160501006 160904001  01308  01331            % 12644 RGTR--
+*G 034 160501006 160904001  01308  01331                    % 12644 RGTR--
+*A VE 160501006 160904001 000036  01308  01331              % 12644 RGTR--
+*I FD 160501006 160904001        0001872  01308  01331      % 12644 RGTR--
+160501006 Heffingen, Abri (Cen         01308                % 12644 RGTR--
+160601007 Larochette, Pomjeesb  01311  01311                % 12644 RGTR--
+160602002 Ernzen, Manzebach     01312  01312                % 12644 RGTR--
+160602001 Ernzen, Kapell        01313  01313                % 12644 RGTR--
+160403001 Schmët                01317  01317                % 12644 RGTR--
+160402001 Fischbach/Mersch, Kr  01319  01319                % 12644 RGTR--
+160402002 Fischbach/Mersch, Pa  01320  01320                % 12644 RGTR--
+160404001 Schoos, Um Hiervel    01322  01322                % 12644 RGTR--
+160401001 Angelsberg, Paafenda  01326  01326                % 12644 RGTR--
+160910001 Mersch, Bënzert       01327  01327                % 12644 RGTR--
+160902002 Rollingen, Fielserst  01329  01329                % 12644 RGTR--
+160904001 Mersch, Gare routièr  01331                       % 12644 RGTR--
+*Z 12645 RGTR--                                             % 12645 RGTR--
+*L 234      160501006 160904001  01508  01531               % 12645 RGTR--
+*A CH 160501006 160904001 000036  01508  01531              % 12645 RGTR--
+*R 2 160904001 160501006 160904001  01508  01531            % 12645 RGTR--
+*G 034 160501006 160904001  01508  01531                    % 12645 RGTR--
+*A VE 160501006 160904001 000036  01508  01531              % 12645 RGTR--
+*I FD 160501006 160904001        0001873  01508  01531      % 12645 RGTR--
+160501006 Heffingen, Abri (Cen         01508                % 12645 RGTR--
+160601007 Larochette, Pomjeesb  01511  01511                % 12645 RGTR--
+160602002 Ernzen, Manzebach     01512  01512                % 12645 RGTR--
+160602001 Ernzen, Kapell        01513  01513                % 12645 RGTR--
+160403001 Schmët                01517  01517                % 12645 RGTR--
+160402001 Fischbach/Mersch, Kr  01519  01519                % 12645 RGTR--
+160402002 Fischbach/Mersch, Pa  01520  01520                % 12645 RGTR--
+160404001 Schoos, Um Hiervel    01522  01522                % 12645 RGTR--
+160401001 Angelsberg, Paafenda  01526  01526                % 12645 RGTR--
+160910001 Mersch, Bënzert       01527  01527                % 12645 RGTR--
+160902002 Rollingen, Fielserst  01529  01529                % 12645 RGTR--
+160904001 Mersch, Gare routièr  01531                       % 12645 RGTR--
+*Z 12646 RGTR--                                             % 12646 RGTR--
+*L 234      160501006 160904001  01908  01931               % 12646 RGTR--
+*A CH 160501006 160904001 000036  01908  01931              % 12646 RGTR--
+*R 2 160904001 160501006 160904001  01908  01931            % 12646 RGTR--
+*G 034 160501006 160904001  01908  01931                    % 12646 RGTR--
+*A VE 160501006 160904001 000036  01908  01931              % 12646 RGTR--
+*I FD 160501006 160904001        0001874  01908  01931      % 12646 RGTR--
+160501006 Heffingen, Abri (Cen         01908                % 12646 RGTR--
+160601007 Larochette, Pomjeesb  01911  01911                % 12646 RGTR--
+160602002 Ernzen, Manzebach     01912  01912                % 12646 RGTR--
+160602001 Ernzen, Kapell        01913  01913                % 12646 RGTR--
+160403001 Schmët                01917  01917                % 12646 RGTR--
+160402001 Fischbach/Mersch, Kr  01919  01919                % 12646 RGTR--
+160402002 Fischbach/Mersch, Pa  01920  01920                % 12646 RGTR--
+160404001 Schoos, Um Hiervel    01922  01922                % 12646 RGTR--
+160401001 Angelsberg, Paafenda  01926  01926                % 12646 RGTR--
+160910001 Mersch, Bënzert       01927  01927                % 12646 RGTR--
+160902002 Rollingen, Fielserst  01929  01929                % 12646 RGTR--
+160904001 Mersch, Gare routièr  01931                       % 12646 RGTR--
+*Z 12647 RGTR--                                             % 12647 RGTR--
+*L 234      160501006 160904001  02108  02131               % 12647 RGTR--
+*A CH 160501006 160904001 000033  02108  02131              % 12647 RGTR--
+*R 2 160904001 160501006 160904001  02108  02131            % 12647 RGTR--
+*G 034 160501006 160904001  02108  02131                    % 12647 RGTR--
+*A VE 160501006 160904001 000033  02108  02131              % 12647 RGTR--
+*I FD 160501006 160904001        0001875  02108  02131      % 12647 RGTR--
+160501006 Heffingen, Abri (Cen         02108                % 12647 RGTR--
+160601007 Larochette, Pomjeesb  02111  02111                % 12647 RGTR--
+160602002 Ernzen, Manzebach     02112  02112                % 12647 RGTR--
+160602001 Ernzen, Kapell        02113  02113                % 12647 RGTR--
+160403001 Schmët                02117  02117                % 12647 RGTR--
+160402001 Fischbach/Mersch, Kr  02119  02119                % 12647 RGTR--
+160402002 Fischbach/Mersch, Pa  02120  02120                % 12647 RGTR--
+160404001 Schoos, Um Hiervel    02122  02122                % 12647 RGTR--
+160401001 Angelsberg, Paafenda  02126  02126                % 12647 RGTR--
+160910001 Mersch, Bënzert       02127  02127                % 12647 RGTR--
+160902002 Rollingen, Fielserst  02129  02129                % 12647 RGTR--
+160904001 Mersch, Gare routièr  02131                       % 12647 RGTR--
+*Z 12648 RGTR--                                             % 12648 RGTR--
+*L 234      160501006 160904001  02308  02331               % 12648 RGTR--
+*A CH 160501006 160904001 000033  02308  02331              % 12648 RGTR--
+*R 2 160904001 160501006 160904001  02308  02331            % 12648 RGTR--
+*G 034 160501006 160904001  02308  02331                    % 12648 RGTR--
+*A VE 160501006 160904001 000033  02308  02331              % 12648 RGTR--
+*I FD 160501006 160904001        0002925  02308  02331      % 12648 RGTR--
+160501006 Heffingen, Abri (Cen         02308                % 12648 RGTR--
+160601007 Larochette, Pomjeesb  02311  02311                % 12648 RGTR--
+160602002 Ernzen, Manzebach     02312  02312                % 12648 RGTR--
+160602001 Ernzen, Kapell        02313  02313                % 12648 RGTR--
+160403001 Schmët                02317  02317                % 12648 RGTR--
+160402001 Fischbach/Mersch, Kr  02319  02319                % 12648 RGTR--
+160402002 Fischbach/Mersch, Pa  02320  02320                % 12648 RGTR--
+160404001 Schoos, Um Hiervel    02322  02322                % 12648 RGTR--
+160401001 Angelsberg, Paafenda  02326  02326                % 12648 RGTR--
+160910001 Mersch, Bënzert       02327  02327                % 12648 RGTR--
+160902002 Rollingen, Fielserst  02329  02329                % 12648 RGTR--
+160904001 Mersch, Gare routièr  02331                       % 12648 RGTR--
+*Z 12649 RGTR--                                             % 12649 RGTR--
+*L 234      160501006 160904001  00808  00831               % 12649 RGTR--
+*A CH 160501006 160904001 000035  00808  00831              % 12649 RGTR--
+*R 2 160904001 160501006 160904001  00808  00831            % 12649 RGTR--
+*G 034 160501006 160904001  00808  00831                    % 12649 RGTR--
+*A VE 160501006 160904001 000035  00808  00831              % 12649 RGTR--
+*I FD 160501006 160904001        0001876  00808  00831      % 12649 RGTR--
+160501006 Heffingen, Abri (Cen         00808                % 12649 RGTR--
+160601007 Larochette, Pomjeesb  00811  00811                % 12649 RGTR--
+160602002 Ernzen, Manzebach     00812  00812                % 12649 RGTR--
+160602001 Ernzen, Kapell        00813  00813                % 12649 RGTR--
+160403001 Schmët                00817  00817                % 12649 RGTR--
+160402001 Fischbach/Mersch, Kr  00819  00819                % 12649 RGTR--
+160402002 Fischbach/Mersch, Pa  00820  00820                % 12649 RGTR--
+160404001 Schoos, Um Hiervel    00822  00822                % 12649 RGTR--
+160401001 Angelsberg, Paafenda  00826  00826                % 12649 RGTR--
+160910001 Mersch, Bënzert       00827  00827                % 12649 RGTR--
+160902002 Rollingen, Fielserst  00829  00829                % 12649 RGTR--
+160904001 Mersch, Gare routièr  00831                       % 12649 RGTR--
+*Z 12650 RGTR--                                             % 12650 RGTR--
+*L 234      160501006 160904001  01608  01631               % 12650 RGTR--
+*A CH 160501006 160904001 000035  01608  01631              % 12650 RGTR--
+*R 2 160904001 160501006 160904001  01608  01631            % 12650 RGTR--
+*G 034 160501006 160904001  01608  01631                    % 12650 RGTR--
+*A VE 160501006 160904001 000035  01608  01631              % 12650 RGTR--
+*I FD 160501006 160904001        0001877  01608  01631      % 12650 RGTR--
+160501006 Heffingen, Abri (Cen         01608                % 12650 RGTR--
+160601007 Larochette, Pomjeesb  01611  01611                % 12650 RGTR--
+160602002 Ernzen, Manzebach     01612  01612                % 12650 RGTR--
+160602001 Ernzen, Kapell        01613  01613                % 12650 RGTR--
+160403001 Schmët                01617  01617                % 12650 RGTR--
+160402001 Fischbach/Mersch, Kr  01619  01619                % 12650 RGTR--
+160402002 Fischbach/Mersch, Pa  01620  01620                % 12650 RGTR--
+160404001 Schoos, Um Hiervel    01622  01622                % 12650 RGTR--
+160401001 Angelsberg, Paafenda  01626  01626                % 12650 RGTR--
+160910001 Mersch, Bënzert       01627  01627                % 12650 RGTR--
+160902002 Rollingen, Fielserst  01629  01629                % 12650 RGTR--
+160904001 Mersch, Gare routièr  01631                       % 12650 RGTR--
+*Z 12651 RGTR--                                             % 12651 RGTR--
+*L 234      160501006 160904001  01808  01831               % 12651 RGTR--
+*A CH 160501006 160904001 000035  01808  01831              % 12651 RGTR--
+*R 2 160904001 160501006 160904001  01808  01831            % 12651 RGTR--
+*G 034 160501006 160904001  01808  01831                    % 12651 RGTR--
+*A VE 160501006 160904001 000035  01808  01831              % 12651 RGTR--
+*I FD 160501006 160904001        0001878  01808  01831      % 12651 RGTR--
+160501006 Heffingen, Abri (Cen         01808                % 12651 RGTR--
+160601007 Larochette, Pomjeesb  01811  01811                % 12651 RGTR--
+160602002 Ernzen, Manzebach     01812  01812                % 12651 RGTR--
+160602001 Ernzen, Kapell        01813  01813                % 12651 RGTR--
+160403001 Schmët                01817  01817                % 12651 RGTR--
+160402001 Fischbach/Mersch, Kr  01819  01819                % 12651 RGTR--
+160402002 Fischbach/Mersch, Pa  01820  01820                % 12651 RGTR--
+160404001 Schoos, Um Hiervel    01822  01822                % 12651 RGTR--
+160401001 Angelsberg, Paafenda  01826  01826                % 12651 RGTR--
+160910001 Mersch, Bënzert       01827  01827                % 12651 RGTR--
+160902002 Rollingen, Fielserst  01829  01829                % 12651 RGTR--
+160904001 Mersch, Gare routièr  01831                       % 12651 RGTR--
+*Z 12652 RGTR--                                             % 12652 RGTR--
+*L 234      160501006 160904001  00608  00631               % 12652 RGTR--
+*A CH 160501006 160904001 000025  00608  00631              % 12652 RGTR--
+*R 2 160904001 160501006 160904001  00608  00631            % 12652 RGTR--
+*G 034 160501006 160904001  00608  00631                    % 12652 RGTR--
+*A VE 160501006 160904001 000025  00608  00631              % 12652 RGTR--
+*I FD 160501006 160904001        0001871  00608  00631      % 12652 RGTR--
+160501006 Heffingen, Abri (Cen         00608                % 12652 RGTR--
+160601007 Larochette, Pomjeesb  00611  00611                % 12652 RGTR--
+160602002 Ernzen, Manzebach     00612  00612                % 12652 RGTR--
+160602001 Ernzen, Kapell        00613  00613                % 12652 RGTR--
+160403001 Schmët                00617  00617                % 12652 RGTR--
+160402001 Fischbach/Mersch, Kr  00619  00619                % 12652 RGTR--
+160402002 Fischbach/Mersch, Pa  00620  00620                % 12652 RGTR--
+160404001 Schoos, Um Hiervel    00622  00622                % 12652 RGTR--
+160401001 Angelsberg, Paafenda  00626  00626                % 12652 RGTR--
+160910001 Mersch, Bënzert       00627  00627                % 12652 RGTR--
+160902002 Rollingen, Fielserst  00629  00629                % 12652 RGTR--
+160904001 Mersch, Gare routièr  00631                       % 12652 RGTR--
+*Z 12653 RGTR--                                             % 12653 RGTR--
+*L 234      160501006 160904001  00708  00731               % 12653 RGTR--
+*A CH 160501006 160904001 000025  00708  00731              % 12653 RGTR--
+*R 2 160904001 160501006 160904001  00708  00731            % 12653 RGTR--
+*G 034 160501006 160904001  00708  00731                    % 12653 RGTR--
+*A VE 160501006 160904001 000025  00708  00731              % 12653 RGTR--
+*I FD 160501006 160904001        0001879  00708  00731      % 12653 RGTR--
+160501006 Heffingen, Abri (Cen         00708                % 12653 RGTR--
+160601007 Larochette, Pomjeesb  00711  00711                % 12653 RGTR--
+160602002 Ernzen, Manzebach     00712  00712                % 12653 RGTR--
+160602001 Ernzen, Kapell        00713  00713                % 12653 RGTR--
+160403001 Schmët                00717  00717                % 12653 RGTR--
+160402001 Fischbach/Mersch, Kr  00719  00719                % 12653 RGTR--
+160402002 Fischbach/Mersch, Pa  00720  00720                % 12653 RGTR--
+160404001 Schoos, Um Hiervel    00722  00722                % 12653 RGTR--
+160401001 Angelsberg, Paafenda  00726  00726                % 12653 RGTR--
+160910001 Mersch, Bënzert       00727  00727                % 12653 RGTR--
+160902002 Rollingen, Fielserst  00729  00729                % 12653 RGTR--
+160904001 Mersch, Gare routièr  00731                       % 12653 RGTR--
+*Z 12654 RGTR--                                             % 12654 RGTR--
+*L 234      160501006 160904001  00908  00931               % 12654 RGTR--
+*A CH 160501006 160904001 000025  00908  00931              % 12654 RGTR--
+*R 2 160904001 160501006 160904001  00908  00931            % 12654 RGTR--
+*G 034 160501006 160904001  00908  00931                    % 12654 RGTR--
+*A VE 160501006 160904001 000025  00908  00931              % 12654 RGTR--
+*I FD 160501006 160904001        0001880  00908  00931      % 12654 RGTR--
+160501006 Heffingen, Abri (Cen         00908                % 12654 RGTR--
+160601007 Larochette, Pomjeesb  00911  00911                % 12654 RGTR--
+160602002 Ernzen, Manzebach     00912  00912                % 12654 RGTR--
+160602001 Ernzen, Kapell        00913  00913                % 12654 RGTR--
+160403001 Schmët                00917  00917                % 12654 RGTR--
+160402001 Fischbach/Mersch, Kr  00919  00919                % 12654 RGTR--
+160402002 Fischbach/Mersch, Pa  00920  00920                % 12654 RGTR--
+160404001 Schoos, Um Hiervel    00922  00922                % 12654 RGTR--
+160401001 Angelsberg, Paafenda  00926  00926                % 12654 RGTR--
+160910001 Mersch, Bënzert       00927  00927                % 12654 RGTR--
+160902002 Rollingen, Fielserst  00929  00929                % 12654 RGTR--
+160904001 Mersch, Gare routièr  00931                       % 12654 RGTR--
+*Z 12655 RGTR--                                             % 12655 RGTR--
+*L 234      160501006 160904001  01708  01731               % 12655 RGTR--
+*A CH 160501006 160904001 000025  01708  01731              % 12655 RGTR--
+*R 2 160904001 160501006 160904001  01708  01731            % 12655 RGTR--
+*G 034 160501006 160904001  01708  01731                    % 12655 RGTR--
+*A VE 160501006 160904001 000025  01708  01731              % 12655 RGTR--
+*I FD 160501006 160904001        0001881  01708  01731      % 12655 RGTR--
+160501006 Heffingen, Abri (Cen         01708                % 12655 RGTR--
+160601007 Larochette, Pomjeesb  01711  01711                % 12655 RGTR--
+160602002 Ernzen, Manzebach     01712  01712                % 12655 RGTR--
+160602001 Ernzen, Kapell        01713  01713                % 12655 RGTR--
+160403001 Schmët                01717  01717                % 12655 RGTR--
+160402001 Fischbach/Mersch, Kr  01719  01719                % 12655 RGTR--
+160402002 Fischbach/Mersch, Pa  01720  01720                % 12655 RGTR--
+160404001 Schoos, Um Hiervel    01722  01722                % 12655 RGTR--
+160401001 Angelsberg, Paafenda  01726  01726                % 12655 RGTR--
+160910001 Mersch, Bënzert       01727  01727                % 12655 RGTR--
+160902002 Rollingen, Fielserst  01729  01729                % 12655 RGTR--
+160904001 Mersch, Gare routièr  01731                       % 12655 RGTR--
+*Z 12656 RGTR--                                             % 12656 RGTR--
+*L 234      160501006 160904001  00608  00632               % 12656 RGTR--
+*A CH 160501006 160904001 000033  00608  00632              % 12656 RGTR--
+*R 2 160904001 160501006 160904001  00608  00632            % 12656 RGTR--
+*G 034 160501006 160904001  00608  00632                    % 12656 RGTR--
+*A VE 160501006 160904001 000033  00608  00632              % 12656 RGTR--
+*I FD 160501006 160904001        0001871  00608  00632      % 12656 RGTR--
+160501006 Heffingen, Abri (Cen         00608                % 12656 RGTR--
+160601007 Larochette, Pomjeesb  00611  00611                % 12656 RGTR--
+160602002 Ernzen, Manzebach     00612  00612                % 12656 RGTR--
+160602001 Ernzen, Kapell        00613  00613                % 12656 RGTR--
+160403001 Schmët                00617  00617                % 12656 RGTR--
+160402001 Fischbach/Mersch, Kr  00619  00619                % 12656 RGTR--
+160402002 Fischbach/Mersch, Pa  00620  00620                % 12656 RGTR--
+160404001 Schoos, Um Hiervel    00622  00622                % 12656 RGTR--
+160401001 Angelsberg, Paafenda  00626  00626                % 12656 RGTR--
+160910001 Mersch, Bënzert       00628  00628                % 12656 RGTR--
+160902002 Rollingen, Fielserst  00630  00630                % 12656 RGTR--
+160904001 Mersch, Gare routièr  00632                       % 12656 RGTR--
+*Z 12657 RGTR--                                             % 12657 RGTR--
+*L 234      160501006 160904001  00708  00732               % 12657 RGTR--
+*A CH 160501006 160904001 000033  00708  00732              % 12657 RGTR--
+*R 2 160904001 160501006 160904001  00708  00732            % 12657 RGTR--
+*G 034 160501006 160904001  00708  00732                    % 12657 RGTR--
+*A VE 160501006 160904001 000033  00708  00732              % 12657 RGTR--
+*I FD 160501006 160904001        0001879  00708  00732      % 12657 RGTR--
+160501006 Heffingen, Abri (Cen         00708                % 12657 RGTR--
+160601007 Larochette, Pomjeesb  00711  00711                % 12657 RGTR--
+160602002 Ernzen, Manzebach     00712  00712                % 12657 RGTR--
+160602001 Ernzen, Kapell        00713  00713                % 12657 RGTR--
+160403001 Schmët                00717  00717                % 12657 RGTR--
+160402001 Fischbach/Mersch, Kr  00719  00719                % 12657 RGTR--
+160402002 Fischbach/Mersch, Pa  00720  00720                % 12657 RGTR--
+160404001 Schoos, Um Hiervel    00722  00722                % 12657 RGTR--
+160401001 Angelsberg, Paafenda  00726  00726                % 12657 RGTR--
+160910001 Mersch, Bënzert       00728  00728                % 12657 RGTR--
+160902002 Rollingen, Fielserst  00730  00730                % 12657 RGTR--
+160904001 Mersch, Gare routièr  00732                       % 12657 RGTR--
+*Z 12658 RGTR--                                             % 12658 RGTR--
+*L 234      160501006 160904001  00808  00832               % 12658 RGTR--
+*A CH 160501006 160904001 000033  00808  00832              % 12658 RGTR--
+*R 2 160904001 160501006 160904001  00808  00832            % 12658 RGTR--
+*G 034 160501006 160904001  00808  00832                    % 12658 RGTR--
+*A VE 160501006 160904001 000033  00808  00832              % 12658 RGTR--
+*I FD 160501006 160904001        0001876  00808  00832      % 12658 RGTR--
+160501006 Heffingen, Abri (Cen         00808                % 12658 RGTR--
+160601007 Larochette, Pomjeesb  00811  00811                % 12658 RGTR--
+160602002 Ernzen, Manzebach     00812  00812                % 12658 RGTR--
+160602001 Ernzen, Kapell        00813  00813                % 12658 RGTR--
+160403001 Schmët                00817  00817                % 12658 RGTR--
+160402001 Fischbach/Mersch, Kr  00819  00819                % 12658 RGTR--
+160402002 Fischbach/Mersch, Pa  00820  00820                % 12658 RGTR--
+160404001 Schoos, Um Hiervel    00822  00822                % 12658 RGTR--
+160401001 Angelsberg, Paafenda  00826  00826                % 12658 RGTR--
+160910001 Mersch, Bënzert       00828  00828                % 12658 RGTR--
+160902002 Rollingen, Fielserst  00830  00830                % 12658 RGTR--
+160904001 Mersch, Gare routièr  00832                       % 12658 RGTR--
+*Z 12659 RGTR--                                             % 12659 RGTR--
+*L 234      160501006 160904001  00908  00932               % 12659 RGTR--
+*A CH 160501006 160904001 000033  00908  00932              % 12659 RGTR--
+*R 2 160904001 160501006 160904001  00908  00932            % 12659 RGTR--
+*G 034 160501006 160904001  00908  00932                    % 12659 RGTR--
+*A VE 160501006 160904001 000033  00908  00932              % 12659 RGTR--
+*I FD 160501006 160904001        0001880  00908  00932      % 12659 RGTR--
+160501006 Heffingen, Abri (Cen         00908                % 12659 RGTR--
+160601007 Larochette, Pomjeesb  00911  00911                % 12659 RGTR--
+160602002 Ernzen, Manzebach     00912  00912                % 12659 RGTR--
+160602001 Ernzen, Kapell        00913  00913                % 12659 RGTR--
+160403001 Schmët                00917  00917                % 12659 RGTR--
+160402001 Fischbach/Mersch, Kr  00919  00919                % 12659 RGTR--
+160402002 Fischbach/Mersch, Pa  00920  00920                % 12659 RGTR--
+160404001 Schoos, Um Hiervel    00922  00922                % 12659 RGTR--
+160401001 Angelsberg, Paafenda  00926  00926                % 12659 RGTR--
+160910001 Mersch, Bënzert       00928  00928                % 12659 RGTR--
+160902002 Rollingen, Fielserst  00930  00930                % 12659 RGTR--
+160904001 Mersch, Gare routièr  00932                       % 12659 RGTR--
+*Z 12660 RGTR--                                             % 12660 RGTR--
+*L 234      160501006 160904001  01608  01632               % 12660 RGTR--
+*A CH 160501006 160904001 000033  01608  01632              % 12660 RGTR--
+*R 2 160904001 160501006 160904001  01608  01632            % 12660 RGTR--
+*G 034 160501006 160904001  01608  01632                    % 12660 RGTR--
+*A VE 160501006 160904001 000033  01608  01632              % 12660 RGTR--
+*I FD 160501006 160904001        0001877  01608  01632      % 12660 RGTR--
+160501006 Heffingen, Abri (Cen         01608                % 12660 RGTR--
+160601007 Larochette, Pomjeesb  01611  01611                % 12660 RGTR--
+160602002 Ernzen, Manzebach     01612  01612                % 12660 RGTR--
+160602001 Ernzen, Kapell        01613  01613                % 12660 RGTR--
+160403001 Schmët                01617  01617                % 12660 RGTR--
+160402001 Fischbach/Mersch, Kr  01619  01619                % 12660 RGTR--
+160402002 Fischbach/Mersch, Pa  01620  01620                % 12660 RGTR--
+160404001 Schoos, Um Hiervel    01622  01622                % 12660 RGTR--
+160401001 Angelsberg, Paafenda  01626  01626                % 12660 RGTR--
+160910001 Mersch, Bënzert       01628  01628                % 12660 RGTR--
+160902002 Rollingen, Fielserst  01630  01630                % 12660 RGTR--
+160904001 Mersch, Gare routièr  01632                       % 12660 RGTR--
+*Z 12661 RGTR--                                             % 12661 RGTR--
+*L 234      160501006 160904001  01708  01732               % 12661 RGTR--
+*A CH 160501006 160904001 000033  01708  01732              % 12661 RGTR--
+*R 2 160904001 160501006 160904001  01708  01732            % 12661 RGTR--
+*G 034 160501006 160904001  01708  01732                    % 12661 RGTR--
+*A VE 160501006 160904001 000033  01708  01732              % 12661 RGTR--
+*I FD 160501006 160904001        0001881  01708  01732      % 12661 RGTR--
+160501006 Heffingen, Abri (Cen         01708                % 12661 RGTR--
+160601007 Larochette, Pomjeesb  01711  01711                % 12661 RGTR--
+160602002 Ernzen, Manzebach     01712  01712                % 12661 RGTR--
+160602001 Ernzen, Kapell        01713  01713                % 12661 RGTR--
+160403001 Schmët                01717  01717                % 12661 RGTR--
+160402001 Fischbach/Mersch, Kr  01719  01719                % 12661 RGTR--
+160402002 Fischbach/Mersch, Pa  01720  01720                % 12661 RGTR--
+160404001 Schoos, Um Hiervel    01722  01722                % 12661 RGTR--
+160401001 Angelsberg, Paafenda  01726  01726                % 12661 RGTR--
+160910001 Mersch, Bënzert       01728  01728                % 12661 RGTR--
+160902002 Rollingen, Fielserst  01730  01730                % 12661 RGTR--
+160904001 Mersch, Gare routièr  01732                       % 12661 RGTR--
+*Z 12662 RGTR--                                             % 12662 RGTR--
+*L 234      160501006 160904001  01808  01832               % 12662 RGTR--
+*A CH 160501006 160904001 000033  01808  01832              % 12662 RGTR--
+*R 2 160904001 160501006 160904001  01808  01832            % 12662 RGTR--
+*G 034 160501006 160904001  01808  01832                    % 12662 RGTR--
+*A VE 160501006 160904001 000033  01808  01832              % 12662 RGTR--
+*I FD 160501006 160904001        0001878  01808  01832      % 12662 RGTR--
+160501006 Heffingen, Abri (Cen         01808                % 12662 RGTR--
+160601007 Larochette, Pomjeesb  01811  01811                % 12662 RGTR--
+160602002 Ernzen, Manzebach     01812  01812                % 12662 RGTR--
+160602001 Ernzen, Kapell        01813  01813                % 12662 RGTR--
+160403001 Schmët                01817  01817                % 12662 RGTR--
+160402001 Fischbach/Mersch, Kr  01819  01819                % 12662 RGTR--
+160402002 Fischbach/Mersch, Pa  01820  01820                % 12662 RGTR--
+160404001 Schoos, Um Hiervel    01822  01822                % 12662 RGTR--
+160401001 Angelsberg, Paafenda  01826  01826                % 12662 RGTR--
+160910001 Mersch, Bënzert       01828  01828                % 12662 RGTR--
+160902002 Rollingen, Fielserst  01830  01830                % 12662 RGTR--
+160904001 Mersch, Gare routièr  01832                       % 12662 RGTR--
+*Z 12663 RGTR--                                             % 12663 RGTR--
+*L 234      160904001 160501006  00600  00622               % 12663 RGTR--
+*A CF 160904001 160501006 000017  00600  00622              % 12663 RGTR--
+*R 1 160501006 160904001 160501006  00600  00622            % 12663 RGTR--
+*G 034 160904001 160501006  00600  00622                    % 12663 RGTR--
+*A VE 160904001 160501006 000017  00600  00622              % 12663 RGTR--
+*I FD 160904001 160501006        0001717  00600  00622      % 12663 RGTR--
+160904001 Mersch, Gare routièr         00600                % 12663 RGTR--
+160902002 Rollingen, Fielserst  00602  00602                % 12663 RGTR--
+160910001 Mersch, Bënzert       00604  00604                % 12663 RGTR--
+160401001 Angelsberg, Paafenda  00606  00606                % 12663 RGTR--
+160404001 Schoos, Um Hiervel    00608  00608                % 12663 RGTR--
+160402002 Fischbach/Mersch, Pa  00611  00611                % 12663 RGTR--
+160402001 Fischbach/Mersch, Kr  00611  00611                % 12663 RGTR--
+160403001 Schmët                00613  00613                % 12663 RGTR--
+160602001 Ernzen, Kapell        00617  00617                % 12663 RGTR--
+160602002 Ernzen, Manzebach     00618  00618                % 12663 RGTR--
+160601007 Larochette, Pomjeesb  00619  00619                % 12663 RGTR--
+160501006 Heffingen, Abri (Cen  00622                       % 12663 RGTR--
+*Z 12664 RGTR--                                             % 12664 RGTR--
+*L 234      160904001 160501006  00800  00822               % 12664 RGTR--
+*A CF 160904001 160501006 000017  00800  00822              % 12664 RGTR--
+*R 1 160501006 160904001 160501006  00800  00822            % 12664 RGTR--
+*G 034 160904001 160501006  00800  00822                    % 12664 RGTR--
+*A VE 160904001 160501006 000017  00800  00822              % 12664 RGTR--
+*I FD 160904001 160501006        0001726  00800  00822      % 12664 RGTR--
+160904001 Mersch, Gare routièr         00800                % 12664 RGTR--
+160902002 Rollingen, Fielserst  00802  00802                % 12664 RGTR--
+160910001 Mersch, Bënzert       00804  00804                % 12664 RGTR--
+160401001 Angelsberg, Paafenda  00806  00806                % 12664 RGTR--
+160404001 Schoos, Um Hiervel    00808  00808                % 12664 RGTR--
+160402002 Fischbach/Mersch, Pa  00811  00811                % 12664 RGTR--
+160402001 Fischbach/Mersch, Kr  00811  00811                % 12664 RGTR--
+160403001 Schmët                00813  00813                % 12664 RGTR--
+160602001 Ernzen, Kapell        00817  00817                % 12664 RGTR--
+160602002 Ernzen, Manzebach     00818  00818                % 12664 RGTR--
+160601007 Larochette, Pomjeesb  00819  00819                % 12664 RGTR--
+160501006 Heffingen, Abri (Cen  00822                       % 12664 RGTR--
+*Z 12665 RGTR--                                             % 12665 RGTR--
+*L 234      160904001 160501006  01600  01622               % 12665 RGTR--
+*A CF 160904001 160501006 000017  01600  01622              % 12665 RGTR--
+*R 1 160501006 160904001 160501006  01600  01622            % 12665 RGTR--
+*G 034 160904001 160501006  01600  01622                    % 12665 RGTR--
+*A VE 160904001 160501006 000017  01600  01622              % 12665 RGTR--
+*I FD 160904001 160501006        0001727  01600  01622      % 12665 RGTR--
+160904001 Mersch, Gare routièr         01600                % 12665 RGTR--
+160902002 Rollingen, Fielserst  01602  01602                % 12665 RGTR--
+160910001 Mersch, Bënzert       01604  01604                % 12665 RGTR--
+160401001 Angelsberg, Paafenda  01606  01606                % 12665 RGTR--
+160404001 Schoos, Um Hiervel    01608  01608                % 12665 RGTR--
+160402002 Fischbach/Mersch, Pa  01611  01611                % 12665 RGTR--
+160402001 Fischbach/Mersch, Kr  01611  01611                % 12665 RGTR--
+160403001 Schmët                01613  01613                % 12665 RGTR--
+160602001 Ernzen, Kapell        01617  01617                % 12665 RGTR--
+160602002 Ernzen, Manzebach     01618  01618                % 12665 RGTR--
+160601007 Larochette, Pomjeesb  01619  01619                % 12665 RGTR--
+160501006 Heffingen, Abri (Cen  01622                       % 12665 RGTR--
+*Z 12666 RGTR--                                             % 12666 RGTR--
+*L 234      160904001 160501006  01800  01822               % 12666 RGTR--
+*A CF 160904001 160501006 000017  01800  01822              % 12666 RGTR--
+*R 1 160501006 160904001 160501006  01800  01822            % 12666 RGTR--
+*G 034 160904001 160501006  01800  01822                    % 12666 RGTR--
+*A VE 160904001 160501006 000017  01800  01822              % 12666 RGTR--
+*I FD 160904001 160501006        0001728  01800  01822      % 12666 RGTR--
+160904001 Mersch, Gare routièr         01800                % 12666 RGTR--
+160902002 Rollingen, Fielserst  01802  01802                % 12666 RGTR--
+160910001 Mersch, Bënzert       01804  01804                % 12666 RGTR--
+160401001 Angelsberg, Paafenda  01806  01806                % 12666 RGTR--
+160404001 Schoos, Um Hiervel    01808  01808                % 12666 RGTR--
+160402002 Fischbach/Mersch, Pa  01811  01811                % 12666 RGTR--
+160402001 Fischbach/Mersch, Kr  01811  01811                % 12666 RGTR--
+160403001 Schmët                01813  01813                % 12666 RGTR--
+160602001 Ernzen, Kapell        01817  01817                % 12666 RGTR--
+160602002 Ernzen, Manzebach     01818  01818                % 12666 RGTR--
+160601007 Larochette, Pomjeesb  01819  01819                % 12666 RGTR--
+160501006 Heffingen, Abri (Cen  01822                       % 12666 RGTR--
+*Z 12667 RGTR--                                             % 12667 RGTR--
+*L 234      160904001 160501006  01100  01122               % 12667 RGTR--
+*A CF 160904001 160501006 000040  01100  01122              % 12667 RGTR--
+*R 1 160501006 160904001 160501006  01100  01122            % 12667 RGTR--
+*G 034 160904001 160501006  01100  01122                    % 12667 RGTR--
+*A VE 160904001 160501006 000040  01100  01122              % 12667 RGTR--
+*I FD 160904001 160501006        0001719  01100  01122      % 12667 RGTR--
+160904001 Mersch, Gare routièr         01100                % 12667 RGTR--
+160902002 Rollingen, Fielserst  01102  01102                % 12667 RGTR--
+160910001 Mersch, Bënzert       01104  01104                % 12667 RGTR--
+160401001 Angelsberg, Paafenda  01106  01106                % 12667 RGTR--
+160404001 Schoos, Um Hiervel    01108  01108                % 12667 RGTR--
+160402002 Fischbach/Mersch, Pa  01111  01111                % 12667 RGTR--
+160402001 Fischbach/Mersch, Kr  01111  01111                % 12667 RGTR--
+160403001 Schmët                01113  01113                % 12667 RGTR--
+160602001 Ernzen, Kapell        01117  01117                % 12667 RGTR--
+160602002 Ernzen, Manzebach     01118  01118                % 12667 RGTR--
+160601007 Larochette, Pomjeesb  01119  01119                % 12667 RGTR--
+160501006 Heffingen, Abri (Cen  01122                       % 12667 RGTR--
+*Z 12668 RGTR--                                             % 12668 RGTR--
+*L 234      160904001 160501006  01300  01322               % 12668 RGTR--
+*A CF 160904001 160501006 000040  01300  01322              % 12668 RGTR--
+*R 1 160501006 160904001 160501006  01300  01322            % 12668 RGTR--
+*G 034 160904001 160501006  01300  01322                    % 12668 RGTR--
+*A VE 160904001 160501006 000040  01300  01322              % 12668 RGTR--
+*I FD 160904001 160501006        0001720  01300  01322      % 12668 RGTR--
+160904001 Mersch, Gare routièr         01300                % 12668 RGTR--
+160902002 Rollingen, Fielserst  01302  01302                % 12668 RGTR--
+160910001 Mersch, Bënzert       01304  01304                % 12668 RGTR--
+160401001 Angelsberg, Paafenda  01306  01306                % 12668 RGTR--
+160404001 Schoos, Um Hiervel    01308  01308                % 12668 RGTR--
+160402002 Fischbach/Mersch, Pa  01311  01311                % 12668 RGTR--
+160402001 Fischbach/Mersch, Kr  01311  01311                % 12668 RGTR--
+160403001 Schmët                01313  01313                % 12668 RGTR--
+160602001 Ernzen, Kapell        01317  01317                % 12668 RGTR--
+160602002 Ernzen, Manzebach     01318  01318                % 12668 RGTR--
+160601007 Larochette, Pomjeesb  01319  01319                % 12668 RGTR--
+160501006 Heffingen, Abri (Cen  01322                       % 12668 RGTR--
+*Z 12669 RGTR--                                             % 12669 RGTR--
+*L 234      160904001 160501006  01500  01522               % 12669 RGTR--
+*A CF 160904001 160501006 000040  01500  01522              % 12669 RGTR--
+*A IT 160904001 160501006 000040  01500  01522              % 12669 RGTR--
+*R 1 160501006 160904001 160501006  01500  01522            % 12669 RGTR--
+*G 034 160904001 160501006  01500  01522                    % 12669 RGTR--
+*A VE 160904001 160501006 000040  01500  01522              % 12669 RGTR--
+*I FD 160904001 160501006        0001721  01500  01522      % 12669 RGTR--
+160904001 Mersch, Gare routièr         01500                % 12669 RGTR--
+160902002 Rollingen, Fielserst  01502  01502                % 12669 RGTR--
+160910001 Mersch, Bënzert       01504  01504                % 12669 RGTR--
+160401001 Angelsberg, Paafenda  01506  01506                % 12669 RGTR--
+160404001 Schoos, Um Hiervel    01508  01508                % 12669 RGTR--
+160402002 Fischbach/Mersch, Pa  01511  01511                % 12669 RGTR--
+160402001 Fischbach/Mersch, Kr  01511  01511                % 12669 RGTR--
+160403001 Schmët                01513  01513                % 12669 RGTR--
+160602001 Ernzen, Kapell        01517  01517                % 12669 RGTR--
+160602002 Ernzen, Manzebach     01518  01518                % 12669 RGTR--
+160601007 Larochette, Pomjeesb  01519  01519                % 12669 RGTR--
+160501006 Heffingen, Abri (Cen  01522                       % 12669 RGTR--
+*Z 12670 RGTR--                                             % 12670 RGTR--
+*L 234      160904001 160501006  01900  01922               % 12670 RGTR--
+*A CF 160904001 160501006 000040  01900  01922              % 12670 RGTR--
+*R 1 160501006 160904001 160501006  01900  01922            % 12670 RGTR--
+*G 034 160904001 160501006  01900  01922                    % 12670 RGTR--
+*A VE 160904001 160501006 000040  01900  01922              % 12670 RGTR--
+*I FD 160904001 160501006        0001723  01900  01922      % 12670 RGTR--
+160904001 Mersch, Gare routièr         01900                % 12670 RGTR--
+160902002 Rollingen, Fielserst  01902  01902                % 12670 RGTR--
+160910001 Mersch, Bënzert       01904  01904                % 12670 RGTR--
+160401001 Angelsberg, Paafenda  01906  01906                % 12670 RGTR--
+160404001 Schoos, Um Hiervel    01908  01908                % 12670 RGTR--
+160402002 Fischbach/Mersch, Pa  01911  01911                % 12670 RGTR--
+160402001 Fischbach/Mersch, Kr  01911  01911                % 12670 RGTR--
+160403001 Schmët                01913  01913                % 12670 RGTR--
+160602001 Ernzen, Kapell        01917  01917                % 12670 RGTR--
+160602002 Ernzen, Manzebach     01918  01918                % 12670 RGTR--
+160601007 Larochette, Pomjeesb  01919  01919                % 12670 RGTR--
+160501006 Heffingen, Abri (Cen  01922                       % 12670 RGTR--
+*Z 12671 RGTR--                                             % 12671 RGTR--
+*L 234      160904001 160501006  02100  02122               % 12671 RGTR--
+*A CF 160904001 160501006 000040  02100  02122              % 12671 RGTR--
+*R 1 160501006 160904001 160501006  02100  02122            % 12671 RGTR--
+*G 034 160904001 160501006  02100  02122                    % 12671 RGTR--
+*A VE 160904001 160501006 000040  02100  02122              % 12671 RGTR--
+*I FD 160904001 160501006        0001928  02100  02122      % 12671 RGTR--
+160904001 Mersch, Gare routièr         02100                % 12671 RGTR--
+160902002 Rollingen, Fielserst  02102  02102                % 12671 RGTR--
+160910001 Mersch, Bënzert       02104  02104                % 12671 RGTR--
+160401001 Angelsberg, Paafenda  02106  02106                % 12671 RGTR--
+160404001 Schoos, Um Hiervel    02108  02108                % 12671 RGTR--
+160402002 Fischbach/Mersch, Pa  02111  02111                % 12671 RGTR--
+160402001 Fischbach/Mersch, Kr  02111  02111                % 12671 RGTR--
+160403001 Schmët                02113  02113                % 12671 RGTR--
+160602001 Ernzen, Kapell        02117  02117                % 12671 RGTR--
+160602002 Ernzen, Manzebach     02118  02118                % 12671 RGTR--
+160601007 Larochette, Pomjeesb  02119  02119                % 12671 RGTR--
+160501006 Heffingen, Abri (Cen  02122                       % 12671 RGTR--
+*Z 12672 RGTR--                                             % 12672 RGTR--
+*L 234      160904001 160501006  00500  00522               % 12672 RGTR--
+*R 1 160501006 160904001 160501006  00500  00522            % 12672 RGTR--
+*G 034 160904001 160501006  00500  00522                    % 12672 RGTR--
+*A VE 160904001 160501006 000038  00500  00522              % 12672 RGTR--
+*I FD 160904001 160501006        0001725  00500  00522      % 12672 RGTR--
+160904001 Mersch, Gare routièr         00500                % 12672 RGTR--
+160902002 Rollingen, Fielserst  00502  00502                % 12672 RGTR--
+160910001 Mersch, Bënzert       00504  00504                % 12672 RGTR--
+160401001 Angelsberg, Paafenda  00506  00506                % 12672 RGTR--
+160404001 Schoos, Um Hiervel    00508  00508                % 12672 RGTR--
+160402002 Fischbach/Mersch, Pa  00511  00511                % 12672 RGTR--
+160402001 Fischbach/Mersch, Kr  00511  00511                % 12672 RGTR--
+160403001 Schmët                00513  00513                % 12672 RGTR--
+160602001 Ernzen, Kapell        00517  00517                % 12672 RGTR--
+160602002 Ernzen, Manzebach     00518  00518                % 12672 RGTR--
+160601007 Larochette, Pomjeesb  00519  00519                % 12672 RGTR--
+160501006 Heffingen, Abri (Cen  00522                       % 12672 RGTR--
+*Z 12673 RGTR--                                             % 12673 RGTR--
+*L 234      160904001 160501006  01000  01022               % 12673 RGTR--
+*A CF 160904001 160501006 000038  01000  01022              % 12673 RGTR--
+*R 1 160501006 160904001 160501006  01000  01022            % 12673 RGTR--
+*G 034 160904001 160501006  01000  01022                    % 12673 RGTR--
+*A VE 160904001 160501006 000038  01000  01022              % 12673 RGTR--
+*I FD 160904001 160501006        0001712  01000  01022      % 12673 RGTR--
+160904001 Mersch, Gare routièr         01000                % 12673 RGTR--
+160902002 Rollingen, Fielserst  01002  01002                % 12673 RGTR--
+160910001 Mersch, Bënzert       01004  01004                % 12673 RGTR--
+160401001 Angelsberg, Paafenda  01006  01006                % 12673 RGTR--
+160404001 Schoos, Um Hiervel    01008  01008                % 12673 RGTR--
+160402002 Fischbach/Mersch, Pa  01011  01011                % 12673 RGTR--
+160402001 Fischbach/Mersch, Kr  01011  01011                % 12673 RGTR--
+160403001 Schmët                01013  01013                % 12673 RGTR--
+160602001 Ernzen, Kapell        01017  01017                % 12673 RGTR--
+160602002 Ernzen, Manzebach     01018  01018                % 12673 RGTR--
+160601007 Larochette, Pomjeesb  01019  01019                % 12673 RGTR--
+160501006 Heffingen, Abri (Cen  01022                       % 12673 RGTR--
+*Z 12674 RGTR--                                             % 12674 RGTR--
+*L 234      160904001 160501006  01200  01222               % 12674 RGTR--
+*A CF 160904001 160501006 000038  01200  01222              % 12674 RGTR--
+*R 1 160501006 160904001 160501006  01200  01222            % 12674 RGTR--
+*G 034 160904001 160501006  01200  01222                    % 12674 RGTR--
+*A VE 160904001 160501006 000038  01200  01222              % 12674 RGTR--
+*I FD 160904001 160501006        0001713  01200  01222      % 12674 RGTR--
+160904001 Mersch, Gare routièr         01200                % 12674 RGTR--
+160902002 Rollingen, Fielserst  01202  01202                % 12674 RGTR--
+160910001 Mersch, Bënzert       01204  01204                % 12674 RGTR--
+160401001 Angelsberg, Paafenda  01206  01206                % 12674 RGTR--
+160404001 Schoos, Um Hiervel    01208  01208                % 12674 RGTR--
+160402002 Fischbach/Mersch, Pa  01211  01211                % 12674 RGTR--
+160402001 Fischbach/Mersch, Kr  01211  01211                % 12674 RGTR--
+160403001 Schmët                01213  01213                % 12674 RGTR--
+160602001 Ernzen, Kapell        01217  01217                % 12674 RGTR--
+160602002 Ernzen, Manzebach     01218  01218                % 12674 RGTR--
+160601007 Larochette, Pomjeesb  01219  01219                % 12674 RGTR--
+160501006 Heffingen, Abri (Cen  01222                       % 12674 RGTR--
+*Z 12675 RGTR--                                             % 12675 RGTR--
+*L 234      160904001 160501006  01400  01422               % 12675 RGTR--
+*A CF 160904001 160501006 000038  01400  01422              % 12675 RGTR--
+*R 1 160501006 160904001 160501006  01400  01422            % 12675 RGTR--
+*G 034 160904001 160501006  01400  01422                    % 12675 RGTR--
+*A VE 160904001 160501006 000038  01400  01422              % 12675 RGTR--
+*I FD 160904001 160501006        0001714  01400  01422      % 12675 RGTR--
+160904001 Mersch, Gare routièr         01400                % 12675 RGTR--
+160902002 Rollingen, Fielserst  01402  01402                % 12675 RGTR--
+160910001 Mersch, Bënzert       01404  01404                % 12675 RGTR--
+160401001 Angelsberg, Paafenda  01406  01406                % 12675 RGTR--
+160404001 Schoos, Um Hiervel    01408  01408                % 12675 RGTR--
+160402002 Fischbach/Mersch, Pa  01411  01411                % 12675 RGTR--
+160402001 Fischbach/Mersch, Kr  01411  01411                % 12675 RGTR--
+160403001 Schmët                01413  01413                % 12675 RGTR--
+160602001 Ernzen, Kapell        01417  01417                % 12675 RGTR--
+160602002 Ernzen, Manzebach     01418  01418                % 12675 RGTR--
+160601007 Larochette, Pomjeesb  01419  01419                % 12675 RGTR--
+160501006 Heffingen, Abri (Cen  01422                       % 12675 RGTR--
+*Z 12676 RGTR--                                             % 12676 RGTR--
+*L 234      160904001 160501006  02300  02322               % 12676 RGTR--
+*A CF 160904001 160501006 000038  02300  02322              % 12676 RGTR--
+*R 1 160501006 160904001 160501006  02300  02322            % 12676 RGTR--
+*G 034 160904001 160501006  02300  02322                    % 12676 RGTR--
+*A VE 160904001 160501006 000038  02300  02322              % 12676 RGTR--
+*I FD 160904001 160501006        0001929  02300  02322      % 12676 RGTR--
+160904001 Mersch, Gare routièr         02300                % 12676 RGTR--
+160902002 Rollingen, Fielserst  02302  02302                % 12676 RGTR--
+160910001 Mersch, Bënzert       02304  02304                % 12676 RGTR--
+160401001 Angelsberg, Paafenda  02306  02306                % 12676 RGTR--
+160404001 Schoos, Um Hiervel    02308  02308                % 12676 RGTR--
+160402002 Fischbach/Mersch, Pa  02311  02311                % 12676 RGTR--
+160402001 Fischbach/Mersch, Kr  02311  02311                % 12676 RGTR--
+160403001 Schmët                02313  02313                % 12676 RGTR--
+160602001 Ernzen, Kapell        02317  02317                % 12676 RGTR--
+160602002 Ernzen, Manzebach     02318  02318                % 12676 RGTR--
+160601007 Larochette, Pomjeesb  02319  02319                % 12676 RGTR--
+160501006 Heffingen, Abri (Cen  02322                       % 12676 RGTR--
+*Z 12677 RGTR--                                             % 12677 RGTR--
+*L 234      160904001 160501006  02000  02022               % 12677 RGTR--
+*A CF 160904001 160501006 000034  02000  02022              % 12677 RGTR--
+*R 1 160501006 160904001 160501006  02000  02022            % 12677 RGTR--
+*G 034 160904001 160501006  02000  02022                    % 12677 RGTR--
+*A VE 160904001 160501006 000034  02000  02022              % 12677 RGTR--
+*I FD 160904001 160501006        0001927  02000  02022      % 12677 RGTR--
+160904001 Mersch, Gare routièr         02000                % 12677 RGTR--
+160902002 Rollingen, Fielserst  02002  02002                % 12677 RGTR--
+160910001 Mersch, Bënzert       02004  02004                % 12677 RGTR--
+160401001 Angelsberg, Paafenda  02006  02006                % 12677 RGTR--
+160404001 Schoos, Um Hiervel    02008  02008                % 12677 RGTR--
+160402002 Fischbach/Mersch, Pa  02011  02011                % 12677 RGTR--
+160402001 Fischbach/Mersch, Kr  02011  02011                % 12677 RGTR--
+160403001 Schmët                02013  02013                % 12677 RGTR--
+160602001 Ernzen, Kapell        02017  02017                % 12677 RGTR--
+160602002 Ernzen, Manzebach     02018  02018                % 12677 RGTR--
+160601007 Larochette, Pomjeesb  02019  02019                % 12677 RGTR--
+160501006 Heffingen, Abri (Cen  02022                       % 12677 RGTR--
+*Z 12678 RGTR--                                             % 12678 RGTR--
+*L 234      160904001 160501006  02200  02222               % 12678 RGTR--
+*A CF 160904001 160501006 000034  02200  02222              % 12678 RGTR--
+*R 1 160501006 160904001 160501006  02200  02222            % 12678 RGTR--
+*G 034 160904001 160501006  02200  02222                    % 12678 RGTR--
+*A VE 160904001 160501006 000034  02200  02222              % 12678 RGTR--
+*I FD 160904001 160501006        0001934  02200  02222      % 12678 RGTR--
+160904001 Mersch, Gare routièr         02200                % 12678 RGTR--
+160902002 Rollingen, Fielserst  02202  02202                % 12678 RGTR--
+160910001 Mersch, Bënzert       02204  02204                % 12678 RGTR--
+160401001 Angelsberg, Paafenda  02206  02206                % 12678 RGTR--
+160404001 Schoos, Um Hiervel    02208  02208                % 12678 RGTR--
+160402002 Fischbach/Mersch, Pa  02211  02211                % 12678 RGTR--
+160402001 Fischbach/Mersch, Kr  02211  02211                % 12678 RGTR--
+160403001 Schmët                02213  02213                % 12678 RGTR--
+160602001 Ernzen, Kapell        02217  02217                % 12678 RGTR--
+160602002 Ernzen, Manzebach     02218  02218                % 12678 RGTR--
+160601007 Larochette, Pomjeesb  02219  02219                % 12678 RGTR--
+160501006 Heffingen, Abri (Cen  02222                       % 12678 RGTR--
+*Z 12679 RGTR--                                             % 12679 RGTR--
+*L 234      160904001 160501006  00700  00722               % 12679 RGTR--
+*A CF 160904001 160501006 000037  00700  00722              % 12679 RGTR--
+*R 1 160501006 160904001 160501006  00700  00722            % 12679 RGTR--
+*G 034 160904001 160501006  00700  00722                    % 12679 RGTR--
+*A VE 160904001 160501006 000037  00700  00722              % 12679 RGTR--
+*I FD 160904001 160501006        0001729  00700  00722      % 12679 RGTR--
+160904001 Mersch, Gare routièr         00700                % 12679 RGTR--
+160902002 Rollingen, Fielserst  00702  00702                % 12679 RGTR--
+160910001 Mersch, Bënzert       00704  00704                % 12679 RGTR--
+160401001 Angelsberg, Paafenda  00706  00706                % 12679 RGTR--
+160404001 Schoos, Um Hiervel    00708  00708                % 12679 RGTR--
+160402002 Fischbach/Mersch, Pa  00711  00711                % 12679 RGTR--
+160402001 Fischbach/Mersch, Kr  00711  00711                % 12679 RGTR--
+160403001 Schmët                00713  00713                % 12679 RGTR--
+160602001 Ernzen, Kapell        00717  00717                % 12679 RGTR--
+160602002 Ernzen, Manzebach     00718  00718                % 12679 RGTR--
+160601007 Larochette, Pomjeesb  00719  00719                % 12679 RGTR--
+160501006 Heffingen, Abri (Cen  00722                       % 12679 RGTR--
+*Z 12680 RGTR--                                             % 12680 RGTR--
+*L 234      160904001 160501006  00900  00922               % 12680 RGTR--
+*A CF 160904001 160501006 000037  00900  00922              % 12680 RGTR--
+*R 1 160501006 160904001 160501006  00900  00922            % 12680 RGTR--
+*G 034 160904001 160501006  00900  00922                    % 12680 RGTR--
+*A VE 160904001 160501006 000037  00900  00922              % 12680 RGTR--
+*I FD 160904001 160501006        0001718  00900  00922      % 12680 RGTR--
+160904001 Mersch, Gare routièr         00900                % 12680 RGTR--
+160902002 Rollingen, Fielserst  00902  00902                % 12680 RGTR--
+160910001 Mersch, Bënzert       00904  00904                % 12680 RGTR--
+160401001 Angelsberg, Paafenda  00906  00906                % 12680 RGTR--
+160404001 Schoos, Um Hiervel    00908  00908                % 12680 RGTR--
+160402002 Fischbach/Mersch, Pa  00911  00911                % 12680 RGTR--
+160402001 Fischbach/Mersch, Kr  00911  00911                % 12680 RGTR--
+160403001 Schmët                00913  00913                % 12680 RGTR--
+160602001 Ernzen, Kapell        00917  00917                % 12680 RGTR--
+160602002 Ernzen, Manzebach     00918  00918                % 12680 RGTR--
+160601007 Larochette, Pomjeesb  00919  00919                % 12680 RGTR--
+160501006 Heffingen, Abri (Cen  00922                       % 12680 RGTR--
+*Z 12681 RGTR--                                             % 12681 RGTR--
+*L 234      160904001 160501006  01700  01722               % 12681 RGTR--
+*A CF 160904001 160501006 000037  01700  01722              % 12681 RGTR--
+*R 1 160501006 160904001 160501006  01700  01722            % 12681 RGTR--
+*G 034 160904001 160501006  01700  01722                    % 12681 RGTR--
+*A VE 160904001 160501006 000037  01700  01722              % 12681 RGTR--
+*I FD 160904001 160501006        0001732  01700  01722      % 12681 RGTR--
+160904001 Mersch, Gare routièr         01700                % 12681 RGTR--
+160902002 Rollingen, Fielserst  01702  01702                % 12681 RGTR--
+160910001 Mersch, Bënzert       01704  01704                % 12681 RGTR--
+160401001 Angelsberg, Paafenda  01706  01706                % 12681 RGTR--
+160404001 Schoos, Um Hiervel    01708  01708                % 12681 RGTR--
+160402002 Fischbach/Mersch, Pa  01711  01711                % 12681 RGTR--
+160402001 Fischbach/Mersch, Kr  01711  01711                % 12681 RGTR--
+160403001 Schmët                01713  01713                % 12681 RGTR--
+160602001 Ernzen, Kapell        01717  01717                % 12681 RGTR--
+160602002 Ernzen, Manzebach     01718  01718                % 12681 RGTR--
+160601007 Larochette, Pomjeesb  01719  01719                % 12681 RGTR--
+160501006 Heffingen, Abri (Cen  01722                       % 12681 RGTR--
+*Z 12682 RGTR--                                             % 12682 RGTR--
+*L 234      160904001 160501006  00600  00624               % 12682 RGTR--
+*A CF 160904001 160501006 000034  00600  00624              % 12682 RGTR--
+*R 1 160501006 160904001 160501006  00600  00624            % 12682 RGTR--
+*G 034 160904001 160501006  00600  00624                    % 12682 RGTR--
+*A VE 160904001 160501006 000034  00600  00624              % 12682 RGTR--
+*I FD 160904001 160501006        0001717  00600  00624      % 12682 RGTR--
+160904001 Mersch, Gare routièr         00600                % 12682 RGTR--
+160902002 Rollingen, Fielserst  00602  00602                % 12682 RGTR--
+160910001 Mersch, Bënzert       00604  00604                % 12682 RGTR--
+160401001 Angelsberg, Paafenda  00606  00606                % 12682 RGTR--
+160404001 Schoos, Um Hiervel    00609  00609                % 12682 RGTR--
+160402002 Fischbach/Mersch, Pa  00612  00612                % 12682 RGTR--
+160402001 Fischbach/Mersch, Kr  00613  00613                % 12682 RGTR--
+160403001 Schmët                00614  00614                % 12682 RGTR--
+160602001 Ernzen, Kapell        00619  00619                % 12682 RGTR--
+160602002 Ernzen, Manzebach     00620  00620                % 12682 RGTR--
+160601007 Larochette, Pomjeesb  00621  00621                % 12682 RGTR--
+160501006 Heffingen, Abri (Cen  00624                       % 12682 RGTR--
+*Z 12683 RGTR--                                             % 12683 RGTR--
+*L 234      160904001 160501006  00700  00724               % 12683 RGTR--
+*A CF 160904001 160501006 000034  00700  00724              % 12683 RGTR--
+*R 1 160501006 160904001 160501006  00700  00724            % 12683 RGTR--
+*G 034 160904001 160501006  00700  00724                    % 12683 RGTR--
+*A VE 160904001 160501006 000034  00700  00724              % 12683 RGTR--
+*I FD 160904001 160501006        0001729  00700  00724      % 12683 RGTR--
+160904001 Mersch, Gare routièr         00700                % 12683 RGTR--
+160902002 Rollingen, Fielserst  00702  00702                % 12683 RGTR--
+160910001 Mersch, Bënzert       00704  00704                % 12683 RGTR--
+160401001 Angelsberg, Paafenda  00706  00706                % 12683 RGTR--
+160404001 Schoos, Um Hiervel    00709  00709                % 12683 RGTR--
+160402002 Fischbach/Mersch, Pa  00712  00712                % 12683 RGTR--
+160402001 Fischbach/Mersch, Kr  00713  00713                % 12683 RGTR--
+160403001 Schmët                00714  00714                % 12683 RGTR--
+160602001 Ernzen, Kapell        00719  00719                % 12683 RGTR--
+160602002 Ernzen, Manzebach     00720  00720                % 12683 RGTR--
+160601007 Larochette, Pomjeesb  00721  00721                % 12683 RGTR--
+160501006 Heffingen, Abri (Cen  00724                       % 12683 RGTR--
+*Z 12684 RGTR--                                             % 12684 RGTR--
+*L 234      160904001 160501006  00800  00824               % 12684 RGTR--
+*A CF 160904001 160501006 000034  00800  00824              % 12684 RGTR--
+*R 1 160501006 160904001 160501006  00800  00824            % 12684 RGTR--
+*G 034 160904001 160501006  00800  00824                    % 12684 RGTR--
+*A VE 160904001 160501006 000034  00800  00824              % 12684 RGTR--
+*I FD 160904001 160501006        0001726  00800  00824      % 12684 RGTR--
+160904001 Mersch, Gare routièr         00800                % 12684 RGTR--
+160902002 Rollingen, Fielserst  00802  00802                % 12684 RGTR--
+160910001 Mersch, Bënzert       00804  00804                % 12684 RGTR--
+160401001 Angelsberg, Paafenda  00806  00806                % 12684 RGTR--
+160404001 Schoos, Um Hiervel    00809  00809                % 12684 RGTR--
+160402002 Fischbach/Mersch, Pa  00812  00812                % 12684 RGTR--
+160402001 Fischbach/Mersch, Kr  00813  00813                % 12684 RGTR--
+160403001 Schmët                00814  00814                % 12684 RGTR--
+160602001 Ernzen, Kapell        00819  00819                % 12684 RGTR--
+160602002 Ernzen, Manzebach     00820  00820                % 12684 RGTR--
+160601007 Larochette, Pomjeesb  00821  00821                % 12684 RGTR--
+160501006 Heffingen, Abri (Cen  00824                       % 12684 RGTR--
+*Z 12685 RGTR--                                             % 12685 RGTR--
+*L 234      160904001 160501006  00900  00924               % 12685 RGTR--
+*A CF 160904001 160501006 000034  00900  00924              % 12685 RGTR--
+*R 1 160501006 160904001 160501006  00900  00924            % 12685 RGTR--
+*G 034 160904001 160501006  00900  00924                    % 12685 RGTR--
+*A VE 160904001 160501006 000034  00900  00924              % 12685 RGTR--
+*I FD 160904001 160501006        0001718  00900  00924      % 12685 RGTR--
+160904001 Mersch, Gare routièr         00900                % 12685 RGTR--
+160902002 Rollingen, Fielserst  00902  00902                % 12685 RGTR--
+160910001 Mersch, Bënzert       00904  00904                % 12685 RGTR--
+160401001 Angelsberg, Paafenda  00906  00906                % 12685 RGTR--
+160404001 Schoos, Um Hiervel    00909  00909                % 12685 RGTR--
+160402002 Fischbach/Mersch, Pa  00912  00912                % 12685 RGTR--
+160402001 Fischbach/Mersch, Kr  00913  00913                % 12685 RGTR--
+160403001 Schmët                00914  00914                % 12685 RGTR--
+160602001 Ernzen, Kapell        00919  00919                % 12685 RGTR--
+160602002 Ernzen, Manzebach     00920  00920                % 12685 RGTR--
+160601007 Larochette, Pomjeesb  00921  00921                % 12685 RGTR--
+160501006 Heffingen, Abri (Cen  00924                       % 12685 RGTR--
+*Z 12686 RGTR--                                             % 12686 RGTR--
+*L 234      160904001 160501006  01600  01624               % 12686 RGTR--
+*A CF 160904001 160501006 000034  01600  01624              % 12686 RGTR--
+*R 1 160501006 160904001 160501006  01600  01624            % 12686 RGTR--
+*G 034 160904001 160501006  01600  01624                    % 12686 RGTR--
+*A VE 160904001 160501006 000034  01600  01624              % 12686 RGTR--
+*I FD 160904001 160501006        0001727  01600  01624      % 12686 RGTR--
+160904001 Mersch, Gare routièr         01600                % 12686 RGTR--
+160902002 Rollingen, Fielserst  01602  01602                % 12686 RGTR--
+160910001 Mersch, Bënzert       01604  01604                % 12686 RGTR--
+160401001 Angelsberg, Paafenda  01606  01606                % 12686 RGTR--
+160404001 Schoos, Um Hiervel    01609  01609                % 12686 RGTR--
+160402002 Fischbach/Mersch, Pa  01612  01612                % 12686 RGTR--
+160402001 Fischbach/Mersch, Kr  01613  01613                % 12686 RGTR--
+160403001 Schmët                01614  01614                % 12686 RGTR--
+160602001 Ernzen, Kapell        01619  01619                % 12686 RGTR--
+160602002 Ernzen, Manzebach     01620  01620                % 12686 RGTR--
+160601007 Larochette, Pomjeesb  01621  01621                % 12686 RGTR--
+160501006 Heffingen, Abri (Cen  01624                       % 12686 RGTR--
+*Z 12687 RGTR--                                             % 12687 RGTR--
+*L 234      160904001 160501006  01700  01724               % 12687 RGTR--
+*A CF 160904001 160501006 000034  01700  01724              % 12687 RGTR--
+*R 1 160501006 160904001 160501006  01700  01724            % 12687 RGTR--
+*G 034 160904001 160501006  01700  01724                    % 12687 RGTR--
+*A VE 160904001 160501006 000034  01700  01724              % 12687 RGTR--
+*I FD 160904001 160501006        0001732  01700  01724      % 12687 RGTR--
+160904001 Mersch, Gare routièr         01700                % 12687 RGTR--
+160902002 Rollingen, Fielserst  01702  01702                % 12687 RGTR--
+160910001 Mersch, Bënzert       01704  01704                % 12687 RGTR--
+160401001 Angelsberg, Paafenda  01706  01706                % 12687 RGTR--
+160404001 Schoos, Um Hiervel    01709  01709                % 12687 RGTR--
+160402002 Fischbach/Mersch, Pa  01712  01712                % 12687 RGTR--
+160402001 Fischbach/Mersch, Kr  01713  01713                % 12687 RGTR--
+160403001 Schmët                01714  01714                % 12687 RGTR--
+160602001 Ernzen, Kapell        01719  01719                % 12687 RGTR--
+160602002 Ernzen, Manzebach     01720  01720                % 12687 RGTR--
+160601007 Larochette, Pomjeesb  01721  01721                % 12687 RGTR--
+160501006 Heffingen, Abri (Cen  01724                       % 12687 RGTR--
+*Z 12688 RGTR--                                             % 12688 RGTR--
+*L 234      160904001 160501006  01800  01824               % 12688 RGTR--
+*A CF 160904001 160501006 000034  01800  01824              % 12688 RGTR--
+*R 1 160501006 160904001 160501006  01800  01824            % 12688 RGTR--
+*G 034 160904001 160501006  01800  01824                    % 12688 RGTR--
+*A VE 160904001 160501006 000034  01800  01824              % 12688 RGTR--
+*I FD 160904001 160501006        0001728  01800  01824      % 12688 RGTR--
+160904001 Mersch, Gare routièr         01800                % 12688 RGTR--
+160902002 Rollingen, Fielserst  01802  01802                % 12688 RGTR--
+160910001 Mersch, Bënzert       01804  01804                % 12688 RGTR--
+160401001 Angelsberg, Paafenda  01806  01806                % 12688 RGTR--
+160404001 Schoos, Um Hiervel    01809  01809                % 12688 RGTR--
+160402002 Fischbach/Mersch, Pa  01812  01812                % 12688 RGTR--
+160402001 Fischbach/Mersch, Kr  01813  01813                % 12688 RGTR--
+160403001 Schmët                01814  01814                % 12688 RGTR--
+160602001 Ernzen, Kapell        01819  01819                % 12688 RGTR--
+160602002 Ernzen, Manzebach     01820  01820                % 12688 RGTR--
+160601007 Larochette, Pomjeesb  01821  01821                % 12688 RGTR--
+160501006 Heffingen, Abri (Cen  01824                       % 12688 RGTR--
+*Z 12689 RGTR--                                             % 12689 RGTR--
+*L 234      160501006 160904001  00608  00631               % 12689 RGTR--
+*A CH 160501006 160904001 000017  00608  00631              % 12689 RGTR--
+*R 2 160904001 160501006 160904001  00608  00631            % 12689 RGTR--
+*G 034 160501006 160904001  00608  00631                    % 12689 RGTR--
+*A VE 160501006 160904001 000017  00608  00631              % 12689 RGTR--
+*I FD 160501006 160904001        0001871  00608  00631      % 12689 RGTR--
+160501006 Heffingen, Abri (Cen         00608                % 12689 RGTR--
+160601007 Larochette, Pomjeesb  00611  00611                % 12689 RGTR--
+160602002 Ernzen, Manzebach     00612  00612                % 12689 RGTR--
+160602001 Ernzen, Kapell        00613  00613                % 12689 RGTR--
+160403001 Schmët                00617  00617                % 12689 RGTR--
+160402001 Fischbach/Mersch, Kr  00619  00619                % 12689 RGTR--
+160402002 Fischbach/Mersch, Pa  00620  00620                % 12689 RGTR--
+160404001 Schoos, Um Hiervel    00622  00622                % 12689 RGTR--
+160401001 Angelsberg, Paafenda  00626  00626                % 12689 RGTR--
+160910001 Mersch, Bënzert       00627  00627                % 12689 RGTR--
+160902002 Rollingen, Fielserst  00629  00629                % 12689 RGTR--
+160904001 Mersch, Gare routièr  00631                       % 12689 RGTR--
+*Z 12690 RGTR--                                             % 12690 RGTR--
+*L 234      160501006 160904001  00708  00731               % 12690 RGTR--
+*A CH 160501006 160904001 000017  00708  00731              % 12690 RGTR--
+*R 2 160904001 160501006 160904001  00708  00731            % 12690 RGTR--
+*G 034 160501006 160904001  00708  00731                    % 12690 RGTR--
+*A VE 160501006 160904001 000017  00708  00731              % 12690 RGTR--
+*I FD 160501006 160904001        0001879  00708  00731      % 12690 RGTR--
+160501006 Heffingen, Abri (Cen         00708                % 12690 RGTR--
+160601007 Larochette, Pomjeesb  00711  00711                % 12690 RGTR--
+160602002 Ernzen, Manzebach     00712  00712                % 12690 RGTR--
+160602001 Ernzen, Kapell        00713  00713                % 12690 RGTR--
+160403001 Schmët                00717  00717                % 12690 RGTR--
+160402001 Fischbach/Mersch, Kr  00719  00719                % 12690 RGTR--
+160402002 Fischbach/Mersch, Pa  00720  00720                % 12690 RGTR--
+160404001 Schoos, Um Hiervel    00722  00722                % 12690 RGTR--
+160401001 Angelsberg, Paafenda  00726  00726                % 12690 RGTR--
+160910001 Mersch, Bënzert       00727  00727                % 12690 RGTR--
+160902002 Rollingen, Fielserst  00729  00729                % 12690 RGTR--
+160904001 Mersch, Gare routièr  00731                       % 12690 RGTR--
+*Z 12691 RGTR--                                             % 12691 RGTR--
+*L 234      160501006 160904001  00908  00931               % 12691 RGTR--
+*A CH 160501006 160904001 000017  00908  00931              % 12691 RGTR--
+*R 2 160904001 160501006 160904001  00908  00931            % 12691 RGTR--
+*G 034 160501006 160904001  00908  00931                    % 12691 RGTR--
+*A VE 160501006 160904001 000017  00908  00931              % 12691 RGTR--
+*I FD 160501006 160904001        0001880  00908  00931      % 12691 RGTR--
+160501006 Heffingen, Abri (Cen         00908                % 12691 RGTR--
+160601007 Larochette, Pomjeesb  00911  00911                % 12691 RGTR--
+160602002 Ernzen, Manzebach     00912  00912                % 12691 RGTR--
+160602001 Ernzen, Kapell        00913  00913                % 12691 RGTR--
+160403001 Schmët                00917  00917                % 12691 RGTR--
+160402001 Fischbach/Mersch, Kr  00919  00919                % 12691 RGTR--
+160402002 Fischbach/Mersch, Pa  00920  00920                % 12691 RGTR--
+160404001 Schoos, Um Hiervel    00922  00922                % 12691 RGTR--
+160401001 Angelsberg, Paafenda  00926  00926                % 12691 RGTR--
+160910001 Mersch, Bënzert       00927  00927                % 12691 RGTR--
+160902002 Rollingen, Fielserst  00929  00929                % 12691 RGTR--
+160904001 Mersch, Gare routièr  00931                       % 12691 RGTR--
+*Z 12692 RGTR--                                             % 12692 RGTR--
+*L 234      160501006 160904001  01708  01731               % 12692 RGTR--
+*A CH 160501006 160904001 000017  01708  01731              % 12692 RGTR--
+*R 2 160904001 160501006 160904001  01708  01731            % 12692 RGTR--
+*G 034 160501006 160904001  01708  01731                    % 12692 RGTR--
+*A VE 160501006 160904001 000017  01708  01731              % 12692 RGTR--
+*I FD 160501006 160904001        0001881  01708  01731      % 12692 RGTR--
+160501006 Heffingen, Abri (Cen         01708                % 12692 RGTR--
+160601007 Larochette, Pomjeesb  01711  01711                % 12692 RGTR--
+160602002 Ernzen, Manzebach     01712  01712                % 12692 RGTR--
+160602001 Ernzen, Kapell        01713  01713                % 12692 RGTR--
+160403001 Schmët                01717  01717                % 12692 RGTR--
+160402001 Fischbach/Mersch, Kr  01719  01719                % 12692 RGTR--
+160402002 Fischbach/Mersch, Pa  01720  01720                % 12692 RGTR--
+160404001 Schoos, Um Hiervel    01722  01722                % 12692 RGTR--
+160401001 Angelsberg, Paafenda  01726  01726                % 12692 RGTR--
+160910001 Mersch, Bënzert       01727  01727                % 12692 RGTR--
+160902002 Rollingen, Fielserst  01729  01729                % 12692 RGTR--
+160904001 Mersch, Gare routièr  01731                       % 12692 RGTR--
+*Z 12693 RGTR--                                             % 12693 RGTR--
+*L 234      160501006 160904001  01008  01031               % 12693 RGTR--
+*A CH 160501006 160904001 000040  01008  01031              % 12693 RGTR--
+*R 2 160904001 160501006 160904001  01008  01031            % 12693 RGTR--
+*G 034 160501006 160904001  01008  01031                    % 12693 RGTR--
+*A VE 160501006 160904001 000040  01008  01031              % 12693 RGTR--
+*I FD 160501006 160904001        0001865  01008  01031      % 12693 RGTR--
+160501006 Heffingen, Abri (Cen         01008                % 12693 RGTR--
+160601007 Larochette, Pomjeesb  01011  01011                % 12693 RGTR--
+160602002 Ernzen, Manzebach     01012  01012                % 12693 RGTR--
+160602001 Ernzen, Kapell        01013  01013                % 12693 RGTR--
+160403001 Schmët                01017  01017                % 12693 RGTR--
+160402001 Fischbach/Mersch, Kr  01019  01019                % 12693 RGTR--
+160402002 Fischbach/Mersch, Pa  01020  01020                % 12693 RGTR--
+160404001 Schoos, Um Hiervel    01022  01022                % 12693 RGTR--
+160401001 Angelsberg, Paafenda  01026  01026                % 12693 RGTR--
+160910001 Mersch, Bënzert       01027  01027                % 12693 RGTR--
+160902002 Rollingen, Fielserst  01029  01029                % 12693 RGTR--
+160904001 Mersch, Gare routièr  01031                       % 12693 RGTR--
+*Z 12694 RGTR--                                             % 12694 RGTR--
+*L 234      160501006 160904001  01208  01231               % 12694 RGTR--
+*A CH 160501006 160904001 000040  01208  01231              % 12694 RGTR--
+*R 2 160904001 160501006 160904001  01208  01231            % 12694 RGTR--
+*G 034 160501006 160904001  01208  01231                    % 12694 RGTR--
+*A VE 160501006 160904001 000040  01208  01231              % 12694 RGTR--
+*I FD 160501006 160904001        0001866  01208  01231      % 12694 RGTR--
+160501006 Heffingen, Abri (Cen         01208                % 12694 RGTR--
+160601007 Larochette, Pomjeesb  01211  01211                % 12694 RGTR--
+160602002 Ernzen, Manzebach     01212  01212                % 12694 RGTR--
+160602001 Ernzen, Kapell        01213  01213                % 12694 RGTR--
+160403001 Schmët                01217  01217                % 12694 RGTR--
+160402001 Fischbach/Mersch, Kr  01219  01219                % 12694 RGTR--
+160402002 Fischbach/Mersch, Pa  01220  01220                % 12694 RGTR--
+160404001 Schoos, Um Hiervel    01222  01222                % 12694 RGTR--
+160401001 Angelsberg, Paafenda  01226  01226                % 12694 RGTR--
+160910001 Mersch, Bënzert       01227  01227                % 12694 RGTR--
+160902002 Rollingen, Fielserst  01229  01229                % 12694 RGTR--
+160904001 Mersch, Gare routièr  01231                       % 12694 RGTR--
+*Z 12695 RGTR--                                             % 12695 RGTR--
+*L 234      160501006 160904001  01408  01431               % 12695 RGTR--
+*A CH 160501006 160904001 000040  01408  01431              % 12695 RGTR--
+*R 2 160904001 160501006 160904001  01408  01431            % 12695 RGTR--
+*G 034 160501006 160904001  01408  01431                    % 12695 RGTR--
+*A VE 160501006 160904001 000040  01408  01431              % 12695 RGTR--
+*I FD 160501006 160904001        0001867  01408  01431      % 12695 RGTR--
+160501006 Heffingen, Abri (Cen         01408                % 12695 RGTR--
+160601007 Larochette, Pomjeesb  01411  01411                % 12695 RGTR--
+160602002 Ernzen, Manzebach     01412  01412                % 12695 RGTR--
+160602001 Ernzen, Kapell        01413  01413                % 12695 RGTR--
+160403001 Schmët                01417  01417                % 12695 RGTR--
+160402001 Fischbach/Mersch, Kr  01419  01419                % 12695 RGTR--
+160402002 Fischbach/Mersch, Pa  01420  01420                % 12695 RGTR--
+160404001 Schoos, Um Hiervel    01422  01422                % 12695 RGTR--
+160401001 Angelsberg, Paafenda  01426  01426                % 12695 RGTR--
+160910001 Mersch, Bënzert       01427  01427                % 12695 RGTR--
+160902002 Rollingen, Fielserst  01429  01429                % 12695 RGTR--
+160904001 Mersch, Gare routièr  01431                       % 12695 RGTR--
+*Z 12696 RGTR--                                             % 12696 RGTR--
+*L 234      160501006 160904001  02008  02031               % 12696 RGTR--
+*A CH 160501006 160904001 000040  02008  02031              % 12696 RGTR--
+*R 2 160904001 160501006 160904001  02008  02031            % 12696 RGTR--
+*G 034 160501006 160904001  02008  02031                    % 12696 RGTR--
+*A VE 160501006 160904001 000040  02008  02031              % 12696 RGTR--
+*I FD 160501006 160904001        0001868  02008  02031      % 12696 RGTR--
+160501006 Heffingen, Abri (Cen         02008                % 12696 RGTR--
+160601007 Larochette, Pomjeesb  02011  02011                % 12696 RGTR--
+160602002 Ernzen, Manzebach     02012  02012                % 12696 RGTR--
+160602001 Ernzen, Kapell        02013  02013                % 12696 RGTR--
+160403001 Schmët                02017  02017                % 12696 RGTR--
+160402001 Fischbach/Mersch, Kr  02019  02019                % 12696 RGTR--
+160402002 Fischbach/Mersch, Pa  02020  02020                % 12696 RGTR--
+160404001 Schoos, Um Hiervel    02022  02022                % 12696 RGTR--
+160401001 Angelsberg, Paafenda  02026  02026                % 12696 RGTR--
+160910001 Mersch, Bënzert       02027  02027                % 12696 RGTR--
+160902002 Rollingen, Fielserst  02029  02029                % 12696 RGTR--
+160904001 Mersch, Gare routièr  02031                       % 12696 RGTR--
+*Z 12697 RGTR--                                             % 12697 RGTR--
+*L 234      160501006 160904001  02208  02231               % 12697 RGTR--
+*A CH 160501006 160904001 000040  02208  02231              % 12697 RGTR--
+*R 2 160904001 160501006 160904001  02208  02231            % 12697 RGTR--
+*G 034 160501006 160904001  02208  02231                    % 12697 RGTR--
+*A VE 160501006 160904001 000040  02208  02231              % 12697 RGTR--
+*I FD 160501006 160904001        0001869  02208  02231      % 12697 RGTR--
+160501006 Heffingen, Abri (Cen         02208                % 12697 RGTR--
+160601007 Larochette, Pomjeesb  02211  02211                % 12697 RGTR--
+160602002 Ernzen, Manzebach     02212  02212                % 12697 RGTR--
+160602001 Ernzen, Kapell        02213  02213                % 12697 RGTR--
+160403001 Schmët                02217  02217                % 12697 RGTR--
+160402001 Fischbach/Mersch, Kr  02219  02219                % 12697 RGTR--
+160402002 Fischbach/Mersch, Pa  02220  02220                % 12697 RGTR--
+160404001 Schoos, Um Hiervel    02222  02222                % 12697 RGTR--
+160401001 Angelsberg, Paafenda  02226  02226                % 12697 RGTR--
+160910001 Mersch, Bënzert       02227  02227                % 12697 RGTR--
+160902002 Rollingen, Fielserst  02229  02229                % 12697 RGTR--
+160904001 Mersch, Gare routièr  02231                       % 12697 RGTR--
+*Z 12698 RGTR--                                             % 12698 RGTR--
+*L 234      160501006 160904001  00508  00531               % 12698 RGTR--
+*A CH 160501006 160904001 000038  00508  00531              % 12698 RGTR--
+*R 2 160904001 160501006 160904001  00508  00531            % 12698 RGTR--
+*G 034 160501006 160904001  00508  00531                    % 12698 RGTR--
+*A VE 160501006 160904001 000038  00508  00531              % 12698 RGTR--
+*I FD 160501006 160904001        0001870  00508  00531      % 12698 RGTR--
+160501006 Heffingen, Abri (Cen         00508                % 12698 RGTR--
+160601007 Larochette, Pomjeesb  00511  00511                % 12698 RGTR--
+160602002 Ernzen, Manzebach     00512  00512                % 12698 RGTR--
+160602001 Ernzen, Kapell        00513  00513                % 12698 RGTR--
+160403001 Schmët                00517  00517                % 12698 RGTR--
+160402001 Fischbach/Mersch, Kr  00519  00519                % 12698 RGTR--
+160402002 Fischbach/Mersch, Pa  00520  00520                % 12698 RGTR--
+160404001 Schoos, Um Hiervel    00522  00522                % 12698 RGTR--
+160401001 Angelsberg, Paafenda  00526  00526                % 12698 RGTR--
+160910001 Mersch, Bënzert       00527  00527                % 12698 RGTR--
+160902002 Rollingen, Fielserst  00529  00529                % 12698 RGTR--
+160904001 Mersch, Gare routièr  00531                       % 12698 RGTR--
+*Z 12699 RGTR--                                             % 12699 RGTR--
+*L 234      160501006 160904001  01108  01131               % 12699 RGTR--
+*A CH 160501006 160904001 000038  01108  01131              % 12699 RGTR--
+*R 2 160904001 160501006 160904001  01108  01131            % 12699 RGTR--
+*G 034 160501006 160904001  01108  01131                    % 12699 RGTR--
+*A VE 160501006 160904001 000038  01108  01131              % 12699 RGTR--
+*I FD 160501006 160904001        0001029  01108  01131      % 12699 RGTR--
+160501006 Heffingen, Abri (Cen         01108                % 12699 RGTR--
+160601007 Larochette, Pomjeesb  01111  01111                % 12699 RGTR--
+160602002 Ernzen, Manzebach     01112  01112                % 12699 RGTR--
+160602001 Ernzen, Kapell        01113  01113                % 12699 RGTR--
+160403001 Schmët                01117  01117                % 12699 RGTR--
+160402001 Fischbach/Mersch, Kr  01119  01119                % 12699 RGTR--
+160402002 Fischbach/Mersch, Pa  01120  01120                % 12699 RGTR--
+160404001 Schoos, Um Hiervel    01122  01122                % 12699 RGTR--
+160401001 Angelsberg, Paafenda  01126  01126                % 12699 RGTR--
+160910001 Mersch, Bënzert       01127  01127                % 12699 RGTR--
+160902002 Rollingen, Fielserst  01129  01129                % 12699 RGTR--
+160904001 Mersch, Gare routièr  01131                       % 12699 RGTR--
+*Z 12700 RGTR--                                             % 12700 RGTR--
+*L 234      160501006 160904001  01308  01331               % 12700 RGTR--
+*A CH 160501006 160904001 000038  01308  01331              % 12700 RGTR--
+*R 2 160904001 160501006 160904001  01308  01331            % 12700 RGTR--
+*G 034 160501006 160904001  01308  01331                    % 12700 RGTR--
+*A VE 160501006 160904001 000038  01308  01331              % 12700 RGTR--
+*I FD 160501006 160904001        0001872  01308  01331      % 12700 RGTR--
+160501006 Heffingen, Abri (Cen         01308                % 12700 RGTR--
+160601007 Larochette, Pomjeesb  01311  01311                % 12700 RGTR--
+160602002 Ernzen, Manzebach     01312  01312                % 12700 RGTR--
+160602001 Ernzen, Kapell        01313  01313                % 12700 RGTR--
+160403001 Schmët                01317  01317                % 12700 RGTR--
+160402001 Fischbach/Mersch, Kr  01319  01319                % 12700 RGTR--
+160402002 Fischbach/Mersch, Pa  01320  01320                % 12700 RGTR--
+160404001 Schoos, Um Hiervel    01322  01322                % 12700 RGTR--
+160401001 Angelsberg, Paafenda  01326  01326                % 12700 RGTR--
+160910001 Mersch, Bënzert       01327  01327                % 12700 RGTR--
+160902002 Rollingen, Fielserst  01329  01329                % 12700 RGTR--
+160904001 Mersch, Gare routièr  01331                       % 12700 RGTR--
+*Z 12701 RGTR--                                             % 12701 RGTR--
+*L 234      160501006 160904001  01508  01531               % 12701 RGTR--
+*A CH 160501006 160904001 000038  01508  01531              % 12701 RGTR--
+*R 2 160904001 160501006 160904001  01508  01531            % 12701 RGTR--
+*G 034 160501006 160904001  01508  01531                    % 12701 RGTR--
+*A VE 160501006 160904001 000038  01508  01531              % 12701 RGTR--
+*I FD 160501006 160904001        0001873  01508  01531      % 12701 RGTR--
+160501006 Heffingen, Abri (Cen         01508                % 12701 RGTR--
+160601007 Larochette, Pomjeesb  01511  01511                % 12701 RGTR--
+160602002 Ernzen, Manzebach     01512  01512                % 12701 RGTR--
+160602001 Ernzen, Kapell        01513  01513                % 12701 RGTR--
+160403001 Schmët                01517  01517                % 12701 RGTR--
+160402001 Fischbach/Mersch, Kr  01519  01519                % 12701 RGTR--
+160402002 Fischbach/Mersch, Pa  01520  01520                % 12701 RGTR--
+160404001 Schoos, Um Hiervel    01522  01522                % 12701 RGTR--
+160401001 Angelsberg, Paafenda  01526  01526                % 12701 RGTR--
+160910001 Mersch, Bënzert       01527  01527                % 12701 RGTR--
+160902002 Rollingen, Fielserst  01529  01529                % 12701 RGTR--
+160904001 Mersch, Gare routièr  01531                       % 12701 RGTR--
+*Z 12702 RGTR--                                             % 12702 RGTR--
+*L 234      160501006 160904001  01908  01931               % 12702 RGTR--
+*A CH 160501006 160904001 000038  01908  01931              % 12702 RGTR--
+*R 2 160904001 160501006 160904001  01908  01931            % 12702 RGTR--
+*G 034 160501006 160904001  01908  01931                    % 12702 RGTR--
+*A VE 160501006 160904001 000038  01908  01931              % 12702 RGTR--
+*I FD 160501006 160904001        0001874  01908  01931      % 12702 RGTR--
+160501006 Heffingen, Abri (Cen         01908                % 12702 RGTR--
+160601007 Larochette, Pomjeesb  01911  01911                % 12702 RGTR--
+160602002 Ernzen, Manzebach     01912  01912                % 12702 RGTR--
+160602001 Ernzen, Kapell        01913  01913                % 12702 RGTR--
+160403001 Schmët                01917  01917                % 12702 RGTR--
+160402001 Fischbach/Mersch, Kr  01919  01919                % 12702 RGTR--
+160402002 Fischbach/Mersch, Pa  01920  01920                % 12702 RGTR--
+160404001 Schoos, Um Hiervel    01922  01922                % 12702 RGTR--
+160401001 Angelsberg, Paafenda  01926  01926                % 12702 RGTR--
+160910001 Mersch, Bënzert       01927  01927                % 12702 RGTR--
+160902002 Rollingen, Fielserst  01929  01929                % 12702 RGTR--
+160904001 Mersch, Gare routièr  01931                       % 12702 RGTR--
+*Z 12703 RGTR--                                             % 12703 RGTR--
+*L 234      160501006 160904001  02108  02131               % 12703 RGTR--
+*A CH 160501006 160904001 000034  02108  02131              % 12703 RGTR--
+*R 2 160904001 160501006 160904001  02108  02131            % 12703 RGTR--
+*G 034 160501006 160904001  02108  02131                    % 12703 RGTR--
+*A VE 160501006 160904001 000034  02108  02131              % 12703 RGTR--
+*I FD 160501006 160904001        0001875  02108  02131      % 12703 RGTR--
+160501006 Heffingen, Abri (Cen         02108                % 12703 RGTR--
+160601007 Larochette, Pomjeesb  02111  02111                % 12703 RGTR--
+160602002 Ernzen, Manzebach     02112  02112                % 12703 RGTR--
+160602001 Ernzen, Kapell        02113  02113                % 12703 RGTR--
+160403001 Schmët                02117  02117                % 12703 RGTR--
+160402001 Fischbach/Mersch, Kr  02119  02119                % 12703 RGTR--
+160402002 Fischbach/Mersch, Pa  02120  02120                % 12703 RGTR--
+160404001 Schoos, Um Hiervel    02122  02122                % 12703 RGTR--
+160401001 Angelsberg, Paafenda  02126  02126                % 12703 RGTR--
+160910001 Mersch, Bënzert       02127  02127                % 12703 RGTR--
+160902002 Rollingen, Fielserst  02129  02129                % 12703 RGTR--
+160904001 Mersch, Gare routièr  02131                       % 12703 RGTR--
+*Z 12704 RGTR--                                             % 12704 RGTR--
+*L 234      160501006 160904001  02308  02331               % 12704 RGTR--
+*A CH 160501006 160904001 000034  02308  02331              % 12704 RGTR--
+*R 2 160904001 160501006 160904001  02308  02331            % 12704 RGTR--
+*G 034 160501006 160904001  02308  02331                    % 12704 RGTR--
+*A VE 160501006 160904001 000034  02308  02331              % 12704 RGTR--
+*I FD 160501006 160904001        0002925  02308  02331      % 12704 RGTR--
+160501006 Heffingen, Abri (Cen         02308                % 12704 RGTR--
+160601007 Larochette, Pomjeesb  02311  02311                % 12704 RGTR--
+160602002 Ernzen, Manzebach     02312  02312                % 12704 RGTR--
+160602001 Ernzen, Kapell        02313  02313                % 12704 RGTR--
+160403001 Schmët                02317  02317                % 12704 RGTR--
+160402001 Fischbach/Mersch, Kr  02319  02319                % 12704 RGTR--
+160402002 Fischbach/Mersch, Pa  02320  02320                % 12704 RGTR--
+160404001 Schoos, Um Hiervel    02322  02322                % 12704 RGTR--
+160401001 Angelsberg, Paafenda  02326  02326                % 12704 RGTR--
+160910001 Mersch, Bënzert       02327  02327                % 12704 RGTR--
+160902002 Rollingen, Fielserst  02329  02329                % 12704 RGTR--
+160904001 Mersch, Gare routièr  02331                       % 12704 RGTR--
+*Z 12705 RGTR--                                             % 12705 RGTR--
+*L 234      160501006 160904001  00808  00831               % 12705 RGTR--
+*A CH 160501006 160904001 000037  00808  00831              % 12705 RGTR--
+*R 2 160904001 160501006 160904001  00808  00831            % 12705 RGTR--
+*G 034 160501006 160904001  00808  00831                    % 12705 RGTR--
+*A VE 160501006 160904001 000037  00808  00831              % 12705 RGTR--
+*I FD 160501006 160904001        0001876  00808  00831      % 12705 RGTR--
+160501006 Heffingen, Abri (Cen         00808                % 12705 RGTR--
+160601007 Larochette, Pomjeesb  00811  00811                % 12705 RGTR--
+160602002 Ernzen, Manzebach     00812  00812                % 12705 RGTR--
+160602001 Ernzen, Kapell        00813  00813                % 12705 RGTR--
+160403001 Schmët                00817  00817                % 12705 RGTR--
+160402001 Fischbach/Mersch, Kr  00819  00819                % 12705 RGTR--
+160402002 Fischbach/Mersch, Pa  00820  00820                % 12705 RGTR--
+160404001 Schoos, Um Hiervel    00822  00822                % 12705 RGTR--
+160401001 Angelsberg, Paafenda  00826  00826                % 12705 RGTR--
+160910001 Mersch, Bënzert       00827  00827                % 12705 RGTR--
+160902002 Rollingen, Fielserst  00829  00829                % 12705 RGTR--
+160904001 Mersch, Gare routièr  00831                       % 12705 RGTR--
+*Z 12706 RGTR--                                             % 12706 RGTR--
+*L 234      160501006 160904001  01608  01631               % 12706 RGTR--
+*A CH 160501006 160904001 000037  01608  01631              % 12706 RGTR--
+*R 2 160904001 160501006 160904001  01608  01631            % 12706 RGTR--
+*G 034 160501006 160904001  01608  01631                    % 12706 RGTR--
+*A VE 160501006 160904001 000037  01608  01631              % 12706 RGTR--
+*I FD 160501006 160904001        0001877  01608  01631      % 12706 RGTR--
+160501006 Heffingen, Abri (Cen         01608                % 12706 RGTR--
+160601007 Larochette, Pomjeesb  01611  01611                % 12706 RGTR--
+160602002 Ernzen, Manzebach     01612  01612                % 12706 RGTR--
+160602001 Ernzen, Kapell        01613  01613                % 12706 RGTR--
+160403001 Schmët                01617  01617                % 12706 RGTR--
+160402001 Fischbach/Mersch, Kr  01619  01619                % 12706 RGTR--
+160402002 Fischbach/Mersch, Pa  01620  01620                % 12706 RGTR--
+160404001 Schoos, Um Hiervel    01622  01622                % 12706 RGTR--
+160401001 Angelsberg, Paafenda  01626  01626                % 12706 RGTR--
+160910001 Mersch, Bënzert       01627  01627                % 12706 RGTR--
+160902002 Rollingen, Fielserst  01629  01629                % 12706 RGTR--
+160904001 Mersch, Gare routièr  01631                       % 12706 RGTR--
+*Z 12707 RGTR--                                             % 12707 RGTR--
+*L 234      160501006 160904001  01808  01831               % 12707 RGTR--
+*A CH 160501006 160904001 000037  01808  01831              % 12707 RGTR--
+*R 2 160904001 160501006 160904001  01808  01831            % 12707 RGTR--
+*G 034 160501006 160904001  01808  01831                    % 12707 RGTR--
+*A VE 160501006 160904001 000037  01808  01831              % 12707 RGTR--
+*I FD 160501006 160904001        0001878  01808  01831      % 12707 RGTR--
+160501006 Heffingen, Abri (Cen         01808                % 12707 RGTR--
+160601007 Larochette, Pomjeesb  01811  01811                % 12707 RGTR--
+160602002 Ernzen, Manzebach     01812  01812                % 12707 RGTR--
+160602001 Ernzen, Kapell        01813  01813                % 12707 RGTR--
+160403001 Schmët                01817  01817                % 12707 RGTR--
+160402001 Fischbach/Mersch, Kr  01819  01819                % 12707 RGTR--
+160402002 Fischbach/Mersch, Pa  01820  01820                % 12707 RGTR--
+160404001 Schoos, Um Hiervel    01822  01822                % 12707 RGTR--
+160401001 Angelsberg, Paafenda  01826  01826                % 12707 RGTR--
+160910001 Mersch, Bënzert       01827  01827                % 12707 RGTR--
+160902002 Rollingen, Fielserst  01829  01829                % 12707 RGTR--
+160904001 Mersch, Gare routièr  01831                       % 12707 RGTR--
+*Z 12708 RGTR--                                             % 12708 RGTR--
+*L 234      160501006 160904001  00608  00632               % 12708 RGTR--
+*A CH 160501006 160904001 000034  00608  00632              % 12708 RGTR--
+*R 2 160904001 160501006 160904001  00608  00632            % 12708 RGTR--
+*G 034 160501006 160904001  00608  00632                    % 12708 RGTR--
+*A VE 160501006 160904001 000034  00608  00632              % 12708 RGTR--
+*I FD 160501006 160904001        0001871  00608  00632      % 12708 RGTR--
+160501006 Heffingen, Abri (Cen         00608                % 12708 RGTR--
+160601007 Larochette, Pomjeesb  00611  00611                % 12708 RGTR--
+160602002 Ernzen, Manzebach     00612  00612                % 12708 RGTR--
+160602001 Ernzen, Kapell        00613  00613                % 12708 RGTR--
+160403001 Schmët                00617  00617                % 12708 RGTR--
+160402001 Fischbach/Mersch, Kr  00619  00619                % 12708 RGTR--
+160402002 Fischbach/Mersch, Pa  00620  00620                % 12708 RGTR--
+160404001 Schoos, Um Hiervel    00622  00622                % 12708 RGTR--
+160401001 Angelsberg, Paafenda  00626  00626                % 12708 RGTR--
+160910001 Mersch, Bënzert       00628  00628                % 12708 RGTR--
+160902002 Rollingen, Fielserst  00630  00630                % 12708 RGTR--
+160904001 Mersch, Gare routièr  00632                       % 12708 RGTR--
+*Z 12709 RGTR--                                             % 12709 RGTR--
+*L 234      160501006 160904001  00708  00732               % 12709 RGTR--
+*A CH 160501006 160904001 000034  00708  00732              % 12709 RGTR--
+*R 2 160904001 160501006 160904001  00708  00732            % 12709 RGTR--
+*G 034 160501006 160904001  00708  00732                    % 12709 RGTR--
+*A VE 160501006 160904001 000034  00708  00732              % 12709 RGTR--
+*I FD 160501006 160904001        0001879  00708  00732      % 12709 RGTR--
+160501006 Heffingen, Abri (Cen         00708                % 12709 RGTR--
+160601007 Larochette, Pomjeesb  00711  00711                % 12709 RGTR--
+160602002 Ernzen, Manzebach     00712  00712                % 12709 RGTR--
+160602001 Ernzen, Kapell        00713  00713                % 12709 RGTR--
+160403001 Schmët                00717  00717                % 12709 RGTR--
+160402001 Fischbach/Mersch, Kr  00719  00719                % 12709 RGTR--
+160402002 Fischbach/Mersch, Pa  00720  00720                % 12709 RGTR--
+160404001 Schoos, Um Hiervel    00722  00722                % 12709 RGTR--
+160401001 Angelsberg, Paafenda  00726  00726                % 12709 RGTR--
+160910001 Mersch, Bënzert       00728  00728                % 12709 RGTR--
+160902002 Rollingen, Fielserst  00730  00730                % 12709 RGTR--
+160904001 Mersch, Gare routièr  00732                       % 12709 RGTR--
+*Z 12710 RGTR--                                             % 12710 RGTR--
+*L 234      160501006 160904001  00808  00832               % 12710 RGTR--
+*A CH 160501006 160904001 000034  00808  00832              % 12710 RGTR--
+*R 2 160904001 160501006 160904001  00808  00832            % 12710 RGTR--
+*G 034 160501006 160904001  00808  00832                    % 12710 RGTR--
+*A VE 160501006 160904001 000034  00808  00832              % 12710 RGTR--
+*I FD 160501006 160904001        0001876  00808  00832      % 12710 RGTR--
+160501006 Heffingen, Abri (Cen         00808                % 12710 RGTR--
+160601007 Larochette, Pomjeesb  00811  00811                % 12710 RGTR--
+160602002 Ernzen, Manzebach     00812  00812                % 12710 RGTR--
+160602001 Ernzen, Kapell        00813  00813                % 12710 RGTR--
+160403001 Schmët                00817  00817                % 12710 RGTR--
+160402001 Fischbach/Mersch, Kr  00819  00819                % 12710 RGTR--
+160402002 Fischbach/Mersch, Pa  00820  00820                % 12710 RGTR--
+160404001 Schoos, Um Hiervel    00822  00822                % 12710 RGTR--
+160401001 Angelsberg, Paafenda  00826  00826                % 12710 RGTR--
+160910001 Mersch, Bënzert       00828  00828                % 12710 RGTR--
+160902002 Rollingen, Fielserst  00830  00830                % 12710 RGTR--
+160904001 Mersch, Gare routièr  00832                       % 12710 RGTR--
+*Z 12711 RGTR--                                             % 12711 RGTR--
+*L 234      160501006 160904001  00908  00932               % 12711 RGTR--
+*A CH 160501006 160904001 000034  00908  00932              % 12711 RGTR--
+*R 2 160904001 160501006 160904001  00908  00932            % 12711 RGTR--
+*G 034 160501006 160904001  00908  00932                    % 12711 RGTR--
+*A VE 160501006 160904001 000034  00908  00932              % 12711 RGTR--
+*I FD 160501006 160904001        0001880  00908  00932      % 12711 RGTR--
+160501006 Heffingen, Abri (Cen         00908                % 12711 RGTR--
+160601007 Larochette, Pomjeesb  00911  00911                % 12711 RGTR--
+160602002 Ernzen, Manzebach     00912  00912                % 12711 RGTR--
+160602001 Ernzen, Kapell        00913  00913                % 12711 RGTR--
+160403001 Schmët                00917  00917                % 12711 RGTR--
+160402001 Fischbach/Mersch, Kr  00919  00919                % 12711 RGTR--
+160402002 Fischbach/Mersch, Pa  00920  00920                % 12711 RGTR--
+160404001 Schoos, Um Hiervel    00922  00922                % 12711 RGTR--
+160401001 Angelsberg, Paafenda  00926  00926                % 12711 RGTR--
+160910001 Mersch, Bënzert       00928  00928                % 12711 RGTR--
+160902002 Rollingen, Fielserst  00930  00930                % 12711 RGTR--
+160904001 Mersch, Gare routièr  00932                       % 12711 RGTR--
+*Z 12712 RGTR--                                             % 12712 RGTR--
+*L 234      160501006 160904001  01608  01632               % 12712 RGTR--
+*A CH 160501006 160904001 000034  01608  01632              % 12712 RGTR--
+*R 2 160904001 160501006 160904001  01608  01632            % 12712 RGTR--
+*G 034 160501006 160904001  01608  01632                    % 12712 RGTR--
+*A VE 160501006 160904001 000034  01608  01632              % 12712 RGTR--
+*I FD 160501006 160904001        0001877  01608  01632      % 12712 RGTR--
+160501006 Heffingen, Abri (Cen         01608                % 12712 RGTR--
+160601007 Larochette, Pomjeesb  01611  01611                % 12712 RGTR--
+160602002 Ernzen, Manzebach     01612  01612                % 12712 RGTR--
+160602001 Ernzen, Kapell        01613  01613                % 12712 RGTR--
+160403001 Schmët                01617  01617                % 12712 RGTR--
+160402001 Fischbach/Mersch, Kr  01619  01619                % 12712 RGTR--
+160402002 Fischbach/Mersch, Pa  01620  01620                % 12712 RGTR--
+160404001 Schoos, Um Hiervel    01622  01622                % 12712 RGTR--
+160401001 Angelsberg, Paafenda  01626  01626                % 12712 RGTR--
+160910001 Mersch, Bënzert       01628  01628                % 12712 RGTR--
+160902002 Rollingen, Fielserst  01630  01630                % 12712 RGTR--
+160904001 Mersch, Gare routièr  01632                       % 12712 RGTR--
+*Z 12713 RGTR--                                             % 12713 RGTR--
+*L 234      160501006 160904001  01708  01732               % 12713 RGTR--
+*A CH 160501006 160904001 000034  01708  01732              % 12713 RGTR--
+*R 2 160904001 160501006 160904001  01708  01732            % 12713 RGTR--
+*G 034 160501006 160904001  01708  01732                    % 12713 RGTR--
+*A VE 160501006 160904001 000034  01708  01732              % 12713 RGTR--
+*I FD 160501006 160904001        0001881  01708  01732      % 12713 RGTR--
+160501006 Heffingen, Abri (Cen         01708                % 12713 RGTR--
+160601007 Larochette, Pomjeesb  01711  01711                % 12713 RGTR--
+160602002 Ernzen, Manzebach     01712  01712                % 12713 RGTR--
+160602001 Ernzen, Kapell        01713  01713                % 12713 RGTR--
+160403001 Schmët                01717  01717                % 12713 RGTR--
+160402001 Fischbach/Mersch, Kr  01719  01719                % 12713 RGTR--
+160402002 Fischbach/Mersch, Pa  01720  01720                % 12713 RGTR--
+160404001 Schoos, Um Hiervel    01722  01722                % 12713 RGTR--
+160401001 Angelsberg, Paafenda  01726  01726                % 12713 RGTR--
+160910001 Mersch, Bënzert       01728  01728                % 12713 RGTR--
+160902002 Rollingen, Fielserst  01730  01730                % 12713 RGTR--
+160904001 Mersch, Gare routièr  01732                       % 12713 RGTR--
+*Z 12714 RGTR--                                             % 12714 RGTR--
+*L 234      160501006 160904001  01808  01832               % 12714 RGTR--
+*A CH 160501006 160904001 000034  01808  01832              % 12714 RGTR--
+*R 2 160904001 160501006 160904001  01808  01832            % 12714 RGTR--
+*G 034 160501006 160904001  01808  01832                    % 12714 RGTR--
+*A VE 160501006 160904001 000034  01808  01832              % 12714 RGTR--
+*I FD 160501006 160904001        0001878  01808  01832      % 12714 RGTR--
+160501006 Heffingen, Abri (Cen         01808                % 12714 RGTR--
+160601007 Larochette, Pomjeesb  01811  01811                % 12714 RGTR--
+160602002 Ernzen, Manzebach     01812  01812                % 12714 RGTR--
+160602001 Ernzen, Kapell        01813  01813                % 12714 RGTR--
+160403001 Schmët                01817  01817                % 12714 RGTR--
+160402001 Fischbach/Mersch, Kr  01819  01819                % 12714 RGTR--
+160402002 Fischbach/Mersch, Pa  01820  01820                % 12714 RGTR--
+160404001 Schoos, Um Hiervel    01822  01822                % 12714 RGTR--
+160401001 Angelsberg, Paafenda  01826  01826                % 12714 RGTR--
+160910001 Mersch, Bënzert       01828  01828                % 12714 RGTR--
+160902002 Rollingen, Fielserst  01830  01830                % 12714 RGTR--
+160904001 Mersch, Gare routièr  01832                       % 12714 RGTR--

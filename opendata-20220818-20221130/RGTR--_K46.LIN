@@ -1,0 +1,145 @@
+*F 03 2
+*Z 00524 RGTR--                                             % 00524 RGTR--
+*L K46      150510001 150303002  00611  00635               % 00524 RGTR--
+*A QB 150510001 150303002 000015  00611  00635              % 00524 RGTR--
+*A ad 150510001 150303002 000015  00611  00635              % 00524 RGTR--
+*R 1 150303002 150510001 150303002  00611  00635            % 00524 RGTR--
+*G 050 150510001 150303002  00611  00635                    % 00524 RGTR--
+*A VE 150510001 150303002 000015  00611  00635              % 00524 RGTR--
+*I FD 150510001 150303002        0002362  00611  00635      % 00524 RGTR--
+150510001 Martelange, Gare             00611                % 00524 RGTR--
+150510002 Martelange, Leekoll   00612  00612                % 00524 RGTR--
+150515001 Wolwelange, Ennescht  00613  00613                % 00524 RGTR--
+150515002 Wolwelange, Kiosk     00613  00613                % 00524 RGTR--
+150515003 Wolwelange, Spëtzt    00614  00614                % 00524 RGTR--
+150511002 Perlé, Gare           00616  00616                % 00524 RGTR--
+150511001 Perlé, An der Huel    00618  00618                % 00524 RGTR--
+150511005 Perlé, Schoul         00618  00618                % 00524 RGTR--
+150511003 Perlé, Héiltzerwee    00619  00619                % 00524 RGTR--
+150516002 Héiltzerstee          00621  00621                % 00524 RGTR--
+150507002 Holtz, Um Bur         00622  00622                % 00524 RGTR--
+150507001 Holtz, Molkerei       00623  00623                % 00524 RGTR--
+150304001 Petit-Nobressart, Am  00629  00629                % 00524 RGTR--
+150302001 Colpach-Haut, Pompje  00631  00631                % 00524 RGTR--
+150301001 Colpach-Bas, Schlass  00633  00633                % 00524 RGTR--
+150303002 Ell, Beim Musikssaul  00635                       % 00524 RGTR--
+*Z 00522 RGTR--                                             % 00522 RGTR--
+*L K46      150510001 150303002  00611  00635               % 00522 RGTR--
+*A QB 150510001 150303002 000009  00611  00635              % 00522 RGTR--
+*A ad 150510001 150303002 000009  00611  00635              % 00522 RGTR--
+*R 1 150303002 150510001 150303002  00611  00635            % 00522 RGTR--
+*G 050 150510001 150303002  00611  00635                    % 00522 RGTR--
+*A VE 150510001 150303002 000009  00611  00635              % 00522 RGTR--
+*I FD 150510001 150303002        0002362  00611  00635      % 00522 RGTR--
+150510001 Martelange, Gare             00611                % 00522 RGTR--
+150510002 Martelange, Leekoll   00612  00612                % 00522 RGTR--
+150515001 Wolwelange, Ennescht  00613  00613                % 00522 RGTR--
+150515002 Wolwelange, Kiosk     00613  00613                % 00522 RGTR--
+150515003 Wolwelange, Spëtzt    00614  00614                % 00522 RGTR--
+150511002 Perlé, Gare           00616  00616                % 00522 RGTR--
+150511001 Perlé, An der Huel    00618  00618                % 00522 RGTR--
+150511005 Perlé, Schoul         00618  00618                % 00522 RGTR--
+150511003 Perlé, Héiltzerwee    00619  00619                % 00522 RGTR--
+150516002 Héiltzerstee          00621  00621                % 00522 RGTR--
+150507002 Holtz, Um Bur         00622  00622                % 00522 RGTR--
+150507001 Holtz, Molkerei       00623  00623                % 00522 RGTR--
+150304001 Petit-Nobressart, Am  00629  00629                % 00522 RGTR--
+150302001 Colpach-Haut, Pompje  00631  00631                % 00522 RGTR--
+150301001 Colpach-Bas, Schlass  00633  00633                % 00522 RGTR--
+150303002 Ell, Beim Musikssaul  00635                       % 00522 RGTR--
+*Z 00520 RGTR--                                             % 00520 RGTR--
+*L K46      150510001 150303002  00611  00635               % 00520 RGTR--
+*A QB 150510001 150303002 000013  00611  00635              % 00520 RGTR--
+*A ad 150510001 150303002 000013  00611  00635              % 00520 RGTR--
+*R 1 150303002 150510001 150303002  00611  00635            % 00520 RGTR--
+*G 050 150510001 150303002  00611  00635                    % 00520 RGTR--
+*A VE 150510001 150303002 000013  00611  00635              % 00520 RGTR--
+*I FD 150510001 150303002        0002362  00611  00635      % 00520 RGTR--
+150510001 Martelange, Gare             00611                % 00520 RGTR--
+150510002 Martelange, Leekoll   00612  00612                % 00520 RGTR--
+150515001 Wolwelange, Ennescht  00613  00613                % 00520 RGTR--
+150515002 Wolwelange, Kiosk     00613  00613                % 00520 RGTR--
+150515003 Wolwelange, Spëtzt    00614  00614                % 00520 RGTR--
+150511002 Perlé, Gare           00616  00616                % 00520 RGTR--
+150511001 Perlé, An der Huel    00618  00618                % 00520 RGTR--
+150511005 Perlé, Schoul         00618  00618                % 00520 RGTR--
+150511003 Perlé, Héiltzerwee    00619  00619                % 00520 RGTR--
+150516002 Héiltzerstee          00621  00621                % 00520 RGTR--
+150507002 Holtz, Um Bur         00622  00622                % 00520 RGTR--
+150507001 Holtz, Molkerei       00623  00623                % 00520 RGTR--
+150304001 Petit-Nobressart, Am  00629  00629                % 00520 RGTR--
+150302001 Colpach-Haut, Pompje  00631  00631                % 00520 RGTR--
+150301001 Colpach-Bas, Schlass  00633  00633                % 00520 RGTR--
+150303002 Ell, Beim Musikssaul  00635                       % 00520 RGTR--
+*Z 00518 RGTR--                                             % 00518 RGTR--
+*L K46      150510001 150303002  00611  00635               % 00518 RGTR--
+*A QB 150510001 150303002 000007  00611  00635              % 00518 RGTR--
+*A ad 150510001 150303002 000007  00611  00635              % 00518 RGTR--
+*R 1 150303002 150510001 150303002  00611  00635            % 00518 RGTR--
+*G 050 150510001 150303002  00611  00635                    % 00518 RGTR--
+*A VE 150510001 150303002 000007  00611  00635              % 00518 RGTR--
+*I FD 150510001 150303002        0002362  00611  00635      % 00518 RGTR--
+150510001 Martelange, Gare             00611                % 00518 RGTR--
+150510002 Martelange, Leekoll   00612  00612                % 00518 RGTR--
+150515001 Wolwelange, Ennescht  00613  00613                % 00518 RGTR--
+150515002 Wolwelange, Kiosk     00613  00613                % 00518 RGTR--
+150515003 Wolwelange, Spëtzt    00614  00614                % 00518 RGTR--
+150511002 Perlé, Gare           00616  00616                % 00518 RGTR--
+150511001 Perlé, An der Huel    00618  00618                % 00518 RGTR--
+150511005 Perlé, Schoul         00618  00618                % 00518 RGTR--
+150511003 Perlé, Héiltzerwee    00619  00619                % 00518 RGTR--
+150516002 Héiltzerstee          00621  00621                % 00518 RGTR--
+150507002 Holtz, Um Bur         00622  00622                % 00518 RGTR--
+150507001 Holtz, Molkerei       00623  00623                % 00518 RGTR--
+150304001 Petit-Nobressart, Am  00629  00629                % 00518 RGTR--
+150302001 Colpach-Haut, Pompje  00631  00631                % 00518 RGTR--
+150301001 Colpach-Bas, Schlass  00633  00633                % 00518 RGTR--
+150303002 Ell, Beim Musikssaul  00635                       % 00518 RGTR--
+*Z 00526 RGTR--                                             % 00526 RGTR--
+*L K46      150510001 150303002  00611  00635               % 00526 RGTR--
+*A QB 150510001 150303002 000011  00611  00635              % 00526 RGTR--
+*A ad 150510001 150303002 000011  00611  00635              % 00526 RGTR--
+*R 1 150303002 150510001 150303002  00611  00635            % 00526 RGTR--
+*G 050 150510001 150303002  00611  00635                    % 00526 RGTR--
+*A VE 150510001 150303002 000011  00611  00635              % 00526 RGTR--
+*I FD 150510001 150303002        0002362  00611  00635      % 00526 RGTR--
+150510001 Martelange, Gare             00611                % 00526 RGTR--
+150510002 Martelange, Leekoll   00612  00612                % 00526 RGTR--
+150515001 Wolwelange, Ennescht  00613  00613                % 00526 RGTR--
+150515002 Wolwelange, Kiosk     00613  00613                % 00526 RGTR--
+150515003 Wolwelange, Spëtzt    00614  00614                % 00526 RGTR--
+150511002 Perlé, Gare           00616  00616                % 00526 RGTR--
+150511001 Perlé, An der Huel    00618  00618                % 00526 RGTR--
+150511005 Perlé, Schoul         00618  00618                % 00526 RGTR--
+150511003 Perlé, Héiltzerwee    00619  00619                % 00526 RGTR--
+150516002 Héiltzerstee          00621  00621                % 00526 RGTR--
+150507002 Holtz, Um Bur         00622  00622                % 00526 RGTR--
+150507001 Holtz, Molkerei       00623  00623                % 00526 RGTR--
+150304001 Petit-Nobressart, Am  00629  00629                % 00526 RGTR--
+150302001 Colpach-Haut, Pompje  00631  00631                % 00526 RGTR--
+150301001 Colpach-Bas, Schlass  00633  00633                % 00526 RGTR--
+150303002 Ell, Beim Musikssaul  00635                       % 00526 RGTR--
+*Z 20114 RGTR--                                             % 20114 RGTR--
+*L K46      150303002 150510001  01657  01723               % 20114 RGTR--
+*A WL 150303002 150510001 000042  01657  01723              % 20114 RGTR--
+*A ad 150303002 150510001 000042  01657  01723              % 20114 RGTR--
+*R 2 150510001 150303002 150510001  01657  01723            % 20114 RGTR--
+*G 050 150303002 150510001  01657  01723                    % 20114 RGTR--
+*A VE 150303002 150510001 000042  01657  01723              % 20114 RGTR--
+*I FD 150303002 150510001        0002174  01657  01723      % 20114 RGTR--
+150303002 Ell, Beim Musikssaul         01657                % 20114 RGTR--
+150301001 Colpach-Bas, Schlass  01659  01659                % 20114 RGTR--
+150302001 Colpach-Haut, Pompje  01701  01701                % 20114 RGTR--
+150304001 Petit-Nobressart, Am  01703  01703                % 20114 RGTR--
+150507001 Holtz, Molkerei       01709  01709                % 20114 RGTR--
+150507002 Holtz, Um Bur         01710  01710                % 20114 RGTR--
+150516002 Héiltzerstee          01711  01711                % 20114 RGTR--
+150511003 Perlé, Héiltzerwee    01713  01713                % 20114 RGTR--
+150511005 Perlé, Schoul         01714  01714                % 20114 RGTR--
+150511001 Perlé, An der Huel    01715  01715                % 20114 RGTR--
+150511002 Perlé, Gare           01717  01717                % 20114 RGTR--
+150515003 Wolwelange, Spëtzt    01720  01720                % 20114 RGTR--
+150515002 Wolwelange, Kiosk     01720  01720                % 20114 RGTR--
+150515001 Wolwelange, Ennescht  01721  01721                % 20114 RGTR--
+150510002 Martelange, Leekoll   01721  01721                % 20114 RGTR--
+150510001 Martelange, Gare      01723                       % 20114 RGTR--

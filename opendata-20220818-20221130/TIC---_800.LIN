@@ -1,0 +1,39 @@
+*F 03 2
+*Z 05855 TIC---                                             % 05855 TIC---
+*L 800      220301024 220402062  00640  00728               % 05855 TIC---
+*R 1 220402062 220301024 220402062  00640  00728            % 05855 TIC---
+*G SB  220301024 220402062  00640  00728                    % 05855 TIC---
+*A VE 220301024 220402062 000290  00640  00728              % 05855 TIC---
+*I FD 220301024 220402062        0001668  00640  00728      % 05855 TIC---
+220301024 Dudelange, Gemeng            00640                % 05855 TIC---
+220301033 Dudelange, Rue Antoi  00641  00641                % 05855 TIC---
+220301004 Dudelange, Rue Belai  00642  00642                % 05855 TIC---
+220301032 Dudelange, Kräizbier  00643  00643                % 05855 TIC---
+220301072 Dudelange, Mayrisch   00644  00644                % 05855 TIC---
+220301063 Dudelange, Lenkeschl  00644  00644                % 05855 TIC---
+220301057 Dudelange, Waldschou  00645  00645                % 05855 TIC---
+220301088 Dudelange, Rue Nic B  00646  00646                % 05855 TIC---
+220301089 Dudelange, Rue Léon   00647  00647                % 05855 TIC---
+220301034 Dudelange, Lycée Nic  00648  00648                % 05855 TIC---
+220301009 Dudelange, Breininge  00649  00649                % 05855 TIC---
+220301017 Dudelange, Jugendhau  00650  00650                % 05855 TIC---
+220301016 Dudelange, Centre Sp  00651  00651                % 05855 TIC---
+220301061 Dudelange, Rue du Pa  00652  00652                % 05855 TIC---
+220301047 Dudelange, Rue Paste  00653  00653                % 05855 TIC---
+220301003 Dudelange, Rue de He  00654  00654                % 05855 TIC---
+220301005 Dudelange, Biereng    00655  00655                % 05855 TIC---
+220301018 Dudelange, Dennewald  00655  00655                % 05855 TIC---
+220301064 Dudelange, Route de   00656  00656                % 05855 TIC---
+220301022 Dudelange, Gare       00658  00658                % 05855 TIC---
+220301030 Dudelange, Kierfecht  00700  00700                % 05855 TIC---
+220301031 Dudelange, rue Aloys  00701  00701                % 05855 TIC---
+220301073 Dudelange, Rue Schor  00701  00701                % 05855 TIC---
+220301074 Dudelange, Scherrwee  00702  00702                % 05855 TIC---
+220402065 Esch-sur-Alzette, No  00711  00711                % 05855 TIC---
+220402108 Esch-sur-Alzette, Bu  00711  00711                % 05855 TIC---
+220402064 Esch-sur-Alzette, Ne  00713  00713                % 05855 TIC---
+220402097 Esch-sur-Alzette, Bd  00715  00715                % 05855 TIC---
+220402027 Esch-sur-Alzette, De  00719  00719                % 05855 TIC---
+220402059 Esch-sur-Alzette, Ly  00721  00721                % 05855 TIC---
+220402071 Esch-sur-Alzette, Pl  00723  00723                % 05855 TIC---
+220402062 Esch-sur-Alzette, Ly  00728                       % 05855 TIC---

@@ -1,0 +1,55 @@
+*F 03 2
+*Z 18443 RGTR--                                             % 18443 RGTR--
+*L E12      200419021 221104001  01535  01613               % 18443 RGTR--
+*A cj 200419021 221104001 000047  01535  01613              % 18443 RGTR--
+*A ad 200419021 221104001 000047  01535  01613              % 18443 RGTR--
+*R 1 221104001 200419021 221104001  01535  01613            % 18443 RGTR--
+*G 050 200419021 221104001  01535  01613                    % 18443 RGTR--
+*A VE 200419021 221104001 000047  01535  01613              % 18443 RGTR--
+*I FD 200419021 221104001        0001193  01535  01613      % 18443 RGTR--
+200419021 Limpertsberg, L.T.C.         01535                % 18443 RGTR--
+200419025 Limpertsberg, Lycée   01539  01539                % 18443 RGTR--
+200405046 Luxembourg, Gare Roc  01547  01547                % 18443 RGTR--
+200404016 Bonnevoie, Hippodrom  01549  01549                % 18443 RGTR--
+200404028 Bonnevoie, Neufchâte  01551  01551                % 18443 RGTR--
+200304004 Howald, Jhangeli      01552  01552                % 18443 RGTR--
+200304001 Howald, Am Houwaldsb  01553  01553                % 18443 RGTR--
+200303007 Hesperange, Wollefsm  01555  01555                % 18443 RGTR--
+200303005 Hesperange, Sprëtzen  01558  01558                % 18443 RGTR--
+200302001 Fentange, Duelemerba  01559  01559                % 18443 RGTR--
+200302003 Fentange, Hiehl       01600  01600                % 18443 RGTR--
+200302002 Fentange, Fuertwee    01601  01601                % 18443 RGTR--
+221106003 Roeser, Kiirfecht     01604  01604                % 18443 RGTR--
+221106005 Roeser, Oradour       01605  01605                % 18443 RGTR--
+221106002 Roeser, Gemeng        01606  01606                % 18443 RGTR--
+221103001 Crauthem, Am Gruef    01607  01607                % 18443 RGTR--
+221103002 Crauthem, Beim Schla  01608  01608                % 18443 RGTR--
+221105002 Peppange, Kirchwois   01609  01609                % 18443 RGTR--
+221105003 Peppange, Musée       01610  01610                % 18443 RGTR--
+221105001 Peppange, Duerfplaz   01611  01611                % 18443 RGTR--
+221104001 Livange, Am Duerf     01613                       % 18443 RGTR--
+*Z 18444 RGTR--                                             % 18444 RGTR--
+*L E12      221104001 200419021  00650  00731               % 18444 RGTR--
+*A cj 221104001 200419021 000042  00650  00731              % 18444 RGTR--
+*A ad 221104001 200419021 000042  00650  00731              % 18444 RGTR--
+*R 2 200419021 221104001 200419021  00650  00731            % 18444 RGTR--
+*G 050 221104001 200419021  00650  00731                    % 18444 RGTR--
+*A VE 221104001 200419021 000042  00650  00731              % 18444 RGTR--
+*I FD 221104001 200419021        0001907  00650  00731      % 18444 RGTR--
+221104001 Livange, Am Duerf            00650                % 18444 RGTR--
+221105001 Peppange, Duerfplaz   00652  00652                % 18444 RGTR--
+221105003 Peppange, Musée       00652  00652                % 18444 RGTR--
+221105002 Peppange, Kirchwois   00653  00653                % 18444 RGTR--
+221103002 Crauthem, Beim Schla  00655  00655                % 18444 RGTR--
+221103001 Crauthem, Am Gruef    00656  00656                % 18444 RGTR--
+221106002 Roeser, Gemeng        00657  00657                % 18444 RGTR--
+221106005 Roeser, Oradour       00658  00658                % 18444 RGTR--
+221106004 Roeser, Op der Hoehl  00659  00659                % 18444 RGTR--
+200302002 Fentange, Fuertwee    00703  00703                % 18444 RGTR--
+200302003 Fentange, Hiehl       00703  00703                % 18444 RGTR--
+200302001 Fentange, Duelemerba  00704  00704                % 18444 RGTR--
+200404028 Bonnevoie, Neufchâte  00711  00711                % 18444 RGTR--
+200405046 Luxembourg, Gare Roc  00715  00715                % 18444 RGTR--
+200419026 Limpertsberg, Theate  00725  00725                % 18444 RGTR--
+200419025 Limpertsberg, Lycée   00727  00727                % 18444 RGTR--
+200419021 Limpertsberg, L.T.C.  00731                       % 18444 RGTR--

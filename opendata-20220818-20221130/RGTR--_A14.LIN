@@ -1,0 +1,76 @@
+*F 03 2
+*Z 18050 RGTR--                                             % 18050 RGTR--
+*L A14      110705002 110101002  00750  00818               % 18050 RGTR--
+*A cj 110705002 110101002 000042  00750  00818              % 18050 RGTR--
+*A ad 110705002 110101002 000042  00750  00818              % 18050 RGTR--
+*R 1 110101002 110705002 110101002  00750  00818            % 18050 RGTR--
+*G 050 110705002 110101002  00750  00818                    % 18050 RGTR--
+*A VE 110705002 110101002 000042  00750  00818              % 18050 RGTR--
+*I FD 110705002 110101002        0002079  00750  00818      % 18050 RGTR--
+110705002 Leithum, Bei der Kir         00750                % 18050 RGTR--
+110705001 Leithum, Bei der ale  00750  00750                % 18050 RGTR--
+110701003 Beiler, Beim Krécks   00752  00752                % 18050 RGTR--
+110701002 Beiler, Bei der aler  00752  00752                % 18050 RGTR--
+110701001 Beiler, Op der Halt   00753  00753                % 18050 RGTR--
+110701004 Beiler, Kaesfurt      00754  00754                % 18050 RGTR--
+110706002 Weiswampach, Beelers  00756  00756                % 18050 RGTR--
+110706008 Weiswampach, Iäwwisc  00757  00757                % 18050 RGTR--
+110706007 Weiswampach, Post     00757  00757                % 18050 RGTR--
+110706009 Weiswampach, Dränk    00758  00758                % 18050 RGTR--
+110607002 Wilwerdange, Schoul   00802  00802                % 18050 RGTR--
+110602001 Drinklange            00803  00803                % 18050 RGTR--
+110606004 Troisvierges, Paster  00804  00804                % 18050 RGTR--
+110606006 Troisvierges, Tomm    00805  00805                % 18050 RGTR--
+110606007 Troisvierges, Bënzel  00806  00806                % 18050 RGTR--
+110702003 Binsfeld, Beim Musée  00809  00809                % 18050 RGTR--
+110101002 Clervaux, Gare routi  00818                       % 18050 RGTR--
+*Z 18051 RGTR--                                             % 18051 RGTR--
+*L A14      110101002 110705002  01455  01523               % 18051 RGTR--
+*A cj 110101002 110705002 000042  01455  01523              % 18051 RGTR--
+*A ad 110101002 110705002 000042  01455  01523              % 18051 RGTR--
+*R 2 110705002 110101002 110705002  01455  01523            % 18051 RGTR--
+*G 050 110101002 110705002  01455  01523                    % 18051 RGTR--
+*A VE 110101002 110705002 000042  01455  01523              % 18051 RGTR--
+*I FD 110101002 110705002        0002537  01455  01523      % 18051 RGTR--
+110101002 Clervaux, Gare routi         01455                % 18051 RGTR--
+110702003 Binsfeld, Beim Musée  01504  01504                % 18051 RGTR--
+110606007 Troisvierges, Bënzel  01507  01507                % 18051 RGTR--
+110606006 Troisvierges, Tomm    01508  01508                % 18051 RGTR--
+110606004 Troisvierges, Paster  01508  01508                % 18051 RGTR--
+110602001 Drinklange            01509  01509                % 18051 RGTR--
+110607002 Wilwerdange, Schoul   01510  01510                % 18051 RGTR--
+110706009 Weiswampach, Dränk    01514  01514                % 18051 RGTR--
+110706007 Weiswampach, Post     01515  01515                % 18051 RGTR--
+110706008 Weiswampach, Iäwwisc  01516  01516                % 18051 RGTR--
+110706002 Weiswampach, Beelers  01517  01517                % 18051 RGTR--
+110701004 Beiler, Kaesfurt      01518  01518                % 18051 RGTR--
+110701001 Beiler, Op der Halt   01520  01520                % 18051 RGTR--
+110701002 Beiler, Bei der aler  01520  01520                % 18051 RGTR--
+110701003 Beiler, Beim Krécks   01521  01521                % 18051 RGTR--
+110705001 Leithum, Bei der ale  01523  01523                % 18051 RGTR--
+110705002 Leithum, Bei der Kir  01523                       % 18051 RGTR--
+*Z 18052 RGTR--                                             % 18052 RGTR--
+*L A14      110101002 110705002  01637  01706               % 18052 RGTR--
+*A cj 110101002 110705002 000042  01637  01706              % 18052 RGTR--
+*A ad 110101002 110705002 000042  01637  01706              % 18052 RGTR--
+*R 2 110705002 110101002 110705002  01637  01706            % 18052 RGTR--
+*G 050 110101002 110705002  01637  01706                    % 18052 RGTR--
+*A VE 110101002 110705002 000042  01637  01706              % 18052 RGTR--
+*I FD 110101002 110705002        0003044  01637  01706      % 18052 RGTR--
+110101002 Clervaux, Gare routi         01637                % 18052 RGTR--
+110702003 Binsfeld, Beim Musée  01646  01646                % 18052 RGTR--
+110606007 Troisvierges, Bënzel  01649  01649                % 18052 RGTR--
+110606006 Troisvierges, Tomm    01650  01650                % 18052 RGTR--
+110606004 Troisvierges, Paster  01650  01650                % 18052 RGTR--
+110602001 Drinklange            01652  01652                % 18052 RGTR--
+110607002 Wilwerdange, Schoul   01652  01652                % 18052 RGTR--
+110706009 Weiswampach, Dränk    01657  01657                % 18052 RGTR--
+110706007 Weiswampach, Post     01657  01657                % 18052 RGTR--
+110706008 Weiswampach, Iäwwisc  01658  01658                % 18052 RGTR--
+110706002 Weiswampach, Beelers  01659  01659                % 18052 RGTR--
+110701004 Beiler, Kaesfurt      01701  01701                % 18052 RGTR--
+110701001 Beiler, Op der Halt   01702  01702                % 18052 RGTR--
+110701002 Beiler, Bei der aler  01703  01703                % 18052 RGTR--
+110701003 Beiler, Beim Krécks   01703  01703                % 18052 RGTR--
+110705001 Leithum, Bei der ale  01705  01705                % 18052 RGTR--
+110705002 Leithum, Bei der Kir  01706                       % 18052 RGTR--

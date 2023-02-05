@@ -1,0 +1,78 @@
+*F 03 2
+*Z 18366 RGTR--                                             % 18366 RGTR--
+*L D31      200420005 200801005  01550  01628               % 18366 RGTR--
+*A cj 200420005 200801005 000047  01550  01628              % 18366 RGTR--
+*A ad 200420005 200801005 000047  01550  01628              % 18366 RGTR--
+*R 1 200801005 200420005 200801005  01550  01628            % 18366 RGTR--
+*G 050 200420005 200801005  01550  01628                    % 18366 RGTR--
+*A VE 200420005 200801005 000047  01550  01628              % 18366 RGTR--
+*I FD 200420005 200801005        0001176  01550  01628      % 18366 RGTR--
+200420005 Merl, Geesseknäppche         01550                % 18366 RGTR--
+200410003 Eich, Eecher Plaz     01609  01609                % 18366 RGTR--
+200410004 Eich, Eecher Klinick  01610  01610                % 18366 RGTR--
+200409007 Dommeldange, Emile M  01611  01611                % 18366 RGTR--
+200402005 Beggen, Henri Heyman  01612  01612                % 18366 RGTR--
+200402002 Beggen, Binnchen      01612  01612                % 18366 RGTR--
+200402006 Beggen, Kierch        01613  01613                % 18366 RGTR--
+200402001 Beggen, Bastogne      01614  01614                % 18366 RGTR--
+201001004 Bereldange, Rue du P  01614  01614                % 18366 RGTR--
+201001003 Bereldange, Schoul    01615  01615                % 18366 RGTR--
+201001002 Bereldange, Police    01617  01617                % 18366 RGTR--
+201004002 Walferdange, Gemenge  01619  01619                % 18366 RGTR--
+201003001 Helmsange, Barriär    01620  01620                % 18366 RGTR--
+201004003 Walferdange, Gare ro  01621  01621                % 18366 RGTR--
+201003004 Helmsange, Tricenten  01622  01622                % 18366 RGTR--
+201003002 Helmsange, Mercatori  01623  01623                % 18366 RGTR--
+200801011 Steinsel, Kennedy     01625  01625                % 18366 RGTR--
+200801003 Steinsel, Gonneschha  01626  01626                % 18366 RGTR--
+200801008 Steinsel, Um Gruef    01627  01627                % 18366 RGTR--
+200801005 Steinsel, Michel Rod  01628                       % 18366 RGTR--
+*Z 18367 RGTR--                                             % 18367 RGTR--
+*L D31      200420005 200801005  01250  01323               % 18367 RGTR--
+*A cj 200420005 200801005 000046  01250  01323              % 18367 RGTR--
+*A ad 200420005 200801005 000046  01250  01323              % 18367 RGTR--
+*R 1 200801005 200420005 200801005  01250  01323            % 18367 RGTR--
+*G 050 200420005 200801005  01250  01323                    % 18367 RGTR--
+*A VE 200420005 200801005 000046  01250  01323              % 18367 RGTR--
+*I FD 200420005 200801005        0001106  01250  01323      % 18367 RGTR--
+200420005 Merl, Geesseknäppche         01250                % 18367 RGTR--
+200410003 Eich, Eecher Plaz     01309  01309                % 18367 RGTR--
+200410004 Eich, Eecher Klinick  01310  01310                % 18367 RGTR--
+200409007 Dommeldange, Emile M  01310  01310                % 18367 RGTR--
+200402005 Beggen, Henri Heyman  01311  01311                % 18367 RGTR--
+200402002 Beggen, Binnchen      01312  01312                % 18367 RGTR--
+200402006 Beggen, Kierch        01312  01312                % 18367 RGTR--
+200402001 Beggen, Bastogne      01313  01313                % 18367 RGTR--
+201001004 Bereldange, Rue du P  01314  01314                % 18367 RGTR--
+201001003 Bereldange, Schoul    01314  01314                % 18367 RGTR--
+201001002 Bereldange, Police    01315  01315                % 18367 RGTR--
+201004002 Walferdange, Gemenge  01316  01316                % 18367 RGTR--
+201003001 Helmsange, Barriär    01317  01317                % 18367 RGTR--
+201004003 Walferdange, Gare ro  01318  01318                % 18367 RGTR--
+201003004 Helmsange, Tricenten  01319  01319                % 18367 RGTR--
+201003002 Helmsange, Mercatori  01319  01319                % 18367 RGTR--
+200801011 Steinsel, Kennedy     01321  01321                % 18367 RGTR--
+200801003 Steinsel, Gonneschha  01322  01322                % 18367 RGTR--
+200801008 Steinsel, Um Gruef    01323  01323                % 18367 RGTR--
+200801005 Steinsel, Michel Rod  01323                       % 18367 RGTR--
+*Z 18368 RGTR--                                             % 18368 RGTR--
+*L D31      200801005 200420005  00705  00743               % 18368 RGTR--
+*A cj 200801005 200420005 000042  00705  00743              % 18368 RGTR--
+*A BE 200801005 200420005 000042  00705  00743              % 18368 RGTR--
+*A ad 200801005 200420005 000042  00705  00743              % 18368 RGTR--
+*R 2 200420005 200801005 200420005  00705  00743            % 18368 RGTR--
+*G 090 200801005 200420005  00705  00743                    % 18368 RGTR--
+*A VE 200801005 200420005 000042  00705  00743              % 18368 RGTR--
+*I FD 200801005 200420005        0001813  00705  00743      % 18368 RGTR--
+200801005 Steinsel, Michel Rod         00705                % 18368 RGTR--
+200801008 Steinsel, Um Gruef    00706  00706                % 18368 RGTR--
+200801003 Steinsel, Gonneschha  00707  00707                % 18368 RGTR--
+200801011 Steinsel, Kennedy     00708  00708                % 18368 RGTR--
+201003002 Helmsange, Mercatori  00710  00710                % 18368 RGTR--
+201004003 Walferdange, Gare ro  00711  00711                % 18368 RGTR--
+201003001 Helmsange, Barriär    00712  00712                % 18368 RGTR--
+201004002 Walferdange, Gemenge  00714  00714                % 18368 RGTR--
+201001002 Bereldange, Police    00715  00715                % 18368 RGTR--
+201001003 Bereldange, Schoul    00716  00716                % 18368 RGTR--
+200402007 Beggen, Rue du Pont   00717  00717                % 18368 RGTR--
+200420005 Merl, Geesseknäppche  00743                       % 18368 RGTR--

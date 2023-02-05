@@ -1,0 +1,181 @@
+*F 03 2
+*Z 04413 AVL---                                             % 04413 AVL---
+*L CN5      200405020 200425005  02520  02540               % 04413 AVL---
+*A BE 200405020 200425005 000044  02520  02540              % 04413 AVL---
+*R 1 200425005 200405020 200425005  02520  02540            % 04413 AVL---
+*G ST  200405020 200425005  02520  02540                    % 04413 AVL---
+*A VE 200405020 200425005 000044  02520  02540              % 04413 AVL---
+200405020 Hamilius (Bus)               02520                % 04413 AVL---
+200405049 Luxembourg, Amélie    02522  02522                % 04413 AVL---
+200405014 Centre, Fondation Pe  02523  02523                % 04413 AVL---
+200417047 Kirchberg, Rout Bréc  02525  02525                % 04413 AVL---
+200417007 Kirchberg, B.E.I.     02526  02526                % 04413 AVL---
+200417030 Kirchberg, Paul Noes  02528  02528                % 04413 AVL---
+200426010 Weimerskirch, St.Vit  02529  02529                % 04413 AVL---
+200426009 Weimerskirch, Pierre  02530  02530                % 04413 AVL---
+200426008 Weimerskirch, Mäerte  02531  02531                % 04413 AVL---
+200426005 Weimerskirch, Duerf   02531  02531                % 04413 AVL---
+200426007 Weimerskirch, Laval'  02532  02532                % 04413 AVL---
+200410003 Eich, Eecher Plaz     02533  02533                % 04413 AVL---
+200421003 Muhlenbach, Eecher S  02534  02534                % 04413 AVL---
+200421006 Muhlenbach, Siwemuer  02535  02535                % 04413 AVL---
+200421004 Muhlenbach, Peiffesc  02536  02536                % 04413 AVL---
+200425012 Rollingergrund, Vill  02536  02536                % 04413 AVL---
+200425006 Rollingergrund, Roud  02537  02537                % 04413 AVL---
+200425011 Rollingergrund, Val   02538  02538                % 04413 AVL---
+200425010 Rollingergrund, Val   02538  02538                % 04413 AVL---
+200425004 Rollingergrund, Beim  02539  02539                % 04413 AVL---
+200425003 Rollingergrund, Bei   02539  02539                % 04413 AVL---
+200425005 Rollingergrund, Biis  02540                       % 04413 AVL---
+*Z 04414 AVL---                                             % 04414 AVL---
+*L CN5      200405020 200425005  02520  02540               % 04414 AVL---
+*A BE 200405020 200425005 000045  02520  02540              % 04414 AVL---
+*R 1 200425005 200405020 200425005  02520  02540            % 04414 AVL---
+*G STR 200405020 200425005  02520  02540                    % 04414 AVL---
+*A VE 200405020 200425005 000045  02520  02540              % 04414 AVL---
+200405020 Hamilius (Bus)               02520                % 04414 AVL---
+200405049 Luxembourg, Amélie    02522  02522                % 04414 AVL---
+200405014 Centre, Fondation Pe  02523  02523                % 04414 AVL---
+200417047 Kirchberg, Rout Bréc  02525  02525                % 04414 AVL---
+200417007 Kirchberg, B.E.I.     02526  02526                % 04414 AVL---
+200417030 Kirchberg, Paul Noes  02528  02528                % 04414 AVL---
+200426010 Weimerskirch, St.Vit  02529  02529                % 04414 AVL---
+200426009 Weimerskirch, Pierre  02530  02530                % 04414 AVL---
+200426008 Weimerskirch, Mäerte  02531  02531                % 04414 AVL---
+200426005 Weimerskirch, Duerf   02531  02531                % 04414 AVL---
+200426007 Weimerskirch, Laval'  02532  02532                % 04414 AVL---
+200410003 Eich, Eecher Plaz     02533  02533                % 04414 AVL---
+200421003 Muhlenbach, Eecher S  02534  02534                % 04414 AVL---
+200421006 Muhlenbach, Siwemuer  02535  02535                % 04414 AVL---
+200421004 Muhlenbach, Peiffesc  02536  02536                % 04414 AVL---
+200425012 Rollingergrund, Vill  02536  02536                % 04414 AVL---
+200425006 Rollingergrund, Roud  02537  02537                % 04414 AVL---
+200425011 Rollingergrund, Val   02538  02538                % 04414 AVL---
+200425010 Rollingergrund, Val   02538  02538                % 04414 AVL---
+200425004 Rollingergrund, Beim  02539  02539                % 04414 AVL---
+200425003 Rollingergrund, Bei   02539  02539                % 04414 AVL---
+200425005 Rollingergrund, Biis  02540                       % 04414 AVL---
+*Z 04415 AVL---       005 030                               % 04415 AVL---
+*L CN5      200405020 200405020  02435  02500               % 04415 AVL---
+*A BE 200405020 200405020 000063  02435  02500              % 04415 AVL---
+*R 1 200405020 200405020 200405020  02435  02500            % 04415 AVL---
+*G ST  200405020 200405020  02435  02500                    % 04415 AVL---
+*A VE 200405020 200405020 000063  02435  02500              % 04415 AVL---
+200405020 Hamilius (Bus)               02435                % 04415 AVL---
+200405049 Luxembourg, Amélie    02437  02437                % 04415 AVL---
+200405014 Centre, Fondation Pe  02438  02438                % 04415 AVL---
+200417047 Kirchberg, Rout Bréc  02440  02440                % 04415 AVL---
+200417007 Kirchberg, B.E.I.     02441  02441                % 04415 AVL---
+200417030 Kirchberg, Paul Noes  02443  02443                % 04415 AVL---
+200426010 Weimerskirch, St.Vit  02444  02444                % 04415 AVL---
+200426009 Weimerskirch, Pierre  02445  02445                % 04415 AVL---
+200426008 Weimerskirch, Mäerte  02446  02446                % 04415 AVL---
+200426005 Weimerskirch, Duerf   02446  02446                % 04415 AVL---
+200426007 Weimerskirch, Laval'  02447  02447                % 04415 AVL---
+200410003 Eich, Eecher Plaz     02448  02448                % 04415 AVL---
+200421003 Muhlenbach, Eecher S  02449  02449                % 04415 AVL---
+200421006 Muhlenbach, Siwemuer  02450  02450                % 04415 AVL---
+200421004 Muhlenbach, Peiffesc  02451  02451                % 04415 AVL---
+200425012 Rollingergrund, Vill  02451  02451                % 04415 AVL---
+200425006 Rollingergrund, Roud  02452  02452                % 04415 AVL---
+200425011 Rollingergrund, Val   02453  02453                % 04415 AVL---
+200425010 Rollingergrund, Val   02453  02453                % 04415 AVL---
+200425004 Rollingergrund, Beim  02454  02454                % 04415 AVL---
+200425003 Rollingergrund, Bei   02454  02454                % 04415 AVL---
+200425005 Rollingergrund, Biis  02455  02455                % 04415 AVL---
+200405045 Centre, Stäreplaz /   02456  02456                % 04415 AVL---
+200403020 Belair, Wampach       02458  02458                % 04415 AVL---
+200405020 Hamilius (Bus)        02500                       % 04415 AVL---
+*Z 04416 AVL---                                             % 04416 AVL---
+*L CN5      200405020 200405020  02735  02800               % 04416 AVL---
+*A BE 200405020 200405020 000063  02735  02800              % 04416 AVL---
+*R 1 200405020 200405020 200405020  02735  02800            % 04416 AVL---
+*G ST  200405020 200405020  02735  02800                    % 04416 AVL---
+*A VE 200405020 200405020 000063  02735  02800              % 04416 AVL---
+200405020 Hamilius (Bus)               02735                % 04416 AVL---
+200405049 Luxembourg, Amélie    02737  02737                % 04416 AVL---
+200405014 Centre, Fondation Pe  02738  02738                % 04416 AVL---
+200417047 Kirchberg, Rout Bréc  02740  02740                % 04416 AVL---
+200417007 Kirchberg, B.E.I.     02741  02741                % 04416 AVL---
+200417030 Kirchberg, Paul Noes  02743  02743                % 04416 AVL---
+200426010 Weimerskirch, St.Vit  02744  02744                % 04416 AVL---
+200426009 Weimerskirch, Pierre  02745  02745                % 04416 AVL---
+200426008 Weimerskirch, Mäerte  02746  02746                % 04416 AVL---
+200426005 Weimerskirch, Duerf   02746  02746                % 04416 AVL---
+200426007 Weimerskirch, Laval'  02747  02747                % 04416 AVL---
+200410003 Eich, Eecher Plaz     02748  02748                % 04416 AVL---
+200421003 Muhlenbach, Eecher S  02749  02749                % 04416 AVL---
+200421006 Muhlenbach, Siwemuer  02750  02750                % 04416 AVL---
+200421004 Muhlenbach, Peiffesc  02751  02751                % 04416 AVL---
+200425012 Rollingergrund, Vill  02751  02751                % 04416 AVL---
+200425006 Rollingergrund, Roud  02752  02752                % 04416 AVL---
+200425011 Rollingergrund, Val   02753  02753                % 04416 AVL---
+200425010 Rollingergrund, Val   02753  02753                % 04416 AVL---
+200425004 Rollingergrund, Beim  02754  02754                % 04416 AVL---
+200425003 Rollingergrund, Bei   02754  02754                % 04416 AVL---
+200425005 Rollingergrund, Biis  02755  02755                % 04416 AVL---
+200405045 Centre, Stäreplaz /   02756  02756                % 04416 AVL---
+200403020 Belair, Wampach       02758  02758                % 04416 AVL---
+200405020 Hamilius (Bus)        02800                       % 04416 AVL---
+*Z 04417 AVL---       005 030                               % 04417 AVL---
+*L CN5      200405020 200405020  02435  02500               % 04417 AVL---
+*A BE 200405020 200405020 000064  02435  02500              % 04417 AVL---
+*R 1 200405020 200405020 200405020  02435  02500            % 04417 AVL---
+*G ST  200405020 200405020  02435  02500                    % 04417 AVL---
+*A VE 200405020 200405020 000064  02435  02500              % 04417 AVL---
+200405020 Hamilius (Bus)               02435                % 04417 AVL---
+200405049 Luxembourg, Amélie    02437  02437                % 04417 AVL---
+200405014 Centre, Fondation Pe  02438  02438                % 04417 AVL---
+200417047 Kirchberg, Rout Bréc  02440  02440                % 04417 AVL---
+200417007 Kirchberg, B.E.I.     02441  02441                % 04417 AVL---
+200417030 Kirchberg, Paul Noes  02443  02443                % 04417 AVL---
+200426010 Weimerskirch, St.Vit  02444  02444                % 04417 AVL---
+200426009 Weimerskirch, Pierre  02445  02445                % 04417 AVL---
+200426008 Weimerskirch, Mäerte  02446  02446                % 04417 AVL---
+200426005 Weimerskirch, Duerf   02446  02446                % 04417 AVL---
+200426007 Weimerskirch, Laval'  02447  02447                % 04417 AVL---
+200410003 Eich, Eecher Plaz     02448  02448                % 04417 AVL---
+200421003 Muhlenbach, Eecher S  02449  02449                % 04417 AVL---
+200421006 Muhlenbach, Siwemuer  02450  02450                % 04417 AVL---
+200421004 Muhlenbach, Peiffesc  02451  02451                % 04417 AVL---
+200425012 Rollingergrund, Vill  02451  02451                % 04417 AVL---
+200425006 Rollingergrund, Roud  02452  02452                % 04417 AVL---
+200425011 Rollingergrund, Val   02453  02453                % 04417 AVL---
+200425010 Rollingergrund, Val   02453  02453                % 04417 AVL---
+200425004 Rollingergrund, Beim  02454  02454                % 04417 AVL---
+200425003 Rollingergrund, Bei   02454  02454                % 04417 AVL---
+200425005 Rollingergrund, Biis  02455  02455                % 04417 AVL---
+200405045 Centre, Stäreplaz /   02456  02456                % 04417 AVL---
+200403020 Belair, Wampach       02458  02458                % 04417 AVL---
+200405020 Hamilius (Bus)        02500                       % 04417 AVL---
+*Z 04418 AVL---                                             % 04418 AVL---
+*L CN5      200405020 200405020  02735  02800               % 04418 AVL---
+*A BE 200405020 200405020 000064  02735  02800              % 04418 AVL---
+*R 1 200405020 200405020 200405020  02735  02800            % 04418 AVL---
+*G ST  200405020 200405020  02735  02800                    % 04418 AVL---
+*A VE 200405020 200405020 000064  02735  02800              % 04418 AVL---
+200405020 Hamilius (Bus)               02735                % 04418 AVL---
+200405049 Luxembourg, Amélie    02737  02737                % 04418 AVL---
+200405014 Centre, Fondation Pe  02738  02738                % 04418 AVL---
+200417047 Kirchberg, Rout Bréc  02740  02740                % 04418 AVL---
+200417007 Kirchberg, B.E.I.     02741  02741                % 04418 AVL---
+200417030 Kirchberg, Paul Noes  02743  02743                % 04418 AVL---
+200426010 Weimerskirch, St.Vit  02744  02744                % 04418 AVL---
+200426009 Weimerskirch, Pierre  02745  02745                % 04418 AVL---
+200426008 Weimerskirch, Mäerte  02746  02746                % 04418 AVL---
+200426005 Weimerskirch, Duerf   02746  02746                % 04418 AVL---
+200426007 Weimerskirch, Laval'  02747  02747                % 04418 AVL---
+200410003 Eich, Eecher Plaz     02748  02748                % 04418 AVL---
+200421003 Muhlenbach, Eecher S  02749  02749                % 04418 AVL---
+200421006 Muhlenbach, Siwemuer  02750  02750                % 04418 AVL---
+200421004 Muhlenbach, Peiffesc  02751  02751                % 04418 AVL---
+200425012 Rollingergrund, Vill  02751  02751                % 04418 AVL---
+200425006 Rollingergrund, Roud  02752  02752                % 04418 AVL---
+200425011 Rollingergrund, Val   02753  02753                % 04418 AVL---
+200425010 Rollingergrund, Val   02753  02753                % 04418 AVL---
+200425004 Rollingergrund, Beim  02754  02754                % 04418 AVL---
+200425003 Rollingergrund, Bei   02754  02754                % 04418 AVL---
+200425005 Rollingergrund, Biis  02755  02755                % 04418 AVL---
+200405045 Centre, Stäreplaz /   02756  02756                % 04418 AVL---
+200403020 Belair, Wampach       02758  02758                % 04418 AVL---
+200405020 Hamilius (Bus)        02800                       % 04418 AVL---

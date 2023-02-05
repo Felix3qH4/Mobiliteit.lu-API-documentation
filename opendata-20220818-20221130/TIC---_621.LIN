@@ -1,0 +1,41 @@
+*F 03 2
+*Z 05801 TIC---                                             % 05801 TIC---
+*L 621      220402034 220901004  00655  00738               % 05801 TIC---
+*R 1 220901004 220402034 220901004  00655  00738            % 05801 TIC---
+*G GB1 220402034 220901004  00655  00738                    % 05801 TIC---
+*A VE 220402034 220901004 000290  00655  00738              % 05801 TIC---
+*I FD 220402034 220901004        0001614  00655  00738      % 05801 TIC---
+220402034 Esch-sur-Alzette, Ga         00655                % 05801 TIC---
+220402036 Esch-sur-Alzette, Pl  00656  00656                % 05801 TIC---
+220402050 Esch-sur-Alzette, Gr  00657  00657                % 05801 TIC---
+220402100 Esch-sur-Alzette, Pi  00659  00659                % 05801 TIC---
+220402071 Esch-sur-Alzette, Pl  00700  00700                % 05801 TIC---
+220402067 Esch-sur-Alzette, Op  00701  00701                % 05801 TIC---
+220402022 Esch-sur-Alzette, Ci  00702  00702                % 05801 TIC---
+221302009 Ehlerange, ZARE oues  00703  00703                % 05801 TIC---
+221302003 Ehlerange, Escherstr  00704  00704                % 05801 TIC---
+221302001 Ehlerange, Centre     00705  00705                % 05801 TIC---
+221302005 Ehlerange, Keupewee   00706  00706                % 05801 TIC---
+221302007 Ehlerange, Rousebësc  00707  00707                % 05801 TIC---
+221302002 Ehlerange, Dennebësc  00707  00707                % 05801 TIC---
+221304001 Soleuvre, Aessen      00708  00708                % 05801 TIC---
+221304013 Soleuvre, Reitschoul  00709  00709                % 05801 TIC---
+221303007 Sanem, Schlass        00710  00710                % 05801 TIC---
+221303009 Sanem, Zentrum        00711  00711                % 05801 TIC---
+221303004 Sanem, Op Lohr        00712  00712                % 05801 TIC---
+190101011 Bascharage/Sanem, Ga  00714  00714                % 05801 TIC---
+190101024 Bascharage, Ecocente  00717  00717                % 05801 TIC---
+190101005 Bascharage, Bommertb  00722  00722                % 05801 TIC---
+190101004 Bascharage, Bommelsc  00723  00723                % 05801 TIC---
+190101006 Bascharage, Brasseri  00724  00724                % 05801 TIC---
+190101001 Bascharage, Arcades   00725  00725                % 05801 TIC---
+190101007 Bascharage, Treff/Op  00727  00727                % 05801 TIC---
+190101020 Bascharage, Sicon     00728  00728                % 05801 TIC---
+190101018 Bascharage, R.P. And  00729  00729                % 05801 TIC---
+190101003 Bascharage, Bomecht   00730  00730                % 05801 TIC---
+220902005 Pétange, Cité CFL     00730  00730                % 05801 TIC---
+220902011 Pétange, Lëtzebuerge  00731  00731                % 05801 TIC---
+220902003 Pétange, Gemeng       00732  00732                % 05801 TIC---
+220902004 Pétange, Cactus       00735  00735                % 05801 TIC---
+220902019 Pétange, Porte Lamad  00736  00736                % 05801 TIC---
+220901004 Lamadelaine, Lycée T  00738                       % 05801 TIC---

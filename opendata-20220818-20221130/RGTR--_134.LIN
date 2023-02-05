@@ -1,0 +1,1775 @@
+*F 03 2
+*Z 02435 RGTR--                                             % 02435 RGTR--
+*L 134      140701016 120501001  00945  01022               % 02435 RGTR--
+*R 1 120501001 140701016 120501001  00945  01022            % 02435 RGTR--
+*G 063 140701016 120501001  00945  01022                    % 02435 RGTR--
+*A VE 140701016 120501001 000039  00945  01022              % 02435 RGTR--
+*I FD 140701016 120501001        0001954  00945  01022      % 02435 RGTR--
+140701016 Ettelbruck, Gare             00945                % 02435 RGTR--
+140701001 Ettelbruck, Anc. Cli  00946  00946                % 02435 RGTR--
+140701021 Ettelbruck, L.T.Sale  00948  00948                % 02435 RGTR--
+140701020 Ettelbruck, Centre H  00949  00949                % 02435 RGTR--
+140702002 Warken, Café Kaell    00950  00950                % 02435 RGTR--
+140702003 Warken, Rue de Burde  00950  00950                % 02435 RGTR--
+140601002 Burden, Haaptstrooss  00954  00954                % 02435 RGTR--
+140301002 Bourscheid, Bei Mees  00959  00959                % 02435 RGTR--
+140301001 Bourscheid, Bei der   01000  01000                % 02435 RGTR--
+140305001 Kehmen, Bei der Kiir  01003  01003                % 02435 RGTR--
+120506001 Ringel                01009  01009                % 02435 RGTR--
+120507001 Tadler                01013  01013                % 02435 RGTR--
+120502002 Heiderscheid          01018  01018                % 02435 RGTR--
+120501003 Eschdorf, Quatre Ven  01021  01021                % 02435 RGTR--
+120501001 Eschdorf, An der Dri  01022                       % 02435 RGTR--
+*Z 02436 RGTR--                                             % 02436 RGTR--
+*L 134      140701016 120501001  01145  01222               % 02436 RGTR--
+*R 1 120501001 140701016 120501001  01145  01222            % 02436 RGTR--
+*G 063 140701016 120501001  01145  01222                    % 02436 RGTR--
+*A VE 140701016 120501001 000039  01145  01222              % 02436 RGTR--
+*I FD 140701016 120501001        0001956  01145  01222      % 02436 RGTR--
+140701016 Ettelbruck, Gare             01145                % 02436 RGTR--
+140701001 Ettelbruck, Anc. Cli  01146  01146                % 02436 RGTR--
+140701021 Ettelbruck, L.T.Sale  01148  01148                % 02436 RGTR--
+140701020 Ettelbruck, Centre H  01149  01149                % 02436 RGTR--
+140702002 Warken, Café Kaell    01150  01150                % 02436 RGTR--
+140702003 Warken, Rue de Burde  01150  01150                % 02436 RGTR--
+140601002 Burden, Haaptstrooss  01154  01154                % 02436 RGTR--
+140301002 Bourscheid, Bei Mees  01159  01159                % 02436 RGTR--
+140301001 Bourscheid, Bei der   01200  01200                % 02436 RGTR--
+140305001 Kehmen, Bei der Kiir  01203  01203                % 02436 RGTR--
+120506001 Ringel                01209  01209                % 02436 RGTR--
+120507001 Tadler                01213  01213                % 02436 RGTR--
+120502002 Heiderscheid          01218  01218                % 02436 RGTR--
+120501003 Eschdorf, Quatre Ven  01221  01221                % 02436 RGTR--
+120501001 Eschdorf, An der Dri  01222                       % 02436 RGTR--
+*Z 02437 RGTR--                                             % 02437 RGTR--
+*L 134      140701016 120501001  01345  01422               % 02437 RGTR--
+*R 1 120501001 140701016 120501001  01345  01422            % 02437 RGTR--
+*G 063 140701016 120501001  01345  01422                    % 02437 RGTR--
+*A VE 140701016 120501001 000039  01345  01422              % 02437 RGTR--
+*I FD 140701016 120501001        0001958  01345  01422      % 02437 RGTR--
+140701016 Ettelbruck, Gare             01345                % 02437 RGTR--
+140701001 Ettelbruck, Anc. Cli  01346  01346                % 02437 RGTR--
+140701021 Ettelbruck, L.T.Sale  01348  01348                % 02437 RGTR--
+140701020 Ettelbruck, Centre H  01349  01349                % 02437 RGTR--
+140702002 Warken, Café Kaell    01350  01350                % 02437 RGTR--
+140702003 Warken, Rue de Burde  01350  01350                % 02437 RGTR--
+140601002 Burden, Haaptstrooss  01354  01354                % 02437 RGTR--
+140301002 Bourscheid, Bei Mees  01359  01359                % 02437 RGTR--
+140301001 Bourscheid, Bei der   01400  01400                % 02437 RGTR--
+140305001 Kehmen, Bei der Kiir  01403  01403                % 02437 RGTR--
+120506001 Ringel                01409  01409                % 02437 RGTR--
+120507001 Tadler                01413  01413                % 02437 RGTR--
+120502002 Heiderscheid          01418  01418                % 02437 RGTR--
+120501003 Eschdorf, Quatre Ven  01421  01421                % 02437 RGTR--
+120501001 Eschdorf, An der Dri  01422                       % 02437 RGTR--
+*Z 02438 RGTR--                                             % 02438 RGTR--
+*L 134      140701016 120501001  01545  01622               % 02438 RGTR--
+*R 1 120501001 140701016 120501001  01545  01622            % 02438 RGTR--
+*G 063 140701016 120501001  01545  01622                    % 02438 RGTR--
+*A VE 140701016 120501001 000039  01545  01622              % 02438 RGTR--
+*I FD 140701016 120501001        0001960  01545  01622      % 02438 RGTR--
+140701016 Ettelbruck, Gare             01545                % 02438 RGTR--
+140701001 Ettelbruck, Anc. Cli  01546  01546                % 02438 RGTR--
+140701021 Ettelbruck, L.T.Sale  01548  01548                % 02438 RGTR--
+140701020 Ettelbruck, Centre H  01549  01549                % 02438 RGTR--
+140702002 Warken, Café Kaell    01550  01550                % 02438 RGTR--
+140702003 Warken, Rue de Burde  01550  01550                % 02438 RGTR--
+140601002 Burden, Haaptstrooss  01554  01554                % 02438 RGTR--
+140301002 Bourscheid, Bei Mees  01559  01559                % 02438 RGTR--
+140301001 Bourscheid, Bei der   01600  01600                % 02438 RGTR--
+140305001 Kehmen, Bei der Kiir  01603  01603                % 02438 RGTR--
+120506001 Ringel                01609  01609                % 02438 RGTR--
+120507001 Tadler                01613  01613                % 02438 RGTR--
+120502002 Heiderscheid          01618  01618                % 02438 RGTR--
+120501003 Eschdorf, Quatre Ven  01621  01621                % 02438 RGTR--
+120501001 Eschdorf, An der Dri  01622                       % 02438 RGTR--
+*Z 02439 RGTR--                                             % 02439 RGTR--
+*L 134      140701016 120501001  01945  02022               % 02439 RGTR--
+*R 1 120501001 140701016 120501001  01945  02022            % 02439 RGTR--
+*G 063 140701016 120501001  01945  02022                    % 02439 RGTR--
+*A VE 140701016 120501001 000039  01945  02022              % 02439 RGTR--
+*I FD 140701016 120501001        0001968  01945  02022      % 02439 RGTR--
+140701016 Ettelbruck, Gare             01945                % 02439 RGTR--
+140701001 Ettelbruck, Anc. Cli  01946  01946                % 02439 RGTR--
+140701021 Ettelbruck, L.T.Sale  01948  01948                % 02439 RGTR--
+140701020 Ettelbruck, Centre H  01949  01949                % 02439 RGTR--
+140702002 Warken, Café Kaell    01950  01950                % 02439 RGTR--
+140702003 Warken, Rue de Burde  01950  01950                % 02439 RGTR--
+140601002 Burden, Haaptstrooss  01954  01954                % 02439 RGTR--
+140301002 Bourscheid, Bei Mees  01959  01959                % 02439 RGTR--
+140301001 Bourscheid, Bei der   02000  02000                % 02439 RGTR--
+140305001 Kehmen, Bei der Kiir  02003  02003                % 02439 RGTR--
+120506001 Ringel                02009  02009                % 02439 RGTR--
+120507001 Tadler                02013  02013                % 02439 RGTR--
+120502002 Heiderscheid          02018  02018                % 02439 RGTR--
+120501003 Eschdorf, Quatre Ven  02021  02021                % 02439 RGTR--
+120501001 Eschdorf, An der Dri  02022                       % 02439 RGTR--
+*Z 02440 RGTR--                                             % 02440 RGTR--
+*L 134      140701016 120501001  02145  02222               % 02440 RGTR--
+*R 1 120501001 140701016 120501001  02145  02222            % 02440 RGTR--
+*G 063 140701016 120501001  02145  02222                    % 02440 RGTR--
+*A VE 140701016 120501001 000039  02145  02222              % 02440 RGTR--
+*I FD 140701016 120501001        0001430  02145  02222      % 02440 RGTR--
+140701016 Ettelbruck, Gare             02145                % 02440 RGTR--
+140701001 Ettelbruck, Anc. Cli  02146  02146                % 02440 RGTR--
+140701021 Ettelbruck, L.T.Sale  02148  02148                % 02440 RGTR--
+140701020 Ettelbruck, Centre H  02149  02149                % 02440 RGTR--
+140702002 Warken, Café Kaell    02150  02150                % 02440 RGTR--
+140702003 Warken, Rue de Burde  02150  02150                % 02440 RGTR--
+140601002 Burden, Haaptstrooss  02154  02154                % 02440 RGTR--
+140301002 Bourscheid, Bei Mees  02159  02159                % 02440 RGTR--
+140301001 Bourscheid, Bei der   02200  02200                % 02440 RGTR--
+140305001 Kehmen, Bei der Kiir  02203  02203                % 02440 RGTR--
+120506001 Ringel                02209  02209                % 02440 RGTR--
+120507001 Tadler                02213  02213                % 02440 RGTR--
+120502002 Heiderscheid          02218  02218                % 02440 RGTR--
+120501003 Eschdorf, Quatre Ven  02221  02221                % 02440 RGTR--
+120501001 Eschdorf, An der Dri  02222                       % 02440 RGTR--
+*Z 02441 RGTR--                                             % 02441 RGTR--
+*L 134      140701016 120501001  00845  00922               % 02441 RGTR--
+*R 1 120501001 140701016 120501001  00845  00922            % 02441 RGTR--
+*G 063 140701016 120501001  00845  00922                    % 02441 RGTR--
+*A VE 140701016 120501001 000036  00845  00922              % 02441 RGTR--
+*I FD 140701016 120501001        0001966  00845  00922      % 02441 RGTR--
+140701016 Ettelbruck, Gare             00845                % 02441 RGTR--
+140701001 Ettelbruck, Anc. Cli  00846  00846                % 02441 RGTR--
+140701021 Ettelbruck, L.T.Sale  00848  00848                % 02441 RGTR--
+140701020 Ettelbruck, Centre H  00849  00849                % 02441 RGTR--
+140702002 Warken, Café Kaell    00850  00850                % 02441 RGTR--
+140702003 Warken, Rue de Burde  00850  00850                % 02441 RGTR--
+140601002 Burden, Haaptstrooss  00854  00854                % 02441 RGTR--
+140301002 Bourscheid, Bei Mees  00859  00859                % 02441 RGTR--
+140301001 Bourscheid, Bei der   00900  00900                % 02441 RGTR--
+140305001 Kehmen, Bei der Kiir  00903  00903                % 02441 RGTR--
+120506001 Ringel                00909  00909                % 02441 RGTR--
+120507001 Tadler                00913  00913                % 02441 RGTR--
+120502002 Heiderscheid          00918  00918                % 02441 RGTR--
+120501003 Eschdorf, Quatre Ven  00921  00921                % 02441 RGTR--
+120501001 Eschdorf, An der Dri  00922                       % 02441 RGTR--
+*Z 02442 RGTR--                                             % 02442 RGTR--
+*L 134      140701016 120501001  01045  01122               % 02442 RGTR--
+*R 1 120501001 140701016 120501001  01045  01122            % 02442 RGTR--
+*G 063 140701016 120501001  01045  01122                    % 02442 RGTR--
+*A VE 140701016 120501001 000036  01045  01122              % 02442 RGTR--
+*I FD 140701016 120501001        0001955  01045  01122      % 02442 RGTR--
+140701016 Ettelbruck, Gare             01045                % 02442 RGTR--
+140701001 Ettelbruck, Anc. Cli  01046  01046                % 02442 RGTR--
+140701021 Ettelbruck, L.T.Sale  01048  01048                % 02442 RGTR--
+140701020 Ettelbruck, Centre H  01049  01049                % 02442 RGTR--
+140702002 Warken, Café Kaell    01050  01050                % 02442 RGTR--
+140702003 Warken, Rue de Burde  01050  01050                % 02442 RGTR--
+140601002 Burden, Haaptstrooss  01054  01054                % 02442 RGTR--
+140301002 Bourscheid, Bei Mees  01059  01059                % 02442 RGTR--
+140301001 Bourscheid, Bei der   01100  01100                % 02442 RGTR--
+140305001 Kehmen, Bei der Kiir  01103  01103                % 02442 RGTR--
+120506001 Ringel                01109  01109                % 02442 RGTR--
+120507001 Tadler                01113  01113                % 02442 RGTR--
+120502002 Heiderscheid          01118  01118                % 02442 RGTR--
+120501003 Eschdorf, Quatre Ven  01121  01121                % 02442 RGTR--
+120501001 Eschdorf, An der Dri  01122                       % 02442 RGTR--
+*Z 02443 RGTR--                                             % 02443 RGTR--
+*L 134      140701016 120501001  01245  01322               % 02443 RGTR--
+*R 1 120501001 140701016 120501001  01245  01322            % 02443 RGTR--
+*G 063 140701016 120501001  01245  01322                    % 02443 RGTR--
+*A VE 140701016 120501001 000036  01245  01322              % 02443 RGTR--
+*I FD 140701016 120501001        0001957  01245  01322      % 02443 RGTR--
+140701016 Ettelbruck, Gare             01245                % 02443 RGTR--
+140701001 Ettelbruck, Anc. Cli  01246  01246                % 02443 RGTR--
+140701021 Ettelbruck, L.T.Sale  01248  01248                % 02443 RGTR--
+140701020 Ettelbruck, Centre H  01249  01249                % 02443 RGTR--
+140702002 Warken, Café Kaell    01250  01250                % 02443 RGTR--
+140702003 Warken, Rue de Burde  01250  01250                % 02443 RGTR--
+140601002 Burden, Haaptstrooss  01254  01254                % 02443 RGTR--
+140301002 Bourscheid, Bei Mees  01259  01259                % 02443 RGTR--
+140301001 Bourscheid, Bei der   01300  01300                % 02443 RGTR--
+140305001 Kehmen, Bei der Kiir  01303  01303                % 02443 RGTR--
+120506001 Ringel                01309  01309                % 02443 RGTR--
+120507001 Tadler                01313  01313                % 02443 RGTR--
+120502002 Heiderscheid          01318  01318                % 02443 RGTR--
+120501003 Eschdorf, Quatre Ven  01321  01321                % 02443 RGTR--
+120501001 Eschdorf, An der Dri  01322                       % 02443 RGTR--
+*Z 02444 RGTR--                                             % 02444 RGTR--
+*L 134      140701016 120501001  01445  01522               % 02444 RGTR--
+*A EX 140701016 120501001 000036  01445  01522              % 02444 RGTR--
+*R 1 120501001 140701016 120501001  01445  01522            % 02444 RGTR--
+*G 063 140701016 120501001  01445  01522                    % 02444 RGTR--
+*A VE 140701016 120501001 000036  01445  01522              % 02444 RGTR--
+*I FD 140701016 120501001        0001959  01445  01522      % 02444 RGTR--
+140701016 Ettelbruck, Gare             01445                % 02444 RGTR--
+140701001 Ettelbruck, Anc. Cli  01446  01446                % 02444 RGTR--
+140701021 Ettelbruck, L.T.Sale  01448  01448                % 02444 RGTR--
+140701020 Ettelbruck, Centre H  01449  01449                % 02444 RGTR--
+140702002 Warken, Café Kaell    01450  01450                % 02444 RGTR--
+140702003 Warken, Rue de Burde  01450  01450                % 02444 RGTR--
+140601002 Burden, Haaptstrooss  01454  01454                % 02444 RGTR--
+140301002 Bourscheid, Bei Mees  01459  01459                % 02444 RGTR--
+140301001 Bourscheid, Bei der   01500  01500                % 02444 RGTR--
+140305001 Kehmen, Bei der Kiir  01503  01503                % 02444 RGTR--
+120506001 Ringel                01509  01509                % 02444 RGTR--
+120507001 Tadler                01513  01513                % 02444 RGTR--
+120502002 Heiderscheid          01518  01518                % 02444 RGTR--
+120501003 Eschdorf, Quatre Ven  01521  01521                % 02444 RGTR--
+120501001 Eschdorf, An der Dri  01522                       % 02444 RGTR--
+*Z 02445 RGTR--                                             % 02445 RGTR--
+*L 134      140701016 120501001  01845  01922               % 02445 RGTR--
+*R 1 120501001 140701016 120501001  01845  01922            % 02445 RGTR--
+*G 063 140701016 120501001  01845  01922                    % 02445 RGTR--
+*A VE 140701016 120501001 000036  01845  01922              % 02445 RGTR--
+*I FD 140701016 120501001        0001288  01845  01922      % 02445 RGTR--
+140701016 Ettelbruck, Gare             01845                % 02445 RGTR--
+140701001 Ettelbruck, Anc. Cli  01846  01846                % 02445 RGTR--
+140701021 Ettelbruck, L.T.Sale  01848  01848                % 02445 RGTR--
+140701020 Ettelbruck, Centre H  01849  01849                % 02445 RGTR--
+140702002 Warken, Café Kaell    01850  01850                % 02445 RGTR--
+140702003 Warken, Rue de Burde  01850  01850                % 02445 RGTR--
+140601002 Burden, Haaptstrooss  01854  01854                % 02445 RGTR--
+140301002 Bourscheid, Bei Mees  01859  01859                % 02445 RGTR--
+140301001 Bourscheid, Bei der   01900  01900                % 02445 RGTR--
+140305001 Kehmen, Bei der Kiir  01903  01903                % 02445 RGTR--
+120506001 Ringel                01909  01909                % 02445 RGTR--
+120507001 Tadler                01913  01913                % 02445 RGTR--
+120502002 Heiderscheid          01918  01918                % 02445 RGTR--
+120501003 Eschdorf, Quatre Ven  01921  01921                % 02445 RGTR--
+120501001 Eschdorf, An der Dri  01922                       % 02445 RGTR--
+*Z 02446 RGTR--                                             % 02446 RGTR--
+*L 134      140701016 120501001  02045  02122               % 02446 RGTR--
+*R 1 120501001 140701016 120501001  02045  02122            % 02446 RGTR--
+*G 063 140701016 120501001  02045  02122                    % 02446 RGTR--
+*A VE 140701016 120501001 000036  02045  02122              % 02446 RGTR--
+*I FD 140701016 120501001        0001961  02045  02122      % 02446 RGTR--
+140701016 Ettelbruck, Gare             02045                % 02446 RGTR--
+140701001 Ettelbruck, Anc. Cli  02046  02046                % 02446 RGTR--
+140701021 Ettelbruck, L.T.Sale  02048  02048                % 02446 RGTR--
+140701020 Ettelbruck, Centre H  02049  02049                % 02446 RGTR--
+140702002 Warken, Café Kaell    02050  02050                % 02446 RGTR--
+140702003 Warken, Rue de Burde  02050  02050                % 02446 RGTR--
+140601002 Burden, Haaptstrooss  02054  02054                % 02446 RGTR--
+140301002 Bourscheid, Bei Mees  02059  02059                % 02446 RGTR--
+140301001 Bourscheid, Bei der   02100  02100                % 02446 RGTR--
+140305001 Kehmen, Bei der Kiir  02103  02103                % 02446 RGTR--
+120506001 Ringel                02109  02109                % 02446 RGTR--
+120507001 Tadler                02113  02113                % 02446 RGTR--
+120502002 Heiderscheid          02118  02118                % 02446 RGTR--
+120501003 Eschdorf, Quatre Ven  02121  02121                % 02446 RGTR--
+120501001 Eschdorf, An der Dri  02122                       % 02446 RGTR--
+*Z 02447 RGTR--                                             % 02447 RGTR--
+*L 134      140701016 120501001  02345  02422               % 02447 RGTR--
+*R 1 120501001 140701016 120501001  02345  02422            % 02447 RGTR--
+*G 063 140701016 120501001  02345  02422                    % 02447 RGTR--
+*A VE 140701016 120501001 000036  02345  02422              % 02447 RGTR--
+*I FD 140701016 120501001        0001963  02345  02422      % 02447 RGTR--
+140701016 Ettelbruck, Gare             02345                % 02447 RGTR--
+140701001 Ettelbruck, Anc. Cli  02346  02346                % 02447 RGTR--
+140701021 Ettelbruck, L.T.Sale  02348  02348                % 02447 RGTR--
+140701020 Ettelbruck, Centre H  02349  02349                % 02447 RGTR--
+140702002 Warken, Café Kaell    02350  02350                % 02447 RGTR--
+140702003 Warken, Rue de Burde  02350  02350                % 02447 RGTR--
+140601002 Burden, Haaptstrooss  02354  02354                % 02447 RGTR--
+140301002 Bourscheid, Bei Mees  02359  02359                % 02447 RGTR--
+140301001 Bourscheid, Bei der   02400  02400                % 02447 RGTR--
+140305001 Kehmen, Bei der Kiir  02403  02403                % 02447 RGTR--
+120506001 Ringel                02409  02409                % 02447 RGTR--
+120507001 Tadler                02413  02413                % 02447 RGTR--
+120502002 Heiderscheid          02418  02418                % 02447 RGTR--
+120501003 Eschdorf, Quatre Ven  02421  02421                % 02447 RGTR--
+120501001 Eschdorf, An der Dri  02422                       % 02447 RGTR--
+*Z 02448 RGTR--                                             % 02448 RGTR--
+*L 134      140701016 120501001  00545  00622               % 02448 RGTR--
+*R 1 120501001 140701016 120501001  00545  00622            % 02448 RGTR--
+*G 063 140701016 120501001  00545  00622                    % 02448 RGTR--
+*A VE 140701016 120501001 000033  00545  00622              % 02448 RGTR--
+*I FD 140701016 120501001        0001953  00545  00622      % 02448 RGTR--
+140701016 Ettelbruck, Gare             00545                % 02448 RGTR--
+140701001 Ettelbruck, Anc. Cli  00546  00546                % 02448 RGTR--
+140701021 Ettelbruck, L.T.Sale  00548  00548                % 02448 RGTR--
+140701020 Ettelbruck, Centre H  00549  00549                % 02448 RGTR--
+140702002 Warken, Café Kaell    00550  00550                % 02448 RGTR--
+140702003 Warken, Rue de Burde  00550  00550                % 02448 RGTR--
+140601002 Burden, Haaptstrooss  00554  00554                % 02448 RGTR--
+140301002 Bourscheid, Bei Mees  00559  00559                % 02448 RGTR--
+140301001 Bourscheid, Bei der   00600  00600                % 02448 RGTR--
+140305001 Kehmen, Bei der Kiir  00603  00603                % 02448 RGTR--
+120506001 Ringel                00609  00609                % 02448 RGTR--
+120507001 Tadler                00613  00613                % 02448 RGTR--
+120502002 Heiderscheid          00618  00618                % 02448 RGTR--
+120501003 Eschdorf, Quatre Ven  00621  00621                % 02448 RGTR--
+120501001 Eschdorf, An der Dri  00622                       % 02448 RGTR--
+*Z 02449 RGTR--                                             % 02449 RGTR--
+*L 134      140701016 120501001  01525  01602               % 02449 RGTR--
+*R 1 120501001 140701016 120501001  01525  01602            % 02449 RGTR--
+*G 063 140701016 120501001  01525  01602                    % 02449 RGTR--
+*A VE 140701016 120501001 000033  01525  01602              % 02449 RGTR--
+*I FD 140701016 120501001        0002134  01525  01602      % 02449 RGTR--
+140701016 Ettelbruck, Gare             01525                % 02449 RGTR--
+140701001 Ettelbruck, Anc. Cli  01526  01526                % 02449 RGTR--
+140701021 Ettelbruck, L.T.Sale  01528  01528                % 02449 RGTR--
+140701020 Ettelbruck, Centre H  01529  01529                % 02449 RGTR--
+140702002 Warken, Café Kaell    01530  01530                % 02449 RGTR--
+140702003 Warken, Rue de Burde  01530  01530                % 02449 RGTR--
+140601002 Burden, Haaptstrooss  01534  01534                % 02449 RGTR--
+140301002 Bourscheid, Bei Mees  01539  01539                % 02449 RGTR--
+140301001 Bourscheid, Bei der   01540  01540                % 02449 RGTR--
+140305001 Kehmen, Bei der Kiir  01543  01543                % 02449 RGTR--
+120506001 Ringel                01549  01549                % 02449 RGTR--
+120507001 Tadler                01553  01553                % 02449 RGTR--
+120502002 Heiderscheid          01558  01558                % 02449 RGTR--
+120501003 Eschdorf, Quatre Ven  01601  01601                % 02449 RGTR--
+120501001 Eschdorf, An der Dri  01602                       % 02449 RGTR--
+*Z 02450 RGTR--                                             % 02450 RGTR--
+*L 134      140701016 120501001  00745  00822               % 02450 RGTR--
+*R 1 120501001 140701016 120501001  00745  00822            % 02450 RGTR--
+*G 063 140701016 120501001  00745  00822                    % 02450 RGTR--
+*A VE 140701016 120501001 000018  00745  00822              % 02450 RGTR--
+*I FD 140701016 120501001        0001965  00745  00822      % 02450 RGTR--
+140701016 Ettelbruck, Gare             00745                % 02450 RGTR--
+140701001 Ettelbruck, Anc. Cli  00746  00746                % 02450 RGTR--
+140701021 Ettelbruck, L.T.Sale  00748  00748                % 02450 RGTR--
+140701020 Ettelbruck, Centre H  00749  00749                % 02450 RGTR--
+140702002 Warken, Café Kaell    00750  00750                % 02450 RGTR--
+140702003 Warken, Rue de Burde  00750  00750                % 02450 RGTR--
+140601002 Burden, Haaptstrooss  00754  00754                % 02450 RGTR--
+140301002 Bourscheid, Bei Mees  00759  00759                % 02450 RGTR--
+140301001 Bourscheid, Bei der   00800  00800                % 02450 RGTR--
+140305001 Kehmen, Bei der Kiir  00803  00803                % 02450 RGTR--
+120506001 Ringel                00809  00809                % 02450 RGTR--
+120507001 Tadler                00813  00813                % 02450 RGTR--
+120502002 Heiderscheid          00818  00818                % 02450 RGTR--
+120501003 Eschdorf, Quatre Ven  00821  00821                % 02450 RGTR--
+120501001 Eschdorf, An der Dri  00822                       % 02450 RGTR--
+*Z 02451 RGTR--                                             % 02451 RGTR--
+*L 134      140701016 120501001  01745  01822               % 02451 RGTR--
+*R 1 120501001 140701016 120501001  01745  01822            % 02451 RGTR--
+*G 063 140701016 120501001  01745  01822                    % 02451 RGTR--
+*A VE 140701016 120501001 000018  01745  01822              % 02451 RGTR--
+*I FD 140701016 120501001        0001967  01745  01822      % 02451 RGTR--
+140701016 Ettelbruck, Gare             01745                % 02451 RGTR--
+140701001 Ettelbruck, Anc. Cli  01746  01746                % 02451 RGTR--
+140701021 Ettelbruck, L.T.Sale  01748  01748                % 02451 RGTR--
+140701020 Ettelbruck, Centre H  01749  01749                % 02451 RGTR--
+140702002 Warken, Café Kaell    01750  01750                % 02451 RGTR--
+140702003 Warken, Rue de Burde  01750  01750                % 02451 RGTR--
+140601002 Burden, Haaptstrooss  01754  01754                % 02451 RGTR--
+140301002 Bourscheid, Bei Mees  01759  01759                % 02451 RGTR--
+140301001 Bourscheid, Bei der   01800  01800                % 02451 RGTR--
+140305001 Kehmen, Bei der Kiir  01803  01803                % 02451 RGTR--
+120506001 Ringel                01809  01809                % 02451 RGTR--
+120507001 Tadler                01813  01813                % 02451 RGTR--
+120502002 Heiderscheid          01818  01818                % 02451 RGTR--
+120501003 Eschdorf, Quatre Ven  01821  01821                % 02451 RGTR--
+120501001 Eschdorf, An der Dri  01822                       % 02451 RGTR--
+*Z 02452 RGTR--                                             % 02452 RGTR--
+*L 134      140701016 120501001  00645  00723               % 02452 RGTR--
+*A EX 140701016 120501001 000036  00645  00723              % 02452 RGTR--
+*R 1 120501001 140701016 120501001  00645  00723            % 02452 RGTR--
+*G 063 140701016 120501001  00645  00723                    % 02452 RGTR--
+*A VE 140701016 120501001 000036  00645  00723              % 02452 RGTR--
+*I FD 140701016 120501001        0001964  00645  00723      % 02452 RGTR--
+140701016 Ettelbruck, Gare             00645                % 02452 RGTR--
+140701001 Ettelbruck, Anc. Cli  00646  00646                % 02452 RGTR--
+140701021 Ettelbruck, L.T.Sale  00648  00648                % 02452 RGTR--
+140701020 Ettelbruck, Centre H  00649  00649                % 02452 RGTR--
+140702002 Warken, Café Kaell    00650  00650                % 02452 RGTR--
+140702003 Warken, Rue de Burde  00651  00651                % 02452 RGTR--
+140601002 Burden, Haaptstrooss  00655  00655                % 02452 RGTR--
+140301002 Bourscheid, Bei Mees  00659  00659                % 02452 RGTR--
+140301001 Bourscheid, Bei der   00700  00700                % 02452 RGTR--
+140305001 Kehmen, Bei der Kiir  00703  00703                % 02452 RGTR--
+120506001 Ringel                00710  00710                % 02452 RGTR--
+120507001 Tadler                00714  00714                % 02452 RGTR--
+120502002 Heiderscheid          00719  00719                % 02452 RGTR--
+120501003 Eschdorf, Quatre Ven  00722  00722                % 02452 RGTR--
+120501001 Eschdorf, An der Dri  00723                       % 02452 RGTR--
+*Z 02453 RGTR--                                             % 02453 RGTR--
+*L 134      140701016 120501001  00745  00823               % 02453 RGTR--
+*R 1 120501001 140701016 120501001  00745  00823            % 02453 RGTR--
+*G 063 140701016 120501001  00745  00823                    % 02453 RGTR--
+*A VE 140701016 120501001 000036  00745  00823              % 02453 RGTR--
+*I FD 140701016 120501001        0001965  00745  00823      % 02453 RGTR--
+140701016 Ettelbruck, Gare             00745                % 02453 RGTR--
+140701001 Ettelbruck, Anc. Cli  00746  00746                % 02453 RGTR--
+140701021 Ettelbruck, L.T.Sale  00748  00748                % 02453 RGTR--
+140701020 Ettelbruck, Centre H  00749  00749                % 02453 RGTR--
+140702002 Warken, Café Kaell    00750  00750                % 02453 RGTR--
+140702003 Warken, Rue de Burde  00751  00751                % 02453 RGTR--
+140601002 Burden, Haaptstrooss  00755  00755                % 02453 RGTR--
+140301002 Bourscheid, Bei Mees  00759  00759                % 02453 RGTR--
+140301001 Bourscheid, Bei der   00800  00800                % 02453 RGTR--
+140305001 Kehmen, Bei der Kiir  00803  00803                % 02453 RGTR--
+120506001 Ringel                00810  00810                % 02453 RGTR--
+120507001 Tadler                00814  00814                % 02453 RGTR--
+120502002 Heiderscheid          00819  00819                % 02453 RGTR--
+120501003 Eschdorf, Quatre Ven  00822  00822                % 02453 RGTR--
+120501001 Eschdorf, An der Dri  00823                       % 02453 RGTR--
+*Z 02454 RGTR--                                             % 02454 RGTR--
+*L 134      140701016 120501001  01645  01723               % 02454 RGTR--
+*R 1 120501001 140701016 120501001  01645  01723            % 02454 RGTR--
+*G 063 140701016 120501001  01645  01723                    % 02454 RGTR--
+*A VE 140701016 120501001 000036  01645  01723              % 02454 RGTR--
+*I FD 140701016 120501001        0001235  01645  01723      % 02454 RGTR--
+140701016 Ettelbruck, Gare             01645                % 02454 RGTR--
+140701001 Ettelbruck, Anc. Cli  01646  01646                % 02454 RGTR--
+140701021 Ettelbruck, L.T.Sale  01648  01648                % 02454 RGTR--
+140701020 Ettelbruck, Centre H  01649  01649                % 02454 RGTR--
+140702002 Warken, Café Kaell    01650  01650                % 02454 RGTR--
+140702003 Warken, Rue de Burde  01651  01651                % 02454 RGTR--
+140601002 Burden, Haaptstrooss  01655  01655                % 02454 RGTR--
+140301002 Bourscheid, Bei Mees  01659  01659                % 02454 RGTR--
+140301001 Bourscheid, Bei der   01700  01700                % 02454 RGTR--
+140305001 Kehmen, Bei der Kiir  01703  01703                % 02454 RGTR--
+120506001 Ringel                01710  01710                % 02454 RGTR--
+120507001 Tadler                01714  01714                % 02454 RGTR--
+120502002 Heiderscheid          01719  01719                % 02454 RGTR--
+120501003 Eschdorf, Quatre Ven  01722  01722                % 02454 RGTR--
+120501001 Eschdorf, An der Dri  01723                       % 02454 RGTR--
+*Z 02455 RGTR--                                             % 02455 RGTR--
+*L 134      140701016 120501001  01745  01823               % 02455 RGTR--
+*R 1 120501001 140701016 120501001  01745  01823            % 02455 RGTR--
+*G 063 140701016 120501001  01745  01823                    % 02455 RGTR--
+*A VE 140701016 120501001 000036  01745  01823              % 02455 RGTR--
+*I FD 140701016 120501001        0001967  01745  01823      % 02455 RGTR--
+140701016 Ettelbruck, Gare             01745                % 02455 RGTR--
+140701001 Ettelbruck, Anc. Cli  01746  01746                % 02455 RGTR--
+140701021 Ettelbruck, L.T.Sale  01748  01748                % 02455 RGTR--
+140701020 Ettelbruck, Centre H  01749  01749                % 02455 RGTR--
+140702002 Warken, Café Kaell    01750  01750                % 02455 RGTR--
+140702003 Warken, Rue de Burde  01751  01751                % 02455 RGTR--
+140601002 Burden, Haaptstrooss  01755  01755                % 02455 RGTR--
+140301002 Bourscheid, Bei Mees  01759  01759                % 02455 RGTR--
+140301001 Bourscheid, Bei der   01800  01800                % 02455 RGTR--
+140305001 Kehmen, Bei der Kiir  01803  01803                % 02455 RGTR--
+120506001 Ringel                01810  01810                % 02455 RGTR--
+120507001 Tadler                01814  01814                % 02455 RGTR--
+120502002 Heiderscheid          01819  01819                % 02455 RGTR--
+120501003 Eschdorf, Quatre Ven  01822  01822                % 02455 RGTR--
+120501001 Eschdorf, An der Dri  01823                       % 02455 RGTR--
+*Z 02456 RGTR--                                             % 02456 RGTR--
+*L 134      120501001 140701016  01041  01115               % 02456 RGTR--
+*R 2 140701016 120501001 140701016  01041  01115            % 02456 RGTR--
+*G 063 120501001 140701016  01041  01115                    % 02456 RGTR--
+*A VE 120501001 140701016 000039  01041  01115              % 02456 RGTR--
+*I FD 120501001 140701016        0002135  01041  01115      % 02456 RGTR--
+120501001 Eschdorf, An der Dri         01041                % 02456 RGTR--
+120501003 Eschdorf, Quatre Ven  01041  01041                % 02456 RGTR--
+120502002 Heiderscheid          01045  01045                % 02456 RGTR--
+120507001 Tadler                01049  01049                % 02456 RGTR--
+120506001 Ringel                01052  01052                % 02456 RGTR--
+140305001 Kehmen, Bei der Kiir  01059  01059                % 02456 RGTR--
+140301001 Bourscheid, Bei der   01102  01102                % 02456 RGTR--
+140301002 Bourscheid, Bei Mees  01103  01103                % 02456 RGTR--
+140601002 Burden, Haaptstrooss  01107  01107                % 02456 RGTR--
+140702003 Warken, Rue de Burde  01111  01111                % 02456 RGTR--
+140702002 Warken, Café Kaell    01112  01112                % 02456 RGTR--
+140701020 Ettelbruck, Centre H  01112  01112                % 02456 RGTR--
+140701021 Ettelbruck, L.T.Sale  01113  01113                % 02456 RGTR--
+140701024 Ettelbruck, Poste     01114  01114                % 02456 RGTR--
+140701016 Ettelbruck, Gare      01115                       % 02456 RGTR--
+*Z 02457 RGTR--                                             % 02457 RGTR--
+*L 134      120501001 140701016  01241  01315               % 02457 RGTR--
+*A EY 120501001 140701016 000039  01241  01315              % 02457 RGTR--
+*R 2 140701016 120501001 140701016  01241  01315            % 02457 RGTR--
+*G 063 120501001 140701016  01241  01315                    % 02457 RGTR--
+*A VE 120501001 140701016 000039  01241  01315              % 02457 RGTR--
+*I FD 120501001 140701016        0001094  01241  01315      % 02457 RGTR--
+120501001 Eschdorf, An der Dri         01241                % 02457 RGTR--
+120501003 Eschdorf, Quatre Ven  01241  01241                % 02457 RGTR--
+120502002 Heiderscheid          01245  01245                % 02457 RGTR--
+120507001 Tadler                01249  01249                % 02457 RGTR--
+120506001 Ringel                01252  01252                % 02457 RGTR--
+140305001 Kehmen, Bei der Kiir  01259  01259                % 02457 RGTR--
+140301001 Bourscheid, Bei der   01302  01302                % 02457 RGTR--
+140301002 Bourscheid, Bei Mees  01303  01303                % 02457 RGTR--
+140601002 Burden, Haaptstrooss  01307  01307                % 02457 RGTR--
+140702003 Warken, Rue de Burde  01311  01311                % 02457 RGTR--
+140702002 Warken, Café Kaell    01312  01312                % 02457 RGTR--
+140701020 Ettelbruck, Centre H  01312  01312                % 02457 RGTR--
+140701021 Ettelbruck, L.T.Sale  01313  01313                % 02457 RGTR--
+140701024 Ettelbruck, Poste     01314  01314                % 02457 RGTR--
+140701016 Ettelbruck, Gare      01315                       % 02457 RGTR--
+*Z 02458 RGTR--                                             % 02458 RGTR--
+*L 134      120501001 140701016  01441  01515               % 02458 RGTR--
+*R 2 140701016 120501001 140701016  01441  01515            % 02458 RGTR--
+*G 063 120501001 140701016  01441  01515                    % 02458 RGTR--
+*A VE 120501001 140701016 000039  01441  01515              % 02458 RGTR--
+*I FD 120501001 140701016        0002136  01441  01515      % 02458 RGTR--
+120501001 Eschdorf, An der Dri         01441                % 02458 RGTR--
+120501003 Eschdorf, Quatre Ven  01441  01441                % 02458 RGTR--
+120502002 Heiderscheid          01445  01445                % 02458 RGTR--
+120507001 Tadler                01449  01449                % 02458 RGTR--
+120506001 Ringel                01452  01452                % 02458 RGTR--
+140305001 Kehmen, Bei der Kiir  01459  01459                % 02458 RGTR--
+140301001 Bourscheid, Bei der   01502  01502                % 02458 RGTR--
+140301002 Bourscheid, Bei Mees  01503  01503                % 02458 RGTR--
+140601002 Burden, Haaptstrooss  01507  01507                % 02458 RGTR--
+140702003 Warken, Rue de Burde  01511  01511                % 02458 RGTR--
+140702002 Warken, Café Kaell    01512  01512                % 02458 RGTR--
+140701020 Ettelbruck, Centre H  01512  01512                % 02458 RGTR--
+140701021 Ettelbruck, L.T.Sale  01513  01513                % 02458 RGTR--
+140701024 Ettelbruck, Poste     01514  01514                % 02458 RGTR--
+140701016 Ettelbruck, Gare      01515                       % 02458 RGTR--
+*Z 02459 RGTR--                                             % 02459 RGTR--
+*L 134      120501001 140701016  01841  01915               % 02459 RGTR--
+*R 2 140701016 120501001 140701016  01841  01915            % 02459 RGTR--
+*G 063 120501001 140701016  01841  01915                    % 02459 RGTR--
+*A VE 120501001 140701016 000039  01841  01915              % 02459 RGTR--
+*I FD 120501001 140701016        0001328  01841  01915      % 02459 RGTR--
+120501001 Eschdorf, An der Dri         01841                % 02459 RGTR--
+120501003 Eschdorf, Quatre Ven  01841  01841                % 02459 RGTR--
+120502002 Heiderscheid          01845  01845                % 02459 RGTR--
+120507001 Tadler                01849  01849                % 02459 RGTR--
+120506001 Ringel                01852  01852                % 02459 RGTR--
+140305001 Kehmen, Bei der Kiir  01859  01859                % 02459 RGTR--
+140301001 Bourscheid, Bei der   01902  01902                % 02459 RGTR--
+140301002 Bourscheid, Bei Mees  01903  01903                % 02459 RGTR--
+140601002 Burden, Haaptstrooss  01907  01907                % 02459 RGTR--
+140702003 Warken, Rue de Burde  01911  01911                % 02459 RGTR--
+140702002 Warken, Café Kaell    01912  01912                % 02459 RGTR--
+140701020 Ettelbruck, Centre H  01912  01912                % 02459 RGTR--
+140701021 Ettelbruck, L.T.Sale  01913  01913                % 02459 RGTR--
+140701024 Ettelbruck, Poste     01914  01914                % 02459 RGTR--
+140701016 Ettelbruck, Gare      01915                       % 02459 RGTR--
+*Z 02460 RGTR--                                             % 02460 RGTR--
+*L 134      120501001 140701016  02041  02115               % 02460 RGTR--
+*A EY 120501001 140701016 000039  02041  02115              % 02460 RGTR--
+*R 2 140701016 120501001 140701016  02041  02115            % 02460 RGTR--
+*G 063 120501001 140701016  02041  02115                    % 02460 RGTR--
+*A VE 120501001 140701016 000039  02041  02115              % 02460 RGTR--
+*I FD 120501001 140701016        0002137  02041  02115      % 02460 RGTR--
+120501001 Eschdorf, An der Dri         02041                % 02460 RGTR--
+120501003 Eschdorf, Quatre Ven  02041  02041                % 02460 RGTR--
+120502002 Heiderscheid          02045  02045                % 02460 RGTR--
+120507001 Tadler                02049  02049                % 02460 RGTR--
+120506001 Ringel                02052  02052                % 02460 RGTR--
+140305001 Kehmen, Bei der Kiir  02059  02059                % 02460 RGTR--
+140301001 Bourscheid, Bei der   02102  02102                % 02460 RGTR--
+140301002 Bourscheid, Bei Mees  02103  02103                % 02460 RGTR--
+140601002 Burden, Haaptstrooss  02107  02107                % 02460 RGTR--
+140702003 Warken, Rue de Burde  02111  02111                % 02460 RGTR--
+140702002 Warken, Café Kaell    02112  02112                % 02460 RGTR--
+140701020 Ettelbruck, Centre H  02112  02112                % 02460 RGTR--
+140701021 Ettelbruck, L.T.Sale  02113  02113                % 02460 RGTR--
+140701024 Ettelbruck, Poste     02114  02114                % 02460 RGTR--
+140701016 Ettelbruck, Gare      02115                       % 02460 RGTR--
+*Z 02461 RGTR--                                             % 02461 RGTR--
+*L 134      120501001 140701016  02241  02315               % 02461 RGTR--
+*R 2 140701016 120501001 140701016  02241  02315            % 02461 RGTR--
+*G 063 120501001 140701016  02241  02315                    % 02461 RGTR--
+*A VE 120501001 140701016 000039  02241  02315              % 02461 RGTR--
+*I FD 120501001 140701016        0002138  02241  02315      % 02461 RGTR--
+120501001 Eschdorf, An der Dri         02241                % 02461 RGTR--
+120501003 Eschdorf, Quatre Ven  02241  02241                % 02461 RGTR--
+120502002 Heiderscheid          02244  02244                % 02461 RGTR--
+120507001 Tadler                02249  02249                % 02461 RGTR--
+120506001 Ringel                02252  02252                % 02461 RGTR--
+140305001 Kehmen, Bei der Kiir  02259  02259                % 02461 RGTR--
+140301001 Bourscheid, Bei der   02302  02302                % 02461 RGTR--
+140301002 Bourscheid, Bei Mees  02303  02303                % 02461 RGTR--
+140601002 Burden, Haaptstrooss  02307  02307                % 02461 RGTR--
+140702003 Warken, Rue de Burde  02311  02311                % 02461 RGTR--
+140702002 Warken, Café Kaell    02311  02311                % 02461 RGTR--
+140701020 Ettelbruck, Centre H  02312  02312                % 02461 RGTR--
+140701021 Ettelbruck, L.T.Sale  02313  02313                % 02461 RGTR--
+140701024 Ettelbruck, Poste     02314  02314                % 02461 RGTR--
+140701016 Ettelbruck, Gare      02315                       % 02461 RGTR--
+*Z 02462 RGTR--                                             % 02462 RGTR--
+*L 134      120501001 140701016  00541  00615               % 02462 RGTR--
+*R 2 140701016 120501001 140701016  00541  00615            % 02462 RGTR--
+*G 063 120501001 140701016  00541  00615                    % 02462 RGTR--
+*A VE 120501001 140701016 000036  00541  00615              % 02462 RGTR--
+*I FD 120501001 140701016        0000753  00541  00615      % 02462 RGTR--
+120501001 Eschdorf, An der Dri         00541                % 02462 RGTR--
+120501003 Eschdorf, Quatre Ven  00541  00541                % 02462 RGTR--
+120502002 Heiderscheid          00544  00544                % 02462 RGTR--
+120507001 Tadler                00549  00549                % 02462 RGTR--
+120506001 Ringel                00552  00552                % 02462 RGTR--
+140305001 Kehmen, Bei der Kiir  00559  00559                % 02462 RGTR--
+140301001 Bourscheid, Bei der   00602  00602                % 02462 RGTR--
+140301002 Bourscheid, Bei Mees  00603  00603                % 02462 RGTR--
+140601002 Burden, Haaptstrooss  00607  00607                % 02462 RGTR--
+140702003 Warken, Rue de Burde  00611  00611                % 02462 RGTR--
+140702002 Warken, Café Kaell    00611  00611                % 02462 RGTR--
+140701020 Ettelbruck, Centre H  00612  00612                % 02462 RGTR--
+140701021 Ettelbruck, L.T.Sale  00613  00613                % 02462 RGTR--
+140701024 Ettelbruck, Poste     00614  00614                % 02462 RGTR--
+140701016 Ettelbruck, Gare      00615                       % 02462 RGTR--
+*Z 02463 RGTR--                                             % 02463 RGTR--
+*L 134      120501001 140701016  00941  01015               % 02463 RGTR--
+*R 2 140701016 120501001 140701016  00941  01015            % 02463 RGTR--
+*G 063 120501001 140701016  00941  01015                    % 02463 RGTR--
+*A VE 120501001 140701016 000036  00941  01015              % 02463 RGTR--
+*I FD 120501001 140701016        0002139  00941  01015      % 02463 RGTR--
+120501001 Eschdorf, An der Dri         00941                % 02463 RGTR--
+120501003 Eschdorf, Quatre Ven  00941  00941                % 02463 RGTR--
+120502002 Heiderscheid          00945  00945                % 02463 RGTR--
+120507001 Tadler                00949  00949                % 02463 RGTR--
+120506001 Ringel                00952  00952                % 02463 RGTR--
+140305001 Kehmen, Bei der Kiir  00959  00959                % 02463 RGTR--
+140301001 Bourscheid, Bei der   01002  01002                % 02463 RGTR--
+140301002 Bourscheid, Bei Mees  01003  01003                % 02463 RGTR--
+140601002 Burden, Haaptstrooss  01007  01007                % 02463 RGTR--
+140702003 Warken, Rue de Burde  01011  01011                % 02463 RGTR--
+140702002 Warken, Café Kaell    01012  01012                % 02463 RGTR--
+140701020 Ettelbruck, Centre H  01012  01012                % 02463 RGTR--
+140701021 Ettelbruck, L.T.Sale  01013  01013                % 02463 RGTR--
+140701024 Ettelbruck, Poste     01014  01014                % 02463 RGTR--
+140701016 Ettelbruck, Gare      01015                       % 02463 RGTR--
+*Z 02464 RGTR--                                             % 02464 RGTR--
+*L 134      120501001 140701016  01141  01215               % 02464 RGTR--
+*R 2 140701016 120501001 140701016  01141  01215            % 02464 RGTR--
+*G 063 120501001 140701016  01141  01215                    % 02464 RGTR--
+*A VE 120501001 140701016 000036  01141  01215              % 02464 RGTR--
+*I FD 120501001 140701016        0002140  01141  01215      % 02464 RGTR--
+120501001 Eschdorf, An der Dri         01141                % 02464 RGTR--
+120501003 Eschdorf, Quatre Ven  01141  01141                % 02464 RGTR--
+120502002 Heiderscheid          01145  01145                % 02464 RGTR--
+120507001 Tadler                01149  01149                % 02464 RGTR--
+120506001 Ringel                01152  01152                % 02464 RGTR--
+140305001 Kehmen, Bei der Kiir  01159  01159                % 02464 RGTR--
+140301001 Bourscheid, Bei der   01202  01202                % 02464 RGTR--
+140301002 Bourscheid, Bei Mees  01203  01203                % 02464 RGTR--
+140601002 Burden, Haaptstrooss  01207  01207                % 02464 RGTR--
+140702003 Warken, Rue de Burde  01211  01211                % 02464 RGTR--
+140702002 Warken, Café Kaell    01212  01212                % 02464 RGTR--
+140701020 Ettelbruck, Centre H  01212  01212                % 02464 RGTR--
+140701021 Ettelbruck, L.T.Sale  01213  01213                % 02464 RGTR--
+140701024 Ettelbruck, Poste     01214  01214                % 02464 RGTR--
+140701016 Ettelbruck, Gare      01215                       % 02464 RGTR--
+*Z 02465 RGTR--                                             % 02465 RGTR--
+*L 134      120501001 140701016  01341  01415               % 02465 RGTR--
+*R 2 140701016 120501001 140701016  01341  01415            % 02465 RGTR--
+*G 063 120501001 140701016  01341  01415                    % 02465 RGTR--
+*A VE 120501001 140701016 000036  01341  01415              % 02465 RGTR--
+*I FD 120501001 140701016        0002141  01341  01415      % 02465 RGTR--
+120501001 Eschdorf, An der Dri         01341                % 02465 RGTR--
+120501003 Eschdorf, Quatre Ven  01341  01341                % 02465 RGTR--
+120502002 Heiderscheid          01345  01345                % 02465 RGTR--
+120507001 Tadler                01349  01349                % 02465 RGTR--
+120506001 Ringel                01352  01352                % 02465 RGTR--
+140305001 Kehmen, Bei der Kiir  01359  01359                % 02465 RGTR--
+140301001 Bourscheid, Bei der   01402  01402                % 02465 RGTR--
+140301002 Bourscheid, Bei Mees  01403  01403                % 02465 RGTR--
+140601002 Burden, Haaptstrooss  01407  01407                % 02465 RGTR--
+140702003 Warken, Rue de Burde  01411  01411                % 02465 RGTR--
+140702002 Warken, Café Kaell    01412  01412                % 02465 RGTR--
+140701020 Ettelbruck, Centre H  01412  01412                % 02465 RGTR--
+140701021 Ettelbruck, L.T.Sale  01413  01413                % 02465 RGTR--
+140701024 Ettelbruck, Poste     01414  01414                % 02465 RGTR--
+140701016 Ettelbruck, Gare      01415                       % 02465 RGTR--
+*Z 02466 RGTR--                                             % 02466 RGTR--
+*L 134      120501001 140701016  01541  01615               % 02466 RGTR--
+*R 2 140701016 120501001 140701016  01541  01615            % 02466 RGTR--
+*G 063 120501001 140701016  01541  01615                    % 02466 RGTR--
+*A VE 120501001 140701016 000036  01541  01615              % 02466 RGTR--
+*I FD 120501001 140701016        0002142  01541  01615      % 02466 RGTR--
+120501001 Eschdorf, An der Dri         01541                % 02466 RGTR--
+120501003 Eschdorf, Quatre Ven  01541  01541                % 02466 RGTR--
+120502002 Heiderscheid          01545  01545                % 02466 RGTR--
+120507001 Tadler                01549  01549                % 02466 RGTR--
+120506001 Ringel                01552  01552                % 02466 RGTR--
+140305001 Kehmen, Bei der Kiir  01559  01559                % 02466 RGTR--
+140301001 Bourscheid, Bei der   01602  01602                % 02466 RGTR--
+140301002 Bourscheid, Bei Mees  01603  01603                % 02466 RGTR--
+140601002 Burden, Haaptstrooss  01607  01607                % 02466 RGTR--
+140702003 Warken, Rue de Burde  01611  01611                % 02466 RGTR--
+140702002 Warken, Café Kaell    01612  01612                % 02466 RGTR--
+140701020 Ettelbruck, Centre H  01612  01612                % 02466 RGTR--
+140701021 Ettelbruck, L.T.Sale  01613  01613                % 02466 RGTR--
+140701024 Ettelbruck, Poste     01614  01614                % 02466 RGTR--
+140701016 Ettelbruck, Gare      01615                       % 02466 RGTR--
+*Z 02467 RGTR--                                             % 02467 RGTR--
+*L 134      120501001 140701016  01941  02015               % 02467 RGTR--
+*R 2 140701016 120501001 140701016  01941  02015            % 02467 RGTR--
+*G 063 120501001 140701016  01941  02015                    % 02467 RGTR--
+*A VE 120501001 140701016 000036  01941  02015              % 02467 RGTR--
+*I FD 120501001 140701016        0002143  01941  02015      % 02467 RGTR--
+120501001 Eschdorf, An der Dri         01941                % 02467 RGTR--
+120501003 Eschdorf, Quatre Ven  01941  01941                % 02467 RGTR--
+120502002 Heiderscheid          01945  01945                % 02467 RGTR--
+120507001 Tadler                01949  01949                % 02467 RGTR--
+120506001 Ringel                01952  01952                % 02467 RGTR--
+140305001 Kehmen, Bei der Kiir  01959  01959                % 02467 RGTR--
+140301001 Bourscheid, Bei der   02002  02002                % 02467 RGTR--
+140301002 Bourscheid, Bei Mees  02003  02003                % 02467 RGTR--
+140601002 Burden, Haaptstrooss  02007  02007                % 02467 RGTR--
+140702003 Warken, Rue de Burde  02011  02011                % 02467 RGTR--
+140702002 Warken, Café Kaell    02012  02012                % 02467 RGTR--
+140701020 Ettelbruck, Centre H  02012  02012                % 02467 RGTR--
+140701021 Ettelbruck, L.T.Sale  02013  02013                % 02467 RGTR--
+140701024 Ettelbruck, Poste     02014  02014                % 02467 RGTR--
+140701016 Ettelbruck, Gare      02015                       % 02467 RGTR--
+*Z 02468 RGTR--                                             % 02468 RGTR--
+*L 134      120501001 140701016  00441  00515               % 02468 RGTR--
+*A EY 120501001 140701016 000033  00441  00515              % 02468 RGTR--
+*R 2 140701016 120501001 140701016  00441  00515            % 02468 RGTR--
+*G 063 120501001 140701016  00441  00515                    % 02468 RGTR--
+*A VE 120501001 140701016 000033  00441  00515              % 02468 RGTR--
+*I FD 120501001 140701016        0002144  00441  00515      % 02468 RGTR--
+120501001 Eschdorf, An der Dri         00441                % 02468 RGTR--
+120501003 Eschdorf, Quatre Ven  00441  00441                % 02468 RGTR--
+120502002 Heiderscheid          00444  00444                % 02468 RGTR--
+120507001 Tadler                00449  00449                % 02468 RGTR--
+120506001 Ringel                00452  00452                % 02468 RGTR--
+140305001 Kehmen, Bei der Kiir  00459  00459                % 02468 RGTR--
+140301001 Bourscheid, Bei der   00502  00502                % 02468 RGTR--
+140301002 Bourscheid, Bei Mees  00503  00503                % 02468 RGTR--
+140601002 Burden, Haaptstrooss  00507  00507                % 02468 RGTR--
+140702003 Warken, Rue de Burde  00511  00511                % 02468 RGTR--
+140702002 Warken, Café Kaell    00511  00511                % 02468 RGTR--
+140701020 Ettelbruck, Centre H  00512  00512                % 02468 RGTR--
+140701021 Ettelbruck, L.T.Sale  00513  00513                % 02468 RGTR--
+140701024 Ettelbruck, Poste     00514  00514                % 02468 RGTR--
+140701016 Ettelbruck, Gare      00515                       % 02468 RGTR--
+*Z 02469 RGTR--                                             % 02469 RGTR--
+*L 134      120501001 140701016  00841  00915               % 02469 RGTR--
+*R 2 140701016 120501001 140701016  00841  00915            % 02469 RGTR--
+*G 063 120501001 140701016  00841  00915                    % 02469 RGTR--
+*A VE 120501001 140701016 000018  00841  00915              % 02469 RGTR--
+*I FD 120501001 140701016        0002145  00841  00915      % 02469 RGTR--
+120501001 Eschdorf, An der Dri         00841                % 02469 RGTR--
+120501003 Eschdorf, Quatre Ven  00841  00841                % 02469 RGTR--
+120502002 Heiderscheid          00845  00845                % 02469 RGTR--
+120507001 Tadler                00849  00849                % 02469 RGTR--
+120506001 Ringel                00852  00852                % 02469 RGTR--
+140305001 Kehmen, Bei der Kiir  00859  00859                % 02469 RGTR--
+140301001 Bourscheid, Bei der   00902  00902                % 02469 RGTR--
+140301002 Bourscheid, Bei Mees  00903  00903                % 02469 RGTR--
+140601002 Burden, Haaptstrooss  00907  00907                % 02469 RGTR--
+140702003 Warken, Rue de Burde  00911  00911                % 02469 RGTR--
+140702002 Warken, Café Kaell    00912  00912                % 02469 RGTR--
+140701020 Ettelbruck, Centre H  00912  00912                % 02469 RGTR--
+140701021 Ettelbruck, L.T.Sale  00913  00913                % 02469 RGTR--
+140701024 Ettelbruck, Poste     00914  00914                % 02469 RGTR--
+140701016 Ettelbruck, Gare      00915                       % 02469 RGTR--
+*Z 02470 RGTR--                                             % 02470 RGTR--
+*L 134      120501001 140701016  01641  01715               % 02470 RGTR--
+*R 2 140701016 120501001 140701016  01641  01715            % 02470 RGTR--
+*G 063 120501001 140701016  01641  01715                    % 02470 RGTR--
+*A VE 120501001 140701016 000018  01641  01715              % 02470 RGTR--
+*I FD 120501001 140701016        0001241  01641  01715      % 02470 RGTR--
+120501001 Eschdorf, An der Dri         01641                % 02470 RGTR--
+120501003 Eschdorf, Quatre Ven  01641  01641                % 02470 RGTR--
+120502002 Heiderscheid          01645  01645                % 02470 RGTR--
+120507001 Tadler                01649  01649                % 02470 RGTR--
+120506001 Ringel                01652  01652                % 02470 RGTR--
+140305001 Kehmen, Bei der Kiir  01659  01659                % 02470 RGTR--
+140301001 Bourscheid, Bei der   01702  01702                % 02470 RGTR--
+140301002 Bourscheid, Bei Mees  01703  01703                % 02470 RGTR--
+140601002 Burden, Haaptstrooss  01707  01707                % 02470 RGTR--
+140702003 Warken, Rue de Burde  01711  01711                % 02470 RGTR--
+140702002 Warken, Café Kaell    01712  01712                % 02470 RGTR--
+140701020 Ettelbruck, Centre H  01712  01712                % 02470 RGTR--
+140701021 Ettelbruck, L.T.Sale  01713  01713                % 02470 RGTR--
+140701024 Ettelbruck, Poste     01714  01714                % 02470 RGTR--
+140701016 Ettelbruck, Gare      01715                       % 02470 RGTR--
+*Z 02471 RGTR--                                             % 02471 RGTR--
+*L 134      120501001 140701016  00641  00718               % 02471 RGTR--
+*R 2 140701016 120501001 140701016  00641  00718            % 02471 RGTR--
+*G 063 120501001 140701016  00641  00718                    % 02471 RGTR--
+*A VE 120501001 140701016 000036  00641  00718              % 02471 RGTR--
+*I FD 120501001 140701016        0002146  00641  00718      % 02471 RGTR--
+120501001 Eschdorf, An der Dri         00641                % 02471 RGTR--
+120501003 Eschdorf, Quatre Ven  00641  00641                % 02471 RGTR--
+120502002 Heiderscheid          00644  00644                % 02471 RGTR--
+120507001 Tadler                00650  00650                % 02471 RGTR--
+120506001 Ringel                00654  00654                % 02471 RGTR--
+140305001 Kehmen, Bei der Kiir  00700  00700                % 02471 RGTR--
+140301001 Bourscheid, Bei der   00703  00703                % 02471 RGTR--
+140301002 Bourscheid, Bei Mees  00704  00704                % 02471 RGTR--
+140601002 Burden, Haaptstrooss  00709  00709                % 02471 RGTR--
+140702003 Warken, Rue de Burde  00713  00713                % 02471 RGTR--
+140702002 Warken, Café Kaell    00713  00713                % 02471 RGTR--
+140701020 Ettelbruck, Centre H  00714  00714                % 02471 RGTR--
+140701021 Ettelbruck, L.T.Sale  00715  00715                % 02471 RGTR--
+140701024 Ettelbruck, Poste     00716  00716                % 02471 RGTR--
+140701016 Ettelbruck, Gare      00718                       % 02471 RGTR--
+*Z 02472 RGTR--                                             % 02472 RGTR--
+*L 134      120501001 140701016  00741  00818               % 02472 RGTR--
+*R 2 140701016 120501001 140701016  00741  00818            % 02472 RGTR--
+*G 063 120501001 140701016  00741  00818                    % 02472 RGTR--
+*A VE 120501001 140701016 000036  00741  00818              % 02472 RGTR--
+*I FD 120501001 140701016        0002147  00741  00818      % 02472 RGTR--
+120501001 Eschdorf, An der Dri         00741                % 02472 RGTR--
+120501003 Eschdorf, Quatre Ven  00741  00741                % 02472 RGTR--
+120502002 Heiderscheid          00744  00744                % 02472 RGTR--
+120507001 Tadler                00750  00750                % 02472 RGTR--
+120506001 Ringel                00754  00754                % 02472 RGTR--
+140305001 Kehmen, Bei der Kiir  00800  00800                % 02472 RGTR--
+140301001 Bourscheid, Bei der   00803  00803                % 02472 RGTR--
+140301002 Bourscheid, Bei Mees  00804  00804                % 02472 RGTR--
+140601002 Burden, Haaptstrooss  00809  00809                % 02472 RGTR--
+140702003 Warken, Rue de Burde  00813  00813                % 02472 RGTR--
+140702002 Warken, Café Kaell    00813  00813                % 02472 RGTR--
+140701020 Ettelbruck, Centre H  00814  00814                % 02472 RGTR--
+140701021 Ettelbruck, L.T.Sale  00815  00815                % 02472 RGTR--
+140701024 Ettelbruck, Poste     00816  00816                % 02472 RGTR--
+140701016 Ettelbruck, Gare      00818                       % 02472 RGTR--
+*Z 02473 RGTR--                                             % 02473 RGTR--
+*L 134      120501001 140701016  00841  00918               % 02473 RGTR--
+*R 2 140701016 120501001 140701016  00841  00918            % 02473 RGTR--
+*G 063 120501001 140701016  00841  00918                    % 02473 RGTR--
+*A VE 120501001 140701016 000036  00841  00918              % 02473 RGTR--
+*I FD 120501001 140701016        0002145  00841  00918      % 02473 RGTR--
+120501001 Eschdorf, An der Dri         00841                % 02473 RGTR--
+120501003 Eschdorf, Quatre Ven  00841  00841                % 02473 RGTR--
+120502002 Heiderscheid          00845  00845                % 02473 RGTR--
+120507001 Tadler                00850  00850                % 02473 RGTR--
+120506001 Ringel                00854  00854                % 02473 RGTR--
+140305001 Kehmen, Bei der Kiir  00900  00900                % 02473 RGTR--
+140301001 Bourscheid, Bei der   00903  00903                % 02473 RGTR--
+140301002 Bourscheid, Bei Mees  00904  00904                % 02473 RGTR--
+140601002 Burden, Haaptstrooss  00909  00909                % 02473 RGTR--
+140702003 Warken, Rue de Burde  00913  00913                % 02473 RGTR--
+140702002 Warken, Café Kaell    00914  00914                % 02473 RGTR--
+140701020 Ettelbruck, Centre H  00914  00914                % 02473 RGTR--
+140701021 Ettelbruck, L.T.Sale  00915  00915                % 02473 RGTR--
+140701024 Ettelbruck, Poste     00916  00916                % 02473 RGTR--
+140701016 Ettelbruck, Gare      00918                       % 02473 RGTR--
+*Z 02474 RGTR--                                             % 02474 RGTR--
+*L 134      120501001 140701016  01641  01718               % 02474 RGTR--
+*R 2 140701016 120501001 140701016  01641  01718            % 02474 RGTR--
+*G 063 120501001 140701016  01641  01718                    % 02474 RGTR--
+*A VE 120501001 140701016 000036  01641  01718              % 02474 RGTR--
+*I FD 120501001 140701016        0001241  01641  01718      % 02474 RGTR--
+120501001 Eschdorf, An der Dri         01641                % 02474 RGTR--
+120501003 Eschdorf, Quatre Ven  01641  01641                % 02474 RGTR--
+120502002 Heiderscheid          01645  01645                % 02474 RGTR--
+120507001 Tadler                01650  01650                % 02474 RGTR--
+120506001 Ringel                01654  01654                % 02474 RGTR--
+140305001 Kehmen, Bei der Kiir  01700  01700                % 02474 RGTR--
+140301001 Bourscheid, Bei der   01703  01703                % 02474 RGTR--
+140301002 Bourscheid, Bei Mees  01704  01704                % 02474 RGTR--
+140601002 Burden, Haaptstrooss  01709  01709                % 02474 RGTR--
+140702003 Warken, Rue de Burde  01713  01713                % 02474 RGTR--
+140702002 Warken, Café Kaell    01714  01714                % 02474 RGTR--
+140701020 Ettelbruck, Centre H  01714  01714                % 02474 RGTR--
+140701021 Ettelbruck, L.T.Sale  01715  01715                % 02474 RGTR--
+140701024 Ettelbruck, Poste     01716  01716                % 02474 RGTR--
+140701016 Ettelbruck, Gare      01718                       % 02474 RGTR--
+*Z 02475 RGTR--                                             % 02475 RGTR--
+*L 134      120501001 140701016  01741  01818               % 02475 RGTR--
+*R 2 140701016 120501001 140701016  01741  01818            % 02475 RGTR--
+*G 063 120501001 140701016  01741  01818                    % 02475 RGTR--
+*A VE 120501001 140701016 000036  01741  01818              % 02475 RGTR--
+*I FD 120501001 140701016        0002148  01741  01818      % 02475 RGTR--
+120501001 Eschdorf, An der Dri         01741                % 02475 RGTR--
+120501003 Eschdorf, Quatre Ven  01741  01741                % 02475 RGTR--
+120502002 Heiderscheid          01745  01745                % 02475 RGTR--
+120507001 Tadler                01750  01750                % 02475 RGTR--
+120506001 Ringel                01754  01754                % 02475 RGTR--
+140305001 Kehmen, Bei der Kiir  01800  01800                % 02475 RGTR--
+140301001 Bourscheid, Bei der   01803  01803                % 02475 RGTR--
+140301002 Bourscheid, Bei Mees  01804  01804                % 02475 RGTR--
+140601002 Burden, Haaptstrooss  01809  01809                % 02475 RGTR--
+140702003 Warken, Rue de Burde  01813  01813                % 02475 RGTR--
+140702002 Warken, Café Kaell    01814  01814                % 02475 RGTR--
+140701020 Ettelbruck, Centre H  01814  01814                % 02475 RGTR--
+140701021 Ettelbruck, L.T.Sale  01815  01815                % 02475 RGTR--
+140701024 Ettelbruck, Poste     01816  01816                % 02475 RGTR--
+140701016 Ettelbruck, Gare      01818                       % 02475 RGTR--
+*Z 02476 RGTR--                                             % 02476 RGTR--
+*L 134      120501001 140701016  00711  00748               % 02476 RGTR--
+*R 2 140701016 120501001 140701016  00711  00748            % 02476 RGTR--
+*G 063 120501001 140701016  00711  00748                    % 02476 RGTR--
+*A VE 120501001 140701016 000033  00711  00748              % 02476 RGTR--
+*I FD 120501001 140701016        0002149  00711  00748      % 02476 RGTR--
+120501001 Eschdorf, An der Dri         00711                % 02476 RGTR--
+120501003 Eschdorf, Quatre Ven  00711  00711                % 02476 RGTR--
+120502002 Heiderscheid          00714  00714                % 02476 RGTR--
+120507001 Tadler                00720  00720                % 02476 RGTR--
+120506001 Ringel                00724  00724                % 02476 RGTR--
+140305001 Kehmen, Bei der Kiir  00730  00730                % 02476 RGTR--
+140301001 Bourscheid, Bei der   00733  00733                % 02476 RGTR--
+140301002 Bourscheid, Bei Mees  00734  00734                % 02476 RGTR--
+140601002 Burden, Haaptstrooss  00739  00739                % 02476 RGTR--
+140702003 Warken, Rue de Burde  00743  00743                % 02476 RGTR--
+140702002 Warken, Café Kaell    00743  00743                % 02476 RGTR--
+140701020 Ettelbruck, Centre H  00744  00744                % 02476 RGTR--
+140701021 Ettelbruck, L.T.Sale  00745  00745                % 02476 RGTR--
+140701024 Ettelbruck, Poste     00746  00746                % 02476 RGTR--
+140701016 Ettelbruck, Gare      00748                       % 02476 RGTR--
+*Z 02477 RGTR--                                             % 02477 RGTR--
+*L 134      140701016 120501001  00945  01022               % 02477 RGTR--
+*R 1 120501001 140701016 120501001  00945  01022            % 02477 RGTR--
+*G 063 140701016 120501001  00945  01022                    % 02477 RGTR--
+*A VE 140701016 120501001 000040  00945  01022              % 02477 RGTR--
+*I FD 140701016 120501001        0001954  00945  01022      % 02477 RGTR--
+140701016 Ettelbruck, Gare             00945                % 02477 RGTR--
+140701001 Ettelbruck, Anc. Cli  00946  00946                % 02477 RGTR--
+140701021 Ettelbruck, L.T.Sale  00948  00948                % 02477 RGTR--
+140701020 Ettelbruck, Centre H  00949  00949                % 02477 RGTR--
+140702002 Warken, Café Kaell    00950  00950                % 02477 RGTR--
+140702003 Warken, Rue de Burde  00950  00950                % 02477 RGTR--
+140601002 Burden, Haaptstrooss  00954  00954                % 02477 RGTR--
+140301002 Bourscheid, Bei Mees  00959  00959                % 02477 RGTR--
+140301001 Bourscheid, Bei der   01000  01000                % 02477 RGTR--
+140305001 Kehmen, Bei der Kiir  01003  01003                % 02477 RGTR--
+120506001 Ringel                01009  01009                % 02477 RGTR--
+120507001 Tadler                01013  01013                % 02477 RGTR--
+120502002 Heiderscheid          01018  01018                % 02477 RGTR--
+120501003 Eschdorf, Quatre Ven  01021  01021                % 02477 RGTR--
+120501001 Eschdorf, An der Dri  01022                       % 02477 RGTR--
+*Z 02478 RGTR--                                             % 02478 RGTR--
+*L 134      140701016 120501001  01145  01222               % 02478 RGTR--
+*R 1 120501001 140701016 120501001  01145  01222            % 02478 RGTR--
+*G 063 140701016 120501001  01145  01222                    % 02478 RGTR--
+*A VE 140701016 120501001 000040  01145  01222              % 02478 RGTR--
+*I FD 140701016 120501001        0001956  01145  01222      % 02478 RGTR--
+140701016 Ettelbruck, Gare             01145                % 02478 RGTR--
+140701001 Ettelbruck, Anc. Cli  01146  01146                % 02478 RGTR--
+140701021 Ettelbruck, L.T.Sale  01148  01148                % 02478 RGTR--
+140701020 Ettelbruck, Centre H  01149  01149                % 02478 RGTR--
+140702002 Warken, Café Kaell    01150  01150                % 02478 RGTR--
+140702003 Warken, Rue de Burde  01150  01150                % 02478 RGTR--
+140601002 Burden, Haaptstrooss  01154  01154                % 02478 RGTR--
+140301002 Bourscheid, Bei Mees  01159  01159                % 02478 RGTR--
+140301001 Bourscheid, Bei der   01200  01200                % 02478 RGTR--
+140305001 Kehmen, Bei der Kiir  01203  01203                % 02478 RGTR--
+120506001 Ringel                01209  01209                % 02478 RGTR--
+120507001 Tadler                01213  01213                % 02478 RGTR--
+120502002 Heiderscheid          01218  01218                % 02478 RGTR--
+120501003 Eschdorf, Quatre Ven  01221  01221                % 02478 RGTR--
+120501001 Eschdorf, An der Dri  01222                       % 02478 RGTR--
+*Z 02479 RGTR--                                             % 02479 RGTR--
+*L 134      140701016 120501001  01345  01422               % 02479 RGTR--
+*R 1 120501001 140701016 120501001  01345  01422            % 02479 RGTR--
+*G 063 140701016 120501001  01345  01422                    % 02479 RGTR--
+*A VE 140701016 120501001 000040  01345  01422              % 02479 RGTR--
+*I FD 140701016 120501001        0001958  01345  01422      % 02479 RGTR--
+140701016 Ettelbruck, Gare             01345                % 02479 RGTR--
+140701001 Ettelbruck, Anc. Cli  01346  01346                % 02479 RGTR--
+140701021 Ettelbruck, L.T.Sale  01348  01348                % 02479 RGTR--
+140701020 Ettelbruck, Centre H  01349  01349                % 02479 RGTR--
+140702002 Warken, Café Kaell    01350  01350                % 02479 RGTR--
+140702003 Warken, Rue de Burde  01350  01350                % 02479 RGTR--
+140601002 Burden, Haaptstrooss  01354  01354                % 02479 RGTR--
+140301002 Bourscheid, Bei Mees  01359  01359                % 02479 RGTR--
+140301001 Bourscheid, Bei der   01400  01400                % 02479 RGTR--
+140305001 Kehmen, Bei der Kiir  01403  01403                % 02479 RGTR--
+120506001 Ringel                01409  01409                % 02479 RGTR--
+120507001 Tadler                01413  01413                % 02479 RGTR--
+120502002 Heiderscheid          01418  01418                % 02479 RGTR--
+120501003 Eschdorf, Quatre Ven  01421  01421                % 02479 RGTR--
+120501001 Eschdorf, An der Dri  01422                       % 02479 RGTR--
+*Z 02480 RGTR--                                             % 02480 RGTR--
+*L 134      140701016 120501001  01545  01622               % 02480 RGTR--
+*R 1 120501001 140701016 120501001  01545  01622            % 02480 RGTR--
+*G 063 140701016 120501001  01545  01622                    % 02480 RGTR--
+*A VE 140701016 120501001 000040  01545  01622              % 02480 RGTR--
+*I FD 140701016 120501001        0001960  01545  01622      % 02480 RGTR--
+140701016 Ettelbruck, Gare             01545                % 02480 RGTR--
+140701001 Ettelbruck, Anc. Cli  01546  01546                % 02480 RGTR--
+140701021 Ettelbruck, L.T.Sale  01548  01548                % 02480 RGTR--
+140701020 Ettelbruck, Centre H  01549  01549                % 02480 RGTR--
+140702002 Warken, Café Kaell    01550  01550                % 02480 RGTR--
+140702003 Warken, Rue de Burde  01550  01550                % 02480 RGTR--
+140601002 Burden, Haaptstrooss  01554  01554                % 02480 RGTR--
+140301002 Bourscheid, Bei Mees  01559  01559                % 02480 RGTR--
+140301001 Bourscheid, Bei der   01600  01600                % 02480 RGTR--
+140305001 Kehmen, Bei der Kiir  01603  01603                % 02480 RGTR--
+120506001 Ringel                01609  01609                % 02480 RGTR--
+120507001 Tadler                01613  01613                % 02480 RGTR--
+120502002 Heiderscheid          01618  01618                % 02480 RGTR--
+120501003 Eschdorf, Quatre Ven  01621  01621                % 02480 RGTR--
+120501001 Eschdorf, An der Dri  01622                       % 02480 RGTR--
+*Z 02481 RGTR--                                             % 02481 RGTR--
+*L 134      140701016 120501001  01945  02022               % 02481 RGTR--
+*R 1 120501001 140701016 120501001  01945  02022            % 02481 RGTR--
+*G 063 140701016 120501001  01945  02022                    % 02481 RGTR--
+*A VE 140701016 120501001 000040  01945  02022              % 02481 RGTR--
+*I FD 140701016 120501001        0001968  01945  02022      % 02481 RGTR--
+140701016 Ettelbruck, Gare             01945                % 02481 RGTR--
+140701001 Ettelbruck, Anc. Cli  01946  01946                % 02481 RGTR--
+140701021 Ettelbruck, L.T.Sale  01948  01948                % 02481 RGTR--
+140701020 Ettelbruck, Centre H  01949  01949                % 02481 RGTR--
+140702002 Warken, Café Kaell    01950  01950                % 02481 RGTR--
+140702003 Warken, Rue de Burde  01950  01950                % 02481 RGTR--
+140601002 Burden, Haaptstrooss  01954  01954                % 02481 RGTR--
+140301002 Bourscheid, Bei Mees  01959  01959                % 02481 RGTR--
+140301001 Bourscheid, Bei der   02000  02000                % 02481 RGTR--
+140305001 Kehmen, Bei der Kiir  02003  02003                % 02481 RGTR--
+120506001 Ringel                02009  02009                % 02481 RGTR--
+120507001 Tadler                02013  02013                % 02481 RGTR--
+120502002 Heiderscheid          02018  02018                % 02481 RGTR--
+120501003 Eschdorf, Quatre Ven  02021  02021                % 02481 RGTR--
+120501001 Eschdorf, An der Dri  02022                       % 02481 RGTR--
+*Z 02482 RGTR--                                             % 02482 RGTR--
+*L 134      140701016 120501001  02145  02222               % 02482 RGTR--
+*R 1 120501001 140701016 120501001  02145  02222            % 02482 RGTR--
+*G 063 140701016 120501001  02145  02222                    % 02482 RGTR--
+*A VE 140701016 120501001 000040  02145  02222              % 02482 RGTR--
+*I FD 140701016 120501001        0001430  02145  02222      % 02482 RGTR--
+140701016 Ettelbruck, Gare             02145                % 02482 RGTR--
+140701001 Ettelbruck, Anc. Cli  02146  02146                % 02482 RGTR--
+140701021 Ettelbruck, L.T.Sale  02148  02148                % 02482 RGTR--
+140701020 Ettelbruck, Centre H  02149  02149                % 02482 RGTR--
+140702002 Warken, Café Kaell    02150  02150                % 02482 RGTR--
+140702003 Warken, Rue de Burde  02150  02150                % 02482 RGTR--
+140601002 Burden, Haaptstrooss  02154  02154                % 02482 RGTR--
+140301002 Bourscheid, Bei Mees  02159  02159                % 02482 RGTR--
+140301001 Bourscheid, Bei der   02200  02200                % 02482 RGTR--
+140305001 Kehmen, Bei der Kiir  02203  02203                % 02482 RGTR--
+120506001 Ringel                02209  02209                % 02482 RGTR--
+120507001 Tadler                02213  02213                % 02482 RGTR--
+120502002 Heiderscheid          02218  02218                % 02482 RGTR--
+120501003 Eschdorf, Quatre Ven  02221  02221                % 02482 RGTR--
+120501001 Eschdorf, An der Dri  02222                       % 02482 RGTR--
+*Z 02483 RGTR--                                             % 02483 RGTR--
+*L 134      140701016 120501001  00845  00922               % 02483 RGTR--
+*R 1 120501001 140701016 120501001  00845  00922            % 02483 RGTR--
+*G 063 140701016 120501001  00845  00922                    % 02483 RGTR--
+*A VE 140701016 120501001 000038  00845  00922              % 02483 RGTR--
+*I FD 140701016 120501001        0001966  00845  00922      % 02483 RGTR--
+140701016 Ettelbruck, Gare             00845                % 02483 RGTR--
+140701001 Ettelbruck, Anc. Cli  00846  00846                % 02483 RGTR--
+140701021 Ettelbruck, L.T.Sale  00848  00848                % 02483 RGTR--
+140701020 Ettelbruck, Centre H  00849  00849                % 02483 RGTR--
+140702002 Warken, Café Kaell    00850  00850                % 02483 RGTR--
+140702003 Warken, Rue de Burde  00850  00850                % 02483 RGTR--
+140601002 Burden, Haaptstrooss  00854  00854                % 02483 RGTR--
+140301002 Bourscheid, Bei Mees  00859  00859                % 02483 RGTR--
+140301001 Bourscheid, Bei der   00900  00900                % 02483 RGTR--
+140305001 Kehmen, Bei der Kiir  00903  00903                % 02483 RGTR--
+120506001 Ringel                00909  00909                % 02483 RGTR--
+120507001 Tadler                00913  00913                % 02483 RGTR--
+120502002 Heiderscheid          00918  00918                % 02483 RGTR--
+120501003 Eschdorf, Quatre Ven  00921  00921                % 02483 RGTR--
+120501001 Eschdorf, An der Dri  00922                       % 02483 RGTR--
+*Z 02484 RGTR--                                             % 02484 RGTR--
+*L 134      140701016 120501001  01045  01122               % 02484 RGTR--
+*R 1 120501001 140701016 120501001  01045  01122            % 02484 RGTR--
+*G 063 140701016 120501001  01045  01122                    % 02484 RGTR--
+*A VE 140701016 120501001 000038  01045  01122              % 02484 RGTR--
+*I FD 140701016 120501001        0001955  01045  01122      % 02484 RGTR--
+140701016 Ettelbruck, Gare             01045                % 02484 RGTR--
+140701001 Ettelbruck, Anc. Cli  01046  01046                % 02484 RGTR--
+140701021 Ettelbruck, L.T.Sale  01048  01048                % 02484 RGTR--
+140701020 Ettelbruck, Centre H  01049  01049                % 02484 RGTR--
+140702002 Warken, Café Kaell    01050  01050                % 02484 RGTR--
+140702003 Warken, Rue de Burde  01050  01050                % 02484 RGTR--
+140601002 Burden, Haaptstrooss  01054  01054                % 02484 RGTR--
+140301002 Bourscheid, Bei Mees  01059  01059                % 02484 RGTR--
+140301001 Bourscheid, Bei der   01100  01100                % 02484 RGTR--
+140305001 Kehmen, Bei der Kiir  01103  01103                % 02484 RGTR--
+120506001 Ringel                01109  01109                % 02484 RGTR--
+120507001 Tadler                01113  01113                % 02484 RGTR--
+120502002 Heiderscheid          01118  01118                % 02484 RGTR--
+120501003 Eschdorf, Quatre Ven  01121  01121                % 02484 RGTR--
+120501001 Eschdorf, An der Dri  01122                       % 02484 RGTR--
+*Z 02485 RGTR--                                             % 02485 RGTR--
+*L 134      140701016 120501001  01245  01322               % 02485 RGTR--
+*R 1 120501001 140701016 120501001  01245  01322            % 02485 RGTR--
+*G 063 140701016 120501001  01245  01322                    % 02485 RGTR--
+*A VE 140701016 120501001 000038  01245  01322              % 02485 RGTR--
+*I FD 140701016 120501001        0001957  01245  01322      % 02485 RGTR--
+140701016 Ettelbruck, Gare             01245                % 02485 RGTR--
+140701001 Ettelbruck, Anc. Cli  01246  01246                % 02485 RGTR--
+140701021 Ettelbruck, L.T.Sale  01248  01248                % 02485 RGTR--
+140701020 Ettelbruck, Centre H  01249  01249                % 02485 RGTR--
+140702002 Warken, Café Kaell    01250  01250                % 02485 RGTR--
+140702003 Warken, Rue de Burde  01250  01250                % 02485 RGTR--
+140601002 Burden, Haaptstrooss  01254  01254                % 02485 RGTR--
+140301002 Bourscheid, Bei Mees  01259  01259                % 02485 RGTR--
+140301001 Bourscheid, Bei der   01300  01300                % 02485 RGTR--
+140305001 Kehmen, Bei der Kiir  01303  01303                % 02485 RGTR--
+120506001 Ringel                01309  01309                % 02485 RGTR--
+120507001 Tadler                01313  01313                % 02485 RGTR--
+120502002 Heiderscheid          01318  01318                % 02485 RGTR--
+120501003 Eschdorf, Quatre Ven  01321  01321                % 02485 RGTR--
+120501001 Eschdorf, An der Dri  01322                       % 02485 RGTR--
+*Z 02486 RGTR--                                             % 02486 RGTR--
+*L 134      140701016 120501001  01445  01522               % 02486 RGTR--
+*A EX 140701016 120501001 000038  01445  01522              % 02486 RGTR--
+*R 1 120501001 140701016 120501001  01445  01522            % 02486 RGTR--
+*G 063 140701016 120501001  01445  01522                    % 02486 RGTR--
+*A VE 140701016 120501001 000038  01445  01522              % 02486 RGTR--
+*I FD 140701016 120501001        0001959  01445  01522      % 02486 RGTR--
+140701016 Ettelbruck, Gare             01445                % 02486 RGTR--
+140701001 Ettelbruck, Anc. Cli  01446  01446                % 02486 RGTR--
+140701021 Ettelbruck, L.T.Sale  01448  01448                % 02486 RGTR--
+140701020 Ettelbruck, Centre H  01449  01449                % 02486 RGTR--
+140702002 Warken, Café Kaell    01450  01450                % 02486 RGTR--
+140702003 Warken, Rue de Burde  01450  01450                % 02486 RGTR--
+140601002 Burden, Haaptstrooss  01454  01454                % 02486 RGTR--
+140301002 Bourscheid, Bei Mees  01459  01459                % 02486 RGTR--
+140301001 Bourscheid, Bei der   01500  01500                % 02486 RGTR--
+140305001 Kehmen, Bei der Kiir  01503  01503                % 02486 RGTR--
+120506001 Ringel                01509  01509                % 02486 RGTR--
+120507001 Tadler                01513  01513                % 02486 RGTR--
+120502002 Heiderscheid          01518  01518                % 02486 RGTR--
+120501003 Eschdorf, Quatre Ven  01521  01521                % 02486 RGTR--
+120501001 Eschdorf, An der Dri  01522                       % 02486 RGTR--
+*Z 02487 RGTR--                                             % 02487 RGTR--
+*L 134      140701016 120501001  01845  01922               % 02487 RGTR--
+*R 1 120501001 140701016 120501001  01845  01922            % 02487 RGTR--
+*G 063 140701016 120501001  01845  01922                    % 02487 RGTR--
+*A VE 140701016 120501001 000038  01845  01922              % 02487 RGTR--
+*I FD 140701016 120501001        0001288  01845  01922      % 02487 RGTR--
+140701016 Ettelbruck, Gare             01845                % 02487 RGTR--
+140701001 Ettelbruck, Anc. Cli  01846  01846                % 02487 RGTR--
+140701021 Ettelbruck, L.T.Sale  01848  01848                % 02487 RGTR--
+140701020 Ettelbruck, Centre H  01849  01849                % 02487 RGTR--
+140702002 Warken, Café Kaell    01850  01850                % 02487 RGTR--
+140702003 Warken, Rue de Burde  01850  01850                % 02487 RGTR--
+140601002 Burden, Haaptstrooss  01854  01854                % 02487 RGTR--
+140301002 Bourscheid, Bei Mees  01859  01859                % 02487 RGTR--
+140301001 Bourscheid, Bei der   01900  01900                % 02487 RGTR--
+140305001 Kehmen, Bei der Kiir  01903  01903                % 02487 RGTR--
+120506001 Ringel                01909  01909                % 02487 RGTR--
+120507001 Tadler                01913  01913                % 02487 RGTR--
+120502002 Heiderscheid          01918  01918                % 02487 RGTR--
+120501003 Eschdorf, Quatre Ven  01921  01921                % 02487 RGTR--
+120501001 Eschdorf, An der Dri  01922                       % 02487 RGTR--
+*Z 02488 RGTR--                                             % 02488 RGTR--
+*L 134      140701016 120501001  02045  02122               % 02488 RGTR--
+*R 1 120501001 140701016 120501001  02045  02122            % 02488 RGTR--
+*G 063 140701016 120501001  02045  02122                    % 02488 RGTR--
+*A VE 140701016 120501001 000038  02045  02122              % 02488 RGTR--
+*I FD 140701016 120501001        0001961  02045  02122      % 02488 RGTR--
+140701016 Ettelbruck, Gare             02045                % 02488 RGTR--
+140701001 Ettelbruck, Anc. Cli  02046  02046                % 02488 RGTR--
+140701021 Ettelbruck, L.T.Sale  02048  02048                % 02488 RGTR--
+140701020 Ettelbruck, Centre H  02049  02049                % 02488 RGTR--
+140702002 Warken, Café Kaell    02050  02050                % 02488 RGTR--
+140702003 Warken, Rue de Burde  02050  02050                % 02488 RGTR--
+140601002 Burden, Haaptstrooss  02054  02054                % 02488 RGTR--
+140301002 Bourscheid, Bei Mees  02059  02059                % 02488 RGTR--
+140301001 Bourscheid, Bei der   02100  02100                % 02488 RGTR--
+140305001 Kehmen, Bei der Kiir  02103  02103                % 02488 RGTR--
+120506001 Ringel                02109  02109                % 02488 RGTR--
+120507001 Tadler                02113  02113                % 02488 RGTR--
+120502002 Heiderscheid          02118  02118                % 02488 RGTR--
+120501003 Eschdorf, Quatre Ven  02121  02121                % 02488 RGTR--
+120501001 Eschdorf, An der Dri  02122                       % 02488 RGTR--
+*Z 02489 RGTR--                                             % 02489 RGTR--
+*L 134      140701016 120501001  02345  02422               % 02489 RGTR--
+*R 1 120501001 140701016 120501001  02345  02422            % 02489 RGTR--
+*G 063 140701016 120501001  02345  02422                    % 02489 RGTR--
+*A VE 140701016 120501001 000038  02345  02422              % 02489 RGTR--
+*I FD 140701016 120501001        0001963  02345  02422      % 02489 RGTR--
+140701016 Ettelbruck, Gare             02345                % 02489 RGTR--
+140701001 Ettelbruck, Anc. Cli  02346  02346                % 02489 RGTR--
+140701021 Ettelbruck, L.T.Sale  02348  02348                % 02489 RGTR--
+140701020 Ettelbruck, Centre H  02349  02349                % 02489 RGTR--
+140702002 Warken, Café Kaell    02350  02350                % 02489 RGTR--
+140702003 Warken, Rue de Burde  02350  02350                % 02489 RGTR--
+140601002 Burden, Haaptstrooss  02354  02354                % 02489 RGTR--
+140301002 Bourscheid, Bei Mees  02359  02359                % 02489 RGTR--
+140301001 Bourscheid, Bei der   02400  02400                % 02489 RGTR--
+140305001 Kehmen, Bei der Kiir  02403  02403                % 02489 RGTR--
+120506001 Ringel                02409  02409                % 02489 RGTR--
+120507001 Tadler                02413  02413                % 02489 RGTR--
+120502002 Heiderscheid          02418  02418                % 02489 RGTR--
+120501003 Eschdorf, Quatre Ven  02421  02421                % 02489 RGTR--
+120501001 Eschdorf, An der Dri  02422                       % 02489 RGTR--
+*Z 02490 RGTR--                                             % 02490 RGTR--
+*L 134      140701016 120501001  00745  00822               % 02490 RGTR--
+*R 1 120501001 140701016 120501001  00745  00822            % 02490 RGTR--
+*G 063 140701016 120501001  00745  00822                    % 02490 RGTR--
+*A VE 140701016 120501001 000016  00745  00822              % 02490 RGTR--
+*I FD 140701016 120501001        0001965  00745  00822      % 02490 RGTR--
+140701016 Ettelbruck, Gare             00745                % 02490 RGTR--
+140701001 Ettelbruck, Anc. Cli  00746  00746                % 02490 RGTR--
+140701021 Ettelbruck, L.T.Sale  00748  00748                % 02490 RGTR--
+140701020 Ettelbruck, Centre H  00749  00749                % 02490 RGTR--
+140702002 Warken, Café Kaell    00750  00750                % 02490 RGTR--
+140702003 Warken, Rue de Burde  00750  00750                % 02490 RGTR--
+140601002 Burden, Haaptstrooss  00754  00754                % 02490 RGTR--
+140301002 Bourscheid, Bei Mees  00759  00759                % 02490 RGTR--
+140301001 Bourscheid, Bei der   00800  00800                % 02490 RGTR--
+140305001 Kehmen, Bei der Kiir  00803  00803                % 02490 RGTR--
+120506001 Ringel                00809  00809                % 02490 RGTR--
+120507001 Tadler                00813  00813                % 02490 RGTR--
+120502002 Heiderscheid          00818  00818                % 02490 RGTR--
+120501003 Eschdorf, Quatre Ven  00821  00821                % 02490 RGTR--
+120501001 Eschdorf, An der Dri  00822                       % 02490 RGTR--
+*Z 02491 RGTR--                                             % 02491 RGTR--
+*L 134      140701016 120501001  01745  01822               % 02491 RGTR--
+*R 1 120501001 140701016 120501001  01745  01822            % 02491 RGTR--
+*G 063 140701016 120501001  01745  01822                    % 02491 RGTR--
+*A VE 140701016 120501001 000016  01745  01822              % 02491 RGTR--
+*I FD 140701016 120501001        0001967  01745  01822      % 02491 RGTR--
+140701016 Ettelbruck, Gare             01745                % 02491 RGTR--
+140701001 Ettelbruck, Anc. Cli  01746  01746                % 02491 RGTR--
+140701021 Ettelbruck, L.T.Sale  01748  01748                % 02491 RGTR--
+140701020 Ettelbruck, Centre H  01749  01749                % 02491 RGTR--
+140702002 Warken, Café Kaell    01750  01750                % 02491 RGTR--
+140702003 Warken, Rue de Burde  01750  01750                % 02491 RGTR--
+140601002 Burden, Haaptstrooss  01754  01754                % 02491 RGTR--
+140301002 Bourscheid, Bei Mees  01759  01759                % 02491 RGTR--
+140301001 Bourscheid, Bei der   01800  01800                % 02491 RGTR--
+140305001 Kehmen, Bei der Kiir  01803  01803                % 02491 RGTR--
+120506001 Ringel                01809  01809                % 02491 RGTR--
+120507001 Tadler                01813  01813                % 02491 RGTR--
+120502002 Heiderscheid          01818  01818                % 02491 RGTR--
+120501003 Eschdorf, Quatre Ven  01821  01821                % 02491 RGTR--
+120501001 Eschdorf, An der Dri  01822                       % 02491 RGTR--
+*Z 02492 RGTR--                                             % 02492 RGTR--
+*L 134      140701016 120501001  00545  00622               % 02492 RGTR--
+*R 1 120501001 140701016 120501001  00545  00622            % 02492 RGTR--
+*G 063 140701016 120501001  00545  00622                    % 02492 RGTR--
+*A VE 140701016 120501001 000034  00545  00622              % 02492 RGTR--
+*I FD 140701016 120501001        0001953  00545  00622      % 02492 RGTR--
+140701016 Ettelbruck, Gare             00545                % 02492 RGTR--
+140701001 Ettelbruck, Anc. Cli  00546  00546                % 02492 RGTR--
+140701021 Ettelbruck, L.T.Sale  00548  00548                % 02492 RGTR--
+140701020 Ettelbruck, Centre H  00549  00549                % 02492 RGTR--
+140702002 Warken, Café Kaell    00550  00550                % 02492 RGTR--
+140702003 Warken, Rue de Burde  00550  00550                % 02492 RGTR--
+140601002 Burden, Haaptstrooss  00554  00554                % 02492 RGTR--
+140301002 Bourscheid, Bei Mees  00559  00559                % 02492 RGTR--
+140301001 Bourscheid, Bei der   00600  00600                % 02492 RGTR--
+140305001 Kehmen, Bei der Kiir  00603  00603                % 02492 RGTR--
+120506001 Ringel                00609  00609                % 02492 RGTR--
+120507001 Tadler                00613  00613                % 02492 RGTR--
+120502002 Heiderscheid          00618  00618                % 02492 RGTR--
+120501003 Eschdorf, Quatre Ven  00621  00621                % 02492 RGTR--
+120501001 Eschdorf, An der Dri  00622                       % 02492 RGTR--
+*Z 02493 RGTR--                                             % 02493 RGTR--
+*L 134      140701016 120501001  01525  01602               % 02493 RGTR--
+*R 1 120501001 140701016 120501001  01525  01602            % 02493 RGTR--
+*G 063 140701016 120501001  01525  01602                    % 02493 RGTR--
+*A VE 140701016 120501001 000034  01525  01602              % 02493 RGTR--
+*I FD 140701016 120501001        0002134  01525  01602      % 02493 RGTR--
+140701016 Ettelbruck, Gare             01525                % 02493 RGTR--
+140701001 Ettelbruck, Anc. Cli  01526  01526                % 02493 RGTR--
+140701021 Ettelbruck, L.T.Sale  01528  01528                % 02493 RGTR--
+140701020 Ettelbruck, Centre H  01529  01529                % 02493 RGTR--
+140702002 Warken, Café Kaell    01530  01530                % 02493 RGTR--
+140702003 Warken, Rue de Burde  01530  01530                % 02493 RGTR--
+140601002 Burden, Haaptstrooss  01534  01534                % 02493 RGTR--
+140301002 Bourscheid, Bei Mees  01539  01539                % 02493 RGTR--
+140301001 Bourscheid, Bei der   01540  01540                % 02493 RGTR--
+140305001 Kehmen, Bei der Kiir  01543  01543                % 02493 RGTR--
+120506001 Ringel                01549  01549                % 02493 RGTR--
+120507001 Tadler                01553  01553                % 02493 RGTR--
+120502002 Heiderscheid          01558  01558                % 02493 RGTR--
+120501003 Eschdorf, Quatre Ven  01601  01601                % 02493 RGTR--
+120501001 Eschdorf, An der Dri  01602                       % 02493 RGTR--
+*Z 02494 RGTR--                                             % 02494 RGTR--
+*L 134      140701016 120501001  00645  00723               % 02494 RGTR--
+*A EX 140701016 120501001 000038  00645  00723              % 02494 RGTR--
+*R 1 120501001 140701016 120501001  00645  00723            % 02494 RGTR--
+*G 063 140701016 120501001  00645  00723                    % 02494 RGTR--
+*A VE 140701016 120501001 000038  00645  00723              % 02494 RGTR--
+*I FD 140701016 120501001        0001964  00645  00723      % 02494 RGTR--
+140701016 Ettelbruck, Gare             00645                % 02494 RGTR--
+140701001 Ettelbruck, Anc. Cli  00646  00646                % 02494 RGTR--
+140701021 Ettelbruck, L.T.Sale  00648  00648                % 02494 RGTR--
+140701020 Ettelbruck, Centre H  00649  00649                % 02494 RGTR--
+140702002 Warken, Café Kaell    00650  00650                % 02494 RGTR--
+140702003 Warken, Rue de Burde  00651  00651                % 02494 RGTR--
+140601002 Burden, Haaptstrooss  00655  00655                % 02494 RGTR--
+140301002 Bourscheid, Bei Mees  00659  00659                % 02494 RGTR--
+140301001 Bourscheid, Bei der   00700  00700                % 02494 RGTR--
+140305001 Kehmen, Bei der Kiir  00703  00703                % 02494 RGTR--
+120506001 Ringel                00710  00710                % 02494 RGTR--
+120507001 Tadler                00714  00714                % 02494 RGTR--
+120502002 Heiderscheid          00719  00719                % 02494 RGTR--
+120501003 Eschdorf, Quatre Ven  00722  00722                % 02494 RGTR--
+120501001 Eschdorf, An der Dri  00723                       % 02494 RGTR--
+*Z 02495 RGTR--                                             % 02495 RGTR--
+*L 134      140701016 120501001  00745  00823               % 02495 RGTR--
+*R 1 120501001 140701016 120501001  00745  00823            % 02495 RGTR--
+*G 063 140701016 120501001  00745  00823                    % 02495 RGTR--
+*A VE 140701016 120501001 000038  00745  00823              % 02495 RGTR--
+*I FD 140701016 120501001        0001965  00745  00823      % 02495 RGTR--
+140701016 Ettelbruck, Gare             00745                % 02495 RGTR--
+140701001 Ettelbruck, Anc. Cli  00746  00746                % 02495 RGTR--
+140701021 Ettelbruck, L.T.Sale  00748  00748                % 02495 RGTR--
+140701020 Ettelbruck, Centre H  00749  00749                % 02495 RGTR--
+140702002 Warken, Café Kaell    00750  00750                % 02495 RGTR--
+140702003 Warken, Rue de Burde  00751  00751                % 02495 RGTR--
+140601002 Burden, Haaptstrooss  00755  00755                % 02495 RGTR--
+140301002 Bourscheid, Bei Mees  00759  00759                % 02495 RGTR--
+140301001 Bourscheid, Bei der   00800  00800                % 02495 RGTR--
+140305001 Kehmen, Bei der Kiir  00803  00803                % 02495 RGTR--
+120506001 Ringel                00810  00810                % 02495 RGTR--
+120507001 Tadler                00814  00814                % 02495 RGTR--
+120502002 Heiderscheid          00819  00819                % 02495 RGTR--
+120501003 Eschdorf, Quatre Ven  00822  00822                % 02495 RGTR--
+120501001 Eschdorf, An der Dri  00823                       % 02495 RGTR--
+*Z 02496 RGTR--                                             % 02496 RGTR--
+*L 134      140701016 120501001  01645  01723               % 02496 RGTR--
+*R 1 120501001 140701016 120501001  01645  01723            % 02496 RGTR--
+*G 063 140701016 120501001  01645  01723                    % 02496 RGTR--
+*A VE 140701016 120501001 000038  01645  01723              % 02496 RGTR--
+*I FD 140701016 120501001        0001235  01645  01723      % 02496 RGTR--
+140701016 Ettelbruck, Gare             01645                % 02496 RGTR--
+140701001 Ettelbruck, Anc. Cli  01646  01646                % 02496 RGTR--
+140701021 Ettelbruck, L.T.Sale  01648  01648                % 02496 RGTR--
+140701020 Ettelbruck, Centre H  01649  01649                % 02496 RGTR--
+140702002 Warken, Café Kaell    01650  01650                % 02496 RGTR--
+140702003 Warken, Rue de Burde  01651  01651                % 02496 RGTR--
+140601002 Burden, Haaptstrooss  01655  01655                % 02496 RGTR--
+140301002 Bourscheid, Bei Mees  01659  01659                % 02496 RGTR--
+140301001 Bourscheid, Bei der   01700  01700                % 02496 RGTR--
+140305001 Kehmen, Bei der Kiir  01703  01703                % 02496 RGTR--
+120506001 Ringel                01710  01710                % 02496 RGTR--
+120507001 Tadler                01714  01714                % 02496 RGTR--
+120502002 Heiderscheid          01719  01719                % 02496 RGTR--
+120501003 Eschdorf, Quatre Ven  01722  01722                % 02496 RGTR--
+120501001 Eschdorf, An der Dri  01723                       % 02496 RGTR--
+*Z 02497 RGTR--                                             % 02497 RGTR--
+*L 134      140701016 120501001  01745  01823               % 02497 RGTR--
+*R 1 120501001 140701016 120501001  01745  01823            % 02497 RGTR--
+*G 063 140701016 120501001  01745  01823                    % 02497 RGTR--
+*A VE 140701016 120501001 000038  01745  01823              % 02497 RGTR--
+*I FD 140701016 120501001        0001967  01745  01823      % 02497 RGTR--
+140701016 Ettelbruck, Gare             01745                % 02497 RGTR--
+140701001 Ettelbruck, Anc. Cli  01746  01746                % 02497 RGTR--
+140701021 Ettelbruck, L.T.Sale  01748  01748                % 02497 RGTR--
+140701020 Ettelbruck, Centre H  01749  01749                % 02497 RGTR--
+140702002 Warken, Café Kaell    01750  01750                % 02497 RGTR--
+140702003 Warken, Rue de Burde  01751  01751                % 02497 RGTR--
+140601002 Burden, Haaptstrooss  01755  01755                % 02497 RGTR--
+140301002 Bourscheid, Bei Mees  01759  01759                % 02497 RGTR--
+140301001 Bourscheid, Bei der   01800  01800                % 02497 RGTR--
+140305001 Kehmen, Bei der Kiir  01803  01803                % 02497 RGTR--
+120506001 Ringel                01810  01810                % 02497 RGTR--
+120507001 Tadler                01814  01814                % 02497 RGTR--
+120502002 Heiderscheid          01819  01819                % 02497 RGTR--
+120501003 Eschdorf, Quatre Ven  01822  01822                % 02497 RGTR--
+120501001 Eschdorf, An der Dri  01823                       % 02497 RGTR--
+*Z 02498 RGTR--                                             % 02498 RGTR--
+*L 134      120501001 140701016  01041  01115               % 02498 RGTR--
+*R 2 140701016 120501001 140701016  01041  01115            % 02498 RGTR--
+*G 063 120501001 140701016  01041  01115                    % 02498 RGTR--
+*A VE 120501001 140701016 000040  01041  01115              % 02498 RGTR--
+*I FD 120501001 140701016        0002135  01041  01115      % 02498 RGTR--
+120501001 Eschdorf, An der Dri         01041                % 02498 RGTR--
+120501003 Eschdorf, Quatre Ven  01041  01041                % 02498 RGTR--
+120502002 Heiderscheid          01045  01045                % 02498 RGTR--
+120507001 Tadler                01049  01049                % 02498 RGTR--
+120506001 Ringel                01052  01052                % 02498 RGTR--
+140305001 Kehmen, Bei der Kiir  01059  01059                % 02498 RGTR--
+140301001 Bourscheid, Bei der   01102  01102                % 02498 RGTR--
+140301002 Bourscheid, Bei Mees  01103  01103                % 02498 RGTR--
+140601002 Burden, Haaptstrooss  01107  01107                % 02498 RGTR--
+140702003 Warken, Rue de Burde  01111  01111                % 02498 RGTR--
+140702002 Warken, Café Kaell    01112  01112                % 02498 RGTR--
+140701020 Ettelbruck, Centre H  01112  01112                % 02498 RGTR--
+140701021 Ettelbruck, L.T.Sale  01113  01113                % 02498 RGTR--
+140701024 Ettelbruck, Poste     01114  01114                % 02498 RGTR--
+140701016 Ettelbruck, Gare      01115                       % 02498 RGTR--
+*Z 02499 RGTR--                                             % 02499 RGTR--
+*L 134      120501001 140701016  01241  01315               % 02499 RGTR--
+*A EY 120501001 140701016 000040  01241  01315              % 02499 RGTR--
+*R 2 140701016 120501001 140701016  01241  01315            % 02499 RGTR--
+*G 063 120501001 140701016  01241  01315                    % 02499 RGTR--
+*A VE 120501001 140701016 000040  01241  01315              % 02499 RGTR--
+*I FD 120501001 140701016        0001094  01241  01315      % 02499 RGTR--
+120501001 Eschdorf, An der Dri         01241                % 02499 RGTR--
+120501003 Eschdorf, Quatre Ven  01241  01241                % 02499 RGTR--
+120502002 Heiderscheid          01245  01245                % 02499 RGTR--
+120507001 Tadler                01249  01249                % 02499 RGTR--
+120506001 Ringel                01252  01252                % 02499 RGTR--
+140305001 Kehmen, Bei der Kiir  01259  01259                % 02499 RGTR--
+140301001 Bourscheid, Bei der   01302  01302                % 02499 RGTR--
+140301002 Bourscheid, Bei Mees  01303  01303                % 02499 RGTR--
+140601002 Burden, Haaptstrooss  01307  01307                % 02499 RGTR--
+140702003 Warken, Rue de Burde  01311  01311                % 02499 RGTR--
+140702002 Warken, Café Kaell    01312  01312                % 02499 RGTR--
+140701020 Ettelbruck, Centre H  01312  01312                % 02499 RGTR--
+140701021 Ettelbruck, L.T.Sale  01313  01313                % 02499 RGTR--
+140701024 Ettelbruck, Poste     01314  01314                % 02499 RGTR--
+140701016 Ettelbruck, Gare      01315                       % 02499 RGTR--
+*Z 02500 RGTR--                                             % 02500 RGTR--
+*L 134      120501001 140701016  01441  01515               % 02500 RGTR--
+*R 2 140701016 120501001 140701016  01441  01515            % 02500 RGTR--
+*G 063 120501001 140701016  01441  01515                    % 02500 RGTR--
+*A VE 120501001 140701016 000040  01441  01515              % 02500 RGTR--
+*I FD 120501001 140701016        0002136  01441  01515      % 02500 RGTR--
+120501001 Eschdorf, An der Dri         01441                % 02500 RGTR--
+120501003 Eschdorf, Quatre Ven  01441  01441                % 02500 RGTR--
+120502002 Heiderscheid          01445  01445                % 02500 RGTR--
+120507001 Tadler                01449  01449                % 02500 RGTR--
+120506001 Ringel                01452  01452                % 02500 RGTR--
+140305001 Kehmen, Bei der Kiir  01459  01459                % 02500 RGTR--
+140301001 Bourscheid, Bei der   01502  01502                % 02500 RGTR--
+140301002 Bourscheid, Bei Mees  01503  01503                % 02500 RGTR--
+140601002 Burden, Haaptstrooss  01507  01507                % 02500 RGTR--
+140702003 Warken, Rue de Burde  01511  01511                % 02500 RGTR--
+140702002 Warken, Café Kaell    01512  01512                % 02500 RGTR--
+140701020 Ettelbruck, Centre H  01512  01512                % 02500 RGTR--
+140701021 Ettelbruck, L.T.Sale  01513  01513                % 02500 RGTR--
+140701024 Ettelbruck, Poste     01514  01514                % 02500 RGTR--
+140701016 Ettelbruck, Gare      01515                       % 02500 RGTR--
+*Z 02501 RGTR--                                             % 02501 RGTR--
+*L 134      120501001 140701016  01841  01915               % 02501 RGTR--
+*R 2 140701016 120501001 140701016  01841  01915            % 02501 RGTR--
+*G 063 120501001 140701016  01841  01915                    % 02501 RGTR--
+*A VE 120501001 140701016 000040  01841  01915              % 02501 RGTR--
+*I FD 120501001 140701016        0001328  01841  01915      % 02501 RGTR--
+120501001 Eschdorf, An der Dri         01841                % 02501 RGTR--
+120501003 Eschdorf, Quatre Ven  01841  01841                % 02501 RGTR--
+120502002 Heiderscheid          01845  01845                % 02501 RGTR--
+120507001 Tadler                01849  01849                % 02501 RGTR--
+120506001 Ringel                01852  01852                % 02501 RGTR--
+140305001 Kehmen, Bei der Kiir  01859  01859                % 02501 RGTR--
+140301001 Bourscheid, Bei der   01902  01902                % 02501 RGTR--
+140301002 Bourscheid, Bei Mees  01903  01903                % 02501 RGTR--
+140601002 Burden, Haaptstrooss  01907  01907                % 02501 RGTR--
+140702003 Warken, Rue de Burde  01911  01911                % 02501 RGTR--
+140702002 Warken, Café Kaell    01912  01912                % 02501 RGTR--
+140701020 Ettelbruck, Centre H  01912  01912                % 02501 RGTR--
+140701021 Ettelbruck, L.T.Sale  01913  01913                % 02501 RGTR--
+140701024 Ettelbruck, Poste     01914  01914                % 02501 RGTR--
+140701016 Ettelbruck, Gare      01915                       % 02501 RGTR--
+*Z 02502 RGTR--                                             % 02502 RGTR--
+*L 134      120501001 140701016  02041  02115               % 02502 RGTR--
+*A EY 120501001 140701016 000040  02041  02115              % 02502 RGTR--
+*R 2 140701016 120501001 140701016  02041  02115            % 02502 RGTR--
+*G 063 120501001 140701016  02041  02115                    % 02502 RGTR--
+*A VE 120501001 140701016 000040  02041  02115              % 02502 RGTR--
+*I FD 120501001 140701016        0002137  02041  02115      % 02502 RGTR--
+120501001 Eschdorf, An der Dri         02041                % 02502 RGTR--
+120501003 Eschdorf, Quatre Ven  02041  02041                % 02502 RGTR--
+120502002 Heiderscheid          02045  02045                % 02502 RGTR--
+120507001 Tadler                02049  02049                % 02502 RGTR--
+120506001 Ringel                02052  02052                % 02502 RGTR--
+140305001 Kehmen, Bei der Kiir  02059  02059                % 02502 RGTR--
+140301001 Bourscheid, Bei der   02102  02102                % 02502 RGTR--
+140301002 Bourscheid, Bei Mees  02103  02103                % 02502 RGTR--
+140601002 Burden, Haaptstrooss  02107  02107                % 02502 RGTR--
+140702003 Warken, Rue de Burde  02111  02111                % 02502 RGTR--
+140702002 Warken, Café Kaell    02112  02112                % 02502 RGTR--
+140701020 Ettelbruck, Centre H  02112  02112                % 02502 RGTR--
+140701021 Ettelbruck, L.T.Sale  02113  02113                % 02502 RGTR--
+140701024 Ettelbruck, Poste     02114  02114                % 02502 RGTR--
+140701016 Ettelbruck, Gare      02115                       % 02502 RGTR--
+*Z 02503 RGTR--                                             % 02503 RGTR--
+*L 134      120501001 140701016  02241  02315               % 02503 RGTR--
+*R 2 140701016 120501001 140701016  02241  02315            % 02503 RGTR--
+*G 063 120501001 140701016  02241  02315                    % 02503 RGTR--
+*A VE 120501001 140701016 000040  02241  02315              % 02503 RGTR--
+*I FD 120501001 140701016        0002138  02241  02315      % 02503 RGTR--
+120501001 Eschdorf, An der Dri         02241                % 02503 RGTR--
+120501003 Eschdorf, Quatre Ven  02241  02241                % 02503 RGTR--
+120502002 Heiderscheid          02244  02244                % 02503 RGTR--
+120507001 Tadler                02249  02249                % 02503 RGTR--
+120506001 Ringel                02252  02252                % 02503 RGTR--
+140305001 Kehmen, Bei der Kiir  02259  02259                % 02503 RGTR--
+140301001 Bourscheid, Bei der   02302  02302                % 02503 RGTR--
+140301002 Bourscheid, Bei Mees  02303  02303                % 02503 RGTR--
+140601002 Burden, Haaptstrooss  02307  02307                % 02503 RGTR--
+140702003 Warken, Rue de Burde  02311  02311                % 02503 RGTR--
+140702002 Warken, Café Kaell    02311  02311                % 02503 RGTR--
+140701020 Ettelbruck, Centre H  02312  02312                % 02503 RGTR--
+140701021 Ettelbruck, L.T.Sale  02313  02313                % 02503 RGTR--
+140701024 Ettelbruck, Poste     02314  02314                % 02503 RGTR--
+140701016 Ettelbruck, Gare      02315                       % 02503 RGTR--
+*Z 02504 RGTR--                                             % 02504 RGTR--
+*L 134      120501001 140701016  00541  00615               % 02504 RGTR--
+*R 2 140701016 120501001 140701016  00541  00615            % 02504 RGTR--
+*G 063 120501001 140701016  00541  00615                    % 02504 RGTR--
+*A VE 120501001 140701016 000038  00541  00615              % 02504 RGTR--
+*I FD 120501001 140701016        0000753  00541  00615      % 02504 RGTR--
+120501001 Eschdorf, An der Dri         00541                % 02504 RGTR--
+120501003 Eschdorf, Quatre Ven  00541  00541                % 02504 RGTR--
+120502002 Heiderscheid          00544  00544                % 02504 RGTR--
+120507001 Tadler                00549  00549                % 02504 RGTR--
+120506001 Ringel                00552  00552                % 02504 RGTR--
+140305001 Kehmen, Bei der Kiir  00559  00559                % 02504 RGTR--
+140301001 Bourscheid, Bei der   00602  00602                % 02504 RGTR--
+140301002 Bourscheid, Bei Mees  00603  00603                % 02504 RGTR--
+140601002 Burden, Haaptstrooss  00607  00607                % 02504 RGTR--
+140702003 Warken, Rue de Burde  00611  00611                % 02504 RGTR--
+140702002 Warken, Café Kaell    00611  00611                % 02504 RGTR--
+140701020 Ettelbruck, Centre H  00612  00612                % 02504 RGTR--
+140701021 Ettelbruck, L.T.Sale  00613  00613                % 02504 RGTR--
+140701024 Ettelbruck, Poste     00614  00614                % 02504 RGTR--
+140701016 Ettelbruck, Gare      00615                       % 02504 RGTR--
+*Z 02505 RGTR--                                             % 02505 RGTR--
+*L 134      120501001 140701016  00941  01015               % 02505 RGTR--
+*R 2 140701016 120501001 140701016  00941  01015            % 02505 RGTR--
+*G 063 120501001 140701016  00941  01015                    % 02505 RGTR--
+*A VE 120501001 140701016 000038  00941  01015              % 02505 RGTR--
+*I FD 120501001 140701016        0002139  00941  01015      % 02505 RGTR--
+120501001 Eschdorf, An der Dri         00941                % 02505 RGTR--
+120501003 Eschdorf, Quatre Ven  00941  00941                % 02505 RGTR--
+120502002 Heiderscheid          00945  00945                % 02505 RGTR--
+120507001 Tadler                00949  00949                % 02505 RGTR--
+120506001 Ringel                00952  00952                % 02505 RGTR--
+140305001 Kehmen, Bei der Kiir  00959  00959                % 02505 RGTR--
+140301001 Bourscheid, Bei der   01002  01002                % 02505 RGTR--
+140301002 Bourscheid, Bei Mees  01003  01003                % 02505 RGTR--
+140601002 Burden, Haaptstrooss  01007  01007                % 02505 RGTR--
+140702003 Warken, Rue de Burde  01011  01011                % 02505 RGTR--
+140702002 Warken, Café Kaell    01012  01012                % 02505 RGTR--
+140701020 Ettelbruck, Centre H  01012  01012                % 02505 RGTR--
+140701021 Ettelbruck, L.T.Sale  01013  01013                % 02505 RGTR--
+140701024 Ettelbruck, Poste     01014  01014                % 02505 RGTR--
+140701016 Ettelbruck, Gare      01015                       % 02505 RGTR--
+*Z 02506 RGTR--                                             % 02506 RGTR--
+*L 134      120501001 140701016  01141  01215               % 02506 RGTR--
+*R 2 140701016 120501001 140701016  01141  01215            % 02506 RGTR--
+*G 063 120501001 140701016  01141  01215                    % 02506 RGTR--
+*A VE 120501001 140701016 000038  01141  01215              % 02506 RGTR--
+*I FD 120501001 140701016        0002140  01141  01215      % 02506 RGTR--
+120501001 Eschdorf, An der Dri         01141                % 02506 RGTR--
+120501003 Eschdorf, Quatre Ven  01141  01141                % 02506 RGTR--
+120502002 Heiderscheid          01145  01145                % 02506 RGTR--
+120507001 Tadler                01149  01149                % 02506 RGTR--
+120506001 Ringel                01152  01152                % 02506 RGTR--
+140305001 Kehmen, Bei der Kiir  01159  01159                % 02506 RGTR--
+140301001 Bourscheid, Bei der   01202  01202                % 02506 RGTR--
+140301002 Bourscheid, Bei Mees  01203  01203                % 02506 RGTR--
+140601002 Burden, Haaptstrooss  01207  01207                % 02506 RGTR--
+140702003 Warken, Rue de Burde  01211  01211                % 02506 RGTR--
+140702002 Warken, Café Kaell    01212  01212                % 02506 RGTR--
+140701020 Ettelbruck, Centre H  01212  01212                % 02506 RGTR--
+140701021 Ettelbruck, L.T.Sale  01213  01213                % 02506 RGTR--
+140701024 Ettelbruck, Poste     01214  01214                % 02506 RGTR--
+140701016 Ettelbruck, Gare      01215                       % 02506 RGTR--
+*Z 02507 RGTR--                                             % 02507 RGTR--
+*L 134      120501001 140701016  01341  01415               % 02507 RGTR--
+*R 2 140701016 120501001 140701016  01341  01415            % 02507 RGTR--
+*G 063 120501001 140701016  01341  01415                    % 02507 RGTR--
+*A VE 120501001 140701016 000038  01341  01415              % 02507 RGTR--
+*I FD 120501001 140701016        0002141  01341  01415      % 02507 RGTR--
+120501001 Eschdorf, An der Dri         01341                % 02507 RGTR--
+120501003 Eschdorf, Quatre Ven  01341  01341                % 02507 RGTR--
+120502002 Heiderscheid          01345  01345                % 02507 RGTR--
+120507001 Tadler                01349  01349                % 02507 RGTR--
+120506001 Ringel                01352  01352                % 02507 RGTR--
+140305001 Kehmen, Bei der Kiir  01359  01359                % 02507 RGTR--
+140301001 Bourscheid, Bei der   01402  01402                % 02507 RGTR--
+140301002 Bourscheid, Bei Mees  01403  01403                % 02507 RGTR--
+140601002 Burden, Haaptstrooss  01407  01407                % 02507 RGTR--
+140702003 Warken, Rue de Burde  01411  01411                % 02507 RGTR--
+140702002 Warken, Café Kaell    01412  01412                % 02507 RGTR--
+140701020 Ettelbruck, Centre H  01412  01412                % 02507 RGTR--
+140701021 Ettelbruck, L.T.Sale  01413  01413                % 02507 RGTR--
+140701024 Ettelbruck, Poste     01414  01414                % 02507 RGTR--
+140701016 Ettelbruck, Gare      01415                       % 02507 RGTR--
+*Z 02508 RGTR--                                             % 02508 RGTR--
+*L 134      120501001 140701016  01541  01615               % 02508 RGTR--
+*R 2 140701016 120501001 140701016  01541  01615            % 02508 RGTR--
+*G 063 120501001 140701016  01541  01615                    % 02508 RGTR--
+*A VE 120501001 140701016 000038  01541  01615              % 02508 RGTR--
+*I FD 120501001 140701016        0002142  01541  01615      % 02508 RGTR--
+120501001 Eschdorf, An der Dri         01541                % 02508 RGTR--
+120501003 Eschdorf, Quatre Ven  01541  01541                % 02508 RGTR--
+120502002 Heiderscheid          01545  01545                % 02508 RGTR--
+120507001 Tadler                01549  01549                % 02508 RGTR--
+120506001 Ringel                01552  01552                % 02508 RGTR--
+140305001 Kehmen, Bei der Kiir  01559  01559                % 02508 RGTR--
+140301001 Bourscheid, Bei der   01602  01602                % 02508 RGTR--
+140301002 Bourscheid, Bei Mees  01603  01603                % 02508 RGTR--
+140601002 Burden, Haaptstrooss  01607  01607                % 02508 RGTR--
+140702003 Warken, Rue de Burde  01611  01611                % 02508 RGTR--
+140702002 Warken, Café Kaell    01612  01612                % 02508 RGTR--
+140701020 Ettelbruck, Centre H  01612  01612                % 02508 RGTR--
+140701021 Ettelbruck, L.T.Sale  01613  01613                % 02508 RGTR--
+140701024 Ettelbruck, Poste     01614  01614                % 02508 RGTR--
+140701016 Ettelbruck, Gare      01615                       % 02508 RGTR--
+*Z 02509 RGTR--                                             % 02509 RGTR--
+*L 134      120501001 140701016  01941  02015               % 02509 RGTR--
+*R 2 140701016 120501001 140701016  01941  02015            % 02509 RGTR--
+*G 063 120501001 140701016  01941  02015                    % 02509 RGTR--
+*A VE 120501001 140701016 000038  01941  02015              % 02509 RGTR--
+*I FD 120501001 140701016        0002143  01941  02015      % 02509 RGTR--
+120501001 Eschdorf, An der Dri         01941                % 02509 RGTR--
+120501003 Eschdorf, Quatre Ven  01941  01941                % 02509 RGTR--
+120502002 Heiderscheid          01945  01945                % 02509 RGTR--
+120507001 Tadler                01949  01949                % 02509 RGTR--
+120506001 Ringel                01952  01952                % 02509 RGTR--
+140305001 Kehmen, Bei der Kiir  01959  01959                % 02509 RGTR--
+140301001 Bourscheid, Bei der   02002  02002                % 02509 RGTR--
+140301002 Bourscheid, Bei Mees  02003  02003                % 02509 RGTR--
+140601002 Burden, Haaptstrooss  02007  02007                % 02509 RGTR--
+140702003 Warken, Rue de Burde  02011  02011                % 02509 RGTR--
+140702002 Warken, Café Kaell    02012  02012                % 02509 RGTR--
+140701020 Ettelbruck, Centre H  02012  02012                % 02509 RGTR--
+140701021 Ettelbruck, L.T.Sale  02013  02013                % 02509 RGTR--
+140701024 Ettelbruck, Poste     02014  02014                % 02509 RGTR--
+140701016 Ettelbruck, Gare      02015                       % 02509 RGTR--
+*Z 02510 RGTR--                                             % 02510 RGTR--
+*L 134      120501001 140701016  00841  00915               % 02510 RGTR--
+*R 2 140701016 120501001 140701016  00841  00915            % 02510 RGTR--
+*G 063 120501001 140701016  00841  00915                    % 02510 RGTR--
+*A VE 120501001 140701016 000016  00841  00915              % 02510 RGTR--
+*I FD 120501001 140701016        0002145  00841  00915      % 02510 RGTR--
+120501001 Eschdorf, An der Dri         00841                % 02510 RGTR--
+120501003 Eschdorf, Quatre Ven  00841  00841                % 02510 RGTR--
+120502002 Heiderscheid          00845  00845                % 02510 RGTR--
+120507001 Tadler                00849  00849                % 02510 RGTR--
+120506001 Ringel                00852  00852                % 02510 RGTR--
+140305001 Kehmen, Bei der Kiir  00859  00859                % 02510 RGTR--
+140301001 Bourscheid, Bei der   00902  00902                % 02510 RGTR--
+140301002 Bourscheid, Bei Mees  00903  00903                % 02510 RGTR--
+140601002 Burden, Haaptstrooss  00907  00907                % 02510 RGTR--
+140702003 Warken, Rue de Burde  00911  00911                % 02510 RGTR--
+140702002 Warken, Café Kaell    00912  00912                % 02510 RGTR--
+140701020 Ettelbruck, Centre H  00912  00912                % 02510 RGTR--
+140701021 Ettelbruck, L.T.Sale  00913  00913                % 02510 RGTR--
+140701024 Ettelbruck, Poste     00914  00914                % 02510 RGTR--
+140701016 Ettelbruck, Gare      00915                       % 02510 RGTR--
+*Z 02511 RGTR--                                             % 02511 RGTR--
+*L 134      120501001 140701016  01641  01715               % 02511 RGTR--
+*R 2 140701016 120501001 140701016  01641  01715            % 02511 RGTR--
+*G 063 120501001 140701016  01641  01715                    % 02511 RGTR--
+*A VE 120501001 140701016 000016  01641  01715              % 02511 RGTR--
+*I FD 120501001 140701016        0001241  01641  01715      % 02511 RGTR--
+120501001 Eschdorf, An der Dri         01641                % 02511 RGTR--
+120501003 Eschdorf, Quatre Ven  01641  01641                % 02511 RGTR--
+120502002 Heiderscheid          01645  01645                % 02511 RGTR--
+120507001 Tadler                01649  01649                % 02511 RGTR--
+120506001 Ringel                01652  01652                % 02511 RGTR--
+140305001 Kehmen, Bei der Kiir  01659  01659                % 02511 RGTR--
+140301001 Bourscheid, Bei der   01702  01702                % 02511 RGTR--
+140301002 Bourscheid, Bei Mees  01703  01703                % 02511 RGTR--
+140601002 Burden, Haaptstrooss  01707  01707                % 02511 RGTR--
+140702003 Warken, Rue de Burde  01711  01711                % 02511 RGTR--
+140702002 Warken, Café Kaell    01712  01712                % 02511 RGTR--
+140701020 Ettelbruck, Centre H  01712  01712                % 02511 RGTR--
+140701021 Ettelbruck, L.T.Sale  01713  01713                % 02511 RGTR--
+140701024 Ettelbruck, Poste     01714  01714                % 02511 RGTR--
+140701016 Ettelbruck, Gare      01715                       % 02511 RGTR--
+*Z 02512 RGTR--                                             % 02512 RGTR--
+*L 134      120501001 140701016  00441  00515               % 02512 RGTR--
+*A EY 120501001 140701016 000034  00441  00515              % 02512 RGTR--
+*R 2 140701016 120501001 140701016  00441  00515            % 02512 RGTR--
+*G 063 120501001 140701016  00441  00515                    % 02512 RGTR--
+*A VE 120501001 140701016 000034  00441  00515              % 02512 RGTR--
+*I FD 120501001 140701016        0002144  00441  00515      % 02512 RGTR--
+120501001 Eschdorf, An der Dri         00441                % 02512 RGTR--
+120501003 Eschdorf, Quatre Ven  00441  00441                % 02512 RGTR--
+120502002 Heiderscheid          00444  00444                % 02512 RGTR--
+120507001 Tadler                00449  00449                % 02512 RGTR--
+120506001 Ringel                00452  00452                % 02512 RGTR--
+140305001 Kehmen, Bei der Kiir  00459  00459                % 02512 RGTR--
+140301001 Bourscheid, Bei der   00502  00502                % 02512 RGTR--
+140301002 Bourscheid, Bei Mees  00503  00503                % 02512 RGTR--
+140601002 Burden, Haaptstrooss  00507  00507                % 02512 RGTR--
+140702003 Warken, Rue de Burde  00511  00511                % 02512 RGTR--
+140702002 Warken, Café Kaell    00511  00511                % 02512 RGTR--
+140701020 Ettelbruck, Centre H  00512  00512                % 02512 RGTR--
+140701021 Ettelbruck, L.T.Sale  00513  00513                % 02512 RGTR--
+140701024 Ettelbruck, Poste     00514  00514                % 02512 RGTR--
+140701016 Ettelbruck, Gare      00515                       % 02512 RGTR--
+*Z 02513 RGTR--                                             % 02513 RGTR--
+*L 134      120501001 140701016  00641  00718               % 02513 RGTR--
+*R 2 140701016 120501001 140701016  00641  00718            % 02513 RGTR--
+*G 063 120501001 140701016  00641  00718                    % 02513 RGTR--
+*A VE 120501001 140701016 000038  00641  00718              % 02513 RGTR--
+*I FD 120501001 140701016        0002146  00641  00718      % 02513 RGTR--
+120501001 Eschdorf, An der Dri         00641                % 02513 RGTR--
+120501003 Eschdorf, Quatre Ven  00641  00641                % 02513 RGTR--
+120502002 Heiderscheid          00644  00644                % 02513 RGTR--
+120507001 Tadler                00650  00650                % 02513 RGTR--
+120506001 Ringel                00654  00654                % 02513 RGTR--
+140305001 Kehmen, Bei der Kiir  00700  00700                % 02513 RGTR--
+140301001 Bourscheid, Bei der   00703  00703                % 02513 RGTR--
+140301002 Bourscheid, Bei Mees  00704  00704                % 02513 RGTR--
+140601002 Burden, Haaptstrooss  00709  00709                % 02513 RGTR--
+140702003 Warken, Rue de Burde  00713  00713                % 02513 RGTR--
+140702002 Warken, Café Kaell    00713  00713                % 02513 RGTR--
+140701020 Ettelbruck, Centre H  00714  00714                % 02513 RGTR--
+140701021 Ettelbruck, L.T.Sale  00715  00715                % 02513 RGTR--
+140701024 Ettelbruck, Poste     00716  00716                % 02513 RGTR--
+140701016 Ettelbruck, Gare      00718                       % 02513 RGTR--
+*Z 02514 RGTR--                                             % 02514 RGTR--
+*L 134      120501001 140701016  00741  00818               % 02514 RGTR--
+*R 2 140701016 120501001 140701016  00741  00818            % 02514 RGTR--
+*G 063 120501001 140701016  00741  00818                    % 02514 RGTR--
+*A VE 120501001 140701016 000038  00741  00818              % 02514 RGTR--
+*I FD 120501001 140701016        0002147  00741  00818      % 02514 RGTR--
+120501001 Eschdorf, An der Dri         00741                % 02514 RGTR--
+120501003 Eschdorf, Quatre Ven  00741  00741                % 02514 RGTR--
+120502002 Heiderscheid          00744  00744                % 02514 RGTR--
+120507001 Tadler                00750  00750                % 02514 RGTR--
+120506001 Ringel                00754  00754                % 02514 RGTR--
+140305001 Kehmen, Bei der Kiir  00800  00800                % 02514 RGTR--
+140301001 Bourscheid, Bei der   00803  00803                % 02514 RGTR--
+140301002 Bourscheid, Bei Mees  00804  00804                % 02514 RGTR--
+140601002 Burden, Haaptstrooss  00809  00809                % 02514 RGTR--
+140702003 Warken, Rue de Burde  00813  00813                % 02514 RGTR--
+140702002 Warken, Café Kaell    00813  00813                % 02514 RGTR--
+140701020 Ettelbruck, Centre H  00814  00814                % 02514 RGTR--
+140701021 Ettelbruck, L.T.Sale  00815  00815                % 02514 RGTR--
+140701024 Ettelbruck, Poste     00816  00816                % 02514 RGTR--
+140701016 Ettelbruck, Gare      00818                       % 02514 RGTR--
+*Z 02515 RGTR--                                             % 02515 RGTR--
+*L 134      120501001 140701016  00841  00918               % 02515 RGTR--
+*R 2 140701016 120501001 140701016  00841  00918            % 02515 RGTR--
+*G 063 120501001 140701016  00841  00918                    % 02515 RGTR--
+*A VE 120501001 140701016 000038  00841  00918              % 02515 RGTR--
+*I FD 120501001 140701016        0002145  00841  00918      % 02515 RGTR--
+120501001 Eschdorf, An der Dri         00841                % 02515 RGTR--
+120501003 Eschdorf, Quatre Ven  00841  00841                % 02515 RGTR--
+120502002 Heiderscheid          00845  00845                % 02515 RGTR--
+120507001 Tadler                00850  00850                % 02515 RGTR--
+120506001 Ringel                00854  00854                % 02515 RGTR--
+140305001 Kehmen, Bei der Kiir  00900  00900                % 02515 RGTR--
+140301001 Bourscheid, Bei der   00903  00903                % 02515 RGTR--
+140301002 Bourscheid, Bei Mees  00904  00904                % 02515 RGTR--
+140601002 Burden, Haaptstrooss  00909  00909                % 02515 RGTR--
+140702003 Warken, Rue de Burde  00913  00913                % 02515 RGTR--
+140702002 Warken, Café Kaell    00914  00914                % 02515 RGTR--
+140701020 Ettelbruck, Centre H  00914  00914                % 02515 RGTR--
+140701021 Ettelbruck, L.T.Sale  00915  00915                % 02515 RGTR--
+140701024 Ettelbruck, Poste     00916  00916                % 02515 RGTR--
+140701016 Ettelbruck, Gare      00918                       % 02515 RGTR--
+*Z 02516 RGTR--                                             % 02516 RGTR--
+*L 134      120501001 140701016  01641  01718               % 02516 RGTR--
+*R 2 140701016 120501001 140701016  01641  01718            % 02516 RGTR--
+*G 063 120501001 140701016  01641  01718                    % 02516 RGTR--
+*A VE 120501001 140701016 000038  01641  01718              % 02516 RGTR--
+*I FD 120501001 140701016        0001241  01641  01718      % 02516 RGTR--
+120501001 Eschdorf, An der Dri         01641                % 02516 RGTR--
+120501003 Eschdorf, Quatre Ven  01641  01641                % 02516 RGTR--
+120502002 Heiderscheid          01645  01645                % 02516 RGTR--
+120507001 Tadler                01650  01650                % 02516 RGTR--
+120506001 Ringel                01654  01654                % 02516 RGTR--
+140305001 Kehmen, Bei der Kiir  01700  01700                % 02516 RGTR--
+140301001 Bourscheid, Bei der   01703  01703                % 02516 RGTR--
+140301002 Bourscheid, Bei Mees  01704  01704                % 02516 RGTR--
+140601002 Burden, Haaptstrooss  01709  01709                % 02516 RGTR--
+140702003 Warken, Rue de Burde  01713  01713                % 02516 RGTR--
+140702002 Warken, Café Kaell    01714  01714                % 02516 RGTR--
+140701020 Ettelbruck, Centre H  01714  01714                % 02516 RGTR--
+140701021 Ettelbruck, L.T.Sale  01715  01715                % 02516 RGTR--
+140701024 Ettelbruck, Poste     01716  01716                % 02516 RGTR--
+140701016 Ettelbruck, Gare      01718                       % 02516 RGTR--
+*Z 02517 RGTR--                                             % 02517 RGTR--
+*L 134      120501001 140701016  01741  01818               % 02517 RGTR--
+*R 2 140701016 120501001 140701016  01741  01818            % 02517 RGTR--
+*G 063 120501001 140701016  01741  01818                    % 02517 RGTR--
+*A VE 120501001 140701016 000038  01741  01818              % 02517 RGTR--
+*I FD 120501001 140701016        0002148  01741  01818      % 02517 RGTR--
+120501001 Eschdorf, An der Dri         01741                % 02517 RGTR--
+120501003 Eschdorf, Quatre Ven  01741  01741                % 02517 RGTR--
+120502002 Heiderscheid          01745  01745                % 02517 RGTR--
+120507001 Tadler                01750  01750                % 02517 RGTR--
+120506001 Ringel                01754  01754                % 02517 RGTR--
+140305001 Kehmen, Bei der Kiir  01800  01800                % 02517 RGTR--
+140301001 Bourscheid, Bei der   01803  01803                % 02517 RGTR--
+140301002 Bourscheid, Bei Mees  01804  01804                % 02517 RGTR--
+140601002 Burden, Haaptstrooss  01809  01809                % 02517 RGTR--
+140702003 Warken, Rue de Burde  01813  01813                % 02517 RGTR--
+140702002 Warken, Café Kaell    01814  01814                % 02517 RGTR--
+140701020 Ettelbruck, Centre H  01814  01814                % 02517 RGTR--
+140701021 Ettelbruck, L.T.Sale  01815  01815                % 02517 RGTR--
+140701024 Ettelbruck, Poste     01816  01816                % 02517 RGTR--
+140701016 Ettelbruck, Gare      01818                       % 02517 RGTR--
+*Z 02518 RGTR--                                             % 02518 RGTR--
+*L 134      120501001 140701016  00711  00748               % 02518 RGTR--
+*R 2 140701016 120501001 140701016  00711  00748            % 02518 RGTR--
+*G 063 120501001 140701016  00711  00748                    % 02518 RGTR--
+*A VE 120501001 140701016 000034  00711  00748              % 02518 RGTR--
+*I FD 120501001 140701016        0002149  00711  00748      % 02518 RGTR--
+120501001 Eschdorf, An der Dri         00711                % 02518 RGTR--
+120501003 Eschdorf, Quatre Ven  00711  00711                % 02518 RGTR--
+120502002 Heiderscheid          00714  00714                % 02518 RGTR--
+120507001 Tadler                00720  00720                % 02518 RGTR--
+120506001 Ringel                00724  00724                % 02518 RGTR--
+140305001 Kehmen, Bei der Kiir  00730  00730                % 02518 RGTR--
+140301001 Bourscheid, Bei der   00733  00733                % 02518 RGTR--
+140301002 Bourscheid, Bei Mees  00734  00734                % 02518 RGTR--
+140601002 Burden, Haaptstrooss  00739  00739                % 02518 RGTR--
+140702003 Warken, Rue de Burde  00743  00743                % 02518 RGTR--
+140702002 Warken, Café Kaell    00743  00743                % 02518 RGTR--
+140701020 Ettelbruck, Centre H  00744  00744                % 02518 RGTR--
+140701021 Ettelbruck, L.T.Sale  00745  00745                % 02518 RGTR--
+140701024 Ettelbruck, Poste     00746  00746                % 02518 RGTR--
+140701016 Ettelbruck, Gare      00748                       % 02518 RGTR--

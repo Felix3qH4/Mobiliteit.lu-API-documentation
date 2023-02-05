@@ -1,0 +1,2177 @@
+*F 03 2
+*Z 04994 RGTR--                                             % 04994 RGTR--
+*L 622      200405036 190101011  00952  01032               % 04994 RGTR--
+*R 1 190101011 200405036 190101011  00952  01032            % 04994 RGTR--
+*G 064 200405036 190101011  00952  01032                    % 04994 RGTR--
+*A VE 200405036 190101011 000039  00952  01032              % 04994 RGTR--
+*I FD 200405036 190101011        0002614  00952  01032      % 04994 RGTR--
+200405036 Luxembourg, Gare Cen         00952                % 04994 RGTR--
+200415003 Hollerich, Fonderie   00953  00953                % 04994 RGTR--
+200415006 Hollerich, Jean-Bapt  00955  00955                % 04994 RGTR--
+200415002 Hollerich, Assurance  00958  00958                % 04994 RGTR--
+200407004 Cessange, Barrès      00959  00959                % 04994 RGTR--
+200407003 Cessange, Artisans    01000  01000                % 04994 RGTR--
+200407007 Cessange, Fischerhaf  01001  01001                % 04994 RGTR--
+200407008 Cessange, Kierch      01002  01002                % 04994 RGTR--
+200407006 Cessange, Duerf       01003  01003                % 04994 RGTR--
+200407001 Cessange, Am Eck      01004  01004                % 04994 RGTR--
+200407010 Cessange, Rue de Leu  01005  01005                % 04994 RGTR--
+220701007 Leudelange, Grasbösc  01006  01006                % 04994 RGTR--
+220701019 Leudelange, Schaefer  01008  01008                % 04994 RGTR--
+220701015 Leudelange, Stiédswe  01009  01009                % 04994 RGTR--
+220701009 Leudelange, Kamelleb  01009  01009                % 04994 RGTR--
+220701017 Leudelange, Pëssenda  01010  01010                % 04994 RGTR--
+220702001 Leudelange, Schléiwe  01011  01011                % 04994 RGTR--
+221005001 Roedgen, Laangwis     01015  01015                % 04994 RGTR--
+221004003 Reckange-sur-Mess, W  01016  01016                % 04994 RGTR--
+221004002 Reckange-sur-Mess, F  01018  01018                % 04994 RGTR--
+221002001 Limpach, Kiirch       01021  01021                % 04994 RGTR--
+221303010 Sanem, W.S.A.         01025  01025                % 04994 RGTR--
+221304001 Soleuvre, Aessen      01027  01027                % 04994 RGTR--
+221304013 Soleuvre, Reitschoul  01028  01028                % 04994 RGTR--
+221303007 Sanem, Schlass        01029  01029                % 04994 RGTR--
+221303009 Sanem, Zentrum        01030  01030                % 04994 RGTR--
+221303004 Sanem, Op Lohr        01031  01031                % 04994 RGTR--
+190101011 Bascharage/Sanem, Ga  01032                       % 04994 RGTR--
+*Z 04995 RGTR--                                             % 04995 RGTR--
+*L 622      200405036 190101011  01152  01232               % 04995 RGTR--
+*R 1 190101011 200405036 190101011  01152  01232            % 04995 RGTR--
+*G 064 200405036 190101011  01152  01232                    % 04995 RGTR--
+*A VE 200405036 190101011 000039  01152  01232              % 04995 RGTR--
+*I FD 200405036 190101011        0002615  01152  01232      % 04995 RGTR--
+200405036 Luxembourg, Gare Cen         01152                % 04995 RGTR--
+200415003 Hollerich, Fonderie   01153  01153                % 04995 RGTR--
+200415006 Hollerich, Jean-Bapt  01155  01155                % 04995 RGTR--
+200415002 Hollerich, Assurance  01158  01158                % 04995 RGTR--
+200407004 Cessange, Barrès      01159  01159                % 04995 RGTR--
+200407003 Cessange, Artisans    01200  01200                % 04995 RGTR--
+200407007 Cessange, Fischerhaf  01201  01201                % 04995 RGTR--
+200407008 Cessange, Kierch      01202  01202                % 04995 RGTR--
+200407006 Cessange, Duerf       01203  01203                % 04995 RGTR--
+200407001 Cessange, Am Eck      01204  01204                % 04995 RGTR--
+200407010 Cessange, Rue de Leu  01205  01205                % 04995 RGTR--
+220701007 Leudelange, Grasbösc  01206  01206                % 04995 RGTR--
+220701019 Leudelange, Schaefer  01208  01208                % 04995 RGTR--
+220701015 Leudelange, Stiédswe  01209  01209                % 04995 RGTR--
+220701009 Leudelange, Kamelleb  01209  01209                % 04995 RGTR--
+220701017 Leudelange, Pëssenda  01210  01210                % 04995 RGTR--
+220702001 Leudelange, Schléiwe  01211  01211                % 04995 RGTR--
+221005001 Roedgen, Laangwis     01215  01215                % 04995 RGTR--
+221004003 Reckange-sur-Mess, W  01216  01216                % 04995 RGTR--
+221004002 Reckange-sur-Mess, F  01218  01218                % 04995 RGTR--
+221002001 Limpach, Kiirch       01221  01221                % 04995 RGTR--
+221303010 Sanem, W.S.A.         01225  01225                % 04995 RGTR--
+221304001 Soleuvre, Aessen      01227  01227                % 04995 RGTR--
+221304013 Soleuvre, Reitschoul  01228  01228                % 04995 RGTR--
+221303007 Sanem, Schlass        01229  01229                % 04995 RGTR--
+221303009 Sanem, Zentrum        01230  01230                % 04995 RGTR--
+221303004 Sanem, Op Lohr        01231  01231                % 04995 RGTR--
+190101011 Bascharage/Sanem, Ga  01232                       % 04995 RGTR--
+*Z 04996 RGTR--                                             % 04996 RGTR--
+*L 622      200405036 190101011  01352  01432               % 04996 RGTR--
+*R 1 190101011 200405036 190101011  01352  01432            % 04996 RGTR--
+*G 064 200405036 190101011  01352  01432                    % 04996 RGTR--
+*A VE 200405036 190101011 000039  01352  01432              % 04996 RGTR--
+*I FD 200405036 190101011        0002616  01352  01432      % 04996 RGTR--
+200405036 Luxembourg, Gare Cen         01352                % 04996 RGTR--
+200415003 Hollerich, Fonderie   01353  01353                % 04996 RGTR--
+200415006 Hollerich, Jean-Bapt  01355  01355                % 04996 RGTR--
+200415002 Hollerich, Assurance  01358  01358                % 04996 RGTR--
+200407004 Cessange, Barrès      01359  01359                % 04996 RGTR--
+200407003 Cessange, Artisans    01400  01400                % 04996 RGTR--
+200407007 Cessange, Fischerhaf  01401  01401                % 04996 RGTR--
+200407008 Cessange, Kierch      01402  01402                % 04996 RGTR--
+200407006 Cessange, Duerf       01403  01403                % 04996 RGTR--
+200407001 Cessange, Am Eck      01404  01404                % 04996 RGTR--
+200407010 Cessange, Rue de Leu  01405  01405                % 04996 RGTR--
+220701007 Leudelange, Grasbösc  01406  01406                % 04996 RGTR--
+220701019 Leudelange, Schaefer  01408  01408                % 04996 RGTR--
+220701015 Leudelange, Stiédswe  01409  01409                % 04996 RGTR--
+220701009 Leudelange, Kamelleb  01409  01409                % 04996 RGTR--
+220701017 Leudelange, Pëssenda  01410  01410                % 04996 RGTR--
+220702001 Leudelange, Schléiwe  01411  01411                % 04996 RGTR--
+221005001 Roedgen, Laangwis     01415  01415                % 04996 RGTR--
+221004003 Reckange-sur-Mess, W  01416  01416                % 04996 RGTR--
+221004002 Reckange-sur-Mess, F  01418  01418                % 04996 RGTR--
+221002001 Limpach, Kiirch       01421  01421                % 04996 RGTR--
+221303010 Sanem, W.S.A.         01425  01425                % 04996 RGTR--
+221304001 Soleuvre, Aessen      01427  01427                % 04996 RGTR--
+221304013 Soleuvre, Reitschoul  01428  01428                % 04996 RGTR--
+221303007 Sanem, Schlass        01429  01429                % 04996 RGTR--
+221303009 Sanem, Zentrum        01430  01430                % 04996 RGTR--
+221303004 Sanem, Op Lohr        01431  01431                % 04996 RGTR--
+190101011 Bascharage/Sanem, Ga  01432                       % 04996 RGTR--
+*Z 04997 RGTR--                                             % 04997 RGTR--
+*L 622      200405036 190101011  01552  01632               % 04997 RGTR--
+*R 1 190101011 200405036 190101011  01552  01632            % 04997 RGTR--
+*G 064 200405036 190101011  01552  01632                    % 04997 RGTR--
+*A VE 200405036 190101011 000039  01552  01632              % 04997 RGTR--
+*I FD 200405036 190101011        0002617  01552  01632      % 04997 RGTR--
+200405036 Luxembourg, Gare Cen         01552                % 04997 RGTR--
+200415003 Hollerich, Fonderie   01553  01553                % 04997 RGTR--
+200415006 Hollerich, Jean-Bapt  01555  01555                % 04997 RGTR--
+200415002 Hollerich, Assurance  01558  01558                % 04997 RGTR--
+200407004 Cessange, Barrès      01559  01559                % 04997 RGTR--
+200407003 Cessange, Artisans    01600  01600                % 04997 RGTR--
+200407007 Cessange, Fischerhaf  01601  01601                % 04997 RGTR--
+200407008 Cessange, Kierch      01602  01602                % 04997 RGTR--
+200407006 Cessange, Duerf       01603  01603                % 04997 RGTR--
+200407001 Cessange, Am Eck      01604  01604                % 04997 RGTR--
+200407010 Cessange, Rue de Leu  01605  01605                % 04997 RGTR--
+220701007 Leudelange, Grasbösc  01606  01606                % 04997 RGTR--
+220701019 Leudelange, Schaefer  01608  01608                % 04997 RGTR--
+220701015 Leudelange, Stiédswe  01609  01609                % 04997 RGTR--
+220701009 Leudelange, Kamelleb  01609  01609                % 04997 RGTR--
+220701017 Leudelange, Pëssenda  01610  01610                % 04997 RGTR--
+220702001 Leudelange, Schléiwe  01611  01611                % 04997 RGTR--
+221005001 Roedgen, Laangwis     01615  01615                % 04997 RGTR--
+221004003 Reckange-sur-Mess, W  01616  01616                % 04997 RGTR--
+221004002 Reckange-sur-Mess, F  01618  01618                % 04997 RGTR--
+221002001 Limpach, Kiirch       01621  01621                % 04997 RGTR--
+221303010 Sanem, W.S.A.         01625  01625                % 04997 RGTR--
+221304001 Soleuvre, Aessen      01627  01627                % 04997 RGTR--
+221304013 Soleuvre, Reitschoul  01628  01628                % 04997 RGTR--
+221303007 Sanem, Schlass        01629  01629                % 04997 RGTR--
+221303009 Sanem, Zentrum        01630  01630                % 04997 RGTR--
+221303004 Sanem, Op Lohr        01631  01631                % 04997 RGTR--
+190101011 Bascharage/Sanem, Ga  01632                       % 04997 RGTR--
+*Z 04998 RGTR--                                             % 04998 RGTR--
+*L 622      200405036 190101011  01952  02032               % 04998 RGTR--
+*R 1 190101011 200405036 190101011  01952  02032            % 04998 RGTR--
+*G 064 200405036 190101011  01952  02032                    % 04998 RGTR--
+*A VE 200405036 190101011 000039  01952  02032              % 04998 RGTR--
+*I FD 200405036 190101011        0002618  01952  02032      % 04998 RGTR--
+200405036 Luxembourg, Gare Cen         01952                % 04998 RGTR--
+200415003 Hollerich, Fonderie   01953  01953                % 04998 RGTR--
+200415006 Hollerich, Jean-Bapt  01955  01955                % 04998 RGTR--
+200415002 Hollerich, Assurance  01958  01958                % 04998 RGTR--
+200407004 Cessange, Barrès      01959  01959                % 04998 RGTR--
+200407003 Cessange, Artisans    02000  02000                % 04998 RGTR--
+200407007 Cessange, Fischerhaf  02001  02001                % 04998 RGTR--
+200407008 Cessange, Kierch      02002  02002                % 04998 RGTR--
+200407006 Cessange, Duerf       02003  02003                % 04998 RGTR--
+200407001 Cessange, Am Eck      02004  02004                % 04998 RGTR--
+200407010 Cessange, Rue de Leu  02005  02005                % 04998 RGTR--
+220701007 Leudelange, Grasbösc  02006  02006                % 04998 RGTR--
+220701019 Leudelange, Schaefer  02008  02008                % 04998 RGTR--
+220701015 Leudelange, Stiédswe  02009  02009                % 04998 RGTR--
+220701009 Leudelange, Kamelleb  02009  02009                % 04998 RGTR--
+220701017 Leudelange, Pëssenda  02010  02010                % 04998 RGTR--
+220702001 Leudelange, Schléiwe  02011  02011                % 04998 RGTR--
+221005001 Roedgen, Laangwis     02015  02015                % 04998 RGTR--
+221004003 Reckange-sur-Mess, W  02016  02016                % 04998 RGTR--
+221004002 Reckange-sur-Mess, F  02018  02018                % 04998 RGTR--
+221002001 Limpach, Kiirch       02021  02021                % 04998 RGTR--
+221303010 Sanem, W.S.A.         02025  02025                % 04998 RGTR--
+221304001 Soleuvre, Aessen      02027  02027                % 04998 RGTR--
+221304013 Soleuvre, Reitschoul  02028  02028                % 04998 RGTR--
+221303007 Sanem, Schlass        02029  02029                % 04998 RGTR--
+221303009 Sanem, Zentrum        02030  02030                % 04998 RGTR--
+221303004 Sanem, Op Lohr        02031  02031                % 04998 RGTR--
+190101011 Bascharage/Sanem, Ga  02032                       % 04998 RGTR--
+*Z 04999 RGTR--                                             % 04999 RGTR--
+*L 622      200405036 190101011  02152  02232               % 04999 RGTR--
+*R 1 190101011 200405036 190101011  02152  02232            % 04999 RGTR--
+*G 064 200405036 190101011  02152  02232                    % 04999 RGTR--
+*A VE 200405036 190101011 000039  02152  02232              % 04999 RGTR--
+*I FD 200405036 190101011        0002619  02152  02232      % 04999 RGTR--
+200405036 Luxembourg, Gare Cen         02152                % 04999 RGTR--
+200415003 Hollerich, Fonderie   02153  02153                % 04999 RGTR--
+200415006 Hollerich, Jean-Bapt  02155  02155                % 04999 RGTR--
+200415002 Hollerich, Assurance  02158  02158                % 04999 RGTR--
+200407004 Cessange, Barrès      02159  02159                % 04999 RGTR--
+200407003 Cessange, Artisans    02200  02200                % 04999 RGTR--
+200407007 Cessange, Fischerhaf  02201  02201                % 04999 RGTR--
+200407008 Cessange, Kierch      02202  02202                % 04999 RGTR--
+200407006 Cessange, Duerf       02203  02203                % 04999 RGTR--
+200407001 Cessange, Am Eck      02204  02204                % 04999 RGTR--
+200407010 Cessange, Rue de Leu  02205  02205                % 04999 RGTR--
+220701007 Leudelange, Grasbösc  02206  02206                % 04999 RGTR--
+220701019 Leudelange, Schaefer  02208  02208                % 04999 RGTR--
+220701015 Leudelange, Stiédswe  02209  02209                % 04999 RGTR--
+220701009 Leudelange, Kamelleb  02209  02209                % 04999 RGTR--
+220701017 Leudelange, Pëssenda  02210  02210                % 04999 RGTR--
+220702001 Leudelange, Schléiwe  02211  02211                % 04999 RGTR--
+221005001 Roedgen, Laangwis     02215  02215                % 04999 RGTR--
+221004003 Reckange-sur-Mess, W  02216  02216                % 04999 RGTR--
+221004002 Reckange-sur-Mess, F  02218  02218                % 04999 RGTR--
+221002001 Limpach, Kiirch       02221  02221                % 04999 RGTR--
+221303010 Sanem, W.S.A.         02225  02225                % 04999 RGTR--
+221304001 Soleuvre, Aessen      02227  02227                % 04999 RGTR--
+221304013 Soleuvre, Reitschoul  02228  02228                % 04999 RGTR--
+221303007 Sanem, Schlass        02229  02229                % 04999 RGTR--
+221303009 Sanem, Zentrum        02230  02230                % 04999 RGTR--
+221303004 Sanem, Op Lohr        02231  02231                % 04999 RGTR--
+190101011 Bascharage/Sanem, Ga  02232                       % 04999 RGTR--
+*Z 05000 RGTR--                                             % 05000 RGTR--
+*L 622      200405036 190101011  00552  00632               % 05000 RGTR--
+*R 1 190101011 200405036 190101011  00552  00632            % 05000 RGTR--
+*G 064 200405036 190101011  00552  00632                    % 05000 RGTR--
+*A VE 200405036 190101011 000036  00552  00632              % 05000 RGTR--
+*I FD 200405036 190101011        0002620  00552  00632      % 05000 RGTR--
+200405036 Luxembourg, Gare Cen         00552                % 05000 RGTR--
+200415003 Hollerich, Fonderie   00553  00553                % 05000 RGTR--
+200415006 Hollerich, Jean-Bapt  00555  00555                % 05000 RGTR--
+200415002 Hollerich, Assurance  00558  00558                % 05000 RGTR--
+200407004 Cessange, Barrès      00559  00559                % 05000 RGTR--
+200407003 Cessange, Artisans    00600  00600                % 05000 RGTR--
+200407007 Cessange, Fischerhaf  00601  00601                % 05000 RGTR--
+200407008 Cessange, Kierch      00602  00602                % 05000 RGTR--
+200407006 Cessange, Duerf       00603  00603                % 05000 RGTR--
+200407001 Cessange, Am Eck      00604  00604                % 05000 RGTR--
+200407010 Cessange, Rue de Leu  00605  00605                % 05000 RGTR--
+220701007 Leudelange, Grasbösc  00606  00606                % 05000 RGTR--
+220701019 Leudelange, Schaefer  00608  00608                % 05000 RGTR--
+220701015 Leudelange, Stiédswe  00609  00609                % 05000 RGTR--
+220701009 Leudelange, Kamelleb  00609  00609                % 05000 RGTR--
+220701017 Leudelange, Pëssenda  00610  00610                % 05000 RGTR--
+220702001 Leudelange, Schléiwe  00611  00611                % 05000 RGTR--
+221005001 Roedgen, Laangwis     00615  00615                % 05000 RGTR--
+221004003 Reckange-sur-Mess, W  00616  00616                % 05000 RGTR--
+221004002 Reckange-sur-Mess, F  00618  00618                % 05000 RGTR--
+221002001 Limpach, Kiirch       00621  00621                % 05000 RGTR--
+221303010 Sanem, W.S.A.         00625  00625                % 05000 RGTR--
+221304001 Soleuvre, Aessen      00627  00627                % 05000 RGTR--
+221304013 Soleuvre, Reitschoul  00628  00628                % 05000 RGTR--
+221303007 Sanem, Schlass        00629  00629                % 05000 RGTR--
+221303009 Sanem, Zentrum        00630  00630                % 05000 RGTR--
+221303004 Sanem, Op Lohr        00631  00631                % 05000 RGTR--
+190101011 Bascharage/Sanem, Ga  00632                       % 05000 RGTR--
+*Z 05001 RGTR--                                             % 05001 RGTR--
+*L 622      200405036 190101011  02352  02432               % 05001 RGTR--
+*R 1 190101011 200405036 190101011  02352  02432            % 05001 RGTR--
+*G 064 200405036 190101011  02352  02432                    % 05001 RGTR--
+*A VE 200405036 190101011 000036  02352  02432              % 05001 RGTR--
+*I FD 200405036 190101011        0002621  02352  02432      % 05001 RGTR--
+200405036 Luxembourg, Gare Cen         02352                % 05001 RGTR--
+200415003 Hollerich, Fonderie   02353  02353                % 05001 RGTR--
+200415006 Hollerich, Jean-Bapt  02355  02355                % 05001 RGTR--
+200415002 Hollerich, Assurance  02358  02358                % 05001 RGTR--
+200407004 Cessange, Barrès      02359  02359                % 05001 RGTR--
+200407003 Cessange, Artisans    02400  02400                % 05001 RGTR--
+200407007 Cessange, Fischerhaf  02401  02401                % 05001 RGTR--
+200407008 Cessange, Kierch      02402  02402                % 05001 RGTR--
+200407006 Cessange, Duerf       02403  02403                % 05001 RGTR--
+200407001 Cessange, Am Eck      02404  02404                % 05001 RGTR--
+200407010 Cessange, Rue de Leu  02405  02405                % 05001 RGTR--
+220701007 Leudelange, Grasbösc  02406  02406                % 05001 RGTR--
+220701019 Leudelange, Schaefer  02408  02408                % 05001 RGTR--
+220701015 Leudelange, Stiédswe  02409  02409                % 05001 RGTR--
+220701009 Leudelange, Kamelleb  02409  02409                % 05001 RGTR--
+220701017 Leudelange, Pëssenda  02410  02410                % 05001 RGTR--
+220702001 Leudelange, Schléiwe  02411  02411                % 05001 RGTR--
+221005001 Roedgen, Laangwis     02415  02415                % 05001 RGTR--
+221004003 Reckange-sur-Mess, W  02416  02416                % 05001 RGTR--
+221004002 Reckange-sur-Mess, F  02418  02418                % 05001 RGTR--
+221002001 Limpach, Kiirch       02421  02421                % 05001 RGTR--
+221303010 Sanem, W.S.A.         02425  02425                % 05001 RGTR--
+221304001 Soleuvre, Aessen      02427  02427                % 05001 RGTR--
+221304013 Soleuvre, Reitschoul  02428  02428                % 05001 RGTR--
+221303007 Sanem, Schlass        02429  02429                % 05001 RGTR--
+221303009 Sanem, Zentrum        02430  02430                % 05001 RGTR--
+221303004 Sanem, Op Lohr        02431  02431                % 05001 RGTR--
+190101011 Bascharage/Sanem, Ga  02432                       % 05001 RGTR--
+*Z 05002 RGTR--                                             % 05002 RGTR--
+*L 622      200405036 190101011  00852  00932               % 05002 RGTR--
+*R 1 190101011 200405036 190101011  00852  00932            % 05002 RGTR--
+*G 064 200405036 190101011  00852  00932                    % 05002 RGTR--
+*A VE 200405036 190101011 000033  00852  00932              % 05002 RGTR--
+*I FD 200405036 190101011        0002622  00852  00932      % 05002 RGTR--
+200405036 Luxembourg, Gare Cen         00852                % 05002 RGTR--
+200415003 Hollerich, Fonderie   00853  00853                % 05002 RGTR--
+200415006 Hollerich, Jean-Bapt  00855  00855                % 05002 RGTR--
+200415002 Hollerich, Assurance  00858  00858                % 05002 RGTR--
+200407004 Cessange, Barrès      00859  00859                % 05002 RGTR--
+200407003 Cessange, Artisans    00900  00900                % 05002 RGTR--
+200407007 Cessange, Fischerhaf  00901  00901                % 05002 RGTR--
+200407008 Cessange, Kierch      00902  00902                % 05002 RGTR--
+200407006 Cessange, Duerf       00903  00903                % 05002 RGTR--
+200407001 Cessange, Am Eck      00904  00904                % 05002 RGTR--
+200407010 Cessange, Rue de Leu  00905  00905                % 05002 RGTR--
+220701007 Leudelange, Grasbösc  00906  00906                % 05002 RGTR--
+220701019 Leudelange, Schaefer  00908  00908                % 05002 RGTR--
+220701015 Leudelange, Stiédswe  00909  00909                % 05002 RGTR--
+220701009 Leudelange, Kamelleb  00909  00909                % 05002 RGTR--
+220701017 Leudelange, Pëssenda  00910  00910                % 05002 RGTR--
+220702001 Leudelange, Schléiwe  00911  00911                % 05002 RGTR--
+221005001 Roedgen, Laangwis     00915  00915                % 05002 RGTR--
+221004003 Reckange-sur-Mess, W  00916  00916                % 05002 RGTR--
+221004002 Reckange-sur-Mess, F  00918  00918                % 05002 RGTR--
+221002001 Limpach, Kiirch       00921  00921                % 05002 RGTR--
+221303010 Sanem, W.S.A.         00925  00925                % 05002 RGTR--
+221304001 Soleuvre, Aessen      00927  00927                % 05002 RGTR--
+221304013 Soleuvre, Reitschoul  00928  00928                % 05002 RGTR--
+221303007 Sanem, Schlass        00929  00929                % 05002 RGTR--
+221303009 Sanem, Zentrum        00930  00930                % 05002 RGTR--
+221303004 Sanem, Op Lohr        00931  00931                % 05002 RGTR--
+190101011 Bascharage/Sanem, Ga  00932                       % 05002 RGTR--
+*Z 05003 RGTR--                                             % 05003 RGTR--
+*L 622      200405036 190101011  01852  01932               % 05003 RGTR--
+*R 1 190101011 200405036 190101011  01852  01932            % 05003 RGTR--
+*G 064 200405036 190101011  01852  01932                    % 05003 RGTR--
+*A VE 200405036 190101011 000033  01852  01932              % 05003 RGTR--
+*I FD 200405036 190101011        0002623  01852  01932      % 05003 RGTR--
+200405036 Luxembourg, Gare Cen         01852                % 05003 RGTR--
+200415003 Hollerich, Fonderie   01853  01853                % 05003 RGTR--
+200415006 Hollerich, Jean-Bapt  01855  01855                % 05003 RGTR--
+200415002 Hollerich, Assurance  01858  01858                % 05003 RGTR--
+200407004 Cessange, Barrès      01859  01859                % 05003 RGTR--
+200407003 Cessange, Artisans    01900  01900                % 05003 RGTR--
+200407007 Cessange, Fischerhaf  01901  01901                % 05003 RGTR--
+200407008 Cessange, Kierch      01902  01902                % 05003 RGTR--
+200407006 Cessange, Duerf       01903  01903                % 05003 RGTR--
+200407001 Cessange, Am Eck      01904  01904                % 05003 RGTR--
+200407010 Cessange, Rue de Leu  01905  01905                % 05003 RGTR--
+220701007 Leudelange, Grasbösc  01906  01906                % 05003 RGTR--
+220701019 Leudelange, Schaefer  01908  01908                % 05003 RGTR--
+220701015 Leudelange, Stiédswe  01909  01909                % 05003 RGTR--
+220701009 Leudelange, Kamelleb  01909  01909                % 05003 RGTR--
+220701017 Leudelange, Pëssenda  01910  01910                % 05003 RGTR--
+220702001 Leudelange, Schléiwe  01911  01911                % 05003 RGTR--
+221005001 Roedgen, Laangwis     01915  01915                % 05003 RGTR--
+221004003 Reckange-sur-Mess, W  01916  01916                % 05003 RGTR--
+221004002 Reckange-sur-Mess, F  01918  01918                % 05003 RGTR--
+221002001 Limpach, Kiirch       01921  01921                % 05003 RGTR--
+221303010 Sanem, W.S.A.         01925  01925                % 05003 RGTR--
+221304001 Soleuvre, Aessen      01927  01927                % 05003 RGTR--
+221304013 Soleuvre, Reitschoul  01928  01928                % 05003 RGTR--
+221303007 Sanem, Schlass        01929  01929                % 05003 RGTR--
+221303009 Sanem, Zentrum        01930  01930                % 05003 RGTR--
+221303004 Sanem, Op Lohr        01931  01931                % 05003 RGTR--
+190101011 Bascharage/Sanem, Ga  01932                       % 05003 RGTR--
+*Z 05004 RGTR--                                             % 05004 RGTR--
+*L 622      200405036 190101011  00752  00832               % 05004 RGTR--
+*R 1 190101011 200405036 190101011  00752  00832            % 05004 RGTR--
+*G 064 200405036 190101011  00752  00832                    % 05004 RGTR--
+*A VE 200405036 190101011 000018  00752  00832              % 05004 RGTR--
+*I FD 200405036 190101011        0002624  00752  00832      % 05004 RGTR--
+200405036 Luxembourg, Gare Cen         00752                % 05004 RGTR--
+200415003 Hollerich, Fonderie   00753  00753                % 05004 RGTR--
+200415006 Hollerich, Jean-Bapt  00755  00755                % 05004 RGTR--
+200415002 Hollerich, Assurance  00758  00758                % 05004 RGTR--
+200407004 Cessange, Barrès      00759  00759                % 05004 RGTR--
+200407003 Cessange, Artisans    00800  00800                % 05004 RGTR--
+200407007 Cessange, Fischerhaf  00801  00801                % 05004 RGTR--
+200407008 Cessange, Kierch      00802  00802                % 05004 RGTR--
+200407006 Cessange, Duerf       00803  00803                % 05004 RGTR--
+200407001 Cessange, Am Eck      00804  00804                % 05004 RGTR--
+200407010 Cessange, Rue de Leu  00805  00805                % 05004 RGTR--
+220701007 Leudelange, Grasbösc  00806  00806                % 05004 RGTR--
+220701019 Leudelange, Schaefer  00808  00808                % 05004 RGTR--
+220701015 Leudelange, Stiédswe  00809  00809                % 05004 RGTR--
+220701009 Leudelange, Kamelleb  00809  00809                % 05004 RGTR--
+220701017 Leudelange, Pëssenda  00810  00810                % 05004 RGTR--
+220702001 Leudelange, Schléiwe  00811  00811                % 05004 RGTR--
+221005001 Roedgen, Laangwis     00815  00815                % 05004 RGTR--
+221004003 Reckange-sur-Mess, W  00816  00816                % 05004 RGTR--
+221004002 Reckange-sur-Mess, F  00818  00818                % 05004 RGTR--
+221002001 Limpach, Kiirch       00821  00821                % 05004 RGTR--
+221303010 Sanem, W.S.A.         00825  00825                % 05004 RGTR--
+221304001 Soleuvre, Aessen      00827  00827                % 05004 RGTR--
+221304013 Soleuvre, Reitschoul  00828  00828                % 05004 RGTR--
+221303007 Sanem, Schlass        00829  00829                % 05004 RGTR--
+221303009 Sanem, Zentrum        00830  00830                % 05004 RGTR--
+221303004 Sanem, Op Lohr        00831  00831                % 05004 RGTR--
+190101011 Bascharage/Sanem, Ga  00832                       % 05004 RGTR--
+*Z 05005 RGTR--                                             % 05005 RGTR--
+*L 622      200405036 190101011  01752  01832               % 05005 RGTR--
+*R 1 190101011 200405036 190101011  01752  01832            % 05005 RGTR--
+*G 064 200405036 190101011  01752  01832                    % 05005 RGTR--
+*A VE 200405036 190101011 000018  01752  01832              % 05005 RGTR--
+*I FD 200405036 190101011        0002625  01752  01832      % 05005 RGTR--
+200405036 Luxembourg, Gare Cen         01752                % 05005 RGTR--
+200415003 Hollerich, Fonderie   01753  01753                % 05005 RGTR--
+200415006 Hollerich, Jean-Bapt  01755  01755                % 05005 RGTR--
+200415002 Hollerich, Assurance  01758  01758                % 05005 RGTR--
+200407004 Cessange, Barrès      01759  01759                % 05005 RGTR--
+200407003 Cessange, Artisans    01800  01800                % 05005 RGTR--
+200407007 Cessange, Fischerhaf  01801  01801                % 05005 RGTR--
+200407008 Cessange, Kierch      01802  01802                % 05005 RGTR--
+200407006 Cessange, Duerf       01803  01803                % 05005 RGTR--
+200407001 Cessange, Am Eck      01804  01804                % 05005 RGTR--
+200407010 Cessange, Rue de Leu  01805  01805                % 05005 RGTR--
+220701007 Leudelange, Grasbösc  01806  01806                % 05005 RGTR--
+220701019 Leudelange, Schaefer  01808  01808                % 05005 RGTR--
+220701015 Leudelange, Stiédswe  01809  01809                % 05005 RGTR--
+220701009 Leudelange, Kamelleb  01809  01809                % 05005 RGTR--
+220701017 Leudelange, Pëssenda  01810  01810                % 05005 RGTR--
+220702001 Leudelange, Schléiwe  01811  01811                % 05005 RGTR--
+221005001 Roedgen, Laangwis     01815  01815                % 05005 RGTR--
+221004003 Reckange-sur-Mess, W  01816  01816                % 05005 RGTR--
+221004002 Reckange-sur-Mess, F  01818  01818                % 05005 RGTR--
+221002001 Limpach, Kiirch       01821  01821                % 05005 RGTR--
+221303010 Sanem, W.S.A.         01825  01825                % 05005 RGTR--
+221304001 Soleuvre, Aessen      01827  01827                % 05005 RGTR--
+221304013 Soleuvre, Reitschoul  01828  01828                % 05005 RGTR--
+221303007 Sanem, Schlass        01829  01829                % 05005 RGTR--
+221303009 Sanem, Zentrum        01830  01830                % 05005 RGTR--
+221303004 Sanem, Op Lohr        01831  01831                % 05005 RGTR--
+190101011 Bascharage/Sanem, Ga  01832                       % 05005 RGTR--
+*Z 05006 RGTR--                                             % 05006 RGTR--
+*L 622      200405036 190101011  00752  00841               % 05006 RGTR--
+*R 1 190101011 200405036 190101011  00752  00841            % 05006 RGTR--
+*G 064 200405036 190101011  00752  00841                    % 05006 RGTR--
+*A VE 200405036 190101011 000036  00752  00841              % 05006 RGTR--
+*I FD 200405036 190101011        0002624  00752  00841      % 05006 RGTR--
+200405036 Luxembourg, Gare Cen         00752                % 05006 RGTR--
+200415003 Hollerich, Fonderie   00754  00754                % 05006 RGTR--
+200415006 Hollerich, Jean-Bapt  00758  00758                % 05006 RGTR--
+200415002 Hollerich, Assurance  00802  00802                % 05006 RGTR--
+200407004 Cessange, Barrès      00803  00803                % 05006 RGTR--
+200407003 Cessange, Artisans    00804  00804                % 05006 RGTR--
+200407007 Cessange, Fischerhaf  00805  00805                % 05006 RGTR--
+200407008 Cessange, Kierch      00806  00806                % 05006 RGTR--
+200407006 Cessange, Duerf       00808  00808                % 05006 RGTR--
+200407001 Cessange, Am Eck      00809  00809                % 05006 RGTR--
+200407010 Cessange, Rue de Leu  00810  00810                % 05006 RGTR--
+220701007 Leudelange, Grasbösc  00812  00812                % 05006 RGTR--
+220701019 Leudelange, Schaefer  00813  00813                % 05006 RGTR--
+220701015 Leudelange, Stiédswe  00814  00814                % 05006 RGTR--
+220701009 Leudelange, Kamelleb  00815  00815                % 05006 RGTR--
+220701017 Leudelange, Pëssenda  00816  00816                % 05006 RGTR--
+220702001 Leudelange, Schléiwe  00817  00817                % 05006 RGTR--
+221005001 Roedgen, Laangwis     00821  00821                % 05006 RGTR--
+221004003 Reckange-sur-Mess, W  00824  00824                % 05006 RGTR--
+221004002 Reckange-sur-Mess, F  00825  00825                % 05006 RGTR--
+221002001 Limpach, Kiirch       00829  00829                % 05006 RGTR--
+221303010 Sanem, W.S.A.         00833  00833                % 05006 RGTR--
+221304001 Soleuvre, Aessen      00836  00836                % 05006 RGTR--
+221304013 Soleuvre, Reitschoul  00836  00836                % 05006 RGTR--
+221303007 Sanem, Schlass        00838  00838                % 05006 RGTR--
+221303009 Sanem, Zentrum        00839  00839                % 05006 RGTR--
+221303004 Sanem, Op Lohr        00840  00840                % 05006 RGTR--
+190101011 Bascharage/Sanem, Ga  00841                       % 05006 RGTR--
+*Z 05007 RGTR--                                             % 05007 RGTR--
+*L 622      200405036 190101011  01752  01841               % 05007 RGTR--
+*R 1 190101011 200405036 190101011  01752  01841            % 05007 RGTR--
+*G 064 200405036 190101011  01752  01841                    % 05007 RGTR--
+*A VE 200405036 190101011 000036  01752  01841              % 05007 RGTR--
+*I FD 200405036 190101011        0002625  01752  01841      % 05007 RGTR--
+200405036 Luxembourg, Gare Cen         01752                % 05007 RGTR--
+200415003 Hollerich, Fonderie   01754  01754                % 05007 RGTR--
+200415006 Hollerich, Jean-Bapt  01758  01758                % 05007 RGTR--
+200415002 Hollerich, Assurance  01802  01802                % 05007 RGTR--
+200407004 Cessange, Barrès      01803  01803                % 05007 RGTR--
+200407003 Cessange, Artisans    01804  01804                % 05007 RGTR--
+200407007 Cessange, Fischerhaf  01805  01805                % 05007 RGTR--
+200407008 Cessange, Kierch      01806  01806                % 05007 RGTR--
+200407006 Cessange, Duerf       01808  01808                % 05007 RGTR--
+200407001 Cessange, Am Eck      01809  01809                % 05007 RGTR--
+200407010 Cessange, Rue de Leu  01810  01810                % 05007 RGTR--
+220701007 Leudelange, Grasbösc  01812  01812                % 05007 RGTR--
+220701019 Leudelange, Schaefer  01813  01813                % 05007 RGTR--
+220701015 Leudelange, Stiédswe  01814  01814                % 05007 RGTR--
+220701009 Leudelange, Kamelleb  01815  01815                % 05007 RGTR--
+220701017 Leudelange, Pëssenda  01816  01816                % 05007 RGTR--
+220702001 Leudelange, Schléiwe  01817  01817                % 05007 RGTR--
+221005001 Roedgen, Laangwis     01821  01821                % 05007 RGTR--
+221004003 Reckange-sur-Mess, W  01824  01824                % 05007 RGTR--
+221004002 Reckange-sur-Mess, F  01825  01825                % 05007 RGTR--
+221002001 Limpach, Kiirch       01829  01829                % 05007 RGTR--
+221303010 Sanem, W.S.A.         01833  01833                % 05007 RGTR--
+221304001 Soleuvre, Aessen      01836  01836                % 05007 RGTR--
+221304013 Soleuvre, Reitschoul  01836  01836                % 05007 RGTR--
+221303007 Sanem, Schlass        01838  01838                % 05007 RGTR--
+221303009 Sanem, Zentrum        01839  01839                % 05007 RGTR--
+221303004 Sanem, Op Lohr        01840  01840                % 05007 RGTR--
+190101011 Bascharage/Sanem, Ga  01841                       % 05007 RGTR--
+*Z 05008 RGTR--                                             % 05008 RGTR--
+*L 622      200405036 190101011  00652  00741               % 05008 RGTR--
+*R 1 190101011 200405036 190101011  00652  00741            % 05008 RGTR--
+*G 064 200405036 190101011  00652  00741                    % 05008 RGTR--
+*A VE 200405036 190101011 000033  00652  00741              % 05008 RGTR--
+*I FD 200405036 190101011        0002626  00652  00741      % 05008 RGTR--
+200405036 Luxembourg, Gare Cen         00652                % 05008 RGTR--
+200415003 Hollerich, Fonderie   00654  00654                % 05008 RGTR--
+200415006 Hollerich, Jean-Bapt  00658  00658                % 05008 RGTR--
+200415002 Hollerich, Assurance  00702  00702                % 05008 RGTR--
+200407004 Cessange, Barrès      00703  00703                % 05008 RGTR--
+200407003 Cessange, Artisans    00704  00704                % 05008 RGTR--
+200407007 Cessange, Fischerhaf  00705  00705                % 05008 RGTR--
+200407008 Cessange, Kierch      00706  00706                % 05008 RGTR--
+200407006 Cessange, Duerf       00708  00708                % 05008 RGTR--
+200407001 Cessange, Am Eck      00709  00709                % 05008 RGTR--
+200407010 Cessange, Rue de Leu  00710  00710                % 05008 RGTR--
+220701007 Leudelange, Grasbösc  00712  00712                % 05008 RGTR--
+220701019 Leudelange, Schaefer  00713  00713                % 05008 RGTR--
+220701015 Leudelange, Stiédswe  00714  00714                % 05008 RGTR--
+220701009 Leudelange, Kamelleb  00715  00715                % 05008 RGTR--
+220701017 Leudelange, Pëssenda  00716  00716                % 05008 RGTR--
+220702001 Leudelange, Schléiwe  00717  00717                % 05008 RGTR--
+221005001 Roedgen, Laangwis     00721  00721                % 05008 RGTR--
+221004003 Reckange-sur-Mess, W  00724  00724                % 05008 RGTR--
+221004002 Reckange-sur-Mess, F  00725  00725                % 05008 RGTR--
+221002001 Limpach, Kiirch       00729  00729                % 05008 RGTR--
+221303010 Sanem, W.S.A.         00733  00733                % 05008 RGTR--
+221304001 Soleuvre, Aessen      00736  00736                % 05008 RGTR--
+221304013 Soleuvre, Reitschoul  00736  00736                % 05008 RGTR--
+221303007 Sanem, Schlass        00738  00738                % 05008 RGTR--
+221303009 Sanem, Zentrum        00739  00739                % 05008 RGTR--
+221303004 Sanem, Op Lohr        00740  00740                % 05008 RGTR--
+190101011 Bascharage/Sanem, Ga  00741                       % 05008 RGTR--
+*Z 05009 RGTR--                                             % 05009 RGTR--
+*L 622      200405036 190101011  01653  01742               % 05009 RGTR--
+*R 1 190101011 200405036 190101011  01653  01742            % 05009 RGTR--
+*G 064 200405036 190101011  01653  01742                    % 05009 RGTR--
+*A VE 200405036 190101011 000033  01653  01742              % 05009 RGTR--
+*I FD 200405036 190101011        0002501  01653  01742      % 05009 RGTR--
+200405036 Luxembourg, Gare Cen         01653                % 05009 RGTR--
+200415003 Hollerich, Fonderie   01655  01655                % 05009 RGTR--
+200415006 Hollerich, Jean-Bapt  01659  01659                % 05009 RGTR--
+200415002 Hollerich, Assurance  01703  01703                % 05009 RGTR--
+200407004 Cessange, Barrès      01704  01704                % 05009 RGTR--
+200407003 Cessange, Artisans    01705  01705                % 05009 RGTR--
+200407007 Cessange, Fischerhaf  01706  01706                % 05009 RGTR--
+200407008 Cessange, Kierch      01707  01707                % 05009 RGTR--
+200407006 Cessange, Duerf       01709  01709                % 05009 RGTR--
+200407001 Cessange, Am Eck      01710  01710                % 05009 RGTR--
+200407010 Cessange, Rue de Leu  01711  01711                % 05009 RGTR--
+220701007 Leudelange, Grasbösc  01713  01713                % 05009 RGTR--
+220701019 Leudelange, Schaefer  01714  01714                % 05009 RGTR--
+220701015 Leudelange, Stiédswe  01715  01715                % 05009 RGTR--
+220701009 Leudelange, Kamelleb  01716  01716                % 05009 RGTR--
+220701017 Leudelange, Pëssenda  01717  01717                % 05009 RGTR--
+220702001 Leudelange, Schléiwe  01718  01718                % 05009 RGTR--
+221005001 Roedgen, Laangwis     01722  01722                % 05009 RGTR--
+221004003 Reckange-sur-Mess, W  01725  01725                % 05009 RGTR--
+221004002 Reckange-sur-Mess, F  01726  01726                % 05009 RGTR--
+221002001 Limpach, Kiirch       01730  01730                % 05009 RGTR--
+221303010 Sanem, W.S.A.         01734  01734                % 05009 RGTR--
+221304001 Soleuvre, Aessen      01737  01737                % 05009 RGTR--
+221304013 Soleuvre, Reitschoul  01737  01737                % 05009 RGTR--
+221303007 Sanem, Schlass        01739  01739                % 05009 RGTR--
+221303009 Sanem, Zentrum        01740  01740                % 05009 RGTR--
+221303004 Sanem, Op Lohr        01741  01741                % 05009 RGTR--
+190101011 Bascharage/Sanem, Ga  01742                       % 05009 RGTR--
+*Z 05010 RGTR--                                             % 05010 RGTR--
+*L 622      190101011 200405036  00953  01037               % 05010 RGTR--
+*R 2 200405036 190101011 200405036  00953  01037            % 05010 RGTR--
+*G 064 190101011 200405036  00953  01037                    % 05010 RGTR--
+*A VE 190101011 200405036 000039  00953  01037              % 05010 RGTR--
+*I FD 190101011 200405036        0002627  00953  01037      % 05010 RGTR--
+190101011 Bascharage/Sanem, Ga         00953                % 05010 RGTR--
+221303004 Sanem, Op Lohr        00954  00954                % 05010 RGTR--
+221303009 Sanem, Zentrum        00955  00955                % 05010 RGTR--
+221303007 Sanem, Schlass        00956  00956                % 05010 RGTR--
+221304013 Soleuvre, Reitschoul  00958  00958                % 05010 RGTR--
+221304001 Soleuvre, Aessen      00959  00959                % 05010 RGTR--
+221303010 Sanem, W.S.A.         01001  01001                % 05010 RGTR--
+221002001 Limpach, Kiirch       01004  01004                % 05010 RGTR--
+221004002 Reckange-sur-Mess, F  01007  01007                % 05010 RGTR--
+221004003 Reckange-sur-Mess, W  01009  01009                % 05010 RGTR--
+221005001 Roedgen, Laangwis     01011  01011                % 05010 RGTR--
+220702001 Leudelange, Schléiwe  01018  01018                % 05010 RGTR--
+220701017 Leudelange, Pëssenda  01020  01020                % 05010 RGTR--
+220701009 Leudelange, Kamelleb  01020  01020                % 05010 RGTR--
+220701015 Leudelange, Stiédswe  01021  01021                % 05010 RGTR--
+220701019 Leudelange, Schaefer  01023  01023                % 05010 RGTR--
+220701007 Leudelange, Grasbösc  01024  01024                % 05010 RGTR--
+200407010 Cessange, Rue de Leu  01026  01026                % 05010 RGTR--
+200407001 Cessange, Am Eck      01027  01027                % 05010 RGTR--
+200407006 Cessange, Duerf       01028  01028                % 05010 RGTR--
+200407008 Cessange, Kierch      01029  01029                % 05010 RGTR--
+200407007 Cessange, Fischerhaf  01030  01030                % 05010 RGTR--
+200407003 Cessange, Artisans    01031  01031                % 05010 RGTR--
+200407004 Cessange, Barrès      01032  01032                % 05010 RGTR--
+200415002 Hollerich, Assurance  01032  01032                % 05010 RGTR--
+200415019 Hollerich, Jean-Bapt  01034  01034                % 05010 RGTR--
+200415003 Hollerich, Fonderie   01035  01035                % 05010 RGTR--
+200405036 Luxembourg, Gare Cen  01037                       % 05010 RGTR--
+*Z 05011 RGTR--                                             % 05011 RGTR--
+*L 622      190101011 200405036  01153  01237               % 05011 RGTR--
+*R 2 200405036 190101011 200405036  01153  01237            % 05011 RGTR--
+*G 064 190101011 200405036  01153  01237                    % 05011 RGTR--
+*A VE 190101011 200405036 000039  01153  01237              % 05011 RGTR--
+*I FD 190101011 200405036        0002628  01153  01237      % 05011 RGTR--
+190101011 Bascharage/Sanem, Ga         01153                % 05011 RGTR--
+221303004 Sanem, Op Lohr        01154  01154                % 05011 RGTR--
+221303009 Sanem, Zentrum        01155  01155                % 05011 RGTR--
+221303007 Sanem, Schlass        01156  01156                % 05011 RGTR--
+221304013 Soleuvre, Reitschoul  01158  01158                % 05011 RGTR--
+221304001 Soleuvre, Aessen      01159  01159                % 05011 RGTR--
+221303010 Sanem, W.S.A.         01201  01201                % 05011 RGTR--
+221002001 Limpach, Kiirch       01204  01204                % 05011 RGTR--
+221004002 Reckange-sur-Mess, F  01207  01207                % 05011 RGTR--
+221004003 Reckange-sur-Mess, W  01209  01209                % 05011 RGTR--
+221005001 Roedgen, Laangwis     01211  01211                % 05011 RGTR--
+220702001 Leudelange, Schléiwe  01218  01218                % 05011 RGTR--
+220701017 Leudelange, Pëssenda  01220  01220                % 05011 RGTR--
+220701009 Leudelange, Kamelleb  01220  01220                % 05011 RGTR--
+220701015 Leudelange, Stiédswe  01221  01221                % 05011 RGTR--
+220701019 Leudelange, Schaefer  01223  01223                % 05011 RGTR--
+220701007 Leudelange, Grasbösc  01224  01224                % 05011 RGTR--
+200407010 Cessange, Rue de Leu  01226  01226                % 05011 RGTR--
+200407001 Cessange, Am Eck      01227  01227                % 05011 RGTR--
+200407006 Cessange, Duerf       01228  01228                % 05011 RGTR--
+200407008 Cessange, Kierch      01229  01229                % 05011 RGTR--
+200407007 Cessange, Fischerhaf  01230  01230                % 05011 RGTR--
+200407003 Cessange, Artisans    01231  01231                % 05011 RGTR--
+200407004 Cessange, Barrès      01232  01232                % 05011 RGTR--
+200415002 Hollerich, Assurance  01232  01232                % 05011 RGTR--
+200415019 Hollerich, Jean-Bapt  01234  01234                % 05011 RGTR--
+200415003 Hollerich, Fonderie   01235  01235                % 05011 RGTR--
+200405036 Luxembourg, Gare Cen  01237                       % 05011 RGTR--
+*Z 05012 RGTR--                                             % 05012 RGTR--
+*L 622      190101011 200405036  01353  01437               % 05012 RGTR--
+*R 2 200405036 190101011 200405036  01353  01437            % 05012 RGTR--
+*G 064 190101011 200405036  01353  01437                    % 05012 RGTR--
+*A VE 190101011 200405036 000039  01353  01437              % 05012 RGTR--
+*I FD 190101011 200405036        0002629  01353  01437      % 05012 RGTR--
+190101011 Bascharage/Sanem, Ga         01353                % 05012 RGTR--
+221303004 Sanem, Op Lohr        01354  01354                % 05012 RGTR--
+221303009 Sanem, Zentrum        01355  01355                % 05012 RGTR--
+221303007 Sanem, Schlass        01356  01356                % 05012 RGTR--
+221304013 Soleuvre, Reitschoul  01358  01358                % 05012 RGTR--
+221304001 Soleuvre, Aessen      01359  01359                % 05012 RGTR--
+221303010 Sanem, W.S.A.         01401  01401                % 05012 RGTR--
+221002001 Limpach, Kiirch       01404  01404                % 05012 RGTR--
+221004002 Reckange-sur-Mess, F  01407  01407                % 05012 RGTR--
+221004003 Reckange-sur-Mess, W  01409  01409                % 05012 RGTR--
+221005001 Roedgen, Laangwis     01411  01411                % 05012 RGTR--
+220702001 Leudelange, Schléiwe  01418  01418                % 05012 RGTR--
+220701017 Leudelange, Pëssenda  01420  01420                % 05012 RGTR--
+220701009 Leudelange, Kamelleb  01420  01420                % 05012 RGTR--
+220701015 Leudelange, Stiédswe  01421  01421                % 05012 RGTR--
+220701019 Leudelange, Schaefer  01423  01423                % 05012 RGTR--
+220701007 Leudelange, Grasbösc  01424  01424                % 05012 RGTR--
+200407010 Cessange, Rue de Leu  01426  01426                % 05012 RGTR--
+200407001 Cessange, Am Eck      01427  01427                % 05012 RGTR--
+200407006 Cessange, Duerf       01428  01428                % 05012 RGTR--
+200407008 Cessange, Kierch      01429  01429                % 05012 RGTR--
+200407007 Cessange, Fischerhaf  01430  01430                % 05012 RGTR--
+200407003 Cessange, Artisans    01431  01431                % 05012 RGTR--
+200407004 Cessange, Barrès      01432  01432                % 05012 RGTR--
+200415002 Hollerich, Assurance  01432  01432                % 05012 RGTR--
+200415019 Hollerich, Jean-Bapt  01434  01434                % 05012 RGTR--
+200415003 Hollerich, Fonderie   01435  01435                % 05012 RGTR--
+200405036 Luxembourg, Gare Cen  01437                       % 05012 RGTR--
+*Z 05013 RGTR--                                             % 05013 RGTR--
+*L 622      190101011 200405036  01553  01637               % 05013 RGTR--
+*R 2 200405036 190101011 200405036  01553  01637            % 05013 RGTR--
+*G 064 190101011 200405036  01553  01637                    % 05013 RGTR--
+*A VE 190101011 200405036 000039  01553  01637              % 05013 RGTR--
+*I FD 190101011 200405036        0002630  01553  01637      % 05013 RGTR--
+190101011 Bascharage/Sanem, Ga         01553                % 05013 RGTR--
+221303004 Sanem, Op Lohr        01554  01554                % 05013 RGTR--
+221303009 Sanem, Zentrum        01555  01555                % 05013 RGTR--
+221303007 Sanem, Schlass        01556  01556                % 05013 RGTR--
+221304013 Soleuvre, Reitschoul  01558  01558                % 05013 RGTR--
+221304001 Soleuvre, Aessen      01559  01559                % 05013 RGTR--
+221303010 Sanem, W.S.A.         01601  01601                % 05013 RGTR--
+221002001 Limpach, Kiirch       01604  01604                % 05013 RGTR--
+221004002 Reckange-sur-Mess, F  01607  01607                % 05013 RGTR--
+221004003 Reckange-sur-Mess, W  01609  01609                % 05013 RGTR--
+221005001 Roedgen, Laangwis     01611  01611                % 05013 RGTR--
+220702001 Leudelange, Schléiwe  01618  01618                % 05013 RGTR--
+220701017 Leudelange, Pëssenda  01620  01620                % 05013 RGTR--
+220701009 Leudelange, Kamelleb  01620  01620                % 05013 RGTR--
+220701015 Leudelange, Stiédswe  01621  01621                % 05013 RGTR--
+220701019 Leudelange, Schaefer  01623  01623                % 05013 RGTR--
+220701007 Leudelange, Grasbösc  01624  01624                % 05013 RGTR--
+200407010 Cessange, Rue de Leu  01626  01626                % 05013 RGTR--
+200407001 Cessange, Am Eck      01627  01627                % 05013 RGTR--
+200407006 Cessange, Duerf       01628  01628                % 05013 RGTR--
+200407008 Cessange, Kierch      01629  01629                % 05013 RGTR--
+200407007 Cessange, Fischerhaf  01630  01630                % 05013 RGTR--
+200407003 Cessange, Artisans    01631  01631                % 05013 RGTR--
+200407004 Cessange, Barrès      01632  01632                % 05013 RGTR--
+200415002 Hollerich, Assurance  01632  01632                % 05013 RGTR--
+200415019 Hollerich, Jean-Bapt  01634  01634                % 05013 RGTR--
+200415003 Hollerich, Fonderie   01635  01635                % 05013 RGTR--
+200405036 Luxembourg, Gare Cen  01637                       % 05013 RGTR--
+*Z 05014 RGTR--                                             % 05014 RGTR--
+*L 622      190101011 200405036  01953  02037               % 05014 RGTR--
+*R 2 200405036 190101011 200405036  01953  02037            % 05014 RGTR--
+*G 064 190101011 200405036  01953  02037                    % 05014 RGTR--
+*A VE 190101011 200405036 000039  01953  02037              % 05014 RGTR--
+*I FD 190101011 200405036        0002631  01953  02037      % 05014 RGTR--
+190101011 Bascharage/Sanem, Ga         01953                % 05014 RGTR--
+221303004 Sanem, Op Lohr        01954  01954                % 05014 RGTR--
+221303009 Sanem, Zentrum        01955  01955                % 05014 RGTR--
+221303007 Sanem, Schlass        01956  01956                % 05014 RGTR--
+221304013 Soleuvre, Reitschoul  01958  01958                % 05014 RGTR--
+221304001 Soleuvre, Aessen      01959  01959                % 05014 RGTR--
+221303010 Sanem, W.S.A.         02001  02001                % 05014 RGTR--
+221002001 Limpach, Kiirch       02004  02004                % 05014 RGTR--
+221004002 Reckange-sur-Mess, F  02007  02007                % 05014 RGTR--
+221004003 Reckange-sur-Mess, W  02009  02009                % 05014 RGTR--
+221005001 Roedgen, Laangwis     02011  02011                % 05014 RGTR--
+220702001 Leudelange, Schléiwe  02018  02018                % 05014 RGTR--
+220701017 Leudelange, Pëssenda  02020  02020                % 05014 RGTR--
+220701009 Leudelange, Kamelleb  02020  02020                % 05014 RGTR--
+220701015 Leudelange, Stiédswe  02021  02021                % 05014 RGTR--
+220701019 Leudelange, Schaefer  02023  02023                % 05014 RGTR--
+220701007 Leudelange, Grasbösc  02024  02024                % 05014 RGTR--
+200407010 Cessange, Rue de Leu  02026  02026                % 05014 RGTR--
+200407001 Cessange, Am Eck      02027  02027                % 05014 RGTR--
+200407006 Cessange, Duerf       02028  02028                % 05014 RGTR--
+200407008 Cessange, Kierch      02029  02029                % 05014 RGTR--
+200407007 Cessange, Fischerhaf  02030  02030                % 05014 RGTR--
+200407003 Cessange, Artisans    02031  02031                % 05014 RGTR--
+200407004 Cessange, Barrès      02032  02032                % 05014 RGTR--
+200415002 Hollerich, Assurance  02032  02032                % 05014 RGTR--
+200415019 Hollerich, Jean-Bapt  02034  02034                % 05014 RGTR--
+200415003 Hollerich, Fonderie   02035  02035                % 05014 RGTR--
+200405036 Luxembourg, Gare Cen  02037                       % 05014 RGTR--
+*Z 05015 RGTR--                                             % 05015 RGTR--
+*L 622      190101011 200405036  00553  00637               % 05015 RGTR--
+*R 2 200405036 190101011 200405036  00553  00637            % 05015 RGTR--
+*G 064 190101011 200405036  00553  00637                    % 05015 RGTR--
+*A VE 190101011 200405036 000036  00553  00637              % 05015 RGTR--
+*I FD 190101011 200405036        0002632  00553  00637      % 05015 RGTR--
+190101011 Bascharage/Sanem, Ga         00553                % 05015 RGTR--
+221303004 Sanem, Op Lohr        00554  00554                % 05015 RGTR--
+221303009 Sanem, Zentrum        00555  00555                % 05015 RGTR--
+221303007 Sanem, Schlass        00556  00556                % 05015 RGTR--
+221304013 Soleuvre, Reitschoul  00558  00558                % 05015 RGTR--
+221304001 Soleuvre, Aessen      00559  00559                % 05015 RGTR--
+221303010 Sanem, W.S.A.         00601  00601                % 05015 RGTR--
+221002001 Limpach, Kiirch       00604  00604                % 05015 RGTR--
+221004002 Reckange-sur-Mess, F  00607  00607                % 05015 RGTR--
+221004003 Reckange-sur-Mess, W  00609  00609                % 05015 RGTR--
+221005001 Roedgen, Laangwis     00611  00611                % 05015 RGTR--
+220702001 Leudelange, Schléiwe  00618  00618                % 05015 RGTR--
+220701017 Leudelange, Pëssenda  00620  00620                % 05015 RGTR--
+220701009 Leudelange, Kamelleb  00620  00620                % 05015 RGTR--
+220701015 Leudelange, Stiédswe  00621  00621                % 05015 RGTR--
+220701019 Leudelange, Schaefer  00623  00623                % 05015 RGTR--
+220701007 Leudelange, Grasbösc  00624  00624                % 05015 RGTR--
+200407010 Cessange, Rue de Leu  00626  00626                % 05015 RGTR--
+200407001 Cessange, Am Eck      00627  00627                % 05015 RGTR--
+200407006 Cessange, Duerf       00628  00628                % 05015 RGTR--
+200407008 Cessange, Kierch      00629  00629                % 05015 RGTR--
+200407007 Cessange, Fischerhaf  00630  00630                % 05015 RGTR--
+200407003 Cessange, Artisans    00631  00631                % 05015 RGTR--
+200407004 Cessange, Barrès      00632  00632                % 05015 RGTR--
+200415002 Hollerich, Assurance  00632  00632                % 05015 RGTR--
+200415019 Hollerich, Jean-Bapt  00634  00634                % 05015 RGTR--
+200415003 Hollerich, Fonderie   00635  00635                % 05015 RGTR--
+200405036 Luxembourg, Gare Cen  00637                       % 05015 RGTR--
+*Z 05016 RGTR--                                             % 05016 RGTR--
+*L 622      190101011 200405036  02153  02237               % 05016 RGTR--
+*R 2 200405036 190101011 200405036  02153  02237            % 05016 RGTR--
+*G 064 190101011 200405036  02153  02237                    % 05016 RGTR--
+*A VE 190101011 200405036 000036  02153  02237              % 05016 RGTR--
+*I FD 190101011 200405036        0002633  02153  02237      % 05016 RGTR--
+190101011 Bascharage/Sanem, Ga         02153                % 05016 RGTR--
+221303004 Sanem, Op Lohr        02154  02154                % 05016 RGTR--
+221303009 Sanem, Zentrum        02155  02155                % 05016 RGTR--
+221303007 Sanem, Schlass        02156  02156                % 05016 RGTR--
+221304013 Soleuvre, Reitschoul  02158  02158                % 05016 RGTR--
+221304001 Soleuvre, Aessen      02159  02159                % 05016 RGTR--
+221303010 Sanem, W.S.A.         02201  02201                % 05016 RGTR--
+221002001 Limpach, Kiirch       02204  02204                % 05016 RGTR--
+221004002 Reckange-sur-Mess, F  02207  02207                % 05016 RGTR--
+221004003 Reckange-sur-Mess, W  02209  02209                % 05016 RGTR--
+221005001 Roedgen, Laangwis     02211  02211                % 05016 RGTR--
+220702001 Leudelange, Schléiwe  02218  02218                % 05016 RGTR--
+220701017 Leudelange, Pëssenda  02220  02220                % 05016 RGTR--
+220701009 Leudelange, Kamelleb  02220  02220                % 05016 RGTR--
+220701015 Leudelange, Stiédswe  02221  02221                % 05016 RGTR--
+220701019 Leudelange, Schaefer  02223  02223                % 05016 RGTR--
+220701007 Leudelange, Grasbösc  02224  02224                % 05016 RGTR--
+200407010 Cessange, Rue de Leu  02226  02226                % 05016 RGTR--
+200407001 Cessange, Am Eck      02227  02227                % 05016 RGTR--
+200407006 Cessange, Duerf       02228  02228                % 05016 RGTR--
+200407008 Cessange, Kierch      02229  02229                % 05016 RGTR--
+200407007 Cessange, Fischerhaf  02230  02230                % 05016 RGTR--
+200407003 Cessange, Artisans    02231  02231                % 05016 RGTR--
+200407004 Cessange, Barrès      02232  02232                % 05016 RGTR--
+200415002 Hollerich, Assurance  02232  02232                % 05016 RGTR--
+200415019 Hollerich, Jean-Bapt  02234  02234                % 05016 RGTR--
+200415003 Hollerich, Fonderie   02235  02235                % 05016 RGTR--
+200405036 Luxembourg, Gare Cen  02237                       % 05016 RGTR--
+*Z 05017 RGTR--                                             % 05017 RGTR--
+*L 622      190101011 200405036  02353  02437               % 05017 RGTR--
+*R 2 200405036 190101011 200405036  02353  02437            % 05017 RGTR--
+*G 064 190101011 200405036  02353  02437                    % 05017 RGTR--
+*A VE 190101011 200405036 000036  02353  02437              % 05017 RGTR--
+*I FD 190101011 200405036        0002634  02353  02437      % 05017 RGTR--
+190101011 Bascharage/Sanem, Ga         02353                % 05017 RGTR--
+221303004 Sanem, Op Lohr        02354  02354                % 05017 RGTR--
+221303009 Sanem, Zentrum        02355  02355                % 05017 RGTR--
+221303007 Sanem, Schlass        02356  02356                % 05017 RGTR--
+221304013 Soleuvre, Reitschoul  02358  02358                % 05017 RGTR--
+221304001 Soleuvre, Aessen      02359  02359                % 05017 RGTR--
+221303010 Sanem, W.S.A.         02401  02401                % 05017 RGTR--
+221002001 Limpach, Kiirch       02404  02404                % 05017 RGTR--
+221004002 Reckange-sur-Mess, F  02407  02407                % 05017 RGTR--
+221004003 Reckange-sur-Mess, W  02409  02409                % 05017 RGTR--
+221005001 Roedgen, Laangwis     02411  02411                % 05017 RGTR--
+220702001 Leudelange, Schléiwe  02418  02418                % 05017 RGTR--
+220701017 Leudelange, Pëssenda  02420  02420                % 05017 RGTR--
+220701009 Leudelange, Kamelleb  02420  02420                % 05017 RGTR--
+220701015 Leudelange, Stiédswe  02421  02421                % 05017 RGTR--
+220701019 Leudelange, Schaefer  02423  02423                % 05017 RGTR--
+220701007 Leudelange, Grasbösc  02424  02424                % 05017 RGTR--
+200407010 Cessange, Rue de Leu  02426  02426                % 05017 RGTR--
+200407001 Cessange, Am Eck      02427  02427                % 05017 RGTR--
+200407006 Cessange, Duerf       02428  02428                % 05017 RGTR--
+200407008 Cessange, Kierch      02429  02429                % 05017 RGTR--
+200407007 Cessange, Fischerhaf  02430  02430                % 05017 RGTR--
+200407003 Cessange, Artisans    02431  02431                % 05017 RGTR--
+200407004 Cessange, Barrès      02432  02432                % 05017 RGTR--
+200415002 Hollerich, Assurance  02432  02432                % 05017 RGTR--
+200415019 Hollerich, Jean-Bapt  02434  02434                % 05017 RGTR--
+200415003 Hollerich, Fonderie   02435  02435                % 05017 RGTR--
+200405036 Luxembourg, Gare Cen  02437                       % 05017 RGTR--
+*Z 05018 RGTR--                                             % 05018 RGTR--
+*L 622      190101011 200405036  01853  01937               % 05018 RGTR--
+*R 2 200405036 190101011 200405036  01853  01937            % 05018 RGTR--
+*G 064 190101011 200405036  01853  01937                    % 05018 RGTR--
+*A VE 190101011 200405036 000033  01853  01937              % 05018 RGTR--
+*I FD 190101011 200405036        0002635  01853  01937      % 05018 RGTR--
+190101011 Bascharage/Sanem, Ga         01853                % 05018 RGTR--
+221303004 Sanem, Op Lohr        01854  01854                % 05018 RGTR--
+221303009 Sanem, Zentrum        01855  01855                % 05018 RGTR--
+221303007 Sanem, Schlass        01856  01856                % 05018 RGTR--
+221304013 Soleuvre, Reitschoul  01858  01858                % 05018 RGTR--
+221304001 Soleuvre, Aessen      01859  01859                % 05018 RGTR--
+221303010 Sanem, W.S.A.         01901  01901                % 05018 RGTR--
+221002001 Limpach, Kiirch       01904  01904                % 05018 RGTR--
+221004002 Reckange-sur-Mess, F  01907  01907                % 05018 RGTR--
+221004003 Reckange-sur-Mess, W  01909  01909                % 05018 RGTR--
+221005001 Roedgen, Laangwis     01911  01911                % 05018 RGTR--
+220702001 Leudelange, Schléiwe  01918  01918                % 05018 RGTR--
+220701017 Leudelange, Pëssenda  01920  01920                % 05018 RGTR--
+220701009 Leudelange, Kamelleb  01920  01920                % 05018 RGTR--
+220701015 Leudelange, Stiédswe  01921  01921                % 05018 RGTR--
+220701019 Leudelange, Schaefer  01923  01923                % 05018 RGTR--
+220701007 Leudelange, Grasbösc  01924  01924                % 05018 RGTR--
+200407010 Cessange, Rue de Leu  01926  01926                % 05018 RGTR--
+200407001 Cessange, Am Eck      01927  01927                % 05018 RGTR--
+200407006 Cessange, Duerf       01928  01928                % 05018 RGTR--
+200407008 Cessange, Kierch      01929  01929                % 05018 RGTR--
+200407007 Cessange, Fischerhaf  01930  01930                % 05018 RGTR--
+200407003 Cessange, Artisans    01931  01931                % 05018 RGTR--
+200407004 Cessange, Barrès      01932  01932                % 05018 RGTR--
+200415002 Hollerich, Assurance  01932  01932                % 05018 RGTR--
+200415019 Hollerich, Jean-Bapt  01934  01934                % 05018 RGTR--
+200415003 Hollerich, Fonderie   01935  01935                % 05018 RGTR--
+200405036 Luxembourg, Gare Cen  01937                       % 05018 RGTR--
+*Z 05019 RGTR--                                             % 05019 RGTR--
+*L 622      190101011 200405036  00753  00837               % 05019 RGTR--
+*R 2 200405036 190101011 200405036  00753  00837            % 05019 RGTR--
+*G 064 190101011 200405036  00753  00837                    % 05019 RGTR--
+*A VE 190101011 200405036 000018  00753  00837              % 05019 RGTR--
+*I FD 190101011 200405036        0002636  00753  00837      % 05019 RGTR--
+190101011 Bascharage/Sanem, Ga         00753                % 05019 RGTR--
+221303004 Sanem, Op Lohr        00754  00754                % 05019 RGTR--
+221303009 Sanem, Zentrum        00755  00755                % 05019 RGTR--
+221303007 Sanem, Schlass        00756  00756                % 05019 RGTR--
+221304013 Soleuvre, Reitschoul  00758  00758                % 05019 RGTR--
+221304001 Soleuvre, Aessen      00759  00759                % 05019 RGTR--
+221303010 Sanem, W.S.A.         00801  00801                % 05019 RGTR--
+221002001 Limpach, Kiirch       00804  00804                % 05019 RGTR--
+221004002 Reckange-sur-Mess, F  00807  00807                % 05019 RGTR--
+221004003 Reckange-sur-Mess, W  00809  00809                % 05019 RGTR--
+221005001 Roedgen, Laangwis     00811  00811                % 05019 RGTR--
+220702001 Leudelange, Schléiwe  00818  00818                % 05019 RGTR--
+220701017 Leudelange, Pëssenda  00820  00820                % 05019 RGTR--
+220701009 Leudelange, Kamelleb  00820  00820                % 05019 RGTR--
+220701015 Leudelange, Stiédswe  00821  00821                % 05019 RGTR--
+220701019 Leudelange, Schaefer  00823  00823                % 05019 RGTR--
+220701007 Leudelange, Grasbösc  00824  00824                % 05019 RGTR--
+200407010 Cessange, Rue de Leu  00826  00826                % 05019 RGTR--
+200407001 Cessange, Am Eck      00827  00827                % 05019 RGTR--
+200407006 Cessange, Duerf       00828  00828                % 05019 RGTR--
+200407008 Cessange, Kierch      00829  00829                % 05019 RGTR--
+200407007 Cessange, Fischerhaf  00830  00830                % 05019 RGTR--
+200407003 Cessange, Artisans    00831  00831                % 05019 RGTR--
+200407004 Cessange, Barrès      00832  00832                % 05019 RGTR--
+200415002 Hollerich, Assurance  00832  00832                % 05019 RGTR--
+200415019 Hollerich, Jean-Bapt  00834  00834                % 05019 RGTR--
+200415003 Hollerich, Fonderie   00835  00835                % 05019 RGTR--
+200405036 Luxembourg, Gare Cen  00837                       % 05019 RGTR--
+*Z 05020 RGTR--                                             % 05020 RGTR--
+*L 622      190101011 200405036  01753  01837               % 05020 RGTR--
+*R 2 200405036 190101011 200405036  01753  01837            % 05020 RGTR--
+*G 064 190101011 200405036  01753  01837                    % 05020 RGTR--
+*A VE 190101011 200405036 000018  01753  01837              % 05020 RGTR--
+*I FD 190101011 200405036        0002637  01753  01837      % 05020 RGTR--
+190101011 Bascharage/Sanem, Ga         01753                % 05020 RGTR--
+221303004 Sanem, Op Lohr        01754  01754                % 05020 RGTR--
+221303009 Sanem, Zentrum        01755  01755                % 05020 RGTR--
+221303007 Sanem, Schlass        01756  01756                % 05020 RGTR--
+221304013 Soleuvre, Reitschoul  01758  01758                % 05020 RGTR--
+221304001 Soleuvre, Aessen      01759  01759                % 05020 RGTR--
+221303010 Sanem, W.S.A.         01801  01801                % 05020 RGTR--
+221002001 Limpach, Kiirch       01804  01804                % 05020 RGTR--
+221004002 Reckange-sur-Mess, F  01807  01807                % 05020 RGTR--
+221004003 Reckange-sur-Mess, W  01809  01809                % 05020 RGTR--
+221005001 Roedgen, Laangwis     01811  01811                % 05020 RGTR--
+220702001 Leudelange, Schléiwe  01818  01818                % 05020 RGTR--
+220701017 Leudelange, Pëssenda  01820  01820                % 05020 RGTR--
+220701009 Leudelange, Kamelleb  01820  01820                % 05020 RGTR--
+220701015 Leudelange, Stiédswe  01821  01821                % 05020 RGTR--
+220701019 Leudelange, Schaefer  01823  01823                % 05020 RGTR--
+220701007 Leudelange, Grasbösc  01824  01824                % 05020 RGTR--
+200407010 Cessange, Rue de Leu  01826  01826                % 05020 RGTR--
+200407001 Cessange, Am Eck      01827  01827                % 05020 RGTR--
+200407006 Cessange, Duerf       01828  01828                % 05020 RGTR--
+200407008 Cessange, Kierch      01829  01829                % 05020 RGTR--
+200407007 Cessange, Fischerhaf  01830  01830                % 05020 RGTR--
+200407003 Cessange, Artisans    01831  01831                % 05020 RGTR--
+200407004 Cessange, Barrès      01832  01832                % 05020 RGTR--
+200415002 Hollerich, Assurance  01832  01832                % 05020 RGTR--
+200415019 Hollerich, Jean-Bapt  01834  01834                % 05020 RGTR--
+200415003 Hollerich, Fonderie   01835  01835                % 05020 RGTR--
+200405036 Luxembourg, Gare Cen  01837                       % 05020 RGTR--
+*Z 05021 RGTR--                                             % 05021 RGTR--
+*L 622      190101011 200405036  00753  00849               % 05021 RGTR--
+*R 2 200405036 190101011 200405036  00753  00849            % 05021 RGTR--
+*G 064 190101011 200405036  00753  00849                    % 05021 RGTR--
+*A VE 190101011 200405036 000036  00753  00849              % 05021 RGTR--
+*I FD 190101011 200405036        0002636  00753  00849      % 05021 RGTR--
+190101011 Bascharage/Sanem, Ga         00753                % 05021 RGTR--
+221303004 Sanem, Op Lohr        00754  00754                % 05021 RGTR--
+221303009 Sanem, Zentrum        00755  00755                % 05021 RGTR--
+221303007 Sanem, Schlass        00756  00756                % 05021 RGTR--
+221304013 Soleuvre, Reitschoul  00758  00758                % 05021 RGTR--
+221304001 Soleuvre, Aessen      00759  00759                % 05021 RGTR--
+221303010 Sanem, W.S.A.         00803  00803                % 05021 RGTR--
+221002001 Limpach, Kiirch       00811  00811                % 05021 RGTR--
+221004002 Reckange-sur-Mess, F  00814  00814                % 05021 RGTR--
+221004003 Reckange-sur-Mess, W  00815  00815                % 05021 RGTR--
+221005001 Roedgen, Laangwis     00818  00818                % 05021 RGTR--
+220702001 Leudelange, Schléiwe  00826  00826                % 05021 RGTR--
+220701017 Leudelange, Pëssenda  00828  00828                % 05021 RGTR--
+220701009 Leudelange, Kamelleb  00828  00828                % 05021 RGTR--
+220701015 Leudelange, Stiédswe  00829  00829                % 05021 RGTR--
+220701019 Leudelange, Schaefer  00831  00831                % 05021 RGTR--
+220701007 Leudelange, Grasbösc  00833  00833                % 05021 RGTR--
+200407010 Cessange, Rue de Leu  00834  00834                % 05021 RGTR--
+200407001 Cessange, Am Eck      00836  00836                % 05021 RGTR--
+200407006 Cessange, Duerf       00837  00837                % 05021 RGTR--
+200407008 Cessange, Kierch      00838  00838                % 05021 RGTR--
+200407007 Cessange, Fischerhaf  00839  00839                % 05021 RGTR--
+200407003 Cessange, Artisans    00840  00840                % 05021 RGTR--
+200407004 Cessange, Barrès      00841  00841                % 05021 RGTR--
+200415002 Hollerich, Assurance  00843  00843                % 05021 RGTR--
+200415019 Hollerich, Jean-Bapt  00845  00845                % 05021 RGTR--
+200415003 Hollerich, Fonderie   00846  00846                % 05021 RGTR--
+200405036 Luxembourg, Gare Cen  00849                       % 05021 RGTR--
+*Z 05022 RGTR--                                             % 05022 RGTR--
+*L 622      190101011 200405036  01753  01849               % 05022 RGTR--
+*R 2 200405036 190101011 200405036  01753  01849            % 05022 RGTR--
+*G 064 190101011 200405036  01753  01849                    % 05022 RGTR--
+*A VE 190101011 200405036 000036  01753  01849              % 05022 RGTR--
+*I FD 190101011 200405036        0002637  01753  01849      % 05022 RGTR--
+190101011 Bascharage/Sanem, Ga         01753                % 05022 RGTR--
+221303004 Sanem, Op Lohr        01754  01754                % 05022 RGTR--
+221303009 Sanem, Zentrum        01755  01755                % 05022 RGTR--
+221303007 Sanem, Schlass        01756  01756                % 05022 RGTR--
+221304013 Soleuvre, Reitschoul  01758  01758                % 05022 RGTR--
+221304001 Soleuvre, Aessen      01759  01759                % 05022 RGTR--
+221303010 Sanem, W.S.A.         01803  01803                % 05022 RGTR--
+221002001 Limpach, Kiirch       01811  01811                % 05022 RGTR--
+221004002 Reckange-sur-Mess, F  01814  01814                % 05022 RGTR--
+221004003 Reckange-sur-Mess, W  01815  01815                % 05022 RGTR--
+221005001 Roedgen, Laangwis     01818  01818                % 05022 RGTR--
+220702001 Leudelange, Schléiwe  01826  01826                % 05022 RGTR--
+220701017 Leudelange, Pëssenda  01828  01828                % 05022 RGTR--
+220701009 Leudelange, Kamelleb  01828  01828                % 05022 RGTR--
+220701015 Leudelange, Stiédswe  01829  01829                % 05022 RGTR--
+220701019 Leudelange, Schaefer  01831  01831                % 05022 RGTR--
+220701007 Leudelange, Grasbösc  01833  01833                % 05022 RGTR--
+200407010 Cessange, Rue de Leu  01834  01834                % 05022 RGTR--
+200407001 Cessange, Am Eck      01836  01836                % 05022 RGTR--
+200407006 Cessange, Duerf       01837  01837                % 05022 RGTR--
+200407008 Cessange, Kierch      01838  01838                % 05022 RGTR--
+200407007 Cessange, Fischerhaf  01839  01839                % 05022 RGTR--
+200407003 Cessange, Artisans    01840  01840                % 05022 RGTR--
+200407004 Cessange, Barrès      01841  01841                % 05022 RGTR--
+200415002 Hollerich, Assurance  01843  01843                % 05022 RGTR--
+200415019 Hollerich, Jean-Bapt  01845  01845                % 05022 RGTR--
+200415003 Hollerich, Fonderie   01846  01846                % 05022 RGTR--
+200405036 Luxembourg, Gare Cen  01849                       % 05022 RGTR--
+*Z 05023 RGTR--                                             % 05023 RGTR--
+*L 622      190101011 200405036  00653  00749               % 05023 RGTR--
+*R 2 200405036 190101011 200405036  00653  00749            % 05023 RGTR--
+*G 064 190101011 200405036  00653  00749                    % 05023 RGTR--
+*A VE 190101011 200405036 000033  00653  00749              % 05023 RGTR--
+*I FD 190101011 200405036        0002638  00653  00749      % 05023 RGTR--
+190101011 Bascharage/Sanem, Ga         00653                % 05023 RGTR--
+221303004 Sanem, Op Lohr        00654  00654                % 05023 RGTR--
+221303009 Sanem, Zentrum        00655  00655                % 05023 RGTR--
+221303007 Sanem, Schlass        00656  00656                % 05023 RGTR--
+221304013 Soleuvre, Reitschoul  00658  00658                % 05023 RGTR--
+221304001 Soleuvre, Aessen      00659  00659                % 05023 RGTR--
+221303010 Sanem, W.S.A.         00703  00703                % 05023 RGTR--
+221002001 Limpach, Kiirch       00711  00711                % 05023 RGTR--
+221004002 Reckange-sur-Mess, F  00714  00714                % 05023 RGTR--
+221004003 Reckange-sur-Mess, W  00715  00715                % 05023 RGTR--
+221005001 Roedgen, Laangwis     00718  00718                % 05023 RGTR--
+220702001 Leudelange, Schléiwe  00726  00726                % 05023 RGTR--
+220701017 Leudelange, Pëssenda  00728  00728                % 05023 RGTR--
+220701009 Leudelange, Kamelleb  00728  00728                % 05023 RGTR--
+220701015 Leudelange, Stiédswe  00729  00729                % 05023 RGTR--
+220701019 Leudelange, Schaefer  00731  00731                % 05023 RGTR--
+220701007 Leudelange, Grasbösc  00733  00733                % 05023 RGTR--
+200407010 Cessange, Rue de Leu  00734  00734                % 05023 RGTR--
+200407001 Cessange, Am Eck      00736  00736                % 05023 RGTR--
+200407006 Cessange, Duerf       00737  00737                % 05023 RGTR--
+200407008 Cessange, Kierch      00738  00738                % 05023 RGTR--
+200407007 Cessange, Fischerhaf  00739  00739                % 05023 RGTR--
+200407003 Cessange, Artisans    00740  00740                % 05023 RGTR--
+200407004 Cessange, Barrès      00741  00741                % 05023 RGTR--
+200415002 Hollerich, Assurance  00743  00743                % 05023 RGTR--
+200415019 Hollerich, Jean-Bapt  00745  00745                % 05023 RGTR--
+200415003 Hollerich, Fonderie   00746  00746                % 05023 RGTR--
+200405036 Luxembourg, Gare Cen  00749                       % 05023 RGTR--
+*Z 05024 RGTR--                                             % 05024 RGTR--
+*L 622      190101011 200405036  00853  00949               % 05024 RGTR--
+*R 2 200405036 190101011 200405036  00853  00949            % 05024 RGTR--
+*G 064 190101011 200405036  00853  00949                    % 05024 RGTR--
+*A VE 190101011 200405036 000033  00853  00949              % 05024 RGTR--
+*I FD 190101011 200405036        0002639  00853  00949      % 05024 RGTR--
+190101011 Bascharage/Sanem, Ga         00853                % 05024 RGTR--
+221303004 Sanem, Op Lohr        00854  00854                % 05024 RGTR--
+221303009 Sanem, Zentrum        00855  00855                % 05024 RGTR--
+221303007 Sanem, Schlass        00856  00856                % 05024 RGTR--
+221304013 Soleuvre, Reitschoul  00858  00858                % 05024 RGTR--
+221304001 Soleuvre, Aessen      00859  00859                % 05024 RGTR--
+221303010 Sanem, W.S.A.         00903  00903                % 05024 RGTR--
+221002001 Limpach, Kiirch       00911  00911                % 05024 RGTR--
+221004002 Reckange-sur-Mess, F  00914  00914                % 05024 RGTR--
+221004003 Reckange-sur-Mess, W  00915  00915                % 05024 RGTR--
+221005001 Roedgen, Laangwis     00918  00918                % 05024 RGTR--
+220702001 Leudelange, Schléiwe  00926  00926                % 05024 RGTR--
+220701017 Leudelange, Pëssenda  00928  00928                % 05024 RGTR--
+220701009 Leudelange, Kamelleb  00928  00928                % 05024 RGTR--
+220701015 Leudelange, Stiédswe  00929  00929                % 05024 RGTR--
+220701019 Leudelange, Schaefer  00931  00931                % 05024 RGTR--
+220701007 Leudelange, Grasbösc  00933  00933                % 05024 RGTR--
+200407010 Cessange, Rue de Leu  00934  00934                % 05024 RGTR--
+200407001 Cessange, Am Eck      00936  00936                % 05024 RGTR--
+200407006 Cessange, Duerf       00937  00937                % 05024 RGTR--
+200407008 Cessange, Kierch      00938  00938                % 05024 RGTR--
+200407007 Cessange, Fischerhaf  00939  00939                % 05024 RGTR--
+200407003 Cessange, Artisans    00940  00940                % 05024 RGTR--
+200407004 Cessange, Barrès      00941  00941                % 05024 RGTR--
+200415002 Hollerich, Assurance  00943  00943                % 05024 RGTR--
+200415019 Hollerich, Jean-Bapt  00945  00945                % 05024 RGTR--
+200415003 Hollerich, Fonderie   00946  00946                % 05024 RGTR--
+200405036 Luxembourg, Gare Cen  00949                       % 05024 RGTR--
+*Z 05025 RGTR--                                             % 05025 RGTR--
+*L 622      190101011 200405036  01653  01749               % 05025 RGTR--
+*R 2 200405036 190101011 200405036  01653  01749            % 05025 RGTR--
+*G 064 190101011 200405036  01653  01749                    % 05025 RGTR--
+*A VE 190101011 200405036 000033  01653  01749              % 05025 RGTR--
+*I FD 190101011 200405036        0002640  01653  01749      % 05025 RGTR--
+190101011 Bascharage/Sanem, Ga         01653                % 05025 RGTR--
+221303004 Sanem, Op Lohr        01654  01654                % 05025 RGTR--
+221303009 Sanem, Zentrum        01655  01655                % 05025 RGTR--
+221303007 Sanem, Schlass        01656  01656                % 05025 RGTR--
+221304013 Soleuvre, Reitschoul  01658  01658                % 05025 RGTR--
+221304001 Soleuvre, Aessen      01659  01659                % 05025 RGTR--
+221303010 Sanem, W.S.A.         01703  01703                % 05025 RGTR--
+221002001 Limpach, Kiirch       01711  01711                % 05025 RGTR--
+221004002 Reckange-sur-Mess, F  01714  01714                % 05025 RGTR--
+221004003 Reckange-sur-Mess, W  01715  01715                % 05025 RGTR--
+221005001 Roedgen, Laangwis     01718  01718                % 05025 RGTR--
+220702001 Leudelange, Schléiwe  01726  01726                % 05025 RGTR--
+220701017 Leudelange, Pëssenda  01728  01728                % 05025 RGTR--
+220701009 Leudelange, Kamelleb  01728  01728                % 05025 RGTR--
+220701015 Leudelange, Stiédswe  01729  01729                % 05025 RGTR--
+220701019 Leudelange, Schaefer  01731  01731                % 05025 RGTR--
+220701007 Leudelange, Grasbösc  01733  01733                % 05025 RGTR--
+200407010 Cessange, Rue de Leu  01734  01734                % 05025 RGTR--
+200407001 Cessange, Am Eck      01736  01736                % 05025 RGTR--
+200407006 Cessange, Duerf       01737  01737                % 05025 RGTR--
+200407008 Cessange, Kierch      01738  01738                % 05025 RGTR--
+200407007 Cessange, Fischerhaf  01739  01739                % 05025 RGTR--
+200407003 Cessange, Artisans    01740  01740                % 05025 RGTR--
+200407004 Cessange, Barrès      01741  01741                % 05025 RGTR--
+200415002 Hollerich, Assurance  01743  01743                % 05025 RGTR--
+200415019 Hollerich, Jean-Bapt  01745  01745                % 05025 RGTR--
+200415003 Hollerich, Fonderie   01746  01746                % 05025 RGTR--
+200405036 Luxembourg, Gare Cen  01749                       % 05025 RGTR--
+*Z 05026 RGTR--                                             % 05026 RGTR--
+*L 622      200405046 190101011  00952  01034               % 05026 RGTR--
+*R 1 190101011 200405046 190101011  00952  01034            % 05026 RGTR--
+*G 064 200405046 190101011  00952  01034                    % 05026 RGTR--
+*A VE 200405046 190101011 000040  00952  01034              % 05026 RGTR--
+*I FD 200405046 190101011        0002614  00952  01034      % 05026 RGTR--
+200405046 Luxembourg, Gare Roc         00952                % 05026 RGTR--
+200415003 Hollerich, Fonderie   00955  00955                % 05026 RGTR--
+200415006 Hollerich, Jean-Bapt  00957  00957                % 05026 RGTR--
+200415002 Hollerich, Assurance  01000  01000                % 05026 RGTR--
+200407004 Cessange, Barrès      01001  01001                % 05026 RGTR--
+200407003 Cessange, Artisans    01002  01002                % 05026 RGTR--
+200407007 Cessange, Fischerhaf  01003  01003                % 05026 RGTR--
+200407008 Cessange, Kierch      01004  01004                % 05026 RGTR--
+200407006 Cessange, Duerf       01005  01005                % 05026 RGTR--
+200407001 Cessange, Am Eck      01006  01006                % 05026 RGTR--
+200407010 Cessange, Rue de Leu  01007  01007                % 05026 RGTR--
+220701007 Leudelange, Grasbösc  01008  01008                % 05026 RGTR--
+220701019 Leudelange, Schaefer  01010  01010                % 05026 RGTR--
+220701015 Leudelange, Stiédswe  01011  01011                % 05026 RGTR--
+220701009 Leudelange, Kamelleb  01011  01011                % 05026 RGTR--
+220701017 Leudelange, Pëssenda  01012  01012                % 05026 RGTR--
+220702001 Leudelange, Schléiwe  01013  01013                % 05026 RGTR--
+221005001 Roedgen, Laangwis     01017  01017                % 05026 RGTR--
+221004003 Reckange-sur-Mess, W  01018  01018                % 05026 RGTR--
+221004002 Reckange-sur-Mess, F  01020  01020                % 05026 RGTR--
+221002001 Limpach, Kiirch       01023  01023                % 05026 RGTR--
+221303010 Sanem, W.S.A.         01027  01027                % 05026 RGTR--
+221304001 Soleuvre, Aessen      01029  01029                % 05026 RGTR--
+221304013 Soleuvre, Reitschoul  01030  01030                % 05026 RGTR--
+221303007 Sanem, Schlass        01031  01031                % 05026 RGTR--
+221303009 Sanem, Zentrum        01032  01032                % 05026 RGTR--
+221303004 Sanem, Op Lohr        01033  01033                % 05026 RGTR--
+190101011 Bascharage/Sanem, Ga  01034                       % 05026 RGTR--
+*Z 05027 RGTR--                                             % 05027 RGTR--
+*L 622      200405046 190101011  01152  01234               % 05027 RGTR--
+*R 1 190101011 200405046 190101011  01152  01234            % 05027 RGTR--
+*G 064 200405046 190101011  01152  01234                    % 05027 RGTR--
+*A VE 200405046 190101011 000040  01152  01234              % 05027 RGTR--
+*I FD 200405046 190101011        0002615  01152  01234      % 05027 RGTR--
+200405046 Luxembourg, Gare Roc         01152                % 05027 RGTR--
+200415003 Hollerich, Fonderie   01155  01155                % 05027 RGTR--
+200415006 Hollerich, Jean-Bapt  01157  01157                % 05027 RGTR--
+200415002 Hollerich, Assurance  01200  01200                % 05027 RGTR--
+200407004 Cessange, Barrès      01201  01201                % 05027 RGTR--
+200407003 Cessange, Artisans    01202  01202                % 05027 RGTR--
+200407007 Cessange, Fischerhaf  01203  01203                % 05027 RGTR--
+200407008 Cessange, Kierch      01204  01204                % 05027 RGTR--
+200407006 Cessange, Duerf       01205  01205                % 05027 RGTR--
+200407001 Cessange, Am Eck      01206  01206                % 05027 RGTR--
+200407010 Cessange, Rue de Leu  01207  01207                % 05027 RGTR--
+220701007 Leudelange, Grasbösc  01208  01208                % 05027 RGTR--
+220701019 Leudelange, Schaefer  01210  01210                % 05027 RGTR--
+220701015 Leudelange, Stiédswe  01211  01211                % 05027 RGTR--
+220701009 Leudelange, Kamelleb  01211  01211                % 05027 RGTR--
+220701017 Leudelange, Pëssenda  01212  01212                % 05027 RGTR--
+220702001 Leudelange, Schléiwe  01213  01213                % 05027 RGTR--
+221005001 Roedgen, Laangwis     01217  01217                % 05027 RGTR--
+221004003 Reckange-sur-Mess, W  01218  01218                % 05027 RGTR--
+221004002 Reckange-sur-Mess, F  01220  01220                % 05027 RGTR--
+221002001 Limpach, Kiirch       01223  01223                % 05027 RGTR--
+221303010 Sanem, W.S.A.         01227  01227                % 05027 RGTR--
+221304001 Soleuvre, Aessen      01229  01229                % 05027 RGTR--
+221304013 Soleuvre, Reitschoul  01230  01230                % 05027 RGTR--
+221303007 Sanem, Schlass        01231  01231                % 05027 RGTR--
+221303009 Sanem, Zentrum        01232  01232                % 05027 RGTR--
+221303004 Sanem, Op Lohr        01233  01233                % 05027 RGTR--
+190101011 Bascharage/Sanem, Ga  01234                       % 05027 RGTR--
+*Z 05028 RGTR--                                             % 05028 RGTR--
+*L 622      200405046 190101011  01352  01434               % 05028 RGTR--
+*R 1 190101011 200405046 190101011  01352  01434            % 05028 RGTR--
+*G 064 200405046 190101011  01352  01434                    % 05028 RGTR--
+*A VE 200405046 190101011 000040  01352  01434              % 05028 RGTR--
+*I FD 200405046 190101011        0002616  01352  01434      % 05028 RGTR--
+200405046 Luxembourg, Gare Roc         01352                % 05028 RGTR--
+200415003 Hollerich, Fonderie   01355  01355                % 05028 RGTR--
+200415006 Hollerich, Jean-Bapt  01357  01357                % 05028 RGTR--
+200415002 Hollerich, Assurance  01400  01400                % 05028 RGTR--
+200407004 Cessange, Barrès      01401  01401                % 05028 RGTR--
+200407003 Cessange, Artisans    01402  01402                % 05028 RGTR--
+200407007 Cessange, Fischerhaf  01403  01403                % 05028 RGTR--
+200407008 Cessange, Kierch      01404  01404                % 05028 RGTR--
+200407006 Cessange, Duerf       01405  01405                % 05028 RGTR--
+200407001 Cessange, Am Eck      01406  01406                % 05028 RGTR--
+200407010 Cessange, Rue de Leu  01407  01407                % 05028 RGTR--
+220701007 Leudelange, Grasbösc  01408  01408                % 05028 RGTR--
+220701019 Leudelange, Schaefer  01410  01410                % 05028 RGTR--
+220701015 Leudelange, Stiédswe  01411  01411                % 05028 RGTR--
+220701009 Leudelange, Kamelleb  01411  01411                % 05028 RGTR--
+220701017 Leudelange, Pëssenda  01412  01412                % 05028 RGTR--
+220702001 Leudelange, Schléiwe  01413  01413                % 05028 RGTR--
+221005001 Roedgen, Laangwis     01417  01417                % 05028 RGTR--
+221004003 Reckange-sur-Mess, W  01418  01418                % 05028 RGTR--
+221004002 Reckange-sur-Mess, F  01420  01420                % 05028 RGTR--
+221002001 Limpach, Kiirch       01423  01423                % 05028 RGTR--
+221303010 Sanem, W.S.A.         01427  01427                % 05028 RGTR--
+221304001 Soleuvre, Aessen      01429  01429                % 05028 RGTR--
+221304013 Soleuvre, Reitschoul  01430  01430                % 05028 RGTR--
+221303007 Sanem, Schlass        01431  01431                % 05028 RGTR--
+221303009 Sanem, Zentrum        01432  01432                % 05028 RGTR--
+221303004 Sanem, Op Lohr        01433  01433                % 05028 RGTR--
+190101011 Bascharage/Sanem, Ga  01434                       % 05028 RGTR--
+*Z 05029 RGTR--                                             % 05029 RGTR--
+*L 622      200405046 190101011  01552  01634               % 05029 RGTR--
+*R 1 190101011 200405046 190101011  01552  01634            % 05029 RGTR--
+*G 064 200405046 190101011  01552  01634                    % 05029 RGTR--
+*A VE 200405046 190101011 000040  01552  01634              % 05029 RGTR--
+*I FD 200405046 190101011        0002617  01552  01634      % 05029 RGTR--
+200405046 Luxembourg, Gare Roc         01552                % 05029 RGTR--
+200415003 Hollerich, Fonderie   01555  01555                % 05029 RGTR--
+200415006 Hollerich, Jean-Bapt  01557  01557                % 05029 RGTR--
+200415002 Hollerich, Assurance  01600  01600                % 05029 RGTR--
+200407004 Cessange, Barrès      01601  01601                % 05029 RGTR--
+200407003 Cessange, Artisans    01602  01602                % 05029 RGTR--
+200407007 Cessange, Fischerhaf  01603  01603                % 05029 RGTR--
+200407008 Cessange, Kierch      01604  01604                % 05029 RGTR--
+200407006 Cessange, Duerf       01605  01605                % 05029 RGTR--
+200407001 Cessange, Am Eck      01606  01606                % 05029 RGTR--
+200407010 Cessange, Rue de Leu  01607  01607                % 05029 RGTR--
+220701007 Leudelange, Grasbösc  01608  01608                % 05029 RGTR--
+220701019 Leudelange, Schaefer  01610  01610                % 05029 RGTR--
+220701015 Leudelange, Stiédswe  01611  01611                % 05029 RGTR--
+220701009 Leudelange, Kamelleb  01611  01611                % 05029 RGTR--
+220701017 Leudelange, Pëssenda  01612  01612                % 05029 RGTR--
+220702001 Leudelange, Schléiwe  01613  01613                % 05029 RGTR--
+221005001 Roedgen, Laangwis     01617  01617                % 05029 RGTR--
+221004003 Reckange-sur-Mess, W  01618  01618                % 05029 RGTR--
+221004002 Reckange-sur-Mess, F  01620  01620                % 05029 RGTR--
+221002001 Limpach, Kiirch       01623  01623                % 05029 RGTR--
+221303010 Sanem, W.S.A.         01627  01627                % 05029 RGTR--
+221304001 Soleuvre, Aessen      01629  01629                % 05029 RGTR--
+221304013 Soleuvre, Reitschoul  01630  01630                % 05029 RGTR--
+221303007 Sanem, Schlass        01631  01631                % 05029 RGTR--
+221303009 Sanem, Zentrum        01632  01632                % 05029 RGTR--
+221303004 Sanem, Op Lohr        01633  01633                % 05029 RGTR--
+190101011 Bascharage/Sanem, Ga  01634                       % 05029 RGTR--
+*Z 05030 RGTR--                                             % 05030 RGTR--
+*L 622      200405046 190101011  01952  02034               % 05030 RGTR--
+*R 1 190101011 200405046 190101011  01952  02034            % 05030 RGTR--
+*G 064 200405046 190101011  01952  02034                    % 05030 RGTR--
+*A VE 200405046 190101011 000040  01952  02034              % 05030 RGTR--
+*I FD 200405046 190101011        0002618  01952  02034      % 05030 RGTR--
+200405046 Luxembourg, Gare Roc         01952                % 05030 RGTR--
+200415003 Hollerich, Fonderie   01955  01955                % 05030 RGTR--
+200415006 Hollerich, Jean-Bapt  01957  01957                % 05030 RGTR--
+200415002 Hollerich, Assurance  02000  02000                % 05030 RGTR--
+200407004 Cessange, Barrès      02001  02001                % 05030 RGTR--
+200407003 Cessange, Artisans    02002  02002                % 05030 RGTR--
+200407007 Cessange, Fischerhaf  02003  02003                % 05030 RGTR--
+200407008 Cessange, Kierch      02004  02004                % 05030 RGTR--
+200407006 Cessange, Duerf       02005  02005                % 05030 RGTR--
+200407001 Cessange, Am Eck      02006  02006                % 05030 RGTR--
+200407010 Cessange, Rue de Leu  02007  02007                % 05030 RGTR--
+220701007 Leudelange, Grasbösc  02008  02008                % 05030 RGTR--
+220701019 Leudelange, Schaefer  02010  02010                % 05030 RGTR--
+220701015 Leudelange, Stiédswe  02011  02011                % 05030 RGTR--
+220701009 Leudelange, Kamelleb  02011  02011                % 05030 RGTR--
+220701017 Leudelange, Pëssenda  02012  02012                % 05030 RGTR--
+220702001 Leudelange, Schléiwe  02013  02013                % 05030 RGTR--
+221005001 Roedgen, Laangwis     02017  02017                % 05030 RGTR--
+221004003 Reckange-sur-Mess, W  02018  02018                % 05030 RGTR--
+221004002 Reckange-sur-Mess, F  02020  02020                % 05030 RGTR--
+221002001 Limpach, Kiirch       02023  02023                % 05030 RGTR--
+221303010 Sanem, W.S.A.         02027  02027                % 05030 RGTR--
+221304001 Soleuvre, Aessen      02029  02029                % 05030 RGTR--
+221304013 Soleuvre, Reitschoul  02030  02030                % 05030 RGTR--
+221303007 Sanem, Schlass        02031  02031                % 05030 RGTR--
+221303009 Sanem, Zentrum        02032  02032                % 05030 RGTR--
+221303004 Sanem, Op Lohr        02033  02033                % 05030 RGTR--
+190101011 Bascharage/Sanem, Ga  02034                       % 05030 RGTR--
+*Z 05031 RGTR--                                             % 05031 RGTR--
+*L 622      200405046 190101011  02152  02234               % 05031 RGTR--
+*R 1 190101011 200405046 190101011  02152  02234            % 05031 RGTR--
+*G 064 200405046 190101011  02152  02234                    % 05031 RGTR--
+*A VE 200405046 190101011 000040  02152  02234              % 05031 RGTR--
+*I FD 200405046 190101011        0002619  02152  02234      % 05031 RGTR--
+200405046 Luxembourg, Gare Roc         02152                % 05031 RGTR--
+200415003 Hollerich, Fonderie   02155  02155                % 05031 RGTR--
+200415006 Hollerich, Jean-Bapt  02157  02157                % 05031 RGTR--
+200415002 Hollerich, Assurance  02200  02200                % 05031 RGTR--
+200407004 Cessange, Barrès      02201  02201                % 05031 RGTR--
+200407003 Cessange, Artisans    02202  02202                % 05031 RGTR--
+200407007 Cessange, Fischerhaf  02203  02203                % 05031 RGTR--
+200407008 Cessange, Kierch      02204  02204                % 05031 RGTR--
+200407006 Cessange, Duerf       02205  02205                % 05031 RGTR--
+200407001 Cessange, Am Eck      02206  02206                % 05031 RGTR--
+200407010 Cessange, Rue de Leu  02207  02207                % 05031 RGTR--
+220701007 Leudelange, Grasbösc  02208  02208                % 05031 RGTR--
+220701019 Leudelange, Schaefer  02210  02210                % 05031 RGTR--
+220701015 Leudelange, Stiédswe  02211  02211                % 05031 RGTR--
+220701009 Leudelange, Kamelleb  02211  02211                % 05031 RGTR--
+220701017 Leudelange, Pëssenda  02212  02212                % 05031 RGTR--
+220702001 Leudelange, Schléiwe  02213  02213                % 05031 RGTR--
+221005001 Roedgen, Laangwis     02217  02217                % 05031 RGTR--
+221004003 Reckange-sur-Mess, W  02218  02218                % 05031 RGTR--
+221004002 Reckange-sur-Mess, F  02220  02220                % 05031 RGTR--
+221002001 Limpach, Kiirch       02223  02223                % 05031 RGTR--
+221303010 Sanem, W.S.A.         02227  02227                % 05031 RGTR--
+221304001 Soleuvre, Aessen      02229  02229                % 05031 RGTR--
+221304013 Soleuvre, Reitschoul  02230  02230                % 05031 RGTR--
+221303007 Sanem, Schlass        02231  02231                % 05031 RGTR--
+221303009 Sanem, Zentrum        02232  02232                % 05031 RGTR--
+221303004 Sanem, Op Lohr        02233  02233                % 05031 RGTR--
+190101011 Bascharage/Sanem, Ga  02234                       % 05031 RGTR--
+*Z 05032 RGTR--                                             % 05032 RGTR--
+*L 622      200405046 190101011  00552  00634               % 05032 RGTR--
+*R 1 190101011 200405046 190101011  00552  00634            % 05032 RGTR--
+*G 064 200405046 190101011  00552  00634                    % 05032 RGTR--
+*A VE 200405046 190101011 000038  00552  00634              % 05032 RGTR--
+*I FD 200405046 190101011        0002620  00552  00634      % 05032 RGTR--
+200405046 Luxembourg, Gare Roc         00552                % 05032 RGTR--
+200415003 Hollerich, Fonderie   00555  00555                % 05032 RGTR--
+200415006 Hollerich, Jean-Bapt  00557  00557                % 05032 RGTR--
+200415002 Hollerich, Assurance  00600  00600                % 05032 RGTR--
+200407004 Cessange, Barrès      00601  00601                % 05032 RGTR--
+200407003 Cessange, Artisans    00602  00602                % 05032 RGTR--
+200407007 Cessange, Fischerhaf  00603  00603                % 05032 RGTR--
+200407008 Cessange, Kierch      00604  00604                % 05032 RGTR--
+200407006 Cessange, Duerf       00605  00605                % 05032 RGTR--
+200407001 Cessange, Am Eck      00606  00606                % 05032 RGTR--
+200407010 Cessange, Rue de Leu  00607  00607                % 05032 RGTR--
+220701007 Leudelange, Grasbösc  00608  00608                % 05032 RGTR--
+220701019 Leudelange, Schaefer  00610  00610                % 05032 RGTR--
+220701015 Leudelange, Stiédswe  00611  00611                % 05032 RGTR--
+220701009 Leudelange, Kamelleb  00611  00611                % 05032 RGTR--
+220701017 Leudelange, Pëssenda  00612  00612                % 05032 RGTR--
+220702001 Leudelange, Schléiwe  00613  00613                % 05032 RGTR--
+221005001 Roedgen, Laangwis     00617  00617                % 05032 RGTR--
+221004003 Reckange-sur-Mess, W  00618  00618                % 05032 RGTR--
+221004002 Reckange-sur-Mess, F  00620  00620                % 05032 RGTR--
+221002001 Limpach, Kiirch       00623  00623                % 05032 RGTR--
+221303010 Sanem, W.S.A.         00627  00627                % 05032 RGTR--
+221304001 Soleuvre, Aessen      00629  00629                % 05032 RGTR--
+221304013 Soleuvre, Reitschoul  00630  00630                % 05032 RGTR--
+221303007 Sanem, Schlass        00631  00631                % 05032 RGTR--
+221303009 Sanem, Zentrum        00632  00632                % 05032 RGTR--
+221303004 Sanem, Op Lohr        00633  00633                % 05032 RGTR--
+190101011 Bascharage/Sanem, Ga  00634                       % 05032 RGTR--
+*Z 05033 RGTR--                                             % 05033 RGTR--
+*L 622      200405046 190101011  02352  02434               % 05033 RGTR--
+*R 1 190101011 200405046 190101011  02352  02434            % 05033 RGTR--
+*G 064 200405046 190101011  02352  02434                    % 05033 RGTR--
+*A VE 200405046 190101011 000038  02352  02434              % 05033 RGTR--
+*I FD 200405046 190101011        0002621  02352  02434      % 05033 RGTR--
+200405046 Luxembourg, Gare Roc         02352                % 05033 RGTR--
+200415003 Hollerich, Fonderie   02355  02355                % 05033 RGTR--
+200415006 Hollerich, Jean-Bapt  02357  02357                % 05033 RGTR--
+200415002 Hollerich, Assurance  02400  02400                % 05033 RGTR--
+200407004 Cessange, Barrès      02401  02401                % 05033 RGTR--
+200407003 Cessange, Artisans    02402  02402                % 05033 RGTR--
+200407007 Cessange, Fischerhaf  02403  02403                % 05033 RGTR--
+200407008 Cessange, Kierch      02404  02404                % 05033 RGTR--
+200407006 Cessange, Duerf       02405  02405                % 05033 RGTR--
+200407001 Cessange, Am Eck      02406  02406                % 05033 RGTR--
+200407010 Cessange, Rue de Leu  02407  02407                % 05033 RGTR--
+220701007 Leudelange, Grasbösc  02408  02408                % 05033 RGTR--
+220701019 Leudelange, Schaefer  02410  02410                % 05033 RGTR--
+220701015 Leudelange, Stiédswe  02411  02411                % 05033 RGTR--
+220701009 Leudelange, Kamelleb  02411  02411                % 05033 RGTR--
+220701017 Leudelange, Pëssenda  02412  02412                % 05033 RGTR--
+220702001 Leudelange, Schléiwe  02413  02413                % 05033 RGTR--
+221005001 Roedgen, Laangwis     02417  02417                % 05033 RGTR--
+221004003 Reckange-sur-Mess, W  02418  02418                % 05033 RGTR--
+221004002 Reckange-sur-Mess, F  02420  02420                % 05033 RGTR--
+221002001 Limpach, Kiirch       02423  02423                % 05033 RGTR--
+221303010 Sanem, W.S.A.         02427  02427                % 05033 RGTR--
+221304001 Soleuvre, Aessen      02429  02429                % 05033 RGTR--
+221304013 Soleuvre, Reitschoul  02430  02430                % 05033 RGTR--
+221303007 Sanem, Schlass        02431  02431                % 05033 RGTR--
+221303009 Sanem, Zentrum        02432  02432                % 05033 RGTR--
+221303004 Sanem, Op Lohr        02433  02433                % 05033 RGTR--
+190101011 Bascharage/Sanem, Ga  02434                       % 05033 RGTR--
+*Z 05034 RGTR--                                             % 05034 RGTR--
+*L 622      200405046 190101011  00752  00834               % 05034 RGTR--
+*R 1 190101011 200405046 190101011  00752  00834            % 05034 RGTR--
+*G 064 200405046 190101011  00752  00834                    % 05034 RGTR--
+*A VE 200405046 190101011 000016  00752  00834              % 05034 RGTR--
+*I FD 200405046 190101011        0002624  00752  00834      % 05034 RGTR--
+200405046 Luxembourg, Gare Roc         00752                % 05034 RGTR--
+200415003 Hollerich, Fonderie   00755  00755                % 05034 RGTR--
+200415006 Hollerich, Jean-Bapt  00757  00757                % 05034 RGTR--
+200415002 Hollerich, Assurance  00800  00800                % 05034 RGTR--
+200407004 Cessange, Barrès      00801  00801                % 05034 RGTR--
+200407003 Cessange, Artisans    00802  00802                % 05034 RGTR--
+200407007 Cessange, Fischerhaf  00803  00803                % 05034 RGTR--
+200407008 Cessange, Kierch      00804  00804                % 05034 RGTR--
+200407006 Cessange, Duerf       00805  00805                % 05034 RGTR--
+200407001 Cessange, Am Eck      00806  00806                % 05034 RGTR--
+200407010 Cessange, Rue de Leu  00807  00807                % 05034 RGTR--
+220701007 Leudelange, Grasbösc  00808  00808                % 05034 RGTR--
+220701019 Leudelange, Schaefer  00810  00810                % 05034 RGTR--
+220701015 Leudelange, Stiédswe  00811  00811                % 05034 RGTR--
+220701009 Leudelange, Kamelleb  00811  00811                % 05034 RGTR--
+220701017 Leudelange, Pëssenda  00812  00812                % 05034 RGTR--
+220702001 Leudelange, Schléiwe  00813  00813                % 05034 RGTR--
+221005001 Roedgen, Laangwis     00817  00817                % 05034 RGTR--
+221004003 Reckange-sur-Mess, W  00818  00818                % 05034 RGTR--
+221004002 Reckange-sur-Mess, F  00820  00820                % 05034 RGTR--
+221002001 Limpach, Kiirch       00823  00823                % 05034 RGTR--
+221303010 Sanem, W.S.A.         00827  00827                % 05034 RGTR--
+221304001 Soleuvre, Aessen      00829  00829                % 05034 RGTR--
+221304013 Soleuvre, Reitschoul  00830  00830                % 05034 RGTR--
+221303007 Sanem, Schlass        00831  00831                % 05034 RGTR--
+221303009 Sanem, Zentrum        00832  00832                % 05034 RGTR--
+221303004 Sanem, Op Lohr        00833  00833                % 05034 RGTR--
+190101011 Bascharage/Sanem, Ga  00834                       % 05034 RGTR--
+*Z 05035 RGTR--                                             % 05035 RGTR--
+*L 622      200405046 190101011  01752  01834               % 05035 RGTR--
+*R 1 190101011 200405046 190101011  01752  01834            % 05035 RGTR--
+*G 064 200405046 190101011  01752  01834                    % 05035 RGTR--
+*A VE 200405046 190101011 000016  01752  01834              % 05035 RGTR--
+*I FD 200405046 190101011        0002625  01752  01834      % 05035 RGTR--
+200405046 Luxembourg, Gare Roc         01752                % 05035 RGTR--
+200415003 Hollerich, Fonderie   01755  01755                % 05035 RGTR--
+200415006 Hollerich, Jean-Bapt  01757  01757                % 05035 RGTR--
+200415002 Hollerich, Assurance  01800  01800                % 05035 RGTR--
+200407004 Cessange, Barrès      01801  01801                % 05035 RGTR--
+200407003 Cessange, Artisans    01802  01802                % 05035 RGTR--
+200407007 Cessange, Fischerhaf  01803  01803                % 05035 RGTR--
+200407008 Cessange, Kierch      01804  01804                % 05035 RGTR--
+200407006 Cessange, Duerf       01805  01805                % 05035 RGTR--
+200407001 Cessange, Am Eck      01806  01806                % 05035 RGTR--
+200407010 Cessange, Rue de Leu  01807  01807                % 05035 RGTR--
+220701007 Leudelange, Grasbösc  01808  01808                % 05035 RGTR--
+220701019 Leudelange, Schaefer  01810  01810                % 05035 RGTR--
+220701015 Leudelange, Stiédswe  01811  01811                % 05035 RGTR--
+220701009 Leudelange, Kamelleb  01811  01811                % 05035 RGTR--
+220701017 Leudelange, Pëssenda  01812  01812                % 05035 RGTR--
+220702001 Leudelange, Schléiwe  01813  01813                % 05035 RGTR--
+221005001 Roedgen, Laangwis     01817  01817                % 05035 RGTR--
+221004003 Reckange-sur-Mess, W  01818  01818                % 05035 RGTR--
+221004002 Reckange-sur-Mess, F  01820  01820                % 05035 RGTR--
+221002001 Limpach, Kiirch       01823  01823                % 05035 RGTR--
+221303010 Sanem, W.S.A.         01827  01827                % 05035 RGTR--
+221304001 Soleuvre, Aessen      01829  01829                % 05035 RGTR--
+221304013 Soleuvre, Reitschoul  01830  01830                % 05035 RGTR--
+221303007 Sanem, Schlass        01831  01831                % 05035 RGTR--
+221303009 Sanem, Zentrum        01832  01832                % 05035 RGTR--
+221303004 Sanem, Op Lohr        01833  01833                % 05035 RGTR--
+190101011 Bascharage/Sanem, Ga  01834                       % 05035 RGTR--
+*Z 05036 RGTR--                                             % 05036 RGTR--
+*L 622      200405046 190101011  00852  00934               % 05036 RGTR--
+*R 1 190101011 200405046 190101011  00852  00934            % 05036 RGTR--
+*G 064 200405046 190101011  00852  00934                    % 05036 RGTR--
+*A VE 200405046 190101011 000034  00852  00934              % 05036 RGTR--
+*I FD 200405046 190101011        0002622  00852  00934      % 05036 RGTR--
+200405046 Luxembourg, Gare Roc         00852                % 05036 RGTR--
+200415003 Hollerich, Fonderie   00855  00855                % 05036 RGTR--
+200415006 Hollerich, Jean-Bapt  00857  00857                % 05036 RGTR--
+200415002 Hollerich, Assurance  00900  00900                % 05036 RGTR--
+200407004 Cessange, Barrès      00901  00901                % 05036 RGTR--
+200407003 Cessange, Artisans    00902  00902                % 05036 RGTR--
+200407007 Cessange, Fischerhaf  00903  00903                % 05036 RGTR--
+200407008 Cessange, Kierch      00904  00904                % 05036 RGTR--
+200407006 Cessange, Duerf       00905  00905                % 05036 RGTR--
+200407001 Cessange, Am Eck      00906  00906                % 05036 RGTR--
+200407010 Cessange, Rue de Leu  00907  00907                % 05036 RGTR--
+220701007 Leudelange, Grasbösc  00908  00908                % 05036 RGTR--
+220701019 Leudelange, Schaefer  00910  00910                % 05036 RGTR--
+220701015 Leudelange, Stiédswe  00911  00911                % 05036 RGTR--
+220701009 Leudelange, Kamelleb  00911  00911                % 05036 RGTR--
+220701017 Leudelange, Pëssenda  00912  00912                % 05036 RGTR--
+220702001 Leudelange, Schléiwe  00913  00913                % 05036 RGTR--
+221005001 Roedgen, Laangwis     00917  00917                % 05036 RGTR--
+221004003 Reckange-sur-Mess, W  00918  00918                % 05036 RGTR--
+221004002 Reckange-sur-Mess, F  00920  00920                % 05036 RGTR--
+221002001 Limpach, Kiirch       00923  00923                % 05036 RGTR--
+221303010 Sanem, W.S.A.         00927  00927                % 05036 RGTR--
+221304001 Soleuvre, Aessen      00929  00929                % 05036 RGTR--
+221304013 Soleuvre, Reitschoul  00930  00930                % 05036 RGTR--
+221303007 Sanem, Schlass        00931  00931                % 05036 RGTR--
+221303009 Sanem, Zentrum        00932  00932                % 05036 RGTR--
+221303004 Sanem, Op Lohr        00933  00933                % 05036 RGTR--
+190101011 Bascharage/Sanem, Ga  00934                       % 05036 RGTR--
+*Z 05037 RGTR--                                             % 05037 RGTR--
+*L 622      200405046 190101011  01852  01934               % 05037 RGTR--
+*R 1 190101011 200405046 190101011  01852  01934            % 05037 RGTR--
+*G 064 200405046 190101011  01852  01934                    % 05037 RGTR--
+*A VE 200405046 190101011 000034  01852  01934              % 05037 RGTR--
+*I FD 200405046 190101011        0002623  01852  01934      % 05037 RGTR--
+200405046 Luxembourg, Gare Roc         01852                % 05037 RGTR--
+200415003 Hollerich, Fonderie   01855  01855                % 05037 RGTR--
+200415006 Hollerich, Jean-Bapt  01857  01857                % 05037 RGTR--
+200415002 Hollerich, Assurance  01900  01900                % 05037 RGTR--
+200407004 Cessange, Barrès      01901  01901                % 05037 RGTR--
+200407003 Cessange, Artisans    01902  01902                % 05037 RGTR--
+200407007 Cessange, Fischerhaf  01903  01903                % 05037 RGTR--
+200407008 Cessange, Kierch      01904  01904                % 05037 RGTR--
+200407006 Cessange, Duerf       01905  01905                % 05037 RGTR--
+200407001 Cessange, Am Eck      01906  01906                % 05037 RGTR--
+200407010 Cessange, Rue de Leu  01907  01907                % 05037 RGTR--
+220701007 Leudelange, Grasbösc  01908  01908                % 05037 RGTR--
+220701019 Leudelange, Schaefer  01910  01910                % 05037 RGTR--
+220701015 Leudelange, Stiédswe  01911  01911                % 05037 RGTR--
+220701009 Leudelange, Kamelleb  01911  01911                % 05037 RGTR--
+220701017 Leudelange, Pëssenda  01912  01912                % 05037 RGTR--
+220702001 Leudelange, Schléiwe  01913  01913                % 05037 RGTR--
+221005001 Roedgen, Laangwis     01917  01917                % 05037 RGTR--
+221004003 Reckange-sur-Mess, W  01918  01918                % 05037 RGTR--
+221004002 Reckange-sur-Mess, F  01920  01920                % 05037 RGTR--
+221002001 Limpach, Kiirch       01923  01923                % 05037 RGTR--
+221303010 Sanem, W.S.A.         01927  01927                % 05037 RGTR--
+221304001 Soleuvre, Aessen      01929  01929                % 05037 RGTR--
+221304013 Soleuvre, Reitschoul  01930  01930                % 05037 RGTR--
+221303007 Sanem, Schlass        01931  01931                % 05037 RGTR--
+221303009 Sanem, Zentrum        01932  01932                % 05037 RGTR--
+221303004 Sanem, Op Lohr        01933  01933                % 05037 RGTR--
+190101011 Bascharage/Sanem, Ga  01934                       % 05037 RGTR--
+*Z 05038 RGTR--                                             % 05038 RGTR--
+*L 622      200405046 190101011  00752  00844               % 05038 RGTR--
+*R 1 190101011 200405046 190101011  00752  00844            % 05038 RGTR--
+*G 064 200405046 190101011  00752  00844                    % 05038 RGTR--
+*A VE 200405046 190101011 000038  00752  00844              % 05038 RGTR--
+*I FD 200405046 190101011        0002624  00752  00844      % 05038 RGTR--
+200405046 Luxembourg, Gare Roc         00752                % 05038 RGTR--
+200415003 Hollerich, Fonderie   00756  00756                % 05038 RGTR--
+200415006 Hollerich, Jean-Bapt  00801  00801                % 05038 RGTR--
+200415002 Hollerich, Assurance  00805  00805                % 05038 RGTR--
+200407004 Cessange, Barrès      00806  00806                % 05038 RGTR--
+200407003 Cessange, Artisans    00807  00807                % 05038 RGTR--
+200407007 Cessange, Fischerhaf  00808  00808                % 05038 RGTR--
+200407008 Cessange, Kierch      00809  00809                % 05038 RGTR--
+200407006 Cessange, Duerf       00810  00810                % 05038 RGTR--
+200407001 Cessange, Am Eck      00812  00812                % 05038 RGTR--
+200407010 Cessange, Rue de Leu  00813  00813                % 05038 RGTR--
+220701007 Leudelange, Grasbösc  00814  00814                % 05038 RGTR--
+220701019 Leudelange, Schaefer  00816  00816                % 05038 RGTR--
+220701015 Leudelange, Stiédswe  00817  00817                % 05038 RGTR--
+220701009 Leudelange, Kamelleb  00818  00818                % 05038 RGTR--
+220701017 Leudelange, Pëssenda  00819  00819                % 05038 RGTR--
+220702001 Leudelange, Schléiwe  00820  00820                % 05038 RGTR--
+221005001 Roedgen, Laangwis     00824  00824                % 05038 RGTR--
+221004003 Reckange-sur-Mess, W  00826  00826                % 05038 RGTR--
+221004002 Reckange-sur-Mess, F  00828  00828                % 05038 RGTR--
+221002001 Limpach, Kiirch       00832  00832                % 05038 RGTR--
+221303010 Sanem, W.S.A.         00836  00836                % 05038 RGTR--
+221304001 Soleuvre, Aessen      00838  00838                % 05038 RGTR--
+221304013 Soleuvre, Reitschoul  00839  00839                % 05038 RGTR--
+221303007 Sanem, Schlass        00841  00841                % 05038 RGTR--
+221303009 Sanem, Zentrum        00842  00842                % 05038 RGTR--
+221303004 Sanem, Op Lohr        00842  00842                % 05038 RGTR--
+190101011 Bascharage/Sanem, Ga  00844                       % 05038 RGTR--
+*Z 05039 RGTR--                                             % 05039 RGTR--
+*L 622      200405046 190101011  01752  01844               % 05039 RGTR--
+*R 1 190101011 200405046 190101011  01752  01844            % 05039 RGTR--
+*G 064 200405046 190101011  01752  01844                    % 05039 RGTR--
+*A VE 200405046 190101011 000038  01752  01844              % 05039 RGTR--
+*I FD 200405046 190101011        0002625  01752  01844      % 05039 RGTR--
+200405046 Luxembourg, Gare Roc         01752                % 05039 RGTR--
+200415003 Hollerich, Fonderie   01756  01756                % 05039 RGTR--
+200415006 Hollerich, Jean-Bapt  01801  01801                % 05039 RGTR--
+200415002 Hollerich, Assurance  01805  01805                % 05039 RGTR--
+200407004 Cessange, Barrès      01806  01806                % 05039 RGTR--
+200407003 Cessange, Artisans    01807  01807                % 05039 RGTR--
+200407007 Cessange, Fischerhaf  01808  01808                % 05039 RGTR--
+200407008 Cessange, Kierch      01809  01809                % 05039 RGTR--
+200407006 Cessange, Duerf       01810  01810                % 05039 RGTR--
+200407001 Cessange, Am Eck      01812  01812                % 05039 RGTR--
+200407010 Cessange, Rue de Leu  01813  01813                % 05039 RGTR--
+220701007 Leudelange, Grasbösc  01814  01814                % 05039 RGTR--
+220701019 Leudelange, Schaefer  01816  01816                % 05039 RGTR--
+220701015 Leudelange, Stiédswe  01817  01817                % 05039 RGTR--
+220701009 Leudelange, Kamelleb  01818  01818                % 05039 RGTR--
+220701017 Leudelange, Pëssenda  01819  01819                % 05039 RGTR--
+220702001 Leudelange, Schléiwe  01820  01820                % 05039 RGTR--
+221005001 Roedgen, Laangwis     01824  01824                % 05039 RGTR--
+221004003 Reckange-sur-Mess, W  01826  01826                % 05039 RGTR--
+221004002 Reckange-sur-Mess, F  01828  01828                % 05039 RGTR--
+221002001 Limpach, Kiirch       01832  01832                % 05039 RGTR--
+221303010 Sanem, W.S.A.         01836  01836                % 05039 RGTR--
+221304001 Soleuvre, Aessen      01838  01838                % 05039 RGTR--
+221304013 Soleuvre, Reitschoul  01839  01839                % 05039 RGTR--
+221303007 Sanem, Schlass        01841  01841                % 05039 RGTR--
+221303009 Sanem, Zentrum        01842  01842                % 05039 RGTR--
+221303004 Sanem, Op Lohr        01842  01842                % 05039 RGTR--
+190101011 Bascharage/Sanem, Ga  01844                       % 05039 RGTR--
+*Z 05040 RGTR--                                             % 05040 RGTR--
+*L 622      200405046 190101011  00652  00744               % 05040 RGTR--
+*R 1 190101011 200405046 190101011  00652  00744            % 05040 RGTR--
+*G 064 200405046 190101011  00652  00744                    % 05040 RGTR--
+*A VE 200405046 190101011 000034  00652  00744              % 05040 RGTR--
+*I FD 200405046 190101011        0002626  00652  00744      % 05040 RGTR--
+200405046 Luxembourg, Gare Roc         00652                % 05040 RGTR--
+200415003 Hollerich, Fonderie   00656  00656                % 05040 RGTR--
+200415006 Hollerich, Jean-Bapt  00701  00701                % 05040 RGTR--
+200415002 Hollerich, Assurance  00705  00705                % 05040 RGTR--
+200407004 Cessange, Barrès      00706  00706                % 05040 RGTR--
+200407003 Cessange, Artisans    00707  00707                % 05040 RGTR--
+200407007 Cessange, Fischerhaf  00708  00708                % 05040 RGTR--
+200407008 Cessange, Kierch      00709  00709                % 05040 RGTR--
+200407006 Cessange, Duerf       00710  00710                % 05040 RGTR--
+200407001 Cessange, Am Eck      00712  00712                % 05040 RGTR--
+200407010 Cessange, Rue de Leu  00713  00713                % 05040 RGTR--
+220701007 Leudelange, Grasbösc  00714  00714                % 05040 RGTR--
+220701019 Leudelange, Schaefer  00716  00716                % 05040 RGTR--
+220701015 Leudelange, Stiédswe  00717  00717                % 05040 RGTR--
+220701009 Leudelange, Kamelleb  00718  00718                % 05040 RGTR--
+220701017 Leudelange, Pëssenda  00719  00719                % 05040 RGTR--
+220702001 Leudelange, Schléiwe  00720  00720                % 05040 RGTR--
+221005001 Roedgen, Laangwis     00724  00724                % 05040 RGTR--
+221004003 Reckange-sur-Mess, W  00726  00726                % 05040 RGTR--
+221004002 Reckange-sur-Mess, F  00728  00728                % 05040 RGTR--
+221002001 Limpach, Kiirch       00732  00732                % 05040 RGTR--
+221303010 Sanem, W.S.A.         00736  00736                % 05040 RGTR--
+221304001 Soleuvre, Aessen      00738  00738                % 05040 RGTR--
+221304013 Soleuvre, Reitschoul  00739  00739                % 05040 RGTR--
+221303007 Sanem, Schlass        00741  00741                % 05040 RGTR--
+221303009 Sanem, Zentrum        00742  00742                % 05040 RGTR--
+221303004 Sanem, Op Lohr        00742  00742                % 05040 RGTR--
+190101011 Bascharage/Sanem, Ga  00744                       % 05040 RGTR--
+*Z 05041 RGTR--                                             % 05041 RGTR--
+*L 622      200405046 190101011  01653  01745               % 05041 RGTR--
+*R 1 190101011 200405046 190101011  01653  01745            % 05041 RGTR--
+*G 064 200405046 190101011  01653  01745                    % 05041 RGTR--
+*A VE 200405046 190101011 000034  01653  01745              % 05041 RGTR--
+*I FD 200405046 190101011        0002501  01653  01745      % 05041 RGTR--
+200405046 Luxembourg, Gare Roc         01653                % 05041 RGTR--
+200415003 Hollerich, Fonderie   01657  01657                % 05041 RGTR--
+200415006 Hollerich, Jean-Bapt  01702  01702                % 05041 RGTR--
+200415002 Hollerich, Assurance  01706  01706                % 05041 RGTR--
+200407004 Cessange, Barrès      01707  01707                % 05041 RGTR--
+200407003 Cessange, Artisans    01708  01708                % 05041 RGTR--
+200407007 Cessange, Fischerhaf  01709  01709                % 05041 RGTR--
+200407008 Cessange, Kierch      01710  01710                % 05041 RGTR--
+200407006 Cessange, Duerf       01711  01711                % 05041 RGTR--
+200407001 Cessange, Am Eck      01713  01713                % 05041 RGTR--
+200407010 Cessange, Rue de Leu  01714  01714                % 05041 RGTR--
+220701007 Leudelange, Grasbösc  01715  01715                % 05041 RGTR--
+220701019 Leudelange, Schaefer  01717  01717                % 05041 RGTR--
+220701015 Leudelange, Stiédswe  01718  01718                % 05041 RGTR--
+220701009 Leudelange, Kamelleb  01719  01719                % 05041 RGTR--
+220701017 Leudelange, Pëssenda  01720  01720                % 05041 RGTR--
+220702001 Leudelange, Schléiwe  01721  01721                % 05041 RGTR--
+221005001 Roedgen, Laangwis     01725  01725                % 05041 RGTR--
+221004003 Reckange-sur-Mess, W  01727  01727                % 05041 RGTR--
+221004002 Reckange-sur-Mess, F  01729  01729                % 05041 RGTR--
+221002001 Limpach, Kiirch       01733  01733                % 05041 RGTR--
+221303010 Sanem, W.S.A.         01737  01737                % 05041 RGTR--
+221304001 Soleuvre, Aessen      01739  01739                % 05041 RGTR--
+221304013 Soleuvre, Reitschoul  01740  01740                % 05041 RGTR--
+221303007 Sanem, Schlass        01742  01742                % 05041 RGTR--
+221303009 Sanem, Zentrum        01743  01743                % 05041 RGTR--
+221303004 Sanem, Op Lohr        01743  01743                % 05041 RGTR--
+190101011 Bascharage/Sanem, Ga  01745                       % 05041 RGTR--
+*Z 05042 RGTR--                                             % 05042 RGTR--
+*L 622      190101011 200405046  00953  01039               % 05042 RGTR--
+*R 2 200405046 190101011 200405046  00953  01039            % 05042 RGTR--
+*G 064 190101011 200405046  00953  01039                    % 05042 RGTR--
+*A VE 190101011 200405046 000040  00953  01039              % 05042 RGTR--
+*I FD 190101011 200405046        0002627  00953  01039      % 05042 RGTR--
+190101011 Bascharage/Sanem, Ga         00953                % 05042 RGTR--
+221303004 Sanem, Op Lohr        00954  00954                % 05042 RGTR--
+221303009 Sanem, Zentrum        00955  00955                % 05042 RGTR--
+221303007 Sanem, Schlass        00956  00956                % 05042 RGTR--
+221304013 Soleuvre, Reitschoul  00958  00958                % 05042 RGTR--
+221304001 Soleuvre, Aessen      00959  00959                % 05042 RGTR--
+221303010 Sanem, W.S.A.         01001  01001                % 05042 RGTR--
+221002001 Limpach, Kiirch       01004  01004                % 05042 RGTR--
+221004002 Reckange-sur-Mess, F  01007  01007                % 05042 RGTR--
+221004003 Reckange-sur-Mess, W  01009  01009                % 05042 RGTR--
+221005001 Roedgen, Laangwis     01011  01011                % 05042 RGTR--
+220702001 Leudelange, Schléiwe  01018  01018                % 05042 RGTR--
+220701017 Leudelange, Pëssenda  01020  01020                % 05042 RGTR--
+220701009 Leudelange, Kamelleb  01020  01020                % 05042 RGTR--
+220701015 Leudelange, Stiédswe  01021  01021                % 05042 RGTR--
+220701019 Leudelange, Schaefer  01023  01023                % 05042 RGTR--
+220701007 Leudelange, Grasbösc  01024  01024                % 05042 RGTR--
+200407010 Cessange, Rue de Leu  01026  01026                % 05042 RGTR--
+200407001 Cessange, Am Eck      01027  01027                % 05042 RGTR--
+200407006 Cessange, Duerf       01028  01028                % 05042 RGTR--
+200407008 Cessange, Kierch      01029  01029                % 05042 RGTR--
+200407007 Cessange, Fischerhaf  01030  01030                % 05042 RGTR--
+200407003 Cessange, Artisans    01031  01031                % 05042 RGTR--
+200407004 Cessange, Barrès      01032  01032                % 05042 RGTR--
+200415002 Hollerich, Assurance  01032  01032                % 05042 RGTR--
+200415019 Hollerich, Jean-Bapt  01034  01034                % 05042 RGTR--
+200415003 Hollerich, Fonderie   01035  01035                % 05042 RGTR--
+200405046 Luxembourg, Gare Roc  01039                       % 05042 RGTR--
+*Z 05043 RGTR--                                             % 05043 RGTR--
+*L 622      190101011 200405046  01153  01239               % 05043 RGTR--
+*R 2 200405046 190101011 200405046  01153  01239            % 05043 RGTR--
+*G 064 190101011 200405046  01153  01239                    % 05043 RGTR--
+*A VE 190101011 200405046 000040  01153  01239              % 05043 RGTR--
+*I FD 190101011 200405046        0002628  01153  01239      % 05043 RGTR--
+190101011 Bascharage/Sanem, Ga         01153                % 05043 RGTR--
+221303004 Sanem, Op Lohr        01154  01154                % 05043 RGTR--
+221303009 Sanem, Zentrum        01155  01155                % 05043 RGTR--
+221303007 Sanem, Schlass        01156  01156                % 05043 RGTR--
+221304013 Soleuvre, Reitschoul  01158  01158                % 05043 RGTR--
+221304001 Soleuvre, Aessen      01159  01159                % 05043 RGTR--
+221303010 Sanem, W.S.A.         01201  01201                % 05043 RGTR--
+221002001 Limpach, Kiirch       01204  01204                % 05043 RGTR--
+221004002 Reckange-sur-Mess, F  01207  01207                % 05043 RGTR--
+221004003 Reckange-sur-Mess, W  01209  01209                % 05043 RGTR--
+221005001 Roedgen, Laangwis     01211  01211                % 05043 RGTR--
+220702001 Leudelange, Schléiwe  01218  01218                % 05043 RGTR--
+220701017 Leudelange, Pëssenda  01220  01220                % 05043 RGTR--
+220701009 Leudelange, Kamelleb  01220  01220                % 05043 RGTR--
+220701015 Leudelange, Stiédswe  01221  01221                % 05043 RGTR--
+220701019 Leudelange, Schaefer  01223  01223                % 05043 RGTR--
+220701007 Leudelange, Grasbösc  01224  01224                % 05043 RGTR--
+200407010 Cessange, Rue de Leu  01226  01226                % 05043 RGTR--
+200407001 Cessange, Am Eck      01227  01227                % 05043 RGTR--
+200407006 Cessange, Duerf       01228  01228                % 05043 RGTR--
+200407008 Cessange, Kierch      01229  01229                % 05043 RGTR--
+200407007 Cessange, Fischerhaf  01230  01230                % 05043 RGTR--
+200407003 Cessange, Artisans    01231  01231                % 05043 RGTR--
+200407004 Cessange, Barrès      01232  01232                % 05043 RGTR--
+200415002 Hollerich, Assurance  01232  01232                % 05043 RGTR--
+200415019 Hollerich, Jean-Bapt  01234  01234                % 05043 RGTR--
+200415003 Hollerich, Fonderie   01235  01235                % 05043 RGTR--
+200405046 Luxembourg, Gare Roc  01239                       % 05043 RGTR--
+*Z 05044 RGTR--                                             % 05044 RGTR--
+*L 622      190101011 200405046  01353  01439               % 05044 RGTR--
+*R 2 200405046 190101011 200405046  01353  01439            % 05044 RGTR--
+*G 064 190101011 200405046  01353  01439                    % 05044 RGTR--
+*A VE 190101011 200405046 000040  01353  01439              % 05044 RGTR--
+*I FD 190101011 200405046        0002629  01353  01439      % 05044 RGTR--
+190101011 Bascharage/Sanem, Ga         01353                % 05044 RGTR--
+221303004 Sanem, Op Lohr        01354  01354                % 05044 RGTR--
+221303009 Sanem, Zentrum        01355  01355                % 05044 RGTR--
+221303007 Sanem, Schlass        01356  01356                % 05044 RGTR--
+221304013 Soleuvre, Reitschoul  01358  01358                % 05044 RGTR--
+221304001 Soleuvre, Aessen      01359  01359                % 05044 RGTR--
+221303010 Sanem, W.S.A.         01401  01401                % 05044 RGTR--
+221002001 Limpach, Kiirch       01404  01404                % 05044 RGTR--
+221004002 Reckange-sur-Mess, F  01407  01407                % 05044 RGTR--
+221004003 Reckange-sur-Mess, W  01409  01409                % 05044 RGTR--
+221005001 Roedgen, Laangwis     01411  01411                % 05044 RGTR--
+220702001 Leudelange, Schléiwe  01418  01418                % 05044 RGTR--
+220701017 Leudelange, Pëssenda  01420  01420                % 05044 RGTR--
+220701009 Leudelange, Kamelleb  01420  01420                % 05044 RGTR--
+220701015 Leudelange, Stiédswe  01421  01421                % 05044 RGTR--
+220701019 Leudelange, Schaefer  01423  01423                % 05044 RGTR--
+220701007 Leudelange, Grasbösc  01424  01424                % 05044 RGTR--
+200407010 Cessange, Rue de Leu  01426  01426                % 05044 RGTR--
+200407001 Cessange, Am Eck      01427  01427                % 05044 RGTR--
+200407006 Cessange, Duerf       01428  01428                % 05044 RGTR--
+200407008 Cessange, Kierch      01429  01429                % 05044 RGTR--
+200407007 Cessange, Fischerhaf  01430  01430                % 05044 RGTR--
+200407003 Cessange, Artisans    01431  01431                % 05044 RGTR--
+200407004 Cessange, Barrès      01432  01432                % 05044 RGTR--
+200415002 Hollerich, Assurance  01432  01432                % 05044 RGTR--
+200415019 Hollerich, Jean-Bapt  01434  01434                % 05044 RGTR--
+200415003 Hollerich, Fonderie   01435  01435                % 05044 RGTR--
+200405046 Luxembourg, Gare Roc  01439                       % 05044 RGTR--
+*Z 05045 RGTR--                                             % 05045 RGTR--
+*L 622      190101011 200405046  01553  01639               % 05045 RGTR--
+*R 2 200405046 190101011 200405046  01553  01639            % 05045 RGTR--
+*G 064 190101011 200405046  01553  01639                    % 05045 RGTR--
+*A VE 190101011 200405046 000040  01553  01639              % 05045 RGTR--
+*I FD 190101011 200405046        0002630  01553  01639      % 05045 RGTR--
+190101011 Bascharage/Sanem, Ga         01553                % 05045 RGTR--
+221303004 Sanem, Op Lohr        01554  01554                % 05045 RGTR--
+221303009 Sanem, Zentrum        01555  01555                % 05045 RGTR--
+221303007 Sanem, Schlass        01556  01556                % 05045 RGTR--
+221304013 Soleuvre, Reitschoul  01558  01558                % 05045 RGTR--
+221304001 Soleuvre, Aessen      01559  01559                % 05045 RGTR--
+221303010 Sanem, W.S.A.         01601  01601                % 05045 RGTR--
+221002001 Limpach, Kiirch       01604  01604                % 05045 RGTR--
+221004002 Reckange-sur-Mess, F  01607  01607                % 05045 RGTR--
+221004003 Reckange-sur-Mess, W  01609  01609                % 05045 RGTR--
+221005001 Roedgen, Laangwis     01611  01611                % 05045 RGTR--
+220702001 Leudelange, Schléiwe  01618  01618                % 05045 RGTR--
+220701017 Leudelange, Pëssenda  01620  01620                % 05045 RGTR--
+220701009 Leudelange, Kamelleb  01620  01620                % 05045 RGTR--
+220701015 Leudelange, Stiédswe  01621  01621                % 05045 RGTR--
+220701019 Leudelange, Schaefer  01623  01623                % 05045 RGTR--
+220701007 Leudelange, Grasbösc  01624  01624                % 05045 RGTR--
+200407010 Cessange, Rue de Leu  01626  01626                % 05045 RGTR--
+200407001 Cessange, Am Eck      01627  01627                % 05045 RGTR--
+200407006 Cessange, Duerf       01628  01628                % 05045 RGTR--
+200407008 Cessange, Kierch      01629  01629                % 05045 RGTR--
+200407007 Cessange, Fischerhaf  01630  01630                % 05045 RGTR--
+200407003 Cessange, Artisans    01631  01631                % 05045 RGTR--
+200407004 Cessange, Barrès      01632  01632                % 05045 RGTR--
+200415002 Hollerich, Assurance  01632  01632                % 05045 RGTR--
+200415019 Hollerich, Jean-Bapt  01634  01634                % 05045 RGTR--
+200415003 Hollerich, Fonderie   01635  01635                % 05045 RGTR--
+200405046 Luxembourg, Gare Roc  01639                       % 05045 RGTR--
+*Z 05046 RGTR--                                             % 05046 RGTR--
+*L 622      190101011 200405046  01953  02039               % 05046 RGTR--
+*R 2 200405046 190101011 200405046  01953  02039            % 05046 RGTR--
+*G 064 190101011 200405046  01953  02039                    % 05046 RGTR--
+*A VE 190101011 200405046 000040  01953  02039              % 05046 RGTR--
+*I FD 190101011 200405046        0002631  01953  02039      % 05046 RGTR--
+190101011 Bascharage/Sanem, Ga         01953                % 05046 RGTR--
+221303004 Sanem, Op Lohr        01954  01954                % 05046 RGTR--
+221303009 Sanem, Zentrum        01955  01955                % 05046 RGTR--
+221303007 Sanem, Schlass        01956  01956                % 05046 RGTR--
+221304013 Soleuvre, Reitschoul  01958  01958                % 05046 RGTR--
+221304001 Soleuvre, Aessen      01959  01959                % 05046 RGTR--
+221303010 Sanem, W.S.A.         02001  02001                % 05046 RGTR--
+221002001 Limpach, Kiirch       02004  02004                % 05046 RGTR--
+221004002 Reckange-sur-Mess, F  02007  02007                % 05046 RGTR--
+221004003 Reckange-sur-Mess, W  02009  02009                % 05046 RGTR--
+221005001 Roedgen, Laangwis     02011  02011                % 05046 RGTR--
+220702001 Leudelange, Schléiwe  02018  02018                % 05046 RGTR--
+220701017 Leudelange, Pëssenda  02020  02020                % 05046 RGTR--
+220701009 Leudelange, Kamelleb  02020  02020                % 05046 RGTR--
+220701015 Leudelange, Stiédswe  02021  02021                % 05046 RGTR--
+220701019 Leudelange, Schaefer  02023  02023                % 05046 RGTR--
+220701007 Leudelange, Grasbösc  02024  02024                % 05046 RGTR--
+200407010 Cessange, Rue de Leu  02026  02026                % 05046 RGTR--
+200407001 Cessange, Am Eck      02027  02027                % 05046 RGTR--
+200407006 Cessange, Duerf       02028  02028                % 05046 RGTR--
+200407008 Cessange, Kierch      02029  02029                % 05046 RGTR--
+200407007 Cessange, Fischerhaf  02030  02030                % 05046 RGTR--
+200407003 Cessange, Artisans    02031  02031                % 05046 RGTR--
+200407004 Cessange, Barrès      02032  02032                % 05046 RGTR--
+200415002 Hollerich, Assurance  02032  02032                % 05046 RGTR--
+200415019 Hollerich, Jean-Bapt  02034  02034                % 05046 RGTR--
+200415003 Hollerich, Fonderie   02035  02035                % 05046 RGTR--
+200405046 Luxembourg, Gare Roc  02039                       % 05046 RGTR--
+*Z 05047 RGTR--                                             % 05047 RGTR--
+*L 622      190101011 200405046  00553  00639               % 05047 RGTR--
+*R 2 200405046 190101011 200405046  00553  00639            % 05047 RGTR--
+*G 064 190101011 200405046  00553  00639                    % 05047 RGTR--
+*A VE 190101011 200405046 000038  00553  00639              % 05047 RGTR--
+*I FD 190101011 200405046        0002632  00553  00639      % 05047 RGTR--
+190101011 Bascharage/Sanem, Ga         00553                % 05047 RGTR--
+221303004 Sanem, Op Lohr        00554  00554                % 05047 RGTR--
+221303009 Sanem, Zentrum        00555  00555                % 05047 RGTR--
+221303007 Sanem, Schlass        00556  00556                % 05047 RGTR--
+221304013 Soleuvre, Reitschoul  00558  00558                % 05047 RGTR--
+221304001 Soleuvre, Aessen      00559  00559                % 05047 RGTR--
+221303010 Sanem, W.S.A.         00601  00601                % 05047 RGTR--
+221002001 Limpach, Kiirch       00604  00604                % 05047 RGTR--
+221004002 Reckange-sur-Mess, F  00607  00607                % 05047 RGTR--
+221004003 Reckange-sur-Mess, W  00609  00609                % 05047 RGTR--
+221005001 Roedgen, Laangwis     00611  00611                % 05047 RGTR--
+220702001 Leudelange, Schléiwe  00618  00618                % 05047 RGTR--
+220701017 Leudelange, Pëssenda  00620  00620                % 05047 RGTR--
+220701009 Leudelange, Kamelleb  00620  00620                % 05047 RGTR--
+220701015 Leudelange, Stiédswe  00621  00621                % 05047 RGTR--
+220701019 Leudelange, Schaefer  00623  00623                % 05047 RGTR--
+220701007 Leudelange, Grasbösc  00624  00624                % 05047 RGTR--
+200407010 Cessange, Rue de Leu  00626  00626                % 05047 RGTR--
+200407001 Cessange, Am Eck      00627  00627                % 05047 RGTR--
+200407006 Cessange, Duerf       00628  00628                % 05047 RGTR--
+200407008 Cessange, Kierch      00629  00629                % 05047 RGTR--
+200407007 Cessange, Fischerhaf  00630  00630                % 05047 RGTR--
+200407003 Cessange, Artisans    00631  00631                % 05047 RGTR--
+200407004 Cessange, Barrès      00632  00632                % 05047 RGTR--
+200415002 Hollerich, Assurance  00632  00632                % 05047 RGTR--
+200415019 Hollerich, Jean-Bapt  00634  00634                % 05047 RGTR--
+200415003 Hollerich, Fonderie   00635  00635                % 05047 RGTR--
+200405046 Luxembourg, Gare Roc  00639                       % 05047 RGTR--
+*Z 05048 RGTR--                                             % 05048 RGTR--
+*L 622      190101011 200405046  02153  02239               % 05048 RGTR--
+*R 2 200405046 190101011 200405046  02153  02239            % 05048 RGTR--
+*G 064 190101011 200405046  02153  02239                    % 05048 RGTR--
+*A VE 190101011 200405046 000038  02153  02239              % 05048 RGTR--
+*I FD 190101011 200405046        0002633  02153  02239      % 05048 RGTR--
+190101011 Bascharage/Sanem, Ga         02153                % 05048 RGTR--
+221303004 Sanem, Op Lohr        02154  02154                % 05048 RGTR--
+221303009 Sanem, Zentrum        02155  02155                % 05048 RGTR--
+221303007 Sanem, Schlass        02156  02156                % 05048 RGTR--
+221304013 Soleuvre, Reitschoul  02158  02158                % 05048 RGTR--
+221304001 Soleuvre, Aessen      02159  02159                % 05048 RGTR--
+221303010 Sanem, W.S.A.         02201  02201                % 05048 RGTR--
+221002001 Limpach, Kiirch       02204  02204                % 05048 RGTR--
+221004002 Reckange-sur-Mess, F  02207  02207                % 05048 RGTR--
+221004003 Reckange-sur-Mess, W  02209  02209                % 05048 RGTR--
+221005001 Roedgen, Laangwis     02211  02211                % 05048 RGTR--
+220702001 Leudelange, Schléiwe  02218  02218                % 05048 RGTR--
+220701017 Leudelange, Pëssenda  02220  02220                % 05048 RGTR--
+220701009 Leudelange, Kamelleb  02220  02220                % 05048 RGTR--
+220701015 Leudelange, Stiédswe  02221  02221                % 05048 RGTR--
+220701019 Leudelange, Schaefer  02223  02223                % 05048 RGTR--
+220701007 Leudelange, Grasbösc  02224  02224                % 05048 RGTR--
+200407010 Cessange, Rue de Leu  02226  02226                % 05048 RGTR--
+200407001 Cessange, Am Eck      02227  02227                % 05048 RGTR--
+200407006 Cessange, Duerf       02228  02228                % 05048 RGTR--
+200407008 Cessange, Kierch      02229  02229                % 05048 RGTR--
+200407007 Cessange, Fischerhaf  02230  02230                % 05048 RGTR--
+200407003 Cessange, Artisans    02231  02231                % 05048 RGTR--
+200407004 Cessange, Barrès      02232  02232                % 05048 RGTR--
+200415002 Hollerich, Assurance  02232  02232                % 05048 RGTR--
+200415019 Hollerich, Jean-Bapt  02234  02234                % 05048 RGTR--
+200415003 Hollerich, Fonderie   02235  02235                % 05048 RGTR--
+200405046 Luxembourg, Gare Roc  02239                       % 05048 RGTR--
+*Z 05049 RGTR--                                             % 05049 RGTR--
+*L 622      190101011 200405046  02353  02439               % 05049 RGTR--
+*R 2 200405046 190101011 200405046  02353  02439            % 05049 RGTR--
+*G 064 190101011 200405046  02353  02439                    % 05049 RGTR--
+*A VE 190101011 200405046 000038  02353  02439              % 05049 RGTR--
+*I FD 190101011 200405046        0002634  02353  02439      % 05049 RGTR--
+190101011 Bascharage/Sanem, Ga         02353                % 05049 RGTR--
+221303004 Sanem, Op Lohr        02354  02354                % 05049 RGTR--
+221303009 Sanem, Zentrum        02355  02355                % 05049 RGTR--
+221303007 Sanem, Schlass        02356  02356                % 05049 RGTR--
+221304013 Soleuvre, Reitschoul  02358  02358                % 05049 RGTR--
+221304001 Soleuvre, Aessen      02359  02359                % 05049 RGTR--
+221303010 Sanem, W.S.A.         02401  02401                % 05049 RGTR--
+221002001 Limpach, Kiirch       02404  02404                % 05049 RGTR--
+221004002 Reckange-sur-Mess, F  02407  02407                % 05049 RGTR--
+221004003 Reckange-sur-Mess, W  02409  02409                % 05049 RGTR--
+221005001 Roedgen, Laangwis     02411  02411                % 05049 RGTR--
+220702001 Leudelange, Schléiwe  02418  02418                % 05049 RGTR--
+220701017 Leudelange, Pëssenda  02420  02420                % 05049 RGTR--
+220701009 Leudelange, Kamelleb  02420  02420                % 05049 RGTR--
+220701015 Leudelange, Stiédswe  02421  02421                % 05049 RGTR--
+220701019 Leudelange, Schaefer  02423  02423                % 05049 RGTR--
+220701007 Leudelange, Grasbösc  02424  02424                % 05049 RGTR--
+200407010 Cessange, Rue de Leu  02426  02426                % 05049 RGTR--
+200407001 Cessange, Am Eck      02427  02427                % 05049 RGTR--
+200407006 Cessange, Duerf       02428  02428                % 05049 RGTR--
+200407008 Cessange, Kierch      02429  02429                % 05049 RGTR--
+200407007 Cessange, Fischerhaf  02430  02430                % 05049 RGTR--
+200407003 Cessange, Artisans    02431  02431                % 05049 RGTR--
+200407004 Cessange, Barrès      02432  02432                % 05049 RGTR--
+200415002 Hollerich, Assurance  02432  02432                % 05049 RGTR--
+200415019 Hollerich, Jean-Bapt  02434  02434                % 05049 RGTR--
+200415003 Hollerich, Fonderie   02435  02435                % 05049 RGTR--
+200405046 Luxembourg, Gare Roc  02439                       % 05049 RGTR--
+*Z 05050 RGTR--                                             % 05050 RGTR--
+*L 622      190101011 200405046  00753  00839               % 05050 RGTR--
+*R 2 200405046 190101011 200405046  00753  00839            % 05050 RGTR--
+*G 064 190101011 200405046  00753  00839                    % 05050 RGTR--
+*A VE 190101011 200405046 000016  00753  00839              % 05050 RGTR--
+*I FD 190101011 200405046        0002636  00753  00839      % 05050 RGTR--
+190101011 Bascharage/Sanem, Ga         00753                % 05050 RGTR--
+221303004 Sanem, Op Lohr        00754  00754                % 05050 RGTR--
+221303009 Sanem, Zentrum        00755  00755                % 05050 RGTR--
+221303007 Sanem, Schlass        00756  00756                % 05050 RGTR--
+221304013 Soleuvre, Reitschoul  00758  00758                % 05050 RGTR--
+221304001 Soleuvre, Aessen      00759  00759                % 05050 RGTR--
+221303010 Sanem, W.S.A.         00801  00801                % 05050 RGTR--
+221002001 Limpach, Kiirch       00804  00804                % 05050 RGTR--
+221004002 Reckange-sur-Mess, F  00807  00807                % 05050 RGTR--
+221004003 Reckange-sur-Mess, W  00809  00809                % 05050 RGTR--
+221005001 Roedgen, Laangwis     00811  00811                % 05050 RGTR--
+220702001 Leudelange, Schléiwe  00818  00818                % 05050 RGTR--
+220701017 Leudelange, Pëssenda  00820  00820                % 05050 RGTR--
+220701009 Leudelange, Kamelleb  00820  00820                % 05050 RGTR--
+220701015 Leudelange, Stiédswe  00821  00821                % 05050 RGTR--
+220701019 Leudelange, Schaefer  00823  00823                % 05050 RGTR--
+220701007 Leudelange, Grasbösc  00824  00824                % 05050 RGTR--
+200407010 Cessange, Rue de Leu  00826  00826                % 05050 RGTR--
+200407001 Cessange, Am Eck      00827  00827                % 05050 RGTR--
+200407006 Cessange, Duerf       00828  00828                % 05050 RGTR--
+200407008 Cessange, Kierch      00829  00829                % 05050 RGTR--
+200407007 Cessange, Fischerhaf  00830  00830                % 05050 RGTR--
+200407003 Cessange, Artisans    00831  00831                % 05050 RGTR--
+200407004 Cessange, Barrès      00832  00832                % 05050 RGTR--
+200415002 Hollerich, Assurance  00832  00832                % 05050 RGTR--
+200415019 Hollerich, Jean-Bapt  00834  00834                % 05050 RGTR--
+200415003 Hollerich, Fonderie   00835  00835                % 05050 RGTR--
+200405046 Luxembourg, Gare Roc  00839                       % 05050 RGTR--
+*Z 05051 RGTR--                                             % 05051 RGTR--
+*L 622      190101011 200405046  01753  01839               % 05051 RGTR--
+*R 2 200405046 190101011 200405046  01753  01839            % 05051 RGTR--
+*G 064 190101011 200405046  01753  01839                    % 05051 RGTR--
+*A VE 190101011 200405046 000016  01753  01839              % 05051 RGTR--
+*I FD 190101011 200405046        0002637  01753  01839      % 05051 RGTR--
+190101011 Bascharage/Sanem, Ga         01753                % 05051 RGTR--
+221303004 Sanem, Op Lohr        01754  01754                % 05051 RGTR--
+221303009 Sanem, Zentrum        01755  01755                % 05051 RGTR--
+221303007 Sanem, Schlass        01756  01756                % 05051 RGTR--
+221304013 Soleuvre, Reitschoul  01758  01758                % 05051 RGTR--
+221304001 Soleuvre, Aessen      01759  01759                % 05051 RGTR--
+221303010 Sanem, W.S.A.         01801  01801                % 05051 RGTR--
+221002001 Limpach, Kiirch       01804  01804                % 05051 RGTR--
+221004002 Reckange-sur-Mess, F  01807  01807                % 05051 RGTR--
+221004003 Reckange-sur-Mess, W  01809  01809                % 05051 RGTR--
+221005001 Roedgen, Laangwis     01811  01811                % 05051 RGTR--
+220702001 Leudelange, Schléiwe  01818  01818                % 05051 RGTR--
+220701017 Leudelange, Pëssenda  01820  01820                % 05051 RGTR--
+220701009 Leudelange, Kamelleb  01820  01820                % 05051 RGTR--
+220701015 Leudelange, Stiédswe  01821  01821                % 05051 RGTR--
+220701019 Leudelange, Schaefer  01823  01823                % 05051 RGTR--
+220701007 Leudelange, Grasbösc  01824  01824                % 05051 RGTR--
+200407010 Cessange, Rue de Leu  01826  01826                % 05051 RGTR--
+200407001 Cessange, Am Eck      01827  01827                % 05051 RGTR--
+200407006 Cessange, Duerf       01828  01828                % 05051 RGTR--
+200407008 Cessange, Kierch      01829  01829                % 05051 RGTR--
+200407007 Cessange, Fischerhaf  01830  01830                % 05051 RGTR--
+200407003 Cessange, Artisans    01831  01831                % 05051 RGTR--
+200407004 Cessange, Barrès      01832  01832                % 05051 RGTR--
+200415002 Hollerich, Assurance  01832  01832                % 05051 RGTR--
+200415019 Hollerich, Jean-Bapt  01834  01834                % 05051 RGTR--
+200415003 Hollerich, Fonderie   01835  01835                % 05051 RGTR--
+200405046 Luxembourg, Gare Roc  01839                       % 05051 RGTR--
+*Z 05052 RGTR--                                             % 05052 RGTR--
+*L 622      190101011 200405046  01853  01939               % 05052 RGTR--
+*R 2 200405046 190101011 200405046  01853  01939            % 05052 RGTR--
+*G 064 190101011 200405046  01853  01939                    % 05052 RGTR--
+*A VE 190101011 200405046 000034  01853  01939              % 05052 RGTR--
+*I FD 190101011 200405046        0002635  01853  01939      % 05052 RGTR--
+190101011 Bascharage/Sanem, Ga         01853                % 05052 RGTR--
+221303004 Sanem, Op Lohr        01854  01854                % 05052 RGTR--
+221303009 Sanem, Zentrum        01855  01855                % 05052 RGTR--
+221303007 Sanem, Schlass        01856  01856                % 05052 RGTR--
+221304013 Soleuvre, Reitschoul  01858  01858                % 05052 RGTR--
+221304001 Soleuvre, Aessen      01859  01859                % 05052 RGTR--
+221303010 Sanem, W.S.A.         01901  01901                % 05052 RGTR--
+221002001 Limpach, Kiirch       01904  01904                % 05052 RGTR--
+221004002 Reckange-sur-Mess, F  01907  01907                % 05052 RGTR--
+221004003 Reckange-sur-Mess, W  01909  01909                % 05052 RGTR--
+221005001 Roedgen, Laangwis     01911  01911                % 05052 RGTR--
+220702001 Leudelange, Schléiwe  01918  01918                % 05052 RGTR--
+220701017 Leudelange, Pëssenda  01920  01920                % 05052 RGTR--
+220701009 Leudelange, Kamelleb  01920  01920                % 05052 RGTR--
+220701015 Leudelange, Stiédswe  01921  01921                % 05052 RGTR--
+220701019 Leudelange, Schaefer  01923  01923                % 05052 RGTR--
+220701007 Leudelange, Grasbösc  01924  01924                % 05052 RGTR--
+200407010 Cessange, Rue de Leu  01926  01926                % 05052 RGTR--
+200407001 Cessange, Am Eck      01927  01927                % 05052 RGTR--
+200407006 Cessange, Duerf       01928  01928                % 05052 RGTR--
+200407008 Cessange, Kierch      01929  01929                % 05052 RGTR--
+200407007 Cessange, Fischerhaf  01930  01930                % 05052 RGTR--
+200407003 Cessange, Artisans    01931  01931                % 05052 RGTR--
+200407004 Cessange, Barrès      01932  01932                % 05052 RGTR--
+200415002 Hollerich, Assurance  01932  01932                % 05052 RGTR--
+200415019 Hollerich, Jean-Bapt  01934  01934                % 05052 RGTR--
+200415003 Hollerich, Fonderie   01935  01935                % 05052 RGTR--
+200405046 Luxembourg, Gare Roc  01939                       % 05052 RGTR--
+*Z 05053 RGTR--                                             % 05053 RGTR--
+*L 622      190101011 200405046  00753  00851               % 05053 RGTR--
+*R 2 200405046 190101011 200405046  00753  00851            % 05053 RGTR--
+*G 064 190101011 200405046  00753  00851                    % 05053 RGTR--
+*A VE 190101011 200405046 000038  00753  00851              % 05053 RGTR--
+*I FD 190101011 200405046        0002636  00753  00851      % 05053 RGTR--
+190101011 Bascharage/Sanem, Ga         00753                % 05053 RGTR--
+221303004 Sanem, Op Lohr        00754  00754                % 05053 RGTR--
+221303009 Sanem, Zentrum        00755  00755                % 05053 RGTR--
+221303007 Sanem, Schlass        00756  00756                % 05053 RGTR--
+221304013 Soleuvre, Reitschoul  00758  00758                % 05053 RGTR--
+221304001 Soleuvre, Aessen      00759  00759                % 05053 RGTR--
+221303010 Sanem, W.S.A.         00803  00803                % 05053 RGTR--
+221002001 Limpach, Kiirch       00811  00811                % 05053 RGTR--
+221004002 Reckange-sur-Mess, F  00814  00814                % 05053 RGTR--
+221004003 Reckange-sur-Mess, W  00815  00815                % 05053 RGTR--
+221005001 Roedgen, Laangwis     00818  00818                % 05053 RGTR--
+220702001 Leudelange, Schléiwe  00826  00826                % 05053 RGTR--
+220701017 Leudelange, Pëssenda  00828  00828                % 05053 RGTR--
+220701009 Leudelange, Kamelleb  00828  00828                % 05053 RGTR--
+220701015 Leudelange, Stiédswe  00829  00829                % 05053 RGTR--
+220701019 Leudelange, Schaefer  00831  00831                % 05053 RGTR--
+220701007 Leudelange, Grasbösc  00833  00833                % 05053 RGTR--
+200407010 Cessange, Rue de Leu  00834  00834                % 05053 RGTR--
+200407001 Cessange, Am Eck      00836  00836                % 05053 RGTR--
+200407006 Cessange, Duerf       00837  00837                % 05053 RGTR--
+200407008 Cessange, Kierch      00838  00838                % 05053 RGTR--
+200407007 Cessange, Fischerhaf  00839  00839                % 05053 RGTR--
+200407003 Cessange, Artisans    00840  00840                % 05053 RGTR--
+200407004 Cessange, Barrès      00841  00841                % 05053 RGTR--
+200415002 Hollerich, Assurance  00843  00843                % 05053 RGTR--
+200415019 Hollerich, Jean-Bapt  00845  00845                % 05053 RGTR--
+200415003 Hollerich, Fonderie   00846  00846                % 05053 RGTR--
+200405046 Luxembourg, Gare Roc  00851                       % 05053 RGTR--
+*Z 05054 RGTR--                                             % 05054 RGTR--
+*L 622      190101011 200405046  01753  01851               % 05054 RGTR--
+*R 2 200405046 190101011 200405046  01753  01851            % 05054 RGTR--
+*G 064 190101011 200405046  01753  01851                    % 05054 RGTR--
+*A VE 190101011 200405046 000038  01753  01851              % 05054 RGTR--
+*I FD 190101011 200405046        0002637  01753  01851      % 05054 RGTR--
+190101011 Bascharage/Sanem, Ga         01753                % 05054 RGTR--
+221303004 Sanem, Op Lohr        01754  01754                % 05054 RGTR--
+221303009 Sanem, Zentrum        01755  01755                % 05054 RGTR--
+221303007 Sanem, Schlass        01756  01756                % 05054 RGTR--
+221304013 Soleuvre, Reitschoul  01758  01758                % 05054 RGTR--
+221304001 Soleuvre, Aessen      01759  01759                % 05054 RGTR--
+221303010 Sanem, W.S.A.         01803  01803                % 05054 RGTR--
+221002001 Limpach, Kiirch       01811  01811                % 05054 RGTR--
+221004002 Reckange-sur-Mess, F  01814  01814                % 05054 RGTR--
+221004003 Reckange-sur-Mess, W  01815  01815                % 05054 RGTR--
+221005001 Roedgen, Laangwis     01818  01818                % 05054 RGTR--
+220702001 Leudelange, Schléiwe  01826  01826                % 05054 RGTR--
+220701017 Leudelange, Pëssenda  01828  01828                % 05054 RGTR--
+220701009 Leudelange, Kamelleb  01828  01828                % 05054 RGTR--
+220701015 Leudelange, Stiédswe  01829  01829                % 05054 RGTR--
+220701019 Leudelange, Schaefer  01831  01831                % 05054 RGTR--
+220701007 Leudelange, Grasbösc  01833  01833                % 05054 RGTR--
+200407010 Cessange, Rue de Leu  01834  01834                % 05054 RGTR--
+200407001 Cessange, Am Eck      01836  01836                % 05054 RGTR--
+200407006 Cessange, Duerf       01837  01837                % 05054 RGTR--
+200407008 Cessange, Kierch      01838  01838                % 05054 RGTR--
+200407007 Cessange, Fischerhaf  01839  01839                % 05054 RGTR--
+200407003 Cessange, Artisans    01840  01840                % 05054 RGTR--
+200407004 Cessange, Barrès      01841  01841                % 05054 RGTR--
+200415002 Hollerich, Assurance  01843  01843                % 05054 RGTR--
+200415019 Hollerich, Jean-Bapt  01845  01845                % 05054 RGTR--
+200415003 Hollerich, Fonderie   01846  01846                % 05054 RGTR--
+200405046 Luxembourg, Gare Roc  01851                       % 05054 RGTR--
+*Z 05055 RGTR--                                             % 05055 RGTR--
+*L 622      190101011 200405046  00653  00751               % 05055 RGTR--
+*R 2 200405046 190101011 200405046  00653  00751            % 05055 RGTR--
+*G 064 190101011 200405046  00653  00751                    % 05055 RGTR--
+*A VE 190101011 200405046 000034  00653  00751              % 05055 RGTR--
+*I FD 190101011 200405046        0002638  00653  00751      % 05055 RGTR--
+190101011 Bascharage/Sanem, Ga         00653                % 05055 RGTR--
+221303004 Sanem, Op Lohr        00654  00654                % 05055 RGTR--
+221303009 Sanem, Zentrum        00655  00655                % 05055 RGTR--
+221303007 Sanem, Schlass        00656  00656                % 05055 RGTR--
+221304013 Soleuvre, Reitschoul  00658  00658                % 05055 RGTR--
+221304001 Soleuvre, Aessen      00659  00659                % 05055 RGTR--
+221303010 Sanem, W.S.A.         00703  00703                % 05055 RGTR--
+221002001 Limpach, Kiirch       00711  00711                % 05055 RGTR--
+221004002 Reckange-sur-Mess, F  00714  00714                % 05055 RGTR--
+221004003 Reckange-sur-Mess, W  00715  00715                % 05055 RGTR--
+221005001 Roedgen, Laangwis     00718  00718                % 05055 RGTR--
+220702001 Leudelange, Schléiwe  00726  00726                % 05055 RGTR--
+220701017 Leudelange, Pëssenda  00728  00728                % 05055 RGTR--
+220701009 Leudelange, Kamelleb  00728  00728                % 05055 RGTR--
+220701015 Leudelange, Stiédswe  00729  00729                % 05055 RGTR--
+220701019 Leudelange, Schaefer  00731  00731                % 05055 RGTR--
+220701007 Leudelange, Grasbösc  00733  00733                % 05055 RGTR--
+200407010 Cessange, Rue de Leu  00734  00734                % 05055 RGTR--
+200407001 Cessange, Am Eck      00736  00736                % 05055 RGTR--
+200407006 Cessange, Duerf       00737  00737                % 05055 RGTR--
+200407008 Cessange, Kierch      00738  00738                % 05055 RGTR--
+200407007 Cessange, Fischerhaf  00739  00739                % 05055 RGTR--
+200407003 Cessange, Artisans    00740  00740                % 05055 RGTR--
+200407004 Cessange, Barrès      00741  00741                % 05055 RGTR--
+200415002 Hollerich, Assurance  00743  00743                % 05055 RGTR--
+200415019 Hollerich, Jean-Bapt  00745  00745                % 05055 RGTR--
+200415003 Hollerich, Fonderie   00746  00746                % 05055 RGTR--
+200405046 Luxembourg, Gare Roc  00751                       % 05055 RGTR--
+*Z 05056 RGTR--                                             % 05056 RGTR--
+*L 622      190101011 200405046  00853  00951               % 05056 RGTR--
+*R 2 200405046 190101011 200405046  00853  00951            % 05056 RGTR--
+*G 064 190101011 200405046  00853  00951                    % 05056 RGTR--
+*A VE 190101011 200405046 000034  00853  00951              % 05056 RGTR--
+*I FD 190101011 200405046        0002639  00853  00951      % 05056 RGTR--
+190101011 Bascharage/Sanem, Ga         00853                % 05056 RGTR--
+221303004 Sanem, Op Lohr        00854  00854                % 05056 RGTR--
+221303009 Sanem, Zentrum        00855  00855                % 05056 RGTR--
+221303007 Sanem, Schlass        00856  00856                % 05056 RGTR--
+221304013 Soleuvre, Reitschoul  00858  00858                % 05056 RGTR--
+221304001 Soleuvre, Aessen      00859  00859                % 05056 RGTR--
+221303010 Sanem, W.S.A.         00903  00903                % 05056 RGTR--
+221002001 Limpach, Kiirch       00911  00911                % 05056 RGTR--
+221004002 Reckange-sur-Mess, F  00914  00914                % 05056 RGTR--
+221004003 Reckange-sur-Mess, W  00915  00915                % 05056 RGTR--
+221005001 Roedgen, Laangwis     00918  00918                % 05056 RGTR--
+220702001 Leudelange, Schléiwe  00926  00926                % 05056 RGTR--
+220701017 Leudelange, Pëssenda  00928  00928                % 05056 RGTR--
+220701009 Leudelange, Kamelleb  00928  00928                % 05056 RGTR--
+220701015 Leudelange, Stiédswe  00929  00929                % 05056 RGTR--
+220701019 Leudelange, Schaefer  00931  00931                % 05056 RGTR--
+220701007 Leudelange, Grasbösc  00933  00933                % 05056 RGTR--
+200407010 Cessange, Rue de Leu  00934  00934                % 05056 RGTR--
+200407001 Cessange, Am Eck      00936  00936                % 05056 RGTR--
+200407006 Cessange, Duerf       00937  00937                % 05056 RGTR--
+200407008 Cessange, Kierch      00938  00938                % 05056 RGTR--
+200407007 Cessange, Fischerhaf  00939  00939                % 05056 RGTR--
+200407003 Cessange, Artisans    00940  00940                % 05056 RGTR--
+200407004 Cessange, Barrès      00941  00941                % 05056 RGTR--
+200415002 Hollerich, Assurance  00943  00943                % 05056 RGTR--
+200415019 Hollerich, Jean-Bapt  00945  00945                % 05056 RGTR--
+200415003 Hollerich, Fonderie   00946  00946                % 05056 RGTR--
+200405046 Luxembourg, Gare Roc  00951                       % 05056 RGTR--
+*Z 05057 RGTR--                                             % 05057 RGTR--
+*L 622      190101011 200405046  01653  01751               % 05057 RGTR--
+*R 2 200405046 190101011 200405046  01653  01751            % 05057 RGTR--
+*G 064 190101011 200405046  01653  01751                    % 05057 RGTR--
+*A VE 190101011 200405046 000034  01653  01751              % 05057 RGTR--
+*I FD 190101011 200405046        0002640  01653  01751      % 05057 RGTR--
+190101011 Bascharage/Sanem, Ga         01653                % 05057 RGTR--
+221303004 Sanem, Op Lohr        01654  01654                % 05057 RGTR--
+221303009 Sanem, Zentrum        01655  01655                % 05057 RGTR--
+221303007 Sanem, Schlass        01656  01656                % 05057 RGTR--
+221304013 Soleuvre, Reitschoul  01658  01658                % 05057 RGTR--
+221304001 Soleuvre, Aessen      01659  01659                % 05057 RGTR--
+221303010 Sanem, W.S.A.         01703  01703                % 05057 RGTR--
+221002001 Limpach, Kiirch       01711  01711                % 05057 RGTR--
+221004002 Reckange-sur-Mess, F  01714  01714                % 05057 RGTR--
+221004003 Reckange-sur-Mess, W  01715  01715                % 05057 RGTR--
+221005001 Roedgen, Laangwis     01718  01718                % 05057 RGTR--
+220702001 Leudelange, Schléiwe  01726  01726                % 05057 RGTR--
+220701017 Leudelange, Pëssenda  01728  01728                % 05057 RGTR--
+220701009 Leudelange, Kamelleb  01728  01728                % 05057 RGTR--
+220701015 Leudelange, Stiédswe  01729  01729                % 05057 RGTR--
+220701019 Leudelange, Schaefer  01731  01731                % 05057 RGTR--
+220701007 Leudelange, Grasbösc  01733  01733                % 05057 RGTR--
+200407010 Cessange, Rue de Leu  01734  01734                % 05057 RGTR--
+200407001 Cessange, Am Eck      01736  01736                % 05057 RGTR--
+200407006 Cessange, Duerf       01737  01737                % 05057 RGTR--
+200407008 Cessange, Kierch      01738  01738                % 05057 RGTR--
+200407007 Cessange, Fischerhaf  01739  01739                % 05057 RGTR--
+200407003 Cessange, Artisans    01740  01740                % 05057 RGTR--
+200407004 Cessange, Barrès      01741  01741                % 05057 RGTR--
+200415002 Hollerich, Assurance  01743  01743                % 05057 RGTR--
+200415019 Hollerich, Jean-Bapt  01745  01745                % 05057 RGTR--
+200415003 Hollerich, Fonderie   01746  01746                % 05057 RGTR--
+200405046 Luxembourg, Gare Roc  01751                       % 05057 RGTR--

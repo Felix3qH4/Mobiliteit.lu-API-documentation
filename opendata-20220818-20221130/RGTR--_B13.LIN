@@ -1,0 +1,47 @@
+*F 03 2
+*Z 18089 RGTR--                                             % 18089 RGTR--
+*L B13      180401003 170501009  00700  00741               % 18089 RGTR--
+*A cj 180401003 170501009 000042  00700  00741              % 18089 RGTR--
+*A ad 180401003 170501009 000042  00700  00741              % 18089 RGTR--
+*R 1 170501009 180401003 170501009  00700  00741            % 18089 RGTR--
+*G 050 180401003 170501009  00700  00741                    % 18089 RGTR--
+*A VE 180401003 170501009 000042  00700  00741              % 18089 RGTR--
+*I FD 180401003 170501009        0001729  00700  00741      % 18089 RGTR--
+180401003 Grevenmacher, Gare r         00700                % 18089 RGTR--
+180604001 Manternach, Munschec  00704  00704                % 18089 RGTR--
+180603001 Manternach, Gare rou  00708  00708                % 18089 RGTR--
+180602001 Lellig                00711  00711                % 18089 RGTR--
+170607002 Hierber Millen        00715  00715                % 18089 RGTR--
+170604001 Herborn, Kiercheplaz  00716  00716                % 18089 RGTR--
+170606001 Mompach, Ieweschtstr  00721  00721                % 18089 RGTR--
+170603001 Givenich, Am Duerf    00723  00723                % 18089 RGTR--
+170602001 Boursdorf, Am Duerf   00727  00727                % 18089 RGTR--
+170607005 Mompach, Buerschdrëf  00730  00730                % 18089 RGTR--
+170607003 Pafebierg             00732  00732                % 18089 RGTR--
+170501010 Echternach, Manertch  00736  00736                % 18089 RGTR--
+170501014 Echternach, Route d'  00739  00739                % 18089 RGTR--
+170501015 Echternach, Ste Croi  00740  00740                % 18089 RGTR--
+170501009 Echternach, Lycée     00741                       % 18089 RGTR--
+*Z 18090 RGTR--                                             % 18090 RGTR--
+*L B13      170501009 180401003  01435  01518               % 18090 RGTR--
+*A cj 170501009 180401003 000042  01435  01518              % 18090 RGTR--
+*A ad 170501009 180401003 000042  01435  01518              % 18090 RGTR--
+*R 2 180401003 170501009 180401003  01435  01518            % 18090 RGTR--
+*G 050 170501009 180401003  01435  01518                    % 18090 RGTR--
+*A VE 170501009 180401003 000042  01435  01518              % 18090 RGTR--
+*I FD 170501009 180401003        0002036  01435  01518      % 18090 RGTR--
+170501009 Echternach, Lycée            01435                % 18090 RGTR--
+170501015 Echternach, Ste Croi  01438  01438                % 18090 RGTR--
+170501014 Echternach, Route d'  01439  01439                % 18090 RGTR--
+170501010 Echternach, Manertch  01441  01441                % 18090 RGTR--
+170607003 Pafebierg             01445  01445                % 18090 RGTR--
+170607005 Mompach, Buerschdrëf  01447  01447                % 18090 RGTR--
+170602001 Boursdorf, Am Duerf   01450  01450                % 18090 RGTR--
+170603001 Givenich, Am Duerf    01454  01454                % 18090 RGTR--
+170607006 Mompach, Um Buer      01456  01456                % 18090 RGTR--
+170604001 Herborn, Kiercheplaz  01459  01459                % 18090 RGTR--
+170607002 Hierber Millen        01500  01500                % 18090 RGTR--
+180602001 Lellig                01504  01504                % 18090 RGTR--
+180603001 Manternach, Gare rou  01508  01508                % 18090 RGTR--
+180604001 Manternach, Munschec  01511  01511                % 18090 RGTR--
+180401003 Grevenmacher, Gare r  01518                       % 18090 RGTR--

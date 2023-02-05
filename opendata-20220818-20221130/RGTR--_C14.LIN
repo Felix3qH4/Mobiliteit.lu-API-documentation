@@ -1,0 +1,101 @@
+*F 03 2
+*Z 18176 RGTR--                                             % 18176 RGTR--
+*L C14      170705001 180511008  00700  00749               % 18176 RGTR--
+*A cj 170705001 180511008 000042  00700  00749              % 18176 RGTR--
+*A SX 170705001 180511008 000042  00700  00749              % 18176 RGTR--
+*A ad 170705001 180511008 000042  00700  00749              % 18176 RGTR--
+*R 1 180511008 170705001 180511008  00700  00749            % 18176 RGTR--
+*G 050 170705001 180511008  00700  00749                    % 18176 RGTR--
+*A VE 170705001 180511008 000042  00700  00749              % 18176 RGTR--
+*I FD 170705001 180511008        0001729  00700  00749      % 18176 RGTR--
+170705001 Steinheim, An der Ue         00700                % 18176 RGTR--
+170705002 Steinheim, Maeleck    00701  00701                % 18176 RGTR--
+170704005 Rosport, Source       00702  00702                % 18176 RGTR--
+170704001 Rosport, Camping      00703  00703                % 18176 RGTR--
+170701001 Dickweiler, Duerfpla  00710  00710                % 18176 RGTR--
+170706001 Osweiler, Duerfplaz   00714  00714                % 18176 RGTR--
+170607003 Pafebierg             00719  00719                % 18176 RGTR--
+170607004 Mompach, Kléngelbaac  00721  00721                % 18176 RGTR--
+170607006 Mompach, Um Buer      00722  00722                % 18176 RGTR--
+170604001 Herborn, Kiercheplaz  00725  00725                % 18176 RGTR--
+180601001 Berbourg, Schoulstro  00728  00728                % 18176 RGTR--
+180601002 Berbourg, Kiirch      00731  00731                % 18176 RGTR--
+170202003 Bech, Béiwerwiss      00735  00735                % 18176 RGTR--
+170202001 Bech, Bei der Gemeng  00735  00735                % 18176 RGTR--
+170202002 Bech, Beim Weiher     00736  00736                % 18176 RGTR--
+170202005 Bech, Um Faubourg     00736  00736                % 18176 RGTR--
+180511008 Junglinster, Lënster  00749                       % 18176 RGTR--
+*Z 18177 RGTR--                                             % 18177 RGTR--
+*L C14      180511008 170705003  01145  01232               % 18177 RGTR--
+*A cj 180511008 170705003 000007  01145  01232              % 18177 RGTR--
+*A SY 180511008 170705003 000007  01145  01232              % 18177 RGTR--
+*A ad 180511008 170705003 000007  01145  01232              % 18177 RGTR--
+*R 2 170705003 180511008 170705003  01145  01232            % 18177 RGTR--
+*G 050 180511008 170705003  01145  01232                    % 18177 RGTR--
+*A VE 180511008 170705003 000007  01145  01232              % 18177 RGTR--
+*I FD 180511008 170705003        0002343  01145  01232      % 18177 RGTR--
+180511008 Junglinster, Lënster         01145                % 18177 RGTR--
+170202005 Bech, Um Faubourg     01157  01157                % 18177 RGTR--
+170202002 Bech, Beim Weiher     01157  01157                % 18177 RGTR--
+170202001 Bech, Bei der Gemeng  01157  01157                % 18177 RGTR--
+170202003 Bech, Béiwerwiss      01158  01158                % 18177 RGTR--
+180601002 Berbourg, Kiirch      01202  01202                % 18177 RGTR--
+180601001 Berbourg, Schoulstro  01204  01204                % 18177 RGTR--
+170604001 Herborn, Kiercheplaz  01208  01208                % 18177 RGTR--
+170607006 Mompach, Um Buer      01211  01211                % 18177 RGTR--
+170607003 Pafebierg             01213  01213                % 18177 RGTR--
+170706001 Osweiler, Duerfplaz   01218  01218                % 18177 RGTR--
+170701001 Dickweiler, Duerfpla  01222  01222                % 18177 RGTR--
+170704001 Rosport, Camping      01229  01229                % 18177 RGTR--
+170704005 Rosport, Source       01230  01230                % 18177 RGTR--
+170705002 Steinheim, Maeleck    01231  01231                % 18177 RGTR--
+170705003 Steinheim, Spillscho  01232                       % 18177 RGTR--
+*Z 18178 RGTR--                                             % 18178 RGTR--
+*L C14      180511008 170705003  01415  01502               % 18178 RGTR--
+*A cj 180511008 170705003 000046  01415  01502              % 18178 RGTR--
+*A ad 180511008 170705003 000046  01415  01502              % 18178 RGTR--
+*R 2 170705003 180511008 170705003  01415  01502            % 18178 RGTR--
+*G 050 180511008 170705003  01415  01502                    % 18178 RGTR--
+*A VE 180511008 170705003 000046  01415  01502              % 18178 RGTR--
+*I FD 180511008 170705003        0002055  01415  01502      % 18178 RGTR--
+180511008 Junglinster, Lënster         01415                % 18178 RGTR--
+170202005 Bech, Um Faubourg     01427  01427                % 18178 RGTR--
+170202002 Bech, Beim Weiher     01427  01427                % 18178 RGTR--
+170202001 Bech, Bei der Gemeng  01427  01427                % 18178 RGTR--
+170202003 Bech, Béiwerwiss      01428  01428                % 18178 RGTR--
+180601002 Berbourg, Kiirch      01432  01432                % 18178 RGTR--
+180601001 Berbourg, Schoulstro  01434  01434                % 18178 RGTR--
+170604001 Herborn, Kiercheplaz  01438  01438                % 18178 RGTR--
+170607006 Mompach, Um Buer      01441  01441                % 18178 RGTR--
+170607003 Pafebierg             01443  01443                % 18178 RGTR--
+170706001 Osweiler, Duerfplaz   01448  01448                % 18178 RGTR--
+170701001 Dickweiler, Duerfpla  01452  01452                % 18178 RGTR--
+170704001 Rosport, Camping      01459  01459                % 18178 RGTR--
+170704005 Rosport, Source       01500  01500                % 18178 RGTR--
+170705002 Steinheim, Maeleck    01501  01501                % 18178 RGTR--
+170705003 Steinheim, Spillscho  01502                       % 18178 RGTR--
+*Z 18179 RGTR--                                             % 18179 RGTR--
+*L C14      180511008 170705003  01610  01657               % 18179 RGTR--
+*A cj 180511008 170705003 000312  01610  01657              % 18179 RGTR--
+*A SY 180511008 170705003 000312  01610  01657              % 18179 RGTR--
+*A ad 180511008 170705003 000312  01610  01657              % 18179 RGTR--
+*R 2 170705003 180511008 170705003  01610  01657            % 18179 RGTR--
+*G 050 180511008 170705003  01610  01657                    % 18179 RGTR--
+*A VE 180511008 170705003 000312  01610  01657              % 18179 RGTR--
+*I FD 180511008 170705003        0001997  01610  01657      % 18179 RGTR--
+180511008 Junglinster, Lënster         01610                % 18179 RGTR--
+170202005 Bech, Um Faubourg     01622  01622                % 18179 RGTR--
+170202002 Bech, Beim Weiher     01622  01622                % 18179 RGTR--
+170202001 Bech, Bei der Gemeng  01622  01622                % 18179 RGTR--
+170202003 Bech, Béiwerwiss      01623  01623                % 18179 RGTR--
+180601002 Berbourg, Kiirch      01627  01627                % 18179 RGTR--
+180601001 Berbourg, Schoulstro  01629  01629                % 18179 RGTR--
+170604001 Herborn, Kiercheplaz  01633  01633                % 18179 RGTR--
+170607006 Mompach, Um Buer      01636  01636                % 18179 RGTR--
+170607003 Pafebierg             01638  01638                % 18179 RGTR--
+170706001 Osweiler, Duerfplaz   01643  01643                % 18179 RGTR--
+170701001 Dickweiler, Duerfpla  01647  01647                % 18179 RGTR--
+170704001 Rosport, Camping      01654  01654                % 18179 RGTR--
+170704005 Rosport, Source       01655  01655                % 18179 RGTR--
+170705002 Steinheim, Maeleck    01656  01656                % 18179 RGTR--
+170705003 Steinheim, Spillscho  01657                       % 18179 RGTR--

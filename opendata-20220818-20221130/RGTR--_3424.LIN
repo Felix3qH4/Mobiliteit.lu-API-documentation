@@ -1,0 +1,2221 @@
+*F 03 2
+*Z 20033 RGTR--                                             % 20033 RGTR--
+*L 424      200405036 210102003  01000  01041               % 20033 RGTR--
+*R 1 210102003 200405036 210102003  01000  01041            % 20033 RGTR--
+*G 063 200405036 210102003  01000  01041                    % 20033 RGTR--
+*A VE 200405036 210102003 000039  01000  01041              % 20033 RGTR--
+*I FD 200405036 210102003        0001712  01000  01041      % 20033 RGTR--
+200405036 Luxembourg, Gare Cen         01000                % 20033 RGTR--
+200404008 Bonnevoie, Dernier S  01002  01002                % 20033 RGTR--
+200404016 Bonnevoie, Hippodrom  01002  01002                % 20033 RGTR--
+200404028 Bonnevoie, Neufchâte  01003  01003                % 20033 RGTR--
+200304004 Howald, Jhangeli      01004  01004                % 20033 RGTR--
+200304001 Howald, Am Houwaldsb  01006  01006                % 20033 RGTR--
+200303007 Hesperange, Wollefsm  01007  01007                % 20033 RGTR--
+200303001 Hesperange, Am Kelle  01008  01008                % 20033 RGTR--
+200303006 Hesperange, Urbengss  01009  01009                % 20033 RGTR--
+200301003 Alzingen, Trapeneck   01010  01010                % 20033 RGTR--
+200301002 Alzingen, Hondsbréck  01011  01011                % 20033 RGTR--
+201103001 Weiler-la-Tour, Camp  01013  01013                % 20033 RGTR--
+201103004 Weiler-la-Tour, Schl  01015  01015                % 20033 RGTR--
+201103003 Weiler-la-Tour, Hueh  01016  01016                % 20033 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01017  01017                % 20033 RGTR--
+201103005 Weiler-la-Tour, Peke  01018  01018                % 20033 RGTR--
+201101001 Hassel, Dielchen      01019  01019                % 20033 RGTR--
+201101002 Hassel, Karmesch      01020  01020                % 20033 RGTR--
+201101003 Hassel, Küneftchen    01020  01020                % 20033 RGTR--
+210302002 Filsdorf, Wäschbour   01024  01024                % 20033 RGTR--
+210302001 Filsdorf, Op der Pla  01025  01025                % 20033 RGTR--
+210301001 Dalheim, Hossegaass   01027  01027                % 20033 RGTR--
+210301004 Dalheim, Gemeng       01028  01028                % 20033 RGTR--
+210905001 Gondelengermillen     01030  01030                % 20033 RGTR--
+210904002 Waldbredimus, Kiirch  01032  01032                % 20033 RGTR--
+210904001 Waldbredimus, Hanner  01033  01033                % 20033 RGTR--
+210101001 Assel                 01035  01035                % 20033 RGTR--
+210104001 Rolling/Bous          01036  01036                % 20033 RGTR--
+210103002 Erpeldange/Bous, Rol  01038  01038                % 20033 RGTR--
+210102004 Bous, Kierch          01041  01041                % 20033 RGTR--
+210102003 Bous, Kapell          01041                       % 20033 RGTR--
+*Z 20034 RGTR--                                             % 20034 RGTR--
+*L 424      200405036 210102003  01200  01241               % 20034 RGTR--
+*R 1 210102003 200405036 210102003  01200  01241            % 20034 RGTR--
+*G 063 200405036 210102003  01200  01241                    % 20034 RGTR--
+*A VE 200405036 210102003 000039  01200  01241              % 20034 RGTR--
+*I FD 200405036 210102003        0001713  01200  01241      % 20034 RGTR--
+200405036 Luxembourg, Gare Cen         01200                % 20034 RGTR--
+200404008 Bonnevoie, Dernier S  01202  01202                % 20034 RGTR--
+200404016 Bonnevoie, Hippodrom  01202  01202                % 20034 RGTR--
+200404028 Bonnevoie, Neufchâte  01203  01203                % 20034 RGTR--
+200304004 Howald, Jhangeli      01204  01204                % 20034 RGTR--
+200304001 Howald, Am Houwaldsb  01206  01206                % 20034 RGTR--
+200303007 Hesperange, Wollefsm  01207  01207                % 20034 RGTR--
+200303001 Hesperange, Am Kelle  01208  01208                % 20034 RGTR--
+200303006 Hesperange, Urbengss  01209  01209                % 20034 RGTR--
+200301003 Alzingen, Trapeneck   01210  01210                % 20034 RGTR--
+200301002 Alzingen, Hondsbréck  01211  01211                % 20034 RGTR--
+201103001 Weiler-la-Tour, Camp  01213  01213                % 20034 RGTR--
+201103004 Weiler-la-Tour, Schl  01215  01215                % 20034 RGTR--
+201103003 Weiler-la-Tour, Hueh  01216  01216                % 20034 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01217  01217                % 20034 RGTR--
+201103005 Weiler-la-Tour, Peke  01218  01218                % 20034 RGTR--
+201101001 Hassel, Dielchen      01219  01219                % 20034 RGTR--
+201101002 Hassel, Karmesch      01220  01220                % 20034 RGTR--
+201101003 Hassel, Küneftchen    01220  01220                % 20034 RGTR--
+210302002 Filsdorf, Wäschbour   01224  01224                % 20034 RGTR--
+210302001 Filsdorf, Op der Pla  01225  01225                % 20034 RGTR--
+210301001 Dalheim, Hossegaass   01227  01227                % 20034 RGTR--
+210301004 Dalheim, Gemeng       01228  01228                % 20034 RGTR--
+210905001 Gondelengermillen     01230  01230                % 20034 RGTR--
+210904002 Waldbredimus, Kiirch  01232  01232                % 20034 RGTR--
+210904001 Waldbredimus, Hanner  01233  01233                % 20034 RGTR--
+210101001 Assel                 01235  01235                % 20034 RGTR--
+210104001 Rolling/Bous          01236  01236                % 20034 RGTR--
+210103002 Erpeldange/Bous, Rol  01238  01238                % 20034 RGTR--
+210102004 Bous, Kierch          01241  01241                % 20034 RGTR--
+210102003 Bous, Kapell          01241                       % 20034 RGTR--
+*Z 20035 RGTR--                                             % 20035 RGTR--
+*L 424      200405036 210102003  01400  01441               % 20035 RGTR--
+*R 1 210102003 200405036 210102003  01400  01441            % 20035 RGTR--
+*G 063 200405036 210102003  01400  01441                    % 20035 RGTR--
+*A VE 200405036 210102003 000039  01400  01441              % 20035 RGTR--
+*I FD 200405036 210102003        0001714  01400  01441      % 20035 RGTR--
+200405036 Luxembourg, Gare Cen         01400                % 20035 RGTR--
+200404008 Bonnevoie, Dernier S  01402  01402                % 20035 RGTR--
+200404016 Bonnevoie, Hippodrom  01402  01402                % 20035 RGTR--
+200404028 Bonnevoie, Neufchâte  01403  01403                % 20035 RGTR--
+200304004 Howald, Jhangeli      01404  01404                % 20035 RGTR--
+200304001 Howald, Am Houwaldsb  01406  01406                % 20035 RGTR--
+200303007 Hesperange, Wollefsm  01407  01407                % 20035 RGTR--
+200303001 Hesperange, Am Kelle  01408  01408                % 20035 RGTR--
+200303006 Hesperange, Urbengss  01409  01409                % 20035 RGTR--
+200301003 Alzingen, Trapeneck   01410  01410                % 20035 RGTR--
+200301002 Alzingen, Hondsbréck  01411  01411                % 20035 RGTR--
+201103001 Weiler-la-Tour, Camp  01413  01413                % 20035 RGTR--
+201103004 Weiler-la-Tour, Schl  01415  01415                % 20035 RGTR--
+201103003 Weiler-la-Tour, Hueh  01416  01416                % 20035 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01417  01417                % 20035 RGTR--
+201103005 Weiler-la-Tour, Peke  01418  01418                % 20035 RGTR--
+201101001 Hassel, Dielchen      01419  01419                % 20035 RGTR--
+201101002 Hassel, Karmesch      01420  01420                % 20035 RGTR--
+201101003 Hassel, Küneftchen    01420  01420                % 20035 RGTR--
+210302002 Filsdorf, Wäschbour   01424  01424                % 20035 RGTR--
+210302001 Filsdorf, Op der Pla  01425  01425                % 20035 RGTR--
+210301001 Dalheim, Hossegaass   01427  01427                % 20035 RGTR--
+210301004 Dalheim, Gemeng       01428  01428                % 20035 RGTR--
+210905001 Gondelengermillen     01430  01430                % 20035 RGTR--
+210904002 Waldbredimus, Kiirch  01432  01432                % 20035 RGTR--
+210904001 Waldbredimus, Hanner  01433  01433                % 20035 RGTR--
+210101001 Assel                 01435  01435                % 20035 RGTR--
+210104001 Rolling/Bous          01436  01436                % 20035 RGTR--
+210103002 Erpeldange/Bous, Rol  01438  01438                % 20035 RGTR--
+210102004 Bous, Kierch          01441  01441                % 20035 RGTR--
+210102003 Bous, Kapell          01441                       % 20035 RGTR--
+*Z 20036 RGTR--                                             % 20036 RGTR--
+*L 424      200405036 210102003  02000  02041               % 20036 RGTR--
+*R 1 210102003 200405036 210102003  02000  02041            % 20036 RGTR--
+*G 063 200405036 210102003  02000  02041                    % 20036 RGTR--
+*A VE 200405036 210102003 000039  02000  02041              % 20036 RGTR--
+*I FD 200405036 210102003        0001927  02000  02041      % 20036 RGTR--
+200405036 Luxembourg, Gare Cen         02000                % 20036 RGTR--
+200404008 Bonnevoie, Dernier S  02002  02002                % 20036 RGTR--
+200404016 Bonnevoie, Hippodrom  02002  02002                % 20036 RGTR--
+200404028 Bonnevoie, Neufchâte  02003  02003                % 20036 RGTR--
+200304004 Howald, Jhangeli      02004  02004                % 20036 RGTR--
+200304001 Howald, Am Houwaldsb  02006  02006                % 20036 RGTR--
+200303007 Hesperange, Wollefsm  02007  02007                % 20036 RGTR--
+200303001 Hesperange, Am Kelle  02008  02008                % 20036 RGTR--
+200303006 Hesperange, Urbengss  02009  02009                % 20036 RGTR--
+200301003 Alzingen, Trapeneck   02010  02010                % 20036 RGTR--
+200301002 Alzingen, Hondsbréck  02011  02011                % 20036 RGTR--
+201103001 Weiler-la-Tour, Camp  02013  02013                % 20036 RGTR--
+201103004 Weiler-la-Tour, Schl  02015  02015                % 20036 RGTR--
+201103003 Weiler-la-Tour, Hueh  02016  02016                % 20036 RGTR--
+201103002 Weiler-la-Tour, Gëlt  02017  02017                % 20036 RGTR--
+201103005 Weiler-la-Tour, Peke  02018  02018                % 20036 RGTR--
+201101001 Hassel, Dielchen      02019  02019                % 20036 RGTR--
+201101002 Hassel, Karmesch      02020  02020                % 20036 RGTR--
+201101003 Hassel, Küneftchen    02020  02020                % 20036 RGTR--
+210302002 Filsdorf, Wäschbour   02024  02024                % 20036 RGTR--
+210302001 Filsdorf, Op der Pla  02025  02025                % 20036 RGTR--
+210301001 Dalheim, Hossegaass   02027  02027                % 20036 RGTR--
+210301004 Dalheim, Gemeng       02028  02028                % 20036 RGTR--
+210905001 Gondelengermillen     02030  02030                % 20036 RGTR--
+210904002 Waldbredimus, Kiirch  02032  02032                % 20036 RGTR--
+210904001 Waldbredimus, Hanner  02033  02033                % 20036 RGTR--
+210101001 Assel                 02035  02035                % 20036 RGTR--
+210104001 Rolling/Bous          02036  02036                % 20036 RGTR--
+210103002 Erpeldange/Bous, Rol  02038  02038                % 20036 RGTR--
+210102004 Bous, Kierch          02041  02041                % 20036 RGTR--
+210102003 Bous, Kapell          02041                       % 20036 RGTR--
+*Z 20037 RGTR--                                             % 20037 RGTR--
+*L 424      200405036 210102003  02200  02241               % 20037 RGTR--
+*R 1 210102003 200405036 210102003  02200  02241            % 20037 RGTR--
+*G 063 200405036 210102003  02200  02241                    % 20037 RGTR--
+*A VE 200405036 210102003 000039  02200  02241              % 20037 RGTR--
+*I FD 200405036 210102003        0001934  02200  02241      % 20037 RGTR--
+200405036 Luxembourg, Gare Cen         02200                % 20037 RGTR--
+200404008 Bonnevoie, Dernier S  02202  02202                % 20037 RGTR--
+200404016 Bonnevoie, Hippodrom  02202  02202                % 20037 RGTR--
+200404028 Bonnevoie, Neufchâte  02203  02203                % 20037 RGTR--
+200304004 Howald, Jhangeli      02204  02204                % 20037 RGTR--
+200304001 Howald, Am Houwaldsb  02206  02206                % 20037 RGTR--
+200303007 Hesperange, Wollefsm  02207  02207                % 20037 RGTR--
+200303001 Hesperange, Am Kelle  02208  02208                % 20037 RGTR--
+200303006 Hesperange, Urbengss  02209  02209                % 20037 RGTR--
+200301003 Alzingen, Trapeneck   02210  02210                % 20037 RGTR--
+200301002 Alzingen, Hondsbréck  02211  02211                % 20037 RGTR--
+201103001 Weiler-la-Tour, Camp  02213  02213                % 20037 RGTR--
+201103004 Weiler-la-Tour, Schl  02215  02215                % 20037 RGTR--
+201103003 Weiler-la-Tour, Hueh  02216  02216                % 20037 RGTR--
+201103002 Weiler-la-Tour, Gëlt  02217  02217                % 20037 RGTR--
+201103005 Weiler-la-Tour, Peke  02218  02218                % 20037 RGTR--
+201101001 Hassel, Dielchen      02219  02219                % 20037 RGTR--
+201101002 Hassel, Karmesch      02220  02220                % 20037 RGTR--
+201101003 Hassel, Küneftchen    02220  02220                % 20037 RGTR--
+210302002 Filsdorf, Wäschbour   02224  02224                % 20037 RGTR--
+210302001 Filsdorf, Op der Pla  02225  02225                % 20037 RGTR--
+210301001 Dalheim, Hossegaass   02227  02227                % 20037 RGTR--
+210301004 Dalheim, Gemeng       02228  02228                % 20037 RGTR--
+210905001 Gondelengermillen     02230  02230                % 20037 RGTR--
+210904002 Waldbredimus, Kiirch  02232  02232                % 20037 RGTR--
+210904001 Waldbredimus, Hanner  02233  02233                % 20037 RGTR--
+210101001 Assel                 02235  02235                % 20037 RGTR--
+210104001 Rolling/Bous          02236  02236                % 20037 RGTR--
+210103002 Erpeldange/Bous, Rol  02238  02238                % 20037 RGTR--
+210102004 Bous, Kierch          02241  02241                % 20037 RGTR--
+210102003 Bous, Kapell          02241                       % 20037 RGTR--
+*Z 20038 RGTR--                                             % 20038 RGTR--
+*L 424      200405036 210102003  00500  00541               % 20038 RGTR--
+*R 1 210102003 200405036 210102003  00500  00541            % 20038 RGTR--
+*G 063 200405036 210102003  00500  00541                    % 20038 RGTR--
+*A VE 200405036 210102003 000036  00500  00541              % 20038 RGTR--
+*I FD 200405036 210102003        0001725  00500  00541      % 20038 RGTR--
+200405036 Luxembourg, Gare Cen         00500                % 20038 RGTR--
+200404008 Bonnevoie, Dernier S  00502  00502                % 20038 RGTR--
+200404016 Bonnevoie, Hippodrom  00502  00502                % 20038 RGTR--
+200404028 Bonnevoie, Neufchâte  00503  00503                % 20038 RGTR--
+200304004 Howald, Jhangeli      00504  00504                % 20038 RGTR--
+200304001 Howald, Am Houwaldsb  00506  00506                % 20038 RGTR--
+200303007 Hesperange, Wollefsm  00507  00507                % 20038 RGTR--
+200303001 Hesperange, Am Kelle  00508  00508                % 20038 RGTR--
+200303006 Hesperange, Urbengss  00509  00509                % 20038 RGTR--
+200301003 Alzingen, Trapeneck   00510  00510                % 20038 RGTR--
+200301002 Alzingen, Hondsbréck  00511  00511                % 20038 RGTR--
+201103001 Weiler-la-Tour, Camp  00513  00513                % 20038 RGTR--
+201103004 Weiler-la-Tour, Schl  00515  00515                % 20038 RGTR--
+201103003 Weiler-la-Tour, Hueh  00516  00516                % 20038 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00517  00517                % 20038 RGTR--
+201103005 Weiler-la-Tour, Peke  00518  00518                % 20038 RGTR--
+201101001 Hassel, Dielchen      00519  00519                % 20038 RGTR--
+201101002 Hassel, Karmesch      00520  00520                % 20038 RGTR--
+201101003 Hassel, Küneftchen    00520  00520                % 20038 RGTR--
+210302002 Filsdorf, Wäschbour   00524  00524                % 20038 RGTR--
+210302001 Filsdorf, Op der Pla  00525  00525                % 20038 RGTR--
+210301001 Dalheim, Hossegaass   00527  00527                % 20038 RGTR--
+210301004 Dalheim, Gemeng       00528  00528                % 20038 RGTR--
+210905001 Gondelengermillen     00530  00530                % 20038 RGTR--
+210904002 Waldbredimus, Kiirch  00532  00532                % 20038 RGTR--
+210904001 Waldbredimus, Hanner  00533  00533                % 20038 RGTR--
+210101001 Assel                 00535  00535                % 20038 RGTR--
+210104001 Rolling/Bous          00536  00536                % 20038 RGTR--
+210103002 Erpeldange/Bous, Rol  00538  00538                % 20038 RGTR--
+210102004 Bous, Kierch          00541  00541                % 20038 RGTR--
+210102003 Bous, Kapell          00541                       % 20038 RGTR--
+*Z 20039 RGTR--                                             % 20039 RGTR--
+*L 424      200405036 210102003  01100  01141               % 20039 RGTR--
+*R 1 210102003 200405036 210102003  01100  01141            % 20039 RGTR--
+*G 063 200405036 210102003  01100  01141                    % 20039 RGTR--
+*A VE 200405036 210102003 000036  01100  01141              % 20039 RGTR--
+*I FD 200405036 210102003        0001719  01100  01141      % 20039 RGTR--
+200405036 Luxembourg, Gare Cen         01100                % 20039 RGTR--
+200404008 Bonnevoie, Dernier S  01102  01102                % 20039 RGTR--
+200404016 Bonnevoie, Hippodrom  01102  01102                % 20039 RGTR--
+200404028 Bonnevoie, Neufchâte  01103  01103                % 20039 RGTR--
+200304004 Howald, Jhangeli      01104  01104                % 20039 RGTR--
+200304001 Howald, Am Houwaldsb  01106  01106                % 20039 RGTR--
+200303007 Hesperange, Wollefsm  01107  01107                % 20039 RGTR--
+200303001 Hesperange, Am Kelle  01108  01108                % 20039 RGTR--
+200303006 Hesperange, Urbengss  01109  01109                % 20039 RGTR--
+200301003 Alzingen, Trapeneck   01110  01110                % 20039 RGTR--
+200301002 Alzingen, Hondsbréck  01111  01111                % 20039 RGTR--
+201103001 Weiler-la-Tour, Camp  01113  01113                % 20039 RGTR--
+201103004 Weiler-la-Tour, Schl  01115  01115                % 20039 RGTR--
+201103003 Weiler-la-Tour, Hueh  01116  01116                % 20039 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01117  01117                % 20039 RGTR--
+201103005 Weiler-la-Tour, Peke  01118  01118                % 20039 RGTR--
+201101001 Hassel, Dielchen      01119  01119                % 20039 RGTR--
+201101002 Hassel, Karmesch      01120  01120                % 20039 RGTR--
+201101003 Hassel, Küneftchen    01120  01120                % 20039 RGTR--
+210302002 Filsdorf, Wäschbour   01124  01124                % 20039 RGTR--
+210302001 Filsdorf, Op der Pla  01125  01125                % 20039 RGTR--
+210301001 Dalheim, Hossegaass   01127  01127                % 20039 RGTR--
+210301004 Dalheim, Gemeng       01128  01128                % 20039 RGTR--
+210905001 Gondelengermillen     01130  01130                % 20039 RGTR--
+210904002 Waldbredimus, Kiirch  01132  01132                % 20039 RGTR--
+210904001 Waldbredimus, Hanner  01133  01133                % 20039 RGTR--
+210101001 Assel                 01135  01135                % 20039 RGTR--
+210104001 Rolling/Bous          01136  01136                % 20039 RGTR--
+210103002 Erpeldange/Bous, Rol  01138  01138                % 20039 RGTR--
+210102004 Bous, Kierch          01141  01141                % 20039 RGTR--
+210102003 Bous, Kapell          01141                       % 20039 RGTR--
+*Z 20040 RGTR--                                             % 20040 RGTR--
+*L 424      200405036 210102003  01300  01341               % 20040 RGTR--
+*R 1 210102003 200405036 210102003  01300  01341            % 20040 RGTR--
+*G 063 200405036 210102003  01300  01341                    % 20040 RGTR--
+*A VE 200405036 210102003 000036  01300  01341              % 20040 RGTR--
+*I FD 200405036 210102003        0001720  01300  01341      % 20040 RGTR--
+200405036 Luxembourg, Gare Cen         01300                % 20040 RGTR--
+200404008 Bonnevoie, Dernier S  01302  01302                % 20040 RGTR--
+200404016 Bonnevoie, Hippodrom  01302  01302                % 20040 RGTR--
+200404028 Bonnevoie, Neufchâte  01303  01303                % 20040 RGTR--
+200304004 Howald, Jhangeli      01304  01304                % 20040 RGTR--
+200304001 Howald, Am Houwaldsb  01306  01306                % 20040 RGTR--
+200303007 Hesperange, Wollefsm  01307  01307                % 20040 RGTR--
+200303001 Hesperange, Am Kelle  01308  01308                % 20040 RGTR--
+200303006 Hesperange, Urbengss  01309  01309                % 20040 RGTR--
+200301003 Alzingen, Trapeneck   01310  01310                % 20040 RGTR--
+200301002 Alzingen, Hondsbréck  01311  01311                % 20040 RGTR--
+201103001 Weiler-la-Tour, Camp  01313  01313                % 20040 RGTR--
+201103004 Weiler-la-Tour, Schl  01315  01315                % 20040 RGTR--
+201103003 Weiler-la-Tour, Hueh  01316  01316                % 20040 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01317  01317                % 20040 RGTR--
+201103005 Weiler-la-Tour, Peke  01318  01318                % 20040 RGTR--
+201101001 Hassel, Dielchen      01319  01319                % 20040 RGTR--
+201101002 Hassel, Karmesch      01320  01320                % 20040 RGTR--
+201101003 Hassel, Küneftchen    01320  01320                % 20040 RGTR--
+210302002 Filsdorf, Wäschbour   01324  01324                % 20040 RGTR--
+210302001 Filsdorf, Op der Pla  01325  01325                % 20040 RGTR--
+210301001 Dalheim, Hossegaass   01327  01327                % 20040 RGTR--
+210301004 Dalheim, Gemeng       01328  01328                % 20040 RGTR--
+210905001 Gondelengermillen     01330  01330                % 20040 RGTR--
+210904002 Waldbredimus, Kiirch  01332  01332                % 20040 RGTR--
+210904001 Waldbredimus, Hanner  01333  01333                % 20040 RGTR--
+210101001 Assel                 01335  01335                % 20040 RGTR--
+210104001 Rolling/Bous          01336  01336                % 20040 RGTR--
+210103002 Erpeldange/Bous, Rol  01338  01338                % 20040 RGTR--
+210102004 Bous, Kierch          01341  01341                % 20040 RGTR--
+210102003 Bous, Kapell          01341                       % 20040 RGTR--
+*Z 20041 RGTR--                                             % 20041 RGTR--
+*L 424      200405036 210102003  01500  01541               % 20041 RGTR--
+*R 1 210102003 200405036 210102003  01500  01541            % 20041 RGTR--
+*G 063 200405036 210102003  01500  01541                    % 20041 RGTR--
+*A VE 200405036 210102003 000036  01500  01541              % 20041 RGTR--
+*I FD 200405036 210102003        0001721  01500  01541      % 20041 RGTR--
+200405036 Luxembourg, Gare Cen         01500                % 20041 RGTR--
+200404008 Bonnevoie, Dernier S  01502  01502                % 20041 RGTR--
+200404016 Bonnevoie, Hippodrom  01502  01502                % 20041 RGTR--
+200404028 Bonnevoie, Neufchâte  01503  01503                % 20041 RGTR--
+200304004 Howald, Jhangeli      01504  01504                % 20041 RGTR--
+200304001 Howald, Am Houwaldsb  01506  01506                % 20041 RGTR--
+200303007 Hesperange, Wollefsm  01507  01507                % 20041 RGTR--
+200303001 Hesperange, Am Kelle  01508  01508                % 20041 RGTR--
+200303006 Hesperange, Urbengss  01509  01509                % 20041 RGTR--
+200301003 Alzingen, Trapeneck   01510  01510                % 20041 RGTR--
+200301002 Alzingen, Hondsbréck  01511  01511                % 20041 RGTR--
+201103001 Weiler-la-Tour, Camp  01513  01513                % 20041 RGTR--
+201103004 Weiler-la-Tour, Schl  01515  01515                % 20041 RGTR--
+201103003 Weiler-la-Tour, Hueh  01516  01516                % 20041 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01517  01517                % 20041 RGTR--
+201103005 Weiler-la-Tour, Peke  01518  01518                % 20041 RGTR--
+201101001 Hassel, Dielchen      01519  01519                % 20041 RGTR--
+201101002 Hassel, Karmesch      01520  01520                % 20041 RGTR--
+201101003 Hassel, Küneftchen    01520  01520                % 20041 RGTR--
+210302002 Filsdorf, Wäschbour   01524  01524                % 20041 RGTR--
+210302001 Filsdorf, Op der Pla  01525  01525                % 20041 RGTR--
+210301001 Dalheim, Hossegaass   01527  01527                % 20041 RGTR--
+210301004 Dalheim, Gemeng       01528  01528                % 20041 RGTR--
+210905001 Gondelengermillen     01530  01530                % 20041 RGTR--
+210904002 Waldbredimus, Kiirch  01532  01532                % 20041 RGTR--
+210904001 Waldbredimus, Hanner  01533  01533                % 20041 RGTR--
+210101001 Assel                 01535  01535                % 20041 RGTR--
+210104001 Rolling/Bous          01536  01536                % 20041 RGTR--
+210103002 Erpeldange/Bous, Rol  01538  01538                % 20041 RGTR--
+210102004 Bous, Kierch          01541  01541                % 20041 RGTR--
+210102003 Bous, Kapell          01541                       % 20041 RGTR--
+*Z 20042 RGTR--                                             % 20042 RGTR--
+*L 424      200405036 210102003  02100  02141               % 20042 RGTR--
+*R 1 210102003 200405036 210102003  02100  02141            % 20042 RGTR--
+*G 063 200405036 210102003  02100  02141                    % 20042 RGTR--
+*A VE 200405036 210102003 000036  02100  02141              % 20042 RGTR--
+*I FD 200405036 210102003        0001928  02100  02141      % 20042 RGTR--
+200405036 Luxembourg, Gare Cen         02100                % 20042 RGTR--
+200404008 Bonnevoie, Dernier S  02102  02102                % 20042 RGTR--
+200404016 Bonnevoie, Hippodrom  02102  02102                % 20042 RGTR--
+200404028 Bonnevoie, Neufchâte  02103  02103                % 20042 RGTR--
+200304004 Howald, Jhangeli      02104  02104                % 20042 RGTR--
+200304001 Howald, Am Houwaldsb  02106  02106                % 20042 RGTR--
+200303007 Hesperange, Wollefsm  02107  02107                % 20042 RGTR--
+200303001 Hesperange, Am Kelle  02108  02108                % 20042 RGTR--
+200303006 Hesperange, Urbengss  02109  02109                % 20042 RGTR--
+200301003 Alzingen, Trapeneck   02110  02110                % 20042 RGTR--
+200301002 Alzingen, Hondsbréck  02111  02111                % 20042 RGTR--
+201103001 Weiler-la-Tour, Camp  02113  02113                % 20042 RGTR--
+201103004 Weiler-la-Tour, Schl  02115  02115                % 20042 RGTR--
+201103003 Weiler-la-Tour, Hueh  02116  02116                % 20042 RGTR--
+201103002 Weiler-la-Tour, Gëlt  02117  02117                % 20042 RGTR--
+201103005 Weiler-la-Tour, Peke  02118  02118                % 20042 RGTR--
+201101001 Hassel, Dielchen      02119  02119                % 20042 RGTR--
+201101002 Hassel, Karmesch      02120  02120                % 20042 RGTR--
+201101003 Hassel, Küneftchen    02120  02120                % 20042 RGTR--
+210302002 Filsdorf, Wäschbour   02124  02124                % 20042 RGTR--
+210302001 Filsdorf, Op der Pla  02125  02125                % 20042 RGTR--
+210301001 Dalheim, Hossegaass   02127  02127                % 20042 RGTR--
+210301004 Dalheim, Gemeng       02128  02128                % 20042 RGTR--
+210905001 Gondelengermillen     02130  02130                % 20042 RGTR--
+210904002 Waldbredimus, Kiirch  02132  02132                % 20042 RGTR--
+210904001 Waldbredimus, Hanner  02133  02133                % 20042 RGTR--
+210101001 Assel                 02135  02135                % 20042 RGTR--
+210104001 Rolling/Bous          02136  02136                % 20042 RGTR--
+210103002 Erpeldange/Bous, Rol  02138  02138                % 20042 RGTR--
+210102004 Bous, Kierch          02141  02141                % 20042 RGTR--
+210102003 Bous, Kapell          02141                       % 20042 RGTR--
+*Z 20043 RGTR--                                             % 20043 RGTR--
+*L 424      200405036 210102003  02300  02341               % 20043 RGTR--
+*R 1 210102003 200405036 210102003  02300  02341            % 20043 RGTR--
+*G 063 200405036 210102003  02300  02341                    % 20043 RGTR--
+*A VE 200405036 210102003 000036  02300  02341              % 20043 RGTR--
+*I FD 200405036 210102003        0001929  02300  02341      % 20043 RGTR--
+200405036 Luxembourg, Gare Cen         02300                % 20043 RGTR--
+200404008 Bonnevoie, Dernier S  02302  02302                % 20043 RGTR--
+200404016 Bonnevoie, Hippodrom  02302  02302                % 20043 RGTR--
+200404028 Bonnevoie, Neufchâte  02303  02303                % 20043 RGTR--
+200304004 Howald, Jhangeli      02304  02304                % 20043 RGTR--
+200304001 Howald, Am Houwaldsb  02306  02306                % 20043 RGTR--
+200303007 Hesperange, Wollefsm  02307  02307                % 20043 RGTR--
+200303001 Hesperange, Am Kelle  02308  02308                % 20043 RGTR--
+200303006 Hesperange, Urbengss  02309  02309                % 20043 RGTR--
+200301003 Alzingen, Trapeneck   02310  02310                % 20043 RGTR--
+200301002 Alzingen, Hondsbréck  02311  02311                % 20043 RGTR--
+201103001 Weiler-la-Tour, Camp  02313  02313                % 20043 RGTR--
+201103004 Weiler-la-Tour, Schl  02315  02315                % 20043 RGTR--
+201103003 Weiler-la-Tour, Hueh  02316  02316                % 20043 RGTR--
+201103002 Weiler-la-Tour, Gëlt  02317  02317                % 20043 RGTR--
+201103005 Weiler-la-Tour, Peke  02318  02318                % 20043 RGTR--
+201101001 Hassel, Dielchen      02319  02319                % 20043 RGTR--
+201101002 Hassel, Karmesch      02320  02320                % 20043 RGTR--
+201101003 Hassel, Küneftchen    02320  02320                % 20043 RGTR--
+210302002 Filsdorf, Wäschbour   02324  02324                % 20043 RGTR--
+210302001 Filsdorf, Op der Pla  02325  02325                % 20043 RGTR--
+210301001 Dalheim, Hossegaass   02327  02327                % 20043 RGTR--
+210301004 Dalheim, Gemeng       02328  02328                % 20043 RGTR--
+210905001 Gondelengermillen     02330  02330                % 20043 RGTR--
+210904002 Waldbredimus, Kiirch  02332  02332                % 20043 RGTR--
+210904001 Waldbredimus, Hanner  02333  02333                % 20043 RGTR--
+210101001 Assel                 02335  02335                % 20043 RGTR--
+210104001 Rolling/Bous          02336  02336                % 20043 RGTR--
+210103002 Erpeldange/Bous, Rol  02338  02338                % 20043 RGTR--
+210102004 Bous, Kierch          02341  02341                % 20043 RGTR--
+210102003 Bous, Kapell          02341                       % 20043 RGTR--
+*Z 20044 RGTR--                                             % 20044 RGTR--
+*L 424      200405036 210102003  00600  00641               % 20044 RGTR--
+*R 1 210102003 200405036 210102003  00600  00641            % 20044 RGTR--
+*G 063 200405036 210102003  00600  00641                    % 20044 RGTR--
+*A VE 200405036 210102003 000035  00600  00641              % 20044 RGTR--
+*I FD 200405036 210102003        0001717  00600  00641      % 20044 RGTR--
+200405036 Luxembourg, Gare Cen         00600                % 20044 RGTR--
+200404008 Bonnevoie, Dernier S  00602  00602                % 20044 RGTR--
+200404016 Bonnevoie, Hippodrom  00602  00602                % 20044 RGTR--
+200404028 Bonnevoie, Neufchâte  00603  00603                % 20044 RGTR--
+200304004 Howald, Jhangeli      00604  00604                % 20044 RGTR--
+200304001 Howald, Am Houwaldsb  00606  00606                % 20044 RGTR--
+200303007 Hesperange, Wollefsm  00607  00607                % 20044 RGTR--
+200303001 Hesperange, Am Kelle  00608  00608                % 20044 RGTR--
+200303006 Hesperange, Urbengss  00609  00609                % 20044 RGTR--
+200301003 Alzingen, Trapeneck   00610  00610                % 20044 RGTR--
+200301002 Alzingen, Hondsbréck  00611  00611                % 20044 RGTR--
+201103001 Weiler-la-Tour, Camp  00613  00613                % 20044 RGTR--
+201103004 Weiler-la-Tour, Schl  00615  00615                % 20044 RGTR--
+201103003 Weiler-la-Tour, Hueh  00616  00616                % 20044 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00617  00617                % 20044 RGTR--
+201103005 Weiler-la-Tour, Peke  00618  00618                % 20044 RGTR--
+201101001 Hassel, Dielchen      00619  00619                % 20044 RGTR--
+201101002 Hassel, Karmesch      00620  00620                % 20044 RGTR--
+201101003 Hassel, Küneftchen    00620  00620                % 20044 RGTR--
+210302002 Filsdorf, Wäschbour   00624  00624                % 20044 RGTR--
+210302001 Filsdorf, Op der Pla  00625  00625                % 20044 RGTR--
+210301001 Dalheim, Hossegaass   00627  00627                % 20044 RGTR--
+210301004 Dalheim, Gemeng       00628  00628                % 20044 RGTR--
+210905001 Gondelengermillen     00630  00630                % 20044 RGTR--
+210904002 Waldbredimus, Kiirch  00632  00632                % 20044 RGTR--
+210904001 Waldbredimus, Hanner  00633  00633                % 20044 RGTR--
+210101001 Assel                 00635  00635                % 20044 RGTR--
+210104001 Rolling/Bous          00636  00636                % 20044 RGTR--
+210103002 Erpeldange/Bous, Rol  00638  00638                % 20044 RGTR--
+210102004 Bous, Kierch          00641  00641                % 20044 RGTR--
+210102003 Bous, Kapell          00641                       % 20044 RGTR--
+*Z 20045 RGTR--                                             % 20045 RGTR--
+*L 424      200405036 210102003  00800  00841               % 20045 RGTR--
+*R 1 210102003 200405036 210102003  00800  00841            % 20045 RGTR--
+*G 063 200405036 210102003  00800  00841                    % 20045 RGTR--
+*A VE 200405036 210102003 000035  00800  00841              % 20045 RGTR--
+*I FD 200405036 210102003        0001726  00800  00841      % 20045 RGTR--
+200405036 Luxembourg, Gare Cen         00800                % 20045 RGTR--
+200404008 Bonnevoie, Dernier S  00802  00802                % 20045 RGTR--
+200404016 Bonnevoie, Hippodrom  00802  00802                % 20045 RGTR--
+200404028 Bonnevoie, Neufchâte  00803  00803                % 20045 RGTR--
+200304004 Howald, Jhangeli      00804  00804                % 20045 RGTR--
+200304001 Howald, Am Houwaldsb  00806  00806                % 20045 RGTR--
+200303007 Hesperange, Wollefsm  00807  00807                % 20045 RGTR--
+200303001 Hesperange, Am Kelle  00808  00808                % 20045 RGTR--
+200303006 Hesperange, Urbengss  00809  00809                % 20045 RGTR--
+200301003 Alzingen, Trapeneck   00810  00810                % 20045 RGTR--
+200301002 Alzingen, Hondsbréck  00811  00811                % 20045 RGTR--
+201103001 Weiler-la-Tour, Camp  00813  00813                % 20045 RGTR--
+201103004 Weiler-la-Tour, Schl  00815  00815                % 20045 RGTR--
+201103003 Weiler-la-Tour, Hueh  00816  00816                % 20045 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00817  00817                % 20045 RGTR--
+201103005 Weiler-la-Tour, Peke  00818  00818                % 20045 RGTR--
+201101001 Hassel, Dielchen      00819  00819                % 20045 RGTR--
+201101002 Hassel, Karmesch      00820  00820                % 20045 RGTR--
+201101003 Hassel, Küneftchen    00820  00820                % 20045 RGTR--
+210302002 Filsdorf, Wäschbour   00824  00824                % 20045 RGTR--
+210302001 Filsdorf, Op der Pla  00825  00825                % 20045 RGTR--
+210301001 Dalheim, Hossegaass   00827  00827                % 20045 RGTR--
+210301004 Dalheim, Gemeng       00828  00828                % 20045 RGTR--
+210905001 Gondelengermillen     00830  00830                % 20045 RGTR--
+210904002 Waldbredimus, Kiirch  00832  00832                % 20045 RGTR--
+210904001 Waldbredimus, Hanner  00833  00833                % 20045 RGTR--
+210101001 Assel                 00835  00835                % 20045 RGTR--
+210104001 Rolling/Bous          00836  00836                % 20045 RGTR--
+210103002 Erpeldange/Bous, Rol  00838  00838                % 20045 RGTR--
+210102004 Bous, Kierch          00841  00841                % 20045 RGTR--
+210102003 Bous, Kapell          00841                       % 20045 RGTR--
+*Z 20046 RGTR--                                             % 20046 RGTR--
+*L 424      200405036 210102003  01600  01641               % 20046 RGTR--
+*R 1 210102003 200405036 210102003  01600  01641            % 20046 RGTR--
+*G 063 200405036 210102003  01600  01641                    % 20046 RGTR--
+*A VE 200405036 210102003 000035  01600  01641              % 20046 RGTR--
+*I FD 200405036 210102003        0001727  01600  01641      % 20046 RGTR--
+200405036 Luxembourg, Gare Cen         01600                % 20046 RGTR--
+200404008 Bonnevoie, Dernier S  01602  01602                % 20046 RGTR--
+200404016 Bonnevoie, Hippodrom  01602  01602                % 20046 RGTR--
+200404028 Bonnevoie, Neufchâte  01603  01603                % 20046 RGTR--
+200304004 Howald, Jhangeli      01604  01604                % 20046 RGTR--
+200304001 Howald, Am Houwaldsb  01606  01606                % 20046 RGTR--
+200303007 Hesperange, Wollefsm  01607  01607                % 20046 RGTR--
+200303001 Hesperange, Am Kelle  01608  01608                % 20046 RGTR--
+200303006 Hesperange, Urbengss  01609  01609                % 20046 RGTR--
+200301003 Alzingen, Trapeneck   01610  01610                % 20046 RGTR--
+200301002 Alzingen, Hondsbréck  01611  01611                % 20046 RGTR--
+201103001 Weiler-la-Tour, Camp  01613  01613                % 20046 RGTR--
+201103004 Weiler-la-Tour, Schl  01615  01615                % 20046 RGTR--
+201103003 Weiler-la-Tour, Hueh  01616  01616                % 20046 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01617  01617                % 20046 RGTR--
+201103005 Weiler-la-Tour, Peke  01618  01618                % 20046 RGTR--
+201101001 Hassel, Dielchen      01619  01619                % 20046 RGTR--
+201101002 Hassel, Karmesch      01620  01620                % 20046 RGTR--
+201101003 Hassel, Küneftchen    01620  01620                % 20046 RGTR--
+210302002 Filsdorf, Wäschbour   01624  01624                % 20046 RGTR--
+210302001 Filsdorf, Op der Pla  01625  01625                % 20046 RGTR--
+210301001 Dalheim, Hossegaass   01627  01627                % 20046 RGTR--
+210301004 Dalheim, Gemeng       01628  01628                % 20046 RGTR--
+210905001 Gondelengermillen     01630  01630                % 20046 RGTR--
+210904002 Waldbredimus, Kiirch  01632  01632                % 20046 RGTR--
+210904001 Waldbredimus, Hanner  01633  01633                % 20046 RGTR--
+210101001 Assel                 01635  01635                % 20046 RGTR--
+210104001 Rolling/Bous          01636  01636                % 20046 RGTR--
+210103002 Erpeldange/Bous, Rol  01638  01638                % 20046 RGTR--
+210102004 Bous, Kierch          01641  01641                % 20046 RGTR--
+210102003 Bous, Kapell          01641                       % 20046 RGTR--
+*Z 20047 RGTR--                                             % 20047 RGTR--
+*L 424      200405036 210102003  01800  01841               % 20047 RGTR--
+*R 1 210102003 200405036 210102003  01800  01841            % 20047 RGTR--
+*G 063 200405036 210102003  01800  01841                    % 20047 RGTR--
+*A VE 200405036 210102003 000035  01800  01841              % 20047 RGTR--
+*I FD 200405036 210102003        0001728  01800  01841      % 20047 RGTR--
+200405036 Luxembourg, Gare Cen         01800                % 20047 RGTR--
+200404008 Bonnevoie, Dernier S  01802  01802                % 20047 RGTR--
+200404016 Bonnevoie, Hippodrom  01802  01802                % 20047 RGTR--
+200404028 Bonnevoie, Neufchâte  01803  01803                % 20047 RGTR--
+200304004 Howald, Jhangeli      01804  01804                % 20047 RGTR--
+200304001 Howald, Am Houwaldsb  01806  01806                % 20047 RGTR--
+200303007 Hesperange, Wollefsm  01807  01807                % 20047 RGTR--
+200303001 Hesperange, Am Kelle  01808  01808                % 20047 RGTR--
+200303006 Hesperange, Urbengss  01809  01809                % 20047 RGTR--
+200301003 Alzingen, Trapeneck   01810  01810                % 20047 RGTR--
+200301002 Alzingen, Hondsbréck  01811  01811                % 20047 RGTR--
+201103001 Weiler-la-Tour, Camp  01813  01813                % 20047 RGTR--
+201103004 Weiler-la-Tour, Schl  01815  01815                % 20047 RGTR--
+201103003 Weiler-la-Tour, Hueh  01816  01816                % 20047 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01817  01817                % 20047 RGTR--
+201103005 Weiler-la-Tour, Peke  01818  01818                % 20047 RGTR--
+201101001 Hassel, Dielchen      01819  01819                % 20047 RGTR--
+201101002 Hassel, Karmesch      01820  01820                % 20047 RGTR--
+201101003 Hassel, Küneftchen    01820  01820                % 20047 RGTR--
+210302002 Filsdorf, Wäschbour   01824  01824                % 20047 RGTR--
+210302001 Filsdorf, Op der Pla  01825  01825                % 20047 RGTR--
+210301001 Dalheim, Hossegaass   01827  01827                % 20047 RGTR--
+210301004 Dalheim, Gemeng       01828  01828                % 20047 RGTR--
+210905001 Gondelengermillen     01830  01830                % 20047 RGTR--
+210904002 Waldbredimus, Kiirch  01832  01832                % 20047 RGTR--
+210904001 Waldbredimus, Hanner  01833  01833                % 20047 RGTR--
+210101001 Assel                 01835  01835                % 20047 RGTR--
+210104001 Rolling/Bous          01836  01836                % 20047 RGTR--
+210103002 Erpeldange/Bous, Rol  01838  01838                % 20047 RGTR--
+210102004 Bous, Kierch          01841  01841                % 20047 RGTR--
+210102003 Bous, Kapell          01841                       % 20047 RGTR--
+*Z 20048 RGTR--                                             % 20048 RGTR--
+*L 424      200405036 210102003  00700  00741               % 20048 RGTR--
+*R 1 210102003 200405036 210102003  00700  00741            % 20048 RGTR--
+*G 063 200405036 210102003  00700  00741                    % 20048 RGTR--
+*A VE 200405036 210102003 000025  00700  00741              % 20048 RGTR--
+*I FD 200405036 210102003        0001729  00700  00741      % 20048 RGTR--
+200405036 Luxembourg, Gare Cen         00700                % 20048 RGTR--
+200404008 Bonnevoie, Dernier S  00702  00702                % 20048 RGTR--
+200404016 Bonnevoie, Hippodrom  00702  00702                % 20048 RGTR--
+200404028 Bonnevoie, Neufchâte  00703  00703                % 20048 RGTR--
+200304004 Howald, Jhangeli      00704  00704                % 20048 RGTR--
+200304001 Howald, Am Houwaldsb  00706  00706                % 20048 RGTR--
+200303007 Hesperange, Wollefsm  00707  00707                % 20048 RGTR--
+200303001 Hesperange, Am Kelle  00708  00708                % 20048 RGTR--
+200303006 Hesperange, Urbengss  00709  00709                % 20048 RGTR--
+200301003 Alzingen, Trapeneck   00710  00710                % 20048 RGTR--
+200301002 Alzingen, Hondsbréck  00711  00711                % 20048 RGTR--
+201103001 Weiler-la-Tour, Camp  00713  00713                % 20048 RGTR--
+201103004 Weiler-la-Tour, Schl  00715  00715                % 20048 RGTR--
+201103003 Weiler-la-Tour, Hueh  00716  00716                % 20048 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00717  00717                % 20048 RGTR--
+201103005 Weiler-la-Tour, Peke  00718  00718                % 20048 RGTR--
+201101001 Hassel, Dielchen      00719  00719                % 20048 RGTR--
+201101002 Hassel, Karmesch      00720  00720                % 20048 RGTR--
+201101003 Hassel, Küneftchen    00720  00720                % 20048 RGTR--
+210302002 Filsdorf, Wäschbour   00724  00724                % 20048 RGTR--
+210302001 Filsdorf, Op der Pla  00725  00725                % 20048 RGTR--
+210301001 Dalheim, Hossegaass   00727  00727                % 20048 RGTR--
+210301004 Dalheim, Gemeng       00728  00728                % 20048 RGTR--
+210905001 Gondelengermillen     00730  00730                % 20048 RGTR--
+210904002 Waldbredimus, Kiirch  00732  00732                % 20048 RGTR--
+210904001 Waldbredimus, Hanner  00733  00733                % 20048 RGTR--
+210101001 Assel                 00735  00735                % 20048 RGTR--
+210104001 Rolling/Bous          00736  00736                % 20048 RGTR--
+210103002 Erpeldange/Bous, Rol  00738  00738                % 20048 RGTR--
+210102004 Bous, Kierch          00741  00741                % 20048 RGTR--
+210102003 Bous, Kapell          00741                       % 20048 RGTR--
+*Z 20049 RGTR--                                             % 20049 RGTR--
+*L 424      200405036 210102003  00900  00941               % 20049 RGTR--
+*R 1 210102003 200405036 210102003  00900  00941            % 20049 RGTR--
+*G 063 200405036 210102003  00900  00941                    % 20049 RGTR--
+*A VE 200405036 210102003 000025  00900  00941              % 20049 RGTR--
+*I FD 200405036 210102003        0001718  00900  00941      % 20049 RGTR--
+200405036 Luxembourg, Gare Cen         00900                % 20049 RGTR--
+200404008 Bonnevoie, Dernier S  00902  00902                % 20049 RGTR--
+200404016 Bonnevoie, Hippodrom  00902  00902                % 20049 RGTR--
+200404028 Bonnevoie, Neufchâte  00903  00903                % 20049 RGTR--
+200304004 Howald, Jhangeli      00904  00904                % 20049 RGTR--
+200304001 Howald, Am Houwaldsb  00906  00906                % 20049 RGTR--
+200303007 Hesperange, Wollefsm  00907  00907                % 20049 RGTR--
+200303001 Hesperange, Am Kelle  00908  00908                % 20049 RGTR--
+200303006 Hesperange, Urbengss  00909  00909                % 20049 RGTR--
+200301003 Alzingen, Trapeneck   00910  00910                % 20049 RGTR--
+200301002 Alzingen, Hondsbréck  00911  00911                % 20049 RGTR--
+201103001 Weiler-la-Tour, Camp  00913  00913                % 20049 RGTR--
+201103004 Weiler-la-Tour, Schl  00915  00915                % 20049 RGTR--
+201103003 Weiler-la-Tour, Hueh  00916  00916                % 20049 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00917  00917                % 20049 RGTR--
+201103005 Weiler-la-Tour, Peke  00918  00918                % 20049 RGTR--
+201101001 Hassel, Dielchen      00919  00919                % 20049 RGTR--
+201101002 Hassel, Karmesch      00920  00920                % 20049 RGTR--
+201101003 Hassel, Küneftchen    00920  00920                % 20049 RGTR--
+210302002 Filsdorf, Wäschbour   00924  00924                % 20049 RGTR--
+210302001 Filsdorf, Op der Pla  00925  00925                % 20049 RGTR--
+210301001 Dalheim, Hossegaass   00927  00927                % 20049 RGTR--
+210301004 Dalheim, Gemeng       00928  00928                % 20049 RGTR--
+210905001 Gondelengermillen     00930  00930                % 20049 RGTR--
+210904002 Waldbredimus, Kiirch  00932  00932                % 20049 RGTR--
+210904001 Waldbredimus, Hanner  00933  00933                % 20049 RGTR--
+210101001 Assel                 00935  00935                % 20049 RGTR--
+210104001 Rolling/Bous          00936  00936                % 20049 RGTR--
+210103002 Erpeldange/Bous, Rol  00938  00938                % 20049 RGTR--
+210102004 Bous, Kierch          00941  00941                % 20049 RGTR--
+210102003 Bous, Kapell          00941                       % 20049 RGTR--
+*Z 20050 RGTR--                                             % 20050 RGTR--
+*L 424      200405036 210102003  01700  01741               % 20050 RGTR--
+*R 1 210102003 200405036 210102003  01700  01741            % 20050 RGTR--
+*G 063 200405036 210102003  01700  01741                    % 20050 RGTR--
+*A VE 200405036 210102003 000025  01700  01741              % 20050 RGTR--
+*I FD 200405036 210102003        0001732  01700  01741      % 20050 RGTR--
+200405036 Luxembourg, Gare Cen         01700                % 20050 RGTR--
+200404008 Bonnevoie, Dernier S  01702  01702                % 20050 RGTR--
+200404016 Bonnevoie, Hippodrom  01702  01702                % 20050 RGTR--
+200404028 Bonnevoie, Neufchâte  01703  01703                % 20050 RGTR--
+200304004 Howald, Jhangeli      01704  01704                % 20050 RGTR--
+200304001 Howald, Am Houwaldsb  01706  01706                % 20050 RGTR--
+200303007 Hesperange, Wollefsm  01707  01707                % 20050 RGTR--
+200303001 Hesperange, Am Kelle  01708  01708                % 20050 RGTR--
+200303006 Hesperange, Urbengss  01709  01709                % 20050 RGTR--
+200301003 Alzingen, Trapeneck   01710  01710                % 20050 RGTR--
+200301002 Alzingen, Hondsbréck  01711  01711                % 20050 RGTR--
+201103001 Weiler-la-Tour, Camp  01713  01713                % 20050 RGTR--
+201103004 Weiler-la-Tour, Schl  01715  01715                % 20050 RGTR--
+201103003 Weiler-la-Tour, Hueh  01716  01716                % 20050 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01717  01717                % 20050 RGTR--
+201103005 Weiler-la-Tour, Peke  01718  01718                % 20050 RGTR--
+201101001 Hassel, Dielchen      01719  01719                % 20050 RGTR--
+201101002 Hassel, Karmesch      01720  01720                % 20050 RGTR--
+201101003 Hassel, Küneftchen    01720  01720                % 20050 RGTR--
+210302002 Filsdorf, Wäschbour   01724  01724                % 20050 RGTR--
+210302001 Filsdorf, Op der Pla  01725  01725                % 20050 RGTR--
+210301001 Dalheim, Hossegaass   01727  01727                % 20050 RGTR--
+210301004 Dalheim, Gemeng       01728  01728                % 20050 RGTR--
+210905001 Gondelengermillen     01730  01730                % 20050 RGTR--
+210904002 Waldbredimus, Kiirch  01732  01732                % 20050 RGTR--
+210904001 Waldbredimus, Hanner  01733  01733                % 20050 RGTR--
+210101001 Assel                 01735  01735                % 20050 RGTR--
+210104001 Rolling/Bous          01736  01736                % 20050 RGTR--
+210103002 Erpeldange/Bous, Rol  01738  01738                % 20050 RGTR--
+210102004 Bous, Kierch          01741  01741                % 20050 RGTR--
+210102003 Bous, Kapell          01741                       % 20050 RGTR--
+*Z 20051 RGTR--                                             % 20051 RGTR--
+*L 424      200405036 210102003  01900  01941               % 20051 RGTR--
+*R 1 210102003 200405036 210102003  01900  01941            % 20051 RGTR--
+*G 063 200405036 210102003  01900  01941                    % 20051 RGTR--
+*A VE 200405036 210102003 000025  01900  01941              % 20051 RGTR--
+*I FD 200405036 210102003        0001723  01900  01941      % 20051 RGTR--
+200405036 Luxembourg, Gare Cen         01900                % 20051 RGTR--
+200404008 Bonnevoie, Dernier S  01902  01902                % 20051 RGTR--
+200404016 Bonnevoie, Hippodrom  01902  01902                % 20051 RGTR--
+200404028 Bonnevoie, Neufchâte  01903  01903                % 20051 RGTR--
+200304004 Howald, Jhangeli      01904  01904                % 20051 RGTR--
+200304001 Howald, Am Houwaldsb  01906  01906                % 20051 RGTR--
+200303007 Hesperange, Wollefsm  01907  01907                % 20051 RGTR--
+200303001 Hesperange, Am Kelle  01908  01908                % 20051 RGTR--
+200303006 Hesperange, Urbengss  01909  01909                % 20051 RGTR--
+200301003 Alzingen, Trapeneck   01910  01910                % 20051 RGTR--
+200301002 Alzingen, Hondsbréck  01911  01911                % 20051 RGTR--
+201103001 Weiler-la-Tour, Camp  01913  01913                % 20051 RGTR--
+201103004 Weiler-la-Tour, Schl  01915  01915                % 20051 RGTR--
+201103003 Weiler-la-Tour, Hueh  01916  01916                % 20051 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01917  01917                % 20051 RGTR--
+201103005 Weiler-la-Tour, Peke  01918  01918                % 20051 RGTR--
+201101001 Hassel, Dielchen      01919  01919                % 20051 RGTR--
+201101002 Hassel, Karmesch      01920  01920                % 20051 RGTR--
+201101003 Hassel, Küneftchen    01920  01920                % 20051 RGTR--
+210302002 Filsdorf, Wäschbour   01924  01924                % 20051 RGTR--
+210302001 Filsdorf, Op der Pla  01925  01925                % 20051 RGTR--
+210301001 Dalheim, Hossegaass   01927  01927                % 20051 RGTR--
+210301004 Dalheim, Gemeng       01928  01928                % 20051 RGTR--
+210905001 Gondelengermillen     01930  01930                % 20051 RGTR--
+210904002 Waldbredimus, Kiirch  01932  01932                % 20051 RGTR--
+210904001 Waldbredimus, Hanner  01933  01933                % 20051 RGTR--
+210101001 Assel                 01935  01935                % 20051 RGTR--
+210104001 Rolling/Bous          01936  01936                % 20051 RGTR--
+210103002 Erpeldange/Bous, Rol  01938  01938                % 20051 RGTR--
+210102004 Bous, Kierch          01941  01941                % 20051 RGTR--
+210102003 Bous, Kapell          01941                       % 20051 RGTR--
+*Z 20052 RGTR--                                             % 20052 RGTR--
+*L 424      200405036 210102003  00600  00647               % 20052 RGTR--
+*R 1 210102003 200405036 210102003  00600  00647            % 20052 RGTR--
+*G 063 200405036 210102003  00600  00647                    % 20052 RGTR--
+*A VE 200405036 210102003 000033  00600  00647              % 20052 RGTR--
+*I FD 200405036 210102003        0001717  00600  00647      % 20052 RGTR--
+200405036 Luxembourg, Gare Cen         00600                % 20052 RGTR--
+200404008 Bonnevoie, Dernier S  00602  00602                % 20052 RGTR--
+200404016 Bonnevoie, Hippodrom  00603  00603                % 20052 RGTR--
+200404028 Bonnevoie, Neufchâte  00604  00604                % 20052 RGTR--
+200304004 Howald, Jhangeli      00605  00605                % 20052 RGTR--
+200304001 Howald, Am Houwaldsb  00607  00607                % 20052 RGTR--
+200303007 Hesperange, Wollefsm  00608  00608                % 20052 RGTR--
+200303001 Hesperange, Am Kelle  00611  00611                % 20052 RGTR--
+200303006 Hesperange, Urbengss  00613  00613                % 20052 RGTR--
+200301003 Alzingen, Trapeneck   00614  00614                % 20052 RGTR--
+200301002 Alzingen, Hondsbréck  00615  00615                % 20052 RGTR--
+201103001 Weiler-la-Tour, Camp  00617  00617                % 20052 RGTR--
+201103004 Weiler-la-Tour, Schl  00619  00619                % 20052 RGTR--
+201103003 Weiler-la-Tour, Hueh  00620  00620                % 20052 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00621  00621                % 20052 RGTR--
+201103005 Weiler-la-Tour, Peke  00622  00622                % 20052 RGTR--
+201101001 Hassel, Dielchen      00623  00623                % 20052 RGTR--
+201101002 Hassel, Karmesch      00624  00624                % 20052 RGTR--
+201101003 Hassel, Küneftchen    00625  00625                % 20052 RGTR--
+210302002 Filsdorf, Wäschbour   00629  00629                % 20052 RGTR--
+210302001 Filsdorf, Op der Pla  00630  00630                % 20052 RGTR--
+210301001 Dalheim, Hossegaass   00633  00633                % 20052 RGTR--
+210301004 Dalheim, Gemeng       00634  00634                % 20052 RGTR--
+210905001 Gondelengermillen     00636  00636                % 20052 RGTR--
+210904002 Waldbredimus, Kiirch  00637  00637                % 20052 RGTR--
+210904001 Waldbredimus, Hanner  00639  00639                % 20052 RGTR--
+210101001 Assel                 00641  00641                % 20052 RGTR--
+210104001 Rolling/Bous          00642  00642                % 20052 RGTR--
+210103002 Erpeldange/Bous, Rol  00644  00644                % 20052 RGTR--
+210102004 Bous, Kierch          00647  00647                % 20052 RGTR--
+210102003 Bous, Kapell          00647                       % 20052 RGTR--
+*Z 20053 RGTR--                                             % 20053 RGTR--
+*L 424      200405036 210102003  00700  00747               % 20053 RGTR--
+*R 1 210102003 200405036 210102003  00700  00747            % 20053 RGTR--
+*G 063 200405036 210102003  00700  00747                    % 20053 RGTR--
+*A VE 200405036 210102003 000033  00700  00747              % 20053 RGTR--
+*I FD 200405036 210102003        0001729  00700  00747      % 20053 RGTR--
+200405036 Luxembourg, Gare Cen         00700                % 20053 RGTR--
+200404008 Bonnevoie, Dernier S  00702  00702                % 20053 RGTR--
+200404016 Bonnevoie, Hippodrom  00703  00703                % 20053 RGTR--
+200404028 Bonnevoie, Neufchâte  00704  00704                % 20053 RGTR--
+200304004 Howald, Jhangeli      00705  00705                % 20053 RGTR--
+200304001 Howald, Am Houwaldsb  00707  00707                % 20053 RGTR--
+200303007 Hesperange, Wollefsm  00708  00708                % 20053 RGTR--
+200303001 Hesperange, Am Kelle  00711  00711                % 20053 RGTR--
+200303006 Hesperange, Urbengss  00713  00713                % 20053 RGTR--
+200301003 Alzingen, Trapeneck   00714  00714                % 20053 RGTR--
+200301002 Alzingen, Hondsbréck  00715  00715                % 20053 RGTR--
+201103001 Weiler-la-Tour, Camp  00717  00717                % 20053 RGTR--
+201103004 Weiler-la-Tour, Schl  00719  00719                % 20053 RGTR--
+201103003 Weiler-la-Tour, Hueh  00720  00720                % 20053 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00721  00721                % 20053 RGTR--
+201103005 Weiler-la-Tour, Peke  00722  00722                % 20053 RGTR--
+201101001 Hassel, Dielchen      00723  00723                % 20053 RGTR--
+201101002 Hassel, Karmesch      00724  00724                % 20053 RGTR--
+201101003 Hassel, Küneftchen    00725  00725                % 20053 RGTR--
+210302002 Filsdorf, Wäschbour   00729  00729                % 20053 RGTR--
+210302001 Filsdorf, Op der Pla  00730  00730                % 20053 RGTR--
+210301001 Dalheim, Hossegaass   00733  00733                % 20053 RGTR--
+210301004 Dalheim, Gemeng       00734  00734                % 20053 RGTR--
+210905001 Gondelengermillen     00736  00736                % 20053 RGTR--
+210904002 Waldbredimus, Kiirch  00737  00737                % 20053 RGTR--
+210904001 Waldbredimus, Hanner  00739  00739                % 20053 RGTR--
+210101001 Assel                 00741  00741                % 20053 RGTR--
+210104001 Rolling/Bous          00742  00742                % 20053 RGTR--
+210103002 Erpeldange/Bous, Rol  00744  00744                % 20053 RGTR--
+210102004 Bous, Kierch          00747  00747                % 20053 RGTR--
+210102003 Bous, Kapell          00747                       % 20053 RGTR--
+*Z 20054 RGTR--                                             % 20054 RGTR--
+*L 424      200405036 210102003  00800  00847               % 20054 RGTR--
+*R 1 210102003 200405036 210102003  00800  00847            % 20054 RGTR--
+*G 063 200405036 210102003  00800  00847                    % 20054 RGTR--
+*A VE 200405036 210102003 000033  00800  00847              % 20054 RGTR--
+*I FD 200405036 210102003        0001726  00800  00847      % 20054 RGTR--
+200405036 Luxembourg, Gare Cen         00800                % 20054 RGTR--
+200404008 Bonnevoie, Dernier S  00802  00802                % 20054 RGTR--
+200404016 Bonnevoie, Hippodrom  00803  00803                % 20054 RGTR--
+200404028 Bonnevoie, Neufchâte  00804  00804                % 20054 RGTR--
+200304004 Howald, Jhangeli      00805  00805                % 20054 RGTR--
+200304001 Howald, Am Houwaldsb  00807  00807                % 20054 RGTR--
+200303007 Hesperange, Wollefsm  00808  00808                % 20054 RGTR--
+200303001 Hesperange, Am Kelle  00811  00811                % 20054 RGTR--
+200303006 Hesperange, Urbengss  00813  00813                % 20054 RGTR--
+200301003 Alzingen, Trapeneck   00814  00814                % 20054 RGTR--
+200301002 Alzingen, Hondsbréck  00815  00815                % 20054 RGTR--
+201103001 Weiler-la-Tour, Camp  00817  00817                % 20054 RGTR--
+201103004 Weiler-la-Tour, Schl  00819  00819                % 20054 RGTR--
+201103003 Weiler-la-Tour, Hueh  00820  00820                % 20054 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00821  00821                % 20054 RGTR--
+201103005 Weiler-la-Tour, Peke  00822  00822                % 20054 RGTR--
+201101001 Hassel, Dielchen      00823  00823                % 20054 RGTR--
+201101002 Hassel, Karmesch      00824  00824                % 20054 RGTR--
+201101003 Hassel, Küneftchen    00825  00825                % 20054 RGTR--
+210302002 Filsdorf, Wäschbour   00829  00829                % 20054 RGTR--
+210302001 Filsdorf, Op der Pla  00830  00830                % 20054 RGTR--
+210301001 Dalheim, Hossegaass   00833  00833                % 20054 RGTR--
+210301004 Dalheim, Gemeng       00834  00834                % 20054 RGTR--
+210905001 Gondelengermillen     00836  00836                % 20054 RGTR--
+210904002 Waldbredimus, Kiirch  00837  00837                % 20054 RGTR--
+210904001 Waldbredimus, Hanner  00839  00839                % 20054 RGTR--
+210101001 Assel                 00841  00841                % 20054 RGTR--
+210104001 Rolling/Bous          00842  00842                % 20054 RGTR--
+210103002 Erpeldange/Bous, Rol  00844  00844                % 20054 RGTR--
+210102004 Bous, Kierch          00847  00847                % 20054 RGTR--
+210102003 Bous, Kapell          00847                       % 20054 RGTR--
+*Z 20055 RGTR--                                             % 20055 RGTR--
+*L 424      200405036 210102003  00900  00947               % 20055 RGTR--
+*R 1 210102003 200405036 210102003  00900  00947            % 20055 RGTR--
+*G 063 200405036 210102003  00900  00947                    % 20055 RGTR--
+*A VE 200405036 210102003 000033  00900  00947              % 20055 RGTR--
+*I FD 200405036 210102003        0001718  00900  00947      % 20055 RGTR--
+200405036 Luxembourg, Gare Cen         00900                % 20055 RGTR--
+200404008 Bonnevoie, Dernier S  00902  00902                % 20055 RGTR--
+200404016 Bonnevoie, Hippodrom  00903  00903                % 20055 RGTR--
+200404028 Bonnevoie, Neufchâte  00904  00904                % 20055 RGTR--
+200304004 Howald, Jhangeli      00905  00905                % 20055 RGTR--
+200304001 Howald, Am Houwaldsb  00907  00907                % 20055 RGTR--
+200303007 Hesperange, Wollefsm  00908  00908                % 20055 RGTR--
+200303001 Hesperange, Am Kelle  00911  00911                % 20055 RGTR--
+200303006 Hesperange, Urbengss  00913  00913                % 20055 RGTR--
+200301003 Alzingen, Trapeneck   00914  00914                % 20055 RGTR--
+200301002 Alzingen, Hondsbréck  00915  00915                % 20055 RGTR--
+201103001 Weiler-la-Tour, Camp  00917  00917                % 20055 RGTR--
+201103004 Weiler-la-Tour, Schl  00919  00919                % 20055 RGTR--
+201103003 Weiler-la-Tour, Hueh  00920  00920                % 20055 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00921  00921                % 20055 RGTR--
+201103005 Weiler-la-Tour, Peke  00922  00922                % 20055 RGTR--
+201101001 Hassel, Dielchen      00923  00923                % 20055 RGTR--
+201101002 Hassel, Karmesch      00924  00924                % 20055 RGTR--
+201101003 Hassel, Küneftchen    00925  00925                % 20055 RGTR--
+210302002 Filsdorf, Wäschbour   00929  00929                % 20055 RGTR--
+210302001 Filsdorf, Op der Pla  00930  00930                % 20055 RGTR--
+210301001 Dalheim, Hossegaass   00933  00933                % 20055 RGTR--
+210301004 Dalheim, Gemeng       00934  00934                % 20055 RGTR--
+210905001 Gondelengermillen     00936  00936                % 20055 RGTR--
+210904002 Waldbredimus, Kiirch  00937  00937                % 20055 RGTR--
+210904001 Waldbredimus, Hanner  00939  00939                % 20055 RGTR--
+210101001 Assel                 00941  00941                % 20055 RGTR--
+210104001 Rolling/Bous          00942  00942                % 20055 RGTR--
+210103002 Erpeldange/Bous, Rol  00944  00944                % 20055 RGTR--
+210102004 Bous, Kierch          00947  00947                % 20055 RGTR--
+210102003 Bous, Kapell          00947                       % 20055 RGTR--
+*Z 20056 RGTR--                                             % 20056 RGTR--
+*L 424      200405036 210102003  01600  01647               % 20056 RGTR--
+*R 1 210102003 200405036 210102003  01600  01647            % 20056 RGTR--
+*G 063 200405036 210102003  01600  01647                    % 20056 RGTR--
+*A VE 200405036 210102003 000033  01600  01647              % 20056 RGTR--
+*I FD 200405036 210102003        0001727  01600  01647      % 20056 RGTR--
+200405036 Luxembourg, Gare Cen         01600                % 20056 RGTR--
+200404008 Bonnevoie, Dernier S  01602  01602                % 20056 RGTR--
+200404016 Bonnevoie, Hippodrom  01603  01603                % 20056 RGTR--
+200404028 Bonnevoie, Neufchâte  01604  01604                % 20056 RGTR--
+200304004 Howald, Jhangeli      01605  01605                % 20056 RGTR--
+200304001 Howald, Am Houwaldsb  01607  01607                % 20056 RGTR--
+200303007 Hesperange, Wollefsm  01608  01608                % 20056 RGTR--
+200303001 Hesperange, Am Kelle  01611  01611                % 20056 RGTR--
+200303006 Hesperange, Urbengss  01613  01613                % 20056 RGTR--
+200301003 Alzingen, Trapeneck   01614  01614                % 20056 RGTR--
+200301002 Alzingen, Hondsbréck  01615  01615                % 20056 RGTR--
+201103001 Weiler-la-Tour, Camp  01617  01617                % 20056 RGTR--
+201103004 Weiler-la-Tour, Schl  01619  01619                % 20056 RGTR--
+201103003 Weiler-la-Tour, Hueh  01620  01620                % 20056 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01621  01621                % 20056 RGTR--
+201103005 Weiler-la-Tour, Peke  01622  01622                % 20056 RGTR--
+201101001 Hassel, Dielchen      01623  01623                % 20056 RGTR--
+201101002 Hassel, Karmesch      01624  01624                % 20056 RGTR--
+201101003 Hassel, Küneftchen    01625  01625                % 20056 RGTR--
+210302002 Filsdorf, Wäschbour   01629  01629                % 20056 RGTR--
+210302001 Filsdorf, Op der Pla  01630  01630                % 20056 RGTR--
+210301001 Dalheim, Hossegaass   01633  01633                % 20056 RGTR--
+210301004 Dalheim, Gemeng       01634  01634                % 20056 RGTR--
+210905001 Gondelengermillen     01636  01636                % 20056 RGTR--
+210904002 Waldbredimus, Kiirch  01637  01637                % 20056 RGTR--
+210904001 Waldbredimus, Hanner  01639  01639                % 20056 RGTR--
+210101001 Assel                 01641  01641                % 20056 RGTR--
+210104001 Rolling/Bous          01642  01642                % 20056 RGTR--
+210103002 Erpeldange/Bous, Rol  01644  01644                % 20056 RGTR--
+210102004 Bous, Kierch          01647  01647                % 20056 RGTR--
+210102003 Bous, Kapell          01647                       % 20056 RGTR--
+*Z 20057 RGTR--                                             % 20057 RGTR--
+*L 424      200405036 210102003  01630  01717               % 20057 RGTR--
+*R 1 210102003 200405036 210102003  01630  01717            % 20057 RGTR--
+*G 063 200405036 210102003  01630  01717                    % 20057 RGTR--
+*A VE 200405036 210102003 000033  01630  01717              % 20057 RGTR--
+*I FD 200405036 210102003        0001731  01630  01717      % 20057 RGTR--
+200405036 Luxembourg, Gare Cen         01630                % 20057 RGTR--
+200404008 Bonnevoie, Dernier S  01632  01632                % 20057 RGTR--
+200404016 Bonnevoie, Hippodrom  01633  01633                % 20057 RGTR--
+200404028 Bonnevoie, Neufchâte  01634  01634                % 20057 RGTR--
+200304004 Howald, Jhangeli      01635  01635                % 20057 RGTR--
+200304001 Howald, Am Houwaldsb  01637  01637                % 20057 RGTR--
+200303007 Hesperange, Wollefsm  01638  01638                % 20057 RGTR--
+200303001 Hesperange, Am Kelle  01641  01641                % 20057 RGTR--
+200303006 Hesperange, Urbengss  01643  01643                % 20057 RGTR--
+200301003 Alzingen, Trapeneck   01644  01644                % 20057 RGTR--
+200301002 Alzingen, Hondsbréck  01645  01645                % 20057 RGTR--
+201103001 Weiler-la-Tour, Camp  01647  01647                % 20057 RGTR--
+201103004 Weiler-la-Tour, Schl  01649  01649                % 20057 RGTR--
+201103003 Weiler-la-Tour, Hueh  01650  01650                % 20057 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01651  01651                % 20057 RGTR--
+201103005 Weiler-la-Tour, Peke  01652  01652                % 20057 RGTR--
+201101001 Hassel, Dielchen      01653  01653                % 20057 RGTR--
+201101002 Hassel, Karmesch      01654  01654                % 20057 RGTR--
+201101003 Hassel, Küneftchen    01655  01655                % 20057 RGTR--
+210302002 Filsdorf, Wäschbour   01659  01659                % 20057 RGTR--
+210302001 Filsdorf, Op der Pla  01700  01700                % 20057 RGTR--
+210301001 Dalheim, Hossegaass   01703  01703                % 20057 RGTR--
+210301004 Dalheim, Gemeng       01704  01704                % 20057 RGTR--
+210905001 Gondelengermillen     01706  01706                % 20057 RGTR--
+210904002 Waldbredimus, Kiirch  01707  01707                % 20057 RGTR--
+210904001 Waldbredimus, Hanner  01709  01709                % 20057 RGTR--
+210101001 Assel                 01711  01711                % 20057 RGTR--
+210104001 Rolling/Bous          01712  01712                % 20057 RGTR--
+210103002 Erpeldange/Bous, Rol  01714  01714                % 20057 RGTR--
+210102004 Bous, Kierch          01717  01717                % 20057 RGTR--
+210102003 Bous, Kapell          01717                       % 20057 RGTR--
+*Z 20058 RGTR--                                             % 20058 RGTR--
+*L 424      200405036 210102003  01700  01747               % 20058 RGTR--
+*R 1 210102003 200405036 210102003  01700  01747            % 20058 RGTR--
+*G 063 200405036 210102003  01700  01747                    % 20058 RGTR--
+*A VE 200405036 210102003 000033  01700  01747              % 20058 RGTR--
+*I FD 200405036 210102003        0001732  01700  01747      % 20058 RGTR--
+200405036 Luxembourg, Gare Cen         01700                % 20058 RGTR--
+200404008 Bonnevoie, Dernier S  01702  01702                % 20058 RGTR--
+200404016 Bonnevoie, Hippodrom  01703  01703                % 20058 RGTR--
+200404028 Bonnevoie, Neufchâte  01704  01704                % 20058 RGTR--
+200304004 Howald, Jhangeli      01705  01705                % 20058 RGTR--
+200304001 Howald, Am Houwaldsb  01707  01707                % 20058 RGTR--
+200303007 Hesperange, Wollefsm  01708  01708                % 20058 RGTR--
+200303001 Hesperange, Am Kelle  01711  01711                % 20058 RGTR--
+200303006 Hesperange, Urbengss  01713  01713                % 20058 RGTR--
+200301003 Alzingen, Trapeneck   01714  01714                % 20058 RGTR--
+200301002 Alzingen, Hondsbréck  01715  01715                % 20058 RGTR--
+201103001 Weiler-la-Tour, Camp  01717  01717                % 20058 RGTR--
+201103004 Weiler-la-Tour, Schl  01719  01719                % 20058 RGTR--
+201103003 Weiler-la-Tour, Hueh  01720  01720                % 20058 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01721  01721                % 20058 RGTR--
+201103005 Weiler-la-Tour, Peke  01722  01722                % 20058 RGTR--
+201101001 Hassel, Dielchen      01723  01723                % 20058 RGTR--
+201101002 Hassel, Karmesch      01724  01724                % 20058 RGTR--
+201101003 Hassel, Küneftchen    01725  01725                % 20058 RGTR--
+210302002 Filsdorf, Wäschbour   01729  01729                % 20058 RGTR--
+210302001 Filsdorf, Op der Pla  01730  01730                % 20058 RGTR--
+210301001 Dalheim, Hossegaass   01733  01733                % 20058 RGTR--
+210301004 Dalheim, Gemeng       01734  01734                % 20058 RGTR--
+210905001 Gondelengermillen     01736  01736                % 20058 RGTR--
+210904002 Waldbredimus, Kiirch  01737  01737                % 20058 RGTR--
+210904001 Waldbredimus, Hanner  01739  01739                % 20058 RGTR--
+210101001 Assel                 01741  01741                % 20058 RGTR--
+210104001 Rolling/Bous          01742  01742                % 20058 RGTR--
+210103002 Erpeldange/Bous, Rol  01744  01744                % 20058 RGTR--
+210102004 Bous, Kierch          01747  01747                % 20058 RGTR--
+210102003 Bous, Kapell          01747                       % 20058 RGTR--
+*Z 20059 RGTR--                                             % 20059 RGTR--
+*L 424      200405036 210102003  01730  01817               % 20059 RGTR--
+*R 1 210102003 200405036 210102003  01730  01817            % 20059 RGTR--
+*G 063 200405036 210102003  01730  01817                    % 20059 RGTR--
+*A VE 200405036 210102003 000033  01730  01817              % 20059 RGTR--
+*I FD 200405036 210102003        0001733  01730  01817      % 20059 RGTR--
+200405036 Luxembourg, Gare Cen         01730                % 20059 RGTR--
+200404008 Bonnevoie, Dernier S  01732  01732                % 20059 RGTR--
+200404016 Bonnevoie, Hippodrom  01733  01733                % 20059 RGTR--
+200404028 Bonnevoie, Neufchâte  01734  01734                % 20059 RGTR--
+200304004 Howald, Jhangeli      01735  01735                % 20059 RGTR--
+200304001 Howald, Am Houwaldsb  01737  01737                % 20059 RGTR--
+200303007 Hesperange, Wollefsm  01738  01738                % 20059 RGTR--
+200303001 Hesperange, Am Kelle  01741  01741                % 20059 RGTR--
+200303006 Hesperange, Urbengss  01743  01743                % 20059 RGTR--
+200301003 Alzingen, Trapeneck   01744  01744                % 20059 RGTR--
+200301002 Alzingen, Hondsbréck  01745  01745                % 20059 RGTR--
+201103001 Weiler-la-Tour, Camp  01747  01747                % 20059 RGTR--
+201103004 Weiler-la-Tour, Schl  01749  01749                % 20059 RGTR--
+201103003 Weiler-la-Tour, Hueh  01750  01750                % 20059 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01751  01751                % 20059 RGTR--
+201103005 Weiler-la-Tour, Peke  01752  01752                % 20059 RGTR--
+201101001 Hassel, Dielchen      01753  01753                % 20059 RGTR--
+201101002 Hassel, Karmesch      01754  01754                % 20059 RGTR--
+201101003 Hassel, Küneftchen    01755  01755                % 20059 RGTR--
+210302002 Filsdorf, Wäschbour   01759  01759                % 20059 RGTR--
+210302001 Filsdorf, Op der Pla  01800  01800                % 20059 RGTR--
+210301001 Dalheim, Hossegaass   01803  01803                % 20059 RGTR--
+210301004 Dalheim, Gemeng       01804  01804                % 20059 RGTR--
+210905001 Gondelengermillen     01806  01806                % 20059 RGTR--
+210904002 Waldbredimus, Kiirch  01807  01807                % 20059 RGTR--
+210904001 Waldbredimus, Hanner  01809  01809                % 20059 RGTR--
+210101001 Assel                 01811  01811                % 20059 RGTR--
+210104001 Rolling/Bous          01812  01812                % 20059 RGTR--
+210103002 Erpeldange/Bous, Rol  01814  01814                % 20059 RGTR--
+210102004 Bous, Kierch          01817  01817                % 20059 RGTR--
+210102003 Bous, Kapell          01817                       % 20059 RGTR--
+*Z 20060 RGTR--                                             % 20060 RGTR--
+*L 424      200405036 210102003  01800  01847               % 20060 RGTR--
+*R 1 210102003 200405036 210102003  01800  01847            % 20060 RGTR--
+*G 063 200405036 210102003  01800  01847                    % 20060 RGTR--
+*A VE 200405036 210102003 000033  01800  01847              % 20060 RGTR--
+*I FD 200405036 210102003        0001728  01800  01847      % 20060 RGTR--
+200405036 Luxembourg, Gare Cen         01800                % 20060 RGTR--
+200404008 Bonnevoie, Dernier S  01802  01802                % 20060 RGTR--
+200404016 Bonnevoie, Hippodrom  01803  01803                % 20060 RGTR--
+200404028 Bonnevoie, Neufchâte  01804  01804                % 20060 RGTR--
+200304004 Howald, Jhangeli      01805  01805                % 20060 RGTR--
+200304001 Howald, Am Houwaldsb  01807  01807                % 20060 RGTR--
+200303007 Hesperange, Wollefsm  01808  01808                % 20060 RGTR--
+200303001 Hesperange, Am Kelle  01811  01811                % 20060 RGTR--
+200303006 Hesperange, Urbengss  01813  01813                % 20060 RGTR--
+200301003 Alzingen, Trapeneck   01814  01814                % 20060 RGTR--
+200301002 Alzingen, Hondsbréck  01815  01815                % 20060 RGTR--
+201103001 Weiler-la-Tour, Camp  01817  01817                % 20060 RGTR--
+201103004 Weiler-la-Tour, Schl  01819  01819                % 20060 RGTR--
+201103003 Weiler-la-Tour, Hueh  01820  01820                % 20060 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01821  01821                % 20060 RGTR--
+201103005 Weiler-la-Tour, Peke  01822  01822                % 20060 RGTR--
+201101001 Hassel, Dielchen      01823  01823                % 20060 RGTR--
+201101002 Hassel, Karmesch      01824  01824                % 20060 RGTR--
+201101003 Hassel, Küneftchen    01825  01825                % 20060 RGTR--
+210302002 Filsdorf, Wäschbour   01829  01829                % 20060 RGTR--
+210302001 Filsdorf, Op der Pla  01830  01830                % 20060 RGTR--
+210301001 Dalheim, Hossegaass   01833  01833                % 20060 RGTR--
+210301004 Dalheim, Gemeng       01834  01834                % 20060 RGTR--
+210905001 Gondelengermillen     01836  01836                % 20060 RGTR--
+210904002 Waldbredimus, Kiirch  01837  01837                % 20060 RGTR--
+210904001 Waldbredimus, Hanner  01839  01839                % 20060 RGTR--
+210101001 Assel                 01841  01841                % 20060 RGTR--
+210104001 Rolling/Bous          01842  01842                % 20060 RGTR--
+210103002 Erpeldange/Bous, Rol  01844  01844                % 20060 RGTR--
+210102004 Bous, Kierch          01847  01847                % 20060 RGTR--
+210102003 Bous, Kapell          01847                       % 20060 RGTR--
+*Z 20061 RGTR--                                             % 20061 RGTR--
+*L 424      200405036 210102003  01830  01917               % 20061 RGTR--
+*R 1 210102003 200405036 210102003  01830  01917            % 20061 RGTR--
+*G 063 200405036 210102003  01830  01917                    % 20061 RGTR--
+*A VE 200405036 210102003 000033  01830  01917              % 20061 RGTR--
+*I FD 200405036 210102003        0001722  01830  01917      % 20061 RGTR--
+200405036 Luxembourg, Gare Cen         01830                % 20061 RGTR--
+200404008 Bonnevoie, Dernier S  01832  01832                % 20061 RGTR--
+200404016 Bonnevoie, Hippodrom  01833  01833                % 20061 RGTR--
+200404028 Bonnevoie, Neufchâte  01834  01834                % 20061 RGTR--
+200304004 Howald, Jhangeli      01835  01835                % 20061 RGTR--
+200304001 Howald, Am Houwaldsb  01837  01837                % 20061 RGTR--
+200303007 Hesperange, Wollefsm  01838  01838                % 20061 RGTR--
+200303001 Hesperange, Am Kelle  01841  01841                % 20061 RGTR--
+200303006 Hesperange, Urbengss  01843  01843                % 20061 RGTR--
+200301003 Alzingen, Trapeneck   01844  01844                % 20061 RGTR--
+200301002 Alzingen, Hondsbréck  01845  01845                % 20061 RGTR--
+201103001 Weiler-la-Tour, Camp  01847  01847                % 20061 RGTR--
+201103004 Weiler-la-Tour, Schl  01849  01849                % 20061 RGTR--
+201103003 Weiler-la-Tour, Hueh  01850  01850                % 20061 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01851  01851                % 20061 RGTR--
+201103005 Weiler-la-Tour, Peke  01852  01852                % 20061 RGTR--
+201101001 Hassel, Dielchen      01853  01853                % 20061 RGTR--
+201101002 Hassel, Karmesch      01854  01854                % 20061 RGTR--
+201101003 Hassel, Küneftchen    01855  01855                % 20061 RGTR--
+210302002 Filsdorf, Wäschbour   01859  01859                % 20061 RGTR--
+210302001 Filsdorf, Op der Pla  01900  01900                % 20061 RGTR--
+210301001 Dalheim, Hossegaass   01903  01903                % 20061 RGTR--
+210301004 Dalheim, Gemeng       01904  01904                % 20061 RGTR--
+210905001 Gondelengermillen     01906  01906                % 20061 RGTR--
+210904002 Waldbredimus, Kiirch  01907  01907                % 20061 RGTR--
+210904001 Waldbredimus, Hanner  01909  01909                % 20061 RGTR--
+210101001 Assel                 01911  01911                % 20061 RGTR--
+210104001 Rolling/Bous          01912  01912                % 20061 RGTR--
+210103002 Erpeldange/Bous, Rol  01914  01914                % 20061 RGTR--
+210102004 Bous, Kierch          01917  01917                % 20061 RGTR--
+210102003 Bous, Kapell          01917                       % 20061 RGTR--
+*Z 20062 RGTR--                                             % 20062 RGTR--
+*L 424      200405036 210102003  01900  01947               % 20062 RGTR--
+*R 1 210102003 200405036 210102003  01900  01947            % 20062 RGTR--
+*G 063 200405036 210102003  01900  01947                    % 20062 RGTR--
+*A VE 200405036 210102003 000033  01900  01947              % 20062 RGTR--
+*I FD 200405036 210102003        0001723  01900  01947      % 20062 RGTR--
+200405036 Luxembourg, Gare Cen         01900                % 20062 RGTR--
+200404008 Bonnevoie, Dernier S  01902  01902                % 20062 RGTR--
+200404016 Bonnevoie, Hippodrom  01903  01903                % 20062 RGTR--
+200404028 Bonnevoie, Neufchâte  01904  01904                % 20062 RGTR--
+200304004 Howald, Jhangeli      01905  01905                % 20062 RGTR--
+200304001 Howald, Am Houwaldsb  01907  01907                % 20062 RGTR--
+200303007 Hesperange, Wollefsm  01908  01908                % 20062 RGTR--
+200303001 Hesperange, Am Kelle  01911  01911                % 20062 RGTR--
+200303006 Hesperange, Urbengss  01913  01913                % 20062 RGTR--
+200301003 Alzingen, Trapeneck   01914  01914                % 20062 RGTR--
+200301002 Alzingen, Hondsbréck  01915  01915                % 20062 RGTR--
+201103001 Weiler-la-Tour, Camp  01917  01917                % 20062 RGTR--
+201103004 Weiler-la-Tour, Schl  01919  01919                % 20062 RGTR--
+201103003 Weiler-la-Tour, Hueh  01920  01920                % 20062 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01921  01921                % 20062 RGTR--
+201103005 Weiler-la-Tour, Peke  01922  01922                % 20062 RGTR--
+201101001 Hassel, Dielchen      01923  01923                % 20062 RGTR--
+201101002 Hassel, Karmesch      01924  01924                % 20062 RGTR--
+201101003 Hassel, Küneftchen    01925  01925                % 20062 RGTR--
+210302002 Filsdorf, Wäschbour   01929  01929                % 20062 RGTR--
+210302001 Filsdorf, Op der Pla  01930  01930                % 20062 RGTR--
+210301001 Dalheim, Hossegaass   01933  01933                % 20062 RGTR--
+210301004 Dalheim, Gemeng       01934  01934                % 20062 RGTR--
+210905001 Gondelengermillen     01936  01936                % 20062 RGTR--
+210904002 Waldbredimus, Kiirch  01937  01937                % 20062 RGTR--
+210904001 Waldbredimus, Hanner  01939  01939                % 20062 RGTR--
+210101001 Assel                 01941  01941                % 20062 RGTR--
+210104001 Rolling/Bous          01942  01942                % 20062 RGTR--
+210103002 Erpeldange/Bous, Rol  01944  01944                % 20062 RGTR--
+210102004 Bous, Kierch          01947  01947                % 20062 RGTR--
+210102003 Bous, Kapell          01947                       % 20062 RGTR--
+*Z 20063 RGTR--                                             % 20063 RGTR--
+*L 424      210102003 200405036  01000  01042               % 20063 RGTR--
+*R 2 200405036 210102003 200405036  01000  01042            % 20063 RGTR--
+*G 063 210102003 200405036  01000  01042                    % 20063 RGTR--
+*A VE 210102003 200405036 000039  01000  01042              % 20063 RGTR--
+*I FD 210102003 200405036        0001935  01000  01042      % 20063 RGTR--
+210102003 Bous, Kapell                 01000                % 20063 RGTR--
+210102004 Bous, Kierch          01000  01000                % 20063 RGTR--
+210103001 Erpeldange/Bous, Krä  01003  01003                % 20063 RGTR--
+210103002 Erpeldange/Bous, Rol  01004  01004                % 20063 RGTR--
+210104001 Rolling/Bous          01005  01005                % 20063 RGTR--
+210101001 Assel                 01006  01006                % 20063 RGTR--
+210904001 Waldbredimus, Hanner  01009  01009                % 20063 RGTR--
+210904002 Waldbredimus, Kiirch  01009  01009                % 20063 RGTR--
+210905001 Gondelengermillen     01011  01011                % 20063 RGTR--
+210301004 Dalheim, Gemeng       01014  01014                % 20063 RGTR--
+210301001 Dalheim, Hossegaass   01015  01015                % 20063 RGTR--
+210302002 Filsdorf, Wäschbour   01018  01018                % 20063 RGTR--
+201101003 Hassel, Küneftchen    01022  01022                % 20063 RGTR--
+201101002 Hassel, Karmesch      01023  01023                % 20063 RGTR--
+201101001 Hassel, Dielchen      01024  01024                % 20063 RGTR--
+201103005 Weiler-la-Tour, Peke  01024  01024                % 20063 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01025  01025                % 20063 RGTR--
+201103003 Weiler-la-Tour, Hueh  01026  01026                % 20063 RGTR--
+201103004 Weiler-la-Tour, Schl  01028  01028                % 20063 RGTR--
+201103001 Weiler-la-Tour, Camp  01030  01030                % 20063 RGTR--
+200301002 Alzingen, Hondsbréck  01032  01032                % 20063 RGTR--
+200301003 Alzingen, Trapeneck   01032  01032                % 20063 RGTR--
+200303006 Hesperange, Urbengss  01033  01033                % 20063 RGTR--
+200303001 Hesperange, Am Kelle  01034  01034                % 20063 RGTR--
+200303007 Hesperange, Wollefsm  01035  01035                % 20063 RGTR--
+200304001 Howald, Am Houwaldsb  01036  01036                % 20063 RGTR--
+200304004 Howald, Jhangeli      01037  01037                % 20063 RGTR--
+200404028 Bonnevoie, Neufchâte  01039  01039                % 20063 RGTR--
+200404016 Bonnevoie, Hippodrom  01039  01039                % 20063 RGTR--
+200404008 Bonnevoie, Dernier S  01040  01040                % 20063 RGTR--
+200405036 Luxembourg, Gare Cen  01042                       % 20063 RGTR--
+*Z 20064 RGTR--                                             % 20064 RGTR--
+*L 424      210102003 200405036  01200  01242               % 20064 RGTR--
+*R 2 200405036 210102003 200405036  01200  01242            % 20064 RGTR--
+*G 063 210102003 200405036  01200  01242                    % 20064 RGTR--
+*A VE 210102003 200405036 000039  01200  01242              % 20064 RGTR--
+*I FD 210102003 200405036        0001936  01200  01242      % 20064 RGTR--
+210102003 Bous, Kapell                 01200                % 20064 RGTR--
+210102004 Bous, Kierch          01200  01200                % 20064 RGTR--
+210103001 Erpeldange/Bous, Krä  01203  01203                % 20064 RGTR--
+210103002 Erpeldange/Bous, Rol  01204  01204                % 20064 RGTR--
+210104001 Rolling/Bous          01205  01205                % 20064 RGTR--
+210101001 Assel                 01206  01206                % 20064 RGTR--
+210904001 Waldbredimus, Hanner  01209  01209                % 20064 RGTR--
+210904002 Waldbredimus, Kiirch  01209  01209                % 20064 RGTR--
+210905001 Gondelengermillen     01211  01211                % 20064 RGTR--
+210301004 Dalheim, Gemeng       01214  01214                % 20064 RGTR--
+210301001 Dalheim, Hossegaass   01215  01215                % 20064 RGTR--
+210302002 Filsdorf, Wäschbour   01218  01218                % 20064 RGTR--
+201101003 Hassel, Küneftchen    01222  01222                % 20064 RGTR--
+201101002 Hassel, Karmesch      01223  01223                % 20064 RGTR--
+201101001 Hassel, Dielchen      01224  01224                % 20064 RGTR--
+201103005 Weiler-la-Tour, Peke  01224  01224                % 20064 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01225  01225                % 20064 RGTR--
+201103003 Weiler-la-Tour, Hueh  01226  01226                % 20064 RGTR--
+201103004 Weiler-la-Tour, Schl  01228  01228                % 20064 RGTR--
+201103001 Weiler-la-Tour, Camp  01230  01230                % 20064 RGTR--
+200301002 Alzingen, Hondsbréck  01232  01232                % 20064 RGTR--
+200301003 Alzingen, Trapeneck   01232  01232                % 20064 RGTR--
+200303006 Hesperange, Urbengss  01233  01233                % 20064 RGTR--
+200303001 Hesperange, Am Kelle  01234  01234                % 20064 RGTR--
+200303007 Hesperange, Wollefsm  01235  01235                % 20064 RGTR--
+200304001 Howald, Am Houwaldsb  01236  01236                % 20064 RGTR--
+200304004 Howald, Jhangeli      01237  01237                % 20064 RGTR--
+200404028 Bonnevoie, Neufchâte  01239  01239                % 20064 RGTR--
+200404016 Bonnevoie, Hippodrom  01239  01239                % 20064 RGTR--
+200404008 Bonnevoie, Dernier S  01240  01240                % 20064 RGTR--
+200405036 Luxembourg, Gare Cen  01242                       % 20064 RGTR--
+*Z 20065 RGTR--                                             % 20065 RGTR--
+*L 424      210102003 200405036  01400  01442               % 20065 RGTR--
+*R 2 200405036 210102003 200405036  01400  01442            % 20065 RGTR--
+*G 063 210102003 200405036  01400  01442                    % 20065 RGTR--
+*A VE 210102003 200405036 000039  01400  01442              % 20065 RGTR--
+*I FD 210102003 200405036        0001937  01400  01442      % 20065 RGTR--
+210102003 Bous, Kapell                 01400                % 20065 RGTR--
+210102004 Bous, Kierch          01400  01400                % 20065 RGTR--
+210103001 Erpeldange/Bous, Krä  01403  01403                % 20065 RGTR--
+210103002 Erpeldange/Bous, Rol  01404  01404                % 20065 RGTR--
+210104001 Rolling/Bous          01405  01405                % 20065 RGTR--
+210101001 Assel                 01406  01406                % 20065 RGTR--
+210904001 Waldbredimus, Hanner  01409  01409                % 20065 RGTR--
+210904002 Waldbredimus, Kiirch  01409  01409                % 20065 RGTR--
+210905001 Gondelengermillen     01411  01411                % 20065 RGTR--
+210301004 Dalheim, Gemeng       01414  01414                % 20065 RGTR--
+210301001 Dalheim, Hossegaass   01415  01415                % 20065 RGTR--
+210302002 Filsdorf, Wäschbour   01418  01418                % 20065 RGTR--
+201101003 Hassel, Küneftchen    01422  01422                % 20065 RGTR--
+201101002 Hassel, Karmesch      01423  01423                % 20065 RGTR--
+201101001 Hassel, Dielchen      01424  01424                % 20065 RGTR--
+201103005 Weiler-la-Tour, Peke  01424  01424                % 20065 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01425  01425                % 20065 RGTR--
+201103003 Weiler-la-Tour, Hueh  01426  01426                % 20065 RGTR--
+201103004 Weiler-la-Tour, Schl  01428  01428                % 20065 RGTR--
+201103001 Weiler-la-Tour, Camp  01430  01430                % 20065 RGTR--
+200301002 Alzingen, Hondsbréck  01432  01432                % 20065 RGTR--
+200301003 Alzingen, Trapeneck   01432  01432                % 20065 RGTR--
+200303006 Hesperange, Urbengss  01433  01433                % 20065 RGTR--
+200303001 Hesperange, Am Kelle  01434  01434                % 20065 RGTR--
+200303007 Hesperange, Wollefsm  01435  01435                % 20065 RGTR--
+200304001 Howald, Am Houwaldsb  01436  01436                % 20065 RGTR--
+200304004 Howald, Jhangeli      01437  01437                % 20065 RGTR--
+200404028 Bonnevoie, Neufchâte  01439  01439                % 20065 RGTR--
+200404016 Bonnevoie, Hippodrom  01439  01439                % 20065 RGTR--
+200404008 Bonnevoie, Dernier S  01440  01440                % 20065 RGTR--
+200405036 Luxembourg, Gare Cen  01442                       % 20065 RGTR--
+*Z 20066 RGTR--                                             % 20066 RGTR--
+*L 424      210102003 200405036  02000  02042               % 20066 RGTR--
+*R 2 200405036 210102003 200405036  02000  02042            % 20066 RGTR--
+*G 063 210102003 200405036  02000  02042                    % 20066 RGTR--
+*A VE 210102003 200405036 000039  02000  02042              % 20066 RGTR--
+*I FD 210102003 200405036        0001715  02000  02042      % 20066 RGTR--
+210102003 Bous, Kapell                 02000                % 20066 RGTR--
+210102004 Bous, Kierch          02000  02000                % 20066 RGTR--
+210103001 Erpeldange/Bous, Krä  02003  02003                % 20066 RGTR--
+210103002 Erpeldange/Bous, Rol  02004  02004                % 20066 RGTR--
+210104001 Rolling/Bous          02005  02005                % 20066 RGTR--
+210101001 Assel                 02006  02006                % 20066 RGTR--
+210904001 Waldbredimus, Hanner  02009  02009                % 20066 RGTR--
+210904002 Waldbredimus, Kiirch  02009  02009                % 20066 RGTR--
+210905001 Gondelengermillen     02011  02011                % 20066 RGTR--
+210301004 Dalheim, Gemeng       02014  02014                % 20066 RGTR--
+210301001 Dalheim, Hossegaass   02015  02015                % 20066 RGTR--
+210302002 Filsdorf, Wäschbour   02018  02018                % 20066 RGTR--
+201101003 Hassel, Küneftchen    02022  02022                % 20066 RGTR--
+201101002 Hassel, Karmesch      02023  02023                % 20066 RGTR--
+201101001 Hassel, Dielchen      02024  02024                % 20066 RGTR--
+201103005 Weiler-la-Tour, Peke  02024  02024                % 20066 RGTR--
+201103002 Weiler-la-Tour, Gëlt  02025  02025                % 20066 RGTR--
+201103003 Weiler-la-Tour, Hueh  02026  02026                % 20066 RGTR--
+201103004 Weiler-la-Tour, Schl  02028  02028                % 20066 RGTR--
+201103001 Weiler-la-Tour, Camp  02030  02030                % 20066 RGTR--
+200301002 Alzingen, Hondsbréck  02032  02032                % 20066 RGTR--
+200301003 Alzingen, Trapeneck   02032  02032                % 20066 RGTR--
+200303006 Hesperange, Urbengss  02033  02033                % 20066 RGTR--
+200303001 Hesperange, Am Kelle  02034  02034                % 20066 RGTR--
+200303007 Hesperange, Wollefsm  02035  02035                % 20066 RGTR--
+200304001 Howald, Am Houwaldsb  02036  02036                % 20066 RGTR--
+200304004 Howald, Jhangeli      02037  02037                % 20066 RGTR--
+200404028 Bonnevoie, Neufchâte  02039  02039                % 20066 RGTR--
+200404016 Bonnevoie, Hippodrom  02039  02039                % 20066 RGTR--
+200404008 Bonnevoie, Dernier S  02040  02040                % 20066 RGTR--
+200405036 Luxembourg, Gare Cen  02042                       % 20066 RGTR--
+*Z 20067 RGTR--                                             % 20067 RGTR--
+*L 424      210102003 200405036  02200  02242               % 20067 RGTR--
+*R 2 200405036 210102003 200405036  02200  02242            % 20067 RGTR--
+*G 063 210102003 200405036  02200  02242                    % 20067 RGTR--
+*A VE 210102003 200405036 000039  02200  02242              % 20067 RGTR--
+*I FD 210102003 200405036        0001716  02200  02242      % 20067 RGTR--
+210102003 Bous, Kapell                 02200                % 20067 RGTR--
+210102004 Bous, Kierch          02200  02200                % 20067 RGTR--
+210103001 Erpeldange/Bous, Krä  02203  02203                % 20067 RGTR--
+210103002 Erpeldange/Bous, Rol  02204  02204                % 20067 RGTR--
+210104001 Rolling/Bous          02205  02205                % 20067 RGTR--
+210101001 Assel                 02206  02206                % 20067 RGTR--
+210904001 Waldbredimus, Hanner  02209  02209                % 20067 RGTR--
+210904002 Waldbredimus, Kiirch  02209  02209                % 20067 RGTR--
+210905001 Gondelengermillen     02211  02211                % 20067 RGTR--
+210301004 Dalheim, Gemeng       02214  02214                % 20067 RGTR--
+210301001 Dalheim, Hossegaass   02215  02215                % 20067 RGTR--
+210302002 Filsdorf, Wäschbour   02218  02218                % 20067 RGTR--
+201101003 Hassel, Küneftchen    02222  02222                % 20067 RGTR--
+201101002 Hassel, Karmesch      02223  02223                % 20067 RGTR--
+201101001 Hassel, Dielchen      02224  02224                % 20067 RGTR--
+201103005 Weiler-la-Tour, Peke  02224  02224                % 20067 RGTR--
+201103002 Weiler-la-Tour, Gëlt  02225  02225                % 20067 RGTR--
+201103003 Weiler-la-Tour, Hueh  02226  02226                % 20067 RGTR--
+201103004 Weiler-la-Tour, Schl  02228  02228                % 20067 RGTR--
+201103001 Weiler-la-Tour, Camp  02230  02230                % 20067 RGTR--
+200301002 Alzingen, Hondsbréck  02232  02232                % 20067 RGTR--
+200301003 Alzingen, Trapeneck   02232  02232                % 20067 RGTR--
+200303006 Hesperange, Urbengss  02233  02233                % 20067 RGTR--
+200303001 Hesperange, Am Kelle  02234  02234                % 20067 RGTR--
+200303007 Hesperange, Wollefsm  02235  02235                % 20067 RGTR--
+200304001 Howald, Am Houwaldsb  02236  02236                % 20067 RGTR--
+200304004 Howald, Jhangeli      02237  02237                % 20067 RGTR--
+200404028 Bonnevoie, Neufchâte  02239  02239                % 20067 RGTR--
+200404016 Bonnevoie, Hippodrom  02239  02239                % 20067 RGTR--
+200404008 Bonnevoie, Dernier S  02240  02240                % 20067 RGTR--
+200405036 Luxembourg, Gare Cen  02242                       % 20067 RGTR--
+*Z 20068 RGTR--                                             % 20068 RGTR--
+*L 424      210102003 200405036  00500  00542               % 20068 RGTR--
+*R 2 200405036 210102003 200405036  00500  00542            % 20068 RGTR--
+*G 063 210102003 200405036  00500  00542                    % 20068 RGTR--
+*A VE 210102003 200405036 000036  00500  00542              % 20068 RGTR--
+*I FD 210102003 200405036        0001938  00500  00542      % 20068 RGTR--
+210102003 Bous, Kapell                 00500                % 20068 RGTR--
+210102004 Bous, Kierch          00500  00500                % 20068 RGTR--
+210103001 Erpeldange/Bous, Krä  00503  00503                % 20068 RGTR--
+210103002 Erpeldange/Bous, Rol  00504  00504                % 20068 RGTR--
+210104001 Rolling/Bous          00505  00505                % 20068 RGTR--
+210101001 Assel                 00506  00506                % 20068 RGTR--
+210904001 Waldbredimus, Hanner  00509  00509                % 20068 RGTR--
+210904002 Waldbredimus, Kiirch  00509  00509                % 20068 RGTR--
+210905001 Gondelengermillen     00511  00511                % 20068 RGTR--
+210301004 Dalheim, Gemeng       00514  00514                % 20068 RGTR--
+210301001 Dalheim, Hossegaass   00515  00515                % 20068 RGTR--
+210302002 Filsdorf, Wäschbour   00518  00518                % 20068 RGTR--
+201101003 Hassel, Küneftchen    00522  00522                % 20068 RGTR--
+201101002 Hassel, Karmesch      00523  00523                % 20068 RGTR--
+201101001 Hassel, Dielchen      00524  00524                % 20068 RGTR--
+201103005 Weiler-la-Tour, Peke  00524  00524                % 20068 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00525  00525                % 20068 RGTR--
+201103003 Weiler-la-Tour, Hueh  00526  00526                % 20068 RGTR--
+201103004 Weiler-la-Tour, Schl  00528  00528                % 20068 RGTR--
+201103001 Weiler-la-Tour, Camp  00530  00530                % 20068 RGTR--
+200301002 Alzingen, Hondsbréck  00532  00532                % 20068 RGTR--
+200301003 Alzingen, Trapeneck   00532  00532                % 20068 RGTR--
+200303006 Hesperange, Urbengss  00533  00533                % 20068 RGTR--
+200303001 Hesperange, Am Kelle  00534  00534                % 20068 RGTR--
+200303007 Hesperange, Wollefsm  00535  00535                % 20068 RGTR--
+200304001 Howald, Am Houwaldsb  00536  00536                % 20068 RGTR--
+200304004 Howald, Jhangeli      00537  00537                % 20068 RGTR--
+200404028 Bonnevoie, Neufchâte  00539  00539                % 20068 RGTR--
+200404016 Bonnevoie, Hippodrom  00539  00539                % 20068 RGTR--
+200404008 Bonnevoie, Dernier S  00540  00540                % 20068 RGTR--
+200405036 Luxembourg, Gare Cen  00542                       % 20068 RGTR--
+*Z 20069 RGTR--                                             % 20069 RGTR--
+*L 424      210102003 200405036  01100  01142               % 20069 RGTR--
+*R 2 200405036 210102003 200405036  01100  01142            % 20069 RGTR--
+*G 063 210102003 200405036  01100  01142                    % 20069 RGTR--
+*A VE 210102003 200405036 000036  01100  01142              % 20069 RGTR--
+*I FD 210102003 200405036        0001939  01100  01142      % 20069 RGTR--
+210102003 Bous, Kapell                 01100                % 20069 RGTR--
+210102004 Bous, Kierch          01100  01100                % 20069 RGTR--
+210103001 Erpeldange/Bous, Krä  01103  01103                % 20069 RGTR--
+210103002 Erpeldange/Bous, Rol  01104  01104                % 20069 RGTR--
+210104001 Rolling/Bous          01105  01105                % 20069 RGTR--
+210101001 Assel                 01106  01106                % 20069 RGTR--
+210904001 Waldbredimus, Hanner  01109  01109                % 20069 RGTR--
+210904002 Waldbredimus, Kiirch  01109  01109                % 20069 RGTR--
+210905001 Gondelengermillen     01111  01111                % 20069 RGTR--
+210301004 Dalheim, Gemeng       01114  01114                % 20069 RGTR--
+210301001 Dalheim, Hossegaass   01115  01115                % 20069 RGTR--
+210302002 Filsdorf, Wäschbour   01118  01118                % 20069 RGTR--
+201101003 Hassel, Küneftchen    01122  01122                % 20069 RGTR--
+201101002 Hassel, Karmesch      01123  01123                % 20069 RGTR--
+201101001 Hassel, Dielchen      01124  01124                % 20069 RGTR--
+201103005 Weiler-la-Tour, Peke  01124  01124                % 20069 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01125  01125                % 20069 RGTR--
+201103003 Weiler-la-Tour, Hueh  01126  01126                % 20069 RGTR--
+201103004 Weiler-la-Tour, Schl  01128  01128                % 20069 RGTR--
+201103001 Weiler-la-Tour, Camp  01130  01130                % 20069 RGTR--
+200301002 Alzingen, Hondsbréck  01132  01132                % 20069 RGTR--
+200301003 Alzingen, Trapeneck   01132  01132                % 20069 RGTR--
+200303006 Hesperange, Urbengss  01133  01133                % 20069 RGTR--
+200303001 Hesperange, Am Kelle  01134  01134                % 20069 RGTR--
+200303007 Hesperange, Wollefsm  01135  01135                % 20069 RGTR--
+200304001 Howald, Am Houwaldsb  01136  01136                % 20069 RGTR--
+200304004 Howald, Jhangeli      01137  01137                % 20069 RGTR--
+200404028 Bonnevoie, Neufchâte  01139  01139                % 20069 RGTR--
+200404016 Bonnevoie, Hippodrom  01139  01139                % 20069 RGTR--
+200404008 Bonnevoie, Dernier S  01140  01140                % 20069 RGTR--
+200405036 Luxembourg, Gare Cen  01142                       % 20069 RGTR--
+*Z 20070 RGTR--                                             % 20070 RGTR--
+*L 424      210102003 200405036  01300  01342               % 20070 RGTR--
+*R 2 200405036 210102003 200405036  01300  01342            % 20070 RGTR--
+*G 063 210102003 200405036  01300  01342                    % 20070 RGTR--
+*A VE 210102003 200405036 000036  01300  01342              % 20070 RGTR--
+*I FD 210102003 200405036        0001940  01300  01342      % 20070 RGTR--
+210102003 Bous, Kapell                 01300                % 20070 RGTR--
+210102004 Bous, Kierch          01300  01300                % 20070 RGTR--
+210103001 Erpeldange/Bous, Krä  01303  01303                % 20070 RGTR--
+210103002 Erpeldange/Bous, Rol  01304  01304                % 20070 RGTR--
+210104001 Rolling/Bous          01305  01305                % 20070 RGTR--
+210101001 Assel                 01306  01306                % 20070 RGTR--
+210904001 Waldbredimus, Hanner  01309  01309                % 20070 RGTR--
+210904002 Waldbredimus, Kiirch  01309  01309                % 20070 RGTR--
+210905001 Gondelengermillen     01311  01311                % 20070 RGTR--
+210301004 Dalheim, Gemeng       01314  01314                % 20070 RGTR--
+210301001 Dalheim, Hossegaass   01315  01315                % 20070 RGTR--
+210302002 Filsdorf, Wäschbour   01318  01318                % 20070 RGTR--
+201101003 Hassel, Küneftchen    01322  01322                % 20070 RGTR--
+201101002 Hassel, Karmesch      01323  01323                % 20070 RGTR--
+201101001 Hassel, Dielchen      01324  01324                % 20070 RGTR--
+201103005 Weiler-la-Tour, Peke  01324  01324                % 20070 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01325  01325                % 20070 RGTR--
+201103003 Weiler-la-Tour, Hueh  01326  01326                % 20070 RGTR--
+201103004 Weiler-la-Tour, Schl  01328  01328                % 20070 RGTR--
+201103001 Weiler-la-Tour, Camp  01330  01330                % 20070 RGTR--
+200301002 Alzingen, Hondsbréck  01332  01332                % 20070 RGTR--
+200301003 Alzingen, Trapeneck   01332  01332                % 20070 RGTR--
+200303006 Hesperange, Urbengss  01333  01333                % 20070 RGTR--
+200303001 Hesperange, Am Kelle  01334  01334                % 20070 RGTR--
+200303007 Hesperange, Wollefsm  01335  01335                % 20070 RGTR--
+200304001 Howald, Am Houwaldsb  01336  01336                % 20070 RGTR--
+200304004 Howald, Jhangeli      01337  01337                % 20070 RGTR--
+200404028 Bonnevoie, Neufchâte  01339  01339                % 20070 RGTR--
+200404016 Bonnevoie, Hippodrom  01339  01339                % 20070 RGTR--
+200404008 Bonnevoie, Dernier S  01340  01340                % 20070 RGTR--
+200405036 Luxembourg, Gare Cen  01342                       % 20070 RGTR--
+*Z 20071 RGTR--                                             % 20071 RGTR--
+*L 424      210102003 200405036  01500  01542               % 20071 RGTR--
+*R 2 200405036 210102003 200405036  01500  01542            % 20071 RGTR--
+*G 063 210102003 200405036  01500  01542                    % 20071 RGTR--
+*A VE 210102003 200405036 000036  01500  01542              % 20071 RGTR--
+*I FD 210102003 200405036        0001941  01500  01542      % 20071 RGTR--
+210102003 Bous, Kapell                 01500                % 20071 RGTR--
+210102004 Bous, Kierch          01500  01500                % 20071 RGTR--
+210103001 Erpeldange/Bous, Krä  01503  01503                % 20071 RGTR--
+210103002 Erpeldange/Bous, Rol  01504  01504                % 20071 RGTR--
+210104001 Rolling/Bous          01505  01505                % 20071 RGTR--
+210101001 Assel                 01506  01506                % 20071 RGTR--
+210904001 Waldbredimus, Hanner  01509  01509                % 20071 RGTR--
+210904002 Waldbredimus, Kiirch  01509  01509                % 20071 RGTR--
+210905001 Gondelengermillen     01511  01511                % 20071 RGTR--
+210301004 Dalheim, Gemeng       01514  01514                % 20071 RGTR--
+210301001 Dalheim, Hossegaass   01515  01515                % 20071 RGTR--
+210302002 Filsdorf, Wäschbour   01518  01518                % 20071 RGTR--
+201101003 Hassel, Küneftchen    01522  01522                % 20071 RGTR--
+201101002 Hassel, Karmesch      01523  01523                % 20071 RGTR--
+201101001 Hassel, Dielchen      01524  01524                % 20071 RGTR--
+201103005 Weiler-la-Tour, Peke  01524  01524                % 20071 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01525  01525                % 20071 RGTR--
+201103003 Weiler-la-Tour, Hueh  01526  01526                % 20071 RGTR--
+201103004 Weiler-la-Tour, Schl  01528  01528                % 20071 RGTR--
+201103001 Weiler-la-Tour, Camp  01530  01530                % 20071 RGTR--
+200301002 Alzingen, Hondsbréck  01532  01532                % 20071 RGTR--
+200301003 Alzingen, Trapeneck   01532  01532                % 20071 RGTR--
+200303006 Hesperange, Urbengss  01533  01533                % 20071 RGTR--
+200303001 Hesperange, Am Kelle  01534  01534                % 20071 RGTR--
+200303007 Hesperange, Wollefsm  01535  01535                % 20071 RGTR--
+200304001 Howald, Am Houwaldsb  01536  01536                % 20071 RGTR--
+200304004 Howald, Jhangeli      01537  01537                % 20071 RGTR--
+200404028 Bonnevoie, Neufchâte  01539  01539                % 20071 RGTR--
+200404016 Bonnevoie, Hippodrom  01539  01539                % 20071 RGTR--
+200404008 Bonnevoie, Dernier S  01540  01540                % 20071 RGTR--
+200405036 Luxembourg, Gare Cen  01542                       % 20071 RGTR--
+*Z 20072 RGTR--                                             % 20072 RGTR--
+*L 424      210102003 200405036  02100  02142               % 20072 RGTR--
+*R 2 200405036 210102003 200405036  02100  02142            % 20072 RGTR--
+*G 063 210102003 200405036  02100  02142                    % 20072 RGTR--
+*A VE 210102003 200405036 000036  02100  02142              % 20072 RGTR--
+*I FD 210102003 200405036        0001942  02100  02142      % 20072 RGTR--
+210102003 Bous, Kapell                 02100                % 20072 RGTR--
+210102004 Bous, Kierch          02100  02100                % 20072 RGTR--
+210103001 Erpeldange/Bous, Krä  02103  02103                % 20072 RGTR--
+210103002 Erpeldange/Bous, Rol  02104  02104                % 20072 RGTR--
+210104001 Rolling/Bous          02105  02105                % 20072 RGTR--
+210101001 Assel                 02106  02106                % 20072 RGTR--
+210904001 Waldbredimus, Hanner  02109  02109                % 20072 RGTR--
+210904002 Waldbredimus, Kiirch  02109  02109                % 20072 RGTR--
+210905001 Gondelengermillen     02111  02111                % 20072 RGTR--
+210301004 Dalheim, Gemeng       02114  02114                % 20072 RGTR--
+210301001 Dalheim, Hossegaass   02115  02115                % 20072 RGTR--
+210302002 Filsdorf, Wäschbour   02118  02118                % 20072 RGTR--
+201101003 Hassel, Küneftchen    02122  02122                % 20072 RGTR--
+201101002 Hassel, Karmesch      02123  02123                % 20072 RGTR--
+201101001 Hassel, Dielchen      02124  02124                % 20072 RGTR--
+201103005 Weiler-la-Tour, Peke  02124  02124                % 20072 RGTR--
+201103002 Weiler-la-Tour, Gëlt  02125  02125                % 20072 RGTR--
+201103003 Weiler-la-Tour, Hueh  02126  02126                % 20072 RGTR--
+201103004 Weiler-la-Tour, Schl  02128  02128                % 20072 RGTR--
+201103001 Weiler-la-Tour, Camp  02130  02130                % 20072 RGTR--
+200301002 Alzingen, Hondsbréck  02132  02132                % 20072 RGTR--
+200301003 Alzingen, Trapeneck   02132  02132                % 20072 RGTR--
+200303006 Hesperange, Urbengss  02133  02133                % 20072 RGTR--
+200303001 Hesperange, Am Kelle  02134  02134                % 20072 RGTR--
+200303007 Hesperange, Wollefsm  02135  02135                % 20072 RGTR--
+200304001 Howald, Am Houwaldsb  02136  02136                % 20072 RGTR--
+200304004 Howald, Jhangeli      02137  02137                % 20072 RGTR--
+200404028 Bonnevoie, Neufchâte  02139  02139                % 20072 RGTR--
+200404016 Bonnevoie, Hippodrom  02139  02139                % 20072 RGTR--
+200404008 Bonnevoie, Dernier S  02140  02140                % 20072 RGTR--
+200405036 Luxembourg, Gare Cen  02142                       % 20072 RGTR--
+*Z 20073 RGTR--                                             % 20073 RGTR--
+*L 424      210102003 200405036  02300  02342               % 20073 RGTR--
+*R 2 200405036 210102003 200405036  02300  02342            % 20073 RGTR--
+*G 063 210102003 200405036  02300  02342                    % 20073 RGTR--
+*A VE 210102003 200405036 000036  02300  02342              % 20073 RGTR--
+*I FD 210102003 200405036        0001943  02300  02342      % 20073 RGTR--
+210102003 Bous, Kapell                 02300                % 20073 RGTR--
+210102004 Bous, Kierch          02300  02300                % 20073 RGTR--
+210103001 Erpeldange/Bous, Krä  02303  02303                % 20073 RGTR--
+210103002 Erpeldange/Bous, Rol  02304  02304                % 20073 RGTR--
+210104001 Rolling/Bous          02305  02305                % 20073 RGTR--
+210101001 Assel                 02306  02306                % 20073 RGTR--
+210904001 Waldbredimus, Hanner  02309  02309                % 20073 RGTR--
+210904002 Waldbredimus, Kiirch  02309  02309                % 20073 RGTR--
+210905001 Gondelengermillen     02311  02311                % 20073 RGTR--
+210301004 Dalheim, Gemeng       02314  02314                % 20073 RGTR--
+210301001 Dalheim, Hossegaass   02315  02315                % 20073 RGTR--
+210302002 Filsdorf, Wäschbour   02318  02318                % 20073 RGTR--
+201101003 Hassel, Küneftchen    02322  02322                % 20073 RGTR--
+201101002 Hassel, Karmesch      02323  02323                % 20073 RGTR--
+201101001 Hassel, Dielchen      02324  02324                % 20073 RGTR--
+201103005 Weiler-la-Tour, Peke  02324  02324                % 20073 RGTR--
+201103002 Weiler-la-Tour, Gëlt  02325  02325                % 20073 RGTR--
+201103003 Weiler-la-Tour, Hueh  02326  02326                % 20073 RGTR--
+201103004 Weiler-la-Tour, Schl  02328  02328                % 20073 RGTR--
+201103001 Weiler-la-Tour, Camp  02330  02330                % 20073 RGTR--
+200301002 Alzingen, Hondsbréck  02332  02332                % 20073 RGTR--
+200301003 Alzingen, Trapeneck   02332  02332                % 20073 RGTR--
+200303006 Hesperange, Urbengss  02333  02333                % 20073 RGTR--
+200303001 Hesperange, Am Kelle  02334  02334                % 20073 RGTR--
+200303007 Hesperange, Wollefsm  02335  02335                % 20073 RGTR--
+200304001 Howald, Am Houwaldsb  02336  02336                % 20073 RGTR--
+200304004 Howald, Jhangeli      02337  02337                % 20073 RGTR--
+200404028 Bonnevoie, Neufchâte  02339  02339                % 20073 RGTR--
+200404016 Bonnevoie, Hippodrom  02339  02339                % 20073 RGTR--
+200404008 Bonnevoie, Dernier S  02340  02340                % 20073 RGTR--
+200405036 Luxembourg, Gare Cen  02342                       % 20073 RGTR--
+*Z 20074 RGTR--                                             % 20074 RGTR--
+*L 424      210102003 200405036  00600  00642               % 20074 RGTR--
+*R 2 200405036 210102003 200405036  00600  00642            % 20074 RGTR--
+*G 063 210102003 200405036  00600  00642                    % 20074 RGTR--
+*A VE 210102003 200405036 000035  00600  00642              % 20074 RGTR--
+*I FD 210102003 200405036        0001947  00600  00642      % 20074 RGTR--
+210102003 Bous, Kapell                 00600                % 20074 RGTR--
+210102004 Bous, Kierch          00600  00600                % 20074 RGTR--
+210103001 Erpeldange/Bous, Krä  00603  00603                % 20074 RGTR--
+210103002 Erpeldange/Bous, Rol  00604  00604                % 20074 RGTR--
+210104001 Rolling/Bous          00605  00605                % 20074 RGTR--
+210101001 Assel                 00606  00606                % 20074 RGTR--
+210904001 Waldbredimus, Hanner  00609  00609                % 20074 RGTR--
+210904002 Waldbredimus, Kiirch  00609  00609                % 20074 RGTR--
+210905001 Gondelengermillen     00611  00611                % 20074 RGTR--
+210301004 Dalheim, Gemeng       00614  00614                % 20074 RGTR--
+210301001 Dalheim, Hossegaass   00615  00615                % 20074 RGTR--
+210302002 Filsdorf, Wäschbour   00618  00618                % 20074 RGTR--
+201101003 Hassel, Küneftchen    00622  00622                % 20074 RGTR--
+201101002 Hassel, Karmesch      00623  00623                % 20074 RGTR--
+201101001 Hassel, Dielchen      00624  00624                % 20074 RGTR--
+201103005 Weiler-la-Tour, Peke  00624  00624                % 20074 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00625  00625                % 20074 RGTR--
+201103003 Weiler-la-Tour, Hueh  00626  00626                % 20074 RGTR--
+201103004 Weiler-la-Tour, Schl  00628  00628                % 20074 RGTR--
+201103001 Weiler-la-Tour, Camp  00630  00630                % 20074 RGTR--
+200301002 Alzingen, Hondsbréck  00632  00632                % 20074 RGTR--
+200301003 Alzingen, Trapeneck   00632  00632                % 20074 RGTR--
+200303006 Hesperange, Urbengss  00633  00633                % 20074 RGTR--
+200303001 Hesperange, Am Kelle  00634  00634                % 20074 RGTR--
+200303007 Hesperange, Wollefsm  00635  00635                % 20074 RGTR--
+200304001 Howald, Am Houwaldsb  00636  00636                % 20074 RGTR--
+200304004 Howald, Jhangeli      00637  00637                % 20074 RGTR--
+200404028 Bonnevoie, Neufchâte  00639  00639                % 20074 RGTR--
+200404016 Bonnevoie, Hippodrom  00639  00639                % 20074 RGTR--
+200404008 Bonnevoie, Dernier S  00640  00640                % 20074 RGTR--
+200405036 Luxembourg, Gare Cen  00642                       % 20074 RGTR--
+*Z 20075 RGTR--                                             % 20075 RGTR--
+*L 424      210102003 200405036  00800  00842               % 20075 RGTR--
+*R 2 200405036 210102003 200405036  00800  00842            % 20075 RGTR--
+*G 063 210102003 200405036  00800  00842                    % 20075 RGTR--
+*A VE 210102003 200405036 000035  00800  00842              % 20075 RGTR--
+*I FD 210102003 200405036        0001944  00800  00842      % 20075 RGTR--
+210102003 Bous, Kapell                 00800                % 20075 RGTR--
+210102004 Bous, Kierch          00800  00800                % 20075 RGTR--
+210103001 Erpeldange/Bous, Krä  00803  00803                % 20075 RGTR--
+210103002 Erpeldange/Bous, Rol  00804  00804                % 20075 RGTR--
+210104001 Rolling/Bous          00805  00805                % 20075 RGTR--
+210101001 Assel                 00806  00806                % 20075 RGTR--
+210904001 Waldbredimus, Hanner  00809  00809                % 20075 RGTR--
+210904002 Waldbredimus, Kiirch  00809  00809                % 20075 RGTR--
+210905001 Gondelengermillen     00811  00811                % 20075 RGTR--
+210301004 Dalheim, Gemeng       00814  00814                % 20075 RGTR--
+210301001 Dalheim, Hossegaass   00815  00815                % 20075 RGTR--
+210302002 Filsdorf, Wäschbour   00818  00818                % 20075 RGTR--
+201101003 Hassel, Küneftchen    00822  00822                % 20075 RGTR--
+201101002 Hassel, Karmesch      00823  00823                % 20075 RGTR--
+201101001 Hassel, Dielchen      00824  00824                % 20075 RGTR--
+201103005 Weiler-la-Tour, Peke  00824  00824                % 20075 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00825  00825                % 20075 RGTR--
+201103003 Weiler-la-Tour, Hueh  00826  00826                % 20075 RGTR--
+201103004 Weiler-la-Tour, Schl  00828  00828                % 20075 RGTR--
+201103001 Weiler-la-Tour, Camp  00830  00830                % 20075 RGTR--
+200301002 Alzingen, Hondsbréck  00832  00832                % 20075 RGTR--
+200301003 Alzingen, Trapeneck   00832  00832                % 20075 RGTR--
+200303006 Hesperange, Urbengss  00833  00833                % 20075 RGTR--
+200303001 Hesperange, Am Kelle  00834  00834                % 20075 RGTR--
+200303007 Hesperange, Wollefsm  00835  00835                % 20075 RGTR--
+200304001 Howald, Am Houwaldsb  00836  00836                % 20075 RGTR--
+200304004 Howald, Jhangeli      00837  00837                % 20075 RGTR--
+200404028 Bonnevoie, Neufchâte  00839  00839                % 20075 RGTR--
+200404016 Bonnevoie, Hippodrom  00839  00839                % 20075 RGTR--
+200404008 Bonnevoie, Dernier S  00840  00840                % 20075 RGTR--
+200405036 Luxembourg, Gare Cen  00842                       % 20075 RGTR--
+*Z 20076 RGTR--                                             % 20076 RGTR--
+*L 424      210102003 200405036  01600  01642               % 20076 RGTR--
+*R 2 200405036 210102003 200405036  01600  01642            % 20076 RGTR--
+*G 063 210102003 200405036  01600  01642                    % 20076 RGTR--
+*A VE 210102003 200405036 000035  01600  01642              % 20076 RGTR--
+*I FD 210102003 200405036        0001945  01600  01642      % 20076 RGTR--
+210102003 Bous, Kapell                 01600                % 20076 RGTR--
+210102004 Bous, Kierch          01600  01600                % 20076 RGTR--
+210103001 Erpeldange/Bous, Krä  01603  01603                % 20076 RGTR--
+210103002 Erpeldange/Bous, Rol  01604  01604                % 20076 RGTR--
+210104001 Rolling/Bous          01605  01605                % 20076 RGTR--
+210101001 Assel                 01606  01606                % 20076 RGTR--
+210904001 Waldbredimus, Hanner  01609  01609                % 20076 RGTR--
+210904002 Waldbredimus, Kiirch  01609  01609                % 20076 RGTR--
+210905001 Gondelengermillen     01611  01611                % 20076 RGTR--
+210301004 Dalheim, Gemeng       01614  01614                % 20076 RGTR--
+210301001 Dalheim, Hossegaass   01615  01615                % 20076 RGTR--
+210302002 Filsdorf, Wäschbour   01618  01618                % 20076 RGTR--
+201101003 Hassel, Küneftchen    01622  01622                % 20076 RGTR--
+201101002 Hassel, Karmesch      01623  01623                % 20076 RGTR--
+201101001 Hassel, Dielchen      01624  01624                % 20076 RGTR--
+201103005 Weiler-la-Tour, Peke  01624  01624                % 20076 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01625  01625                % 20076 RGTR--
+201103003 Weiler-la-Tour, Hueh  01626  01626                % 20076 RGTR--
+201103004 Weiler-la-Tour, Schl  01628  01628                % 20076 RGTR--
+201103001 Weiler-la-Tour, Camp  01630  01630                % 20076 RGTR--
+200301002 Alzingen, Hondsbréck  01632  01632                % 20076 RGTR--
+200301003 Alzingen, Trapeneck   01632  01632                % 20076 RGTR--
+200303006 Hesperange, Urbengss  01633  01633                % 20076 RGTR--
+200303001 Hesperange, Am Kelle  01634  01634                % 20076 RGTR--
+200303007 Hesperange, Wollefsm  01635  01635                % 20076 RGTR--
+200304001 Howald, Am Houwaldsb  01636  01636                % 20076 RGTR--
+200304004 Howald, Jhangeli      01637  01637                % 20076 RGTR--
+200404028 Bonnevoie, Neufchâte  01639  01639                % 20076 RGTR--
+200404016 Bonnevoie, Hippodrom  01639  01639                % 20076 RGTR--
+200404008 Bonnevoie, Dernier S  01640  01640                % 20076 RGTR--
+200405036 Luxembourg, Gare Cen  01642                       % 20076 RGTR--
+*Z 20077 RGTR--                                             % 20077 RGTR--
+*L 424      210102003 200405036  01800  01842               % 20077 RGTR--
+*R 2 200405036 210102003 200405036  01800  01842            % 20077 RGTR--
+*G 063 210102003 200405036  01800  01842                    % 20077 RGTR--
+*A VE 210102003 200405036 000035  01800  01842              % 20077 RGTR--
+*I FD 210102003 200405036        0001946  01800  01842      % 20077 RGTR--
+210102003 Bous, Kapell                 01800                % 20077 RGTR--
+210102004 Bous, Kierch          01800  01800                % 20077 RGTR--
+210103001 Erpeldange/Bous, Krä  01803  01803                % 20077 RGTR--
+210103002 Erpeldange/Bous, Rol  01804  01804                % 20077 RGTR--
+210104001 Rolling/Bous          01805  01805                % 20077 RGTR--
+210101001 Assel                 01806  01806                % 20077 RGTR--
+210904001 Waldbredimus, Hanner  01809  01809                % 20077 RGTR--
+210904002 Waldbredimus, Kiirch  01809  01809                % 20077 RGTR--
+210905001 Gondelengermillen     01811  01811                % 20077 RGTR--
+210301004 Dalheim, Gemeng       01814  01814                % 20077 RGTR--
+210301001 Dalheim, Hossegaass   01815  01815                % 20077 RGTR--
+210302002 Filsdorf, Wäschbour   01818  01818                % 20077 RGTR--
+201101003 Hassel, Küneftchen    01822  01822                % 20077 RGTR--
+201101002 Hassel, Karmesch      01823  01823                % 20077 RGTR--
+201101001 Hassel, Dielchen      01824  01824                % 20077 RGTR--
+201103005 Weiler-la-Tour, Peke  01824  01824                % 20077 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01825  01825                % 20077 RGTR--
+201103003 Weiler-la-Tour, Hueh  01826  01826                % 20077 RGTR--
+201103004 Weiler-la-Tour, Schl  01828  01828                % 20077 RGTR--
+201103001 Weiler-la-Tour, Camp  01830  01830                % 20077 RGTR--
+200301002 Alzingen, Hondsbréck  01832  01832                % 20077 RGTR--
+200301003 Alzingen, Trapeneck   01832  01832                % 20077 RGTR--
+200303006 Hesperange, Urbengss  01833  01833                % 20077 RGTR--
+200303001 Hesperange, Am Kelle  01834  01834                % 20077 RGTR--
+200303007 Hesperange, Wollefsm  01835  01835                % 20077 RGTR--
+200304001 Howald, Am Houwaldsb  01836  01836                % 20077 RGTR--
+200304004 Howald, Jhangeli      01837  01837                % 20077 RGTR--
+200404028 Bonnevoie, Neufchâte  01839  01839                % 20077 RGTR--
+200404016 Bonnevoie, Hippodrom  01839  01839                % 20077 RGTR--
+200404008 Bonnevoie, Dernier S  01840  01840                % 20077 RGTR--
+200405036 Luxembourg, Gare Cen  01842                       % 20077 RGTR--
+*Z 20078 RGTR--                                             % 20078 RGTR--
+*L 424      210102003 200405036  00700  00742               % 20078 RGTR--
+*R 2 200405036 210102003 200405036  00700  00742            % 20078 RGTR--
+*G 063 210102003 200405036  00700  00742                    % 20078 RGTR--
+*A VE 210102003 200405036 000025  00700  00742              % 20078 RGTR--
+*I FD 210102003 200405036        0001948  00700  00742      % 20078 RGTR--
+210102003 Bous, Kapell                 00700                % 20078 RGTR--
+210102004 Bous, Kierch          00700  00700                % 20078 RGTR--
+210103001 Erpeldange/Bous, Krä  00703  00703                % 20078 RGTR--
+210103002 Erpeldange/Bous, Rol  00704  00704                % 20078 RGTR--
+210104001 Rolling/Bous          00705  00705                % 20078 RGTR--
+210101001 Assel                 00706  00706                % 20078 RGTR--
+210904001 Waldbredimus, Hanner  00709  00709                % 20078 RGTR--
+210904002 Waldbredimus, Kiirch  00709  00709                % 20078 RGTR--
+210905001 Gondelengermillen     00711  00711                % 20078 RGTR--
+210301004 Dalheim, Gemeng       00714  00714                % 20078 RGTR--
+210301001 Dalheim, Hossegaass   00715  00715                % 20078 RGTR--
+210302002 Filsdorf, Wäschbour   00718  00718                % 20078 RGTR--
+201101003 Hassel, Küneftchen    00722  00722                % 20078 RGTR--
+201101002 Hassel, Karmesch      00723  00723                % 20078 RGTR--
+201101001 Hassel, Dielchen      00724  00724                % 20078 RGTR--
+201103005 Weiler-la-Tour, Peke  00724  00724                % 20078 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00725  00725                % 20078 RGTR--
+201103003 Weiler-la-Tour, Hueh  00726  00726                % 20078 RGTR--
+201103004 Weiler-la-Tour, Schl  00728  00728                % 20078 RGTR--
+201103001 Weiler-la-Tour, Camp  00730  00730                % 20078 RGTR--
+200301002 Alzingen, Hondsbréck  00732  00732                % 20078 RGTR--
+200301003 Alzingen, Trapeneck   00732  00732                % 20078 RGTR--
+200303006 Hesperange, Urbengss  00733  00733                % 20078 RGTR--
+200303001 Hesperange, Am Kelle  00734  00734                % 20078 RGTR--
+200303007 Hesperange, Wollefsm  00735  00735                % 20078 RGTR--
+200304001 Howald, Am Houwaldsb  00736  00736                % 20078 RGTR--
+200304004 Howald, Jhangeli      00737  00737                % 20078 RGTR--
+200404028 Bonnevoie, Neufchâte  00739  00739                % 20078 RGTR--
+200404016 Bonnevoie, Hippodrom  00739  00739                % 20078 RGTR--
+200404008 Bonnevoie, Dernier S  00740  00740                % 20078 RGTR--
+200405036 Luxembourg, Gare Cen  00742                       % 20078 RGTR--
+*Z 20079 RGTR--                                             % 20079 RGTR--
+*L 424      210102003 200405036  00900  00942               % 20079 RGTR--
+*R 2 200405036 210102003 200405036  00900  00942            % 20079 RGTR--
+*G 063 210102003 200405036  00900  00942                    % 20079 RGTR--
+*A VE 210102003 200405036 000025  00900  00942              % 20079 RGTR--
+*I FD 210102003 200405036        0001949  00900  00942      % 20079 RGTR--
+210102003 Bous, Kapell                 00900                % 20079 RGTR--
+210102004 Bous, Kierch          00900  00900                % 20079 RGTR--
+210103001 Erpeldange/Bous, Krä  00903  00903                % 20079 RGTR--
+210103002 Erpeldange/Bous, Rol  00904  00904                % 20079 RGTR--
+210104001 Rolling/Bous          00905  00905                % 20079 RGTR--
+210101001 Assel                 00906  00906                % 20079 RGTR--
+210904001 Waldbredimus, Hanner  00909  00909                % 20079 RGTR--
+210904002 Waldbredimus, Kiirch  00909  00909                % 20079 RGTR--
+210905001 Gondelengermillen     00911  00911                % 20079 RGTR--
+210301004 Dalheim, Gemeng       00914  00914                % 20079 RGTR--
+210301001 Dalheim, Hossegaass   00915  00915                % 20079 RGTR--
+210302002 Filsdorf, Wäschbour   00918  00918                % 20079 RGTR--
+201101003 Hassel, Küneftchen    00922  00922                % 20079 RGTR--
+201101002 Hassel, Karmesch      00923  00923                % 20079 RGTR--
+201101001 Hassel, Dielchen      00924  00924                % 20079 RGTR--
+201103005 Weiler-la-Tour, Peke  00924  00924                % 20079 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00925  00925                % 20079 RGTR--
+201103003 Weiler-la-Tour, Hueh  00926  00926                % 20079 RGTR--
+201103004 Weiler-la-Tour, Schl  00928  00928                % 20079 RGTR--
+201103001 Weiler-la-Tour, Camp  00930  00930                % 20079 RGTR--
+200301002 Alzingen, Hondsbréck  00932  00932                % 20079 RGTR--
+200301003 Alzingen, Trapeneck   00932  00932                % 20079 RGTR--
+200303006 Hesperange, Urbengss  00933  00933                % 20079 RGTR--
+200303001 Hesperange, Am Kelle  00934  00934                % 20079 RGTR--
+200303007 Hesperange, Wollefsm  00935  00935                % 20079 RGTR--
+200304001 Howald, Am Houwaldsb  00936  00936                % 20079 RGTR--
+200304004 Howald, Jhangeli      00937  00937                % 20079 RGTR--
+200404028 Bonnevoie, Neufchâte  00939  00939                % 20079 RGTR--
+200404016 Bonnevoie, Hippodrom  00939  00939                % 20079 RGTR--
+200404008 Bonnevoie, Dernier S  00940  00940                % 20079 RGTR--
+200405036 Luxembourg, Gare Cen  00942                       % 20079 RGTR--
+*Z 20080 RGTR--                                             % 20080 RGTR--
+*L 424      210102003 200405036  01700  01742               % 20080 RGTR--
+*R 2 200405036 210102003 200405036  01700  01742            % 20080 RGTR--
+*G 063 210102003 200405036  01700  01742                    % 20080 RGTR--
+*A VE 210102003 200405036 000025  01700  01742              % 20080 RGTR--
+*I FD 210102003 200405036        0001950  01700  01742      % 20080 RGTR--
+210102003 Bous, Kapell                 01700                % 20080 RGTR--
+210102004 Bous, Kierch          01700  01700                % 20080 RGTR--
+210103001 Erpeldange/Bous, Krä  01703  01703                % 20080 RGTR--
+210103002 Erpeldange/Bous, Rol  01704  01704                % 20080 RGTR--
+210104001 Rolling/Bous          01705  01705                % 20080 RGTR--
+210101001 Assel                 01706  01706                % 20080 RGTR--
+210904001 Waldbredimus, Hanner  01709  01709                % 20080 RGTR--
+210904002 Waldbredimus, Kiirch  01709  01709                % 20080 RGTR--
+210905001 Gondelengermillen     01711  01711                % 20080 RGTR--
+210301004 Dalheim, Gemeng       01714  01714                % 20080 RGTR--
+210301001 Dalheim, Hossegaass   01715  01715                % 20080 RGTR--
+210302002 Filsdorf, Wäschbour   01718  01718                % 20080 RGTR--
+201101003 Hassel, Küneftchen    01722  01722                % 20080 RGTR--
+201101002 Hassel, Karmesch      01723  01723                % 20080 RGTR--
+201101001 Hassel, Dielchen      01724  01724                % 20080 RGTR--
+201103005 Weiler-la-Tour, Peke  01724  01724                % 20080 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01725  01725                % 20080 RGTR--
+201103003 Weiler-la-Tour, Hueh  01726  01726                % 20080 RGTR--
+201103004 Weiler-la-Tour, Schl  01728  01728                % 20080 RGTR--
+201103001 Weiler-la-Tour, Camp  01730  01730                % 20080 RGTR--
+200301002 Alzingen, Hondsbréck  01732  01732                % 20080 RGTR--
+200301003 Alzingen, Trapeneck   01732  01732                % 20080 RGTR--
+200303006 Hesperange, Urbengss  01733  01733                % 20080 RGTR--
+200303001 Hesperange, Am Kelle  01734  01734                % 20080 RGTR--
+200303007 Hesperange, Wollefsm  01735  01735                % 20080 RGTR--
+200304001 Howald, Am Houwaldsb  01736  01736                % 20080 RGTR--
+200304004 Howald, Jhangeli      01737  01737                % 20080 RGTR--
+200404028 Bonnevoie, Neufchâte  01739  01739                % 20080 RGTR--
+200404016 Bonnevoie, Hippodrom  01739  01739                % 20080 RGTR--
+200404008 Bonnevoie, Dernier S  01740  01740                % 20080 RGTR--
+200405036 Luxembourg, Gare Cen  01742                       % 20080 RGTR--
+*Z 20081 RGTR--                                             % 20081 RGTR--
+*L 424      210102003 200405036  01900  01942               % 20081 RGTR--
+*R 2 200405036 210102003 200405036  01900  01942            % 20081 RGTR--
+*G 063 210102003 200405036  01900  01942                    % 20081 RGTR--
+*A VE 210102003 200405036 000025  01900  01942              % 20081 RGTR--
+*I FD 210102003 200405036        0001951  01900  01942      % 20081 RGTR--
+210102003 Bous, Kapell                 01900                % 20081 RGTR--
+210102004 Bous, Kierch          01900  01900                % 20081 RGTR--
+210103001 Erpeldange/Bous, Krä  01903  01903                % 20081 RGTR--
+210103002 Erpeldange/Bous, Rol  01904  01904                % 20081 RGTR--
+210104001 Rolling/Bous          01905  01905                % 20081 RGTR--
+210101001 Assel                 01906  01906                % 20081 RGTR--
+210904001 Waldbredimus, Hanner  01909  01909                % 20081 RGTR--
+210904002 Waldbredimus, Kiirch  01909  01909                % 20081 RGTR--
+210905001 Gondelengermillen     01911  01911                % 20081 RGTR--
+210301004 Dalheim, Gemeng       01914  01914                % 20081 RGTR--
+210301001 Dalheim, Hossegaass   01915  01915                % 20081 RGTR--
+210302002 Filsdorf, Wäschbour   01918  01918                % 20081 RGTR--
+201101003 Hassel, Küneftchen    01922  01922                % 20081 RGTR--
+201101002 Hassel, Karmesch      01923  01923                % 20081 RGTR--
+201101001 Hassel, Dielchen      01924  01924                % 20081 RGTR--
+201103005 Weiler-la-Tour, Peke  01924  01924                % 20081 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01925  01925                % 20081 RGTR--
+201103003 Weiler-la-Tour, Hueh  01926  01926                % 20081 RGTR--
+201103004 Weiler-la-Tour, Schl  01928  01928                % 20081 RGTR--
+201103001 Weiler-la-Tour, Camp  01930  01930                % 20081 RGTR--
+200301002 Alzingen, Hondsbréck  01932  01932                % 20081 RGTR--
+200301003 Alzingen, Trapeneck   01932  01932                % 20081 RGTR--
+200303006 Hesperange, Urbengss  01933  01933                % 20081 RGTR--
+200303001 Hesperange, Am Kelle  01934  01934                % 20081 RGTR--
+200303007 Hesperange, Wollefsm  01935  01935                % 20081 RGTR--
+200304001 Howald, Am Houwaldsb  01936  01936                % 20081 RGTR--
+200304004 Howald, Jhangeli      01937  01937                % 20081 RGTR--
+200404028 Bonnevoie, Neufchâte  01939  01939                % 20081 RGTR--
+200404016 Bonnevoie, Hippodrom  01939  01939                % 20081 RGTR--
+200404008 Bonnevoie, Dernier S  01940  01940                % 20081 RGTR--
+200405036 Luxembourg, Gare Cen  01942                       % 20081 RGTR--
+*Z 20082 RGTR--                                             % 20082 RGTR--
+*L 424      210102003 200405036  00600  00647               % 20082 RGTR--
+*R 2 200405036 210102003 200405036  00600  00647            % 20082 RGTR--
+*G 063 210102003 200405036  00600  00647                    % 20082 RGTR--
+*A VE 210102003 200405036 000033  00600  00647              % 20082 RGTR--
+*I FD 210102003 200405036        0001947  00600  00647      % 20082 RGTR--
+210102003 Bous, Kapell                 00600                % 20082 RGTR--
+210102004 Bous, Kierch          00600  00600                % 20082 RGTR--
+210103001 Erpeldange/Bous, Krä  00604  00604                % 20082 RGTR--
+210103002 Erpeldange/Bous, Rol  00605  00605                % 20082 RGTR--
+210104001 Rolling/Bous          00606  00606                % 20082 RGTR--
+210101001 Assel                 00607  00607                % 20082 RGTR--
+210904001 Waldbredimus, Hanner  00610  00610                % 20082 RGTR--
+210904002 Waldbredimus, Kiirch  00610  00610                % 20082 RGTR--
+210905001 Gondelengermillen     00612  00612                % 20082 RGTR--
+210301004 Dalheim, Gemeng       00615  00615                % 20082 RGTR--
+210301001 Dalheim, Hossegaass   00616  00616                % 20082 RGTR--
+210302002 Filsdorf, Wäschbour   00620  00620                % 20082 RGTR--
+201101003 Hassel, Küneftchen    00624  00624                % 20082 RGTR--
+201101002 Hassel, Karmesch      00625  00625                % 20082 RGTR--
+201101001 Hassel, Dielchen      00626  00626                % 20082 RGTR--
+201103005 Weiler-la-Tour, Peke  00627  00627                % 20082 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00628  00628                % 20082 RGTR--
+201103003 Weiler-la-Tour, Hueh  00629  00629                % 20082 RGTR--
+201103004 Weiler-la-Tour, Schl  00631  00631                % 20082 RGTR--
+201103001 Weiler-la-Tour, Camp  00632  00632                % 20082 RGTR--
+200301002 Alzingen, Hondsbréck  00634  00634                % 20082 RGTR--
+200301003 Alzingen, Trapeneck   00635  00635                % 20082 RGTR--
+200303006 Hesperange, Urbengss  00636  00636                % 20082 RGTR--
+200303001 Hesperange, Am Kelle  00638  00638                % 20082 RGTR--
+200303007 Hesperange, Wollefsm  00639  00639                % 20082 RGTR--
+200304001 Howald, Am Houwaldsb  00640  00640                % 20082 RGTR--
+200304004 Howald, Jhangeli      00642  00642                % 20082 RGTR--
+200404028 Bonnevoie, Neufchâte  00643  00643                % 20082 RGTR--
+200404016 Bonnevoie, Hippodrom  00644  00644                % 20082 RGTR--
+200404008 Bonnevoie, Dernier S  00645  00645                % 20082 RGTR--
+200405036 Luxembourg, Gare Cen  00647                       % 20082 RGTR--
+*Z 20083 RGTR--                                             % 20083 RGTR--
+*L 424      210102003 200405036  00630  00717               % 20083 RGTR--
+*R 2 200405036 210102003 200405036  00630  00717            % 20083 RGTR--
+*G 063 210102003 200405036  00630  00717                    % 20083 RGTR--
+*A VE 210102003 200405036 000033  00630  00717              % 20083 RGTR--
+*I FD 210102003 200405036        0000789  00630  00717      % 20083 RGTR--
+210102003 Bous, Kapell                 00630                % 20083 RGTR--
+210102004 Bous, Kierch          00630  00630                % 20083 RGTR--
+210103001 Erpeldange/Bous, Krä  00634  00634                % 20083 RGTR--
+210103002 Erpeldange/Bous, Rol  00635  00635                % 20083 RGTR--
+210104001 Rolling/Bous          00636  00636                % 20083 RGTR--
+210101001 Assel                 00637  00637                % 20083 RGTR--
+210904001 Waldbredimus, Hanner  00640  00640                % 20083 RGTR--
+210904002 Waldbredimus, Kiirch  00640  00640                % 20083 RGTR--
+210905001 Gondelengermillen     00642  00642                % 20083 RGTR--
+210301004 Dalheim, Gemeng       00645  00645                % 20083 RGTR--
+210301001 Dalheim, Hossegaass   00646  00646                % 20083 RGTR--
+210302002 Filsdorf, Wäschbour   00650  00650                % 20083 RGTR--
+201101003 Hassel, Küneftchen    00654  00654                % 20083 RGTR--
+201101002 Hassel, Karmesch      00655  00655                % 20083 RGTR--
+201101001 Hassel, Dielchen      00656  00656                % 20083 RGTR--
+201103005 Weiler-la-Tour, Peke  00657  00657                % 20083 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00658  00658                % 20083 RGTR--
+201103003 Weiler-la-Tour, Hueh  00659  00659                % 20083 RGTR--
+201103004 Weiler-la-Tour, Schl  00701  00701                % 20083 RGTR--
+201103001 Weiler-la-Tour, Camp  00702  00702                % 20083 RGTR--
+200301002 Alzingen, Hondsbréck  00704  00704                % 20083 RGTR--
+200301003 Alzingen, Trapeneck   00705  00705                % 20083 RGTR--
+200303006 Hesperange, Urbengss  00706  00706                % 20083 RGTR--
+200303001 Hesperange, Am Kelle  00708  00708                % 20083 RGTR--
+200303007 Hesperange, Wollefsm  00709  00709                % 20083 RGTR--
+200304001 Howald, Am Houwaldsb  00710  00710                % 20083 RGTR--
+200304004 Howald, Jhangeli      00712  00712                % 20083 RGTR--
+200404028 Bonnevoie, Neufchâte  00713  00713                % 20083 RGTR--
+200404016 Bonnevoie, Hippodrom  00714  00714                % 20083 RGTR--
+200404008 Bonnevoie, Dernier S  00715  00715                % 20083 RGTR--
+200405036 Luxembourg, Gare Cen  00717                       % 20083 RGTR--
+*Z 20084 RGTR--                                             % 20084 RGTR--
+*L 424      210102003 200405036  00700  00747               % 20084 RGTR--
+*R 2 200405036 210102003 200405036  00700  00747            % 20084 RGTR--
+*G 063 210102003 200405036  00700  00747                    % 20084 RGTR--
+*A VE 210102003 200405036 000033  00700  00747              % 20084 RGTR--
+*I FD 210102003 200405036        0001948  00700  00747      % 20084 RGTR--
+210102003 Bous, Kapell                 00700                % 20084 RGTR--
+210102004 Bous, Kierch          00700  00700                % 20084 RGTR--
+210103001 Erpeldange/Bous, Krä  00704  00704                % 20084 RGTR--
+210103002 Erpeldange/Bous, Rol  00705  00705                % 20084 RGTR--
+210104001 Rolling/Bous          00706  00706                % 20084 RGTR--
+210101001 Assel                 00707  00707                % 20084 RGTR--
+210904001 Waldbredimus, Hanner  00710  00710                % 20084 RGTR--
+210904002 Waldbredimus, Kiirch  00710  00710                % 20084 RGTR--
+210905001 Gondelengermillen     00712  00712                % 20084 RGTR--
+210301004 Dalheim, Gemeng       00715  00715                % 20084 RGTR--
+210301001 Dalheim, Hossegaass   00716  00716                % 20084 RGTR--
+210302002 Filsdorf, Wäschbour   00720  00720                % 20084 RGTR--
+201101003 Hassel, Küneftchen    00724  00724                % 20084 RGTR--
+201101002 Hassel, Karmesch      00725  00725                % 20084 RGTR--
+201101001 Hassel, Dielchen      00726  00726                % 20084 RGTR--
+201103005 Weiler-la-Tour, Peke  00727  00727                % 20084 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00728  00728                % 20084 RGTR--
+201103003 Weiler-la-Tour, Hueh  00729  00729                % 20084 RGTR--
+201103004 Weiler-la-Tour, Schl  00731  00731                % 20084 RGTR--
+201103001 Weiler-la-Tour, Camp  00732  00732                % 20084 RGTR--
+200301002 Alzingen, Hondsbréck  00734  00734                % 20084 RGTR--
+200301003 Alzingen, Trapeneck   00735  00735                % 20084 RGTR--
+200303006 Hesperange, Urbengss  00736  00736                % 20084 RGTR--
+200303001 Hesperange, Am Kelle  00738  00738                % 20084 RGTR--
+200303007 Hesperange, Wollefsm  00739  00739                % 20084 RGTR--
+200304001 Howald, Am Houwaldsb  00740  00740                % 20084 RGTR--
+200304004 Howald, Jhangeli      00742  00742                % 20084 RGTR--
+200404028 Bonnevoie, Neufchâte  00743  00743                % 20084 RGTR--
+200404016 Bonnevoie, Hippodrom  00744  00744                % 20084 RGTR--
+200404008 Bonnevoie, Dernier S  00745  00745                % 20084 RGTR--
+200405036 Luxembourg, Gare Cen  00747                       % 20084 RGTR--
+*Z 20085 RGTR--                                             % 20085 RGTR--
+*L 424      210102003 200405036  00730  00817               % 20085 RGTR--
+*R 2 200405036 210102003 200405036  00730  00817            % 20085 RGTR--
+*G 063 210102003 200405036  00730  00817                    % 20085 RGTR--
+*A VE 210102003 200405036 000033  00730  00817              % 20085 RGTR--
+*I FD 210102003 200405036        0001952  00730  00817      % 20085 RGTR--
+210102003 Bous, Kapell                 00730                % 20085 RGTR--
+210102004 Bous, Kierch          00730  00730                % 20085 RGTR--
+210103001 Erpeldange/Bous, Krä  00734  00734                % 20085 RGTR--
+210103002 Erpeldange/Bous, Rol  00735  00735                % 20085 RGTR--
+210104001 Rolling/Bous          00736  00736                % 20085 RGTR--
+210101001 Assel                 00737  00737                % 20085 RGTR--
+210904001 Waldbredimus, Hanner  00740  00740                % 20085 RGTR--
+210904002 Waldbredimus, Kiirch  00740  00740                % 20085 RGTR--
+210905001 Gondelengermillen     00742  00742                % 20085 RGTR--
+210301004 Dalheim, Gemeng       00745  00745                % 20085 RGTR--
+210301001 Dalheim, Hossegaass   00746  00746                % 20085 RGTR--
+210302002 Filsdorf, Wäschbour   00750  00750                % 20085 RGTR--
+201101003 Hassel, Küneftchen    00754  00754                % 20085 RGTR--
+201101002 Hassel, Karmesch      00755  00755                % 20085 RGTR--
+201101001 Hassel, Dielchen      00756  00756                % 20085 RGTR--
+201103005 Weiler-la-Tour, Peke  00757  00757                % 20085 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00758  00758                % 20085 RGTR--
+201103003 Weiler-la-Tour, Hueh  00759  00759                % 20085 RGTR--
+201103004 Weiler-la-Tour, Schl  00801  00801                % 20085 RGTR--
+201103001 Weiler-la-Tour, Camp  00802  00802                % 20085 RGTR--
+200301002 Alzingen, Hondsbréck  00804  00804                % 20085 RGTR--
+200301003 Alzingen, Trapeneck   00805  00805                % 20085 RGTR--
+200303006 Hesperange, Urbengss  00806  00806                % 20085 RGTR--
+200303001 Hesperange, Am Kelle  00808  00808                % 20085 RGTR--
+200303007 Hesperange, Wollefsm  00809  00809                % 20085 RGTR--
+200304001 Howald, Am Houwaldsb  00810  00810                % 20085 RGTR--
+200304004 Howald, Jhangeli      00812  00812                % 20085 RGTR--
+200404028 Bonnevoie, Neufchâte  00813  00813                % 20085 RGTR--
+200404016 Bonnevoie, Hippodrom  00814  00814                % 20085 RGTR--
+200404008 Bonnevoie, Dernier S  00815  00815                % 20085 RGTR--
+200405036 Luxembourg, Gare Cen  00817                       % 20085 RGTR--
+*Z 20086 RGTR--                                             % 20086 RGTR--
+*L 424      210102003 200405036  00800  00847               % 20086 RGTR--
+*R 2 200405036 210102003 200405036  00800  00847            % 20086 RGTR--
+*G 063 210102003 200405036  00800  00847                    % 20086 RGTR--
+*A VE 210102003 200405036 000033  00800  00847              % 20086 RGTR--
+*I FD 210102003 200405036        0001944  00800  00847      % 20086 RGTR--
+210102003 Bous, Kapell                 00800                % 20086 RGTR--
+210102004 Bous, Kierch          00800  00800                % 20086 RGTR--
+210103001 Erpeldange/Bous, Krä  00804  00804                % 20086 RGTR--
+210103002 Erpeldange/Bous, Rol  00805  00805                % 20086 RGTR--
+210104001 Rolling/Bous          00806  00806                % 20086 RGTR--
+210101001 Assel                 00807  00807                % 20086 RGTR--
+210904001 Waldbredimus, Hanner  00810  00810                % 20086 RGTR--
+210904002 Waldbredimus, Kiirch  00810  00810                % 20086 RGTR--
+210905001 Gondelengermillen     00812  00812                % 20086 RGTR--
+210301004 Dalheim, Gemeng       00815  00815                % 20086 RGTR--
+210301001 Dalheim, Hossegaass   00816  00816                % 20086 RGTR--
+210302002 Filsdorf, Wäschbour   00820  00820                % 20086 RGTR--
+201101003 Hassel, Küneftchen    00824  00824                % 20086 RGTR--
+201101002 Hassel, Karmesch      00825  00825                % 20086 RGTR--
+201101001 Hassel, Dielchen      00826  00826                % 20086 RGTR--
+201103005 Weiler-la-Tour, Peke  00827  00827                % 20086 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00828  00828                % 20086 RGTR--
+201103003 Weiler-la-Tour, Hueh  00829  00829                % 20086 RGTR--
+201103004 Weiler-la-Tour, Schl  00831  00831                % 20086 RGTR--
+201103001 Weiler-la-Tour, Camp  00832  00832                % 20086 RGTR--
+200301002 Alzingen, Hondsbréck  00834  00834                % 20086 RGTR--
+200301003 Alzingen, Trapeneck   00835  00835                % 20086 RGTR--
+200303006 Hesperange, Urbengss  00836  00836                % 20086 RGTR--
+200303001 Hesperange, Am Kelle  00838  00838                % 20086 RGTR--
+200303007 Hesperange, Wollefsm  00839  00839                % 20086 RGTR--
+200304001 Howald, Am Houwaldsb  00840  00840                % 20086 RGTR--
+200304004 Howald, Jhangeli      00842  00842                % 20086 RGTR--
+200404028 Bonnevoie, Neufchâte  00843  00843                % 20086 RGTR--
+200404016 Bonnevoie, Hippodrom  00844  00844                % 20086 RGTR--
+200404008 Bonnevoie, Dernier S  00845  00845                % 20086 RGTR--
+200405036 Luxembourg, Gare Cen  00847                       % 20086 RGTR--
+*Z 20087 RGTR--                                             % 20087 RGTR--
+*L 424      210102003 200405036  00830  00917               % 20087 RGTR--
+*R 2 200405036 210102003 200405036  00830  00917            % 20087 RGTR--
+*G 063 210102003 200405036  00830  00917                    % 20087 RGTR--
+*A VE 210102003 200405036 000033  00830  00917              % 20087 RGTR--
+*I FD 210102003 200405036        0000890  00830  00917      % 20087 RGTR--
+210102003 Bous, Kapell                 00830                % 20087 RGTR--
+210102004 Bous, Kierch          00830  00830                % 20087 RGTR--
+210103001 Erpeldange/Bous, Krä  00834  00834                % 20087 RGTR--
+210103002 Erpeldange/Bous, Rol  00835  00835                % 20087 RGTR--
+210104001 Rolling/Bous          00836  00836                % 20087 RGTR--
+210101001 Assel                 00837  00837                % 20087 RGTR--
+210904001 Waldbredimus, Hanner  00840  00840                % 20087 RGTR--
+210904002 Waldbredimus, Kiirch  00840  00840                % 20087 RGTR--
+210905001 Gondelengermillen     00842  00842                % 20087 RGTR--
+210301004 Dalheim, Gemeng       00845  00845                % 20087 RGTR--
+210301001 Dalheim, Hossegaass   00846  00846                % 20087 RGTR--
+210302002 Filsdorf, Wäschbour   00850  00850                % 20087 RGTR--
+201101003 Hassel, Küneftchen    00854  00854                % 20087 RGTR--
+201101002 Hassel, Karmesch      00855  00855                % 20087 RGTR--
+201101001 Hassel, Dielchen      00856  00856                % 20087 RGTR--
+201103005 Weiler-la-Tour, Peke  00857  00857                % 20087 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00858  00858                % 20087 RGTR--
+201103003 Weiler-la-Tour, Hueh  00859  00859                % 20087 RGTR--
+201103004 Weiler-la-Tour, Schl  00901  00901                % 20087 RGTR--
+201103001 Weiler-la-Tour, Camp  00902  00902                % 20087 RGTR--
+200301002 Alzingen, Hondsbréck  00904  00904                % 20087 RGTR--
+200301003 Alzingen, Trapeneck   00905  00905                % 20087 RGTR--
+200303006 Hesperange, Urbengss  00906  00906                % 20087 RGTR--
+200303001 Hesperange, Am Kelle  00908  00908                % 20087 RGTR--
+200303007 Hesperange, Wollefsm  00909  00909                % 20087 RGTR--
+200304001 Howald, Am Houwaldsb  00910  00910                % 20087 RGTR--
+200304004 Howald, Jhangeli      00912  00912                % 20087 RGTR--
+200404028 Bonnevoie, Neufchâte  00913  00913                % 20087 RGTR--
+200404016 Bonnevoie, Hippodrom  00914  00914                % 20087 RGTR--
+200404008 Bonnevoie, Dernier S  00915  00915                % 20087 RGTR--
+200405036 Luxembourg, Gare Cen  00917                       % 20087 RGTR--
+*Z 20088 RGTR--                                             % 20088 RGTR--
+*L 424      210102003 200405036  00900  00947               % 20088 RGTR--
+*R 2 200405036 210102003 200405036  00900  00947            % 20088 RGTR--
+*G 063 210102003 200405036  00900  00947                    % 20088 RGTR--
+*A VE 210102003 200405036 000033  00900  00947              % 20088 RGTR--
+*I FD 210102003 200405036        0001949  00900  00947      % 20088 RGTR--
+210102003 Bous, Kapell                 00900                % 20088 RGTR--
+210102004 Bous, Kierch          00900  00900                % 20088 RGTR--
+210103001 Erpeldange/Bous, Krä  00904  00904                % 20088 RGTR--
+210103002 Erpeldange/Bous, Rol  00905  00905                % 20088 RGTR--
+210104001 Rolling/Bous          00906  00906                % 20088 RGTR--
+210101001 Assel                 00907  00907                % 20088 RGTR--
+210904001 Waldbredimus, Hanner  00910  00910                % 20088 RGTR--
+210904002 Waldbredimus, Kiirch  00910  00910                % 20088 RGTR--
+210905001 Gondelengermillen     00912  00912                % 20088 RGTR--
+210301004 Dalheim, Gemeng       00915  00915                % 20088 RGTR--
+210301001 Dalheim, Hossegaass   00916  00916                % 20088 RGTR--
+210302002 Filsdorf, Wäschbour   00920  00920                % 20088 RGTR--
+201101003 Hassel, Küneftchen    00924  00924                % 20088 RGTR--
+201101002 Hassel, Karmesch      00925  00925                % 20088 RGTR--
+201101001 Hassel, Dielchen      00926  00926                % 20088 RGTR--
+201103005 Weiler-la-Tour, Peke  00927  00927                % 20088 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00928  00928                % 20088 RGTR--
+201103003 Weiler-la-Tour, Hueh  00929  00929                % 20088 RGTR--
+201103004 Weiler-la-Tour, Schl  00931  00931                % 20088 RGTR--
+201103001 Weiler-la-Tour, Camp  00932  00932                % 20088 RGTR--
+200301002 Alzingen, Hondsbréck  00934  00934                % 20088 RGTR--
+200301003 Alzingen, Trapeneck   00935  00935                % 20088 RGTR--
+200303006 Hesperange, Urbengss  00936  00936                % 20088 RGTR--
+200303001 Hesperange, Am Kelle  00938  00938                % 20088 RGTR--
+200303007 Hesperange, Wollefsm  00939  00939                % 20088 RGTR--
+200304001 Howald, Am Houwaldsb  00940  00940                % 20088 RGTR--
+200304004 Howald, Jhangeli      00942  00942                % 20088 RGTR--
+200404028 Bonnevoie, Neufchâte  00943  00943                % 20088 RGTR--
+200404016 Bonnevoie, Hippodrom  00944  00944                % 20088 RGTR--
+200404008 Bonnevoie, Dernier S  00945  00945                % 20088 RGTR--
+200405036 Luxembourg, Gare Cen  00947                       % 20088 RGTR--
+*Z 20089 RGTR--                                             % 20089 RGTR--
+*L 424      210102003 200405036  01600  01647               % 20089 RGTR--
+*R 2 200405036 210102003 200405036  01600  01647            % 20089 RGTR--
+*G 063 210102003 200405036  01600  01647                    % 20089 RGTR--
+*A VE 210102003 200405036 000033  01600  01647              % 20089 RGTR--
+*I FD 210102003 200405036        0001945  01600  01647      % 20089 RGTR--
+210102003 Bous, Kapell                 01600                % 20089 RGTR--
+210102004 Bous, Kierch          01600  01600                % 20089 RGTR--
+210103001 Erpeldange/Bous, Krä  01604  01604                % 20089 RGTR--
+210103002 Erpeldange/Bous, Rol  01605  01605                % 20089 RGTR--
+210104001 Rolling/Bous          01606  01606                % 20089 RGTR--
+210101001 Assel                 01607  01607                % 20089 RGTR--
+210904001 Waldbredimus, Hanner  01610  01610                % 20089 RGTR--
+210904002 Waldbredimus, Kiirch  01610  01610                % 20089 RGTR--
+210905001 Gondelengermillen     01612  01612                % 20089 RGTR--
+210301004 Dalheim, Gemeng       01615  01615                % 20089 RGTR--
+210301001 Dalheim, Hossegaass   01616  01616                % 20089 RGTR--
+210302002 Filsdorf, Wäschbour   01620  01620                % 20089 RGTR--
+201101003 Hassel, Küneftchen    01624  01624                % 20089 RGTR--
+201101002 Hassel, Karmesch      01625  01625                % 20089 RGTR--
+201101001 Hassel, Dielchen      01626  01626                % 20089 RGTR--
+201103005 Weiler-la-Tour, Peke  01627  01627                % 20089 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01628  01628                % 20089 RGTR--
+201103003 Weiler-la-Tour, Hueh  01629  01629                % 20089 RGTR--
+201103004 Weiler-la-Tour, Schl  01631  01631                % 20089 RGTR--
+201103001 Weiler-la-Tour, Camp  01632  01632                % 20089 RGTR--
+200301002 Alzingen, Hondsbréck  01634  01634                % 20089 RGTR--
+200301003 Alzingen, Trapeneck   01635  01635                % 20089 RGTR--
+200303006 Hesperange, Urbengss  01636  01636                % 20089 RGTR--
+200303001 Hesperange, Am Kelle  01638  01638                % 20089 RGTR--
+200303007 Hesperange, Wollefsm  01639  01639                % 20089 RGTR--
+200304001 Howald, Am Houwaldsb  01640  01640                % 20089 RGTR--
+200304004 Howald, Jhangeli      01642  01642                % 20089 RGTR--
+200404028 Bonnevoie, Neufchâte  01643  01643                % 20089 RGTR--
+200404016 Bonnevoie, Hippodrom  01644  01644                % 20089 RGTR--
+200404008 Bonnevoie, Dernier S  01645  01645                % 20089 RGTR--
+200405036 Luxembourg, Gare Cen  01647                       % 20089 RGTR--
+*Z 20090 RGTR--                                             % 20090 RGTR--
+*L 424      210102003 200405036  01700  01747               % 20090 RGTR--
+*R 2 200405036 210102003 200405036  01700  01747            % 20090 RGTR--
+*G 063 210102003 200405036  01700  01747                    % 20090 RGTR--
+*A VE 210102003 200405036 000033  01700  01747              % 20090 RGTR--
+*I FD 210102003 200405036        0001950  01700  01747      % 20090 RGTR--
+210102003 Bous, Kapell                 01700                % 20090 RGTR--
+210102004 Bous, Kierch          01700  01700                % 20090 RGTR--
+210103001 Erpeldange/Bous, Krä  01704  01704                % 20090 RGTR--
+210103002 Erpeldange/Bous, Rol  01705  01705                % 20090 RGTR--
+210104001 Rolling/Bous          01706  01706                % 20090 RGTR--
+210101001 Assel                 01707  01707                % 20090 RGTR--
+210904001 Waldbredimus, Hanner  01710  01710                % 20090 RGTR--
+210904002 Waldbredimus, Kiirch  01710  01710                % 20090 RGTR--
+210905001 Gondelengermillen     01712  01712                % 20090 RGTR--
+210301004 Dalheim, Gemeng       01715  01715                % 20090 RGTR--
+210301001 Dalheim, Hossegaass   01716  01716                % 20090 RGTR--
+210302002 Filsdorf, Wäschbour   01720  01720                % 20090 RGTR--
+201101003 Hassel, Küneftchen    01724  01724                % 20090 RGTR--
+201101002 Hassel, Karmesch      01725  01725                % 20090 RGTR--
+201101001 Hassel, Dielchen      01726  01726                % 20090 RGTR--
+201103005 Weiler-la-Tour, Peke  01727  01727                % 20090 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01728  01728                % 20090 RGTR--
+201103003 Weiler-la-Tour, Hueh  01729  01729                % 20090 RGTR--
+201103004 Weiler-la-Tour, Schl  01731  01731                % 20090 RGTR--
+201103001 Weiler-la-Tour, Camp  01732  01732                % 20090 RGTR--
+200301002 Alzingen, Hondsbréck  01734  01734                % 20090 RGTR--
+200301003 Alzingen, Trapeneck   01735  01735                % 20090 RGTR--
+200303006 Hesperange, Urbengss  01736  01736                % 20090 RGTR--
+200303001 Hesperange, Am Kelle  01738  01738                % 20090 RGTR--
+200303007 Hesperange, Wollefsm  01739  01739                % 20090 RGTR--
+200304001 Howald, Am Houwaldsb  01740  01740                % 20090 RGTR--
+200304004 Howald, Jhangeli      01742  01742                % 20090 RGTR--
+200404028 Bonnevoie, Neufchâte  01743  01743                % 20090 RGTR--
+200404016 Bonnevoie, Hippodrom  01744  01744                % 20090 RGTR--
+200404008 Bonnevoie, Dernier S  01745  01745                % 20090 RGTR--
+200405036 Luxembourg, Gare Cen  01747                       % 20090 RGTR--
+*Z 20091 RGTR--                                             % 20091 RGTR--
+*L 424      210102003 200405036  01800  01847               % 20091 RGTR--
+*R 2 200405036 210102003 200405036  01800  01847            % 20091 RGTR--
+*G 063 210102003 200405036  01800  01847                    % 20091 RGTR--
+*A VE 210102003 200405036 000033  01800  01847              % 20091 RGTR--
+*I FD 210102003 200405036        0001946  01800  01847      % 20091 RGTR--
+210102003 Bous, Kapell                 01800                % 20091 RGTR--
+210102004 Bous, Kierch          01800  01800                % 20091 RGTR--
+210103001 Erpeldange/Bous, Krä  01804  01804                % 20091 RGTR--
+210103002 Erpeldange/Bous, Rol  01805  01805                % 20091 RGTR--
+210104001 Rolling/Bous          01806  01806                % 20091 RGTR--
+210101001 Assel                 01807  01807                % 20091 RGTR--
+210904001 Waldbredimus, Hanner  01810  01810                % 20091 RGTR--
+210904002 Waldbredimus, Kiirch  01810  01810                % 20091 RGTR--
+210905001 Gondelengermillen     01812  01812                % 20091 RGTR--
+210301004 Dalheim, Gemeng       01815  01815                % 20091 RGTR--
+210301001 Dalheim, Hossegaass   01816  01816                % 20091 RGTR--
+210302002 Filsdorf, Wäschbour   01820  01820                % 20091 RGTR--
+201101003 Hassel, Küneftchen    01824  01824                % 20091 RGTR--
+201101002 Hassel, Karmesch      01825  01825                % 20091 RGTR--
+201101001 Hassel, Dielchen      01826  01826                % 20091 RGTR--
+201103005 Weiler-la-Tour, Peke  01827  01827                % 20091 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01828  01828                % 20091 RGTR--
+201103003 Weiler-la-Tour, Hueh  01829  01829                % 20091 RGTR--
+201103004 Weiler-la-Tour, Schl  01831  01831                % 20091 RGTR--
+201103001 Weiler-la-Tour, Camp  01832  01832                % 20091 RGTR--
+200301002 Alzingen, Hondsbréck  01834  01834                % 20091 RGTR--
+200301003 Alzingen, Trapeneck   01835  01835                % 20091 RGTR--
+200303006 Hesperange, Urbengss  01836  01836                % 20091 RGTR--
+200303001 Hesperange, Am Kelle  01838  01838                % 20091 RGTR--
+200303007 Hesperange, Wollefsm  01839  01839                % 20091 RGTR--
+200304001 Howald, Am Houwaldsb  01840  01840                % 20091 RGTR--
+200304004 Howald, Jhangeli      01842  01842                % 20091 RGTR--
+200404028 Bonnevoie, Neufchâte  01843  01843                % 20091 RGTR--
+200404016 Bonnevoie, Hippodrom  01844  01844                % 20091 RGTR--
+200404008 Bonnevoie, Dernier S  01845  01845                % 20091 RGTR--
+200405036 Luxembourg, Gare Cen  01847                       % 20091 RGTR--
+*Z 20092 RGTR--                                             % 20092 RGTR--
+*L 424      210102003 200405036  01900  01947               % 20092 RGTR--
+*R 2 200405036 210102003 200405036  01900  01947            % 20092 RGTR--
+*G 063 210102003 200405036  01900  01947                    % 20092 RGTR--
+*A VE 210102003 200405036 000033  01900  01947              % 20092 RGTR--
+*I FD 210102003 200405036        0001951  01900  01947      % 20092 RGTR--
+210102003 Bous, Kapell                 01900                % 20092 RGTR--
+210102004 Bous, Kierch          01900  01900                % 20092 RGTR--
+210103001 Erpeldange/Bous, Krä  01904  01904                % 20092 RGTR--
+210103002 Erpeldange/Bous, Rol  01905  01905                % 20092 RGTR--
+210104001 Rolling/Bous          01906  01906                % 20092 RGTR--
+210101001 Assel                 01907  01907                % 20092 RGTR--
+210904001 Waldbredimus, Hanner  01910  01910                % 20092 RGTR--
+210904002 Waldbredimus, Kiirch  01910  01910                % 20092 RGTR--
+210905001 Gondelengermillen     01912  01912                % 20092 RGTR--
+210301004 Dalheim, Gemeng       01915  01915                % 20092 RGTR--
+210301001 Dalheim, Hossegaass   01916  01916                % 20092 RGTR--
+210302002 Filsdorf, Wäschbour   01920  01920                % 20092 RGTR--
+201101003 Hassel, Küneftchen    01924  01924                % 20092 RGTR--
+201101002 Hassel, Karmesch      01925  01925                % 20092 RGTR--
+201101001 Hassel, Dielchen      01926  01926                % 20092 RGTR--
+201103005 Weiler-la-Tour, Peke  01927  01927                % 20092 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01928  01928                % 20092 RGTR--
+201103003 Weiler-la-Tour, Hueh  01929  01929                % 20092 RGTR--
+201103004 Weiler-la-Tour, Schl  01931  01931                % 20092 RGTR--
+201103001 Weiler-la-Tour, Camp  01932  01932                % 20092 RGTR--
+200301002 Alzingen, Hondsbréck  01934  01934                % 20092 RGTR--
+200301003 Alzingen, Trapeneck   01935  01935                % 20092 RGTR--
+200303006 Hesperange, Urbengss  01936  01936                % 20092 RGTR--
+200303001 Hesperange, Am Kelle  01938  01938                % 20092 RGTR--
+200303007 Hesperange, Wollefsm  01939  01939                % 20092 RGTR--
+200304001 Howald, Am Houwaldsb  01940  01940                % 20092 RGTR--
+200304004 Howald, Jhangeli      01942  01942                % 20092 RGTR--
+200404028 Bonnevoie, Neufchâte  01943  01943                % 20092 RGTR--
+200404016 Bonnevoie, Hippodrom  01944  01944                % 20092 RGTR--
+200404008 Bonnevoie, Dernier S  01945  01945                % 20092 RGTR--
+200405036 Luxembourg, Gare Cen  01947                       % 20092 RGTR--

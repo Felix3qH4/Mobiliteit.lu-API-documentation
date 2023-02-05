@@ -1,0 +1,109 @@
+*F 03 2
+*Z 18139 RGTR--                                             % 18139 RGTR--
+*L C04      170302001 180511008  00707  00745               % 18139 RGTR--
+*A cj 170302001 180511008 000042  00707  00745              % 18139 RGTR--
+*A ad 170302001 180511008 000042  00707  00745              % 18139 RGTR--
+*R 1 180511008 170302001 180511008  00707  00745            % 18139 RGTR--
+*G 050 170302001 180511008  00707  00745                    % 18139 RGTR--
+*A VE 170302001 180511008 000042  00707  00745              % 18139 RGTR--
+*I FD 170302001 180511008        0002666  00707  00745      % 18139 RGTR--
+170302001 Bollendorf, Gare             00707                % 18139 RGTR--
+170302003 Bollendorf-Pont, Pon  00707  00707                % 18139 RGTR--
+170302002 Bollendorf-Pont, Ham  00708  00708                % 18139 RGTR--
+170304001 Weilerbach, Laufenwe  00709  00709                % 18139 RGTR--
+170304002 Weilerbach            00711  00711                % 18139 RGTR--
+170501002 Echternach, Bel Air   00713  00713                % 18139 RGTR--
+170301003 Berdorf, Hôtel Perek  00716  00716                % 18139 RGTR--
+170301002 Berdorf, Hotel Herbe  00717  00717                % 18139 RGTR--
+170301004 Berdorf, Duerfplaz    00718  00718                % 18139 RGTR--
+170301001 Berdorf, Bif. Heisbi  00719  00719                % 18139 RGTR--
+170305001 Bif. Kalkesbach       00721  00721                % 18139 RGTR--
+170402004 Consdorf, Melickshec  00723  00723                % 18139 RGTR--
+170402003 Consdorf, Kraizstroo  00724  00724                % 18139 RGTR--
+170402002 Consdorf, Haenricht   00725  00725                % 18139 RGTR--
+170402005 Consdorf, Post        00726  00726                % 18139 RGTR--
+170402001 Consdorf, Gare        00727  00727                % 18139 RGTR--
+170403002 Scheidgen, Hotschent  00729  00729                % 18139 RGTR--
+170403003 Scheidgen, Veräinsba  00730  00730                % 18139 RGTR--
+180511008 Junglinster, Lënster  00745                       % 18139 RGTR--
+*Z 18140 RGTR--                                             % 18140 RGTR--
+*L C04      180511008 170302001  01610  01649               % 18140 RGTR--
+*A cj 180511008 170302001 000312  01610  01649              % 18140 RGTR--
+*A ad 180511008 170302001 000312  01610  01649              % 18140 RGTR--
+*R 2 170302001 180511008 170302001  01610  01649            % 18140 RGTR--
+*G 050 180511008 170302001  01610  01649                    % 18140 RGTR--
+*A VE 180511008 170302001 000312  01610  01649              % 18140 RGTR--
+*I FD 180511008 170302001        0001997  01610  01649      % 18140 RGTR--
+180511008 Junglinster, Lënster         01610                % 18140 RGTR--
+170403003 Scheidgen, Veräinsba  01625  01625                % 18140 RGTR--
+170403002 Scheidgen, Hotschent  01625  01625                % 18140 RGTR--
+170402001 Consdorf, Gare        01628  01628                % 18140 RGTR--
+170402005 Consdorf, Post        01629  01629                % 18140 RGTR--
+170402002 Consdorf, Haenricht   01631  01631                % 18140 RGTR--
+170402003 Consdorf, Kraizstroo  01632  01632                % 18140 RGTR--
+170402004 Consdorf, Melickshec  01633  01633                % 18140 RGTR--
+170305001 Bif. Kalkesbach       01635  01635                % 18140 RGTR--
+170301001 Berdorf, Bif. Heisbi  01637  01637                % 18140 RGTR--
+170301004 Berdorf, Duerfplaz    01638  01638                % 18140 RGTR--
+170301002 Berdorf, Hotel Herbe  01638  01638                % 18140 RGTR--
+170301003 Berdorf, Hôtel Perek  01639  01639                % 18140 RGTR--
+170501002 Echternach, Bel Air   01642  01642                % 18140 RGTR--
+170304002 Weilerbach            01645  01645                % 18140 RGTR--
+170304001 Weilerbach, Laufenwe  01646  01646                % 18140 RGTR--
+170302002 Bollendorf-Pont, Ham  01647  01647                % 18140 RGTR--
+170302003 Bollendorf-Pont, Pon  01648  01648                % 18140 RGTR--
+170302001 Bollendorf, Gare      01649                       % 18140 RGTR--
+*Z 18141 RGTR--                                             % 18141 RGTR--
+*L C04      180511008 170302001  01145  01222               % 18141 RGTR--
+*A cj 180511008 170302001 000007  01145  01222              % 18141 RGTR--
+*A ad 180511008 170302001 000007  01145  01222              % 18141 RGTR--
+*R 2 170302001 180511008 170302001  01145  01222            % 18141 RGTR--
+*G 050 180511008 170302001  01145  01222                    % 18141 RGTR--
+*A VE 180511008 170302001 000007  01145  01222              % 18141 RGTR--
+*I FD 180511008 170302001        0002343  01145  01222      % 18141 RGTR--
+180511008 Junglinster, Lënster         01145                % 18141 RGTR--
+170403003 Scheidgen, Veräinsba  01200  01200                % 18141 RGTR--
+170403002 Scheidgen, Hotschent  01200  01200                % 18141 RGTR--
+170402001 Consdorf, Gare        01203  01203                % 18141 RGTR--
+170402005 Consdorf, Post        01204  01204                % 18141 RGTR--
+170402002 Consdorf, Haenricht   01205  01205                % 18141 RGTR--
+170402003 Consdorf, Kraizstroo  01206  01206                % 18141 RGTR--
+170402004 Consdorf, Melickshec  01207  01207                % 18141 RGTR--
+170305001 Bif. Kalkesbach       01208  01208                % 18141 RGTR--
+170301001 Berdorf, Bif. Heisbi  01210  01210                % 18141 RGTR--
+170301004 Berdorf, Duerfplaz    01211  01211                % 18141 RGTR--
+170301002 Berdorf, Hotel Herbe  01212  01212                % 18141 RGTR--
+170301003 Berdorf, Hôtel Perek  01213  01213                % 18141 RGTR--
+170501002 Echternach, Bel Air   01216  01216                % 18141 RGTR--
+170304002 Weilerbach            01219  01219                % 18141 RGTR--
+170304001 Weilerbach, Laufenwe  01220  01220                % 18141 RGTR--
+170302002 Bollendorf-Pont, Ham  01221  01221                % 18141 RGTR--
+170302003 Bollendorf-Pont, Pon  01222  01222                % 18141 RGTR--
+170302001 Bollendorf, Gare      01222                       % 18141 RGTR--
+*Z 18142 RGTR--                                             % 18142 RGTR--
+*L C04      180511008 170302001  01415  01452               % 18142 RGTR--
+*A cj 180511008 170302001 000046  01415  01452              % 18142 RGTR--
+*A ad 180511008 170302001 000046  01415  01452              % 18142 RGTR--
+*R 2 170302001 180511008 170302001  01415  01452            % 18142 RGTR--
+*G 050 180511008 170302001  01415  01452                    % 18142 RGTR--
+*A VE 180511008 170302001 000046  01415  01452              % 18142 RGTR--
+*I FD 180511008 170302001        0002055  01415  01452      % 18142 RGTR--
+180511008 Junglinster, Lënster         01415                % 18142 RGTR--
+170403003 Scheidgen, Veräinsba  01430  01430                % 18142 RGTR--
+170403002 Scheidgen, Hotschent  01430  01430                % 18142 RGTR--
+170402001 Consdorf, Gare        01433  01433                % 18142 RGTR--
+170402005 Consdorf, Post        01434  01434                % 18142 RGTR--
+170402002 Consdorf, Haenricht   01435  01435                % 18142 RGTR--
+170402003 Consdorf, Kraizstroo  01436  01436                % 18142 RGTR--
+170402004 Consdorf, Melickshec  01437  01437                % 18142 RGTR--
+170305001 Bif. Kalkesbach       01438  01438                % 18142 RGTR--
+170301001 Berdorf, Bif. Heisbi  01440  01440                % 18142 RGTR--
+170301004 Berdorf, Duerfplaz    01441  01441                % 18142 RGTR--
+170301002 Berdorf, Hotel Herbe  01442  01442                % 18142 RGTR--
+170301003 Berdorf, Hôtel Perek  01443  01443                % 18142 RGTR--
+170501002 Echternach, Bel Air   01446  01446                % 18142 RGTR--
+170304002 Weilerbach            01449  01449                % 18142 RGTR--
+170304001 Weilerbach, Laufenwe  01450  01450                % 18142 RGTR--
+170302002 Bollendorf-Pont, Ham  01451  01451                % 18142 RGTR--
+170302003 Bollendorf-Pont, Pon  01452  01452                % 18142 RGTR--
+170302001 Bollendorf, Gare      01452                       % 18142 RGTR--

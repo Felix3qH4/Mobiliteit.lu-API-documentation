@@ -1,0 +1,109 @@
+*F 03 2
+*Z 18203 RGTR--                                             % 18203 RGTR--
+*L D02      200420006 200504011  01250  01322               % 18203 RGTR--
+*A cj 200420006 200504011 000046  01250  01322              % 18203 RGTR--
+*A ad 200420006 200504011 000046  01250  01322              % 18203 RGTR--
+*R 1 200504011 200420006 200504011  01250  01322            % 18203 RGTR--
+*G 050 200420006 200504011  01250  01322                    % 18203 RGTR--
+*A VE 200420006 200504011 000046  01250  01322              % 18203 RGTR--
+*I FD 200420006 200504011        0002070  01250  01322      % 18203 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 18203 RGTR--
+200508007 Senningerberg, Laang  01307  01307                % 18203 RGTR--
+200508008 Senningerberg, Mënst  01307  01307                % 18203 RGTR--
+200507001 Senningen, Duerfplaz  01310  01310                % 18203 RGTR--
+200507003 Senningen, Um Kiem    01311  01311                % 18203 RGTR--
+200507002 Senningen, Kierch     01311  01311                % 18203 RGTR--
+200504006 Niederanven, Routsch  01312  01312                % 18203 RGTR--
+200504002 Niederanven, Laach    01312  01312                % 18203 RGTR--
+200504005 Niederanven, Op de W  01313  01313                % 18203 RGTR--
+200505003 Oberanven, Routstrac  01314  01314                % 18203 RGTR--
+200505001 Oberanven, Fielsenha  01314  01314                % 18203 RGTR--
+200505005 Oberanven, Rue Schet  01315  01315                % 18203 RGTR--
+200505004 Oberanven, rue d'Ern  01315  01315                % 18203 RGTR--
+200506005 Rameldange, Bounert   01316  01316                % 18203 RGTR--
+200506002 Rameldange, Rëtsch    01316  01316                % 18203 RGTR--
+200503003 Hostert, Am Bruch     01320  01320                % 18203 RGTR--
+200503002 Hostert, Kierfecht    01320  01320                % 18203 RGTR--
+200504012 Hostert, Binnewee     01321  01321                % 18203 RGTR--
+200504011 Hostert, Betzberg     01322                       % 18203 RGTR--
+*Z 18204 RGTR--                                             % 18204 RGTR--
+*L D02      200420006 200504011  01425  01457               % 18204 RGTR--
+*A cj 200420006 200504011 000042  01425  01457              % 18204 RGTR--
+*A ad 200420006 200504011 000042  01425  01457              % 18204 RGTR--
+*R 1 200504011 200420006 200504011  01425  01457            % 18204 RGTR--
+*G 050 200420006 200504011  01425  01457                    % 18204 RGTR--
+*A VE 200420006 200504011 000042  01425  01457              % 18204 RGTR--
+*I FD 200420006 200504011        0002197  01425  01457      % 18204 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 18204 RGTR--
+200508007 Senningerberg, Laang  01442  01442                % 18204 RGTR--
+200508008 Senningerberg, Mënst  01442  01442                % 18204 RGTR--
+200507001 Senningen, Duerfplaz  01445  01445                % 18204 RGTR--
+200507003 Senningen, Um Kiem    01446  01446                % 18204 RGTR--
+200507002 Senningen, Kierch     01446  01446                % 18204 RGTR--
+200504006 Niederanven, Routsch  01447  01447                % 18204 RGTR--
+200504002 Niederanven, Laach    01447  01447                % 18204 RGTR--
+200504005 Niederanven, Op de W  01448  01448                % 18204 RGTR--
+200505003 Oberanven, Routstrac  01449  01449                % 18204 RGTR--
+200505001 Oberanven, Fielsenha  01449  01449                % 18204 RGTR--
+200505005 Oberanven, Rue Schet  01450  01450                % 18204 RGTR--
+200505004 Oberanven, rue d'Ern  01450  01450                % 18204 RGTR--
+200506005 Rameldange, Bounert   01451  01451                % 18204 RGTR--
+200506002 Rameldange, Rëtsch    01451  01451                % 18204 RGTR--
+200503003 Hostert, Am Bruch     01455  01455                % 18204 RGTR--
+200503002 Hostert, Kierfecht    01455  01455                % 18204 RGTR--
+200504012 Hostert, Binnewee     01456  01456                % 18204 RGTR--
+200504011 Hostert, Betzberg     01457                       % 18204 RGTR--
+*Z 18205 RGTR--                                             % 18205 RGTR--
+*L D02      200420006 200504011  01550  01624               % 18205 RGTR--
+*A cj 200420006 200504011 000047  01550  01624              % 18205 RGTR--
+*A ad 200420006 200504011 000047  01550  01624              % 18205 RGTR--
+*R 1 200504011 200420006 200504011  01550  01624            % 18205 RGTR--
+*G 050 200420006 200504011  01550  01624                    % 18205 RGTR--
+*A VE 200420006 200504011 000047  01550  01624              % 18205 RGTR--
+*I FD 200420006 200504011        0002073  01550  01624      % 18205 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 18205 RGTR--
+200508007 Senningerberg, Laang  01607  01607                % 18205 RGTR--
+200508008 Senningerberg, Mënst  01607  01607                % 18205 RGTR--
+200507001 Senningen, Duerfplaz  01610  01610                % 18205 RGTR--
+200507003 Senningen, Um Kiem    01611  01611                % 18205 RGTR--
+200507002 Senningen, Kierch     01612  01612                % 18205 RGTR--
+200504006 Niederanven, Routsch  01613  01613                % 18205 RGTR--
+200504002 Niederanven, Laach    01613  01613                % 18205 RGTR--
+200504005 Niederanven, Op de W  01614  01614                % 18205 RGTR--
+200505003 Oberanven, Routstrac  01615  01615                % 18205 RGTR--
+200505001 Oberanven, Fielsenha  01615  01615                % 18205 RGTR--
+200505005 Oberanven, Rue Schet  01616  01616                % 18205 RGTR--
+200505004 Oberanven, rue d'Ern  01617  01617                % 18205 RGTR--
+200506005 Rameldange, Bounert   01617  01617                % 18205 RGTR--
+200506002 Rameldange, Rëtsch    01618  01618                % 18205 RGTR--
+200503003 Hostert, Am Bruch     01622  01622                % 18205 RGTR--
+200503002 Hostert, Kierfecht    01622  01622                % 18205 RGTR--
+200504012 Hostert, Binnewee     01623  01623                % 18205 RGTR--
+200504011 Hostert, Betzberg     01624                       % 18205 RGTR--
+*Z 18206 RGTR--                                             % 18206 RGTR--
+*L D02      200504011 200420006  00703  00740               % 18206 RGTR--
+*A cj 200504011 200420006 000042  00703  00740              % 18206 RGTR--
+*A ad 200504011 200420006 000042  00703  00740              % 18206 RGTR--
+*R 2 200420006 200504011 200420006  00703  00740            % 18206 RGTR--
+*G 050 200504011 200420006  00703  00740                    % 18206 RGTR--
+*A VE 200504011 200420006 000042  00703  00740              % 18206 RGTR--
+*I FD 200504011 200420006        0002734  00703  00740      % 18206 RGTR--
+200504011 Hostert, Betzberg            00703                % 18206 RGTR--
+200504012 Hostert, Binnewee     00703  00703                % 18206 RGTR--
+200503002 Hostert, Kierfecht    00704  00704                % 18206 RGTR--
+200503003 Hostert, Am Bruch     00705  00705                % 18206 RGTR--
+200506002 Rameldange, Rëtsch    00708  00708                % 18206 RGTR--
+200506005 Rameldange, Bounert   00709  00709                % 18206 RGTR--
+200505004 Oberanven, rue d'Ern  00710  00710                % 18206 RGTR--
+200505005 Oberanven, Rue Schet  00710  00710                % 18206 RGTR--
+200505001 Oberanven, Fielsenha  00711  00711                % 18206 RGTR--
+200505003 Oberanven, Routstrac  00712  00712                % 18206 RGTR--
+200504005 Niederanven, Op de W  00713  00713                % 18206 RGTR--
+200504002 Niederanven, Laach    00714  00714                % 18206 RGTR--
+200504006 Niederanven, Routsch  00715  00715                % 18206 RGTR--
+200507002 Senningen, Kierch     00715  00715                % 18206 RGTR--
+200507003 Senningen, Um Kiem    00716  00716                % 18206 RGTR--
+200507001 Senningen, Duerfplaz  00717  00717                % 18206 RGTR--
+200508008 Senningerberg, Mënst  00721  00721                % 18206 RGTR--
+200508007 Senningerberg, Laang  00721  00721                % 18206 RGTR--
+200420006 Merl, Geesseknäppche  00740                       % 18206 RGTR--

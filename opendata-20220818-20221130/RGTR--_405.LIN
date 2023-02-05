@@ -1,0 +1,745 @@
+*F 03 2
+*Z 06185 RGTR--                                             % 06185 RGTR--
+*L 405      500000073 200417048  00505  00637               % 06185 RGTR--
+*R 1 200417048 500000073 200417048  00505  00637            % 06185 RGTR--
+*G 050 500000073 200417048  00505  00637                    % 06185 RGTR--
+*A VE 500000073 200417048 000033  00505  00637              % 06185 RGTR--
+*I FD 500000073 200417048        0002708  00505  00637      % 06185 RGTR--
+500000073 Saarlouis, Kleiner M         00505                % 06185 RGTR--
+500000010 Dillingen (Saar), Ei -00515  00515                % 06185 RGTR--
+500000033 Merzig, Bahnhof      -00533  00533                % 06185 RGTR--
+500000113 Merzig, Hilbringer B -00536  00536                % 06185 RGTR--
+200417040 Kirchberg, Hugo Gern  00631 -00631                % 06185 RGTR--
+200417039 Kirchberg, Avalon     00634 -00634                % 06185 RGTR--
+200417019 Kirchberg, Konrad Ad  00635 -00635                % 06185 RGTR--
+200417005 Kirchberg, Antoine d  00636 -00636                % 06185 RGTR--
+200417048 Kirchberg, Europe Ga  00637                       % 06185 RGTR--
+*Z 06186 RGTR--                                             % 06186 RGTR--
+*L 405      500000073 200417048  00835  01007               % 06186 RGTR--
+*R 1 200417048 500000073 200417048  00835  01007            % 06186 RGTR--
+*G 050 500000073 200417048  00835  01007                    % 06186 RGTR--
+*A VE 500000073 200417048 000033  00835  01007              % 06186 RGTR--
+*I FD 500000073 200417048        0002002  00835  01007      % 06186 RGTR--
+500000073 Saarlouis, Kleiner M         00835                % 06186 RGTR--
+500000010 Dillingen (Saar), Ei -00845  00845                % 06186 RGTR--
+500000033 Merzig, Bahnhof      -00903  00903                % 06186 RGTR--
+500000113 Merzig, Hilbringer B -00906  00906                % 06186 RGTR--
+200417040 Kirchberg, Hugo Gern  01001 -01001                % 06186 RGTR--
+200417039 Kirchberg, Avalon     01004 -01004                % 06186 RGTR--
+200417019 Kirchberg, Konrad Ad  01005 -01005                % 06186 RGTR--
+200417005 Kirchberg, Antoine d  01006 -01006                % 06186 RGTR--
+200417048 Kirchberg, Europe Ga  01007                       % 06186 RGTR--
+*Z 06187 RGTR--                                             % 06187 RGTR--
+*L 405      500000073 200417048  00905  01037               % 06187 RGTR--
+*R 1 200417048 500000073 200417048  00905  01037            % 06187 RGTR--
+*G 050 500000073 200417048  00905  01037                    % 06187 RGTR--
+*A VE 500000073 200417048 000033  00905  01037              % 06187 RGTR--
+*I FD 500000073 200417048        0002020  00905  01037      % 06187 RGTR--
+500000073 Saarlouis, Kleiner M         00905                % 06187 RGTR--
+500000010 Dillingen (Saar), Ei -00915  00915                % 06187 RGTR--
+500000033 Merzig, Bahnhof      -00933  00933                % 06187 RGTR--
+500000113 Merzig, Hilbringer B -00936  00936                % 06187 RGTR--
+200417040 Kirchberg, Hugo Gern  01031 -01031                % 06187 RGTR--
+200417039 Kirchberg, Avalon     01034 -01034                % 06187 RGTR--
+200417019 Kirchberg, Konrad Ad  01035 -01035                % 06187 RGTR--
+200417005 Kirchberg, Antoine d  01036 -01036                % 06187 RGTR--
+200417048 Kirchberg, Europe Ga  01037                       % 06187 RGTR--
+*Z 06188 RGTR--                                             % 06188 RGTR--
+*L 405      500000073 200417048  01605  01737               % 06188 RGTR--
+*R 1 200417048 500000073 200417048  01605  01737            % 06188 RGTR--
+*G 050 500000073 200417048  01605  01737                    % 06188 RGTR--
+*A VE 500000073 200417048 000033  01605  01737              % 06188 RGTR--
+*I FD 500000073 200417048        0002031  01605  01737      % 06188 RGTR--
+500000073 Saarlouis, Kleiner M         01605                % 06188 RGTR--
+500000010 Dillingen (Saar), Ei -01615  01615                % 06188 RGTR--
+500000033 Merzig, Bahnhof      -01633  01633                % 06188 RGTR--
+500000113 Merzig, Hilbringer B -01636  01636                % 06188 RGTR--
+200417040 Kirchberg, Hugo Gern  01731 -01731                % 06188 RGTR--
+200417039 Kirchberg, Avalon     01734 -01734                % 06188 RGTR--
+200417019 Kirchberg, Konrad Ad  01735 -01735                % 06188 RGTR--
+200417005 Kirchberg, Antoine d  01736 -01736                % 06188 RGTR--
+200417048 Kirchberg, Europe Ga  01737                       % 06188 RGTR--
+*Z 06189 RGTR--                                             % 06189 RGTR--
+*L 405      500000073 200417048  01705  01837               % 06189 RGTR--
+*R 1 200417048 500000073 200417048  01705  01837            % 06189 RGTR--
+*G 050 500000073 200417048  01705  01837                    % 06189 RGTR--
+*A VE 500000073 200417048 000033  01705  01837              % 06189 RGTR--
+*I FD 500000073 200417048        0002032  01705  01837      % 06189 RGTR--
+500000073 Saarlouis, Kleiner M         01705                % 06189 RGTR--
+500000010 Dillingen (Saar), Ei -01715  01715                % 06189 RGTR--
+500000033 Merzig, Bahnhof      -01733  01733                % 06189 RGTR--
+500000113 Merzig, Hilbringer B -01736  01736                % 06189 RGTR--
+200417040 Kirchberg, Hugo Gern  01831 -01831                % 06189 RGTR--
+200417039 Kirchberg, Avalon     01834 -01834                % 06189 RGTR--
+200417019 Kirchberg, Konrad Ad  01835 -01835                % 06189 RGTR--
+200417005 Kirchberg, Antoine d  01836 -01836                % 06189 RGTR--
+200417048 Kirchberg, Europe Ga  01837                       % 06189 RGTR--
+*Z 06190 RGTR--                                             % 06190 RGTR--
+*L 405      500000073 200417048  01805  01937               % 06190 RGTR--
+*R 1 200417048 500000073 200417048  01805  01937            % 06190 RGTR--
+*G 050 500000073 200417048  01805  01937                    % 06190 RGTR--
+*A VE 500000073 200417048 000033  01805  01937              % 06190 RGTR--
+*I FD 500000073 200417048        0002033  01805  01937      % 06190 RGTR--
+500000073 Saarlouis, Kleiner M         01805                % 06190 RGTR--
+500000010 Dillingen (Saar), Ei -01815  01815                % 06190 RGTR--
+500000033 Merzig, Bahnhof      -01833  01833                % 06190 RGTR--
+500000113 Merzig, Hilbringer B -01836  01836                % 06190 RGTR--
+200417040 Kirchberg, Hugo Gern  01931 -01931                % 06190 RGTR--
+200417039 Kirchberg, Avalon     01934 -01934                % 06190 RGTR--
+200417019 Kirchberg, Konrad Ad  01935 -01935                % 06190 RGTR--
+200417005 Kirchberg, Antoine d  01936 -01936                % 06190 RGTR--
+200417048 Kirchberg, Europe Ga  01937                       % 06190 RGTR--
+*Z 06191 RGTR--                                             % 06191 RGTR--
+*L 405      500000073 200417048  01905  02037               % 06191 RGTR--
+*R 1 200417048 500000073 200417048  01905  02037            % 06191 RGTR--
+*G 050 500000073 200417048  01905  02037                    % 06191 RGTR--
+*A VE 500000073 200417048 000033  01905  02037              % 06191 RGTR--
+*I FD 500000073 200417048        0002012  01905  02037      % 06191 RGTR--
+500000073 Saarlouis, Kleiner M         01905                % 06191 RGTR--
+500000010 Dillingen (Saar), Ei -01915  01915                % 06191 RGTR--
+500000033 Merzig, Bahnhof      -01933  01933                % 06191 RGTR--
+500000113 Merzig, Hilbringer B -01936  01936                % 06191 RGTR--
+200417040 Kirchberg, Hugo Gern  02031 -02031                % 06191 RGTR--
+200417039 Kirchberg, Avalon     02034 -02034                % 06191 RGTR--
+200417019 Kirchberg, Konrad Ad  02035 -02035                % 06191 RGTR--
+200417005 Kirchberg, Antoine d  02036 -02036                % 06191 RGTR--
+200417048 Kirchberg, Europe Ga  02037                       % 06191 RGTR--
+*Z 06192 RGTR--                                             % 06192 RGTR--
+*L 405      500000073 200417048  00605  00741               % 06192 RGTR--
+*R 1 200417048 500000073 200417048  00605  00741            % 06192 RGTR--
+*G 050 500000073 200417048  00605  00741                    % 06192 RGTR--
+*A VE 500000073 200417048 000033  00605  00741              % 06192 RGTR--
+*I FD 500000073 200417048        0002026  00605  00741      % 06192 RGTR--
+500000073 Saarlouis, Kleiner M         00605                % 06192 RGTR--
+500000010 Dillingen (Saar), Ei -00615  00615                % 06192 RGTR--
+500000033 Merzig, Bahnhof      -00633  00633                % 06192 RGTR--
+500000113 Merzig, Hilbringer B -00637  00637                % 06192 RGTR--
+200417040 Kirchberg, Hugo Gern  00734 -00734                % 06192 RGTR--
+200417039 Kirchberg, Avalon     00738 -00738                % 06192 RGTR--
+200417019 Kirchberg, Konrad Ad  00739 -00739                % 06192 RGTR--
+200417005 Kirchberg, Antoine d  00740 -00740                % 06192 RGTR--
+200417048 Kirchberg, Europe Ga  00741                       % 06192 RGTR--
+*Z 06193 RGTR--                                             % 06193 RGTR--
+*L 405      500000073 200417048  00635  00811               % 06193 RGTR--
+*R 1 200417048 500000073 200417048  00635  00811            % 06193 RGTR--
+*G 050 500000073 200417048  00635  00811                    % 06193 RGTR--
+*A VE 500000073 200417048 000033  00635  00811              % 06193 RGTR--
+*I FD 500000073 200417048        0002019  00635  00811      % 06193 RGTR--
+500000073 Saarlouis, Kleiner M         00635                % 06193 RGTR--
+500000010 Dillingen (Saar), Ei -00645  00645                % 06193 RGTR--
+500000033 Merzig, Bahnhof      -00703  00703                % 06193 RGTR--
+500000113 Merzig, Hilbringer B -00707  00707                % 06193 RGTR--
+200417040 Kirchberg, Hugo Gern  00804 -00804                % 06193 RGTR--
+200417039 Kirchberg, Avalon     00808 -00808                % 06193 RGTR--
+200417019 Kirchberg, Konrad Ad  00809 -00809                % 06193 RGTR--
+200417005 Kirchberg, Antoine d  00810 -00810                % 06193 RGTR--
+200417048 Kirchberg, Europe Ga  00811                       % 06193 RGTR--
+*Z 06194 RGTR--                                             % 06194 RGTR--
+*L 405      500000073 200417048  00700  00836               % 06194 RGTR--
+*R 1 200417048 500000073 200417048  00700  00836            % 06194 RGTR--
+*G 050 500000073 200417048  00700  00836                    % 06194 RGTR--
+*A VE 500000073 200417048 000033  00700  00836              % 06194 RGTR--
+*I FD 500000073 200417048        0001729  00700  00836      % 06194 RGTR--
+500000073 Saarlouis, Kleiner M         00700                % 06194 RGTR--
+500000010 Dillingen (Saar), Ei -00710  00710                % 06194 RGTR--
+500000033 Merzig, Bahnhof      -00728  00728                % 06194 RGTR--
+500000113 Merzig, Hilbringer B -00732  00732                % 06194 RGTR--
+200417040 Kirchberg, Hugo Gern  00829 -00829                % 06194 RGTR--
+200417039 Kirchberg, Avalon     00833 -00833                % 06194 RGTR--
+200417019 Kirchberg, Konrad Ad  00834 -00834                % 06194 RGTR--
+200417005 Kirchberg, Antoine d  00835 -00835                % 06194 RGTR--
+200417048 Kirchberg, Europe Ga  00836                       % 06194 RGTR--
+*Z 06195 RGTR--                                             % 06195 RGTR--
+*L 405      500000073 200417048  00735  00911               % 06195 RGTR--
+*R 1 200417048 500000073 200417048  00735  00911            % 06195 RGTR--
+*G 050 500000073 200417048  00735  00911                    % 06195 RGTR--
+*A VE 500000073 200417048 000033  00735  00911              % 06195 RGTR--
+*I FD 500000073 200417048        0002000  00735  00911      % 06195 RGTR--
+500000073 Saarlouis, Kleiner M         00735                % 06195 RGTR--
+500000010 Dillingen (Saar), Ei -00745  00745                % 06195 RGTR--
+500000033 Merzig, Bahnhof      -00803  00803                % 06195 RGTR--
+500000113 Merzig, Hilbringer B -00807  00807                % 06195 RGTR--
+200417040 Kirchberg, Hugo Gern  00904 -00904                % 06195 RGTR--
+200417039 Kirchberg, Avalon     00908 -00908                % 06195 RGTR--
+200417019 Kirchberg, Konrad Ad  00909 -00909                % 06195 RGTR--
+200417005 Kirchberg, Antoine d  00910 -00910                % 06195 RGTR--
+200417048 Kirchberg, Europe Ga  00911                       % 06195 RGTR--
+*Z 06196 RGTR--                                             % 06196 RGTR--
+*L 405      500000073 200417048  00805  00941               % 06196 RGTR--
+*R 1 200417048 500000073 200417048  00805  00941            % 06196 RGTR--
+*G 050 500000073 200417048  00805  00941                    % 06196 RGTR--
+*A VE 500000073 200417048 000033  00805  00941              % 06196 RGTR--
+*I FD 500000073 200417048        0002001  00805  00941      % 06196 RGTR--
+500000073 Saarlouis, Kleiner M         00805                % 06196 RGTR--
+500000010 Dillingen (Saar), Ei -00815  00815                % 06196 RGTR--
+500000033 Merzig, Bahnhof      -00833  00833                % 06196 RGTR--
+500000113 Merzig, Hilbringer B -00837  00837                % 06196 RGTR--
+200417040 Kirchberg, Hugo Gern  00934 -00934                % 06196 RGTR--
+200417039 Kirchberg, Avalon     00938 -00938                % 06196 RGTR--
+200417019 Kirchberg, Konrad Ad  00939 -00939                % 06196 RGTR--
+200417005 Kirchberg, Antoine d  00940 -00940                % 06196 RGTR--
+200417048 Kirchberg, Europe Ga  00941                       % 06196 RGTR--
+*Z 06197 RGTR--                                             % 06197 RGTR--
+*L 405      200417048 500000073  00515  00633               % 06197 RGTR--
+*R 2 500000073 200417048 500000073  00515  00633            % 06197 RGTR--
+*G 050 200417048 500000073  00515  00633                    % 06197 RGTR--
+*A VE 200417048 500000073 000033  00515  00633              % 06197 RGTR--
+*I FD 200417048 500000073        0002385  00515  00633      % 06197 RGTR--
+200417048 Kirchberg, Europe Ga         00515                % 06197 RGTR--
+200417005 Kirchberg, Antoine d -00515  00515                % 06197 RGTR--
+200417019 Kirchberg, Konrad Ad -00516  00516                % 06197 RGTR--
+200417039 Kirchberg, Avalon    -00517  00517                % 06197 RGTR--
+200417033 Kirchberg, Poutty St -00519  00519                % 06197 RGTR--
+200417044 Kirchberg, Luxexpo Q -00521  00521                % 06197 RGTR--
+500000113 Merzig, Hilbringer B  00606 -00606                % 06197 RGTR--
+500000033 Merzig, Bahnhof       00609 -00609                % 06197 RGTR--
+500000010 Dillingen (Saar), Ei  00622 -00622                % 06197 RGTR--
+500000073 Saarlouis, Kleiner M  00633                       % 06197 RGTR--
+*Z 06198 RGTR--                                             % 06198 RGTR--
+*L 405      200417048 500000073  00615  00733               % 06198 RGTR--
+*R 2 500000073 200417048 500000073  00615  00733            % 06198 RGTR--
+*G 050 200417048 500000073  00615  00733                    % 06198 RGTR--
+*A VE 200417048 500000073 000033  00615  00733              % 06198 RGTR--
+*I FD 200417048 500000073        0002051  00615  00733      % 06198 RGTR--
+200417048 Kirchberg, Europe Ga         00615                % 06198 RGTR--
+200417005 Kirchberg, Antoine d -00615  00615                % 06198 RGTR--
+200417019 Kirchberg, Konrad Ad -00616  00616                % 06198 RGTR--
+200417039 Kirchberg, Avalon    -00617  00617                % 06198 RGTR--
+200417033 Kirchberg, Poutty St -00619  00619                % 06198 RGTR--
+200417044 Kirchberg, Luxexpo Q -00621  00621                % 06198 RGTR--
+500000113 Merzig, Hilbringer B  00706 -00706                % 06198 RGTR--
+500000033 Merzig, Bahnhof       00709 -00709                % 06198 RGTR--
+500000010 Dillingen (Saar), Ei  00722 -00722                % 06198 RGTR--
+500000073 Saarlouis, Kleiner M  00733                       % 06198 RGTR--
+*Z 06199 RGTR--                                             % 06199 RGTR--
+*L 405      200417048 500000073  00715  00833               % 06199 RGTR--
+*R 2 500000073 200417048 500000073  00715  00833            % 06199 RGTR--
+*G 050 200417048 500000073  00715  00833                    % 06199 RGTR--
+*A VE 200417048 500000073 000033  00715  00833              % 06199 RGTR--
+*I FD 200417048 500000073        0002046  00715  00833      % 06199 RGTR--
+200417048 Kirchberg, Europe Ga         00715                % 06199 RGTR--
+200417005 Kirchberg, Antoine d -00715  00715                % 06199 RGTR--
+200417019 Kirchberg, Konrad Ad -00716  00716                % 06199 RGTR--
+200417039 Kirchberg, Avalon    -00717  00717                % 06199 RGTR--
+200417033 Kirchberg, Poutty St -00719  00719                % 06199 RGTR--
+200417044 Kirchberg, Luxexpo Q -00721  00721                % 06199 RGTR--
+500000113 Merzig, Hilbringer B  00806 -00806                % 06199 RGTR--
+500000033 Merzig, Bahnhof       00809 -00809                % 06199 RGTR--
+500000010 Dillingen (Saar), Ei  00822 -00822                % 06199 RGTR--
+500000073 Saarlouis, Kleiner M  00833                       % 06199 RGTR--
+*Z 06200 RGTR--                                             % 06200 RGTR--
+*L 405      200417048 500000073  00815  00933               % 06200 RGTR--
+*R 2 500000073 200417048 500000073  00815  00933            % 06200 RGTR--
+*G 050 200417048 500000073  00815  00933                    % 06200 RGTR--
+*A VE 200417048 500000073 000033  00815  00933              % 06200 RGTR--
+*I FD 200417048 500000073        0002052  00815  00933      % 06200 RGTR--
+200417048 Kirchberg, Europe Ga         00815                % 06200 RGTR--
+200417005 Kirchberg, Antoine d -00815  00815                % 06200 RGTR--
+200417019 Kirchberg, Konrad Ad -00816  00816                % 06200 RGTR--
+200417039 Kirchberg, Avalon    -00817  00817                % 06200 RGTR--
+200417033 Kirchberg, Poutty St -00819  00819                % 06200 RGTR--
+200417044 Kirchberg, Luxexpo Q -00821  00821                % 06200 RGTR--
+500000113 Merzig, Hilbringer B  00906 -00906                % 06200 RGTR--
+500000033 Merzig, Bahnhof       00909 -00909                % 06200 RGTR--
+500000010 Dillingen (Saar), Ei  00922 -00922                % 06200 RGTR--
+500000073 Saarlouis, Kleiner M  00933                       % 06200 RGTR--
+*Z 06201 RGTR--                                             % 06201 RGTR--
+*L 405      200417048 500000073  00915  01033               % 06201 RGTR--
+*R 2 500000073 200417048 500000073  00915  01033            % 06201 RGTR--
+*G 050 200417048 500000073  00915  01033                    % 06201 RGTR--
+*A VE 200417048 500000073 000033  00915  01033              % 06201 RGTR--
+*I FD 200417048 500000073        0002053  00915  01033      % 06201 RGTR--
+200417048 Kirchberg, Europe Ga         00915                % 06201 RGTR--
+200417005 Kirchberg, Antoine d -00915  00915                % 06201 RGTR--
+200417019 Kirchberg, Konrad Ad -00916  00916                % 06201 RGTR--
+200417039 Kirchberg, Avalon    -00917  00917                % 06201 RGTR--
+200417033 Kirchberg, Poutty St -00919  00919                % 06201 RGTR--
+200417044 Kirchberg, Luxexpo Q -00921  00921                % 06201 RGTR--
+500000113 Merzig, Hilbringer B  01006 -01006                % 06201 RGTR--
+500000033 Merzig, Bahnhof       01009 -01009                % 06201 RGTR--
+500000010 Dillingen (Saar), Ei  01022 -01022                % 06201 RGTR--
+500000073 Saarlouis, Kleiner M  01033                       % 06201 RGTR--
+*Z 06202 RGTR--                                             % 06202 RGTR--
+*L 405      200417048 500000073  01845  02003               % 06202 RGTR--
+*R 2 500000073 200417048 500000073  01845  02003            % 06202 RGTR--
+*G 050 200417048 500000073  01845  02003                    % 06202 RGTR--
+*A VE 200417048 500000073 000033  01845  02003              % 06202 RGTR--
+*I FD 200417048 500000073        0001339  01845  02003      % 06202 RGTR--
+200417048 Kirchberg, Europe Ga         01845                % 06202 RGTR--
+200417005 Kirchberg, Antoine d -01845  01845                % 06202 RGTR--
+200417019 Kirchberg, Konrad Ad -01846  01846                % 06202 RGTR--
+200417039 Kirchberg, Avalon    -01847  01847                % 06202 RGTR--
+200417033 Kirchberg, Poutty St -01849  01849                % 06202 RGTR--
+200417044 Kirchberg, Luxexpo Q -01851  01851                % 06202 RGTR--
+500000113 Merzig, Hilbringer B  01936 -01936                % 06202 RGTR--
+500000033 Merzig, Bahnhof       01939 -01939                % 06202 RGTR--
+500000010 Dillingen (Saar), Ei  01952 -01952                % 06202 RGTR--
+500000073 Saarlouis, Kleiner M  02003                       % 06202 RGTR--
+*Z 06203 RGTR--                                             % 06203 RGTR--
+*L 405      200417048 500000073  01915  02033               % 06203 RGTR--
+*R 2 500000073 200417048 500000073  01915  02033            % 06203 RGTR--
+*G 050 200417048 500000073  01915  02033                    % 06203 RGTR--
+*A VE 200417048 500000073 000033  01915  02033              % 06203 RGTR--
+*I FD 200417048 500000073        0002057  01915  02033      % 06203 RGTR--
+200417048 Kirchberg, Europe Ga         01915                % 06203 RGTR--
+200417005 Kirchberg, Antoine d -01915  01915                % 06203 RGTR--
+200417019 Kirchberg, Konrad Ad -01916  01916                % 06203 RGTR--
+200417039 Kirchberg, Avalon    -01917  01917                % 06203 RGTR--
+200417033 Kirchberg, Poutty St -01919  01919                % 06203 RGTR--
+200417044 Kirchberg, Luxexpo Q -01921  01921                % 06203 RGTR--
+500000113 Merzig, Hilbringer B  02006 -02006                % 06203 RGTR--
+500000033 Merzig, Bahnhof       02009 -02009                % 06203 RGTR--
+500000010 Dillingen (Saar), Ei  02022 -02022                % 06203 RGTR--
+500000073 Saarlouis, Kleiner M  02033                       % 06203 RGTR--
+*Z 06204 RGTR--                                             % 06204 RGTR--
+*L 405      200417048 500000073  01615  01748               % 06204 RGTR--
+*R 2 500000073 200417048 500000073  01615  01748            % 06204 RGTR--
+*G 050 200417048 500000073  01615  01748                    % 06204 RGTR--
+*A VE 200417048 500000073 000033  01615  01748              % 06204 RGTR--
+*I FD 200417048 500000073        0002060  01615  01748      % 06204 RGTR--
+200417048 Kirchberg, Europe Ga         01615                % 06204 RGTR--
+200417005 Kirchberg, Antoine d -01616  01616                % 06204 RGTR--
+200417019 Kirchberg, Konrad Ad -01617  01617                % 06204 RGTR--
+200417039 Kirchberg, Avalon    -01618  01618                % 06204 RGTR--
+200417033 Kirchberg, Poutty St -01620  01620                % 06204 RGTR--
+200417044 Kirchberg, Luxexpo Q -01622  01622                % 06204 RGTR--
+500000113 Merzig, Hilbringer B  01717 -01717                % 06204 RGTR--
+500000033 Merzig, Bahnhof       01721 -01721                % 06204 RGTR--
+500000010 Dillingen (Saar), Ei  01737 -01737                % 06204 RGTR--
+500000073 Saarlouis, Kleiner M  01748                       % 06204 RGTR--
+*Z 06205 RGTR--                                             % 06205 RGTR--
+*L 405      200417048 500000073  01645  01818               % 06205 RGTR--
+*R 2 500000073 200417048 500000073  01645  01818            % 06205 RGTR--
+*G 050 200417048 500000073  01645  01818                    % 06205 RGTR--
+*A VE 200417048 500000073 000033  01645  01818              % 06205 RGTR--
+*I FD 200417048 500000073        0001236  01645  01818      % 06205 RGTR--
+200417048 Kirchberg, Europe Ga         01645                % 06205 RGTR--
+200417005 Kirchberg, Antoine d -01646  01646                % 06205 RGTR--
+200417019 Kirchberg, Konrad Ad -01647  01647                % 06205 RGTR--
+200417039 Kirchberg, Avalon    -01648  01648                % 06205 RGTR--
+200417033 Kirchberg, Poutty St -01650  01650                % 06205 RGTR--
+200417044 Kirchberg, Luxexpo Q -01652  01652                % 06205 RGTR--
+500000113 Merzig, Hilbringer B  01747 -01747                % 06205 RGTR--
+500000033 Merzig, Bahnhof       01751 -01751                % 06205 RGTR--
+500000010 Dillingen (Saar), Ei  01807 -01807                % 06205 RGTR--
+500000073 Saarlouis, Kleiner M  01818                       % 06205 RGTR--
+*Z 06206 RGTR--                                             % 06206 RGTR--
+*L 405      200417048 500000073  01715  01848               % 06206 RGTR--
+*R 2 500000073 200417048 500000073  01715  01848            % 06206 RGTR--
+*G 050 200417048 500000073  01715  01848                    % 06206 RGTR--
+*A VE 200417048 500000073 000033  01715  01848              % 06206 RGTR--
+*I FD 200417048 500000073        0002061  01715  01848      % 06206 RGTR--
+200417048 Kirchberg, Europe Ga         01715                % 06206 RGTR--
+200417005 Kirchberg, Antoine d -01716  01716                % 06206 RGTR--
+200417019 Kirchberg, Konrad Ad -01717  01717                % 06206 RGTR--
+200417039 Kirchberg, Avalon    -01718  01718                % 06206 RGTR--
+200417033 Kirchberg, Poutty St -01720  01720                % 06206 RGTR--
+200417044 Kirchberg, Luxexpo Q -01722  01722                % 06206 RGTR--
+500000113 Merzig, Hilbringer B  01817 -01817                % 06206 RGTR--
+500000033 Merzig, Bahnhof       01821 -01821                % 06206 RGTR--
+500000010 Dillingen (Saar), Ei  01837 -01837                % 06206 RGTR--
+500000073 Saarlouis, Kleiner M  01848                       % 06206 RGTR--
+*Z 06207 RGTR--                                             % 06207 RGTR--
+*L 405      200417048 500000073  01745  01918               % 06207 RGTR--
+*R 2 500000073 200417048 500000073  01745  01918            % 06207 RGTR--
+*G 050 200417048 500000073  01745  01918                    % 06207 RGTR--
+*A VE 200417048 500000073 000033  01745  01918              % 06207 RGTR--
+*I FD 200417048 500000073        0002063  01745  01918      % 06207 RGTR--
+200417048 Kirchberg, Europe Ga         01745                % 06207 RGTR--
+200417005 Kirchberg, Antoine d -01746  01746                % 06207 RGTR--
+200417019 Kirchberg, Konrad Ad -01747  01747                % 06207 RGTR--
+200417039 Kirchberg, Avalon    -01748  01748                % 06207 RGTR--
+200417033 Kirchberg, Poutty St -01750  01750                % 06207 RGTR--
+200417044 Kirchberg, Luxexpo Q -01752  01752                % 06207 RGTR--
+500000113 Merzig, Hilbringer B  01847 -01847                % 06207 RGTR--
+500000033 Merzig, Bahnhof       01851 -01851                % 06207 RGTR--
+500000010 Dillingen (Saar), Ei  01907 -01907                % 06207 RGTR--
+500000073 Saarlouis, Kleiner M  01918                       % 06207 RGTR--
+*Z 06208 RGTR--                                             % 06208 RGTR--
+*L 405      200417048 500000073  01815  01948               % 06208 RGTR--
+*R 2 500000073 200417048 500000073  01815  01948            % 06208 RGTR--
+*G 050 200417048 500000073  01815  01948                    % 06208 RGTR--
+*A VE 200417048 500000073 000033  01815  01948              % 06208 RGTR--
+*I FD 200417048 500000073        0002064  01815  01948      % 06208 RGTR--
+200417048 Kirchberg, Europe Ga         01815                % 06208 RGTR--
+200417005 Kirchberg, Antoine d -01816  01816                % 06208 RGTR--
+200417019 Kirchberg, Konrad Ad -01817  01817                % 06208 RGTR--
+200417039 Kirchberg, Avalon    -01818  01818                % 06208 RGTR--
+200417033 Kirchberg, Poutty St -01820  01820                % 06208 RGTR--
+200417044 Kirchberg, Luxexpo Q -01822  01822                % 06208 RGTR--
+500000113 Merzig, Hilbringer B  01917 -01917                % 06208 RGTR--
+500000033 Merzig, Bahnhof       01921 -01921                % 06208 RGTR--
+500000010 Dillingen (Saar), Ei  01937 -01937                % 06208 RGTR--
+500000073 Saarlouis, Kleiner M  01948                       % 06208 RGTR--
+*Z 06209 RGTR--                                             % 06209 RGTR--
+*L 405      500000073 200417048  00505  00637               % 06209 RGTR--
+*R 1 200417048 500000073 200417048  00505  00637            % 06209 RGTR--
+*G 050 500000073 200417048  00505  00637                    % 06209 RGTR--
+*A VE 500000073 200417048 000034  00505  00637              % 06209 RGTR--
+*I FD 500000073 200417048        0002708  00505  00637      % 06209 RGTR--
+500000073 Saarlouis, Kleiner M         00505                % 06209 RGTR--
+500000010 Dillingen (Saar), Ei -00515  00515                % 06209 RGTR--
+500000033 Merzig, Bahnhof      -00533  00533                % 06209 RGTR--
+500000113 Merzig, Hilbringer B -00536  00536                % 06209 RGTR--
+200417040 Kirchberg, Hugo Gern  00631 -00631                % 06209 RGTR--
+200417039 Kirchberg, Avalon     00634 -00634                % 06209 RGTR--
+200417019 Kirchberg, Konrad Ad  00635 -00635                % 06209 RGTR--
+200417005 Kirchberg, Antoine d  00636 -00636                % 06209 RGTR--
+200417048 Kirchberg, Europe Ga  00637                       % 06209 RGTR--
+*Z 06210 RGTR--                                             % 06210 RGTR--
+*L 405      500000073 200417048  00835  01007               % 06210 RGTR--
+*R 1 200417048 500000073 200417048  00835  01007            % 06210 RGTR--
+*G 050 500000073 200417048  00835  01007                    % 06210 RGTR--
+*A VE 500000073 200417048 000034  00835  01007              % 06210 RGTR--
+*I FD 500000073 200417048        0002002  00835  01007      % 06210 RGTR--
+500000073 Saarlouis, Kleiner M         00835                % 06210 RGTR--
+500000010 Dillingen (Saar), Ei -00845  00845                % 06210 RGTR--
+500000033 Merzig, Bahnhof      -00903  00903                % 06210 RGTR--
+500000113 Merzig, Hilbringer B -00906  00906                % 06210 RGTR--
+200417040 Kirchberg, Hugo Gern  01001 -01001                % 06210 RGTR--
+200417039 Kirchberg, Avalon     01004 -01004                % 06210 RGTR--
+200417019 Kirchberg, Konrad Ad  01005 -01005                % 06210 RGTR--
+200417005 Kirchberg, Antoine d  01006 -01006                % 06210 RGTR--
+200417048 Kirchberg, Europe Ga  01007                       % 06210 RGTR--
+*Z 06211 RGTR--                                             % 06211 RGTR--
+*L 405      500000073 200417048  00905  01037               % 06211 RGTR--
+*R 1 200417048 500000073 200417048  00905  01037            % 06211 RGTR--
+*G 050 500000073 200417048  00905  01037                    % 06211 RGTR--
+*A VE 500000073 200417048 000034  00905  01037              % 06211 RGTR--
+*I FD 500000073 200417048        0002020  00905  01037      % 06211 RGTR--
+500000073 Saarlouis, Kleiner M         00905                % 06211 RGTR--
+500000010 Dillingen (Saar), Ei -00915  00915                % 06211 RGTR--
+500000033 Merzig, Bahnhof      -00933  00933                % 06211 RGTR--
+500000113 Merzig, Hilbringer B -00936  00936                % 06211 RGTR--
+200417040 Kirchberg, Hugo Gern  01031 -01031                % 06211 RGTR--
+200417039 Kirchberg, Avalon     01034 -01034                % 06211 RGTR--
+200417019 Kirchberg, Konrad Ad  01035 -01035                % 06211 RGTR--
+200417005 Kirchberg, Antoine d  01036 -01036                % 06211 RGTR--
+200417048 Kirchberg, Europe Ga  01037                       % 06211 RGTR--
+*Z 06212 RGTR--                                             % 06212 RGTR--
+*L 405      500000073 200417048  01605  01737               % 06212 RGTR--
+*R 1 200417048 500000073 200417048  01605  01737            % 06212 RGTR--
+*G 050 500000073 200417048  01605  01737                    % 06212 RGTR--
+*A VE 500000073 200417048 000034  01605  01737              % 06212 RGTR--
+*I FD 500000073 200417048        0002031  01605  01737      % 06212 RGTR--
+500000073 Saarlouis, Kleiner M         01605                % 06212 RGTR--
+500000010 Dillingen (Saar), Ei -01615  01615                % 06212 RGTR--
+500000033 Merzig, Bahnhof      -01633  01633                % 06212 RGTR--
+500000113 Merzig, Hilbringer B -01636  01636                % 06212 RGTR--
+200417040 Kirchberg, Hugo Gern  01731 -01731                % 06212 RGTR--
+200417039 Kirchberg, Avalon     01734 -01734                % 06212 RGTR--
+200417019 Kirchberg, Konrad Ad  01735 -01735                % 06212 RGTR--
+200417005 Kirchberg, Antoine d  01736 -01736                % 06212 RGTR--
+200417048 Kirchberg, Europe Ga  01737                       % 06212 RGTR--
+*Z 06213 RGTR--                                             % 06213 RGTR--
+*L 405      500000073 200417048  01705  01837               % 06213 RGTR--
+*R 1 200417048 500000073 200417048  01705  01837            % 06213 RGTR--
+*G 050 500000073 200417048  01705  01837                    % 06213 RGTR--
+*A VE 500000073 200417048 000034  01705  01837              % 06213 RGTR--
+*I FD 500000073 200417048        0002032  01705  01837      % 06213 RGTR--
+500000073 Saarlouis, Kleiner M         01705                % 06213 RGTR--
+500000010 Dillingen (Saar), Ei -01715  01715                % 06213 RGTR--
+500000033 Merzig, Bahnhof      -01733  01733                % 06213 RGTR--
+500000113 Merzig, Hilbringer B -01736  01736                % 06213 RGTR--
+200417040 Kirchberg, Hugo Gern  01831 -01831                % 06213 RGTR--
+200417039 Kirchberg, Avalon     01834 -01834                % 06213 RGTR--
+200417019 Kirchberg, Konrad Ad  01835 -01835                % 06213 RGTR--
+200417005 Kirchberg, Antoine d  01836 -01836                % 06213 RGTR--
+200417048 Kirchberg, Europe Ga  01837                       % 06213 RGTR--
+*Z 06214 RGTR--                                             % 06214 RGTR--
+*L 405      500000073 200417048  01805  01937               % 06214 RGTR--
+*R 1 200417048 500000073 200417048  01805  01937            % 06214 RGTR--
+*G 050 500000073 200417048  01805  01937                    % 06214 RGTR--
+*A VE 500000073 200417048 000034  01805  01937              % 06214 RGTR--
+*I FD 500000073 200417048        0002033  01805  01937      % 06214 RGTR--
+500000073 Saarlouis, Kleiner M         01805                % 06214 RGTR--
+500000010 Dillingen (Saar), Ei -01815  01815                % 06214 RGTR--
+500000033 Merzig, Bahnhof      -01833  01833                % 06214 RGTR--
+500000113 Merzig, Hilbringer B -01836  01836                % 06214 RGTR--
+200417040 Kirchberg, Hugo Gern  01931 -01931                % 06214 RGTR--
+200417039 Kirchberg, Avalon     01934 -01934                % 06214 RGTR--
+200417019 Kirchberg, Konrad Ad  01935 -01935                % 06214 RGTR--
+200417005 Kirchberg, Antoine d  01936 -01936                % 06214 RGTR--
+200417048 Kirchberg, Europe Ga  01937                       % 06214 RGTR--
+*Z 06215 RGTR--                                             % 06215 RGTR--
+*L 405      500000073 200417048  01905  02037               % 06215 RGTR--
+*R 1 200417048 500000073 200417048  01905  02037            % 06215 RGTR--
+*G 050 500000073 200417048  01905  02037                    % 06215 RGTR--
+*A VE 500000073 200417048 000034  01905  02037              % 06215 RGTR--
+*I FD 500000073 200417048        0002012  01905  02037      % 06215 RGTR--
+500000073 Saarlouis, Kleiner M         01905                % 06215 RGTR--
+500000010 Dillingen (Saar), Ei -01915  01915                % 06215 RGTR--
+500000033 Merzig, Bahnhof      -01933  01933                % 06215 RGTR--
+500000113 Merzig, Hilbringer B -01936  01936                % 06215 RGTR--
+200417040 Kirchberg, Hugo Gern  02031 -02031                % 06215 RGTR--
+200417039 Kirchberg, Avalon     02034 -02034                % 06215 RGTR--
+200417019 Kirchberg, Konrad Ad  02035 -02035                % 06215 RGTR--
+200417005 Kirchberg, Antoine d  02036 -02036                % 06215 RGTR--
+200417048 Kirchberg, Europe Ga  02037                       % 06215 RGTR--
+*Z 06216 RGTR--                                             % 06216 RGTR--
+*L 405      500000073 200417048  00605  00741               % 06216 RGTR--
+*R 1 200417048 500000073 200417048  00605  00741            % 06216 RGTR--
+*G 050 500000073 200417048  00605  00741                    % 06216 RGTR--
+*A VE 500000073 200417048 000034  00605  00741              % 06216 RGTR--
+*I FD 500000073 200417048        0002026  00605  00741      % 06216 RGTR--
+500000073 Saarlouis, Kleiner M         00605                % 06216 RGTR--
+500000010 Dillingen (Saar), Ei -00615  00615                % 06216 RGTR--
+500000033 Merzig, Bahnhof      -00633  00633                % 06216 RGTR--
+500000113 Merzig, Hilbringer B -00637  00637                % 06216 RGTR--
+200417040 Kirchberg, Hugo Gern  00734 -00734                % 06216 RGTR--
+200417039 Kirchberg, Avalon     00738 -00738                % 06216 RGTR--
+200417019 Kirchberg, Konrad Ad  00739 -00739                % 06216 RGTR--
+200417005 Kirchberg, Antoine d  00740 -00740                % 06216 RGTR--
+200417048 Kirchberg, Europe Ga  00741                       % 06216 RGTR--
+*Z 06217 RGTR--                                             % 06217 RGTR--
+*L 405      500000073 200417048  00635  00811               % 06217 RGTR--
+*R 1 200417048 500000073 200417048  00635  00811            % 06217 RGTR--
+*G 050 500000073 200417048  00635  00811                    % 06217 RGTR--
+*A VE 500000073 200417048 000034  00635  00811              % 06217 RGTR--
+*I FD 500000073 200417048        0002019  00635  00811      % 06217 RGTR--
+500000073 Saarlouis, Kleiner M         00635                % 06217 RGTR--
+500000010 Dillingen (Saar), Ei -00645  00645                % 06217 RGTR--
+500000033 Merzig, Bahnhof      -00703  00703                % 06217 RGTR--
+500000113 Merzig, Hilbringer B -00707  00707                % 06217 RGTR--
+200417040 Kirchberg, Hugo Gern  00804 -00804                % 06217 RGTR--
+200417039 Kirchberg, Avalon     00808 -00808                % 06217 RGTR--
+200417019 Kirchberg, Konrad Ad  00809 -00809                % 06217 RGTR--
+200417005 Kirchberg, Antoine d  00810 -00810                % 06217 RGTR--
+200417048 Kirchberg, Europe Ga  00811                       % 06217 RGTR--
+*Z 06218 RGTR--                                             % 06218 RGTR--
+*L 405      500000073 200417048  00700  00836               % 06218 RGTR--
+*R 1 200417048 500000073 200417048  00700  00836            % 06218 RGTR--
+*G 050 500000073 200417048  00700  00836                    % 06218 RGTR--
+*A VE 500000073 200417048 000034  00700  00836              % 06218 RGTR--
+*I FD 500000073 200417048        0001729  00700  00836      % 06218 RGTR--
+500000073 Saarlouis, Kleiner M         00700                % 06218 RGTR--
+500000010 Dillingen (Saar), Ei -00710  00710                % 06218 RGTR--
+500000033 Merzig, Bahnhof      -00728  00728                % 06218 RGTR--
+500000113 Merzig, Hilbringer B -00732  00732                % 06218 RGTR--
+200417040 Kirchberg, Hugo Gern  00829 -00829                % 06218 RGTR--
+200417039 Kirchberg, Avalon     00833 -00833                % 06218 RGTR--
+200417019 Kirchberg, Konrad Ad  00834 -00834                % 06218 RGTR--
+200417005 Kirchberg, Antoine d  00835 -00835                % 06218 RGTR--
+200417048 Kirchberg, Europe Ga  00836                       % 06218 RGTR--
+*Z 06219 RGTR--                                             % 06219 RGTR--
+*L 405      500000073 200417048  00735  00911               % 06219 RGTR--
+*R 1 200417048 500000073 200417048  00735  00911            % 06219 RGTR--
+*G 050 500000073 200417048  00735  00911                    % 06219 RGTR--
+*A VE 500000073 200417048 000034  00735  00911              % 06219 RGTR--
+*I FD 500000073 200417048        0002000  00735  00911      % 06219 RGTR--
+500000073 Saarlouis, Kleiner M         00735                % 06219 RGTR--
+500000010 Dillingen (Saar), Ei -00745  00745                % 06219 RGTR--
+500000033 Merzig, Bahnhof      -00803  00803                % 06219 RGTR--
+500000113 Merzig, Hilbringer B -00807  00807                % 06219 RGTR--
+200417040 Kirchberg, Hugo Gern  00904 -00904                % 06219 RGTR--
+200417039 Kirchberg, Avalon     00908 -00908                % 06219 RGTR--
+200417019 Kirchberg, Konrad Ad  00909 -00909                % 06219 RGTR--
+200417005 Kirchberg, Antoine d  00910 -00910                % 06219 RGTR--
+200417048 Kirchberg, Europe Ga  00911                       % 06219 RGTR--
+*Z 06220 RGTR--                                             % 06220 RGTR--
+*L 405      500000073 200417048  00805  00941               % 06220 RGTR--
+*R 1 200417048 500000073 200417048  00805  00941            % 06220 RGTR--
+*G 050 500000073 200417048  00805  00941                    % 06220 RGTR--
+*A VE 500000073 200417048 000034  00805  00941              % 06220 RGTR--
+*I FD 500000073 200417048        0002001  00805  00941      % 06220 RGTR--
+500000073 Saarlouis, Kleiner M         00805                % 06220 RGTR--
+500000010 Dillingen (Saar), Ei -00815  00815                % 06220 RGTR--
+500000033 Merzig, Bahnhof      -00833  00833                % 06220 RGTR--
+500000113 Merzig, Hilbringer B -00837  00837                % 06220 RGTR--
+200417040 Kirchberg, Hugo Gern  00934 -00934                % 06220 RGTR--
+200417039 Kirchberg, Avalon     00938 -00938                % 06220 RGTR--
+200417019 Kirchberg, Konrad Ad  00939 -00939                % 06220 RGTR--
+200417005 Kirchberg, Antoine d  00940 -00940                % 06220 RGTR--
+200417048 Kirchberg, Europe Ga  00941                       % 06220 RGTR--
+*Z 06221 RGTR--                                             % 06221 RGTR--
+*L 405      200417048 500000073  00515  00633               % 06221 RGTR--
+*R 2 500000073 200417048 500000073  00515  00633            % 06221 RGTR--
+*G 050 200417048 500000073  00515  00633                    % 06221 RGTR--
+*A VE 200417048 500000073 000034  00515  00633              % 06221 RGTR--
+*I FD 200417048 500000073        0002385  00515  00633      % 06221 RGTR--
+200417048 Kirchberg, Europe Ga         00515                % 06221 RGTR--
+200417005 Kirchberg, Antoine d -00515  00515                % 06221 RGTR--
+200417019 Kirchberg, Konrad Ad -00516  00516                % 06221 RGTR--
+200417039 Kirchberg, Avalon    -00517  00517                % 06221 RGTR--
+200417033 Kirchberg, Poutty St -00519  00519                % 06221 RGTR--
+200417044 Kirchberg, Luxexpo Q -00521  00521                % 06221 RGTR--
+500000113 Merzig, Hilbringer B  00606 -00606                % 06221 RGTR--
+500000033 Merzig, Bahnhof       00609 -00609                % 06221 RGTR--
+500000010 Dillingen (Saar), Ei  00622 -00622                % 06221 RGTR--
+500000073 Saarlouis, Kleiner M  00633                       % 06221 RGTR--
+*Z 06222 RGTR--                                             % 06222 RGTR--
+*L 405      200417048 500000073  00615  00733               % 06222 RGTR--
+*R 2 500000073 200417048 500000073  00615  00733            % 06222 RGTR--
+*G 050 200417048 500000073  00615  00733                    % 06222 RGTR--
+*A VE 200417048 500000073 000034  00615  00733              % 06222 RGTR--
+*I FD 200417048 500000073        0002051  00615  00733      % 06222 RGTR--
+200417048 Kirchberg, Europe Ga         00615                % 06222 RGTR--
+200417005 Kirchberg, Antoine d -00615  00615                % 06222 RGTR--
+200417019 Kirchberg, Konrad Ad -00616  00616                % 06222 RGTR--
+200417039 Kirchberg, Avalon    -00617  00617                % 06222 RGTR--
+200417033 Kirchberg, Poutty St -00619  00619                % 06222 RGTR--
+200417044 Kirchberg, Luxexpo Q -00621  00621                % 06222 RGTR--
+500000113 Merzig, Hilbringer B  00706 -00706                % 06222 RGTR--
+500000033 Merzig, Bahnhof       00709 -00709                % 06222 RGTR--
+500000010 Dillingen (Saar), Ei  00722 -00722                % 06222 RGTR--
+500000073 Saarlouis, Kleiner M  00733                       % 06222 RGTR--
+*Z 06223 RGTR--                                             % 06223 RGTR--
+*L 405      200417048 500000073  00715  00833               % 06223 RGTR--
+*R 2 500000073 200417048 500000073  00715  00833            % 06223 RGTR--
+*G 050 200417048 500000073  00715  00833                    % 06223 RGTR--
+*A VE 200417048 500000073 000034  00715  00833              % 06223 RGTR--
+*I FD 200417048 500000073        0002046  00715  00833      % 06223 RGTR--
+200417048 Kirchberg, Europe Ga         00715                % 06223 RGTR--
+200417005 Kirchberg, Antoine d -00715  00715                % 06223 RGTR--
+200417019 Kirchberg, Konrad Ad -00716  00716                % 06223 RGTR--
+200417039 Kirchberg, Avalon    -00717  00717                % 06223 RGTR--
+200417033 Kirchberg, Poutty St -00719  00719                % 06223 RGTR--
+200417044 Kirchberg, Luxexpo Q -00721  00721                % 06223 RGTR--
+500000113 Merzig, Hilbringer B  00806 -00806                % 06223 RGTR--
+500000033 Merzig, Bahnhof       00809 -00809                % 06223 RGTR--
+500000010 Dillingen (Saar), Ei  00822 -00822                % 06223 RGTR--
+500000073 Saarlouis, Kleiner M  00833                       % 06223 RGTR--
+*Z 06224 RGTR--                                             % 06224 RGTR--
+*L 405      200417048 500000073  00815  00933               % 06224 RGTR--
+*R 2 500000073 200417048 500000073  00815  00933            % 06224 RGTR--
+*G 050 200417048 500000073  00815  00933                    % 06224 RGTR--
+*A VE 200417048 500000073 000034  00815  00933              % 06224 RGTR--
+*I FD 200417048 500000073        0002052  00815  00933      % 06224 RGTR--
+200417048 Kirchberg, Europe Ga         00815                % 06224 RGTR--
+200417005 Kirchberg, Antoine d -00815  00815                % 06224 RGTR--
+200417019 Kirchberg, Konrad Ad -00816  00816                % 06224 RGTR--
+200417039 Kirchberg, Avalon    -00817  00817                % 06224 RGTR--
+200417033 Kirchberg, Poutty St -00819  00819                % 06224 RGTR--
+200417044 Kirchberg, Luxexpo Q -00821  00821                % 06224 RGTR--
+500000113 Merzig, Hilbringer B  00906 -00906                % 06224 RGTR--
+500000033 Merzig, Bahnhof       00909 -00909                % 06224 RGTR--
+500000010 Dillingen (Saar), Ei  00922 -00922                % 06224 RGTR--
+500000073 Saarlouis, Kleiner M  00933                       % 06224 RGTR--
+*Z 06225 RGTR--                                             % 06225 RGTR--
+*L 405      200417048 500000073  00915  01033               % 06225 RGTR--
+*R 2 500000073 200417048 500000073  00915  01033            % 06225 RGTR--
+*G 050 200417048 500000073  00915  01033                    % 06225 RGTR--
+*A VE 200417048 500000073 000034  00915  01033              % 06225 RGTR--
+*I FD 200417048 500000073        0002053  00915  01033      % 06225 RGTR--
+200417048 Kirchberg, Europe Ga         00915                % 06225 RGTR--
+200417005 Kirchberg, Antoine d -00915  00915                % 06225 RGTR--
+200417019 Kirchberg, Konrad Ad -00916  00916                % 06225 RGTR--
+200417039 Kirchberg, Avalon    -00917  00917                % 06225 RGTR--
+200417033 Kirchberg, Poutty St -00919  00919                % 06225 RGTR--
+200417044 Kirchberg, Luxexpo Q -00921  00921                % 06225 RGTR--
+500000113 Merzig, Hilbringer B  01006 -01006                % 06225 RGTR--
+500000033 Merzig, Bahnhof       01009 -01009                % 06225 RGTR--
+500000010 Dillingen (Saar), Ei  01022 -01022                % 06225 RGTR--
+500000073 Saarlouis, Kleiner M  01033                       % 06225 RGTR--
+*Z 06226 RGTR--                                             % 06226 RGTR--
+*L 405      200417048 500000073  01845  02003               % 06226 RGTR--
+*R 2 500000073 200417048 500000073  01845  02003            % 06226 RGTR--
+*G 050 200417048 500000073  01845  02003                    % 06226 RGTR--
+*A VE 200417048 500000073 000034  01845  02003              % 06226 RGTR--
+*I FD 200417048 500000073        0001339  01845  02003      % 06226 RGTR--
+200417048 Kirchberg, Europe Ga         01845                % 06226 RGTR--
+200417005 Kirchberg, Antoine d -01845  01845                % 06226 RGTR--
+200417019 Kirchberg, Konrad Ad -01846  01846                % 06226 RGTR--
+200417039 Kirchberg, Avalon    -01847  01847                % 06226 RGTR--
+200417033 Kirchberg, Poutty St -01849  01849                % 06226 RGTR--
+200417044 Kirchberg, Luxexpo Q -01851  01851                % 06226 RGTR--
+500000113 Merzig, Hilbringer B  01936 -01936                % 06226 RGTR--
+500000033 Merzig, Bahnhof       01939 -01939                % 06226 RGTR--
+500000010 Dillingen (Saar), Ei  01952 -01952                % 06226 RGTR--
+500000073 Saarlouis, Kleiner M  02003                       % 06226 RGTR--
+*Z 06227 RGTR--                                             % 06227 RGTR--
+*L 405      200417048 500000073  01915  02033               % 06227 RGTR--
+*R 2 500000073 200417048 500000073  01915  02033            % 06227 RGTR--
+*G 050 200417048 500000073  01915  02033                    % 06227 RGTR--
+*A VE 200417048 500000073 000034  01915  02033              % 06227 RGTR--
+*I FD 200417048 500000073        0002057  01915  02033      % 06227 RGTR--
+200417048 Kirchberg, Europe Ga         01915                % 06227 RGTR--
+200417005 Kirchberg, Antoine d -01915  01915                % 06227 RGTR--
+200417019 Kirchberg, Konrad Ad -01916  01916                % 06227 RGTR--
+200417039 Kirchberg, Avalon    -01917  01917                % 06227 RGTR--
+200417033 Kirchberg, Poutty St -01919  01919                % 06227 RGTR--
+200417044 Kirchberg, Luxexpo Q -01921  01921                % 06227 RGTR--
+500000113 Merzig, Hilbringer B  02006 -02006                % 06227 RGTR--
+500000033 Merzig, Bahnhof       02009 -02009                % 06227 RGTR--
+500000010 Dillingen (Saar), Ei  02022 -02022                % 06227 RGTR--
+500000073 Saarlouis, Kleiner M  02033                       % 06227 RGTR--
+*Z 06228 RGTR--                                             % 06228 RGTR--
+*L 405      200417048 500000073  01615  01748               % 06228 RGTR--
+*R 2 500000073 200417048 500000073  01615  01748            % 06228 RGTR--
+*G 050 200417048 500000073  01615  01748                    % 06228 RGTR--
+*A VE 200417048 500000073 000034  01615  01748              % 06228 RGTR--
+*I FD 200417048 500000073        0002060  01615  01748      % 06228 RGTR--
+200417048 Kirchberg, Europe Ga         01615                % 06228 RGTR--
+200417005 Kirchberg, Antoine d -01616  01616                % 06228 RGTR--
+200417019 Kirchberg, Konrad Ad -01617  01617                % 06228 RGTR--
+200417039 Kirchberg, Avalon    -01618  01618                % 06228 RGTR--
+200417033 Kirchberg, Poutty St -01620  01620                % 06228 RGTR--
+200417044 Kirchberg, Luxexpo Q -01622  01622                % 06228 RGTR--
+500000113 Merzig, Hilbringer B  01717 -01717                % 06228 RGTR--
+500000033 Merzig, Bahnhof       01721 -01721                % 06228 RGTR--
+500000010 Dillingen (Saar), Ei  01737 -01737                % 06228 RGTR--
+500000073 Saarlouis, Kleiner M  01748                       % 06228 RGTR--
+*Z 06229 RGTR--                                             % 06229 RGTR--
+*L 405      200417048 500000073  01645  01818               % 06229 RGTR--
+*R 2 500000073 200417048 500000073  01645  01818            % 06229 RGTR--
+*G 050 200417048 500000073  01645  01818                    % 06229 RGTR--
+*A VE 200417048 500000073 000034  01645  01818              % 06229 RGTR--
+*I FD 200417048 500000073        0001236  01645  01818      % 06229 RGTR--
+200417048 Kirchberg, Europe Ga         01645                % 06229 RGTR--
+200417005 Kirchberg, Antoine d -01646  01646                % 06229 RGTR--
+200417019 Kirchberg, Konrad Ad -01647  01647                % 06229 RGTR--
+200417039 Kirchberg, Avalon    -01648  01648                % 06229 RGTR--
+200417033 Kirchberg, Poutty St -01650  01650                % 06229 RGTR--
+200417044 Kirchberg, Luxexpo Q -01652  01652                % 06229 RGTR--
+500000113 Merzig, Hilbringer B  01747 -01747                % 06229 RGTR--
+500000033 Merzig, Bahnhof       01751 -01751                % 06229 RGTR--
+500000010 Dillingen (Saar), Ei  01807 -01807                % 06229 RGTR--
+500000073 Saarlouis, Kleiner M  01818                       % 06229 RGTR--
+*Z 06230 RGTR--                                             % 06230 RGTR--
+*L 405      200417048 500000073  01715  01848               % 06230 RGTR--
+*R 2 500000073 200417048 500000073  01715  01848            % 06230 RGTR--
+*G 050 200417048 500000073  01715  01848                    % 06230 RGTR--
+*A VE 200417048 500000073 000034  01715  01848              % 06230 RGTR--
+*I FD 200417048 500000073        0002061  01715  01848      % 06230 RGTR--
+200417048 Kirchberg, Europe Ga         01715                % 06230 RGTR--
+200417005 Kirchberg, Antoine d -01716  01716                % 06230 RGTR--
+200417019 Kirchberg, Konrad Ad -01717  01717                % 06230 RGTR--
+200417039 Kirchberg, Avalon    -01718  01718                % 06230 RGTR--
+200417033 Kirchberg, Poutty St -01720  01720                % 06230 RGTR--
+200417044 Kirchberg, Luxexpo Q -01722  01722                % 06230 RGTR--
+500000113 Merzig, Hilbringer B  01817 -01817                % 06230 RGTR--
+500000033 Merzig, Bahnhof       01821 -01821                % 06230 RGTR--
+500000010 Dillingen (Saar), Ei  01837 -01837                % 06230 RGTR--
+500000073 Saarlouis, Kleiner M  01848                       % 06230 RGTR--
+*Z 06231 RGTR--                                             % 06231 RGTR--
+*L 405      200417048 500000073  01745  01918               % 06231 RGTR--
+*R 2 500000073 200417048 500000073  01745  01918            % 06231 RGTR--
+*G 050 200417048 500000073  01745  01918                    % 06231 RGTR--
+*A VE 200417048 500000073 000034  01745  01918              % 06231 RGTR--
+*I FD 200417048 500000073        0002063  01745  01918      % 06231 RGTR--
+200417048 Kirchberg, Europe Ga         01745                % 06231 RGTR--
+200417005 Kirchberg, Antoine d -01746  01746                % 06231 RGTR--
+200417019 Kirchberg, Konrad Ad -01747  01747                % 06231 RGTR--
+200417039 Kirchberg, Avalon    -01748  01748                % 06231 RGTR--
+200417033 Kirchberg, Poutty St -01750  01750                % 06231 RGTR--
+200417044 Kirchberg, Luxexpo Q -01752  01752                % 06231 RGTR--
+500000113 Merzig, Hilbringer B  01847 -01847                % 06231 RGTR--
+500000033 Merzig, Bahnhof       01851 -01851                % 06231 RGTR--
+500000010 Dillingen (Saar), Ei  01907 -01907                % 06231 RGTR--
+500000073 Saarlouis, Kleiner M  01918                       % 06231 RGTR--
+*Z 06232 RGTR--                                             % 06232 RGTR--
+*L 405      200417048 500000073  01815  01948               % 06232 RGTR--
+*R 2 500000073 200417048 500000073  01815  01948            % 06232 RGTR--
+*G 050 200417048 500000073  01815  01948                    % 06232 RGTR--
+*A VE 200417048 500000073 000034  01815  01948              % 06232 RGTR--
+*I FD 200417048 500000073        0002064  01815  01948      % 06232 RGTR--
+200417048 Kirchberg, Europe Ga         01815                % 06232 RGTR--
+200417005 Kirchberg, Antoine d -01816  01816                % 06232 RGTR--
+200417019 Kirchberg, Konrad Ad -01817  01817                % 06232 RGTR--
+200417039 Kirchberg, Avalon    -01818  01818                % 06232 RGTR--
+200417033 Kirchberg, Poutty St -01820  01820                % 06232 RGTR--
+200417044 Kirchberg, Luxexpo Q -01822  01822                % 06232 RGTR--
+500000113 Merzig, Hilbringer B  01917 -01917                % 06232 RGTR--
+500000033 Merzig, Bahnhof       01921 -01921                % 06232 RGTR--
+500000010 Dillingen (Saar), Ei  01937 -01937                % 06232 RGTR--
+500000073 Saarlouis, Kleiner M  01948                       % 06232 RGTR--

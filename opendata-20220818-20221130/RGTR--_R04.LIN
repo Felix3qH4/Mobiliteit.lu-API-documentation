@@ -1,0 +1,141 @@
+*F 03 2
+*Z 19030 RGTR--                                             % 19030 RGTR--
+*L R04      180401003 210503012  00642  00747               % 19030 RGTR--
+*A cj 180401003 210503012 000042  00642  00747              % 19030 RGTR--
+*A ad 180401003 210503012 000042  00642  00747              % 19030 RGTR--
+*R 1 210503012 180401003 210503012  00642  00747            % 19030 RGTR--
+*G 063 180401003 210503012  00642  00747                    % 19030 RGTR--
+*A VE 180401003 210503012 000042  00642  00747              % 19030 RGTR--
+*I FD 180401003 210503012        0003005  00642  00747      % 19030 RGTR--
+180401003 Grevenmacher, Gare r         00642                % 19030 RGTR--
+180401002 Grevenmacher, Enner   00644  00644                % 19030 RGTR--
+180401005 Grevenmacher, Route   00645  00645                % 19030 RGTR--
+180305004 Niederdonven, Op der  00651  00651                % 19030 RGTR--
+180305001 Niederdonven, Beim F  00652  00652                % 19030 RGTR--
+180305003 Niederdonven, Bei de  00653  00653                % 19030 RGTR--
+180804006 Wormeldange/Haut, Hi  00658  00658                % 19030 RGTR--
+180804007 Wormeldange/Haut, Kö  00659  00659                % 19030 RGTR--
+180802003 Ehnen, Ieselsbreck    00704  00704                % 19030 RGTR--
+210803003 Stadtbredimus, Schle  00710  00710                % 19030 RGTR--
+210803005 Stadtbredimus, Vinsm  00711  00711                % 19030 RGTR--
+210803006 Stadtbredimus, Wandm  00712  00712                % 19030 RGTR--
+210701006 Remich, Gare routièr  00715  00715                % 19030 RGTR--
+211001003 Bech-Kleinmacher, Fu  00720  00720                % 19030 RGTR--
+211002001 Schwebsingen, Centre  00722  00722                % 19030 RGTR--
+211002002 Schwebsingen, Op der  00722  00722                % 19030 RGTR--
+210603001 Wintrange, Dorefplaz  00724  00724                % 19030 RGTR--
+210601001 Remerschen, Al Schou  00725  00725                % 19030 RGTR--
+210601003 Remerschen, Kiosk     00726  00726                % 19030 RGTR--
+210601002 Remerschen, Ennen am  00726  00726                % 19030 RGTR--
+210602004 Schengen, Séckerbaac  00729  00729                % 19030 RGTR--
+210602001 Schengen, Ennen am D  00729  00729                % 19030 RGTR--
+210201001 Burmerange, Bei der   00737  00737                % 19030 RGTR--
+210201003 Burmerange, Um Schot  00738  00738                % 19030 RGTR--
+210202002 Elvange/Mondorf, Kal  00740  00740                % 19030 RGTR--
+210203001 Emerange, Centre Cul  00743  00743                % 19030 RGTR--
+210503012 Mondorf-les-Bains, E  00747                       % 19030 RGTR--
+*Z 19031 RGTR--                                             % 19031 RGTR--
+*L R04      210503012 180401003  01610  01717               % 19031 RGTR--
+*A cj 210503012 180401003 000347  01610  01717              % 19031 RGTR--
+*A ad 210503012 180401003 000347  01610  01717              % 19031 RGTR--
+*R 2 180401003 210503012 180401003  01610  01717            % 19031 RGTR--
+*G 063 210503012 180401003  01610  01717                    % 19031 RGTR--
+*A VE 210503012 180401003 000347  01610  01717              % 19031 RGTR--
+*I FD 210503012 180401003        0001997  01610  01717      % 19031 RGTR--
+210503012 Mondorf-les-Bains, E         01610                % 19031 RGTR--
+210203001 Emerange, Centre Cul  01614  01614                % 19031 RGTR--
+210202002 Elvange/Mondorf, Kal  01617  01617                % 19031 RGTR--
+210201003 Burmerange, Um Schot  01619  01619                % 19031 RGTR--
+210201001 Burmerange, Bei der   01620  01620                % 19031 RGTR--
+210602001 Schengen, Ennen am D  01628  01628                % 19031 RGTR--
+210602004 Schengen, Séckerbaac  01629  01629                % 19031 RGTR--
+210601002 Remerschen, Ennen am  01631  01631                % 19031 RGTR--
+210601003 Remerschen, Kiosk     01632  01632                % 19031 RGTR--
+210601001 Remerschen, Al Schou  01632  01632                % 19031 RGTR--
+210603001 Wintrange, Dorefplaz  01634  01634                % 19031 RGTR--
+211002002 Schwebsingen, Op der  01635  01635                % 19031 RGTR--
+211002001 Schwebsingen, Centre  01636  01636                % 19031 RGTR--
+211001003 Bech-Kleinmacher, Fu  01638  01638                % 19031 RGTR--
+210701006 Remich, Gare routièr  01643  01643                % 19031 RGTR--
+210803006 Stadtbredimus, Wandm  01646  01646                % 19031 RGTR--
+210803005 Stadtbredimus, Vinsm  01647  01647                % 19031 RGTR--
+210803003 Stadtbredimus, Schle  01648  01648                % 19031 RGTR--
+180802007 Ehnen, Puddel         01654  01654                % 19031 RGTR--
+180804007 Wormeldange/Haut, Kö  01700  01700                % 19031 RGTR--
+180804006 Wormeldange/Haut, Hi  01702  01702                % 19031 RGTR--
+180305003 Niederdonven, Bei de  01707  01707                % 19031 RGTR--
+180305001 Niederdonven, Beim F  01708  01708                % 19031 RGTR--
+180305004 Niederdonven, Op der  01709  01709                % 19031 RGTR--
+180401005 Grevenmacher, Route   01714  01714                % 19031 RGTR--
+180401002 Grevenmacher, Enner   01716  01716                % 19031 RGTR--
+180401003 Grevenmacher, Gare r  01717                       % 19031 RGTR--
+*Z 19032 RGTR--                                             % 19032 RGTR--
+*L R04      210503012 180401003  01225  01329               % 19032 RGTR--
+*A cj 210503012 180401003 000046  01225  01329              % 19032 RGTR--
+*A ad 210503012 180401003 000046  01225  01329              % 19032 RGTR--
+*R 2 180401003 210503012 180401003  01225  01329            % 19032 RGTR--
+*G 063 210503012 180401003  01225  01329                    % 19032 RGTR--
+*A VE 210503012 180401003 000046  01225  01329              % 19032 RGTR--
+*I FD 210503012 180401003        0002422  01225  01329      % 19032 RGTR--
+210503012 Mondorf-les-Bains, E         01225                % 19032 RGTR--
+210203001 Emerange, Centre Cul  01229  01229                % 19032 RGTR--
+210202002 Elvange/Mondorf, Kal  01232  01232                % 19032 RGTR--
+210201003 Burmerange, Um Schot  01233  01233                % 19032 RGTR--
+210201001 Burmerange, Bei der   01234  01234                % 19032 RGTR--
+210602001 Schengen, Ennen am D  01242  01242                % 19032 RGTR--
+210602004 Schengen, Séckerbaac  01243  01243                % 19032 RGTR--
+210601002 Remerschen, Ennen am  01245  01245                % 19032 RGTR--
+210601003 Remerschen, Kiosk     01246  01246                % 19032 RGTR--
+210601001 Remerschen, Al Schou  01247  01247                % 19032 RGTR--
+210603001 Wintrange, Dorefplaz  01248  01248                % 19032 RGTR--
+211002002 Schwebsingen, Op der  01250  01250                % 19032 RGTR--
+211002001 Schwebsingen, Centre  01251  01251                % 19032 RGTR--
+211001003 Bech-Kleinmacher, Fu  01253  01253                % 19032 RGTR--
+210701006 Remich, Gare routièr  01256  01256                % 19032 RGTR--
+210803006 Stadtbredimus, Wandm  01300  01300                % 19032 RGTR--
+210803005 Stadtbredimus, Vinsm  01300  01300                % 19032 RGTR--
+210803003 Stadtbredimus, Schle  01301  01301                % 19032 RGTR--
+180802007 Ehnen, Puddel         01307  01307                % 19032 RGTR--
+180804007 Wormeldange/Haut, Kö  01313  01313                % 19032 RGTR--
+180804006 Wormeldange/Haut, Hi  01315  01315                % 19032 RGTR--
+180305003 Niederdonven, Bei de  01320  01320                % 19032 RGTR--
+180305001 Niederdonven, Beim F  01320  01320                % 19032 RGTR--
+180305004 Niederdonven, Op der  01321  01321                % 19032 RGTR--
+180401005 Grevenmacher, Route   01327  01327                % 19032 RGTR--
+180401002 Grevenmacher, Enner   01328  01328                % 19032 RGTR--
+180401003 Grevenmacher, Gare r  01329                       % 19032 RGTR--
+*Z 19033 RGTR--                                             % 19033 RGTR--
+*L R04      210503012 180401003  01310  01414               % 19033 RGTR--
+*A cj 210503012 180401003 000348  01310  01414              % 19033 RGTR--
+*A ad 210503012 180401003 000348  01310  01414              % 19033 RGTR--
+*R 2 180401003 210503012 180401003  01310  01414            % 19033 RGTR--
+*G 063 210503012 180401003  01310  01414                    % 19033 RGTR--
+*A VE 210503012 180401003 000348  01310  01414              % 19033 RGTR--
+*I FD 210503012 180401003        0001987  01310  01414      % 19033 RGTR--
+210503012 Mondorf-les-Bains, E         01310                % 19033 RGTR--
+210203001 Emerange, Centre Cul  01314  01314                % 19033 RGTR--
+210202002 Elvange/Mondorf, Kal  01317  01317                % 19033 RGTR--
+210201003 Burmerange, Um Schot  01318  01318                % 19033 RGTR--
+210201001 Burmerange, Bei der   01319  01319                % 19033 RGTR--
+210602001 Schengen, Ennen am D  01327  01327                % 19033 RGTR--
+210602004 Schengen, Séckerbaac  01328  01328                % 19033 RGTR--
+210601002 Remerschen, Ennen am  01330  01330                % 19033 RGTR--
+210601003 Remerschen, Kiosk     01331  01331                % 19033 RGTR--
+210601001 Remerschen, Al Schou  01332  01332                % 19033 RGTR--
+210603001 Wintrange, Dorefplaz  01333  01333                % 19033 RGTR--
+211002002 Schwebsingen, Op der  01335  01335                % 19033 RGTR--
+211002001 Schwebsingen, Centre  01336  01336                % 19033 RGTR--
+211001003 Bech-Kleinmacher, Fu  01338  01338                % 19033 RGTR--
+210701006 Remich, Gare routièr  01341  01341                % 19033 RGTR--
+210803006 Stadtbredimus, Wandm  01345  01345                % 19033 RGTR--
+210803005 Stadtbredimus, Vinsm  01345  01345                % 19033 RGTR--
+210803003 Stadtbredimus, Schle  01346  01346                % 19033 RGTR--
+180802007 Ehnen, Puddel         01352  01352                % 19033 RGTR--
+180804007 Wormeldange/Haut, Kö  01358  01358                % 19033 RGTR--
+180804006 Wormeldange/Haut, Hi  01400  01400                % 19033 RGTR--
+180305003 Niederdonven, Bei de  01405  01405                % 19033 RGTR--
+180305001 Niederdonven, Beim F  01405  01405                % 19033 RGTR--
+180305004 Niederdonven, Op der  01406  01406                % 19033 RGTR--
+180401005 Grevenmacher, Route   01412  01412                % 19033 RGTR--
+180401002 Grevenmacher, Enner   01413  01413                % 19033 RGTR--
+180401003 Grevenmacher, Gare r  01414                       % 19033 RGTR--

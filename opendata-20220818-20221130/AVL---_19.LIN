@@ -1,0 +1,193 @@
+*F 03 2
+*Z 02822 AVL---       013 060                               % 02822 AVL---
+*L 19       200405036 200419029  00626  00651               % 02822 AVL---
+*A BE 200405036 200419029 000034  00626  00651              % 02822 AVL---
+*R 1 200419029 200405036 200419029  00626  00651            % 02822 AVL---
+*G MD  200405036 200419029  00626  00651                    % 02822 AVL---
+*A VE 200405036 200419029 000034  00626  00651              % 02822 AVL---
+200405036 Luxembourg, Gare Cen         00626                % 02822 AVL---
+200405001 Gare, Al Avenue       00628  00628                % 02822 AVL---
+200405013 Centre, F.D. Rooseve  00631  00631                % 02822 AVL---
+200405007 Centre, Cathédrale    00633  00633                % 02822 AVL---
+200405018 Centre, Gruef         00634  00634                % 02822 AVL---
+200405022 Centre, Kasinosgaass  00635  00635                % 02822 AVL---
+200405005 Centre, Badanstalt    00636  00636                % 02822 AVL---
+200405014 Centre, Fondation Pe  00639  00639                % 02822 AVL---
+200419026 Limpertsberg, Theate  00640  00640                % 02822 AVL---
+200419037 Limpertsberg, Kiisch  00641  00641                % 02822 AVL---
+200419010 Limpertsberg, Belle-  00642  00642                % 02822 AVL---
+200419005 Limpertsberg, Arts e  00643  00643                % 02822 AVL---
+200419018 Limpertsberg, Guilla  00644  00644                % 02822 AVL---
+200419011 Limpertsberg, Bois    00645  00645                % 02822 AVL---
+200419035 Limpertsberg, Waasse  00645  00645                % 02822 AVL---
+200419034 Limpertsberg, Square  00646  00646                % 02822 AVL---
+200419008 Limpertsberg, Batty   00647  00647                % 02822 AVL---
+200419020 Luxembourg, Uni Camp  00648  00648                % 02822 AVL---
+200419012 Limpertsberg, Jean S  00649  00649                % 02822 AVL---
+200419024 Limpertsberg, Lefèvr  00650  00650                % 02822 AVL---
+200419029 Limpertsberg, Neuman  00651                       % 02822 AVL---
+*Z 02823 AVL---       012 060                               % 02823 AVL---
+*L 19       200405036 200419029  00656  00721               % 02823 AVL---
+*A BE 200405036 200419029 000034  00656  00721              % 02823 AVL---
+*R 1 200419029 200405036 200419029  00656  00721            % 02823 AVL---
+*G MDE 200405036 200419029  00656  00721                    % 02823 AVL---
+*A VE 200405036 200419029 000034  00656  00721              % 02823 AVL---
+200405036 Luxembourg, Gare Cen         00656                % 02823 AVL---
+200405001 Gare, Al Avenue       00658  00658                % 02823 AVL---
+200405013 Centre, F.D. Rooseve  00701  00701                % 02823 AVL---
+200405007 Centre, Cathédrale    00703  00703                % 02823 AVL---
+200405018 Centre, Gruef         00704  00704                % 02823 AVL---
+200405022 Centre, Kasinosgaass  00705  00705                % 02823 AVL---
+200405005 Centre, Badanstalt    00706  00706                % 02823 AVL---
+200405014 Centre, Fondation Pe  00709  00709                % 02823 AVL---
+200419026 Limpertsberg, Theate  00710  00710                % 02823 AVL---
+200419037 Limpertsberg, Kiisch  00711  00711                % 02823 AVL---
+200419010 Limpertsberg, Belle-  00712  00712                % 02823 AVL---
+200419005 Limpertsberg, Arts e  00713  00713                % 02823 AVL---
+200419018 Limpertsberg, Guilla  00714  00714                % 02823 AVL---
+200419011 Limpertsberg, Bois    00715  00715                % 02823 AVL---
+200419035 Limpertsberg, Waasse  00715  00715                % 02823 AVL---
+200419034 Limpertsberg, Square  00716  00716                % 02823 AVL---
+200419008 Limpertsberg, Batty   00717  00717                % 02823 AVL---
+200419020 Luxembourg, Uni Camp  00718  00718                % 02823 AVL---
+200419012 Limpertsberg, Jean S  00719  00719                % 02823 AVL---
+200419024 Limpertsberg, Lefèvr  00720  00720                % 02823 AVL---
+200419029 Limpertsberg, Neuman  00721                       % 02823 AVL---
+*Z 02824 AVL---       012 060                               % 02824 AVL---
+*L 19       200419029 200405036  00704  00726               % 02824 AVL---
+*A BE 200419029 200405036 000034  00704  00726              % 02824 AVL---
+*R 2 200405036 200419029 200405036  00704  00726            % 02824 AVL---
+*G MD  200419029 200405036  00704  00726                    % 02824 AVL---
+*A VE 200419029 200405036 000034  00704  00726              % 02824 AVL---
+200419029 Limpertsberg, Neuman         00704                % 02824 AVL---
+200419024 Limpertsberg, Lefèvr  00705  00705                % 02824 AVL---
+200419012 Limpertsberg, Jean S  00706  00706                % 02824 AVL---
+200419023 Limpertsberg, Léandr  00707  00707                % 02824 AVL---
+200419028 Limpertsberg, N.S. P  00708  00708                % 02824 AVL---
+200419003 Limpertsberg, Alfred  00709  00709                % 02824 AVL---
+200419004 Limpertsberg, Allée   00710  00710                % 02824 AVL---
+200419026 Limpertsberg, Theate  00711  00711                % 02824 AVL---
+200405014 Centre, Fondation Pe  00712  00712                % 02824 AVL---
+200405020 Hamilius (Bus)        00717  00717                % 02824 AVL---
+200405038 Luxembourg, Ste Zith  00719  00719                % 02824 AVL---
+200405024 Luxembourg/Centre, M  00720  00720                % 02824 AVL---
+200405012 Centre, Etats-Unis    00721  00721                % 02824 AVL---
+200405062 Centre, Adolphe Fisc  00722  00722                % 02824 AVL---
+200405036 Luxembourg, Gare Cen  00726                       % 02824 AVL---
+*Z 02825 AVL---       012 060                               % 02825 AVL---
+*L 19       200419029 200405036  00734  00756               % 02825 AVL---
+*A BE 200419029 200405036 000034  00734  00756              % 02825 AVL---
+*R 2 200405036 200419029 200405036  00734  00756            % 02825 AVL---
+*G MDE 200419029 200405036  00734  00756                    % 02825 AVL---
+*A VE 200419029 200405036 000034  00734  00756              % 02825 AVL---
+200419029 Limpertsberg, Neuman         00734                % 02825 AVL---
+200419024 Limpertsberg, Lefèvr  00735  00735                % 02825 AVL---
+200419012 Limpertsberg, Jean S  00736  00736                % 02825 AVL---
+200419023 Limpertsberg, Léandr  00737  00737                % 02825 AVL---
+200419028 Limpertsberg, N.S. P  00738  00738                % 02825 AVL---
+200419003 Limpertsberg, Alfred  00739  00739                % 02825 AVL---
+200419004 Limpertsberg, Allée   00740  00740                % 02825 AVL---
+200419026 Limpertsberg, Theate  00741  00741                % 02825 AVL---
+200405014 Centre, Fondation Pe  00742  00742                % 02825 AVL---
+200405020 Hamilius (Bus)        00747  00747                % 02825 AVL---
+200405038 Luxembourg, Ste Zith  00749  00749                % 02825 AVL---
+200405024 Luxembourg/Centre, M  00750  00750                % 02825 AVL---
+200405012 Centre, Etats-Unis    00751  00751                % 02825 AVL---
+200405062 Centre, Adolphe Fisc  00752  00752                % 02825 AVL---
+200405036 Luxembourg, Gare Cen  00756                       % 02825 AVL---
+*Z 02826 AVL---       013 060                               % 02826 AVL---
+*L 19       200405036 200419029  00626  00651               % 02826 AVL---
+*A BE 200405036 200419029 000033  00626  00651              % 02826 AVL---
+*R 1 200419029 200405036 200419029  00626  00651            % 02826 AVL---
+*G MD  200405036 200419029  00626  00651                    % 02826 AVL---
+*A VE 200405036 200419029 000033  00626  00651              % 02826 AVL---
+200405036 Luxembourg, Gare Cen         00626                % 02826 AVL---
+200405001 Gare, Al Avenue       00628  00628                % 02826 AVL---
+200405013 Centre, F.D. Rooseve  00631  00631                % 02826 AVL---
+200405007 Centre, Cathédrale    00633  00633                % 02826 AVL---
+200405018 Centre, Gruef         00634  00634                % 02826 AVL---
+200405022 Centre, Kasinosgaass  00635  00635                % 02826 AVL---
+200405005 Centre, Badanstalt    00636  00636                % 02826 AVL---
+200405014 Centre, Fondation Pe  00639  00639                % 02826 AVL---
+200419026 Limpertsberg, Theate  00640  00640                % 02826 AVL---
+200419037 Limpertsberg, Kiisch  00641  00641                % 02826 AVL---
+200419010 Limpertsberg, Belle-  00642  00642                % 02826 AVL---
+200419005 Limpertsberg, Arts e  00643  00643                % 02826 AVL---
+200419018 Limpertsberg, Guilla  00644  00644                % 02826 AVL---
+200419011 Limpertsberg, Bois    00645  00645                % 02826 AVL---
+200419035 Limpertsberg, Waasse  00645  00645                % 02826 AVL---
+200419034 Limpertsberg, Square  00646  00646                % 02826 AVL---
+200419008 Limpertsberg, Batty   00647  00647                % 02826 AVL---
+200419020 Luxembourg, Uni Camp  00648  00648                % 02826 AVL---
+200419012 Limpertsberg, Jean S  00649  00649                % 02826 AVL---
+200419024 Limpertsberg, Lefèvr  00650  00650                % 02826 AVL---
+200419029 Limpertsberg, Neuman  00651                       % 02826 AVL---
+*Z 02827 AVL---       012 060                               % 02827 AVL---
+*L 19       200405036 200419029  00656  00721               % 02827 AVL---
+*A BE 200405036 200419029 000033  00656  00721              % 02827 AVL---
+*R 1 200419029 200405036 200419029  00656  00721            % 02827 AVL---
+*G MDE 200405036 200419029  00656  00721                    % 02827 AVL---
+*A VE 200405036 200419029 000033  00656  00721              % 02827 AVL---
+200405036 Luxembourg, Gare Cen         00656                % 02827 AVL---
+200405001 Gare, Al Avenue       00658  00658                % 02827 AVL---
+200405013 Centre, F.D. Rooseve  00701  00701                % 02827 AVL---
+200405007 Centre, Cathédrale    00703  00703                % 02827 AVL---
+200405018 Centre, Gruef         00704  00704                % 02827 AVL---
+200405022 Centre, Kasinosgaass  00705  00705                % 02827 AVL---
+200405005 Centre, Badanstalt    00706  00706                % 02827 AVL---
+200405014 Centre, Fondation Pe  00709  00709                % 02827 AVL---
+200419026 Limpertsberg, Theate  00710  00710                % 02827 AVL---
+200419037 Limpertsberg, Kiisch  00711  00711                % 02827 AVL---
+200419010 Limpertsberg, Belle-  00712  00712                % 02827 AVL---
+200419005 Limpertsberg, Arts e  00713  00713                % 02827 AVL---
+200419018 Limpertsberg, Guilla  00714  00714                % 02827 AVL---
+200419011 Limpertsberg, Bois    00715  00715                % 02827 AVL---
+200419035 Limpertsberg, Waasse  00715  00715                % 02827 AVL---
+200419034 Limpertsberg, Square  00716  00716                % 02827 AVL---
+200419008 Limpertsberg, Batty   00717  00717                % 02827 AVL---
+200419020 Luxembourg, Uni Camp  00718  00718                % 02827 AVL---
+200419012 Limpertsberg, Jean S  00719  00719                % 02827 AVL---
+200419024 Limpertsberg, Lefèvr  00720  00720                % 02827 AVL---
+200419029 Limpertsberg, Neuman  00721                       % 02827 AVL---
+*Z 02828 AVL---       012 060                               % 02828 AVL---
+*L 19       200419029 200405036  00704  00726               % 02828 AVL---
+*A BE 200419029 200405036 000033  00704  00726              % 02828 AVL---
+*R 2 200405036 200419029 200405036  00704  00726            % 02828 AVL---
+*G MD  200419029 200405036  00704  00726                    % 02828 AVL---
+*A VE 200419029 200405036 000033  00704  00726              % 02828 AVL---
+200419029 Limpertsberg, Neuman         00704                % 02828 AVL---
+200419024 Limpertsberg, Lefèvr  00705  00705                % 02828 AVL---
+200419012 Limpertsberg, Jean S  00706  00706                % 02828 AVL---
+200419023 Limpertsberg, Léandr  00707  00707                % 02828 AVL---
+200419028 Limpertsberg, N.S. P  00708  00708                % 02828 AVL---
+200419003 Limpertsberg, Alfred  00709  00709                % 02828 AVL---
+200419004 Limpertsberg, Allée   00710  00710                % 02828 AVL---
+200419026 Limpertsberg, Theate  00711  00711                % 02828 AVL---
+200405014 Centre, Fondation Pe  00712  00712                % 02828 AVL---
+200405020 Hamilius (Bus)        00717  00717                % 02828 AVL---
+200405038 Luxembourg, Ste Zith  00719  00719                % 02828 AVL---
+200405024 Luxembourg/Centre, M  00720  00720                % 02828 AVL---
+200405012 Centre, Etats-Unis    00721  00721                % 02828 AVL---
+200405062 Centre, Adolphe Fisc  00722  00722                % 02828 AVL---
+200405036 Luxembourg, Gare Cen  00726                       % 02828 AVL---
+*Z 02829 AVL---       012 060                               % 02829 AVL---
+*L 19       200419029 200405036  00734  00756               % 02829 AVL---
+*A BE 200419029 200405036 000033  00734  00756              % 02829 AVL---
+*R 2 200405036 200419029 200405036  00734  00756            % 02829 AVL---
+*G MDE 200419029 200405036  00734  00756                    % 02829 AVL---
+*A VE 200419029 200405036 000033  00734  00756              % 02829 AVL---
+200419029 Limpertsberg, Neuman         00734                % 02829 AVL---
+200419024 Limpertsberg, Lefèvr  00735  00735                % 02829 AVL---
+200419012 Limpertsberg, Jean S  00736  00736                % 02829 AVL---
+200419023 Limpertsberg, Léandr  00737  00737                % 02829 AVL---
+200419028 Limpertsberg, N.S. P  00738  00738                % 02829 AVL---
+200419003 Limpertsberg, Alfred  00739  00739                % 02829 AVL---
+200419004 Limpertsberg, Allée   00740  00740                % 02829 AVL---
+200419026 Limpertsberg, Theate  00741  00741                % 02829 AVL---
+200405014 Centre, Fondation Pe  00742  00742                % 02829 AVL---
+200405020 Hamilius (Bus)        00747  00747                % 02829 AVL---
+200405038 Luxembourg, Ste Zith  00749  00749                % 02829 AVL---
+200405024 Luxembourg/Centre, M  00750  00750                % 02829 AVL---
+200405012 Centre, Etats-Unis    00751  00751                % 02829 AVL---
+200405062 Centre, Adolphe Fisc  00752  00752                % 02829 AVL---
+200405036 Luxembourg, Gare Cen  00756                       % 02829 AVL---

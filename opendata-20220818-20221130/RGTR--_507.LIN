@@ -1,0 +1,2419 @@
+*F 03 2
+*Z 03333 RGTR--                                             % 03333 RGTR--
+*L 507      400000095 200417050  00500  00530               % 03333 RGTR--
+*R 1 200417050 400000095 200417050  00500  00530            % 03333 RGTR--
+*G 072 400000095 200417050  00500  00530                    % 03333 RGTR--
+*A VE 400000095 200417050 000036  00500  00530              % 03333 RGTR--
+*I FD 400000095 200417050        0001725  00500  00530      % 03333 RGTR--
+400000095 Volmerange-les-Mines         00500                % 03333 RGTR--
+220301049 Dudelange, Schlakemi -00501  00501                % 03333 RGTR--
+220301070 Dudelange, Rue Grand -00502  00502                % 03333 RGTR--
+220301056 Dudelange, Centre Cu -00502  00502                % 03333 RGTR--
+220301038 Dudelange, Rue de la -00503  00503                % 03333 RGTR--
+220301033 Dudelange, Rue Antoi -00504  00504                % 03333 RGTR--
+220301004 Dudelange, Rue Belai -00505  00505                % 03333 RGTR--
+220301032 Dudelange, Kräizbier -00506  00506                % 03333 RGTR--
+200417050 Kirchberg, Gare rout  00530                       % 03333 RGTR--
+*Z 03334 RGTR--                                             % 03334 RGTR--
+*L 507      400000095 200417050  00600  00630               % 03334 RGTR--
+*R 1 200417050 400000095 200417050  00600  00630            % 03334 RGTR--
+*G 072 400000095 200417050  00600  00630                    % 03334 RGTR--
+*A VE 400000095 200417050 000036  00600  00630              % 03334 RGTR--
+*I FD 400000095 200417050        0001717  00600  00630      % 03334 RGTR--
+400000095 Volmerange-les-Mines         00600                % 03334 RGTR--
+220301049 Dudelange, Schlakemi -00601  00601                % 03334 RGTR--
+220301070 Dudelange, Rue Grand -00602  00602                % 03334 RGTR--
+220301056 Dudelange, Centre Cu -00602  00602                % 03334 RGTR--
+220301038 Dudelange, Rue de la -00603  00603                % 03334 RGTR--
+220301033 Dudelange, Rue Antoi -00604  00604                % 03334 RGTR--
+220301004 Dudelange, Rue Belai -00605  00605                % 03334 RGTR--
+220301032 Dudelange, Kräizbier -00606  00606                % 03334 RGTR--
+200417050 Kirchberg, Gare rout  00630                       % 03334 RGTR--
+*Z 03335 RGTR--                                             % 03335 RGTR--
+*L 507      400000095 200417050  01000  01030               % 03335 RGTR--
+*R 1 200417050 400000095 200417050  01000  01030            % 03335 RGTR--
+*G 072 400000095 200417050  01000  01030                    % 03335 RGTR--
+*A VE 400000095 200417050 000036  01000  01030              % 03335 RGTR--
+*I FD 400000095 200417050        0001712  01000  01030      % 03335 RGTR--
+400000095 Volmerange-les-Mines         01000                % 03335 RGTR--
+220301049 Dudelange, Schlakemi -01001  01001                % 03335 RGTR--
+220301070 Dudelange, Rue Grand -01002  01002                % 03335 RGTR--
+220301056 Dudelange, Centre Cu -01002  01002                % 03335 RGTR--
+220301038 Dudelange, Rue de la -01003  01003                % 03335 RGTR--
+220301033 Dudelange, Rue Antoi -01004  01004                % 03335 RGTR--
+220301004 Dudelange, Rue Belai -01005  01005                % 03335 RGTR--
+220301032 Dudelange, Kräizbier -01006  01006                % 03335 RGTR--
+200417050 Kirchberg, Gare rout  01030                       % 03335 RGTR--
+*Z 03336 RGTR--                                             % 03336 RGTR--
+*L 507      400000095 200417050  01100  01130               % 03336 RGTR--
+*R 1 200417050 400000095 200417050  01100  01130            % 03336 RGTR--
+*G 072 400000095 200417050  01100  01130                    % 03336 RGTR--
+*A VE 400000095 200417050 000036  01100  01130              % 03336 RGTR--
+*I FD 400000095 200417050        0001719  01100  01130      % 03336 RGTR--
+400000095 Volmerange-les-Mines         01100                % 03336 RGTR--
+220301049 Dudelange, Schlakemi -01101  01101                % 03336 RGTR--
+220301070 Dudelange, Rue Grand -01102  01102                % 03336 RGTR--
+220301056 Dudelange, Centre Cu -01102  01102                % 03336 RGTR--
+220301038 Dudelange, Rue de la -01103  01103                % 03336 RGTR--
+220301033 Dudelange, Rue Antoi -01104  01104                % 03336 RGTR--
+220301004 Dudelange, Rue Belai -01105  01105                % 03336 RGTR--
+220301032 Dudelange, Kräizbier -01106  01106                % 03336 RGTR--
+200417050 Kirchberg, Gare rout  01130                       % 03336 RGTR--
+*Z 03337 RGTR--                                             % 03337 RGTR--
+*L 507      400000095 200417050  01200  01230               % 03337 RGTR--
+*R 1 200417050 400000095 200417050  01200  01230            % 03337 RGTR--
+*G 072 400000095 200417050  01200  01230                    % 03337 RGTR--
+*A VE 400000095 200417050 000036  01200  01230              % 03337 RGTR--
+*I FD 400000095 200417050        0001713  01200  01230      % 03337 RGTR--
+400000095 Volmerange-les-Mines         01200                % 03337 RGTR--
+220301049 Dudelange, Schlakemi -01201  01201                % 03337 RGTR--
+220301070 Dudelange, Rue Grand -01202  01202                % 03337 RGTR--
+220301056 Dudelange, Centre Cu -01202  01202                % 03337 RGTR--
+220301038 Dudelange, Rue de la -01203  01203                % 03337 RGTR--
+220301033 Dudelange, Rue Antoi -01204  01204                % 03337 RGTR--
+220301004 Dudelange, Rue Belai -01205  01205                % 03337 RGTR--
+220301032 Dudelange, Kräizbier -01206  01206                % 03337 RGTR--
+200417050 Kirchberg, Gare rout  01230                       % 03337 RGTR--
+*Z 03338 RGTR--                                             % 03338 RGTR--
+*L 507      400000095 200417050  01300  01330               % 03338 RGTR--
+*R 1 200417050 400000095 200417050  01300  01330            % 03338 RGTR--
+*G 072 400000095 200417050  01300  01330                    % 03338 RGTR--
+*A VE 400000095 200417050 000036  01300  01330              % 03338 RGTR--
+*I FD 400000095 200417050        0001720  01300  01330      % 03338 RGTR--
+400000095 Volmerange-les-Mines         01300                % 03338 RGTR--
+220301049 Dudelange, Schlakemi -01301  01301                % 03338 RGTR--
+220301070 Dudelange, Rue Grand -01302  01302                % 03338 RGTR--
+220301056 Dudelange, Centre Cu -01302  01302                % 03338 RGTR--
+220301038 Dudelange, Rue de la -01303  01303                % 03338 RGTR--
+220301033 Dudelange, Rue Antoi -01304  01304                % 03338 RGTR--
+220301004 Dudelange, Rue Belai -01305  01305                % 03338 RGTR--
+220301032 Dudelange, Kräizbier -01306  01306                % 03338 RGTR--
+200417050 Kirchberg, Gare rout  01330                       % 03338 RGTR--
+*Z 03339 RGTR--                                             % 03339 RGTR--
+*L 507      400000095 200417050  01400  01430               % 03339 RGTR--
+*R 1 200417050 400000095 200417050  01400  01430            % 03339 RGTR--
+*G 072 400000095 200417050  01400  01430                    % 03339 RGTR--
+*A VE 400000095 200417050 000036  01400  01430              % 03339 RGTR--
+*I FD 400000095 200417050        0001714  01400  01430      % 03339 RGTR--
+400000095 Volmerange-les-Mines         01400                % 03339 RGTR--
+220301049 Dudelange, Schlakemi -01401  01401                % 03339 RGTR--
+220301070 Dudelange, Rue Grand -01402  01402                % 03339 RGTR--
+220301056 Dudelange, Centre Cu -01402  01402                % 03339 RGTR--
+220301038 Dudelange, Rue de la -01403  01403                % 03339 RGTR--
+220301033 Dudelange, Rue Antoi -01404  01404                % 03339 RGTR--
+220301004 Dudelange, Rue Belai -01405  01405                % 03339 RGTR--
+220301032 Dudelange, Kräizbier -01406  01406                % 03339 RGTR--
+200417050 Kirchberg, Gare rout  01430                       % 03339 RGTR--
+*Z 03340 RGTR--                                             % 03340 RGTR--
+*L 507      400000095 200417050  01500  01530               % 03340 RGTR--
+*R 1 200417050 400000095 200417050  01500  01530            % 03340 RGTR--
+*G 072 400000095 200417050  01500  01530                    % 03340 RGTR--
+*A VE 400000095 200417050 000036  01500  01530              % 03340 RGTR--
+*I FD 400000095 200417050        0001721  01500  01530      % 03340 RGTR--
+400000095 Volmerange-les-Mines         01500                % 03340 RGTR--
+220301049 Dudelange, Schlakemi -01501  01501                % 03340 RGTR--
+220301070 Dudelange, Rue Grand -01502  01502                % 03340 RGTR--
+220301056 Dudelange, Centre Cu -01502  01502                % 03340 RGTR--
+220301038 Dudelange, Rue de la -01503  01503                % 03340 RGTR--
+220301033 Dudelange, Rue Antoi -01504  01504                % 03340 RGTR--
+220301004 Dudelange, Rue Belai -01505  01505                % 03340 RGTR--
+220301032 Dudelange, Kräizbier -01506  01506                % 03340 RGTR--
+200417050 Kirchberg, Gare rout  01530                       % 03340 RGTR--
+*Z 03341 RGTR--                                             % 03341 RGTR--
+*L 507      400000095 200417050  01600  01630               % 03341 RGTR--
+*R 1 200417050 400000095 200417050  01600  01630            % 03341 RGTR--
+*G 072 400000095 200417050  01600  01630                    % 03341 RGTR--
+*A VE 400000095 200417050 000036  01600  01630              % 03341 RGTR--
+*I FD 400000095 200417050        0001727  01600  01630      % 03341 RGTR--
+400000095 Volmerange-les-Mines         01600                % 03341 RGTR--
+220301049 Dudelange, Schlakemi -01601  01601                % 03341 RGTR--
+220301070 Dudelange, Rue Grand -01602  01602                % 03341 RGTR--
+220301056 Dudelange, Centre Cu -01602  01602                % 03341 RGTR--
+220301038 Dudelange, Rue de la -01603  01603                % 03341 RGTR--
+220301033 Dudelange, Rue Antoi -01604  01604                % 03341 RGTR--
+220301004 Dudelange, Rue Belai -01605  01605                % 03341 RGTR--
+220301032 Dudelange, Kräizbier -01606  01606                % 03341 RGTR--
+200417050 Kirchberg, Gare rout  01630                       % 03341 RGTR--
+*Z 03342 RGTR--                                             % 03342 RGTR--
+*L 507      400000095 200417050  01700  01730               % 03342 RGTR--
+*R 1 200417050 400000095 200417050  01700  01730            % 03342 RGTR--
+*G 072 400000095 200417050  01700  01730                    % 03342 RGTR--
+*A VE 400000095 200417050 000036  01700  01730              % 03342 RGTR--
+*I FD 400000095 200417050        0001732  01700  01730      % 03342 RGTR--
+400000095 Volmerange-les-Mines         01700                % 03342 RGTR--
+220301049 Dudelange, Schlakemi -01701  01701                % 03342 RGTR--
+220301070 Dudelange, Rue Grand -01702  01702                % 03342 RGTR--
+220301056 Dudelange, Centre Cu -01702  01702                % 03342 RGTR--
+220301038 Dudelange, Rue de la -01703  01703                % 03342 RGTR--
+220301033 Dudelange, Rue Antoi -01704  01704                % 03342 RGTR--
+220301004 Dudelange, Rue Belai -01705  01705                % 03342 RGTR--
+220301032 Dudelange, Kräizbier -01706  01706                % 03342 RGTR--
+200417050 Kirchberg, Gare rout  01730                       % 03342 RGTR--
+*Z 03343 RGTR--                                             % 03343 RGTR--
+*L 507      400000095 200417050  01800  01830               % 03343 RGTR--
+*R 1 200417050 400000095 200417050  01800  01830            % 03343 RGTR--
+*G 072 400000095 200417050  01800  01830                    % 03343 RGTR--
+*A VE 400000095 200417050 000036  01800  01830              % 03343 RGTR--
+*I FD 400000095 200417050        0001728  01800  01830      % 03343 RGTR--
+400000095 Volmerange-les-Mines         01800                % 03343 RGTR--
+220301049 Dudelange, Schlakemi -01801  01801                % 03343 RGTR--
+220301070 Dudelange, Rue Grand -01802  01802                % 03343 RGTR--
+220301056 Dudelange, Centre Cu -01802  01802                % 03343 RGTR--
+220301038 Dudelange, Rue de la -01803  01803                % 03343 RGTR--
+220301033 Dudelange, Rue Antoi -01804  01804                % 03343 RGTR--
+220301004 Dudelange, Rue Belai -01805  01805                % 03343 RGTR--
+220301032 Dudelange, Kräizbier -01806  01806                % 03343 RGTR--
+200417050 Kirchberg, Gare rout  01830                       % 03343 RGTR--
+*Z 03344 RGTR--                                             % 03344 RGTR--
+*L 507      400000095 200417050  01900  01930               % 03344 RGTR--
+*R 1 200417050 400000095 200417050  01900  01930            % 03344 RGTR--
+*G 072 400000095 200417050  01900  01930                    % 03344 RGTR--
+*A VE 400000095 200417050 000036  01900  01930              % 03344 RGTR--
+*I FD 400000095 200417050        0001723  01900  01930      % 03344 RGTR--
+400000095 Volmerange-les-Mines         01900                % 03344 RGTR--
+220301049 Dudelange, Schlakemi -01901  01901                % 03344 RGTR--
+220301070 Dudelange, Rue Grand -01902  01902                % 03344 RGTR--
+220301056 Dudelange, Centre Cu -01902  01902                % 03344 RGTR--
+220301038 Dudelange, Rue de la -01903  01903                % 03344 RGTR--
+220301033 Dudelange, Rue Antoi -01904  01904                % 03344 RGTR--
+220301004 Dudelange, Rue Belai -01905  01905                % 03344 RGTR--
+220301032 Dudelange, Kräizbier -01906  01906                % 03344 RGTR--
+200417050 Kirchberg, Gare rout  01930                       % 03344 RGTR--
+*Z 03345 RGTR--                                             % 03345 RGTR--
+*L 507      400000095 200417050  00530  00600               % 03345 RGTR--
+*R 1 200417050 400000095 200417050  00530  00600            % 03345 RGTR--
+*G 072 400000095 200417050  00530  00600                    % 03345 RGTR--
+*A VE 400000095 200417050 000033  00530  00600              % 03345 RGTR--
+*I FD 400000095 200417050        0001969  00530  00600      % 03345 RGTR--
+400000095 Volmerange-les-Mines         00530                % 03345 RGTR--
+220301049 Dudelange, Schlakemi -00531  00531                % 03345 RGTR--
+220301070 Dudelange, Rue Grand -00532  00532                % 03345 RGTR--
+220301056 Dudelange, Centre Cu -00532  00532                % 03345 RGTR--
+220301038 Dudelange, Rue de la -00533  00533                % 03345 RGTR--
+220301033 Dudelange, Rue Antoi -00534  00534                % 03345 RGTR--
+220301004 Dudelange, Rue Belai -00535  00535                % 03345 RGTR--
+220301032 Dudelange, Kräizbier -00536  00536                % 03345 RGTR--
+200417050 Kirchberg, Gare rout  00600                       % 03345 RGTR--
+*Z 03346 RGTR--                                             % 03346 RGTR--
+*L 507      400000095 200417050  00615  00645               % 03346 RGTR--
+*R 1 200417050 400000095 200417050  00615  00645            % 03346 RGTR--
+*G 072 400000095 200417050  00615  00645                    % 03346 RGTR--
+*A VE 400000095 200417050 000033  00615  00645              % 03346 RGTR--
+*I FD 400000095 200417050        0001887  00615  00645      % 03346 RGTR--
+400000095 Volmerange-les-Mines         00615                % 03346 RGTR--
+220301049 Dudelange, Schlakemi -00616  00616                % 03346 RGTR--
+220301070 Dudelange, Rue Grand -00617  00617                % 03346 RGTR--
+220301056 Dudelange, Centre Cu -00617  00617                % 03346 RGTR--
+220301038 Dudelange, Rue de la -00618  00618                % 03346 RGTR--
+220301033 Dudelange, Rue Antoi -00619  00619                % 03346 RGTR--
+220301004 Dudelange, Rue Belai -00620  00620                % 03346 RGTR--
+220301032 Dudelange, Kräizbier -00621  00621                % 03346 RGTR--
+200417050 Kirchberg, Gare rout  00645                       % 03346 RGTR--
+*Z 03347 RGTR--                                             % 03347 RGTR--
+*L 507      400000095 200417050  00630  00700               % 03347 RGTR--
+*R 1 200417050 400000095 200417050  00630  00700            % 03347 RGTR--
+*G 072 400000095 200417050  00630  00700                    % 03347 RGTR--
+*A VE 400000095 200417050 000033  00630  00700              % 03347 RGTR--
+*I FD 400000095 200417050        0000839  00630  00700      % 03347 RGTR--
+400000095 Volmerange-les-Mines         00630                % 03347 RGTR--
+220301049 Dudelange, Schlakemi -00631  00631                % 03347 RGTR--
+220301070 Dudelange, Rue Grand -00632  00632                % 03347 RGTR--
+220301056 Dudelange, Centre Cu -00632  00632                % 03347 RGTR--
+220301038 Dudelange, Rue de la -00633  00633                % 03347 RGTR--
+220301033 Dudelange, Rue Antoi -00634  00634                % 03347 RGTR--
+220301004 Dudelange, Rue Belai -00635  00635                % 03347 RGTR--
+220301032 Dudelange, Kräizbier -00636  00636                % 03347 RGTR--
+200417050 Kirchberg, Gare rout  00700                       % 03347 RGTR--
+*Z 03348 RGTR--                                             % 03348 RGTR--
+*L 507      400000095 200417050  00930  01000               % 03348 RGTR--
+*R 1 200417050 400000095 200417050  00930  01000            % 03348 RGTR--
+*G 072 400000095 200417050  00930  01000                    % 03348 RGTR--
+*A VE 400000095 200417050 000033  00930  01000              % 03348 RGTR--
+*I FD 400000095 200417050        0000923  00930  01000      % 03348 RGTR--
+400000095 Volmerange-les-Mines         00930                % 03348 RGTR--
+220301049 Dudelange, Schlakemi -00931  00931                % 03348 RGTR--
+220301070 Dudelange, Rue Grand -00932  00932                % 03348 RGTR--
+220301056 Dudelange, Centre Cu -00932  00932                % 03348 RGTR--
+220301038 Dudelange, Rue de la -00933  00933                % 03348 RGTR--
+220301033 Dudelange, Rue Antoi -00934  00934                % 03348 RGTR--
+220301004 Dudelange, Rue Belai -00935  00935                % 03348 RGTR--
+220301032 Dudelange, Kräizbier -00936  00936                % 03348 RGTR--
+200417050 Kirchberg, Gare rout  01000                       % 03348 RGTR--
+*Z 03349 RGTR--                                             % 03349 RGTR--
+*L 507      400000095 200417050  01030  01100               % 03349 RGTR--
+*R 1 200417050 400000095 200417050  01030  01100            % 03349 RGTR--
+*G 072 400000095 200417050  01030  01100                    % 03349 RGTR--
+*A VE 400000095 200417050 000033  01030  01100              % 03349 RGTR--
+*I FD 400000095 200417050        0001970  01030  01100      % 03349 RGTR--
+400000095 Volmerange-les-Mines         01030                % 03349 RGTR--
+220301049 Dudelange, Schlakemi -01031  01031                % 03349 RGTR--
+220301070 Dudelange, Rue Grand -01032  01032                % 03349 RGTR--
+220301056 Dudelange, Centre Cu -01032  01032                % 03349 RGTR--
+220301038 Dudelange, Rue de la -01033  01033                % 03349 RGTR--
+220301033 Dudelange, Rue Antoi -01034  01034                % 03349 RGTR--
+220301004 Dudelange, Rue Belai -01035  01035                % 03349 RGTR--
+220301032 Dudelange, Kräizbier -01036  01036                % 03349 RGTR--
+200417050 Kirchberg, Gare rout  01100                       % 03349 RGTR--
+*Z 03350 RGTR--                                             % 03350 RGTR--
+*L 507      400000095 200417050  01130  01200               % 03350 RGTR--
+*R 1 200417050 400000095 200417050  01130  01200            % 03350 RGTR--
+*G 072 400000095 200417050  01130  01200                    % 03350 RGTR--
+*A VE 400000095 200417050 000033  01130  01200              % 03350 RGTR--
+*I FD 400000095 200417050        0001973  01130  01200      % 03350 RGTR--
+400000095 Volmerange-les-Mines         01130                % 03350 RGTR--
+220301049 Dudelange, Schlakemi -01131  01131                % 03350 RGTR--
+220301070 Dudelange, Rue Grand -01132  01132                % 03350 RGTR--
+220301056 Dudelange, Centre Cu -01132  01132                % 03350 RGTR--
+220301038 Dudelange, Rue de la -01133  01133                % 03350 RGTR--
+220301033 Dudelange, Rue Antoi -01134  01134                % 03350 RGTR--
+220301004 Dudelange, Rue Belai -01135  01135                % 03350 RGTR--
+220301032 Dudelange, Kräizbier -01136  01136                % 03350 RGTR--
+200417050 Kirchberg, Gare rout  01200                       % 03350 RGTR--
+*Z 03351 RGTR--                                             % 03351 RGTR--
+*L 507      400000095 200417050  01230  01300               % 03351 RGTR--
+*R 1 200417050 400000095 200417050  01230  01300            % 03351 RGTR--
+*G 072 400000095 200417050  01230  01300                    % 03351 RGTR--
+*A VE 400000095 200417050 000033  01230  01300              % 03351 RGTR--
+*I FD 400000095 200417050        0001974  01230  01300      % 03351 RGTR--
+400000095 Volmerange-les-Mines         01230                % 03351 RGTR--
+220301049 Dudelange, Schlakemi -01231  01231                % 03351 RGTR--
+220301070 Dudelange, Rue Grand -01232  01232                % 03351 RGTR--
+220301056 Dudelange, Centre Cu -01232  01232                % 03351 RGTR--
+220301038 Dudelange, Rue de la -01233  01233                % 03351 RGTR--
+220301033 Dudelange, Rue Antoi -01234  01234                % 03351 RGTR--
+220301004 Dudelange, Rue Belai -01235  01235                % 03351 RGTR--
+220301032 Dudelange, Kräizbier -01236  01236                % 03351 RGTR--
+200417050 Kirchberg, Gare rout  01300                       % 03351 RGTR--
+*Z 03352 RGTR--                                             % 03352 RGTR--
+*L 507      400000095 200417050  01330  01400               % 03352 RGTR--
+*R 1 200417050 400000095 200417050  01330  01400            % 03352 RGTR--
+*G 072 400000095 200417050  01330  01400                    % 03352 RGTR--
+*A VE 400000095 200417050 000033  01330  01400              % 03352 RGTR--
+*I FD 400000095 200417050        0001971  01330  01400      % 03352 RGTR--
+400000095 Volmerange-les-Mines         01330                % 03352 RGTR--
+220301049 Dudelange, Schlakemi -01331  01331                % 03352 RGTR--
+220301070 Dudelange, Rue Grand -01332  01332                % 03352 RGTR--
+220301056 Dudelange, Centre Cu -01332  01332                % 03352 RGTR--
+220301038 Dudelange, Rue de la -01333  01333                % 03352 RGTR--
+220301033 Dudelange, Rue Antoi -01334  01334                % 03352 RGTR--
+220301004 Dudelange, Rue Belai -01335  01335                % 03352 RGTR--
+220301032 Dudelange, Kräizbier -01336  01336                % 03352 RGTR--
+200417050 Kirchberg, Gare rout  01400                       % 03352 RGTR--
+*Z 03353 RGTR--                                             % 03353 RGTR--
+*L 507      400000095 200417050  01430  01500               % 03353 RGTR--
+*R 1 200417050 400000095 200417050  01430  01500            % 03353 RGTR--
+*G 072 400000095 200417050  01430  01500                    % 03353 RGTR--
+*A VE 400000095 200417050 000033  01430  01500              % 03353 RGTR--
+*I FD 400000095 200417050        0001975  01430  01500      % 03353 RGTR--
+400000095 Volmerange-les-Mines         01430                % 03353 RGTR--
+220301049 Dudelange, Schlakemi -01431  01431                % 03353 RGTR--
+220301070 Dudelange, Rue Grand -01432  01432                % 03353 RGTR--
+220301056 Dudelange, Centre Cu -01432  01432                % 03353 RGTR--
+220301038 Dudelange, Rue de la -01433  01433                % 03353 RGTR--
+220301033 Dudelange, Rue Antoi -01434  01434                % 03353 RGTR--
+220301004 Dudelange, Rue Belai -01435  01435                % 03353 RGTR--
+220301032 Dudelange, Kräizbier -01436  01436                % 03353 RGTR--
+200417050 Kirchberg, Gare rout  01500                       % 03353 RGTR--
+*Z 03354 RGTR--                                             % 03354 RGTR--
+*L 507      400000095 200417050  01530  01600               % 03354 RGTR--
+*R 1 200417050 400000095 200417050  01530  01600            % 03354 RGTR--
+*G 072 400000095 200417050  01530  01600                    % 03354 RGTR--
+*A VE 400000095 200417050 000033  01530  01600              % 03354 RGTR--
+*I FD 400000095 200417050        0001976  01530  01600      % 03354 RGTR--
+400000095 Volmerange-les-Mines         01530                % 03354 RGTR--
+220301049 Dudelange, Schlakemi -01531  01531                % 03354 RGTR--
+220301070 Dudelange, Rue Grand -01532  01532                % 03354 RGTR--
+220301056 Dudelange, Centre Cu -01532  01532                % 03354 RGTR--
+220301038 Dudelange, Rue de la -01533  01533                % 03354 RGTR--
+220301033 Dudelange, Rue Antoi -01534  01534                % 03354 RGTR--
+220301004 Dudelange, Rue Belai -01535  01535                % 03354 RGTR--
+220301032 Dudelange, Kräizbier -01536  01536                % 03354 RGTR--
+200417050 Kirchberg, Gare rout  01600                       % 03354 RGTR--
+*Z 03355 RGTR--                                             % 03355 RGTR--
+*L 507      400000095 200417050  01630  01700               % 03355 RGTR--
+*R 1 200417050 400000095 200417050  01630  01700            % 03355 RGTR--
+*G 072 400000095 200417050  01630  01700                    % 03355 RGTR--
+*A VE 400000095 200417050 000033  01630  01700              % 03355 RGTR--
+*I FD 400000095 200417050        0001731  01630  01700      % 03355 RGTR--
+400000095 Volmerange-les-Mines         01630                % 03355 RGTR--
+220301049 Dudelange, Schlakemi -01631  01631                % 03355 RGTR--
+220301070 Dudelange, Rue Grand -01632  01632                % 03355 RGTR--
+220301056 Dudelange, Centre Cu -01632  01632                % 03355 RGTR--
+220301038 Dudelange, Rue de la -01633  01633                % 03355 RGTR--
+220301033 Dudelange, Rue Antoi -01634  01634                % 03355 RGTR--
+220301004 Dudelange, Rue Belai -01635  01635                % 03355 RGTR--
+220301032 Dudelange, Kräizbier -01636  01636                % 03355 RGTR--
+200417050 Kirchberg, Gare rout  01700                       % 03355 RGTR--
+*Z 03356 RGTR--                                             % 03356 RGTR--
+*L 507      400000095 200417050  01730  01800               % 03356 RGTR--
+*R 1 200417050 400000095 200417050  01730  01800            % 03356 RGTR--
+*G 072 400000095 200417050  01730  01800                    % 03356 RGTR--
+*A VE 400000095 200417050 000033  01730  01800              % 03356 RGTR--
+*I FD 400000095 200417050        0001733  01730  01800      % 03356 RGTR--
+400000095 Volmerange-les-Mines         01730                % 03356 RGTR--
+220301049 Dudelange, Schlakemi -01731  01731                % 03356 RGTR--
+220301070 Dudelange, Rue Grand -01732  01732                % 03356 RGTR--
+220301056 Dudelange, Centre Cu -01732  01732                % 03356 RGTR--
+220301038 Dudelange, Rue de la -01733  01733                % 03356 RGTR--
+220301033 Dudelange, Rue Antoi -01734  01734                % 03356 RGTR--
+220301004 Dudelange, Rue Belai -01735  01735                % 03356 RGTR--
+220301032 Dudelange, Kräizbier -01736  01736                % 03356 RGTR--
+200417050 Kirchberg, Gare rout  01800                       % 03356 RGTR--
+*Z 03357 RGTR--                                             % 03357 RGTR--
+*L 507      400000095 200417050  01830  01900               % 03357 RGTR--
+*R 1 200417050 400000095 200417050  01830  01900            % 03357 RGTR--
+*G 072 400000095 200417050  01830  01900                    % 03357 RGTR--
+*A VE 400000095 200417050 000033  01830  01900              % 03357 RGTR--
+*I FD 400000095 200417050        0001722  01830  01900      % 03357 RGTR--
+400000095 Volmerange-les-Mines         01830                % 03357 RGTR--
+220301049 Dudelange, Schlakemi -01831  01831                % 03357 RGTR--
+220301070 Dudelange, Rue Grand -01832  01832                % 03357 RGTR--
+220301056 Dudelange, Centre Cu -01832  01832                % 03357 RGTR--
+220301038 Dudelange, Rue de la -01833  01833                % 03357 RGTR--
+220301033 Dudelange, Rue Antoi -01834  01834                % 03357 RGTR--
+220301004 Dudelange, Rue Belai -01835  01835                % 03357 RGTR--
+220301032 Dudelange, Kräizbier -01836  01836                % 03357 RGTR--
+200417050 Kirchberg, Gare rout  01900                       % 03357 RGTR--
+*Z 03358 RGTR--                                             % 03358 RGTR--
+*L 507      400000095 200417050  02000  02030               % 03358 RGTR--
+*R 1 200417050 400000095 200417050  02000  02030            % 03358 RGTR--
+*G 072 400000095 200417050  02000  02030                    % 03358 RGTR--
+*A VE 400000095 200417050 000033  02000  02030              % 03358 RGTR--
+*I FD 400000095 200417050        0001927  02000  02030      % 03358 RGTR--
+400000095 Volmerange-les-Mines         02000                % 03358 RGTR--
+220301049 Dudelange, Schlakemi -02001  02001                % 03358 RGTR--
+220301070 Dudelange, Rue Grand -02002  02002                % 03358 RGTR--
+220301056 Dudelange, Centre Cu -02002  02002                % 03358 RGTR--
+220301038 Dudelange, Rue de la -02003  02003                % 03358 RGTR--
+220301033 Dudelange, Rue Antoi -02004  02004                % 03358 RGTR--
+220301004 Dudelange, Rue Belai -02005  02005                % 03358 RGTR--
+220301032 Dudelange, Kräizbier -02006  02006                % 03358 RGTR--
+200417050 Kirchberg, Gare rout  02030                       % 03358 RGTR--
+*Z 03359 RGTR--                                             % 03359 RGTR--
+*L 507      400000095 200417050  02100  02130               % 03359 RGTR--
+*R 1 200417050 400000095 200417050  02100  02130            % 03359 RGTR--
+*G 072 400000095 200417050  02100  02130                    % 03359 RGTR--
+*A VE 400000095 200417050 000033  02100  02130              % 03359 RGTR--
+*I FD 400000095 200417050        0001928  02100  02130      % 03359 RGTR--
+400000095 Volmerange-les-Mines         02100                % 03359 RGTR--
+220301049 Dudelange, Schlakemi -02101  02101                % 03359 RGTR--
+220301070 Dudelange, Rue Grand -02102  02102                % 03359 RGTR--
+220301056 Dudelange, Centre Cu -02102  02102                % 03359 RGTR--
+220301038 Dudelange, Rue de la -02103  02103                % 03359 RGTR--
+220301033 Dudelange, Rue Antoi -02104  02104                % 03359 RGTR--
+220301004 Dudelange, Rue Belai -02105  02105                % 03359 RGTR--
+220301032 Dudelange, Kräizbier -02106  02106                % 03359 RGTR--
+200417050 Kirchberg, Gare rout  02130                       % 03359 RGTR--
+*Z 03360 RGTR--                                             % 03360 RGTR--
+*L 507      400000095 200417050  02200  02230               % 03360 RGTR--
+*R 1 200417050 400000095 200417050  02200  02230            % 03360 RGTR--
+*G 072 400000095 200417050  02200  02230                    % 03360 RGTR--
+*A VE 400000095 200417050 000033  02200  02230              % 03360 RGTR--
+*I FD 400000095 200417050        0001934  02200  02230      % 03360 RGTR--
+400000095 Volmerange-les-Mines         02200                % 03360 RGTR--
+220301049 Dudelange, Schlakemi -02201  02201                % 03360 RGTR--
+220301070 Dudelange, Rue Grand -02202  02202                % 03360 RGTR--
+220301056 Dudelange, Centre Cu -02202  02202                % 03360 RGTR--
+220301038 Dudelange, Rue de la -02203  02203                % 03360 RGTR--
+220301033 Dudelange, Rue Antoi -02204  02204                % 03360 RGTR--
+220301004 Dudelange, Rue Belai -02205  02205                % 03360 RGTR--
+220301032 Dudelange, Kräizbier -02206  02206                % 03360 RGTR--
+200417050 Kirchberg, Gare rout  02230                       % 03360 RGTR--
+*Z 03361 RGTR--                                             % 03361 RGTR--
+*L 507      400000095 200417050  02300  02330               % 03361 RGTR--
+*R 1 200417050 400000095 200417050  02300  02330            % 03361 RGTR--
+*G 072 400000095 200417050  02300  02330                    % 03361 RGTR--
+*A VE 400000095 200417050 000033  02300  02330              % 03361 RGTR--
+*I FD 400000095 200417050        0001929  02300  02330      % 03361 RGTR--
+400000095 Volmerange-les-Mines         02300                % 03361 RGTR--
+220301049 Dudelange, Schlakemi -02301  02301                % 03361 RGTR--
+220301070 Dudelange, Rue Grand -02302  02302                % 03361 RGTR--
+220301056 Dudelange, Centre Cu -02302  02302                % 03361 RGTR--
+220301038 Dudelange, Rue de la -02303  02303                % 03361 RGTR--
+220301033 Dudelange, Rue Antoi -02304  02304                % 03361 RGTR--
+220301004 Dudelange, Rue Belai -02305  02305                % 03361 RGTR--
+220301032 Dudelange, Kräizbier -02306  02306                % 03361 RGTR--
+200417050 Kirchberg, Gare rout  02330                       % 03361 RGTR--
+*Z 03362 RGTR--                                             % 03362 RGTR--
+*L 507      400000095 200417050  00700  00738               % 03362 RGTR--
+*R 1 200417050 400000095 200417050  00700  00738            % 03362 RGTR--
+*G 072 400000095 200417050  00700  00738                    % 03362 RGTR--
+*A VE 400000095 200417050 000036  00700  00738              % 03362 RGTR--
+*I FD 400000095 200417050        0001729  00700  00738      % 03362 RGTR--
+400000095 Volmerange-les-Mines         00700                % 03362 RGTR--
+220301049 Dudelange, Schlakemi -00702  00702                % 03362 RGTR--
+220301070 Dudelange, Rue Grand -00703  00703                % 03362 RGTR--
+220301056 Dudelange, Centre Cu -00703  00703                % 03362 RGTR--
+220301038 Dudelange, Rue de la -00704  00704                % 03362 RGTR--
+220301033 Dudelange, Rue Antoi -00705  00705                % 03362 RGTR--
+220301004 Dudelange, Rue Belai -00706  00706                % 03362 RGTR--
+220301032 Dudelange, Kräizbier -00707  00707                % 03362 RGTR--
+200417050 Kirchberg, Gare rout  00738                       % 03362 RGTR--
+*Z 03363 RGTR--                                             % 03363 RGTR--
+*L 507      400000095 200417050  00800  00838               % 03363 RGTR--
+*R 1 200417050 400000095 200417050  00800  00838            % 03363 RGTR--
+*G 072 400000095 200417050  00800  00838                    % 03363 RGTR--
+*A VE 400000095 200417050 000036  00800  00838              % 03363 RGTR--
+*I FD 400000095 200417050        0001726  00800  00838      % 03363 RGTR--
+400000095 Volmerange-les-Mines         00800                % 03363 RGTR--
+220301049 Dudelange, Schlakemi -00802  00802                % 03363 RGTR--
+220301070 Dudelange, Rue Grand -00803  00803                % 03363 RGTR--
+220301056 Dudelange, Centre Cu -00803  00803                % 03363 RGTR--
+220301038 Dudelange, Rue de la -00804  00804                % 03363 RGTR--
+220301033 Dudelange, Rue Antoi -00805  00805                % 03363 RGTR--
+220301004 Dudelange, Rue Belai -00806  00806                % 03363 RGTR--
+220301032 Dudelange, Kräizbier -00807  00807                % 03363 RGTR--
+200417050 Kirchberg, Gare rout  00838                       % 03363 RGTR--
+*Z 03364 RGTR--                                             % 03364 RGTR--
+*L 507      400000095 200417050  00900  00938               % 03364 RGTR--
+*R 1 200417050 400000095 200417050  00900  00938            % 03364 RGTR--
+*G 072 400000095 200417050  00900  00938                    % 03364 RGTR--
+*A VE 400000095 200417050 000036  00900  00938              % 03364 RGTR--
+*I FD 400000095 200417050        0001718  00900  00938      % 03364 RGTR--
+400000095 Volmerange-les-Mines         00900                % 03364 RGTR--
+220301049 Dudelange, Schlakemi -00902  00902                % 03364 RGTR--
+220301070 Dudelange, Rue Grand -00903  00903                % 03364 RGTR--
+220301056 Dudelange, Centre Cu -00903  00903                % 03364 RGTR--
+220301038 Dudelange, Rue de la -00904  00904                % 03364 RGTR--
+220301033 Dudelange, Rue Antoi -00905  00905                % 03364 RGTR--
+220301004 Dudelange, Rue Belai -00906  00906                % 03364 RGTR--
+220301032 Dudelange, Kräizbier -00907  00907                % 03364 RGTR--
+200417050 Kirchberg, Gare rout  00938                       % 03364 RGTR--
+*Z 03365 RGTR--                                             % 03365 RGTR--
+*L 507      400000095 200417050  00645  00723               % 03365 RGTR--
+*R 1 200417050 400000095 200417050  00645  00723            % 03365 RGTR--
+*G 072 400000095 200417050  00645  00723                    % 03365 RGTR--
+*A VE 400000095 200417050 000033  00645  00723              % 03365 RGTR--
+*I FD 400000095 200417050        0001964  00645  00723      % 03365 RGTR--
+400000095 Volmerange-les-Mines         00645                % 03365 RGTR--
+220301049 Dudelange, Schlakemi -00647  00647                % 03365 RGTR--
+220301070 Dudelange, Rue Grand -00648  00648                % 03365 RGTR--
+220301056 Dudelange, Centre Cu -00648  00648                % 03365 RGTR--
+220301038 Dudelange, Rue de la -00649  00649                % 03365 RGTR--
+220301033 Dudelange, Rue Antoi -00650  00650                % 03365 RGTR--
+220301004 Dudelange, Rue Belai -00651  00651                % 03365 RGTR--
+220301032 Dudelange, Kräizbier -00652  00652                % 03365 RGTR--
+200417050 Kirchberg, Gare rout  00723                       % 03365 RGTR--
+*Z 03366 RGTR--                                             % 03366 RGTR--
+*L 507      400000095 200417050  00715  00753               % 03366 RGTR--
+*R 1 200417050 400000095 200417050  00715  00753            % 03366 RGTR--
+*G 072 400000095 200417050  00715  00753                    % 03366 RGTR--
+*A VE 400000095 200417050 000033  00715  00753              % 03366 RGTR--
+*I FD 400000095 200417050        0001898  00715  00753      % 03366 RGTR--
+400000095 Volmerange-les-Mines         00715                % 03366 RGTR--
+220301049 Dudelange, Schlakemi -00717  00717                % 03366 RGTR--
+220301070 Dudelange, Rue Grand -00718  00718                % 03366 RGTR--
+220301056 Dudelange, Centre Cu -00718  00718                % 03366 RGTR--
+220301038 Dudelange, Rue de la -00719  00719                % 03366 RGTR--
+220301033 Dudelange, Rue Antoi -00720  00720                % 03366 RGTR--
+220301004 Dudelange, Rue Belai -00721  00721                % 03366 RGTR--
+220301032 Dudelange, Kräizbier -00722  00722                % 03366 RGTR--
+200417050 Kirchberg, Gare rout  00753                       % 03366 RGTR--
+*Z 03367 RGTR--                                             % 03367 RGTR--
+*L 507      400000095 200417050  00730  00808               % 03367 RGTR--
+*R 1 200417050 400000095 200417050  00730  00808            % 03367 RGTR--
+*G 072 400000095 200417050  00730  00808                    % 03367 RGTR--
+*A VE 400000095 200417050 000033  00730  00808              % 03367 RGTR--
+*I FD 400000095 200417050        0001730  00730  00808      % 03367 RGTR--
+400000095 Volmerange-les-Mines         00730                % 03367 RGTR--
+220301049 Dudelange, Schlakemi -00732  00732                % 03367 RGTR--
+220301070 Dudelange, Rue Grand -00733  00733                % 03367 RGTR--
+220301056 Dudelange, Centre Cu -00733  00733                % 03367 RGTR--
+220301038 Dudelange, Rue de la -00734  00734                % 03367 RGTR--
+220301033 Dudelange, Rue Antoi -00735  00735                % 03367 RGTR--
+220301004 Dudelange, Rue Belai -00736  00736                % 03367 RGTR--
+220301032 Dudelange, Kräizbier -00737  00737                % 03367 RGTR--
+200417050 Kirchberg, Gare rout  00808                       % 03367 RGTR--
+*Z 03368 RGTR--                                             % 03368 RGTR--
+*L 507      400000095 200417050  00745  00823               % 03368 RGTR--
+*R 1 200417050 400000095 200417050  00745  00823            % 03368 RGTR--
+*G 072 400000095 200417050  00745  00823                    % 03368 RGTR--
+*A VE 400000095 200417050 000033  00745  00823              % 03368 RGTR--
+*I FD 400000095 200417050        0001965  00745  00823      % 03368 RGTR--
+400000095 Volmerange-les-Mines         00745                % 03368 RGTR--
+220301049 Dudelange, Schlakemi -00747  00747                % 03368 RGTR--
+220301070 Dudelange, Rue Grand -00748  00748                % 03368 RGTR--
+220301056 Dudelange, Centre Cu -00748  00748                % 03368 RGTR--
+220301038 Dudelange, Rue de la -00749  00749                % 03368 RGTR--
+220301033 Dudelange, Rue Antoi -00750  00750                % 03368 RGTR--
+220301004 Dudelange, Rue Belai -00751  00751                % 03368 RGTR--
+220301032 Dudelange, Kräizbier -00752  00752                % 03368 RGTR--
+200417050 Kirchberg, Gare rout  00823                       % 03368 RGTR--
+*Z 03369 RGTR--                                             % 03369 RGTR--
+*L 507      400000095 200417050  00815  00853               % 03369 RGTR--
+*R 1 200417050 400000095 200417050  00815  00853            % 03369 RGTR--
+*G 072 400000095 200417050  00815  00853                    % 03369 RGTR--
+*A VE 400000095 200417050 000033  00815  00853              % 03369 RGTR--
+*I FD 400000095 200417050        0001882  00815  00853      % 03369 RGTR--
+400000095 Volmerange-les-Mines         00815                % 03369 RGTR--
+220301049 Dudelange, Schlakemi -00817  00817                % 03369 RGTR--
+220301070 Dudelange, Rue Grand -00818  00818                % 03369 RGTR--
+220301056 Dudelange, Centre Cu -00818  00818                % 03369 RGTR--
+220301038 Dudelange, Rue de la -00819  00819                % 03369 RGTR--
+220301033 Dudelange, Rue Antoi -00820  00820                % 03369 RGTR--
+220301004 Dudelange, Rue Belai -00821  00821                % 03369 RGTR--
+220301032 Dudelange, Kräizbier -00822  00822                % 03369 RGTR--
+200417050 Kirchberg, Gare rout  00853                       % 03369 RGTR--
+*Z 03370 RGTR--                                             % 03370 RGTR--
+*L 507      400000095 200417050  00830  00908               % 03370 RGTR--
+*R 1 200417050 400000095 200417050  00830  00908            % 03370 RGTR--
+*G 072 400000095 200417050  00830  00908                    % 03370 RGTR--
+*A VE 400000095 200417050 000033  00830  00908              % 03370 RGTR--
+*I FD 400000095 200417050        0000915  00830  00908      % 03370 RGTR--
+400000095 Volmerange-les-Mines         00830                % 03370 RGTR--
+220301049 Dudelange, Schlakemi -00832  00832                % 03370 RGTR--
+220301070 Dudelange, Rue Grand -00833  00833                % 03370 RGTR--
+220301056 Dudelange, Centre Cu -00833  00833                % 03370 RGTR--
+220301038 Dudelange, Rue de la -00834  00834                % 03370 RGTR--
+220301033 Dudelange, Rue Antoi -00835  00835                % 03370 RGTR--
+220301004 Dudelange, Rue Belai -00836  00836                % 03370 RGTR--
+220301032 Dudelange, Kräizbier -00837  00837                % 03370 RGTR--
+200417050 Kirchberg, Gare rout  00908                       % 03370 RGTR--
+*Z 03371 RGTR--                                             % 03371 RGTR--
+*L 507      400000095 200417050  00845  00923               % 03371 RGTR--
+*R 1 200417050 400000095 200417050  00845  00923            % 03371 RGTR--
+*G 072 400000095 200417050  00845  00923                    % 03371 RGTR--
+*A VE 400000095 200417050 000033  00845  00923              % 03371 RGTR--
+*I FD 400000095 200417050        0001966  00845  00923      % 03371 RGTR--
+400000095 Volmerange-les-Mines         00845                % 03371 RGTR--
+220301049 Dudelange, Schlakemi -00847  00847                % 03371 RGTR--
+220301070 Dudelange, Rue Grand -00848  00848                % 03371 RGTR--
+220301056 Dudelange, Centre Cu -00848  00848                % 03371 RGTR--
+220301038 Dudelange, Rue de la -00849  00849                % 03371 RGTR--
+220301033 Dudelange, Rue Antoi -00850  00850                % 03371 RGTR--
+220301004 Dudelange, Rue Belai -00851  00851                % 03371 RGTR--
+220301032 Dudelange, Kräizbier -00852  00852                % 03371 RGTR--
+200417050 Kirchberg, Gare rout  00923                       % 03371 RGTR--
+*Z 03372 RGTR--                                             % 03372 RGTR--
+*L 507      200417050 400000095  00500  00533               % 03372 RGTR--
+*R 2 400000095 200417050 400000095  00500  00533            % 03372 RGTR--
+*G 072 200417050 400000095  00500  00533                    % 03372 RGTR--
+*A VE 200417050 400000095 000036  00500  00533              % 03372 RGTR--
+*I FD 200417050 400000095        0001938  00500  00533      % 03372 RGTR--
+200417050 Kirchberg, Gare rout         00500                % 03372 RGTR--
+220301032 Dudelange, Kräizbier  00525 -00525                % 03372 RGTR--
+220301004 Dudelange, Rue Belai  00526 -00526                % 03372 RGTR--
+220301033 Dudelange, Rue Antoi  00527 -00527                % 03372 RGTR--
+220301024 Dudelange, Gemeng     00529 -00529                % 03372 RGTR--
+220301038 Dudelange, Rue de la  00530 -00530                % 03372 RGTR--
+220301056 Dudelange, Centre Cu  00531 -00531                % 03372 RGTR--
+220301070 Dudelange, Rue Grand  00531 -00531                % 03372 RGTR--
+220301049 Dudelange, Schlakemi  00532 -00532                % 03372 RGTR--
+400000095 Volmerange-les-Mines  00533                       % 03372 RGTR--
+*Z 03373 RGTR--                                             % 03373 RGTR--
+*L 507      200417050 400000095  00600  00633               % 03373 RGTR--
+*R 2 400000095 200417050 400000095  00600  00633            % 03373 RGTR--
+*G 072 200417050 400000095  00600  00633                    % 03373 RGTR--
+*A VE 200417050 400000095 000036  00600  00633              % 03373 RGTR--
+*I FD 200417050 400000095        0001947  00600  00633      % 03373 RGTR--
+200417050 Kirchberg, Gare rout         00600                % 03373 RGTR--
+220301032 Dudelange, Kräizbier  00625 -00625                % 03373 RGTR--
+220301004 Dudelange, Rue Belai  00626 -00626                % 03373 RGTR--
+220301033 Dudelange, Rue Antoi  00627 -00627                % 03373 RGTR--
+220301024 Dudelange, Gemeng     00629 -00629                % 03373 RGTR--
+220301038 Dudelange, Rue de la  00630 -00630                % 03373 RGTR--
+220301056 Dudelange, Centre Cu  00631 -00631                % 03373 RGTR--
+220301070 Dudelange, Rue Grand  00631 -00631                % 03373 RGTR--
+220301049 Dudelange, Schlakemi  00632 -00632                % 03373 RGTR--
+400000095 Volmerange-les-Mines  00633                       % 03373 RGTR--
+*Z 03374 RGTR--                                             % 03374 RGTR--
+*L 507      200417050 400000095  00700  00733               % 03374 RGTR--
+*R 2 400000095 200417050 400000095  00700  00733            % 03374 RGTR--
+*G 072 200417050 400000095  00700  00733                    % 03374 RGTR--
+*A VE 200417050 400000095 000036  00700  00733              % 03374 RGTR--
+*I FD 200417050 400000095        0001948  00700  00733      % 03374 RGTR--
+200417050 Kirchberg, Gare rout         00700                % 03374 RGTR--
+220301032 Dudelange, Kräizbier  00725 -00725                % 03374 RGTR--
+220301004 Dudelange, Rue Belai  00726 -00726                % 03374 RGTR--
+220301033 Dudelange, Rue Antoi  00727 -00727                % 03374 RGTR--
+220301024 Dudelange, Gemeng     00729 -00729                % 03374 RGTR--
+220301038 Dudelange, Rue de la  00730 -00730                % 03374 RGTR--
+220301056 Dudelange, Centre Cu  00731 -00731                % 03374 RGTR--
+220301070 Dudelange, Rue Grand  00731 -00731                % 03374 RGTR--
+220301049 Dudelange, Schlakemi  00732 -00732                % 03374 RGTR--
+400000095 Volmerange-les-Mines  00733                       % 03374 RGTR--
+*Z 03375 RGTR--                                             % 03375 RGTR--
+*L 507      200417050 400000095  00800  00833               % 03375 RGTR--
+*R 2 400000095 200417050 400000095  00800  00833            % 03375 RGTR--
+*G 072 200417050 400000095  00800  00833                    % 03375 RGTR--
+*A VE 200417050 400000095 000036  00800  00833              % 03375 RGTR--
+*I FD 200417050 400000095        0001944  00800  00833      % 03375 RGTR--
+200417050 Kirchberg, Gare rout         00800                % 03375 RGTR--
+220301032 Dudelange, Kräizbier  00825 -00825                % 03375 RGTR--
+220301004 Dudelange, Rue Belai  00826 -00826                % 03375 RGTR--
+220301033 Dudelange, Rue Antoi  00827 -00827                % 03375 RGTR--
+220301024 Dudelange, Gemeng     00829 -00829                % 03375 RGTR--
+220301038 Dudelange, Rue de la  00830 -00830                % 03375 RGTR--
+220301056 Dudelange, Centre Cu  00831 -00831                % 03375 RGTR--
+220301070 Dudelange, Rue Grand  00831 -00831                % 03375 RGTR--
+220301049 Dudelange, Schlakemi  00832 -00832                % 03375 RGTR--
+400000095 Volmerange-les-Mines  00833                       % 03375 RGTR--
+*Z 03376 RGTR--                                             % 03376 RGTR--
+*L 507      200417050 400000095  00900  00933               % 03376 RGTR--
+*R 2 400000095 200417050 400000095  00900  00933            % 03376 RGTR--
+*G 072 200417050 400000095  00900  00933                    % 03376 RGTR--
+*A VE 200417050 400000095 000036  00900  00933              % 03376 RGTR--
+*I FD 200417050 400000095        0001949  00900  00933      % 03376 RGTR--
+200417050 Kirchberg, Gare rout         00900                % 03376 RGTR--
+220301032 Dudelange, Kräizbier  00925 -00925                % 03376 RGTR--
+220301004 Dudelange, Rue Belai  00926 -00926                % 03376 RGTR--
+220301033 Dudelange, Rue Antoi  00927 -00927                % 03376 RGTR--
+220301024 Dudelange, Gemeng     00929 -00929                % 03376 RGTR--
+220301038 Dudelange, Rue de la  00930 -00930                % 03376 RGTR--
+220301056 Dudelange, Centre Cu  00931 -00931                % 03376 RGTR--
+220301070 Dudelange, Rue Grand  00931 -00931                % 03376 RGTR--
+220301049 Dudelange, Schlakemi  00932 -00932                % 03376 RGTR--
+400000095 Volmerange-les-Mines  00933                       % 03376 RGTR--
+*Z 03377 RGTR--                                             % 03377 RGTR--
+*L 507      200417050 400000095  01000  01033               % 03377 RGTR--
+*R 2 400000095 200417050 400000095  01000  01033            % 03377 RGTR--
+*G 072 200417050 400000095  01000  01033                    % 03377 RGTR--
+*A VE 200417050 400000095 000036  01000  01033              % 03377 RGTR--
+*I FD 200417050 400000095        0001935  01000  01033      % 03377 RGTR--
+200417050 Kirchberg, Gare rout         01000                % 03377 RGTR--
+220301032 Dudelange, Kräizbier  01025 -01025                % 03377 RGTR--
+220301004 Dudelange, Rue Belai  01026 -01026                % 03377 RGTR--
+220301033 Dudelange, Rue Antoi  01027 -01027                % 03377 RGTR--
+220301024 Dudelange, Gemeng     01029 -01029                % 03377 RGTR--
+220301038 Dudelange, Rue de la  01030 -01030                % 03377 RGTR--
+220301056 Dudelange, Centre Cu  01031 -01031                % 03377 RGTR--
+220301070 Dudelange, Rue Grand  01031 -01031                % 03377 RGTR--
+220301049 Dudelange, Schlakemi  01032 -01032                % 03377 RGTR--
+400000095 Volmerange-les-Mines  01033                       % 03377 RGTR--
+*Z 03378 RGTR--                                             % 03378 RGTR--
+*L 507      200417050 400000095  01100  01133               % 03378 RGTR--
+*R 2 400000095 200417050 400000095  01100  01133            % 03378 RGTR--
+*G 072 200417050 400000095  01100  01133                    % 03378 RGTR--
+*A VE 200417050 400000095 000036  01100  01133              % 03378 RGTR--
+*I FD 200417050 400000095        0001939  01100  01133      % 03378 RGTR--
+200417050 Kirchberg, Gare rout         01100                % 03378 RGTR--
+220301032 Dudelange, Kräizbier  01125 -01125                % 03378 RGTR--
+220301004 Dudelange, Rue Belai  01126 -01126                % 03378 RGTR--
+220301033 Dudelange, Rue Antoi  01127 -01127                % 03378 RGTR--
+220301024 Dudelange, Gemeng     01129 -01129                % 03378 RGTR--
+220301038 Dudelange, Rue de la  01130 -01130                % 03378 RGTR--
+220301056 Dudelange, Centre Cu  01131 -01131                % 03378 RGTR--
+220301070 Dudelange, Rue Grand  01131 -01131                % 03378 RGTR--
+220301049 Dudelange, Schlakemi  01132 -01132                % 03378 RGTR--
+400000095 Volmerange-les-Mines  01133                       % 03378 RGTR--
+*Z 03379 RGTR--                                             % 03379 RGTR--
+*L 507      200417050 400000095  01200  01233               % 03379 RGTR--
+*R 2 400000095 200417050 400000095  01200  01233            % 03379 RGTR--
+*G 072 200417050 400000095  01200  01233                    % 03379 RGTR--
+*A VE 200417050 400000095 000036  01200  01233              % 03379 RGTR--
+*I FD 200417050 400000095        0001936  01200  01233      % 03379 RGTR--
+200417050 Kirchberg, Gare rout         01200                % 03379 RGTR--
+220301032 Dudelange, Kräizbier  01225 -01225                % 03379 RGTR--
+220301004 Dudelange, Rue Belai  01226 -01226                % 03379 RGTR--
+220301033 Dudelange, Rue Antoi  01227 -01227                % 03379 RGTR--
+220301024 Dudelange, Gemeng     01229 -01229                % 03379 RGTR--
+220301038 Dudelange, Rue de la  01230 -01230                % 03379 RGTR--
+220301056 Dudelange, Centre Cu  01231 -01231                % 03379 RGTR--
+220301070 Dudelange, Rue Grand  01231 -01231                % 03379 RGTR--
+220301049 Dudelange, Schlakemi  01232 -01232                % 03379 RGTR--
+400000095 Volmerange-les-Mines  01233                       % 03379 RGTR--
+*Z 03380 RGTR--                                             % 03380 RGTR--
+*L 507      200417050 400000095  01300  01333               % 03380 RGTR--
+*R 2 400000095 200417050 400000095  01300  01333            % 03380 RGTR--
+*G 072 200417050 400000095  01300  01333                    % 03380 RGTR--
+*A VE 200417050 400000095 000036  01300  01333              % 03380 RGTR--
+*I FD 200417050 400000095        0001940  01300  01333      % 03380 RGTR--
+200417050 Kirchberg, Gare rout         01300                % 03380 RGTR--
+220301032 Dudelange, Kräizbier  01325 -01325                % 03380 RGTR--
+220301004 Dudelange, Rue Belai  01326 -01326                % 03380 RGTR--
+220301033 Dudelange, Rue Antoi  01327 -01327                % 03380 RGTR--
+220301024 Dudelange, Gemeng     01329 -01329                % 03380 RGTR--
+220301038 Dudelange, Rue de la  01330 -01330                % 03380 RGTR--
+220301056 Dudelange, Centre Cu  01331 -01331                % 03380 RGTR--
+220301070 Dudelange, Rue Grand  01331 -01331                % 03380 RGTR--
+220301049 Dudelange, Schlakemi  01332 -01332                % 03380 RGTR--
+400000095 Volmerange-les-Mines  01333                       % 03380 RGTR--
+*Z 03381 RGTR--                                             % 03381 RGTR--
+*L 507      200417050 400000095  01400  01433               % 03381 RGTR--
+*R 2 400000095 200417050 400000095  01400  01433            % 03381 RGTR--
+*G 072 200417050 400000095  01400  01433                    % 03381 RGTR--
+*A VE 200417050 400000095 000036  01400  01433              % 03381 RGTR--
+*I FD 200417050 400000095        0001937  01400  01433      % 03381 RGTR--
+200417050 Kirchberg, Gare rout         01400                % 03381 RGTR--
+220301032 Dudelange, Kräizbier  01425 -01425                % 03381 RGTR--
+220301004 Dudelange, Rue Belai  01426 -01426                % 03381 RGTR--
+220301033 Dudelange, Rue Antoi  01427 -01427                % 03381 RGTR--
+220301024 Dudelange, Gemeng     01429 -01429                % 03381 RGTR--
+220301038 Dudelange, Rue de la  01430 -01430                % 03381 RGTR--
+220301056 Dudelange, Centre Cu  01431 -01431                % 03381 RGTR--
+220301070 Dudelange, Rue Grand  01431 -01431                % 03381 RGTR--
+220301049 Dudelange, Schlakemi  01432 -01432                % 03381 RGTR--
+400000095 Volmerange-les-Mines  01433                       % 03381 RGTR--
+*Z 03382 RGTR--                                             % 03382 RGTR--
+*L 507      200417050 400000095  01500  01533               % 03382 RGTR--
+*R 2 400000095 200417050 400000095  01500  01533            % 03382 RGTR--
+*G 072 200417050 400000095  01500  01533                    % 03382 RGTR--
+*A VE 200417050 400000095 000036  01500  01533              % 03382 RGTR--
+*I FD 200417050 400000095        0001941  01500  01533      % 03382 RGTR--
+200417050 Kirchberg, Gare rout         01500                % 03382 RGTR--
+220301032 Dudelange, Kräizbier  01525 -01525                % 03382 RGTR--
+220301004 Dudelange, Rue Belai  01526 -01526                % 03382 RGTR--
+220301033 Dudelange, Rue Antoi  01527 -01527                % 03382 RGTR--
+220301024 Dudelange, Gemeng     01529 -01529                % 03382 RGTR--
+220301038 Dudelange, Rue de la  01530 -01530                % 03382 RGTR--
+220301056 Dudelange, Centre Cu  01531 -01531                % 03382 RGTR--
+220301070 Dudelange, Rue Grand  01531 -01531                % 03382 RGTR--
+220301049 Dudelange, Schlakemi  01532 -01532                % 03382 RGTR--
+400000095 Volmerange-les-Mines  01533                       % 03382 RGTR--
+*Z 03383 RGTR--                                             % 03383 RGTR--
+*L 507      200417050 400000095  01900  01933               % 03383 RGTR--
+*R 2 400000095 200417050 400000095  01900  01933            % 03383 RGTR--
+*G 072 200417050 400000095  01900  01933                    % 03383 RGTR--
+*A VE 200417050 400000095 000036  01900  01933              % 03383 RGTR--
+*I FD 200417050 400000095        0001951  01900  01933      % 03383 RGTR--
+200417050 Kirchberg, Gare rout         01900                % 03383 RGTR--
+220301032 Dudelange, Kräizbier  01925 -01925                % 03383 RGTR--
+220301004 Dudelange, Rue Belai  01926 -01926                % 03383 RGTR--
+220301033 Dudelange, Rue Antoi  01927 -01927                % 03383 RGTR--
+220301024 Dudelange, Gemeng     01929 -01929                % 03383 RGTR--
+220301038 Dudelange, Rue de la  01930 -01930                % 03383 RGTR--
+220301056 Dudelange, Centre Cu  01931 -01931                % 03383 RGTR--
+220301070 Dudelange, Rue Grand  01931 -01931                % 03383 RGTR--
+220301049 Dudelange, Schlakemi  01932 -01932                % 03383 RGTR--
+400000095 Volmerange-les-Mines  01933                       % 03383 RGTR--
+*Z 03384 RGTR--                                             % 03384 RGTR--
+*L 507      200417050 400000095  00530  00603               % 03384 RGTR--
+*R 2 400000095 200417050 400000095  00530  00603            % 03384 RGTR--
+*G 072 200417050 400000095  00530  00603                    % 03384 RGTR--
+*A VE 200417050 400000095 000033  00530  00603              % 03384 RGTR--
+*I FD 200417050 400000095        0002350  00530  00603      % 03384 RGTR--
+200417050 Kirchberg, Gare rout         00530                % 03384 RGTR--
+220301032 Dudelange, Kräizbier  00555 -00555                % 03384 RGTR--
+220301004 Dudelange, Rue Belai  00556 -00556                % 03384 RGTR--
+220301033 Dudelange, Rue Antoi  00557 -00557                % 03384 RGTR--
+220301024 Dudelange, Gemeng     00559 -00559                % 03384 RGTR--
+220301038 Dudelange, Rue de la  00600 -00600                % 03384 RGTR--
+220301056 Dudelange, Centre Cu  00601 -00601                % 03384 RGTR--
+220301070 Dudelange, Rue Grand  00601 -00601                % 03384 RGTR--
+220301049 Dudelange, Schlakemi  00602 -00602                % 03384 RGTR--
+400000095 Volmerange-les-Mines  00603                       % 03384 RGTR--
+*Z 03385 RGTR--                                             % 03385 RGTR--
+*L 507      200417050 400000095  00630  00703               % 03385 RGTR--
+*R 2 400000095 200417050 400000095  00630  00703            % 03385 RGTR--
+*G 072 200417050 400000095  00630  00703                    % 03385 RGTR--
+*A VE 200417050 400000095 000033  00630  00703              % 03385 RGTR--
+*I FD 200417050 400000095        0000789  00630  00703      % 03385 RGTR--
+200417050 Kirchberg, Gare rout         00630                % 03385 RGTR--
+220301032 Dudelange, Kräizbier  00655 -00655                % 03385 RGTR--
+220301004 Dudelange, Rue Belai  00656 -00656                % 03385 RGTR--
+220301033 Dudelange, Rue Antoi  00657 -00657                % 03385 RGTR--
+220301024 Dudelange, Gemeng     00659 -00659                % 03385 RGTR--
+220301038 Dudelange, Rue de la  00700 -00700                % 03385 RGTR--
+220301056 Dudelange, Centre Cu  00701 -00701                % 03385 RGTR--
+220301070 Dudelange, Rue Grand  00701 -00701                % 03385 RGTR--
+220301049 Dudelange, Schlakemi  00702 -00702                % 03385 RGTR--
+400000095 Volmerange-les-Mines  00703                       % 03385 RGTR--
+*Z 03386 RGTR--                                             % 03386 RGTR--
+*L 507      200417050 400000095  00730  00803               % 03386 RGTR--
+*R 2 400000095 200417050 400000095  00730  00803            % 03386 RGTR--
+*G 072 200417050 400000095  00730  00803                    % 03386 RGTR--
+*A VE 200417050 400000095 000033  00730  00803              % 03386 RGTR--
+*I FD 200417050 400000095        0001952  00730  00803      % 03386 RGTR--
+200417050 Kirchberg, Gare rout         00730                % 03386 RGTR--
+220301032 Dudelange, Kräizbier  00755 -00755                % 03386 RGTR--
+220301004 Dudelange, Rue Belai  00756 -00756                % 03386 RGTR--
+220301033 Dudelange, Rue Antoi  00757 -00757                % 03386 RGTR--
+220301024 Dudelange, Gemeng     00759 -00759                % 03386 RGTR--
+220301038 Dudelange, Rue de la  00800 -00800                % 03386 RGTR--
+220301056 Dudelange, Centre Cu  00801 -00801                % 03386 RGTR--
+220301070 Dudelange, Rue Grand  00801 -00801                % 03386 RGTR--
+220301049 Dudelange, Schlakemi  00802 -00802                % 03386 RGTR--
+400000095 Volmerange-les-Mines  00803                       % 03386 RGTR--
+*Z 03387 RGTR--                                             % 03387 RGTR--
+*L 507      200417050 400000095  00830  00903               % 03387 RGTR--
+*R 2 400000095 200417050 400000095  00830  00903            % 03387 RGTR--
+*G 072 200417050 400000095  00830  00903                    % 03387 RGTR--
+*A VE 200417050 400000095 000033  00830  00903              % 03387 RGTR--
+*I FD 200417050 400000095        0000890  00830  00903      % 03387 RGTR--
+200417050 Kirchberg, Gare rout         00830                % 03387 RGTR--
+220301032 Dudelange, Kräizbier  00855 -00855                % 03387 RGTR--
+220301004 Dudelange, Rue Belai  00856 -00856                % 03387 RGTR--
+220301033 Dudelange, Rue Antoi  00857 -00857                % 03387 RGTR--
+220301024 Dudelange, Gemeng     00859 -00859                % 03387 RGTR--
+220301038 Dudelange, Rue de la  00900 -00900                % 03387 RGTR--
+220301056 Dudelange, Centre Cu  00901 -00901                % 03387 RGTR--
+220301070 Dudelange, Rue Grand  00901 -00901                % 03387 RGTR--
+220301049 Dudelange, Schlakemi  00902 -00902                % 03387 RGTR--
+400000095 Volmerange-les-Mines  00903                       % 03387 RGTR--
+*Z 03388 RGTR--                                             % 03388 RGTR--
+*L 507      200417050 400000095  00930  01003               % 03388 RGTR--
+*R 2 400000095 200417050 400000095  00930  01003            % 03388 RGTR--
+*G 072 200417050 400000095  00930  01003                    % 03388 RGTR--
+*A VE 200417050 400000095 000033  00930  01003              % 03388 RGTR--
+*I FD 200417050 400000095        0000964  00930  01003      % 03388 RGTR--
+200417050 Kirchberg, Gare rout         00930                % 03388 RGTR--
+220301032 Dudelange, Kräizbier  00955 -00955                % 03388 RGTR--
+220301004 Dudelange, Rue Belai  00956 -00956                % 03388 RGTR--
+220301033 Dudelange, Rue Antoi  00957 -00957                % 03388 RGTR--
+220301024 Dudelange, Gemeng     00959 -00959                % 03388 RGTR--
+220301038 Dudelange, Rue de la  01000 -01000                % 03388 RGTR--
+220301056 Dudelange, Centre Cu  01001 -01001                % 03388 RGTR--
+220301070 Dudelange, Rue Grand  01001 -01001                % 03388 RGTR--
+220301049 Dudelange, Schlakemi  01002 -01002                % 03388 RGTR--
+400000095 Volmerange-les-Mines  01003                       % 03388 RGTR--
+*Z 03389 RGTR--                                             % 03389 RGTR--
+*L 507      200417050 400000095  01030  01103               % 03389 RGTR--
+*R 2 400000095 200417050 400000095  01030  01103            % 03389 RGTR--
+*G 072 200417050 400000095  01030  01103                    % 03389 RGTR--
+*A VE 200417050 400000095 000033  01030  01103              % 03389 RGTR--
+*I FD 200417050 400000095        0002351  01030  01103      % 03389 RGTR--
+200417050 Kirchberg, Gare rout         01030                % 03389 RGTR--
+220301032 Dudelange, Kräizbier  01055 -01055                % 03389 RGTR--
+220301004 Dudelange, Rue Belai  01056 -01056                % 03389 RGTR--
+220301033 Dudelange, Rue Antoi  01057 -01057                % 03389 RGTR--
+220301024 Dudelange, Gemeng     01059 -01059                % 03389 RGTR--
+220301038 Dudelange, Rue de la  01100 -01100                % 03389 RGTR--
+220301056 Dudelange, Centre Cu  01101 -01101                % 03389 RGTR--
+220301070 Dudelange, Rue Grand  01101 -01101                % 03389 RGTR--
+220301049 Dudelange, Schlakemi  01102 -01102                % 03389 RGTR--
+400000095 Volmerange-les-Mines  01103                       % 03389 RGTR--
+*Z 03390 RGTR--                                             % 03390 RGTR--
+*L 507      200417050 400000095  01130  01203               % 03390 RGTR--
+*R 2 400000095 200417050 400000095  01130  01203            % 03390 RGTR--
+*G 072 200417050 400000095  01130  01203                    % 03390 RGTR--
+*A VE 200417050 400000095 000033  01130  01203              % 03390 RGTR--
+*I FD 200417050 400000095        0002352  01130  01203      % 03390 RGTR--
+200417050 Kirchberg, Gare rout         01130                % 03390 RGTR--
+220301032 Dudelange, Kräizbier  01155 -01155                % 03390 RGTR--
+220301004 Dudelange, Rue Belai  01156 -01156                % 03390 RGTR--
+220301033 Dudelange, Rue Antoi  01157 -01157                % 03390 RGTR--
+220301024 Dudelange, Gemeng     01159 -01159                % 03390 RGTR--
+220301038 Dudelange, Rue de la  01200 -01200                % 03390 RGTR--
+220301056 Dudelange, Centre Cu  01201 -01201                % 03390 RGTR--
+220301070 Dudelange, Rue Grand  01201 -01201                % 03390 RGTR--
+220301049 Dudelange, Schlakemi  01202 -01202                % 03390 RGTR--
+400000095 Volmerange-les-Mines  01203                       % 03390 RGTR--
+*Z 03391 RGTR--                                             % 03391 RGTR--
+*L 507      200417050 400000095  01230  01303               % 03391 RGTR--
+*R 2 400000095 200417050 400000095  01230  01303            % 03391 RGTR--
+*G 072 200417050 400000095  01230  01303                    % 03391 RGTR--
+*A VE 200417050 400000095 000033  01230  01303              % 03391 RGTR--
+*I FD 200417050 400000095        0001101  01230  01303      % 03391 RGTR--
+200417050 Kirchberg, Gare rout         01230                % 03391 RGTR--
+220301032 Dudelange, Kräizbier  01255 -01255                % 03391 RGTR--
+220301004 Dudelange, Rue Belai  01256 -01256                % 03391 RGTR--
+220301033 Dudelange, Rue Antoi  01257 -01257                % 03391 RGTR--
+220301024 Dudelange, Gemeng     01259 -01259                % 03391 RGTR--
+220301038 Dudelange, Rue de la  01300 -01300                % 03391 RGTR--
+220301056 Dudelange, Centre Cu  01301 -01301                % 03391 RGTR--
+220301070 Dudelange, Rue Grand  01301 -01301                % 03391 RGTR--
+220301049 Dudelange, Schlakemi  01302 -01302                % 03391 RGTR--
+400000095 Volmerange-les-Mines  01303                       % 03391 RGTR--
+*Z 03392 RGTR--                                             % 03392 RGTR--
+*L 507      200417050 400000095  01330  01403               % 03392 RGTR--
+*R 2 400000095 200417050 400000095  01330  01403            % 03392 RGTR--
+*G 072 200417050 400000095  01330  01403                    % 03392 RGTR--
+*A VE 200417050 400000095 000033  01330  01403              % 03392 RGTR--
+*I FD 200417050 400000095        0002353  01330  01403      % 03392 RGTR--
+200417050 Kirchberg, Gare rout         01330                % 03392 RGTR--
+220301032 Dudelange, Kräizbier  01355 -01355                % 03392 RGTR--
+220301004 Dudelange, Rue Belai  01356 -01356                % 03392 RGTR--
+220301033 Dudelange, Rue Antoi  01357 -01357                % 03392 RGTR--
+220301024 Dudelange, Gemeng     01359 -01359                % 03392 RGTR--
+220301038 Dudelange, Rue de la  01400 -01400                % 03392 RGTR--
+220301056 Dudelange, Centre Cu  01401 -01401                % 03392 RGTR--
+220301070 Dudelange, Rue Grand  01401 -01401                % 03392 RGTR--
+220301049 Dudelange, Schlakemi  01402 -01402                % 03392 RGTR--
+400000095 Volmerange-les-Mines  01403                       % 03392 RGTR--
+*Z 03393 RGTR--                                             % 03393 RGTR--
+*L 507      200417050 400000095  01430  01503               % 03393 RGTR--
+*R 2 400000095 200417050 400000095  01430  01503            % 03393 RGTR--
+*G 072 200417050 400000095  01430  01503                    % 03393 RGTR--
+*A VE 200417050 400000095 000033  01430  01503              % 03393 RGTR--
+*I FD 200417050 400000095        0002354  01430  01503      % 03393 RGTR--
+200417050 Kirchberg, Gare rout         01430                % 03393 RGTR--
+220301032 Dudelange, Kräizbier  01455 -01455                % 03393 RGTR--
+220301004 Dudelange, Rue Belai  01456 -01456                % 03393 RGTR--
+220301033 Dudelange, Rue Antoi  01457 -01457                % 03393 RGTR--
+220301024 Dudelange, Gemeng     01459 -01459                % 03393 RGTR--
+220301038 Dudelange, Rue de la  01500 -01500                % 03393 RGTR--
+220301056 Dudelange, Centre Cu  01501 -01501                % 03393 RGTR--
+220301070 Dudelange, Rue Grand  01501 -01501                % 03393 RGTR--
+220301049 Dudelange, Schlakemi  01502 -01502                % 03393 RGTR--
+400000095 Volmerange-les-Mines  01503                       % 03393 RGTR--
+*Z 03394 RGTR--                                             % 03394 RGTR--
+*L 507      200417050 400000095  01530  01603               % 03394 RGTR--
+*R 2 400000095 200417050 400000095  01530  01603            % 03394 RGTR--
+*G 072 200417050 400000095  01530  01603                    % 03394 RGTR--
+*A VE 200417050 400000095 000033  01530  01603              % 03394 RGTR--
+*I FD 200417050 400000095        0002355  01530  01603      % 03394 RGTR--
+200417050 Kirchberg, Gare rout         01530                % 03394 RGTR--
+220301032 Dudelange, Kräizbier  01555 -01555                % 03394 RGTR--
+220301004 Dudelange, Rue Belai  01556 -01556                % 03394 RGTR--
+220301033 Dudelange, Rue Antoi  01557 -01557                % 03394 RGTR--
+220301024 Dudelange, Gemeng     01559 -01559                % 03394 RGTR--
+220301038 Dudelange, Rue de la  01600 -01600                % 03394 RGTR--
+220301056 Dudelange, Centre Cu  01601 -01601                % 03394 RGTR--
+220301070 Dudelange, Rue Grand  01601 -01601                % 03394 RGTR--
+220301049 Dudelange, Schlakemi  01602 -01602                % 03394 RGTR--
+400000095 Volmerange-les-Mines  01603                       % 03394 RGTR--
+*Z 03395 RGTR--                                             % 03395 RGTR--
+*L 507      200417050 400000095  01845  01918               % 03395 RGTR--
+*R 2 400000095 200417050 400000095  01845  01918            % 03395 RGTR--
+*G 072 200417050 400000095  01845  01918                    % 03395 RGTR--
+*A VE 200417050 400000095 000033  01845  01918              % 03395 RGTR--
+*I FD 200417050 400000095        0001339  01845  01918      % 03395 RGTR--
+200417050 Kirchberg, Gare rout         01845                % 03395 RGTR--
+220301032 Dudelange, Kräizbier  01910 -01910                % 03395 RGTR--
+220301004 Dudelange, Rue Belai  01911 -01911                % 03395 RGTR--
+220301033 Dudelange, Rue Antoi  01912 -01912                % 03395 RGTR--
+220301024 Dudelange, Gemeng     01914 -01914                % 03395 RGTR--
+220301038 Dudelange, Rue de la  01915 -01915                % 03395 RGTR--
+220301056 Dudelange, Centre Cu  01916 -01916                % 03395 RGTR--
+220301070 Dudelange, Rue Grand  01916 -01916                % 03395 RGTR--
+220301049 Dudelange, Schlakemi  01917 -01917                % 03395 RGTR--
+400000095 Volmerange-les-Mines  01918                       % 03395 RGTR--
+*Z 03396 RGTR--                                             % 03396 RGTR--
+*L 507      200417050 400000095  02000  02033               % 03396 RGTR--
+*R 2 400000095 200417050 400000095  02000  02033            % 03396 RGTR--
+*G 072 200417050 400000095  02000  02033                    % 03396 RGTR--
+*A VE 200417050 400000095 000033  02000  02033              % 03396 RGTR--
+*I FD 200417050 400000095        0001715  02000  02033      % 03396 RGTR--
+200417050 Kirchberg, Gare rout         02000                % 03396 RGTR--
+220301032 Dudelange, Kräizbier  02025 -02025                % 03396 RGTR--
+220301004 Dudelange, Rue Belai  02026 -02026                % 03396 RGTR--
+220301033 Dudelange, Rue Antoi  02027 -02027                % 03396 RGTR--
+220301024 Dudelange, Gemeng     02029 -02029                % 03396 RGTR--
+220301038 Dudelange, Rue de la  02030 -02030                % 03396 RGTR--
+220301056 Dudelange, Centre Cu  02031 -02031                % 03396 RGTR--
+220301070 Dudelange, Rue Grand  02031 -02031                % 03396 RGTR--
+220301049 Dudelange, Schlakemi  02032 -02032                % 03396 RGTR--
+400000095 Volmerange-les-Mines  02033                       % 03396 RGTR--
+*Z 03397 RGTR--                                             % 03397 RGTR--
+*L 507      200417050 400000095  02100  02133               % 03397 RGTR--
+*R 2 400000095 200417050 400000095  02100  02133            % 03397 RGTR--
+*G 072 200417050 400000095  02100  02133                    % 03397 RGTR--
+*A VE 200417050 400000095 000033  02100  02133              % 03397 RGTR--
+*I FD 200417050 400000095        0001942  02100  02133      % 03397 RGTR--
+200417050 Kirchberg, Gare rout         02100                % 03397 RGTR--
+220301032 Dudelange, Kräizbier  02125 -02125                % 03397 RGTR--
+220301004 Dudelange, Rue Belai  02126 -02126                % 03397 RGTR--
+220301033 Dudelange, Rue Antoi  02127 -02127                % 03397 RGTR--
+220301024 Dudelange, Gemeng     02129 -02129                % 03397 RGTR--
+220301038 Dudelange, Rue de la  02130 -02130                % 03397 RGTR--
+220301056 Dudelange, Centre Cu  02131 -02131                % 03397 RGTR--
+220301070 Dudelange, Rue Grand  02131 -02131                % 03397 RGTR--
+220301049 Dudelange, Schlakemi  02132 -02132                % 03397 RGTR--
+400000095 Volmerange-les-Mines  02133                       % 03397 RGTR--
+*Z 03398 RGTR--                                             % 03398 RGTR--
+*L 507      200417050 400000095  02200  02233               % 03398 RGTR--
+*R 2 400000095 200417050 400000095  02200  02233            % 03398 RGTR--
+*G 072 200417050 400000095  02200  02233                    % 03398 RGTR--
+*A VE 200417050 400000095 000033  02200  02233              % 03398 RGTR--
+*I FD 200417050 400000095        0001716  02200  02233      % 03398 RGTR--
+200417050 Kirchberg, Gare rout         02200                % 03398 RGTR--
+220301032 Dudelange, Kräizbier  02225 -02225                % 03398 RGTR--
+220301004 Dudelange, Rue Belai  02226 -02226                % 03398 RGTR--
+220301033 Dudelange, Rue Antoi  02227 -02227                % 03398 RGTR--
+220301024 Dudelange, Gemeng     02229 -02229                % 03398 RGTR--
+220301038 Dudelange, Rue de la  02230 -02230                % 03398 RGTR--
+220301056 Dudelange, Centre Cu  02231 -02231                % 03398 RGTR--
+220301070 Dudelange, Rue Grand  02231 -02231                % 03398 RGTR--
+220301049 Dudelange, Schlakemi  02232 -02232                % 03398 RGTR--
+400000095 Volmerange-les-Mines  02233                       % 03398 RGTR--
+*Z 03399 RGTR--                                             % 03399 RGTR--
+*L 507      200417050 400000095  02300  02333               % 03399 RGTR--
+*R 2 400000095 200417050 400000095  02300  02333            % 03399 RGTR--
+*G 072 200417050 400000095  02300  02333                    % 03399 RGTR--
+*A VE 200417050 400000095 000033  02300  02333              % 03399 RGTR--
+*I FD 200417050 400000095        0001943  02300  02333      % 03399 RGTR--
+200417050 Kirchberg, Gare rout         02300                % 03399 RGTR--
+220301032 Dudelange, Kräizbier  02325 -02325                % 03399 RGTR--
+220301004 Dudelange, Rue Belai  02326 -02326                % 03399 RGTR--
+220301033 Dudelange, Rue Antoi  02327 -02327                % 03399 RGTR--
+220301024 Dudelange, Gemeng     02329 -02329                % 03399 RGTR--
+220301038 Dudelange, Rue de la  02330 -02330                % 03399 RGTR--
+220301056 Dudelange, Centre Cu  02331 -02331                % 03399 RGTR--
+220301070 Dudelange, Rue Grand  02331 -02331                % 03399 RGTR--
+220301049 Dudelange, Schlakemi  02332 -02332                % 03399 RGTR--
+400000095 Volmerange-les-Mines  02333                       % 03399 RGTR--
+*Z 03400 RGTR--                                             % 03400 RGTR--
+*L 507      200417050 400000095  01600  01642               % 03400 RGTR--
+*R 2 400000095 200417050 400000095  01600  01642            % 03400 RGTR--
+*G 072 200417050 400000095  01600  01642                    % 03400 RGTR--
+*A VE 200417050 400000095 000036  01600  01642              % 03400 RGTR--
+*I FD 200417050 400000095        0001945  01600  01642      % 03400 RGTR--
+200417050 Kirchberg, Gare rout         01600                % 03400 RGTR--
+220301032 Dudelange, Kräizbier  01633 -01633                % 03400 RGTR--
+220301004 Dudelange, Rue Belai  01634 -01634                % 03400 RGTR--
+220301033 Dudelange, Rue Antoi  01635 -01635                % 03400 RGTR--
+220301024 Dudelange, Gemeng     01637 -01637                % 03400 RGTR--
+220301038 Dudelange, Rue de la  01638 -01638                % 03400 RGTR--
+220301056 Dudelange, Centre Cu  01639 -01639                % 03400 RGTR--
+220301070 Dudelange, Rue Grand  01639 -01639                % 03400 RGTR--
+220301049 Dudelange, Schlakemi  01640 -01640                % 03400 RGTR--
+400000095 Volmerange-les-Mines  01642                       % 03400 RGTR--
+*Z 03401 RGTR--                                             % 03401 RGTR--
+*L 507      200417050 400000095  01700  01742               % 03401 RGTR--
+*R 2 400000095 200417050 400000095  01700  01742            % 03401 RGTR--
+*G 072 200417050 400000095  01700  01742                    % 03401 RGTR--
+*A VE 200417050 400000095 000036  01700  01742              % 03401 RGTR--
+*I FD 200417050 400000095        0001950  01700  01742      % 03401 RGTR--
+200417050 Kirchberg, Gare rout         01700                % 03401 RGTR--
+220301032 Dudelange, Kräizbier  01733 -01733                % 03401 RGTR--
+220301004 Dudelange, Rue Belai  01734 -01734                % 03401 RGTR--
+220301033 Dudelange, Rue Antoi  01735 -01735                % 03401 RGTR--
+220301024 Dudelange, Gemeng     01737 -01737                % 03401 RGTR--
+220301038 Dudelange, Rue de la  01738 -01738                % 03401 RGTR--
+220301056 Dudelange, Centre Cu  01739 -01739                % 03401 RGTR--
+220301070 Dudelange, Rue Grand  01739 -01739                % 03401 RGTR--
+220301049 Dudelange, Schlakemi  01740 -01740                % 03401 RGTR--
+400000095 Volmerange-les-Mines  01742                       % 03401 RGTR--
+*Z 03402 RGTR--                                             % 03402 RGTR--
+*L 507      200417050 400000095  01800  01842               % 03402 RGTR--
+*R 2 400000095 200417050 400000095  01800  01842            % 03402 RGTR--
+*G 072 200417050 400000095  01800  01842                    % 03402 RGTR--
+*A VE 200417050 400000095 000036  01800  01842              % 03402 RGTR--
+*I FD 200417050 400000095        0001946  01800  01842      % 03402 RGTR--
+200417050 Kirchberg, Gare rout         01800                % 03402 RGTR--
+220301032 Dudelange, Kräizbier  01833 -01833                % 03402 RGTR--
+220301004 Dudelange, Rue Belai  01834 -01834                % 03402 RGTR--
+220301033 Dudelange, Rue Antoi  01835 -01835                % 03402 RGTR--
+220301024 Dudelange, Gemeng     01837 -01837                % 03402 RGTR--
+220301038 Dudelange, Rue de la  01838 -01838                % 03402 RGTR--
+220301056 Dudelange, Centre Cu  01839 -01839                % 03402 RGTR--
+220301070 Dudelange, Rue Grand  01839 -01839                % 03402 RGTR--
+220301049 Dudelange, Schlakemi  01840 -01840                % 03402 RGTR--
+400000095 Volmerange-les-Mines  01842                       % 03402 RGTR--
+*Z 03403 RGTR--                                             % 03403 RGTR--
+*L 507      200417050 400000095  01615  01657               % 03403 RGTR--
+*R 2 400000095 200417050 400000095  01615  01657            % 03403 RGTR--
+*G 072 200417050 400000095  01615  01657                    % 03403 RGTR--
+*A VE 200417050 400000095 000033  01615  01657              % 03403 RGTR--
+*I FD 200417050 400000095        0002060  01615  01657      % 03403 RGTR--
+200417050 Kirchberg, Gare rout         01615                % 03403 RGTR--
+220301032 Dudelange, Kräizbier  01648 -01648                % 03403 RGTR--
+220301004 Dudelange, Rue Belai  01649 -01649                % 03403 RGTR--
+220301033 Dudelange, Rue Antoi  01650 -01650                % 03403 RGTR--
+220301024 Dudelange, Gemeng     01652 -01652                % 03403 RGTR--
+220301038 Dudelange, Rue de la  01653 -01653                % 03403 RGTR--
+220301056 Dudelange, Centre Cu  01654 -01654                % 03403 RGTR--
+220301070 Dudelange, Rue Grand  01654 -01654                % 03403 RGTR--
+220301049 Dudelange, Schlakemi  01655 -01655                % 03403 RGTR--
+400000095 Volmerange-les-Mines  01657                       % 03403 RGTR--
+*Z 03404 RGTR--                                             % 03404 RGTR--
+*L 507      200417050 400000095  01630  01712               % 03404 RGTR--
+*R 2 400000095 200417050 400000095  01630  01712            % 03404 RGTR--
+*G 072 200417050 400000095  01630  01712                    % 03404 RGTR--
+*A VE 200417050 400000095 000033  01630  01712              % 03404 RGTR--
+*I FD 200417050 400000095        0002059  01630  01712      % 03404 RGTR--
+200417050 Kirchberg, Gare rout         01630                % 03404 RGTR--
+220301032 Dudelange, Kräizbier  01703 -01703                % 03404 RGTR--
+220301004 Dudelange, Rue Belai  01704 -01704                % 03404 RGTR--
+220301033 Dudelange, Rue Antoi  01705 -01705                % 03404 RGTR--
+220301024 Dudelange, Gemeng     01707 -01707                % 03404 RGTR--
+220301038 Dudelange, Rue de la  01708 -01708                % 03404 RGTR--
+220301056 Dudelange, Centre Cu  01709 -01709                % 03404 RGTR--
+220301070 Dudelange, Rue Grand  01709 -01709                % 03404 RGTR--
+220301049 Dudelange, Schlakemi  01710 -01710                % 03404 RGTR--
+400000095 Volmerange-les-Mines  01712                       % 03404 RGTR--
+*Z 03405 RGTR--                                             % 03405 RGTR--
+*L 507      200417050 400000095  01645  01727               % 03405 RGTR--
+*R 2 400000095 200417050 400000095  01645  01727            % 03405 RGTR--
+*G 072 200417050 400000095  01645  01727                    % 03405 RGTR--
+*A VE 200417050 400000095 000033  01645  01727              % 03405 RGTR--
+*I FD 200417050 400000095        0001236  01645  01727      % 03405 RGTR--
+200417050 Kirchberg, Gare rout         01645                % 03405 RGTR--
+220301032 Dudelange, Kräizbier  01718 -01718                % 03405 RGTR--
+220301004 Dudelange, Rue Belai  01719 -01719                % 03405 RGTR--
+220301033 Dudelange, Rue Antoi  01720 -01720                % 03405 RGTR--
+220301024 Dudelange, Gemeng     01722 -01722                % 03405 RGTR--
+220301038 Dudelange, Rue de la  01723 -01723                % 03405 RGTR--
+220301056 Dudelange, Centre Cu  01724 -01724                % 03405 RGTR--
+220301070 Dudelange, Rue Grand  01724 -01724                % 03405 RGTR--
+220301049 Dudelange, Schlakemi  01725 -01725                % 03405 RGTR--
+400000095 Volmerange-les-Mines  01727                       % 03405 RGTR--
+*Z 03406 RGTR--                                             % 03406 RGTR--
+*L 507      200417050 400000095  01715  01757               % 03406 RGTR--
+*R 2 400000095 200417050 400000095  01715  01757            % 03406 RGTR--
+*G 072 200417050 400000095  01715  01757                    % 03406 RGTR--
+*A VE 200417050 400000095 000033  01715  01757              % 03406 RGTR--
+*I FD 200417050 400000095        0002061  01715  01757      % 03406 RGTR--
+200417050 Kirchberg, Gare rout         01715                % 03406 RGTR--
+220301032 Dudelange, Kräizbier  01748 -01748                % 03406 RGTR--
+220301004 Dudelange, Rue Belai  01749 -01749                % 03406 RGTR--
+220301033 Dudelange, Rue Antoi  01750 -01750                % 03406 RGTR--
+220301024 Dudelange, Gemeng     01752 -01752                % 03406 RGTR--
+220301038 Dudelange, Rue de la  01753 -01753                % 03406 RGTR--
+220301056 Dudelange, Centre Cu  01754 -01754                % 03406 RGTR--
+220301070 Dudelange, Rue Grand  01754 -01754                % 03406 RGTR--
+220301049 Dudelange, Schlakemi  01755 -01755                % 03406 RGTR--
+400000095 Volmerange-les-Mines  01757                       % 03406 RGTR--
+*Z 03407 RGTR--                                             % 03407 RGTR--
+*L 507      200417050 400000095  01730  01812               % 03407 RGTR--
+*R 2 400000095 200417050 400000095  01730  01812            % 03407 RGTR--
+*G 072 200417050 400000095  01730  01812                    % 03407 RGTR--
+*A VE 200417050 400000095 000033  01730  01812              % 03407 RGTR--
+*I FD 200417050 400000095        0002062  01730  01812      % 03407 RGTR--
+200417050 Kirchberg, Gare rout         01730                % 03407 RGTR--
+220301032 Dudelange, Kräizbier  01803 -01803                % 03407 RGTR--
+220301004 Dudelange, Rue Belai  01804 -01804                % 03407 RGTR--
+220301033 Dudelange, Rue Antoi  01805 -01805                % 03407 RGTR--
+220301024 Dudelange, Gemeng     01807 -01807                % 03407 RGTR--
+220301038 Dudelange, Rue de la  01808 -01808                % 03407 RGTR--
+220301056 Dudelange, Centre Cu  01809 -01809                % 03407 RGTR--
+220301070 Dudelange, Rue Grand  01809 -01809                % 03407 RGTR--
+220301049 Dudelange, Schlakemi  01810 -01810                % 03407 RGTR--
+400000095 Volmerange-les-Mines  01812                       % 03407 RGTR--
+*Z 03408 RGTR--                                             % 03408 RGTR--
+*L 507      200417050 400000095  01745  01827               % 03408 RGTR--
+*R 2 400000095 200417050 400000095  01745  01827            % 03408 RGTR--
+*G 072 200417050 400000095  01745  01827                    % 03408 RGTR--
+*A VE 200417050 400000095 000033  01745  01827              % 03408 RGTR--
+*I FD 200417050 400000095        0002063  01745  01827      % 03408 RGTR--
+200417050 Kirchberg, Gare rout         01745                % 03408 RGTR--
+220301032 Dudelange, Kräizbier  01818 -01818                % 03408 RGTR--
+220301004 Dudelange, Rue Belai  01819 -01819                % 03408 RGTR--
+220301033 Dudelange, Rue Antoi  01820 -01820                % 03408 RGTR--
+220301024 Dudelange, Gemeng     01822 -01822                % 03408 RGTR--
+220301038 Dudelange, Rue de la  01823 -01823                % 03408 RGTR--
+220301056 Dudelange, Centre Cu  01824 -01824                % 03408 RGTR--
+220301070 Dudelange, Rue Grand  01824 -01824                % 03408 RGTR--
+220301049 Dudelange, Schlakemi  01825 -01825                % 03408 RGTR--
+400000095 Volmerange-les-Mines  01827                       % 03408 RGTR--
+*Z 03409 RGTR--                                             % 03409 RGTR--
+*L 507      200417050 400000095  01815  01857               % 03409 RGTR--
+*R 2 400000095 200417050 400000095  01815  01857            % 03409 RGTR--
+*G 072 200417050 400000095  01815  01857                    % 03409 RGTR--
+*A VE 200417050 400000095 000033  01815  01857              % 03409 RGTR--
+*I FD 200417050 400000095        0002064  01815  01857      % 03409 RGTR--
+200417050 Kirchberg, Gare rout         01815                % 03409 RGTR--
+220301032 Dudelange, Kräizbier  01848 -01848                % 03409 RGTR--
+220301004 Dudelange, Rue Belai  01849 -01849                % 03409 RGTR--
+220301033 Dudelange, Rue Antoi  01850 -01850                % 03409 RGTR--
+220301024 Dudelange, Gemeng     01852 -01852                % 03409 RGTR--
+220301038 Dudelange, Rue de la  01853 -01853                % 03409 RGTR--
+220301056 Dudelange, Centre Cu  01854 -01854                % 03409 RGTR--
+220301070 Dudelange, Rue Grand  01854 -01854                % 03409 RGTR--
+220301049 Dudelange, Schlakemi  01855 -01855                % 03409 RGTR--
+400000095 Volmerange-les-Mines  01857                       % 03409 RGTR--
+*Z 03410 RGTR--                                             % 03410 RGTR--
+*L 507      200417050 400000095  01830  01912               % 03410 RGTR--
+*R 2 400000095 200417050 400000095  01830  01912            % 03410 RGTR--
+*G 072 200417050 400000095  01830  01912                    % 03410 RGTR--
+*A VE 200417050 400000095 000033  01830  01912              % 03410 RGTR--
+*I FD 200417050 400000095        0002356  01830  01912      % 03410 RGTR--
+200417050 Kirchberg, Gare rout         01830                % 03410 RGTR--
+220301032 Dudelange, Kräizbier  01903 -01903                % 03410 RGTR--
+220301004 Dudelange, Rue Belai  01904 -01904                % 03410 RGTR--
+220301033 Dudelange, Rue Antoi  01905 -01905                % 03410 RGTR--
+220301024 Dudelange, Gemeng     01907 -01907                % 03410 RGTR--
+220301038 Dudelange, Rue de la  01908 -01908                % 03410 RGTR--
+220301056 Dudelange, Centre Cu  01909 -01909                % 03410 RGTR--
+220301070 Dudelange, Rue Grand  01909 -01909                % 03410 RGTR--
+220301049 Dudelange, Schlakemi  01910 -01910                % 03410 RGTR--
+400000095 Volmerange-les-Mines  01912                       % 03410 RGTR--
+*Z 03411 RGTR--                                             % 03411 RGTR--
+*L 507      400000095 200417050  00500  00530               % 03411 RGTR--
+*R 1 200417050 400000095 200417050  00500  00530            % 03411 RGTR--
+*G 063 400000095 200417050  00500  00530                    % 03411 RGTR--
+*A VE 400000095 200417050 000038  00500  00530              % 03411 RGTR--
+*I FD 400000095 200417050        0001725  00500  00530      % 03411 RGTR--
+400000095 Volmerange-les-Mines         00500                % 03411 RGTR--
+220301049 Dudelange, Schlakemi -00501  00501                % 03411 RGTR--
+220301070 Dudelange, Rue Grand -00502  00502                % 03411 RGTR--
+220301056 Dudelange, Centre Cu -00502  00502                % 03411 RGTR--
+220301038 Dudelange, Rue de la -00503  00503                % 03411 RGTR--
+220301033 Dudelange, Rue Antoi -00504  00504                % 03411 RGTR--
+220301004 Dudelange, Rue Belai -00505  00505                % 03411 RGTR--
+220301032 Dudelange, Kräizbier -00506  00506                % 03411 RGTR--
+200417050 Kirchberg, Gare rout  00530                       % 03411 RGTR--
+*Z 03412 RGTR--                                             % 03412 RGTR--
+*L 507      400000095 200417050  00600  00630               % 03412 RGTR--
+*R 1 200417050 400000095 200417050  00600  00630            % 03412 RGTR--
+*G 063 400000095 200417050  00600  00630                    % 03412 RGTR--
+*A VE 400000095 200417050 000038  00600  00630              % 03412 RGTR--
+*I FD 400000095 200417050        0001717  00600  00630      % 03412 RGTR--
+400000095 Volmerange-les-Mines         00600                % 03412 RGTR--
+220301049 Dudelange, Schlakemi -00601  00601                % 03412 RGTR--
+220301070 Dudelange, Rue Grand -00602  00602                % 03412 RGTR--
+220301056 Dudelange, Centre Cu -00602  00602                % 03412 RGTR--
+220301038 Dudelange, Rue de la -00603  00603                % 03412 RGTR--
+220301033 Dudelange, Rue Antoi -00604  00604                % 03412 RGTR--
+220301004 Dudelange, Rue Belai -00605  00605                % 03412 RGTR--
+220301032 Dudelange, Kräizbier -00606  00606                % 03412 RGTR--
+200417050 Kirchberg, Gare rout  00630                       % 03412 RGTR--
+*Z 03413 RGTR--                                             % 03413 RGTR--
+*L 507      400000095 200417050  01000  01030               % 03413 RGTR--
+*R 1 200417050 400000095 200417050  01000  01030            % 03413 RGTR--
+*G 063 400000095 200417050  01000  01030                    % 03413 RGTR--
+*A VE 400000095 200417050 000038  01000  01030              % 03413 RGTR--
+*I FD 400000095 200417050        0001712  01000  01030      % 03413 RGTR--
+400000095 Volmerange-les-Mines         01000                % 03413 RGTR--
+220301049 Dudelange, Schlakemi -01001  01001                % 03413 RGTR--
+220301070 Dudelange, Rue Grand -01002  01002                % 03413 RGTR--
+220301056 Dudelange, Centre Cu -01002  01002                % 03413 RGTR--
+220301038 Dudelange, Rue de la -01003  01003                % 03413 RGTR--
+220301033 Dudelange, Rue Antoi -01004  01004                % 03413 RGTR--
+220301004 Dudelange, Rue Belai -01005  01005                % 03413 RGTR--
+220301032 Dudelange, Kräizbier -01006  01006                % 03413 RGTR--
+200417050 Kirchberg, Gare rout  01030                       % 03413 RGTR--
+*Z 03414 RGTR--                                             % 03414 RGTR--
+*L 507      400000095 200417050  01100  01130               % 03414 RGTR--
+*R 1 200417050 400000095 200417050  01100  01130            % 03414 RGTR--
+*G 063 400000095 200417050  01100  01130                    % 03414 RGTR--
+*A VE 400000095 200417050 000038  01100  01130              % 03414 RGTR--
+*I FD 400000095 200417050        0001719  01100  01130      % 03414 RGTR--
+400000095 Volmerange-les-Mines         01100                % 03414 RGTR--
+220301049 Dudelange, Schlakemi -01101  01101                % 03414 RGTR--
+220301070 Dudelange, Rue Grand -01102  01102                % 03414 RGTR--
+220301056 Dudelange, Centre Cu -01102  01102                % 03414 RGTR--
+220301038 Dudelange, Rue de la -01103  01103                % 03414 RGTR--
+220301033 Dudelange, Rue Antoi -01104  01104                % 03414 RGTR--
+220301004 Dudelange, Rue Belai -01105  01105                % 03414 RGTR--
+220301032 Dudelange, Kräizbier -01106  01106                % 03414 RGTR--
+200417050 Kirchberg, Gare rout  01130                       % 03414 RGTR--
+*Z 03415 RGTR--                                             % 03415 RGTR--
+*L 507      400000095 200417050  01200  01230               % 03415 RGTR--
+*R 1 200417050 400000095 200417050  01200  01230            % 03415 RGTR--
+*G 063 400000095 200417050  01200  01230                    % 03415 RGTR--
+*A VE 400000095 200417050 000038  01200  01230              % 03415 RGTR--
+*I FD 400000095 200417050        0001713  01200  01230      % 03415 RGTR--
+400000095 Volmerange-les-Mines         01200                % 03415 RGTR--
+220301049 Dudelange, Schlakemi -01201  01201                % 03415 RGTR--
+220301070 Dudelange, Rue Grand -01202  01202                % 03415 RGTR--
+220301056 Dudelange, Centre Cu -01202  01202                % 03415 RGTR--
+220301038 Dudelange, Rue de la -01203  01203                % 03415 RGTR--
+220301033 Dudelange, Rue Antoi -01204  01204                % 03415 RGTR--
+220301004 Dudelange, Rue Belai -01205  01205                % 03415 RGTR--
+220301032 Dudelange, Kräizbier -01206  01206                % 03415 RGTR--
+200417050 Kirchberg, Gare rout  01230                       % 03415 RGTR--
+*Z 03416 RGTR--                                             % 03416 RGTR--
+*L 507      400000095 200417050  01300  01330               % 03416 RGTR--
+*R 1 200417050 400000095 200417050  01300  01330            % 03416 RGTR--
+*G 063 400000095 200417050  01300  01330                    % 03416 RGTR--
+*A VE 400000095 200417050 000038  01300  01330              % 03416 RGTR--
+*I FD 400000095 200417050        0001720  01300  01330      % 03416 RGTR--
+400000095 Volmerange-les-Mines         01300                % 03416 RGTR--
+220301049 Dudelange, Schlakemi -01301  01301                % 03416 RGTR--
+220301070 Dudelange, Rue Grand -01302  01302                % 03416 RGTR--
+220301056 Dudelange, Centre Cu -01302  01302                % 03416 RGTR--
+220301038 Dudelange, Rue de la -01303  01303                % 03416 RGTR--
+220301033 Dudelange, Rue Antoi -01304  01304                % 03416 RGTR--
+220301004 Dudelange, Rue Belai -01305  01305                % 03416 RGTR--
+220301032 Dudelange, Kräizbier -01306  01306                % 03416 RGTR--
+200417050 Kirchberg, Gare rout  01330                       % 03416 RGTR--
+*Z 03417 RGTR--                                             % 03417 RGTR--
+*L 507      400000095 200417050  01400  01430               % 03417 RGTR--
+*R 1 200417050 400000095 200417050  01400  01430            % 03417 RGTR--
+*G 063 400000095 200417050  01400  01430                    % 03417 RGTR--
+*A VE 400000095 200417050 000038  01400  01430              % 03417 RGTR--
+*I FD 400000095 200417050        0001714  01400  01430      % 03417 RGTR--
+400000095 Volmerange-les-Mines         01400                % 03417 RGTR--
+220301049 Dudelange, Schlakemi -01401  01401                % 03417 RGTR--
+220301070 Dudelange, Rue Grand -01402  01402                % 03417 RGTR--
+220301056 Dudelange, Centre Cu -01402  01402                % 03417 RGTR--
+220301038 Dudelange, Rue de la -01403  01403                % 03417 RGTR--
+220301033 Dudelange, Rue Antoi -01404  01404                % 03417 RGTR--
+220301004 Dudelange, Rue Belai -01405  01405                % 03417 RGTR--
+220301032 Dudelange, Kräizbier -01406  01406                % 03417 RGTR--
+200417050 Kirchberg, Gare rout  01430                       % 03417 RGTR--
+*Z 03418 RGTR--                                             % 03418 RGTR--
+*L 507      400000095 200417050  01500  01530               % 03418 RGTR--
+*R 1 200417050 400000095 200417050  01500  01530            % 03418 RGTR--
+*G 063 400000095 200417050  01500  01530                    % 03418 RGTR--
+*A VE 400000095 200417050 000038  01500  01530              % 03418 RGTR--
+*I FD 400000095 200417050        0001721  01500  01530      % 03418 RGTR--
+400000095 Volmerange-les-Mines         01500                % 03418 RGTR--
+220301049 Dudelange, Schlakemi -01501  01501                % 03418 RGTR--
+220301070 Dudelange, Rue Grand -01502  01502                % 03418 RGTR--
+220301056 Dudelange, Centre Cu -01502  01502                % 03418 RGTR--
+220301038 Dudelange, Rue de la -01503  01503                % 03418 RGTR--
+220301033 Dudelange, Rue Antoi -01504  01504                % 03418 RGTR--
+220301004 Dudelange, Rue Belai -01505  01505                % 03418 RGTR--
+220301032 Dudelange, Kräizbier -01506  01506                % 03418 RGTR--
+200417050 Kirchberg, Gare rout  01530                       % 03418 RGTR--
+*Z 03419 RGTR--                                             % 03419 RGTR--
+*L 507      400000095 200417050  01600  01630               % 03419 RGTR--
+*R 1 200417050 400000095 200417050  01600  01630            % 03419 RGTR--
+*G 063 400000095 200417050  01600  01630                    % 03419 RGTR--
+*A VE 400000095 200417050 000038  01600  01630              % 03419 RGTR--
+*I FD 400000095 200417050        0001727  01600  01630      % 03419 RGTR--
+400000095 Volmerange-les-Mines         01600                % 03419 RGTR--
+220301049 Dudelange, Schlakemi -01601  01601                % 03419 RGTR--
+220301070 Dudelange, Rue Grand -01602  01602                % 03419 RGTR--
+220301056 Dudelange, Centre Cu -01602  01602                % 03419 RGTR--
+220301038 Dudelange, Rue de la -01603  01603                % 03419 RGTR--
+220301033 Dudelange, Rue Antoi -01604  01604                % 03419 RGTR--
+220301004 Dudelange, Rue Belai -01605  01605                % 03419 RGTR--
+220301032 Dudelange, Kräizbier -01606  01606                % 03419 RGTR--
+200417050 Kirchberg, Gare rout  01630                       % 03419 RGTR--
+*Z 03420 RGTR--                                             % 03420 RGTR--
+*L 507      400000095 200417050  01700  01730               % 03420 RGTR--
+*R 1 200417050 400000095 200417050  01700  01730            % 03420 RGTR--
+*G 063 400000095 200417050  01700  01730                    % 03420 RGTR--
+*A VE 400000095 200417050 000038  01700  01730              % 03420 RGTR--
+*I FD 400000095 200417050        0001732  01700  01730      % 03420 RGTR--
+400000095 Volmerange-les-Mines         01700                % 03420 RGTR--
+220301049 Dudelange, Schlakemi -01701  01701                % 03420 RGTR--
+220301070 Dudelange, Rue Grand -01702  01702                % 03420 RGTR--
+220301056 Dudelange, Centre Cu -01702  01702                % 03420 RGTR--
+220301038 Dudelange, Rue de la -01703  01703                % 03420 RGTR--
+220301033 Dudelange, Rue Antoi -01704  01704                % 03420 RGTR--
+220301004 Dudelange, Rue Belai -01705  01705                % 03420 RGTR--
+220301032 Dudelange, Kräizbier -01706  01706                % 03420 RGTR--
+200417050 Kirchberg, Gare rout  01730                       % 03420 RGTR--
+*Z 03421 RGTR--                                             % 03421 RGTR--
+*L 507      400000095 200417050  01800  01830               % 03421 RGTR--
+*R 1 200417050 400000095 200417050  01800  01830            % 03421 RGTR--
+*G 063 400000095 200417050  01800  01830                    % 03421 RGTR--
+*A VE 400000095 200417050 000038  01800  01830              % 03421 RGTR--
+*I FD 400000095 200417050        0001728  01800  01830      % 03421 RGTR--
+400000095 Volmerange-les-Mines         01800                % 03421 RGTR--
+220301049 Dudelange, Schlakemi -01801  01801                % 03421 RGTR--
+220301070 Dudelange, Rue Grand -01802  01802                % 03421 RGTR--
+220301056 Dudelange, Centre Cu -01802  01802                % 03421 RGTR--
+220301038 Dudelange, Rue de la -01803  01803                % 03421 RGTR--
+220301033 Dudelange, Rue Antoi -01804  01804                % 03421 RGTR--
+220301004 Dudelange, Rue Belai -01805  01805                % 03421 RGTR--
+220301032 Dudelange, Kräizbier -01806  01806                % 03421 RGTR--
+200417050 Kirchberg, Gare rout  01830                       % 03421 RGTR--
+*Z 03422 RGTR--                                             % 03422 RGTR--
+*L 507      400000095 200417050  01900  01930               % 03422 RGTR--
+*R 1 200417050 400000095 200417050  01900  01930            % 03422 RGTR--
+*G 063 400000095 200417050  01900  01930                    % 03422 RGTR--
+*A VE 400000095 200417050 000038  01900  01930              % 03422 RGTR--
+*I FD 400000095 200417050        0001723  01900  01930      % 03422 RGTR--
+400000095 Volmerange-les-Mines         01900                % 03422 RGTR--
+220301049 Dudelange, Schlakemi -01901  01901                % 03422 RGTR--
+220301070 Dudelange, Rue Grand -01902  01902                % 03422 RGTR--
+220301056 Dudelange, Centre Cu -01902  01902                % 03422 RGTR--
+220301038 Dudelange, Rue de la -01903  01903                % 03422 RGTR--
+220301033 Dudelange, Rue Antoi -01904  01904                % 03422 RGTR--
+220301004 Dudelange, Rue Belai -01905  01905                % 03422 RGTR--
+220301032 Dudelange, Kräizbier -01906  01906                % 03422 RGTR--
+200417050 Kirchberg, Gare rout  01930                       % 03422 RGTR--
+*Z 03423 RGTR--                                             % 03423 RGTR--
+*L 507      400000095 200417050  00530  00600               % 03423 RGTR--
+*R 1 200417050 400000095 200417050  00530  00600            % 03423 RGTR--
+*G 063 400000095 200417050  00530  00600                    % 03423 RGTR--
+*A VE 400000095 200417050 000034  00530  00600              % 03423 RGTR--
+*I FD 400000095 200417050        0001969  00530  00600      % 03423 RGTR--
+400000095 Volmerange-les-Mines         00530                % 03423 RGTR--
+220301049 Dudelange, Schlakemi -00531  00531                % 03423 RGTR--
+220301070 Dudelange, Rue Grand -00532  00532                % 03423 RGTR--
+220301056 Dudelange, Centre Cu -00532  00532                % 03423 RGTR--
+220301038 Dudelange, Rue de la -00533  00533                % 03423 RGTR--
+220301033 Dudelange, Rue Antoi -00534  00534                % 03423 RGTR--
+220301004 Dudelange, Rue Belai -00535  00535                % 03423 RGTR--
+220301032 Dudelange, Kräizbier -00536  00536                % 03423 RGTR--
+200417050 Kirchberg, Gare rout  00600                       % 03423 RGTR--
+*Z 03424 RGTR--                                             % 03424 RGTR--
+*L 507      400000095 200417050  00615  00645               % 03424 RGTR--
+*R 1 200417050 400000095 200417050  00615  00645            % 03424 RGTR--
+*G 063 400000095 200417050  00615  00645                    % 03424 RGTR--
+*A VE 400000095 200417050 000034  00615  00645              % 03424 RGTR--
+*I FD 400000095 200417050        0001887  00615  00645      % 03424 RGTR--
+400000095 Volmerange-les-Mines         00615                % 03424 RGTR--
+220301049 Dudelange, Schlakemi -00616  00616                % 03424 RGTR--
+220301070 Dudelange, Rue Grand -00617  00617                % 03424 RGTR--
+220301056 Dudelange, Centre Cu -00617  00617                % 03424 RGTR--
+220301038 Dudelange, Rue de la -00618  00618                % 03424 RGTR--
+220301033 Dudelange, Rue Antoi -00619  00619                % 03424 RGTR--
+220301004 Dudelange, Rue Belai -00620  00620                % 03424 RGTR--
+220301032 Dudelange, Kräizbier -00621  00621                % 03424 RGTR--
+200417050 Kirchberg, Gare rout  00645                       % 03424 RGTR--
+*Z 03425 RGTR--                                             % 03425 RGTR--
+*L 507      400000095 200417050  00630  00700               % 03425 RGTR--
+*R 1 200417050 400000095 200417050  00630  00700            % 03425 RGTR--
+*G 063 400000095 200417050  00630  00700                    % 03425 RGTR--
+*A VE 400000095 200417050 000034  00630  00700              % 03425 RGTR--
+*I FD 400000095 200417050        0000839  00630  00700      % 03425 RGTR--
+400000095 Volmerange-les-Mines         00630                % 03425 RGTR--
+220301049 Dudelange, Schlakemi -00631  00631                % 03425 RGTR--
+220301070 Dudelange, Rue Grand -00632  00632                % 03425 RGTR--
+220301056 Dudelange, Centre Cu -00632  00632                % 03425 RGTR--
+220301038 Dudelange, Rue de la -00633  00633                % 03425 RGTR--
+220301033 Dudelange, Rue Antoi -00634  00634                % 03425 RGTR--
+220301004 Dudelange, Rue Belai -00635  00635                % 03425 RGTR--
+220301032 Dudelange, Kräizbier -00636  00636                % 03425 RGTR--
+200417050 Kirchberg, Gare rout  00700                       % 03425 RGTR--
+*Z 03426 RGTR--                                             % 03426 RGTR--
+*L 507      400000095 200417050  00930  01000               % 03426 RGTR--
+*R 1 200417050 400000095 200417050  00930  01000            % 03426 RGTR--
+*G 063 400000095 200417050  00930  01000                    % 03426 RGTR--
+*A VE 400000095 200417050 000034  00930  01000              % 03426 RGTR--
+*I FD 400000095 200417050        0000923  00930  01000      % 03426 RGTR--
+400000095 Volmerange-les-Mines         00930                % 03426 RGTR--
+220301049 Dudelange, Schlakemi -00931  00931                % 03426 RGTR--
+220301070 Dudelange, Rue Grand -00932  00932                % 03426 RGTR--
+220301056 Dudelange, Centre Cu -00932  00932                % 03426 RGTR--
+220301038 Dudelange, Rue de la -00933  00933                % 03426 RGTR--
+220301033 Dudelange, Rue Antoi -00934  00934                % 03426 RGTR--
+220301004 Dudelange, Rue Belai -00935  00935                % 03426 RGTR--
+220301032 Dudelange, Kräizbier -00936  00936                % 03426 RGTR--
+200417050 Kirchberg, Gare rout  01000                       % 03426 RGTR--
+*Z 03427 RGTR--                                             % 03427 RGTR--
+*L 507      400000095 200417050  01030  01100               % 03427 RGTR--
+*R 1 200417050 400000095 200417050  01030  01100            % 03427 RGTR--
+*G 063 400000095 200417050  01030  01100                    % 03427 RGTR--
+*A VE 400000095 200417050 000034  01030  01100              % 03427 RGTR--
+*I FD 400000095 200417050        0001970  01030  01100      % 03427 RGTR--
+400000095 Volmerange-les-Mines         01030                % 03427 RGTR--
+220301049 Dudelange, Schlakemi -01031  01031                % 03427 RGTR--
+220301070 Dudelange, Rue Grand -01032  01032                % 03427 RGTR--
+220301056 Dudelange, Centre Cu -01032  01032                % 03427 RGTR--
+220301038 Dudelange, Rue de la -01033  01033                % 03427 RGTR--
+220301033 Dudelange, Rue Antoi -01034  01034                % 03427 RGTR--
+220301004 Dudelange, Rue Belai -01035  01035                % 03427 RGTR--
+220301032 Dudelange, Kräizbier -01036  01036                % 03427 RGTR--
+200417050 Kirchberg, Gare rout  01100                       % 03427 RGTR--
+*Z 03428 RGTR--                                             % 03428 RGTR--
+*L 507      400000095 200417050  01130  01200               % 03428 RGTR--
+*R 1 200417050 400000095 200417050  01130  01200            % 03428 RGTR--
+*G 063 400000095 200417050  01130  01200                    % 03428 RGTR--
+*A VE 400000095 200417050 000034  01130  01200              % 03428 RGTR--
+*I FD 400000095 200417050        0001973  01130  01200      % 03428 RGTR--
+400000095 Volmerange-les-Mines         01130                % 03428 RGTR--
+220301049 Dudelange, Schlakemi -01131  01131                % 03428 RGTR--
+220301070 Dudelange, Rue Grand -01132  01132                % 03428 RGTR--
+220301056 Dudelange, Centre Cu -01132  01132                % 03428 RGTR--
+220301038 Dudelange, Rue de la -01133  01133                % 03428 RGTR--
+220301033 Dudelange, Rue Antoi -01134  01134                % 03428 RGTR--
+220301004 Dudelange, Rue Belai -01135  01135                % 03428 RGTR--
+220301032 Dudelange, Kräizbier -01136  01136                % 03428 RGTR--
+200417050 Kirchberg, Gare rout  01200                       % 03428 RGTR--
+*Z 03429 RGTR--                                             % 03429 RGTR--
+*L 507      400000095 200417050  01230  01300               % 03429 RGTR--
+*R 1 200417050 400000095 200417050  01230  01300            % 03429 RGTR--
+*G 063 400000095 200417050  01230  01300                    % 03429 RGTR--
+*A VE 400000095 200417050 000034  01230  01300              % 03429 RGTR--
+*I FD 400000095 200417050        0001974  01230  01300      % 03429 RGTR--
+400000095 Volmerange-les-Mines         01230                % 03429 RGTR--
+220301049 Dudelange, Schlakemi -01231  01231                % 03429 RGTR--
+220301070 Dudelange, Rue Grand -01232  01232                % 03429 RGTR--
+220301056 Dudelange, Centre Cu -01232  01232                % 03429 RGTR--
+220301038 Dudelange, Rue de la -01233  01233                % 03429 RGTR--
+220301033 Dudelange, Rue Antoi -01234  01234                % 03429 RGTR--
+220301004 Dudelange, Rue Belai -01235  01235                % 03429 RGTR--
+220301032 Dudelange, Kräizbier -01236  01236                % 03429 RGTR--
+200417050 Kirchberg, Gare rout  01300                       % 03429 RGTR--
+*Z 03430 RGTR--                                             % 03430 RGTR--
+*L 507      400000095 200417050  01330  01400               % 03430 RGTR--
+*R 1 200417050 400000095 200417050  01330  01400            % 03430 RGTR--
+*G 063 400000095 200417050  01330  01400                    % 03430 RGTR--
+*A VE 400000095 200417050 000034  01330  01400              % 03430 RGTR--
+*I FD 400000095 200417050        0001971  01330  01400      % 03430 RGTR--
+400000095 Volmerange-les-Mines         01330                % 03430 RGTR--
+220301049 Dudelange, Schlakemi -01331  01331                % 03430 RGTR--
+220301070 Dudelange, Rue Grand -01332  01332                % 03430 RGTR--
+220301056 Dudelange, Centre Cu -01332  01332                % 03430 RGTR--
+220301038 Dudelange, Rue de la -01333  01333                % 03430 RGTR--
+220301033 Dudelange, Rue Antoi -01334  01334                % 03430 RGTR--
+220301004 Dudelange, Rue Belai -01335  01335                % 03430 RGTR--
+220301032 Dudelange, Kräizbier -01336  01336                % 03430 RGTR--
+200417050 Kirchberg, Gare rout  01400                       % 03430 RGTR--
+*Z 03431 RGTR--                                             % 03431 RGTR--
+*L 507      400000095 200417050  01430  01500               % 03431 RGTR--
+*R 1 200417050 400000095 200417050  01430  01500            % 03431 RGTR--
+*G 063 400000095 200417050  01430  01500                    % 03431 RGTR--
+*A VE 400000095 200417050 000034  01430  01500              % 03431 RGTR--
+*I FD 400000095 200417050        0001975  01430  01500      % 03431 RGTR--
+400000095 Volmerange-les-Mines         01430                % 03431 RGTR--
+220301049 Dudelange, Schlakemi -01431  01431                % 03431 RGTR--
+220301070 Dudelange, Rue Grand -01432  01432                % 03431 RGTR--
+220301056 Dudelange, Centre Cu -01432  01432                % 03431 RGTR--
+220301038 Dudelange, Rue de la -01433  01433                % 03431 RGTR--
+220301033 Dudelange, Rue Antoi -01434  01434                % 03431 RGTR--
+220301004 Dudelange, Rue Belai -01435  01435                % 03431 RGTR--
+220301032 Dudelange, Kräizbier -01436  01436                % 03431 RGTR--
+200417050 Kirchberg, Gare rout  01500                       % 03431 RGTR--
+*Z 03432 RGTR--                                             % 03432 RGTR--
+*L 507      400000095 200417050  01530  01600               % 03432 RGTR--
+*R 1 200417050 400000095 200417050  01530  01600            % 03432 RGTR--
+*G 063 400000095 200417050  01530  01600                    % 03432 RGTR--
+*A VE 400000095 200417050 000034  01530  01600              % 03432 RGTR--
+*I FD 400000095 200417050        0001976  01530  01600      % 03432 RGTR--
+400000095 Volmerange-les-Mines         01530                % 03432 RGTR--
+220301049 Dudelange, Schlakemi -01531  01531                % 03432 RGTR--
+220301070 Dudelange, Rue Grand -01532  01532                % 03432 RGTR--
+220301056 Dudelange, Centre Cu -01532  01532                % 03432 RGTR--
+220301038 Dudelange, Rue de la -01533  01533                % 03432 RGTR--
+220301033 Dudelange, Rue Antoi -01534  01534                % 03432 RGTR--
+220301004 Dudelange, Rue Belai -01535  01535                % 03432 RGTR--
+220301032 Dudelange, Kräizbier -01536  01536                % 03432 RGTR--
+200417050 Kirchberg, Gare rout  01600                       % 03432 RGTR--
+*Z 03433 RGTR--                                             % 03433 RGTR--
+*L 507      400000095 200417050  01630  01700               % 03433 RGTR--
+*R 1 200417050 400000095 200417050  01630  01700            % 03433 RGTR--
+*G 063 400000095 200417050  01630  01700                    % 03433 RGTR--
+*A VE 400000095 200417050 000034  01630  01700              % 03433 RGTR--
+*I FD 400000095 200417050        0001731  01630  01700      % 03433 RGTR--
+400000095 Volmerange-les-Mines         01630                % 03433 RGTR--
+220301049 Dudelange, Schlakemi -01631  01631                % 03433 RGTR--
+220301070 Dudelange, Rue Grand -01632  01632                % 03433 RGTR--
+220301056 Dudelange, Centre Cu -01632  01632                % 03433 RGTR--
+220301038 Dudelange, Rue de la -01633  01633                % 03433 RGTR--
+220301033 Dudelange, Rue Antoi -01634  01634                % 03433 RGTR--
+220301004 Dudelange, Rue Belai -01635  01635                % 03433 RGTR--
+220301032 Dudelange, Kräizbier -01636  01636                % 03433 RGTR--
+200417050 Kirchberg, Gare rout  01700                       % 03433 RGTR--
+*Z 03434 RGTR--                                             % 03434 RGTR--
+*L 507      400000095 200417050  01730  01800               % 03434 RGTR--
+*R 1 200417050 400000095 200417050  01730  01800            % 03434 RGTR--
+*G 063 400000095 200417050  01730  01800                    % 03434 RGTR--
+*A VE 400000095 200417050 000034  01730  01800              % 03434 RGTR--
+*I FD 400000095 200417050        0001733  01730  01800      % 03434 RGTR--
+400000095 Volmerange-les-Mines         01730                % 03434 RGTR--
+220301049 Dudelange, Schlakemi -01731  01731                % 03434 RGTR--
+220301070 Dudelange, Rue Grand -01732  01732                % 03434 RGTR--
+220301056 Dudelange, Centre Cu -01732  01732                % 03434 RGTR--
+220301038 Dudelange, Rue de la -01733  01733                % 03434 RGTR--
+220301033 Dudelange, Rue Antoi -01734  01734                % 03434 RGTR--
+220301004 Dudelange, Rue Belai -01735  01735                % 03434 RGTR--
+220301032 Dudelange, Kräizbier -01736  01736                % 03434 RGTR--
+200417050 Kirchberg, Gare rout  01800                       % 03434 RGTR--
+*Z 03435 RGTR--                                             % 03435 RGTR--
+*L 507      400000095 200417050  01830  01900               % 03435 RGTR--
+*R 1 200417050 400000095 200417050  01830  01900            % 03435 RGTR--
+*G 063 400000095 200417050  01830  01900                    % 03435 RGTR--
+*A VE 400000095 200417050 000034  01830  01900              % 03435 RGTR--
+*I FD 400000095 200417050        0001722  01830  01900      % 03435 RGTR--
+400000095 Volmerange-les-Mines         01830                % 03435 RGTR--
+220301049 Dudelange, Schlakemi -01831  01831                % 03435 RGTR--
+220301070 Dudelange, Rue Grand -01832  01832                % 03435 RGTR--
+220301056 Dudelange, Centre Cu -01832  01832                % 03435 RGTR--
+220301038 Dudelange, Rue de la -01833  01833                % 03435 RGTR--
+220301033 Dudelange, Rue Antoi -01834  01834                % 03435 RGTR--
+220301004 Dudelange, Rue Belai -01835  01835                % 03435 RGTR--
+220301032 Dudelange, Kräizbier -01836  01836                % 03435 RGTR--
+200417050 Kirchberg, Gare rout  01900                       % 03435 RGTR--
+*Z 03436 RGTR--                                             % 03436 RGTR--
+*L 507      400000095 200417050  02000  02030               % 03436 RGTR--
+*R 1 200417050 400000095 200417050  02000  02030            % 03436 RGTR--
+*G 063 400000095 200417050  02000  02030                    % 03436 RGTR--
+*A VE 400000095 200417050 000034  02000  02030              % 03436 RGTR--
+*I FD 400000095 200417050        0001927  02000  02030      % 03436 RGTR--
+400000095 Volmerange-les-Mines         02000                % 03436 RGTR--
+220301049 Dudelange, Schlakemi -02001  02001                % 03436 RGTR--
+220301070 Dudelange, Rue Grand -02002  02002                % 03436 RGTR--
+220301056 Dudelange, Centre Cu -02002  02002                % 03436 RGTR--
+220301038 Dudelange, Rue de la -02003  02003                % 03436 RGTR--
+220301033 Dudelange, Rue Antoi -02004  02004                % 03436 RGTR--
+220301004 Dudelange, Rue Belai -02005  02005                % 03436 RGTR--
+220301032 Dudelange, Kräizbier -02006  02006                % 03436 RGTR--
+200417050 Kirchberg, Gare rout  02030                       % 03436 RGTR--
+*Z 03437 RGTR--                                             % 03437 RGTR--
+*L 507      400000095 200417050  02100  02130               % 03437 RGTR--
+*R 1 200417050 400000095 200417050  02100  02130            % 03437 RGTR--
+*G 063 400000095 200417050  02100  02130                    % 03437 RGTR--
+*A VE 400000095 200417050 000034  02100  02130              % 03437 RGTR--
+*I FD 400000095 200417050        0001928  02100  02130      % 03437 RGTR--
+400000095 Volmerange-les-Mines         02100                % 03437 RGTR--
+220301049 Dudelange, Schlakemi -02101  02101                % 03437 RGTR--
+220301070 Dudelange, Rue Grand -02102  02102                % 03437 RGTR--
+220301056 Dudelange, Centre Cu -02102  02102                % 03437 RGTR--
+220301038 Dudelange, Rue de la -02103  02103                % 03437 RGTR--
+220301033 Dudelange, Rue Antoi -02104  02104                % 03437 RGTR--
+220301004 Dudelange, Rue Belai -02105  02105                % 03437 RGTR--
+220301032 Dudelange, Kräizbier -02106  02106                % 03437 RGTR--
+200417050 Kirchberg, Gare rout  02130                       % 03437 RGTR--
+*Z 03438 RGTR--                                             % 03438 RGTR--
+*L 507      400000095 200417050  02200  02230               % 03438 RGTR--
+*R 1 200417050 400000095 200417050  02200  02230            % 03438 RGTR--
+*G 063 400000095 200417050  02200  02230                    % 03438 RGTR--
+*A VE 400000095 200417050 000034  02200  02230              % 03438 RGTR--
+*I FD 400000095 200417050        0001934  02200  02230      % 03438 RGTR--
+400000095 Volmerange-les-Mines         02200                % 03438 RGTR--
+220301049 Dudelange, Schlakemi -02201  02201                % 03438 RGTR--
+220301070 Dudelange, Rue Grand -02202  02202                % 03438 RGTR--
+220301056 Dudelange, Centre Cu -02202  02202                % 03438 RGTR--
+220301038 Dudelange, Rue de la -02203  02203                % 03438 RGTR--
+220301033 Dudelange, Rue Antoi -02204  02204                % 03438 RGTR--
+220301004 Dudelange, Rue Belai -02205  02205                % 03438 RGTR--
+220301032 Dudelange, Kräizbier -02206  02206                % 03438 RGTR--
+200417050 Kirchberg, Gare rout  02230                       % 03438 RGTR--
+*Z 03439 RGTR--                                             % 03439 RGTR--
+*L 507      400000095 200417050  02300  02330               % 03439 RGTR--
+*R 1 200417050 400000095 200417050  02300  02330            % 03439 RGTR--
+*G 063 400000095 200417050  02300  02330                    % 03439 RGTR--
+*A VE 400000095 200417050 000034  02300  02330              % 03439 RGTR--
+*I FD 400000095 200417050        0001929  02300  02330      % 03439 RGTR--
+400000095 Volmerange-les-Mines         02300                % 03439 RGTR--
+220301049 Dudelange, Schlakemi -02301  02301                % 03439 RGTR--
+220301070 Dudelange, Rue Grand -02302  02302                % 03439 RGTR--
+220301056 Dudelange, Centre Cu -02302  02302                % 03439 RGTR--
+220301038 Dudelange, Rue de la -02303  02303                % 03439 RGTR--
+220301033 Dudelange, Rue Antoi -02304  02304                % 03439 RGTR--
+220301004 Dudelange, Rue Belai -02305  02305                % 03439 RGTR--
+220301032 Dudelange, Kräizbier -02306  02306                % 03439 RGTR--
+200417050 Kirchberg, Gare rout  02330                       % 03439 RGTR--
+*Z 03440 RGTR--                                             % 03440 RGTR--
+*L 507      400000095 200417050  00700  00738               % 03440 RGTR--
+*R 1 200417050 400000095 200417050  00700  00738            % 03440 RGTR--
+*G 063 400000095 200417050  00700  00738                    % 03440 RGTR--
+*A VE 400000095 200417050 000038  00700  00738              % 03440 RGTR--
+*I FD 400000095 200417050        0001729  00700  00738      % 03440 RGTR--
+400000095 Volmerange-les-Mines         00700                % 03440 RGTR--
+220301049 Dudelange, Schlakemi -00702  00702                % 03440 RGTR--
+220301070 Dudelange, Rue Grand -00703  00703                % 03440 RGTR--
+220301056 Dudelange, Centre Cu -00703  00703                % 03440 RGTR--
+220301038 Dudelange, Rue de la -00704  00704                % 03440 RGTR--
+220301033 Dudelange, Rue Antoi -00705  00705                % 03440 RGTR--
+220301004 Dudelange, Rue Belai -00706  00706                % 03440 RGTR--
+220301032 Dudelange, Kräizbier -00707  00707                % 03440 RGTR--
+200417050 Kirchberg, Gare rout  00738                       % 03440 RGTR--
+*Z 03441 RGTR--                                             % 03441 RGTR--
+*L 507      400000095 200417050  00800  00838               % 03441 RGTR--
+*R 1 200417050 400000095 200417050  00800  00838            % 03441 RGTR--
+*G 063 400000095 200417050  00800  00838                    % 03441 RGTR--
+*A VE 400000095 200417050 000038  00800  00838              % 03441 RGTR--
+*I FD 400000095 200417050        0001726  00800  00838      % 03441 RGTR--
+400000095 Volmerange-les-Mines         00800                % 03441 RGTR--
+220301049 Dudelange, Schlakemi -00802  00802                % 03441 RGTR--
+220301070 Dudelange, Rue Grand -00803  00803                % 03441 RGTR--
+220301056 Dudelange, Centre Cu -00803  00803                % 03441 RGTR--
+220301038 Dudelange, Rue de la -00804  00804                % 03441 RGTR--
+220301033 Dudelange, Rue Antoi -00805  00805                % 03441 RGTR--
+220301004 Dudelange, Rue Belai -00806  00806                % 03441 RGTR--
+220301032 Dudelange, Kräizbier -00807  00807                % 03441 RGTR--
+200417050 Kirchberg, Gare rout  00838                       % 03441 RGTR--
+*Z 03442 RGTR--                                             % 03442 RGTR--
+*L 507      400000095 200417050  00900  00938               % 03442 RGTR--
+*R 1 200417050 400000095 200417050  00900  00938            % 03442 RGTR--
+*G 063 400000095 200417050  00900  00938                    % 03442 RGTR--
+*A VE 400000095 200417050 000038  00900  00938              % 03442 RGTR--
+*I FD 400000095 200417050        0001718  00900  00938      % 03442 RGTR--
+400000095 Volmerange-les-Mines         00900                % 03442 RGTR--
+220301049 Dudelange, Schlakemi -00902  00902                % 03442 RGTR--
+220301070 Dudelange, Rue Grand -00903  00903                % 03442 RGTR--
+220301056 Dudelange, Centre Cu -00903  00903                % 03442 RGTR--
+220301038 Dudelange, Rue de la -00904  00904                % 03442 RGTR--
+220301033 Dudelange, Rue Antoi -00905  00905                % 03442 RGTR--
+220301004 Dudelange, Rue Belai -00906  00906                % 03442 RGTR--
+220301032 Dudelange, Kräizbier -00907  00907                % 03442 RGTR--
+200417050 Kirchberg, Gare rout  00938                       % 03442 RGTR--
+*Z 03443 RGTR--                                             % 03443 RGTR--
+*L 507      400000095 200417050  00645  00723               % 03443 RGTR--
+*R 1 200417050 400000095 200417050  00645  00723            % 03443 RGTR--
+*G 063 400000095 200417050  00645  00723                    % 03443 RGTR--
+*A VE 400000095 200417050 000034  00645  00723              % 03443 RGTR--
+*I FD 400000095 200417050        0001964  00645  00723      % 03443 RGTR--
+400000095 Volmerange-les-Mines         00645                % 03443 RGTR--
+220301049 Dudelange, Schlakemi -00647  00647                % 03443 RGTR--
+220301070 Dudelange, Rue Grand -00648  00648                % 03443 RGTR--
+220301056 Dudelange, Centre Cu -00648  00648                % 03443 RGTR--
+220301038 Dudelange, Rue de la -00649  00649                % 03443 RGTR--
+220301033 Dudelange, Rue Antoi -00650  00650                % 03443 RGTR--
+220301004 Dudelange, Rue Belai -00651  00651                % 03443 RGTR--
+220301032 Dudelange, Kräizbier -00652  00652                % 03443 RGTR--
+200417050 Kirchberg, Gare rout  00723                       % 03443 RGTR--
+*Z 03444 RGTR--                                             % 03444 RGTR--
+*L 507      400000095 200417050  00715  00753               % 03444 RGTR--
+*R 1 200417050 400000095 200417050  00715  00753            % 03444 RGTR--
+*G 063 400000095 200417050  00715  00753                    % 03444 RGTR--
+*A VE 400000095 200417050 000034  00715  00753              % 03444 RGTR--
+*I FD 400000095 200417050        0001898  00715  00753      % 03444 RGTR--
+400000095 Volmerange-les-Mines         00715                % 03444 RGTR--
+220301049 Dudelange, Schlakemi -00717  00717                % 03444 RGTR--
+220301070 Dudelange, Rue Grand -00718  00718                % 03444 RGTR--
+220301056 Dudelange, Centre Cu -00718  00718                % 03444 RGTR--
+220301038 Dudelange, Rue de la -00719  00719                % 03444 RGTR--
+220301033 Dudelange, Rue Antoi -00720  00720                % 03444 RGTR--
+220301004 Dudelange, Rue Belai -00721  00721                % 03444 RGTR--
+220301032 Dudelange, Kräizbier -00722  00722                % 03444 RGTR--
+200417050 Kirchberg, Gare rout  00753                       % 03444 RGTR--
+*Z 03445 RGTR--                                             % 03445 RGTR--
+*L 507      400000095 200417050  00730  00808               % 03445 RGTR--
+*R 1 200417050 400000095 200417050  00730  00808            % 03445 RGTR--
+*G 063 400000095 200417050  00730  00808                    % 03445 RGTR--
+*A VE 400000095 200417050 000034  00730  00808              % 03445 RGTR--
+*I FD 400000095 200417050        0001730  00730  00808      % 03445 RGTR--
+400000095 Volmerange-les-Mines         00730                % 03445 RGTR--
+220301049 Dudelange, Schlakemi -00732  00732                % 03445 RGTR--
+220301070 Dudelange, Rue Grand -00733  00733                % 03445 RGTR--
+220301056 Dudelange, Centre Cu -00733  00733                % 03445 RGTR--
+220301038 Dudelange, Rue de la -00734  00734                % 03445 RGTR--
+220301033 Dudelange, Rue Antoi -00735  00735                % 03445 RGTR--
+220301004 Dudelange, Rue Belai -00736  00736                % 03445 RGTR--
+220301032 Dudelange, Kräizbier -00737  00737                % 03445 RGTR--
+200417050 Kirchberg, Gare rout  00808                       % 03445 RGTR--
+*Z 03446 RGTR--                                             % 03446 RGTR--
+*L 507      400000095 200417050  00745  00823               % 03446 RGTR--
+*R 1 200417050 400000095 200417050  00745  00823            % 03446 RGTR--
+*G 063 400000095 200417050  00745  00823                    % 03446 RGTR--
+*A VE 400000095 200417050 000034  00745  00823              % 03446 RGTR--
+*I FD 400000095 200417050        0001965  00745  00823      % 03446 RGTR--
+400000095 Volmerange-les-Mines         00745                % 03446 RGTR--
+220301049 Dudelange, Schlakemi -00747  00747                % 03446 RGTR--
+220301070 Dudelange, Rue Grand -00748  00748                % 03446 RGTR--
+220301056 Dudelange, Centre Cu -00748  00748                % 03446 RGTR--
+220301038 Dudelange, Rue de la -00749  00749                % 03446 RGTR--
+220301033 Dudelange, Rue Antoi -00750  00750                % 03446 RGTR--
+220301004 Dudelange, Rue Belai -00751  00751                % 03446 RGTR--
+220301032 Dudelange, Kräizbier -00752  00752                % 03446 RGTR--
+200417050 Kirchberg, Gare rout  00823                       % 03446 RGTR--
+*Z 03447 RGTR--                                             % 03447 RGTR--
+*L 507      400000095 200417050  00815  00853               % 03447 RGTR--
+*R 1 200417050 400000095 200417050  00815  00853            % 03447 RGTR--
+*G 063 400000095 200417050  00815  00853                    % 03447 RGTR--
+*A VE 400000095 200417050 000034  00815  00853              % 03447 RGTR--
+*I FD 400000095 200417050        0001882  00815  00853      % 03447 RGTR--
+400000095 Volmerange-les-Mines         00815                % 03447 RGTR--
+220301049 Dudelange, Schlakemi -00817  00817                % 03447 RGTR--
+220301070 Dudelange, Rue Grand -00818  00818                % 03447 RGTR--
+220301056 Dudelange, Centre Cu -00818  00818                % 03447 RGTR--
+220301038 Dudelange, Rue de la -00819  00819                % 03447 RGTR--
+220301033 Dudelange, Rue Antoi -00820  00820                % 03447 RGTR--
+220301004 Dudelange, Rue Belai -00821  00821                % 03447 RGTR--
+220301032 Dudelange, Kräizbier -00822  00822                % 03447 RGTR--
+200417050 Kirchberg, Gare rout  00853                       % 03447 RGTR--
+*Z 03448 RGTR--                                             % 03448 RGTR--
+*L 507      400000095 200417050  00830  00908               % 03448 RGTR--
+*R 1 200417050 400000095 200417050  00830  00908            % 03448 RGTR--
+*G 063 400000095 200417050  00830  00908                    % 03448 RGTR--
+*A VE 400000095 200417050 000034  00830  00908              % 03448 RGTR--
+*I FD 400000095 200417050        0000915  00830  00908      % 03448 RGTR--
+400000095 Volmerange-les-Mines         00830                % 03448 RGTR--
+220301049 Dudelange, Schlakemi -00832  00832                % 03448 RGTR--
+220301070 Dudelange, Rue Grand -00833  00833                % 03448 RGTR--
+220301056 Dudelange, Centre Cu -00833  00833                % 03448 RGTR--
+220301038 Dudelange, Rue de la -00834  00834                % 03448 RGTR--
+220301033 Dudelange, Rue Antoi -00835  00835                % 03448 RGTR--
+220301004 Dudelange, Rue Belai -00836  00836                % 03448 RGTR--
+220301032 Dudelange, Kräizbier -00837  00837                % 03448 RGTR--
+200417050 Kirchberg, Gare rout  00908                       % 03448 RGTR--
+*Z 03449 RGTR--                                             % 03449 RGTR--
+*L 507      400000095 200417050  00845  00923               % 03449 RGTR--
+*R 1 200417050 400000095 200417050  00845  00923            % 03449 RGTR--
+*G 063 400000095 200417050  00845  00923                    % 03449 RGTR--
+*A VE 400000095 200417050 000034  00845  00923              % 03449 RGTR--
+*I FD 400000095 200417050        0001966  00845  00923      % 03449 RGTR--
+400000095 Volmerange-les-Mines         00845                % 03449 RGTR--
+220301049 Dudelange, Schlakemi -00847  00847                % 03449 RGTR--
+220301070 Dudelange, Rue Grand -00848  00848                % 03449 RGTR--
+220301056 Dudelange, Centre Cu -00848  00848                % 03449 RGTR--
+220301038 Dudelange, Rue de la -00849  00849                % 03449 RGTR--
+220301033 Dudelange, Rue Antoi -00850  00850                % 03449 RGTR--
+220301004 Dudelange, Rue Belai -00851  00851                % 03449 RGTR--
+220301032 Dudelange, Kräizbier -00852  00852                % 03449 RGTR--
+200417050 Kirchberg, Gare rout  00923                       % 03449 RGTR--
+*Z 03450 RGTR--                                             % 03450 RGTR--
+*L 507      200417050 400000095  00500  00533               % 03450 RGTR--
+*R 2 400000095 200417050 400000095  00500  00533            % 03450 RGTR--
+*G 063 200417050 400000095  00500  00533                    % 03450 RGTR--
+*A VE 200417050 400000095 000038  00500  00533              % 03450 RGTR--
+*I FD 200417050 400000095        0001938  00500  00533      % 03450 RGTR--
+200417050 Kirchberg, Gare rout         00500                % 03450 RGTR--
+220301032 Dudelange, Kräizbier  00525 -00525                % 03450 RGTR--
+220301004 Dudelange, Rue Belai  00526 -00526                % 03450 RGTR--
+220301033 Dudelange, Rue Antoi  00527 -00527                % 03450 RGTR--
+220301024 Dudelange, Gemeng     00529 -00529                % 03450 RGTR--
+220301038 Dudelange, Rue de la  00530 -00530                % 03450 RGTR--
+220301056 Dudelange, Centre Cu  00531 -00531                % 03450 RGTR--
+220301070 Dudelange, Rue Grand  00531 -00531                % 03450 RGTR--
+220301049 Dudelange, Schlakemi  00532 -00532                % 03450 RGTR--
+400000095 Volmerange-les-Mines  00533                       % 03450 RGTR--
+*Z 03451 RGTR--                                             % 03451 RGTR--
+*L 507      200417050 400000095  00600  00633               % 03451 RGTR--
+*R 2 400000095 200417050 400000095  00600  00633            % 03451 RGTR--
+*G 063 200417050 400000095  00600  00633                    % 03451 RGTR--
+*A VE 200417050 400000095 000038  00600  00633              % 03451 RGTR--
+*I FD 200417050 400000095        0001947  00600  00633      % 03451 RGTR--
+200417050 Kirchberg, Gare rout         00600                % 03451 RGTR--
+220301032 Dudelange, Kräizbier  00625 -00625                % 03451 RGTR--
+220301004 Dudelange, Rue Belai  00626 -00626                % 03451 RGTR--
+220301033 Dudelange, Rue Antoi  00627 -00627                % 03451 RGTR--
+220301024 Dudelange, Gemeng     00629 -00629                % 03451 RGTR--
+220301038 Dudelange, Rue de la  00630 -00630                % 03451 RGTR--
+220301056 Dudelange, Centre Cu  00631 -00631                % 03451 RGTR--
+220301070 Dudelange, Rue Grand  00631 -00631                % 03451 RGTR--
+220301049 Dudelange, Schlakemi  00632 -00632                % 03451 RGTR--
+400000095 Volmerange-les-Mines  00633                       % 03451 RGTR--
+*Z 03452 RGTR--                                             % 03452 RGTR--
+*L 507      200417050 400000095  00700  00733               % 03452 RGTR--
+*R 2 400000095 200417050 400000095  00700  00733            % 03452 RGTR--
+*G 063 200417050 400000095  00700  00733                    % 03452 RGTR--
+*A VE 200417050 400000095 000038  00700  00733              % 03452 RGTR--
+*I FD 200417050 400000095        0001948  00700  00733      % 03452 RGTR--
+200417050 Kirchberg, Gare rout         00700                % 03452 RGTR--
+220301032 Dudelange, Kräizbier  00725 -00725                % 03452 RGTR--
+220301004 Dudelange, Rue Belai  00726 -00726                % 03452 RGTR--
+220301033 Dudelange, Rue Antoi  00727 -00727                % 03452 RGTR--
+220301024 Dudelange, Gemeng     00729 -00729                % 03452 RGTR--
+220301038 Dudelange, Rue de la  00730 -00730                % 03452 RGTR--
+220301056 Dudelange, Centre Cu  00731 -00731                % 03452 RGTR--
+220301070 Dudelange, Rue Grand  00731 -00731                % 03452 RGTR--
+220301049 Dudelange, Schlakemi  00732 -00732                % 03452 RGTR--
+400000095 Volmerange-les-Mines  00733                       % 03452 RGTR--
+*Z 03453 RGTR--                                             % 03453 RGTR--
+*L 507      200417050 400000095  00800  00833               % 03453 RGTR--
+*R 2 400000095 200417050 400000095  00800  00833            % 03453 RGTR--
+*G 063 200417050 400000095  00800  00833                    % 03453 RGTR--
+*A VE 200417050 400000095 000038  00800  00833              % 03453 RGTR--
+*I FD 200417050 400000095        0001944  00800  00833      % 03453 RGTR--
+200417050 Kirchberg, Gare rout         00800                % 03453 RGTR--
+220301032 Dudelange, Kräizbier  00825 -00825                % 03453 RGTR--
+220301004 Dudelange, Rue Belai  00826 -00826                % 03453 RGTR--
+220301033 Dudelange, Rue Antoi  00827 -00827                % 03453 RGTR--
+220301024 Dudelange, Gemeng     00829 -00829                % 03453 RGTR--
+220301038 Dudelange, Rue de la  00830 -00830                % 03453 RGTR--
+220301056 Dudelange, Centre Cu  00831 -00831                % 03453 RGTR--
+220301070 Dudelange, Rue Grand  00831 -00831                % 03453 RGTR--
+220301049 Dudelange, Schlakemi  00832 -00832                % 03453 RGTR--
+400000095 Volmerange-les-Mines  00833                       % 03453 RGTR--
+*Z 03454 RGTR--                                             % 03454 RGTR--
+*L 507      200417050 400000095  00900  00933               % 03454 RGTR--
+*R 2 400000095 200417050 400000095  00900  00933            % 03454 RGTR--
+*G 063 200417050 400000095  00900  00933                    % 03454 RGTR--
+*A VE 200417050 400000095 000038  00900  00933              % 03454 RGTR--
+*I FD 200417050 400000095        0001949  00900  00933      % 03454 RGTR--
+200417050 Kirchberg, Gare rout         00900                % 03454 RGTR--
+220301032 Dudelange, Kräizbier  00925 -00925                % 03454 RGTR--
+220301004 Dudelange, Rue Belai  00926 -00926                % 03454 RGTR--
+220301033 Dudelange, Rue Antoi  00927 -00927                % 03454 RGTR--
+220301024 Dudelange, Gemeng     00929 -00929                % 03454 RGTR--
+220301038 Dudelange, Rue de la  00930 -00930                % 03454 RGTR--
+220301056 Dudelange, Centre Cu  00931 -00931                % 03454 RGTR--
+220301070 Dudelange, Rue Grand  00931 -00931                % 03454 RGTR--
+220301049 Dudelange, Schlakemi  00932 -00932                % 03454 RGTR--
+400000095 Volmerange-les-Mines  00933                       % 03454 RGTR--
+*Z 03455 RGTR--                                             % 03455 RGTR--
+*L 507      200417050 400000095  01000  01033               % 03455 RGTR--
+*R 2 400000095 200417050 400000095  01000  01033            % 03455 RGTR--
+*G 063 200417050 400000095  01000  01033                    % 03455 RGTR--
+*A VE 200417050 400000095 000038  01000  01033              % 03455 RGTR--
+*I FD 200417050 400000095        0001935  01000  01033      % 03455 RGTR--
+200417050 Kirchberg, Gare rout         01000                % 03455 RGTR--
+220301032 Dudelange, Kräizbier  01025 -01025                % 03455 RGTR--
+220301004 Dudelange, Rue Belai  01026 -01026                % 03455 RGTR--
+220301033 Dudelange, Rue Antoi  01027 -01027                % 03455 RGTR--
+220301024 Dudelange, Gemeng     01029 -01029                % 03455 RGTR--
+220301038 Dudelange, Rue de la  01030 -01030                % 03455 RGTR--
+220301056 Dudelange, Centre Cu  01031 -01031                % 03455 RGTR--
+220301070 Dudelange, Rue Grand  01031 -01031                % 03455 RGTR--
+220301049 Dudelange, Schlakemi  01032 -01032                % 03455 RGTR--
+400000095 Volmerange-les-Mines  01033                       % 03455 RGTR--
+*Z 03456 RGTR--                                             % 03456 RGTR--
+*L 507      200417050 400000095  01100  01133               % 03456 RGTR--
+*R 2 400000095 200417050 400000095  01100  01133            % 03456 RGTR--
+*G 063 200417050 400000095  01100  01133                    % 03456 RGTR--
+*A VE 200417050 400000095 000038  01100  01133              % 03456 RGTR--
+*I FD 200417050 400000095        0001939  01100  01133      % 03456 RGTR--
+200417050 Kirchberg, Gare rout         01100                % 03456 RGTR--
+220301032 Dudelange, Kräizbier  01125 -01125                % 03456 RGTR--
+220301004 Dudelange, Rue Belai  01126 -01126                % 03456 RGTR--
+220301033 Dudelange, Rue Antoi  01127 -01127                % 03456 RGTR--
+220301024 Dudelange, Gemeng     01129 -01129                % 03456 RGTR--
+220301038 Dudelange, Rue de la  01130 -01130                % 03456 RGTR--
+220301056 Dudelange, Centre Cu  01131 -01131                % 03456 RGTR--
+220301070 Dudelange, Rue Grand  01131 -01131                % 03456 RGTR--
+220301049 Dudelange, Schlakemi  01132 -01132                % 03456 RGTR--
+400000095 Volmerange-les-Mines  01133                       % 03456 RGTR--
+*Z 03457 RGTR--                                             % 03457 RGTR--
+*L 507      200417050 400000095  01200  01233               % 03457 RGTR--
+*R 2 400000095 200417050 400000095  01200  01233            % 03457 RGTR--
+*G 063 200417050 400000095  01200  01233                    % 03457 RGTR--
+*A VE 200417050 400000095 000038  01200  01233              % 03457 RGTR--
+*I FD 200417050 400000095        0001936  01200  01233      % 03457 RGTR--
+200417050 Kirchberg, Gare rout         01200                % 03457 RGTR--
+220301032 Dudelange, Kräizbier  01225 -01225                % 03457 RGTR--
+220301004 Dudelange, Rue Belai  01226 -01226                % 03457 RGTR--
+220301033 Dudelange, Rue Antoi  01227 -01227                % 03457 RGTR--
+220301024 Dudelange, Gemeng     01229 -01229                % 03457 RGTR--
+220301038 Dudelange, Rue de la  01230 -01230                % 03457 RGTR--
+220301056 Dudelange, Centre Cu  01231 -01231                % 03457 RGTR--
+220301070 Dudelange, Rue Grand  01231 -01231                % 03457 RGTR--
+220301049 Dudelange, Schlakemi  01232 -01232                % 03457 RGTR--
+400000095 Volmerange-les-Mines  01233                       % 03457 RGTR--
+*Z 03458 RGTR--                                             % 03458 RGTR--
+*L 507      200417050 400000095  01300  01333               % 03458 RGTR--
+*R 2 400000095 200417050 400000095  01300  01333            % 03458 RGTR--
+*G 063 200417050 400000095  01300  01333                    % 03458 RGTR--
+*A VE 200417050 400000095 000038  01300  01333              % 03458 RGTR--
+*I FD 200417050 400000095        0001940  01300  01333      % 03458 RGTR--
+200417050 Kirchberg, Gare rout         01300                % 03458 RGTR--
+220301032 Dudelange, Kräizbier  01325 -01325                % 03458 RGTR--
+220301004 Dudelange, Rue Belai  01326 -01326                % 03458 RGTR--
+220301033 Dudelange, Rue Antoi  01327 -01327                % 03458 RGTR--
+220301024 Dudelange, Gemeng     01329 -01329                % 03458 RGTR--
+220301038 Dudelange, Rue de la  01330 -01330                % 03458 RGTR--
+220301056 Dudelange, Centre Cu  01331 -01331                % 03458 RGTR--
+220301070 Dudelange, Rue Grand  01331 -01331                % 03458 RGTR--
+220301049 Dudelange, Schlakemi  01332 -01332                % 03458 RGTR--
+400000095 Volmerange-les-Mines  01333                       % 03458 RGTR--
+*Z 03459 RGTR--                                             % 03459 RGTR--
+*L 507      200417050 400000095  01400  01433               % 03459 RGTR--
+*R 2 400000095 200417050 400000095  01400  01433            % 03459 RGTR--
+*G 063 200417050 400000095  01400  01433                    % 03459 RGTR--
+*A VE 200417050 400000095 000038  01400  01433              % 03459 RGTR--
+*I FD 200417050 400000095        0001937  01400  01433      % 03459 RGTR--
+200417050 Kirchberg, Gare rout         01400                % 03459 RGTR--
+220301032 Dudelange, Kräizbier  01425 -01425                % 03459 RGTR--
+220301004 Dudelange, Rue Belai  01426 -01426                % 03459 RGTR--
+220301033 Dudelange, Rue Antoi  01427 -01427                % 03459 RGTR--
+220301024 Dudelange, Gemeng     01429 -01429                % 03459 RGTR--
+220301038 Dudelange, Rue de la  01430 -01430                % 03459 RGTR--
+220301056 Dudelange, Centre Cu  01431 -01431                % 03459 RGTR--
+220301070 Dudelange, Rue Grand  01431 -01431                % 03459 RGTR--
+220301049 Dudelange, Schlakemi  01432 -01432                % 03459 RGTR--
+400000095 Volmerange-les-Mines  01433                       % 03459 RGTR--
+*Z 03460 RGTR--                                             % 03460 RGTR--
+*L 507      200417050 400000095  01500  01533               % 03460 RGTR--
+*R 2 400000095 200417050 400000095  01500  01533            % 03460 RGTR--
+*G 063 200417050 400000095  01500  01533                    % 03460 RGTR--
+*A VE 200417050 400000095 000038  01500  01533              % 03460 RGTR--
+*I FD 200417050 400000095        0001941  01500  01533      % 03460 RGTR--
+200417050 Kirchberg, Gare rout         01500                % 03460 RGTR--
+220301032 Dudelange, Kräizbier  01525 -01525                % 03460 RGTR--
+220301004 Dudelange, Rue Belai  01526 -01526                % 03460 RGTR--
+220301033 Dudelange, Rue Antoi  01527 -01527                % 03460 RGTR--
+220301024 Dudelange, Gemeng     01529 -01529                % 03460 RGTR--
+220301038 Dudelange, Rue de la  01530 -01530                % 03460 RGTR--
+220301056 Dudelange, Centre Cu  01531 -01531                % 03460 RGTR--
+220301070 Dudelange, Rue Grand  01531 -01531                % 03460 RGTR--
+220301049 Dudelange, Schlakemi  01532 -01532                % 03460 RGTR--
+400000095 Volmerange-les-Mines  01533                       % 03460 RGTR--
+*Z 03461 RGTR--                                             % 03461 RGTR--
+*L 507      200417050 400000095  01900  01933               % 03461 RGTR--
+*R 2 400000095 200417050 400000095  01900  01933            % 03461 RGTR--
+*G 063 200417050 400000095  01900  01933                    % 03461 RGTR--
+*A VE 200417050 400000095 000038  01900  01933              % 03461 RGTR--
+*I FD 200417050 400000095        0001951  01900  01933      % 03461 RGTR--
+200417050 Kirchberg, Gare rout         01900                % 03461 RGTR--
+220301032 Dudelange, Kräizbier  01925 -01925                % 03461 RGTR--
+220301004 Dudelange, Rue Belai  01926 -01926                % 03461 RGTR--
+220301033 Dudelange, Rue Antoi  01927 -01927                % 03461 RGTR--
+220301024 Dudelange, Gemeng     01929 -01929                % 03461 RGTR--
+220301038 Dudelange, Rue de la  01930 -01930                % 03461 RGTR--
+220301056 Dudelange, Centre Cu  01931 -01931                % 03461 RGTR--
+220301070 Dudelange, Rue Grand  01931 -01931                % 03461 RGTR--
+220301049 Dudelange, Schlakemi  01932 -01932                % 03461 RGTR--
+400000095 Volmerange-les-Mines  01933                       % 03461 RGTR--
+*Z 03462 RGTR--                                             % 03462 RGTR--
+*L 507      200417050 400000095  00530  00603               % 03462 RGTR--
+*R 2 400000095 200417050 400000095  00530  00603            % 03462 RGTR--
+*G 063 200417050 400000095  00530  00603                    % 03462 RGTR--
+*A VE 200417050 400000095 000034  00530  00603              % 03462 RGTR--
+*I FD 200417050 400000095        0002350  00530  00603      % 03462 RGTR--
+200417050 Kirchberg, Gare rout         00530                % 03462 RGTR--
+220301032 Dudelange, Kräizbier  00555 -00555                % 03462 RGTR--
+220301004 Dudelange, Rue Belai  00556 -00556                % 03462 RGTR--
+220301033 Dudelange, Rue Antoi  00557 -00557                % 03462 RGTR--
+220301024 Dudelange, Gemeng     00559 -00559                % 03462 RGTR--
+220301038 Dudelange, Rue de la  00600 -00600                % 03462 RGTR--
+220301056 Dudelange, Centre Cu  00601 -00601                % 03462 RGTR--
+220301070 Dudelange, Rue Grand  00601 -00601                % 03462 RGTR--
+220301049 Dudelange, Schlakemi  00602 -00602                % 03462 RGTR--
+400000095 Volmerange-les-Mines  00603                       % 03462 RGTR--
+*Z 03463 RGTR--                                             % 03463 RGTR--
+*L 507      200417050 400000095  00630  00703               % 03463 RGTR--
+*R 2 400000095 200417050 400000095  00630  00703            % 03463 RGTR--
+*G 063 200417050 400000095  00630  00703                    % 03463 RGTR--
+*A VE 200417050 400000095 000034  00630  00703              % 03463 RGTR--
+*I FD 200417050 400000095        0000789  00630  00703      % 03463 RGTR--
+200417050 Kirchberg, Gare rout         00630                % 03463 RGTR--
+220301032 Dudelange, Kräizbier  00655 -00655                % 03463 RGTR--
+220301004 Dudelange, Rue Belai  00656 -00656                % 03463 RGTR--
+220301033 Dudelange, Rue Antoi  00657 -00657                % 03463 RGTR--
+220301024 Dudelange, Gemeng     00659 -00659                % 03463 RGTR--
+220301038 Dudelange, Rue de la  00700 -00700                % 03463 RGTR--
+220301056 Dudelange, Centre Cu  00701 -00701                % 03463 RGTR--
+220301070 Dudelange, Rue Grand  00701 -00701                % 03463 RGTR--
+220301049 Dudelange, Schlakemi  00702 -00702                % 03463 RGTR--
+400000095 Volmerange-les-Mines  00703                       % 03463 RGTR--
+*Z 03464 RGTR--                                             % 03464 RGTR--
+*L 507      200417050 400000095  00730  00803               % 03464 RGTR--
+*R 2 400000095 200417050 400000095  00730  00803            % 03464 RGTR--
+*G 063 200417050 400000095  00730  00803                    % 03464 RGTR--
+*A VE 200417050 400000095 000034  00730  00803              % 03464 RGTR--
+*I FD 200417050 400000095        0001952  00730  00803      % 03464 RGTR--
+200417050 Kirchberg, Gare rout         00730                % 03464 RGTR--
+220301032 Dudelange, Kräizbier  00755 -00755                % 03464 RGTR--
+220301004 Dudelange, Rue Belai  00756 -00756                % 03464 RGTR--
+220301033 Dudelange, Rue Antoi  00757 -00757                % 03464 RGTR--
+220301024 Dudelange, Gemeng     00759 -00759                % 03464 RGTR--
+220301038 Dudelange, Rue de la  00800 -00800                % 03464 RGTR--
+220301056 Dudelange, Centre Cu  00801 -00801                % 03464 RGTR--
+220301070 Dudelange, Rue Grand  00801 -00801                % 03464 RGTR--
+220301049 Dudelange, Schlakemi  00802 -00802                % 03464 RGTR--
+400000095 Volmerange-les-Mines  00803                       % 03464 RGTR--
+*Z 03465 RGTR--                                             % 03465 RGTR--
+*L 507      200417050 400000095  00830  00903               % 03465 RGTR--
+*R 2 400000095 200417050 400000095  00830  00903            % 03465 RGTR--
+*G 063 200417050 400000095  00830  00903                    % 03465 RGTR--
+*A VE 200417050 400000095 000034  00830  00903              % 03465 RGTR--
+*I FD 200417050 400000095        0000890  00830  00903      % 03465 RGTR--
+200417050 Kirchberg, Gare rout         00830                % 03465 RGTR--
+220301032 Dudelange, Kräizbier  00855 -00855                % 03465 RGTR--
+220301004 Dudelange, Rue Belai  00856 -00856                % 03465 RGTR--
+220301033 Dudelange, Rue Antoi  00857 -00857                % 03465 RGTR--
+220301024 Dudelange, Gemeng     00859 -00859                % 03465 RGTR--
+220301038 Dudelange, Rue de la  00900 -00900                % 03465 RGTR--
+220301056 Dudelange, Centre Cu  00901 -00901                % 03465 RGTR--
+220301070 Dudelange, Rue Grand  00901 -00901                % 03465 RGTR--
+220301049 Dudelange, Schlakemi  00902 -00902                % 03465 RGTR--
+400000095 Volmerange-les-Mines  00903                       % 03465 RGTR--
+*Z 03466 RGTR--                                             % 03466 RGTR--
+*L 507      200417050 400000095  00930  01003               % 03466 RGTR--
+*R 2 400000095 200417050 400000095  00930  01003            % 03466 RGTR--
+*G 063 200417050 400000095  00930  01003                    % 03466 RGTR--
+*A VE 200417050 400000095 000034  00930  01003              % 03466 RGTR--
+*I FD 200417050 400000095        0000964  00930  01003      % 03466 RGTR--
+200417050 Kirchberg, Gare rout         00930                % 03466 RGTR--
+220301032 Dudelange, Kräizbier  00955 -00955                % 03466 RGTR--
+220301004 Dudelange, Rue Belai  00956 -00956                % 03466 RGTR--
+220301033 Dudelange, Rue Antoi  00957 -00957                % 03466 RGTR--
+220301024 Dudelange, Gemeng     00959 -00959                % 03466 RGTR--
+220301038 Dudelange, Rue de la  01000 -01000                % 03466 RGTR--
+220301056 Dudelange, Centre Cu  01001 -01001                % 03466 RGTR--
+220301070 Dudelange, Rue Grand  01001 -01001                % 03466 RGTR--
+220301049 Dudelange, Schlakemi  01002 -01002                % 03466 RGTR--
+400000095 Volmerange-les-Mines  01003                       % 03466 RGTR--
+*Z 03467 RGTR--                                             % 03467 RGTR--
+*L 507      200417050 400000095  01030  01103               % 03467 RGTR--
+*R 2 400000095 200417050 400000095  01030  01103            % 03467 RGTR--
+*G 063 200417050 400000095  01030  01103                    % 03467 RGTR--
+*A VE 200417050 400000095 000034  01030  01103              % 03467 RGTR--
+*I FD 200417050 400000095        0002351  01030  01103      % 03467 RGTR--
+200417050 Kirchberg, Gare rout         01030                % 03467 RGTR--
+220301032 Dudelange, Kräizbier  01055 -01055                % 03467 RGTR--
+220301004 Dudelange, Rue Belai  01056 -01056                % 03467 RGTR--
+220301033 Dudelange, Rue Antoi  01057 -01057                % 03467 RGTR--
+220301024 Dudelange, Gemeng     01059 -01059                % 03467 RGTR--
+220301038 Dudelange, Rue de la  01100 -01100                % 03467 RGTR--
+220301056 Dudelange, Centre Cu  01101 -01101                % 03467 RGTR--
+220301070 Dudelange, Rue Grand  01101 -01101                % 03467 RGTR--
+220301049 Dudelange, Schlakemi  01102 -01102                % 03467 RGTR--
+400000095 Volmerange-les-Mines  01103                       % 03467 RGTR--
+*Z 03468 RGTR--                                             % 03468 RGTR--
+*L 507      200417050 400000095  01130  01203               % 03468 RGTR--
+*R 2 400000095 200417050 400000095  01130  01203            % 03468 RGTR--
+*G 063 200417050 400000095  01130  01203                    % 03468 RGTR--
+*A VE 200417050 400000095 000034  01130  01203              % 03468 RGTR--
+*I FD 200417050 400000095        0002352  01130  01203      % 03468 RGTR--
+200417050 Kirchberg, Gare rout         01130                % 03468 RGTR--
+220301032 Dudelange, Kräizbier  01155 -01155                % 03468 RGTR--
+220301004 Dudelange, Rue Belai  01156 -01156                % 03468 RGTR--
+220301033 Dudelange, Rue Antoi  01157 -01157                % 03468 RGTR--
+220301024 Dudelange, Gemeng     01159 -01159                % 03468 RGTR--
+220301038 Dudelange, Rue de la  01200 -01200                % 03468 RGTR--
+220301056 Dudelange, Centre Cu  01201 -01201                % 03468 RGTR--
+220301070 Dudelange, Rue Grand  01201 -01201                % 03468 RGTR--
+220301049 Dudelange, Schlakemi  01202 -01202                % 03468 RGTR--
+400000095 Volmerange-les-Mines  01203                       % 03468 RGTR--
+*Z 03469 RGTR--                                             % 03469 RGTR--
+*L 507      200417050 400000095  01230  01303               % 03469 RGTR--
+*R 2 400000095 200417050 400000095  01230  01303            % 03469 RGTR--
+*G 063 200417050 400000095  01230  01303                    % 03469 RGTR--
+*A VE 200417050 400000095 000034  01230  01303              % 03469 RGTR--
+*I FD 200417050 400000095        0001101  01230  01303      % 03469 RGTR--
+200417050 Kirchberg, Gare rout         01230                % 03469 RGTR--
+220301032 Dudelange, Kräizbier  01255 -01255                % 03469 RGTR--
+220301004 Dudelange, Rue Belai  01256 -01256                % 03469 RGTR--
+220301033 Dudelange, Rue Antoi  01257 -01257                % 03469 RGTR--
+220301024 Dudelange, Gemeng     01259 -01259                % 03469 RGTR--
+220301038 Dudelange, Rue de la  01300 -01300                % 03469 RGTR--
+220301056 Dudelange, Centre Cu  01301 -01301                % 03469 RGTR--
+220301070 Dudelange, Rue Grand  01301 -01301                % 03469 RGTR--
+220301049 Dudelange, Schlakemi  01302 -01302                % 03469 RGTR--
+400000095 Volmerange-les-Mines  01303                       % 03469 RGTR--
+*Z 03470 RGTR--                                             % 03470 RGTR--
+*L 507      200417050 400000095  01330  01403               % 03470 RGTR--
+*R 2 400000095 200417050 400000095  01330  01403            % 03470 RGTR--
+*G 063 200417050 400000095  01330  01403                    % 03470 RGTR--
+*A VE 200417050 400000095 000034  01330  01403              % 03470 RGTR--
+*I FD 200417050 400000095        0002353  01330  01403      % 03470 RGTR--
+200417050 Kirchberg, Gare rout         01330                % 03470 RGTR--
+220301032 Dudelange, Kräizbier  01355 -01355                % 03470 RGTR--
+220301004 Dudelange, Rue Belai  01356 -01356                % 03470 RGTR--
+220301033 Dudelange, Rue Antoi  01357 -01357                % 03470 RGTR--
+220301024 Dudelange, Gemeng     01359 -01359                % 03470 RGTR--
+220301038 Dudelange, Rue de la  01400 -01400                % 03470 RGTR--
+220301056 Dudelange, Centre Cu  01401 -01401                % 03470 RGTR--
+220301070 Dudelange, Rue Grand  01401 -01401                % 03470 RGTR--
+220301049 Dudelange, Schlakemi  01402 -01402                % 03470 RGTR--
+400000095 Volmerange-les-Mines  01403                       % 03470 RGTR--
+*Z 03471 RGTR--                                             % 03471 RGTR--
+*L 507      200417050 400000095  01430  01503               % 03471 RGTR--
+*R 2 400000095 200417050 400000095  01430  01503            % 03471 RGTR--
+*G 063 200417050 400000095  01430  01503                    % 03471 RGTR--
+*A VE 200417050 400000095 000034  01430  01503              % 03471 RGTR--
+*I FD 200417050 400000095        0002354  01430  01503      % 03471 RGTR--
+200417050 Kirchberg, Gare rout         01430                % 03471 RGTR--
+220301032 Dudelange, Kräizbier  01455 -01455                % 03471 RGTR--
+220301004 Dudelange, Rue Belai  01456 -01456                % 03471 RGTR--
+220301033 Dudelange, Rue Antoi  01457 -01457                % 03471 RGTR--
+220301024 Dudelange, Gemeng     01459 -01459                % 03471 RGTR--
+220301038 Dudelange, Rue de la  01500 -01500                % 03471 RGTR--
+220301056 Dudelange, Centre Cu  01501 -01501                % 03471 RGTR--
+220301070 Dudelange, Rue Grand  01501 -01501                % 03471 RGTR--
+220301049 Dudelange, Schlakemi  01502 -01502                % 03471 RGTR--
+400000095 Volmerange-les-Mines  01503                       % 03471 RGTR--
+*Z 03472 RGTR--                                             % 03472 RGTR--
+*L 507      200417050 400000095  01530  01603               % 03472 RGTR--
+*R 2 400000095 200417050 400000095  01530  01603            % 03472 RGTR--
+*G 063 200417050 400000095  01530  01603                    % 03472 RGTR--
+*A VE 200417050 400000095 000034  01530  01603              % 03472 RGTR--
+*I FD 200417050 400000095        0002355  01530  01603      % 03472 RGTR--
+200417050 Kirchberg, Gare rout         01530                % 03472 RGTR--
+220301032 Dudelange, Kräizbier  01555 -01555                % 03472 RGTR--
+220301004 Dudelange, Rue Belai  01556 -01556                % 03472 RGTR--
+220301033 Dudelange, Rue Antoi  01557 -01557                % 03472 RGTR--
+220301024 Dudelange, Gemeng     01559 -01559                % 03472 RGTR--
+220301038 Dudelange, Rue de la  01600 -01600                % 03472 RGTR--
+220301056 Dudelange, Centre Cu  01601 -01601                % 03472 RGTR--
+220301070 Dudelange, Rue Grand  01601 -01601                % 03472 RGTR--
+220301049 Dudelange, Schlakemi  01602 -01602                % 03472 RGTR--
+400000095 Volmerange-les-Mines  01603                       % 03472 RGTR--
+*Z 03473 RGTR--                                             % 03473 RGTR--
+*L 507      200417050 400000095  01845  01918               % 03473 RGTR--
+*R 2 400000095 200417050 400000095  01845  01918            % 03473 RGTR--
+*G 063 200417050 400000095  01845  01918                    % 03473 RGTR--
+*A VE 200417050 400000095 000034  01845  01918              % 03473 RGTR--
+*I FD 200417050 400000095        0001339  01845  01918      % 03473 RGTR--
+200417050 Kirchberg, Gare rout         01845                % 03473 RGTR--
+220301032 Dudelange, Kräizbier  01910 -01910                % 03473 RGTR--
+220301004 Dudelange, Rue Belai  01911 -01911                % 03473 RGTR--
+220301033 Dudelange, Rue Antoi  01912 -01912                % 03473 RGTR--
+220301024 Dudelange, Gemeng     01914 -01914                % 03473 RGTR--
+220301038 Dudelange, Rue de la  01915 -01915                % 03473 RGTR--
+220301056 Dudelange, Centre Cu  01916 -01916                % 03473 RGTR--
+220301070 Dudelange, Rue Grand  01916 -01916                % 03473 RGTR--
+220301049 Dudelange, Schlakemi  01917 -01917                % 03473 RGTR--
+400000095 Volmerange-les-Mines  01918                       % 03473 RGTR--
+*Z 03474 RGTR--                                             % 03474 RGTR--
+*L 507      200417050 400000095  02000  02033               % 03474 RGTR--
+*R 2 400000095 200417050 400000095  02000  02033            % 03474 RGTR--
+*G 063 200417050 400000095  02000  02033                    % 03474 RGTR--
+*A VE 200417050 400000095 000034  02000  02033              % 03474 RGTR--
+*I FD 200417050 400000095        0001715  02000  02033      % 03474 RGTR--
+200417050 Kirchberg, Gare rout         02000                % 03474 RGTR--
+220301032 Dudelange, Kräizbier  02025 -02025                % 03474 RGTR--
+220301004 Dudelange, Rue Belai  02026 -02026                % 03474 RGTR--
+220301033 Dudelange, Rue Antoi  02027 -02027                % 03474 RGTR--
+220301024 Dudelange, Gemeng     02029 -02029                % 03474 RGTR--
+220301038 Dudelange, Rue de la  02030 -02030                % 03474 RGTR--
+220301056 Dudelange, Centre Cu  02031 -02031                % 03474 RGTR--
+220301070 Dudelange, Rue Grand  02031 -02031                % 03474 RGTR--
+220301049 Dudelange, Schlakemi  02032 -02032                % 03474 RGTR--
+400000095 Volmerange-les-Mines  02033                       % 03474 RGTR--
+*Z 03475 RGTR--                                             % 03475 RGTR--
+*L 507      200417050 400000095  02100  02133               % 03475 RGTR--
+*R 2 400000095 200417050 400000095  02100  02133            % 03475 RGTR--
+*G 063 200417050 400000095  02100  02133                    % 03475 RGTR--
+*A VE 200417050 400000095 000034  02100  02133              % 03475 RGTR--
+*I FD 200417050 400000095        0001942  02100  02133      % 03475 RGTR--
+200417050 Kirchberg, Gare rout         02100                % 03475 RGTR--
+220301032 Dudelange, Kräizbier  02125 -02125                % 03475 RGTR--
+220301004 Dudelange, Rue Belai  02126 -02126                % 03475 RGTR--
+220301033 Dudelange, Rue Antoi  02127 -02127                % 03475 RGTR--
+220301024 Dudelange, Gemeng     02129 -02129                % 03475 RGTR--
+220301038 Dudelange, Rue de la  02130 -02130                % 03475 RGTR--
+220301056 Dudelange, Centre Cu  02131 -02131                % 03475 RGTR--
+220301070 Dudelange, Rue Grand  02131 -02131                % 03475 RGTR--
+220301049 Dudelange, Schlakemi  02132 -02132                % 03475 RGTR--
+400000095 Volmerange-les-Mines  02133                       % 03475 RGTR--
+*Z 03476 RGTR--                                             % 03476 RGTR--
+*L 507      200417050 400000095  02200  02233               % 03476 RGTR--
+*R 2 400000095 200417050 400000095  02200  02233            % 03476 RGTR--
+*G 063 200417050 400000095  02200  02233                    % 03476 RGTR--
+*A VE 200417050 400000095 000034  02200  02233              % 03476 RGTR--
+*I FD 200417050 400000095        0001716  02200  02233      % 03476 RGTR--
+200417050 Kirchberg, Gare rout         02200                % 03476 RGTR--
+220301032 Dudelange, Kräizbier  02225 -02225                % 03476 RGTR--
+220301004 Dudelange, Rue Belai  02226 -02226                % 03476 RGTR--
+220301033 Dudelange, Rue Antoi  02227 -02227                % 03476 RGTR--
+220301024 Dudelange, Gemeng     02229 -02229                % 03476 RGTR--
+220301038 Dudelange, Rue de la  02230 -02230                % 03476 RGTR--
+220301056 Dudelange, Centre Cu  02231 -02231                % 03476 RGTR--
+220301070 Dudelange, Rue Grand  02231 -02231                % 03476 RGTR--
+220301049 Dudelange, Schlakemi  02232 -02232                % 03476 RGTR--
+400000095 Volmerange-les-Mines  02233                       % 03476 RGTR--
+*Z 03477 RGTR--                                             % 03477 RGTR--
+*L 507      200417050 400000095  02300  02333               % 03477 RGTR--
+*R 2 400000095 200417050 400000095  02300  02333            % 03477 RGTR--
+*G 063 200417050 400000095  02300  02333                    % 03477 RGTR--
+*A VE 200417050 400000095 000034  02300  02333              % 03477 RGTR--
+*I FD 200417050 400000095        0001943  02300  02333      % 03477 RGTR--
+200417050 Kirchberg, Gare rout         02300                % 03477 RGTR--
+220301032 Dudelange, Kräizbier  02325 -02325                % 03477 RGTR--
+220301004 Dudelange, Rue Belai  02326 -02326                % 03477 RGTR--
+220301033 Dudelange, Rue Antoi  02327 -02327                % 03477 RGTR--
+220301024 Dudelange, Gemeng     02329 -02329                % 03477 RGTR--
+220301038 Dudelange, Rue de la  02330 -02330                % 03477 RGTR--
+220301056 Dudelange, Centre Cu  02331 -02331                % 03477 RGTR--
+220301070 Dudelange, Rue Grand  02331 -02331                % 03477 RGTR--
+220301049 Dudelange, Schlakemi  02332 -02332                % 03477 RGTR--
+400000095 Volmerange-les-Mines  02333                       % 03477 RGTR--
+*Z 03478 RGTR--                                             % 03478 RGTR--
+*L 507      200417050 400000095  01600  01642               % 03478 RGTR--
+*R 2 400000095 200417050 400000095  01600  01642            % 03478 RGTR--
+*G 063 200417050 400000095  01600  01642                    % 03478 RGTR--
+*A VE 200417050 400000095 000038  01600  01642              % 03478 RGTR--
+*I FD 200417050 400000095        0001945  01600  01642      % 03478 RGTR--
+200417050 Kirchberg, Gare rout         01600                % 03478 RGTR--
+220301032 Dudelange, Kräizbier  01633 -01633                % 03478 RGTR--
+220301004 Dudelange, Rue Belai  01634 -01634                % 03478 RGTR--
+220301033 Dudelange, Rue Antoi  01635 -01635                % 03478 RGTR--
+220301024 Dudelange, Gemeng     01637 -01637                % 03478 RGTR--
+220301038 Dudelange, Rue de la  01638 -01638                % 03478 RGTR--
+220301056 Dudelange, Centre Cu  01639 -01639                % 03478 RGTR--
+220301070 Dudelange, Rue Grand  01639 -01639                % 03478 RGTR--
+220301049 Dudelange, Schlakemi  01640 -01640                % 03478 RGTR--
+400000095 Volmerange-les-Mines  01642                       % 03478 RGTR--
+*Z 03479 RGTR--                                             % 03479 RGTR--
+*L 507      200417050 400000095  01700  01742               % 03479 RGTR--
+*R 2 400000095 200417050 400000095  01700  01742            % 03479 RGTR--
+*G 063 200417050 400000095  01700  01742                    % 03479 RGTR--
+*A VE 200417050 400000095 000038  01700  01742              % 03479 RGTR--
+*I FD 200417050 400000095        0001950  01700  01742      % 03479 RGTR--
+200417050 Kirchberg, Gare rout         01700                % 03479 RGTR--
+220301032 Dudelange, Kräizbier  01733 -01733                % 03479 RGTR--
+220301004 Dudelange, Rue Belai  01734 -01734                % 03479 RGTR--
+220301033 Dudelange, Rue Antoi  01735 -01735                % 03479 RGTR--
+220301024 Dudelange, Gemeng     01737 -01737                % 03479 RGTR--
+220301038 Dudelange, Rue de la  01738 -01738                % 03479 RGTR--
+220301056 Dudelange, Centre Cu  01739 -01739                % 03479 RGTR--
+220301070 Dudelange, Rue Grand  01739 -01739                % 03479 RGTR--
+220301049 Dudelange, Schlakemi  01740 -01740                % 03479 RGTR--
+400000095 Volmerange-les-Mines  01742                       % 03479 RGTR--
+*Z 03480 RGTR--                                             % 03480 RGTR--
+*L 507      200417050 400000095  01800  01842               % 03480 RGTR--
+*R 2 400000095 200417050 400000095  01800  01842            % 03480 RGTR--
+*G 063 200417050 400000095  01800  01842                    % 03480 RGTR--
+*A VE 200417050 400000095 000038  01800  01842              % 03480 RGTR--
+*I FD 200417050 400000095        0001946  01800  01842      % 03480 RGTR--
+200417050 Kirchberg, Gare rout         01800                % 03480 RGTR--
+220301032 Dudelange, Kräizbier  01833 -01833                % 03480 RGTR--
+220301004 Dudelange, Rue Belai  01834 -01834                % 03480 RGTR--
+220301033 Dudelange, Rue Antoi  01835 -01835                % 03480 RGTR--
+220301024 Dudelange, Gemeng     01837 -01837                % 03480 RGTR--
+220301038 Dudelange, Rue de la  01838 -01838                % 03480 RGTR--
+220301056 Dudelange, Centre Cu  01839 -01839                % 03480 RGTR--
+220301070 Dudelange, Rue Grand  01839 -01839                % 03480 RGTR--
+220301049 Dudelange, Schlakemi  01840 -01840                % 03480 RGTR--
+400000095 Volmerange-les-Mines  01842                       % 03480 RGTR--
+*Z 03481 RGTR--                                             % 03481 RGTR--
+*L 507      200417050 400000095  01615  01657               % 03481 RGTR--
+*R 2 400000095 200417050 400000095  01615  01657            % 03481 RGTR--
+*G 063 200417050 400000095  01615  01657                    % 03481 RGTR--
+*A VE 200417050 400000095 000034  01615  01657              % 03481 RGTR--
+*I FD 200417050 400000095        0002060  01615  01657      % 03481 RGTR--
+200417050 Kirchberg, Gare rout         01615                % 03481 RGTR--
+220301032 Dudelange, Kräizbier  01648 -01648                % 03481 RGTR--
+220301004 Dudelange, Rue Belai  01649 -01649                % 03481 RGTR--
+220301033 Dudelange, Rue Antoi  01650 -01650                % 03481 RGTR--
+220301024 Dudelange, Gemeng     01652 -01652                % 03481 RGTR--
+220301038 Dudelange, Rue de la  01653 -01653                % 03481 RGTR--
+220301056 Dudelange, Centre Cu  01654 -01654                % 03481 RGTR--
+220301070 Dudelange, Rue Grand  01654 -01654                % 03481 RGTR--
+220301049 Dudelange, Schlakemi  01655 -01655                % 03481 RGTR--
+400000095 Volmerange-les-Mines  01657                       % 03481 RGTR--
+*Z 03482 RGTR--                                             % 03482 RGTR--
+*L 507      200417050 400000095  01630  01712               % 03482 RGTR--
+*R 2 400000095 200417050 400000095  01630  01712            % 03482 RGTR--
+*G 063 200417050 400000095  01630  01712                    % 03482 RGTR--
+*A VE 200417050 400000095 000034  01630  01712              % 03482 RGTR--
+*I FD 200417050 400000095        0002059  01630  01712      % 03482 RGTR--
+200417050 Kirchberg, Gare rout         01630                % 03482 RGTR--
+220301032 Dudelange, Kräizbier  01703 -01703                % 03482 RGTR--
+220301004 Dudelange, Rue Belai  01704 -01704                % 03482 RGTR--
+220301033 Dudelange, Rue Antoi  01705 -01705                % 03482 RGTR--
+220301024 Dudelange, Gemeng     01707 -01707                % 03482 RGTR--
+220301038 Dudelange, Rue de la  01708 -01708                % 03482 RGTR--
+220301056 Dudelange, Centre Cu  01709 -01709                % 03482 RGTR--
+220301070 Dudelange, Rue Grand  01709 -01709                % 03482 RGTR--
+220301049 Dudelange, Schlakemi  01710 -01710                % 03482 RGTR--
+400000095 Volmerange-les-Mines  01712                       % 03482 RGTR--
+*Z 03483 RGTR--                                             % 03483 RGTR--
+*L 507      200417050 400000095  01645  01727               % 03483 RGTR--
+*R 2 400000095 200417050 400000095  01645  01727            % 03483 RGTR--
+*G 063 200417050 400000095  01645  01727                    % 03483 RGTR--
+*A VE 200417050 400000095 000034  01645  01727              % 03483 RGTR--
+*I FD 200417050 400000095        0001236  01645  01727      % 03483 RGTR--
+200417050 Kirchberg, Gare rout         01645                % 03483 RGTR--
+220301032 Dudelange, Kräizbier  01718 -01718                % 03483 RGTR--
+220301004 Dudelange, Rue Belai  01719 -01719                % 03483 RGTR--
+220301033 Dudelange, Rue Antoi  01720 -01720                % 03483 RGTR--
+220301024 Dudelange, Gemeng     01722 -01722                % 03483 RGTR--
+220301038 Dudelange, Rue de la  01723 -01723                % 03483 RGTR--
+220301056 Dudelange, Centre Cu  01724 -01724                % 03483 RGTR--
+220301070 Dudelange, Rue Grand  01724 -01724                % 03483 RGTR--
+220301049 Dudelange, Schlakemi  01725 -01725                % 03483 RGTR--
+400000095 Volmerange-les-Mines  01727                       % 03483 RGTR--
+*Z 03484 RGTR--                                             % 03484 RGTR--
+*L 507      200417050 400000095  01715  01757               % 03484 RGTR--
+*R 2 400000095 200417050 400000095  01715  01757            % 03484 RGTR--
+*G 063 200417050 400000095  01715  01757                    % 03484 RGTR--
+*A VE 200417050 400000095 000034  01715  01757              % 03484 RGTR--
+*I FD 200417050 400000095        0002061  01715  01757      % 03484 RGTR--
+200417050 Kirchberg, Gare rout         01715                % 03484 RGTR--
+220301032 Dudelange, Kräizbier  01748 -01748                % 03484 RGTR--
+220301004 Dudelange, Rue Belai  01749 -01749                % 03484 RGTR--
+220301033 Dudelange, Rue Antoi  01750 -01750                % 03484 RGTR--
+220301024 Dudelange, Gemeng     01752 -01752                % 03484 RGTR--
+220301038 Dudelange, Rue de la  01753 -01753                % 03484 RGTR--
+220301056 Dudelange, Centre Cu  01754 -01754                % 03484 RGTR--
+220301070 Dudelange, Rue Grand  01754 -01754                % 03484 RGTR--
+220301049 Dudelange, Schlakemi  01755 -01755                % 03484 RGTR--
+400000095 Volmerange-les-Mines  01757                       % 03484 RGTR--
+*Z 03485 RGTR--                                             % 03485 RGTR--
+*L 507      200417050 400000095  01730  01812               % 03485 RGTR--
+*R 2 400000095 200417050 400000095  01730  01812            % 03485 RGTR--
+*G 063 200417050 400000095  01730  01812                    % 03485 RGTR--
+*A VE 200417050 400000095 000034  01730  01812              % 03485 RGTR--
+*I FD 200417050 400000095        0002062  01730  01812      % 03485 RGTR--
+200417050 Kirchberg, Gare rout         01730                % 03485 RGTR--
+220301032 Dudelange, Kräizbier  01803 -01803                % 03485 RGTR--
+220301004 Dudelange, Rue Belai  01804 -01804                % 03485 RGTR--
+220301033 Dudelange, Rue Antoi  01805 -01805                % 03485 RGTR--
+220301024 Dudelange, Gemeng     01807 -01807                % 03485 RGTR--
+220301038 Dudelange, Rue de la  01808 -01808                % 03485 RGTR--
+220301056 Dudelange, Centre Cu  01809 -01809                % 03485 RGTR--
+220301070 Dudelange, Rue Grand  01809 -01809                % 03485 RGTR--
+220301049 Dudelange, Schlakemi  01810 -01810                % 03485 RGTR--
+400000095 Volmerange-les-Mines  01812                       % 03485 RGTR--
+*Z 03486 RGTR--                                             % 03486 RGTR--
+*L 507      200417050 400000095  01745  01827               % 03486 RGTR--
+*R 2 400000095 200417050 400000095  01745  01827            % 03486 RGTR--
+*G 063 200417050 400000095  01745  01827                    % 03486 RGTR--
+*A VE 200417050 400000095 000034  01745  01827              % 03486 RGTR--
+*I FD 200417050 400000095        0002063  01745  01827      % 03486 RGTR--
+200417050 Kirchberg, Gare rout         01745                % 03486 RGTR--
+220301032 Dudelange, Kräizbier  01818 -01818                % 03486 RGTR--
+220301004 Dudelange, Rue Belai  01819 -01819                % 03486 RGTR--
+220301033 Dudelange, Rue Antoi  01820 -01820                % 03486 RGTR--
+220301024 Dudelange, Gemeng     01822 -01822                % 03486 RGTR--
+220301038 Dudelange, Rue de la  01823 -01823                % 03486 RGTR--
+220301056 Dudelange, Centre Cu  01824 -01824                % 03486 RGTR--
+220301070 Dudelange, Rue Grand  01824 -01824                % 03486 RGTR--
+220301049 Dudelange, Schlakemi  01825 -01825                % 03486 RGTR--
+400000095 Volmerange-les-Mines  01827                       % 03486 RGTR--
+*Z 03487 RGTR--                                             % 03487 RGTR--
+*L 507      200417050 400000095  01815  01857               % 03487 RGTR--
+*R 2 400000095 200417050 400000095  01815  01857            % 03487 RGTR--
+*G 063 200417050 400000095  01815  01857                    % 03487 RGTR--
+*A VE 200417050 400000095 000034  01815  01857              % 03487 RGTR--
+*I FD 200417050 400000095        0002064  01815  01857      % 03487 RGTR--
+200417050 Kirchberg, Gare rout         01815                % 03487 RGTR--
+220301032 Dudelange, Kräizbier  01848 -01848                % 03487 RGTR--
+220301004 Dudelange, Rue Belai  01849 -01849                % 03487 RGTR--
+220301033 Dudelange, Rue Antoi  01850 -01850                % 03487 RGTR--
+220301024 Dudelange, Gemeng     01852 -01852                % 03487 RGTR--
+220301038 Dudelange, Rue de la  01853 -01853                % 03487 RGTR--
+220301056 Dudelange, Centre Cu  01854 -01854                % 03487 RGTR--
+220301070 Dudelange, Rue Grand  01854 -01854                % 03487 RGTR--
+220301049 Dudelange, Schlakemi  01855 -01855                % 03487 RGTR--
+400000095 Volmerange-les-Mines  01857                       % 03487 RGTR--
+*Z 03488 RGTR--                                             % 03488 RGTR--
+*L 507      200417050 400000095  01830  01912               % 03488 RGTR--
+*R 2 400000095 200417050 400000095  01830  01912            % 03488 RGTR--
+*G 063 200417050 400000095  01830  01912                    % 03488 RGTR--
+*A VE 200417050 400000095 000034  01830  01912              % 03488 RGTR--
+*I FD 200417050 400000095        0002356  01830  01912      % 03488 RGTR--
+200417050 Kirchberg, Gare rout         01830                % 03488 RGTR--
+220301032 Dudelange, Kräizbier  01903 -01903                % 03488 RGTR--
+220301004 Dudelange, Rue Belai  01904 -01904                % 03488 RGTR--
+220301033 Dudelange, Rue Antoi  01905 -01905                % 03488 RGTR--
+220301024 Dudelange, Gemeng     01907 -01907                % 03488 RGTR--
+220301038 Dudelange, Rue de la  01908 -01908                % 03488 RGTR--
+220301056 Dudelange, Centre Cu  01909 -01909                % 03488 RGTR--
+220301070 Dudelange, Rue Grand  01909 -01909                % 03488 RGTR--
+220301049 Dudelange, Schlakemi  01910 -01910                % 03488 RGTR--
+400000095 Volmerange-les-Mines  01912                       % 03488 RGTR--

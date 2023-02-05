@@ -1,0 +1,451 @@
+*F 03 2
+*Z 17911 RGTR--                                             % 17911 RGTR--
+*L 94U      120101004 160301007  00434  00522               % 17911 RGTR--
+*A MM 120101004 160301007 000036  00434  00522              % 17911 RGTR--
+*A HB 120101004 160301007 000036  00434  00522              % 17911 RGTR--
+*R 1 160301007 120101004 160301007  00434  00522            % 17911 RGTR--
+*G 050 120101004 160301007  00434  00522                    % 17911 RGTR--
+*A VE 120101004 160301007 000036  00434  00522              % 17911 RGTR--
+*I FD 120101004 160301007        0003377  00434  00522      % 17911 RGTR--
+120101004 Boulaide, Post               00434                % 17911 RGTR--
+150501005 Arsdorf, Misärshaff   00438  00438                % 17911 RGTR--
+150501004 Arsdorf, Um Knupp     00440  00440                % 17911 RGTR--
+150501006 Arsdorf, Bei der Kap  00441  00441                % 17911 RGTR--
+150501001 Arsdorf, Am Duerf     00441  00441                % 17911 RGTR--
+150501007 Arsdorf, Op der Lee   00442  00442                % 17911 RGTR--
+150501002 Arsdorf, Am Gronn     00443  00443                % 17911 RGTR--
+151004001 Heispelt              00447  00447                % 17911 RGTR--
+151003002 Grevels, Ieweschten   00450  00450                % 17911 RGTR--
+151006002 Wahl, Kinnikshaff     00452  00452                % 17911 RGTR--
+151006001 Wahl, Gemeng          00453  00453                % 17911 RGTR--
+151002001 Buschrodt             00457  00457                % 17911 RGTR--
+150402002 Grosbous, Kiirchepla  00500  00500                % 17911 RGTR--
+150402004 Grosbous, Op der Baa  00501  00501                % 17911 RGTR--
+150402005 Grosbous, Police      00501  00501                % 17911 RGTR--
+141101006 Mertzig, Wéchen       00503  00503                % 17911 RGTR--
+141101003 Mertzig, Eglise       00504  00504                % 17911 RGTR--
+141101005 Mertzig, Gemeng       00505  00505                % 17911 RGTR--
+141101004 Mertzig, Internat     00505  00505                % 17911 RGTR--
+140802002 Oberfeulen, route d'  00507  00507                % 17911 RGTR--
+140802001 Oberfeulen, Place de  00508  00508                % 17911 RGTR--
+140802003 Oberfeulen, Op Hoper  00508  00508                % 17911 RGTR--
+140801004 Niederfeulen, route   00510  00510                % 17911 RGTR--
+140801002 Niederfeulen, Faubou  00511  00511                % 17911 RGTR--
+140701025 Ettelbruck, Place du  00514  00514                % 17911 RGTR--
+140701026 Ettelbruck, Rond Poi  00515  00515                % 17911 RGTR--
+140701018 Ettelbruck, H.v.Land  00516  00516                % 17911 RGTR--
+160301002 Colmar-Berg, Centre   00520  00520                % 17911 RGTR--
+160301007 Colmar-Berg, Usines   00522                       % 17911 RGTR--
+*Z 17912 RGTR--                                             % 17912 RGTR--
+*L 94U      120101004 160301007  01234  01322               % 17912 RGTR--
+*A MM 120101004 160301007 000036  01234  01322              % 17912 RGTR--
+*A HB 120101004 160301007 000036  01234  01322              % 17912 RGTR--
+*R 1 160301007 120101004 160301007  01234  01322            % 17912 RGTR--
+*G 050 120101004 160301007  01234  01322                    % 17912 RGTR--
+*A VE 120101004 160301007 000036  01234  01322              % 17912 RGTR--
+*I FD 120101004 160301007        0001114  01234  01322      % 17912 RGTR--
+120101004 Boulaide, Post               01234                % 17912 RGTR--
+150501005 Arsdorf, Misärshaff   01238  01238                % 17912 RGTR--
+150501004 Arsdorf, Um Knupp     01240  01240                % 17912 RGTR--
+150501006 Arsdorf, Bei der Kap  01241  01241                % 17912 RGTR--
+150501001 Arsdorf, Am Duerf     01241  01241                % 17912 RGTR--
+150501007 Arsdorf, Op der Lee   01242  01242                % 17912 RGTR--
+150501002 Arsdorf, Am Gronn     01243  01243                % 17912 RGTR--
+151004001 Heispelt              01247  01247                % 17912 RGTR--
+151003002 Grevels, Ieweschten   01250  01250                % 17912 RGTR--
+151006002 Wahl, Kinnikshaff     01252  01252                % 17912 RGTR--
+151006001 Wahl, Gemeng          01253  01253                % 17912 RGTR--
+151002001 Buschrodt             01257  01257                % 17912 RGTR--
+150402002 Grosbous, Kiirchepla  01300  01300                % 17912 RGTR--
+150402004 Grosbous, Op der Baa  01301  01301                % 17912 RGTR--
+150402005 Grosbous, Police      01301  01301                % 17912 RGTR--
+141101006 Mertzig, Wéchen       01303  01303                % 17912 RGTR--
+141101003 Mertzig, Eglise       01304  01304                % 17912 RGTR--
+141101005 Mertzig, Gemeng       01305  01305                % 17912 RGTR--
+141101004 Mertzig, Internat     01305  01305                % 17912 RGTR--
+140802002 Oberfeulen, route d'  01307  01307                % 17912 RGTR--
+140802001 Oberfeulen, Place de  01308  01308                % 17912 RGTR--
+140802003 Oberfeulen, Op Hoper  01308  01308                % 17912 RGTR--
+140801004 Niederfeulen, route   01310  01310                % 17912 RGTR--
+140801002 Niederfeulen, Faubou  01311  01311                % 17912 RGTR--
+140701025 Ettelbruck, Place du  01314  01314                % 17912 RGTR--
+140701026 Ettelbruck, Rond Poi  01315  01315                % 17912 RGTR--
+140701018 Ettelbruck, H.v.Land  01316  01316                % 17912 RGTR--
+160301002 Colmar-Berg, Centre   01320  01320                % 17912 RGTR--
+160301007 Colmar-Berg, Usines   01322                       % 17912 RGTR--
+*Z 17913 RGTR--                                             % 17913 RGTR--
+*L 94U      120101004 160301007  02034  02122               % 17913 RGTR--
+*A MM 120101004 160301007 000036  02034  02122              % 17913 RGTR--
+*A HB 120101004 160301007 000036  02034  02122              % 17913 RGTR--
+*R 1 160301007 120101004 160301007  02034  02122            % 17913 RGTR--
+*G 050 120101004 160301007  02034  02122                    % 17913 RGTR--
+*A VE 120101004 160301007 000036  02034  02122              % 17913 RGTR--
+*I FD 120101004 160301007        0001860  02034  02122      % 17913 RGTR--
+120101004 Boulaide, Post               02034                % 17913 RGTR--
+150501005 Arsdorf, Misärshaff   02038  02038                % 17913 RGTR--
+150501004 Arsdorf, Um Knupp     02040  02040                % 17913 RGTR--
+150501006 Arsdorf, Bei der Kap  02041  02041                % 17913 RGTR--
+150501001 Arsdorf, Am Duerf     02041  02041                % 17913 RGTR--
+150501007 Arsdorf, Op der Lee   02042  02042                % 17913 RGTR--
+150501002 Arsdorf, Am Gronn     02043  02043                % 17913 RGTR--
+151004001 Heispelt              02047  02047                % 17913 RGTR--
+151003002 Grevels, Ieweschten   02050  02050                % 17913 RGTR--
+151006002 Wahl, Kinnikshaff     02052  02052                % 17913 RGTR--
+151006001 Wahl, Gemeng          02053  02053                % 17913 RGTR--
+151002001 Buschrodt             02057  02057                % 17913 RGTR--
+150402002 Grosbous, Kiirchepla  02100  02100                % 17913 RGTR--
+150402004 Grosbous, Op der Baa  02101  02101                % 17913 RGTR--
+150402005 Grosbous, Police      02101  02101                % 17913 RGTR--
+141101006 Mertzig, Wéchen       02103  02103                % 17913 RGTR--
+141101003 Mertzig, Eglise       02104  02104                % 17913 RGTR--
+141101005 Mertzig, Gemeng       02105  02105                % 17913 RGTR--
+141101004 Mertzig, Internat     02105  02105                % 17913 RGTR--
+140802002 Oberfeulen, route d'  02107  02107                % 17913 RGTR--
+140802001 Oberfeulen, Place de  02108  02108                % 17913 RGTR--
+140802003 Oberfeulen, Op Hoper  02108  02108                % 17913 RGTR--
+140801004 Niederfeulen, route   02110  02110                % 17913 RGTR--
+140801002 Niederfeulen, Faubou  02111  02111                % 17913 RGTR--
+140701025 Ettelbruck, Place du  02114  02114                % 17913 RGTR--
+140701026 Ettelbruck, Rond Poi  02115  02115                % 17913 RGTR--
+140701018 Ettelbruck, H.v.Land  02116  02116                % 17913 RGTR--
+160301002 Colmar-Berg, Centre   02120  02120                % 17913 RGTR--
+160301007 Colmar-Berg, Usines   02122                       % 17913 RGTR--
+*Z 17914 RGTR--                                             % 17914 RGTR--
+*L 94U      160301007 120101004  00615  00705               % 17914 RGTR--
+*A MM 160301007 120101004 000039  00615  00705              % 17914 RGTR--
+*A HC 160301007 120101004 000039  00615  00705              % 17914 RGTR--
+*R 2 120101004 160301007 120101004  00615  00705            % 17914 RGTR--
+*G 050 160301007 120101004  00615  00705                    % 17914 RGTR--
+*A VE 160301007 120101004 000039  00615  00705              % 17914 RGTR--
+*I FD 160301007 120101004        0002051  00615  00705      % 17914 RGTR--
+160301007 Colmar-Berg, Usines          00615                % 17914 RGTR--
+160301002 Colmar-Berg, Centre   00616  00616                % 17914 RGTR--
+140701018 Ettelbruck, H.v.Land  00620  00620                % 17914 RGTR--
+140701026 Ettelbruck, Rond Poi  00621  00621                % 17914 RGTR--
+140701025 Ettelbruck, Place du  00622  00622                % 17914 RGTR--
+140701009 Ettelbruck, Cité Pat  00624  00624                % 17914 RGTR--
+140701008 Ettelbruck, Cité Lop  00625  00625                % 17914 RGTR--
+140801002 Niederfeulen, Faubou  00627  00627                % 17914 RGTR--
+140801004 Niederfeulen, route   00628  00628                % 17914 RGTR--
+140802003 Oberfeulen, Op Hoper  00630  00630                % 17914 RGTR--
+140802001 Oberfeulen, Place de  00630  00630                % 17914 RGTR--
+140802002 Oberfeulen, route d'  00631  00631                % 17914 RGTR--
+141101004 Mertzig, Internat     00633  00633                % 17914 RGTR--
+141101005 Mertzig, Gemeng       00634  00634                % 17914 RGTR--
+141101003 Mertzig, Eglise       00634  00634                % 17914 RGTR--
+141101006 Mertzig, Wéchen       00635  00635                % 17914 RGTR--
+150402005 Grosbous, Police      00637  00637                % 17914 RGTR--
+150402004 Grosbous, Op der Baa  00638  00638                % 17914 RGTR--
+150402002 Grosbous, Kiirchepla  00638  00638                % 17914 RGTR--
+151002001 Buschrodt             00642  00642                % 17914 RGTR--
+151006001 Wahl, Gemeng          00645  00645                % 17914 RGTR--
+151006002 Wahl, Kinnikshaff     00647  00647                % 17914 RGTR--
+151003002 Grevels, Ieweschten   00649  00649                % 17914 RGTR--
+151004001 Heispelt              00652  00652                % 17914 RGTR--
+150501002 Arsdorf, Am Gronn     00656  00656                % 17914 RGTR--
+150501001 Arsdorf, Am Duerf     00657  00657                % 17914 RGTR--
+150501006 Arsdorf, Bei der Kap  00657  00657                % 17914 RGTR--
+150501004 Arsdorf, Um Knupp     00658  00658                % 17914 RGTR--
+150501005 Arsdorf, Misärshaff   00700  00700                % 17914 RGTR--
+120101004 Boulaide, Post        00705                       % 17914 RGTR--
+*Z 17915 RGTR--                                             % 17915 RGTR--
+*L 94U      160301007 120101004  01415  01505               % 17915 RGTR--
+*A MM 160301007 120101004 000036  01415  01505              % 17915 RGTR--
+*A HC 160301007 120101004 000036  01415  01505              % 17915 RGTR--
+*R 2 120101004 160301007 120101004  01415  01505            % 17915 RGTR--
+*G 050 160301007 120101004  01415  01505                    % 17915 RGTR--
+*A VE 160301007 120101004 000036  01415  01505              % 17915 RGTR--
+*I FD 160301007 120101004        0002055  01415  01505      % 17915 RGTR--
+160301007 Colmar-Berg, Usines          01415                % 17915 RGTR--
+160301002 Colmar-Berg, Centre   01416  01416                % 17915 RGTR--
+140701018 Ettelbruck, H.v.Land  01420  01420                % 17915 RGTR--
+140701026 Ettelbruck, Rond Poi  01421  01421                % 17915 RGTR--
+140701025 Ettelbruck, Place du  01422  01422                % 17915 RGTR--
+140701009 Ettelbruck, Cité Pat  01424  01424                % 17915 RGTR--
+140701008 Ettelbruck, Cité Lop  01425  01425                % 17915 RGTR--
+140801002 Niederfeulen, Faubou  01427  01427                % 17915 RGTR--
+140801004 Niederfeulen, route   01428  01428                % 17915 RGTR--
+140802003 Oberfeulen, Op Hoper  01430  01430                % 17915 RGTR--
+140802001 Oberfeulen, Place de  01430  01430                % 17915 RGTR--
+140802002 Oberfeulen, route d'  01431  01431                % 17915 RGTR--
+141101004 Mertzig, Internat     01433  01433                % 17915 RGTR--
+141101005 Mertzig, Gemeng       01434  01434                % 17915 RGTR--
+141101003 Mertzig, Eglise       01434  01434                % 17915 RGTR--
+141101006 Mertzig, Wéchen       01435  01435                % 17915 RGTR--
+150402005 Grosbous, Police      01437  01437                % 17915 RGTR--
+150402004 Grosbous, Op der Baa  01438  01438                % 17915 RGTR--
+150402002 Grosbous, Kiirchepla  01438  01438                % 17915 RGTR--
+151002001 Buschrodt             01442  01442                % 17915 RGTR--
+151006001 Wahl, Gemeng          01445  01445                % 17915 RGTR--
+151006002 Wahl, Kinnikshaff     01447  01447                % 17915 RGTR--
+151003002 Grevels, Ieweschten   01449  01449                % 17915 RGTR--
+151004001 Heispelt              01452  01452                % 17915 RGTR--
+150501002 Arsdorf, Am Gronn     01456  01456                % 17915 RGTR--
+150501001 Arsdorf, Am Duerf     01457  01457                % 17915 RGTR--
+150501006 Arsdorf, Bei der Kap  01457  01457                % 17915 RGTR--
+150501004 Arsdorf, Um Knupp     01458  01458                % 17915 RGTR--
+150501005 Arsdorf, Misärshaff   01500  01500                % 17915 RGTR--
+120101004 Boulaide, Post        01505                       % 17915 RGTR--
+*Z 17916 RGTR--                                             % 17916 RGTR--
+*L 94U      160301007 120101004  02215  02305               % 17916 RGTR--
+*A MM 160301007 120101004 000036  02215  02305              % 17916 RGTR--
+*A HC 160301007 120101004 000036  02215  02305              % 17916 RGTR--
+*R 2 120101004 160301007 120101004  02215  02305            % 17916 RGTR--
+*G 050 160301007 120101004  02215  02305                    % 17916 RGTR--
+*A VE 160301007 120101004 000036  02215  02305              % 17916 RGTR--
+*I FD 160301007 120101004        0001439  02215  02305      % 17916 RGTR--
+160301007 Colmar-Berg, Usines          02215                % 17916 RGTR--
+160301002 Colmar-Berg, Centre   02216  02216                % 17916 RGTR--
+140701018 Ettelbruck, H.v.Land  02220  02220                % 17916 RGTR--
+140701026 Ettelbruck, Rond Poi  02221  02221                % 17916 RGTR--
+140701025 Ettelbruck, Place du  02222  02222                % 17916 RGTR--
+140701009 Ettelbruck, Cité Pat  02224  02224                % 17916 RGTR--
+140701008 Ettelbruck, Cité Lop  02225  02225                % 17916 RGTR--
+140801002 Niederfeulen, Faubou  02227  02227                % 17916 RGTR--
+140801004 Niederfeulen, route   02228  02228                % 17916 RGTR--
+140802003 Oberfeulen, Op Hoper  02230  02230                % 17916 RGTR--
+140802001 Oberfeulen, Place de  02230  02230                % 17916 RGTR--
+140802002 Oberfeulen, route d'  02231  02231                % 17916 RGTR--
+141101004 Mertzig, Internat     02233  02233                % 17916 RGTR--
+141101005 Mertzig, Gemeng       02234  02234                % 17916 RGTR--
+141101003 Mertzig, Eglise       02234  02234                % 17916 RGTR--
+141101006 Mertzig, Wéchen       02235  02235                % 17916 RGTR--
+150402005 Grosbous, Police      02237  02237                % 17916 RGTR--
+150402004 Grosbous, Op der Baa  02238  02238                % 17916 RGTR--
+150402002 Grosbous, Kiirchepla  02238  02238                % 17916 RGTR--
+151002001 Buschrodt             02242  02242                % 17916 RGTR--
+151006001 Wahl, Gemeng          02245  02245                % 17916 RGTR--
+151006002 Wahl, Kinnikshaff     02247  02247                % 17916 RGTR--
+151003002 Grevels, Ieweschten   02249  02249                % 17916 RGTR--
+151004001 Heispelt              02252  02252                % 17916 RGTR--
+150501002 Arsdorf, Am Gronn     02256  02256                % 17916 RGTR--
+150501001 Arsdorf, Am Duerf     02257  02257                % 17916 RGTR--
+150501006 Arsdorf, Bei der Kap  02257  02257                % 17916 RGTR--
+150501004 Arsdorf, Um Knupp     02258  02258                % 17916 RGTR--
+150501005 Arsdorf, Misärshaff   02300  02300                % 17916 RGTR--
+120101004 Boulaide, Post        02305                       % 17916 RGTR--
+*Z 17917 RGTR--                                             % 17917 RGTR--
+*L 94U      120101004 160301007  00434  00522               % 17917 RGTR--
+*A MM 120101004 160301007 000038  00434  00522              % 17917 RGTR--
+*A HB 120101004 160301007 000038  00434  00522              % 17917 RGTR--
+*R 1 160301007 120101004 160301007  00434  00522            % 17917 RGTR--
+*G 050 120101004 160301007  00434  00522                    % 17917 RGTR--
+*A VE 120101004 160301007 000038  00434  00522              % 17917 RGTR--
+*I FD 120101004 160301007        0003377  00434  00522      % 17917 RGTR--
+120101004 Boulaide, Post               00434                % 17917 RGTR--
+150501005 Arsdorf, Misärshaff   00438  00438                % 17917 RGTR--
+150501004 Arsdorf, Um Knupp     00440  00440                % 17917 RGTR--
+150501006 Arsdorf, Bei der Kap  00441  00441                % 17917 RGTR--
+150501001 Arsdorf, Am Duerf     00441  00441                % 17917 RGTR--
+150501007 Arsdorf, Op der Lee   00442  00442                % 17917 RGTR--
+150501002 Arsdorf, Am Gronn     00443  00443                % 17917 RGTR--
+151004001 Heispelt              00447  00447                % 17917 RGTR--
+151003002 Grevels, Ieweschten   00450  00450                % 17917 RGTR--
+151006002 Wahl, Kinnikshaff     00452  00452                % 17917 RGTR--
+151006001 Wahl, Gemeng          00453  00453                % 17917 RGTR--
+151002001 Buschrodt             00457  00457                % 17917 RGTR--
+150402002 Grosbous, Kiirchepla  00500  00500                % 17917 RGTR--
+150402004 Grosbous, Op der Baa  00501  00501                % 17917 RGTR--
+150402005 Grosbous, Police      00501  00501                % 17917 RGTR--
+141101006 Mertzig, Wéchen       00503  00503                % 17917 RGTR--
+141101003 Mertzig, Eglise       00504  00504                % 17917 RGTR--
+141101005 Mertzig, Gemeng       00505  00505                % 17917 RGTR--
+141101004 Mertzig, Internat     00505  00505                % 17917 RGTR--
+140802002 Oberfeulen, route d'  00507  00507                % 17917 RGTR--
+140802001 Oberfeulen, Place de  00508  00508                % 17917 RGTR--
+140802003 Oberfeulen, Op Hoper  00508  00508                % 17917 RGTR--
+140801004 Niederfeulen, route   00510  00510                % 17917 RGTR--
+140801002 Niederfeulen, Faubou  00511  00511                % 17917 RGTR--
+140701025 Ettelbruck, Place du  00514  00514                % 17917 RGTR--
+140701026 Ettelbruck, Rond Poi  00515  00515                % 17917 RGTR--
+140701018 Ettelbruck, H.v.Land  00516  00516                % 17917 RGTR--
+160301002 Colmar-Berg, Centre   00520  00520                % 17917 RGTR--
+160301007 Colmar-Berg, Usines   00522                       % 17917 RGTR--
+*Z 17918 RGTR--                                             % 17918 RGTR--
+*L 94U      120101004 160301007  01234  01322               % 17918 RGTR--
+*A MM 120101004 160301007 000038  01234  01322              % 17918 RGTR--
+*A HB 120101004 160301007 000038  01234  01322              % 17918 RGTR--
+*R 1 160301007 120101004 160301007  01234  01322            % 17918 RGTR--
+*G 050 120101004 160301007  01234  01322                    % 17918 RGTR--
+*A VE 120101004 160301007 000038  01234  01322              % 17918 RGTR--
+*I FD 120101004 160301007        0001114  01234  01322      % 17918 RGTR--
+120101004 Boulaide, Post               01234                % 17918 RGTR--
+150501005 Arsdorf, Misärshaff   01238  01238                % 17918 RGTR--
+150501004 Arsdorf, Um Knupp     01240  01240                % 17918 RGTR--
+150501006 Arsdorf, Bei der Kap  01241  01241                % 17918 RGTR--
+150501001 Arsdorf, Am Duerf     01241  01241                % 17918 RGTR--
+150501007 Arsdorf, Op der Lee   01242  01242                % 17918 RGTR--
+150501002 Arsdorf, Am Gronn     01243  01243                % 17918 RGTR--
+151004001 Heispelt              01247  01247                % 17918 RGTR--
+151003002 Grevels, Ieweschten   01250  01250                % 17918 RGTR--
+151006002 Wahl, Kinnikshaff     01252  01252                % 17918 RGTR--
+151006001 Wahl, Gemeng          01253  01253                % 17918 RGTR--
+151002001 Buschrodt             01257  01257                % 17918 RGTR--
+150402002 Grosbous, Kiirchepla  01300  01300                % 17918 RGTR--
+150402004 Grosbous, Op der Baa  01301  01301                % 17918 RGTR--
+150402005 Grosbous, Police      01301  01301                % 17918 RGTR--
+141101006 Mertzig, Wéchen       01303  01303                % 17918 RGTR--
+141101003 Mertzig, Eglise       01304  01304                % 17918 RGTR--
+141101005 Mertzig, Gemeng       01305  01305                % 17918 RGTR--
+141101004 Mertzig, Internat     01305  01305                % 17918 RGTR--
+140802002 Oberfeulen, route d'  01307  01307                % 17918 RGTR--
+140802001 Oberfeulen, Place de  01308  01308                % 17918 RGTR--
+140802003 Oberfeulen, Op Hoper  01308  01308                % 17918 RGTR--
+140801004 Niederfeulen, route   01310  01310                % 17918 RGTR--
+140801002 Niederfeulen, Faubou  01311  01311                % 17918 RGTR--
+140701025 Ettelbruck, Place du  01314  01314                % 17918 RGTR--
+140701026 Ettelbruck, Rond Poi  01315  01315                % 17918 RGTR--
+140701018 Ettelbruck, H.v.Land  01316  01316                % 17918 RGTR--
+160301002 Colmar-Berg, Centre   01320  01320                % 17918 RGTR--
+160301007 Colmar-Berg, Usines   01322                       % 17918 RGTR--
+*Z 17919 RGTR--                                             % 17919 RGTR--
+*L 94U      120101004 160301007  02034  02122               % 17919 RGTR--
+*A MM 120101004 160301007 000038  02034  02122              % 17919 RGTR--
+*A HB 120101004 160301007 000038  02034  02122              % 17919 RGTR--
+*R 1 160301007 120101004 160301007  02034  02122            % 17919 RGTR--
+*G 050 120101004 160301007  02034  02122                    % 17919 RGTR--
+*A VE 120101004 160301007 000038  02034  02122              % 17919 RGTR--
+*I FD 120101004 160301007        0001860  02034  02122      % 17919 RGTR--
+120101004 Boulaide, Post               02034                % 17919 RGTR--
+150501005 Arsdorf, Misärshaff   02038  02038                % 17919 RGTR--
+150501004 Arsdorf, Um Knupp     02040  02040                % 17919 RGTR--
+150501006 Arsdorf, Bei der Kap  02041  02041                % 17919 RGTR--
+150501001 Arsdorf, Am Duerf     02041  02041                % 17919 RGTR--
+150501007 Arsdorf, Op der Lee   02042  02042                % 17919 RGTR--
+150501002 Arsdorf, Am Gronn     02043  02043                % 17919 RGTR--
+151004001 Heispelt              02047  02047                % 17919 RGTR--
+151003002 Grevels, Ieweschten   02050  02050                % 17919 RGTR--
+151006002 Wahl, Kinnikshaff     02052  02052                % 17919 RGTR--
+151006001 Wahl, Gemeng          02053  02053                % 17919 RGTR--
+151002001 Buschrodt             02057  02057                % 17919 RGTR--
+150402002 Grosbous, Kiirchepla  02100  02100                % 17919 RGTR--
+150402004 Grosbous, Op der Baa  02101  02101                % 17919 RGTR--
+150402005 Grosbous, Police      02101  02101                % 17919 RGTR--
+141101006 Mertzig, Wéchen       02103  02103                % 17919 RGTR--
+141101003 Mertzig, Eglise       02104  02104                % 17919 RGTR--
+141101005 Mertzig, Gemeng       02105  02105                % 17919 RGTR--
+141101004 Mertzig, Internat     02105  02105                % 17919 RGTR--
+140802002 Oberfeulen, route d'  02107  02107                % 17919 RGTR--
+140802001 Oberfeulen, Place de  02108  02108                % 17919 RGTR--
+140802003 Oberfeulen, Op Hoper  02108  02108                % 17919 RGTR--
+140801004 Niederfeulen, route   02110  02110                % 17919 RGTR--
+140801002 Niederfeulen, Faubou  02111  02111                % 17919 RGTR--
+140701025 Ettelbruck, Place du  02114  02114                % 17919 RGTR--
+140701026 Ettelbruck, Rond Poi  02115  02115                % 17919 RGTR--
+140701018 Ettelbruck, H.v.Land  02116  02116                % 17919 RGTR--
+160301002 Colmar-Berg, Centre   02120  02120                % 17919 RGTR--
+160301007 Colmar-Berg, Usines   02122                       % 17919 RGTR--
+*Z 17920 RGTR--                                             % 17920 RGTR--
+*L 94U      160301007 120101004  00615  00705               % 17920 RGTR--
+*A MM 160301007 120101004 000040  00615  00705              % 17920 RGTR--
+*A HC 160301007 120101004 000040  00615  00705              % 17920 RGTR--
+*R 2 120101004 160301007 120101004  00615  00705            % 17920 RGTR--
+*G 050 160301007 120101004  00615  00705                    % 17920 RGTR--
+*A VE 160301007 120101004 000040  00615  00705              % 17920 RGTR--
+*I FD 160301007 120101004        0002051  00615  00705      % 17920 RGTR--
+160301007 Colmar-Berg, Usines          00615                % 17920 RGTR--
+160301002 Colmar-Berg, Centre   00616  00616                % 17920 RGTR--
+140701018 Ettelbruck, H.v.Land  00620  00620                % 17920 RGTR--
+140701026 Ettelbruck, Rond Poi  00621  00621                % 17920 RGTR--
+140701025 Ettelbruck, Place du  00622  00622                % 17920 RGTR--
+140701009 Ettelbruck, Cité Pat  00624  00624                % 17920 RGTR--
+140701008 Ettelbruck, Cité Lop  00625  00625                % 17920 RGTR--
+140801002 Niederfeulen, Faubou  00627  00627                % 17920 RGTR--
+140801004 Niederfeulen, route   00628  00628                % 17920 RGTR--
+140802003 Oberfeulen, Op Hoper  00630  00630                % 17920 RGTR--
+140802001 Oberfeulen, Place de  00630  00630                % 17920 RGTR--
+140802002 Oberfeulen, route d'  00631  00631                % 17920 RGTR--
+141101004 Mertzig, Internat     00633  00633                % 17920 RGTR--
+141101005 Mertzig, Gemeng       00634  00634                % 17920 RGTR--
+141101003 Mertzig, Eglise       00634  00634                % 17920 RGTR--
+141101006 Mertzig, Wéchen       00635  00635                % 17920 RGTR--
+150402005 Grosbous, Police      00637  00637                % 17920 RGTR--
+150402004 Grosbous, Op der Baa  00638  00638                % 17920 RGTR--
+150402002 Grosbous, Kiirchepla  00638  00638                % 17920 RGTR--
+151002001 Buschrodt             00642  00642                % 17920 RGTR--
+151006001 Wahl, Gemeng          00645  00645                % 17920 RGTR--
+151006002 Wahl, Kinnikshaff     00647  00647                % 17920 RGTR--
+151003002 Grevels, Ieweschten   00649  00649                % 17920 RGTR--
+151004001 Heispelt              00652  00652                % 17920 RGTR--
+150501002 Arsdorf, Am Gronn     00656  00656                % 17920 RGTR--
+150501001 Arsdorf, Am Duerf     00657  00657                % 17920 RGTR--
+150501006 Arsdorf, Bei der Kap  00657  00657                % 17920 RGTR--
+150501004 Arsdorf, Um Knupp     00658  00658                % 17920 RGTR--
+150501005 Arsdorf, Misärshaff   00700  00700                % 17920 RGTR--
+120101004 Boulaide, Post        00705                       % 17920 RGTR--
+*Z 17921 RGTR--                                             % 17921 RGTR--
+*L 94U      160301007 120101004  01415  01505               % 17921 RGTR--
+*A MM 160301007 120101004 000038  01415  01505              % 17921 RGTR--
+*A HC 160301007 120101004 000038  01415  01505              % 17921 RGTR--
+*R 2 120101004 160301007 120101004  01415  01505            % 17921 RGTR--
+*G 050 160301007 120101004  01415  01505                    % 17921 RGTR--
+*A VE 160301007 120101004 000038  01415  01505              % 17921 RGTR--
+*I FD 160301007 120101004        0002055  01415  01505      % 17921 RGTR--
+160301007 Colmar-Berg, Usines          01415                % 17921 RGTR--
+160301002 Colmar-Berg, Centre   01416  01416                % 17921 RGTR--
+140701018 Ettelbruck, H.v.Land  01420  01420                % 17921 RGTR--
+140701026 Ettelbruck, Rond Poi  01421  01421                % 17921 RGTR--
+140701025 Ettelbruck, Place du  01422  01422                % 17921 RGTR--
+140701009 Ettelbruck, Cité Pat  01424  01424                % 17921 RGTR--
+140701008 Ettelbruck, Cité Lop  01425  01425                % 17921 RGTR--
+140801002 Niederfeulen, Faubou  01427  01427                % 17921 RGTR--
+140801004 Niederfeulen, route   01428  01428                % 17921 RGTR--
+140802003 Oberfeulen, Op Hoper  01430  01430                % 17921 RGTR--
+140802001 Oberfeulen, Place de  01430  01430                % 17921 RGTR--
+140802002 Oberfeulen, route d'  01431  01431                % 17921 RGTR--
+141101004 Mertzig, Internat     01433  01433                % 17921 RGTR--
+141101005 Mertzig, Gemeng       01434  01434                % 17921 RGTR--
+141101003 Mertzig, Eglise       01434  01434                % 17921 RGTR--
+141101006 Mertzig, Wéchen       01435  01435                % 17921 RGTR--
+150402005 Grosbous, Police      01437  01437                % 17921 RGTR--
+150402004 Grosbous, Op der Baa  01438  01438                % 17921 RGTR--
+150402002 Grosbous, Kiirchepla  01438  01438                % 17921 RGTR--
+151002001 Buschrodt             01442  01442                % 17921 RGTR--
+151006001 Wahl, Gemeng          01445  01445                % 17921 RGTR--
+151006002 Wahl, Kinnikshaff     01447  01447                % 17921 RGTR--
+151003002 Grevels, Ieweschten   01449  01449                % 17921 RGTR--
+151004001 Heispelt              01452  01452                % 17921 RGTR--
+150501002 Arsdorf, Am Gronn     01456  01456                % 17921 RGTR--
+150501001 Arsdorf, Am Duerf     01457  01457                % 17921 RGTR--
+150501006 Arsdorf, Bei der Kap  01457  01457                % 17921 RGTR--
+150501004 Arsdorf, Um Knupp     01458  01458                % 17921 RGTR--
+150501005 Arsdorf, Misärshaff   01500  01500                % 17921 RGTR--
+120101004 Boulaide, Post        01505                       % 17921 RGTR--
+*Z 17922 RGTR--                                             % 17922 RGTR--
+*L 94U      160301007 120101004  02215  02305               % 17922 RGTR--
+*A MM 160301007 120101004 000038  02215  02305              % 17922 RGTR--
+*A HC 160301007 120101004 000038  02215  02305              % 17922 RGTR--
+*R 2 120101004 160301007 120101004  02215  02305            % 17922 RGTR--
+*G 050 160301007 120101004  02215  02305                    % 17922 RGTR--
+*A VE 160301007 120101004 000038  02215  02305              % 17922 RGTR--
+*I FD 160301007 120101004        0001439  02215  02305      % 17922 RGTR--
+160301007 Colmar-Berg, Usines          02215                % 17922 RGTR--
+160301002 Colmar-Berg, Centre   02216  02216                % 17922 RGTR--
+140701018 Ettelbruck, H.v.Land  02220  02220                % 17922 RGTR--
+140701026 Ettelbruck, Rond Poi  02221  02221                % 17922 RGTR--
+140701025 Ettelbruck, Place du  02222  02222                % 17922 RGTR--
+140701009 Ettelbruck, Cité Pat  02224  02224                % 17922 RGTR--
+140701008 Ettelbruck, Cité Lop  02225  02225                % 17922 RGTR--
+140801002 Niederfeulen, Faubou  02227  02227                % 17922 RGTR--
+140801004 Niederfeulen, route   02228  02228                % 17922 RGTR--
+140802003 Oberfeulen, Op Hoper  02230  02230                % 17922 RGTR--
+140802001 Oberfeulen, Place de  02230  02230                % 17922 RGTR--
+140802002 Oberfeulen, route d'  02231  02231                % 17922 RGTR--
+141101004 Mertzig, Internat     02233  02233                % 17922 RGTR--
+141101005 Mertzig, Gemeng       02234  02234                % 17922 RGTR--
+141101003 Mertzig, Eglise       02234  02234                % 17922 RGTR--
+141101006 Mertzig, Wéchen       02235  02235                % 17922 RGTR--
+150402005 Grosbous, Police      02237  02237                % 17922 RGTR--
+150402004 Grosbous, Op der Baa  02238  02238                % 17922 RGTR--
+150402002 Grosbous, Kiirchepla  02238  02238                % 17922 RGTR--
+151002001 Buschrodt             02242  02242                % 17922 RGTR--
+151006001 Wahl, Gemeng          02245  02245                % 17922 RGTR--
+151006002 Wahl, Kinnikshaff     02247  02247                % 17922 RGTR--
+151003002 Grevels, Ieweschten   02249  02249                % 17922 RGTR--
+151004001 Heispelt              02252  02252                % 17922 RGTR--
+150501002 Arsdorf, Am Gronn     02256  02256                % 17922 RGTR--
+150501001 Arsdorf, Am Duerf     02257  02257                % 17922 RGTR--
+150501006 Arsdorf, Bei der Kap  02257  02257                % 17922 RGTR--
+150501004 Arsdorf, Um Knupp     02258  02258                % 17922 RGTR--
+150501005 Arsdorf, Misärshaff   02300  02300                % 17922 RGTR--
+120101004 Boulaide, Post        02305                       % 17922 RGTR--

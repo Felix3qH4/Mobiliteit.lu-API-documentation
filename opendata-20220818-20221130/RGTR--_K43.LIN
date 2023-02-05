@@ -1,0 +1,42 @@
+*F 03 2
+*Z 18790 RGTR--                                             % 18790 RGTR--
+*L K43      140701016 120201002  01525  01552               % 18790 RGTR--
+*A cj 140701016 120201002 000042  01525  01552              % 18790 RGTR--
+*A ad 140701016 120201002 000042  01525  01552              % 18790 RGTR--
+*R 1 120201002 140701016 120201002  01525  01552            % 18790 RGTR--
+*G 020 140701016 120201002  01525  01552                    % 18790 RGTR--
+*A VE 140701016 120201002 000042  01525  01552              % 18790 RGTR--
+*I FD 140701016 120201002        0002134  01525  01552      % 18790 RGTR--
+140701016 Ettelbruck, Gare             01525                % 18790 RGTR--
+140701034 Ettelbruck, Apdikt P  01526  01526                % 18790 RGTR--
+140701025 Ettelbruck, Place du  01527  01527                % 18790 RGTR--
+140701009 Ettelbruck, Cité Pat  01528  01528                % 18790 RGTR--
+140701008 Ettelbruck, Cité Lop  01529  01529                % 18790 RGTR--
+140801002 Niederfeulen, Faubou  01531  01531                % 18790 RGTR--
+140801003 Niederfeulen, Mairie  01532  01532                % 18790 RGTR--
+140801004 Niederfeulen, route   01533  01533                % 18790 RGTR--
+120505001 Merscheid/Heidersche  01540  01540                % 18790 RGTR--
+120501003 Eschdorf, Quatre Ven  01543  01543                % 18790 RGTR--
+120501001 Eschdorf, An der Dri  01543  01543                % 18790 RGTR--
+120501002 Eschdorf, Mairie      01544  01544                % 18790 RGTR--
+120503001 Heischtergronn, Beim  01549  01549                % 18790 RGTR--
+120201002 Esch-sur-Sûre, An de  01552                       % 18790 RGTR--
+*Z 18791 RGTR--                                             % 18791 RGTR--
+*L K43      120201002 140701016  00708  00734               % 18791 RGTR--
+*A cj 120201002 140701016 000042  00708  00734              % 18791 RGTR--
+*A ad 120201002 140701016 000042  00708  00734              % 18791 RGTR--
+*R 2 140701016 120201002 140701016  00708  00734            % 18791 RGTR--
+*G 020 120201002 140701016  00708  00734                    % 18791 RGTR--
+*A VE 120201002 140701016 000042  00708  00734              % 18791 RGTR--
+*I FD 120201002 140701016        0001879  00708  00734      % 18791 RGTR--
+120201002 Esch-sur-Sûre, An de         00708                % 18791 RGTR--
+120503001 Heischtergronn, Beim  00710  00710                % 18791 RGTR--
+120501002 Eschdorf, Mairie      00716  00716                % 18791 RGTR--
+120501001 Eschdorf, An der Dri  00716  00716                % 18791 RGTR--
+120501003 Eschdorf, Quatre Ven  00717  00717                % 18791 RGTR--
+120505001 Merscheid/Heidersche  00719  00719                % 18791 RGTR--
+140801004 Niederfeulen, route   00726  00726                % 18791 RGTR--
+140801002 Niederfeulen, Faubou  00728  00728                % 18791 RGTR--
+140701025 Ettelbruck, Place du  00731  00731                % 18791 RGTR--
+140701015 Ettelbruck, Ecole Pr  00732  00732                % 18791 RGTR--
+140701016 Ettelbruck, Gare      00734                       % 18791 RGTR--

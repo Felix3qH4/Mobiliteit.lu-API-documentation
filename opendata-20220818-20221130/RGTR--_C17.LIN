@@ -1,0 +1,125 @@
+*F 03 2
+*Z 18187 RGTR--                                             % 18187 RGTR--
+*L C17      170101003 180511008  00710  00751               % 18187 RGTR--
+*A cj 170101003 180511008 000042  00710  00751              % 18187 RGTR--
+*A ad 170101003 180511008 000042  00710  00751              % 18187 RGTR--
+*R 1 180511008 170101003 180511008  00710  00751            % 18187 RGTR--
+*G 063 170101003 180511008  00710  00751                    % 18187 RGTR--
+*A VE 170101003 180511008 000042  00710  00751              % 18187 RGTR--
+*I FD 170101003 180511008        0002591  00710  00751      % 18187 RGTR--
+170101003 Beaufort, Härewiss           00710                % 18187 RGTR--
+170101006 Beaufort, Op der Gar  00711  00711                % 18187 RGTR--
+170101001 Beaufort, Aispist     00712  00712                % 18187 RGTR--
+170101009 Beaufort, Um Bierg    00712  00712                % 18187 RGTR--
+170101002 Beaufort, Ennescht H  00714  00714                % 18187 RGTR--
+170101008 Beaufort, Halerstroo  00715  00715                % 18187 RGTR--
+170802002 Haller, Schoul        00722  00722                % 18187 RGTR--
+170802001 Haller, Beim Basseng  00723  00723                % 18187 RGTR--
+170804002 Waldbillig, Gemeng    00726  00726                % 18187 RGTR--
+170804001 Waldbillig, Bëlleger  00727  00727                % 18187 RGTR--
+170801002 Christnach, Schoulst  00728  00728                % 18187 RGTR--
+170801001 Christnach, Hierheck  00729  00729                % 18187 RGTR--
+160501003 Heffingen, Rue de Ch  00732  00732                % 18187 RGTR--
+160501006 Heffingen, Abri (Cen  00733  00733                % 18187 RGTR--
+160501004 Heffingen, Thommes    00735  00735                % 18187 RGTR--
+160502001 Reuland               00737  00737                % 18187 RGTR--
+180503001 Blumenthal/Blummenda  00739  00739                % 18187 RGTR--
+180511007 Junglinster, Um Reil  00743  00743                % 18187 RGTR--
+180511002 Junglinster, Op der   00745  00745                % 18187 RGTR--
+180511005 Junglinster, Um Lei   00747  00747                % 18187 RGTR--
+180511009 Junglinster, Op der   00748  00748                % 18187 RGTR--
+180508003 Gonderange, Mierchen  00748  00748                % 18187 RGTR--
+180511008 Junglinster, Lënster  00751                       % 18187 RGTR--
+*Z 18188 RGTR--                                             % 18188 RGTR--
+*L C17      180511008 170101003  01220  01258               % 18188 RGTR--
+*A cj 180511008 170101003 000007  01220  01258              % 18188 RGTR--
+*A ad 180511008 170101003 000007  01220  01258              % 18188 RGTR--
+*R 2 170101003 180511008 170101003  01220  01258            % 18188 RGTR--
+*G 063 180511008 170101003  01220  01258                    % 18188 RGTR--
+*A VE 180511008 170101003 000007  01220  01258              % 18188 RGTR--
+*I FD 180511008 170101003        0002085  01220  01258      % 18188 RGTR--
+180511008 Junglinster, Lënster         01220                % 18188 RGTR--
+180508003 Gonderange, Mierchen  01222  01222                % 18188 RGTR--
+180511009 Junglinster, Op der   01223  01223                % 18188 RGTR--
+180511005 Junglinster, Um Lei   01223  01223                % 18188 RGTR--
+180511002 Junglinster, Op der   01224  01224                % 18188 RGTR--
+180511007 Junglinster, Um Reil  01226  01226                % 18188 RGTR--
+180503001 Blumenthal/Blummenda  01230  01230                % 18188 RGTR--
+160502001 Reuland               01232  01232                % 18188 RGTR--
+160501004 Heffingen, Thommes    01234  01234                % 18188 RGTR--
+160501006 Heffingen, Abri (Cen  01235  01235                % 18188 RGTR--
+160501003 Heffingen, Rue de Ch  01236  01236                % 18188 RGTR--
+170801001 Christnach, Hierheck  01239  01239                % 18188 RGTR--
+170801002 Christnach, Schoulst  01240  01240                % 18188 RGTR--
+170804001 Waldbillig, Bëlleger  01241  01241                % 18188 RGTR--
+170804002 Waldbillig, Gemeng    01242  01242                % 18188 RGTR--
+170802001 Haller, Beim Basseng  01246  01246                % 18188 RGTR--
+170802002 Haller, Schoul        01247  01247                % 18188 RGTR--
+170101008 Beaufort, Halerstroo  01254  01254                % 18188 RGTR--
+170101002 Beaufort, Ennescht H  01255  01255                % 18188 RGTR--
+170101009 Beaufort, Um Bierg    01256  01256                % 18188 RGTR--
+170101001 Beaufort, Aispist     01256  01256                % 18188 RGTR--
+170101006 Beaufort, Op der Gar  01257  01257                % 18188 RGTR--
+170101003 Beaufort, Härewiss    01258                       % 18188 RGTR--
+*Z 18189 RGTR--                                             % 18189 RGTR--
+*L C17      180511008 170101003  01415  01453               % 18189 RGTR--
+*A cj 180511008 170101003 000046  01415  01453              % 18189 RGTR--
+*A ad 180511008 170101003 000046  01415  01453              % 18189 RGTR--
+*R 2 170101003 180511008 170101003  01415  01453            % 18189 RGTR--
+*G 063 180511008 170101003  01415  01453                    % 18189 RGTR--
+*A VE 180511008 170101003 000046  01415  01453              % 18189 RGTR--
+*I FD 180511008 170101003        0002055  01415  01453      % 18189 RGTR--
+180511008 Junglinster, Lënster         01415                % 18189 RGTR--
+180508003 Gonderange, Mierchen  01417  01417                % 18189 RGTR--
+180511009 Junglinster, Op der   01418  01418                % 18189 RGTR--
+180511005 Junglinster, Um Lei   01418  01418                % 18189 RGTR--
+180511002 Junglinster, Op der   01419  01419                % 18189 RGTR--
+180511007 Junglinster, Um Reil  01421  01421                % 18189 RGTR--
+180503001 Blumenthal/Blummenda  01425  01425                % 18189 RGTR--
+160502001 Reuland               01427  01427                % 18189 RGTR--
+160501004 Heffingen, Thommes    01429  01429                % 18189 RGTR--
+160501006 Heffingen, Abri (Cen  01430  01430                % 18189 RGTR--
+160501003 Heffingen, Rue de Ch  01431  01431                % 18189 RGTR--
+170801001 Christnach, Hierheck  01434  01434                % 18189 RGTR--
+170801002 Christnach, Schoulst  01435  01435                % 18189 RGTR--
+170804001 Waldbillig, Bëlleger  01436  01436                % 18189 RGTR--
+170804002 Waldbillig, Gemeng    01437  01437                % 18189 RGTR--
+170802001 Haller, Beim Basseng  01441  01441                % 18189 RGTR--
+170802002 Haller, Schoul        01442  01442                % 18189 RGTR--
+170101008 Beaufort, Halerstroo  01449  01449                % 18189 RGTR--
+170101002 Beaufort, Ennescht H  01450  01450                % 18189 RGTR--
+170101009 Beaufort, Um Bierg    01451  01451                % 18189 RGTR--
+170101001 Beaufort, Aispist     01451  01451                % 18189 RGTR--
+170101006 Beaufort, Op der Gar  01452  01452                % 18189 RGTR--
+170101003 Beaufort, Härewiss    01453                       % 18189 RGTR--
+*Z 18190 RGTR--                                             % 18190 RGTR--
+*L C17      180511008 170101003  01610  01648               % 18190 RGTR--
+*A cj 180511008 170101003 000334  01610  01648              % 18190 RGTR--
+*A ad 180511008 170101003 000334  01610  01648              % 18190 RGTR--
+*R 2 170101003 180511008 170101003  01610  01648            % 18190 RGTR--
+*G 050 180511008 170101003  01610  01648                    % 18190 RGTR--
+*A VE 180511008 170101003 000334  01610  01648              % 18190 RGTR--
+*I FD 180511008 170101003        0001997  01610  01648      % 18190 RGTR--
+180511008 Junglinster, Lënster         01610                % 18190 RGTR--
+180508003 Gonderange, Mierchen  01612  01612                % 18190 RGTR--
+180511009 Junglinster, Op der   01613  01613                % 18190 RGTR--
+180511005 Junglinster, Um Lei   01613  01613                % 18190 RGTR--
+180511002 Junglinster, Op der   01614  01614                % 18190 RGTR--
+180511007 Junglinster, Um Reil  01616  01616                % 18190 RGTR--
+180503001 Blumenthal/Blummenda  01620  01620                % 18190 RGTR--
+160502001 Reuland               01622  01622                % 18190 RGTR--
+160501004 Heffingen, Thommes    01624  01624                % 18190 RGTR--
+160501006 Heffingen, Abri (Cen  01625  01625                % 18190 RGTR--
+160501003 Heffingen, Rue de Ch  01626  01626                % 18190 RGTR--
+170801001 Christnach, Hierheck  01629  01629                % 18190 RGTR--
+170801002 Christnach, Schoulst  01630  01630                % 18190 RGTR--
+170804001 Waldbillig, Bëlleger  01631  01631                % 18190 RGTR--
+170804002 Waldbillig, Gemeng    01632  01632                % 18190 RGTR--
+170802001 Haller, Beim Basseng  01636  01636                % 18190 RGTR--
+170802002 Haller, Schoul        01637  01637                % 18190 RGTR--
+170101008 Beaufort, Halerstroo  01644  01644                % 18190 RGTR--
+170101002 Beaufort, Ennescht H  01645  01645                % 18190 RGTR--
+170101009 Beaufort, Um Bierg    01646  01646                % 18190 RGTR--
+170101001 Beaufort, Aispist     01646  01646                % 18190 RGTR--
+170101006 Beaufort, Op der Gar  01647  01647                % 18190 RGTR--
+170101003 Beaufort, Härewiss    01648                       % 18190 RGTR--

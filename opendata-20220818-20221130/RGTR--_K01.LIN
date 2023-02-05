@@ -1,0 +1,261 @@
+*F 03 2
+*Z 18579 RGTR--                                             % 18579 RGTR--
+*L K01      160501006 140701023  00707  00751               % 18579 RGTR--
+*A cj 160501006 140701023 000042  00707  00751              % 18579 RGTR--
+*A M  160501006 140701023 000042  00707  00751              % 18579 RGTR--
+*A ad 160501006 140701023 000042  00707  00751              % 18579 RGTR--
+*R 1 140701023 160501006 140701023  00707  00751            % 18579 RGTR--
+*G 050 160501006 140701023  00707  00751                    % 18579 RGTR--
+*A VE 160501006 140701023 000042  00707  00751              % 18579 RGTR--
+*I FD 160501006 140701023        0003374  00707  00751      % 18579 RGTR--
+160501006 Heffingen, Abri (Cen         00707                % 18579 RGTR--
+160501005 Heffingen, Soup       00709  00709                % 18579 RGTR--
+160602001 Ernzen, Kapell        00710  00710                % 18579 RGTR--
+160602002 Ernzen, Manzebach     00712  00712                % 18579 RGTR--
+160601007 Larochette, Pomjeesb  00713  00713                % 18579 RGTR--
+160601001 Larochette, Bleech    00714  00714                % 18579 RGTR--
+160601005 Larochette, Leedebac  00715  00715                % 18579 RGTR--
+141001001 Medernach, Fondation  00717  00717                % 18579 RGTR--
+141001003 Medernach, Op der Ga  00717  00717                % 18579 RGTR--
+141001004 Medernach, Op der La  00719  00719                % 18579 RGTR--
+140503001 Stegen, Bloen Eck     00723  00723                % 18579 RGTR--
+140503002 Stegen, Eglise        00725  00725                % 18579 RGTR--
+140503003 Stegen, Kreiz         00727  00727                % 18579 RGTR--
+140401016 Diekirch, Beim Waass  00731  00731                % 18579 RGTR--
+140401009 Diekirch, Neie Kolle  00734  00734                % 18579 RGTR--
+140401006 Diekirch, Kluuster    00739  00739                % 18579 RGTR--
+140401004 Diekirch, Gare routi  00741  00741                % 18579 RGTR--
+140401008 Diekirch, Lorentzwue  00743  00743                % 18579 RGTR--
+140603002 Ingeldorf, Café de l  00745  00745                % 18579 RGTR--
+140602008 Erpeldange-sur-Sûre,  00747  00747                % 18579 RGTR--
+140701001 Ettelbruck, Anc. Cli  00750  00750                % 18579 RGTR--
+140701023 Ettelbruck, LTEtt Ga  00751                       % 18579 RGTR--
+*Z 18580 RGTR--                                             % 18580 RGTR--
+*L K01      160501006 140401004  00717  00752               % 18580 RGTR--
+*A cj 160501006 140401004 000042  00717  00752              % 18580 RGTR--
+*A Q  160501006 140401004 000042  00717  00752              % 18580 RGTR--
+*A ad 160501006 140401004 000042  00717  00752              % 18580 RGTR--
+*R 1 140401004 160501006 140401004  00717  00752            % 18580 RGTR--
+*G 070 160501006 140401004  00717  00752                    % 18580 RGTR--
+*A VE 160501006 140401004 000042  00717  00752              % 18580 RGTR--
+*I FD 160501006 140401004        0002837  00717  00752      % 18580 RGTR--
+160501006 Heffingen, Abri (Cen         00717                % 18580 RGTR--
+160501005 Heffingen, Soup       00719  00719                % 18580 RGTR--
+160602001 Ernzen, Kapell        00720  00720                % 18580 RGTR--
+160602002 Ernzen, Manzebach     00721  00721                % 18580 RGTR--
+160601007 Larochette, Pomjeesb  00722  00722                % 18580 RGTR--
+160601001 Larochette, Bleech    00724  00724                % 18580 RGTR--
+160601005 Larochette, Leedebac  00725  00725                % 18580 RGTR--
+141001003 Medernach, Op der Ga  00727  00727                % 18580 RGTR--
+141001004 Medernach, Op der La  00728  00728                % 18580 RGTR--
+140503001 Stegen, Bloen Eck     00733  00733                % 18580 RGTR--
+140503002 Stegen, Eglise        00735  00735                % 18580 RGTR--
+140503003 Stegen, Kreiz         00737  00737                % 18580 RGTR--
+140401016 Diekirch, Beim Waass  00741  00741                % 18580 RGTR--
+140401012 Diekirch, Fielserstr  00743  00743                % 18580 RGTR--
+140401009 Diekirch, Neie Kolle  00744  00744                % 18580 RGTR--
+140401006 Diekirch, Kluuster    00749  00749                % 18580 RGTR--
+140401004 Diekirch, Gare routi  00752                       % 18580 RGTR--
+*Z 18581 RGTR--                                             % 18581 RGTR--
+*L K01      140401004 140701023  00744  00753               % 18581 RGTR--
+*A cj 140401004 140701023 000042  00744  00753              % 18581 RGTR--
+*A ad 140401004 140701023 000042  00744  00753              % 18581 RGTR--
+*R 1 140701023 140401004 140701023  00744  00753            % 18581 RGTR--
+*G 050 140401004 140701023  00744  00753                    % 18581 RGTR--
+*A VE 140401004 140701023 000042  00744  00753              % 18581 RGTR--
+*I FD 140401004 140701023        0002661  00744  00753      % 18581 RGTR--
+140401004 Diekirch, Gare routi         00744                % 18581 RGTR--
+140401008 Diekirch, Lorentzwue  00745  00745                % 18581 RGTR--
+140603002 Ingeldorf, Café de l  00747  00747                % 18581 RGTR--
+140602008 Erpeldange-sur-Sûre,  00748  00748                % 18581 RGTR--
+140701001 Ettelbruck, Anc. Cli  00751  00751                % 18581 RGTR--
+140701023 Ettelbruck, LTEtt Ga  00753                       % 18581 RGTR--
+*Z 18582 RGTR--                                             % 18582 RGTR--
+*L K01      160501006 140701023  01310  01351               % 18582 RGTR--
+*A cj 160501006 140701023 000047  01310  01351              % 18582 RGTR--
+*A ad 160501006 140701023 000047  01310  01351              % 18582 RGTR--
+*R 1 140701023 160501006 140701023  01310  01351            % 18582 RGTR--
+*G 050 160501006 140701023  01310  01351                    % 18582 RGTR--
+*A VE 160501006 140701023 000047  01310  01351              % 18582 RGTR--
+*I FD 160501006 140701023        0003057  01310  01351      % 18582 RGTR--
+160501006 Heffingen, Abri (Cen         01310                % 18582 RGTR--
+160501005 Heffingen, Soup       01311  01311                % 18582 RGTR--
+160602001 Ernzen, Kapell        01313  01313                % 18582 RGTR--
+160602002 Ernzen, Manzebach     01314  01314                % 18582 RGTR--
+160601007 Larochette, Pomjeesb  01315  01315                % 18582 RGTR--
+160601001 Larochette, Bleech    01316  01316                % 18582 RGTR--
+160601005 Larochette, Leedebac  01317  01317                % 18582 RGTR--
+141001001 Medernach, Fondation  01318  01318                % 18582 RGTR--
+141001003 Medernach, Op der Ga  01319  01319                % 18582 RGTR--
+141001004 Medernach, Op der La  01320  01320                % 18582 RGTR--
+140503001 Stegen, Bloen Eck     01325  01325                % 18582 RGTR--
+140503002 Stegen, Eglise        01326  01326                % 18582 RGTR--
+140503003 Stegen, Kreiz         01328  01328                % 18582 RGTR--
+140401009 Diekirch, Neie Kolle  01335  01335                % 18582 RGTR--
+140401006 Diekirch, Kluuster    01340  01340                % 18582 RGTR--
+140401004 Diekirch, Gare routi  01342  01342                % 18582 RGTR--
+140401008 Diekirch, Lorentzwue  01343  01343                % 18582 RGTR--
+140603002 Ingeldorf, Café de l  01345  01345                % 18582 RGTR--
+140602008 Erpeldange-sur-Sûre,  01346  01346                % 18582 RGTR--
+140701001 Ettelbruck, Anc. Cli  01349  01349                % 18582 RGTR--
+140701023 Ettelbruck, LTEtt Ga  01351                       % 18582 RGTR--
+*Z 18583 RGTR--                                             % 18583 RGTR--
+*L K01      200419021 160601001  01145  01241               % 18583 RGTR--
+*A cj 200419021 160601001 000046  01145  01241              % 18583 RGTR--
+*A ad 200419021 160601001 000046  01145  01241              % 18583 RGTR--
+*R 1 160601001 200419021 160601001  01145  01241            % 18583 RGTR--
+*G 050 200419021 160601001  01145  01241                    % 18583 RGTR--
+*A VE 200419021 160601001 000046  01145  01241              % 18583 RGTR--
+*I FD 200419021 160601001        0001956  01145  01241      % 18583 RGTR--
+200419021 Limpertsberg, L.T.C.         01145                % 18583 RGTR--
+200419025 Limpertsberg, Lycée   01149  01149                % 18583 RGTR--
+200419009 Limpertsberg, Bd.P.   01152  01152                % 18583 RGTR--
+200410003 Eich, Eecher Plaz     01155  01155                % 18583 RGTR--
+200409005 Dommeldange, Contour  01156  01156                % 18583 RGTR--
+200409006 Dommeldange, Dauschb  01158  01158                % 18583 RGTR--
+201005001 Stafelter             01202  01202                % 18583 RGTR--
+180505001 Eisenborn, Am Duerf   01207  01207                % 18583 RGTR--
+160801001 Asselscheuer/Uessels  01208  01208                % 18583 RGTR--
+160806001 Klingelscheuer        01209  01209                % 18583 RGTR--
+160802003 Blaschette, r.de Wor  01210  01210                % 18583 RGTR--
+160802001 Blaschette, Op der K  01210  01210                % 18583 RGTR--
+180510001 Imbringen, Am Duerf   01214  01214                % 18583 RGTR--
+180504003 Bourglinster, Buchho  01216  01216                % 18583 RGTR--
+180504002 Bourglinster, Am Due  01216  01216                % 18583 RGTR--
+180504001 Bourglinster, Am Bri  01218  01218                % 18583 RGTR--
+180501001 Altlinster            01220  01220                % 18583 RGTR--
+180508008 Godbrange, Op der Ha  01223  01223                % 18583 RGTR--
+180507001 Godbrange, Bei der K  01224  01224                % 18583 RGTR--
+160502001 Reuland               01230  01230                % 18583 RGTR--
+160501004 Heffingen, Thommes    01233  01233                % 18583 RGTR--
+160501006 Heffingen, Abri (Cen  01234  01234                % 18583 RGTR--
+160501005 Heffingen, Soup       01236  01236                % 18583 RGTR--
+160602001 Ernzen, Kapell        01237  01237                % 18583 RGTR--
+160602002 Ernzen, Manzebach     01239  01239                % 18583 RGTR--
+160601007 Larochette, Pomjeesb  01240  01240                % 18583 RGTR--
+160601001 Larochette, Bleech    01241                       % 18583 RGTR--
+*Z 18584 RGTR--                                             % 18584 RGTR--
+*L K01      140701023 140401004  01410  01419               % 18584 RGTR--
+*A cj 140701023 140401004 000042  01410  01419              % 18584 RGTR--
+*A ad 140701023 140401004 000042  01410  01419              % 18584 RGTR--
+*R 2 140401004 140701023 140401004  01410  01419            % 18584 RGTR--
+*G 050 140701023 140401004  01410  01419                    % 18584 RGTR--
+*A VE 140701023 140401004 000042  01410  01419              % 18584 RGTR--
+*I FD 140701023 140401004        0001988  01410  01419      % 18584 RGTR--
+140701023 Ettelbruck, LTEtt Ga         01410                % 18584 RGTR--
+140701024 Ettelbruck, Poste     01411  01411                % 18584 RGTR--
+140701016 Ettelbruck, Gare      01413  01413                % 18584 RGTR--
+140602008 Erpeldange-sur-Sûre,  01415  01415                % 18584 RGTR--
+140603002 Ingeldorf, Café de l  01417  01417                % 18584 RGTR--
+140401008 Diekirch, Lorentzwue  01418  01418                % 18584 RGTR--
+140401004 Diekirch, Gare routi  01419                       % 18584 RGTR--
+*Z 18585 RGTR--                                             % 18585 RGTR--
+*L K01      140701023 140401004  01600  01610               % 18585 RGTR--
+*A cj 140701023 140401004 000047  01600  01610              % 18585 RGTR--
+*A ad 140701023 140401004 000047  01600  01610              % 18585 RGTR--
+*R 2 140401004 140701023 140401004  01600  01610            % 18585 RGTR--
+*G 050 140701023 140401004  01600  01610                    % 18585 RGTR--
+*A VE 140701023 140401004 000047  01600  01610              % 18585 RGTR--
+*I FD 140701023 140401004        0001945  01600  01610      % 18585 RGTR--
+140701023 Ettelbruck, LTEtt Ga         01600                % 18585 RGTR--
+140701024 Ettelbruck, Poste     01601  01601                % 18585 RGTR--
+140701016 Ettelbruck, Gare      01603  01603                % 18585 RGTR--
+140602008 Erpeldange-sur-Sûre,  01605  01605                % 18585 RGTR--
+140603002 Ingeldorf, Café de l  01607  01607                % 18585 RGTR--
+140401008 Diekirch, Lorentzwue  01609  01609                % 18585 RGTR--
+140401004 Diekirch, Gare routi  01610                       % 18585 RGTR--
+*Z 18586 RGTR--                                             % 18586 RGTR--
+*L K01      140701023 160501006  01410  01449               % 18586 RGTR--
+*A cj 140701023 160501006 000042  01410  01449              % 18586 RGTR--
+*A ad 140701023 160501006 000042  01410  01449              % 18586 RGTR--
+*R 2 160501006 140701023 160501006  01410  01449            % 18586 RGTR--
+*G 050 140701023 160501006  01410  01449                    % 18586 RGTR--
+*A VE 140701023 160501006 000042  01410  01449              % 18586 RGTR--
+*I FD 140701023 160501006        0003412  01410  01449      % 18586 RGTR--
+140701023 Ettelbruck, LTEtt Ga         01410                % 18586 RGTR--
+140701024 Ettelbruck, Poste     01411  01411                % 18586 RGTR--
+140701016 Ettelbruck, Gare      01413  01413                % 18586 RGTR--
+140602008 Erpeldange-sur-Sûre,  01415  01415                % 18586 RGTR--
+140603002 Ingeldorf, Café de l  01417  01417                % 18586 RGTR--
+140401008 Diekirch, Lorentzwue  01418  01418                % 18586 RGTR--
+140401004 Diekirch, Gare routi  01419  01419                % 18586 RGTR--
+140401001 Diekirch, Altersheem  01421  01421                % 18586 RGTR--
+140401009 Diekirch, Neie Kolle  01424  01424                % 18586 RGTR--
+140401012 Diekirch, Fielserstr  01426  01426                % 18586 RGTR--
+140401016 Diekirch, Beim Waass  01427  01427                % 18586 RGTR--
+140503003 Stegen, Kreiz         01432  01432                % 18586 RGTR--
+140503002 Stegen, Eglise        01433  01433                % 18586 RGTR--
+140503001 Stegen, Bloen Eck     01434  01434                % 18586 RGTR--
+141001004 Medernach, Op der La  01439  01439                % 18586 RGTR--
+141001003 Medernach, Op der Ga  01440  01440                % 18586 RGTR--
+141001001 Medernach, Fondation  01441  01441                % 18586 RGTR--
+160601005 Larochette, Leedebac  01442  01442                % 18586 RGTR--
+160601001 Larochette, Bleech    01443  01443                % 18586 RGTR--
+160601007 Larochette, Pomjeesb  01444  01444                % 18586 RGTR--
+160602002 Ernzen, Manzebach     01445  01445                % 18586 RGTR--
+160602001 Ernzen, Kapell        01446  01446                % 18586 RGTR--
+160501005 Heffingen, Soup       01448  01448                % 18586 RGTR--
+160501006 Heffingen, Abri (Cen  01449                       % 18586 RGTR--
+*Z 18587 RGTR--                                             % 18587 RGTR--
+*L K01      140701023 160501006  01600  01642               % 18587 RGTR--
+*A cj 140701023 160501006 000047  01600  01642              % 18587 RGTR--
+*A DR 140701023 160501006 000047  01600  01642              % 18587 RGTR--
+*A ad 140701023 160501006 000047  01600  01642              % 18587 RGTR--
+*R 2 160501006 140701023 160501006  01600  01642            % 18587 RGTR--
+*G 050 140701023 160501006  01600  01642                    % 18587 RGTR--
+*A VE 140701023 160501006 000047  01600  01642              % 18587 RGTR--
+*I FD 140701023 160501006        0003413  01600  01642      % 18587 RGTR--
+140701023 Ettelbruck, LTEtt Ga         01600                % 18587 RGTR--
+140701024 Ettelbruck, Poste     01601  01601                % 18587 RGTR--
+140701016 Ettelbruck, Gare      01603  01603                % 18587 RGTR--
+140602008 Erpeldange-sur-Sûre,  01605  01605                % 18587 RGTR--
+140603002 Ingeldorf, Café de l  01607  01607                % 18587 RGTR--
+140401008 Diekirch, Lorentzwue  01609  01609                % 18587 RGTR--
+140401004 Diekirch, Gare routi  01610  01610                % 18587 RGTR--
+140401001 Diekirch, Altersheem  01612  01612                % 18587 RGTR--
+140401009 Diekirch, Neie Kolle  01615  01615                % 18587 RGTR--
+140401012 Diekirch, Fielserstr  01617  01617                % 18587 RGTR--
+140401016 Diekirch, Beim Waass  01619  01619                % 18587 RGTR--
+140503003 Stegen, Kreiz         01623  01623                % 18587 RGTR--
+140503002 Stegen, Eglise        01625  01625                % 18587 RGTR--
+140503001 Stegen, Bloen Eck     01626  01626                % 18587 RGTR--
+141001004 Medernach, Op der La  01631  01631                % 18587 RGTR--
+141001003 Medernach, Op der Ga  01632  01632                % 18587 RGTR--
+141001001 Medernach, Fondation  01633  01633                % 18587 RGTR--
+160601005 Larochette, Leedebac  01635  01635                % 18587 RGTR--
+160601001 Larochette, Bleech    01636  01636                % 18587 RGTR--
+160601007 Larochette, Pomjeesb  01637  01637                % 18587 RGTR--
+160602002 Ernzen, Manzebach     01638  01638                % 18587 RGTR--
+160602001 Ernzen, Kapell        01639  01639                % 18587 RGTR--
+160501005 Heffingen, Soup       01640  01640                % 18587 RGTR--
+160501006 Heffingen, Abri (Cen  01642                       % 18587 RGTR--
+*Z 18588 RGTR--                                             % 18588 RGTR--
+*L K01      140401004 160502001  01445  01518               % 18588 RGTR--
+*A cj 140401004 160502001 000042  01445  01518              % 18588 RGTR--
+*A DR 140401004 160502001 000042  01445  01518              % 18588 RGTR--
+*A QC 140401004 160502001 000042  01445  01518              % 18588 RGTR--
+*A ad 140401004 160502001 000042  01445  01518              % 18588 RGTR--
+*R 2 160502001 140401004 160502001  01445  01518            % 18588 RGTR--
+*G 050 140401004 160502001  01445  01518                    % 18588 RGTR--
+*A VE 140401004 160502001 000042  01445  01518              % 18588 RGTR--
+*I FD 140401004 160502001        0002346  01445  01518      % 18588 RGTR--
+140401004 Diekirch, Gare routi         01445                % 18588 RGTR--
+140401001 Diekirch, Altersheem  01446  01446                % 18588 RGTR--
+140401009 Diekirch, Neie Kolle  01449  01449                % 18588 RGTR--
+140401012 Diekirch, Fielserstr  01451  01451                % 18588 RGTR--
+140401016 Diekirch, Beim Waass  01452  01452                % 18588 RGTR--
+140503003 Stegen, Kreiz         01457  01457                % 18588 RGTR--
+140503002 Stegen, Eglise        01458  01458                % 18588 RGTR--
+140503001 Stegen, Bloen Eck     01459  01459                % 18588 RGTR--
+141001004 Medernach, Op der La  01504  01504                % 18588 RGTR--
+141001003 Medernach, Op der Ga  01505  01505                % 18588 RGTR--
+141001001 Medernach, Fondation  01506  01506                % 18588 RGTR--
+160601005 Larochette, Leedebac  01507  01507                % 18588 RGTR--
+160601001 Larochette, Bleech    01508  01508                % 18588 RGTR--
+160601007 Larochette, Pomjeesb  01509  01509                % 18588 RGTR--
+160602002 Ernzen, Manzebach     01510  01510                % 18588 RGTR--
+160602001 Ernzen, Kapell        01512  01512                % 18588 RGTR--
+160501005 Heffingen, Soup       01513  01513                % 18588 RGTR--
+160501006 Heffingen, Abri (Cen  01515  01515                % 18588 RGTR--
+160501004 Heffingen, Thommes    01516  01516                % 18588 RGTR--
+160502001 Reuland               01518                       % 18588 RGTR--

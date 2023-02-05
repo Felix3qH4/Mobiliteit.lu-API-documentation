@@ -1,0 +1,64 @@
+*F 03 2
+*Z 20125 RGTR--                                             % 20125 RGTR--
+*L P21      110706011 120903023  00655  00741               % 20125 RGTR--
+*A ad 110706011 120903023 000042  00655  00741              % 20125 RGTR--
+*R 1 120903023 110706011 120903023  00655  00741            % 20125 RGTR--
+*G 050 110706011 120903023  00655  00741                    % 20125 RGTR--
+*A VE 110706011 120903023 000042  00655  00741              % 20125 RGTR--
+*I FD 110706011 120903023        0002541  00655  00741      % 20125 RGTR--
+110706011 Wemperhaardt                 00655                % 20125 RGTR--
+110605007 Huldange, Scierie     00659  00659                % 20125 RGTR--
+110605003 Huldange, Groussefel  00659  00659                % 20125 RGTR--
+110605001 Huldange, Eglise      00700  00700                % 20125 RGTR--
+110605002 Huldange, Grotte      00701  00701                % 20125 RGTR--
+110605004 Huldange, Helzt       00702  00702                % 20125 RGTR--
+110604001 Hautbellain           00705  00705                % 20125 RGTR--
+110601003 Bellain, Gare         00707  00707                % 20125 RGTR--
+110601001 Basbellain, Eglise    00708  00708                % 20125 RGTR--
+110606006 Troisvierges, Tomm    00711  00711                % 20125 RGTR--
+110606005 Troisvierges, Police  00713  00713                % 20125 RGTR--
+110823001 Emeschbach            00717  00717                % 20125 RGTR--
+120903021 Wiltz, Lann           00738  00738                % 20125 RGTR--
+120903023 Wiltz, Lycée du Nord  00741                       % 20125 RGTR--
+*Z 20126 RGTR--                                             % 20126 RGTR--
+*L P21      120903023 110706011  01615  01700               % 20126 RGTR--
+*A ad 120903023 110706011 000047  01615  01700              % 20126 RGTR--
+*R 2 110706011 120903023 110706011  01615  01700            % 20126 RGTR--
+*G 050 120903023 110706011  01615  01700                    % 20126 RGTR--
+*A VE 120903023 110706011 000047  01615  01700              % 20126 RGTR--
+*I FD 120903023 110706011        0001895  01615  01700      % 20126 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 20126 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 20126 RGTR--
+110823001 Emeschbach            01639  01639                % 20126 RGTR--
+110606005 Troisvierges, Police  01643  01643                % 20126 RGTR--
+110606006 Troisvierges, Tomm    01645  01645                % 20126 RGTR--
+110601001 Basbellain, Eglise    01648  01648                % 20126 RGTR--
+110601003 Bellain, Gare         01649  01649                % 20126 RGTR--
+110604001 Hautbellain           01650  01650                % 20126 RGTR--
+110605004 Huldange, Helzt       01653  01653                % 20126 RGTR--
+110605002 Huldange, Grotte      01654  01654                % 20126 RGTR--
+110605001 Huldange, Eglise      01655  01655                % 20126 RGTR--
+110605003 Huldange, Groussefel  01655  01655                % 20126 RGTR--
+110605007 Huldange, Scierie     01656  01656                % 20126 RGTR--
+110706011 Wemperhaardt          01700                       % 20126 RGTR--
+*Z 20127 RGTR--                                             % 20127 RGTR--
+*L P21      120903023 110706011  01208  01252               % 20127 RGTR--
+*A ad 120903023 110706011 000046  01208  01252              % 20127 RGTR--
+*R 2 110706011 120903023 110706011  01208  01252            % 20127 RGTR--
+*G 050 120903023 110706011  01208  01252                    % 20127 RGTR--
+*A VE 120903023 110706011 000046  01208  01252              % 20127 RGTR--
+*I FD 120903023 110706011        0003447  01208  01252      % 20127 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 20127 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 20127 RGTR--
+110823001 Emeschbach            01231  01231                % 20127 RGTR--
+110606005 Troisvierges, Police  01235  01235                % 20127 RGTR--
+110606006 Troisvierges, Tomm    01237  01237                % 20127 RGTR--
+110601001 Basbellain, Eglise    01240  01240                % 20127 RGTR--
+110601003 Bellain, Gare         01241  01241                % 20127 RGTR--
+110604001 Hautbellain           01242  01242                % 20127 RGTR--
+110605004 Huldange, Helzt       01245  01245                % 20127 RGTR--
+110605002 Huldange, Grotte      01246  01246                % 20127 RGTR--
+110605001 Huldange, Eglise      01247  01247                % 20127 RGTR--
+110605003 Huldange, Groussefel  01247  01247                % 20127 RGTR--
+110605007 Huldange, Scierie     01248  01248                % 20127 RGTR--
+110706011 Wemperhaardt          01252                       % 20127 RGTR--

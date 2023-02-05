@@ -1,0 +1,937 @@
+*F 03 2
+*Z 05212 RGTR--                                             % 05212 RGTR--
+*L 155      120201002 120201002  01020  01110               % 05212 RGTR--
+*R 1 120201002 120201002 120201002  01020  01110            % 05212 RGTR--
+*G 020 120201002 120201002  01020  01110                    % 05212 RGTR--
+*A VE 120201002 120201002 000314  01020  01110              % 05212 RGTR--
+*I FD 120201002 120201002        0002597  01020  01110      % 05212 RGTR--
+120201002 Esch-sur-Sûre, An de         01020                % 05212 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01021  01021                % 05212 RGTR--
+120802002 Lultzhausen, Driicht  01026  01026                % 05212 RGTR--
+120805001 Bonnal, Um Bommel     01027  01027                % 05212 RGTR--
+120801001 Insenborn, Duerf      01028  01028                % 05212 RGTR--
+120801002 Insenborn, Parking a  01029  01029                % 05212 RGTR--
+120801003 Insenborn, Wealerhaf  01032  01032                % 05212 RGTR--
+150501005 Arsdorf, Misärshaff   01037  01037                % 05212 RGTR--
+150501008 Arsdorf, Misärsbréck  01038  01038                % 05212 RGTR--
+120101004 Boulaide, Post        01042  01042                % 05212 RGTR--
+120101003 Boulaide, Camping     01043  01043                % 05212 RGTR--
+120101001 Baschleiden, Elber    01043  01043                % 05212 RGTR--
+120101002 Baschleiden, Kiirch   01044  01044                % 05212 RGTR--
+120103002 Hareler Poteau        01047  01047                % 05212 RGTR--
+120701001 Bavigne, Gemeng       01051  01051                % 05212 RGTR--
+120701002 Bavigne, Parking      01052  01052                % 05212 RGTR--
+120705002 Liefrange, Base naut  01056  01056                % 05212 RGTR--
+120705001 Liefrange, Kiirch     01057  01057                % 05212 RGTR--
+120704001 Kaundorf, An der Hie  01103  01103                % 05212 RGTR--
+120201002 Esch-sur-Sûre, An de  01110                       % 05212 RGTR--
+*Z 05213 RGTR--                                             % 05213 RGTR--
+*L 155      120201002 120201002  01120  01210               % 05213 RGTR--
+*R 1 120201002 120201002 120201002  01120  01210            % 05213 RGTR--
+*G 020 120201002 120201002  01120  01210                    % 05213 RGTR--
+*A VE 120201002 120201002 000314  01120  01210              % 05213 RGTR--
+*I FD 120201002 120201002        0002606  01120  01210      % 05213 RGTR--
+120201002 Esch-sur-Sûre, An de         01120                % 05213 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01121  01121                % 05213 RGTR--
+120802002 Lultzhausen, Driicht  01126  01126                % 05213 RGTR--
+120805001 Bonnal, Um Bommel     01127  01127                % 05213 RGTR--
+120801001 Insenborn, Duerf      01128  01128                % 05213 RGTR--
+120801002 Insenborn, Parking a  01129  01129                % 05213 RGTR--
+120801003 Insenborn, Wealerhaf  01132  01132                % 05213 RGTR--
+150501005 Arsdorf, Misärshaff   01137  01137                % 05213 RGTR--
+150501008 Arsdorf, Misärsbréck  01138  01138                % 05213 RGTR--
+120101004 Boulaide, Post        01142  01142                % 05213 RGTR--
+120101003 Boulaide, Camping     01143  01143                % 05213 RGTR--
+120101001 Baschleiden, Elber    01143  01143                % 05213 RGTR--
+120101002 Baschleiden, Kiirch   01144  01144                % 05213 RGTR--
+120103002 Hareler Poteau        01147  01147                % 05213 RGTR--
+120701001 Bavigne, Gemeng       01151  01151                % 05213 RGTR--
+120701002 Bavigne, Parking      01152  01152                % 05213 RGTR--
+120705002 Liefrange, Base naut  01156  01156                % 05213 RGTR--
+120705001 Liefrange, Kiirch     01157  01157                % 05213 RGTR--
+120704001 Kaundorf, An der Hie  01203  01203                % 05213 RGTR--
+120201002 Esch-sur-Sûre, An de  01210                       % 05213 RGTR--
+*Z 05214 RGTR--                                             % 05214 RGTR--
+*L 155      120201002 120201002  01220  01310               % 05214 RGTR--
+*R 1 120201002 120201002 120201002  01220  01310            % 05214 RGTR--
+*G 020 120201002 120201002  01220  01310                    % 05214 RGTR--
+*A VE 120201002 120201002 000314  01220  01310              % 05214 RGTR--
+*I FD 120201002 120201002        0002598  01220  01310      % 05214 RGTR--
+120201002 Esch-sur-Sûre, An de         01220                % 05214 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01221  01221                % 05214 RGTR--
+120802002 Lultzhausen, Driicht  01226  01226                % 05214 RGTR--
+120805001 Bonnal, Um Bommel     01227  01227                % 05214 RGTR--
+120801001 Insenborn, Duerf      01228  01228                % 05214 RGTR--
+120801002 Insenborn, Parking a  01229  01229                % 05214 RGTR--
+120801003 Insenborn, Wealerhaf  01232  01232                % 05214 RGTR--
+150501005 Arsdorf, Misärshaff   01237  01237                % 05214 RGTR--
+150501008 Arsdorf, Misärsbréck  01238  01238                % 05214 RGTR--
+120101004 Boulaide, Post        01242  01242                % 05214 RGTR--
+120101003 Boulaide, Camping     01243  01243                % 05214 RGTR--
+120101001 Baschleiden, Elber    01243  01243                % 05214 RGTR--
+120101002 Baschleiden, Kiirch   01244  01244                % 05214 RGTR--
+120103002 Hareler Poteau        01247  01247                % 05214 RGTR--
+120701001 Bavigne, Gemeng       01251  01251                % 05214 RGTR--
+120701002 Bavigne, Parking      01252  01252                % 05214 RGTR--
+120705002 Liefrange, Base naut  01256  01256                % 05214 RGTR--
+120705001 Liefrange, Kiirch     01257  01257                % 05214 RGTR--
+120704001 Kaundorf, An der Hie  01303  01303                % 05214 RGTR--
+120201002 Esch-sur-Sûre, An de  01310                       % 05214 RGTR--
+*Z 05215 RGTR--                                             % 05215 RGTR--
+*L 155      120201002 120201002  01320  01410               % 05215 RGTR--
+*R 1 120201002 120201002 120201002  01320  01410            % 05215 RGTR--
+*G 020 120201002 120201002  01320  01410                    % 05215 RGTR--
+*A VE 120201002 120201002 000314  01320  01410              % 05215 RGTR--
+*I FD 120201002 120201002        0002607  01320  01410      % 05215 RGTR--
+120201002 Esch-sur-Sûre, An de         01320                % 05215 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01321  01321                % 05215 RGTR--
+120802002 Lultzhausen, Driicht  01326  01326                % 05215 RGTR--
+120805001 Bonnal, Um Bommel     01327  01327                % 05215 RGTR--
+120801001 Insenborn, Duerf      01328  01328                % 05215 RGTR--
+120801002 Insenborn, Parking a  01329  01329                % 05215 RGTR--
+120801003 Insenborn, Wealerhaf  01332  01332                % 05215 RGTR--
+150501005 Arsdorf, Misärshaff   01337  01337                % 05215 RGTR--
+150501008 Arsdorf, Misärsbréck  01338  01338                % 05215 RGTR--
+120101004 Boulaide, Post        01342  01342                % 05215 RGTR--
+120101003 Boulaide, Camping     01343  01343                % 05215 RGTR--
+120101001 Baschleiden, Elber    01343  01343                % 05215 RGTR--
+120101002 Baschleiden, Kiirch   01344  01344                % 05215 RGTR--
+120103002 Hareler Poteau        01347  01347                % 05215 RGTR--
+120701001 Bavigne, Gemeng       01351  01351                % 05215 RGTR--
+120701002 Bavigne, Parking      01352  01352                % 05215 RGTR--
+120705002 Liefrange, Base naut  01356  01356                % 05215 RGTR--
+120705001 Liefrange, Kiirch     01357  01357                % 05215 RGTR--
+120704001 Kaundorf, An der Hie  01403  01403                % 05215 RGTR--
+120201002 Esch-sur-Sûre, An de  01410                       % 05215 RGTR--
+*Z 05216 RGTR--                                             % 05216 RGTR--
+*L 155      120201002 120201002  01420  01510               % 05216 RGTR--
+*R 1 120201002 120201002 120201002  01420  01510            % 05216 RGTR--
+*G 020 120201002 120201002  01420  01510                    % 05216 RGTR--
+*A VE 120201002 120201002 000314  01420  01510              % 05216 RGTR--
+*I FD 120201002 120201002        0002599  01420  01510      % 05216 RGTR--
+120201002 Esch-sur-Sûre, An de         01420                % 05216 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01421  01421                % 05216 RGTR--
+120802002 Lultzhausen, Driicht  01426  01426                % 05216 RGTR--
+120805001 Bonnal, Um Bommel     01427  01427                % 05216 RGTR--
+120801001 Insenborn, Duerf      01428  01428                % 05216 RGTR--
+120801002 Insenborn, Parking a  01429  01429                % 05216 RGTR--
+120801003 Insenborn, Wealerhaf  01432  01432                % 05216 RGTR--
+150501005 Arsdorf, Misärshaff   01437  01437                % 05216 RGTR--
+150501008 Arsdorf, Misärsbréck  01438  01438                % 05216 RGTR--
+120101004 Boulaide, Post        01442  01442                % 05216 RGTR--
+120101003 Boulaide, Camping     01443  01443                % 05216 RGTR--
+120101001 Baschleiden, Elber    01443  01443                % 05216 RGTR--
+120101002 Baschleiden, Kiirch   01444  01444                % 05216 RGTR--
+120103002 Hareler Poteau        01447  01447                % 05216 RGTR--
+120701001 Bavigne, Gemeng       01451  01451                % 05216 RGTR--
+120701002 Bavigne, Parking      01452  01452                % 05216 RGTR--
+120705002 Liefrange, Base naut  01456  01456                % 05216 RGTR--
+120705001 Liefrange, Kiirch     01457  01457                % 05216 RGTR--
+120704001 Kaundorf, An der Hie  01503  01503                % 05216 RGTR--
+120201002 Esch-sur-Sûre, An de  01510                       % 05216 RGTR--
+*Z 05217 RGTR--                                             % 05217 RGTR--
+*L 155      120201002 120201002  01520  01610               % 05217 RGTR--
+*R 1 120201002 120201002 120201002  01520  01610            % 05217 RGTR--
+*G 020 120201002 120201002  01520  01610                    % 05217 RGTR--
+*A VE 120201002 120201002 000314  01520  01610              % 05217 RGTR--
+*I FD 120201002 120201002        0002608  01520  01610      % 05217 RGTR--
+120201002 Esch-sur-Sûre, An de         01520                % 05217 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01521  01521                % 05217 RGTR--
+120802002 Lultzhausen, Driicht  01526  01526                % 05217 RGTR--
+120805001 Bonnal, Um Bommel     01527  01527                % 05217 RGTR--
+120801001 Insenborn, Duerf      01528  01528                % 05217 RGTR--
+120801002 Insenborn, Parking a  01529  01529                % 05217 RGTR--
+120801003 Insenborn, Wealerhaf  01532  01532                % 05217 RGTR--
+150501005 Arsdorf, Misärshaff   01537  01537                % 05217 RGTR--
+150501008 Arsdorf, Misärsbréck  01538  01538                % 05217 RGTR--
+120101004 Boulaide, Post        01542  01542                % 05217 RGTR--
+120101003 Boulaide, Camping     01543  01543                % 05217 RGTR--
+120101001 Baschleiden, Elber    01543  01543                % 05217 RGTR--
+120101002 Baschleiden, Kiirch   01544  01544                % 05217 RGTR--
+120103002 Hareler Poteau        01547  01547                % 05217 RGTR--
+120701001 Bavigne, Gemeng       01551  01551                % 05217 RGTR--
+120701002 Bavigne, Parking      01552  01552                % 05217 RGTR--
+120705002 Liefrange, Base naut  01556  01556                % 05217 RGTR--
+120705001 Liefrange, Kiirch     01557  01557                % 05217 RGTR--
+120704001 Kaundorf, An der Hie  01603  01603                % 05217 RGTR--
+120201002 Esch-sur-Sûre, An de  01610                       % 05217 RGTR--
+*Z 05218 RGTR--                                             % 05218 RGTR--
+*L 155      120201002 120201002  01620  01713               % 05218 RGTR--
+*R 1 120201002 120201002 120201002  01620  01713            % 05218 RGTR--
+*G 020 120201002 120201002  01620  01713                    % 05218 RGTR--
+*A VE 120201002 120201002 000314  01620  01713              % 05218 RGTR--
+*I FD 120201002 120201002        0002612  01620  01713      % 05218 RGTR--
+120201002 Esch-sur-Sûre, An de         01620                % 05218 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01621  01621                % 05218 RGTR--
+120802002 Lultzhausen, Driicht  01626  01626                % 05218 RGTR--
+120805001 Bonnal, Um Bommel     01628  01628                % 05218 RGTR--
+120801001 Insenborn, Duerf      01629  01629                % 05218 RGTR--
+120801002 Insenborn, Parking a  01630  01630                % 05218 RGTR--
+120801003 Insenborn, Wealerhaf  01633  01633                % 05218 RGTR--
+150501005 Arsdorf, Misärshaff   01639  01639                % 05218 RGTR--
+150501008 Arsdorf, Misärsbréck  01640  01640                % 05218 RGTR--
+120101004 Boulaide, Post        01644  01644                % 05218 RGTR--
+120101003 Boulaide, Camping     01644  01644                % 05218 RGTR--
+120101001 Baschleiden, Elber    01645  01645                % 05218 RGTR--
+120101002 Baschleiden, Kiirch   01646  01646                % 05218 RGTR--
+120103002 Hareler Poteau        01648  01648                % 05218 RGTR--
+120701001 Bavigne, Gemeng       01652  01652                % 05218 RGTR--
+120701002 Bavigne, Parking      01653  01653                % 05218 RGTR--
+120705002 Liefrange, Base naut  01657  01657                % 05218 RGTR--
+120705001 Liefrange, Kiirch     01658  01658                % 05218 RGTR--
+120704001 Kaundorf, An der Hie  01705  01705                % 05218 RGTR--
+120201002 Esch-sur-Sûre, An de  01713                       % 05218 RGTR--
+*Z 05219 RGTR--                                             % 05219 RGTR--
+*L 155      120201002 120201002  01720  01813               % 05219 RGTR--
+*R 1 120201002 120201002 120201002  01720  01813            % 05219 RGTR--
+*G 020 120201002 120201002  01720  01813                    % 05219 RGTR--
+*A VE 120201002 120201002 000314  01720  01813              % 05219 RGTR--
+*I FD 120201002 120201002        0002024  01720  01813      % 05219 RGTR--
+120201002 Esch-sur-Sûre, An de         01720                % 05219 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01721  01721                % 05219 RGTR--
+120802002 Lultzhausen, Driicht  01726  01726                % 05219 RGTR--
+120805001 Bonnal, Um Bommel     01728  01728                % 05219 RGTR--
+120801001 Insenborn, Duerf      01729  01729                % 05219 RGTR--
+120801002 Insenborn, Parking a  01730  01730                % 05219 RGTR--
+120801003 Insenborn, Wealerhaf  01733  01733                % 05219 RGTR--
+150501005 Arsdorf, Misärshaff   01739  01739                % 05219 RGTR--
+150501008 Arsdorf, Misärsbréck  01740  01740                % 05219 RGTR--
+120101004 Boulaide, Post        01744  01744                % 05219 RGTR--
+120101003 Boulaide, Camping     01744  01744                % 05219 RGTR--
+120101001 Baschleiden, Elber    01745  01745                % 05219 RGTR--
+120101002 Baschleiden, Kiirch   01746  01746                % 05219 RGTR--
+120103002 Hareler Poteau        01748  01748                % 05219 RGTR--
+120701001 Bavigne, Gemeng       01752  01752                % 05219 RGTR--
+120701002 Bavigne, Parking      01753  01753                % 05219 RGTR--
+120705002 Liefrange, Base naut  01757  01757                % 05219 RGTR--
+120705001 Liefrange, Kiirch     01758  01758                % 05219 RGTR--
+120704001 Kaundorf, An der Hie  01805  01805                % 05219 RGTR--
+120201002 Esch-sur-Sûre, An de  01813                       % 05219 RGTR--
+*Z 05220 RGTR--                                             % 05220 RGTR--
+*L 155      120201002 120201002  01820  01913               % 05220 RGTR--
+*R 1 120201002 120201002 120201002  01820  01913            % 05220 RGTR--
+*G 020 120201002 120201002  01820  01913                    % 05220 RGTR--
+*A VE 120201002 120201002 000314  01820  01913              % 05220 RGTR--
+*I FD 120201002 120201002        0002025  01820  01913      % 05220 RGTR--
+120201002 Esch-sur-Sûre, An de         01820                % 05220 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01821  01821                % 05220 RGTR--
+120802002 Lultzhausen, Driicht  01826  01826                % 05220 RGTR--
+120805001 Bonnal, Um Bommel     01828  01828                % 05220 RGTR--
+120801001 Insenborn, Duerf      01829  01829                % 05220 RGTR--
+120801002 Insenborn, Parking a  01830  01830                % 05220 RGTR--
+120801003 Insenborn, Wealerhaf  01833  01833                % 05220 RGTR--
+150501005 Arsdorf, Misärshaff   01839  01839                % 05220 RGTR--
+150501008 Arsdorf, Misärsbréck  01840  01840                % 05220 RGTR--
+120101004 Boulaide, Post        01844  01844                % 05220 RGTR--
+120101003 Boulaide, Camping     01844  01844                % 05220 RGTR--
+120101001 Baschleiden, Elber    01845  01845                % 05220 RGTR--
+120101002 Baschleiden, Kiirch   01846  01846                % 05220 RGTR--
+120103002 Hareler Poteau        01848  01848                % 05220 RGTR--
+120701001 Bavigne, Gemeng       01852  01852                % 05220 RGTR--
+120701002 Bavigne, Parking      01853  01853                % 05220 RGTR--
+120705002 Liefrange, Base naut  01857  01857                % 05220 RGTR--
+120705001 Liefrange, Kiirch     01858  01858                % 05220 RGTR--
+120704001 Kaundorf, An der Hie  01905  01905                % 05220 RGTR--
+120201002 Esch-sur-Sûre, An de  01913                       % 05220 RGTR--
+*Z 05221 RGTR--                                             % 05221 RGTR--
+*L 155      120201002 120201002  01025  01119               % 05221 RGTR--
+*R 2 120201002 120201002 120201002  01025  01119            % 05221 RGTR--
+*G 020 120201002 120201002  01025  01119                    % 05221 RGTR--
+*A VE 120201002 120201002 000314  01025  01119              % 05221 RGTR--
+*I FD 120201002 120201002        0002421  01025  01119      % 05221 RGTR--
+120201002 Esch-sur-Sûre, An de         01025                % 05221 RGTR--
+120704001 Kaundorf, An der Hie  01032  01032                % 05221 RGTR--
+120705002 Liefrange, Base naut  01037  01037                % 05221 RGTR--
+120705001 Liefrange, Kiirch     01038  01038                % 05221 RGTR--
+120701002 Bavigne, Parking      01044  01044                % 05221 RGTR--
+120701001 Bavigne, Gemeng       01045  01045                % 05221 RGTR--
+120103002 Hareler Poteau        01049  01049                % 05221 RGTR--
+120101002 Baschleiden, Kiirch   01051  01051                % 05221 RGTR--
+120101001 Baschleiden, Elber    01051  01051                % 05221 RGTR--
+120101003 Boulaide, Camping     01052  01052                % 05221 RGTR--
+120101004 Boulaide, Post        01053  01053                % 05221 RGTR--
+150501008 Arsdorf, Misärsbréck  01057  01057                % 05221 RGTR--
+150501005 Arsdorf, Misärshaff   01058  01058                % 05221 RGTR--
+120801003 Insenborn, Wealerhaf  01103  01103                % 05221 RGTR--
+120805001 Bonnal, Um Bommel     01107  01107                % 05221 RGTR--
+120801001 Insenborn, Duerf      01108  01108                % 05221 RGTR--
+120801002 Insenborn, Parking a  01109  01109                % 05221 RGTR--
+120802002 Lultzhausen, Driicht  01112  01112                % 05221 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01117  01117                % 05221 RGTR--
+120201002 Esch-sur-Sûre, An de  01119                       % 05221 RGTR--
+*Z 05222 RGTR--                                             % 05222 RGTR--
+*L 155      120201002 120201002  01125  01219               % 05222 RGTR--
+*R 2 120201002 120201002 120201002  01125  01219            % 05222 RGTR--
+*G 020 120201002 120201002  01125  01219                    % 05222 RGTR--
+*A VE 120201002 120201002 000314  01125  01219              % 05222 RGTR--
+*I FD 120201002 120201002        0002430  01125  01219      % 05222 RGTR--
+120201002 Esch-sur-Sûre, An de         01125                % 05222 RGTR--
+120704001 Kaundorf, An der Hie  01132  01132                % 05222 RGTR--
+120705002 Liefrange, Base naut  01137  01137                % 05222 RGTR--
+120705001 Liefrange, Kiirch     01138  01138                % 05222 RGTR--
+120701002 Bavigne, Parking      01144  01144                % 05222 RGTR--
+120701001 Bavigne, Gemeng       01145  01145                % 05222 RGTR--
+120103002 Hareler Poteau        01149  01149                % 05222 RGTR--
+120101002 Baschleiden, Kiirch   01151  01151                % 05222 RGTR--
+120101001 Baschleiden, Elber    01151  01151                % 05222 RGTR--
+120101003 Boulaide, Camping     01152  01152                % 05222 RGTR--
+120101004 Boulaide, Post        01153  01153                % 05222 RGTR--
+150501008 Arsdorf, Misärsbréck  01157  01157                % 05222 RGTR--
+150501005 Arsdorf, Misärshaff   01158  01158                % 05222 RGTR--
+120801003 Insenborn, Wealerhaf  01203  01203                % 05222 RGTR--
+120805001 Bonnal, Um Bommel     01207  01207                % 05222 RGTR--
+120801001 Insenborn, Duerf      01208  01208                % 05222 RGTR--
+120801002 Insenborn, Parking a  01209  01209                % 05222 RGTR--
+120802002 Lultzhausen, Driicht  01212  01212                % 05222 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01217  01217                % 05222 RGTR--
+120201002 Esch-sur-Sûre, An de  01219                       % 05222 RGTR--
+*Z 05223 RGTR--                                             % 05223 RGTR--
+*L 155      120201002 120201002  01225  01319               % 05223 RGTR--
+*R 2 120201002 120201002 120201002  01225  01319            % 05223 RGTR--
+*G 020 120201002 120201002  01225  01319                    % 05223 RGTR--
+*A VE 120201002 120201002 000314  01225  01319              % 05223 RGTR--
+*I FD 120201002 120201002        0002422  01225  01319      % 05223 RGTR--
+120201002 Esch-sur-Sûre, An de         01225                % 05223 RGTR--
+120704001 Kaundorf, An der Hie  01232  01232                % 05223 RGTR--
+120705002 Liefrange, Base naut  01237  01237                % 05223 RGTR--
+120705001 Liefrange, Kiirch     01238  01238                % 05223 RGTR--
+120701002 Bavigne, Parking      01244  01244                % 05223 RGTR--
+120701001 Bavigne, Gemeng       01245  01245                % 05223 RGTR--
+120103002 Hareler Poteau        01249  01249                % 05223 RGTR--
+120101002 Baschleiden, Kiirch   01251  01251                % 05223 RGTR--
+120101001 Baschleiden, Elber    01251  01251                % 05223 RGTR--
+120101003 Boulaide, Camping     01252  01252                % 05223 RGTR--
+120101004 Boulaide, Post        01253  01253                % 05223 RGTR--
+150501008 Arsdorf, Misärsbréck  01257  01257                % 05223 RGTR--
+150501005 Arsdorf, Misärshaff   01258  01258                % 05223 RGTR--
+120801003 Insenborn, Wealerhaf  01303  01303                % 05223 RGTR--
+120805001 Bonnal, Um Bommel     01307  01307                % 05223 RGTR--
+120801001 Insenborn, Duerf      01308  01308                % 05223 RGTR--
+120801002 Insenborn, Parking a  01309  01309                % 05223 RGTR--
+120802002 Lultzhausen, Driicht  01312  01312                % 05223 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01317  01317                % 05223 RGTR--
+120201002 Esch-sur-Sûre, An de  01319                       % 05223 RGTR--
+*Z 05224 RGTR--                                             % 05224 RGTR--
+*L 155      120201002 120201002  01325  01419               % 05224 RGTR--
+*R 2 120201002 120201002 120201002  01325  01419            % 05224 RGTR--
+*G 020 120201002 120201002  01325  01419                    % 05224 RGTR--
+*A VE 120201002 120201002 000314  01325  01419              % 05224 RGTR--
+*I FD 120201002 120201002        0002431  01325  01419      % 05224 RGTR--
+120201002 Esch-sur-Sûre, An de         01325                % 05224 RGTR--
+120704001 Kaundorf, An der Hie  01332  01332                % 05224 RGTR--
+120705002 Liefrange, Base naut  01337  01337                % 05224 RGTR--
+120705001 Liefrange, Kiirch     01338  01338                % 05224 RGTR--
+120701002 Bavigne, Parking      01344  01344                % 05224 RGTR--
+120701001 Bavigne, Gemeng       01345  01345                % 05224 RGTR--
+120103002 Hareler Poteau        01349  01349                % 05224 RGTR--
+120101002 Baschleiden, Kiirch   01351  01351                % 05224 RGTR--
+120101001 Baschleiden, Elber    01351  01351                % 05224 RGTR--
+120101003 Boulaide, Camping     01352  01352                % 05224 RGTR--
+120101004 Boulaide, Post        01353  01353                % 05224 RGTR--
+150501008 Arsdorf, Misärsbréck  01357  01357                % 05224 RGTR--
+150501005 Arsdorf, Misärshaff   01358  01358                % 05224 RGTR--
+120801003 Insenborn, Wealerhaf  01403  01403                % 05224 RGTR--
+120805001 Bonnal, Um Bommel     01407  01407                % 05224 RGTR--
+120801001 Insenborn, Duerf      01408  01408                % 05224 RGTR--
+120801002 Insenborn, Parking a  01409  01409                % 05224 RGTR--
+120802002 Lultzhausen, Driicht  01412  01412                % 05224 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01417  01417                % 05224 RGTR--
+120201002 Esch-sur-Sûre, An de  01419                       % 05224 RGTR--
+*Z 05225 RGTR--                                             % 05225 RGTR--
+*L 155      120201002 120201002  01425  01519               % 05225 RGTR--
+*R 2 120201002 120201002 120201002  01425  01519            % 05225 RGTR--
+*G 020 120201002 120201002  01425  01519                    % 05225 RGTR--
+*A VE 120201002 120201002 000314  01425  01519              % 05225 RGTR--
+*I FD 120201002 120201002        0002423  01425  01519      % 05225 RGTR--
+120201002 Esch-sur-Sûre, An de         01425                % 05225 RGTR--
+120704001 Kaundorf, An der Hie  01432  01432                % 05225 RGTR--
+120705002 Liefrange, Base naut  01437  01437                % 05225 RGTR--
+120705001 Liefrange, Kiirch     01438  01438                % 05225 RGTR--
+120701002 Bavigne, Parking      01444  01444                % 05225 RGTR--
+120701001 Bavigne, Gemeng       01445  01445                % 05225 RGTR--
+120103002 Hareler Poteau        01449  01449                % 05225 RGTR--
+120101002 Baschleiden, Kiirch   01451  01451                % 05225 RGTR--
+120101001 Baschleiden, Elber    01451  01451                % 05225 RGTR--
+120101003 Boulaide, Camping     01452  01452                % 05225 RGTR--
+120101004 Boulaide, Post        01453  01453                % 05225 RGTR--
+150501008 Arsdorf, Misärsbréck  01457  01457                % 05225 RGTR--
+150501005 Arsdorf, Misärshaff   01458  01458                % 05225 RGTR--
+120801003 Insenborn, Wealerhaf  01503  01503                % 05225 RGTR--
+120805001 Bonnal, Um Bommel     01507  01507                % 05225 RGTR--
+120801001 Insenborn, Duerf      01508  01508                % 05225 RGTR--
+120801002 Insenborn, Parking a  01509  01509                % 05225 RGTR--
+120802002 Lultzhausen, Driicht  01512  01512                % 05225 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01517  01517                % 05225 RGTR--
+120201002 Esch-sur-Sûre, An de  01519                       % 05225 RGTR--
+*Z 05226 RGTR--                                             % 05226 RGTR--
+*L 155      120201002 120201002  01525  01619               % 05226 RGTR--
+*R 2 120201002 120201002 120201002  01525  01619            % 05226 RGTR--
+*G 020 120201002 120201002  01525  01619                    % 05226 RGTR--
+*A VE 120201002 120201002 000314  01525  01619              % 05226 RGTR--
+*I FD 120201002 120201002        0002432  01525  01619      % 05226 RGTR--
+120201002 Esch-sur-Sûre, An de         01525                % 05226 RGTR--
+120704001 Kaundorf, An der Hie  01532  01532                % 05226 RGTR--
+120705002 Liefrange, Base naut  01537  01537                % 05226 RGTR--
+120705001 Liefrange, Kiirch     01538  01538                % 05226 RGTR--
+120701002 Bavigne, Parking      01544  01544                % 05226 RGTR--
+120701001 Bavigne, Gemeng       01545  01545                % 05226 RGTR--
+120103002 Hareler Poteau        01549  01549                % 05226 RGTR--
+120101002 Baschleiden, Kiirch   01551  01551                % 05226 RGTR--
+120101001 Baschleiden, Elber    01551  01551                % 05226 RGTR--
+120101003 Boulaide, Camping     01552  01552                % 05226 RGTR--
+120101004 Boulaide, Post        01553  01553                % 05226 RGTR--
+150501008 Arsdorf, Misärsbréck  01557  01557                % 05226 RGTR--
+150501005 Arsdorf, Misärshaff   01558  01558                % 05226 RGTR--
+120801003 Insenborn, Wealerhaf  01603  01603                % 05226 RGTR--
+120805001 Bonnal, Um Bommel     01607  01607                % 05226 RGTR--
+120801001 Insenborn, Duerf      01608  01608                % 05226 RGTR--
+120801002 Insenborn, Parking a  01609  01609                % 05226 RGTR--
+120802002 Lultzhausen, Driicht  01612  01612                % 05226 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01617  01617                % 05226 RGTR--
+120201002 Esch-sur-Sûre, An de  01619                       % 05226 RGTR--
+*Z 05227 RGTR--                                             % 05227 RGTR--
+*L 155      120201002 120201002  01625  01719               % 05227 RGTR--
+*R 2 120201002 120201002 120201002  01625  01719            % 05227 RGTR--
+*G 020 120201002 120201002  01625  01719                    % 05227 RGTR--
+*A VE 120201002 120201002 000314  01625  01719              % 05227 RGTR--
+*I FD 120201002 120201002        0002435  01625  01719      % 05227 RGTR--
+120201002 Esch-sur-Sûre, An de         01625                % 05227 RGTR--
+120704001 Kaundorf, An der Hie  01632  01632                % 05227 RGTR--
+120705002 Liefrange, Base naut  01637  01637                % 05227 RGTR--
+120705001 Liefrange, Kiirch     01638  01638                % 05227 RGTR--
+120701002 Bavigne, Parking      01644  01644                % 05227 RGTR--
+120701001 Bavigne, Gemeng       01645  01645                % 05227 RGTR--
+120103002 Hareler Poteau        01649  01649                % 05227 RGTR--
+120101002 Baschleiden, Kiirch   01651  01651                % 05227 RGTR--
+120101001 Baschleiden, Elber    01651  01651                % 05227 RGTR--
+120101003 Boulaide, Camping     01652  01652                % 05227 RGTR--
+120101004 Boulaide, Post        01653  01653                % 05227 RGTR--
+150501008 Arsdorf, Misärsbréck  01657  01657                % 05227 RGTR--
+150501005 Arsdorf, Misärshaff   01658  01658                % 05227 RGTR--
+120801003 Insenborn, Wealerhaf  01703  01703                % 05227 RGTR--
+120805001 Bonnal, Um Bommel     01707  01707                % 05227 RGTR--
+120801001 Insenborn, Duerf      01708  01708                % 05227 RGTR--
+120801002 Insenborn, Parking a  01709  01709                % 05227 RGTR--
+120802002 Lultzhausen, Driicht  01712  01712                % 05227 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01717  01717                % 05227 RGTR--
+120201002 Esch-sur-Sûre, An de  01719                       % 05227 RGTR--
+*Z 05228 RGTR--                                             % 05228 RGTR--
+*L 155      120201002 120201002  01725  01819               % 05228 RGTR--
+*R 2 120201002 120201002 120201002  01725  01819            % 05228 RGTR--
+*G 020 120201002 120201002  01725  01819                    % 05228 RGTR--
+*A VE 120201002 120201002 000314  01725  01819              % 05228 RGTR--
+*I FD 120201002 120201002        0001999  01725  01819      % 05228 RGTR--
+120201002 Esch-sur-Sûre, An de         01725                % 05228 RGTR--
+120704001 Kaundorf, An der Hie  01732  01732                % 05228 RGTR--
+120705002 Liefrange, Base naut  01737  01737                % 05228 RGTR--
+120705001 Liefrange, Kiirch     01738  01738                % 05228 RGTR--
+120701002 Bavigne, Parking      01744  01744                % 05228 RGTR--
+120701001 Bavigne, Gemeng       01745  01745                % 05228 RGTR--
+120103002 Hareler Poteau        01749  01749                % 05228 RGTR--
+120101002 Baschleiden, Kiirch   01751  01751                % 05228 RGTR--
+120101001 Baschleiden, Elber    01751  01751                % 05228 RGTR--
+120101003 Boulaide, Camping     01752  01752                % 05228 RGTR--
+120101004 Boulaide, Post        01753  01753                % 05228 RGTR--
+150501008 Arsdorf, Misärsbréck  01757  01757                % 05228 RGTR--
+150501005 Arsdorf, Misärshaff   01758  01758                % 05228 RGTR--
+120801003 Insenborn, Wealerhaf  01803  01803                % 05228 RGTR--
+120805001 Bonnal, Um Bommel     01807  01807                % 05228 RGTR--
+120801001 Insenborn, Duerf      01808  01808                % 05228 RGTR--
+120801002 Insenborn, Parking a  01809  01809                % 05228 RGTR--
+120802002 Lultzhausen, Driicht  01812  01812                % 05228 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01817  01817                % 05228 RGTR--
+120201002 Esch-sur-Sûre, An de  01819                       % 05228 RGTR--
+*Z 05229 RGTR--                                             % 05229 RGTR--
+*L 155      120201002 120201002  01825  01919               % 05229 RGTR--
+*R 2 120201002 120201002 120201002  01825  01919            % 05229 RGTR--
+*G 020 120201002 120201002  01825  01919                    % 05229 RGTR--
+*A VE 120201002 120201002 000314  01825  01919              % 05229 RGTR--
+*I FD 120201002 120201002        0002424  01825  01919      % 05229 RGTR--
+120201002 Esch-sur-Sûre, An de         01825                % 05229 RGTR--
+120704001 Kaundorf, An der Hie  01832  01832                % 05229 RGTR--
+120705002 Liefrange, Base naut  01837  01837                % 05229 RGTR--
+120705001 Liefrange, Kiirch     01838  01838                % 05229 RGTR--
+120701002 Bavigne, Parking      01844  01844                % 05229 RGTR--
+120701001 Bavigne, Gemeng       01845  01845                % 05229 RGTR--
+120103002 Hareler Poteau        01849  01849                % 05229 RGTR--
+120101002 Baschleiden, Kiirch   01851  01851                % 05229 RGTR--
+120101001 Baschleiden, Elber    01851  01851                % 05229 RGTR--
+120101003 Boulaide, Camping     01852  01852                % 05229 RGTR--
+120101004 Boulaide, Post        01853  01853                % 05229 RGTR--
+150501008 Arsdorf, Misärsbréck  01857  01857                % 05229 RGTR--
+150501005 Arsdorf, Misärshaff   01858  01858                % 05229 RGTR--
+120801003 Insenborn, Wealerhaf  01903  01903                % 05229 RGTR--
+120805001 Bonnal, Um Bommel     01907  01907                % 05229 RGTR--
+120801001 Insenborn, Duerf      01908  01908                % 05229 RGTR--
+120801002 Insenborn, Parking a  01909  01909                % 05229 RGTR--
+120802002 Lultzhausen, Driicht  01912  01912                % 05229 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01917  01917                % 05229 RGTR--
+120201002 Esch-sur-Sûre, An de  01919                       % 05229 RGTR--
+*Z 05230 RGTR--                                             % 05230 RGTR--
+*L 155      120201002 120201002  01020  01110               % 05230 RGTR--
+*R 1 120201002 120201002 120201002  01020  01110            % 05230 RGTR--
+*G 020 120201002 120201002  01020  01110                    % 05230 RGTR--
+*A VE 120201002 120201002 000040  01020  01110              % 05230 RGTR--
+*I FD 120201002 120201002        0002597  01020  01110      % 05230 RGTR--
+120201002 Esch-sur-Sûre, An de         01020                % 05230 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01021  01021                % 05230 RGTR--
+120802002 Lultzhausen, Driicht  01026  01026                % 05230 RGTR--
+120805001 Bonnal, Um Bommel     01027  01027                % 05230 RGTR--
+120801001 Insenborn, Duerf      01028  01028                % 05230 RGTR--
+120801002 Insenborn, Parking a  01029  01029                % 05230 RGTR--
+120801003 Insenborn, Wealerhaf  01032  01032                % 05230 RGTR--
+150501005 Arsdorf, Misärshaff   01037  01037                % 05230 RGTR--
+150501008 Arsdorf, Misärsbréck  01038  01038                % 05230 RGTR--
+120101004 Boulaide, Post        01042  01042                % 05230 RGTR--
+120101003 Boulaide, Camping     01043  01043                % 05230 RGTR--
+120101001 Baschleiden, Elber    01043  01043                % 05230 RGTR--
+120101002 Baschleiden, Kiirch   01044  01044                % 05230 RGTR--
+120103002 Hareler Poteau        01047  01047                % 05230 RGTR--
+120701001 Bavigne, Gemeng       01051  01051                % 05230 RGTR--
+120701002 Bavigne, Parking      01052  01052                % 05230 RGTR--
+120705002 Liefrange, Base naut  01056  01056                % 05230 RGTR--
+120705001 Liefrange, Kiirch     01057  01057                % 05230 RGTR--
+120704001 Kaundorf, An der Hie  01103  01103                % 05230 RGTR--
+120201002 Esch-sur-Sûre, An de  01110                       % 05230 RGTR--
+*Z 05231 RGTR--                                             % 05231 RGTR--
+*L 155      120201002 120201002  01120  01210               % 05231 RGTR--
+*R 1 120201002 120201002 120201002  01120  01210            % 05231 RGTR--
+*G 020 120201002 120201002  01120  01210                    % 05231 RGTR--
+*A VE 120201002 120201002 000040  01120  01210              % 05231 RGTR--
+*I FD 120201002 120201002        0002606  01120  01210      % 05231 RGTR--
+120201002 Esch-sur-Sûre, An de         01120                % 05231 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01121  01121                % 05231 RGTR--
+120802002 Lultzhausen, Driicht  01126  01126                % 05231 RGTR--
+120805001 Bonnal, Um Bommel     01127  01127                % 05231 RGTR--
+120801001 Insenborn, Duerf      01128  01128                % 05231 RGTR--
+120801002 Insenborn, Parking a  01129  01129                % 05231 RGTR--
+120801003 Insenborn, Wealerhaf  01132  01132                % 05231 RGTR--
+150501005 Arsdorf, Misärshaff   01137  01137                % 05231 RGTR--
+150501008 Arsdorf, Misärsbréck  01138  01138                % 05231 RGTR--
+120101004 Boulaide, Post        01142  01142                % 05231 RGTR--
+120101003 Boulaide, Camping     01143  01143                % 05231 RGTR--
+120101001 Baschleiden, Elber    01143  01143                % 05231 RGTR--
+120101002 Baschleiden, Kiirch   01144  01144                % 05231 RGTR--
+120103002 Hareler Poteau        01147  01147                % 05231 RGTR--
+120701001 Bavigne, Gemeng       01151  01151                % 05231 RGTR--
+120701002 Bavigne, Parking      01152  01152                % 05231 RGTR--
+120705002 Liefrange, Base naut  01156  01156                % 05231 RGTR--
+120705001 Liefrange, Kiirch     01157  01157                % 05231 RGTR--
+120704001 Kaundorf, An der Hie  01203  01203                % 05231 RGTR--
+120201002 Esch-sur-Sûre, An de  01210                       % 05231 RGTR--
+*Z 05232 RGTR--                                             % 05232 RGTR--
+*L 155      120201002 120201002  01220  01310               % 05232 RGTR--
+*R 1 120201002 120201002 120201002  01220  01310            % 05232 RGTR--
+*G 020 120201002 120201002  01220  01310                    % 05232 RGTR--
+*A VE 120201002 120201002 000040  01220  01310              % 05232 RGTR--
+*I FD 120201002 120201002        0002598  01220  01310      % 05232 RGTR--
+120201002 Esch-sur-Sûre, An de         01220                % 05232 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01221  01221                % 05232 RGTR--
+120802002 Lultzhausen, Driicht  01226  01226                % 05232 RGTR--
+120805001 Bonnal, Um Bommel     01227  01227                % 05232 RGTR--
+120801001 Insenborn, Duerf      01228  01228                % 05232 RGTR--
+120801002 Insenborn, Parking a  01229  01229                % 05232 RGTR--
+120801003 Insenborn, Wealerhaf  01232  01232                % 05232 RGTR--
+150501005 Arsdorf, Misärshaff   01237  01237                % 05232 RGTR--
+150501008 Arsdorf, Misärsbréck  01238  01238                % 05232 RGTR--
+120101004 Boulaide, Post        01242  01242                % 05232 RGTR--
+120101003 Boulaide, Camping     01243  01243                % 05232 RGTR--
+120101001 Baschleiden, Elber    01243  01243                % 05232 RGTR--
+120101002 Baschleiden, Kiirch   01244  01244                % 05232 RGTR--
+120103002 Hareler Poteau        01247  01247                % 05232 RGTR--
+120701001 Bavigne, Gemeng       01251  01251                % 05232 RGTR--
+120701002 Bavigne, Parking      01252  01252                % 05232 RGTR--
+120705002 Liefrange, Base naut  01256  01256                % 05232 RGTR--
+120705001 Liefrange, Kiirch     01257  01257                % 05232 RGTR--
+120704001 Kaundorf, An der Hie  01303  01303                % 05232 RGTR--
+120201002 Esch-sur-Sûre, An de  01310                       % 05232 RGTR--
+*Z 05233 RGTR--                                             % 05233 RGTR--
+*L 155      120201002 120201002  01320  01410               % 05233 RGTR--
+*R 1 120201002 120201002 120201002  01320  01410            % 05233 RGTR--
+*G 020 120201002 120201002  01320  01410                    % 05233 RGTR--
+*A VE 120201002 120201002 000040  01320  01410              % 05233 RGTR--
+*I FD 120201002 120201002        0002607  01320  01410      % 05233 RGTR--
+120201002 Esch-sur-Sûre, An de         01320                % 05233 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01321  01321                % 05233 RGTR--
+120802002 Lultzhausen, Driicht  01326  01326                % 05233 RGTR--
+120805001 Bonnal, Um Bommel     01327  01327                % 05233 RGTR--
+120801001 Insenborn, Duerf      01328  01328                % 05233 RGTR--
+120801002 Insenborn, Parking a  01329  01329                % 05233 RGTR--
+120801003 Insenborn, Wealerhaf  01332  01332                % 05233 RGTR--
+150501005 Arsdorf, Misärshaff   01337  01337                % 05233 RGTR--
+150501008 Arsdorf, Misärsbréck  01338  01338                % 05233 RGTR--
+120101004 Boulaide, Post        01342  01342                % 05233 RGTR--
+120101003 Boulaide, Camping     01343  01343                % 05233 RGTR--
+120101001 Baschleiden, Elber    01343  01343                % 05233 RGTR--
+120101002 Baschleiden, Kiirch   01344  01344                % 05233 RGTR--
+120103002 Hareler Poteau        01347  01347                % 05233 RGTR--
+120701001 Bavigne, Gemeng       01351  01351                % 05233 RGTR--
+120701002 Bavigne, Parking      01352  01352                % 05233 RGTR--
+120705002 Liefrange, Base naut  01356  01356                % 05233 RGTR--
+120705001 Liefrange, Kiirch     01357  01357                % 05233 RGTR--
+120704001 Kaundorf, An der Hie  01403  01403                % 05233 RGTR--
+120201002 Esch-sur-Sûre, An de  01410                       % 05233 RGTR--
+*Z 05234 RGTR--                                             % 05234 RGTR--
+*L 155      120201002 120201002  01420  01510               % 05234 RGTR--
+*R 1 120201002 120201002 120201002  01420  01510            % 05234 RGTR--
+*G 020 120201002 120201002  01420  01510                    % 05234 RGTR--
+*A VE 120201002 120201002 000040  01420  01510              % 05234 RGTR--
+*I FD 120201002 120201002        0002599  01420  01510      % 05234 RGTR--
+120201002 Esch-sur-Sûre, An de         01420                % 05234 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01421  01421                % 05234 RGTR--
+120802002 Lultzhausen, Driicht  01426  01426                % 05234 RGTR--
+120805001 Bonnal, Um Bommel     01427  01427                % 05234 RGTR--
+120801001 Insenborn, Duerf      01428  01428                % 05234 RGTR--
+120801002 Insenborn, Parking a  01429  01429                % 05234 RGTR--
+120801003 Insenborn, Wealerhaf  01432  01432                % 05234 RGTR--
+150501005 Arsdorf, Misärshaff   01437  01437                % 05234 RGTR--
+150501008 Arsdorf, Misärsbréck  01438  01438                % 05234 RGTR--
+120101004 Boulaide, Post        01442  01442                % 05234 RGTR--
+120101003 Boulaide, Camping     01443  01443                % 05234 RGTR--
+120101001 Baschleiden, Elber    01443  01443                % 05234 RGTR--
+120101002 Baschleiden, Kiirch   01444  01444                % 05234 RGTR--
+120103002 Hareler Poteau        01447  01447                % 05234 RGTR--
+120701001 Bavigne, Gemeng       01451  01451                % 05234 RGTR--
+120701002 Bavigne, Parking      01452  01452                % 05234 RGTR--
+120705002 Liefrange, Base naut  01456  01456                % 05234 RGTR--
+120705001 Liefrange, Kiirch     01457  01457                % 05234 RGTR--
+120704001 Kaundorf, An der Hie  01503  01503                % 05234 RGTR--
+120201002 Esch-sur-Sûre, An de  01510                       % 05234 RGTR--
+*Z 05235 RGTR--                                             % 05235 RGTR--
+*L 155      120201002 120201002  01520  01610               % 05235 RGTR--
+*R 1 120201002 120201002 120201002  01520  01610            % 05235 RGTR--
+*G 020 120201002 120201002  01520  01610                    % 05235 RGTR--
+*A VE 120201002 120201002 000040  01520  01610              % 05235 RGTR--
+*I FD 120201002 120201002        0002608  01520  01610      % 05235 RGTR--
+120201002 Esch-sur-Sûre, An de         01520                % 05235 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01521  01521                % 05235 RGTR--
+120802002 Lultzhausen, Driicht  01526  01526                % 05235 RGTR--
+120805001 Bonnal, Um Bommel     01527  01527                % 05235 RGTR--
+120801001 Insenborn, Duerf      01528  01528                % 05235 RGTR--
+120801002 Insenborn, Parking a  01529  01529                % 05235 RGTR--
+120801003 Insenborn, Wealerhaf  01532  01532                % 05235 RGTR--
+150501005 Arsdorf, Misärshaff   01537  01537                % 05235 RGTR--
+150501008 Arsdorf, Misärsbréck  01538  01538                % 05235 RGTR--
+120101004 Boulaide, Post        01542  01542                % 05235 RGTR--
+120101003 Boulaide, Camping     01543  01543                % 05235 RGTR--
+120101001 Baschleiden, Elber    01543  01543                % 05235 RGTR--
+120101002 Baschleiden, Kiirch   01544  01544                % 05235 RGTR--
+120103002 Hareler Poteau        01547  01547                % 05235 RGTR--
+120701001 Bavigne, Gemeng       01551  01551                % 05235 RGTR--
+120701002 Bavigne, Parking      01552  01552                % 05235 RGTR--
+120705002 Liefrange, Base naut  01556  01556                % 05235 RGTR--
+120705001 Liefrange, Kiirch     01557  01557                % 05235 RGTR--
+120704001 Kaundorf, An der Hie  01603  01603                % 05235 RGTR--
+120201002 Esch-sur-Sûre, An de  01610                       % 05235 RGTR--
+*Z 05236 RGTR--                                             % 05236 RGTR--
+*L 155      120201002 120201002  01620  01713               % 05236 RGTR--
+*R 1 120201002 120201002 120201002  01620  01713            % 05236 RGTR--
+*G 020 120201002 120201002  01620  01713                    % 05236 RGTR--
+*A VE 120201002 120201002 000040  01620  01713              % 05236 RGTR--
+*I FD 120201002 120201002        0002612  01620  01713      % 05236 RGTR--
+120201002 Esch-sur-Sûre, An de         01620                % 05236 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01621  01621                % 05236 RGTR--
+120802002 Lultzhausen, Driicht  01626  01626                % 05236 RGTR--
+120805001 Bonnal, Um Bommel     01628  01628                % 05236 RGTR--
+120801001 Insenborn, Duerf      01629  01629                % 05236 RGTR--
+120801002 Insenborn, Parking a  01630  01630                % 05236 RGTR--
+120801003 Insenborn, Wealerhaf  01633  01633                % 05236 RGTR--
+150501005 Arsdorf, Misärshaff   01639  01639                % 05236 RGTR--
+150501008 Arsdorf, Misärsbréck  01640  01640                % 05236 RGTR--
+120101004 Boulaide, Post        01644  01644                % 05236 RGTR--
+120101003 Boulaide, Camping     01644  01644                % 05236 RGTR--
+120101001 Baschleiden, Elber    01645  01645                % 05236 RGTR--
+120101002 Baschleiden, Kiirch   01646  01646                % 05236 RGTR--
+120103002 Hareler Poteau        01648  01648                % 05236 RGTR--
+120701001 Bavigne, Gemeng       01652  01652                % 05236 RGTR--
+120701002 Bavigne, Parking      01653  01653                % 05236 RGTR--
+120705002 Liefrange, Base naut  01657  01657                % 05236 RGTR--
+120705001 Liefrange, Kiirch     01658  01658                % 05236 RGTR--
+120704001 Kaundorf, An der Hie  01705  01705                % 05236 RGTR--
+120201002 Esch-sur-Sûre, An de  01713                       % 05236 RGTR--
+*Z 05237 RGTR--                                             % 05237 RGTR--
+*L 155      120201002 120201002  01720  01813               % 05237 RGTR--
+*R 1 120201002 120201002 120201002  01720  01813            % 05237 RGTR--
+*G 020 120201002 120201002  01720  01813                    % 05237 RGTR--
+*A VE 120201002 120201002 000040  01720  01813              % 05237 RGTR--
+*I FD 120201002 120201002        0002024  01720  01813      % 05237 RGTR--
+120201002 Esch-sur-Sûre, An de         01720                % 05237 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01721  01721                % 05237 RGTR--
+120802002 Lultzhausen, Driicht  01726  01726                % 05237 RGTR--
+120805001 Bonnal, Um Bommel     01728  01728                % 05237 RGTR--
+120801001 Insenborn, Duerf      01729  01729                % 05237 RGTR--
+120801002 Insenborn, Parking a  01730  01730                % 05237 RGTR--
+120801003 Insenborn, Wealerhaf  01733  01733                % 05237 RGTR--
+150501005 Arsdorf, Misärshaff   01739  01739                % 05237 RGTR--
+150501008 Arsdorf, Misärsbréck  01740  01740                % 05237 RGTR--
+120101004 Boulaide, Post        01744  01744                % 05237 RGTR--
+120101003 Boulaide, Camping     01744  01744                % 05237 RGTR--
+120101001 Baschleiden, Elber    01745  01745                % 05237 RGTR--
+120101002 Baschleiden, Kiirch   01746  01746                % 05237 RGTR--
+120103002 Hareler Poteau        01748  01748                % 05237 RGTR--
+120701001 Bavigne, Gemeng       01752  01752                % 05237 RGTR--
+120701002 Bavigne, Parking      01753  01753                % 05237 RGTR--
+120705002 Liefrange, Base naut  01757  01757                % 05237 RGTR--
+120705001 Liefrange, Kiirch     01758  01758                % 05237 RGTR--
+120704001 Kaundorf, An der Hie  01805  01805                % 05237 RGTR--
+120201002 Esch-sur-Sûre, An de  01813                       % 05237 RGTR--
+*Z 05238 RGTR--                                             % 05238 RGTR--
+*L 155      120201002 120201002  01820  01913               % 05238 RGTR--
+*R 1 120201002 120201002 120201002  01820  01913            % 05238 RGTR--
+*G 020 120201002 120201002  01820  01913                    % 05238 RGTR--
+*A VE 120201002 120201002 000040  01820  01913              % 05238 RGTR--
+*I FD 120201002 120201002        0002025  01820  01913      % 05238 RGTR--
+120201002 Esch-sur-Sûre, An de         01820                % 05238 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01821  01821                % 05238 RGTR--
+120802002 Lultzhausen, Driicht  01826  01826                % 05238 RGTR--
+120805001 Bonnal, Um Bommel     01828  01828                % 05238 RGTR--
+120801001 Insenborn, Duerf      01829  01829                % 05238 RGTR--
+120801002 Insenborn, Parking a  01830  01830                % 05238 RGTR--
+120801003 Insenborn, Wealerhaf  01833  01833                % 05238 RGTR--
+150501005 Arsdorf, Misärshaff   01839  01839                % 05238 RGTR--
+150501008 Arsdorf, Misärsbréck  01840  01840                % 05238 RGTR--
+120101004 Boulaide, Post        01844  01844                % 05238 RGTR--
+120101003 Boulaide, Camping     01844  01844                % 05238 RGTR--
+120101001 Baschleiden, Elber    01845  01845                % 05238 RGTR--
+120101002 Baschleiden, Kiirch   01846  01846                % 05238 RGTR--
+120103002 Hareler Poteau        01848  01848                % 05238 RGTR--
+120701001 Bavigne, Gemeng       01852  01852                % 05238 RGTR--
+120701002 Bavigne, Parking      01853  01853                % 05238 RGTR--
+120705002 Liefrange, Base naut  01857  01857                % 05238 RGTR--
+120705001 Liefrange, Kiirch     01858  01858                % 05238 RGTR--
+120704001 Kaundorf, An der Hie  01905  01905                % 05238 RGTR--
+120201002 Esch-sur-Sûre, An de  01913                       % 05238 RGTR--
+*Z 05239 RGTR--                                             % 05239 RGTR--
+*L 155      120201002 120201002  01025  01119               % 05239 RGTR--
+*R 2 120201002 120201002 120201002  01025  01119            % 05239 RGTR--
+*G 020 120201002 120201002  01025  01119                    % 05239 RGTR--
+*A VE 120201002 120201002 000040  01025  01119              % 05239 RGTR--
+*I FD 120201002 120201002        0002421  01025  01119      % 05239 RGTR--
+120201002 Esch-sur-Sûre, An de         01025                % 05239 RGTR--
+120704001 Kaundorf, An der Hie  01032  01032                % 05239 RGTR--
+120705002 Liefrange, Base naut  01037  01037                % 05239 RGTR--
+120705001 Liefrange, Kiirch     01038  01038                % 05239 RGTR--
+120701002 Bavigne, Parking      01044  01044                % 05239 RGTR--
+120701001 Bavigne, Gemeng       01045  01045                % 05239 RGTR--
+120103002 Hareler Poteau        01049  01049                % 05239 RGTR--
+120101002 Baschleiden, Kiirch   01051  01051                % 05239 RGTR--
+120101001 Baschleiden, Elber    01051  01051                % 05239 RGTR--
+120101003 Boulaide, Camping     01052  01052                % 05239 RGTR--
+120101004 Boulaide, Post        01053  01053                % 05239 RGTR--
+150501008 Arsdorf, Misärsbréck  01057  01057                % 05239 RGTR--
+150501005 Arsdorf, Misärshaff   01058  01058                % 05239 RGTR--
+120801003 Insenborn, Wealerhaf  01103  01103                % 05239 RGTR--
+120805001 Bonnal, Um Bommel     01107  01107                % 05239 RGTR--
+120801001 Insenborn, Duerf      01108  01108                % 05239 RGTR--
+120801002 Insenborn, Parking a  01109  01109                % 05239 RGTR--
+120802002 Lultzhausen, Driicht  01112  01112                % 05239 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01117  01117                % 05239 RGTR--
+120201002 Esch-sur-Sûre, An de  01119                       % 05239 RGTR--
+*Z 05240 RGTR--                                             % 05240 RGTR--
+*L 155      120201002 120201002  01125  01219               % 05240 RGTR--
+*R 2 120201002 120201002 120201002  01125  01219            % 05240 RGTR--
+*G 020 120201002 120201002  01125  01219                    % 05240 RGTR--
+*A VE 120201002 120201002 000040  01125  01219              % 05240 RGTR--
+*I FD 120201002 120201002        0002430  01125  01219      % 05240 RGTR--
+120201002 Esch-sur-Sûre, An de         01125                % 05240 RGTR--
+120704001 Kaundorf, An der Hie  01132  01132                % 05240 RGTR--
+120705002 Liefrange, Base naut  01137  01137                % 05240 RGTR--
+120705001 Liefrange, Kiirch     01138  01138                % 05240 RGTR--
+120701002 Bavigne, Parking      01144  01144                % 05240 RGTR--
+120701001 Bavigne, Gemeng       01145  01145                % 05240 RGTR--
+120103002 Hareler Poteau        01149  01149                % 05240 RGTR--
+120101002 Baschleiden, Kiirch   01151  01151                % 05240 RGTR--
+120101001 Baschleiden, Elber    01151  01151                % 05240 RGTR--
+120101003 Boulaide, Camping     01152  01152                % 05240 RGTR--
+120101004 Boulaide, Post        01153  01153                % 05240 RGTR--
+150501008 Arsdorf, Misärsbréck  01157  01157                % 05240 RGTR--
+150501005 Arsdorf, Misärshaff   01158  01158                % 05240 RGTR--
+120801003 Insenborn, Wealerhaf  01203  01203                % 05240 RGTR--
+120805001 Bonnal, Um Bommel     01207  01207                % 05240 RGTR--
+120801001 Insenborn, Duerf      01208  01208                % 05240 RGTR--
+120801002 Insenborn, Parking a  01209  01209                % 05240 RGTR--
+120802002 Lultzhausen, Driicht  01212  01212                % 05240 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01217  01217                % 05240 RGTR--
+120201002 Esch-sur-Sûre, An de  01219                       % 05240 RGTR--
+*Z 05241 RGTR--                                             % 05241 RGTR--
+*L 155      120201002 120201002  01225  01319               % 05241 RGTR--
+*R 2 120201002 120201002 120201002  01225  01319            % 05241 RGTR--
+*G 020 120201002 120201002  01225  01319                    % 05241 RGTR--
+*A VE 120201002 120201002 000040  01225  01319              % 05241 RGTR--
+*I FD 120201002 120201002        0002422  01225  01319      % 05241 RGTR--
+120201002 Esch-sur-Sûre, An de         01225                % 05241 RGTR--
+120704001 Kaundorf, An der Hie  01232  01232                % 05241 RGTR--
+120705002 Liefrange, Base naut  01237  01237                % 05241 RGTR--
+120705001 Liefrange, Kiirch     01238  01238                % 05241 RGTR--
+120701002 Bavigne, Parking      01244  01244                % 05241 RGTR--
+120701001 Bavigne, Gemeng       01245  01245                % 05241 RGTR--
+120103002 Hareler Poteau        01249  01249                % 05241 RGTR--
+120101002 Baschleiden, Kiirch   01251  01251                % 05241 RGTR--
+120101001 Baschleiden, Elber    01251  01251                % 05241 RGTR--
+120101003 Boulaide, Camping     01252  01252                % 05241 RGTR--
+120101004 Boulaide, Post        01253  01253                % 05241 RGTR--
+150501008 Arsdorf, Misärsbréck  01257  01257                % 05241 RGTR--
+150501005 Arsdorf, Misärshaff   01258  01258                % 05241 RGTR--
+120801003 Insenborn, Wealerhaf  01303  01303                % 05241 RGTR--
+120805001 Bonnal, Um Bommel     01307  01307                % 05241 RGTR--
+120801001 Insenborn, Duerf      01308  01308                % 05241 RGTR--
+120801002 Insenborn, Parking a  01309  01309                % 05241 RGTR--
+120802002 Lultzhausen, Driicht  01312  01312                % 05241 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01317  01317                % 05241 RGTR--
+120201002 Esch-sur-Sûre, An de  01319                       % 05241 RGTR--
+*Z 05242 RGTR--                                             % 05242 RGTR--
+*L 155      120201002 120201002  01325  01419               % 05242 RGTR--
+*R 2 120201002 120201002 120201002  01325  01419            % 05242 RGTR--
+*G 020 120201002 120201002  01325  01419                    % 05242 RGTR--
+*A VE 120201002 120201002 000040  01325  01419              % 05242 RGTR--
+*I FD 120201002 120201002        0002431  01325  01419      % 05242 RGTR--
+120201002 Esch-sur-Sûre, An de         01325                % 05242 RGTR--
+120704001 Kaundorf, An der Hie  01332  01332                % 05242 RGTR--
+120705002 Liefrange, Base naut  01337  01337                % 05242 RGTR--
+120705001 Liefrange, Kiirch     01338  01338                % 05242 RGTR--
+120701002 Bavigne, Parking      01344  01344                % 05242 RGTR--
+120701001 Bavigne, Gemeng       01345  01345                % 05242 RGTR--
+120103002 Hareler Poteau        01349  01349                % 05242 RGTR--
+120101002 Baschleiden, Kiirch   01351  01351                % 05242 RGTR--
+120101001 Baschleiden, Elber    01351  01351                % 05242 RGTR--
+120101003 Boulaide, Camping     01352  01352                % 05242 RGTR--
+120101004 Boulaide, Post        01353  01353                % 05242 RGTR--
+150501008 Arsdorf, Misärsbréck  01357  01357                % 05242 RGTR--
+150501005 Arsdorf, Misärshaff   01358  01358                % 05242 RGTR--
+120801003 Insenborn, Wealerhaf  01403  01403                % 05242 RGTR--
+120805001 Bonnal, Um Bommel     01407  01407                % 05242 RGTR--
+120801001 Insenborn, Duerf      01408  01408                % 05242 RGTR--
+120801002 Insenborn, Parking a  01409  01409                % 05242 RGTR--
+120802002 Lultzhausen, Driicht  01412  01412                % 05242 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01417  01417                % 05242 RGTR--
+120201002 Esch-sur-Sûre, An de  01419                       % 05242 RGTR--
+*Z 05243 RGTR--                                             % 05243 RGTR--
+*L 155      120201002 120201002  01425  01519               % 05243 RGTR--
+*R 2 120201002 120201002 120201002  01425  01519            % 05243 RGTR--
+*G 020 120201002 120201002  01425  01519                    % 05243 RGTR--
+*A VE 120201002 120201002 000040  01425  01519              % 05243 RGTR--
+*I FD 120201002 120201002        0002423  01425  01519      % 05243 RGTR--
+120201002 Esch-sur-Sûre, An de         01425                % 05243 RGTR--
+120704001 Kaundorf, An der Hie  01432  01432                % 05243 RGTR--
+120705002 Liefrange, Base naut  01437  01437                % 05243 RGTR--
+120705001 Liefrange, Kiirch     01438  01438                % 05243 RGTR--
+120701002 Bavigne, Parking      01444  01444                % 05243 RGTR--
+120701001 Bavigne, Gemeng       01445  01445                % 05243 RGTR--
+120103002 Hareler Poteau        01449  01449                % 05243 RGTR--
+120101002 Baschleiden, Kiirch   01451  01451                % 05243 RGTR--
+120101001 Baschleiden, Elber    01451  01451                % 05243 RGTR--
+120101003 Boulaide, Camping     01452  01452                % 05243 RGTR--
+120101004 Boulaide, Post        01453  01453                % 05243 RGTR--
+150501008 Arsdorf, Misärsbréck  01457  01457                % 05243 RGTR--
+150501005 Arsdorf, Misärshaff   01458  01458                % 05243 RGTR--
+120801003 Insenborn, Wealerhaf  01503  01503                % 05243 RGTR--
+120805001 Bonnal, Um Bommel     01507  01507                % 05243 RGTR--
+120801001 Insenborn, Duerf      01508  01508                % 05243 RGTR--
+120801002 Insenborn, Parking a  01509  01509                % 05243 RGTR--
+120802002 Lultzhausen, Driicht  01512  01512                % 05243 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01517  01517                % 05243 RGTR--
+120201002 Esch-sur-Sûre, An de  01519                       % 05243 RGTR--
+*Z 05244 RGTR--                                             % 05244 RGTR--
+*L 155      120201002 120201002  01525  01619               % 05244 RGTR--
+*R 2 120201002 120201002 120201002  01525  01619            % 05244 RGTR--
+*G 020 120201002 120201002  01525  01619                    % 05244 RGTR--
+*A VE 120201002 120201002 000040  01525  01619              % 05244 RGTR--
+*I FD 120201002 120201002        0002432  01525  01619      % 05244 RGTR--
+120201002 Esch-sur-Sûre, An de         01525                % 05244 RGTR--
+120704001 Kaundorf, An der Hie  01532  01532                % 05244 RGTR--
+120705002 Liefrange, Base naut  01537  01537                % 05244 RGTR--
+120705001 Liefrange, Kiirch     01538  01538                % 05244 RGTR--
+120701002 Bavigne, Parking      01544  01544                % 05244 RGTR--
+120701001 Bavigne, Gemeng       01545  01545                % 05244 RGTR--
+120103002 Hareler Poteau        01549  01549                % 05244 RGTR--
+120101002 Baschleiden, Kiirch   01551  01551                % 05244 RGTR--
+120101001 Baschleiden, Elber    01551  01551                % 05244 RGTR--
+120101003 Boulaide, Camping     01552  01552                % 05244 RGTR--
+120101004 Boulaide, Post        01553  01553                % 05244 RGTR--
+150501008 Arsdorf, Misärsbréck  01557  01557                % 05244 RGTR--
+150501005 Arsdorf, Misärshaff   01558  01558                % 05244 RGTR--
+120801003 Insenborn, Wealerhaf  01603  01603                % 05244 RGTR--
+120805001 Bonnal, Um Bommel     01607  01607                % 05244 RGTR--
+120801001 Insenborn, Duerf      01608  01608                % 05244 RGTR--
+120801002 Insenborn, Parking a  01609  01609                % 05244 RGTR--
+120802002 Lultzhausen, Driicht  01612  01612                % 05244 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01617  01617                % 05244 RGTR--
+120201002 Esch-sur-Sûre, An de  01619                       % 05244 RGTR--
+*Z 05245 RGTR--                                             % 05245 RGTR--
+*L 155      120201002 120201002  01625  01719               % 05245 RGTR--
+*R 2 120201002 120201002 120201002  01625  01719            % 05245 RGTR--
+*G 020 120201002 120201002  01625  01719                    % 05245 RGTR--
+*A VE 120201002 120201002 000040  01625  01719              % 05245 RGTR--
+*I FD 120201002 120201002        0002435  01625  01719      % 05245 RGTR--
+120201002 Esch-sur-Sûre, An de         01625                % 05245 RGTR--
+120704001 Kaundorf, An der Hie  01632  01632                % 05245 RGTR--
+120705002 Liefrange, Base naut  01637  01637                % 05245 RGTR--
+120705001 Liefrange, Kiirch     01638  01638                % 05245 RGTR--
+120701002 Bavigne, Parking      01644  01644                % 05245 RGTR--
+120701001 Bavigne, Gemeng       01645  01645                % 05245 RGTR--
+120103002 Hareler Poteau        01649  01649                % 05245 RGTR--
+120101002 Baschleiden, Kiirch   01651  01651                % 05245 RGTR--
+120101001 Baschleiden, Elber    01651  01651                % 05245 RGTR--
+120101003 Boulaide, Camping     01652  01652                % 05245 RGTR--
+120101004 Boulaide, Post        01653  01653                % 05245 RGTR--
+150501008 Arsdorf, Misärsbréck  01657  01657                % 05245 RGTR--
+150501005 Arsdorf, Misärshaff   01658  01658                % 05245 RGTR--
+120801003 Insenborn, Wealerhaf  01703  01703                % 05245 RGTR--
+120805001 Bonnal, Um Bommel     01707  01707                % 05245 RGTR--
+120801001 Insenborn, Duerf      01708  01708                % 05245 RGTR--
+120801002 Insenborn, Parking a  01709  01709                % 05245 RGTR--
+120802002 Lultzhausen, Driicht  01712  01712                % 05245 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01717  01717                % 05245 RGTR--
+120201002 Esch-sur-Sûre, An de  01719                       % 05245 RGTR--
+*Z 05246 RGTR--                                             % 05246 RGTR--
+*L 155      120201002 120201002  01725  01819               % 05246 RGTR--
+*R 2 120201002 120201002 120201002  01725  01819            % 05246 RGTR--
+*G 020 120201002 120201002  01725  01819                    % 05246 RGTR--
+*A VE 120201002 120201002 000040  01725  01819              % 05246 RGTR--
+*I FD 120201002 120201002        0001999  01725  01819      % 05246 RGTR--
+120201002 Esch-sur-Sûre, An de         01725                % 05246 RGTR--
+120704001 Kaundorf, An der Hie  01732  01732                % 05246 RGTR--
+120705002 Liefrange, Base naut  01737  01737                % 05246 RGTR--
+120705001 Liefrange, Kiirch     01738  01738                % 05246 RGTR--
+120701002 Bavigne, Parking      01744  01744                % 05246 RGTR--
+120701001 Bavigne, Gemeng       01745  01745                % 05246 RGTR--
+120103002 Hareler Poteau        01749  01749                % 05246 RGTR--
+120101002 Baschleiden, Kiirch   01751  01751                % 05246 RGTR--
+120101001 Baschleiden, Elber    01751  01751                % 05246 RGTR--
+120101003 Boulaide, Camping     01752  01752                % 05246 RGTR--
+120101004 Boulaide, Post        01753  01753                % 05246 RGTR--
+150501008 Arsdorf, Misärsbréck  01757  01757                % 05246 RGTR--
+150501005 Arsdorf, Misärshaff   01758  01758                % 05246 RGTR--
+120801003 Insenborn, Wealerhaf  01803  01803                % 05246 RGTR--
+120805001 Bonnal, Um Bommel     01807  01807                % 05246 RGTR--
+120801001 Insenborn, Duerf      01808  01808                % 05246 RGTR--
+120801002 Insenborn, Parking a  01809  01809                % 05246 RGTR--
+120802002 Lultzhausen, Driicht  01812  01812                % 05246 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01817  01817                % 05246 RGTR--
+120201002 Esch-sur-Sûre, An de  01819                       % 05246 RGTR--
+*Z 05247 RGTR--                                             % 05247 RGTR--
+*L 155      120201002 120201002  01825  01919               % 05247 RGTR--
+*R 2 120201002 120201002 120201002  01825  01919            % 05247 RGTR--
+*G 020 120201002 120201002  01825  01919                    % 05247 RGTR--
+*A VE 120201002 120201002 000040  01825  01919              % 05247 RGTR--
+*I FD 120201002 120201002        0002424  01825  01919      % 05247 RGTR--
+120201002 Esch-sur-Sûre, An de         01825                % 05247 RGTR--
+120704001 Kaundorf, An der Hie  01832  01832                % 05247 RGTR--
+120705002 Liefrange, Base naut  01837  01837                % 05247 RGTR--
+120705001 Liefrange, Kiirch     01838  01838                % 05247 RGTR--
+120701002 Bavigne, Parking      01844  01844                % 05247 RGTR--
+120701001 Bavigne, Gemeng       01845  01845                % 05247 RGTR--
+120103002 Hareler Poteau        01849  01849                % 05247 RGTR--
+120101002 Baschleiden, Kiirch   01851  01851                % 05247 RGTR--
+120101001 Baschleiden, Elber    01851  01851                % 05247 RGTR--
+120101003 Boulaide, Camping     01852  01852                % 05247 RGTR--
+120101004 Boulaide, Post        01853  01853                % 05247 RGTR--
+150501008 Arsdorf, Misärsbréck  01857  01857                % 05247 RGTR--
+150501005 Arsdorf, Misärshaff   01858  01858                % 05247 RGTR--
+120801003 Insenborn, Wealerhaf  01903  01903                % 05247 RGTR--
+120805001 Bonnal, Um Bommel     01907  01907                % 05247 RGTR--
+120801001 Insenborn, Duerf      01908  01908                % 05247 RGTR--
+120801002 Insenborn, Parking a  01909  01909                % 05247 RGTR--
+120802002 Lultzhausen, Driicht  01912  01912                % 05247 RGTR--
+120201001 Esch-sur-Sûre, Sebes  01917  01917                % 05247 RGTR--
+120201002 Esch-sur-Sûre, An de  01919                       % 05247 RGTR--

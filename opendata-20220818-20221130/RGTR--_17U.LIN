@@ -1,0 +1,489 @@
+*F 03 2
+*Z 12399 RGTR--                                             % 12399 RGTR--
+*L 17U      110101002 130106004  00500  00542               % 12399 RGTR--
+*R 1 130106004 110101002 130106004  00500  00542            % 12399 RGTR--
+*G 020 110101002 130106004  00500  00542                    % 12399 RGTR--
+*A VE 110101002 130106004 000033  00500  00542              % 12399 RGTR--
+*I FD 110101002 130106004        0001725  00500  00542      % 12399 RGTR--
+110101002 Clervaux, Gare routi         00500                % 12399 RGTR--
+110101004 Clervaux, Maison de   00501  00501                % 12399 RGTR--
+110101009 Clervaux, Place Bene  00502  00502                % 12399 RGTR--
+110101010 Clervaux, Police      00503  00503                % 12399 RGTR--
+110101001 Clervaux, Clinique    00504  00504                % 12399 RGTR--
+110103003 Reuler, Hôh           00505  00505                % 12399 RGTR--
+110502006 Marnach, Bei der Kie  00507  00507                % 12399 RGTR--
+110502008 Marnach, Op der Bréc  00508  00508                % 12399 RGTR--
+110502005 Marnach, Geschäftsze  00509  00509                % 12399 RGTR--
+110401002 Dorscheid, Am Poul    00513  00513                % 12399 RGTR--
+110403006 Hosingen, Bayrischt   00517  00517                % 12399 RGTR--
+110403005 Hosingen, Bei der Ki  00517  00517                % 12399 RGTR--
+110403001 Hosingen, Eesberwee   00518  00518                % 12399 RGTR--
+110407002 Rodershausen, Um Wei  00525  00525                % 12399 RGTR--
+110407001 Rodershausen, Kiirch  00526  00526                % 12399 RGTR--
+110407003 Rodershausen, Millew  00526  00526                % 12399 RGTR--
+110404001 Kounenhaff            00529  00529                % 12399 RGTR--
+110406001 Obereisenbach, Bei d  00532  00532                % 12399 RGTR--
+110408001 Untereisenbach, Bréc  00533  00533                % 12399 RGTR--
+110402002 Hosingen, Gemönnerbr  00536  00536                % 12399 RGTR--
+130106001 Stolzembourg, Akesch  00538  00538                % 12399 RGTR--
+130106003 Stolzembourg, Kiirch  00539  00539                % 12399 RGTR--
+130106002 Stolzembourg, Bréck   00540  00540                % 12399 RGTR--
+130106004 Stolzembourg, S.E.O.  00542                       % 12399 RGTR--
+*Z 12400 RGTR--                                             % 12400 RGTR--
+*L 17U      110101002 130106004  01300  01342               % 12400 RGTR--
+*R 1 130106004 110101002 130106004  01300  01342            % 12400 RGTR--
+*G 020 110101002 130106004  01300  01342                    % 12400 RGTR--
+*A VE 110101002 130106004 000033  01300  01342              % 12400 RGTR--
+*I FD 110101002 130106004        0001720  01300  01342      % 12400 RGTR--
+110101002 Clervaux, Gare routi         01300                % 12400 RGTR--
+110101004 Clervaux, Maison de   01301  01301                % 12400 RGTR--
+110101009 Clervaux, Place Bene  01302  01302                % 12400 RGTR--
+110101010 Clervaux, Police      01303  01303                % 12400 RGTR--
+110101001 Clervaux, Clinique    01304  01304                % 12400 RGTR--
+110103003 Reuler, Hôh           01305  01305                % 12400 RGTR--
+110502006 Marnach, Bei der Kie  01307  01307                % 12400 RGTR--
+110502008 Marnach, Op der Bréc  01308  01308                % 12400 RGTR--
+110502005 Marnach, Geschäftsze  01309  01309                % 12400 RGTR--
+110401002 Dorscheid, Am Poul    01313  01313                % 12400 RGTR--
+110403006 Hosingen, Bayrischt   01317  01317                % 12400 RGTR--
+110403005 Hosingen, Bei der Ki  01317  01317                % 12400 RGTR--
+110403001 Hosingen, Eesberwee   01318  01318                % 12400 RGTR--
+110407002 Rodershausen, Um Wei  01325  01325                % 12400 RGTR--
+110407001 Rodershausen, Kiirch  01326  01326                % 12400 RGTR--
+110407003 Rodershausen, Millew  01326  01326                % 12400 RGTR--
+110404001 Kounenhaff            01329  01329                % 12400 RGTR--
+110406001 Obereisenbach, Bei d  01332  01332                % 12400 RGTR--
+110408001 Untereisenbach, Bréc  01333  01333                % 12400 RGTR--
+110402002 Hosingen, Gemönnerbr  01336  01336                % 12400 RGTR--
+130106001 Stolzembourg, Akesch  01338  01338                % 12400 RGTR--
+130106003 Stolzembourg, Kiirch  01339  01339                % 12400 RGTR--
+130106002 Stolzembourg, Bréck   01340  01340                % 12400 RGTR--
+130106004 Stolzembourg, S.E.O.  01342                       % 12400 RGTR--
+*Z 12401 RGTR--                                             % 12401 RGTR--
+*L 17U      110101002 130106004  02100  02142               % 12401 RGTR--
+*R 1 130106004 110101002 130106004  02100  02142            % 12401 RGTR--
+*G 020 110101002 130106004  02100  02142                    % 12401 RGTR--
+*A VE 110101002 130106004 000033  02100  02142              % 12401 RGTR--
+*I FD 110101002 130106004        0001928  02100  02142      % 12401 RGTR--
+110101002 Clervaux, Gare routi         02100                % 12401 RGTR--
+110101004 Clervaux, Maison de   02101  02101                % 12401 RGTR--
+110101009 Clervaux, Place Bene  02102  02102                % 12401 RGTR--
+110101010 Clervaux, Police      02103  02103                % 12401 RGTR--
+110101001 Clervaux, Clinique    02104  02104                % 12401 RGTR--
+110103003 Reuler, Hôh           02105  02105                % 12401 RGTR--
+110502006 Marnach, Bei der Kie  02107  02107                % 12401 RGTR--
+110502008 Marnach, Op der Bréc  02108  02108                % 12401 RGTR--
+110502005 Marnach, Geschäftsze  02109  02109                % 12401 RGTR--
+110401002 Dorscheid, Am Poul    02113  02113                % 12401 RGTR--
+110403006 Hosingen, Bayrischt   02117  02117                % 12401 RGTR--
+110403005 Hosingen, Bei der Ki  02117  02117                % 12401 RGTR--
+110403001 Hosingen, Eesberwee   02118  02118                % 12401 RGTR--
+110407002 Rodershausen, Um Wei  02125  02125                % 12401 RGTR--
+110407001 Rodershausen, Kiirch  02126  02126                % 12401 RGTR--
+110407003 Rodershausen, Millew  02126  02126                % 12401 RGTR--
+110404001 Kounenhaff            02129  02129                % 12401 RGTR--
+110406001 Obereisenbach, Bei d  02132  02132                % 12401 RGTR--
+110408001 Untereisenbach, Bréc  02133  02133                % 12401 RGTR--
+110402002 Hosingen, Gemönnerbr  02136  02136                % 12401 RGTR--
+130106001 Stolzembourg, Akesch  02138  02138                % 12401 RGTR--
+130106003 Stolzembourg, Kiirch  02139  02139                % 12401 RGTR--
+130106002 Stolzembourg, Bréck   02140  02140                % 12401 RGTR--
+130106004 Stolzembourg, S.E.O.  02142                       % 12401 RGTR--
+*Z 12402 RGTR--                                             % 12402 RGTR--
+*L 17U      110101002 130106004  00600  00642               % 12402 RGTR--
+*R 1 130106004 110101002 130106004  00600  00642            % 12402 RGTR--
+*G 030 110101002 130106004  00600  00642                    % 12402 RGTR--
+*A VE 110101002 130106004 000033  00600  00642              % 12402 RGTR--
+*I FD 110101002 130106004        0001717  00600  00642      % 12402 RGTR--
+110101002 Clervaux, Gare routi         00600                % 12402 RGTR--
+110101004 Clervaux, Maison de   00601  00601                % 12402 RGTR--
+110101009 Clervaux, Place Bene  00602  00602                % 12402 RGTR--
+110101010 Clervaux, Police      00603  00603                % 12402 RGTR--
+110101001 Clervaux, Clinique    00604  00604                % 12402 RGTR--
+110103003 Reuler, Hôh           00605  00605                % 12402 RGTR--
+110502006 Marnach, Bei der Kie  00607  00607                % 12402 RGTR--
+110502008 Marnach, Op der Bréc  00608  00608                % 12402 RGTR--
+110502005 Marnach, Geschäftsze  00609  00609                % 12402 RGTR--
+110401002 Dorscheid, Am Poul    00613  00613                % 12402 RGTR--
+110403006 Hosingen, Bayrischt   00617  00617                % 12402 RGTR--
+110403005 Hosingen, Bei der Ki  00617  00617                % 12402 RGTR--
+110403001 Hosingen, Eesberwee   00618  00618                % 12402 RGTR--
+110407002 Rodershausen, Um Wei  00625  00625                % 12402 RGTR--
+110407001 Rodershausen, Kiirch  00626  00626                % 12402 RGTR--
+110407003 Rodershausen, Millew  00626  00626                % 12402 RGTR--
+110404001 Kounenhaff            00629  00629                % 12402 RGTR--
+110406001 Obereisenbach, Bei d  00632  00632                % 12402 RGTR--
+110408001 Untereisenbach, Bréc  00633  00633                % 12402 RGTR--
+110402002 Hosingen, Gemönnerbr  00636  00636                % 12402 RGTR--
+130106001 Stolzembourg, Akesch  00638  00638                % 12402 RGTR--
+130106003 Stolzembourg, Kiirch  00639  00639                % 12402 RGTR--
+130106002 Stolzembourg, Bréck   00640  00640                % 12402 RGTR--
+130106004 Stolzembourg, S.E.O.  00642                       % 12402 RGTR--
+*Z 12403 RGTR--                                             % 12403 RGTR--
+*L 17U      130106004 110101002  00605  00645               % 12403 RGTR--
+*R 2 110101002 130106004 110101002  00605  00645            % 12403 RGTR--
+*G 020 130106004 110101002  00605  00645                    % 12403 RGTR--
+*A VE 130106004 110101002 000036  00605  00645              % 12403 RGTR--
+*I FD 130106004 110101002        0001809  00605  00645      % 12403 RGTR--
+130106004 Stolzembourg, S.E.O.         00605                % 12403 RGTR--
+130106002 Stolzembourg, Bréck   00606  00606                % 12403 RGTR--
+130106003 Stolzembourg, Kiirch  00607  00607                % 12403 RGTR--
+130106001 Stolzembourg, Akesch  00608  00608                % 12403 RGTR--
+110402002 Hosingen, Gemönnerbr  00610  00610                % 12403 RGTR--
+110408001 Untereisenbach, Bréc  00613  00613                % 12403 RGTR--
+110406001 Obereisenbach, Bei d  00614  00614                % 12403 RGTR--
+110404001 Kounenhaff            00617  00617                % 12403 RGTR--
+110407003 Rodershausen, Millew  00620  00620                % 12403 RGTR--
+110407001 Rodershausen, Kiirch  00620  00620                % 12403 RGTR--
+110407002 Rodershausen, Um Wei  00621  00621                % 12403 RGTR--
+110403006 Hosingen, Bayrischt   00628  00628                % 12403 RGTR--
+110403005 Hosingen, Bei der Ki  00629  00629                % 12403 RGTR--
+110403001 Hosingen, Eesberwee   00630  00630                % 12403 RGTR--
+110401002 Dorscheid, Am Poul    00634  00634                % 12403 RGTR--
+110502005 Marnach, Geschäftsze  00636  00636                % 12403 RGTR--
+110502008 Marnach, Op der Bréc  00637  00637                % 12403 RGTR--
+110502006 Marnach, Bei der Kie  00638  00638                % 12403 RGTR--
+110103003 Reuler, Hôh           00640  00640                % 12403 RGTR--
+110101001 Clervaux, Clinique    00641  00641                % 12403 RGTR--
+110101010 Clervaux, Police      00642  00642                % 12403 RGTR--
+110101008 Clervaux, Pl. de la   00642  00642                % 12403 RGTR--
+110101011 Clervaux, Postes      00643  00643                % 12403 RGTR--
+110101004 Clervaux, Maison de   00644  00644                % 12403 RGTR--
+110101002 Clervaux, Gare routi  00645                       % 12403 RGTR--
+*Z 12404 RGTR--                                             % 12404 RGTR--
+*L 17U      130106004 110101002  01405  01445               % 12404 RGTR--
+*R 2 110101002 130106004 110101002  01405  01445            % 12404 RGTR--
+*G 020 130106004 110101002  01405  01445                    % 12404 RGTR--
+*A VE 130106004 110101002 000033  01405  01445              % 12404 RGTR--
+*I FD 130106004 110101002        0001812  01405  01445      % 12404 RGTR--
+130106004 Stolzembourg, S.E.O.         01405                % 12404 RGTR--
+130106002 Stolzembourg, Bréck   01406  01406                % 12404 RGTR--
+130106003 Stolzembourg, Kiirch  01407  01407                % 12404 RGTR--
+130106001 Stolzembourg, Akesch  01408  01408                % 12404 RGTR--
+110402002 Hosingen, Gemönnerbr  01410  01410                % 12404 RGTR--
+110408001 Untereisenbach, Bréc  01413  01413                % 12404 RGTR--
+110406001 Obereisenbach, Bei d  01414  01414                % 12404 RGTR--
+110404001 Kounenhaff            01417  01417                % 12404 RGTR--
+110407003 Rodershausen, Millew  01420  01420                % 12404 RGTR--
+110407001 Rodershausen, Kiirch  01420  01420                % 12404 RGTR--
+110407002 Rodershausen, Um Wei  01421  01421                % 12404 RGTR--
+110403006 Hosingen, Bayrischt   01428  01428                % 12404 RGTR--
+110403005 Hosingen, Bei der Ki  01429  01429                % 12404 RGTR--
+110403001 Hosingen, Eesberwee   01430  01430                % 12404 RGTR--
+110401002 Dorscheid, Am Poul    01434  01434                % 12404 RGTR--
+110502005 Marnach, Geschäftsze  01436  01436                % 12404 RGTR--
+110502008 Marnach, Op der Bréc  01437  01437                % 12404 RGTR--
+110502006 Marnach, Bei der Kie  01438  01438                % 12404 RGTR--
+110103003 Reuler, Hôh           01440  01440                % 12404 RGTR--
+110101001 Clervaux, Clinique    01441  01441                % 12404 RGTR--
+110101010 Clervaux, Police      01442  01442                % 12404 RGTR--
+110101008 Clervaux, Pl. de la   01442  01442                % 12404 RGTR--
+110101011 Clervaux, Postes      01443  01443                % 12404 RGTR--
+110101004 Clervaux, Maison de   01444  01444                % 12404 RGTR--
+110101002 Clervaux, Gare routi  01445                       % 12404 RGTR--
+*Z 12405 RGTR--                                             % 12405 RGTR--
+*L 17U      130106004 110101002  02205  02245               % 12405 RGTR--
+*R 2 110101002 130106004 110101002  02205  02245            % 12405 RGTR--
+*G 020 130106004 110101002  02205  02245                    % 12405 RGTR--
+*A VE 130106004 110101002 000033  02205  02245              % 12405 RGTR--
+*I FD 130106004 110101002        0002561  02205  02245      % 12405 RGTR--
+130106004 Stolzembourg, S.E.O.         02205                % 12405 RGTR--
+130106002 Stolzembourg, Bréck   02206  02206                % 12405 RGTR--
+130106003 Stolzembourg, Kiirch  02207  02207                % 12405 RGTR--
+130106001 Stolzembourg, Akesch  02208  02208                % 12405 RGTR--
+110402002 Hosingen, Gemönnerbr  02210  02210                % 12405 RGTR--
+110408001 Untereisenbach, Bréc  02213  02213                % 12405 RGTR--
+110406001 Obereisenbach, Bei d  02214  02214                % 12405 RGTR--
+110404001 Kounenhaff            02217  02217                % 12405 RGTR--
+110407003 Rodershausen, Millew  02220  02220                % 12405 RGTR--
+110407001 Rodershausen, Kiirch  02220  02220                % 12405 RGTR--
+110407002 Rodershausen, Um Wei  02221  02221                % 12405 RGTR--
+110403006 Hosingen, Bayrischt   02228  02228                % 12405 RGTR--
+110403005 Hosingen, Bei der Ki  02229  02229                % 12405 RGTR--
+110403001 Hosingen, Eesberwee   02230  02230                % 12405 RGTR--
+110401002 Dorscheid, Am Poul    02234  02234                % 12405 RGTR--
+110502005 Marnach, Geschäftsze  02236  02236                % 12405 RGTR--
+110502008 Marnach, Op der Bréc  02237  02237                % 12405 RGTR--
+110502006 Marnach, Bei der Kie  02238  02238                % 12405 RGTR--
+110103003 Reuler, Hôh           02240  02240                % 12405 RGTR--
+110101001 Clervaux, Clinique    02241  02241                % 12405 RGTR--
+110101010 Clervaux, Police      02242  02242                % 12405 RGTR--
+110101008 Clervaux, Pl. de la   02242  02242                % 12405 RGTR--
+110101011 Clervaux, Postes      02243  02243                % 12405 RGTR--
+110101004 Clervaux, Maison de   02244  02244                % 12405 RGTR--
+110101002 Clervaux, Gare routi  02245                       % 12405 RGTR--
+*Z 12406 RGTR--                                             % 12406 RGTR--
+*L 17U      130106004 110101002  01505  01545               % 12406 RGTR--
+*R 2 110101002 130106004 110101002  01505  01545            % 12406 RGTR--
+*G 030 130106004 110101002  01505  01545                    % 12406 RGTR--
+*A VE 130106004 110101002 000033  01505  01545              % 12406 RGTR--
+*I FD 130106004 110101002        0001805  01505  01545      % 12406 RGTR--
+130106004 Stolzembourg, S.E.O.         01505                % 12406 RGTR--
+130106002 Stolzembourg, Bréck   01506  01506                % 12406 RGTR--
+130106003 Stolzembourg, Kiirch  01507  01507                % 12406 RGTR--
+130106001 Stolzembourg, Akesch  01508  01508                % 12406 RGTR--
+110402002 Hosingen, Gemönnerbr  01510  01510                % 12406 RGTR--
+110408001 Untereisenbach, Bréc  01513  01513                % 12406 RGTR--
+110406001 Obereisenbach, Bei d  01514  01514                % 12406 RGTR--
+110404001 Kounenhaff            01517  01517                % 12406 RGTR--
+110407003 Rodershausen, Millew  01520  01520                % 12406 RGTR--
+110407001 Rodershausen, Kiirch  01520  01520                % 12406 RGTR--
+110407002 Rodershausen, Um Wei  01521  01521                % 12406 RGTR--
+110403006 Hosingen, Bayrischt   01528  01528                % 12406 RGTR--
+110403005 Hosingen, Bei der Ki  01529  01529                % 12406 RGTR--
+110403001 Hosingen, Eesberwee   01530  01530                % 12406 RGTR--
+110401002 Dorscheid, Am Poul    01534  01534                % 12406 RGTR--
+110502005 Marnach, Geschäftsze  01536  01536                % 12406 RGTR--
+110502008 Marnach, Op der Bréc  01537  01537                % 12406 RGTR--
+110502006 Marnach, Bei der Kie  01538  01538                % 12406 RGTR--
+110103003 Reuler, Hôh           01540  01540                % 12406 RGTR--
+110101001 Clervaux, Clinique    01541  01541                % 12406 RGTR--
+110101010 Clervaux, Police      01542  01542                % 12406 RGTR--
+110101008 Clervaux, Pl. de la   01542  01542                % 12406 RGTR--
+110101011 Clervaux, Postes      01543  01543                % 12406 RGTR--
+110101004 Clervaux, Maison de   01544  01544                % 12406 RGTR--
+110101002 Clervaux, Gare routi  01545                       % 12406 RGTR--
+*Z 12407 RGTR--                                             % 12407 RGTR--
+*L 17U      110101002 130106004  00500  00542               % 12407 RGTR--
+*R 1 130106004 110101002 130106004  00500  00542            % 12407 RGTR--
+*G 020 110101002 130106004  00500  00542                    % 12407 RGTR--
+*A VE 110101002 130106004 000034  00500  00542              % 12407 RGTR--
+*I FD 110101002 130106004        0001725  00500  00542      % 12407 RGTR--
+110101002 Clervaux, Gare routi         00500                % 12407 RGTR--
+110101004 Clervaux, Maison de   00501  00501                % 12407 RGTR--
+110101009 Clervaux, Place Bene  00502  00502                % 12407 RGTR--
+110101010 Clervaux, Police      00503  00503                % 12407 RGTR--
+110101001 Clervaux, Clinique    00504  00504                % 12407 RGTR--
+110103003 Reuler, Hôh           00505  00505                % 12407 RGTR--
+110502006 Marnach, Bei der Kie  00507  00507                % 12407 RGTR--
+110502008 Marnach, Op der Bréc  00508  00508                % 12407 RGTR--
+110502005 Marnach, Geschäftsze  00509  00509                % 12407 RGTR--
+110401002 Dorscheid, Am Poul    00513  00513                % 12407 RGTR--
+110403006 Hosingen, Bayrischt   00517  00517                % 12407 RGTR--
+110403005 Hosingen, Bei der Ki  00517  00517                % 12407 RGTR--
+110403001 Hosingen, Eesberwee   00518  00518                % 12407 RGTR--
+110407002 Rodershausen, Um Wei  00525  00525                % 12407 RGTR--
+110407001 Rodershausen, Kiirch  00526  00526                % 12407 RGTR--
+110407003 Rodershausen, Millew  00526  00526                % 12407 RGTR--
+110404001 Kounenhaff            00529  00529                % 12407 RGTR--
+110406001 Obereisenbach, Bei d  00532  00532                % 12407 RGTR--
+110408001 Untereisenbach, Bréc  00533  00533                % 12407 RGTR--
+110402002 Hosingen, Gemönnerbr  00536  00536                % 12407 RGTR--
+130106001 Stolzembourg, Akesch  00538  00538                % 12407 RGTR--
+130106003 Stolzembourg, Kiirch  00539  00539                % 12407 RGTR--
+130106002 Stolzembourg, Bréck   00540  00540                % 12407 RGTR--
+130106004 Stolzembourg, S.E.O.  00542                       % 12407 RGTR--
+*Z 12408 RGTR--                                             % 12408 RGTR--
+*L 17U      110101002 130106004  01300  01342               % 12408 RGTR--
+*R 1 130106004 110101002 130106004  01300  01342            % 12408 RGTR--
+*G 020 110101002 130106004  01300  01342                    % 12408 RGTR--
+*A VE 110101002 130106004 000034  01300  01342              % 12408 RGTR--
+*I FD 110101002 130106004        0001720  01300  01342      % 12408 RGTR--
+110101002 Clervaux, Gare routi         01300                % 12408 RGTR--
+110101004 Clervaux, Maison de   01301  01301                % 12408 RGTR--
+110101009 Clervaux, Place Bene  01302  01302                % 12408 RGTR--
+110101010 Clervaux, Police      01303  01303                % 12408 RGTR--
+110101001 Clervaux, Clinique    01304  01304                % 12408 RGTR--
+110103003 Reuler, Hôh           01305  01305                % 12408 RGTR--
+110502006 Marnach, Bei der Kie  01307  01307                % 12408 RGTR--
+110502008 Marnach, Op der Bréc  01308  01308                % 12408 RGTR--
+110502005 Marnach, Geschäftsze  01309  01309                % 12408 RGTR--
+110401002 Dorscheid, Am Poul    01313  01313                % 12408 RGTR--
+110403006 Hosingen, Bayrischt   01317  01317                % 12408 RGTR--
+110403005 Hosingen, Bei der Ki  01317  01317                % 12408 RGTR--
+110403001 Hosingen, Eesberwee   01318  01318                % 12408 RGTR--
+110407002 Rodershausen, Um Wei  01325  01325                % 12408 RGTR--
+110407001 Rodershausen, Kiirch  01326  01326                % 12408 RGTR--
+110407003 Rodershausen, Millew  01326  01326                % 12408 RGTR--
+110404001 Kounenhaff            01329  01329                % 12408 RGTR--
+110406001 Obereisenbach, Bei d  01332  01332                % 12408 RGTR--
+110408001 Untereisenbach, Bréc  01333  01333                % 12408 RGTR--
+110402002 Hosingen, Gemönnerbr  01336  01336                % 12408 RGTR--
+130106001 Stolzembourg, Akesch  01338  01338                % 12408 RGTR--
+130106003 Stolzembourg, Kiirch  01339  01339                % 12408 RGTR--
+130106002 Stolzembourg, Bréck   01340  01340                % 12408 RGTR--
+130106004 Stolzembourg, S.E.O.  01342                       % 12408 RGTR--
+*Z 12409 RGTR--                                             % 12409 RGTR--
+*L 17U      110101002 130106004  02100  02142               % 12409 RGTR--
+*R 1 130106004 110101002 130106004  02100  02142            % 12409 RGTR--
+*G 020 110101002 130106004  02100  02142                    % 12409 RGTR--
+*A VE 110101002 130106004 000034  02100  02142              % 12409 RGTR--
+*I FD 110101002 130106004        0001928  02100  02142      % 12409 RGTR--
+110101002 Clervaux, Gare routi         02100                % 12409 RGTR--
+110101004 Clervaux, Maison de   02101  02101                % 12409 RGTR--
+110101009 Clervaux, Place Bene  02102  02102                % 12409 RGTR--
+110101010 Clervaux, Police      02103  02103                % 12409 RGTR--
+110101001 Clervaux, Clinique    02104  02104                % 12409 RGTR--
+110103003 Reuler, Hôh           02105  02105                % 12409 RGTR--
+110502006 Marnach, Bei der Kie  02107  02107                % 12409 RGTR--
+110502008 Marnach, Op der Bréc  02108  02108                % 12409 RGTR--
+110502005 Marnach, Geschäftsze  02109  02109                % 12409 RGTR--
+110401002 Dorscheid, Am Poul    02113  02113                % 12409 RGTR--
+110403006 Hosingen, Bayrischt   02117  02117                % 12409 RGTR--
+110403005 Hosingen, Bei der Ki  02117  02117                % 12409 RGTR--
+110403001 Hosingen, Eesberwee   02118  02118                % 12409 RGTR--
+110407002 Rodershausen, Um Wei  02125  02125                % 12409 RGTR--
+110407001 Rodershausen, Kiirch  02126  02126                % 12409 RGTR--
+110407003 Rodershausen, Millew  02126  02126                % 12409 RGTR--
+110404001 Kounenhaff            02129  02129                % 12409 RGTR--
+110406001 Obereisenbach, Bei d  02132  02132                % 12409 RGTR--
+110408001 Untereisenbach, Bréc  02133  02133                % 12409 RGTR--
+110402002 Hosingen, Gemönnerbr  02136  02136                % 12409 RGTR--
+130106001 Stolzembourg, Akesch  02138  02138                % 12409 RGTR--
+130106003 Stolzembourg, Kiirch  02139  02139                % 12409 RGTR--
+130106002 Stolzembourg, Bréck   02140  02140                % 12409 RGTR--
+130106004 Stolzembourg, S.E.O.  02142                       % 12409 RGTR--
+*Z 12410 RGTR--                                             % 12410 RGTR--
+*L 17U      110101002 130106004  00600  00642               % 12410 RGTR--
+*R 1 130106004 110101002 130106004  00600  00642            % 12410 RGTR--
+*G 030 110101002 130106004  00600  00642                    % 12410 RGTR--
+*A VE 110101002 130106004 000034  00600  00642              % 12410 RGTR--
+*I FD 110101002 130106004        0001717  00600  00642      % 12410 RGTR--
+110101002 Clervaux, Gare routi         00600                % 12410 RGTR--
+110101004 Clervaux, Maison de   00601  00601                % 12410 RGTR--
+110101009 Clervaux, Place Bene  00602  00602                % 12410 RGTR--
+110101010 Clervaux, Police      00603  00603                % 12410 RGTR--
+110101001 Clervaux, Clinique    00604  00604                % 12410 RGTR--
+110103003 Reuler, Hôh           00605  00605                % 12410 RGTR--
+110502006 Marnach, Bei der Kie  00607  00607                % 12410 RGTR--
+110502008 Marnach, Op der Bréc  00608  00608                % 12410 RGTR--
+110502005 Marnach, Geschäftsze  00609  00609                % 12410 RGTR--
+110401002 Dorscheid, Am Poul    00613  00613                % 12410 RGTR--
+110403006 Hosingen, Bayrischt   00617  00617                % 12410 RGTR--
+110403005 Hosingen, Bei der Ki  00617  00617                % 12410 RGTR--
+110403001 Hosingen, Eesberwee   00618  00618                % 12410 RGTR--
+110407002 Rodershausen, Um Wei  00625  00625                % 12410 RGTR--
+110407001 Rodershausen, Kiirch  00626  00626                % 12410 RGTR--
+110407003 Rodershausen, Millew  00626  00626                % 12410 RGTR--
+110404001 Kounenhaff            00629  00629                % 12410 RGTR--
+110406001 Obereisenbach, Bei d  00632  00632                % 12410 RGTR--
+110408001 Untereisenbach, Bréc  00633  00633                % 12410 RGTR--
+110402002 Hosingen, Gemönnerbr  00636  00636                % 12410 RGTR--
+130106001 Stolzembourg, Akesch  00638  00638                % 12410 RGTR--
+130106003 Stolzembourg, Kiirch  00639  00639                % 12410 RGTR--
+130106002 Stolzembourg, Bréck   00640  00640                % 12410 RGTR--
+130106004 Stolzembourg, S.E.O.  00642                       % 12410 RGTR--
+*Z 12411 RGTR--                                             % 12411 RGTR--
+*L 17U      130106004 110101002  00605  00645               % 12411 RGTR--
+*R 2 110101002 130106004 110101002  00605  00645            % 12411 RGTR--
+*G 020 130106004 110101002  00605  00645                    % 12411 RGTR--
+*A VE 130106004 110101002 000038  00605  00645              % 12411 RGTR--
+*I FD 130106004 110101002        0001809  00605  00645      % 12411 RGTR--
+130106004 Stolzembourg, S.E.O.         00605                % 12411 RGTR--
+130106002 Stolzembourg, Bréck   00606  00606                % 12411 RGTR--
+130106003 Stolzembourg, Kiirch  00607  00607                % 12411 RGTR--
+130106001 Stolzembourg, Akesch  00608  00608                % 12411 RGTR--
+110402002 Hosingen, Gemönnerbr  00610  00610                % 12411 RGTR--
+110408001 Untereisenbach, Bréc  00613  00613                % 12411 RGTR--
+110406001 Obereisenbach, Bei d  00614  00614                % 12411 RGTR--
+110404001 Kounenhaff            00617  00617                % 12411 RGTR--
+110407003 Rodershausen, Millew  00620  00620                % 12411 RGTR--
+110407001 Rodershausen, Kiirch  00620  00620                % 12411 RGTR--
+110407002 Rodershausen, Um Wei  00621  00621                % 12411 RGTR--
+110403006 Hosingen, Bayrischt   00628  00628                % 12411 RGTR--
+110403005 Hosingen, Bei der Ki  00629  00629                % 12411 RGTR--
+110403001 Hosingen, Eesberwee   00630  00630                % 12411 RGTR--
+110401002 Dorscheid, Am Poul    00634  00634                % 12411 RGTR--
+110502005 Marnach, Geschäftsze  00636  00636                % 12411 RGTR--
+110502008 Marnach, Op der Bréc  00637  00637                % 12411 RGTR--
+110502006 Marnach, Bei der Kie  00638  00638                % 12411 RGTR--
+110103003 Reuler, Hôh           00640  00640                % 12411 RGTR--
+110101001 Clervaux, Clinique    00641  00641                % 12411 RGTR--
+110101010 Clervaux, Police      00642  00642                % 12411 RGTR--
+110101008 Clervaux, Pl. de la   00642  00642                % 12411 RGTR--
+110101011 Clervaux, Postes      00643  00643                % 12411 RGTR--
+110101004 Clervaux, Maison de   00644  00644                % 12411 RGTR--
+110101002 Clervaux, Gare routi  00645                       % 12411 RGTR--
+*Z 12412 RGTR--                                             % 12412 RGTR--
+*L 17U      130106004 110101002  01405  01445               % 12412 RGTR--
+*R 2 110101002 130106004 110101002  01405  01445            % 12412 RGTR--
+*G 020 130106004 110101002  01405  01445                    % 12412 RGTR--
+*A VE 130106004 110101002 000034  01405  01445              % 12412 RGTR--
+*I FD 130106004 110101002        0001812  01405  01445      % 12412 RGTR--
+130106004 Stolzembourg, S.E.O.         01405                % 12412 RGTR--
+130106002 Stolzembourg, Bréck   01406  01406                % 12412 RGTR--
+130106003 Stolzembourg, Kiirch  01407  01407                % 12412 RGTR--
+130106001 Stolzembourg, Akesch  01408  01408                % 12412 RGTR--
+110402002 Hosingen, Gemönnerbr  01410  01410                % 12412 RGTR--
+110408001 Untereisenbach, Bréc  01413  01413                % 12412 RGTR--
+110406001 Obereisenbach, Bei d  01414  01414                % 12412 RGTR--
+110404001 Kounenhaff            01417  01417                % 12412 RGTR--
+110407003 Rodershausen, Millew  01420  01420                % 12412 RGTR--
+110407001 Rodershausen, Kiirch  01420  01420                % 12412 RGTR--
+110407002 Rodershausen, Um Wei  01421  01421                % 12412 RGTR--
+110403006 Hosingen, Bayrischt   01428  01428                % 12412 RGTR--
+110403005 Hosingen, Bei der Ki  01429  01429                % 12412 RGTR--
+110403001 Hosingen, Eesberwee   01430  01430                % 12412 RGTR--
+110401002 Dorscheid, Am Poul    01434  01434                % 12412 RGTR--
+110502005 Marnach, Geschäftsze  01436  01436                % 12412 RGTR--
+110502008 Marnach, Op der Bréc  01437  01437                % 12412 RGTR--
+110502006 Marnach, Bei der Kie  01438  01438                % 12412 RGTR--
+110103003 Reuler, Hôh           01440  01440                % 12412 RGTR--
+110101001 Clervaux, Clinique    01441  01441                % 12412 RGTR--
+110101010 Clervaux, Police      01442  01442                % 12412 RGTR--
+110101008 Clervaux, Pl. de la   01442  01442                % 12412 RGTR--
+110101011 Clervaux, Postes      01443  01443                % 12412 RGTR--
+110101004 Clervaux, Maison de   01444  01444                % 12412 RGTR--
+110101002 Clervaux, Gare routi  01445                       % 12412 RGTR--
+*Z 12413 RGTR--                                             % 12413 RGTR--
+*L 17U      130106004 110101002  02205  02245               % 12413 RGTR--
+*R 2 110101002 130106004 110101002  02205  02245            % 12413 RGTR--
+*G 020 130106004 110101002  02205  02245                    % 12413 RGTR--
+*A VE 130106004 110101002 000034  02205  02245              % 12413 RGTR--
+*I FD 130106004 110101002        0002561  02205  02245      % 12413 RGTR--
+130106004 Stolzembourg, S.E.O.         02205                % 12413 RGTR--
+130106002 Stolzembourg, Bréck   02206  02206                % 12413 RGTR--
+130106003 Stolzembourg, Kiirch  02207  02207                % 12413 RGTR--
+130106001 Stolzembourg, Akesch  02208  02208                % 12413 RGTR--
+110402002 Hosingen, Gemönnerbr  02210  02210                % 12413 RGTR--
+110408001 Untereisenbach, Bréc  02213  02213                % 12413 RGTR--
+110406001 Obereisenbach, Bei d  02214  02214                % 12413 RGTR--
+110404001 Kounenhaff            02217  02217                % 12413 RGTR--
+110407003 Rodershausen, Millew  02220  02220                % 12413 RGTR--
+110407001 Rodershausen, Kiirch  02220  02220                % 12413 RGTR--
+110407002 Rodershausen, Um Wei  02221  02221                % 12413 RGTR--
+110403006 Hosingen, Bayrischt   02228  02228                % 12413 RGTR--
+110403005 Hosingen, Bei der Ki  02229  02229                % 12413 RGTR--
+110403001 Hosingen, Eesberwee   02230  02230                % 12413 RGTR--
+110401002 Dorscheid, Am Poul    02234  02234                % 12413 RGTR--
+110502005 Marnach, Geschäftsze  02236  02236                % 12413 RGTR--
+110502008 Marnach, Op der Bréc  02237  02237                % 12413 RGTR--
+110502006 Marnach, Bei der Kie  02238  02238                % 12413 RGTR--
+110103003 Reuler, Hôh           02240  02240                % 12413 RGTR--
+110101001 Clervaux, Clinique    02241  02241                % 12413 RGTR--
+110101010 Clervaux, Police      02242  02242                % 12413 RGTR--
+110101008 Clervaux, Pl. de la   02242  02242                % 12413 RGTR--
+110101011 Clervaux, Postes      02243  02243                % 12413 RGTR--
+110101004 Clervaux, Maison de   02244  02244                % 12413 RGTR--
+110101002 Clervaux, Gare routi  02245                       % 12413 RGTR--
+*Z 12414 RGTR--                                             % 12414 RGTR--
+*L 17U      130106004 110101002  01505  01545               % 12414 RGTR--
+*R 2 110101002 130106004 110101002  01505  01545            % 12414 RGTR--
+*G 030 130106004 110101002  01505  01545                    % 12414 RGTR--
+*A VE 130106004 110101002 000034  01505  01545              % 12414 RGTR--
+*I FD 130106004 110101002        0001805  01505  01545      % 12414 RGTR--
+130106004 Stolzembourg, S.E.O.         01505                % 12414 RGTR--
+130106002 Stolzembourg, Bréck   01506  01506                % 12414 RGTR--
+130106003 Stolzembourg, Kiirch  01507  01507                % 12414 RGTR--
+130106001 Stolzembourg, Akesch  01508  01508                % 12414 RGTR--
+110402002 Hosingen, Gemönnerbr  01510  01510                % 12414 RGTR--
+110408001 Untereisenbach, Bréc  01513  01513                % 12414 RGTR--
+110406001 Obereisenbach, Bei d  01514  01514                % 12414 RGTR--
+110404001 Kounenhaff            01517  01517                % 12414 RGTR--
+110407003 Rodershausen, Millew  01520  01520                % 12414 RGTR--
+110407001 Rodershausen, Kiirch  01520  01520                % 12414 RGTR--
+110407002 Rodershausen, Um Wei  01521  01521                % 12414 RGTR--
+110403006 Hosingen, Bayrischt   01528  01528                % 12414 RGTR--
+110403005 Hosingen, Bei der Ki  01529  01529                % 12414 RGTR--
+110403001 Hosingen, Eesberwee   01530  01530                % 12414 RGTR--
+110401002 Dorscheid, Am Poul    01534  01534                % 12414 RGTR--
+110502005 Marnach, Geschäftsze  01536  01536                % 12414 RGTR--
+110502008 Marnach, Op der Bréc  01537  01537                % 12414 RGTR--
+110502006 Marnach, Bei der Kie  01538  01538                % 12414 RGTR--
+110103003 Reuler, Hôh           01540  01540                % 12414 RGTR--
+110101001 Clervaux, Clinique    01541  01541                % 12414 RGTR--
+110101010 Clervaux, Police      01542  01542                % 12414 RGTR--
+110101008 Clervaux, Pl. de la   01542  01542                % 12414 RGTR--
+110101011 Clervaux, Postes      01543  01543                % 12414 RGTR--
+110101004 Clervaux, Maison de   01544  01544                % 12414 RGTR--
+110101002 Clervaux, Gare routi  01545                       % 12414 RGTR--

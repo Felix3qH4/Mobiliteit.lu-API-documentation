@@ -1,0 +1,342 @@
+*F 03 2
+*Z 18811 RGTR--                                             % 18811 RGTR--
+*L L04      500000065 200202001  01600  01657               % 18811 RGTR--
+*A cj 500000065 200202001 000338  01600  01657              % 18811 RGTR--
+*A PH 500000065 200202001 000338  01600  01657              % 18811 RGTR--
+*A ad 500000065 200202001 000338  01600  01657              % 18811 RGTR--
+*R 1 200202001 500000065 200202001  01600  01657            % 18811 RGTR--
+*G 050 500000065 200202001  01600  01657                    % 18811 RGTR--
+*A VE 500000065 200202001 000338  01600  01657              % 18811 RGTR--
+*I FD 500000065 200202001        0001727  01600  01657      % 18811 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18811 RGTR--
+210602001 Schengen, Ennen am D  01604  01604                % 18811 RGTR--
+210602004 Schengen, Séckerbaac  01604  01604                % 18811 RGTR--
+210601002 Remerschen, Ennen am  01607  01607                % 18811 RGTR--
+210601003 Remerschen, Kiosk     01608  01608                % 18811 RGTR--
+210601001 Remerschen, Al Schou  01608  01608                % 18811 RGTR--
+210603001 Wintrange, Dorefplaz  01610  01610                % 18811 RGTR--
+211002002 Schwebsingen, Op der  01611  01611                % 18811 RGTR--
+211002001 Schwebsingen, Centre  01612  01612                % 18811 RGTR--
+211001003 Bech-Kleinmacher, Fu  01614  01614                % 18811 RGTR--
+211003003 Wellenstein, Caves c  01615  01615                % 18811 RGTR--
+211003001 Wellenstein, Centre   01617  01617                % 18811 RGTR--
+211001002 Bech-Kleinmacher, Ce  01619  01619                % 18811 RGTR--
+210701011 Remich, Piscine       01621  01621                % 18811 RGTR--
+210701006 Remich, Gare routièr  01622  01622                % 18811 RGTR--
+210701003 Remich, Caves St. Ma  01625  01625                % 18811 RGTR--
+210803006 Stadtbredimus, Wandm  01626  01626                % 18811 RGTR--
+210803005 Stadtbredimus, Vinsm  01627  01627                % 18811 RGTR--
+210803004 Stadtbredimus, Schou  01628  01628                % 18811 RGTR--
+210803001 Stadtbredimus, Dicks  01629  01629                % 18811 RGTR--
+210102002 Bous, Herdermillen    01630  01630                % 18811 RGTR--
+210102001 Bous, Enner dem Pavé  01631  01631                % 18811 RGTR--
+210102004 Bous, Kierch          01632  01632                % 18811 RGTR--
+210102003 Bous, Kapell          01632  01632                % 18811 RGTR--
+210103001 Erpeldange/Bous, Krä  01635  01635                % 18811 RGTR--
+210103002 Erpeldange/Bous, Rol  01636  01636                % 18811 RGTR--
+210104001 Rolling/Bous          01637  01637                % 18811 RGTR--
+210101001 Assel                 01638  01638                % 18811 RGTR--
+210904001 Waldbredimus, Hanner  01641  01641                % 18811 RGTR--
+210904002 Waldbredimus, Kiirch  01643  01643                % 18811 RGTR--
+210902001 Roedt                 01648  01648                % 18811 RGTR--
+210903001 Trintange, Trenteng   01648  01648                % 18811 RGTR--
+210901001 Ersange/Ierséng       01649  01649                % 18811 RGTR--
+200203003 Moutfort, Kapell      01651  01651                % 18811 RGTR--
+200203005 Moutfort, Syrbréck    01653  01653                % 18811 RGTR--
+200202002 Medingen              01655  01655                % 18811 RGTR--
+200202001 Medingen, Aire de vi  01657                       % 18811 RGTR--
+*Z 18812 RGTR--                                             % 18812 RGTR--
+*L L04      500000065 200202001  01310  01406               % 18812 RGTR--
+*A cj 500000065 200202001 000339  01310  01406              % 18812 RGTR--
+*A ad 500000065 200202001 000339  01310  01406              % 18812 RGTR--
+*R 1 200202001 500000065 200202001  01310  01406            % 18812 RGTR--
+*G 050 500000065 200202001  01310  01406                    % 18812 RGTR--
+*A VE 500000065 200202001 000339  01310  01406              % 18812 RGTR--
+*I FD 500000065 200202001        0003432  01310  01406      % 18812 RGTR--
+500000065 Perl, Schengen Lyzeu         01310                % 18812 RGTR--
+210602001 Schengen, Ennen am D  01314  01314                % 18812 RGTR--
+210602004 Schengen, Séckerbaac  01314  01314                % 18812 RGTR--
+210601002 Remerschen, Ennen am  01317  01317                % 18812 RGTR--
+210601003 Remerschen, Kiosk     01318  01318                % 18812 RGTR--
+210601001 Remerschen, Al Schou  01318  01318                % 18812 RGTR--
+210603001 Wintrange, Dorefplaz  01320  01320                % 18812 RGTR--
+211002002 Schwebsingen, Op der  01321  01321                % 18812 RGTR--
+211002001 Schwebsingen, Centre  01322  01322                % 18812 RGTR--
+211001003 Bech-Kleinmacher, Fu  01324  01324                % 18812 RGTR--
+211003003 Wellenstein, Caves c  01325  01325                % 18812 RGTR--
+211003001 Wellenstein, Centre   01327  01327                % 18812 RGTR--
+211001002 Bech-Kleinmacher, Ce  01329  01329                % 18812 RGTR--
+210701011 Remich, Piscine       01330  01330                % 18812 RGTR--
+210701006 Remich, Gare routièr  01331  01331                % 18812 RGTR--
+210701003 Remich, Caves St. Ma  01334  01334                % 18812 RGTR--
+210803006 Stadtbredimus, Wandm  01335  01335                % 18812 RGTR--
+210803005 Stadtbredimus, Vinsm  01336  01336                % 18812 RGTR--
+210803004 Stadtbredimus, Schou  01337  01337                % 18812 RGTR--
+210803001 Stadtbredimus, Dicks  01338  01338                % 18812 RGTR--
+210102002 Bous, Herdermillen    01340  01340                % 18812 RGTR--
+210102001 Bous, Enner dem Pavé  01340  01340                % 18812 RGTR--
+210102004 Bous, Kierch          01341  01341                % 18812 RGTR--
+210102003 Bous, Kapell          01342  01342                % 18812 RGTR--
+210103001 Erpeldange/Bous, Krä  01344  01344                % 18812 RGTR--
+210103002 Erpeldange/Bous, Rol  01345  01345                % 18812 RGTR--
+210104001 Rolling/Bous          01346  01346                % 18812 RGTR--
+210101001 Assel                 01348  01348                % 18812 RGTR--
+210904001 Waldbredimus, Hanner  01350  01350                % 18812 RGTR--
+210904002 Waldbredimus, Kiirch  01352  01352                % 18812 RGTR--
+210902001 Roedt                 01357  01357                % 18812 RGTR--
+210903001 Trintange, Trenteng   01357  01357                % 18812 RGTR--
+210901001 Ersange/Ierséng       01358  01358                % 18812 RGTR--
+200203003 Moutfort, Kapell      01400  01400                % 18812 RGTR--
+200203005 Moutfort, Syrbréck    01401  01401                % 18812 RGTR--
+200202002 Medingen              01404  01404                % 18812 RGTR--
+200202001 Medingen, Aire de vi  01406                       % 18812 RGTR--
+*Z 18813 RGTR--                                             % 18813 RGTR--
+*L L04      200202001 500000065  00644  00740               % 18813 RGTR--
+*A cj 200202001 500000065 000338  00644  00740              % 18813 RGTR--
+*A ad 200202001 500000065 000338  00644  00740              % 18813 RGTR--
+*R 2 500000065 200202001 500000065  00644  00740            % 18813 RGTR--
+*G 072 200202001 500000065  00644  00740                    % 18813 RGTR--
+*A VE 200202001 500000065 000338  00644  00740              % 18813 RGTR--
+*I FD 200202001 500000065        0001752  00644  00740      % 18813 RGTR--
+200202001 Medingen, Aire de vi         00644                % 18813 RGTR--
+200202002 Medingen              00645  00645                % 18813 RGTR--
+200203005 Moutfort, Syrbréck    00648  00648                % 18813 RGTR--
+200203003 Moutfort, Kapell      00649  00649                % 18813 RGTR--
+210901001 Ersange/Ierséng       00651  00651                % 18813 RGTR--
+210903001 Trintange, Trenteng   00652  00652                % 18813 RGTR--
+210902001 Roedt                 00653  00653                % 18813 RGTR--
+210904002 Waldbredimus, Kiirch  00658  00658                % 18813 RGTR--
+210904001 Waldbredimus, Hanner  00659  00659                % 18813 RGTR--
+210101001 Assel                 00701  00701                % 18813 RGTR--
+210104001 Rolling/Bous          00702  00702                % 18813 RGTR--
+210103001 Erpeldange/Bous, Krä  00706  00706                % 18813 RGTR--
+210103002 Erpeldange/Bous, Rol  00707  00707                % 18813 RGTR--
+210102003 Bous, Kapell          00709  00709                % 18813 RGTR--
+210102004 Bous, Kierch          00710  00710                % 18813 RGTR--
+210102001 Bous, Enner dem Pavé  00710  00710                % 18813 RGTR--
+210102002 Bous, Herdermillen    00711  00711                % 18813 RGTR--
+210803001 Stadtbredimus, Dicks  00713  00713                % 18813 RGTR--
+210803002 Stadtbredimus, Kreiz  00713  00713                % 18813 RGTR--
+210803005 Stadtbredimus, Vinsm  00714  00714                % 18813 RGTR--
+210803006 Stadtbredimus, Wandm  00715  00715                % 18813 RGTR--
+210701003 Remich, Caves St. Ma  00716  00716                % 18813 RGTR--
+211001005 Bech-Kleinmacher, Es  00721  00721                % 18813 RGTR--
+211003003 Wellenstein, Caves c  00722  00722                % 18813 RGTR--
+211003001 Wellenstein, Centre   00723  00723                % 18813 RGTR--
+211001003 Bech-Kleinmacher, Fu  00725  00725                % 18813 RGTR--
+211002001 Schwebsingen, Centre  00727  00727                % 18813 RGTR--
+211002002 Schwebsingen, Op der  00727  00727                % 18813 RGTR--
+210603001 Wintrange, Dorefplaz  00729  00729                % 18813 RGTR--
+210601001 Remerschen, Al Schou  00730  00730                % 18813 RGTR--
+210601003 Remerschen, Kiosk     00731  00731                % 18813 RGTR--
+210601002 Remerschen, Ennen am  00732  00732                % 18813 RGTR--
+210602004 Schengen, Séckerbaac  00734  00734                % 18813 RGTR--
+210602001 Schengen, Ennen am D  00735  00735                % 18813 RGTR--
+500000065 Perl, Schengen Lyzeu  00740                       % 18813 RGTR--
+*Z 18814 RGTR--                                             % 18814 RGTR--
+*L L04      210701016 500000065  00716  00733               % 18814 RGTR--
+*A cj 210701016 500000065 000338  00716  00733              % 18814 RGTR--
+*A JN 210701016 500000065 000338  00716  00733              % 18814 RGTR--
+*A ad 210701016 500000065 000338  00716  00733              % 18814 RGTR--
+*R 2 500000065 210701016 500000065  00716  00733            % 18814 RGTR--
+*G 063 210701016 500000065  00716  00733                    % 18814 RGTR--
+*A VE 210701016 500000065 000338  00716  00733              % 18814 RGTR--
+*I FD 210701016 500000065        0003258  00716  00733      % 18814 RGTR--
+210701016 Remich, Station Viti         00716                % 18814 RGTR--
+210701012 Remich, Pl. Nico Klo  00716  00716                % 18814 RGTR--
+210701024 Remich, Schoul        00717  00717                % 18814 RGTR--
+210701006 Remich, Gare routièr  00720  00720                % 18814 RGTR--
+210701011 Remich, Piscine       00721  00721                % 18814 RGTR--
+500000065 Perl, Schengen Lyzeu  00733                       % 18814 RGTR--
+*Z 18815 RGTR--                                             % 18815 RGTR--
+*L L04      500000065 210701006  01600  01611               % 18815 RGTR--
+*A cj 500000065 210701006 000342  01600  01611              % 18815 RGTR--
+*A JU 500000065 210701006 000342  01600  01611              % 18815 RGTR--
+*A ad 500000065 210701006 000342  01600  01611              % 18815 RGTR--
+*R 1 210701006 500000065 210701006  01600  01611            % 18815 RGTR--
+*G 063 500000065 210701006  01600  01611                    % 18815 RGTR--
+*A VE 500000065 210701006 000342  01600  01611              % 18815 RGTR--
+*I FD 500000065 210701006        0003425  01600  01611      % 18815 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18815 RGTR--
+210701011 Remich, Piscine       01610  01610                % 18815 RGTR--
+210701006 Remich, Gare routièr  01611                       % 18815 RGTR--
+*Z 18816 RGTR--                                             % 18816 RGTR--
+*L L04      500000065 210701006  01310  01320               % 18816 RGTR--
+*A cj 500000065 210701006 000341  01310  01320              % 18816 RGTR--
+*A JU 500000065 210701006 000341  01310  01320              % 18816 RGTR--
+*A PH 500000065 210701006 000341  01310  01320              % 18816 RGTR--
+*A ad 500000065 210701006 000341  01310  01320              % 18816 RGTR--
+*R 1 210701006 500000065 210701006  01310  01320            % 18816 RGTR--
+*G 072 500000065 210701006  01310  01320                    % 18816 RGTR--
+*A VE 500000065 210701006 000341  01310  01320              % 18816 RGTR--
+*I FD 500000065 210701006        0002756  01310  01320      % 18816 RGTR--
+500000065 Perl, Schengen Lyzeu         01310                % 18816 RGTR--
+210701011 Remich, Piscine       01320  01320                % 18816 RGTR--
+210701006 Remich, Gare routièr  01320                       % 18816 RGTR--
+*Z 18817 RGTR--                                             % 18817 RGTR--
+*L L04      500000065 210901001  01600  01649               % 18817 RGTR--
+*A cj 500000065 210901001 000340  01600  01649              % 18817 RGTR--
+*A PH 500000065 210901001 000340  01600  01649              % 18817 RGTR--
+*A ad 500000065 210901001 000340  01600  01649              % 18817 RGTR--
+*R 1 210901001 500000065 210901001  01600  01649            % 18817 RGTR--
+*G 050 500000065 210901001  01600  01649                    % 18817 RGTR--
+*A VE 500000065 210901001 000340  01600  01649              % 18817 RGTR--
+*I FD 500000065 210901001        0001727  01600  01649      % 18817 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18817 RGTR--
+210602001 Schengen, Ennen am D  01604  01604                % 18817 RGTR--
+210602004 Schengen, Séckerbaac  01604  01604                % 18817 RGTR--
+210601002 Remerschen, Ennen am  01607  01607                % 18817 RGTR--
+210601003 Remerschen, Kiosk     01608  01608                % 18817 RGTR--
+210601001 Remerschen, Al Schou  01608  01608                % 18817 RGTR--
+210603001 Wintrange, Dorefplaz  01610  01610                % 18817 RGTR--
+211002002 Schwebsingen, Op der  01611  01611                % 18817 RGTR--
+211002001 Schwebsingen, Centre  01612  01612                % 18817 RGTR--
+211001003 Bech-Kleinmacher, Fu  01614  01614                % 18817 RGTR--
+211003003 Wellenstein, Caves c  01615  01615                % 18817 RGTR--
+211003001 Wellenstein, Centre   01617  01617                % 18817 RGTR--
+211001002 Bech-Kleinmacher, Ce  01619  01619                % 18817 RGTR--
+210701011 Remich, Piscine       01621  01621                % 18817 RGTR--
+210701006 Remich, Gare routièr  01622  01622                % 18817 RGTR--
+210701003 Remich, Caves St. Ma  01625  01625                % 18817 RGTR--
+210803006 Stadtbredimus, Wandm  01626  01626                % 18817 RGTR--
+210803005 Stadtbredimus, Vinsm  01627  01627                % 18817 RGTR--
+210803004 Stadtbredimus, Schou  01628  01628                % 18817 RGTR--
+210803001 Stadtbredimus, Dicks  01629  01629                % 18817 RGTR--
+210102002 Bous, Herdermillen    01630  01630                % 18817 RGTR--
+210102001 Bous, Enner dem Pavé  01631  01631                % 18817 RGTR--
+210102004 Bous, Kierch          01632  01632                % 18817 RGTR--
+210102003 Bous, Kapell          01632  01632                % 18817 RGTR--
+210103001 Erpeldange/Bous, Krä  01635  01635                % 18817 RGTR--
+210103002 Erpeldange/Bous, Rol  01636  01636                % 18817 RGTR--
+210104001 Rolling/Bous          01637  01637                % 18817 RGTR--
+210101001 Assel                 01638  01638                % 18817 RGTR--
+210904001 Waldbredimus, Hanner  01641  01641                % 18817 RGTR--
+210904002 Waldbredimus, Kiirch  01643  01643                % 18817 RGTR--
+210902001 Roedt                 01648  01648                % 18817 RGTR--
+210903001 Trintange, Trenteng   01648  01648                % 18817 RGTR--
+210901001 Ersange/Ierséng       01649                       % 18817 RGTR--
+*Z 18818 RGTR--                                             % 18818 RGTR--
+*L L04      500000065 210901001  01310  01358               % 18818 RGTR--
+*A cj 500000065 210901001 000341  01310  01358              % 18818 RGTR--
+*A ad 500000065 210901001 000341  01310  01358              % 18818 RGTR--
+*R 1 210901001 500000065 210901001  01310  01358            % 18818 RGTR--
+*G 050 500000065 210901001  01310  01358                    % 18818 RGTR--
+*A VE 500000065 210901001 000341  01310  01358              % 18818 RGTR--
+*I FD 500000065 210901001        0003432  01310  01358      % 18818 RGTR--
+500000065 Perl, Schengen Lyzeu         01310                % 18818 RGTR--
+210602001 Schengen, Ennen am D  01314  01314                % 18818 RGTR--
+210602004 Schengen, Séckerbaac  01314  01314                % 18818 RGTR--
+210601002 Remerschen, Ennen am  01317  01317                % 18818 RGTR--
+210601003 Remerschen, Kiosk     01318  01318                % 18818 RGTR--
+210601001 Remerschen, Al Schou  01318  01318                % 18818 RGTR--
+210603001 Wintrange, Dorefplaz  01320  01320                % 18818 RGTR--
+211002002 Schwebsingen, Op der  01321  01321                % 18818 RGTR--
+211002001 Schwebsingen, Centre  01322  01322                % 18818 RGTR--
+211001003 Bech-Kleinmacher, Fu  01324  01324                % 18818 RGTR--
+211003003 Wellenstein, Caves c  01325  01325                % 18818 RGTR--
+211003001 Wellenstein, Centre   01327  01327                % 18818 RGTR--
+211001002 Bech-Kleinmacher, Ce  01329  01329                % 18818 RGTR--
+210701011 Remich, Piscine       01330  01330                % 18818 RGTR--
+210701006 Remich, Gare routièr  01331  01331                % 18818 RGTR--
+210701003 Remich, Caves St. Ma  01334  01334                % 18818 RGTR--
+210803006 Stadtbredimus, Wandm  01335  01335                % 18818 RGTR--
+210803005 Stadtbredimus, Vinsm  01336  01336                % 18818 RGTR--
+210803004 Stadtbredimus, Schou  01337  01337                % 18818 RGTR--
+210803001 Stadtbredimus, Dicks  01338  01338                % 18818 RGTR--
+210102002 Bous, Herdermillen    01340  01340                % 18818 RGTR--
+210102001 Bous, Enner dem Pavé  01340  01340                % 18818 RGTR--
+210102004 Bous, Kierch          01341  01341                % 18818 RGTR--
+210102003 Bous, Kapell          01342  01342                % 18818 RGTR--
+210103001 Erpeldange/Bous, Krä  01344  01344                % 18818 RGTR--
+210103002 Erpeldange/Bous, Rol  01345  01345                % 18818 RGTR--
+210104001 Rolling/Bous          01346  01346                % 18818 RGTR--
+210101001 Assel                 01348  01348                % 18818 RGTR--
+210904001 Waldbredimus, Hanner  01350  01350                % 18818 RGTR--
+210904002 Waldbredimus, Kiirch  01352  01352                % 18818 RGTR--
+210902001 Roedt                 01357  01357                % 18818 RGTR--
+210903001 Trintange, Trenteng   01357  01357                % 18818 RGTR--
+210901001 Ersange/Ierséng       01358                       % 18818 RGTR--
+*Z 18819 RGTR--                                             % 18819 RGTR--
+*L L04      210901001 500000065  00651  00739               % 18819 RGTR--
+*A cj 210901001 500000065 000340  00651  00739              % 18819 RGTR--
+*A ad 210901001 500000065 000340  00651  00739              % 18819 RGTR--
+*R 2 500000065 210901001 500000065  00651  00739            % 18819 RGTR--
+*G 072 210901001 500000065  00651  00739                    % 18819 RGTR--
+*A VE 210901001 500000065 000340  00651  00739              % 18819 RGTR--
+*I FD 210901001 500000065        0002417  00651  00739      % 18819 RGTR--
+210901001 Ersange/Ierséng              00651                % 18819 RGTR--
+210903001 Trintange, Trenteng   00651  00651                % 18819 RGTR--
+210902001 Roedt                 00652  00652                % 18819 RGTR--
+210904002 Waldbredimus, Kiirch  00657  00657                % 18819 RGTR--
+210904001 Waldbredimus, Hanner  00658  00658                % 18819 RGTR--
+210101001 Assel                 00701  00701                % 18819 RGTR--
+210104001 Rolling/Bous          00702  00702                % 18819 RGTR--
+210103001 Erpeldange/Bous, Krä  00706  00706                % 18819 RGTR--
+210103002 Erpeldange/Bous, Rol  00707  00707                % 18819 RGTR--
+210102003 Bous, Kapell          00709  00709                % 18819 RGTR--
+210102004 Bous, Kierch          00709  00709                % 18819 RGTR--
+210102001 Bous, Enner dem Pavé  00710  00710                % 18819 RGTR--
+210102002 Bous, Herdermillen    00710  00710                % 18819 RGTR--
+210803001 Stadtbredimus, Dicks  00712  00712                % 18819 RGTR--
+210803002 Stadtbredimus, Kreiz  00713  00713                % 18819 RGTR--
+210803005 Stadtbredimus, Vinsm  00714  00714                % 18819 RGTR--
+210803006 Stadtbredimus, Wandm  00714  00714                % 18819 RGTR--
+210701003 Remich, Caves St. Ma  00715  00715                % 18819 RGTR--
+211001005 Bech-Kleinmacher, Es  00720  00720                % 18819 RGTR--
+211003003 Wellenstein, Caves c  00721  00721                % 18819 RGTR--
+211003001 Wellenstein, Centre   00723  00723                % 18819 RGTR--
+211001003 Bech-Kleinmacher, Fu  00724  00724                % 18819 RGTR--
+211002001 Schwebsingen, Centre  00726  00726                % 18819 RGTR--
+211002002 Schwebsingen, Op der  00727  00727                % 18819 RGTR--
+210603001 Wintrange, Dorefplaz  00728  00728                % 18819 RGTR--
+210601001 Remerschen, Al Schou  00730  00730                % 18819 RGTR--
+210601003 Remerschen, Kiosk     00730  00730                % 18819 RGTR--
+210601002 Remerschen, Ennen am  00731  00731                % 18819 RGTR--
+210602004 Schengen, Séckerbaac  00733  00733                % 18819 RGTR--
+210602001 Schengen, Ennen am D  00734  00734                % 18819 RGTR--
+500000065 Perl, Schengen Lyzeu  00739                       % 18819 RGTR--
+*Z 18820 RGTR--                                             % 18820 RGTR--
+*L L04      180401003 500000065  00657  00737               % 18820 RGTR--
+*A cj 180401003 500000065 000340  00657  00737              % 18820 RGTR--
+*A ad 180401003 500000065 000340  00657  00737              % 18820 RGTR--
+*R 2 500000065 180401003 500000065  00657  00737            % 18820 RGTR--
+*G 072 180401003 500000065  00657  00737                    % 18820 RGTR--
+*A VE 180401003 500000065 000340  00657  00737              % 18820 RGTR--
+*I FD 180401003 500000065        0002172  00657  00737      % 18820 RGTR--
+180401003 Grevenmacher, Gare r         00657                % 18820 RGTR--
+180401002 Grevenmacher, Enner   00658  00658                % 18820 RGTR--
+180401005 Grevenmacher, Route   00659  00659                % 18820 RGTR--
+180803002 Machtum, Deisermille  00700  00700                % 18820 RGTR--
+180803003 Machtum, Gellebur     00701  00701                % 18820 RGTR--
+180803001 Machtum, Bei Kallek'  00702  00702                % 18820 RGTR--
+180801001 Ahn, Alphonse Steinè  00706  00706                % 18820 RGTR--
+180801003 Ahn, Op der Musel     00706  00706                % 18820 RGTR--
+180804004 Wormeldange, Kellere  00708  00708                % 18820 RGTR--
+180804001 Wormeldange, Erdkaul  00709  00709                % 18820 RGTR--
+180804002 Wormeldange, Geméen   00710  00710                % 18820 RGTR--
+180804003 Wormeldange, Gewân    00710  00710                % 18820 RGTR--
+180802003 Ehnen, Ieselsbreck    00712  00712                % 18820 RGTR--
+180802002 Ehnen, Bromelt        00713  00713                % 18820 RGTR--
+210803003 Stadtbredimus, Schle  00719  00719                % 18820 RGTR--
+210803005 Stadtbredimus, Vinsm  00720  00720                % 18820 RGTR--
+210803006 Stadtbredimus, Wandm  00720  00720                % 18820 RGTR--
+210701003 Remich, Caves St. Ma  00721  00721                % 18820 RGTR--
+210701008 Remich, Maatebierg    00722  00722                % 18820 RGTR--
+210701006 Remich, Gare routièr  00724  00724                % 18820 RGTR--
+210701011 Remich, Piscine       00725  00725                % 18820 RGTR--
+500000065 Perl, Schengen Lyzeu  00737                       % 18820 RGTR--
+*Z 18821 RGTR--                                             % 18821 RGTR--
+*L L04      210701016 500000065  00716  00733               % 18821 RGTR--
+*A cj 210701016 500000065 000340  00716  00733              % 18821 RGTR--
+*A JN 210701016 500000065 000340  00716  00733              % 18821 RGTR--
+*A ad 210701016 500000065 000340  00716  00733              % 18821 RGTR--
+*R 2 500000065 210701016 500000065  00716  00733            % 18821 RGTR--
+*G 063 210701016 500000065  00716  00733                    % 18821 RGTR--
+*A VE 210701016 500000065 000340  00716  00733              % 18821 RGTR--
+*I FD 210701016 500000065        0003258  00716  00733      % 18821 RGTR--
+210701016 Remich, Station Viti         00716                % 18821 RGTR--
+210701012 Remich, Pl. Nico Klo  00716  00716                % 18821 RGTR--
+210701024 Remich, Schoul        00717  00717                % 18821 RGTR--
+210701006 Remich, Gare routièr  00720  00720                % 18821 RGTR--
+210701011 Remich, Piscine       00721  00721                % 18821 RGTR--
+500000065 Perl, Schengen Lyzeu  00733                       % 18821 RGTR--

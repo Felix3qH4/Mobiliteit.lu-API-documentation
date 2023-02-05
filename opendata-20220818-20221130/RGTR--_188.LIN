@@ -1,0 +1,1761 @@
+*F 03 2
+*Z 09717 RGTR--                                             % 09717 RGTR--
+*L 188      140401004 130301006  00952  01037               % 09717 RGTR--
+*R 1 130301006 140401004 130301006  00952  01037            % 09717 RGTR--
+*G 020 140401004 130301006  00952  01037                    % 09717 RGTR--
+*A VE 140401004 130301006 000039  00952  01037              % 09717 RGTR--
+*I FD 140401004 130301006        0002614  00952  01037      % 09717 RGTR--
+140401004 Diekirch, Gare routi         00952                % 09717 RGTR--
+140401001 Diekirch, Altersheem  00953  00953                % 09717 RGTR--
+140401011 Diekirch, Alexis Hec  00954  00954                % 09717 RGTR--
+140401010 Diekirch, Place des   00955  00955                % 09717 RGTR--
+140402001 Fridhaff              00958  00958                % 09717 RGTR--
+130203001 Brandenbourg, Bakes   01002  01002                % 09717 RGTR--
+130205001 Landscheid, Kiirch    01007  01007                % 09717 RGTR--
+130108003 Groësteen             01010  01010                % 09717 RGTR--
+130105002 Putscheid, Gemengeba  01013  01013                % 09717 RGTR--
+130105003 Putscheid, Am Duerf   01014  01014                % 09717 RGTR--
+130104002 Nachtmanderscheid, P  01020  01020                % 09717 RGTR--
+130301001 Mont St. Nicolas      01022  01022                % 09717 RGTR--
+130208002 Walsdorf, An der Gaa  01028  01028                % 09717 RGTR--
+130301011 Vianden, Plank        01032  01032                % 09717 RGTR--
+130301010 Vianden, Place Engel  01033  01033                % 09717 RGTR--
+130301007 Vianden, Gemeng       01034  01034                % 09717 RGTR--
+130301006 Vianden, Gare         01037                       % 09717 RGTR--
+*Z 09718 RGTR--                                             % 09718 RGTR--
+*L 188      140401004 130301006  01152  01237               % 09718 RGTR--
+*R 1 130301006 140401004 130301006  01152  01237            % 09718 RGTR--
+*G 020 140401004 130301006  01152  01237                    % 09718 RGTR--
+*A VE 140401004 130301006 000039  01152  01237              % 09718 RGTR--
+*I FD 140401004 130301006        0002615  01152  01237      % 09718 RGTR--
+140401004 Diekirch, Gare routi         01152                % 09718 RGTR--
+140401001 Diekirch, Altersheem  01153  01153                % 09718 RGTR--
+140401011 Diekirch, Alexis Hec  01154  01154                % 09718 RGTR--
+140401010 Diekirch, Place des   01155  01155                % 09718 RGTR--
+140402001 Fridhaff              01158  01158                % 09718 RGTR--
+130203001 Brandenbourg, Bakes   01202  01202                % 09718 RGTR--
+130205001 Landscheid, Kiirch    01207  01207                % 09718 RGTR--
+130108003 Groësteen             01210  01210                % 09718 RGTR--
+130105002 Putscheid, Gemengeba  01213  01213                % 09718 RGTR--
+130105003 Putscheid, Am Duerf   01214  01214                % 09718 RGTR--
+130104002 Nachtmanderscheid, P  01220  01220                % 09718 RGTR--
+130301001 Mont St. Nicolas      01222  01222                % 09718 RGTR--
+130208002 Walsdorf, An der Gaa  01228  01228                % 09718 RGTR--
+130301011 Vianden, Plank        01232  01232                % 09718 RGTR--
+130301010 Vianden, Place Engel  01233  01233                % 09718 RGTR--
+130301007 Vianden, Gemeng       01234  01234                % 09718 RGTR--
+130301006 Vianden, Gare         01237                       % 09718 RGTR--
+*Z 09719 RGTR--                                             % 09719 RGTR--
+*L 188      140401004 130301006  01352  01437               % 09719 RGTR--
+*R 1 130301006 140401004 130301006  01352  01437            % 09719 RGTR--
+*G 020 140401004 130301006  01352  01437                    % 09719 RGTR--
+*A VE 140401004 130301006 000039  01352  01437              % 09719 RGTR--
+*I FD 140401004 130301006        0002616  01352  01437      % 09719 RGTR--
+140401004 Diekirch, Gare routi         01352                % 09719 RGTR--
+140401001 Diekirch, Altersheem  01353  01353                % 09719 RGTR--
+140401011 Diekirch, Alexis Hec  01354  01354                % 09719 RGTR--
+140401010 Diekirch, Place des   01355  01355                % 09719 RGTR--
+140402001 Fridhaff              01358  01358                % 09719 RGTR--
+130203001 Brandenbourg, Bakes   01402  01402                % 09719 RGTR--
+130205001 Landscheid, Kiirch    01407  01407                % 09719 RGTR--
+130108003 Groësteen             01410  01410                % 09719 RGTR--
+130105002 Putscheid, Gemengeba  01413  01413                % 09719 RGTR--
+130105003 Putscheid, Am Duerf   01414  01414                % 09719 RGTR--
+130104002 Nachtmanderscheid, P  01420  01420                % 09719 RGTR--
+130301001 Mont St. Nicolas      01422  01422                % 09719 RGTR--
+130208002 Walsdorf, An der Gaa  01428  01428                % 09719 RGTR--
+130301011 Vianden, Plank        01432  01432                % 09719 RGTR--
+130301010 Vianden, Place Engel  01433  01433                % 09719 RGTR--
+130301007 Vianden, Gemeng       01434  01434                % 09719 RGTR--
+130301006 Vianden, Gare         01437                       % 09719 RGTR--
+*Z 09720 RGTR--                                             % 09720 RGTR--
+*L 188      140401004 130301006  01952  02037               % 09720 RGTR--
+*R 1 130301006 140401004 130301006  01952  02037            % 09720 RGTR--
+*G 020 140401004 130301006  01952  02037                    % 09720 RGTR--
+*A VE 140401004 130301006 000039  01952  02037              % 09720 RGTR--
+*I FD 140401004 130301006        0002618  01952  02037      % 09720 RGTR--
+140401004 Diekirch, Gare routi         01952                % 09720 RGTR--
+140401001 Diekirch, Altersheem  01953  01953                % 09720 RGTR--
+140401011 Diekirch, Alexis Hec  01954  01954                % 09720 RGTR--
+140401010 Diekirch, Place des   01955  01955                % 09720 RGTR--
+140402001 Fridhaff              01958  01958                % 09720 RGTR--
+130203001 Brandenbourg, Bakes   02002  02002                % 09720 RGTR--
+130205001 Landscheid, Kiirch    02007  02007                % 09720 RGTR--
+130108003 Groësteen             02010  02010                % 09720 RGTR--
+130105002 Putscheid, Gemengeba  02013  02013                % 09720 RGTR--
+130105003 Putscheid, Am Duerf   02014  02014                % 09720 RGTR--
+130104002 Nachtmanderscheid, P  02020  02020                % 09720 RGTR--
+130301001 Mont St. Nicolas      02022  02022                % 09720 RGTR--
+130208002 Walsdorf, An der Gaa  02028  02028                % 09720 RGTR--
+130301011 Vianden, Plank        02032  02032                % 09720 RGTR--
+130301010 Vianden, Place Engel  02033  02033                % 09720 RGTR--
+130301007 Vianden, Gemeng       02034  02034                % 09720 RGTR--
+130301006 Vianden, Gare         02037                       % 09720 RGTR--
+*Z 09721 RGTR--                                             % 09721 RGTR--
+*L 188      140401004 130301006  02152  02237               % 09721 RGTR--
+*R 1 130301006 140401004 130301006  02152  02237            % 09721 RGTR--
+*G 020 140401004 130301006  02152  02237                    % 09721 RGTR--
+*A VE 140401004 130301006 000039  02152  02237              % 09721 RGTR--
+*I FD 140401004 130301006        0002619  02152  02237      % 09721 RGTR--
+140401004 Diekirch, Gare routi         02152                % 09721 RGTR--
+140401001 Diekirch, Altersheem  02153  02153                % 09721 RGTR--
+140401011 Diekirch, Alexis Hec  02154  02154                % 09721 RGTR--
+140401010 Diekirch, Place des   02155  02155                % 09721 RGTR--
+140402001 Fridhaff              02158  02158                % 09721 RGTR--
+130203001 Brandenbourg, Bakes   02202  02202                % 09721 RGTR--
+130205001 Landscheid, Kiirch    02207  02207                % 09721 RGTR--
+130108003 Groësteen             02210  02210                % 09721 RGTR--
+130105002 Putscheid, Gemengeba  02213  02213                % 09721 RGTR--
+130105003 Putscheid, Am Duerf   02214  02214                % 09721 RGTR--
+130104002 Nachtmanderscheid, P  02220  02220                % 09721 RGTR--
+130301001 Mont St. Nicolas      02222  02222                % 09721 RGTR--
+130208002 Walsdorf, An der Gaa  02228  02228                % 09721 RGTR--
+130301011 Vianden, Plank        02232  02232                % 09721 RGTR--
+130301010 Vianden, Place Engel  02233  02233                % 09721 RGTR--
+130301007 Vianden, Gemeng       02234  02234                % 09721 RGTR--
+130301006 Vianden, Gare         02237                       % 09721 RGTR--
+*Z 09722 RGTR--                                             % 09722 RGTR--
+*L 188      140401004 130301006  00552  00637               % 09722 RGTR--
+*R 1 130301006 140401004 130301006  00552  00637            % 09722 RGTR--
+*G 020 140401004 130301006  00552  00637                    % 09722 RGTR--
+*A VE 140401004 130301006 000036  00552  00637              % 09722 RGTR--
+*I FD 140401004 130301006        0002620  00552  00637      % 09722 RGTR--
+140401004 Diekirch, Gare routi         00552                % 09722 RGTR--
+140401001 Diekirch, Altersheem  00553  00553                % 09722 RGTR--
+140401011 Diekirch, Alexis Hec  00554  00554                % 09722 RGTR--
+140401010 Diekirch, Place des   00555  00555                % 09722 RGTR--
+140402001 Fridhaff              00558  00558                % 09722 RGTR--
+130203001 Brandenbourg, Bakes   00602  00602                % 09722 RGTR--
+130205001 Landscheid, Kiirch    00607  00607                % 09722 RGTR--
+130108003 Groësteen             00610  00610                % 09722 RGTR--
+130105002 Putscheid, Gemengeba  00613  00613                % 09722 RGTR--
+130105003 Putscheid, Am Duerf   00614  00614                % 09722 RGTR--
+130104002 Nachtmanderscheid, P  00620  00620                % 09722 RGTR--
+130301001 Mont St. Nicolas      00622  00622                % 09722 RGTR--
+130208002 Walsdorf, An der Gaa  00628  00628                % 09722 RGTR--
+130301011 Vianden, Plank        00632  00632                % 09722 RGTR--
+130301010 Vianden, Place Engel  00633  00633                % 09722 RGTR--
+130301007 Vianden, Gemeng       00634  00634                % 09722 RGTR--
+130301006 Vianden, Gare         00637                       % 09722 RGTR--
+*Z 09723 RGTR--                                             % 09723 RGTR--
+*L 188      140401004 130301006  00852  00937               % 09723 RGTR--
+*R 1 130301006 140401004 130301006  00852  00937            % 09723 RGTR--
+*G 020 140401004 130301006  00852  00937                    % 09723 RGTR--
+*A VE 140401004 130301006 000036  00852  00937              % 09723 RGTR--
+*I FD 140401004 130301006        0002622  00852  00937      % 09723 RGTR--
+140401004 Diekirch, Gare routi         00852                % 09723 RGTR--
+140401001 Diekirch, Altersheem  00853  00853                % 09723 RGTR--
+140401011 Diekirch, Alexis Hec  00854  00854                % 09723 RGTR--
+140401010 Diekirch, Place des   00855  00855                % 09723 RGTR--
+140402001 Fridhaff              00858  00858                % 09723 RGTR--
+130203001 Brandenbourg, Bakes   00902  00902                % 09723 RGTR--
+130205001 Landscheid, Kiirch    00907  00907                % 09723 RGTR--
+130108003 Groësteen             00910  00910                % 09723 RGTR--
+130105002 Putscheid, Gemengeba  00913  00913                % 09723 RGTR--
+130105003 Putscheid, Am Duerf   00914  00914                % 09723 RGTR--
+130104002 Nachtmanderscheid, P  00920  00920                % 09723 RGTR--
+130301001 Mont St. Nicolas      00922  00922                % 09723 RGTR--
+130208002 Walsdorf, An der Gaa  00928  00928                % 09723 RGTR--
+130301011 Vianden, Plank        00932  00932                % 09723 RGTR--
+130301010 Vianden, Place Engel  00933  00933                % 09723 RGTR--
+130301007 Vianden, Gemeng       00934  00934                % 09723 RGTR--
+130301006 Vianden, Gare         00937                       % 09723 RGTR--
+*Z 09724 RGTR--                                             % 09724 RGTR--
+*L 188      140401004 130301006  01052  01137               % 09724 RGTR--
+*R 1 130301006 140401004 130301006  01052  01137            % 09724 RGTR--
+*G 020 140401004 130301006  01052  01137                    % 09724 RGTR--
+*A VE 140401004 130301006 000036  01052  01137              % 09724 RGTR--
+*I FD 140401004 130301006        0003006  01052  01137      % 09724 RGTR--
+140401004 Diekirch, Gare routi         01052                % 09724 RGTR--
+140401001 Diekirch, Altersheem  01053  01053                % 09724 RGTR--
+140401011 Diekirch, Alexis Hec  01054  01054                % 09724 RGTR--
+140401010 Diekirch, Place des   01055  01055                % 09724 RGTR--
+140402001 Fridhaff              01058  01058                % 09724 RGTR--
+130203001 Brandenbourg, Bakes   01102  01102                % 09724 RGTR--
+130205001 Landscheid, Kiirch    01107  01107                % 09724 RGTR--
+130108003 Groësteen             01110  01110                % 09724 RGTR--
+130105002 Putscheid, Gemengeba  01113  01113                % 09724 RGTR--
+130105003 Putscheid, Am Duerf   01114  01114                % 09724 RGTR--
+130104002 Nachtmanderscheid, P  01120  01120                % 09724 RGTR--
+130301001 Mont St. Nicolas      01122  01122                % 09724 RGTR--
+130208002 Walsdorf, An der Gaa  01128  01128                % 09724 RGTR--
+130301011 Vianden, Plank        01132  01132                % 09724 RGTR--
+130301010 Vianden, Place Engel  01133  01133                % 09724 RGTR--
+130301007 Vianden, Gemeng       01134  01134                % 09724 RGTR--
+130301006 Vianden, Gare         01137                       % 09724 RGTR--
+*Z 09725 RGTR--                                             % 09725 RGTR--
+*L 188      140401004 130301006  01252  01337               % 09725 RGTR--
+*R 1 130301006 140401004 130301006  01252  01337            % 09725 RGTR--
+*G 020 140401004 130301006  01252  01337                    % 09725 RGTR--
+*A VE 140401004 130301006 000036  01252  01337              % 09725 RGTR--
+*I FD 140401004 130301006        0003007  01252  01337      % 09725 RGTR--
+140401004 Diekirch, Gare routi         01252                % 09725 RGTR--
+140401001 Diekirch, Altersheem  01253  01253                % 09725 RGTR--
+140401011 Diekirch, Alexis Hec  01254  01254                % 09725 RGTR--
+140401010 Diekirch, Place des   01255  01255                % 09725 RGTR--
+140402001 Fridhaff              01258  01258                % 09725 RGTR--
+130203001 Brandenbourg, Bakes   01302  01302                % 09725 RGTR--
+130205001 Landscheid, Kiirch    01307  01307                % 09725 RGTR--
+130108003 Groësteen             01310  01310                % 09725 RGTR--
+130105002 Putscheid, Gemengeba  01313  01313                % 09725 RGTR--
+130105003 Putscheid, Am Duerf   01314  01314                % 09725 RGTR--
+130104002 Nachtmanderscheid, P  01320  01320                % 09725 RGTR--
+130301001 Mont St. Nicolas      01322  01322                % 09725 RGTR--
+130208002 Walsdorf, An der Gaa  01328  01328                % 09725 RGTR--
+130301011 Vianden, Plank        01332  01332                % 09725 RGTR--
+130301010 Vianden, Place Engel  01333  01333                % 09725 RGTR--
+130301007 Vianden, Gemeng       01334  01334                % 09725 RGTR--
+130301006 Vianden, Gare         01337                       % 09725 RGTR--
+*Z 09726 RGTR--                                             % 09726 RGTR--
+*L 188      140401004 130301006  01452  01537               % 09726 RGTR--
+*R 1 130301006 140401004 130301006  01452  01537            % 09726 RGTR--
+*G 020 140401004 130301006  01452  01537                    % 09726 RGTR--
+*A VE 140401004 130301006 000036  01452  01537              % 09726 RGTR--
+*I FD 140401004 130301006        0003008  01452  01537      % 09726 RGTR--
+140401004 Diekirch, Gare routi         01452                % 09726 RGTR--
+140401001 Diekirch, Altersheem  01453  01453                % 09726 RGTR--
+140401011 Diekirch, Alexis Hec  01454  01454                % 09726 RGTR--
+140401010 Diekirch, Place des   01455  01455                % 09726 RGTR--
+140402001 Fridhaff              01458  01458                % 09726 RGTR--
+130203001 Brandenbourg, Bakes   01502  01502                % 09726 RGTR--
+130205001 Landscheid, Kiirch    01507  01507                % 09726 RGTR--
+130108003 Groësteen             01510  01510                % 09726 RGTR--
+130105002 Putscheid, Gemengeba  01513  01513                % 09726 RGTR--
+130105003 Putscheid, Am Duerf   01514  01514                % 09726 RGTR--
+130104002 Nachtmanderscheid, P  01520  01520                % 09726 RGTR--
+130301001 Mont St. Nicolas      01522  01522                % 09726 RGTR--
+130208002 Walsdorf, An der Gaa  01528  01528                % 09726 RGTR--
+130301011 Vianden, Plank        01532  01532                % 09726 RGTR--
+130301010 Vianden, Place Engel  01533  01533                % 09726 RGTR--
+130301007 Vianden, Gemeng       01534  01534                % 09726 RGTR--
+130301006 Vianden, Gare         01537                       % 09726 RGTR--
+*Z 09727 RGTR--                                             % 09727 RGTR--
+*L 188      140401004 130301006  01852  01937               % 09727 RGTR--
+*R 1 130301006 140401004 130301006  01852  01937            % 09727 RGTR--
+*G 020 140401004 130301006  01852  01937                    % 09727 RGTR--
+*A VE 140401004 130301006 000036  01852  01937              % 09727 RGTR--
+*I FD 140401004 130301006        0002623  01852  01937      % 09727 RGTR--
+140401004 Diekirch, Gare routi         01852                % 09727 RGTR--
+140401001 Diekirch, Altersheem  01853  01853                % 09727 RGTR--
+140401011 Diekirch, Alexis Hec  01854  01854                % 09727 RGTR--
+140401010 Diekirch, Place des   01855  01855                % 09727 RGTR--
+140402001 Fridhaff              01858  01858                % 09727 RGTR--
+130203001 Brandenbourg, Bakes   01902  01902                % 09727 RGTR--
+130205001 Landscheid, Kiirch    01907  01907                % 09727 RGTR--
+130108003 Groësteen             01910  01910                % 09727 RGTR--
+130105002 Putscheid, Gemengeba  01913  01913                % 09727 RGTR--
+130105003 Putscheid, Am Duerf   01914  01914                % 09727 RGTR--
+130104002 Nachtmanderscheid, P  01920  01920                % 09727 RGTR--
+130301001 Mont St. Nicolas      01922  01922                % 09727 RGTR--
+130208002 Walsdorf, An der Gaa  01928  01928                % 09727 RGTR--
+130301011 Vianden, Plank        01932  01932                % 09727 RGTR--
+130301010 Vianden, Place Engel  01933  01933                % 09727 RGTR--
+130301007 Vianden, Gemeng       01934  01934                % 09727 RGTR--
+130301006 Vianden, Gare         01937                       % 09727 RGTR--
+*Z 09728 RGTR--                                             % 09728 RGTR--
+*L 188      140401004 130301006  02052  02137               % 09728 RGTR--
+*R 1 130301006 140401004 130301006  02052  02137            % 09728 RGTR--
+*G 020 140401004 130301006  02052  02137                    % 09728 RGTR--
+*A VE 140401004 130301006 000036  02052  02137              % 09728 RGTR--
+*I FD 140401004 130301006        0003009  02052  02137      % 09728 RGTR--
+140401004 Diekirch, Gare routi         02052                % 09728 RGTR--
+140401001 Diekirch, Altersheem  02053  02053                % 09728 RGTR--
+140401011 Diekirch, Alexis Hec  02054  02054                % 09728 RGTR--
+140401010 Diekirch, Place des   02055  02055                % 09728 RGTR--
+140402001 Fridhaff              02058  02058                % 09728 RGTR--
+130203001 Brandenbourg, Bakes   02102  02102                % 09728 RGTR--
+130205001 Landscheid, Kiirch    02107  02107                % 09728 RGTR--
+130108003 Groësteen             02110  02110                % 09728 RGTR--
+130105002 Putscheid, Gemengeba  02113  02113                % 09728 RGTR--
+130105003 Putscheid, Am Duerf   02114  02114                % 09728 RGTR--
+130104002 Nachtmanderscheid, P  02120  02120                % 09728 RGTR--
+130301001 Mont St. Nicolas      02122  02122                % 09728 RGTR--
+130208002 Walsdorf, An der Gaa  02128  02128                % 09728 RGTR--
+130301011 Vianden, Plank        02132  02132                % 09728 RGTR--
+130301010 Vianden, Place Engel  02133  02133                % 09728 RGTR--
+130301007 Vianden, Gemeng       02134  02134                % 09728 RGTR--
+130301006 Vianden, Gare         02137                       % 09728 RGTR--
+*Z 09729 RGTR--                                             % 09729 RGTR--
+*L 188      140401004 130301006  00752  00837               % 09729 RGTR--
+*R 1 130301006 140401004 130301006  00752  00837            % 09729 RGTR--
+*G 020 140401004 130301006  00752  00837                    % 09729 RGTR--
+*A VE 140401004 130301006 000018  00752  00837              % 09729 RGTR--
+*I FD 140401004 130301006        0002624  00752  00837      % 09729 RGTR--
+140401004 Diekirch, Gare routi         00752                % 09729 RGTR--
+140401001 Diekirch, Altersheem  00753  00753                % 09729 RGTR--
+140401011 Diekirch, Alexis Hec  00754  00754                % 09729 RGTR--
+140401010 Diekirch, Place des   00755  00755                % 09729 RGTR--
+140402001 Fridhaff              00758  00758                % 09729 RGTR--
+130203001 Brandenbourg, Bakes   00802  00802                % 09729 RGTR--
+130205001 Landscheid, Kiirch    00807  00807                % 09729 RGTR--
+130108003 Groësteen             00810  00810                % 09729 RGTR--
+130105002 Putscheid, Gemengeba  00813  00813                % 09729 RGTR--
+130105003 Putscheid, Am Duerf   00814  00814                % 09729 RGTR--
+130104002 Nachtmanderscheid, P  00820  00820                % 09729 RGTR--
+130301001 Mont St. Nicolas      00822  00822                % 09729 RGTR--
+130208002 Walsdorf, An der Gaa  00828  00828                % 09729 RGTR--
+130301011 Vianden, Plank        00832  00832                % 09729 RGTR--
+130301010 Vianden, Place Engel  00833  00833                % 09729 RGTR--
+130301007 Vianden, Gemeng       00834  00834                % 09729 RGTR--
+130301006 Vianden, Gare         00837                       % 09729 RGTR--
+*Z 09730 RGTR--                                             % 09730 RGTR--
+*L 188      140401004 130301006  01552  01637               % 09730 RGTR--
+*R 1 130301006 140401004 130301006  01552  01637            % 09730 RGTR--
+*G 020 140401004 130301006  01552  01637                    % 09730 RGTR--
+*A VE 140401004 130301006 000018  01552  01637              % 09730 RGTR--
+*I FD 140401004 130301006        0002617  01552  01637      % 09730 RGTR--
+140401004 Diekirch, Gare routi         01552                % 09730 RGTR--
+140401001 Diekirch, Altersheem  01553  01553                % 09730 RGTR--
+140401011 Diekirch, Alexis Hec  01554  01554                % 09730 RGTR--
+140401010 Diekirch, Place des   01555  01555                % 09730 RGTR--
+140402001 Fridhaff              01558  01558                % 09730 RGTR--
+130203001 Brandenbourg, Bakes   01602  01602                % 09730 RGTR--
+130205001 Landscheid, Kiirch    01607  01607                % 09730 RGTR--
+130108003 Groësteen             01610  01610                % 09730 RGTR--
+130105002 Putscheid, Gemengeba  01613  01613                % 09730 RGTR--
+130105003 Putscheid, Am Duerf   01614  01614                % 09730 RGTR--
+130104002 Nachtmanderscheid, P  01620  01620                % 09730 RGTR--
+130301001 Mont St. Nicolas      01622  01622                % 09730 RGTR--
+130208002 Walsdorf, An der Gaa  01628  01628                % 09730 RGTR--
+130301011 Vianden, Plank        01632  01632                % 09730 RGTR--
+130301010 Vianden, Place Engel  01633  01633                % 09730 RGTR--
+130301007 Vianden, Gemeng       01634  01634                % 09730 RGTR--
+130301006 Vianden, Gare         01637                       % 09730 RGTR--
+*Z 09731 RGTR--                                             % 09731 RGTR--
+*L 188      140401004 130301006  01752  01837               % 09731 RGTR--
+*R 1 130301006 140401004 130301006  01752  01837            % 09731 RGTR--
+*G 020 140401004 130301006  01752  01837                    % 09731 RGTR--
+*A VE 140401004 130301006 000018  01752  01837              % 09731 RGTR--
+*I FD 140401004 130301006        0002625  01752  01837      % 09731 RGTR--
+140401004 Diekirch, Gare routi         01752                % 09731 RGTR--
+140401001 Diekirch, Altersheem  01753  01753                % 09731 RGTR--
+140401011 Diekirch, Alexis Hec  01754  01754                % 09731 RGTR--
+140401010 Diekirch, Place des   01755  01755                % 09731 RGTR--
+140402001 Fridhaff              01758  01758                % 09731 RGTR--
+130203001 Brandenbourg, Bakes   01802  01802                % 09731 RGTR--
+130205001 Landscheid, Kiirch    01807  01807                % 09731 RGTR--
+130108003 Groësteen             01810  01810                % 09731 RGTR--
+130105002 Putscheid, Gemengeba  01813  01813                % 09731 RGTR--
+130105003 Putscheid, Am Duerf   01814  01814                % 09731 RGTR--
+130104002 Nachtmanderscheid, P  01820  01820                % 09731 RGTR--
+130301001 Mont St. Nicolas      01822  01822                % 09731 RGTR--
+130208002 Walsdorf, An der Gaa  01828  01828                % 09731 RGTR--
+130301011 Vianden, Plank        01832  01832                % 09731 RGTR--
+130301010 Vianden, Place Engel  01833  01833                % 09731 RGTR--
+130301007 Vianden, Gemeng       01834  01834                % 09731 RGTR--
+130301006 Vianden, Gare         01837                       % 09731 RGTR--
+*Z 09732 RGTR--                                             % 09732 RGTR--
+*L 188      140401004 130301006  00652  00737               % 09732 RGTR--
+*R 1 130301006 140401004 130301006  00652  00737            % 09732 RGTR--
+*G 020 140401004 130301006  00652  00737                    % 09732 RGTR--
+*A VE 140401004 130301006 000036  00652  00737              % 09732 RGTR--
+*I FD 140401004 130301006        0002626  00652  00737      % 09732 RGTR--
+140401004 Diekirch, Gare routi         00652                % 09732 RGTR--
+140401001 Diekirch, Altersheem  00653  00653                % 09732 RGTR--
+140401011 Diekirch, Alexis Hec  00654  00654                % 09732 RGTR--
+140401010 Diekirch, Place des   00655  00655                % 09732 RGTR--
+140402001 Fridhaff              00659  00659                % 09732 RGTR--
+130203001 Brandenbourg, Bakes   00703  00703                % 09732 RGTR--
+130205001 Landscheid, Kiirch    00708  00708                % 09732 RGTR--
+130108003 Groësteen             00711  00711                % 09732 RGTR--
+130105002 Putscheid, Gemengeba  00714  00714                % 09732 RGTR--
+130105003 Putscheid, Am Duerf   00714  00714                % 09732 RGTR--
+130104002 Nachtmanderscheid, P  00720  00720                % 09732 RGTR--
+130301001 Mont St. Nicolas      00722  00722                % 09732 RGTR--
+130208002 Walsdorf, An der Gaa  00728  00728                % 09732 RGTR--
+130301011 Vianden, Plank        00732  00732                % 09732 RGTR--
+130301010 Vianden, Place Engel  00733  00733                % 09732 RGTR--
+130301007 Vianden, Gemeng       00734  00734                % 09732 RGTR--
+130301006 Vianden, Gare         00737                       % 09732 RGTR--
+*Z 09733 RGTR--                                             % 09733 RGTR--
+*L 188      140401004 130301006  00752  00837               % 09733 RGTR--
+*R 1 130301006 140401004 130301006  00752  00837            % 09733 RGTR--
+*G 020 140401004 130301006  00752  00837                    % 09733 RGTR--
+*A VE 140401004 130301006 000036  00752  00837              % 09733 RGTR--
+*I FD 140401004 130301006        0002624  00752  00837      % 09733 RGTR--
+140401004 Diekirch, Gare routi         00752                % 09733 RGTR--
+140401001 Diekirch, Altersheem  00753  00753                % 09733 RGTR--
+140401011 Diekirch, Alexis Hec  00754  00754                % 09733 RGTR--
+140401010 Diekirch, Place des   00755  00755                % 09733 RGTR--
+140402001 Fridhaff              00759  00759                % 09733 RGTR--
+130203001 Brandenbourg, Bakes   00803  00803                % 09733 RGTR--
+130205001 Landscheid, Kiirch    00808  00808                % 09733 RGTR--
+130108003 Groësteen             00811  00811                % 09733 RGTR--
+130105002 Putscheid, Gemengeba  00814  00814                % 09733 RGTR--
+130105003 Putscheid, Am Duerf   00814  00814                % 09733 RGTR--
+130104002 Nachtmanderscheid, P  00820  00820                % 09733 RGTR--
+130301001 Mont St. Nicolas      00822  00822                % 09733 RGTR--
+130208002 Walsdorf, An der Gaa  00828  00828                % 09733 RGTR--
+130301011 Vianden, Plank        00832  00832                % 09733 RGTR--
+130301010 Vianden, Place Engel  00833  00833                % 09733 RGTR--
+130301007 Vianden, Gemeng       00834  00834                % 09733 RGTR--
+130301006 Vianden, Gare         00837                       % 09733 RGTR--
+*Z 09734 RGTR--                                             % 09734 RGTR--
+*L 188      140401004 130301006  01552  01637               % 09734 RGTR--
+*R 1 130301006 140401004 130301006  01552  01637            % 09734 RGTR--
+*G 020 140401004 130301006  01552  01637                    % 09734 RGTR--
+*A VE 140401004 130301006 000036  01552  01637              % 09734 RGTR--
+*I FD 140401004 130301006        0002617  01552  01637      % 09734 RGTR--
+140401004 Diekirch, Gare routi         01552                % 09734 RGTR--
+140401001 Diekirch, Altersheem  01553  01553                % 09734 RGTR--
+140401011 Diekirch, Alexis Hec  01554  01554                % 09734 RGTR--
+140401010 Diekirch, Place des   01555  01555                % 09734 RGTR--
+140402001 Fridhaff              01559  01559                % 09734 RGTR--
+130203001 Brandenbourg, Bakes   01603  01603                % 09734 RGTR--
+130205001 Landscheid, Kiirch    01608  01608                % 09734 RGTR--
+130108003 Groësteen             01611  01611                % 09734 RGTR--
+130105002 Putscheid, Gemengeba  01614  01614                % 09734 RGTR--
+130105003 Putscheid, Am Duerf   01614  01614                % 09734 RGTR--
+130104002 Nachtmanderscheid, P  01620  01620                % 09734 RGTR--
+130301001 Mont St. Nicolas      01622  01622                % 09734 RGTR--
+130208002 Walsdorf, An der Gaa  01628  01628                % 09734 RGTR--
+130301011 Vianden, Plank        01632  01632                % 09734 RGTR--
+130301010 Vianden, Place Engel  01633  01633                % 09734 RGTR--
+130301007 Vianden, Gemeng       01634  01634                % 09734 RGTR--
+130301006 Vianden, Gare         01637                       % 09734 RGTR--
+*Z 09735 RGTR--                                             % 09735 RGTR--
+*L 188      140401004 130301006  01652  01737               % 09735 RGTR--
+*R 1 130301006 140401004 130301006  01652  01737            % 09735 RGTR--
+*G 020 140401004 130301006  01652  01737                    % 09735 RGTR--
+*A VE 140401004 130301006 000036  01652  01737              % 09735 RGTR--
+*I FD 140401004 130301006        0001219  01652  01737      % 09735 RGTR--
+140401004 Diekirch, Gare routi         01652                % 09735 RGTR--
+140401001 Diekirch, Altersheem  01653  01653                % 09735 RGTR--
+140401011 Diekirch, Alexis Hec  01654  01654                % 09735 RGTR--
+140401010 Diekirch, Place des   01655  01655                % 09735 RGTR--
+140402001 Fridhaff              01659  01659                % 09735 RGTR--
+130203001 Brandenbourg, Bakes   01703  01703                % 09735 RGTR--
+130205001 Landscheid, Kiirch    01708  01708                % 09735 RGTR--
+130108003 Groësteen             01711  01711                % 09735 RGTR--
+130105002 Putscheid, Gemengeba  01714  01714                % 09735 RGTR--
+130105003 Putscheid, Am Duerf   01714  01714                % 09735 RGTR--
+130104002 Nachtmanderscheid, P  01720  01720                % 09735 RGTR--
+130301001 Mont St. Nicolas      01722  01722                % 09735 RGTR--
+130208002 Walsdorf, An der Gaa  01728  01728                % 09735 RGTR--
+130301011 Vianden, Plank        01732  01732                % 09735 RGTR--
+130301010 Vianden, Place Engel  01733  01733                % 09735 RGTR--
+130301007 Vianden, Gemeng       01734  01734                % 09735 RGTR--
+130301006 Vianden, Gare         01737                       % 09735 RGTR--
+*Z 09736 RGTR--                                             % 09736 RGTR--
+*L 188      140401004 130301006  01752  01837               % 09736 RGTR--
+*R 1 130301006 140401004 130301006  01752  01837            % 09736 RGTR--
+*G 020 140401004 130301006  01752  01837                    % 09736 RGTR--
+*A VE 140401004 130301006 000036  01752  01837              % 09736 RGTR--
+*I FD 140401004 130301006        0002625  01752  01837      % 09736 RGTR--
+140401004 Diekirch, Gare routi         01752                % 09736 RGTR--
+140401001 Diekirch, Altersheem  01753  01753                % 09736 RGTR--
+140401011 Diekirch, Alexis Hec  01754  01754                % 09736 RGTR--
+140401010 Diekirch, Place des   01755  01755                % 09736 RGTR--
+140402001 Fridhaff              01759  01759                % 09736 RGTR--
+130203001 Brandenbourg, Bakes   01803  01803                % 09736 RGTR--
+130205001 Landscheid, Kiirch    01808  01808                % 09736 RGTR--
+130108003 Groësteen             01811  01811                % 09736 RGTR--
+130105002 Putscheid, Gemengeba  01814  01814                % 09736 RGTR--
+130105003 Putscheid, Am Duerf   01814  01814                % 09736 RGTR--
+130104002 Nachtmanderscheid, P  01820  01820                % 09736 RGTR--
+130301001 Mont St. Nicolas      01822  01822                % 09736 RGTR--
+130208002 Walsdorf, An der Gaa  01828  01828                % 09736 RGTR--
+130301011 Vianden, Plank        01832  01832                % 09736 RGTR--
+130301010 Vianden, Place Engel  01833  01833                % 09736 RGTR--
+130301007 Vianden, Gemeng       01834  01834                % 09736 RGTR--
+130301006 Vianden, Gare         01837                       % 09736 RGTR--
+*Z 09737 RGTR--                                             % 09737 RGTR--
+*L 188      130301006 140401004  00855  00940               % 09737 RGTR--
+*R 2 140401004 130301006 140401004  00855  00940            % 09737 RGTR--
+*G 020 130301006 140401004  00855  00940                    % 09737 RGTR--
+*A VE 130301006 140401004 000039  00855  00940              % 09737 RGTR--
+*I FD 130301006 140401004        0002534  00855  00940      % 09737 RGTR--
+130301006 Vianden, Gare                00855                % 09737 RGTR--
+130301007 Vianden, Gemeng       00857  00857                % 09737 RGTR--
+130301010 Vianden, Place Engel  00858  00858                % 09737 RGTR--
+130301011 Vianden, Plank        00900  00900                % 09737 RGTR--
+130208002 Walsdorf, An der Gaa  00904  00904                % 09737 RGTR--
+130301001 Mont St. Nicolas      00910  00910                % 09737 RGTR--
+130108003 Groësteen             00911  00911                % 09737 RGTR--
+130105002 Putscheid, Gemengeba  00914  00914                % 09737 RGTR--
+130105003 Putscheid, Am Duerf   00915  00915                % 09737 RGTR--
+130104002 Nachtmanderscheid, P  00921  00921                % 09737 RGTR--
+130205001 Landscheid, Kiirch    00925  00925                % 09737 RGTR--
+130203001 Brandenbourg, Bakes   00930  00930                % 09737 RGTR--
+140402001 Fridhaff              00934  00934                % 09737 RGTR--
+140401006 Diekirch, Kluuster    00938  00938                % 09737 RGTR--
+140401004 Diekirch, Gare routi  00940                       % 09737 RGTR--
+*Z 09738 RGTR--                                             % 09738 RGTR--
+*L 188      130301006 140401004  01055  01140               % 09738 RGTR--
+*R 2 140401004 130301006 140401004  01055  01140            % 09738 RGTR--
+*G 020 130301006 140401004  01055  01140                    % 09738 RGTR--
+*A VE 130301006 140401004 000039  01055  01140              % 09738 RGTR--
+*I FD 130301006 140401004        0002535  01055  01140      % 09738 RGTR--
+130301006 Vianden, Gare                01055                % 09738 RGTR--
+130301007 Vianden, Gemeng       01057  01057                % 09738 RGTR--
+130301010 Vianden, Place Engel  01058  01058                % 09738 RGTR--
+130301011 Vianden, Plank        01100  01100                % 09738 RGTR--
+130208002 Walsdorf, An der Gaa  01104  01104                % 09738 RGTR--
+130301001 Mont St. Nicolas      01110  01110                % 09738 RGTR--
+130108003 Groësteen             01111  01111                % 09738 RGTR--
+130105002 Putscheid, Gemengeba  01114  01114                % 09738 RGTR--
+130105003 Putscheid, Am Duerf   01115  01115                % 09738 RGTR--
+130104002 Nachtmanderscheid, P  01121  01121                % 09738 RGTR--
+130205001 Landscheid, Kiirch    01125  01125                % 09738 RGTR--
+130203001 Brandenbourg, Bakes   01130  01130                % 09738 RGTR--
+140402001 Fridhaff              01134  01134                % 09738 RGTR--
+140401006 Diekirch, Kluuster    01138  01138                % 09738 RGTR--
+140401004 Diekirch, Gare routi  01140                       % 09738 RGTR--
+*Z 09739 RGTR--                                             % 09739 RGTR--
+*L 188      130301006 140401004  01255  01340               % 09739 RGTR--
+*R 2 140401004 130301006 140401004  01255  01340            % 09739 RGTR--
+*G 020 130301006 140401004  01255  01340                    % 09739 RGTR--
+*A VE 130301006 140401004 000039  01255  01340              % 09739 RGTR--
+*I FD 130301006 140401004        0002536  01255  01340      % 09739 RGTR--
+130301006 Vianden, Gare                01255                % 09739 RGTR--
+130301007 Vianden, Gemeng       01257  01257                % 09739 RGTR--
+130301010 Vianden, Place Engel  01258  01258                % 09739 RGTR--
+130301011 Vianden, Plank        01300  01300                % 09739 RGTR--
+130208002 Walsdorf, An der Gaa  01304  01304                % 09739 RGTR--
+130301001 Mont St. Nicolas      01310  01310                % 09739 RGTR--
+130108003 Groësteen             01311  01311                % 09739 RGTR--
+130105002 Putscheid, Gemengeba  01314  01314                % 09739 RGTR--
+130105003 Putscheid, Am Duerf   01315  01315                % 09739 RGTR--
+130104002 Nachtmanderscheid, P  01321  01321                % 09739 RGTR--
+130205001 Landscheid, Kiirch    01325  01325                % 09739 RGTR--
+130203001 Brandenbourg, Bakes   01330  01330                % 09739 RGTR--
+140402001 Fridhaff              01334  01334                % 09739 RGTR--
+140401006 Diekirch, Kluuster    01338  01338                % 09739 RGTR--
+140401004 Diekirch, Gare routi  01340                       % 09739 RGTR--
+*Z 09740 RGTR--                                             % 09740 RGTR--
+*L 188      130301006 140401004  01455  01540               % 09740 RGTR--
+*R 2 140401004 130301006 140401004  01455  01540            % 09740 RGTR--
+*G 020 130301006 140401004  01455  01540                    % 09740 RGTR--
+*A VE 130301006 140401004 000039  01455  01540              % 09740 RGTR--
+*I FD 130301006 140401004        0002537  01455  01540      % 09740 RGTR--
+130301006 Vianden, Gare                01455                % 09740 RGTR--
+130301007 Vianden, Gemeng       01457  01457                % 09740 RGTR--
+130301010 Vianden, Place Engel  01458  01458                % 09740 RGTR--
+130301011 Vianden, Plank        01500  01500                % 09740 RGTR--
+130208002 Walsdorf, An der Gaa  01504  01504                % 09740 RGTR--
+130301001 Mont St. Nicolas      01510  01510                % 09740 RGTR--
+130108003 Groësteen             01511  01511                % 09740 RGTR--
+130105002 Putscheid, Gemengeba  01514  01514                % 09740 RGTR--
+130105003 Putscheid, Am Duerf   01515  01515                % 09740 RGTR--
+130104002 Nachtmanderscheid, P  01521  01521                % 09740 RGTR--
+130205001 Landscheid, Kiirch    01525  01525                % 09740 RGTR--
+130203001 Brandenbourg, Bakes   01530  01530                % 09740 RGTR--
+140402001 Fridhaff              01534  01534                % 09740 RGTR--
+140401006 Diekirch, Kluuster    01538  01538                % 09740 RGTR--
+140401004 Diekirch, Gare routi  01540                       % 09740 RGTR--
+*Z 09741 RGTR--                                             % 09741 RGTR--
+*L 188      130301006 140401004  01855  01940               % 09741 RGTR--
+*R 2 140401004 130301006 140401004  01855  01940            % 09741 RGTR--
+*G 020 130301006 140401004  01855  01940                    % 09741 RGTR--
+*A VE 130301006 140401004 000039  01855  01940              % 09741 RGTR--
+*I FD 130301006 140401004        0002531  01855  01940      % 09741 RGTR--
+130301006 Vianden, Gare                01855                % 09741 RGTR--
+130301007 Vianden, Gemeng       01857  01857                % 09741 RGTR--
+130301010 Vianden, Place Engel  01858  01858                % 09741 RGTR--
+130301011 Vianden, Plank        01900  01900                % 09741 RGTR--
+130208002 Walsdorf, An der Gaa  01904  01904                % 09741 RGTR--
+130301001 Mont St. Nicolas      01910  01910                % 09741 RGTR--
+130108003 Groësteen             01911  01911                % 09741 RGTR--
+130105002 Putscheid, Gemengeba  01914  01914                % 09741 RGTR--
+130105003 Putscheid, Am Duerf   01915  01915                % 09741 RGTR--
+130104002 Nachtmanderscheid, P  01921  01921                % 09741 RGTR--
+130205001 Landscheid, Kiirch    01925  01925                % 09741 RGTR--
+130203001 Brandenbourg, Bakes   01930  01930                % 09741 RGTR--
+140402001 Fridhaff              01934  01934                % 09741 RGTR--
+140401006 Diekirch, Kluuster    01938  01938                % 09741 RGTR--
+140401004 Diekirch, Gare routi  01940                       % 09741 RGTR--
+*Z 09742 RGTR--                                             % 09742 RGTR--
+*L 188      130301006 140401004  02055  02140               % 09742 RGTR--
+*R 2 140401004 130301006 140401004  02055  02140            % 09742 RGTR--
+*G 020 130301006 140401004  02055  02140                    % 09742 RGTR--
+*A VE 130301006 140401004 000039  02055  02140              % 09742 RGTR--
+*I FD 130301006 140401004        0002754  02055  02140      % 09742 RGTR--
+130301006 Vianden, Gare                02055                % 09742 RGTR--
+130301007 Vianden, Gemeng       02057  02057                % 09742 RGTR--
+130301010 Vianden, Place Engel  02058  02058                % 09742 RGTR--
+130301011 Vianden, Plank        02100  02100                % 09742 RGTR--
+130208002 Walsdorf, An der Gaa  02104  02104                % 09742 RGTR--
+130301001 Mont St. Nicolas      02110  02110                % 09742 RGTR--
+130108003 Groësteen             02111  02111                % 09742 RGTR--
+130105002 Putscheid, Gemengeba  02114  02114                % 09742 RGTR--
+130105003 Putscheid, Am Duerf   02115  02115                % 09742 RGTR--
+130104002 Nachtmanderscheid, P  02121  02121                % 09742 RGTR--
+130205001 Landscheid, Kiirch    02125  02125                % 09742 RGTR--
+130203001 Brandenbourg, Bakes   02130  02130                % 09742 RGTR--
+140402001 Fridhaff              02134  02134                % 09742 RGTR--
+140401006 Diekirch, Kluuster    02138  02138                % 09742 RGTR--
+140401004 Diekirch, Gare routi  02140                       % 09742 RGTR--
+*Z 09743 RGTR--                                             % 09743 RGTR--
+*L 188      130301006 140401004  00455  00540               % 09743 RGTR--
+*R 2 140401004 130301006 140401004  00455  00540            % 09743 RGTR--
+*G 020 130301006 140401004  00455  00540                    % 09743 RGTR--
+*A VE 130301006 140401004 000036  00455  00540              % 09743 RGTR--
+*I FD 130301006 140401004        0002533  00455  00540      % 09743 RGTR--
+130301006 Vianden, Gare                00455                % 09743 RGTR--
+130301007 Vianden, Gemeng       00457  00457                % 09743 RGTR--
+130301010 Vianden, Place Engel  00458  00458                % 09743 RGTR--
+130301011 Vianden, Plank        00500  00500                % 09743 RGTR--
+130208002 Walsdorf, An der Gaa  00504  00504                % 09743 RGTR--
+130301001 Mont St. Nicolas      00510  00510                % 09743 RGTR--
+130108003 Groësteen             00511  00511                % 09743 RGTR--
+130105002 Putscheid, Gemengeba  00514  00514                % 09743 RGTR--
+130105003 Putscheid, Am Duerf   00515  00515                % 09743 RGTR--
+130104002 Nachtmanderscheid, P  00521  00521                % 09743 RGTR--
+130205001 Landscheid, Kiirch    00525  00525                % 09743 RGTR--
+130203001 Brandenbourg, Bakes   00530  00530                % 09743 RGTR--
+140402001 Fridhaff              00534  00534                % 09743 RGTR--
+140401006 Diekirch, Kluuster    00538  00538                % 09743 RGTR--
+140401004 Diekirch, Gare routi  00540                       % 09743 RGTR--
+*Z 09744 RGTR--                                             % 09744 RGTR--
+*L 188      130301006 140401004  00555  00640               % 09744 RGTR--
+*R 2 140401004 130301006 140401004  00555  00640            % 09744 RGTR--
+*G 020 130301006 140401004  00555  00640                    % 09744 RGTR--
+*A VE 130301006 140401004 000036  00555  00640              % 09744 RGTR--
+*I FD 130301006 140401004        0002540  00555  00640      % 09744 RGTR--
+130301006 Vianden, Gare                00555                % 09744 RGTR--
+130301007 Vianden, Gemeng       00557  00557                % 09744 RGTR--
+130301010 Vianden, Place Engel  00558  00558                % 09744 RGTR--
+130301011 Vianden, Plank        00600  00600                % 09744 RGTR--
+130208002 Walsdorf, An der Gaa  00604  00604                % 09744 RGTR--
+130301001 Mont St. Nicolas      00610  00610                % 09744 RGTR--
+130108003 Groësteen             00611  00611                % 09744 RGTR--
+130105002 Putscheid, Gemengeba  00614  00614                % 09744 RGTR--
+130105003 Putscheid, Am Duerf   00615  00615                % 09744 RGTR--
+130104002 Nachtmanderscheid, P  00621  00621                % 09744 RGTR--
+130205001 Landscheid, Kiirch    00625  00625                % 09744 RGTR--
+130203001 Brandenbourg, Bakes   00630  00630                % 09744 RGTR--
+140402001 Fridhaff              00634  00634                % 09744 RGTR--
+140401006 Diekirch, Kluuster    00638  00638                % 09744 RGTR--
+140401004 Diekirch, Gare routi  00640                       % 09744 RGTR--
+*Z 09745 RGTR--                                             % 09745 RGTR--
+*L 188      130301006 140401004  00955  01040               % 09745 RGTR--
+*R 2 140401004 130301006 140401004  00955  01040            % 09745 RGTR--
+*G 020 130301006 140401004  00955  01040                    % 09745 RGTR--
+*A VE 130301006 140401004 000036  00955  01040              % 09745 RGTR--
+*I FD 130301006 140401004        0002528  00955  01040      % 09745 RGTR--
+130301006 Vianden, Gare                00955                % 09745 RGTR--
+130301007 Vianden, Gemeng       00957  00957                % 09745 RGTR--
+130301010 Vianden, Place Engel  00958  00958                % 09745 RGTR--
+130301011 Vianden, Plank        01000  01000                % 09745 RGTR--
+130208002 Walsdorf, An der Gaa  01004  01004                % 09745 RGTR--
+130301001 Mont St. Nicolas      01010  01010                % 09745 RGTR--
+130108003 Groësteen             01011  01011                % 09745 RGTR--
+130105002 Putscheid, Gemengeba  01014  01014                % 09745 RGTR--
+130105003 Putscheid, Am Duerf   01015  01015                % 09745 RGTR--
+130104002 Nachtmanderscheid, P  01021  01021                % 09745 RGTR--
+130205001 Landscheid, Kiirch    01025  01025                % 09745 RGTR--
+130203001 Brandenbourg, Bakes   01030  01030                % 09745 RGTR--
+140402001 Fridhaff              01034  01034                % 09745 RGTR--
+140401006 Diekirch, Kluuster    01038  01038                % 09745 RGTR--
+140401004 Diekirch, Gare routi  01040                       % 09745 RGTR--
+*Z 09746 RGTR--                                             % 09746 RGTR--
+*L 188      130301006 140401004  01155  01240               % 09746 RGTR--
+*R 2 140401004 130301006 140401004  01155  01240            % 09746 RGTR--
+*G 020 130301006 140401004  01155  01240                    % 09746 RGTR--
+*A VE 130301006 140401004 000036  01155  01240              % 09746 RGTR--
+*I FD 130301006 140401004        0002529  01155  01240      % 09746 RGTR--
+130301006 Vianden, Gare                01155                % 09746 RGTR--
+130301007 Vianden, Gemeng       01157  01157                % 09746 RGTR--
+130301010 Vianden, Place Engel  01158  01158                % 09746 RGTR--
+130301011 Vianden, Plank        01200  01200                % 09746 RGTR--
+130208002 Walsdorf, An der Gaa  01204  01204                % 09746 RGTR--
+130301001 Mont St. Nicolas      01210  01210                % 09746 RGTR--
+130108003 Groësteen             01211  01211                % 09746 RGTR--
+130105002 Putscheid, Gemengeba  01214  01214                % 09746 RGTR--
+130105003 Putscheid, Am Duerf   01215  01215                % 09746 RGTR--
+130104002 Nachtmanderscheid, P  01221  01221                % 09746 RGTR--
+130205001 Landscheid, Kiirch    01225  01225                % 09746 RGTR--
+130203001 Brandenbourg, Bakes   01230  01230                % 09746 RGTR--
+140402001 Fridhaff              01234  01234                % 09746 RGTR--
+140401006 Diekirch, Kluuster    01238  01238                % 09746 RGTR--
+140401004 Diekirch, Gare routi  01240                       % 09746 RGTR--
+*Z 09747 RGTR--                                             % 09747 RGTR--
+*L 188      130301006 140401004  01355  01440               % 09747 RGTR--
+*R 2 140401004 130301006 140401004  01355  01440            % 09747 RGTR--
+*G 020 130301006 140401004  01355  01440                    % 09747 RGTR--
+*A VE 130301006 140401004 000036  01355  01440              % 09747 RGTR--
+*I FD 130301006 140401004        0001171  01355  01440      % 09747 RGTR--
+130301006 Vianden, Gare                01355                % 09747 RGTR--
+130301007 Vianden, Gemeng       01357  01357                % 09747 RGTR--
+130301010 Vianden, Place Engel  01358  01358                % 09747 RGTR--
+130301011 Vianden, Plank        01400  01400                % 09747 RGTR--
+130208002 Walsdorf, An der Gaa  01404  01404                % 09747 RGTR--
+130301001 Mont St. Nicolas      01410  01410                % 09747 RGTR--
+130108003 Groësteen             01411  01411                % 09747 RGTR--
+130105002 Putscheid, Gemengeba  01414  01414                % 09747 RGTR--
+130105003 Putscheid, Am Duerf   01415  01415                % 09747 RGTR--
+130104002 Nachtmanderscheid, P  01421  01421                % 09747 RGTR--
+130205001 Landscheid, Kiirch    01425  01425                % 09747 RGTR--
+130203001 Brandenbourg, Bakes   01430  01430                % 09747 RGTR--
+140402001 Fridhaff              01434  01434                % 09747 RGTR--
+140401006 Diekirch, Kluuster    01438  01438                % 09747 RGTR--
+140401004 Diekirch, Gare routi  01440                       % 09747 RGTR--
+*Z 09748 RGTR--                                             % 09748 RGTR--
+*L 188      130301006 140401004  01555  01640               % 09748 RGTR--
+*R 2 140401004 130301006 140401004  01555  01640            % 09748 RGTR--
+*G 020 130301006 140401004  01555  01640                    % 09748 RGTR--
+*A VE 130301006 140401004 000036  01555  01640              % 09748 RGTR--
+*I FD 130301006 140401004        0002530  01555  01640      % 09748 RGTR--
+130301006 Vianden, Gare                01555                % 09748 RGTR--
+130301007 Vianden, Gemeng       01557  01557                % 09748 RGTR--
+130301010 Vianden, Place Engel  01558  01558                % 09748 RGTR--
+130301011 Vianden, Plank        01600  01600                % 09748 RGTR--
+130208002 Walsdorf, An der Gaa  01604  01604                % 09748 RGTR--
+130301001 Mont St. Nicolas      01610  01610                % 09748 RGTR--
+130108003 Groësteen             01611  01611                % 09748 RGTR--
+130105002 Putscheid, Gemengeba  01614  01614                % 09748 RGTR--
+130105003 Putscheid, Am Duerf   01615  01615                % 09748 RGTR--
+130104002 Nachtmanderscheid, P  01621  01621                % 09748 RGTR--
+130205001 Landscheid, Kiirch    01625  01625                % 09748 RGTR--
+130203001 Brandenbourg, Bakes   01630  01630                % 09748 RGTR--
+140402001 Fridhaff              01634  01634                % 09748 RGTR--
+140401006 Diekirch, Kluuster    01638  01638                % 09748 RGTR--
+140401004 Diekirch, Gare routi  01640                       % 09748 RGTR--
+*Z 09749 RGTR--                                             % 09749 RGTR--
+*L 188      130301006 140401004  01955  02040               % 09749 RGTR--
+*R 2 140401004 130301006 140401004  01955  02040            % 09749 RGTR--
+*G 020 130301006 140401004  01955  02040                    % 09749 RGTR--
+*A VE 130301006 140401004 000036  01955  02040              % 09749 RGTR--
+*I FD 130301006 140401004        0002538  01955  02040      % 09749 RGTR--
+130301006 Vianden, Gare                01955                % 09749 RGTR--
+130301007 Vianden, Gemeng       01957  01957                % 09749 RGTR--
+130301010 Vianden, Place Engel  01958  01958                % 09749 RGTR--
+130301011 Vianden, Plank        02000  02000                % 09749 RGTR--
+130208002 Walsdorf, An der Gaa  02004  02004                % 09749 RGTR--
+130301001 Mont St. Nicolas      02010  02010                % 09749 RGTR--
+130108003 Groësteen             02011  02011                % 09749 RGTR--
+130105002 Putscheid, Gemengeba  02014  02014                % 09749 RGTR--
+130105003 Putscheid, Am Duerf   02015  02015                % 09749 RGTR--
+130104002 Nachtmanderscheid, P  02021  02021                % 09749 RGTR--
+130205001 Landscheid, Kiirch    02025  02025                % 09749 RGTR--
+130203001 Brandenbourg, Bakes   02030  02030                % 09749 RGTR--
+140402001 Fridhaff              02034  02034                % 09749 RGTR--
+140401006 Diekirch, Kluuster    02038  02038                % 09749 RGTR--
+140401004 Diekirch, Gare routi  02040                       % 09749 RGTR--
+*Z 09750 RGTR--                                             % 09750 RGTR--
+*L 188      130301006 140401004  02155  02240               % 09750 RGTR--
+*R 2 140401004 130301006 140401004  02155  02240            % 09750 RGTR--
+*G 020 130301006 140401004  02155  02240                    % 09750 RGTR--
+*A VE 130301006 140401004 000036  02155  02240              % 09750 RGTR--
+*I FD 130301006 140401004        0002532  02155  02240      % 09750 RGTR--
+130301006 Vianden, Gare                02155                % 09750 RGTR--
+130301007 Vianden, Gemeng       02157  02157                % 09750 RGTR--
+130301010 Vianden, Place Engel  02158  02158                % 09750 RGTR--
+130301011 Vianden, Plank        02200  02200                % 09750 RGTR--
+130208002 Walsdorf, An der Gaa  02204  02204                % 09750 RGTR--
+130301001 Mont St. Nicolas      02210  02210                % 09750 RGTR--
+130108003 Groësteen             02211  02211                % 09750 RGTR--
+130105002 Putscheid, Gemengeba  02214  02214                % 09750 RGTR--
+130105003 Putscheid, Am Duerf   02215  02215                % 09750 RGTR--
+130104002 Nachtmanderscheid, P  02221  02221                % 09750 RGTR--
+130205001 Landscheid, Kiirch    02225  02225                % 09750 RGTR--
+130203001 Brandenbourg, Bakes   02230  02230                % 09750 RGTR--
+140402001 Fridhaff              02234  02234                % 09750 RGTR--
+140401006 Diekirch, Kluuster    02238  02238                % 09750 RGTR--
+140401004 Diekirch, Gare routi  02240                       % 09750 RGTR--
+*Z 09751 RGTR--                                             % 09751 RGTR--
+*L 188      130301006 140401004  00655  00740               % 09751 RGTR--
+*R 2 140401004 130301006 140401004  00655  00740            % 09751 RGTR--
+*G 020 130301006 140401004  00655  00740                    % 09751 RGTR--
+*A VE 130301006 140401004 000018  00655  00740              % 09751 RGTR--
+*I FD 130301006 140401004        0002541  00655  00740      % 09751 RGTR--
+130301006 Vianden, Gare                00655                % 09751 RGTR--
+130301007 Vianden, Gemeng       00657  00657                % 09751 RGTR--
+130301010 Vianden, Place Engel  00658  00658                % 09751 RGTR--
+130301011 Vianden, Plank        00700  00700                % 09751 RGTR--
+130208002 Walsdorf, An der Gaa  00704  00704                % 09751 RGTR--
+130301001 Mont St. Nicolas      00710  00710                % 09751 RGTR--
+130108003 Groësteen             00711  00711                % 09751 RGTR--
+130105002 Putscheid, Gemengeba  00714  00714                % 09751 RGTR--
+130105003 Putscheid, Am Duerf   00715  00715                % 09751 RGTR--
+130104002 Nachtmanderscheid, P  00721  00721                % 09751 RGTR--
+130205001 Landscheid, Kiirch    00725  00725                % 09751 RGTR--
+130203001 Brandenbourg, Bakes   00730  00730                % 09751 RGTR--
+140402001 Fridhaff              00734  00734                % 09751 RGTR--
+140401006 Diekirch, Kluuster    00738  00738                % 09751 RGTR--
+140401004 Diekirch, Gare routi  00740                       % 09751 RGTR--
+*Z 09752 RGTR--                                             % 09752 RGTR--
+*L 188      130301006 140401004  01655  01740               % 09752 RGTR--
+*R 2 140401004 130301006 140401004  01655  01740            % 09752 RGTR--
+*G 020 130301006 140401004  01655  01740                    % 09752 RGTR--
+*A VE 130301006 140401004 000018  01655  01740              % 09752 RGTR--
+*I FD 130301006 140401004        0001998  01655  01740      % 09752 RGTR--
+130301006 Vianden, Gare                01655                % 09752 RGTR--
+130301007 Vianden, Gemeng       01657  01657                % 09752 RGTR--
+130301010 Vianden, Place Engel  01658  01658                % 09752 RGTR--
+130301011 Vianden, Plank        01700  01700                % 09752 RGTR--
+130208002 Walsdorf, An der Gaa  01704  01704                % 09752 RGTR--
+130301001 Mont St. Nicolas      01710  01710                % 09752 RGTR--
+130108003 Groësteen             01711  01711                % 09752 RGTR--
+130105002 Putscheid, Gemengeba  01714  01714                % 09752 RGTR--
+130105003 Putscheid, Am Duerf   01715  01715                % 09752 RGTR--
+130104002 Nachtmanderscheid, P  01721  01721                % 09752 RGTR--
+130205001 Landscheid, Kiirch    01725  01725                % 09752 RGTR--
+130203001 Brandenbourg, Bakes   01730  01730                % 09752 RGTR--
+140402001 Fridhaff              01734  01734                % 09752 RGTR--
+140401006 Diekirch, Kluuster    01738  01738                % 09752 RGTR--
+140401004 Diekirch, Gare routi  01740                       % 09752 RGTR--
+*Z 09753 RGTR--                                             % 09753 RGTR--
+*L 188      130301006 140401004  00655  00740               % 09753 RGTR--
+*R 2 140401004 130301006 140401004  00655  00740            % 09753 RGTR--
+*G 020 130301006 140401004  00655  00740                    % 09753 RGTR--
+*A VE 130301006 140401004 000036  00655  00740              % 09753 RGTR--
+*I FD 130301006 140401004        0002541  00655  00740      % 09753 RGTR--
+130301006 Vianden, Gare                00655                % 09753 RGTR--
+130301007 Vianden, Gemeng       00657  00657                % 09753 RGTR--
+130301010 Vianden, Place Engel  00658  00658                % 09753 RGTR--
+130301011 Vianden, Plank        00700  00700                % 09753 RGTR--
+130208002 Walsdorf, An der Gaa  00704  00704                % 09753 RGTR--
+130301001 Mont St. Nicolas      00710  00710                % 09753 RGTR--
+130108003 Groësteen             00711  00711                % 09753 RGTR--
+130105002 Putscheid, Gemengeba  00714  00714                % 09753 RGTR--
+130105003 Putscheid, Am Duerf   00715  00715                % 09753 RGTR--
+130104002 Nachtmanderscheid, P  00721  00721                % 09753 RGTR--
+130205001 Landscheid, Kiirch    00725  00725                % 09753 RGTR--
+130203001 Brandenbourg, Bakes   00730  00730                % 09753 RGTR--
+140402001 Fridhaff              00734  00734                % 09753 RGTR--
+140401006 Diekirch, Kluuster    00738  00738                % 09753 RGTR--
+140401004 Diekirch, Gare routi  00740                       % 09753 RGTR--
+*Z 09754 RGTR--                                             % 09754 RGTR--
+*L 188      130301006 140401004  00755  00840               % 09754 RGTR--
+*R 2 140401004 130301006 140401004  00755  00840            % 09754 RGTR--
+*G 020 130301006 140401004  00755  00840                    % 09754 RGTR--
+*A VE 130301006 140401004 000036  00755  00840              % 09754 RGTR--
+*I FD 130301006 140401004        0002539  00755  00840      % 09754 RGTR--
+130301006 Vianden, Gare                00755                % 09754 RGTR--
+130301007 Vianden, Gemeng       00757  00757                % 09754 RGTR--
+130301010 Vianden, Place Engel  00758  00758                % 09754 RGTR--
+130301011 Vianden, Plank        00800  00800                % 09754 RGTR--
+130208002 Walsdorf, An der Gaa  00804  00804                % 09754 RGTR--
+130301001 Mont St. Nicolas      00810  00810                % 09754 RGTR--
+130108003 Groësteen             00811  00811                % 09754 RGTR--
+130105002 Putscheid, Gemengeba  00814  00814                % 09754 RGTR--
+130105003 Putscheid, Am Duerf   00815  00815                % 09754 RGTR--
+130104002 Nachtmanderscheid, P  00821  00821                % 09754 RGTR--
+130205001 Landscheid, Kiirch    00825  00825                % 09754 RGTR--
+130203001 Brandenbourg, Bakes   00830  00830                % 09754 RGTR--
+140402001 Fridhaff              00834  00834                % 09754 RGTR--
+140401006 Diekirch, Kluuster    00838  00838                % 09754 RGTR--
+140401004 Diekirch, Gare routi  00840                       % 09754 RGTR--
+*Z 09755 RGTR--                                             % 09755 RGTR--
+*L 188      130301006 140401004  01655  01740               % 09755 RGTR--
+*R 2 140401004 130301006 140401004  01655  01740            % 09755 RGTR--
+*G 020 130301006 140401004  01655  01740                    % 09755 RGTR--
+*A VE 130301006 140401004 000036  01655  01740              % 09755 RGTR--
+*I FD 130301006 140401004        0001998  01655  01740      % 09755 RGTR--
+130301006 Vianden, Gare                01655                % 09755 RGTR--
+130301007 Vianden, Gemeng       01657  01657                % 09755 RGTR--
+130301010 Vianden, Place Engel  01658  01658                % 09755 RGTR--
+130301011 Vianden, Plank        01700  01700                % 09755 RGTR--
+130208002 Walsdorf, An der Gaa  01704  01704                % 09755 RGTR--
+130301001 Mont St. Nicolas      01710  01710                % 09755 RGTR--
+130108003 Groësteen             01711  01711                % 09755 RGTR--
+130105002 Putscheid, Gemengeba  01714  01714                % 09755 RGTR--
+130105003 Putscheid, Am Duerf   01715  01715                % 09755 RGTR--
+130104002 Nachtmanderscheid, P  01721  01721                % 09755 RGTR--
+130205001 Landscheid, Kiirch    01725  01725                % 09755 RGTR--
+130203001 Brandenbourg, Bakes   01730  01730                % 09755 RGTR--
+140402001 Fridhaff              01734  01734                % 09755 RGTR--
+140401006 Diekirch, Kluuster    01738  01738                % 09755 RGTR--
+140401004 Diekirch, Gare routi  01740                       % 09755 RGTR--
+*Z 09756 RGTR--                                             % 09756 RGTR--
+*L 188      130301006 140401004  01755  01840               % 09756 RGTR--
+*R 2 140401004 130301006 140401004  01755  01840            % 09756 RGTR--
+*G 020 130301006 140401004  01755  01840                    % 09756 RGTR--
+*A VE 130301006 140401004 000036  01755  01840              % 09756 RGTR--
+*I FD 130301006 140401004        0001995  01755  01840      % 09756 RGTR--
+130301006 Vianden, Gare                01755                % 09756 RGTR--
+130301007 Vianden, Gemeng       01757  01757                % 09756 RGTR--
+130301010 Vianden, Place Engel  01758  01758                % 09756 RGTR--
+130301011 Vianden, Plank        01800  01800                % 09756 RGTR--
+130208002 Walsdorf, An der Gaa  01804  01804                % 09756 RGTR--
+130301001 Mont St. Nicolas      01810  01810                % 09756 RGTR--
+130108003 Groësteen             01811  01811                % 09756 RGTR--
+130105002 Putscheid, Gemengeba  01814  01814                % 09756 RGTR--
+130105003 Putscheid, Am Duerf   01815  01815                % 09756 RGTR--
+130104002 Nachtmanderscheid, P  01821  01821                % 09756 RGTR--
+130205001 Landscheid, Kiirch    01825  01825                % 09756 RGTR--
+130203001 Brandenbourg, Bakes   01830  01830                % 09756 RGTR--
+140402001 Fridhaff              01834  01834                % 09756 RGTR--
+140401006 Diekirch, Kluuster    01838  01838                % 09756 RGTR--
+140401004 Diekirch, Gare routi  01840                       % 09756 RGTR--
+*Z 09757 RGTR--                                             % 09757 RGTR--
+*L 188      140401004 130301006  00952  01037               % 09757 RGTR--
+*R 1 130301006 140401004 130301006  00952  01037            % 09757 RGTR--
+*G 020 140401004 130301006  00952  01037                    % 09757 RGTR--
+*A VE 140401004 130301006 000040  00952  01037              % 09757 RGTR--
+*I FD 140401004 130301006        0002614  00952  01037      % 09757 RGTR--
+140401004 Diekirch, Gare routi         00952                % 09757 RGTR--
+140401001 Diekirch, Altersheem  00953  00953                % 09757 RGTR--
+140401011 Diekirch, Alexis Hec  00954  00954                % 09757 RGTR--
+140401010 Diekirch, Place des   00955  00955                % 09757 RGTR--
+140402001 Fridhaff              00958  00958                % 09757 RGTR--
+130203001 Brandenbourg, Bakes   01002  01002                % 09757 RGTR--
+130205001 Landscheid, Kiirch    01007  01007                % 09757 RGTR--
+130108003 Groësteen             01010  01010                % 09757 RGTR--
+130105002 Putscheid, Gemengeba  01013  01013                % 09757 RGTR--
+130105003 Putscheid, Am Duerf   01014  01014                % 09757 RGTR--
+130104002 Nachtmanderscheid, P  01020  01020                % 09757 RGTR--
+130301001 Mont St. Nicolas      01022  01022                % 09757 RGTR--
+130208002 Walsdorf, An der Gaa  01028  01028                % 09757 RGTR--
+130301011 Vianden, Plank        01032  01032                % 09757 RGTR--
+130301010 Vianden, Place Engel  01033  01033                % 09757 RGTR--
+130301007 Vianden, Gemeng       01034  01034                % 09757 RGTR--
+130301006 Vianden, Gare         01037                       % 09757 RGTR--
+*Z 09758 RGTR--                                             % 09758 RGTR--
+*L 188      140401004 130301006  01152  01237               % 09758 RGTR--
+*R 1 130301006 140401004 130301006  01152  01237            % 09758 RGTR--
+*G 020 140401004 130301006  01152  01237                    % 09758 RGTR--
+*A VE 140401004 130301006 000040  01152  01237              % 09758 RGTR--
+*I FD 140401004 130301006        0002615  01152  01237      % 09758 RGTR--
+140401004 Diekirch, Gare routi         01152                % 09758 RGTR--
+140401001 Diekirch, Altersheem  01153  01153                % 09758 RGTR--
+140401011 Diekirch, Alexis Hec  01154  01154                % 09758 RGTR--
+140401010 Diekirch, Place des   01155  01155                % 09758 RGTR--
+140402001 Fridhaff              01158  01158                % 09758 RGTR--
+130203001 Brandenbourg, Bakes   01202  01202                % 09758 RGTR--
+130205001 Landscheid, Kiirch    01207  01207                % 09758 RGTR--
+130108003 Groësteen             01210  01210                % 09758 RGTR--
+130105002 Putscheid, Gemengeba  01213  01213                % 09758 RGTR--
+130105003 Putscheid, Am Duerf   01214  01214                % 09758 RGTR--
+130104002 Nachtmanderscheid, P  01220  01220                % 09758 RGTR--
+130301001 Mont St. Nicolas      01222  01222                % 09758 RGTR--
+130208002 Walsdorf, An der Gaa  01228  01228                % 09758 RGTR--
+130301011 Vianden, Plank        01232  01232                % 09758 RGTR--
+130301010 Vianden, Place Engel  01233  01233                % 09758 RGTR--
+130301007 Vianden, Gemeng       01234  01234                % 09758 RGTR--
+130301006 Vianden, Gare         01237                       % 09758 RGTR--
+*Z 09759 RGTR--                                             % 09759 RGTR--
+*L 188      140401004 130301006  01352  01437               % 09759 RGTR--
+*R 1 130301006 140401004 130301006  01352  01437            % 09759 RGTR--
+*G 020 140401004 130301006  01352  01437                    % 09759 RGTR--
+*A VE 140401004 130301006 000040  01352  01437              % 09759 RGTR--
+*I FD 140401004 130301006        0002616  01352  01437      % 09759 RGTR--
+140401004 Diekirch, Gare routi         01352                % 09759 RGTR--
+140401001 Diekirch, Altersheem  01353  01353                % 09759 RGTR--
+140401011 Diekirch, Alexis Hec  01354  01354                % 09759 RGTR--
+140401010 Diekirch, Place des   01355  01355                % 09759 RGTR--
+140402001 Fridhaff              01358  01358                % 09759 RGTR--
+130203001 Brandenbourg, Bakes   01402  01402                % 09759 RGTR--
+130205001 Landscheid, Kiirch    01407  01407                % 09759 RGTR--
+130108003 Groësteen             01410  01410                % 09759 RGTR--
+130105002 Putscheid, Gemengeba  01413  01413                % 09759 RGTR--
+130105003 Putscheid, Am Duerf   01414  01414                % 09759 RGTR--
+130104002 Nachtmanderscheid, P  01420  01420                % 09759 RGTR--
+130301001 Mont St. Nicolas      01422  01422                % 09759 RGTR--
+130208002 Walsdorf, An der Gaa  01428  01428                % 09759 RGTR--
+130301011 Vianden, Plank        01432  01432                % 09759 RGTR--
+130301010 Vianden, Place Engel  01433  01433                % 09759 RGTR--
+130301007 Vianden, Gemeng       01434  01434                % 09759 RGTR--
+130301006 Vianden, Gare         01437                       % 09759 RGTR--
+*Z 09760 RGTR--                                             % 09760 RGTR--
+*L 188      140401004 130301006  01952  02037               % 09760 RGTR--
+*R 1 130301006 140401004 130301006  01952  02037            % 09760 RGTR--
+*G 020 140401004 130301006  01952  02037                    % 09760 RGTR--
+*A VE 140401004 130301006 000040  01952  02037              % 09760 RGTR--
+*I FD 140401004 130301006        0002618  01952  02037      % 09760 RGTR--
+140401004 Diekirch, Gare routi         01952                % 09760 RGTR--
+140401001 Diekirch, Altersheem  01953  01953                % 09760 RGTR--
+140401011 Diekirch, Alexis Hec  01954  01954                % 09760 RGTR--
+140401010 Diekirch, Place des   01955  01955                % 09760 RGTR--
+140402001 Fridhaff              01958  01958                % 09760 RGTR--
+130203001 Brandenbourg, Bakes   02002  02002                % 09760 RGTR--
+130205001 Landscheid, Kiirch    02007  02007                % 09760 RGTR--
+130108003 Groësteen             02010  02010                % 09760 RGTR--
+130105002 Putscheid, Gemengeba  02013  02013                % 09760 RGTR--
+130105003 Putscheid, Am Duerf   02014  02014                % 09760 RGTR--
+130104002 Nachtmanderscheid, P  02020  02020                % 09760 RGTR--
+130301001 Mont St. Nicolas      02022  02022                % 09760 RGTR--
+130208002 Walsdorf, An der Gaa  02028  02028                % 09760 RGTR--
+130301011 Vianden, Plank        02032  02032                % 09760 RGTR--
+130301010 Vianden, Place Engel  02033  02033                % 09760 RGTR--
+130301007 Vianden, Gemeng       02034  02034                % 09760 RGTR--
+130301006 Vianden, Gare         02037                       % 09760 RGTR--
+*Z 09761 RGTR--                                             % 09761 RGTR--
+*L 188      140401004 130301006  02152  02237               % 09761 RGTR--
+*R 1 130301006 140401004 130301006  02152  02237            % 09761 RGTR--
+*G 020 140401004 130301006  02152  02237                    % 09761 RGTR--
+*A VE 140401004 130301006 000040  02152  02237              % 09761 RGTR--
+*I FD 140401004 130301006        0002619  02152  02237      % 09761 RGTR--
+140401004 Diekirch, Gare routi         02152                % 09761 RGTR--
+140401001 Diekirch, Altersheem  02153  02153                % 09761 RGTR--
+140401011 Diekirch, Alexis Hec  02154  02154                % 09761 RGTR--
+140401010 Diekirch, Place des   02155  02155                % 09761 RGTR--
+140402001 Fridhaff              02158  02158                % 09761 RGTR--
+130203001 Brandenbourg, Bakes   02202  02202                % 09761 RGTR--
+130205001 Landscheid, Kiirch    02207  02207                % 09761 RGTR--
+130108003 Groësteen             02210  02210                % 09761 RGTR--
+130105002 Putscheid, Gemengeba  02213  02213                % 09761 RGTR--
+130105003 Putscheid, Am Duerf   02214  02214                % 09761 RGTR--
+130104002 Nachtmanderscheid, P  02220  02220                % 09761 RGTR--
+130301001 Mont St. Nicolas      02222  02222                % 09761 RGTR--
+130208002 Walsdorf, An der Gaa  02228  02228                % 09761 RGTR--
+130301011 Vianden, Plank        02232  02232                % 09761 RGTR--
+130301010 Vianden, Place Engel  02233  02233                % 09761 RGTR--
+130301007 Vianden, Gemeng       02234  02234                % 09761 RGTR--
+130301006 Vianden, Gare         02237                       % 09761 RGTR--
+*Z 09762 RGTR--                                             % 09762 RGTR--
+*L 188      140401004 130301006  00552  00637               % 09762 RGTR--
+*R 1 130301006 140401004 130301006  00552  00637            % 09762 RGTR--
+*G 020 140401004 130301006  00552  00637                    % 09762 RGTR--
+*A VE 140401004 130301006 000038  00552  00637              % 09762 RGTR--
+*I FD 140401004 130301006        0002620  00552  00637      % 09762 RGTR--
+140401004 Diekirch, Gare routi         00552                % 09762 RGTR--
+140401001 Diekirch, Altersheem  00553  00553                % 09762 RGTR--
+140401011 Diekirch, Alexis Hec  00554  00554                % 09762 RGTR--
+140401010 Diekirch, Place des   00555  00555                % 09762 RGTR--
+140402001 Fridhaff              00558  00558                % 09762 RGTR--
+130203001 Brandenbourg, Bakes   00602  00602                % 09762 RGTR--
+130205001 Landscheid, Kiirch    00607  00607                % 09762 RGTR--
+130108003 Groësteen             00610  00610                % 09762 RGTR--
+130105002 Putscheid, Gemengeba  00613  00613                % 09762 RGTR--
+130105003 Putscheid, Am Duerf   00614  00614                % 09762 RGTR--
+130104002 Nachtmanderscheid, P  00620  00620                % 09762 RGTR--
+130301001 Mont St. Nicolas      00622  00622                % 09762 RGTR--
+130208002 Walsdorf, An der Gaa  00628  00628                % 09762 RGTR--
+130301011 Vianden, Plank        00632  00632                % 09762 RGTR--
+130301010 Vianden, Place Engel  00633  00633                % 09762 RGTR--
+130301007 Vianden, Gemeng       00634  00634                % 09762 RGTR--
+130301006 Vianden, Gare         00637                       % 09762 RGTR--
+*Z 09763 RGTR--                                             % 09763 RGTR--
+*L 188      140401004 130301006  00852  00937               % 09763 RGTR--
+*R 1 130301006 140401004 130301006  00852  00937            % 09763 RGTR--
+*G 020 140401004 130301006  00852  00937                    % 09763 RGTR--
+*A VE 140401004 130301006 000038  00852  00937              % 09763 RGTR--
+*I FD 140401004 130301006        0002622  00852  00937      % 09763 RGTR--
+140401004 Diekirch, Gare routi         00852                % 09763 RGTR--
+140401001 Diekirch, Altersheem  00853  00853                % 09763 RGTR--
+140401011 Diekirch, Alexis Hec  00854  00854                % 09763 RGTR--
+140401010 Diekirch, Place des   00855  00855                % 09763 RGTR--
+140402001 Fridhaff              00858  00858                % 09763 RGTR--
+130203001 Brandenbourg, Bakes   00902  00902                % 09763 RGTR--
+130205001 Landscheid, Kiirch    00907  00907                % 09763 RGTR--
+130108003 Groësteen             00910  00910                % 09763 RGTR--
+130105002 Putscheid, Gemengeba  00913  00913                % 09763 RGTR--
+130105003 Putscheid, Am Duerf   00914  00914                % 09763 RGTR--
+130104002 Nachtmanderscheid, P  00920  00920                % 09763 RGTR--
+130301001 Mont St. Nicolas      00922  00922                % 09763 RGTR--
+130208002 Walsdorf, An der Gaa  00928  00928                % 09763 RGTR--
+130301011 Vianden, Plank        00932  00932                % 09763 RGTR--
+130301010 Vianden, Place Engel  00933  00933                % 09763 RGTR--
+130301007 Vianden, Gemeng       00934  00934                % 09763 RGTR--
+130301006 Vianden, Gare         00937                       % 09763 RGTR--
+*Z 09764 RGTR--                                             % 09764 RGTR--
+*L 188      140401004 130301006  01052  01137               % 09764 RGTR--
+*R 1 130301006 140401004 130301006  01052  01137            % 09764 RGTR--
+*G 020 140401004 130301006  01052  01137                    % 09764 RGTR--
+*A VE 140401004 130301006 000038  01052  01137              % 09764 RGTR--
+*I FD 140401004 130301006        0003006  01052  01137      % 09764 RGTR--
+140401004 Diekirch, Gare routi         01052                % 09764 RGTR--
+140401001 Diekirch, Altersheem  01053  01053                % 09764 RGTR--
+140401011 Diekirch, Alexis Hec  01054  01054                % 09764 RGTR--
+140401010 Diekirch, Place des   01055  01055                % 09764 RGTR--
+140402001 Fridhaff              01058  01058                % 09764 RGTR--
+130203001 Brandenbourg, Bakes   01102  01102                % 09764 RGTR--
+130205001 Landscheid, Kiirch    01107  01107                % 09764 RGTR--
+130108003 Groësteen             01110  01110                % 09764 RGTR--
+130105002 Putscheid, Gemengeba  01113  01113                % 09764 RGTR--
+130105003 Putscheid, Am Duerf   01114  01114                % 09764 RGTR--
+130104002 Nachtmanderscheid, P  01120  01120                % 09764 RGTR--
+130301001 Mont St. Nicolas      01122  01122                % 09764 RGTR--
+130208002 Walsdorf, An der Gaa  01128  01128                % 09764 RGTR--
+130301011 Vianden, Plank        01132  01132                % 09764 RGTR--
+130301010 Vianden, Place Engel  01133  01133                % 09764 RGTR--
+130301007 Vianden, Gemeng       01134  01134                % 09764 RGTR--
+130301006 Vianden, Gare         01137                       % 09764 RGTR--
+*Z 09765 RGTR--                                             % 09765 RGTR--
+*L 188      140401004 130301006  01252  01337               % 09765 RGTR--
+*R 1 130301006 140401004 130301006  01252  01337            % 09765 RGTR--
+*G 020 140401004 130301006  01252  01337                    % 09765 RGTR--
+*A VE 140401004 130301006 000038  01252  01337              % 09765 RGTR--
+*I FD 140401004 130301006        0003007  01252  01337      % 09765 RGTR--
+140401004 Diekirch, Gare routi         01252                % 09765 RGTR--
+140401001 Diekirch, Altersheem  01253  01253                % 09765 RGTR--
+140401011 Diekirch, Alexis Hec  01254  01254                % 09765 RGTR--
+140401010 Diekirch, Place des   01255  01255                % 09765 RGTR--
+140402001 Fridhaff              01258  01258                % 09765 RGTR--
+130203001 Brandenbourg, Bakes   01302  01302                % 09765 RGTR--
+130205001 Landscheid, Kiirch    01307  01307                % 09765 RGTR--
+130108003 Groësteen             01310  01310                % 09765 RGTR--
+130105002 Putscheid, Gemengeba  01313  01313                % 09765 RGTR--
+130105003 Putscheid, Am Duerf   01314  01314                % 09765 RGTR--
+130104002 Nachtmanderscheid, P  01320  01320                % 09765 RGTR--
+130301001 Mont St. Nicolas      01322  01322                % 09765 RGTR--
+130208002 Walsdorf, An der Gaa  01328  01328                % 09765 RGTR--
+130301011 Vianden, Plank        01332  01332                % 09765 RGTR--
+130301010 Vianden, Place Engel  01333  01333                % 09765 RGTR--
+130301007 Vianden, Gemeng       01334  01334                % 09765 RGTR--
+130301006 Vianden, Gare         01337                       % 09765 RGTR--
+*Z 09766 RGTR--                                             % 09766 RGTR--
+*L 188      140401004 130301006  01452  01537               % 09766 RGTR--
+*R 1 130301006 140401004 130301006  01452  01537            % 09766 RGTR--
+*G 020 140401004 130301006  01452  01537                    % 09766 RGTR--
+*A VE 140401004 130301006 000038  01452  01537              % 09766 RGTR--
+*I FD 140401004 130301006        0003008  01452  01537      % 09766 RGTR--
+140401004 Diekirch, Gare routi         01452                % 09766 RGTR--
+140401001 Diekirch, Altersheem  01453  01453                % 09766 RGTR--
+140401011 Diekirch, Alexis Hec  01454  01454                % 09766 RGTR--
+140401010 Diekirch, Place des   01455  01455                % 09766 RGTR--
+140402001 Fridhaff              01458  01458                % 09766 RGTR--
+130203001 Brandenbourg, Bakes   01502  01502                % 09766 RGTR--
+130205001 Landscheid, Kiirch    01507  01507                % 09766 RGTR--
+130108003 Groësteen             01510  01510                % 09766 RGTR--
+130105002 Putscheid, Gemengeba  01513  01513                % 09766 RGTR--
+130105003 Putscheid, Am Duerf   01514  01514                % 09766 RGTR--
+130104002 Nachtmanderscheid, P  01520  01520                % 09766 RGTR--
+130301001 Mont St. Nicolas      01522  01522                % 09766 RGTR--
+130208002 Walsdorf, An der Gaa  01528  01528                % 09766 RGTR--
+130301011 Vianden, Plank        01532  01532                % 09766 RGTR--
+130301010 Vianden, Place Engel  01533  01533                % 09766 RGTR--
+130301007 Vianden, Gemeng       01534  01534                % 09766 RGTR--
+130301006 Vianden, Gare         01537                       % 09766 RGTR--
+*Z 09767 RGTR--                                             % 09767 RGTR--
+*L 188      140401004 130301006  01852  01937               % 09767 RGTR--
+*R 1 130301006 140401004 130301006  01852  01937            % 09767 RGTR--
+*G 020 140401004 130301006  01852  01937                    % 09767 RGTR--
+*A VE 140401004 130301006 000038  01852  01937              % 09767 RGTR--
+*I FD 140401004 130301006        0002623  01852  01937      % 09767 RGTR--
+140401004 Diekirch, Gare routi         01852                % 09767 RGTR--
+140401001 Diekirch, Altersheem  01853  01853                % 09767 RGTR--
+140401011 Diekirch, Alexis Hec  01854  01854                % 09767 RGTR--
+140401010 Diekirch, Place des   01855  01855                % 09767 RGTR--
+140402001 Fridhaff              01858  01858                % 09767 RGTR--
+130203001 Brandenbourg, Bakes   01902  01902                % 09767 RGTR--
+130205001 Landscheid, Kiirch    01907  01907                % 09767 RGTR--
+130108003 Groësteen             01910  01910                % 09767 RGTR--
+130105002 Putscheid, Gemengeba  01913  01913                % 09767 RGTR--
+130105003 Putscheid, Am Duerf   01914  01914                % 09767 RGTR--
+130104002 Nachtmanderscheid, P  01920  01920                % 09767 RGTR--
+130301001 Mont St. Nicolas      01922  01922                % 09767 RGTR--
+130208002 Walsdorf, An der Gaa  01928  01928                % 09767 RGTR--
+130301011 Vianden, Plank        01932  01932                % 09767 RGTR--
+130301010 Vianden, Place Engel  01933  01933                % 09767 RGTR--
+130301007 Vianden, Gemeng       01934  01934                % 09767 RGTR--
+130301006 Vianden, Gare         01937                       % 09767 RGTR--
+*Z 09768 RGTR--                                             % 09768 RGTR--
+*L 188      140401004 130301006  02052  02137               % 09768 RGTR--
+*R 1 130301006 140401004 130301006  02052  02137            % 09768 RGTR--
+*G 020 140401004 130301006  02052  02137                    % 09768 RGTR--
+*A VE 140401004 130301006 000038  02052  02137              % 09768 RGTR--
+*I FD 140401004 130301006        0003009  02052  02137      % 09768 RGTR--
+140401004 Diekirch, Gare routi         02052                % 09768 RGTR--
+140401001 Diekirch, Altersheem  02053  02053                % 09768 RGTR--
+140401011 Diekirch, Alexis Hec  02054  02054                % 09768 RGTR--
+140401010 Diekirch, Place des   02055  02055                % 09768 RGTR--
+140402001 Fridhaff              02058  02058                % 09768 RGTR--
+130203001 Brandenbourg, Bakes   02102  02102                % 09768 RGTR--
+130205001 Landscheid, Kiirch    02107  02107                % 09768 RGTR--
+130108003 Groësteen             02110  02110                % 09768 RGTR--
+130105002 Putscheid, Gemengeba  02113  02113                % 09768 RGTR--
+130105003 Putscheid, Am Duerf   02114  02114                % 09768 RGTR--
+130104002 Nachtmanderscheid, P  02120  02120                % 09768 RGTR--
+130301001 Mont St. Nicolas      02122  02122                % 09768 RGTR--
+130208002 Walsdorf, An der Gaa  02128  02128                % 09768 RGTR--
+130301011 Vianden, Plank        02132  02132                % 09768 RGTR--
+130301010 Vianden, Place Engel  02133  02133                % 09768 RGTR--
+130301007 Vianden, Gemeng       02134  02134                % 09768 RGTR--
+130301006 Vianden, Gare         02137                       % 09768 RGTR--
+*Z 09769 RGTR--                                             % 09769 RGTR--
+*L 188      140401004 130301006  00752  00837               % 09769 RGTR--
+*R 1 130301006 140401004 130301006  00752  00837            % 09769 RGTR--
+*G 020 140401004 130301006  00752  00837                    % 09769 RGTR--
+*A VE 140401004 130301006 000016  00752  00837              % 09769 RGTR--
+*I FD 140401004 130301006        0002624  00752  00837      % 09769 RGTR--
+140401004 Diekirch, Gare routi         00752                % 09769 RGTR--
+140401001 Diekirch, Altersheem  00753  00753                % 09769 RGTR--
+140401011 Diekirch, Alexis Hec  00754  00754                % 09769 RGTR--
+140401010 Diekirch, Place des   00755  00755                % 09769 RGTR--
+140402001 Fridhaff              00758  00758                % 09769 RGTR--
+130203001 Brandenbourg, Bakes   00802  00802                % 09769 RGTR--
+130205001 Landscheid, Kiirch    00807  00807                % 09769 RGTR--
+130108003 Groësteen             00810  00810                % 09769 RGTR--
+130105002 Putscheid, Gemengeba  00813  00813                % 09769 RGTR--
+130105003 Putscheid, Am Duerf   00814  00814                % 09769 RGTR--
+130104002 Nachtmanderscheid, P  00820  00820                % 09769 RGTR--
+130301001 Mont St. Nicolas      00822  00822                % 09769 RGTR--
+130208002 Walsdorf, An der Gaa  00828  00828                % 09769 RGTR--
+130301011 Vianden, Plank        00832  00832                % 09769 RGTR--
+130301010 Vianden, Place Engel  00833  00833                % 09769 RGTR--
+130301007 Vianden, Gemeng       00834  00834                % 09769 RGTR--
+130301006 Vianden, Gare         00837                       % 09769 RGTR--
+*Z 09770 RGTR--                                             % 09770 RGTR--
+*L 188      140401004 130301006  01552  01637               % 09770 RGTR--
+*R 1 130301006 140401004 130301006  01552  01637            % 09770 RGTR--
+*G 020 140401004 130301006  01552  01637                    % 09770 RGTR--
+*A VE 140401004 130301006 000016  01552  01637              % 09770 RGTR--
+*I FD 140401004 130301006        0002617  01552  01637      % 09770 RGTR--
+140401004 Diekirch, Gare routi         01552                % 09770 RGTR--
+140401001 Diekirch, Altersheem  01553  01553                % 09770 RGTR--
+140401011 Diekirch, Alexis Hec  01554  01554                % 09770 RGTR--
+140401010 Diekirch, Place des   01555  01555                % 09770 RGTR--
+140402001 Fridhaff              01558  01558                % 09770 RGTR--
+130203001 Brandenbourg, Bakes   01602  01602                % 09770 RGTR--
+130205001 Landscheid, Kiirch    01607  01607                % 09770 RGTR--
+130108003 Groësteen             01610  01610                % 09770 RGTR--
+130105002 Putscheid, Gemengeba  01613  01613                % 09770 RGTR--
+130105003 Putscheid, Am Duerf   01614  01614                % 09770 RGTR--
+130104002 Nachtmanderscheid, P  01620  01620                % 09770 RGTR--
+130301001 Mont St. Nicolas      01622  01622                % 09770 RGTR--
+130208002 Walsdorf, An der Gaa  01628  01628                % 09770 RGTR--
+130301011 Vianden, Plank        01632  01632                % 09770 RGTR--
+130301010 Vianden, Place Engel  01633  01633                % 09770 RGTR--
+130301007 Vianden, Gemeng       01634  01634                % 09770 RGTR--
+130301006 Vianden, Gare         01637                       % 09770 RGTR--
+*Z 09771 RGTR--                                             % 09771 RGTR--
+*L 188      140401004 130301006  01752  01837               % 09771 RGTR--
+*R 1 130301006 140401004 130301006  01752  01837            % 09771 RGTR--
+*G 020 140401004 130301006  01752  01837                    % 09771 RGTR--
+*A VE 140401004 130301006 000016  01752  01837              % 09771 RGTR--
+*I FD 140401004 130301006        0002625  01752  01837      % 09771 RGTR--
+140401004 Diekirch, Gare routi         01752                % 09771 RGTR--
+140401001 Diekirch, Altersheem  01753  01753                % 09771 RGTR--
+140401011 Diekirch, Alexis Hec  01754  01754                % 09771 RGTR--
+140401010 Diekirch, Place des   01755  01755                % 09771 RGTR--
+140402001 Fridhaff              01758  01758                % 09771 RGTR--
+130203001 Brandenbourg, Bakes   01802  01802                % 09771 RGTR--
+130205001 Landscheid, Kiirch    01807  01807                % 09771 RGTR--
+130108003 Groësteen             01810  01810                % 09771 RGTR--
+130105002 Putscheid, Gemengeba  01813  01813                % 09771 RGTR--
+130105003 Putscheid, Am Duerf   01814  01814                % 09771 RGTR--
+130104002 Nachtmanderscheid, P  01820  01820                % 09771 RGTR--
+130301001 Mont St. Nicolas      01822  01822                % 09771 RGTR--
+130208002 Walsdorf, An der Gaa  01828  01828                % 09771 RGTR--
+130301011 Vianden, Plank        01832  01832                % 09771 RGTR--
+130301010 Vianden, Place Engel  01833  01833                % 09771 RGTR--
+130301007 Vianden, Gemeng       01834  01834                % 09771 RGTR--
+130301006 Vianden, Gare         01837                       % 09771 RGTR--
+*Z 09772 RGTR--                                             % 09772 RGTR--
+*L 188      140401004 130301006  00652  00737               % 09772 RGTR--
+*R 1 130301006 140401004 130301006  00652  00737            % 09772 RGTR--
+*G 020 140401004 130301006  00652  00737                    % 09772 RGTR--
+*A VE 140401004 130301006 000038  00652  00737              % 09772 RGTR--
+*I FD 140401004 130301006        0002626  00652  00737      % 09772 RGTR--
+140401004 Diekirch, Gare routi         00652                % 09772 RGTR--
+140401001 Diekirch, Altersheem  00653  00653                % 09772 RGTR--
+140401011 Diekirch, Alexis Hec  00654  00654                % 09772 RGTR--
+140401010 Diekirch, Place des   00655  00655                % 09772 RGTR--
+140402001 Fridhaff              00659  00659                % 09772 RGTR--
+130203001 Brandenbourg, Bakes   00703  00703                % 09772 RGTR--
+130205001 Landscheid, Kiirch    00708  00708                % 09772 RGTR--
+130108003 Groësteen             00711  00711                % 09772 RGTR--
+130105002 Putscheid, Gemengeba  00714  00714                % 09772 RGTR--
+130105003 Putscheid, Am Duerf   00714  00714                % 09772 RGTR--
+130104002 Nachtmanderscheid, P  00720  00720                % 09772 RGTR--
+130301001 Mont St. Nicolas      00722  00722                % 09772 RGTR--
+130208002 Walsdorf, An der Gaa  00728  00728                % 09772 RGTR--
+130301011 Vianden, Plank        00732  00732                % 09772 RGTR--
+130301010 Vianden, Place Engel  00733  00733                % 09772 RGTR--
+130301007 Vianden, Gemeng       00734  00734                % 09772 RGTR--
+130301006 Vianden, Gare         00737                       % 09772 RGTR--
+*Z 09773 RGTR--                                             % 09773 RGTR--
+*L 188      140401004 130301006  00752  00837               % 09773 RGTR--
+*R 1 130301006 140401004 130301006  00752  00837            % 09773 RGTR--
+*G 020 140401004 130301006  00752  00837                    % 09773 RGTR--
+*A VE 140401004 130301006 000038  00752  00837              % 09773 RGTR--
+*I FD 140401004 130301006        0002624  00752  00837      % 09773 RGTR--
+140401004 Diekirch, Gare routi         00752                % 09773 RGTR--
+140401001 Diekirch, Altersheem  00753  00753                % 09773 RGTR--
+140401011 Diekirch, Alexis Hec  00754  00754                % 09773 RGTR--
+140401010 Diekirch, Place des   00755  00755                % 09773 RGTR--
+140402001 Fridhaff              00759  00759                % 09773 RGTR--
+130203001 Brandenbourg, Bakes   00803  00803                % 09773 RGTR--
+130205001 Landscheid, Kiirch    00808  00808                % 09773 RGTR--
+130108003 Groësteen             00811  00811                % 09773 RGTR--
+130105002 Putscheid, Gemengeba  00814  00814                % 09773 RGTR--
+130105003 Putscheid, Am Duerf   00814  00814                % 09773 RGTR--
+130104002 Nachtmanderscheid, P  00820  00820                % 09773 RGTR--
+130301001 Mont St. Nicolas      00822  00822                % 09773 RGTR--
+130208002 Walsdorf, An der Gaa  00828  00828                % 09773 RGTR--
+130301011 Vianden, Plank        00832  00832                % 09773 RGTR--
+130301010 Vianden, Place Engel  00833  00833                % 09773 RGTR--
+130301007 Vianden, Gemeng       00834  00834                % 09773 RGTR--
+130301006 Vianden, Gare         00837                       % 09773 RGTR--
+*Z 09774 RGTR--                                             % 09774 RGTR--
+*L 188      140401004 130301006  01552  01637               % 09774 RGTR--
+*R 1 130301006 140401004 130301006  01552  01637            % 09774 RGTR--
+*G 020 140401004 130301006  01552  01637                    % 09774 RGTR--
+*A VE 140401004 130301006 000038  01552  01637              % 09774 RGTR--
+*I FD 140401004 130301006        0002617  01552  01637      % 09774 RGTR--
+140401004 Diekirch, Gare routi         01552                % 09774 RGTR--
+140401001 Diekirch, Altersheem  01553  01553                % 09774 RGTR--
+140401011 Diekirch, Alexis Hec  01554  01554                % 09774 RGTR--
+140401010 Diekirch, Place des   01555  01555                % 09774 RGTR--
+140402001 Fridhaff              01559  01559                % 09774 RGTR--
+130203001 Brandenbourg, Bakes   01603  01603                % 09774 RGTR--
+130205001 Landscheid, Kiirch    01608  01608                % 09774 RGTR--
+130108003 Groësteen             01611  01611                % 09774 RGTR--
+130105002 Putscheid, Gemengeba  01614  01614                % 09774 RGTR--
+130105003 Putscheid, Am Duerf   01614  01614                % 09774 RGTR--
+130104002 Nachtmanderscheid, P  01620  01620                % 09774 RGTR--
+130301001 Mont St. Nicolas      01622  01622                % 09774 RGTR--
+130208002 Walsdorf, An der Gaa  01628  01628                % 09774 RGTR--
+130301011 Vianden, Plank        01632  01632                % 09774 RGTR--
+130301010 Vianden, Place Engel  01633  01633                % 09774 RGTR--
+130301007 Vianden, Gemeng       01634  01634                % 09774 RGTR--
+130301006 Vianden, Gare         01637                       % 09774 RGTR--
+*Z 09775 RGTR--                                             % 09775 RGTR--
+*L 188      140401004 130301006  01652  01737               % 09775 RGTR--
+*R 1 130301006 140401004 130301006  01652  01737            % 09775 RGTR--
+*G 020 140401004 130301006  01652  01737                    % 09775 RGTR--
+*A VE 140401004 130301006 000038  01652  01737              % 09775 RGTR--
+*I FD 140401004 130301006        0001219  01652  01737      % 09775 RGTR--
+140401004 Diekirch, Gare routi         01652                % 09775 RGTR--
+140401001 Diekirch, Altersheem  01653  01653                % 09775 RGTR--
+140401011 Diekirch, Alexis Hec  01654  01654                % 09775 RGTR--
+140401010 Diekirch, Place des   01655  01655                % 09775 RGTR--
+140402001 Fridhaff              01659  01659                % 09775 RGTR--
+130203001 Brandenbourg, Bakes   01703  01703                % 09775 RGTR--
+130205001 Landscheid, Kiirch    01708  01708                % 09775 RGTR--
+130108003 Groësteen             01711  01711                % 09775 RGTR--
+130105002 Putscheid, Gemengeba  01714  01714                % 09775 RGTR--
+130105003 Putscheid, Am Duerf   01714  01714                % 09775 RGTR--
+130104002 Nachtmanderscheid, P  01720  01720                % 09775 RGTR--
+130301001 Mont St. Nicolas      01722  01722                % 09775 RGTR--
+130208002 Walsdorf, An der Gaa  01728  01728                % 09775 RGTR--
+130301011 Vianden, Plank        01732  01732                % 09775 RGTR--
+130301010 Vianden, Place Engel  01733  01733                % 09775 RGTR--
+130301007 Vianden, Gemeng       01734  01734                % 09775 RGTR--
+130301006 Vianden, Gare         01737                       % 09775 RGTR--
+*Z 09776 RGTR--                                             % 09776 RGTR--
+*L 188      140401004 130301006  01752  01837               % 09776 RGTR--
+*R 1 130301006 140401004 130301006  01752  01837            % 09776 RGTR--
+*G 020 140401004 130301006  01752  01837                    % 09776 RGTR--
+*A VE 140401004 130301006 000038  01752  01837              % 09776 RGTR--
+*I FD 140401004 130301006        0002625  01752  01837      % 09776 RGTR--
+140401004 Diekirch, Gare routi         01752                % 09776 RGTR--
+140401001 Diekirch, Altersheem  01753  01753                % 09776 RGTR--
+140401011 Diekirch, Alexis Hec  01754  01754                % 09776 RGTR--
+140401010 Diekirch, Place des   01755  01755                % 09776 RGTR--
+140402001 Fridhaff              01759  01759                % 09776 RGTR--
+130203001 Brandenbourg, Bakes   01803  01803                % 09776 RGTR--
+130205001 Landscheid, Kiirch    01808  01808                % 09776 RGTR--
+130108003 Groësteen             01811  01811                % 09776 RGTR--
+130105002 Putscheid, Gemengeba  01814  01814                % 09776 RGTR--
+130105003 Putscheid, Am Duerf   01814  01814                % 09776 RGTR--
+130104002 Nachtmanderscheid, P  01820  01820                % 09776 RGTR--
+130301001 Mont St. Nicolas      01822  01822                % 09776 RGTR--
+130208002 Walsdorf, An der Gaa  01828  01828                % 09776 RGTR--
+130301011 Vianden, Plank        01832  01832                % 09776 RGTR--
+130301010 Vianden, Place Engel  01833  01833                % 09776 RGTR--
+130301007 Vianden, Gemeng       01834  01834                % 09776 RGTR--
+130301006 Vianden, Gare         01837                       % 09776 RGTR--
+*Z 09777 RGTR--                                             % 09777 RGTR--
+*L 188      130301006 140401004  00855  00940               % 09777 RGTR--
+*R 2 140401004 130301006 140401004  00855  00940            % 09777 RGTR--
+*G 020 130301006 140401004  00855  00940                    % 09777 RGTR--
+*A VE 130301006 140401004 000040  00855  00940              % 09777 RGTR--
+*I FD 130301006 140401004        0002534  00855  00940      % 09777 RGTR--
+130301006 Vianden, Gare                00855                % 09777 RGTR--
+130301007 Vianden, Gemeng       00857  00857                % 09777 RGTR--
+130301010 Vianden, Place Engel  00858  00858                % 09777 RGTR--
+130301011 Vianden, Plank        00900  00900                % 09777 RGTR--
+130208002 Walsdorf, An der Gaa  00904  00904                % 09777 RGTR--
+130301001 Mont St. Nicolas      00910  00910                % 09777 RGTR--
+130108003 Groësteen             00911  00911                % 09777 RGTR--
+130105002 Putscheid, Gemengeba  00914  00914                % 09777 RGTR--
+130105003 Putscheid, Am Duerf   00915  00915                % 09777 RGTR--
+130104002 Nachtmanderscheid, P  00921  00921                % 09777 RGTR--
+130205001 Landscheid, Kiirch    00925  00925                % 09777 RGTR--
+130203001 Brandenbourg, Bakes   00930  00930                % 09777 RGTR--
+140402001 Fridhaff              00934  00934                % 09777 RGTR--
+140401006 Diekirch, Kluuster    00938  00938                % 09777 RGTR--
+140401004 Diekirch, Gare routi  00940                       % 09777 RGTR--
+*Z 09778 RGTR--                                             % 09778 RGTR--
+*L 188      130301006 140401004  01055  01140               % 09778 RGTR--
+*R 2 140401004 130301006 140401004  01055  01140            % 09778 RGTR--
+*G 020 130301006 140401004  01055  01140                    % 09778 RGTR--
+*A VE 130301006 140401004 000040  01055  01140              % 09778 RGTR--
+*I FD 130301006 140401004        0002535  01055  01140      % 09778 RGTR--
+130301006 Vianden, Gare                01055                % 09778 RGTR--
+130301007 Vianden, Gemeng       01057  01057                % 09778 RGTR--
+130301010 Vianden, Place Engel  01058  01058                % 09778 RGTR--
+130301011 Vianden, Plank        01100  01100                % 09778 RGTR--
+130208002 Walsdorf, An der Gaa  01104  01104                % 09778 RGTR--
+130301001 Mont St. Nicolas      01110  01110                % 09778 RGTR--
+130108003 Groësteen             01111  01111                % 09778 RGTR--
+130105002 Putscheid, Gemengeba  01114  01114                % 09778 RGTR--
+130105003 Putscheid, Am Duerf   01115  01115                % 09778 RGTR--
+130104002 Nachtmanderscheid, P  01121  01121                % 09778 RGTR--
+130205001 Landscheid, Kiirch    01125  01125                % 09778 RGTR--
+130203001 Brandenbourg, Bakes   01130  01130                % 09778 RGTR--
+140402001 Fridhaff              01134  01134                % 09778 RGTR--
+140401006 Diekirch, Kluuster    01138  01138                % 09778 RGTR--
+140401004 Diekirch, Gare routi  01140                       % 09778 RGTR--
+*Z 09779 RGTR--                                             % 09779 RGTR--
+*L 188      130301006 140401004  01255  01340               % 09779 RGTR--
+*R 2 140401004 130301006 140401004  01255  01340            % 09779 RGTR--
+*G 020 130301006 140401004  01255  01340                    % 09779 RGTR--
+*A VE 130301006 140401004 000040  01255  01340              % 09779 RGTR--
+*I FD 130301006 140401004        0002536  01255  01340      % 09779 RGTR--
+130301006 Vianden, Gare                01255                % 09779 RGTR--
+130301007 Vianden, Gemeng       01257  01257                % 09779 RGTR--
+130301010 Vianden, Place Engel  01258  01258                % 09779 RGTR--
+130301011 Vianden, Plank        01300  01300                % 09779 RGTR--
+130208002 Walsdorf, An der Gaa  01304  01304                % 09779 RGTR--
+130301001 Mont St. Nicolas      01310  01310                % 09779 RGTR--
+130108003 Groësteen             01311  01311                % 09779 RGTR--
+130105002 Putscheid, Gemengeba  01314  01314                % 09779 RGTR--
+130105003 Putscheid, Am Duerf   01315  01315                % 09779 RGTR--
+130104002 Nachtmanderscheid, P  01321  01321                % 09779 RGTR--
+130205001 Landscheid, Kiirch    01325  01325                % 09779 RGTR--
+130203001 Brandenbourg, Bakes   01330  01330                % 09779 RGTR--
+140402001 Fridhaff              01334  01334                % 09779 RGTR--
+140401006 Diekirch, Kluuster    01338  01338                % 09779 RGTR--
+140401004 Diekirch, Gare routi  01340                       % 09779 RGTR--
+*Z 09780 RGTR--                                             % 09780 RGTR--
+*L 188      130301006 140401004  01455  01540               % 09780 RGTR--
+*R 2 140401004 130301006 140401004  01455  01540            % 09780 RGTR--
+*G 020 130301006 140401004  01455  01540                    % 09780 RGTR--
+*A VE 130301006 140401004 000040  01455  01540              % 09780 RGTR--
+*I FD 130301006 140401004        0002537  01455  01540      % 09780 RGTR--
+130301006 Vianden, Gare                01455                % 09780 RGTR--
+130301007 Vianden, Gemeng       01457  01457                % 09780 RGTR--
+130301010 Vianden, Place Engel  01458  01458                % 09780 RGTR--
+130301011 Vianden, Plank        01500  01500                % 09780 RGTR--
+130208002 Walsdorf, An der Gaa  01504  01504                % 09780 RGTR--
+130301001 Mont St. Nicolas      01510  01510                % 09780 RGTR--
+130108003 Groësteen             01511  01511                % 09780 RGTR--
+130105002 Putscheid, Gemengeba  01514  01514                % 09780 RGTR--
+130105003 Putscheid, Am Duerf   01515  01515                % 09780 RGTR--
+130104002 Nachtmanderscheid, P  01521  01521                % 09780 RGTR--
+130205001 Landscheid, Kiirch    01525  01525                % 09780 RGTR--
+130203001 Brandenbourg, Bakes   01530  01530                % 09780 RGTR--
+140402001 Fridhaff              01534  01534                % 09780 RGTR--
+140401006 Diekirch, Kluuster    01538  01538                % 09780 RGTR--
+140401004 Diekirch, Gare routi  01540                       % 09780 RGTR--
+*Z 09781 RGTR--                                             % 09781 RGTR--
+*L 188      130301006 140401004  01855  01940               % 09781 RGTR--
+*R 2 140401004 130301006 140401004  01855  01940            % 09781 RGTR--
+*G 020 130301006 140401004  01855  01940                    % 09781 RGTR--
+*A VE 130301006 140401004 000040  01855  01940              % 09781 RGTR--
+*I FD 130301006 140401004        0002531  01855  01940      % 09781 RGTR--
+130301006 Vianden, Gare                01855                % 09781 RGTR--
+130301007 Vianden, Gemeng       01857  01857                % 09781 RGTR--
+130301010 Vianden, Place Engel  01858  01858                % 09781 RGTR--
+130301011 Vianden, Plank        01900  01900                % 09781 RGTR--
+130208002 Walsdorf, An der Gaa  01904  01904                % 09781 RGTR--
+130301001 Mont St. Nicolas      01910  01910                % 09781 RGTR--
+130108003 Groësteen             01911  01911                % 09781 RGTR--
+130105002 Putscheid, Gemengeba  01914  01914                % 09781 RGTR--
+130105003 Putscheid, Am Duerf   01915  01915                % 09781 RGTR--
+130104002 Nachtmanderscheid, P  01921  01921                % 09781 RGTR--
+130205001 Landscheid, Kiirch    01925  01925                % 09781 RGTR--
+130203001 Brandenbourg, Bakes   01930  01930                % 09781 RGTR--
+140402001 Fridhaff              01934  01934                % 09781 RGTR--
+140401006 Diekirch, Kluuster    01938  01938                % 09781 RGTR--
+140401004 Diekirch, Gare routi  01940                       % 09781 RGTR--
+*Z 09782 RGTR--                                             % 09782 RGTR--
+*L 188      130301006 140401004  02055  02140               % 09782 RGTR--
+*R 2 140401004 130301006 140401004  02055  02140            % 09782 RGTR--
+*G 020 130301006 140401004  02055  02140                    % 09782 RGTR--
+*A VE 130301006 140401004 000040  02055  02140              % 09782 RGTR--
+*I FD 130301006 140401004        0002754  02055  02140      % 09782 RGTR--
+130301006 Vianden, Gare                02055                % 09782 RGTR--
+130301007 Vianden, Gemeng       02057  02057                % 09782 RGTR--
+130301010 Vianden, Place Engel  02058  02058                % 09782 RGTR--
+130301011 Vianden, Plank        02100  02100                % 09782 RGTR--
+130208002 Walsdorf, An der Gaa  02104  02104                % 09782 RGTR--
+130301001 Mont St. Nicolas      02110  02110                % 09782 RGTR--
+130108003 Groësteen             02111  02111                % 09782 RGTR--
+130105002 Putscheid, Gemengeba  02114  02114                % 09782 RGTR--
+130105003 Putscheid, Am Duerf   02115  02115                % 09782 RGTR--
+130104002 Nachtmanderscheid, P  02121  02121                % 09782 RGTR--
+130205001 Landscheid, Kiirch    02125  02125                % 09782 RGTR--
+130203001 Brandenbourg, Bakes   02130  02130                % 09782 RGTR--
+140402001 Fridhaff              02134  02134                % 09782 RGTR--
+140401006 Diekirch, Kluuster    02138  02138                % 09782 RGTR--
+140401004 Diekirch, Gare routi  02140                       % 09782 RGTR--
+*Z 09783 RGTR--                                             % 09783 RGTR--
+*L 188      130301006 140401004  00455  00540               % 09783 RGTR--
+*R 2 140401004 130301006 140401004  00455  00540            % 09783 RGTR--
+*G 020 130301006 140401004  00455  00540                    % 09783 RGTR--
+*A VE 130301006 140401004 000038  00455  00540              % 09783 RGTR--
+*I FD 130301006 140401004        0002533  00455  00540      % 09783 RGTR--
+130301006 Vianden, Gare                00455                % 09783 RGTR--
+130301007 Vianden, Gemeng       00457  00457                % 09783 RGTR--
+130301010 Vianden, Place Engel  00458  00458                % 09783 RGTR--
+130301011 Vianden, Plank        00500  00500                % 09783 RGTR--
+130208002 Walsdorf, An der Gaa  00504  00504                % 09783 RGTR--
+130301001 Mont St. Nicolas      00510  00510                % 09783 RGTR--
+130108003 Groësteen             00511  00511                % 09783 RGTR--
+130105002 Putscheid, Gemengeba  00514  00514                % 09783 RGTR--
+130105003 Putscheid, Am Duerf   00515  00515                % 09783 RGTR--
+130104002 Nachtmanderscheid, P  00521  00521                % 09783 RGTR--
+130205001 Landscheid, Kiirch    00525  00525                % 09783 RGTR--
+130203001 Brandenbourg, Bakes   00530  00530                % 09783 RGTR--
+140402001 Fridhaff              00534  00534                % 09783 RGTR--
+140401006 Diekirch, Kluuster    00538  00538                % 09783 RGTR--
+140401004 Diekirch, Gare routi  00540                       % 09783 RGTR--
+*Z 09784 RGTR--                                             % 09784 RGTR--
+*L 188      130301006 140401004  00555  00640               % 09784 RGTR--
+*R 2 140401004 130301006 140401004  00555  00640            % 09784 RGTR--
+*G 020 130301006 140401004  00555  00640                    % 09784 RGTR--
+*A VE 130301006 140401004 000038  00555  00640              % 09784 RGTR--
+*I FD 130301006 140401004        0002540  00555  00640      % 09784 RGTR--
+130301006 Vianden, Gare                00555                % 09784 RGTR--
+130301007 Vianden, Gemeng       00557  00557                % 09784 RGTR--
+130301010 Vianden, Place Engel  00558  00558                % 09784 RGTR--
+130301011 Vianden, Plank        00600  00600                % 09784 RGTR--
+130208002 Walsdorf, An der Gaa  00604  00604                % 09784 RGTR--
+130301001 Mont St. Nicolas      00610  00610                % 09784 RGTR--
+130108003 Groësteen             00611  00611                % 09784 RGTR--
+130105002 Putscheid, Gemengeba  00614  00614                % 09784 RGTR--
+130105003 Putscheid, Am Duerf   00615  00615                % 09784 RGTR--
+130104002 Nachtmanderscheid, P  00621  00621                % 09784 RGTR--
+130205001 Landscheid, Kiirch    00625  00625                % 09784 RGTR--
+130203001 Brandenbourg, Bakes   00630  00630                % 09784 RGTR--
+140402001 Fridhaff              00634  00634                % 09784 RGTR--
+140401006 Diekirch, Kluuster    00638  00638                % 09784 RGTR--
+140401004 Diekirch, Gare routi  00640                       % 09784 RGTR--
+*Z 09785 RGTR--                                             % 09785 RGTR--
+*L 188      130301006 140401004  00955  01040               % 09785 RGTR--
+*R 2 140401004 130301006 140401004  00955  01040            % 09785 RGTR--
+*G 020 130301006 140401004  00955  01040                    % 09785 RGTR--
+*A VE 130301006 140401004 000038  00955  01040              % 09785 RGTR--
+*I FD 130301006 140401004        0002528  00955  01040      % 09785 RGTR--
+130301006 Vianden, Gare                00955                % 09785 RGTR--
+130301007 Vianden, Gemeng       00957  00957                % 09785 RGTR--
+130301010 Vianden, Place Engel  00958  00958                % 09785 RGTR--
+130301011 Vianden, Plank        01000  01000                % 09785 RGTR--
+130208002 Walsdorf, An der Gaa  01004  01004                % 09785 RGTR--
+130301001 Mont St. Nicolas      01010  01010                % 09785 RGTR--
+130108003 Groësteen             01011  01011                % 09785 RGTR--
+130105002 Putscheid, Gemengeba  01014  01014                % 09785 RGTR--
+130105003 Putscheid, Am Duerf   01015  01015                % 09785 RGTR--
+130104002 Nachtmanderscheid, P  01021  01021                % 09785 RGTR--
+130205001 Landscheid, Kiirch    01025  01025                % 09785 RGTR--
+130203001 Brandenbourg, Bakes   01030  01030                % 09785 RGTR--
+140402001 Fridhaff              01034  01034                % 09785 RGTR--
+140401006 Diekirch, Kluuster    01038  01038                % 09785 RGTR--
+140401004 Diekirch, Gare routi  01040                       % 09785 RGTR--
+*Z 09786 RGTR--                                             % 09786 RGTR--
+*L 188      130301006 140401004  01155  01240               % 09786 RGTR--
+*R 2 140401004 130301006 140401004  01155  01240            % 09786 RGTR--
+*G 020 130301006 140401004  01155  01240                    % 09786 RGTR--
+*A VE 130301006 140401004 000038  01155  01240              % 09786 RGTR--
+*I FD 130301006 140401004        0002529  01155  01240      % 09786 RGTR--
+130301006 Vianden, Gare                01155                % 09786 RGTR--
+130301007 Vianden, Gemeng       01157  01157                % 09786 RGTR--
+130301010 Vianden, Place Engel  01158  01158                % 09786 RGTR--
+130301011 Vianden, Plank        01200  01200                % 09786 RGTR--
+130208002 Walsdorf, An der Gaa  01204  01204                % 09786 RGTR--
+130301001 Mont St. Nicolas      01210  01210                % 09786 RGTR--
+130108003 Groësteen             01211  01211                % 09786 RGTR--
+130105002 Putscheid, Gemengeba  01214  01214                % 09786 RGTR--
+130105003 Putscheid, Am Duerf   01215  01215                % 09786 RGTR--
+130104002 Nachtmanderscheid, P  01221  01221                % 09786 RGTR--
+130205001 Landscheid, Kiirch    01225  01225                % 09786 RGTR--
+130203001 Brandenbourg, Bakes   01230  01230                % 09786 RGTR--
+140402001 Fridhaff              01234  01234                % 09786 RGTR--
+140401006 Diekirch, Kluuster    01238  01238                % 09786 RGTR--
+140401004 Diekirch, Gare routi  01240                       % 09786 RGTR--
+*Z 09787 RGTR--                                             % 09787 RGTR--
+*L 188      130301006 140401004  01355  01440               % 09787 RGTR--
+*R 2 140401004 130301006 140401004  01355  01440            % 09787 RGTR--
+*G 020 130301006 140401004  01355  01440                    % 09787 RGTR--
+*A VE 130301006 140401004 000038  01355  01440              % 09787 RGTR--
+*I FD 130301006 140401004        0001171  01355  01440      % 09787 RGTR--
+130301006 Vianden, Gare                01355                % 09787 RGTR--
+130301007 Vianden, Gemeng       01357  01357                % 09787 RGTR--
+130301010 Vianden, Place Engel  01358  01358                % 09787 RGTR--
+130301011 Vianden, Plank        01400  01400                % 09787 RGTR--
+130208002 Walsdorf, An der Gaa  01404  01404                % 09787 RGTR--
+130301001 Mont St. Nicolas      01410  01410                % 09787 RGTR--
+130108003 Groësteen             01411  01411                % 09787 RGTR--
+130105002 Putscheid, Gemengeba  01414  01414                % 09787 RGTR--
+130105003 Putscheid, Am Duerf   01415  01415                % 09787 RGTR--
+130104002 Nachtmanderscheid, P  01421  01421                % 09787 RGTR--
+130205001 Landscheid, Kiirch    01425  01425                % 09787 RGTR--
+130203001 Brandenbourg, Bakes   01430  01430                % 09787 RGTR--
+140402001 Fridhaff              01434  01434                % 09787 RGTR--
+140401006 Diekirch, Kluuster    01438  01438                % 09787 RGTR--
+140401004 Diekirch, Gare routi  01440                       % 09787 RGTR--
+*Z 09788 RGTR--                                             % 09788 RGTR--
+*L 188      130301006 140401004  01555  01640               % 09788 RGTR--
+*R 2 140401004 130301006 140401004  01555  01640            % 09788 RGTR--
+*G 020 130301006 140401004  01555  01640                    % 09788 RGTR--
+*A VE 130301006 140401004 000038  01555  01640              % 09788 RGTR--
+*I FD 130301006 140401004        0002530  01555  01640      % 09788 RGTR--
+130301006 Vianden, Gare                01555                % 09788 RGTR--
+130301007 Vianden, Gemeng       01557  01557                % 09788 RGTR--
+130301010 Vianden, Place Engel  01558  01558                % 09788 RGTR--
+130301011 Vianden, Plank        01600  01600                % 09788 RGTR--
+130208002 Walsdorf, An der Gaa  01604  01604                % 09788 RGTR--
+130301001 Mont St. Nicolas      01610  01610                % 09788 RGTR--
+130108003 Groësteen             01611  01611                % 09788 RGTR--
+130105002 Putscheid, Gemengeba  01614  01614                % 09788 RGTR--
+130105003 Putscheid, Am Duerf   01615  01615                % 09788 RGTR--
+130104002 Nachtmanderscheid, P  01621  01621                % 09788 RGTR--
+130205001 Landscheid, Kiirch    01625  01625                % 09788 RGTR--
+130203001 Brandenbourg, Bakes   01630  01630                % 09788 RGTR--
+140402001 Fridhaff              01634  01634                % 09788 RGTR--
+140401006 Diekirch, Kluuster    01638  01638                % 09788 RGTR--
+140401004 Diekirch, Gare routi  01640                       % 09788 RGTR--
+*Z 09789 RGTR--                                             % 09789 RGTR--
+*L 188      130301006 140401004  01955  02040               % 09789 RGTR--
+*R 2 140401004 130301006 140401004  01955  02040            % 09789 RGTR--
+*G 020 130301006 140401004  01955  02040                    % 09789 RGTR--
+*A VE 130301006 140401004 000038  01955  02040              % 09789 RGTR--
+*I FD 130301006 140401004        0002538  01955  02040      % 09789 RGTR--
+130301006 Vianden, Gare                01955                % 09789 RGTR--
+130301007 Vianden, Gemeng       01957  01957                % 09789 RGTR--
+130301010 Vianden, Place Engel  01958  01958                % 09789 RGTR--
+130301011 Vianden, Plank        02000  02000                % 09789 RGTR--
+130208002 Walsdorf, An der Gaa  02004  02004                % 09789 RGTR--
+130301001 Mont St. Nicolas      02010  02010                % 09789 RGTR--
+130108003 Groësteen             02011  02011                % 09789 RGTR--
+130105002 Putscheid, Gemengeba  02014  02014                % 09789 RGTR--
+130105003 Putscheid, Am Duerf   02015  02015                % 09789 RGTR--
+130104002 Nachtmanderscheid, P  02021  02021                % 09789 RGTR--
+130205001 Landscheid, Kiirch    02025  02025                % 09789 RGTR--
+130203001 Brandenbourg, Bakes   02030  02030                % 09789 RGTR--
+140402001 Fridhaff              02034  02034                % 09789 RGTR--
+140401006 Diekirch, Kluuster    02038  02038                % 09789 RGTR--
+140401004 Diekirch, Gare routi  02040                       % 09789 RGTR--
+*Z 09790 RGTR--                                             % 09790 RGTR--
+*L 188      130301006 140401004  02155  02240               % 09790 RGTR--
+*R 2 140401004 130301006 140401004  02155  02240            % 09790 RGTR--
+*G 020 130301006 140401004  02155  02240                    % 09790 RGTR--
+*A VE 130301006 140401004 000038  02155  02240              % 09790 RGTR--
+*I FD 130301006 140401004        0002532  02155  02240      % 09790 RGTR--
+130301006 Vianden, Gare                02155                % 09790 RGTR--
+130301007 Vianden, Gemeng       02157  02157                % 09790 RGTR--
+130301010 Vianden, Place Engel  02158  02158                % 09790 RGTR--
+130301011 Vianden, Plank        02200  02200                % 09790 RGTR--
+130208002 Walsdorf, An der Gaa  02204  02204                % 09790 RGTR--
+130301001 Mont St. Nicolas      02210  02210                % 09790 RGTR--
+130108003 Groësteen             02211  02211                % 09790 RGTR--
+130105002 Putscheid, Gemengeba  02214  02214                % 09790 RGTR--
+130105003 Putscheid, Am Duerf   02215  02215                % 09790 RGTR--
+130104002 Nachtmanderscheid, P  02221  02221                % 09790 RGTR--
+130205001 Landscheid, Kiirch    02225  02225                % 09790 RGTR--
+130203001 Brandenbourg, Bakes   02230  02230                % 09790 RGTR--
+140402001 Fridhaff              02234  02234                % 09790 RGTR--
+140401006 Diekirch, Kluuster    02238  02238                % 09790 RGTR--
+140401004 Diekirch, Gare routi  02240                       % 09790 RGTR--
+*Z 09791 RGTR--                                             % 09791 RGTR--
+*L 188      130301006 140401004  00655  00740               % 09791 RGTR--
+*R 2 140401004 130301006 140401004  00655  00740            % 09791 RGTR--
+*G 020 130301006 140401004  00655  00740                    % 09791 RGTR--
+*A VE 130301006 140401004 000016  00655  00740              % 09791 RGTR--
+*I FD 130301006 140401004        0002541  00655  00740      % 09791 RGTR--
+130301006 Vianden, Gare                00655                % 09791 RGTR--
+130301007 Vianden, Gemeng       00657  00657                % 09791 RGTR--
+130301010 Vianden, Place Engel  00658  00658                % 09791 RGTR--
+130301011 Vianden, Plank        00700  00700                % 09791 RGTR--
+130208002 Walsdorf, An der Gaa  00704  00704                % 09791 RGTR--
+130301001 Mont St. Nicolas      00710  00710                % 09791 RGTR--
+130108003 Groësteen             00711  00711                % 09791 RGTR--
+130105002 Putscheid, Gemengeba  00714  00714                % 09791 RGTR--
+130105003 Putscheid, Am Duerf   00715  00715                % 09791 RGTR--
+130104002 Nachtmanderscheid, P  00721  00721                % 09791 RGTR--
+130205001 Landscheid, Kiirch    00725  00725                % 09791 RGTR--
+130203001 Brandenbourg, Bakes   00730  00730                % 09791 RGTR--
+140402001 Fridhaff              00734  00734                % 09791 RGTR--
+140401006 Diekirch, Kluuster    00738  00738                % 09791 RGTR--
+140401004 Diekirch, Gare routi  00740                       % 09791 RGTR--
+*Z 09792 RGTR--                                             % 09792 RGTR--
+*L 188      130301006 140401004  01655  01740               % 09792 RGTR--
+*R 2 140401004 130301006 140401004  01655  01740            % 09792 RGTR--
+*G 020 130301006 140401004  01655  01740                    % 09792 RGTR--
+*A VE 130301006 140401004 000016  01655  01740              % 09792 RGTR--
+*I FD 130301006 140401004        0001998  01655  01740      % 09792 RGTR--
+130301006 Vianden, Gare                01655                % 09792 RGTR--
+130301007 Vianden, Gemeng       01657  01657                % 09792 RGTR--
+130301010 Vianden, Place Engel  01658  01658                % 09792 RGTR--
+130301011 Vianden, Plank        01700  01700                % 09792 RGTR--
+130208002 Walsdorf, An der Gaa  01704  01704                % 09792 RGTR--
+130301001 Mont St. Nicolas      01710  01710                % 09792 RGTR--
+130108003 Groësteen             01711  01711                % 09792 RGTR--
+130105002 Putscheid, Gemengeba  01714  01714                % 09792 RGTR--
+130105003 Putscheid, Am Duerf   01715  01715                % 09792 RGTR--
+130104002 Nachtmanderscheid, P  01721  01721                % 09792 RGTR--
+130205001 Landscheid, Kiirch    01725  01725                % 09792 RGTR--
+130203001 Brandenbourg, Bakes   01730  01730                % 09792 RGTR--
+140402001 Fridhaff              01734  01734                % 09792 RGTR--
+140401006 Diekirch, Kluuster    01738  01738                % 09792 RGTR--
+140401004 Diekirch, Gare routi  01740                       % 09792 RGTR--
+*Z 09793 RGTR--                                             % 09793 RGTR--
+*L 188      130301006 140401004  00655  00740               % 09793 RGTR--
+*R 2 140401004 130301006 140401004  00655  00740            % 09793 RGTR--
+*G 020 130301006 140401004  00655  00740                    % 09793 RGTR--
+*A VE 130301006 140401004 000038  00655  00740              % 09793 RGTR--
+*I FD 130301006 140401004        0002541  00655  00740      % 09793 RGTR--
+130301006 Vianden, Gare                00655                % 09793 RGTR--
+130301007 Vianden, Gemeng       00657  00657                % 09793 RGTR--
+130301010 Vianden, Place Engel  00658  00658                % 09793 RGTR--
+130301011 Vianden, Plank        00700  00700                % 09793 RGTR--
+130208002 Walsdorf, An der Gaa  00704  00704                % 09793 RGTR--
+130301001 Mont St. Nicolas      00710  00710                % 09793 RGTR--
+130108003 Groësteen             00711  00711                % 09793 RGTR--
+130105002 Putscheid, Gemengeba  00714  00714                % 09793 RGTR--
+130105003 Putscheid, Am Duerf   00715  00715                % 09793 RGTR--
+130104002 Nachtmanderscheid, P  00721  00721                % 09793 RGTR--
+130205001 Landscheid, Kiirch    00725  00725                % 09793 RGTR--
+130203001 Brandenbourg, Bakes   00730  00730                % 09793 RGTR--
+140402001 Fridhaff              00734  00734                % 09793 RGTR--
+140401006 Diekirch, Kluuster    00738  00738                % 09793 RGTR--
+140401004 Diekirch, Gare routi  00740                       % 09793 RGTR--
+*Z 09794 RGTR--                                             % 09794 RGTR--
+*L 188      130301006 140401004  00755  00840               % 09794 RGTR--
+*R 2 140401004 130301006 140401004  00755  00840            % 09794 RGTR--
+*G 020 130301006 140401004  00755  00840                    % 09794 RGTR--
+*A VE 130301006 140401004 000038  00755  00840              % 09794 RGTR--
+*I FD 130301006 140401004        0002539  00755  00840      % 09794 RGTR--
+130301006 Vianden, Gare                00755                % 09794 RGTR--
+130301007 Vianden, Gemeng       00757  00757                % 09794 RGTR--
+130301010 Vianden, Place Engel  00758  00758                % 09794 RGTR--
+130301011 Vianden, Plank        00800  00800                % 09794 RGTR--
+130208002 Walsdorf, An der Gaa  00804  00804                % 09794 RGTR--
+130301001 Mont St. Nicolas      00810  00810                % 09794 RGTR--
+130108003 Groësteen             00811  00811                % 09794 RGTR--
+130105002 Putscheid, Gemengeba  00814  00814                % 09794 RGTR--
+130105003 Putscheid, Am Duerf   00815  00815                % 09794 RGTR--
+130104002 Nachtmanderscheid, P  00821  00821                % 09794 RGTR--
+130205001 Landscheid, Kiirch    00825  00825                % 09794 RGTR--
+130203001 Brandenbourg, Bakes   00830  00830                % 09794 RGTR--
+140402001 Fridhaff              00834  00834                % 09794 RGTR--
+140401006 Diekirch, Kluuster    00838  00838                % 09794 RGTR--
+140401004 Diekirch, Gare routi  00840                       % 09794 RGTR--
+*Z 09795 RGTR--                                             % 09795 RGTR--
+*L 188      130301006 140401004  01655  01740               % 09795 RGTR--
+*R 2 140401004 130301006 140401004  01655  01740            % 09795 RGTR--
+*G 020 130301006 140401004  01655  01740                    % 09795 RGTR--
+*A VE 130301006 140401004 000038  01655  01740              % 09795 RGTR--
+*I FD 130301006 140401004        0001998  01655  01740      % 09795 RGTR--
+130301006 Vianden, Gare                01655                % 09795 RGTR--
+130301007 Vianden, Gemeng       01657  01657                % 09795 RGTR--
+130301010 Vianden, Place Engel  01658  01658                % 09795 RGTR--
+130301011 Vianden, Plank        01700  01700                % 09795 RGTR--
+130208002 Walsdorf, An der Gaa  01704  01704                % 09795 RGTR--
+130301001 Mont St. Nicolas      01710  01710                % 09795 RGTR--
+130108003 Groësteen             01711  01711                % 09795 RGTR--
+130105002 Putscheid, Gemengeba  01714  01714                % 09795 RGTR--
+130105003 Putscheid, Am Duerf   01715  01715                % 09795 RGTR--
+130104002 Nachtmanderscheid, P  01721  01721                % 09795 RGTR--
+130205001 Landscheid, Kiirch    01725  01725                % 09795 RGTR--
+130203001 Brandenbourg, Bakes   01730  01730                % 09795 RGTR--
+140402001 Fridhaff              01734  01734                % 09795 RGTR--
+140401006 Diekirch, Kluuster    01738  01738                % 09795 RGTR--
+140401004 Diekirch, Gare routi  01740                       % 09795 RGTR--
+*Z 09796 RGTR--                                             % 09796 RGTR--
+*L 188      130301006 140401004  01755  01840               % 09796 RGTR--
+*R 2 140401004 130301006 140401004  01755  01840            % 09796 RGTR--
+*G 020 130301006 140401004  01755  01840                    % 09796 RGTR--
+*A VE 130301006 140401004 000038  01755  01840              % 09796 RGTR--
+*I FD 130301006 140401004        0001995  01755  01840      % 09796 RGTR--
+130301006 Vianden, Gare                01755                % 09796 RGTR--
+130301007 Vianden, Gemeng       01757  01757                % 09796 RGTR--
+130301010 Vianden, Place Engel  01758  01758                % 09796 RGTR--
+130301011 Vianden, Plank        01800  01800                % 09796 RGTR--
+130208002 Walsdorf, An der Gaa  01804  01804                % 09796 RGTR--
+130301001 Mont St. Nicolas      01810  01810                % 09796 RGTR--
+130108003 Groësteen             01811  01811                % 09796 RGTR--
+130105002 Putscheid, Gemengeba  01814  01814                % 09796 RGTR--
+130105003 Putscheid, Am Duerf   01815  01815                % 09796 RGTR--
+130104002 Nachtmanderscheid, P  01821  01821                % 09796 RGTR--
+130205001 Landscheid, Kiirch    01825  01825                % 09796 RGTR--
+130203001 Brandenbourg, Bakes   01830  01830                % 09796 RGTR--
+140402001 Fridhaff              01834  01834                % 09796 RGTR--
+140401006 Diekirch, Kluuster    01838  01838                % 09796 RGTR--
+140401004 Diekirch, Gare routi  01840                       % 09796 RGTR--

@@ -1,0 +1,104 @@
+*F 03 2
+*Z 18999 RGTR--                                             % 18999 RGTR--
+*L P18      120903023 110409001  01208  01258               % 18999 RGTR--
+*A cj 120903023 110409001 000046  01208  01258              % 18999 RGTR--
+*A ad 120903023 110409001 000046  01208  01258              % 18999 RGTR--
+*R 1 110409001 120903023 110409001  01208  01258            % 18999 RGTR--
+*G 050 120903023 110409001  01208  01258                    % 18999 RGTR--
+*A VE 120903023 110409001 000046  01208  01258              % 18999 RGTR--
+*I FD 120903023 110409001        0002467  01208  01258      % 18999 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 18999 RGTR--
+120903021 Wiltz, Lann           01211  01211                % 18999 RGTR--
+120903041 Wiltz, Wéinebeerig    01212  01212                % 18999 RGTR--
+120903040 Weidingen, Wegdicher  01213  01213                % 18999 RGTR--
+120902001 Weidingen, Erpeldang  01214  01214                % 18999 RGTR--
+120903007 Weidingen, Erpeldang  01214  01214                % 18999 RGTR--
+120301002 Erpeldange/Wiltz      01215  01215                % 18999 RGTR--
+110501003 Drauffelt, Op der Lé  01222  01222                % 18999 RGTR--
+110501002 Drauffelt, Gare rout  01224  01224                % 18999 RGTR--
+110101008 Clervaux, Pl. de la   01233  01233                % 18999 RGTR--
+110101011 Clervaux, Postes      01234  01234                % 18999 RGTR--
+110101004 Clervaux, Maison de   01235  01235                % 18999 RGTR--
+110101002 Clervaux, Gare routi  01236  01236                % 18999 RGTR--
+110101004 Clervaux, Maison de   01237  01237                % 18999 RGTR--
+110101009 Clervaux, Place Bene  01238  01238                % 18999 RGTR--
+110103003 Reuler, Hôh           01240  01240                % 18999 RGTR--
+110403006 Hosingen, Bayrischt   01248  01248                % 18999 RGTR--
+110403005 Hosingen, Bei der Ki  01248  01248                % 18999 RGTR--
+110403001 Hosingen, Eesberwee   01249  01249                % 18999 RGTR--
+110403003 Hosingen, Z.A.E.R.    01250  01250                % 18999 RGTR--
+110203003 Um Schinker           01251  01251                % 18999 RGTR--
+110409003 Wahlhausen, Jouseps   01254  01254                % 18999 RGTR--
+110409005 Wahlhausen, Burebier  01255  01255                % 18999 RGTR--
+110409002 Wahlhausen, Am Duerf  01256  01256                % 18999 RGTR--
+110409006 Wahlhausen, Kiirch    01257  01257                % 18999 RGTR--
+110409001 Wahlhausen, Akescht   01258                       % 18999 RGTR--
+*Z 19000 RGTR--                                             % 19000 RGTR--
+*L P18      120903023 110409001  01615  01705               % 19000 RGTR--
+*A cj 120903023 110409001 000047  01615  01705              % 19000 RGTR--
+*A ad 120903023 110409001 000047  01615  01705              % 19000 RGTR--
+*R 1 110409001 120903023 110409001  01615  01705            % 19000 RGTR--
+*G 050 120903023 110409001  01615  01705                    % 19000 RGTR--
+*A VE 120903023 110409001 000047  01615  01705              % 19000 RGTR--
+*I FD 120903023 110409001        0001895  01615  01705      % 19000 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 19000 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 19000 RGTR--
+120903041 Wiltz, Wéinebeerig    01619  01619                % 19000 RGTR--
+120903040 Weidingen, Wegdicher  01620  01620                % 19000 RGTR--
+120902001 Weidingen, Erpeldang  01621  01621                % 19000 RGTR--
+120903007 Weidingen, Erpeldang  01621  01621                % 19000 RGTR--
+120301002 Erpeldange/Wiltz      01622  01622                % 19000 RGTR--
+110501003 Drauffelt, Op der Lé  01629  01629                % 19000 RGTR--
+110501002 Drauffelt, Gare rout  01631  01631                % 19000 RGTR--
+110101008 Clervaux, Pl. de la   01640  01640                % 19000 RGTR--
+110101011 Clervaux, Postes      01641  01641                % 19000 RGTR--
+110101004 Clervaux, Maison de   01642  01642                % 19000 RGTR--
+110101002 Clervaux, Gare routi  01643  01643                % 19000 RGTR--
+110101004 Clervaux, Maison de   01644  01644                % 19000 RGTR--
+110101009 Clervaux, Place Bene  01645  01645                % 19000 RGTR--
+110103003 Reuler, Hôh           01647  01647                % 19000 RGTR--
+110403006 Hosingen, Bayrischt   01655  01655                % 19000 RGTR--
+110403005 Hosingen, Bei der Ki  01655  01655                % 19000 RGTR--
+110403001 Hosingen, Eesberwee   01656  01656                % 19000 RGTR--
+110403003 Hosingen, Z.A.E.R.    01657  01657                % 19000 RGTR--
+110203003 Um Schinker           01658  01658                % 19000 RGTR--
+110409003 Wahlhausen, Jouseps   01701  01701                % 19000 RGTR--
+110409005 Wahlhausen, Burebier  01702  01702                % 19000 RGTR--
+110409002 Wahlhausen, Am Duerf  01703  01703                % 19000 RGTR--
+110409006 Wahlhausen, Kiirch    01704  01704                % 19000 RGTR--
+110409001 Wahlhausen, Akescht   01705                       % 19000 RGTR--
+*Z 19001 RGTR--                                             % 19001 RGTR--
+*L P18      110409001 120903023  00645  00735               % 19001 RGTR--
+*A cj 110409001 120903023 000042  00645  00735              % 19001 RGTR--
+*A ad 110409001 120903023 000042  00645  00735              % 19001 RGTR--
+*R 2 120903023 110409001 120903023  00645  00735            % 19001 RGTR--
+*G 050 110409001 120903023  00645  00735                    % 19001 RGTR--
+*A VE 110409001 120903023 000042  00645  00735              % 19001 RGTR--
+*I FD 110409001 120903023        0002336  00645  00735      % 19001 RGTR--
+110409001 Wahlhausen, Akescht          00645                % 19001 RGTR--
+110409006 Wahlhausen, Kiirch    00646  00646                % 19001 RGTR--
+110409002 Wahlhausen, Am Duerf  00646  00646                % 19001 RGTR--
+110409005 Wahlhausen, Burebier  00647  00647                % 19001 RGTR--
+110409003 Wahlhausen, Jouseps   00648  00648                % 19001 RGTR--
+110203003 Um Schinker           00651  00651                % 19001 RGTR--
+110403003 Hosingen, Z.A.E.R.    00653  00653                % 19001 RGTR--
+110403001 Hosingen, Eesberwee   00654  00654                % 19001 RGTR--
+110403002 Hosingen, Ewescht Du  00655  00655                % 19001 RGTR--
+110403006 Hosingen, Bayrischt   00656  00656                % 19001 RGTR--
+110103003 Reuler, Hôh           00703  00703                % 19001 RGTR--
+110101008 Clervaux, Pl. de la   00705  00705                % 19001 RGTR--
+110101011 Clervaux, Postes      00706  00706                % 19001 RGTR--
+110101004 Clervaux, Maison de   00707  00707                % 19001 RGTR--
+110101002 Clervaux, Gare routi  00708  00708                % 19001 RGTR--
+110101004 Clervaux, Maison de   00709  00709                % 19001 RGTR--
+110101009 Clervaux, Place Bene  00710  00710                % 19001 RGTR--
+110101010 Clervaux, Police      00712  00712                % 19001 RGTR--
+110501002 Drauffelt, Gare rout  00719  00719                % 19001 RGTR--
+110501003 Drauffelt, Op der Lé  00720  00720                % 19001 RGTR--
+120301002 Erpeldange/Wiltz      00729  00729                % 19001 RGTR--
+120903007 Weidingen, Erpeldang  00730  00730                % 19001 RGTR--
+120902001 Weidingen, Erpeldang  00730  00730                % 19001 RGTR--
+120903040 Weidingen, Wegdicher  00731  00731                % 19001 RGTR--
+120903041 Wiltz, Wéinebeerig    00731  00731                % 19001 RGTR--
+120903021 Wiltz, Lann           00732  00732                % 19001 RGTR--
+120903023 Wiltz, Lycée du Nord  00735                       % 19001 RGTR--

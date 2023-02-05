@@ -1,0 +1,131 @@
+*F 03 2
+*Z 18869 RGTR--                                             % 18869 RGTR--
+*L M08      200405045 150606005  00652  00742               % 18869 RGTR--
+*A cj 200405045 150606005 000042  00652  00742              % 18869 RGTR--
+*A ad 200405045 150606005 000042  00652  00742              % 18869 RGTR--
+*R 1 150606005 200405045 150606005  00652  00742            % 18869 RGTR--
+*G 070 200405045 150606005  00652  00742                    % 18869 RGTR--
+*A VE 200405045 150606005 000042  00652  00742              % 18869 RGTR--
+*I FD 200405045 150606005        0002626  00652  00742      % 18869 RGTR--
+200405045 Centre, Stäreplaz /          00652                % 18869 RGTR--
+200425006 Rollingergrund, Roud  00658  00658                % 18869 RGTR--
+190801004 Bridel, Stuff         00703  00703                % 18869 RGTR--
+190801005 Bridel, Taverne       00704  00704                % 18869 RGTR--
+190801002 Bridel, Flamo         00705  00705                % 18869 RGTR--
+190801001 Bridel, Berk          00705  00705                % 18869 RGTR--
+190802002 Kopstal, Kapell       00707  00707                % 18869 RGTR--
+190802001 Kopstal, Bréck        00708  00708                % 18869 RGTR--
+190601001 Dondelange/Dondel     00714  00714                % 18869 RGTR--
+190601002 Dondelange, Pompstat  00715  00715                % 18869 RGTR--
+161102001 Bour                  00716  00716                % 18869 RGTR--
+161106005 Tuntange, Weisserche  00719  00719                % 18869 RGTR--
+161106001 Tuntange, Duerf       00720  00720                % 18869 RGTR--
+161106004 Tuntange, Sëllerstro  00721  00721                % 18869 RGTR--
+150704003 Saeul, Gemeng         00724  00724                % 18869 RGTR--
+150705002 Schwebach, Pont P&R   00727  00727                % 18869 RGTR--
+150802001 Rippweiler, Beim Nös  00729  00729                % 18869 RGTR--
+150106001 Noerdange, Ale Pompj  00732  00732                % 18869 RGTR--
+150106004 Noerdange, Bei der P  00733  00733                % 18869 RGTR--
+150106002 Noerdange, A Batzent  00734  00734                % 18869 RGTR--
+150604002 Niederpallen, Veräin  00736  00736                % 18869 RGTR--
+150604001 Niederpallen, Ditzeb  00736  00736                % 18869 RGTR--
+150606010 Redange/Attert, Solu  00738  00738                % 18869 RGTR--
+150606008 Redange/Attert, Schl  00738  00738                % 18869 RGTR--
+150606004 Redange/Attert, Geme  00739  00739                % 18869 RGTR--
+150606009 Redange/Attert, Scho  00741  00741                % 18869 RGTR--
+150606005 Redange/Attert, Lycé  00742                       % 18869 RGTR--
+*Z 18870 RGTR--                                             % 18870 RGTR--
+*L M08      150704003 150606005  00725  00743               % 18870 RGTR--
+*A cj 150704003 150606005 000042  00725  00743              % 18870 RGTR--
+*A ad 150704003 150606005 000042  00725  00743              % 18870 RGTR--
+*R 1 150606005 150704003 150606005  00725  00743            % 18870 RGTR--
+*G 050 150704003 150606005  00725  00743                    % 18870 RGTR--
+*A VE 150704003 150606005 000042  00725  00743              % 18870 RGTR--
+*I FD 150704003 150606005        0001921  00725  00743      % 18870 RGTR--
+150704003 Saeul, Gemeng                00725                % 18870 RGTR--
+150705002 Schwebach, Pont P&R   00728  00728                % 18870 RGTR--
+150802001 Rippweiler, Beim Nös  00730  00730                % 18870 RGTR--
+150106001 Noerdange, Ale Pompj  00733  00733                % 18870 RGTR--
+150106004 Noerdange, Bei der P  00734  00734                % 18870 RGTR--
+150106002 Noerdange, A Batzent  00735  00735                % 18870 RGTR--
+150604002 Niederpallen, Veräin  00737  00737                % 18870 RGTR--
+150604001 Niederpallen, Ditzeb  00737  00737                % 18870 RGTR--
+150606010 Redange/Attert, Solu  00738  00738                % 18870 RGTR--
+150606008 Redange/Attert, Schl  00739  00739                % 18870 RGTR--
+150606004 Redange/Attert, Geme  00740  00740                % 18870 RGTR--
+150606009 Redange/Attert, Scho  00742  00742                % 18870 RGTR--
+150606005 Redange/Attert, Lycé  00743                       % 18870 RGTR--
+*Z 18871 RGTR--                                             % 18871 RGTR--
+*L M08      150606005 200405045  01225  01312               % 18871 RGTR--
+*A cj 150606005 200405045 000007  01225  01312              % 18871 RGTR--
+*A ad 150606005 200405045 000007  01225  01312              % 18871 RGTR--
+*R 2 200405045 150606005 200405045  01225  01312            % 18871 RGTR--
+*G 070 150606005 200405045  01225  01312                    % 18871 RGTR--
+*A VE 150606005 200405045 000007  01225  01312              % 18871 RGTR--
+*I FD 150606005 200405045        0002422  01225  01312      % 18871 RGTR--
+150606005 Redange/Attert, Lycé         01225                % 18871 RGTR--
+150606009 Redange/Attert, Scho  01226  01226                % 18871 RGTR--
+150606007 Redange/Attert, Ospe  01227  01227                % 18871 RGTR--
+150606003 Redange, Gare         01228  01228                % 18871 RGTR--
+150606001 Redange/Attert, Bian  01229  01229                % 18871 RGTR--
+150606008 Redange/Attert, Schl  01230  01230                % 18871 RGTR--
+150606010 Redange/Attert, Solu  01231  01231                % 18871 RGTR--
+150604001 Niederpallen, Ditzeb  01232  01232                % 18871 RGTR--
+150604002 Niederpallen, Veräin  01232  01232                % 18871 RGTR--
+150106002 Noerdange, A Batzent  01234  01234                % 18871 RGTR--
+150106004 Noerdange, Bei der P  01235  01235                % 18871 RGTR--
+150106001 Noerdange, Ale Pompj  01235  01235                % 18871 RGTR--
+150802001 Rippweiler, Beim Nös  01238  01238                % 18871 RGTR--
+150705002 Schwebach, Pont P&R   01240  01240                % 18871 RGTR--
+150704003 Saeul, Gemeng         01243  01243                % 18871 RGTR--
+161106004 Tuntange, Sëllerstro  01245  01245                % 18871 RGTR--
+161106001 Tuntange, Duerf       01246  01246                % 18871 RGTR--
+161106005 Tuntange, Weisserche  01247  01247                % 18871 RGTR--
+161102001 Bour                  01249  01249                % 18871 RGTR--
+190601002 Dondelange, Pompstat  01250  01250                % 18871 RGTR--
+190601001 Dondelange/Dondel     01251  01251                % 18871 RGTR--
+190802001 Kopstal, Bréck        01256  01256                % 18871 RGTR--
+190802004 Kopstal, Kléipesch    01257  01257                % 18871 RGTR--
+190801001 Bridel, Berk          01259  01259                % 18871 RGTR--
+190801002 Bridel, Flamo         01300  01300                % 18871 RGTR--
+190801005 Bridel, Taverne       01301  01301                % 18871 RGTR--
+190801004 Bridel, Stuff         01302  01302                % 18871 RGTR--
+200425006 Rollingergrund, Roud  01306  01306                % 18871 RGTR--
+200405045 Centre, Stäreplaz /   01312                       % 18871 RGTR--
+*Z 18872 RGTR--                                             % 18872 RGTR--
+*L M08      150606005 200405045  01540  01627               % 18872 RGTR--
+*A cj 150606005 200405045 000312  01540  01627              % 18872 RGTR--
+*A ad 150606005 200405045 000312  01540  01627              % 18872 RGTR--
+*R 2 200405045 150606005 200405045  01540  01627            % 18872 RGTR--
+*G 070 150606005 200405045  01540  01627                    % 18872 RGTR--
+*A VE 150606005 200405045 000312  01540  01627              % 18872 RGTR--
+*I FD 150606005 200405045        0002323  01540  01627      % 18872 RGTR--
+150606005 Redange/Attert, Lycé         01540                % 18872 RGTR--
+150606009 Redange/Attert, Scho  01541  01541                % 18872 RGTR--
+150606007 Redange/Attert, Ospe  01542  01542                % 18872 RGTR--
+150606003 Redange, Gare         01543  01543                % 18872 RGTR--
+150606001 Redange/Attert, Bian  01544  01544                % 18872 RGTR--
+150606008 Redange/Attert, Schl  01545  01545                % 18872 RGTR--
+150606010 Redange/Attert, Solu  01546  01546                % 18872 RGTR--
+150604001 Niederpallen, Ditzeb  01547  01547                % 18872 RGTR--
+150604002 Niederpallen, Veräin  01547  01547                % 18872 RGTR--
+150106002 Noerdange, A Batzent  01549  01549                % 18872 RGTR--
+150106004 Noerdange, Bei der P  01550  01550                % 18872 RGTR--
+150106001 Noerdange, Ale Pompj  01550  01550                % 18872 RGTR--
+150802001 Rippweiler, Beim Nös  01553  01553                % 18872 RGTR--
+150705002 Schwebach, Pont P&R   01555  01555                % 18872 RGTR--
+150704003 Saeul, Gemeng         01558  01558                % 18872 RGTR--
+161106004 Tuntange, Sëllerstro  01600  01600                % 18872 RGTR--
+161106001 Tuntange, Duerf       01601  01601                % 18872 RGTR--
+161106005 Tuntange, Weisserche  01602  01602                % 18872 RGTR--
+161102001 Bour                  01604  01604                % 18872 RGTR--
+190601002 Dondelange, Pompstat  01605  01605                % 18872 RGTR--
+190601001 Dondelange/Dondel     01606  01606                % 18872 RGTR--
+190802001 Kopstal, Bréck        01611  01611                % 18872 RGTR--
+190802004 Kopstal, Kléipesch    01612  01612                % 18872 RGTR--
+190801001 Bridel, Berk          01614  01614                % 18872 RGTR--
+190801002 Bridel, Flamo         01615  01615                % 18872 RGTR--
+190801005 Bridel, Taverne       01616  01616                % 18872 RGTR--
+190801004 Bridel, Stuff         01617  01617                % 18872 RGTR--
+200425006 Rollingergrund, Roud  01621  01621                % 18872 RGTR--
+200405045 Centre, Stäreplaz /   01627                       % 18872 RGTR--

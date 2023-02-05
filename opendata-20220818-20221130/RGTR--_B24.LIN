@@ -1,0 +1,45 @@
+*F 03 2
+*Z 18123 RGTR--                                             % 18123 RGTR--
+*L B24      140701016 170501016  00650  00744               % 18123 RGTR--
+*A cj 140701016 170501016 000042  00650  00744              % 18123 RGTR--
+*A ad 140701016 170501016 000042  00650  00744              % 18123 RGTR--
+*R 1 170501016 140701016 170501016  00650  00744            % 18123 RGTR--
+*G 070 140701016 170501016  00650  00744                    % 18123 RGTR--
+*A VE 140701016 170501016 000042  00650  00744              % 18123 RGTR--
+*I FD 140701016 170501016        0002066  00650  00744      % 18123 RGTR--
+140701016 Ettelbruck, Gare             00650                % 18123 RGTR--
+140602008 Erpeldange-sur-Sûre,  00652  00652                % 18123 RGTR--
+140603002 Ingeldorf, Café de l  00654  00654                % 18123 RGTR--
+140401008 Diekirch, Lorentzwue  00655  00655                % 18123 RGTR--
+140401004 Diekirch, Gare routi  00657  00657                % 18123 RGTR--
+140401001 Diekirch, Altersheem  00658  00658                % 18123 RGTR--
+140401007 Diekirch, rue Merten  00700  00700                % 18123 RGTR--
+140401017 Diekirch, Bei der Ti  00701  00701                % 18123 RGTR--
+140203002 Gilsdorf, Bei der Sc  00702  00702                % 18123 RGTR--
+140203001 Gilsdorf, An der Klé  00703  00703                % 18123 RGTR--
+140202001 Bleesbréck            00704  00704                % 18123 RGTR--
+140201001 Bettendorf, Elick     00706  00706                % 18123 RGTR--
+140201002 Bettendorf, Gemeng    00706  00706                % 18123 RGTR--
+140201003 Bettendorf, Schlass   00707  00707                % 18123 RGTR--
+140204003 Moestroff, Wangerten  00709  00709                % 18123 RGTR--
+140204002 Moestroff, Bréck      00709  00709                % 18123 RGTR--
+140204001 Moestroff, An der Ga  00710  00710                % 18123 RGTR--
+141203004 Reisdorf, Cité J. Hi  00712  00712                % 18123 RGTR--
+141203002 Reisdorf, Bei der Ga  00712  00712                % 18123 RGTR--
+141203003 Reisdorf, Beim Gober  00715  00715                % 18123 RGTR--
+141203005 Reisdorf, Duddwee     00716  00716                % 18123 RGTR--
+170101005 Beaufort, Iewescht H  00719  00719                % 18123 RGTR--
+170101007 Beaufort, Reisduerfe  00719  00719                % 18123 RGTR--
+170101009 Beaufort, Um Bierg    00720  00720                % 18123 RGTR--
+170101001 Beaufort, Aispist     00721  00721                % 18123 RGTR--
+170101006 Beaufort, Op der Gar  00722  00722                % 18123 RGTR--
+170101003 Beaufort, Härewiss    00723  00723                % 18123 RGTR--
+170101004 Beaufort, Huelewee    00724  00724                % 18123 RGTR--
+170103002 Vugelsmillen          00728  00728                % 18123 RGTR--
+170301004 Berdorf, Duerfplaz    00735  00735                % 18123 RGTR--
+170301002 Berdorf, Hotel Herbe  00735  00735                % 18123 RGTR--
+170301003 Berdorf, Hôtel Perek  00736  00736                % 18123 RGTR--
+170501002 Echternach, Bel Air   00739  00739                % 18123 RGTR--
+170501007 Echternach, Fielsmil  00740  00740                % 18123 RGTR--
+170501018 Echternach, Ermesind  00742  00742                % 18123 RGTR--
+170501016 Echternach, Gare Cen  00744                       % 18123 RGTR--

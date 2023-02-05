@@ -1,0 +1,29 @@
+*F 03 2
+*Z 05810 TIC---                                             % 05810 TIC---
+*L 821      221201006 220301034  00703  00726               % 05810 TIC---
+*R 1 220301034 221201006 220301034  00703  00726            % 05810 TIC---
+*G GB1 221201006 220301034  00703  00726                    % 05810 TIC---
+*A VE 221201006 220301034 000290  00703  00726              % 05810 TIC---
+*I FD 221201006 220301034        0001623  00703  00726      % 05810 TIC---
+221201006 Rumelange, Intermose         00703                % 05810 TIC---
+221201007 Rumelange, Laangegro  00704  00704                % 05810 TIC---
+221201004 Rumelange, Centre Cu  00705  00705                % 05810 TIC---
+221201009 Rumelange, Maartplaz  00706  00706                % 05810 TIC---
+221201005 Rumelange, Gare rout  00707  00707                % 05810 TIC---
+221201012 Rumelange, Schmelz    00707  00707                % 05810 TIC---
+221201003 Rumelange, Atelier K  00707  00707                % 05810 TIC---
+220602005 Tétange, Lorei        00708  00708                % 05810 TIC---
+220602008 Tétange, Um Haff      00709  00709                % 05810 TIC---
+220602001 Tétange, Duerf        00711  00711                % 05810 TIC---
+220602004 Tétange, Kierfecht    00712  00712                % 05810 TIC---
+220601014 Kayl, Eecherwee       00713  00713                % 05810 TIC---
+220601021 Kayl, Brill           00716  00716                % 05810 TIC---
+220601013 Kayl, Diddelengerstr  00717  00717                % 05810 TIC---
+220301048 Dudelange, Scherr     00718  00718                % 05810 TIC---
+220301013 Dudelange, Butschebu  00720  00720                % 05810 TIC---
+220301002 Dudelange, Rue Angel  00720  00720                % 05810 TIC---
+220301019 Dudelange, Route de   00720  00720                % 05810 TIC---
+220301031 Dudelange, rue Aloys  00721  00721                % 05810 TIC---
+220301030 Dudelange, Kierfecht  00723  00723                % 05810 TIC---
+220301022 Dudelange, Gare       00724  00724                % 05810 TIC---
+220301034 Dudelange, Lycée Nic  00726                       % 05810 TIC---

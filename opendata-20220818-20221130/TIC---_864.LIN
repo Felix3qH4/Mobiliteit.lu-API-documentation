@@ -1,0 +1,25 @@
+*F 03 2
+*Z 05869 TIC---                                             % 05869 TIC---
+*L 864      220402059 220601021  01426  01452               % 05869 TIC---
+*R 1 220601021 220402059 220601021  01426  01452            % 05869 TIC---
+*G GB1 220402059 220601021  01426  01452                    % 05869 TIC---
+*A VE 220402059 220601021 000290  01426  01452              % 05869 TIC---
+*I FD 220402059 220601021        0001682  01426  01452      % 05869 TIC---
+220402059 Esch-sur-Alzette, Ly         01426                % 05869 TIC---
+220402027 Esch-sur-Alzette, De  01429  01429                % 05869 TIC---
+220402064 Esch-sur-Alzette, Ne  01433 -01433                % 05869 TIC---
+220402108 Esch-sur-Alzette, Bu  01434 -01434                % 05869 TIC---
+220601004 Kayl, Arbed'shaff     01437 -01437                % 05869 TIC---
+221201006 Rumelange, Intermose  01439 -01439                % 05869 TIC---
+221201007 Rumelange, Laangegro  01440 -01440                % 05869 TIC---
+221201004 Rumelange, Centre Cu  01441 -01441                % 05869 TIC---
+221201009 Rumelange, Maartplaz  01442 -01442                % 05869 TIC---
+221201005 Rumelange, Gare rout  01443 -01443                % 05869 TIC---
+221201012 Rumelange, Schmelz    01443 -01443                % 05869 TIC---
+221201003 Rumelange, Atelier K  01443 -01443                % 05869 TIC---
+220602005 Tétange, Lorei        01444 -01444                % 05869 TIC---
+220602008 Tétange, Um Haff      01445 -01445                % 05869 TIC---
+220602001 Tétange, Duerf        01447 -01447                % 05869 TIC---
+220602004 Tétange, Kierfecht    01448 -01448                % 05869 TIC---
+220601014 Kayl, Eecherwee       01449 -01449                % 05869 TIC---
+220601021 Kayl, Brill           01452                       % 05869 TIC---

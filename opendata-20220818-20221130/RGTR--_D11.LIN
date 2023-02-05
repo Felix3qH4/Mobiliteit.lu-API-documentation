@@ -1,0 +1,483 @@
+*F 03 2
+*Z 18251 RGTR--                                             % 18251 RGTR--
+*L D11      200420006 210103001  01425  01516               % 18251 RGTR--
+*A cj 200420006 210103001 000042  01425  01516              % 18251 RGTR--
+*A ad 200420006 210103001 000042  01425  01516              % 18251 RGTR--
+*R 1 210103001 200420006 210103001  01425  01516            % 18251 RGTR--
+*G 072 200420006 210103001  01425  01516                    % 18251 RGTR--
+*A VE 200420006 210103001 000042  01425  01516              % 18251 RGTR--
+*I FD 200420006 210103001        0002197  01425  01516      % 18251 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 18251 RGTR--
+200301003 Alzingen, Trapeneck   01438  01438                % 18251 RGTR--
+200301002 Alzingen, Hondsbréck  01438  01438                % 18251 RGTR--
+201103001 Weiler-la-Tour, Camp  01440  01440                % 18251 RGTR--
+201103004 Weiler-la-Tour, Schl  01442  01442                % 18251 RGTR--
+220502003 Frisange, Hau         01443  01443                % 18251 RGTR--
+220502004 Frisange, Op der Krä  01445  01445                % 18251 RGTR--
+220502002 Frisange, Ennescht D  01446  01446                % 18251 RGTR--
+220501002 Aspelt, Gare          01448  01448                % 18251 RGTR--
+220501001 Aspelt, Am Grëndchen  01449  01449                % 18251 RGTR--
+210501002 Altwies, Beckeschmil  01451  01451                % 18251 RGTR--
+210501001 Altwies, An der Kaz   01452  01452                % 18251 RGTR--
+210501004 Altwies, Millbaach    01452  01452                % 18251 RGTR--
+210503005 Mondorf-les-Bains, K  01453  01453                % 18251 RGTR--
+210503001 Mondorf-les-Bains, B  01454  01454                % 18251 RGTR--
+210503003 Mondorf-les-Bains, C  01454  01454                % 18251 RGTR--
+210503002 Mondorf-les-Bains, C  01456  01456                % 18251 RGTR--
+210503006 Mondorf-les-Bains, R  01456  01456                % 18251 RGTR--
+210503007 Mondorf-les-Bains, S  01457  01457                % 18251 RGTR--
+210502001 Ellenger Gare         01458  01458                % 18251 RGTR--
+211003002 Wellenstein, rte de   01503  01503                % 18251 RGTR--
+211003001 Wellenstein, Centre   01503  01503                % 18251 RGTR--
+211003003 Wellenstein, Caves c  01504  01504                % 18251 RGTR--
+211001002 Bech-Kleinmacher, Ce  01506  01506                % 18251 RGTR--
+210701011 Remich, Piscine       01507  01507                % 18251 RGTR--
+210701006 Remich, Gare routièr  01508  01508                % 18251 RGTR--
+210701024 Remich, Schoul        01510  01510                % 18251 RGTR--
+210701012 Remich, Pl. Nico Klo  01511  01511                % 18251 RGTR--
+210701014 Remich, Route de Lux  01512  01512                % 18251 RGTR--
+210103001 Erpeldange/Bous, Krä  01516                       % 18251 RGTR--
+*Z 18252 RGTR--                                             % 18252 RGTR--
+*L D11      200420006 211002001  01250  01345               % 18252 RGTR--
+*A cj 200420006 211002001 000046  01250  01345              % 18252 RGTR--
+*A ad 200420006 211002001 000046  01250  01345              % 18252 RGTR--
+*R 1 211002001 200420006 211002001  01250  01345            % 18252 RGTR--
+*G 050 200420006 211002001  01250  01345                    % 18252 RGTR--
+*A VE 200420006 211002001 000046  01250  01345              % 18252 RGTR--
+*I FD 200420006 211002001        0001105  01250  01345      % 18252 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 18252 RGTR--
+200301003 Alzingen, Trapeneck   01303  01303                % 18252 RGTR--
+200301002 Alzingen, Hondsbréck  01303  01303                % 18252 RGTR--
+201103001 Weiler-la-Tour, Camp  01305  01305                % 18252 RGTR--
+201103004 Weiler-la-Tour, Schl  01307  01307                % 18252 RGTR--
+220502003 Frisange, Hau         01308  01308                % 18252 RGTR--
+220502004 Frisange, Op der Krä  01310  01310                % 18252 RGTR--
+220502002 Frisange, Ennescht D  01311  01311                % 18252 RGTR--
+220501002 Aspelt, Gare          01313  01313                % 18252 RGTR--
+220501001 Aspelt, Am Grëndchen  01314  01314                % 18252 RGTR--
+210501002 Altwies, Beckeschmil  01316  01316                % 18252 RGTR--
+210501001 Altwies, An der Kaz   01317  01317                % 18252 RGTR--
+210501004 Altwies, Millbaach    01317  01317                % 18252 RGTR--
+210503005 Mondorf-les-Bains, K  01318  01318                % 18252 RGTR--
+210503001 Mondorf-les-Bains, B  01319  01319                % 18252 RGTR--
+210503003 Mondorf-les-Bains, C  01319  01319                % 18252 RGTR--
+210503002 Mondorf-les-Bains, C  01321  01321                % 18252 RGTR--
+210503006 Mondorf-les-Bains, R  01321  01321                % 18252 RGTR--
+210503007 Mondorf-les-Bains, S  01322  01322                % 18252 RGTR--
+210502001 Ellenger Gare         01323  01323                % 18252 RGTR--
+210202003 Elvange/Mondorf, Vil  01325  01325                % 18252 RGTR--
+210202001 Elvange/Mondorf, Bei  01326  01326                % 18252 RGTR--
+210202002 Elvange/Mondorf, Kal  01326  01326                % 18252 RGTR--
+210201003 Burmerange, Um Schot  01328  01328                % 18252 RGTR--
+210201001 Burmerange, Bei der   01329  01329                % 18252 RGTR--
+210201002 Burmerange, Résidenc  01329  01329                % 18252 RGTR--
+210602005 Schengen, Um Haff     01334  01334                % 18252 RGTR--
+210602003 Schengen, Schoul      01335  01335                % 18252 RGTR--
+210602002 Schengen, Koerech     01336  01336                % 18252 RGTR--
+210602001 Schengen, Ennen am D  01337  01337                % 18252 RGTR--
+210602004 Schengen, Séckerbaac  01337  01337                % 18252 RGTR--
+210601002 Remerschen, Ennen am  01340  01340                % 18252 RGTR--
+210601003 Remerschen, Kiosk     01340  01340                % 18252 RGTR--
+210601001 Remerschen, Al Schou  01341  01341                % 18252 RGTR--
+210603001 Wintrange, Dorefplaz  01343  01343                % 18252 RGTR--
+211002002 Schwebsingen, Op der  01344  01344                % 18252 RGTR--
+211002001 Schwebsingen, Centre  01345                       % 18252 RGTR--
+*Z 18253 RGTR--                                             % 18253 RGTR--
+*L D11      200420006 211002001  01425  01520               % 18253 RGTR--
+*A cj 200420006 211002001 000042  01425  01520              % 18253 RGTR--
+*A ad 200420006 211002001 000042  01425  01520              % 18253 RGTR--
+*R 1 211002001 200420006 211002001  01425  01520            % 18253 RGTR--
+*G 050 200420006 211002001  01425  01520                    % 18253 RGTR--
+*A VE 200420006 211002001 000042  01425  01520              % 18253 RGTR--
+*I FD 200420006 211002001        0003395  01425  01520      % 18253 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 18253 RGTR--
+200301003 Alzingen, Trapeneck   01438  01438                % 18253 RGTR--
+200301002 Alzingen, Hondsbréck  01438  01438                % 18253 RGTR--
+201103001 Weiler-la-Tour, Camp  01440  01440                % 18253 RGTR--
+201103004 Weiler-la-Tour, Schl  01442  01442                % 18253 RGTR--
+220502003 Frisange, Hau         01443  01443                % 18253 RGTR--
+220502004 Frisange, Op der Krä  01445  01445                % 18253 RGTR--
+220502002 Frisange, Ennescht D  01446  01446                % 18253 RGTR--
+220501002 Aspelt, Gare          01448  01448                % 18253 RGTR--
+220501001 Aspelt, Am Grëndchen  01449  01449                % 18253 RGTR--
+210501002 Altwies, Beckeschmil  01451  01451                % 18253 RGTR--
+210501001 Altwies, An der Kaz   01452  01452                % 18253 RGTR--
+210501004 Altwies, Millbaach    01452  01452                % 18253 RGTR--
+210503005 Mondorf-les-Bains, K  01453  01453                % 18253 RGTR--
+210503001 Mondorf-les-Bains, B  01454  01454                % 18253 RGTR--
+210503003 Mondorf-les-Bains, C  01454  01454                % 18253 RGTR--
+210503002 Mondorf-les-Bains, C  01456  01456                % 18253 RGTR--
+210503006 Mondorf-les-Bains, R  01456  01456                % 18253 RGTR--
+210503007 Mondorf-les-Bains, S  01457  01457                % 18253 RGTR--
+210502001 Ellenger Gare         01458  01458                % 18253 RGTR--
+210202003 Elvange/Mondorf, Vil  01500  01500                % 18253 RGTR--
+210202001 Elvange/Mondorf, Bei  01501  01501                % 18253 RGTR--
+210202002 Elvange/Mondorf, Kal  01501  01501                % 18253 RGTR--
+210201003 Burmerange, Um Schot  01503  01503                % 18253 RGTR--
+210201001 Burmerange, Bei der   01504  01504                % 18253 RGTR--
+210201002 Burmerange, Résidenc  01504  01504                % 18253 RGTR--
+210602005 Schengen, Um Haff     01509  01509                % 18253 RGTR--
+210602003 Schengen, Schoul      01510  01510                % 18253 RGTR--
+210602002 Schengen, Koerech     01511  01511                % 18253 RGTR--
+210602001 Schengen, Ennen am D  01512  01512                % 18253 RGTR--
+210602004 Schengen, Séckerbaac  01512  01512                % 18253 RGTR--
+210601002 Remerschen, Ennen am  01515  01515                % 18253 RGTR--
+210601003 Remerschen, Kiosk     01515  01515                % 18253 RGTR--
+210601001 Remerschen, Al Schou  01516  01516                % 18253 RGTR--
+210603001 Wintrange, Dorefplaz  01518  01518                % 18253 RGTR--
+211002002 Schwebsingen, Op der  01519  01519                % 18253 RGTR--
+211002001 Schwebsingen, Centre  01520                       % 18253 RGTR--
+*Z 18254 RGTR--                                             % 18254 RGTR--
+*L D11      200420006 211002001  01550  01645               % 18254 RGTR--
+*A cj 200420006 211002001 000047  01550  01645              % 18254 RGTR--
+*A ad 200420006 211002001 000047  01550  01645              % 18254 RGTR--
+*R 1 211002001 200420006 211002001  01550  01645            % 18254 RGTR--
+*G 050 200420006 211002001  01550  01645                    % 18254 RGTR--
+*A VE 200420006 211002001 000047  01550  01645              % 18254 RGTR--
+*I FD 200420006 211002001        0001178  01550  01645      % 18254 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 18254 RGTR--
+200301003 Alzingen, Trapeneck   01603  01603                % 18254 RGTR--
+200301002 Alzingen, Hondsbréck  01603  01603                % 18254 RGTR--
+201103001 Weiler-la-Tour, Camp  01605  01605                % 18254 RGTR--
+201103004 Weiler-la-Tour, Schl  01607  01607                % 18254 RGTR--
+220502003 Frisange, Hau         01608  01608                % 18254 RGTR--
+220502004 Frisange, Op der Krä  01610  01610                % 18254 RGTR--
+220502002 Frisange, Ennescht D  01611  01611                % 18254 RGTR--
+220501002 Aspelt, Gare          01613  01613                % 18254 RGTR--
+220501001 Aspelt, Am Grëndchen  01614  01614                % 18254 RGTR--
+210501002 Altwies, Beckeschmil  01616  01616                % 18254 RGTR--
+210501001 Altwies, An der Kaz   01617  01617                % 18254 RGTR--
+210501004 Altwies, Millbaach    01617  01617                % 18254 RGTR--
+210503005 Mondorf-les-Bains, K  01618  01618                % 18254 RGTR--
+210503001 Mondorf-les-Bains, B  01619  01619                % 18254 RGTR--
+210503003 Mondorf-les-Bains, C  01619  01619                % 18254 RGTR--
+210503002 Mondorf-les-Bains, C  01621  01621                % 18254 RGTR--
+210503006 Mondorf-les-Bains, R  01621  01621                % 18254 RGTR--
+210503007 Mondorf-les-Bains, S  01622  01622                % 18254 RGTR--
+210502001 Ellenger Gare         01623  01623                % 18254 RGTR--
+210202003 Elvange/Mondorf, Vil  01625  01625                % 18254 RGTR--
+210202001 Elvange/Mondorf, Bei  01626  01626                % 18254 RGTR--
+210202002 Elvange/Mondorf, Kal  01626  01626                % 18254 RGTR--
+210201003 Burmerange, Um Schot  01628  01628                % 18254 RGTR--
+210201001 Burmerange, Bei der   01629  01629                % 18254 RGTR--
+210201002 Burmerange, Résidenc  01629  01629                % 18254 RGTR--
+210602005 Schengen, Um Haff     01634  01634                % 18254 RGTR--
+210602003 Schengen, Schoul      01635  01635                % 18254 RGTR--
+210602002 Schengen, Koerech     01636  01636                % 18254 RGTR--
+210602001 Schengen, Ennen am D  01637  01637                % 18254 RGTR--
+210602004 Schengen, Séckerbaac  01637  01637                % 18254 RGTR--
+210601002 Remerschen, Ennen am  01640  01640                % 18254 RGTR--
+210601003 Remerschen, Kiosk     01640  01640                % 18254 RGTR--
+210601001 Remerschen, Al Schou  01641  01641                % 18254 RGTR--
+210603001 Wintrange, Dorefplaz  01643  01643                % 18254 RGTR--
+211002002 Schwebsingen, Op der  01644  01644                % 18254 RGTR--
+211002001 Schwebsingen, Centre  01645                       % 18254 RGTR--
+*Z 18255 RGTR--                                             % 18255 RGTR--
+*L D11      200420006 210103001  01250  01330               % 18255 RGTR--
+*A cj 200420006 210103001 000046  01250  01330              % 18255 RGTR--
+*A ad 200420006 210103001 000046  01250  01330              % 18255 RGTR--
+*R 1 210103001 200420006 210103001  01250  01330            % 18255 RGTR--
+*G 050 200420006 210103001  01250  01330                    % 18255 RGTR--
+*A VE 200420006 210103001 000046  01250  01330              % 18255 RGTR--
+*I FD 200420006 210103001        0001106  01250  01330      % 18255 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 18255 RGTR--
+200301003 Alzingen, Trapeneck   01303  01303                % 18255 RGTR--
+200301002 Alzingen, Hondsbréck  01303  01303                % 18255 RGTR--
+201103001 Weiler-la-Tour, Camp  01305  01305                % 18255 RGTR--
+201103004 Weiler-la-Tour, Schl  01307  01307                % 18255 RGTR--
+220502003 Frisange, Hau         01308  01308                % 18255 RGTR--
+220502004 Frisange, Op der Krä  01310  01310                % 18255 RGTR--
+220502002 Frisange, Ennescht D  01311  01311                % 18255 RGTR--
+220501002 Aspelt, Gare          01313  01313                % 18255 RGTR--
+220501001 Aspelt, Am Grëndchen  01314  01314                % 18255 RGTR--
+210501002 Altwies, Beckeschmil  01316  01316                % 18255 RGTR--
+210501001 Altwies, An der Kaz   01317  01317                % 18255 RGTR--
+210501004 Altwies, Millbaach    01317  01317                % 18255 RGTR--
+210503005 Mondorf-les-Bains, K  01318  01318                % 18255 RGTR--
+210503001 Mondorf-les-Bains, B  01319  01319                % 18255 RGTR--
+210503003 Mondorf-les-Bains, C  01319  01319                % 18255 RGTR--
+210503002 Mondorf-les-Bains, C  01321  01321                % 18255 RGTR--
+210503006 Mondorf-les-Bains, R  01321  01321                % 18255 RGTR--
+210503007 Mondorf-les-Bains, S  01322  01322                % 18255 RGTR--
+210502001 Ellenger Gare         01323  01323                % 18255 RGTR--
+210502002 Ellange, Martialis    01325  01325                % 18255 RGTR--
+210105001 Emeringerhaff         01329  01329                % 18255 RGTR--
+210103003 Erpeldange/Bous, Sch  01329  01329                % 18255 RGTR--
+210103001 Erpeldange/Bous, Krä  01330                       % 18255 RGTR--
+*Z 18256 RGTR--                                             % 18256 RGTR--
+*L D11      200420006 210103001  01550  01630               % 18256 RGTR--
+*A cj 200420006 210103001 000047  01550  01630              % 18256 RGTR--
+*A ad 200420006 210103001 000047  01550  01630              % 18256 RGTR--
+*R 1 210103001 200420006 210103001  01550  01630            % 18256 RGTR--
+*G 050 200420006 210103001  01550  01630                    % 18256 RGTR--
+*A VE 200420006 210103001 000047  01550  01630              % 18256 RGTR--
+*I FD 200420006 210103001        0001176  01550  01630      % 18256 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 18256 RGTR--
+200301003 Alzingen, Trapeneck   01603  01603                % 18256 RGTR--
+200301002 Alzingen, Hondsbréck  01603  01603                % 18256 RGTR--
+201103001 Weiler-la-Tour, Camp  01605  01605                % 18256 RGTR--
+201103004 Weiler-la-Tour, Schl  01607  01607                % 18256 RGTR--
+220502003 Frisange, Hau         01608  01608                % 18256 RGTR--
+220502004 Frisange, Op der Krä  01610  01610                % 18256 RGTR--
+220502002 Frisange, Ennescht D  01611  01611                % 18256 RGTR--
+220501002 Aspelt, Gare          01613  01613                % 18256 RGTR--
+220501001 Aspelt, Am Grëndchen  01614  01614                % 18256 RGTR--
+210501002 Altwies, Beckeschmil  01616  01616                % 18256 RGTR--
+210501001 Altwies, An der Kaz   01617  01617                % 18256 RGTR--
+210501004 Altwies, Millbaach    01617  01617                % 18256 RGTR--
+210503005 Mondorf-les-Bains, K  01618  01618                % 18256 RGTR--
+210503001 Mondorf-les-Bains, B  01619  01619                % 18256 RGTR--
+210503003 Mondorf-les-Bains, C  01619  01619                % 18256 RGTR--
+210503002 Mondorf-les-Bains, C  01621  01621                % 18256 RGTR--
+210503006 Mondorf-les-Bains, R  01621  01621                % 18256 RGTR--
+210503007 Mondorf-les-Bains, S  01622  01622                % 18256 RGTR--
+210502001 Ellenger Gare         01623  01623                % 18256 RGTR--
+210502002 Ellange, Martialis    01625  01625                % 18256 RGTR--
+210105001 Emeringerhaff         01629  01629                % 18256 RGTR--
+210103003 Erpeldange/Bous, Sch  01629  01629                % 18256 RGTR--
+210103001 Erpeldange/Bous, Krä  01630                       % 18256 RGTR--
+*Z 18257 RGTR--                                             % 18257 RGTR--
+*L D11      200420006 210701012  01550  01639               % 18257 RGTR--
+*A cj 200420006 210701012 000047  01550  01639              % 18257 RGTR--
+*A BE 200420006 210701012 000047  01550  01639              % 18257 RGTR--
+*A ad 200420006 210701012 000047  01550  01639              % 18257 RGTR--
+*R 1 210701012 200420006 210701012  01550  01639            % 18257 RGTR--
+*G 090 200420006 210701012  01550  01639                    % 18257 RGTR--
+*A VE 200420006 210701012 000047  01550  01639              % 18257 RGTR--
+*I FD 200420006 210701012        0002073  01550  01639      % 18257 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 18257 RGTR--
+200301003 Alzingen, Trapeneck   01603  01603                % 18257 RGTR--
+200301002 Alzingen, Hondsbréck  01603  01603                % 18257 RGTR--
+201103001 Weiler-la-Tour, Camp  01605  01605                % 18257 RGTR--
+201103004 Weiler-la-Tour, Schl  01607  01607                % 18257 RGTR--
+220502003 Frisange, Hau         01609  01609                % 18257 RGTR--
+220502004 Frisange, Op der Krä  01610  01610                % 18257 RGTR--
+220502002 Frisange, Ennescht D  01611  01611                % 18257 RGTR--
+220501002 Aspelt, Gare          01614  01614                % 18257 RGTR--
+220501001 Aspelt, Am Grëndchen  01615  01615                % 18257 RGTR--
+210501002 Altwies, Beckeschmil  01617  01617                % 18257 RGTR--
+210501001 Altwies, An der Kaz   01618  01618                % 18257 RGTR--
+210501004 Altwies, Millbaach    01618  01618                % 18257 RGTR--
+210503005 Mondorf-les-Bains, K  01619  01619                % 18257 RGTR--
+210503001 Mondorf-les-Bains, B  01620  01620                % 18257 RGTR--
+210503003 Mondorf-les-Bains, C  01620  01620                % 18257 RGTR--
+210503002 Mondorf-les-Bains, C  01622  01622                % 18257 RGTR--
+210503006 Mondorf-les-Bains, R  01622  01622                % 18257 RGTR--
+210503007 Mondorf-les-Bains, S  01623  01623                % 18257 RGTR--
+210502001 Ellenger Gare         01624  01624                % 18257 RGTR--
+211003002 Wellenstein, rte de   01629  01629                % 18257 RGTR--
+211003001 Wellenstein, Centre   01629  01629                % 18257 RGTR--
+211003003 Wellenstein, Caves c  01630  01630                % 18257 RGTR--
+211001002 Bech-Kleinmacher, Ce  01632  01632                % 18257 RGTR--
+210701011 Remich, Piscine       01633  01633                % 18257 RGTR--
+210701006 Remich, Gare routièr  01635  01635                % 18257 RGTR--
+210701024 Remich, Schoul        01638  01638                % 18257 RGTR--
+210701012 Remich, Pl. Nico Klo  01639                       % 18257 RGTR--
+*Z 18258 RGTR--                                             % 18258 RGTR--
+*L D11      200420006 210701012  01250  01336               % 18258 RGTR--
+*A cj 200420006 210701012 000046  01250  01336              % 18258 RGTR--
+*A ad 200420006 210701012 000046  01250  01336              % 18258 RGTR--
+*R 1 210701012 200420006 210701012  01250  01336            % 18258 RGTR--
+*G 072 200420006 210701012  01250  01336                    % 18258 RGTR--
+*A VE 200420006 210701012 000046  01250  01336              % 18258 RGTR--
+*I FD 200420006 210701012        0002070  01250  01336      % 18258 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 18258 RGTR--
+200301003 Alzingen, Trapeneck   01303  01303                % 18258 RGTR--
+200301002 Alzingen, Hondsbréck  01303  01303                % 18258 RGTR--
+201103001 Weiler-la-Tour, Camp  01305  01305                % 18258 RGTR--
+201103004 Weiler-la-Tour, Schl  01307  01307                % 18258 RGTR--
+220502003 Frisange, Hau         01308  01308                % 18258 RGTR--
+220502004 Frisange, Op der Krä  01310  01310                % 18258 RGTR--
+220502002 Frisange, Ennescht D  01311  01311                % 18258 RGTR--
+220501002 Aspelt, Gare          01313  01313                % 18258 RGTR--
+220501001 Aspelt, Am Grëndchen  01314  01314                % 18258 RGTR--
+210501002 Altwies, Beckeschmil  01316  01316                % 18258 RGTR--
+210501001 Altwies, An der Kaz   01317  01317                % 18258 RGTR--
+210501004 Altwies, Millbaach    01317  01317                % 18258 RGTR--
+210503005 Mondorf-les-Bains, K  01318  01318                % 18258 RGTR--
+210503001 Mondorf-les-Bains, B  01319  01319                % 18258 RGTR--
+210503003 Mondorf-les-Bains, C  01319  01319                % 18258 RGTR--
+210503002 Mondorf-les-Bains, C  01321  01321                % 18258 RGTR--
+210503006 Mondorf-les-Bains, R  01321  01321                % 18258 RGTR--
+210503007 Mondorf-les-Bains, S  01322  01322                % 18258 RGTR--
+210502001 Ellenger Gare         01323  01323                % 18258 RGTR--
+211003002 Wellenstein, rte de   01328  01328                % 18258 RGTR--
+211003001 Wellenstein, Centre   01328  01328                % 18258 RGTR--
+211003003 Wellenstein, Caves c  01329  01329                % 18258 RGTR--
+211001002 Bech-Kleinmacher, Ce  01331  01331                % 18258 RGTR--
+210701011 Remich, Piscine       01332  01332                % 18258 RGTR--
+210701006 Remich, Gare routièr  01333  01333                % 18258 RGTR--
+210701024 Remich, Schoul        01335  01335                % 18258 RGTR--
+210701012 Remich, Pl. Nico Klo  01336                       % 18258 RGTR--
+*Z 18259 RGTR--                                             % 18259 RGTR--
+*L D11      210601001 200420006  00640  00739               % 18259 RGTR--
+*A cj 210601001 200420006 000042  00640  00739              % 18259 RGTR--
+*A VW 210601001 200420006 000042  00640  00739              % 18259 RGTR--
+*A ad 210601001 200420006 000042  00640  00739              % 18259 RGTR--
+*R 2 200420006 210601001 200420006  00640  00739            % 18259 RGTR--
+*G 050 210601001 200420006  00640  00739                    % 18259 RGTR--
+*A VE 210601001 200420006 000042  00640  00739              % 18259 RGTR--
+*I FD 210601001 200420006        0000758  00640  00739      % 18259 RGTR--
+210601001 Remerschen, Al Schou         00640                % 18259 RGTR--
+210601003 Remerschen, Kiosk     00640  00640                % 18259 RGTR--
+210601002 Remerschen, Ennen am  00641  00641                % 18259 RGTR--
+210602004 Schengen, Séckerbaac  00643  00643                % 18259 RGTR--
+210602001 Schengen, Ennen am D  00644  00644                % 18259 RGTR--
+210602002 Schengen, Koerech     00645  00645                % 18259 RGTR--
+210602003 Schengen, Schoul      00645  00645                % 18259 RGTR--
+210602005 Schengen, Um Haff     00646  00646                % 18259 RGTR--
+210201002 Burmerange, Résidenc  00651  00651                % 18259 RGTR--
+210201001 Burmerange, Bei der   00652  00652                % 18259 RGTR--
+210201003 Burmerange, Um Schot  00652  00652                % 18259 RGTR--
+210202002 Elvange/Mondorf, Kal  00655  00655                % 18259 RGTR--
+210202001 Elvange/Mondorf, Bei  00656  00656                % 18259 RGTR--
+210202003 Elvange/Mondorf, Vil  00657  00657                % 18259 RGTR--
+210502001 Ellenger Gare         00658  00658                % 18259 RGTR--
+210503006 Mondorf-les-Bains, R  00700  00700                % 18259 RGTR--
+210503002 Mondorf-les-Bains, C  00701  00701                % 18259 RGTR--
+210503003 Mondorf-les-Bains, C  00702  00702                % 18259 RGTR--
+210503001 Mondorf-les-Bains, B  00703  00703                % 18259 RGTR--
+210503005 Mondorf-les-Bains, K  00703  00703                % 18259 RGTR--
+210501004 Altwies, Millbaach    00704  00704                % 18259 RGTR--
+210501003 Altwies, Bourgässel   00705  00705                % 18259 RGTR--
+210501002 Altwies, Beckeschmil  00706  00706                % 18259 RGTR--
+220501001 Aspelt, Am Grëndchen  00708  00708                % 18259 RGTR--
+220501002 Aspelt, Gare          00709  00709                % 18259 RGTR--
+220502002 Frisange, Ennescht D  00712  00712                % 18259 RGTR--
+220502004 Frisange, Op der Krä  00713  00713                % 18259 RGTR--
+201103004 Weiler-la-Tour, Schl  00716  00716                % 18259 RGTR--
+201103001 Weiler-la-Tour, Camp  00717  00717                % 18259 RGTR--
+200301002 Alzingen, Hondsbréck  00720  00720                % 18259 RGTR--
+200301003 Alzingen, Trapeneck   00721  00721                % 18259 RGTR--
+200303006 Hesperange, Urbengss  00722  00722                % 18259 RGTR--
+200303001 Hesperange, Am Kelle  00723  00723                % 18259 RGTR--
+200420006 Merl, Geesseknäppche  00739                       % 18259 RGTR--
+*Z 18260 RGTR--                                             % 18260 RGTR--
+*L D11      210701015 200420006  00645  00740               % 18260 RGTR--
+*A cj 210701015 200420006 000042  00645  00740              % 18260 RGTR--
+*A BE 210701015 200420006 000042  00645  00740              % 18260 RGTR--
+*A ad 210701015 200420006 000042  00645  00740              % 18260 RGTR--
+*R 2 200420006 210701015 200420006  00645  00740            % 18260 RGTR--
+*G 090 210701015 200420006  00645  00740                    % 18260 RGTR--
+*A VE 210701015 200420006 000042  00645  00740              % 18260 RGTR--
+*I FD 210701015 200420006        0002336  00645  00740      % 18260 RGTR--
+210701015 Remich, rue de la Co         00645                % 18260 RGTR--
+210701001 Remich, Belvédère     00645  00645                % 18260 RGTR--
+210701008 Remich, Maatebierg    00646  00646                % 18260 RGTR--
+210701006 Remich, Gare routièr  00648  00648                % 18260 RGTR--
+210701011 Remich, Piscine       00649  00649                % 18260 RGTR--
+211001005 Bech-Kleinmacher, Es  00652  00652                % 18260 RGTR--
+211003003 Wellenstein, Caves c  00653  00653                % 18260 RGTR--
+211003001 Wellenstein, Centre   00654  00654                % 18260 RGTR--
+211003002 Wellenstein, rte de   00655  00655                % 18260 RGTR--
+210502001 Ellenger Gare         00700  00700                % 18260 RGTR--
+210503006 Mondorf-les-Bains, R  00702  00702                % 18260 RGTR--
+210503002 Mondorf-les-Bains, C  00702  00702                % 18260 RGTR--
+210503003 Mondorf-les-Bains, C  00704  00704                % 18260 RGTR--
+210503001 Mondorf-les-Bains, B  00704  00704                % 18260 RGTR--
+210503005 Mondorf-les-Bains, K  00705  00705                % 18260 RGTR--
+210501004 Altwies, Millbaach    00706  00706                % 18260 RGTR--
+210501003 Altwies, Bourgässel   00707  00707                % 18260 RGTR--
+210501002 Altwies, Beckeschmil  00707  00707                % 18260 RGTR--
+220501001 Aspelt, Am Grëndchen  00709  00709                % 18260 RGTR--
+220501002 Aspelt, Gare          00710  00710                % 18260 RGTR--
+220502002 Frisange, Ennescht D  00713  00713                % 18260 RGTR--
+220502004 Frisange, Op der Krä  00714  00714                % 18260 RGTR--
+201103004 Weiler-la-Tour, Schl  00717  00717                % 18260 RGTR--
+201103001 Weiler-la-Tour, Camp  00719  00719                % 18260 RGTR--
+200301002 Alzingen, Hondsbréck  00721  00721                % 18260 RGTR--
+200301003 Alzingen, Trapeneck   00722  00722                % 18260 RGTR--
+200303006 Hesperange, Urbengss  00723  00723                % 18260 RGTR--
+200303001 Hesperange, Am Kelle  00724  00724                % 18260 RGTR--
+200420006 Merl, Geesseknäppche  00740                       % 18260 RGTR--
+*Z 18261 RGTR--                                             % 18261 RGTR--
+*L D11      211002001 200420006  00650  00739               % 18261 RGTR--
+*A cj 211002001 200420006 000042  00650  00739              % 18261 RGTR--
+*A ad 211002001 200420006 000042  00650  00739              % 18261 RGTR--
+*R 2 200420006 211002001 200420006  00650  00739            % 18261 RGTR--
+*G 050 211002001 200420006  00650  00739                    % 18261 RGTR--
+*A VE 211002001 200420006 000042  00650  00739              % 18261 RGTR--
+*I FD 211002001 200420006        0001907  00650  00739      % 18261 RGTR--
+211002001 Schwebsingen, Centre         00650                % 18261 RGTR--
+211002002 Schwebsingen, Op der  00650  00650                % 18261 RGTR--
+210603001 Wintrange, Dorefplaz  00652  00652                % 18261 RGTR--
+210202004 Elvange, Wëntrengers  00656  00656                % 18261 RGTR--
+210202003 Elvange/Mondorf, Vil  00657  00657                % 18261 RGTR--
+210502001 Ellenger Gare         00658  00658                % 18261 RGTR--
+210503006 Mondorf-les-Bains, R  00700  00700                % 18261 RGTR--
+210503002 Mondorf-les-Bains, C  00701  00701                % 18261 RGTR--
+210503003 Mondorf-les-Bains, C  00702  00702                % 18261 RGTR--
+210503001 Mondorf-les-Bains, B  00703  00703                % 18261 RGTR--
+210503005 Mondorf-les-Bains, K  00703  00703                % 18261 RGTR--
+210501004 Altwies, Millbaach    00704  00704                % 18261 RGTR--
+210501003 Altwies, Bourgässel   00705  00705                % 18261 RGTR--
+210501002 Altwies, Beckeschmil  00706  00706                % 18261 RGTR--
+220501001 Aspelt, Am Grëndchen  00708  00708                % 18261 RGTR--
+220501002 Aspelt, Gare          00709  00709                % 18261 RGTR--
+220502002 Frisange, Ennescht D  00711  00711                % 18261 RGTR--
+220502004 Frisange, Op der Krä  00713  00713                % 18261 RGTR--
+201103004 Weiler-la-Tour, Schl  00716  00716                % 18261 RGTR--
+201103001 Weiler-la-Tour, Camp  00717  00717                % 18261 RGTR--
+200301002 Alzingen, Hondsbréck  00720  00720                % 18261 RGTR--
+200301003 Alzingen, Trapeneck   00720  00720                % 18261 RGTR--
+200303006 Hesperange, Urbengss  00722  00722                % 18261 RGTR--
+200303001 Hesperange, Am Kelle  00723  00723                % 18261 RGTR--
+200420006 Merl, Geesseknäppche  00739                       % 18261 RGTR--
+*Z 18262 RGTR--                                             % 18262 RGTR--
+*L D11      210103001 200420006  00652  00739               % 18262 RGTR--
+*A cj 210103001 200420006 000042  00652  00739              % 18262 RGTR--
+*A ad 210103001 200420006 000042  00652  00739              % 18262 RGTR--
+*R 2 200420006 210103001 200420006  00652  00739            % 18262 RGTR--
+*G 072 210103001 200420006  00652  00739                    % 18262 RGTR--
+*A VE 210103001 200420006 000042  00652  00739              % 18262 RGTR--
+*I FD 210103001 200420006        0003397  00652  00739      % 18262 RGTR--
+210103001 Erpeldange/Bous, Krä         00652                % 18262 RGTR--
+210103003 Erpeldange/Bous, Sch  00652  00652                % 18262 RGTR--
+210105001 Emeringerhaff         00653  00653                % 18262 RGTR--
+210502002 Ellange, Martialis    00657  00657                % 18262 RGTR--
+210502001 Ellenger Gare         00659  00659                % 18262 RGTR--
+210503006 Mondorf-les-Bains, R  00701  00701                % 18262 RGTR--
+210503002 Mondorf-les-Bains, C  00701  00701                % 18262 RGTR--
+210503003 Mondorf-les-Bains, C  00703  00703                % 18262 RGTR--
+210503001 Mondorf-les-Bains, B  00703  00703                % 18262 RGTR--
+210503005 Mondorf-les-Bains, K  00704  00704                % 18262 RGTR--
+210501004 Altwies, Millbaach    00705  00705                % 18262 RGTR--
+210501003 Altwies, Bourgässel   00706  00706                % 18262 RGTR--
+210501002 Altwies, Beckeschmil  00706  00706                % 18262 RGTR--
+220501001 Aspelt, Am Grëndchen  00708  00708                % 18262 RGTR--
+220501002 Aspelt, Gare          00709  00709                % 18262 RGTR--
+220502002 Frisange, Ennescht D  00712  00712                % 18262 RGTR--
+220502004 Frisange, Op der Krä  00713  00713                % 18262 RGTR--
+201103004 Weiler-la-Tour, Schl  00716  00716                % 18262 RGTR--
+201103001 Weiler-la-Tour, Camp  00718  00718                % 18262 RGTR--
+200301002 Alzingen, Hondsbréck  00720  00720                % 18262 RGTR--
+200301003 Alzingen, Trapeneck   00721  00721                % 18262 RGTR--
+200303006 Hesperange, Urbengss  00722  00722                % 18262 RGTR--
+200303001 Hesperange, Am Kelle  00723  00723                % 18262 RGTR--
+200420006 Merl, Geesseknäppche  00739                       % 18262 RGTR--
+*Z 18263 RGTR--                                             % 18263 RGTR--
+*L D11      210503003 200420006  00702  00738               % 18263 RGTR--
+*A cj 210503003 200420006 000042  00702  00738              % 18263 RGTR--
+*A ad 210503003 200420006 000042  00702  00738              % 18263 RGTR--
+*R 2 200420006 210503003 200420006  00702  00738            % 18263 RGTR--
+*G 072 210503003 200420006  00702  00738                    % 18263 RGTR--
+*A VE 210503003 200420006 000042  00702  00738              % 18263 RGTR--
+*I FD 210503003 200420006        0003398  00702  00738      % 18263 RGTR--
+210503003 Mondorf-les-Bains, C         00702                % 18263 RGTR--
+210503001 Mondorf-les-Bains, B  00702  00702                % 18263 RGTR--
+210503005 Mondorf-les-Bains, K  00703  00703                % 18263 RGTR--
+210501004 Altwies, Millbaach    00704  00704                % 18263 RGTR--
+210501003 Altwies, Bourgässel   00704  00704                % 18263 RGTR--
+210501002 Altwies, Beckeschmil  00705  00705                % 18263 RGTR--
+220501001 Aspelt, Am Grëndchen  00707  00707                % 18263 RGTR--
+220501002 Aspelt, Gare          00708  00708                % 18263 RGTR--
+220502002 Frisange, Ennescht D  00711  00711                % 18263 RGTR--
+220502004 Frisange, Op der Krä  00712  00712                % 18263 RGTR--
+220502003 Frisange, Hau         00713  00713                % 18263 RGTR--
+201103004 Weiler-la-Tour, Schl  00715  00715                % 18263 RGTR--
+201103001 Weiler-la-Tour, Camp  00716  00716                % 18263 RGTR--
+200301002 Alzingen, Hondsbréck  00719  00719                % 18263 RGTR--
+200301003 Alzingen, Trapeneck   00720  00720                % 18263 RGTR--
+200303006 Hesperange, Urbengss  00721  00721                % 18263 RGTR--
+200303001 Hesperange, Am Kelle  00722  00722                % 18263 RGTR--
+200420006 Merl, Geesseknäppche  00738                       % 18263 RGTR--

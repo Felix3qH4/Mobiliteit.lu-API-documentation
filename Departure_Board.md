@@ -194,7 +194,7 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-line">line</p> | True         | str        | The line number which is displayed in the name, if it's a tram it is equal to the [name](#key-Pname)  |
 | <p id="key-catOut">catOut</p> | True     | str        | The vehicle type. Available: Bus, Train, Tram                                       |
 | <p id="key-catIn">catIn</p> | True       | str        | ??? (For busses its usually a number, for tram "CAF")                               |   
-| <p id="key-catCode">catCode</p> | True   | str        | ??? (Usually "5" for busses and "8" for tram)                                       |
+| <p id="key-catCode">catCode</p> | True   | str        | A code telling you which vehicle type it is (Bus/Intercity/...). For more details see [catCode](#catCode) |
 | <p id="key-cls">cls</p> | True           | str        | ??? A number telling you which product it is. (Bus, Tram, ...) See [cls](#cls) for more details. |
 | <p id="key-catOutS">catOutS</p> | True   | str        | ??? (Seems to be the same as [catIn](#key-catIn)                                    |
 | <p id="key-catOutL">catOutL</p> | True   | str        | ??? (Seems to be the same as [catOut](#key-catOut)                                  |
@@ -341,6 +341,20 @@ The fifth number ("**29012023**" here) stands for the current date, so here it w
 <br>
 <br>
 
+## catCode
+The 'catCode' allows identifying the type of vehicle that operates this line. <br>
+(From the file 'zugart') <br>
+Here a list of all known codes: <br>
+- 00 : ICE-Trains
+- 01 : Intercity- and Eurocitytrains
+- 02 : Interregio- and Fast trains
+- 03 : Regional and other trains
+- 04 : S-Bahn
+- 05 : Busses
+- 06 : Boats
+- 07 : Underground
+- 08 : Tram
+- 09 : Services requiring tel. registration for passengers
 ## key
 **There are keys missing/some keys are incorrect**<br>
 The key of a note is text and often an abbreviation. <br>
@@ -440,7 +454,7 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 ```json
 {
     "id": "00006",
-    "K": "TRA", /*= 'operatorCode' in the API response *\
+    "K": "TRA", //= 'operatorCode' in the API response
     "L": "TRAM",
     "V": "Luxtram", //= 'operator' in the API response
     "administrator": "LUTRAM" //= 'admin' in the API response

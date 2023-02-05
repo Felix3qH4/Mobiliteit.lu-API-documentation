@@ -1,0 +1,81 @@
+*F 03 2
+*Z 18373 RGTR--                                             % 18373 RGTR--
+*L D33      200420005 160904001  01250  01332               % 18373 RGTR--
+*A cj 200420005 160904001 000046  01250  01332              % 18373 RGTR--
+*A ad 200420005 160904001 000046  01250  01332              % 18373 RGTR--
+*R 1 160904001 200420005 160904001  01250  01332            % 18373 RGTR--
+*G 080 200420005 160904001  01250  01332                    % 18373 RGTR--
+*A VE 200420005 160904001 000046  01250  01332              % 18373 RGTR--
+*I FD 200420005 160904001        0002070  01250  01332      % 18373 RGTR--
+200420005 Merl, Geesseknäppche         01250                % 18373 RGTR--
+160803002 Bofferdange, Bouferk  01320  01320                % 18373 RGTR--
+160803001 Bofferdange, Maison   01321  01321                % 18373 RGTR--
+160804001 Helmdange, Fautelfie  01322  01322                % 18373 RGTR--
+160807003 Lorentzweiler, Gare   01322  01322                % 18373 RGTR--
+160807002 Lorentzweiler, An de  01323  01323                % 18373 RGTR--
+160702001 Lintgen, An der Kléc  01325  01325                % 18373 RGTR--
+160702003 Lintgen, Kräizung     01326  01326                % 18373 RGTR--
+160908001 Rollingen, Lëtzebuer  01329  01329                % 18373 RGTR--
+160908002 Rollingen, Veräinsba  01330  01330                % 18373 RGTR--
+160902001 Rollingen, Blannenhe  01330  01330                % 18373 RGTR--
+160904001 Mersch, Gare routièr  01332                       % 18373 RGTR--
+*Z 18374 RGTR--                                             % 18374 RGTR--
+*L D33      200420005 160904001  01425  01507               % 18374 RGTR--
+*A cj 200420005 160904001 000042  01425  01507              % 18374 RGTR--
+*A ad 200420005 160904001 000042  01425  01507              % 18374 RGTR--
+*R 1 160904001 200420005 160904001  01425  01507            % 18374 RGTR--
+*G 080 200420005 160904001  01425  01507                    % 18374 RGTR--
+*A VE 200420005 160904001 000042  01425  01507              % 18374 RGTR--
+*I FD 200420005 160904001        0002197  01425  01507      % 18374 RGTR--
+200420005 Merl, Geesseknäppche         01425                % 18374 RGTR--
+160803002 Bofferdange, Bouferk  01455  01455                % 18374 RGTR--
+160803001 Bofferdange, Maison   01456  01456                % 18374 RGTR--
+160804001 Helmdange, Fautelfie  01457  01457                % 18374 RGTR--
+160807003 Lorentzweiler, Gare   01457  01457                % 18374 RGTR--
+160807002 Lorentzweiler, An de  01458  01458                % 18374 RGTR--
+160702001 Lintgen, An der Kléc  01500  01500                % 18374 RGTR--
+160702003 Lintgen, Kräizung     01501  01501                % 18374 RGTR--
+160908001 Rollingen, Lëtzebuer  01504  01504                % 18374 RGTR--
+160908002 Rollingen, Veräinsba  01505  01505                % 18374 RGTR--
+160902001 Rollingen, Blannenhe  01505  01505                % 18374 RGTR--
+160904001 Mersch, Gare routièr  01507                       % 18374 RGTR--
+*Z 18375 RGTR--                                             % 18375 RGTR--
+*L D33      200420005 160904001  01550  01634               % 18375 RGTR--
+*A cj 200420005 160904001 000047  01550  01634              % 18375 RGTR--
+*A ad 200420005 160904001 000047  01550  01634              % 18375 RGTR--
+*R 1 160904001 200420005 160904001  01550  01634            % 18375 RGTR--
+*G 060 200420005 160904001  01550  01634                    % 18375 RGTR--
+*A VE 200420005 160904001 000047  01550  01634              % 18375 RGTR--
+*I FD 200420005 160904001        0002073  01550  01634      % 18375 RGTR--
+200420005 Merl, Geesseknäppche         01550                % 18375 RGTR--
+160803002 Bofferdange, Bouferk  01620  01620                % 18375 RGTR--
+160803001 Bofferdange, Maison   01621  01621                % 18375 RGTR--
+160804001 Helmdange, Fautelfie  01622  01622                % 18375 RGTR--
+160807003 Lorentzweiler, Gare   01623  01623                % 18375 RGTR--
+160807002 Lorentzweiler, An de  01624  01624                % 18375 RGTR--
+160702001 Lintgen, An der Kléc  01626  01626                % 18375 RGTR--
+160702003 Lintgen, Kräizung     01627  01627                % 18375 RGTR--
+160908001 Rollingen, Lëtzebuer  01630  01630                % 18375 RGTR--
+160908002 Rollingen, Veräinsba  01630  01630                % 18375 RGTR--
+160902001 Rollingen, Blannenhe  01631  01631                % 18375 RGTR--
+160904001 Mersch, Gare routièr  01634                       % 18375 RGTR--
+*Z 18376 RGTR--                                             % 18376 RGTR--
+*L D33      160904001 200420005  00700  00753               % 18376 RGTR--
+*A cj 160904001 200420005 000042  00700  00753              % 18376 RGTR--
+*A ad 160904001 200420005 000042  00700  00753              % 18376 RGTR--
+*R 2 200420005 160904001 200420005  00700  00753            % 18376 RGTR--
+*G 072 160904001 200420005  00700  00753                    % 18376 RGTR--
+*A VE 160904001 200420005 000042  00700  00753              % 18376 RGTR--
+*I FD 160904001 200420005        0001948  00700  00753      % 18376 RGTR--
+160904001 Mersch, Gare routièr         00700                % 18376 RGTR--
+160902001 Rollingen, Blannenhe  00702  00702                % 18376 RGTR--
+160908002 Rollingen, Veräinsba  00703  00703                % 18376 RGTR--
+160908001 Rollingen, Lëtzebuer  00704  00704                % 18376 RGTR--
+160702003 Lintgen, Kräizung     00707  00707                % 18376 RGTR--
+160702001 Lintgen, An der Kléc  00708  00708                % 18376 RGTR--
+160807002 Lorentzweiler, An de  00710  00710                % 18376 RGTR--
+160807003 Lorentzweiler, Gare   00712  00712                % 18376 RGTR--
+160804001 Helmdange, Fautelfie  00712  00712                % 18376 RGTR--
+160803001 Bofferdange, Maison   00713  00713                % 18376 RGTR--
+160803002 Bofferdange, Bouferk  00715  00715                % 18376 RGTR--
+200420005 Merl, Geesseknäppche  00753                       % 18376 RGTR--

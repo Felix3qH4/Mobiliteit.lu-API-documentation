@@ -1,0 +1,53 @@
+*F 03 2
+*Z 18504 RGTR--                                             % 18504 RGTR--
+*L E29      200419021 160201003  01403  01453               % 18504 RGTR--
+*A cj 200419021 160201003 000042  01403  01453              % 18504 RGTR--
+*A ad 200419021 160201003 000042  01403  01453              % 18504 RGTR--
+*R 1 160201003 200419021 160201003  01403  01453            % 18504 RGTR--
+*G 060 200419021 160201003  01403  01453                    % 18504 RGTR--
+*A VE 200419021 160201003 000042  01403  01453              % 18504 RGTR--
+*I FD 200419021 160201003        0002093  01403  01453      % 18504 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 18504 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 18504 RGTR--
+200419009 Limpertsberg, Bd.P.   01410  01410                % 18504 RGTR--
+160908001 Rollingen, Lëtzebuer  01438  01438                % 18504 RGTR--
+160908002 Rollingen, Veräinsba  01438  01438                % 18504 RGTR--
+160902001 Rollingen, Blannenhe  01439  01439                % 18504 RGTR--
+160904005 Mersch, Stäereplaz    01441  01441                % 18504 RGTR--
+160904004 Mersch, Reckenerstro  01442  01442                % 18504 RGTR--
+160907002 Reckange/Mersch, Bei  01443  01443                % 18504 RGTR--
+160907003 Reckange/Mersch, Hos  01444  01444                % 18504 RGTR--
+160907001 Reckange/Mersch, Bar  01446  01446                % 18504 RGTR--
+160204001 Openthalt, Finsterth  01448  01448                % 18504 RGTR--
+160205002 Grevenknapp, Riesenh  01449  01449                % 18504 RGTR--
+160205003 Grevenknapp, Um ënns  01450  01450                % 18504 RGTR--
+160201007 Boevange, Beim Wald   01450  01450                % 18504 RGTR--
+160201005 Boevange, Lëtschert   01451  01451                % 18504 RGTR--
+160201004 Boevange, Helpert     01452  01452                % 18504 RGTR--
+160201003 Boevange, Gare        01453                       % 18504 RGTR--
+*Z 18505 RGTR--                                             % 18505 RGTR--
+*L E29      160201006 200419021  00649  00745               % 18505 RGTR--
+*A cj 160201006 200419021 000042  00649  00745              % 18505 RGTR--
+*A ad 160201006 200419021 000042  00649  00745              % 18505 RGTR--
+*R 2 200419021 160201006 200419021  00649  00745            % 18505 RGTR--
+*G 060 160201006 200419021  00649  00745                    % 18505 RGTR--
+*A VE 160201006 200419021 000042  00649  00745              % 18505 RGTR--
+*I FD 160201006 200419021        0003196  00649  00745      % 18505 RGTR--
+160201006 Boevange, Uerbelt            00649                % 18505 RGTR--
+160201004 Boevange, Helpert     00649  00649                % 18505 RGTR--
+160201005 Boevange, Lëtschert   00650  00650                % 18505 RGTR--
+160201007 Boevange, Beim Wald   00651  00651                % 18505 RGTR--
+160205003 Grevenknapp, Um ënns  00652  00652                % 18505 RGTR--
+160205002 Grevenknapp, Riesenh  00652  00652                % 18505 RGTR--
+160204001 Openthalt, Finsterth  00654  00654                % 18505 RGTR--
+160907001 Reckange/Mersch, Bar  00656  00656                % 18505 RGTR--
+160907003 Reckange/Mersch, Hos  00658  00658                % 18505 RGTR--
+160907002 Reckange/Mersch, Bei  00659  00659                % 18505 RGTR--
+160904004 Mersch, Reckenerstro  00700  00700                % 18505 RGTR--
+160904005 Mersch, Stäereplaz    00702  00702                % 18505 RGTR--
+160902001 Rollingen, Blannenhe  00704  00704                % 18505 RGTR--
+160908002 Rollingen, Veräinsba  00704  00704                % 18505 RGTR--
+160908001 Rollingen, Lëtzebuer  00706  00706                % 18505 RGTR--
+200419037 Limpertsberg, Kiisch  00739  00739                % 18505 RGTR--
+200419025 Limpertsberg, Lycée   00741  00741                % 18505 RGTR--
+200419021 Limpertsberg, L.T.C.  00745                       % 18505 RGTR--

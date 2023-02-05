@@ -1,0 +1,385 @@
+*F 03 2
+*Z 11458 RGTR--                                             % 11458 RGTR--
+*L 12U      140701016 160101009  00555  00607               % 11458 RGTR--
+*R 1 160101009 140701016 160101009  00555  00607            % 11458 RGTR--
+*G 072 140701016 160101009  00555  00607                    % 11458 RGTR--
+*A VE 140701016 160101009 000042  00555  00607              % 11458 RGTR--
+*I FD 140701016 160101009        0002265  00555  00607      % 11458 RGTR--
+140701016 Ettelbruck, Gare             00555                % 11458 RGTR--
+140701026 Ettelbruck, Rond Poi  00556  00556                % 11458 RGTR--
+140701018 Ettelbruck, H.v.Land  00557  00557                % 11458 RGTR--
+160301002 Colmar-Berg, Centre   00600  00600                % 11458 RGTR--
+160301007 Colmar-Berg, Usines   00602  00602                % 11458 RGTR--
+160301001 Colmar-Berg, C. Admi  00603  00603                % 11458 RGTR--
+160301006 Colmar-Berg, Raedels  00604  00604                % 11458 RGTR--
+160102001 Roost (Bissen), Mold  00605  00605                % 11458 RGTR--
+160102002 Rouscht               00606  00606                % 11458 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00607                       % 11458 RGTR--
+*Z 11459 RGTR--                                             % 11459 RGTR--
+*L 12U      140701016 160101009  00555  00607               % 11459 RGTR--
+*R 1 160101009 140701016 160101009  00555  00607            % 11459 RGTR--
+*G 050 140701016 160101009  00555  00607                    % 11459 RGTR--
+*A VE 140701016 160101009 000324  00555  00607              % 11459 RGTR--
+*I FD 140701016 160101009        0002265  00555  00607      % 11459 RGTR--
+140701016 Ettelbruck, Gare             00555                % 11459 RGTR--
+140701026 Ettelbruck, Rond Poi  00556  00556                % 11459 RGTR--
+140701018 Ettelbruck, H.v.Land  00557  00557                % 11459 RGTR--
+160301002 Colmar-Berg, Centre   00600  00600                % 11459 RGTR--
+160301007 Colmar-Berg, Usines   00602  00602                % 11459 RGTR--
+160301001 Colmar-Berg, C. Admi  00603  00603                % 11459 RGTR--
+160301006 Colmar-Berg, Raedels  00604  00604                % 11459 RGTR--
+160102001 Roost (Bissen), Mold  00605  00605                % 11459 RGTR--
+160102002 Rouscht               00606  00606                % 11459 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00607                       % 11459 RGTR--
+*Z 11460 RGTR--                                             % 11460 RGTR--
+*L 12U      140701016 160101009  00655  00707               % 11460 RGTR--
+*R 1 160101009 140701016 160101009  00655  00707            % 11460 RGTR--
+*G 050 140701016 160101009  00655  00707                    % 11460 RGTR--
+*A VE 140701016 160101009 000033  00655  00707              % 11460 RGTR--
+*I FD 140701016 160101009        0001920  00655  00707      % 11460 RGTR--
+140701016 Ettelbruck, Gare             00655                % 11460 RGTR--
+140701026 Ettelbruck, Rond Poi  00656  00656                % 11460 RGTR--
+140701018 Ettelbruck, H.v.Land  00657  00657                % 11460 RGTR--
+160301002 Colmar-Berg, Centre   00700  00700                % 11460 RGTR--
+160301007 Colmar-Berg, Usines   00702  00702                % 11460 RGTR--
+160301001 Colmar-Berg, C. Admi  00703  00703                % 11460 RGTR--
+160301006 Colmar-Berg, Raedels  00704  00704                % 11460 RGTR--
+160102001 Roost (Bissen), Mold  00705  00705                % 11460 RGTR--
+160102002 Rouscht               00706  00706                % 11460 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00707                       % 11460 RGTR--
+*Z 11461 RGTR--                                             % 11461 RGTR--
+*L 12U      160101009 140701016  01518  01532               % 11461 RGTR--
+*R 2 140701016 160101009 140701016  01518  01532            % 11461 RGTR--
+*G 050 160101009 140701016  01518  01532                    % 11461 RGTR--
+*A VE 160101009 140701016 000033  01518  01532              % 11461 RGTR--
+*I FD 160101009 140701016        0002715  01518  01532      % 11461 RGTR--
+160101009 Bissen, Z.A.C. Kleng         01518                % 11461 RGTR--
+160102002 Rouscht               01518  01518                % 11461 RGTR--
+160102001 Roost (Bissen), Mold  01520  01520                % 11461 RGTR--
+160301006 Colmar-Berg, Raedels  01521  01521                % 11461 RGTR--
+160301001 Colmar-Berg, C. Admi  01522  01522                % 11461 RGTR--
+160301007 Colmar-Berg, Usines   01523  01523                % 11461 RGTR--
+160301002 Colmar-Berg, Centre   01524  01524                % 11461 RGTR--
+140701018 Ettelbruck, H.v.Land  01528  01528                % 11461 RGTR--
+140701026 Ettelbruck, Rond Poi  01529  01529                % 11461 RGTR--
+140701015 Ettelbruck, Ecole Pr  01530  01530                % 11461 RGTR--
+140701016 Ettelbruck, Gare      01532                       % 11461 RGTR--
+*Z 11462 RGTR--                                             % 11462 RGTR--
+*L 12U      160101009 140701016  01615  01630               % 11462 RGTR--
+*R 2 140701016 160101009 140701016  01615  01630            % 11462 RGTR--
+*G 050 160101009 140701016  01615  01630                    % 11462 RGTR--
+*A VE 160101009 140701016 000033  01615  01630              % 11462 RGTR--
+*I FD 160101009 140701016        0002060  01615  01630      % 11462 RGTR--
+160101009 Bissen, Z.A.C. Kleng         01615                % 11462 RGTR--
+160102002 Rouscht               01615  01615                % 11462 RGTR--
+160102001 Roost (Bissen), Mold  01617  01617                % 11462 RGTR--
+160301006 Colmar-Berg, Raedels  01618  01618                % 11462 RGTR--
+160301001 Colmar-Berg, C. Admi  01619  01619                % 11462 RGTR--
+160301007 Colmar-Berg, Usines   01620  01620                % 11462 RGTR--
+160301002 Colmar-Berg, Centre   01621  01621                % 11462 RGTR--
+140701018 Ettelbruck, H.v.Land  01625  01625                % 11462 RGTR--
+140701026 Ettelbruck, Rond Poi  01627  01627                % 11462 RGTR--
+140701015 Ettelbruck, Ecole Pr  01628  01628                % 11462 RGTR--
+140701016 Ettelbruck, Gare      01630                       % 11462 RGTR--
+*Z 00075 RGTR--                                             % 00075 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00075 RGTR--
+*A HA 160301008 140701016 000010  01648  01705              % 00075 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00075 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00075 RGTR--
+*A VE 160301008 140701016 000010  01648  01705              % 00075 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00075 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00075 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00075 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00075 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00075 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00075 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00075 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00075 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00075 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00075 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00075 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00075 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00075 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00075 RGTR--
+*Z 00069 RGTR--                                             % 00069 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00069 RGTR--
+*A HA 160301008 140701016 000012  01648  01705              % 00069 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00069 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00069 RGTR--
+*A VE 160301008 140701016 000012  01648  01705              % 00069 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00069 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00069 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00069 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00069 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00069 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00069 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00069 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00069 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00069 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00069 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00069 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00069 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00069 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00069 RGTR--
+*Z 00067 RGTR--                                             % 00067 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00067 RGTR--
+*A HA 160301008 140701016 000006  01648  01705              % 00067 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00067 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00067 RGTR--
+*A VE 160301008 140701016 000006  01648  01705              % 00067 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00067 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00067 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00067 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00067 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00067 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00067 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00067 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00067 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00067 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00067 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00067 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00067 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00067 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00067 RGTR--
+*Z 00073 RGTR--                                             % 00073 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00073 RGTR--
+*A HA 160301008 140701016 000014  01648  01705              % 00073 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00073 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00073 RGTR--
+*A VE 160301008 140701016 000014  01648  01705              % 00073 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00073 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00073 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00073 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00073 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00073 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00073 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00073 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00073 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00073 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00073 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00073 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00073 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00073 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00073 RGTR--
+*Z 00071 RGTR--                                             % 00071 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00071 RGTR--
+*A HA 160301008 140701016 000008  01648  01705              % 00071 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00071 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00071 RGTR--
+*A VE 160301008 140701016 000008  01648  01705              % 00071 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00071 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00071 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00071 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00071 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00071 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00071 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00071 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00071 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00071 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00071 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00071 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00071 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00071 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00071 RGTR--
+*Z 11463 RGTR--                                             % 11463 RGTR--
+*L 12U      160102001 140701016  01648  01704               % 11463 RGTR--
+*R 2 140701016 160102001 140701016  01648  01704            % 11463 RGTR--
+*G 050 160102001 140701016  01648  01704                    % 11463 RGTR--
+*A VE 160102001 140701016 000033  01648  01704              % 11463 RGTR--
+*I FD 160102001 140701016        0001213  01648  01704      % 11463 RGTR--
+160102001 Roost (Bissen), Mold         01648                % 11463 RGTR--
+160301006 Colmar-Berg, Raedels  01649  01649                % 11463 RGTR--
+160301001 Colmar-Berg, C. Admi  01651  01651                % 11463 RGTR--
+160301007 Colmar-Berg, Usines   01651  01651                % 11463 RGTR--
+160301002 Colmar-Berg, Centre   01653  01653                % 11463 RGTR--
+141301007 Schieren, Porte de S  01655  01655                % 11463 RGTR--
+141301004 Schieren, Neie Wee    01656  01656                % 11463 RGTR--
+141301006 Schieren, Vali's Pla  01657  01657                % 11463 RGTR--
+140701018 Ettelbruck, H.v.Land  01659  01659                % 11463 RGTR--
+140701026 Ettelbruck, Rond Poi  01701  01701                % 11463 RGTR--
+140701015 Ettelbruck, Ecole Pr  01702  01702                % 11463 RGTR--
+140701016 Ettelbruck, Gare      01704                       % 11463 RGTR--
+*Z 11464 RGTR--                                             % 11464 RGTR--
+*L 12U      140701016 160101009  00555  00607               % 11464 RGTR--
+*R 1 160101009 140701016 160101009  00555  00607            % 11464 RGTR--
+*G 050 140701016 160101009  00555  00607                    % 11464 RGTR--
+*A VE 140701016 160101009 000034  00555  00607              % 11464 RGTR--
+*I FD 140701016 160101009        0002265  00555  00607      % 11464 RGTR--
+140701016 Ettelbruck, Gare             00555                % 11464 RGTR--
+140701026 Ettelbruck, Rond Poi  00556  00556                % 11464 RGTR--
+140701018 Ettelbruck, H.v.Land  00557  00557                % 11464 RGTR--
+160301002 Colmar-Berg, Centre   00600  00600                % 11464 RGTR--
+160301007 Colmar-Berg, Usines   00602  00602                % 11464 RGTR--
+160301001 Colmar-Berg, C. Admi  00603  00603                % 11464 RGTR--
+160301006 Colmar-Berg, Raedels  00604  00604                % 11464 RGTR--
+160102001 Roost (Bissen), Mold  00605  00605                % 11464 RGTR--
+160102002 Rouscht               00606  00606                % 11464 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00607                       % 11464 RGTR--
+*Z 11465 RGTR--                                             % 11465 RGTR--
+*L 12U      140701016 160101009  00655  00707               % 11465 RGTR--
+*R 1 160101009 140701016 160101009  00655  00707            % 11465 RGTR--
+*G 050 140701016 160101009  00655  00707                    % 11465 RGTR--
+*A VE 140701016 160101009 000034  00655  00707              % 11465 RGTR--
+*I FD 140701016 160101009        0001920  00655  00707      % 11465 RGTR--
+140701016 Ettelbruck, Gare             00655                % 11465 RGTR--
+140701026 Ettelbruck, Rond Poi  00656  00656                % 11465 RGTR--
+140701018 Ettelbruck, H.v.Land  00657  00657                % 11465 RGTR--
+160301002 Colmar-Berg, Centre   00700  00700                % 11465 RGTR--
+160301007 Colmar-Berg, Usines   00702  00702                % 11465 RGTR--
+160301001 Colmar-Berg, C. Admi  00703  00703                % 11465 RGTR--
+160301006 Colmar-Berg, Raedels  00704  00704                % 11465 RGTR--
+160102001 Roost (Bissen), Mold  00705  00705                % 11465 RGTR--
+160102002 Rouscht               00706  00706                % 11465 RGTR--
+160101009 Bissen, Z.A.C. Kleng  00707                       % 11465 RGTR--
+*Z 11466 RGTR--                                             % 11466 RGTR--
+*L 12U      160101009 140701016  01518  01532               % 11466 RGTR--
+*R 2 140701016 160101009 140701016  01518  01532            % 11466 RGTR--
+*G 050 160101009 140701016  01518  01532                    % 11466 RGTR--
+*A VE 160101009 140701016 000034  01518  01532              % 11466 RGTR--
+*I FD 160101009 140701016        0002715  01518  01532      % 11466 RGTR--
+160101009 Bissen, Z.A.C. Kleng         01518                % 11466 RGTR--
+160102002 Rouscht               01518  01518                % 11466 RGTR--
+160102001 Roost (Bissen), Mold  01520  01520                % 11466 RGTR--
+160301006 Colmar-Berg, Raedels  01521  01521                % 11466 RGTR--
+160301001 Colmar-Berg, C. Admi  01522  01522                % 11466 RGTR--
+160301007 Colmar-Berg, Usines   01523  01523                % 11466 RGTR--
+160301002 Colmar-Berg, Centre   01524  01524                % 11466 RGTR--
+140701018 Ettelbruck, H.v.Land  01528  01528                % 11466 RGTR--
+140701026 Ettelbruck, Rond Poi  01529  01529                % 11466 RGTR--
+140701015 Ettelbruck, Ecole Pr  01530  01530                % 11466 RGTR--
+140701016 Ettelbruck, Gare      01532                       % 11466 RGTR--
+*Z 11467 RGTR--                                             % 11467 RGTR--
+*L 12U      160101009 140701016  01615  01630               % 11467 RGTR--
+*R 2 140701016 160101009 140701016  01615  01630            % 11467 RGTR--
+*G 050 160101009 140701016  01615  01630                    % 11467 RGTR--
+*A VE 160101009 140701016 000034  01615  01630              % 11467 RGTR--
+*I FD 160101009 140701016        0002060  01615  01630      % 11467 RGTR--
+160101009 Bissen, Z.A.C. Kleng         01615                % 11467 RGTR--
+160102002 Rouscht               01615  01615                % 11467 RGTR--
+160102001 Roost (Bissen), Mold  01617  01617                % 11467 RGTR--
+160301006 Colmar-Berg, Raedels  01618  01618                % 11467 RGTR--
+160301001 Colmar-Berg, C. Admi  01619  01619                % 11467 RGTR--
+160301007 Colmar-Berg, Usines   01620  01620                % 11467 RGTR--
+160301002 Colmar-Berg, Centre   01621  01621                % 11467 RGTR--
+140701018 Ettelbruck, H.v.Land  01625  01625                % 11467 RGTR--
+140701026 Ettelbruck, Rond Poi  01627  01627                % 11467 RGTR--
+140701015 Ettelbruck, Ecole Pr  01628  01628                % 11467 RGTR--
+140701016 Ettelbruck, Gare      01630                       % 11467 RGTR--
+*Z 00061 RGTR--                                             % 00061 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00061 RGTR--
+*A HA 160301008 140701016 000002  01648  01705              % 00061 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00061 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00061 RGTR--
+*A VE 160301008 140701016 000002  01648  01705              % 00061 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00061 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00061 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00061 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00061 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00061 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00061 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00061 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00061 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00061 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00061 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00061 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00061 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00061 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00061 RGTR--
+*Z 00063 RGTR--                                             % 00063 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00063 RGTR--
+*A HA 160301008 140701016 000005  01648  01705              % 00063 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00063 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00063 RGTR--
+*A VE 160301008 140701016 000005  01648  01705              % 00063 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00063 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00063 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00063 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00063 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00063 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00063 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00063 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00063 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00063 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00063 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00063 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00063 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00063 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00063 RGTR--
+*Z 00065 RGTR--                                             % 00065 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00065 RGTR--
+*A HA 160301008 140701016 000003  01648  01705              % 00065 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00065 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00065 RGTR--
+*A VE 160301008 140701016 000003  01648  01705              % 00065 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00065 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00065 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00065 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00065 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00065 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00065 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00065 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00065 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00065 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00065 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00065 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00065 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00065 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00065 RGTR--
+*Z 00059 RGTR--                                             % 00059 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00059 RGTR--
+*A HA 160301008 140701016 000004  01648  01705              % 00059 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00059 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00059 RGTR--
+*A VE 160301008 140701016 000004  01648  01705              % 00059 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00059 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00059 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00059 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00059 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00059 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00059 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00059 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00059 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00059 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00059 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00059 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00059 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00059 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00059 RGTR--
+*Z 00057 RGTR--                                             % 00057 RGTR--
+*L 12U      160301008 140701016  01648  01705               % 00057 RGTR--
+*A HA 160301008 140701016 000001  01648  01705              % 00057 RGTR--
+*R 2 140701016 160301008 140701016  01648  01705            % 00057 RGTR--
+*G 050 160301008 140701016  01648  01705                    % 00057 RGTR--
+*A VE 160301008 140701016 000001  01648  01705              % 00057 RGTR--
+*I FD 160301008 140701016        0001275  01648  01705      % 00057 RGTR--
+160301008 Colmar-Berg, Usine H         01648                % 00057 RGTR--
+160301009 Colmar-Berg, Z.I. Je  01649  01649                % 00057 RGTR--
+160301006 Colmar-Berg, Raedels  01650  01650                % 00057 RGTR--
+160301001 Colmar-Berg, C. Admi  01652  01652                % 00057 RGTR--
+160301007 Colmar-Berg, Usines   01653  01653                % 00057 RGTR--
+160301002 Colmar-Berg, Centre   01654  01654                % 00057 RGTR--
+141301007 Schieren, Porte de S  01656  01656                % 00057 RGTR--
+141301004 Schieren, Neie Wee    01657  01657                % 00057 RGTR--
+141301006 Schieren, Vali's Pla  01658  01658                % 00057 RGTR--
+140701018 Ettelbruck, H.v.Land  01700  01700                % 00057 RGTR--
+140701026 Ettelbruck, Rond Poi  01702  01702                % 00057 RGTR--
+140701015 Ettelbruck, Ecole Pr  01703  01703                % 00057 RGTR--
+140701016 Ettelbruck, Gare      01705                       % 00057 RGTR--
+*Z 11468 RGTR--                                             % 11468 RGTR--
+*L 12U      160102001 140701016  01648  01704               % 11468 RGTR--
+*R 2 140701016 160102001 140701016  01648  01704            % 11468 RGTR--
+*G 050 160102001 140701016  01648  01704                    % 11468 RGTR--
+*A VE 160102001 140701016 000034  01648  01704              % 11468 RGTR--
+*I FD 160102001 140701016        0001213  01648  01704      % 11468 RGTR--
+160102001 Roost (Bissen), Mold         01648                % 11468 RGTR--
+160301006 Colmar-Berg, Raedels  01649  01649                % 11468 RGTR--
+160301001 Colmar-Berg, C. Admi  01651  01651                % 11468 RGTR--
+160301007 Colmar-Berg, Usines   01651  01651                % 11468 RGTR--
+160301002 Colmar-Berg, Centre   01653  01653                % 11468 RGTR--
+141301007 Schieren, Porte de S  01655  01655                % 11468 RGTR--
+141301004 Schieren, Neie Wee    01656  01656                % 11468 RGTR--
+141301006 Schieren, Vali's Pla  01657  01657                % 11468 RGTR--
+140701018 Ettelbruck, H.v.Land  01659  01659                % 11468 RGTR--
+140701026 Ettelbruck, Rond Poi  01701  01701                % 11468 RGTR--
+140701015 Ettelbruck, Ecole Pr  01702  01702                % 11468 RGTR--
+140701016 Ettelbruck, Gare      01704                       % 11468 RGTR--

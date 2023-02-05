@@ -1,0 +1,26 @@
+*F 03 2
+*Z 05813 TIC---                                             % 05813 TIC---
+*L 600      190101011 220402034  00708  00728               % 05813 TIC---
+*R 1 220402034 190101011 220402034  00708  00728            % 05813 TIC---
+*G SB  190101011 220402034  00708  00728                    % 05813 TIC---
+*A VE 190101011 220402034 000290  00708  00728              % 05813 TIC---
+*I FD 190101011 220402034        0001626  00708  00728      % 05813 TIC---
+190101011 Bascharage/Sanem, Ga         00708                % 05813 TIC---
+221303004 Sanem, Op Lohr        00709  00709                % 05813 TIC---
+221303009 Sanem, Zentrum        00710  00710                % 05813 TIC---
+221303007 Sanem, Schlass        00711  00711                % 05813 TIC---
+221304013 Soleuvre, Reitschoul  00712  00712                % 05813 TIC---
+221304001 Soleuvre, Aessen      00714  00714                % 05813 TIC---
+221302002 Ehlerange, Dennebësc  00715  00715                % 05813 TIC---
+221302007 Ehlerange, Rousebësc  00716  00716                % 05813 TIC---
+221302005 Ehlerange, Keupewee   00716  00716                % 05813 TIC---
+221302001 Ehlerange, Centre     00718  00718                % 05813 TIC---
+221302003 Ehlerange, Escherstr  00719  00719                % 05813 TIC---
+221302009 Ehlerange, ZARE oues  00720  00720                % 05813 TIC---
+220402022 Esch-sur-Alzette, Ci  00721  00721                % 05813 TIC---
+220402067 Esch-sur-Alzette, Op  00721  00721                % 05813 TIC---
+220402071 Esch-sur-Alzette, Pl  00722  00722                % 05813 TIC---
+220402100 Esch-sur-Alzette, Pi  00723  00723                % 05813 TIC---
+220402021 Esch-sur-Alzette, ru  00725  00725                % 05813 TIC---
+220402036 Esch-sur-Alzette, Pl  00726  00726                % 05813 TIC---
+220402034 Esch-sur-Alzette, Ga  00728                       % 05813 TIC---

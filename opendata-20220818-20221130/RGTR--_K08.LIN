@@ -1,0 +1,63 @@
+*F 03 2
+*Z 18617 RGTR--                                             % 18617 RGTR--
+*L K08      180401003 140401009  00635  00759               % 18617 RGTR--
+*A cj 180401003 140401009 000042  00635  00759              % 18617 RGTR--
+*A ad 180401003 140401009 000042  00635  00759              % 18617 RGTR--
+*R 1 140401009 180401003 140401009  00635  00759            % 18617 RGTR--
+*G 063 180401003 140401009  00635  00759                    % 18617 RGTR--
+*A VE 180401003 140401009 000042  00635  00759              % 18617 RGTR--
+*I FD 180401003 140401009        0001931  00635  00759      % 18617 RGTR--
+180401003 Grevenmacher, Gare r         00635                % 18617 RGTR--
+180401008 Grevenmacher, Tanneu  00636  00636                % 18617 RGTR--
+180401001 Grevenmacher, Copal   00638  00638                % 18617 RGTR--
+180402002 Potaschbierg, Z.I.    00641  00641                % 18617 RGTR--
+180201002 Biwer, Haaptstrooss   00645  00645                % 18617 RGTR--
+180201005 Biwer, Haaptstrooss   00646  00646                % 18617 RGTR--
+180203001 Boudlerbach, Boudler  00650  00650                % 18617 RGTR--
+180509002 Graulinster, Haaptst  00656  00656                % 18617 RGTR--
+180509001 Graulinster, Am Duer  00657  00657                % 18617 RGTR--
+180503001 Blumenthal/Blummenda  00700  00700                % 18617 RGTR--
+160502001 Reuland               00702  00702                % 18617 RGTR--
+160501004 Heffingen, Thommes    00704  00704                % 18617 RGTR--
+160501002 Heffingen, Centre     00705  00705                % 18617 RGTR--
+160601006 Larochette, Millewee  00708  00708                % 18617 RGTR--
+160601001 Larochette, Bleech    00709  00709                % 18617 RGTR--
+160601005 Larochette, Leedebac  00710  00710                % 18617 RGTR--
+141001001 Medernach, Fondation  00712  00712                % 18617 RGTR--
+141001003 Medernach, Op der Ga  00712  00712                % 18617 RGTR--
+141301006 Schieren, Vali's Pla  00732  00732                % 18617 RGTR--
+140701018 Ettelbruck, H.v.Land  00735  00735                % 18617 RGTR--
+140701026 Ettelbruck, Rond Poi  00736  00736                % 18617 RGTR--
+140701015 Ettelbruck, Ecole Pr  00737  00737                % 18617 RGTR--
+140701016 Ettelbruck, Gare      00739  00739                % 18617 RGTR--
+140701021 Ettelbruck, L.T.Sale  00743  00743                % 18617 RGTR--
+140701020 Ettelbruck, Centre H  00744  00744                % 18617 RGTR--
+140602008 Erpeldange-sur-Sûre,  00749  00749                % 18617 RGTR--
+140603002 Ingeldorf, Café de l  00751  00751                % 18617 RGTR--
+140401004 Diekirch, Gare routi  00754  00754                % 18617 RGTR--
+140401001 Diekirch, Altersheem  00756  00756                % 18617 RGTR--
+140401009 Diekirch, Neie Kolle  00759                       % 18617 RGTR--
+*Z 18618 RGTR--                                             % 18618 RGTR--
+*L K08      160601001 140401009  00713  00802               % 18618 RGTR--
+*A cj 160601001 140401009 000042  00713  00802              % 18618 RGTR--
+*A ad 160601001 140401009 000042  00713  00802              % 18618 RGTR--
+*R 1 140401009 160601001 140401009  00713  00802            % 18618 RGTR--
+*G 063 160601001 140401009  00713  00802                    % 18618 RGTR--
+*A VE 160601001 140401009 000042  00713  00802              % 18618 RGTR--
+*I FD 160601001 140401009        0002827  00713  00802      % 18618 RGTR--
+160601001 Larochette, Bleech           00713                % 18618 RGTR--
+160601005 Larochette, Leedebac  00714  00714                % 18618 RGTR--
+141001001 Medernach, Fondation  00715  00715                % 18618 RGTR--
+141001003 Medernach, Op der Ga  00716  00716                % 18618 RGTR--
+141301006 Schieren, Vali's Pla  00736  00736                % 18618 RGTR--
+140701018 Ettelbruck, H.v.Land  00738  00738                % 18618 RGTR--
+140701026 Ettelbruck, Rond Poi  00740  00740                % 18618 RGTR--
+140701015 Ettelbruck, Ecole Pr  00741  00741                % 18618 RGTR--
+140701016 Ettelbruck, Gare      00742  00742                % 18618 RGTR--
+140701021 Ettelbruck, L.T.Sale  00747  00747                % 18618 RGTR--
+140701020 Ettelbruck, Centre H  00748  00748                % 18618 RGTR--
+140602008 Erpeldange-sur-Sûre,  00753  00753                % 18618 RGTR--
+140603002 Ingeldorf, Café de l  00755  00755                % 18618 RGTR--
+140401004 Diekirch, Gare routi  00757  00757                % 18618 RGTR--
+140401001 Diekirch, Altersheem  00759  00759                % 18618 RGTR--
+140401009 Diekirch, Neie Kolle  00802                       % 18618 RGTR--

@@ -1,0 +1,128 @@
+*F 03 2
+*Z 20128 RGTR--                                             % 20128 RGTR--
+*L B23      140202001 170501016  00710  00740               % 20128 RGTR--
+*A cj 140202001 170501016 000042  00710  00740              % 20128 RGTR--
+*A BE 140202001 170501016 000042  00710  00740              % 20128 RGTR--
+*A HU 140202001 170501016 000042  00710  00740              % 20128 RGTR--
+*A VF 140202001 170501016 000042  00710  00740              % 20128 RGTR--
+*A ad 140202001 170501016 000042  00710  00740              % 20128 RGTR--
+*R 1 170501016 140202001 170501016  00710  00740            % 20128 RGTR--
+*G 090 140202001 170501016  00710  00740                    % 20128 RGTR--
+*A VE 140202001 170501016 000042  00710  00740              % 20128 RGTR--
+*I FD 140202001 170501016        0002591  00710  00740      % 20128 RGTR--
+140202001 Bleesbréck                   00710                % 20128 RGTR--
+140201001 Bettendorf, Elick     00711  00711                % 20128 RGTR--
+140201002 Bettendorf, Gemeng    00712  00712                % 20128 RGTR--
+140201003 Bettendorf, Schlass   00712  00712                % 20128 RGTR--
+140204003 Moestroff, Wangerten  00714  00714                % 20128 RGTR--
+140204002 Moestroff, Bréck      00714  00714                % 20128 RGTR--
+140204001 Moestroff, An der Ga  00715  00715                % 20128 RGTR--
+141203004 Reisdorf, Cité J. Hi  00717  00717                % 20128 RGTR--
+141203002 Reisdorf, Bei der Ga  00718  00718                % 20128 RGTR--
+141203001 Reisdorf, An der Ee   00718  00718                % 20128 RGTR--
+141204002 Wallendorf-Pont, Cit  00720  00720                % 20128 RGTR--
+141204001 Wallendorf-Pont, Bei  00721  00721                % 20128 RGTR--
+141205001 Hermeswis             00724  00724                % 20128 RGTR--
+170102001 Dillingen Déiljen     00725  00725                % 20128 RGTR--
+170103001 Cloosbierg            00726  00726                % 20128 RGTR--
+170303001 Grundhof, Grondhaff   00727  00727                % 20128 RGTR--
+170302001 Bollendorf, Gare      00730  00730                % 20128 RGTR--
+170302003 Bollendorf-Pont, Pon  00731  00731                % 20128 RGTR--
+170302002 Bollendorf-Pont, Ham  00732  00732                % 20128 RGTR--
+170304001 Weilerbach, Laufenwe  00733  00733                % 20128 RGTR--
+170304002 Weilerbach            00734  00734                % 20128 RGTR--
+170501007 Echternach, Fielsmil  00736  00736                % 20128 RGTR--
+170501018 Echternach, Ermesind  00738  00738                % 20128 RGTR--
+170501016 Echternach, Gare Cen  00740                       % 20128 RGTR--
+*Z 20129 RGTR--                                             % 20129 RGTR--
+*L B23      170501016 140701016  01440  01525               % 20129 RGTR--
+*A cj 170501016 140701016 000042  01440  01525              % 20129 RGTR--
+*A BE 170501016 140701016 000042  01440  01525              % 20129 RGTR--
+*A ad 170501016 140701016 000042  01440  01525              % 20129 RGTR--
+*R 2 140701016 170501016 140701016  01440  01525            % 20129 RGTR--
+*G 090 170501016 140701016  01440  01525                    % 20129 RGTR--
+*A VE 170501016 140701016 000042  01440  01525              % 20129 RGTR--
+*I FD 170501016 140701016        0002330  01440  01525      % 20129 RGTR--
+170501016 Echternach, Gare Cen         01440                % 20129 RGTR--
+170501018 Echternach, Ermesind  01440  01440                % 20129 RGTR--
+170501007 Echternach, Fielsmil  01442  01442                % 20129 RGTR--
+170304002 Weilerbach            01444  01444                % 20129 RGTR--
+170304001 Weilerbach, Laufenwe  01445  01445                % 20129 RGTR--
+170302002 Bollendorf-Pont, Ham  01446  01446                % 20129 RGTR--
+170302003 Bollendorf-Pont, Pon  01447  01447                % 20129 RGTR--
+170302001 Bollendorf, Gare      01448  01448                % 20129 RGTR--
+170303001 Grundhof, Grondhaff   01450  01450                % 20129 RGTR--
+170103001 Cloosbierg            01451  01451                % 20129 RGTR--
+170102001 Dillingen Déiljen     01452  01452                % 20129 RGTR--
+141205001 Hermeswis             01454  01454                % 20129 RGTR--
+141204001 Wallendorf-Pont, Bei  01456  01456                % 20129 RGTR--
+141204002 Wallendorf-Pont, Cit  01457  01457                % 20129 RGTR--
+141203001 Reisdorf, An der Ee   01458  01458                % 20129 RGTR--
+141203002 Reisdorf, Bei der Ga  01459  01459                % 20129 RGTR--
+141203004 Reisdorf, Cité J. Hi  01500  01500                % 20129 RGTR--
+140204001 Moestroff, An der Ga  01502  01502                % 20129 RGTR--
+140204002 Moestroff, Bréck      01503  01503                % 20129 RGTR--
+140204003 Moestroff, Wangerten  01503  01503                % 20129 RGTR--
+140201003 Bettendorf, Schlass   01505  01505                % 20129 RGTR--
+140201002 Bettendorf, Gemeng    01505  01505                % 20129 RGTR--
+140201001 Bettendorf, Elick     01506  01506                % 20129 RGTR--
+140202001 Bleesbréck            01508  01508                % 20129 RGTR--
+140203001 Gilsdorf, An der Klé  01509  01509                % 20129 RGTR--
+140203002 Gilsdorf, Bei der Sc  01510  01510                % 20129 RGTR--
+140401017 Diekirch, Bei der Ti  01511  01511                % 20129 RGTR--
+140401007 Diekirch, rue Merten  01512  01512                % 20129 RGTR--
+140401011 Diekirch, Alexis Hec  01513  01513                % 20129 RGTR--
+140401006 Diekirch, Kluuster    01514  01514                % 20129 RGTR--
+140401004 Diekirch, Gare routi  01516  01516                % 20129 RGTR--
+140401008 Diekirch, Lorentzwue  01518  01518                % 20129 RGTR--
+140603003 Ingeldorf, Cité Long  01519  01519                % 20129 RGTR--
+140603001 Ingeldorf, Bei der B  01520  01520                % 20129 RGTR--
+140603004 Ingeldorf, Kiirchpla  01521  01521                % 20129 RGTR--
+140602008 Erpeldange-sur-Sûre,  01523  01523                % 20129 RGTR--
+140701016 Ettelbruck, Gare      01525                       % 20129 RGTR--
+*Z 20130 RGTR--                                             % 20130 RGTR--
+*L B23      170501016 140701016  01530  01615               % 20130 RGTR--
+*A cj 170501016 140701016 000042  01530  01615              % 20130 RGTR--
+*A BE 170501016 140701016 000042  01530  01615              % 20130 RGTR--
+*A ad 170501016 140701016 000042  01530  01615              % 20130 RGTR--
+*R 2 140701016 170501016 140701016  01530  01615            % 20130 RGTR--
+*G 090 170501016 140701016  01530  01615                    % 20130 RGTR--
+*A VE 170501016 140701016 000042  01530  01615              % 20130 RGTR--
+*I FD 170501016 140701016        0002355  01530  01615      % 20130 RGTR--
+170501016 Echternach, Gare Cen         01530                % 20130 RGTR--
+170501018 Echternach, Ermesind  01530  01530                % 20130 RGTR--
+170501007 Echternach, Fielsmil  01532  01532                % 20130 RGTR--
+170304002 Weilerbach            01534  01534                % 20130 RGTR--
+170304001 Weilerbach, Laufenwe  01535  01535                % 20130 RGTR--
+170302002 Bollendorf-Pont, Ham  01536  01536                % 20130 RGTR--
+170302003 Bollendorf-Pont, Pon  01537  01537                % 20130 RGTR--
+170302001 Bollendorf, Gare      01538  01538                % 20130 RGTR--
+170303001 Grundhof, Grondhaff   01540  01540                % 20130 RGTR--
+170103001 Cloosbierg            01541  01541                % 20130 RGTR--
+170102001 Dillingen Déiljen     01542  01542                % 20130 RGTR--
+141205001 Hermeswis             01544  01544                % 20130 RGTR--
+141204001 Wallendorf-Pont, Bei  01546  01546                % 20130 RGTR--
+141204002 Wallendorf-Pont, Cit  01547  01547                % 20130 RGTR--
+141203001 Reisdorf, An der Ee   01548  01548                % 20130 RGTR--
+141203002 Reisdorf, Bei der Ga  01549  01549                % 20130 RGTR--
+141203004 Reisdorf, Cité J. Hi  01550  01550                % 20130 RGTR--
+140204001 Moestroff, An der Ga  01552  01552                % 20130 RGTR--
+140204002 Moestroff, Bréck      01553  01553                % 20130 RGTR--
+140204003 Moestroff, Wangerten  01553  01553                % 20130 RGTR--
+140201003 Bettendorf, Schlass   01555  01555                % 20130 RGTR--
+140201002 Bettendorf, Gemeng    01555  01555                % 20130 RGTR--
+140201001 Bettendorf, Elick     01556  01556                % 20130 RGTR--
+140202001 Bleesbréck            01558  01558                % 20130 RGTR--
+140203001 Gilsdorf, An der Klé  01559  01559                % 20130 RGTR--
+140203002 Gilsdorf, Bei der Sc  01600  01600                % 20130 RGTR--
+140401017 Diekirch, Bei der Ti  01601  01601                % 20130 RGTR--
+140401007 Diekirch, rue Merten  01602  01602                % 20130 RGTR--
+140401011 Diekirch, Alexis Hec  01603  01603                % 20130 RGTR--
+140401006 Diekirch, Kluuster    01604  01604                % 20130 RGTR--
+140401004 Diekirch, Gare routi  01606  01606                % 20130 RGTR--
+140401008 Diekirch, Lorentzwue  01608  01608                % 20130 RGTR--
+140603003 Ingeldorf, Cité Long  01609  01609                % 20130 RGTR--
+140603001 Ingeldorf, Bei der B  01610  01610                % 20130 RGTR--
+140603004 Ingeldorf, Kiirchpla  01611  01611                % 20130 RGTR--
+140602008 Erpeldange-sur-Sûre,  01613  01613                % 20130 RGTR--
+140701016 Ettelbruck, Gare      01615                       % 20130 RGTR--

@@ -1,0 +1,69 @@
+*F 03 2
+*Z 18922 RGTR--                                             % 18922 RGTR--
+*L N07      220901004 190304002  01455  01524               % 18922 RGTR--
+*A cj 220901004 190304002 000042  01455  01524              % 18922 RGTR--
+*A ad 220901004 190304002 000042  01455  01524              % 18922 RGTR--
+*R 1 190304002 220901004 190304002  01455  01524            % 18922 RGTR--
+*G 060 220901004 190304002  01455  01524                    % 18922 RGTR--
+*A VE 220901004 190304002 000042  01455  01524              % 18922 RGTR--
+*I FD 220901004 190304002        0002760  01455  01524      % 18922 RGTR--
+220901004 Lamadelaine, Lycée T         01455                % 18922 RGTR--
+220902010 Pétange, Kräizheck    01457  01457                % 18922 RGTR--
+220902002 Pétange, Athuserstro  01457  01457                % 18922 RGTR--
+220902016 Pétange, Op der Mill  01458  01458                % 18922 RGTR--
+220902020 Pétange, Op der Mill  01458  01458                % 18922 RGTR--
+190103003 Linger, Velo's Piste  01459  01459                % 18922 RGTR--
+190103001 Linger, Schoul        01500  01500                % 18922 RGTR--
+190102002 Hautcharage, Scheedw  01502  01502                % 18922 RGTR--
+190102001 Hautcharage, Crèche   01503  01503                % 18922 RGTR--
+190102004 Hautcharage, Um Kläp  01504  01504                % 18922 RGTR--
+190101021 Bascharage, Widdems   01505  01505                % 18922 RGTR--
+190101009 Bascharage, Eglise    01506  01506                % 18922 RGTR--
+190101006 Bascharage, Brasseri  01507  01507                % 18922 RGTR--
+190101017 Bascharage, Prince H  01508  01508                % 18922 RGTR--
+190101005 Bascharage, Bommertb  01508  01508                % 18922 RGTR--
+190101012 Bascharage, Industri  01509  01509                % 18922 RGTR--
+190303004 Schouweiler, Kastill  01511  01511                % 18922 RGTR--
+190303006 Schouweiler, Schéife  01512  01512                % 18922 RGTR--
+190303005 Schouweiler, Kiirch   01513  01513                % 18922 RGTR--
+190304003 Sprinkange, Um Kierk  01514  01514                % 18922 RGTR--
+190302005 Dippach, Op der Kopp  01515  01515                % 18922 RGTR--
+190302002 Dippach, Bei der Kap  01516  01516                % 18922 RGTR--
+190301003 Bettange-sur-Mess, K  01519  01519                % 18922 RGTR--
+190301001 Bettange-sur-Mess, B  01520  01520                % 18922 RGTR--
+190300503 Bettange-sur-Mess, S  01522  01522                % 18922 RGTR--
+190304002 Sprinkange, Place de  01524                       % 18922 RGTR--
+*Z 18923 RGTR--                                             % 18923 RGTR--
+*L N07      190304002 220901004  00710  00747               % 18923 RGTR--
+*A cj 190304002 220901004 000042  00710  00747              % 18923 RGTR--
+*A ad 190304002 220901004 000042  00710  00747              % 18923 RGTR--
+*R 2 220901004 190304002 220901004  00710  00747            % 18923 RGTR--
+*G 050 190304002 220901004  00710  00747                    % 18923 RGTR--
+*A VE 190304002 220901004 000042  00710  00747              % 18923 RGTR--
+*I FD 190304002 220901004        0001984  00710  00747      % 18923 RGTR--
+190304002 Sprinkange, Place de         00710                % 18923 RGTR--
+190300503 Bettange-sur-Mess, S  00712  00712                % 18923 RGTR--
+190301001 Bettange-sur-Mess, B  00713  00713                % 18923 RGTR--
+190301003 Bettange-sur-Mess, K  00714  00714                % 18923 RGTR--
+190302002 Dippach, Bei der Kap  00717  00717                % 18923 RGTR--
+190302005 Dippach, Op der Kopp  00718  00718                % 18923 RGTR--
+190303009 Schouweiler, Bei der  00720  00720                % 18923 RGTR--
+190303005 Schouweiler, Kiirch   00721  00721                % 18923 RGTR--
+190303006 Schouweiler, Schéife  00722  00722                % 18923 RGTR--
+190303004 Schouweiler, Kastill  00723  00723                % 18923 RGTR--
+190101012 Bascharage, Industri  00725  00725                % 18923 RGTR--
+190101005 Bascharage, Bommertb  00726  00726                % 18923 RGTR--
+190101004 Bascharage, Bommelsc  00727  00727                % 18923 RGTR--
+190101006 Bascharage, Brasseri  00731  00731                % 18923 RGTR--
+190101009 Bascharage, Eglise    00732  00732                % 18923 RGTR--
+190101021 Bascharage, Widdems   00733  00733                % 18923 RGTR--
+190102004 Hautcharage, Um Kläp  00734  00734                % 18923 RGTR--
+190102001 Hautcharage, Crèche   00735  00735                % 18923 RGTR--
+190102002 Hautcharage, Scheedw  00736  00736                % 18923 RGTR--
+190103001 Linger, Schoul        00737  00737                % 18923 RGTR--
+190103003 Linger, Velo's Piste  00739  00739                % 18923 RGTR--
+220902020 Pétange, Op der Mill  00740  00740                % 18923 RGTR--
+220902016 Pétange, Op der Mill  00740  00740                % 18923 RGTR--
+220902002 Pétange, Athuserstro  00741  00741                % 18923 RGTR--
+220902010 Pétange, Kräizheck    00742  00742                % 18923 RGTR--
+220901004 Lamadelaine, Lycée T  00747                       % 18923 RGTR--

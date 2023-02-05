@@ -1,0 +1,123 @@
+*F 03 2
+*Z 18576 RGTR--                                             % 18576 RGTR--
+*L H10      160904001 150107001  01630  01714               % 18576 RGTR--
+*A cj 160904001 150107001 000042  01630  01714              % 18576 RGTR--
+*A ad 160904001 150107001 000042  01630  01714              % 18576 RGTR--
+*R 1 150107001 160904001 150107001  01630  01714            % 18576 RGTR--
+*G 060 160904001 150107001  01630  01714                    % 18576 RGTR--
+*A VE 160904001 150107001 000042  01630  01714              % 18576 RGTR--
+*I FD 160904001 150107001        0001731  01630  01714      % 18576 RGTR--
+160904001 Mersch, Gare routièr         01630                % 18576 RGTR--
+160904005 Mersch, Stäereplaz    01632  01632                % 18576 RGTR--
+160904004 Mersch, Reckenerstro  01633  01633                % 18576 RGTR--
+160907002 Reckange/Mersch, Bei  01634  01634                % 18576 RGTR--
+160907003 Reckange/Mersch, Hos  01635  01635                % 18576 RGTR--
+160907001 Reckange/Mersch, Bar  01637  01637                % 18576 RGTR--
+160202002 Brouch/Mersch, Kloep  01639  01639                % 18576 RGTR--
+160206001 Openthalt             01641  01641                % 18576 RGTR--
+160203002 Buschdorf, Helpërtwe  01643  01643                % 18576 RGTR--
+160203003 Buschdorf, Määschhaf  01644  01644                % 18576 RGTR--
+160203001 Buschdorf, Belle Vue  01645  01645                % 18576 RGTR--
+160202003 Brouch/Mersch, Knepp  01646  01646                % 18576 RGTR--
+160202001 Brouch/Mersch, Kierc  01647  01647                % 18576 RGTR--
+150704002 Saeul, Kiëm           01651  01651                % 18576 RGTR--
+150705002 Schwebach, Pont P&R   01653  01653                % 18576 RGTR--
+150705001 Schwebach, Am Duerf   01654  01654                % 18576 RGTR--
+150703002 Kapweiler, Lavandier  01655  01655                % 18576 RGTR--
+150703001 Kapweiler, Kapell     01656  01656                % 18576 RGTR--
+150701004 Calmus, Titzebierg    01658  01658                % 18576 RGTR--
+150701003 Calmus, Wäschbur      01658  01658                % 18576 RGTR--
+150701001 Calmus, Lannekneppch  01659  01659                % 18576 RGTR--
+150702002 Ehner, Krier          01700  01700                % 18576 RGTR--
+150702001 Ehner, Kapell         01701  01701                % 18576 RGTR--
+150108003 Schweich, An Thinnes  01703  01703                % 18576 RGTR--
+150102001 Elvange/Beckerich, G  01704  01704                % 18576 RGTR--
+150106005 Noerdange, Scheiwesw  01706  01706                % 18576 RGTR--
+150106003 Noerdange, Beim Kiir  01707  01707                % 18576 RGTR--
+150106004 Noerdange, Bei der P  01707  01707                % 18576 RGTR--
+150104001 Huttange (Hitten)     01709  01709                % 18576 RGTR--
+150101003 Beckerich, Kiirchepl  01710  01710                % 18576 RGTR--
+150105002 Levelange, Kalek      01711  01711                % 18576 RGTR--
+150107002 Oberpallen, Schnudde  01713  01713                % 18576 RGTR--
+150107001 Oberpallen, Bréck     01714                       % 18576 RGTR--
+*Z 18577 RGTR--                                             % 18577 RGTR--
+*L H10      160904001 150107001  01410  01454               % 18577 RGTR--
+*A cj 160904001 150107001 000011  01410  01454              % 18577 RGTR--
+*A ad 160904001 150107001 000011  01410  01454              % 18577 RGTR--
+*R 1 150107001 160904001 150107001  01410  01454            % 18577 RGTR--
+*G 060 160904001 150107001  01410  01454                    % 18577 RGTR--
+*A VE 160904001 150107001 000011  01410  01454              % 18577 RGTR--
+*I FD 160904001 150107001        0002900  01410  01454      % 18577 RGTR--
+160904001 Mersch, Gare routièr         01410                % 18577 RGTR--
+160904005 Mersch, Stäereplaz    01412  01412                % 18577 RGTR--
+160904004 Mersch, Reckenerstro  01413  01413                % 18577 RGTR--
+160907002 Reckange/Mersch, Bei  01414  01414                % 18577 RGTR--
+160907003 Reckange/Mersch, Hos  01415  01415                % 18577 RGTR--
+160907001 Reckange/Mersch, Bar  01417  01417                % 18577 RGTR--
+160202002 Brouch/Mersch, Kloep  01419  01419                % 18577 RGTR--
+160206001 Openthalt             01421  01421                % 18577 RGTR--
+160203002 Buschdorf, Helpërtwe  01423  01423                % 18577 RGTR--
+160203003 Buschdorf, Määschhaf  01424  01424                % 18577 RGTR--
+160203001 Buschdorf, Belle Vue  01425  01425                % 18577 RGTR--
+160202003 Brouch/Mersch, Knepp  01426  01426                % 18577 RGTR--
+160202001 Brouch/Mersch, Kierc  01427  01427                % 18577 RGTR--
+150704002 Saeul, Kiëm           01431  01431                % 18577 RGTR--
+150705002 Schwebach, Pont P&R   01433  01433                % 18577 RGTR--
+150705001 Schwebach, Am Duerf   01434  01434                % 18577 RGTR--
+150703002 Kapweiler, Lavandier  01435  01435                % 18577 RGTR--
+150703001 Kapweiler, Kapell     01436  01436                % 18577 RGTR--
+150701004 Calmus, Titzebierg    01438  01438                % 18577 RGTR--
+150701003 Calmus, Wäschbur      01438  01438                % 18577 RGTR--
+150701001 Calmus, Lannekneppch  01439  01439                % 18577 RGTR--
+150702002 Ehner, Krier          01440  01440                % 18577 RGTR--
+150702001 Ehner, Kapell         01441  01441                % 18577 RGTR--
+150108003 Schweich, An Thinnes  01443  01443                % 18577 RGTR--
+150102001 Elvange/Beckerich, G  01444  01444                % 18577 RGTR--
+150106005 Noerdange, Scheiwesw  01446  01446                % 18577 RGTR--
+150106003 Noerdange, Beim Kiir  01447  01447                % 18577 RGTR--
+150106004 Noerdange, Bei der P  01447  01447                % 18577 RGTR--
+150104001 Huttange (Hitten)     01449  01449                % 18577 RGTR--
+150101003 Beckerich, Kiirchepl  01450  01450                % 18577 RGTR--
+150105002 Levelange, Kalek      01451  01451                % 18577 RGTR--
+150107002 Oberpallen, Schnudde  01453  01453                % 18577 RGTR--
+150107001 Oberpallen, Bréck     01454                       % 18577 RGTR--
+*Z 18578 RGTR--                                             % 18578 RGTR--
+*L H10      150107001 160904001  00705  00751               % 18578 RGTR--
+*A cj 150107001 160904001 000042  00705  00751              % 18578 RGTR--
+*A ad 150107001 160904001 000042  00705  00751              % 18578 RGTR--
+*R 2 160904001 150107001 160904001  00705  00751            % 18578 RGTR--
+*G 060 150107001 160904001  00705  00751                    % 18578 RGTR--
+*A VE 150107001 160904001 000042  00705  00751              % 18578 RGTR--
+*I FD 150107001 160904001        0001813  00705  00751      % 18578 RGTR--
+150107001 Oberpallen, Bréck            00705                % 18578 RGTR--
+150107002 Oberpallen, Schnudde  00705  00705                % 18578 RGTR--
+150105002 Levelange, Kalek      00707  00707                % 18578 RGTR--
+150101003 Beckerich, Kiirchepl  00709  00709                % 18578 RGTR--
+150104001 Huttange (Hitten)     00710  00710                % 18578 RGTR--
+150106004 Noerdange, Bei der P  00712  00712                % 18578 RGTR--
+150106003 Noerdange, Beim Kiir  00713  00713                % 18578 RGTR--
+150106005 Noerdange, Scheiwesw  00714  00714                % 18578 RGTR--
+150102001 Elvange/Beckerich, G  00716  00716                % 18578 RGTR--
+150108003 Schweich, An Thinnes  00717  00717                % 18578 RGTR--
+150702001 Ehner, Kapell         00720  00720                % 18578 RGTR--
+150702002 Ehner, Krier          00720  00720                % 18578 RGTR--
+150701001 Calmus, Lannekneppch  00721  00721                % 18578 RGTR--
+150701003 Calmus, Wäschbur      00722  00722                % 18578 RGTR--
+150703001 Kapweiler, Kapell     00724  00724                % 18578 RGTR--
+150703002 Kapweiler, Lavandier  00725  00725                % 18578 RGTR--
+150705001 Schwebach, Am Duerf   00726  00726                % 18578 RGTR--
+150705002 Schwebach, Pont P&R   00726  00726                % 18578 RGTR--
+150704002 Saeul, Kiëm           00730  00730                % 18578 RGTR--
+160202001 Brouch/Mersch, Kierc  00733  00733                % 18578 RGTR--
+160202003 Brouch/Mersch, Knepp  00735  00735                % 18578 RGTR--
+160203001 Buschdorf, Belle Vue  00736  00736                % 18578 RGTR--
+160203003 Buschdorf, Määschhaf  00737  00737                % 18578 RGTR--
+160203002 Buschdorf, Helpërtwe  00738  00738                % 18578 RGTR--
+160206001 Openthalt             00740  00740                % 18578 RGTR--
+160202002 Brouch/Mersch, Kloep  00743  00743                % 18578 RGTR--
+160907001 Reckange/Mersch, Bar  00745  00745                % 18578 RGTR--
+160907003 Reckange/Mersch, Hos  00746  00746                % 18578 RGTR--
+160907002 Reckange/Mersch, Bei  00748  00748                % 18578 RGTR--
+160904004 Mersch, Reckenerstro  00749  00749                % 18578 RGTR--
+160904005 Mersch, Stäereplaz    00750  00750                % 18578 RGTR--
+160904001 Mersch, Gare routièr  00751                       % 18578 RGTR--

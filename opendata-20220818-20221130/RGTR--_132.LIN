@@ -1,0 +1,1597 @@
+*F 03 2
+*Z 00930 RGTR--                                             % 00930 RGTR--
+*L 132      140701016 151005001  00954  01022               % 00930 RGTR--
+*R 1 151005001 140701016 151005001  00954  01022            % 00930 RGTR--
+*G 020 140701016 151005001  00954  01022                    % 00930 RGTR--
+*A VE 140701016 151005001 000039  00954  01022              % 00930 RGTR--
+*I FD 140701016 151005001        0001757  00954  01022      % 00930 RGTR--
+140701016 Ettelbruck, Gare             00954                % 00930 RGTR--
+140701034 Ettelbruck, Apdikt P  00955  00955                % 00930 RGTR--
+140701025 Ettelbruck, Place du  00956  00956                % 00930 RGTR--
+140701009 Ettelbruck, Cité Pat  00957  00957                % 00930 RGTR--
+140701008 Ettelbruck, Cité Lop  00958  00958                % 00930 RGTR--
+140801002 Niederfeulen, Faubou  01000  01000                % 00930 RGTR--
+140801003 Niederfeulen, Mairie  01001  01001                % 00930 RGTR--
+140801004 Niederfeulen, route   01002  01002                % 00930 RGTR--
+141101004 Mertzig, Internat     01005  01005                % 00930 RGTR--
+150401001 Dellen, Am Duerf      01011  01011                % 00930 RGTR--
+120504001 Hierheck              01015  01015                % 00930 RGTR--
+151003001 Grevels, Eneschten E  01017  01017                % 00930 RGTR--
+151003003 Grevels, Zentrum      01018  01018                % 00930 RGTR--
+151003002 Grevels, Ieweschten   01019  01019                % 00930 RGTR--
+151005001 Kuborn                01022                       % 00930 RGTR--
+*Z 00931 RGTR--                                             % 00931 RGTR--
+*L 132      140701016 151005001  01154  01222               % 00931 RGTR--
+*R 1 151005001 140701016 151005001  01154  01222            % 00931 RGTR--
+*G 020 140701016 151005001  01154  01222                    % 00931 RGTR--
+*A VE 140701016 151005001 000039  01154  01222              % 00931 RGTR--
+*I FD 140701016 151005001        0001758  01154  01222      % 00931 RGTR--
+140701016 Ettelbruck, Gare             01154                % 00931 RGTR--
+140701034 Ettelbruck, Apdikt P  01155  01155                % 00931 RGTR--
+140701025 Ettelbruck, Place du  01156  01156                % 00931 RGTR--
+140701009 Ettelbruck, Cité Pat  01157  01157                % 00931 RGTR--
+140701008 Ettelbruck, Cité Lop  01158  01158                % 00931 RGTR--
+140801002 Niederfeulen, Faubou  01200  01200                % 00931 RGTR--
+140801003 Niederfeulen, Mairie  01201  01201                % 00931 RGTR--
+140801004 Niederfeulen, route   01202  01202                % 00931 RGTR--
+141101004 Mertzig, Internat     01205  01205                % 00931 RGTR--
+150401001 Dellen, Am Duerf      01211  01211                % 00931 RGTR--
+120504001 Hierheck              01215  01215                % 00931 RGTR--
+151003001 Grevels, Eneschten E  01217  01217                % 00931 RGTR--
+151003003 Grevels, Zentrum      01218  01218                % 00931 RGTR--
+151003002 Grevels, Ieweschten   01219  01219                % 00931 RGTR--
+151005001 Kuborn                01222                       % 00931 RGTR--
+*Z 00932 RGTR--                                             % 00932 RGTR--
+*L 132      140701016 151005001  01354  01422               % 00932 RGTR--
+*R 1 151005001 140701016 151005001  01354  01422            % 00932 RGTR--
+*G 020 140701016 151005001  01354  01422                    % 00932 RGTR--
+*A VE 140701016 151005001 000039  01354  01422              % 00932 RGTR--
+*I FD 140701016 151005001        0001165  01354  01422      % 00932 RGTR--
+140701016 Ettelbruck, Gare             01354                % 00932 RGTR--
+140701034 Ettelbruck, Apdikt P  01355  01355                % 00932 RGTR--
+140701025 Ettelbruck, Place du  01356  01356                % 00932 RGTR--
+140701009 Ettelbruck, Cité Pat  01357  01357                % 00932 RGTR--
+140701008 Ettelbruck, Cité Lop  01358  01358                % 00932 RGTR--
+140801002 Niederfeulen, Faubou  01400  01400                % 00932 RGTR--
+140801003 Niederfeulen, Mairie  01401  01401                % 00932 RGTR--
+140801004 Niederfeulen, route   01402  01402                % 00932 RGTR--
+141101004 Mertzig, Internat     01405  01405                % 00932 RGTR--
+150401001 Dellen, Am Duerf      01411  01411                % 00932 RGTR--
+120504001 Hierheck              01415  01415                % 00932 RGTR--
+151003001 Grevels, Eneschten E  01417  01417                % 00932 RGTR--
+151003003 Grevels, Zentrum      01418  01418                % 00932 RGTR--
+151003002 Grevels, Ieweschten   01419  01419                % 00932 RGTR--
+151005001 Kuborn                01422                       % 00932 RGTR--
+*Z 00933 RGTR--                                             % 00933 RGTR--
+*L 132      140701016 151005001  01554  01622               % 00933 RGTR--
+*R 1 151005001 140701016 151005001  01554  01622            % 00933 RGTR--
+*G 020 140701016 151005001  01554  01622                    % 00933 RGTR--
+*A VE 140701016 151005001 000039  01554  01622              % 00933 RGTR--
+*I FD 140701016 151005001        0001759  01554  01622      % 00933 RGTR--
+140701016 Ettelbruck, Gare             01554                % 00933 RGTR--
+140701034 Ettelbruck, Apdikt P  01555  01555                % 00933 RGTR--
+140701025 Ettelbruck, Place du  01556  01556                % 00933 RGTR--
+140701009 Ettelbruck, Cité Pat  01557  01557                % 00933 RGTR--
+140701008 Ettelbruck, Cité Lop  01558  01558                % 00933 RGTR--
+140801002 Niederfeulen, Faubou  01600  01600                % 00933 RGTR--
+140801003 Niederfeulen, Mairie  01601  01601                % 00933 RGTR--
+140801004 Niederfeulen, route   01602  01602                % 00933 RGTR--
+141101004 Mertzig, Internat     01605  01605                % 00933 RGTR--
+150401001 Dellen, Am Duerf      01611  01611                % 00933 RGTR--
+120504001 Hierheck              01615  01615                % 00933 RGTR--
+151003001 Grevels, Eneschten E  01617  01617                % 00933 RGTR--
+151003003 Grevels, Zentrum      01618  01618                % 00933 RGTR--
+151003002 Grevels, Ieweschten   01619  01619                % 00933 RGTR--
+151005001 Kuborn                01622                       % 00933 RGTR--
+*Z 00934 RGTR--                                             % 00934 RGTR--
+*L 132      140701016 151005001  01954  02022               % 00934 RGTR--
+*R 1 151005001 140701016 151005001  01954  02022            % 00934 RGTR--
+*G 020 140701016 151005001  01954  02022                    % 00934 RGTR--
+*A VE 140701016 151005001 000039  01954  02022              % 00934 RGTR--
+*I FD 140701016 151005001        0001760  01954  02022      % 00934 RGTR--
+140701016 Ettelbruck, Gare             01954                % 00934 RGTR--
+140701034 Ettelbruck, Apdikt P  01955  01955                % 00934 RGTR--
+140701025 Ettelbruck, Place du  01956  01956                % 00934 RGTR--
+140701009 Ettelbruck, Cité Pat  01957  01957                % 00934 RGTR--
+140701008 Ettelbruck, Cité Lop  01958  01958                % 00934 RGTR--
+140801002 Niederfeulen, Faubou  02000  02000                % 00934 RGTR--
+140801003 Niederfeulen, Mairie  02001  02001                % 00934 RGTR--
+140801004 Niederfeulen, route   02002  02002                % 00934 RGTR--
+141101004 Mertzig, Internat     02005  02005                % 00934 RGTR--
+150401001 Dellen, Am Duerf      02011  02011                % 00934 RGTR--
+120504001 Hierheck              02015  02015                % 00934 RGTR--
+151003001 Grevels, Eneschten E  02017  02017                % 00934 RGTR--
+151003003 Grevels, Zentrum      02018  02018                % 00934 RGTR--
+151003002 Grevels, Ieweschten   02019  02019                % 00934 RGTR--
+151005001 Kuborn                02022                       % 00934 RGTR--
+*Z 00935 RGTR--                                             % 00935 RGTR--
+*L 132      140701016 151005001  02154  02222               % 00935 RGTR--
+*R 1 151005001 140701016 151005001  02154  02222            % 00935 RGTR--
+*G 020 140701016 151005001  02154  02222                    % 00935 RGTR--
+*A VE 140701016 151005001 000039  02154  02222              % 00935 RGTR--
+*I FD 140701016 151005001        0001761  02154  02222      % 00935 RGTR--
+140701016 Ettelbruck, Gare             02154                % 00935 RGTR--
+140701034 Ettelbruck, Apdikt P  02155  02155                % 00935 RGTR--
+140701025 Ettelbruck, Place du  02156  02156                % 00935 RGTR--
+140701009 Ettelbruck, Cité Pat  02157  02157                % 00935 RGTR--
+140701008 Ettelbruck, Cité Lop  02158  02158                % 00935 RGTR--
+140801002 Niederfeulen, Faubou  02200  02200                % 00935 RGTR--
+140801003 Niederfeulen, Mairie  02201  02201                % 00935 RGTR--
+140801004 Niederfeulen, route   02202  02202                % 00935 RGTR--
+141101004 Mertzig, Internat     02205  02205                % 00935 RGTR--
+150401001 Dellen, Am Duerf      02211  02211                % 00935 RGTR--
+120504001 Hierheck              02215  02215                % 00935 RGTR--
+151003001 Grevels, Eneschten E  02217  02217                % 00935 RGTR--
+151003003 Grevels, Zentrum      02218  02218                % 00935 RGTR--
+151003002 Grevels, Ieweschten   02219  02219                % 00935 RGTR--
+151005001 Kuborn                02222                       % 00935 RGTR--
+*Z 00936 RGTR--                                             % 00936 RGTR--
+*L 132      140701016 151005001  00554  00622               % 00936 RGTR--
+*R 1 151005001 140701016 151005001  00554  00622            % 00936 RGTR--
+*G 020 140701016 151005001  00554  00622                    % 00936 RGTR--
+*A VE 140701016 151005001 000036  00554  00622              % 00936 RGTR--
+*I FD 140701016 151005001        0001762  00554  00622      % 00936 RGTR--
+140701016 Ettelbruck, Gare             00554                % 00936 RGTR--
+140701034 Ettelbruck, Apdikt P  00555  00555                % 00936 RGTR--
+140701025 Ettelbruck, Place du  00556  00556                % 00936 RGTR--
+140701009 Ettelbruck, Cité Pat  00557  00557                % 00936 RGTR--
+140701008 Ettelbruck, Cité Lop  00558  00558                % 00936 RGTR--
+140801002 Niederfeulen, Faubou  00600  00600                % 00936 RGTR--
+140801003 Niederfeulen, Mairie  00601  00601                % 00936 RGTR--
+140801004 Niederfeulen, route   00602  00602                % 00936 RGTR--
+141101004 Mertzig, Internat     00605  00605                % 00936 RGTR--
+150401001 Dellen, Am Duerf      00611  00611                % 00936 RGTR--
+120504001 Hierheck              00615  00615                % 00936 RGTR--
+151003001 Grevels, Eneschten E  00617  00617                % 00936 RGTR--
+151003003 Grevels, Zentrum      00618  00618                % 00936 RGTR--
+151003002 Grevels, Ieweschten   00619  00619                % 00936 RGTR--
+151005001 Kuborn                00622                       % 00936 RGTR--
+*Z 00937 RGTR--                                             % 00937 RGTR--
+*L 132      140701016 151005001  00854  00922               % 00937 RGTR--
+*R 1 151005001 140701016 151005001  00854  00922            % 00937 RGTR--
+*G 020 140701016 151005001  00854  00922                    % 00937 RGTR--
+*A VE 140701016 151005001 000036  00854  00922              % 00937 RGTR--
+*I FD 140701016 151005001        0001763  00854  00922      % 00937 RGTR--
+140701016 Ettelbruck, Gare             00854                % 00937 RGTR--
+140701034 Ettelbruck, Apdikt P  00855  00855                % 00937 RGTR--
+140701025 Ettelbruck, Place du  00856  00856                % 00937 RGTR--
+140701009 Ettelbruck, Cité Pat  00857  00857                % 00937 RGTR--
+140701008 Ettelbruck, Cité Lop  00858  00858                % 00937 RGTR--
+140801002 Niederfeulen, Faubou  00900  00900                % 00937 RGTR--
+140801003 Niederfeulen, Mairie  00901  00901                % 00937 RGTR--
+140801004 Niederfeulen, route   00902  00902                % 00937 RGTR--
+141101004 Mertzig, Internat     00905  00905                % 00937 RGTR--
+150401001 Dellen, Am Duerf      00911  00911                % 00937 RGTR--
+120504001 Hierheck              00915  00915                % 00937 RGTR--
+151003001 Grevels, Eneschten E  00917  00917                % 00937 RGTR--
+151003003 Grevels, Zentrum      00918  00918                % 00937 RGTR--
+151003002 Grevels, Ieweschten   00919  00919                % 00937 RGTR--
+151005001 Kuborn                00922                       % 00937 RGTR--
+*Z 00938 RGTR--                                             % 00938 RGTR--
+*L 132      140701016 151005001  01054  01122               % 00938 RGTR--
+*R 1 151005001 140701016 151005001  01054  01122            % 00938 RGTR--
+*G 020 140701016 151005001  01054  01122                    % 00938 RGTR--
+*A VE 140701016 151005001 000036  01054  01122              % 00938 RGTR--
+*I FD 140701016 151005001        0001764  01054  01122      % 00938 RGTR--
+140701016 Ettelbruck, Gare             01054                % 00938 RGTR--
+140701034 Ettelbruck, Apdikt P  01055  01055                % 00938 RGTR--
+140701025 Ettelbruck, Place du  01056  01056                % 00938 RGTR--
+140701009 Ettelbruck, Cité Pat  01057  01057                % 00938 RGTR--
+140701008 Ettelbruck, Cité Lop  01058  01058                % 00938 RGTR--
+140801002 Niederfeulen, Faubou  01100  01100                % 00938 RGTR--
+140801003 Niederfeulen, Mairie  01101  01101                % 00938 RGTR--
+140801004 Niederfeulen, route   01102  01102                % 00938 RGTR--
+141101004 Mertzig, Internat     01105  01105                % 00938 RGTR--
+150401001 Dellen, Am Duerf      01111  01111                % 00938 RGTR--
+120504001 Hierheck              01115  01115                % 00938 RGTR--
+151003001 Grevels, Eneschten E  01117  01117                % 00938 RGTR--
+151003003 Grevels, Zentrum      01118  01118                % 00938 RGTR--
+151003002 Grevels, Ieweschten   01119  01119                % 00938 RGTR--
+151005001 Kuborn                01122                       % 00938 RGTR--
+*Z 00939 RGTR--                                             % 00939 RGTR--
+*L 132      140701016 151005001  01254  01322               % 00939 RGTR--
+*R 1 151005001 140701016 151005001  01254  01322            % 00939 RGTR--
+*G 020 140701016 151005001  01254  01322                    % 00939 RGTR--
+*A VE 140701016 151005001 000036  01254  01322              % 00939 RGTR--
+*I FD 140701016 151005001        0001765  01254  01322      % 00939 RGTR--
+140701016 Ettelbruck, Gare             01254                % 00939 RGTR--
+140701034 Ettelbruck, Apdikt P  01255  01255                % 00939 RGTR--
+140701025 Ettelbruck, Place du  01256  01256                % 00939 RGTR--
+140701009 Ettelbruck, Cité Pat  01257  01257                % 00939 RGTR--
+140701008 Ettelbruck, Cité Lop  01258  01258                % 00939 RGTR--
+140801002 Niederfeulen, Faubou  01300  01300                % 00939 RGTR--
+140801003 Niederfeulen, Mairie  01301  01301                % 00939 RGTR--
+140801004 Niederfeulen, route   01302  01302                % 00939 RGTR--
+141101004 Mertzig, Internat     01305  01305                % 00939 RGTR--
+150401001 Dellen, Am Duerf      01311  01311                % 00939 RGTR--
+120504001 Hierheck              01315  01315                % 00939 RGTR--
+151003001 Grevels, Eneschten E  01317  01317                % 00939 RGTR--
+151003003 Grevels, Zentrum      01318  01318                % 00939 RGTR--
+151003002 Grevels, Ieweschten   01319  01319                % 00939 RGTR--
+151005001 Kuborn                01322                       % 00939 RGTR--
+*Z 00940 RGTR--                                             % 00940 RGTR--
+*L 132      140701016 151005001  01454  01522               % 00940 RGTR--
+*R 1 151005001 140701016 151005001  01454  01522            % 00940 RGTR--
+*G 020 140701016 151005001  01454  01522                    % 00940 RGTR--
+*A VE 140701016 151005001 000036  01454  01522              % 00940 RGTR--
+*I FD 140701016 151005001        0001766  01454  01522      % 00940 RGTR--
+140701016 Ettelbruck, Gare             01454                % 00940 RGTR--
+140701034 Ettelbruck, Apdikt P  01455  01455                % 00940 RGTR--
+140701025 Ettelbruck, Place du  01456  01456                % 00940 RGTR--
+140701009 Ettelbruck, Cité Pat  01457  01457                % 00940 RGTR--
+140701008 Ettelbruck, Cité Lop  01458  01458                % 00940 RGTR--
+140801002 Niederfeulen, Faubou  01500  01500                % 00940 RGTR--
+140801003 Niederfeulen, Mairie  01501  01501                % 00940 RGTR--
+140801004 Niederfeulen, route   01502  01502                % 00940 RGTR--
+141101004 Mertzig, Internat     01505  01505                % 00940 RGTR--
+150401001 Dellen, Am Duerf      01511  01511                % 00940 RGTR--
+120504001 Hierheck              01515  01515                % 00940 RGTR--
+151003001 Grevels, Eneschten E  01517  01517                % 00940 RGTR--
+151003003 Grevels, Zentrum      01518  01518                % 00940 RGTR--
+151003002 Grevels, Ieweschten   01519  01519                % 00940 RGTR--
+151005001 Kuborn                01522                       % 00940 RGTR--
+*Z 00941 RGTR--                                             % 00941 RGTR--
+*L 132      140701016 151005001  01854  01922               % 00941 RGTR--
+*R 1 151005001 140701016 151005001  01854  01922            % 00941 RGTR--
+*G 020 140701016 151005001  01854  01922                    % 00941 RGTR--
+*A VE 140701016 151005001 000036  01854  01922              % 00941 RGTR--
+*I FD 140701016 151005001        0001225  01854  01922      % 00941 RGTR--
+140701016 Ettelbruck, Gare             01854                % 00941 RGTR--
+140701034 Ettelbruck, Apdikt P  01855  01855                % 00941 RGTR--
+140701025 Ettelbruck, Place du  01856  01856                % 00941 RGTR--
+140701009 Ettelbruck, Cité Pat  01857  01857                % 00941 RGTR--
+140701008 Ettelbruck, Cité Lop  01858  01858                % 00941 RGTR--
+140801002 Niederfeulen, Faubou  01900  01900                % 00941 RGTR--
+140801003 Niederfeulen, Mairie  01901  01901                % 00941 RGTR--
+140801004 Niederfeulen, route   01902  01902                % 00941 RGTR--
+141101004 Mertzig, Internat     01905  01905                % 00941 RGTR--
+150401001 Dellen, Am Duerf      01911  01911                % 00941 RGTR--
+120504001 Hierheck              01915  01915                % 00941 RGTR--
+151003001 Grevels, Eneschten E  01917  01917                % 00941 RGTR--
+151003003 Grevels, Zentrum      01918  01918                % 00941 RGTR--
+151003002 Grevels, Ieweschten   01919  01919                % 00941 RGTR--
+151005001 Kuborn                01922                       % 00941 RGTR--
+*Z 00942 RGTR--                                             % 00942 RGTR--
+*L 132      140701016 151005001  02054  02122               % 00942 RGTR--
+*R 1 151005001 140701016 151005001  02054  02122            % 00942 RGTR--
+*G 020 140701016 151005001  02054  02122                    % 00942 RGTR--
+*A VE 140701016 151005001 000036  02054  02122              % 00942 RGTR--
+*I FD 140701016 151005001        0001767  02054  02122      % 00942 RGTR--
+140701016 Ettelbruck, Gare             02054                % 00942 RGTR--
+140701034 Ettelbruck, Apdikt P  02055  02055                % 00942 RGTR--
+140701025 Ettelbruck, Place du  02056  02056                % 00942 RGTR--
+140701009 Ettelbruck, Cité Pat  02057  02057                % 00942 RGTR--
+140701008 Ettelbruck, Cité Lop  02058  02058                % 00942 RGTR--
+140801002 Niederfeulen, Faubou  02100  02100                % 00942 RGTR--
+140801003 Niederfeulen, Mairie  02101  02101                % 00942 RGTR--
+140801004 Niederfeulen, route   02102  02102                % 00942 RGTR--
+141101004 Mertzig, Internat     02105  02105                % 00942 RGTR--
+150401001 Dellen, Am Duerf      02111  02111                % 00942 RGTR--
+120504001 Hierheck              02115  02115                % 00942 RGTR--
+151003001 Grevels, Eneschten E  02117  02117                % 00942 RGTR--
+151003003 Grevels, Zentrum      02118  02118                % 00942 RGTR--
+151003002 Grevels, Ieweschten   02119  02119                % 00942 RGTR--
+151005001 Kuborn                02122                       % 00942 RGTR--
+*Z 00943 RGTR--                                             % 00943 RGTR--
+*L 132      140701016 151005001  02354  02422               % 00943 RGTR--
+*R 1 151005001 140701016 151005001  02354  02422            % 00943 RGTR--
+*G 020 140701016 151005001  02354  02422                    % 00943 RGTR--
+*A VE 140701016 151005001 000036  02354  02422              % 00943 RGTR--
+*I FD 140701016 151005001        0001768  02354  02422      % 00943 RGTR--
+140701016 Ettelbruck, Gare             02354                % 00943 RGTR--
+140701034 Ettelbruck, Apdikt P  02355  02355                % 00943 RGTR--
+140701025 Ettelbruck, Place du  02356  02356                % 00943 RGTR--
+140701009 Ettelbruck, Cité Pat  02357  02357                % 00943 RGTR--
+140701008 Ettelbruck, Cité Lop  02358  02358                % 00943 RGTR--
+140801002 Niederfeulen, Faubou  02400  02400                % 00943 RGTR--
+140801003 Niederfeulen, Mairie  02401  02401                % 00943 RGTR--
+140801004 Niederfeulen, route   02402  02402                % 00943 RGTR--
+141101004 Mertzig, Internat     02405  02405                % 00943 RGTR--
+150401001 Dellen, Am Duerf      02411  02411                % 00943 RGTR--
+120504001 Hierheck              02415  02415                % 00943 RGTR--
+151003001 Grevels, Eneschten E  02417  02417                % 00943 RGTR--
+151003003 Grevels, Zentrum      02418  02418                % 00943 RGTR--
+151003002 Grevels, Ieweschten   02419  02419                % 00943 RGTR--
+151005001 Kuborn                02422                       % 00943 RGTR--
+*Z 00944 RGTR--                                             % 00944 RGTR--
+*L 132      140701016 151005001  00754  00822               % 00944 RGTR--
+*R 1 151005001 140701016 151005001  00754  00822            % 00944 RGTR--
+*G 020 140701016 151005001  00754  00822                    % 00944 RGTR--
+*A VE 140701016 151005001 000018  00754  00822              % 00944 RGTR--
+*I FD 140701016 151005001        0001769  00754  00822      % 00944 RGTR--
+140701016 Ettelbruck, Gare             00754                % 00944 RGTR--
+140701034 Ettelbruck, Apdikt P  00755  00755                % 00944 RGTR--
+140701025 Ettelbruck, Place du  00756  00756                % 00944 RGTR--
+140701009 Ettelbruck, Cité Pat  00757  00757                % 00944 RGTR--
+140701008 Ettelbruck, Cité Lop  00758  00758                % 00944 RGTR--
+140801002 Niederfeulen, Faubou  00800  00800                % 00944 RGTR--
+140801003 Niederfeulen, Mairie  00801  00801                % 00944 RGTR--
+140801004 Niederfeulen, route   00802  00802                % 00944 RGTR--
+141101004 Mertzig, Internat     00805  00805                % 00944 RGTR--
+150401001 Dellen, Am Duerf      00811  00811                % 00944 RGTR--
+120504001 Hierheck              00815  00815                % 00944 RGTR--
+151003001 Grevels, Eneschten E  00817  00817                % 00944 RGTR--
+151003003 Grevels, Zentrum      00818  00818                % 00944 RGTR--
+151003002 Grevels, Ieweschten   00819  00819                % 00944 RGTR--
+151005001 Kuborn                00822                       % 00944 RGTR--
+*Z 00945 RGTR--                                             % 00945 RGTR--
+*L 132      140701016 151005001  01754  01822               % 00945 RGTR--
+*R 1 151005001 140701016 151005001  01754  01822            % 00945 RGTR--
+*G 020 140701016 151005001  01754  01822                    % 00945 RGTR--
+*A VE 140701016 151005001 000018  01754  01822              % 00945 RGTR--
+*I FD 140701016 151005001        0001770  01754  01822      % 00945 RGTR--
+140701016 Ettelbruck, Gare             01754                % 00945 RGTR--
+140701034 Ettelbruck, Apdikt P  01755  01755                % 00945 RGTR--
+140701025 Ettelbruck, Place du  01756  01756                % 00945 RGTR--
+140701009 Ettelbruck, Cité Pat  01757  01757                % 00945 RGTR--
+140701008 Ettelbruck, Cité Lop  01758  01758                % 00945 RGTR--
+140801002 Niederfeulen, Faubou  01800  01800                % 00945 RGTR--
+140801003 Niederfeulen, Mairie  01801  01801                % 00945 RGTR--
+140801004 Niederfeulen, route   01802  01802                % 00945 RGTR--
+141101004 Mertzig, Internat     01805  01805                % 00945 RGTR--
+150401001 Dellen, Am Duerf      01811  01811                % 00945 RGTR--
+120504001 Hierheck              01815  01815                % 00945 RGTR--
+151003001 Grevels, Eneschten E  01817  01817                % 00945 RGTR--
+151003003 Grevels, Zentrum      01818  01818                % 00945 RGTR--
+151003002 Grevels, Ieweschten   01819  01819                % 00945 RGTR--
+151005001 Kuborn                01822                       % 00945 RGTR--
+*Z 00946 RGTR--                                             % 00946 RGTR--
+*L 132      140701016 151005001  00654  00723               % 00946 RGTR--
+*R 1 151005001 140701016 151005001  00654  00723            % 00946 RGTR--
+*G 020 140701016 151005001  00654  00723                    % 00946 RGTR--
+*A VE 140701016 151005001 000036  00654  00723              % 00946 RGTR--
+*I FD 140701016 151005001        0001771  00654  00723      % 00946 RGTR--
+140701016 Ettelbruck, Gare             00654                % 00946 RGTR--
+140701034 Ettelbruck, Apdikt P  00655  00655                % 00946 RGTR--
+140701025 Ettelbruck, Place du  00656  00656                % 00946 RGTR--
+140701009 Ettelbruck, Cité Pat  00658  00658                % 00946 RGTR--
+140701008 Ettelbruck, Cité Lop  00659  00659                % 00946 RGTR--
+140801002 Niederfeulen, Faubou  00701  00701                % 00946 RGTR--
+140801003 Niederfeulen, Mairie  00702  00702                % 00946 RGTR--
+140801004 Niederfeulen, route   00702  00702                % 00946 RGTR--
+141101004 Mertzig, Internat     00705  00705                % 00946 RGTR--
+150401001 Dellen, Am Duerf      00711  00711                % 00946 RGTR--
+120504001 Hierheck              00715  00715                % 00946 RGTR--
+151003001 Grevels, Eneschten E  00718  00718                % 00946 RGTR--
+151003003 Grevels, Zentrum      00718  00718                % 00946 RGTR--
+151003002 Grevels, Ieweschten   00719  00719                % 00946 RGTR--
+151005001 Kuborn                00723                       % 00946 RGTR--
+*Z 00947 RGTR--                                             % 00947 RGTR--
+*L 132      140701016 151005001  00754  00823               % 00947 RGTR--
+*R 1 151005001 140701016 151005001  00754  00823            % 00947 RGTR--
+*G 020 140701016 151005001  00754  00823                    % 00947 RGTR--
+*A VE 140701016 151005001 000036  00754  00823              % 00947 RGTR--
+*I FD 140701016 151005001        0001769  00754  00823      % 00947 RGTR--
+140701016 Ettelbruck, Gare             00754                % 00947 RGTR--
+140701034 Ettelbruck, Apdikt P  00755  00755                % 00947 RGTR--
+140701025 Ettelbruck, Place du  00756  00756                % 00947 RGTR--
+140701009 Ettelbruck, Cité Pat  00758  00758                % 00947 RGTR--
+140701008 Ettelbruck, Cité Lop  00759  00759                % 00947 RGTR--
+140801002 Niederfeulen, Faubou  00801  00801                % 00947 RGTR--
+140801003 Niederfeulen, Mairie  00802  00802                % 00947 RGTR--
+140801004 Niederfeulen, route   00802  00802                % 00947 RGTR--
+141101004 Mertzig, Internat     00805  00805                % 00947 RGTR--
+150401001 Dellen, Am Duerf      00811  00811                % 00947 RGTR--
+120504001 Hierheck              00815  00815                % 00947 RGTR--
+151003001 Grevels, Eneschten E  00818  00818                % 00947 RGTR--
+151003003 Grevels, Zentrum      00818  00818                % 00947 RGTR--
+151003002 Grevels, Ieweschten   00819  00819                % 00947 RGTR--
+151005001 Kuborn                00823                       % 00947 RGTR--
+*Z 00948 RGTR--                                             % 00948 RGTR--
+*L 132      140701016 151005001  01654  01723               % 00948 RGTR--
+*R 1 151005001 140701016 151005001  01654  01723            % 00948 RGTR--
+*G 020 140701016 151005001  01654  01723                    % 00948 RGTR--
+*A VE 140701016 151005001 000036  01654  01723              % 00948 RGTR--
+*I FD 140701016 151005001        0001772  01654  01723      % 00948 RGTR--
+140701016 Ettelbruck, Gare             01654                % 00948 RGTR--
+140701034 Ettelbruck, Apdikt P  01655  01655                % 00948 RGTR--
+140701025 Ettelbruck, Place du  01656  01656                % 00948 RGTR--
+140701009 Ettelbruck, Cité Pat  01658  01658                % 00948 RGTR--
+140701008 Ettelbruck, Cité Lop  01659  01659                % 00948 RGTR--
+140801002 Niederfeulen, Faubou  01701  01701                % 00948 RGTR--
+140801003 Niederfeulen, Mairie  01702  01702                % 00948 RGTR--
+140801004 Niederfeulen, route   01702  01702                % 00948 RGTR--
+141101004 Mertzig, Internat     01705  01705                % 00948 RGTR--
+150401001 Dellen, Am Duerf      01711  01711                % 00948 RGTR--
+120504001 Hierheck              01715  01715                % 00948 RGTR--
+151003001 Grevels, Eneschten E  01718  01718                % 00948 RGTR--
+151003003 Grevels, Zentrum      01718  01718                % 00948 RGTR--
+151003002 Grevels, Ieweschten   01719  01719                % 00948 RGTR--
+151005001 Kuborn                01723                       % 00948 RGTR--
+*Z 00949 RGTR--                                             % 00949 RGTR--
+*L 132      140701016 151005001  01754  01823               % 00949 RGTR--
+*R 1 151005001 140701016 151005001  01754  01823            % 00949 RGTR--
+*G 020 140701016 151005001  01754  01823                    % 00949 RGTR--
+*A VE 140701016 151005001 000036  01754  01823              % 00949 RGTR--
+*I FD 140701016 151005001        0001770  01754  01823      % 00949 RGTR--
+140701016 Ettelbruck, Gare             01754                % 00949 RGTR--
+140701034 Ettelbruck, Apdikt P  01755  01755                % 00949 RGTR--
+140701025 Ettelbruck, Place du  01756  01756                % 00949 RGTR--
+140701009 Ettelbruck, Cité Pat  01758  01758                % 00949 RGTR--
+140701008 Ettelbruck, Cité Lop  01759  01759                % 00949 RGTR--
+140801002 Niederfeulen, Faubou  01801  01801                % 00949 RGTR--
+140801003 Niederfeulen, Mairie  01802  01802                % 00949 RGTR--
+140801004 Niederfeulen, route   01802  01802                % 00949 RGTR--
+141101004 Mertzig, Internat     01805  01805                % 00949 RGTR--
+150401001 Dellen, Am Duerf      01811  01811                % 00949 RGTR--
+120504001 Hierheck              01815  01815                % 00949 RGTR--
+151003001 Grevels, Eneschten E  01818  01818                % 00949 RGTR--
+151003003 Grevels, Zentrum      01818  01818                % 00949 RGTR--
+151003002 Grevels, Ieweschten   01819  01819                % 00949 RGTR--
+151005001 Kuborn                01823                       % 00949 RGTR--
+*Z 00950 RGTR--                                             % 00950 RGTR--
+*L 132      151005001 140701016  01039  01107               % 00950 RGTR--
+*R 2 140701016 151005001 140701016  01039  01107            % 00950 RGTR--
+*G 020 151005001 140701016  01039  01107                    % 00950 RGTR--
+*A VE 151005001 140701016 000039  01039  01107              % 00950 RGTR--
+*I FD 151005001 140701016        0001773  01039  01107      % 00950 RGTR--
+151005001 Kuborn                       01039                % 00950 RGTR--
+151003002 Grevels, Ieweschten   01042  01042                % 00950 RGTR--
+151003003 Grevels, Zentrum      01043  01043                % 00950 RGTR--
+151003001 Grevels, Eneschten E  01044  01044                % 00950 RGTR--
+120504001 Hierheck              01046  01046                % 00950 RGTR--
+150401001 Dellen, Am Duerf      01050  01050                % 00950 RGTR--
+141101004 Mertzig, Internat     01056  01056                % 00950 RGTR--
+140801004 Niederfeulen, route   01100  01100                % 00950 RGTR--
+140801002 Niederfeulen, Faubou  01101  01101                % 00950 RGTR--
+140701025 Ettelbruck, Place du  01104  01104                % 00950 RGTR--
+140701015 Ettelbruck, Ecole Pr  01106  01106                % 00950 RGTR--
+140701016 Ettelbruck, Gare      01107                       % 00950 RGTR--
+*Z 00951 RGTR--                                             % 00951 RGTR--
+*L 132      151005001 140701016  01239  01307               % 00951 RGTR--
+*R 2 140701016 151005001 140701016  01239  01307            % 00951 RGTR--
+*G 020 151005001 140701016  01239  01307                    % 00951 RGTR--
+*A VE 151005001 140701016 000039  01239  01307              % 00951 RGTR--
+*I FD 151005001 140701016        0001120  01239  01307      % 00951 RGTR--
+151005001 Kuborn                       01239                % 00951 RGTR--
+151003002 Grevels, Ieweschten   01242  01242                % 00951 RGTR--
+151003003 Grevels, Zentrum      01243  01243                % 00951 RGTR--
+151003001 Grevels, Eneschten E  01244  01244                % 00951 RGTR--
+120504001 Hierheck              01246  01246                % 00951 RGTR--
+150401001 Dellen, Am Duerf      01250  01250                % 00951 RGTR--
+141101004 Mertzig, Internat     01256  01256                % 00951 RGTR--
+140801004 Niederfeulen, route   01300  01300                % 00951 RGTR--
+140801002 Niederfeulen, Faubou  01301  01301                % 00951 RGTR--
+140701025 Ettelbruck, Place du  01304  01304                % 00951 RGTR--
+140701015 Ettelbruck, Ecole Pr  01306  01306                % 00951 RGTR--
+140701016 Ettelbruck, Gare      01307                       % 00951 RGTR--
+*Z 00952 RGTR--                                             % 00952 RGTR--
+*L 132      151005001 140701016  01439  01507               % 00952 RGTR--
+*R 2 140701016 151005001 140701016  01439  01507            % 00952 RGTR--
+*G 020 151005001 140701016  01439  01507                    % 00952 RGTR--
+*A VE 151005001 140701016 000039  01439  01507              % 00952 RGTR--
+*I FD 151005001 140701016        0001774  01439  01507      % 00952 RGTR--
+151005001 Kuborn                       01439                % 00952 RGTR--
+151003002 Grevels, Ieweschten   01442  01442                % 00952 RGTR--
+151003003 Grevels, Zentrum      01443  01443                % 00952 RGTR--
+151003001 Grevels, Eneschten E  01444  01444                % 00952 RGTR--
+120504001 Hierheck              01446  01446                % 00952 RGTR--
+150401001 Dellen, Am Duerf      01450  01450                % 00952 RGTR--
+141101004 Mertzig, Internat     01456  01456                % 00952 RGTR--
+140801004 Niederfeulen, route   01500  01500                % 00952 RGTR--
+140801002 Niederfeulen, Faubou  01501  01501                % 00952 RGTR--
+140701025 Ettelbruck, Place du  01504  01504                % 00952 RGTR--
+140701015 Ettelbruck, Ecole Pr  01506  01506                % 00952 RGTR--
+140701016 Ettelbruck, Gare      01507                       % 00952 RGTR--
+*Z 00953 RGTR--                                             % 00953 RGTR--
+*L 132      151005001 140701016  01839  01907               % 00953 RGTR--
+*R 2 140701016 151005001 140701016  01839  01907            % 00953 RGTR--
+*G 020 151005001 140701016  01839  01907                    % 00953 RGTR--
+*A VE 151005001 140701016 000039  01839  01907              % 00953 RGTR--
+*I FD 151005001 140701016        0001281  01839  01907      % 00953 RGTR--
+151005001 Kuborn                       01839                % 00953 RGTR--
+151003002 Grevels, Ieweschten   01842  01842                % 00953 RGTR--
+151003003 Grevels, Zentrum      01843  01843                % 00953 RGTR--
+151003001 Grevels, Eneschten E  01844  01844                % 00953 RGTR--
+120504001 Hierheck              01846  01846                % 00953 RGTR--
+150401001 Dellen, Am Duerf      01850  01850                % 00953 RGTR--
+141101004 Mertzig, Internat     01856  01856                % 00953 RGTR--
+140801004 Niederfeulen, route   01900  01900                % 00953 RGTR--
+140801002 Niederfeulen, Faubou  01901  01901                % 00953 RGTR--
+140701025 Ettelbruck, Place du  01904  01904                % 00953 RGTR--
+140701015 Ettelbruck, Ecole Pr  01906  01906                % 00953 RGTR--
+140701016 Ettelbruck, Gare      01907                       % 00953 RGTR--
+*Z 00954 RGTR--                                             % 00954 RGTR--
+*L 132      151005001 140701016  02039  02107               % 00954 RGTR--
+*R 2 140701016 151005001 140701016  02039  02107            % 00954 RGTR--
+*G 020 151005001 140701016  02039  02107                    % 00954 RGTR--
+*A VE 151005001 140701016 000039  02039  02107              % 00954 RGTR--
+*I FD 151005001 140701016        0001775  02039  02107      % 00954 RGTR--
+151005001 Kuborn                       02039                % 00954 RGTR--
+151003002 Grevels, Ieweschten   02042  02042                % 00954 RGTR--
+151003003 Grevels, Zentrum      02043  02043                % 00954 RGTR--
+151003001 Grevels, Eneschten E  02044  02044                % 00954 RGTR--
+120504001 Hierheck              02046  02046                % 00954 RGTR--
+150401001 Dellen, Am Duerf      02050  02050                % 00954 RGTR--
+141101004 Mertzig, Internat     02056  02056                % 00954 RGTR--
+140801004 Niederfeulen, route   02100  02100                % 00954 RGTR--
+140801002 Niederfeulen, Faubou  02101  02101                % 00954 RGTR--
+140701025 Ettelbruck, Place du  02104  02104                % 00954 RGTR--
+140701015 Ettelbruck, Ecole Pr  02106  02106                % 00954 RGTR--
+140701016 Ettelbruck, Gare      02107                       % 00954 RGTR--
+*Z 00955 RGTR--                                             % 00955 RGTR--
+*L 132      151005001 140701016  02239  02307               % 00955 RGTR--
+*R 2 140701016 151005001 140701016  02239  02307            % 00955 RGTR--
+*G 020 151005001 140701016  02239  02307                    % 00955 RGTR--
+*A VE 151005001 140701016 000039  02239  02307              % 00955 RGTR--
+*I FD 151005001 140701016        0001776  02239  02307      % 00955 RGTR--
+151005001 Kuborn                       02239                % 00955 RGTR--
+151003002 Grevels, Ieweschten   02242  02242                % 00955 RGTR--
+151003003 Grevels, Zentrum      02243  02243                % 00955 RGTR--
+151003001 Grevels, Eneschten E  02244  02244                % 00955 RGTR--
+120504001 Hierheck              02246  02246                % 00955 RGTR--
+150401001 Dellen, Am Duerf      02250  02250                % 00955 RGTR--
+141101004 Mertzig, Internat     02256  02256                % 00955 RGTR--
+140801004 Niederfeulen, route   02300  02300                % 00955 RGTR--
+140801002 Niederfeulen, Faubou  02301  02301                % 00955 RGTR--
+140701025 Ettelbruck, Place du  02304  02304                % 00955 RGTR--
+140701015 Ettelbruck, Ecole Pr  02306  02306                % 00955 RGTR--
+140701016 Ettelbruck, Gare      02307                       % 00955 RGTR--
+*Z 00956 RGTR--                                             % 00956 RGTR--
+*L 132      151005001 140701016  00539  00607               % 00956 RGTR--
+*R 2 140701016 151005001 140701016  00539  00607            % 00956 RGTR--
+*G 020 151005001 140701016  00539  00607                    % 00956 RGTR--
+*A VE 151005001 140701016 000036  00539  00607              % 00956 RGTR--
+*I FD 151005001 140701016        0000742  00539  00607      % 00956 RGTR--
+151005001 Kuborn                       00539                % 00956 RGTR--
+151003002 Grevels, Ieweschten   00542  00542                % 00956 RGTR--
+151003003 Grevels, Zentrum      00543  00543                % 00956 RGTR--
+151003001 Grevels, Eneschten E  00544  00544                % 00956 RGTR--
+120504001 Hierheck              00546  00546                % 00956 RGTR--
+150401001 Dellen, Am Duerf      00550  00550                % 00956 RGTR--
+141101004 Mertzig, Internat     00556  00556                % 00956 RGTR--
+140801004 Niederfeulen, route   00600  00600                % 00956 RGTR--
+140801002 Niederfeulen, Faubou  00601  00601                % 00956 RGTR--
+140701025 Ettelbruck, Place du  00604  00604                % 00956 RGTR--
+140701015 Ettelbruck, Ecole Pr  00606  00606                % 00956 RGTR--
+140701016 Ettelbruck, Gare      00607                       % 00956 RGTR--
+*Z 00957 RGTR--                                             % 00957 RGTR--
+*L 132      151005001 140701016  00939  01007               % 00957 RGTR--
+*R 2 140701016 151005001 140701016  00939  01007            % 00957 RGTR--
+*G 020 151005001 140701016  00939  01007                    % 00957 RGTR--
+*A VE 151005001 140701016 000036  00939  01007              % 00957 RGTR--
+*I FD 151005001 140701016        0000935  00939  01007      % 00957 RGTR--
+151005001 Kuborn                       00939                % 00957 RGTR--
+151003002 Grevels, Ieweschten   00942  00942                % 00957 RGTR--
+151003003 Grevels, Zentrum      00943  00943                % 00957 RGTR--
+151003001 Grevels, Eneschten E  00944  00944                % 00957 RGTR--
+120504001 Hierheck              00946  00946                % 00957 RGTR--
+150401001 Dellen, Am Duerf      00950  00950                % 00957 RGTR--
+141101004 Mertzig, Internat     00956  00956                % 00957 RGTR--
+140801004 Niederfeulen, route   01000  01000                % 00957 RGTR--
+140801002 Niederfeulen, Faubou  01001  01001                % 00957 RGTR--
+140701025 Ettelbruck, Place du  01004  01004                % 00957 RGTR--
+140701015 Ettelbruck, Ecole Pr  01006  01006                % 00957 RGTR--
+140701016 Ettelbruck, Gare      01007                       % 00957 RGTR--
+*Z 00958 RGTR--                                             % 00958 RGTR--
+*L 132      151005001 140701016  01139  01207               % 00958 RGTR--
+*R 2 140701016 151005001 140701016  01139  01207            % 00958 RGTR--
+*G 020 151005001 140701016  01139  01207                    % 00958 RGTR--
+*A VE 151005001 140701016 000036  01139  01207              % 00958 RGTR--
+*I FD 151005001 140701016        0001777  01139  01207      % 00958 RGTR--
+151005001 Kuborn                       01139                % 00958 RGTR--
+151003002 Grevels, Ieweschten   01142  01142                % 00958 RGTR--
+151003003 Grevels, Zentrum      01143  01143                % 00958 RGTR--
+151003001 Grevels, Eneschten E  01144  01144                % 00958 RGTR--
+120504001 Hierheck              01146  01146                % 00958 RGTR--
+150401001 Dellen, Am Duerf      01150  01150                % 00958 RGTR--
+141101004 Mertzig, Internat     01156  01156                % 00958 RGTR--
+140801004 Niederfeulen, route   01200  01200                % 00958 RGTR--
+140801002 Niederfeulen, Faubou  01201  01201                % 00958 RGTR--
+140701025 Ettelbruck, Place du  01204  01204                % 00958 RGTR--
+140701015 Ettelbruck, Ecole Pr  01206  01206                % 00958 RGTR--
+140701016 Ettelbruck, Gare      01207                       % 00958 RGTR--
+*Z 00959 RGTR--                                             % 00959 RGTR--
+*L 132      151005001 140701016  01339  01407               % 00959 RGTR--
+*R 2 140701016 151005001 140701016  01339  01407            % 00959 RGTR--
+*G 020 151005001 140701016  01339  01407                    % 00959 RGTR--
+*A VE 151005001 140701016 000036  01339  01407              % 00959 RGTR--
+*I FD 151005001 140701016        0001778  01339  01407      % 00959 RGTR--
+151005001 Kuborn                       01339                % 00959 RGTR--
+151003002 Grevels, Ieweschten   01342  01342                % 00959 RGTR--
+151003003 Grevels, Zentrum      01343  01343                % 00959 RGTR--
+151003001 Grevels, Eneschten E  01344  01344                % 00959 RGTR--
+120504001 Hierheck              01346  01346                % 00959 RGTR--
+150401001 Dellen, Am Duerf      01350  01350                % 00959 RGTR--
+141101004 Mertzig, Internat     01356  01356                % 00959 RGTR--
+140801004 Niederfeulen, route   01400  01400                % 00959 RGTR--
+140801002 Niederfeulen, Faubou  01401  01401                % 00959 RGTR--
+140701025 Ettelbruck, Place du  01404  01404                % 00959 RGTR--
+140701015 Ettelbruck, Ecole Pr  01406  01406                % 00959 RGTR--
+140701016 Ettelbruck, Gare      01407                       % 00959 RGTR--
+*Z 00960 RGTR--                                             % 00960 RGTR--
+*L 132      151005001 140701016  01539  01607               % 00960 RGTR--
+*R 2 140701016 151005001 140701016  01539  01607            % 00960 RGTR--
+*G 020 151005001 140701016  01539  01607                    % 00960 RGTR--
+*A VE 151005001 140701016 000036  01539  01607              % 00960 RGTR--
+*I FD 151005001 140701016        0001779  01539  01607      % 00960 RGTR--
+151005001 Kuborn                       01539                % 00960 RGTR--
+151003002 Grevels, Ieweschten   01542  01542                % 00960 RGTR--
+151003003 Grevels, Zentrum      01543  01543                % 00960 RGTR--
+151003001 Grevels, Eneschten E  01544  01544                % 00960 RGTR--
+120504001 Hierheck              01546  01546                % 00960 RGTR--
+150401001 Dellen, Am Duerf      01550  01550                % 00960 RGTR--
+141101004 Mertzig, Internat     01556  01556                % 00960 RGTR--
+140801004 Niederfeulen, route   01600  01600                % 00960 RGTR--
+140801002 Niederfeulen, Faubou  01601  01601                % 00960 RGTR--
+140701025 Ettelbruck, Place du  01604  01604                % 00960 RGTR--
+140701015 Ettelbruck, Ecole Pr  01606  01606                % 00960 RGTR--
+140701016 Ettelbruck, Gare      01607                       % 00960 RGTR--
+*Z 00961 RGTR--                                             % 00961 RGTR--
+*L 132      151005001 140701016  01939  02007               % 00961 RGTR--
+*R 2 140701016 151005001 140701016  01939  02007            % 00961 RGTR--
+*G 020 151005001 140701016  01939  02007                    % 00961 RGTR--
+*A VE 151005001 140701016 000036  01939  02007              % 00961 RGTR--
+*I FD 151005001 140701016        0001780  01939  02007      % 00961 RGTR--
+151005001 Kuborn                       01939                % 00961 RGTR--
+151003002 Grevels, Ieweschten   01942  01942                % 00961 RGTR--
+151003003 Grevels, Zentrum      01943  01943                % 00961 RGTR--
+151003001 Grevels, Eneschten E  01944  01944                % 00961 RGTR--
+120504001 Hierheck              01946  01946                % 00961 RGTR--
+150401001 Dellen, Am Duerf      01950  01950                % 00961 RGTR--
+141101004 Mertzig, Internat     01956  01956                % 00961 RGTR--
+140801004 Niederfeulen, route   02000  02000                % 00961 RGTR--
+140801002 Niederfeulen, Faubou  02001  02001                % 00961 RGTR--
+140701025 Ettelbruck, Place du  02004  02004                % 00961 RGTR--
+140701015 Ettelbruck, Ecole Pr  02006  02006                % 00961 RGTR--
+140701016 Ettelbruck, Gare      02007                       % 00961 RGTR--
+*Z 00962 RGTR--                                             % 00962 RGTR--
+*L 132      151005001 140701016  00439  00507               % 00962 RGTR--
+*R 2 140701016 151005001 140701016  00439  00507            % 00962 RGTR--
+*G 020 151005001 140701016  00439  00507                    % 00962 RGTR--
+*A VE 151005001 140701016 000033  00439  00507              % 00962 RGTR--
+*I FD 151005001 140701016        0001781  00439  00507      % 00962 RGTR--
+151005001 Kuborn                       00439                % 00962 RGTR--
+151003002 Grevels, Ieweschten   00442  00442                % 00962 RGTR--
+151003003 Grevels, Zentrum      00443  00443                % 00962 RGTR--
+151003001 Grevels, Eneschten E  00444  00444                % 00962 RGTR--
+120504001 Hierheck              00446  00446                % 00962 RGTR--
+150401001 Dellen, Am Duerf      00450  00450                % 00962 RGTR--
+141101004 Mertzig, Internat     00456  00456                % 00962 RGTR--
+140801004 Niederfeulen, route   00500  00500                % 00962 RGTR--
+140801002 Niederfeulen, Faubou  00501  00501                % 00962 RGTR--
+140701025 Ettelbruck, Place du  00504  00504                % 00962 RGTR--
+140701015 Ettelbruck, Ecole Pr  00506  00506                % 00962 RGTR--
+140701016 Ettelbruck, Gare      00507                       % 00962 RGTR--
+*Z 00963 RGTR--                                             % 00963 RGTR--
+*L 132      151005001 140701016  00839  00907               % 00963 RGTR--
+*R 2 140701016 151005001 140701016  00839  00907            % 00963 RGTR--
+*G 020 151005001 140701016  00839  00907                    % 00963 RGTR--
+*A VE 151005001 140701016 000018  00839  00907              % 00963 RGTR--
+*I FD 151005001 140701016        0001782  00839  00907      % 00963 RGTR--
+151005001 Kuborn                       00839                % 00963 RGTR--
+151003002 Grevels, Ieweschten   00842  00842                % 00963 RGTR--
+151003003 Grevels, Zentrum      00843  00843                % 00963 RGTR--
+151003001 Grevels, Eneschten E  00844  00844                % 00963 RGTR--
+120504001 Hierheck              00846  00846                % 00963 RGTR--
+150401001 Dellen, Am Duerf      00850  00850                % 00963 RGTR--
+141101004 Mertzig, Internat     00856  00856                % 00963 RGTR--
+140801004 Niederfeulen, route   00900  00900                % 00963 RGTR--
+140801002 Niederfeulen, Faubou  00901  00901                % 00963 RGTR--
+140701025 Ettelbruck, Place du  00904  00904                % 00963 RGTR--
+140701015 Ettelbruck, Ecole Pr  00906  00906                % 00963 RGTR--
+140701016 Ettelbruck, Gare      00907                       % 00963 RGTR--
+*Z 00964 RGTR--                                             % 00964 RGTR--
+*L 132      151005001 140701016  01639  01707               % 00964 RGTR--
+*R 2 140701016 151005001 140701016  01639  01707            % 00964 RGTR--
+*G 020 151005001 140701016  01639  01707                    % 00964 RGTR--
+*A VE 151005001 140701016 000018  01639  01707              % 00964 RGTR--
+*I FD 151005001 140701016        0001783  01639  01707      % 00964 RGTR--
+151005001 Kuborn                       01639                % 00964 RGTR--
+151003002 Grevels, Ieweschten   01642  01642                % 00964 RGTR--
+151003003 Grevels, Zentrum      01643  01643                % 00964 RGTR--
+151003001 Grevels, Eneschten E  01644  01644                % 00964 RGTR--
+120504001 Hierheck              01646  01646                % 00964 RGTR--
+150401001 Dellen, Am Duerf      01650  01650                % 00964 RGTR--
+141101004 Mertzig, Internat     01656  01656                % 00964 RGTR--
+140801004 Niederfeulen, route   01700  01700                % 00964 RGTR--
+140801002 Niederfeulen, Faubou  01701  01701                % 00964 RGTR--
+140701025 Ettelbruck, Place du  01704  01704                % 00964 RGTR--
+140701015 Ettelbruck, Ecole Pr  01706  01706                % 00964 RGTR--
+140701016 Ettelbruck, Gare      01707                       % 00964 RGTR--
+*Z 00965 RGTR--                                             % 00965 RGTR--
+*L 132      151005001 140701016  01739  01807               % 00965 RGTR--
+*R 2 140701016 151005001 140701016  01739  01807            % 00965 RGTR--
+*G 020 151005001 140701016  01739  01807                    % 00965 RGTR--
+*A VE 151005001 140701016 000025  01739  01807              % 00965 RGTR--
+*I FD 151005001 140701016        0001784  01739  01807      % 00965 RGTR--
+151005001 Kuborn                       01739                % 00965 RGTR--
+151003002 Grevels, Ieweschten   01742  01742                % 00965 RGTR--
+151003003 Grevels, Zentrum      01743  01743                % 00965 RGTR--
+151003001 Grevels, Eneschten E  01744  01744                % 00965 RGTR--
+120504001 Hierheck              01746  01746                % 00965 RGTR--
+150401001 Dellen, Am Duerf      01750  01750                % 00965 RGTR--
+141101004 Mertzig, Internat     01756  01756                % 00965 RGTR--
+140801004 Niederfeulen, route   01800  01800                % 00965 RGTR--
+140801002 Niederfeulen, Faubou  01801  01801                % 00965 RGTR--
+140701025 Ettelbruck, Place du  01804  01804                % 00965 RGTR--
+140701015 Ettelbruck, Ecole Pr  01806  01806                % 00965 RGTR--
+140701016 Ettelbruck, Gare      01807                       % 00965 RGTR--
+*Z 00966 RGTR--                                             % 00966 RGTR--
+*L 132      151005001 140701016  00639  00710               % 00966 RGTR--
+*R 2 140701016 151005001 140701016  00639  00710            % 00966 RGTR--
+*G 020 151005001 140701016  00639  00710                    % 00966 RGTR--
+*A VE 151005001 140701016 000036  00639  00710              % 00966 RGTR--
+*I FD 151005001 140701016        0001785  00639  00710      % 00966 RGTR--
+151005001 Kuborn                       00639                % 00966 RGTR--
+151003002 Grevels, Ieweschten   00642  00642                % 00966 RGTR--
+151003003 Grevels, Zentrum      00644  00644                % 00966 RGTR--
+151003001 Grevels, Eneschten E  00644  00644                % 00966 RGTR--
+120504001 Hierheck              00646  00646                % 00966 RGTR--
+150401001 Dellen, Am Duerf      00650  00650                % 00966 RGTR--
+141101004 Mertzig, Internat     00656  00656                % 00966 RGTR--
+140801004 Niederfeulen, route   00700  00700                % 00966 RGTR--
+140801002 Niederfeulen, Faubou  00702  00702                % 00966 RGTR--
+140701025 Ettelbruck, Place du  00706  00706                % 00966 RGTR--
+140701015 Ettelbruck, Ecole Pr  00708  00708                % 00966 RGTR--
+140701016 Ettelbruck, Gare      00710                       % 00966 RGTR--
+*Z 00967 RGTR--                                             % 00967 RGTR--
+*L 132      151005001 140701016  00739  00810               % 00967 RGTR--
+*R 2 140701016 151005001 140701016  00739  00810            % 00967 RGTR--
+*G 020 151005001 140701016  00739  00810                    % 00967 RGTR--
+*A VE 151005001 140701016 000036  00739  00810              % 00967 RGTR--
+*I FD 151005001 140701016        0001786  00739  00810      % 00967 RGTR--
+151005001 Kuborn                       00739                % 00967 RGTR--
+151003002 Grevels, Ieweschten   00742  00742                % 00967 RGTR--
+151003003 Grevels, Zentrum      00744  00744                % 00967 RGTR--
+151003001 Grevels, Eneschten E  00744  00744                % 00967 RGTR--
+120504001 Hierheck              00746  00746                % 00967 RGTR--
+150401001 Dellen, Am Duerf      00750  00750                % 00967 RGTR--
+141101004 Mertzig, Internat     00756  00756                % 00967 RGTR--
+140801004 Niederfeulen, route   00800  00800                % 00967 RGTR--
+140801002 Niederfeulen, Faubou  00802  00802                % 00967 RGTR--
+140701025 Ettelbruck, Place du  00806  00806                % 00967 RGTR--
+140701015 Ettelbruck, Ecole Pr  00808  00808                % 00967 RGTR--
+140701016 Ettelbruck, Gare      00810                       % 00967 RGTR--
+*Z 00968 RGTR--                                             % 00968 RGTR--
+*L 132      151005001 140701016  00839  00910               % 00968 RGTR--
+*R 2 140701016 151005001 140701016  00839  00910            % 00968 RGTR--
+*G 020 151005001 140701016  00839  00910                    % 00968 RGTR--
+*A VE 151005001 140701016 000036  00839  00910              % 00968 RGTR--
+*I FD 151005001 140701016        0001782  00839  00910      % 00968 RGTR--
+151005001 Kuborn                       00839                % 00968 RGTR--
+151003002 Grevels, Ieweschten   00842  00842                % 00968 RGTR--
+151003003 Grevels, Zentrum      00844  00844                % 00968 RGTR--
+151003001 Grevels, Eneschten E  00844  00844                % 00968 RGTR--
+120504001 Hierheck              00846  00846                % 00968 RGTR--
+150401001 Dellen, Am Duerf      00850  00850                % 00968 RGTR--
+141101004 Mertzig, Internat     00856  00856                % 00968 RGTR--
+140801004 Niederfeulen, route   00900  00900                % 00968 RGTR--
+140801002 Niederfeulen, Faubou  00902  00902                % 00968 RGTR--
+140701025 Ettelbruck, Place du  00906  00906                % 00968 RGTR--
+140701015 Ettelbruck, Ecole Pr  00908  00908                % 00968 RGTR--
+140701016 Ettelbruck, Gare      00910                       % 00968 RGTR--
+*Z 00969 RGTR--                                             % 00969 RGTR--
+*L 132      151005001 140701016  01639  01710               % 00969 RGTR--
+*R 2 140701016 151005001 140701016  01639  01710            % 00969 RGTR--
+*G 020 151005001 140701016  01639  01710                    % 00969 RGTR--
+*A VE 151005001 140701016 000036  01639  01710              % 00969 RGTR--
+*I FD 151005001 140701016        0001783  01639  01710      % 00969 RGTR--
+151005001 Kuborn                       01639                % 00969 RGTR--
+151003002 Grevels, Ieweschten   01642  01642                % 00969 RGTR--
+151003003 Grevels, Zentrum      01644  01644                % 00969 RGTR--
+151003001 Grevels, Eneschten E  01644  01644                % 00969 RGTR--
+120504001 Hierheck              01646  01646                % 00969 RGTR--
+150401001 Dellen, Am Duerf      01650  01650                % 00969 RGTR--
+141101004 Mertzig, Internat     01656  01656                % 00969 RGTR--
+140801004 Niederfeulen, route   01700  01700                % 00969 RGTR--
+140801002 Niederfeulen, Faubou  01702  01702                % 00969 RGTR--
+140701025 Ettelbruck, Place du  01706  01706                % 00969 RGTR--
+140701015 Ettelbruck, Ecole Pr  01708  01708                % 00969 RGTR--
+140701016 Ettelbruck, Gare      01710                       % 00969 RGTR--
+*Z 00970 RGTR--                                             % 00970 RGTR--
+*L 132      151005001 140701016  01739  01810               % 00970 RGTR--
+*R 2 140701016 151005001 140701016  01739  01810            % 00970 RGTR--
+*G 020 151005001 140701016  01739  01810                    % 00970 RGTR--
+*A VE 151005001 140701016 000033  01739  01810              % 00970 RGTR--
+*I FD 151005001 140701016        0001784  01739  01810      % 00970 RGTR--
+151005001 Kuborn                       01739                % 00970 RGTR--
+151003002 Grevels, Ieweschten   01742  01742                % 00970 RGTR--
+151003003 Grevels, Zentrum      01744  01744                % 00970 RGTR--
+151003001 Grevels, Eneschten E  01744  01744                % 00970 RGTR--
+120504001 Hierheck              01746  01746                % 00970 RGTR--
+150401001 Dellen, Am Duerf      01750  01750                % 00970 RGTR--
+141101004 Mertzig, Internat     01756  01756                % 00970 RGTR--
+140801004 Niederfeulen, route   01800  01800                % 00970 RGTR--
+140801002 Niederfeulen, Faubou  01802  01802                % 00970 RGTR--
+140701025 Ettelbruck, Place du  01806  01806                % 00970 RGTR--
+140701015 Ettelbruck, Ecole Pr  01808  01808                % 00970 RGTR--
+140701016 Ettelbruck, Gare      01810                       % 00970 RGTR--
+*Z 00971 RGTR--                                             % 00971 RGTR--
+*L 132      140701016 151005001  00954  01022               % 00971 RGTR--
+*R 1 151005001 140701016 151005001  00954  01022            % 00971 RGTR--
+*G 020 140701016 151005001  00954  01022                    % 00971 RGTR--
+*A VE 140701016 151005001 000040  00954  01022              % 00971 RGTR--
+*I FD 140701016 151005001        0001757  00954  01022      % 00971 RGTR--
+140701016 Ettelbruck, Gare             00954                % 00971 RGTR--
+140701034 Ettelbruck, Apdikt P  00955  00955                % 00971 RGTR--
+140701025 Ettelbruck, Place du  00956  00956                % 00971 RGTR--
+140701009 Ettelbruck, Cité Pat  00957  00957                % 00971 RGTR--
+140701008 Ettelbruck, Cité Lop  00958  00958                % 00971 RGTR--
+140801002 Niederfeulen, Faubou  01000  01000                % 00971 RGTR--
+140801003 Niederfeulen, Mairie  01001  01001                % 00971 RGTR--
+140801004 Niederfeulen, route   01002  01002                % 00971 RGTR--
+141101004 Mertzig, Internat     01005  01005                % 00971 RGTR--
+150401001 Dellen, Am Duerf      01011  01011                % 00971 RGTR--
+120504001 Hierheck              01015  01015                % 00971 RGTR--
+151003001 Grevels, Eneschten E  01017  01017                % 00971 RGTR--
+151003003 Grevels, Zentrum      01018  01018                % 00971 RGTR--
+151003002 Grevels, Ieweschten   01019  01019                % 00971 RGTR--
+151005001 Kuborn                01022                       % 00971 RGTR--
+*Z 00972 RGTR--                                             % 00972 RGTR--
+*L 132      140701016 151005001  01154  01222               % 00972 RGTR--
+*R 1 151005001 140701016 151005001  01154  01222            % 00972 RGTR--
+*G 020 140701016 151005001  01154  01222                    % 00972 RGTR--
+*A VE 140701016 151005001 000040  01154  01222              % 00972 RGTR--
+*I FD 140701016 151005001        0001758  01154  01222      % 00972 RGTR--
+140701016 Ettelbruck, Gare             01154                % 00972 RGTR--
+140701034 Ettelbruck, Apdikt P  01155  01155                % 00972 RGTR--
+140701025 Ettelbruck, Place du  01156  01156                % 00972 RGTR--
+140701009 Ettelbruck, Cité Pat  01157  01157                % 00972 RGTR--
+140701008 Ettelbruck, Cité Lop  01158  01158                % 00972 RGTR--
+140801002 Niederfeulen, Faubou  01200  01200                % 00972 RGTR--
+140801003 Niederfeulen, Mairie  01201  01201                % 00972 RGTR--
+140801004 Niederfeulen, route   01202  01202                % 00972 RGTR--
+141101004 Mertzig, Internat     01205  01205                % 00972 RGTR--
+150401001 Dellen, Am Duerf      01211  01211                % 00972 RGTR--
+120504001 Hierheck              01215  01215                % 00972 RGTR--
+151003001 Grevels, Eneschten E  01217  01217                % 00972 RGTR--
+151003003 Grevels, Zentrum      01218  01218                % 00972 RGTR--
+151003002 Grevels, Ieweschten   01219  01219                % 00972 RGTR--
+151005001 Kuborn                01222                       % 00972 RGTR--
+*Z 00973 RGTR--                                             % 00973 RGTR--
+*L 132      140701016 151005001  01354  01422               % 00973 RGTR--
+*R 1 151005001 140701016 151005001  01354  01422            % 00973 RGTR--
+*G 020 140701016 151005001  01354  01422                    % 00973 RGTR--
+*A VE 140701016 151005001 000040  01354  01422              % 00973 RGTR--
+*I FD 140701016 151005001        0001165  01354  01422      % 00973 RGTR--
+140701016 Ettelbruck, Gare             01354                % 00973 RGTR--
+140701034 Ettelbruck, Apdikt P  01355  01355                % 00973 RGTR--
+140701025 Ettelbruck, Place du  01356  01356                % 00973 RGTR--
+140701009 Ettelbruck, Cité Pat  01357  01357                % 00973 RGTR--
+140701008 Ettelbruck, Cité Lop  01358  01358                % 00973 RGTR--
+140801002 Niederfeulen, Faubou  01400  01400                % 00973 RGTR--
+140801003 Niederfeulen, Mairie  01401  01401                % 00973 RGTR--
+140801004 Niederfeulen, route   01402  01402                % 00973 RGTR--
+141101004 Mertzig, Internat     01405  01405                % 00973 RGTR--
+150401001 Dellen, Am Duerf      01411  01411                % 00973 RGTR--
+120504001 Hierheck              01415  01415                % 00973 RGTR--
+151003001 Grevels, Eneschten E  01417  01417                % 00973 RGTR--
+151003003 Grevels, Zentrum      01418  01418                % 00973 RGTR--
+151003002 Grevels, Ieweschten   01419  01419                % 00973 RGTR--
+151005001 Kuborn                01422                       % 00973 RGTR--
+*Z 00974 RGTR--                                             % 00974 RGTR--
+*L 132      140701016 151005001  01554  01622               % 00974 RGTR--
+*R 1 151005001 140701016 151005001  01554  01622            % 00974 RGTR--
+*G 020 140701016 151005001  01554  01622                    % 00974 RGTR--
+*A VE 140701016 151005001 000040  01554  01622              % 00974 RGTR--
+*I FD 140701016 151005001        0001759  01554  01622      % 00974 RGTR--
+140701016 Ettelbruck, Gare             01554                % 00974 RGTR--
+140701034 Ettelbruck, Apdikt P  01555  01555                % 00974 RGTR--
+140701025 Ettelbruck, Place du  01556  01556                % 00974 RGTR--
+140701009 Ettelbruck, Cité Pat  01557  01557                % 00974 RGTR--
+140701008 Ettelbruck, Cité Lop  01558  01558                % 00974 RGTR--
+140801002 Niederfeulen, Faubou  01600  01600                % 00974 RGTR--
+140801003 Niederfeulen, Mairie  01601  01601                % 00974 RGTR--
+140801004 Niederfeulen, route   01602  01602                % 00974 RGTR--
+141101004 Mertzig, Internat     01605  01605                % 00974 RGTR--
+150401001 Dellen, Am Duerf      01611  01611                % 00974 RGTR--
+120504001 Hierheck              01615  01615                % 00974 RGTR--
+151003001 Grevels, Eneschten E  01617  01617                % 00974 RGTR--
+151003003 Grevels, Zentrum      01618  01618                % 00974 RGTR--
+151003002 Grevels, Ieweschten   01619  01619                % 00974 RGTR--
+151005001 Kuborn                01622                       % 00974 RGTR--
+*Z 00975 RGTR--                                             % 00975 RGTR--
+*L 132      140701016 151005001  01954  02022               % 00975 RGTR--
+*R 1 151005001 140701016 151005001  01954  02022            % 00975 RGTR--
+*G 020 140701016 151005001  01954  02022                    % 00975 RGTR--
+*A VE 140701016 151005001 000040  01954  02022              % 00975 RGTR--
+*I FD 140701016 151005001        0001760  01954  02022      % 00975 RGTR--
+140701016 Ettelbruck, Gare             01954                % 00975 RGTR--
+140701034 Ettelbruck, Apdikt P  01955  01955                % 00975 RGTR--
+140701025 Ettelbruck, Place du  01956  01956                % 00975 RGTR--
+140701009 Ettelbruck, Cité Pat  01957  01957                % 00975 RGTR--
+140701008 Ettelbruck, Cité Lop  01958  01958                % 00975 RGTR--
+140801002 Niederfeulen, Faubou  02000  02000                % 00975 RGTR--
+140801003 Niederfeulen, Mairie  02001  02001                % 00975 RGTR--
+140801004 Niederfeulen, route   02002  02002                % 00975 RGTR--
+141101004 Mertzig, Internat     02005  02005                % 00975 RGTR--
+150401001 Dellen, Am Duerf      02011  02011                % 00975 RGTR--
+120504001 Hierheck              02015  02015                % 00975 RGTR--
+151003001 Grevels, Eneschten E  02017  02017                % 00975 RGTR--
+151003003 Grevels, Zentrum      02018  02018                % 00975 RGTR--
+151003002 Grevels, Ieweschten   02019  02019                % 00975 RGTR--
+151005001 Kuborn                02022                       % 00975 RGTR--
+*Z 00976 RGTR--                                             % 00976 RGTR--
+*L 132      140701016 151005001  02154  02222               % 00976 RGTR--
+*R 1 151005001 140701016 151005001  02154  02222            % 00976 RGTR--
+*G 020 140701016 151005001  02154  02222                    % 00976 RGTR--
+*A VE 140701016 151005001 000040  02154  02222              % 00976 RGTR--
+*I FD 140701016 151005001        0001761  02154  02222      % 00976 RGTR--
+140701016 Ettelbruck, Gare             02154                % 00976 RGTR--
+140701034 Ettelbruck, Apdikt P  02155  02155                % 00976 RGTR--
+140701025 Ettelbruck, Place du  02156  02156                % 00976 RGTR--
+140701009 Ettelbruck, Cité Pat  02157  02157                % 00976 RGTR--
+140701008 Ettelbruck, Cité Lop  02158  02158                % 00976 RGTR--
+140801002 Niederfeulen, Faubou  02200  02200                % 00976 RGTR--
+140801003 Niederfeulen, Mairie  02201  02201                % 00976 RGTR--
+140801004 Niederfeulen, route   02202  02202                % 00976 RGTR--
+141101004 Mertzig, Internat     02205  02205                % 00976 RGTR--
+150401001 Dellen, Am Duerf      02211  02211                % 00976 RGTR--
+120504001 Hierheck              02215  02215                % 00976 RGTR--
+151003001 Grevels, Eneschten E  02217  02217                % 00976 RGTR--
+151003003 Grevels, Zentrum      02218  02218                % 00976 RGTR--
+151003002 Grevels, Ieweschten   02219  02219                % 00976 RGTR--
+151005001 Kuborn                02222                       % 00976 RGTR--
+*Z 00977 RGTR--                                             % 00977 RGTR--
+*L 132      140701016 151005001  00554  00622               % 00977 RGTR--
+*R 1 151005001 140701016 151005001  00554  00622            % 00977 RGTR--
+*G 020 140701016 151005001  00554  00622                    % 00977 RGTR--
+*A VE 140701016 151005001 000038  00554  00622              % 00977 RGTR--
+*I FD 140701016 151005001        0001762  00554  00622      % 00977 RGTR--
+140701016 Ettelbruck, Gare             00554                % 00977 RGTR--
+140701034 Ettelbruck, Apdikt P  00555  00555                % 00977 RGTR--
+140701025 Ettelbruck, Place du  00556  00556                % 00977 RGTR--
+140701009 Ettelbruck, Cité Pat  00557  00557                % 00977 RGTR--
+140701008 Ettelbruck, Cité Lop  00558  00558                % 00977 RGTR--
+140801002 Niederfeulen, Faubou  00600  00600                % 00977 RGTR--
+140801003 Niederfeulen, Mairie  00601  00601                % 00977 RGTR--
+140801004 Niederfeulen, route   00602  00602                % 00977 RGTR--
+141101004 Mertzig, Internat     00605  00605                % 00977 RGTR--
+150401001 Dellen, Am Duerf      00611  00611                % 00977 RGTR--
+120504001 Hierheck              00615  00615                % 00977 RGTR--
+151003001 Grevels, Eneschten E  00617  00617                % 00977 RGTR--
+151003003 Grevels, Zentrum      00618  00618                % 00977 RGTR--
+151003002 Grevels, Ieweschten   00619  00619                % 00977 RGTR--
+151005001 Kuborn                00622                       % 00977 RGTR--
+*Z 00978 RGTR--                                             % 00978 RGTR--
+*L 132      140701016 151005001  00854  00922               % 00978 RGTR--
+*R 1 151005001 140701016 151005001  00854  00922            % 00978 RGTR--
+*G 020 140701016 151005001  00854  00922                    % 00978 RGTR--
+*A VE 140701016 151005001 000038  00854  00922              % 00978 RGTR--
+*I FD 140701016 151005001        0001763  00854  00922      % 00978 RGTR--
+140701016 Ettelbruck, Gare             00854                % 00978 RGTR--
+140701034 Ettelbruck, Apdikt P  00855  00855                % 00978 RGTR--
+140701025 Ettelbruck, Place du  00856  00856                % 00978 RGTR--
+140701009 Ettelbruck, Cité Pat  00857  00857                % 00978 RGTR--
+140701008 Ettelbruck, Cité Lop  00858  00858                % 00978 RGTR--
+140801002 Niederfeulen, Faubou  00900  00900                % 00978 RGTR--
+140801003 Niederfeulen, Mairie  00901  00901                % 00978 RGTR--
+140801004 Niederfeulen, route   00902  00902                % 00978 RGTR--
+141101004 Mertzig, Internat     00905  00905                % 00978 RGTR--
+150401001 Dellen, Am Duerf      00911  00911                % 00978 RGTR--
+120504001 Hierheck              00915  00915                % 00978 RGTR--
+151003001 Grevels, Eneschten E  00917  00917                % 00978 RGTR--
+151003003 Grevels, Zentrum      00918  00918                % 00978 RGTR--
+151003002 Grevels, Ieweschten   00919  00919                % 00978 RGTR--
+151005001 Kuborn                00922                       % 00978 RGTR--
+*Z 00979 RGTR--                                             % 00979 RGTR--
+*L 132      140701016 151005001  01054  01122               % 00979 RGTR--
+*R 1 151005001 140701016 151005001  01054  01122            % 00979 RGTR--
+*G 020 140701016 151005001  01054  01122                    % 00979 RGTR--
+*A VE 140701016 151005001 000038  01054  01122              % 00979 RGTR--
+*I FD 140701016 151005001        0001764  01054  01122      % 00979 RGTR--
+140701016 Ettelbruck, Gare             01054                % 00979 RGTR--
+140701034 Ettelbruck, Apdikt P  01055  01055                % 00979 RGTR--
+140701025 Ettelbruck, Place du  01056  01056                % 00979 RGTR--
+140701009 Ettelbruck, Cité Pat  01057  01057                % 00979 RGTR--
+140701008 Ettelbruck, Cité Lop  01058  01058                % 00979 RGTR--
+140801002 Niederfeulen, Faubou  01100  01100                % 00979 RGTR--
+140801003 Niederfeulen, Mairie  01101  01101                % 00979 RGTR--
+140801004 Niederfeulen, route   01102  01102                % 00979 RGTR--
+141101004 Mertzig, Internat     01105  01105                % 00979 RGTR--
+150401001 Dellen, Am Duerf      01111  01111                % 00979 RGTR--
+120504001 Hierheck              01115  01115                % 00979 RGTR--
+151003001 Grevels, Eneschten E  01117  01117                % 00979 RGTR--
+151003003 Grevels, Zentrum      01118  01118                % 00979 RGTR--
+151003002 Grevels, Ieweschten   01119  01119                % 00979 RGTR--
+151005001 Kuborn                01122                       % 00979 RGTR--
+*Z 00980 RGTR--                                             % 00980 RGTR--
+*L 132      140701016 151005001  01254  01322               % 00980 RGTR--
+*R 1 151005001 140701016 151005001  01254  01322            % 00980 RGTR--
+*G 020 140701016 151005001  01254  01322                    % 00980 RGTR--
+*A VE 140701016 151005001 000038  01254  01322              % 00980 RGTR--
+*I FD 140701016 151005001        0001765  01254  01322      % 00980 RGTR--
+140701016 Ettelbruck, Gare             01254                % 00980 RGTR--
+140701034 Ettelbruck, Apdikt P  01255  01255                % 00980 RGTR--
+140701025 Ettelbruck, Place du  01256  01256                % 00980 RGTR--
+140701009 Ettelbruck, Cité Pat  01257  01257                % 00980 RGTR--
+140701008 Ettelbruck, Cité Lop  01258  01258                % 00980 RGTR--
+140801002 Niederfeulen, Faubou  01300  01300                % 00980 RGTR--
+140801003 Niederfeulen, Mairie  01301  01301                % 00980 RGTR--
+140801004 Niederfeulen, route   01302  01302                % 00980 RGTR--
+141101004 Mertzig, Internat     01305  01305                % 00980 RGTR--
+150401001 Dellen, Am Duerf      01311  01311                % 00980 RGTR--
+120504001 Hierheck              01315  01315                % 00980 RGTR--
+151003001 Grevels, Eneschten E  01317  01317                % 00980 RGTR--
+151003003 Grevels, Zentrum      01318  01318                % 00980 RGTR--
+151003002 Grevels, Ieweschten   01319  01319                % 00980 RGTR--
+151005001 Kuborn                01322                       % 00980 RGTR--
+*Z 00981 RGTR--                                             % 00981 RGTR--
+*L 132      140701016 151005001  01454  01522               % 00981 RGTR--
+*R 1 151005001 140701016 151005001  01454  01522            % 00981 RGTR--
+*G 020 140701016 151005001  01454  01522                    % 00981 RGTR--
+*A VE 140701016 151005001 000038  01454  01522              % 00981 RGTR--
+*I FD 140701016 151005001        0001766  01454  01522      % 00981 RGTR--
+140701016 Ettelbruck, Gare             01454                % 00981 RGTR--
+140701034 Ettelbruck, Apdikt P  01455  01455                % 00981 RGTR--
+140701025 Ettelbruck, Place du  01456  01456                % 00981 RGTR--
+140701009 Ettelbruck, Cité Pat  01457  01457                % 00981 RGTR--
+140701008 Ettelbruck, Cité Lop  01458  01458                % 00981 RGTR--
+140801002 Niederfeulen, Faubou  01500  01500                % 00981 RGTR--
+140801003 Niederfeulen, Mairie  01501  01501                % 00981 RGTR--
+140801004 Niederfeulen, route   01502  01502                % 00981 RGTR--
+141101004 Mertzig, Internat     01505  01505                % 00981 RGTR--
+150401001 Dellen, Am Duerf      01511  01511                % 00981 RGTR--
+120504001 Hierheck              01515  01515                % 00981 RGTR--
+151003001 Grevels, Eneschten E  01517  01517                % 00981 RGTR--
+151003003 Grevels, Zentrum      01518  01518                % 00981 RGTR--
+151003002 Grevels, Ieweschten   01519  01519                % 00981 RGTR--
+151005001 Kuborn                01522                       % 00981 RGTR--
+*Z 00982 RGTR--                                             % 00982 RGTR--
+*L 132      140701016 151005001  01854  01922               % 00982 RGTR--
+*R 1 151005001 140701016 151005001  01854  01922            % 00982 RGTR--
+*G 020 140701016 151005001  01854  01922                    % 00982 RGTR--
+*A VE 140701016 151005001 000038  01854  01922              % 00982 RGTR--
+*I FD 140701016 151005001        0001225  01854  01922      % 00982 RGTR--
+140701016 Ettelbruck, Gare             01854                % 00982 RGTR--
+140701034 Ettelbruck, Apdikt P  01855  01855                % 00982 RGTR--
+140701025 Ettelbruck, Place du  01856  01856                % 00982 RGTR--
+140701009 Ettelbruck, Cité Pat  01857  01857                % 00982 RGTR--
+140701008 Ettelbruck, Cité Lop  01858  01858                % 00982 RGTR--
+140801002 Niederfeulen, Faubou  01900  01900                % 00982 RGTR--
+140801003 Niederfeulen, Mairie  01901  01901                % 00982 RGTR--
+140801004 Niederfeulen, route   01902  01902                % 00982 RGTR--
+141101004 Mertzig, Internat     01905  01905                % 00982 RGTR--
+150401001 Dellen, Am Duerf      01911  01911                % 00982 RGTR--
+120504001 Hierheck              01915  01915                % 00982 RGTR--
+151003001 Grevels, Eneschten E  01917  01917                % 00982 RGTR--
+151003003 Grevels, Zentrum      01918  01918                % 00982 RGTR--
+151003002 Grevels, Ieweschten   01919  01919                % 00982 RGTR--
+151005001 Kuborn                01922                       % 00982 RGTR--
+*Z 00983 RGTR--                                             % 00983 RGTR--
+*L 132      140701016 151005001  02054  02122               % 00983 RGTR--
+*R 1 151005001 140701016 151005001  02054  02122            % 00983 RGTR--
+*G 020 140701016 151005001  02054  02122                    % 00983 RGTR--
+*A VE 140701016 151005001 000038  02054  02122              % 00983 RGTR--
+*I FD 140701016 151005001        0001767  02054  02122      % 00983 RGTR--
+140701016 Ettelbruck, Gare             02054                % 00983 RGTR--
+140701034 Ettelbruck, Apdikt P  02055  02055                % 00983 RGTR--
+140701025 Ettelbruck, Place du  02056  02056                % 00983 RGTR--
+140701009 Ettelbruck, Cité Pat  02057  02057                % 00983 RGTR--
+140701008 Ettelbruck, Cité Lop  02058  02058                % 00983 RGTR--
+140801002 Niederfeulen, Faubou  02100  02100                % 00983 RGTR--
+140801003 Niederfeulen, Mairie  02101  02101                % 00983 RGTR--
+140801004 Niederfeulen, route   02102  02102                % 00983 RGTR--
+141101004 Mertzig, Internat     02105  02105                % 00983 RGTR--
+150401001 Dellen, Am Duerf      02111  02111                % 00983 RGTR--
+120504001 Hierheck              02115  02115                % 00983 RGTR--
+151003001 Grevels, Eneschten E  02117  02117                % 00983 RGTR--
+151003003 Grevels, Zentrum      02118  02118                % 00983 RGTR--
+151003002 Grevels, Ieweschten   02119  02119                % 00983 RGTR--
+151005001 Kuborn                02122                       % 00983 RGTR--
+*Z 00984 RGTR--                                             % 00984 RGTR--
+*L 132      140701016 151005001  02354  02422               % 00984 RGTR--
+*R 1 151005001 140701016 151005001  02354  02422            % 00984 RGTR--
+*G 020 140701016 151005001  02354  02422                    % 00984 RGTR--
+*A VE 140701016 151005001 000038  02354  02422              % 00984 RGTR--
+*I FD 140701016 151005001        0001768  02354  02422      % 00984 RGTR--
+140701016 Ettelbruck, Gare             02354                % 00984 RGTR--
+140701034 Ettelbruck, Apdikt P  02355  02355                % 00984 RGTR--
+140701025 Ettelbruck, Place du  02356  02356                % 00984 RGTR--
+140701009 Ettelbruck, Cité Pat  02357  02357                % 00984 RGTR--
+140701008 Ettelbruck, Cité Lop  02358  02358                % 00984 RGTR--
+140801002 Niederfeulen, Faubou  02400  02400                % 00984 RGTR--
+140801003 Niederfeulen, Mairie  02401  02401                % 00984 RGTR--
+140801004 Niederfeulen, route   02402  02402                % 00984 RGTR--
+141101004 Mertzig, Internat     02405  02405                % 00984 RGTR--
+150401001 Dellen, Am Duerf      02411  02411                % 00984 RGTR--
+120504001 Hierheck              02415  02415                % 00984 RGTR--
+151003001 Grevels, Eneschten E  02417  02417                % 00984 RGTR--
+151003003 Grevels, Zentrum      02418  02418                % 00984 RGTR--
+151003002 Grevels, Ieweschten   02419  02419                % 00984 RGTR--
+151005001 Kuborn                02422                       % 00984 RGTR--
+*Z 00985 RGTR--                                             % 00985 RGTR--
+*L 132      140701016 151005001  00754  00822               % 00985 RGTR--
+*R 1 151005001 140701016 151005001  00754  00822            % 00985 RGTR--
+*G 020 140701016 151005001  00754  00822                    % 00985 RGTR--
+*A VE 140701016 151005001 000016  00754  00822              % 00985 RGTR--
+*I FD 140701016 151005001        0001769  00754  00822      % 00985 RGTR--
+140701016 Ettelbruck, Gare             00754                % 00985 RGTR--
+140701034 Ettelbruck, Apdikt P  00755  00755                % 00985 RGTR--
+140701025 Ettelbruck, Place du  00756  00756                % 00985 RGTR--
+140701009 Ettelbruck, Cité Pat  00757  00757                % 00985 RGTR--
+140701008 Ettelbruck, Cité Lop  00758  00758                % 00985 RGTR--
+140801002 Niederfeulen, Faubou  00800  00800                % 00985 RGTR--
+140801003 Niederfeulen, Mairie  00801  00801                % 00985 RGTR--
+140801004 Niederfeulen, route   00802  00802                % 00985 RGTR--
+141101004 Mertzig, Internat     00805  00805                % 00985 RGTR--
+150401001 Dellen, Am Duerf      00811  00811                % 00985 RGTR--
+120504001 Hierheck              00815  00815                % 00985 RGTR--
+151003001 Grevels, Eneschten E  00817  00817                % 00985 RGTR--
+151003003 Grevels, Zentrum      00818  00818                % 00985 RGTR--
+151003002 Grevels, Ieweschten   00819  00819                % 00985 RGTR--
+151005001 Kuborn                00822                       % 00985 RGTR--
+*Z 00986 RGTR--                                             % 00986 RGTR--
+*L 132      140701016 151005001  01754  01822               % 00986 RGTR--
+*R 1 151005001 140701016 151005001  01754  01822            % 00986 RGTR--
+*G 020 140701016 151005001  01754  01822                    % 00986 RGTR--
+*A VE 140701016 151005001 000016  01754  01822              % 00986 RGTR--
+*I FD 140701016 151005001        0001770  01754  01822      % 00986 RGTR--
+140701016 Ettelbruck, Gare             01754                % 00986 RGTR--
+140701034 Ettelbruck, Apdikt P  01755  01755                % 00986 RGTR--
+140701025 Ettelbruck, Place du  01756  01756                % 00986 RGTR--
+140701009 Ettelbruck, Cité Pat  01757  01757                % 00986 RGTR--
+140701008 Ettelbruck, Cité Lop  01758  01758                % 00986 RGTR--
+140801002 Niederfeulen, Faubou  01800  01800                % 00986 RGTR--
+140801003 Niederfeulen, Mairie  01801  01801                % 00986 RGTR--
+140801004 Niederfeulen, route   01802  01802                % 00986 RGTR--
+141101004 Mertzig, Internat     01805  01805                % 00986 RGTR--
+150401001 Dellen, Am Duerf      01811  01811                % 00986 RGTR--
+120504001 Hierheck              01815  01815                % 00986 RGTR--
+151003001 Grevels, Eneschten E  01817  01817                % 00986 RGTR--
+151003003 Grevels, Zentrum      01818  01818                % 00986 RGTR--
+151003002 Grevels, Ieweschten   01819  01819                % 00986 RGTR--
+151005001 Kuborn                01822                       % 00986 RGTR--
+*Z 00987 RGTR--                                             % 00987 RGTR--
+*L 132      140701016 151005001  00654  00723               % 00987 RGTR--
+*R 1 151005001 140701016 151005001  00654  00723            % 00987 RGTR--
+*G 020 140701016 151005001  00654  00723                    % 00987 RGTR--
+*A VE 140701016 151005001 000038  00654  00723              % 00987 RGTR--
+*I FD 140701016 151005001        0001771  00654  00723      % 00987 RGTR--
+140701016 Ettelbruck, Gare             00654                % 00987 RGTR--
+140701034 Ettelbruck, Apdikt P  00655  00655                % 00987 RGTR--
+140701025 Ettelbruck, Place du  00656  00656                % 00987 RGTR--
+140701009 Ettelbruck, Cité Pat  00658  00658                % 00987 RGTR--
+140701008 Ettelbruck, Cité Lop  00659  00659                % 00987 RGTR--
+140801002 Niederfeulen, Faubou  00701  00701                % 00987 RGTR--
+140801003 Niederfeulen, Mairie  00702  00702                % 00987 RGTR--
+140801004 Niederfeulen, route   00702  00702                % 00987 RGTR--
+141101004 Mertzig, Internat     00705  00705                % 00987 RGTR--
+150401001 Dellen, Am Duerf      00711  00711                % 00987 RGTR--
+120504001 Hierheck              00715  00715                % 00987 RGTR--
+151003001 Grevels, Eneschten E  00718  00718                % 00987 RGTR--
+151003003 Grevels, Zentrum      00718  00718                % 00987 RGTR--
+151003002 Grevels, Ieweschten   00719  00719                % 00987 RGTR--
+151005001 Kuborn                00723                       % 00987 RGTR--
+*Z 00988 RGTR--                                             % 00988 RGTR--
+*L 132      140701016 151005001  00754  00823               % 00988 RGTR--
+*R 1 151005001 140701016 151005001  00754  00823            % 00988 RGTR--
+*G 020 140701016 151005001  00754  00823                    % 00988 RGTR--
+*A VE 140701016 151005001 000038  00754  00823              % 00988 RGTR--
+*I FD 140701016 151005001        0001769  00754  00823      % 00988 RGTR--
+140701016 Ettelbruck, Gare             00754                % 00988 RGTR--
+140701034 Ettelbruck, Apdikt P  00755  00755                % 00988 RGTR--
+140701025 Ettelbruck, Place du  00756  00756                % 00988 RGTR--
+140701009 Ettelbruck, Cité Pat  00758  00758                % 00988 RGTR--
+140701008 Ettelbruck, Cité Lop  00759  00759                % 00988 RGTR--
+140801002 Niederfeulen, Faubou  00801  00801                % 00988 RGTR--
+140801003 Niederfeulen, Mairie  00802  00802                % 00988 RGTR--
+140801004 Niederfeulen, route   00802  00802                % 00988 RGTR--
+141101004 Mertzig, Internat     00805  00805                % 00988 RGTR--
+150401001 Dellen, Am Duerf      00811  00811                % 00988 RGTR--
+120504001 Hierheck              00815  00815                % 00988 RGTR--
+151003001 Grevels, Eneschten E  00818  00818                % 00988 RGTR--
+151003003 Grevels, Zentrum      00818  00818                % 00988 RGTR--
+151003002 Grevels, Ieweschten   00819  00819                % 00988 RGTR--
+151005001 Kuborn                00823                       % 00988 RGTR--
+*Z 00989 RGTR--                                             % 00989 RGTR--
+*L 132      140701016 151005001  01654  01723               % 00989 RGTR--
+*R 1 151005001 140701016 151005001  01654  01723            % 00989 RGTR--
+*G 020 140701016 151005001  01654  01723                    % 00989 RGTR--
+*A VE 140701016 151005001 000038  01654  01723              % 00989 RGTR--
+*I FD 140701016 151005001        0001772  01654  01723      % 00989 RGTR--
+140701016 Ettelbruck, Gare             01654                % 00989 RGTR--
+140701034 Ettelbruck, Apdikt P  01655  01655                % 00989 RGTR--
+140701025 Ettelbruck, Place du  01656  01656                % 00989 RGTR--
+140701009 Ettelbruck, Cité Pat  01658  01658                % 00989 RGTR--
+140701008 Ettelbruck, Cité Lop  01659  01659                % 00989 RGTR--
+140801002 Niederfeulen, Faubou  01701  01701                % 00989 RGTR--
+140801003 Niederfeulen, Mairie  01702  01702                % 00989 RGTR--
+140801004 Niederfeulen, route   01702  01702                % 00989 RGTR--
+141101004 Mertzig, Internat     01705  01705                % 00989 RGTR--
+150401001 Dellen, Am Duerf      01711  01711                % 00989 RGTR--
+120504001 Hierheck              01715  01715                % 00989 RGTR--
+151003001 Grevels, Eneschten E  01718  01718                % 00989 RGTR--
+151003003 Grevels, Zentrum      01718  01718                % 00989 RGTR--
+151003002 Grevels, Ieweschten   01719  01719                % 00989 RGTR--
+151005001 Kuborn                01723                       % 00989 RGTR--
+*Z 00990 RGTR--                                             % 00990 RGTR--
+*L 132      140701016 151005001  01754  01823               % 00990 RGTR--
+*R 1 151005001 140701016 151005001  01754  01823            % 00990 RGTR--
+*G 020 140701016 151005001  01754  01823                    % 00990 RGTR--
+*A VE 140701016 151005001 000038  01754  01823              % 00990 RGTR--
+*I FD 140701016 151005001        0001770  01754  01823      % 00990 RGTR--
+140701016 Ettelbruck, Gare             01754                % 00990 RGTR--
+140701034 Ettelbruck, Apdikt P  01755  01755                % 00990 RGTR--
+140701025 Ettelbruck, Place du  01756  01756                % 00990 RGTR--
+140701009 Ettelbruck, Cité Pat  01758  01758                % 00990 RGTR--
+140701008 Ettelbruck, Cité Lop  01759  01759                % 00990 RGTR--
+140801002 Niederfeulen, Faubou  01801  01801                % 00990 RGTR--
+140801003 Niederfeulen, Mairie  01802  01802                % 00990 RGTR--
+140801004 Niederfeulen, route   01802  01802                % 00990 RGTR--
+141101004 Mertzig, Internat     01805  01805                % 00990 RGTR--
+150401001 Dellen, Am Duerf      01811  01811                % 00990 RGTR--
+120504001 Hierheck              01815  01815                % 00990 RGTR--
+151003001 Grevels, Eneschten E  01818  01818                % 00990 RGTR--
+151003003 Grevels, Zentrum      01818  01818                % 00990 RGTR--
+151003002 Grevels, Ieweschten   01819  01819                % 00990 RGTR--
+151005001 Kuborn                01823                       % 00990 RGTR--
+*Z 00991 RGTR--                                             % 00991 RGTR--
+*L 132      151005001 140701016  01739  01807               % 00991 RGTR--
+*R 2 140701016 151005001 140701016  01739  01807            % 00991 RGTR--
+*G 020 151005001 140701016  01739  01807                    % 00991 RGTR--
+*A VE 151005001 140701016 000017  01739  01807              % 00991 RGTR--
+*I FD 151005001 140701016        0001784  01739  01807      % 00991 RGTR--
+151005001 Kuborn                       01739                % 00991 RGTR--
+151003002 Grevels, Ieweschten   01742  01742                % 00991 RGTR--
+151003003 Grevels, Zentrum      01743  01743                % 00991 RGTR--
+151003001 Grevels, Eneschten E  01744  01744                % 00991 RGTR--
+120504001 Hierheck              01746  01746                % 00991 RGTR--
+150401001 Dellen, Am Duerf      01750  01750                % 00991 RGTR--
+141101004 Mertzig, Internat     01756  01756                % 00991 RGTR--
+140801004 Niederfeulen, route   01800  01800                % 00991 RGTR--
+140801002 Niederfeulen, Faubou  01801  01801                % 00991 RGTR--
+140701025 Ettelbruck, Place du  01804  01804                % 00991 RGTR--
+140701015 Ettelbruck, Ecole Pr  01806  01806                % 00991 RGTR--
+140701016 Ettelbruck, Gare      01807                       % 00991 RGTR--
+*Z 00992 RGTR--                                             % 00992 RGTR--
+*L 132      151005001 140701016  01039  01107               % 00992 RGTR--
+*R 2 140701016 151005001 140701016  01039  01107            % 00992 RGTR--
+*G 020 151005001 140701016  01039  01107                    % 00992 RGTR--
+*A VE 151005001 140701016 000040  01039  01107              % 00992 RGTR--
+*I FD 151005001 140701016        0001773  01039  01107      % 00992 RGTR--
+151005001 Kuborn                       01039                % 00992 RGTR--
+151003002 Grevels, Ieweschten   01042  01042                % 00992 RGTR--
+151003003 Grevels, Zentrum      01043  01043                % 00992 RGTR--
+151003001 Grevels, Eneschten E  01044  01044                % 00992 RGTR--
+120504001 Hierheck              01046  01046                % 00992 RGTR--
+150401001 Dellen, Am Duerf      01050  01050                % 00992 RGTR--
+141101004 Mertzig, Internat     01056  01056                % 00992 RGTR--
+140801004 Niederfeulen, route   01100  01100                % 00992 RGTR--
+140801002 Niederfeulen, Faubou  01101  01101                % 00992 RGTR--
+140701025 Ettelbruck, Place du  01104  01104                % 00992 RGTR--
+140701015 Ettelbruck, Ecole Pr  01106  01106                % 00992 RGTR--
+140701016 Ettelbruck, Gare      01107                       % 00992 RGTR--
+*Z 00993 RGTR--                                             % 00993 RGTR--
+*L 132      151005001 140701016  01239  01307               % 00993 RGTR--
+*R 2 140701016 151005001 140701016  01239  01307            % 00993 RGTR--
+*G 020 151005001 140701016  01239  01307                    % 00993 RGTR--
+*A VE 151005001 140701016 000040  01239  01307              % 00993 RGTR--
+*I FD 151005001 140701016        0001120  01239  01307      % 00993 RGTR--
+151005001 Kuborn                       01239                % 00993 RGTR--
+151003002 Grevels, Ieweschten   01242  01242                % 00993 RGTR--
+151003003 Grevels, Zentrum      01243  01243                % 00993 RGTR--
+151003001 Grevels, Eneschten E  01244  01244                % 00993 RGTR--
+120504001 Hierheck              01246  01246                % 00993 RGTR--
+150401001 Dellen, Am Duerf      01250  01250                % 00993 RGTR--
+141101004 Mertzig, Internat     01256  01256                % 00993 RGTR--
+140801004 Niederfeulen, route   01300  01300                % 00993 RGTR--
+140801002 Niederfeulen, Faubou  01301  01301                % 00993 RGTR--
+140701025 Ettelbruck, Place du  01304  01304                % 00993 RGTR--
+140701015 Ettelbruck, Ecole Pr  01306  01306                % 00993 RGTR--
+140701016 Ettelbruck, Gare      01307                       % 00993 RGTR--
+*Z 00994 RGTR--                                             % 00994 RGTR--
+*L 132      151005001 140701016  01439  01507               % 00994 RGTR--
+*R 2 140701016 151005001 140701016  01439  01507            % 00994 RGTR--
+*G 020 151005001 140701016  01439  01507                    % 00994 RGTR--
+*A VE 151005001 140701016 000040  01439  01507              % 00994 RGTR--
+*I FD 151005001 140701016        0001774  01439  01507      % 00994 RGTR--
+151005001 Kuborn                       01439                % 00994 RGTR--
+151003002 Grevels, Ieweschten   01442  01442                % 00994 RGTR--
+151003003 Grevels, Zentrum      01443  01443                % 00994 RGTR--
+151003001 Grevels, Eneschten E  01444  01444                % 00994 RGTR--
+120504001 Hierheck              01446  01446                % 00994 RGTR--
+150401001 Dellen, Am Duerf      01450  01450                % 00994 RGTR--
+141101004 Mertzig, Internat     01456  01456                % 00994 RGTR--
+140801004 Niederfeulen, route   01500  01500                % 00994 RGTR--
+140801002 Niederfeulen, Faubou  01501  01501                % 00994 RGTR--
+140701025 Ettelbruck, Place du  01504  01504                % 00994 RGTR--
+140701015 Ettelbruck, Ecole Pr  01506  01506                % 00994 RGTR--
+140701016 Ettelbruck, Gare      01507                       % 00994 RGTR--
+*Z 00995 RGTR--                                             % 00995 RGTR--
+*L 132      151005001 140701016  01839  01907               % 00995 RGTR--
+*R 2 140701016 151005001 140701016  01839  01907            % 00995 RGTR--
+*G 020 151005001 140701016  01839  01907                    % 00995 RGTR--
+*A VE 151005001 140701016 000040  01839  01907              % 00995 RGTR--
+*I FD 151005001 140701016        0001281  01839  01907      % 00995 RGTR--
+151005001 Kuborn                       01839                % 00995 RGTR--
+151003002 Grevels, Ieweschten   01842  01842                % 00995 RGTR--
+151003003 Grevels, Zentrum      01843  01843                % 00995 RGTR--
+151003001 Grevels, Eneschten E  01844  01844                % 00995 RGTR--
+120504001 Hierheck              01846  01846                % 00995 RGTR--
+150401001 Dellen, Am Duerf      01850  01850                % 00995 RGTR--
+141101004 Mertzig, Internat     01856  01856                % 00995 RGTR--
+140801004 Niederfeulen, route   01900  01900                % 00995 RGTR--
+140801002 Niederfeulen, Faubou  01901  01901                % 00995 RGTR--
+140701025 Ettelbruck, Place du  01904  01904                % 00995 RGTR--
+140701015 Ettelbruck, Ecole Pr  01906  01906                % 00995 RGTR--
+140701016 Ettelbruck, Gare      01907                       % 00995 RGTR--
+*Z 00996 RGTR--                                             % 00996 RGTR--
+*L 132      151005001 140701016  02039  02107               % 00996 RGTR--
+*R 2 140701016 151005001 140701016  02039  02107            % 00996 RGTR--
+*G 020 151005001 140701016  02039  02107                    % 00996 RGTR--
+*A VE 151005001 140701016 000040  02039  02107              % 00996 RGTR--
+*I FD 151005001 140701016        0001775  02039  02107      % 00996 RGTR--
+151005001 Kuborn                       02039                % 00996 RGTR--
+151003002 Grevels, Ieweschten   02042  02042                % 00996 RGTR--
+151003003 Grevels, Zentrum      02043  02043                % 00996 RGTR--
+151003001 Grevels, Eneschten E  02044  02044                % 00996 RGTR--
+120504001 Hierheck              02046  02046                % 00996 RGTR--
+150401001 Dellen, Am Duerf      02050  02050                % 00996 RGTR--
+141101004 Mertzig, Internat     02056  02056                % 00996 RGTR--
+140801004 Niederfeulen, route   02100  02100                % 00996 RGTR--
+140801002 Niederfeulen, Faubou  02101  02101                % 00996 RGTR--
+140701025 Ettelbruck, Place du  02104  02104                % 00996 RGTR--
+140701015 Ettelbruck, Ecole Pr  02106  02106                % 00996 RGTR--
+140701016 Ettelbruck, Gare      02107                       % 00996 RGTR--
+*Z 00997 RGTR--                                             % 00997 RGTR--
+*L 132      151005001 140701016  02239  02307               % 00997 RGTR--
+*R 2 140701016 151005001 140701016  02239  02307            % 00997 RGTR--
+*G 020 151005001 140701016  02239  02307                    % 00997 RGTR--
+*A VE 151005001 140701016 000040  02239  02307              % 00997 RGTR--
+*I FD 151005001 140701016        0001776  02239  02307      % 00997 RGTR--
+151005001 Kuborn                       02239                % 00997 RGTR--
+151003002 Grevels, Ieweschten   02242  02242                % 00997 RGTR--
+151003003 Grevels, Zentrum      02243  02243                % 00997 RGTR--
+151003001 Grevels, Eneschten E  02244  02244                % 00997 RGTR--
+120504001 Hierheck              02246  02246                % 00997 RGTR--
+150401001 Dellen, Am Duerf      02250  02250                % 00997 RGTR--
+141101004 Mertzig, Internat     02256  02256                % 00997 RGTR--
+140801004 Niederfeulen, route   02300  02300                % 00997 RGTR--
+140801002 Niederfeulen, Faubou  02301  02301                % 00997 RGTR--
+140701025 Ettelbruck, Place du  02304  02304                % 00997 RGTR--
+140701015 Ettelbruck, Ecole Pr  02306  02306                % 00997 RGTR--
+140701016 Ettelbruck, Gare      02307                       % 00997 RGTR--
+*Z 00998 RGTR--                                             % 00998 RGTR--
+*L 132      151005001 140701016  00539  00607               % 00998 RGTR--
+*R 2 140701016 151005001 140701016  00539  00607            % 00998 RGTR--
+*G 020 151005001 140701016  00539  00607                    % 00998 RGTR--
+*A VE 151005001 140701016 000038  00539  00607              % 00998 RGTR--
+*I FD 151005001 140701016        0000742  00539  00607      % 00998 RGTR--
+151005001 Kuborn                       00539                % 00998 RGTR--
+151003002 Grevels, Ieweschten   00542  00542                % 00998 RGTR--
+151003003 Grevels, Zentrum      00543  00543                % 00998 RGTR--
+151003001 Grevels, Eneschten E  00544  00544                % 00998 RGTR--
+120504001 Hierheck              00546  00546                % 00998 RGTR--
+150401001 Dellen, Am Duerf      00550  00550                % 00998 RGTR--
+141101004 Mertzig, Internat     00556  00556                % 00998 RGTR--
+140801004 Niederfeulen, route   00600  00600                % 00998 RGTR--
+140801002 Niederfeulen, Faubou  00601  00601                % 00998 RGTR--
+140701025 Ettelbruck, Place du  00604  00604                % 00998 RGTR--
+140701015 Ettelbruck, Ecole Pr  00606  00606                % 00998 RGTR--
+140701016 Ettelbruck, Gare      00607                       % 00998 RGTR--
+*Z 00999 RGTR--                                             % 00999 RGTR--
+*L 132      151005001 140701016  00939  01007               % 00999 RGTR--
+*R 2 140701016 151005001 140701016  00939  01007            % 00999 RGTR--
+*G 020 151005001 140701016  00939  01007                    % 00999 RGTR--
+*A VE 151005001 140701016 000038  00939  01007              % 00999 RGTR--
+*I FD 151005001 140701016        0000935  00939  01007      % 00999 RGTR--
+151005001 Kuborn                       00939                % 00999 RGTR--
+151003002 Grevels, Ieweschten   00942  00942                % 00999 RGTR--
+151003003 Grevels, Zentrum      00943  00943                % 00999 RGTR--
+151003001 Grevels, Eneschten E  00944  00944                % 00999 RGTR--
+120504001 Hierheck              00946  00946                % 00999 RGTR--
+150401001 Dellen, Am Duerf      00950  00950                % 00999 RGTR--
+141101004 Mertzig, Internat     00956  00956                % 00999 RGTR--
+140801004 Niederfeulen, route   01000  01000                % 00999 RGTR--
+140801002 Niederfeulen, Faubou  01001  01001                % 00999 RGTR--
+140701025 Ettelbruck, Place du  01004  01004                % 00999 RGTR--
+140701015 Ettelbruck, Ecole Pr  01006  01006                % 00999 RGTR--
+140701016 Ettelbruck, Gare      01007                       % 00999 RGTR--
+*Z 01000 RGTR--                                             % 01000 RGTR--
+*L 132      151005001 140701016  01139  01207               % 01000 RGTR--
+*R 2 140701016 151005001 140701016  01139  01207            % 01000 RGTR--
+*G 020 151005001 140701016  01139  01207                    % 01000 RGTR--
+*A VE 151005001 140701016 000038  01139  01207              % 01000 RGTR--
+*I FD 151005001 140701016        0001777  01139  01207      % 01000 RGTR--
+151005001 Kuborn                       01139                % 01000 RGTR--
+151003002 Grevels, Ieweschten   01142  01142                % 01000 RGTR--
+151003003 Grevels, Zentrum      01143  01143                % 01000 RGTR--
+151003001 Grevels, Eneschten E  01144  01144                % 01000 RGTR--
+120504001 Hierheck              01146  01146                % 01000 RGTR--
+150401001 Dellen, Am Duerf      01150  01150                % 01000 RGTR--
+141101004 Mertzig, Internat     01156  01156                % 01000 RGTR--
+140801004 Niederfeulen, route   01200  01200                % 01000 RGTR--
+140801002 Niederfeulen, Faubou  01201  01201                % 01000 RGTR--
+140701025 Ettelbruck, Place du  01204  01204                % 01000 RGTR--
+140701015 Ettelbruck, Ecole Pr  01206  01206                % 01000 RGTR--
+140701016 Ettelbruck, Gare      01207                       % 01000 RGTR--
+*Z 01001 RGTR--                                             % 01001 RGTR--
+*L 132      151005001 140701016  01339  01407               % 01001 RGTR--
+*R 2 140701016 151005001 140701016  01339  01407            % 01001 RGTR--
+*G 020 151005001 140701016  01339  01407                    % 01001 RGTR--
+*A VE 151005001 140701016 000038  01339  01407              % 01001 RGTR--
+*I FD 151005001 140701016        0001778  01339  01407      % 01001 RGTR--
+151005001 Kuborn                       01339                % 01001 RGTR--
+151003002 Grevels, Ieweschten   01342  01342                % 01001 RGTR--
+151003003 Grevels, Zentrum      01343  01343                % 01001 RGTR--
+151003001 Grevels, Eneschten E  01344  01344                % 01001 RGTR--
+120504001 Hierheck              01346  01346                % 01001 RGTR--
+150401001 Dellen, Am Duerf      01350  01350                % 01001 RGTR--
+141101004 Mertzig, Internat     01356  01356                % 01001 RGTR--
+140801004 Niederfeulen, route   01400  01400                % 01001 RGTR--
+140801002 Niederfeulen, Faubou  01401  01401                % 01001 RGTR--
+140701025 Ettelbruck, Place du  01404  01404                % 01001 RGTR--
+140701015 Ettelbruck, Ecole Pr  01406  01406                % 01001 RGTR--
+140701016 Ettelbruck, Gare      01407                       % 01001 RGTR--
+*Z 01002 RGTR--                                             % 01002 RGTR--
+*L 132      151005001 140701016  01539  01607               % 01002 RGTR--
+*R 2 140701016 151005001 140701016  01539  01607            % 01002 RGTR--
+*G 020 151005001 140701016  01539  01607                    % 01002 RGTR--
+*A VE 151005001 140701016 000038  01539  01607              % 01002 RGTR--
+*I FD 151005001 140701016        0001779  01539  01607      % 01002 RGTR--
+151005001 Kuborn                       01539                % 01002 RGTR--
+151003002 Grevels, Ieweschten   01542  01542                % 01002 RGTR--
+151003003 Grevels, Zentrum      01543  01543                % 01002 RGTR--
+151003001 Grevels, Eneschten E  01544  01544                % 01002 RGTR--
+120504001 Hierheck              01546  01546                % 01002 RGTR--
+150401001 Dellen, Am Duerf      01550  01550                % 01002 RGTR--
+141101004 Mertzig, Internat     01556  01556                % 01002 RGTR--
+140801004 Niederfeulen, route   01600  01600                % 01002 RGTR--
+140801002 Niederfeulen, Faubou  01601  01601                % 01002 RGTR--
+140701025 Ettelbruck, Place du  01604  01604                % 01002 RGTR--
+140701015 Ettelbruck, Ecole Pr  01606  01606                % 01002 RGTR--
+140701016 Ettelbruck, Gare      01607                       % 01002 RGTR--
+*Z 01003 RGTR--                                             % 01003 RGTR--
+*L 132      151005001 140701016  01939  02007               % 01003 RGTR--
+*R 2 140701016 151005001 140701016  01939  02007            % 01003 RGTR--
+*G 020 151005001 140701016  01939  02007                    % 01003 RGTR--
+*A VE 151005001 140701016 000038  01939  02007              % 01003 RGTR--
+*I FD 151005001 140701016        0001780  01939  02007      % 01003 RGTR--
+151005001 Kuborn                       01939                % 01003 RGTR--
+151003002 Grevels, Ieweschten   01942  01942                % 01003 RGTR--
+151003003 Grevels, Zentrum      01943  01943                % 01003 RGTR--
+151003001 Grevels, Eneschten E  01944  01944                % 01003 RGTR--
+120504001 Hierheck              01946  01946                % 01003 RGTR--
+150401001 Dellen, Am Duerf      01950  01950                % 01003 RGTR--
+141101004 Mertzig, Internat     01956  01956                % 01003 RGTR--
+140801004 Niederfeulen, route   02000  02000                % 01003 RGTR--
+140801002 Niederfeulen, Faubou  02001  02001                % 01003 RGTR--
+140701025 Ettelbruck, Place du  02004  02004                % 01003 RGTR--
+140701015 Ettelbruck, Ecole Pr  02006  02006                % 01003 RGTR--
+140701016 Ettelbruck, Gare      02007                       % 01003 RGTR--
+*Z 01004 RGTR--                                             % 01004 RGTR--
+*L 132      151005001 140701016  00839  00907               % 01004 RGTR--
+*R 2 140701016 151005001 140701016  00839  00907            % 01004 RGTR--
+*G 020 151005001 140701016  00839  00907                    % 01004 RGTR--
+*A VE 151005001 140701016 000016  00839  00907              % 01004 RGTR--
+*I FD 151005001 140701016        0001782  00839  00907      % 01004 RGTR--
+151005001 Kuborn                       00839                % 01004 RGTR--
+151003002 Grevels, Ieweschten   00842  00842                % 01004 RGTR--
+151003003 Grevels, Zentrum      00843  00843                % 01004 RGTR--
+151003001 Grevels, Eneschten E  00844  00844                % 01004 RGTR--
+120504001 Hierheck              00846  00846                % 01004 RGTR--
+150401001 Dellen, Am Duerf      00850  00850                % 01004 RGTR--
+141101004 Mertzig, Internat     00856  00856                % 01004 RGTR--
+140801004 Niederfeulen, route   00900  00900                % 01004 RGTR--
+140801002 Niederfeulen, Faubou  00901  00901                % 01004 RGTR--
+140701025 Ettelbruck, Place du  00904  00904                % 01004 RGTR--
+140701015 Ettelbruck, Ecole Pr  00906  00906                % 01004 RGTR--
+140701016 Ettelbruck, Gare      00907                       % 01004 RGTR--
+*Z 01005 RGTR--                                             % 01005 RGTR--
+*L 132      151005001 140701016  01639  01707               % 01005 RGTR--
+*R 2 140701016 151005001 140701016  01639  01707            % 01005 RGTR--
+*G 020 151005001 140701016  01639  01707                    % 01005 RGTR--
+*A VE 151005001 140701016 000016  01639  01707              % 01005 RGTR--
+*I FD 151005001 140701016        0001783  01639  01707      % 01005 RGTR--
+151005001 Kuborn                       01639                % 01005 RGTR--
+151003002 Grevels, Ieweschten   01642  01642                % 01005 RGTR--
+151003003 Grevels, Zentrum      01643  01643                % 01005 RGTR--
+151003001 Grevels, Eneschten E  01644  01644                % 01005 RGTR--
+120504001 Hierheck              01646  01646                % 01005 RGTR--
+150401001 Dellen, Am Duerf      01650  01650                % 01005 RGTR--
+141101004 Mertzig, Internat     01656  01656                % 01005 RGTR--
+140801004 Niederfeulen, route   01700  01700                % 01005 RGTR--
+140801002 Niederfeulen, Faubou  01701  01701                % 01005 RGTR--
+140701025 Ettelbruck, Place du  01704  01704                % 01005 RGTR--
+140701015 Ettelbruck, Ecole Pr  01706  01706                % 01005 RGTR--
+140701016 Ettelbruck, Gare      01707                       % 01005 RGTR--
+*Z 01006 RGTR--                                             % 01006 RGTR--
+*L 132      151005001 140701016  00439  00507               % 01006 RGTR--
+*R 2 140701016 151005001 140701016  00439  00507            % 01006 RGTR--
+*G 020 151005001 140701016  00439  00507                    % 01006 RGTR--
+*A VE 151005001 140701016 000034  00439  00507              % 01006 RGTR--
+*I FD 151005001 140701016        0001781  00439  00507      % 01006 RGTR--
+151005001 Kuborn                       00439                % 01006 RGTR--
+151003002 Grevels, Ieweschten   00442  00442                % 01006 RGTR--
+151003003 Grevels, Zentrum      00443  00443                % 01006 RGTR--
+151003001 Grevels, Eneschten E  00444  00444                % 01006 RGTR--
+120504001 Hierheck              00446  00446                % 01006 RGTR--
+150401001 Dellen, Am Duerf      00450  00450                % 01006 RGTR--
+141101004 Mertzig, Internat     00456  00456                % 01006 RGTR--
+140801004 Niederfeulen, route   00500  00500                % 01006 RGTR--
+140801002 Niederfeulen, Faubou  00501  00501                % 01006 RGTR--
+140701025 Ettelbruck, Place du  00504  00504                % 01006 RGTR--
+140701015 Ettelbruck, Ecole Pr  00506  00506                % 01006 RGTR--
+140701016 Ettelbruck, Gare      00507                       % 01006 RGTR--
+*Z 01007 RGTR--                                             % 01007 RGTR--
+*L 132      151005001 140701016  00639  00710               % 01007 RGTR--
+*R 2 140701016 151005001 140701016  00639  00710            % 01007 RGTR--
+*G 020 151005001 140701016  00639  00710                    % 01007 RGTR--
+*A VE 151005001 140701016 000038  00639  00710              % 01007 RGTR--
+*I FD 151005001 140701016        0001785  00639  00710      % 01007 RGTR--
+151005001 Kuborn                       00639                % 01007 RGTR--
+151003002 Grevels, Ieweschten   00642  00642                % 01007 RGTR--
+151003003 Grevels, Zentrum      00644  00644                % 01007 RGTR--
+151003001 Grevels, Eneschten E  00644  00644                % 01007 RGTR--
+120504001 Hierheck              00646  00646                % 01007 RGTR--
+150401001 Dellen, Am Duerf      00650  00650                % 01007 RGTR--
+141101004 Mertzig, Internat     00656  00656                % 01007 RGTR--
+140801004 Niederfeulen, route   00700  00700                % 01007 RGTR--
+140801002 Niederfeulen, Faubou  00702  00702                % 01007 RGTR--
+140701025 Ettelbruck, Place du  00706  00706                % 01007 RGTR--
+140701015 Ettelbruck, Ecole Pr  00708  00708                % 01007 RGTR--
+140701016 Ettelbruck, Gare      00710                       % 01007 RGTR--
+*Z 01008 RGTR--                                             % 01008 RGTR--
+*L 132      151005001 140701016  00739  00810               % 01008 RGTR--
+*R 2 140701016 151005001 140701016  00739  00810            % 01008 RGTR--
+*G 020 151005001 140701016  00739  00810                    % 01008 RGTR--
+*A VE 151005001 140701016 000038  00739  00810              % 01008 RGTR--
+*I FD 151005001 140701016        0001786  00739  00810      % 01008 RGTR--
+151005001 Kuborn                       00739                % 01008 RGTR--
+151003002 Grevels, Ieweschten   00742  00742                % 01008 RGTR--
+151003003 Grevels, Zentrum      00744  00744                % 01008 RGTR--
+151003001 Grevels, Eneschten E  00744  00744                % 01008 RGTR--
+120504001 Hierheck              00746  00746                % 01008 RGTR--
+150401001 Dellen, Am Duerf      00750  00750                % 01008 RGTR--
+141101004 Mertzig, Internat     00756  00756                % 01008 RGTR--
+140801004 Niederfeulen, route   00800  00800                % 01008 RGTR--
+140801002 Niederfeulen, Faubou  00802  00802                % 01008 RGTR--
+140701025 Ettelbruck, Place du  00806  00806                % 01008 RGTR--
+140701015 Ettelbruck, Ecole Pr  00808  00808                % 01008 RGTR--
+140701016 Ettelbruck, Gare      00810                       % 01008 RGTR--
+*Z 01009 RGTR--                                             % 01009 RGTR--
+*L 132      151005001 140701016  00839  00910               % 01009 RGTR--
+*R 2 140701016 151005001 140701016  00839  00910            % 01009 RGTR--
+*G 020 151005001 140701016  00839  00910                    % 01009 RGTR--
+*A VE 151005001 140701016 000038  00839  00910              % 01009 RGTR--
+*I FD 151005001 140701016        0001782  00839  00910      % 01009 RGTR--
+151005001 Kuborn                       00839                % 01009 RGTR--
+151003002 Grevels, Ieweschten   00842  00842                % 01009 RGTR--
+151003003 Grevels, Zentrum      00844  00844                % 01009 RGTR--
+151003001 Grevels, Eneschten E  00844  00844                % 01009 RGTR--
+120504001 Hierheck              00846  00846                % 01009 RGTR--
+150401001 Dellen, Am Duerf      00850  00850                % 01009 RGTR--
+141101004 Mertzig, Internat     00856  00856                % 01009 RGTR--
+140801004 Niederfeulen, route   00900  00900                % 01009 RGTR--
+140801002 Niederfeulen, Faubou  00902  00902                % 01009 RGTR--
+140701025 Ettelbruck, Place du  00906  00906                % 01009 RGTR--
+140701015 Ettelbruck, Ecole Pr  00908  00908                % 01009 RGTR--
+140701016 Ettelbruck, Gare      00910                       % 01009 RGTR--
+*Z 01010 RGTR--                                             % 01010 RGTR--
+*L 132      151005001 140701016  01639  01710               % 01010 RGTR--
+*R 2 140701016 151005001 140701016  01639  01710            % 01010 RGTR--
+*G 020 151005001 140701016  01639  01710                    % 01010 RGTR--
+*A VE 151005001 140701016 000038  01639  01710              % 01010 RGTR--
+*I FD 151005001 140701016        0001783  01639  01710      % 01010 RGTR--
+151005001 Kuborn                       01639                % 01010 RGTR--
+151003002 Grevels, Ieweschten   01642  01642                % 01010 RGTR--
+151003003 Grevels, Zentrum      01644  01644                % 01010 RGTR--
+151003001 Grevels, Eneschten E  01644  01644                % 01010 RGTR--
+120504001 Hierheck              01646  01646                % 01010 RGTR--
+150401001 Dellen, Am Duerf      01650  01650                % 01010 RGTR--
+141101004 Mertzig, Internat     01656  01656                % 01010 RGTR--
+140801004 Niederfeulen, route   01700  01700                % 01010 RGTR--
+140801002 Niederfeulen, Faubou  01702  01702                % 01010 RGTR--
+140701025 Ettelbruck, Place du  01706  01706                % 01010 RGTR--
+140701015 Ettelbruck, Ecole Pr  01708  01708                % 01010 RGTR--
+140701016 Ettelbruck, Gare      01710                       % 01010 RGTR--
+*Z 01011 RGTR--                                             % 01011 RGTR--
+*L 132      151005001 140701016  01739  01810               % 01011 RGTR--
+*R 2 140701016 151005001 140701016  01739  01810            % 01011 RGTR--
+*G 020 151005001 140701016  01739  01810                    % 01011 RGTR--
+*A VE 151005001 140701016 000034  01739  01810              % 01011 RGTR--
+*I FD 151005001 140701016        0001784  01739  01810      % 01011 RGTR--
+151005001 Kuborn                       01739                % 01011 RGTR--
+151003002 Grevels, Ieweschten   01742  01742                % 01011 RGTR--
+151003003 Grevels, Zentrum      01744  01744                % 01011 RGTR--
+151003001 Grevels, Eneschten E  01744  01744                % 01011 RGTR--
+120504001 Hierheck              01746  01746                % 01011 RGTR--
+150401001 Dellen, Am Duerf      01750  01750                % 01011 RGTR--
+141101004 Mertzig, Internat     01756  01756                % 01011 RGTR--
+140801004 Niederfeulen, route   01800  01800                % 01011 RGTR--
+140801002 Niederfeulen, Faubou  01802  01802                % 01011 RGTR--
+140701025 Ettelbruck, Place du  01806  01806                % 01011 RGTR--
+140701015 Ettelbruck, Ecole Pr  01808  01808                % 01011 RGTR--
+140701016 Ettelbruck, Gare      01810                       % 01011 RGTR--

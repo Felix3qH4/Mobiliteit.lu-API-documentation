@@ -1,0 +1,222 @@
+*F 03 2
+*Z 19013 RGTR--                                             % 19013 RGTR--
+*L R01      200305006 210503012  00658  00744               % 19013 RGTR--
+*A cj 200305006 210503012 000042  00658  00744              % 19013 RGTR--
+*A ad 200305006 210503012 000042  00658  00744              % 19013 RGTR--
+*R 1 210503012 200305006 210503012  00658  00744            % 19013 RGTR--
+*G 060 200305006 210503012  00658  00744                    % 19013 RGTR--
+*A VE 200305006 210503012 000042  00658  00744              % 19013 RGTR--
+*I FD 200305006 210503012        0002687  00658  00744      % 19013 RGTR--
+200305006 Itzig, Kapell                00658                % 19013 RGTR--
+200305007 Itzig, Kierch         00658  00658                % 19013 RGTR--
+200201001 Contern, Birewee      00703  00703                % 19013 RGTR--
+200201004 Contern, Kräizgaass   00703  00703                % 19013 RGTR--
+200201003 Contern, Kiircheplaz  00704  00704                % 19013 RGTR--
+200201006 Contern, Millewee     00704  00704                % 19013 RGTR--
+200205001 Milbech               00706  00706                % 19013 RGTR--
+200203002 Moutfort, Juxgaass    00707  00707                % 19013 RGTR--
+200203005 Moutfort, Syrbréck    00708  00708                % 19013 RGTR--
+200203004 Moutfort-Kiem         00709  00709                % 19013 RGTR--
+210901001 Ersange/Ierséng       00711  00711                % 19013 RGTR--
+210903001 Trintange, Trenteng   00711  00711                % 19013 RGTR--
+210902001 Roedt                 00712  00712                % 19013 RGTR--
+210905001 Gondelengermillen     00718  00718                % 19013 RGTR--
+210904002 Waldbredimus, Kiirch  00720  00720                % 19013 RGTR--
+210904001 Waldbredimus, Hanner  00722  00722                % 19013 RGTR--
+210101001 Assel                 00724  00724                % 19013 RGTR--
+210104001 Rolling/Bous          00725  00725                % 19013 RGTR--
+210102003 Bous, Kapell          00727  00727                % 19013 RGTR--
+210102004 Bous, Kierch          00727  00727                % 19013 RGTR--
+210103002 Erpeldange/Bous, Rol  00730  00730                % 19013 RGTR--
+210103003 Erpeldange/Bous, Sch  00731  00731                % 19013 RGTR--
+210105001 Emeringerhaff         00732  00732                % 19013 RGTR--
+210502002 Ellange, Martialis    00736  00736                % 19013 RGTR--
+210503011 Mondorf-les-Bains, R  00739  00739                % 19013 RGTR--
+210503010 Mondorf-les-Bains, A  00740  00740                % 19013 RGTR--
+210503009 Mondorf-les-Bains, V  00741  00741                % 19013 RGTR--
+210503012 Mondorf-les-Bains, E  00744                       % 19013 RGTR--
+*Z 19014 RGTR--                                             % 19014 RGTR--
+*L R01      210503012 200305006  01610  01655               % 19014 RGTR--
+*A cj 210503012 200305006 000347  01610  01655              % 19014 RGTR--
+*A ad 210503012 200305006 000347  01610  01655              % 19014 RGTR--
+*R 2 200305006 210503012 200305006  01610  01655            % 19014 RGTR--
+*G 060 210503012 200305006  01610  01655                    % 19014 RGTR--
+*A VE 210503012 200305006 000347  01610  01655              % 19014 RGTR--
+*I FD 210503012 200305006        0001997  01610  01655      % 19014 RGTR--
+210503012 Mondorf-les-Bains, E         01610                % 19014 RGTR--
+210503009 Mondorf-les-Bains, V  01612  01612                % 19014 RGTR--
+210503010 Mondorf-les-Bains, A  01613  01613                % 19014 RGTR--
+210503011 Mondorf-les-Bains, R  01614  01614                % 19014 RGTR--
+210502002 Ellange, Martialis    01617  01617                % 19014 RGTR--
+210105001 Emeringerhaff         01621  01621                % 19014 RGTR--
+210103003 Erpeldange/Bous, Sch  01622  01622                % 19014 RGTR--
+210103001 Erpeldange/Bous, Krä  01623  01623                % 19014 RGTR--
+210103002 Erpeldange/Bous, Rol  01623  01623                % 19014 RGTR--
+210102004 Bous, Kierch          01626  01626                % 19014 RGTR--
+210102003 Bous, Kapell          01627  01627                % 19014 RGTR--
+210104001 Rolling/Bous          01628  01628                % 19014 RGTR--
+210101001 Assel                 01630  01630                % 19014 RGTR--
+210904001 Waldbredimus, Hanner  01632  01632                % 19014 RGTR--
+210904002 Waldbredimus, Kiirch  01633  01633                % 19014 RGTR--
+210905001 Gondelengermillen     01634  01634                % 19014 RGTR--
+210902001 Roedt                 01639  01639                % 19014 RGTR--
+210903001 Trintange, Trenteng   01640  01640                % 19014 RGTR--
+210901001 Ersange/Ierséng       01641  01641                % 19014 RGTR--
+200203004 Moutfort-Kiem         01643  01643                % 19014 RGTR--
+200203005 Moutfort, Syrbréck    01644  01644                % 19014 RGTR--
+200203002 Moutfort, Juxgaass    01644  01644                % 19014 RGTR--
+200205001 Milbech               01645  01645                % 19014 RGTR--
+200201006 Contern, Millewee     01647  01647                % 19014 RGTR--
+200201003 Contern, Kiircheplaz  01648  01648                % 19014 RGTR--
+200201004 Contern, Kräizgaass   01649  01649                % 19014 RGTR--
+200201001 Contern, Birewee      01650  01650                % 19014 RGTR--
+200305007 Itzig, Kierch         01655  01655                % 19014 RGTR--
+200305006 Itzig, Kapell         01655                       % 19014 RGTR--
+*Z 19015 RGTR--                                             % 19015 RGTR--
+*L R01      210503012 200305006  01225  01309               % 19015 RGTR--
+*A cj 210503012 200305006 000015  01225  01309              % 19015 RGTR--
+*A ad 210503012 200305006 000015  01225  01309              % 19015 RGTR--
+*R 2 200305006 210503012 200305006  01225  01309            % 19015 RGTR--
+*G 060 210503012 200305006  01225  01309                    % 19015 RGTR--
+*A VE 210503012 200305006 000015  01225  01309              % 19015 RGTR--
+*I FD 210503012 200305006        0002422  01225  01309      % 19015 RGTR--
+210503012 Mondorf-les-Bains, E         01225                % 19015 RGTR--
+210503009 Mondorf-les-Bains, V  01227  01227                % 19015 RGTR--
+210503010 Mondorf-les-Bains, A  01228  01228                % 19015 RGTR--
+210503011 Mondorf-les-Bains, R  01229  01229                % 19015 RGTR--
+210502002 Ellange, Martialis    01232  01232                % 19015 RGTR--
+210105001 Emeringerhaff         01236  01236                % 19015 RGTR--
+210103003 Erpeldange/Bous, Sch  01236  01236                % 19015 RGTR--
+210103001 Erpeldange/Bous, Krä  01237  01237                % 19015 RGTR--
+210103002 Erpeldange/Bous, Rol  01238  01238                % 19015 RGTR--
+210102004 Bous, Kierch          01241  01241                % 19015 RGTR--
+210102003 Bous, Kapell          01241  01241                % 19015 RGTR--
+210104001 Rolling/Bous          01243  01243                % 19015 RGTR--
+210101001 Assel                 01244  01244                % 19015 RGTR--
+210904001 Waldbredimus, Hanner  01246  01246                % 19015 RGTR--
+210904002 Waldbredimus, Kiirch  01247  01247                % 19015 RGTR--
+210905001 Gondelengermillen     01249  01249                % 19015 RGTR--
+210902001 Roedt                 01253  01253                % 19015 RGTR--
+210903001 Trintange, Trenteng   01254  01254                % 19015 RGTR--
+210901001 Ersange/Ierséng       01255  01255                % 19015 RGTR--
+200203004 Moutfort-Kiem         01257  01257                % 19015 RGTR--
+200203005 Moutfort, Syrbréck    01258  01258                % 19015 RGTR--
+200203002 Moutfort, Juxgaass    01259  01259                % 19015 RGTR--
+200205001 Milbech               01259  01259                % 19015 RGTR--
+200201006 Contern, Millewee     01302  01302                % 19015 RGTR--
+200201003 Contern, Kiircheplaz  01302  01302                % 19015 RGTR--
+200201004 Contern, Kräizgaass   01303  01303                % 19015 RGTR--
+200201001 Contern, Birewee      01303  01303                % 19015 RGTR--
+200305007 Itzig, Kierch         01308  01308                % 19015 RGTR--
+200305006 Itzig, Kapell         01309                       % 19015 RGTR--
+*Z 19016 RGTR--                                             % 19016 RGTR--
+*L R01      210503012 200305006  01225  01309               % 19016 RGTR--
+*A cj 210503012 200305006 000013  01225  01309              % 19016 RGTR--
+*A ad 210503012 200305006 000013  01225  01309              % 19016 RGTR--
+*R 2 200305006 210503012 200305006  01225  01309            % 19016 RGTR--
+*G 063 210503012 200305006  01225  01309                    % 19016 RGTR--
+*A VE 210503012 200305006 000013  01225  01309              % 19016 RGTR--
+*I FD 210503012 200305006        0002422  01225  01309      % 19016 RGTR--
+210503012 Mondorf-les-Bains, E         01225                % 19016 RGTR--
+210503009 Mondorf-les-Bains, V  01227  01227                % 19016 RGTR--
+210503010 Mondorf-les-Bains, A  01228  01228                % 19016 RGTR--
+210503011 Mondorf-les-Bains, R  01229  01229                % 19016 RGTR--
+210502002 Ellange, Martialis    01232  01232                % 19016 RGTR--
+210105001 Emeringerhaff         01236  01236                % 19016 RGTR--
+210103003 Erpeldange/Bous, Sch  01236  01236                % 19016 RGTR--
+210103001 Erpeldange/Bous, Krä  01237  01237                % 19016 RGTR--
+210103002 Erpeldange/Bous, Rol  01238  01238                % 19016 RGTR--
+210102004 Bous, Kierch          01241  01241                % 19016 RGTR--
+210102003 Bous, Kapell          01241  01241                % 19016 RGTR--
+210104001 Rolling/Bous          01243  01243                % 19016 RGTR--
+210101001 Assel                 01244  01244                % 19016 RGTR--
+210904001 Waldbredimus, Hanner  01246  01246                % 19016 RGTR--
+210904002 Waldbredimus, Kiirch  01247  01247                % 19016 RGTR--
+210905001 Gondelengermillen     01249  01249                % 19016 RGTR--
+210902001 Roedt                 01253  01253                % 19016 RGTR--
+210903001 Trintange, Trenteng   01254  01254                % 19016 RGTR--
+210901001 Ersange/Ierséng       01255  01255                % 19016 RGTR--
+200203004 Moutfort-Kiem         01257  01257                % 19016 RGTR--
+200203005 Moutfort, Syrbréck    01258  01258                % 19016 RGTR--
+200203002 Moutfort, Juxgaass    01259  01259                % 19016 RGTR--
+200205001 Milbech               01259  01259                % 19016 RGTR--
+200201006 Contern, Millewee     01302  01302                % 19016 RGTR--
+200201003 Contern, Kiircheplaz  01302  01302                % 19016 RGTR--
+200201004 Contern, Kräizgaass   01303  01303                % 19016 RGTR--
+200201001 Contern, Birewee      01303  01303                % 19016 RGTR--
+200305007 Itzig, Kierch         01308  01308                % 19016 RGTR--
+200305006 Itzig, Kapell         01309                       % 19016 RGTR--
+*Z 19017 RGTR--                                             % 19017 RGTR--
+*L R01      210503012 200305006  01310  01354               % 19017 RGTR--
+*A cj 210503012 200305006 000013  01310  01354              % 19017 RGTR--
+*A ad 210503012 200305006 000013  01310  01354              % 19017 RGTR--
+*R 2 200305006 210503012 200305006  01310  01354            % 19017 RGTR--
+*G 063 210503012 200305006  01310  01354                    % 19017 RGTR--
+*A VE 210503012 200305006 000013  01310  01354              % 19017 RGTR--
+*I FD 210503012 200305006        0001987  01310  01354      % 19017 RGTR--
+210503012 Mondorf-les-Bains, E         01310                % 19017 RGTR--
+210503009 Mondorf-les-Bains, V  01312  01312                % 19017 RGTR--
+210503010 Mondorf-les-Bains, A  01313  01313                % 19017 RGTR--
+210503011 Mondorf-les-Bains, R  01314  01314                % 19017 RGTR--
+210502002 Ellange, Martialis    01317  01317                % 19017 RGTR--
+210105001 Emeringerhaff         01321  01321                % 19017 RGTR--
+210103003 Erpeldange/Bous, Sch  01321  01321                % 19017 RGTR--
+210103001 Erpeldange/Bous, Krä  01322  01322                % 19017 RGTR--
+210103002 Erpeldange/Bous, Rol  01323  01323                % 19017 RGTR--
+210102004 Bous, Kierch          01326  01326                % 19017 RGTR--
+210102003 Bous, Kapell          01326  01326                % 19017 RGTR--
+210104001 Rolling/Bous          01328  01328                % 19017 RGTR--
+210101001 Assel                 01329  01329                % 19017 RGTR--
+210904001 Waldbredimus, Hanner  01331  01331                % 19017 RGTR--
+210904002 Waldbredimus, Kiirch  01332  01332                % 19017 RGTR--
+210905001 Gondelengermillen     01334  01334                % 19017 RGTR--
+210902001 Roedt                 01338  01338                % 19017 RGTR--
+210903001 Trintange, Trenteng   01339  01339                % 19017 RGTR--
+210901001 Ersange/Ierséng       01340  01340                % 19017 RGTR--
+200203004 Moutfort-Kiem         01342  01342                % 19017 RGTR--
+200203005 Moutfort, Syrbréck    01343  01343                % 19017 RGTR--
+200203002 Moutfort, Juxgaass    01344  01344                % 19017 RGTR--
+200205001 Milbech               01344  01344                % 19017 RGTR--
+200201006 Contern, Millewee     01347  01347                % 19017 RGTR--
+200201003 Contern, Kiircheplaz  01347  01347                % 19017 RGTR--
+200201004 Contern, Kräizgaass   01348  01348                % 19017 RGTR--
+200201001 Contern, Birewee      01348  01348                % 19017 RGTR--
+200305007 Itzig, Kierch         01353  01353                % 19017 RGTR--
+200305006 Itzig, Kapell         01354                       % 19017 RGTR--
+*Z 19018 RGTR--                                             % 19018 RGTR--
+*L R01      210503012 200305006  01310  01354               % 19018 RGTR--
+*A cj 210503012 200305006 000007  01310  01354              % 19018 RGTR--
+*A ad 210503012 200305006 000007  01310  01354              % 19018 RGTR--
+*R 2 200305006 210503012 200305006  01310  01354            % 19018 RGTR--
+*G 060 210503012 200305006  01310  01354                    % 19018 RGTR--
+*A VE 210503012 200305006 000007  01310  01354              % 19018 RGTR--
+*I FD 210503012 200305006        0001987  01310  01354      % 19018 RGTR--
+210503012 Mondorf-les-Bains, E         01310                % 19018 RGTR--
+210503009 Mondorf-les-Bains, V  01312  01312                % 19018 RGTR--
+210503010 Mondorf-les-Bains, A  01313  01313                % 19018 RGTR--
+210503011 Mondorf-les-Bains, R  01314  01314                % 19018 RGTR--
+210502002 Ellange, Martialis    01317  01317                % 19018 RGTR--
+210105001 Emeringerhaff         01321  01321                % 19018 RGTR--
+210103003 Erpeldange/Bous, Sch  01321  01321                % 19018 RGTR--
+210103001 Erpeldange/Bous, Krä  01322  01322                % 19018 RGTR--
+210103002 Erpeldange/Bous, Rol  01323  01323                % 19018 RGTR--
+210102004 Bous, Kierch          01326  01326                % 19018 RGTR--
+210102003 Bous, Kapell          01326  01326                % 19018 RGTR--
+210104001 Rolling/Bous          01328  01328                % 19018 RGTR--
+210101001 Assel                 01329  01329                % 19018 RGTR--
+210904001 Waldbredimus, Hanner  01331  01331                % 19018 RGTR--
+210904002 Waldbredimus, Kiirch  01332  01332                % 19018 RGTR--
+210905001 Gondelengermillen     01334  01334                % 19018 RGTR--
+210902001 Roedt                 01338  01338                % 19018 RGTR--
+210903001 Trintange, Trenteng   01339  01339                % 19018 RGTR--
+210901001 Ersange/Ierséng       01340  01340                % 19018 RGTR--
+200203004 Moutfort-Kiem         01342  01342                % 19018 RGTR--
+200203005 Moutfort, Syrbréck    01343  01343                % 19018 RGTR--
+200203002 Moutfort, Juxgaass    01344  01344                % 19018 RGTR--
+200205001 Milbech               01344  01344                % 19018 RGTR--
+200201006 Contern, Millewee     01347  01347                % 19018 RGTR--
+200201003 Contern, Kiircheplaz  01347  01347                % 19018 RGTR--
+200201004 Contern, Kräizgaass   01348  01348                % 19018 RGTR--
+200201001 Contern, Birewee      01348  01348                % 19018 RGTR--
+200305007 Itzig, Kierch         01353  01353                % 19018 RGTR--
+200305006 Itzig, Kapell         01354                       % 19018 RGTR--

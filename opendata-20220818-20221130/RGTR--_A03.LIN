@@ -1,0 +1,104 @@
+*F 03 2
+*Z 18010 RGTR--                                             % 18010 RGTR--
+*L A03      140306002 110101002  00744  00821               % 18010 RGTR--
+*A cj 140306002 110101002 000042  00744  00821              % 18010 RGTR--
+*A ad 140306002 110101002 000042  00744  00821              % 18010 RGTR--
+*R 1 110101002 140306002 110101002  00744  00821            % 18010 RGTR--
+*G 050 140306002 110101002  00744  00821                    % 18010 RGTR--
+*A VE 140306002 110101002 000042  00744  00821              % 18010 RGTR--
+*I FD 140306002 110101002        0002401  00744  00821      % 18010 RGTR--
+140306002 Lipperscheid, Beim L         00744                % 18010 RGTR--
+140901003 Hoscheid, Markenbach  00747  00747                % 18010 RGTR--
+140901002 Hoscheid, Kräizgaass  00748  00748                % 18010 RGTR--
+140901001 Hoscheid, Braaken     00749  00749                % 18010 RGTR--
+140902001 Hoscheid-Dickt, Um P  00752  00752                % 18010 RGTR--
+140902002 Hoscheid-Dickt, Um W  00753  00753                % 18010 RGTR--
+110203001 Ennert Schinker       00755  00755                % 18010 RGTR--
+110203003 Um Schinker           00755  00755                % 18010 RGTR--
+110403002 Hosingen, Ewescht Du  00800  00800                % 18010 RGTR--
+110403006 Hosingen, Bayrischt   00801  00801                % 18010 RGTR--
+110401002 Dorscheid, Am Poul    00803  00803                % 18010 RGTR--
+110405001 Neidhausen, Kiirch    00805  00805                % 18010 RGTR--
+110401001 Dorscheid, Am Duerf   00807  00807                % 18010 RGTR--
+110401004 Dorscheid, Lehmkaul   00809  00809                % 18010 RGTR--
+110502002 Marnach, Beim Sender  00809  00809                % 18010 RGTR--
+110502010 Marnach, Schwaarzenh  00810  00810                % 18010 RGTR--
+110502003 Marnach, Dosberstroo  00811  00811                % 18010 RGTR--
+110502005 Marnach, Geschäftsze  00811  00811                % 18010 RGTR--
+110502008 Marnach, Op der Bréc  00812  00812                % 18010 RGTR--
+110502006 Marnach, Bei der Kie  00813  00813                % 18010 RGTR--
+110103003 Reuler, Hôh           00816  00816                % 18010 RGTR--
+110101001 Clervaux, Clinique    00817  00817                % 18010 RGTR--
+110101010 Clervaux, Police      00818  00818                % 18010 RGTR--
+110101008 Clervaux, Pl. de la   00818  00818                % 18010 RGTR--
+110101011 Clervaux, Postes      00819  00819                % 18010 RGTR--
+110101004 Clervaux, Maison de   00820  00820                % 18010 RGTR--
+110101002 Clervaux, Gare routi  00821                       % 18010 RGTR--
+*Z 18011 RGTR--                                             % 18011 RGTR--
+*L A03      110101002 140306002  01455  01529               % 18011 RGTR--
+*A cj 110101002 140306002 000042  01455  01529              % 18011 RGTR--
+*A ad 110101002 140306002 000042  01455  01529              % 18011 RGTR--
+*R 2 140306002 110101002 140306002  01455  01529            % 18011 RGTR--
+*G 050 110101002 140306002  01455  01529                    % 18011 RGTR--
+*A VE 110101002 140306002 000042  01455  01529              % 18011 RGTR--
+*I FD 110101002 140306002        0002537  01455  01529      % 18011 RGTR--
+110101002 Clervaux, Gare routi         01455                % 18011 RGTR--
+110101004 Clervaux, Maison de   01456  01456                % 18011 RGTR--
+110101009 Clervaux, Place Bene  01457  01457                % 18011 RGTR--
+110101010 Clervaux, Police      01458  01458                % 18011 RGTR--
+110101001 Clervaux, Clinique    01459  01459                % 18011 RGTR--
+110103003 Reuler, Hôh           01500  01500                % 18011 RGTR--
+110502006 Marnach, Bei der Kie  01502  01502                % 18011 RGTR--
+110502008 Marnach, Op der Bréc  01503  01503                % 18011 RGTR--
+110502005 Marnach, Geschäftsze  01504  01504                % 18011 RGTR--
+110502003 Marnach, Dosberstroo  01505  01505                % 18011 RGTR--
+110502010 Marnach, Schwaarzenh  01505  01505                % 18011 RGTR--
+110502002 Marnach, Beim Sender  01506  01506                % 18011 RGTR--
+110401004 Dorscheid, Lehmkaul   01506  01506                % 18011 RGTR--
+110401001 Dorscheid, Am Duerf   01508  01508                % 18011 RGTR--
+110405001 Neidhausen, Kiirch    01510  01510                % 18011 RGTR--
+110401002 Dorscheid, Am Poul    01512  01512                % 18011 RGTR--
+110403006 Hosingen, Bayrischt   01515  01515                % 18011 RGTR--
+110403005 Hosingen, Bei der Ki  01516  01516                % 18011 RGTR--
+110203003 Um Schinker           01520  01520                % 18011 RGTR--
+110203001 Ennert Schinker       01521  01521                % 18011 RGTR--
+140902002 Hoscheid-Dickt, Um W  01523  01523                % 18011 RGTR--
+140902001 Hoscheid-Dickt, Um P  01524  01524                % 18011 RGTR--
+140901001 Hoscheid, Braaken     01525  01525                % 18011 RGTR--
+140901002 Hoscheid, Kräizgaass  01526  01526                % 18011 RGTR--
+140901003 Hoscheid, Markenbach  01527  01527                % 18011 RGTR--
+140306002 Lipperscheid, Beim L  01529                       % 18011 RGTR--
+*Z 18012 RGTR--                                             % 18012 RGTR--
+*L A03      110101002 140306002  01637  01713               % 18012 RGTR--
+*A cj 110101002 140306002 000042  01637  01713              % 18012 RGTR--
+*A ad 110101002 140306002 000042  01637  01713              % 18012 RGTR--
+*R 2 140306002 110101002 140306002  01637  01713            % 18012 RGTR--
+*G 050 110101002 140306002  01637  01713                    % 18012 RGTR--
+*A VE 110101002 140306002 000042  01637  01713              % 18012 RGTR--
+*I FD 110101002 140306002        0003044  01637  01713      % 18012 RGTR--
+110101002 Clervaux, Gare routi         01637                % 18012 RGTR--
+110101004 Clervaux, Maison de   01638  01638                % 18012 RGTR--
+110101009 Clervaux, Place Bene  01639  01639                % 18012 RGTR--
+110101010 Clervaux, Police      01640  01640                % 18012 RGTR--
+110101001 Clervaux, Clinique    01641  01641                % 18012 RGTR--
+110103003 Reuler, Hôh           01642  01642                % 18012 RGTR--
+110502006 Marnach, Bei der Kie  01645  01645                % 18012 RGTR--
+110502008 Marnach, Op der Bréc  01646  01646                % 18012 RGTR--
+110502005 Marnach, Geschäftsze  01647  01647                % 18012 RGTR--
+110502003 Marnach, Dosberstroo  01647  01647                % 18012 RGTR--
+110502010 Marnach, Schwaarzenh  01648  01648                % 18012 RGTR--
+110502002 Marnach, Beim Sender  01649  01649                % 18012 RGTR--
+110401004 Dorscheid, Lehmkaul   01649  01649                % 18012 RGTR--
+110401001 Dorscheid, Am Duerf   01651  01651                % 18012 RGTR--
+110405001 Neidhausen, Kiirch    01653  01653                % 18012 RGTR--
+110401002 Dorscheid, Am Poul    01655  01655                % 18012 RGTR--
+110403006 Hosingen, Bayrischt   01658  01658                % 18012 RGTR--
+110403005 Hosingen, Bei der Ki  01659  01659                % 18012 RGTR--
+110203003 Um Schinker           01703  01703                % 18012 RGTR--
+110203001 Ennert Schinker       01704  01704                % 18012 RGTR--
+140902002 Hoscheid-Dickt, Um W  01707  01707                % 18012 RGTR--
+140902001 Hoscheid-Dickt, Um P  01707  01707                % 18012 RGTR--
+140901001 Hoscheid, Braaken     01709  01709                % 18012 RGTR--
+140901002 Hoscheid, Kräizgaass  01710  01710                % 18012 RGTR--
+140901003 Hoscheid, Markenbach  01711  01711                % 18012 RGTR--
+140306002 Lipperscheid, Beim L  01713                       % 18012 RGTR--

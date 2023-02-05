@@ -1,0 +1,2523 @@
+*F 03 2
+*Z 17841 RGTR--                                             % 17841 RGTR--
+*L 941      140701016 161106002  01103  01140               % 17841 RGTR--
+*R 1 161106002 140701016 161106002  01103  01140            % 17841 RGTR--
+*G 064 140701016 161106002  01103  01140                    % 17841 RGTR--
+*A VE 140701016 161106002 000039  01103  01140              % 17841 RGTR--
+*I FD 140701016 161106002        0002099  01103  01140      % 17841 RGTR--
+140701016 Ettelbruck, Gare             01103                % 17841 RGTR--
+140701034 Ettelbruck, Apdikt P  01104  01104                % 17841 RGTR--
+140701026 Ettelbruck, Rond Poi  01105  01105                % 17841 RGTR--
+140701018 Ettelbruck, H.v.Land  01105  01105                % 17841 RGTR--
+141301002 Schieren, Faubourg    01107  01107                % 17841 RGTR--
+141301005 Schieren, Uewerschie  01108  01108                % 17841 RGTR--
+141301007 Schieren, Porte de S  01108  01108                % 17841 RGTR--
+160301011 Colmar-Berg, rue d'E  01110  01110                % 17841 RGTR--
+160301005 Colmar-Berg, Goldbie  01110  01110                % 17841 RGTR--
+160301003 Colmar-Berg, Faubour  01111  01111                % 17841 RGTR--
+160102001 Roost (Bissen), Mold  01113  01113                % 17841 RGTR--
+160102002 Rouscht               01114  01114                % 17841 RGTR--
+160101007 Bissen, Steekräiz     01115  01115                % 17841 RGTR--
+160101004 Bissen, Kiirch        01116  01116                % 17841 RGTR--
+160101002 Bissen, Kräizung      01117  01117                % 17841 RGTR--
+160201002 Boevange-sur-Attert,  01122  01122                % 17841 RGTR--
+160201006 Boevange, Uerbelt     01123  01123                % 17841 RGTR--
+160201004 Boevange, Helpert     01123  01123                % 17841 RGTR--
+160201005 Boevange, Lëtschert   01124  01124                % 17841 RGTR--
+160201007 Boevange, Beim Wald   01125  01125                % 17841 RGTR--
+160205003 Grevenknapp, Um ënns  01126  01126                % 17841 RGTR--
+160205002 Grevenknapp, Riesenh  01126  01126                % 17841 RGTR--
+160204001 Openthalt, Finsterth  01128  01128                % 17841 RGTR--
+160206001 Openthalt             01128  01128                % 17841 RGTR--
+160203002 Buschdorf, Helpërtwe  01131  01131                % 17841 RGTR--
+160203003 Buschdorf, Määschhaf  01131  01131                % 17841 RGTR--
+160203001 Buschdorf, Belle Vue  01132  01132                % 17841 RGTR--
+160202003 Brouch/Mersch, Knepp  01133  01133                % 17841 RGTR--
+160202001 Brouch/Mersch, Kierc  01135  01135                % 17841 RGTR--
+161106001 Tuntange, Duerf       01140  01140                % 17841 RGTR--
+161106002 Tuntange, Kiirch      01140                       % 17841 RGTR--
+*Z 17842 RGTR--                                             % 17842 RGTR--
+*L 941      140701016 161106002  01303  01340               % 17842 RGTR--
+*R 1 161106002 140701016 161106002  01303  01340            % 17842 RGTR--
+*G 064 140701016 161106002  01303  01340                    % 17842 RGTR--
+*A VE 140701016 161106002 000039  01303  01340              % 17842 RGTR--
+*I FD 140701016 161106002        0002100  01303  01340      % 17842 RGTR--
+140701016 Ettelbruck, Gare             01303                % 17842 RGTR--
+140701034 Ettelbruck, Apdikt P  01304  01304                % 17842 RGTR--
+140701026 Ettelbruck, Rond Poi  01305  01305                % 17842 RGTR--
+140701018 Ettelbruck, H.v.Land  01305  01305                % 17842 RGTR--
+141301002 Schieren, Faubourg    01307  01307                % 17842 RGTR--
+141301005 Schieren, Uewerschie  01308  01308                % 17842 RGTR--
+141301007 Schieren, Porte de S  01308  01308                % 17842 RGTR--
+160301011 Colmar-Berg, rue d'E  01310  01310                % 17842 RGTR--
+160301005 Colmar-Berg, Goldbie  01310  01310                % 17842 RGTR--
+160301003 Colmar-Berg, Faubour  01311  01311                % 17842 RGTR--
+160102001 Roost (Bissen), Mold  01313  01313                % 17842 RGTR--
+160102002 Rouscht               01314  01314                % 17842 RGTR--
+160101007 Bissen, Steekräiz     01315  01315                % 17842 RGTR--
+160101004 Bissen, Kiirch        01316  01316                % 17842 RGTR--
+160101002 Bissen, Kräizung      01317  01317                % 17842 RGTR--
+160201002 Boevange-sur-Attert,  01322  01322                % 17842 RGTR--
+160201006 Boevange, Uerbelt     01323  01323                % 17842 RGTR--
+160201004 Boevange, Helpert     01323  01323                % 17842 RGTR--
+160201005 Boevange, Lëtschert   01324  01324                % 17842 RGTR--
+160201007 Boevange, Beim Wald   01325  01325                % 17842 RGTR--
+160205003 Grevenknapp, Um ënns  01326  01326                % 17842 RGTR--
+160205002 Grevenknapp, Riesenh  01326  01326                % 17842 RGTR--
+160204001 Openthalt, Finsterth  01328  01328                % 17842 RGTR--
+160206001 Openthalt             01328  01328                % 17842 RGTR--
+160203002 Buschdorf, Helpërtwe  01331  01331                % 17842 RGTR--
+160203003 Buschdorf, Määschhaf  01331  01331                % 17842 RGTR--
+160203001 Buschdorf, Belle Vue  01332  01332                % 17842 RGTR--
+160202003 Brouch/Mersch, Knepp  01333  01333                % 17842 RGTR--
+160202001 Brouch/Mersch, Kierc  01335  01335                % 17842 RGTR--
+161106001 Tuntange, Duerf       01340  01340                % 17842 RGTR--
+161106002 Tuntange, Kiirch      01340                       % 17842 RGTR--
+*Z 17843 RGTR--                                             % 17843 RGTR--
+*L 941      140701016 161106002  01503  01540               % 17843 RGTR--
+*R 1 161106002 140701016 161106002  01503  01540            % 17843 RGTR--
+*G 064 140701016 161106002  01503  01540                    % 17843 RGTR--
+*A VE 140701016 161106002 000039  01503  01540              % 17843 RGTR--
+*I FD 140701016 161106002        0002101  01503  01540      % 17843 RGTR--
+140701016 Ettelbruck, Gare             01503                % 17843 RGTR--
+140701034 Ettelbruck, Apdikt P  01504  01504                % 17843 RGTR--
+140701026 Ettelbruck, Rond Poi  01505  01505                % 17843 RGTR--
+140701018 Ettelbruck, H.v.Land  01505  01505                % 17843 RGTR--
+141301002 Schieren, Faubourg    01507  01507                % 17843 RGTR--
+141301005 Schieren, Uewerschie  01508  01508                % 17843 RGTR--
+141301007 Schieren, Porte de S  01508  01508                % 17843 RGTR--
+160301011 Colmar-Berg, rue d'E  01510  01510                % 17843 RGTR--
+160301005 Colmar-Berg, Goldbie  01510  01510                % 17843 RGTR--
+160301003 Colmar-Berg, Faubour  01511  01511                % 17843 RGTR--
+160102001 Roost (Bissen), Mold  01513  01513                % 17843 RGTR--
+160102002 Rouscht               01514  01514                % 17843 RGTR--
+160101007 Bissen, Steekräiz     01515  01515                % 17843 RGTR--
+160101004 Bissen, Kiirch        01516  01516                % 17843 RGTR--
+160101002 Bissen, Kräizung      01517  01517                % 17843 RGTR--
+160201002 Boevange-sur-Attert,  01522  01522                % 17843 RGTR--
+160201006 Boevange, Uerbelt     01523  01523                % 17843 RGTR--
+160201004 Boevange, Helpert     01523  01523                % 17843 RGTR--
+160201005 Boevange, Lëtschert   01524  01524                % 17843 RGTR--
+160201007 Boevange, Beim Wald   01525  01525                % 17843 RGTR--
+160205003 Grevenknapp, Um ënns  01526  01526                % 17843 RGTR--
+160205002 Grevenknapp, Riesenh  01526  01526                % 17843 RGTR--
+160204001 Openthalt, Finsterth  01528  01528                % 17843 RGTR--
+160206001 Openthalt             01528  01528                % 17843 RGTR--
+160203002 Buschdorf, Helpërtwe  01531  01531                % 17843 RGTR--
+160203003 Buschdorf, Määschhaf  01531  01531                % 17843 RGTR--
+160203001 Buschdorf, Belle Vue  01532  01532                % 17843 RGTR--
+160202003 Brouch/Mersch, Knepp  01533  01533                % 17843 RGTR--
+160202001 Brouch/Mersch, Kierc  01535  01535                % 17843 RGTR--
+161106001 Tuntange, Duerf       01540  01540                % 17843 RGTR--
+161106002 Tuntange, Kiirch      01540                       % 17843 RGTR--
+*Z 17844 RGTR--                                             % 17844 RGTR--
+*L 941      140701016 161106002  01903  01940               % 17844 RGTR--
+*R 1 161106002 140701016 161106002  01903  01940            % 17844 RGTR--
+*G 064 140701016 161106002  01903  01940                    % 17844 RGTR--
+*A VE 140701016 161106002 000039  01903  01940              % 17844 RGTR--
+*I FD 140701016 161106002        0002103  01903  01940      % 17844 RGTR--
+140701016 Ettelbruck, Gare             01903                % 17844 RGTR--
+140701034 Ettelbruck, Apdikt P  01904  01904                % 17844 RGTR--
+140701026 Ettelbruck, Rond Poi  01905  01905                % 17844 RGTR--
+140701018 Ettelbruck, H.v.Land  01905  01905                % 17844 RGTR--
+141301002 Schieren, Faubourg    01907  01907                % 17844 RGTR--
+141301005 Schieren, Uewerschie  01908  01908                % 17844 RGTR--
+141301007 Schieren, Porte de S  01908  01908                % 17844 RGTR--
+160301011 Colmar-Berg, rue d'E  01910  01910                % 17844 RGTR--
+160301005 Colmar-Berg, Goldbie  01910  01910                % 17844 RGTR--
+160301003 Colmar-Berg, Faubour  01911  01911                % 17844 RGTR--
+160102001 Roost (Bissen), Mold  01913  01913                % 17844 RGTR--
+160102002 Rouscht               01914  01914                % 17844 RGTR--
+160101007 Bissen, Steekräiz     01915  01915                % 17844 RGTR--
+160101004 Bissen, Kiirch        01916  01916                % 17844 RGTR--
+160101002 Bissen, Kräizung      01917  01917                % 17844 RGTR--
+160201002 Boevange-sur-Attert,  01922  01922                % 17844 RGTR--
+160201006 Boevange, Uerbelt     01923  01923                % 17844 RGTR--
+160201004 Boevange, Helpert     01923  01923                % 17844 RGTR--
+160201005 Boevange, Lëtschert   01924  01924                % 17844 RGTR--
+160201007 Boevange, Beim Wald   01925  01925                % 17844 RGTR--
+160205003 Grevenknapp, Um ënns  01926  01926                % 17844 RGTR--
+160205002 Grevenknapp, Riesenh  01926  01926                % 17844 RGTR--
+160204001 Openthalt, Finsterth  01928  01928                % 17844 RGTR--
+160206001 Openthalt             01928  01928                % 17844 RGTR--
+160203002 Buschdorf, Helpërtwe  01931  01931                % 17844 RGTR--
+160203003 Buschdorf, Määschhaf  01931  01931                % 17844 RGTR--
+160203001 Buschdorf, Belle Vue  01932  01932                % 17844 RGTR--
+160202003 Brouch/Mersch, Knepp  01933  01933                % 17844 RGTR--
+160202001 Brouch/Mersch, Kierc  01935  01935                % 17844 RGTR--
+161106001 Tuntange, Duerf       01940  01940                % 17844 RGTR--
+161106002 Tuntange, Kiirch      01940                       % 17844 RGTR--
+*Z 17845 RGTR--                                             % 17845 RGTR--
+*L 941      140701016 161106002  02103  02140               % 17845 RGTR--
+*R 1 161106002 140701016 161106002  02103  02140            % 17845 RGTR--
+*G 064 140701016 161106002  02103  02140                    % 17845 RGTR--
+*A VE 140701016 161106002 000039  02103  02140              % 17845 RGTR--
+*I FD 140701016 161106002        0002115  02103  02140      % 17845 RGTR--
+140701016 Ettelbruck, Gare             02103                % 17845 RGTR--
+140701034 Ettelbruck, Apdikt P  02104  02104                % 17845 RGTR--
+140701026 Ettelbruck, Rond Poi  02105  02105                % 17845 RGTR--
+140701018 Ettelbruck, H.v.Land  02105  02105                % 17845 RGTR--
+141301002 Schieren, Faubourg    02107  02107                % 17845 RGTR--
+141301005 Schieren, Uewerschie  02108  02108                % 17845 RGTR--
+141301007 Schieren, Porte de S  02108  02108                % 17845 RGTR--
+160301011 Colmar-Berg, rue d'E  02110  02110                % 17845 RGTR--
+160301005 Colmar-Berg, Goldbie  02110  02110                % 17845 RGTR--
+160301003 Colmar-Berg, Faubour  02111  02111                % 17845 RGTR--
+160102001 Roost (Bissen), Mold  02113  02113                % 17845 RGTR--
+160102002 Rouscht               02114  02114                % 17845 RGTR--
+160101007 Bissen, Steekräiz     02115  02115                % 17845 RGTR--
+160101004 Bissen, Kiirch        02116  02116                % 17845 RGTR--
+160101002 Bissen, Kräizung      02117  02117                % 17845 RGTR--
+160201002 Boevange-sur-Attert,  02122  02122                % 17845 RGTR--
+160201006 Boevange, Uerbelt     02123  02123                % 17845 RGTR--
+160201004 Boevange, Helpert     02123  02123                % 17845 RGTR--
+160201005 Boevange, Lëtschert   02124  02124                % 17845 RGTR--
+160201007 Boevange, Beim Wald   02125  02125                % 17845 RGTR--
+160205003 Grevenknapp, Um ënns  02126  02126                % 17845 RGTR--
+160205002 Grevenknapp, Riesenh  02126  02126                % 17845 RGTR--
+160204001 Openthalt, Finsterth  02128  02128                % 17845 RGTR--
+160206001 Openthalt             02128  02128                % 17845 RGTR--
+160203002 Buschdorf, Helpërtwe  02131  02131                % 17845 RGTR--
+160203003 Buschdorf, Määschhaf  02131  02131                % 17845 RGTR--
+160203001 Buschdorf, Belle Vue  02132  02132                % 17845 RGTR--
+160202003 Brouch/Mersch, Knepp  02133  02133                % 17845 RGTR--
+160202001 Brouch/Mersch, Kierc  02135  02135                % 17845 RGTR--
+161106001 Tuntange, Duerf       02140  02140                % 17845 RGTR--
+161106002 Tuntange, Kiirch      02140                       % 17845 RGTR--
+*Z 17846 RGTR--                                             % 17846 RGTR--
+*L 941      140701016 161106002  02303  02340               % 17846 RGTR--
+*R 1 161106002 140701016 161106002  02303  02340            % 17846 RGTR--
+*G 064 140701016 161106002  02303  02340                    % 17846 RGTR--
+*A VE 140701016 161106002 000039  02303  02340              % 17846 RGTR--
+*I FD 140701016 161106002        0002116  02303  02340      % 17846 RGTR--
+140701016 Ettelbruck, Gare             02303                % 17846 RGTR--
+140701034 Ettelbruck, Apdikt P  02304  02304                % 17846 RGTR--
+140701026 Ettelbruck, Rond Poi  02305  02305                % 17846 RGTR--
+140701018 Ettelbruck, H.v.Land  02305  02305                % 17846 RGTR--
+141301002 Schieren, Faubourg    02307  02307                % 17846 RGTR--
+141301005 Schieren, Uewerschie  02308  02308                % 17846 RGTR--
+141301007 Schieren, Porte de S  02308  02308                % 17846 RGTR--
+160301011 Colmar-Berg, rue d'E  02310  02310                % 17846 RGTR--
+160301005 Colmar-Berg, Goldbie  02310  02310                % 17846 RGTR--
+160301003 Colmar-Berg, Faubour  02311  02311                % 17846 RGTR--
+160102001 Roost (Bissen), Mold  02313  02313                % 17846 RGTR--
+160102002 Rouscht               02314  02314                % 17846 RGTR--
+160101007 Bissen, Steekräiz     02315  02315                % 17846 RGTR--
+160101004 Bissen, Kiirch        02316  02316                % 17846 RGTR--
+160101002 Bissen, Kräizung      02317  02317                % 17846 RGTR--
+160201002 Boevange-sur-Attert,  02322  02322                % 17846 RGTR--
+160201006 Boevange, Uerbelt     02323  02323                % 17846 RGTR--
+160201004 Boevange, Helpert     02323  02323                % 17846 RGTR--
+160201005 Boevange, Lëtschert   02324  02324                % 17846 RGTR--
+160201007 Boevange, Beim Wald   02325  02325                % 17846 RGTR--
+160205003 Grevenknapp, Um ënns  02326  02326                % 17846 RGTR--
+160205002 Grevenknapp, Riesenh  02326  02326                % 17846 RGTR--
+160204001 Openthalt, Finsterth  02328  02328                % 17846 RGTR--
+160206001 Openthalt             02328  02328                % 17846 RGTR--
+160203002 Buschdorf, Helpërtwe  02331  02331                % 17846 RGTR--
+160203003 Buschdorf, Määschhaf  02331  02331                % 17846 RGTR--
+160203001 Buschdorf, Belle Vue  02332  02332                % 17846 RGTR--
+160202003 Brouch/Mersch, Knepp  02333  02333                % 17846 RGTR--
+160202001 Brouch/Mersch, Kierc  02335  02335                % 17846 RGTR--
+161106001 Tuntange, Duerf       02340  02340                % 17846 RGTR--
+161106002 Tuntange, Kiirch      02340                       % 17846 RGTR--
+*Z 17847 RGTR--                                             % 17847 RGTR--
+*L 941      140701016 161106002  00603  00640               % 17847 RGTR--
+*R 1 161106002 140701016 161106002  00603  00640            % 17847 RGTR--
+*G 064 140701016 161106002  00603  00640                    % 17847 RGTR--
+*A VE 140701016 161106002 000036  00603  00640              % 17847 RGTR--
+*I FD 140701016 161106002        0002097  00603  00640      % 17847 RGTR--
+140701016 Ettelbruck, Gare             00603                % 17847 RGTR--
+140701034 Ettelbruck, Apdikt P  00604  00604                % 17847 RGTR--
+140701026 Ettelbruck, Rond Poi  00605  00605                % 17847 RGTR--
+140701018 Ettelbruck, H.v.Land  00605  00605                % 17847 RGTR--
+141301002 Schieren, Faubourg    00607  00607                % 17847 RGTR--
+141301005 Schieren, Uewerschie  00608  00608                % 17847 RGTR--
+141301007 Schieren, Porte de S  00608  00608                % 17847 RGTR--
+160301011 Colmar-Berg, rue d'E  00610  00610                % 17847 RGTR--
+160301005 Colmar-Berg, Goldbie  00610  00610                % 17847 RGTR--
+160301003 Colmar-Berg, Faubour  00611  00611                % 17847 RGTR--
+160102001 Roost (Bissen), Mold  00613  00613                % 17847 RGTR--
+160102002 Rouscht               00614  00614                % 17847 RGTR--
+160101007 Bissen, Steekräiz     00615  00615                % 17847 RGTR--
+160101004 Bissen, Kiirch        00616  00616                % 17847 RGTR--
+160101002 Bissen, Kräizung      00617  00617                % 17847 RGTR--
+160201002 Boevange-sur-Attert,  00622  00622                % 17847 RGTR--
+160201006 Boevange, Uerbelt     00623  00623                % 17847 RGTR--
+160201004 Boevange, Helpert     00623  00623                % 17847 RGTR--
+160201005 Boevange, Lëtschert   00624  00624                % 17847 RGTR--
+160201007 Boevange, Beim Wald   00625  00625                % 17847 RGTR--
+160205003 Grevenknapp, Um ënns  00626  00626                % 17847 RGTR--
+160205002 Grevenknapp, Riesenh  00626  00626                % 17847 RGTR--
+160204001 Openthalt, Finsterth  00628  00628                % 17847 RGTR--
+160206001 Openthalt             00628  00628                % 17847 RGTR--
+160203002 Buschdorf, Helpërtwe  00631  00631                % 17847 RGTR--
+160203003 Buschdorf, Määschhaf  00631  00631                % 17847 RGTR--
+160203001 Buschdorf, Belle Vue  00632  00632                % 17847 RGTR--
+160202003 Brouch/Mersch, Knepp  00633  00633                % 17847 RGTR--
+160202001 Brouch/Mersch, Kierc  00635  00635                % 17847 RGTR--
+161106001 Tuntange, Duerf       00640  00640                % 17847 RGTR--
+161106002 Tuntange, Kiirch      00640                       % 17847 RGTR--
+*Z 17848 RGTR--                                             % 17848 RGTR--
+*L 941      140701016 161106002  00703  00740               % 17848 RGTR--
+*R 1 161106002 140701016 161106002  00703  00740            % 17848 RGTR--
+*G 064 140701016 161106002  00703  00740                    % 17848 RGTR--
+*A VE 140701016 161106002 000018  00703  00740              % 17848 RGTR--
+*I FD 140701016 161106002        0002107  00703  00740      % 17848 RGTR--
+140701016 Ettelbruck, Gare             00703                % 17848 RGTR--
+140701034 Ettelbruck, Apdikt P  00704  00704                % 17848 RGTR--
+140701026 Ettelbruck, Rond Poi  00705  00705                % 17848 RGTR--
+140701018 Ettelbruck, H.v.Land  00705  00705                % 17848 RGTR--
+141301002 Schieren, Faubourg    00707  00707                % 17848 RGTR--
+141301005 Schieren, Uewerschie  00708  00708                % 17848 RGTR--
+141301007 Schieren, Porte de S  00708  00708                % 17848 RGTR--
+160301011 Colmar-Berg, rue d'E  00710  00710                % 17848 RGTR--
+160301005 Colmar-Berg, Goldbie  00710  00710                % 17848 RGTR--
+160301003 Colmar-Berg, Faubour  00711  00711                % 17848 RGTR--
+160102001 Roost (Bissen), Mold  00713  00713                % 17848 RGTR--
+160102002 Rouscht               00714  00714                % 17848 RGTR--
+160101007 Bissen, Steekräiz     00715  00715                % 17848 RGTR--
+160101004 Bissen, Kiirch        00716  00716                % 17848 RGTR--
+160101002 Bissen, Kräizung      00717  00717                % 17848 RGTR--
+160201002 Boevange-sur-Attert,  00722  00722                % 17848 RGTR--
+160201006 Boevange, Uerbelt     00723  00723                % 17848 RGTR--
+160201004 Boevange, Helpert     00723  00723                % 17848 RGTR--
+160201005 Boevange, Lëtschert   00724  00724                % 17848 RGTR--
+160201007 Boevange, Beim Wald   00725  00725                % 17848 RGTR--
+160205003 Grevenknapp, Um ënns  00726  00726                % 17848 RGTR--
+160205002 Grevenknapp, Riesenh  00726  00726                % 17848 RGTR--
+160204001 Openthalt, Finsterth  00728  00728                % 17848 RGTR--
+160206001 Openthalt             00728  00728                % 17848 RGTR--
+160203002 Buschdorf, Helpërtwe  00731  00731                % 17848 RGTR--
+160203003 Buschdorf, Määschhaf  00731  00731                % 17848 RGTR--
+160203001 Buschdorf, Belle Vue  00732  00732                % 17848 RGTR--
+160202003 Brouch/Mersch, Knepp  00733  00733                % 17848 RGTR--
+160202001 Brouch/Mersch, Kierc  00735  00735                % 17848 RGTR--
+161106001 Tuntange, Duerf       00740  00740                % 17848 RGTR--
+161106002 Tuntange, Kiirch      00740                       % 17848 RGTR--
+*Z 17849 RGTR--                                             % 17849 RGTR--
+*L 941      140701016 161106002  00903  00940               % 17849 RGTR--
+*R 1 161106002 140701016 161106002  00903  00940            % 17849 RGTR--
+*G 064 140701016 161106002  00903  00940                    % 17849 RGTR--
+*A VE 140701016 161106002 000018  00903  00940              % 17849 RGTR--
+*I FD 140701016 161106002        0002110  00903  00940      % 17849 RGTR--
+140701016 Ettelbruck, Gare             00903                % 17849 RGTR--
+140701034 Ettelbruck, Apdikt P  00904  00904                % 17849 RGTR--
+140701026 Ettelbruck, Rond Poi  00905  00905                % 17849 RGTR--
+140701018 Ettelbruck, H.v.Land  00905  00905                % 17849 RGTR--
+141301002 Schieren, Faubourg    00907  00907                % 17849 RGTR--
+141301005 Schieren, Uewerschie  00908  00908                % 17849 RGTR--
+141301007 Schieren, Porte de S  00908  00908                % 17849 RGTR--
+160301011 Colmar-Berg, rue d'E  00910  00910                % 17849 RGTR--
+160301005 Colmar-Berg, Goldbie  00910  00910                % 17849 RGTR--
+160301003 Colmar-Berg, Faubour  00911  00911                % 17849 RGTR--
+160102001 Roost (Bissen), Mold  00913  00913                % 17849 RGTR--
+160102002 Rouscht               00914  00914                % 17849 RGTR--
+160101007 Bissen, Steekräiz     00915  00915                % 17849 RGTR--
+160101004 Bissen, Kiirch        00916  00916                % 17849 RGTR--
+160101002 Bissen, Kräizung      00917  00917                % 17849 RGTR--
+160201002 Boevange-sur-Attert,  00922  00922                % 17849 RGTR--
+160201006 Boevange, Uerbelt     00923  00923                % 17849 RGTR--
+160201004 Boevange, Helpert     00923  00923                % 17849 RGTR--
+160201005 Boevange, Lëtschert   00924  00924                % 17849 RGTR--
+160201007 Boevange, Beim Wald   00925  00925                % 17849 RGTR--
+160205003 Grevenknapp, Um ënns  00926  00926                % 17849 RGTR--
+160205002 Grevenknapp, Riesenh  00926  00926                % 17849 RGTR--
+160204001 Openthalt, Finsterth  00928  00928                % 17849 RGTR--
+160206001 Openthalt             00928  00928                % 17849 RGTR--
+160203002 Buschdorf, Helpërtwe  00931  00931                % 17849 RGTR--
+160203003 Buschdorf, Määschhaf  00931  00931                % 17849 RGTR--
+160203001 Buschdorf, Belle Vue  00932  00932                % 17849 RGTR--
+160202003 Brouch/Mersch, Knepp  00933  00933                % 17849 RGTR--
+160202001 Brouch/Mersch, Kierc  00935  00935                % 17849 RGTR--
+161106001 Tuntange, Duerf       00940  00940                % 17849 RGTR--
+161106002 Tuntange, Kiirch      00940                       % 17849 RGTR--
+*Z 17850 RGTR--                                             % 17850 RGTR--
+*L 941      140701016 161106002  01703  01740               % 17850 RGTR--
+*R 1 161106002 140701016 161106002  01703  01740            % 17850 RGTR--
+*G 064 140701016 161106002  01703  01740                    % 17850 RGTR--
+*A VE 140701016 161106002 000035  01703  01740              % 17850 RGTR--
+*I FD 140701016 161106002        0002112  01703  01740      % 17850 RGTR--
+140701016 Ettelbruck, Gare             01703                % 17850 RGTR--
+140701034 Ettelbruck, Apdikt P  01704  01704                % 17850 RGTR--
+140701026 Ettelbruck, Rond Poi  01705  01705                % 17850 RGTR--
+140701018 Ettelbruck, H.v.Land  01705  01705                % 17850 RGTR--
+141301002 Schieren, Faubourg    01707  01707                % 17850 RGTR--
+141301005 Schieren, Uewerschie  01708  01708                % 17850 RGTR--
+141301007 Schieren, Porte de S  01708  01708                % 17850 RGTR--
+160301011 Colmar-Berg, rue d'E  01710  01710                % 17850 RGTR--
+160301005 Colmar-Berg, Goldbie  01710  01710                % 17850 RGTR--
+160301003 Colmar-Berg, Faubour  01711  01711                % 17850 RGTR--
+160102001 Roost (Bissen), Mold  01713  01713                % 17850 RGTR--
+160102002 Rouscht               01714  01714                % 17850 RGTR--
+160101007 Bissen, Steekräiz     01715  01715                % 17850 RGTR--
+160101004 Bissen, Kiirch        01716  01716                % 17850 RGTR--
+160101002 Bissen, Kräizung      01717  01717                % 17850 RGTR--
+160201002 Boevange-sur-Attert,  01722  01722                % 17850 RGTR--
+160201006 Boevange, Uerbelt     01723  01723                % 17850 RGTR--
+160201004 Boevange, Helpert     01723  01723                % 17850 RGTR--
+160201005 Boevange, Lëtschert   01724  01724                % 17850 RGTR--
+160201007 Boevange, Beim Wald   01725  01725                % 17850 RGTR--
+160205003 Grevenknapp, Um ënns  01726  01726                % 17850 RGTR--
+160205002 Grevenknapp, Riesenh  01726  01726                % 17850 RGTR--
+160204001 Openthalt, Finsterth  01728  01728                % 17850 RGTR--
+160206001 Openthalt             01728  01728                % 17850 RGTR--
+160203002 Buschdorf, Helpërtwe  01731  01731                % 17850 RGTR--
+160203003 Buschdorf, Määschhaf  01731  01731                % 17850 RGTR--
+160203001 Buschdorf, Belle Vue  01732  01732                % 17850 RGTR--
+160202003 Brouch/Mersch, Knepp  01733  01733                % 17850 RGTR--
+160202001 Brouch/Mersch, Kierc  01735  01735                % 17850 RGTR--
+161106001 Tuntange, Duerf       01740  01740                % 17850 RGTR--
+161106002 Tuntange, Kiirch      01740                       % 17850 RGTR--
+*Z 17851 RGTR--                                             % 17851 RGTR--
+*L 941      140701016 161106002  01733  01810               % 17851 RGTR--
+*R 1 161106002 140701016 161106002  01733  01810            % 17851 RGTR--
+*G 064 140701016 161106002  01733  01810                    % 17851 RGTR--
+*A VE 140701016 161106002 000025  01733  01810              % 17851 RGTR--
+*I FD 140701016 161106002        0002113  01733  01810      % 17851 RGTR--
+140701016 Ettelbruck, Gare             01733                % 17851 RGTR--
+140701034 Ettelbruck, Apdikt P  01734  01734                % 17851 RGTR--
+140701026 Ettelbruck, Rond Poi  01735  01735                % 17851 RGTR--
+140701018 Ettelbruck, H.v.Land  01735  01735                % 17851 RGTR--
+141301002 Schieren, Faubourg    01737  01737                % 17851 RGTR--
+141301005 Schieren, Uewerschie  01738  01738                % 17851 RGTR--
+141301007 Schieren, Porte de S  01738  01738                % 17851 RGTR--
+160301011 Colmar-Berg, rue d'E  01740  01740                % 17851 RGTR--
+160301005 Colmar-Berg, Goldbie  01740  01740                % 17851 RGTR--
+160301003 Colmar-Berg, Faubour  01741  01741                % 17851 RGTR--
+160102001 Roost (Bissen), Mold  01743  01743                % 17851 RGTR--
+160102002 Rouscht               01744  01744                % 17851 RGTR--
+160101007 Bissen, Steekräiz     01745  01745                % 17851 RGTR--
+160101004 Bissen, Kiirch        01746  01746                % 17851 RGTR--
+160101002 Bissen, Kräizung      01747  01747                % 17851 RGTR--
+160201002 Boevange-sur-Attert,  01752  01752                % 17851 RGTR--
+160201006 Boevange, Uerbelt     01753  01753                % 17851 RGTR--
+160201004 Boevange, Helpert     01753  01753                % 17851 RGTR--
+160201005 Boevange, Lëtschert   01754  01754                % 17851 RGTR--
+160201007 Boevange, Beim Wald   01755  01755                % 17851 RGTR--
+160205003 Grevenknapp, Um ënns  01756  01756                % 17851 RGTR--
+160205002 Grevenknapp, Riesenh  01756  01756                % 17851 RGTR--
+160204001 Openthalt, Finsterth  01758  01758                % 17851 RGTR--
+160206001 Openthalt             01758  01758                % 17851 RGTR--
+160203002 Buschdorf, Helpërtwe  01801  01801                % 17851 RGTR--
+160203003 Buschdorf, Määschhaf  01801  01801                % 17851 RGTR--
+160203001 Buschdorf, Belle Vue  01802  01802                % 17851 RGTR--
+160202003 Brouch/Mersch, Knepp  01803  01803                % 17851 RGTR--
+160202001 Brouch/Mersch, Kierc  01805  01805                % 17851 RGTR--
+161106001 Tuntange, Duerf       01810  01810                % 17851 RGTR--
+161106002 Tuntange, Kiirch      01810                       % 17851 RGTR--
+*Z 17852 RGTR--                                             % 17852 RGTR--
+*L 941      140701016 161106002  01803  01840               % 17852 RGTR--
+*R 1 161106002 140701016 161106002  01803  01840            % 17852 RGTR--
+*G 064 140701016 161106002  01803  01840                    % 17852 RGTR--
+*A VE 140701016 161106002 000025  01803  01840              % 17852 RGTR--
+*I FD 140701016 161106002        0002106  01803  01840      % 17852 RGTR--
+140701016 Ettelbruck, Gare             01803                % 17852 RGTR--
+140701034 Ettelbruck, Apdikt P  01804  01804                % 17852 RGTR--
+140701026 Ettelbruck, Rond Poi  01805  01805                % 17852 RGTR--
+140701018 Ettelbruck, H.v.Land  01805  01805                % 17852 RGTR--
+141301002 Schieren, Faubourg    01807  01807                % 17852 RGTR--
+141301005 Schieren, Uewerschie  01808  01808                % 17852 RGTR--
+141301007 Schieren, Porte de S  01808  01808                % 17852 RGTR--
+160301011 Colmar-Berg, rue d'E  01810  01810                % 17852 RGTR--
+160301005 Colmar-Berg, Goldbie  01810  01810                % 17852 RGTR--
+160301003 Colmar-Berg, Faubour  01811  01811                % 17852 RGTR--
+160102001 Roost (Bissen), Mold  01813  01813                % 17852 RGTR--
+160102002 Rouscht               01814  01814                % 17852 RGTR--
+160101007 Bissen, Steekräiz     01815  01815                % 17852 RGTR--
+160101004 Bissen, Kiirch        01816  01816                % 17852 RGTR--
+160101002 Bissen, Kräizung      01817  01817                % 17852 RGTR--
+160201002 Boevange-sur-Attert,  01822  01822                % 17852 RGTR--
+160201006 Boevange, Uerbelt     01823  01823                % 17852 RGTR--
+160201004 Boevange, Helpert     01823  01823                % 17852 RGTR--
+160201005 Boevange, Lëtschert   01824  01824                % 17852 RGTR--
+160201007 Boevange, Beim Wald   01825  01825                % 17852 RGTR--
+160205003 Grevenknapp, Um ënns  01826  01826                % 17852 RGTR--
+160205002 Grevenknapp, Riesenh  01826  01826                % 17852 RGTR--
+160204001 Openthalt, Finsterth  01828  01828                % 17852 RGTR--
+160206001 Openthalt             01828  01828                % 17852 RGTR--
+160203002 Buschdorf, Helpërtwe  01831  01831                % 17852 RGTR--
+160203003 Buschdorf, Määschhaf  01831  01831                % 17852 RGTR--
+160203001 Buschdorf, Belle Vue  01832  01832                % 17852 RGTR--
+160202003 Brouch/Mersch, Knepp  01833  01833                % 17852 RGTR--
+160202001 Brouch/Mersch, Kierc  01835  01835                % 17852 RGTR--
+161106001 Tuntange, Duerf       01840  01840                % 17852 RGTR--
+161106002 Tuntange, Kiirch      01840                       % 17852 RGTR--
+*Z 17853 RGTR--                                             % 17853 RGTR--
+*L 941      140701016 161106002  00703  00742               % 17853 RGTR--
+*R 1 161106002 140701016 161106002  00703  00742            % 17853 RGTR--
+*G 064 140701016 161106002  00703  00742                    % 17853 RGTR--
+*A VE 140701016 161106002 000036  00703  00742              % 17853 RGTR--
+*I FD 140701016 161106002        0002107  00703  00742      % 17853 RGTR--
+140701016 Ettelbruck, Gare             00703                % 17853 RGTR--
+140701034 Ettelbruck, Apdikt P  00704  00704                % 17853 RGTR--
+140701026 Ettelbruck, Rond Poi  00705  00705                % 17853 RGTR--
+140701018 Ettelbruck, H.v.Land  00706  00706                % 17853 RGTR--
+141301002 Schieren, Faubourg    00707  00707                % 17853 RGTR--
+141301005 Schieren, Uewerschie  00708  00708                % 17853 RGTR--
+141301007 Schieren, Porte de S  00709  00709                % 17853 RGTR--
+160301011 Colmar-Berg, rue d'E  00710  00710                % 17853 RGTR--
+160301005 Colmar-Berg, Goldbie  00711  00711                % 17853 RGTR--
+160301003 Colmar-Berg, Faubour  00712  00712                % 17853 RGTR--
+160102001 Roost (Bissen), Mold  00713  00713                % 17853 RGTR--
+160102002 Rouscht               00714  00714                % 17853 RGTR--
+160101007 Bissen, Steekräiz     00716  00716                % 17853 RGTR--
+160101004 Bissen, Kiirch        00717  00717                % 17853 RGTR--
+160101002 Bissen, Kräizung      00718  00718                % 17853 RGTR--
+160201002 Boevange-sur-Attert,  00723  00723                % 17853 RGTR--
+160201006 Boevange, Uerbelt     00723  00723                % 17853 RGTR--
+160201004 Boevange, Helpert     00724  00724                % 17853 RGTR--
+160201005 Boevange, Lëtschert   00725  00725                % 17853 RGTR--
+160201007 Boevange, Beim Wald   00726  00726                % 17853 RGTR--
+160205003 Grevenknapp, Um ënns  00727  00727                % 17853 RGTR--
+160205002 Grevenknapp, Riesenh  00727  00727                % 17853 RGTR--
+160204001 Openthalt, Finsterth  00729  00729                % 17853 RGTR--
+160206001 Openthalt             00729  00729                % 17853 RGTR--
+160203002 Buschdorf, Helpërtwe  00732  00732                % 17853 RGTR--
+160203003 Buschdorf, Määschhaf  00732  00732                % 17853 RGTR--
+160203001 Buschdorf, Belle Vue  00733  00733                % 17853 RGTR--
+160202003 Brouch/Mersch, Knepp  00734  00734                % 17853 RGTR--
+160202001 Brouch/Mersch, Kierc  00736  00736                % 17853 RGTR--
+161106001 Tuntange, Duerf       00741  00741                % 17853 RGTR--
+161106002 Tuntange, Kiirch      00742                       % 17853 RGTR--
+*Z 17854 RGTR--                                             % 17854 RGTR--
+*L 941      140701016 161106002  00803  00842               % 17854 RGTR--
+*R 1 161106002 140701016 161106002  00803  00842            % 17854 RGTR--
+*G 064 140701016 161106002  00803  00842                    % 17854 RGTR--
+*A VE 140701016 161106002 000036  00803  00842              % 17854 RGTR--
+*I FD 140701016 161106002        0002104  00803  00842      % 17854 RGTR--
+140701016 Ettelbruck, Gare             00803                % 17854 RGTR--
+140701034 Ettelbruck, Apdikt P  00804  00804                % 17854 RGTR--
+140701026 Ettelbruck, Rond Poi  00805  00805                % 17854 RGTR--
+140701018 Ettelbruck, H.v.Land  00806  00806                % 17854 RGTR--
+141301002 Schieren, Faubourg    00807  00807                % 17854 RGTR--
+141301005 Schieren, Uewerschie  00808  00808                % 17854 RGTR--
+141301007 Schieren, Porte de S  00809  00809                % 17854 RGTR--
+160301011 Colmar-Berg, rue d'E  00810  00810                % 17854 RGTR--
+160301005 Colmar-Berg, Goldbie  00811  00811                % 17854 RGTR--
+160301003 Colmar-Berg, Faubour  00812  00812                % 17854 RGTR--
+160102001 Roost (Bissen), Mold  00813  00813                % 17854 RGTR--
+160102002 Rouscht               00814  00814                % 17854 RGTR--
+160101007 Bissen, Steekräiz     00816  00816                % 17854 RGTR--
+160101004 Bissen, Kiirch        00817  00817                % 17854 RGTR--
+160101002 Bissen, Kräizung      00818  00818                % 17854 RGTR--
+160201002 Boevange-sur-Attert,  00823  00823                % 17854 RGTR--
+160201006 Boevange, Uerbelt     00823  00823                % 17854 RGTR--
+160201004 Boevange, Helpert     00824  00824                % 17854 RGTR--
+160201005 Boevange, Lëtschert   00825  00825                % 17854 RGTR--
+160201007 Boevange, Beim Wald   00826  00826                % 17854 RGTR--
+160205003 Grevenknapp, Um ënns  00827  00827                % 17854 RGTR--
+160205002 Grevenknapp, Riesenh  00827  00827                % 17854 RGTR--
+160204001 Openthalt, Finsterth  00829  00829                % 17854 RGTR--
+160206001 Openthalt             00829  00829                % 17854 RGTR--
+160203002 Buschdorf, Helpërtwe  00832  00832                % 17854 RGTR--
+160203003 Buschdorf, Määschhaf  00832  00832                % 17854 RGTR--
+160203001 Buschdorf, Belle Vue  00833  00833                % 17854 RGTR--
+160202003 Brouch/Mersch, Knepp  00834  00834                % 17854 RGTR--
+160202001 Brouch/Mersch, Kierc  00836  00836                % 17854 RGTR--
+161106001 Tuntange, Duerf       00841  00841                % 17854 RGTR--
+161106002 Tuntange, Kiirch      00842                       % 17854 RGTR--
+*Z 17855 RGTR--                                             % 17855 RGTR--
+*L 941      140701016 161106002  00903  00942               % 17855 RGTR--
+*R 1 161106002 140701016 161106002  00903  00942            % 17855 RGTR--
+*G 064 140701016 161106002  00903  00942                    % 17855 RGTR--
+*A VE 140701016 161106002 000036  00903  00942              % 17855 RGTR--
+*I FD 140701016 161106002        0002110  00903  00942      % 17855 RGTR--
+140701016 Ettelbruck, Gare             00903                % 17855 RGTR--
+140701034 Ettelbruck, Apdikt P  00904  00904                % 17855 RGTR--
+140701026 Ettelbruck, Rond Poi  00905  00905                % 17855 RGTR--
+140701018 Ettelbruck, H.v.Land  00906  00906                % 17855 RGTR--
+141301002 Schieren, Faubourg    00907  00907                % 17855 RGTR--
+141301005 Schieren, Uewerschie  00908  00908                % 17855 RGTR--
+141301007 Schieren, Porte de S  00909  00909                % 17855 RGTR--
+160301011 Colmar-Berg, rue d'E  00910  00910                % 17855 RGTR--
+160301005 Colmar-Berg, Goldbie  00911  00911                % 17855 RGTR--
+160301003 Colmar-Berg, Faubour  00912  00912                % 17855 RGTR--
+160102001 Roost (Bissen), Mold  00913  00913                % 17855 RGTR--
+160102002 Rouscht               00914  00914                % 17855 RGTR--
+160101007 Bissen, Steekräiz     00916  00916                % 17855 RGTR--
+160101004 Bissen, Kiirch        00917  00917                % 17855 RGTR--
+160101002 Bissen, Kräizung      00918  00918                % 17855 RGTR--
+160201002 Boevange-sur-Attert,  00923  00923                % 17855 RGTR--
+160201006 Boevange, Uerbelt     00923  00923                % 17855 RGTR--
+160201004 Boevange, Helpert     00924  00924                % 17855 RGTR--
+160201005 Boevange, Lëtschert   00925  00925                % 17855 RGTR--
+160201007 Boevange, Beim Wald   00926  00926                % 17855 RGTR--
+160205003 Grevenknapp, Um ënns  00927  00927                % 17855 RGTR--
+160205002 Grevenknapp, Riesenh  00927  00927                % 17855 RGTR--
+160204001 Openthalt, Finsterth  00929  00929                % 17855 RGTR--
+160206001 Openthalt             00929  00929                % 17855 RGTR--
+160203002 Buschdorf, Helpërtwe  00932  00932                % 17855 RGTR--
+160203003 Buschdorf, Määschhaf  00932  00932                % 17855 RGTR--
+160203001 Buschdorf, Belle Vue  00933  00933                % 17855 RGTR--
+160202003 Brouch/Mersch, Knepp  00934  00934                % 17855 RGTR--
+160202001 Brouch/Mersch, Kierc  00936  00936                % 17855 RGTR--
+161106001 Tuntange, Duerf       00941  00941                % 17855 RGTR--
+161106002 Tuntange, Kiirch      00942                       % 17855 RGTR--
+*Z 17856 RGTR--                                             % 17856 RGTR--
+*L 941      140701016 161106002  01703  01742               % 17856 RGTR--
+*R 1 161106002 140701016 161106002  01703  01742            % 17856 RGTR--
+*G 064 140701016 161106002  01703  01742                    % 17856 RGTR--
+*A VE 140701016 161106002 000033  01703  01742              % 17856 RGTR--
+*I FD 140701016 161106002        0002112  01703  01742      % 17856 RGTR--
+140701016 Ettelbruck, Gare             01703                % 17856 RGTR--
+140701034 Ettelbruck, Apdikt P  01704  01704                % 17856 RGTR--
+140701026 Ettelbruck, Rond Poi  01705  01705                % 17856 RGTR--
+140701018 Ettelbruck, H.v.Land  01706  01706                % 17856 RGTR--
+141301002 Schieren, Faubourg    01707  01707                % 17856 RGTR--
+141301005 Schieren, Uewerschie  01708  01708                % 17856 RGTR--
+141301007 Schieren, Porte de S  01709  01709                % 17856 RGTR--
+160301011 Colmar-Berg, rue d'E  01710  01710                % 17856 RGTR--
+160301005 Colmar-Berg, Goldbie  01711  01711                % 17856 RGTR--
+160301003 Colmar-Berg, Faubour  01712  01712                % 17856 RGTR--
+160102001 Roost (Bissen), Mold  01713  01713                % 17856 RGTR--
+160102002 Rouscht               01714  01714                % 17856 RGTR--
+160101007 Bissen, Steekräiz     01716  01716                % 17856 RGTR--
+160101004 Bissen, Kiirch        01717  01717                % 17856 RGTR--
+160101002 Bissen, Kräizung      01718  01718                % 17856 RGTR--
+160201002 Boevange-sur-Attert,  01723  01723                % 17856 RGTR--
+160201006 Boevange, Uerbelt     01723  01723                % 17856 RGTR--
+160201004 Boevange, Helpert     01724  01724                % 17856 RGTR--
+160201005 Boevange, Lëtschert   01725  01725                % 17856 RGTR--
+160201007 Boevange, Beim Wald   01726  01726                % 17856 RGTR--
+160205003 Grevenknapp, Um ënns  01727  01727                % 17856 RGTR--
+160205002 Grevenknapp, Riesenh  01727  01727                % 17856 RGTR--
+160204001 Openthalt, Finsterth  01729  01729                % 17856 RGTR--
+160206001 Openthalt             01729  01729                % 17856 RGTR--
+160203002 Buschdorf, Helpërtwe  01732  01732                % 17856 RGTR--
+160203003 Buschdorf, Määschhaf  01732  01732                % 17856 RGTR--
+160203001 Buschdorf, Belle Vue  01733  01733                % 17856 RGTR--
+160202003 Brouch/Mersch, Knepp  01734  01734                % 17856 RGTR--
+160202001 Brouch/Mersch, Kierc  01736  01736                % 17856 RGTR--
+161106001 Tuntange, Duerf       01741  01741                % 17856 RGTR--
+161106002 Tuntange, Kiirch      01742                       % 17856 RGTR--
+*Z 17857 RGTR--                                             % 17857 RGTR--
+*L 941      140701016 161106002  01733  01812               % 17857 RGTR--
+*R 1 161106002 140701016 161106002  01733  01812            % 17857 RGTR--
+*G 064 140701016 161106002  01733  01812                    % 17857 RGTR--
+*A VE 140701016 161106002 000033  01733  01812              % 17857 RGTR--
+*I FD 140701016 161106002        0002113  01733  01812      % 17857 RGTR--
+140701016 Ettelbruck, Gare             01733                % 17857 RGTR--
+140701034 Ettelbruck, Apdikt P  01734  01734                % 17857 RGTR--
+140701026 Ettelbruck, Rond Poi  01735  01735                % 17857 RGTR--
+140701018 Ettelbruck, H.v.Land  01736  01736                % 17857 RGTR--
+141301002 Schieren, Faubourg    01737  01737                % 17857 RGTR--
+141301005 Schieren, Uewerschie  01738  01738                % 17857 RGTR--
+141301007 Schieren, Porte de S  01739  01739                % 17857 RGTR--
+160301011 Colmar-Berg, rue d'E  01740  01740                % 17857 RGTR--
+160301005 Colmar-Berg, Goldbie  01741  01741                % 17857 RGTR--
+160301003 Colmar-Berg, Faubour  01742  01742                % 17857 RGTR--
+160102001 Roost (Bissen), Mold  01743  01743                % 17857 RGTR--
+160102002 Rouscht               01744  01744                % 17857 RGTR--
+160101007 Bissen, Steekräiz     01746  01746                % 17857 RGTR--
+160101004 Bissen, Kiirch        01747  01747                % 17857 RGTR--
+160101002 Bissen, Kräizung      01748  01748                % 17857 RGTR--
+160201002 Boevange-sur-Attert,  01753  01753                % 17857 RGTR--
+160201006 Boevange, Uerbelt     01753  01753                % 17857 RGTR--
+160201004 Boevange, Helpert     01754  01754                % 17857 RGTR--
+160201005 Boevange, Lëtschert   01755  01755                % 17857 RGTR--
+160201007 Boevange, Beim Wald   01756  01756                % 17857 RGTR--
+160205003 Grevenknapp, Um ënns  01757  01757                % 17857 RGTR--
+160205002 Grevenknapp, Riesenh  01757  01757                % 17857 RGTR--
+160204001 Openthalt, Finsterth  01759  01759                % 17857 RGTR--
+160206001 Openthalt             01759  01759                % 17857 RGTR--
+160203002 Buschdorf, Helpërtwe  01802  01802                % 17857 RGTR--
+160203003 Buschdorf, Määschhaf  01802  01802                % 17857 RGTR--
+160203001 Buschdorf, Belle Vue  01803  01803                % 17857 RGTR--
+160202003 Brouch/Mersch, Knepp  01804  01804                % 17857 RGTR--
+160202001 Brouch/Mersch, Kierc  01806  01806                % 17857 RGTR--
+161106001 Tuntange, Duerf       01811  01811                % 17857 RGTR--
+161106002 Tuntange, Kiirch      01812                       % 17857 RGTR--
+*Z 17858 RGTR--                                             % 17858 RGTR--
+*L 941      140701016 161106002  01803  01842               % 17858 RGTR--
+*R 1 161106002 140701016 161106002  01803  01842            % 17858 RGTR--
+*G 064 140701016 161106002  01803  01842                    % 17858 RGTR--
+*A VE 140701016 161106002 000033  01803  01842              % 17858 RGTR--
+*I FD 140701016 161106002        0002106  01803  01842      % 17858 RGTR--
+140701016 Ettelbruck, Gare             01803                % 17858 RGTR--
+140701034 Ettelbruck, Apdikt P  01804  01804                % 17858 RGTR--
+140701026 Ettelbruck, Rond Poi  01805  01805                % 17858 RGTR--
+140701018 Ettelbruck, H.v.Land  01806  01806                % 17858 RGTR--
+141301002 Schieren, Faubourg    01807  01807                % 17858 RGTR--
+141301005 Schieren, Uewerschie  01808  01808                % 17858 RGTR--
+141301007 Schieren, Porte de S  01809  01809                % 17858 RGTR--
+160301011 Colmar-Berg, rue d'E  01810  01810                % 17858 RGTR--
+160301005 Colmar-Berg, Goldbie  01811  01811                % 17858 RGTR--
+160301003 Colmar-Berg, Faubour  01812  01812                % 17858 RGTR--
+160102001 Roost (Bissen), Mold  01813  01813                % 17858 RGTR--
+160102002 Rouscht               01814  01814                % 17858 RGTR--
+160101007 Bissen, Steekräiz     01816  01816                % 17858 RGTR--
+160101004 Bissen, Kiirch        01817  01817                % 17858 RGTR--
+160101002 Bissen, Kräizung      01818  01818                % 17858 RGTR--
+160201002 Boevange-sur-Attert,  01823  01823                % 17858 RGTR--
+160201006 Boevange, Uerbelt     01823  01823                % 17858 RGTR--
+160201004 Boevange, Helpert     01824  01824                % 17858 RGTR--
+160201005 Boevange, Lëtschert   01825  01825                % 17858 RGTR--
+160201007 Boevange, Beim Wald   01826  01826                % 17858 RGTR--
+160205003 Grevenknapp, Um ënns  01827  01827                % 17858 RGTR--
+160205002 Grevenknapp, Riesenh  01827  01827                % 17858 RGTR--
+160204001 Openthalt, Finsterth  01829  01829                % 17858 RGTR--
+160206001 Openthalt             01829  01829                % 17858 RGTR--
+160203002 Buschdorf, Helpërtwe  01832  01832                % 17858 RGTR--
+160203003 Buschdorf, Määschhaf  01832  01832                % 17858 RGTR--
+160203001 Buschdorf, Belle Vue  01833  01833                % 17858 RGTR--
+160202003 Brouch/Mersch, Knepp  01834  01834                % 17858 RGTR--
+160202001 Brouch/Mersch, Kierc  01836  01836                % 17858 RGTR--
+161106001 Tuntange, Duerf       01841  01841                % 17858 RGTR--
+161106002 Tuntange, Kiirch      01842                       % 17858 RGTR--
+*Z 17859 RGTR--                                             % 17859 RGTR--
+*L 941      161106001 140701016  01008  01045               % 17859 RGTR--
+*R 2 140701016 161106001 140701016  01008  01045            % 17859 RGTR--
+*G 064 161106001 140701016  01008  01045                    % 17859 RGTR--
+*A VE 161106001 140701016 000039  01008  01045              % 17859 RGTR--
+*I FD 161106001 140701016        0001865  01008  01045      % 17859 RGTR--
+161106001 Tuntange, Duerf              01008                % 17859 RGTR--
+161106002 Tuntange, Kiirch      01009  01009                % 17859 RGTR--
+160202001 Brouch/Mersch, Kierc  01012  01012                % 17859 RGTR--
+160202003 Brouch/Mersch, Knepp  01013  01013                % 17859 RGTR--
+160203001 Buschdorf, Belle Vue  01014  01014                % 17859 RGTR--
+160203003 Buschdorf, Määschhaf  01015  01015                % 17859 RGTR--
+160203002 Buschdorf, Helpërtwe  01016  01016                % 17859 RGTR--
+160206001 Openthalt             01018  01018                % 17859 RGTR--
+160204001 Openthalt, Finsterth  01018  01018                % 17859 RGTR--
+160205002 Grevenknapp, Riesenh  01019  01019                % 17859 RGTR--
+160205003 Grevenknapp, Um ënns  01020  01020                % 17859 RGTR--
+160201007 Boevange, Beim Wald   01021  01021                % 17859 RGTR--
+160201005 Boevange, Lëtschert   01021  01021                % 17859 RGTR--
+160101008 Bissen, Um Sand       01026  01026                % 17859 RGTR--
+160101002 Bissen, Kräizung      01027  01027                % 17859 RGTR--
+160101004 Bissen, Kiirch        01028  01028                % 17859 RGTR--
+160101007 Bissen, Steekräiz     01030  01030                % 17859 RGTR--
+160102002 Rouscht               01032  01032                % 17859 RGTR--
+160102001 Roost (Bissen), Mold  01033  01033                % 17859 RGTR--
+160301003 Colmar-Berg, Faubour  01035  01035                % 17859 RGTR--
+160301005 Colmar-Berg, Goldbie  01036  01036                % 17859 RGTR--
+160301020 Colmar-Berg, rue de   01036  01036                % 17859 RGTR--
+141301007 Schieren, Porte de S  01038  01038                % 17859 RGTR--
+141301004 Schieren, Neie Wee    01038  01038                % 17859 RGTR--
+141301006 Schieren, Vali's Pla  01039  01039                % 17859 RGTR--
+140701018 Ettelbruck, H.v.Land  01041  01041                % 17859 RGTR--
+140701026 Ettelbruck, Rond Poi  01042  01042                % 17859 RGTR--
+140701015 Ettelbruck, Ecole Pr  01043  01043                % 17859 RGTR--
+140701016 Ettelbruck, Gare      01045                       % 17859 RGTR--
+*Z 17860 RGTR--                                             % 17860 RGTR--
+*L 941      161106001 140701016  01208  01245               % 17860 RGTR--
+*R 2 140701016 161106001 140701016  01208  01245            % 17860 RGTR--
+*G 064 161106001 140701016  01208  01245                    % 17860 RGTR--
+*A VE 161106001 140701016 000039  01208  01245              % 17860 RGTR--
+*I FD 161106001 140701016        0001866  01208  01245      % 17860 RGTR--
+161106001 Tuntange, Duerf              01208                % 17860 RGTR--
+161106002 Tuntange, Kiirch      01209  01209                % 17860 RGTR--
+160202001 Brouch/Mersch, Kierc  01212  01212                % 17860 RGTR--
+160202003 Brouch/Mersch, Knepp  01213  01213                % 17860 RGTR--
+160203001 Buschdorf, Belle Vue  01214  01214                % 17860 RGTR--
+160203003 Buschdorf, Määschhaf  01215  01215                % 17860 RGTR--
+160203002 Buschdorf, Helpërtwe  01216  01216                % 17860 RGTR--
+160206001 Openthalt             01218  01218                % 17860 RGTR--
+160204001 Openthalt, Finsterth  01218  01218                % 17860 RGTR--
+160205002 Grevenknapp, Riesenh  01219  01219                % 17860 RGTR--
+160205003 Grevenknapp, Um ënns  01220  01220                % 17860 RGTR--
+160201007 Boevange, Beim Wald   01221  01221                % 17860 RGTR--
+160201005 Boevange, Lëtschert   01221  01221                % 17860 RGTR--
+160101008 Bissen, Um Sand       01226  01226                % 17860 RGTR--
+160101002 Bissen, Kräizung      01227  01227                % 17860 RGTR--
+160101004 Bissen, Kiirch        01228  01228                % 17860 RGTR--
+160101007 Bissen, Steekräiz     01230  01230                % 17860 RGTR--
+160102002 Rouscht               01232  01232                % 17860 RGTR--
+160102001 Roost (Bissen), Mold  01233  01233                % 17860 RGTR--
+160301003 Colmar-Berg, Faubour  01235  01235                % 17860 RGTR--
+160301005 Colmar-Berg, Goldbie  01236  01236                % 17860 RGTR--
+160301020 Colmar-Berg, rue de   01236  01236                % 17860 RGTR--
+141301007 Schieren, Porte de S  01238  01238                % 17860 RGTR--
+141301004 Schieren, Neie Wee    01238  01238                % 17860 RGTR--
+141301006 Schieren, Vali's Pla  01239  01239                % 17860 RGTR--
+140701018 Ettelbruck, H.v.Land  01241  01241                % 17860 RGTR--
+140701026 Ettelbruck, Rond Poi  01242  01242                % 17860 RGTR--
+140701015 Ettelbruck, Ecole Pr  01243  01243                % 17860 RGTR--
+140701016 Ettelbruck, Gare      01245                       % 17860 RGTR--
+*Z 17861 RGTR--                                             % 17861 RGTR--
+*L 941      161106001 140701016  01408  01445               % 17861 RGTR--
+*R 2 140701016 161106001 140701016  01408  01445            % 17861 RGTR--
+*G 064 161106001 140701016  01408  01445                    % 17861 RGTR--
+*A VE 161106001 140701016 000039  01408  01445              % 17861 RGTR--
+*I FD 161106001 140701016        0001867  01408  01445      % 17861 RGTR--
+161106001 Tuntange, Duerf              01408                % 17861 RGTR--
+161106002 Tuntange, Kiirch      01409  01409                % 17861 RGTR--
+160202001 Brouch/Mersch, Kierc  01412  01412                % 17861 RGTR--
+160202003 Brouch/Mersch, Knepp  01413  01413                % 17861 RGTR--
+160203001 Buschdorf, Belle Vue  01414  01414                % 17861 RGTR--
+160203003 Buschdorf, Määschhaf  01415  01415                % 17861 RGTR--
+160203002 Buschdorf, Helpërtwe  01416  01416                % 17861 RGTR--
+160206001 Openthalt             01418  01418                % 17861 RGTR--
+160204001 Openthalt, Finsterth  01418  01418                % 17861 RGTR--
+160205002 Grevenknapp, Riesenh  01419  01419                % 17861 RGTR--
+160205003 Grevenknapp, Um ënns  01420  01420                % 17861 RGTR--
+160201007 Boevange, Beim Wald   01421  01421                % 17861 RGTR--
+160201005 Boevange, Lëtschert   01421  01421                % 17861 RGTR--
+160101008 Bissen, Um Sand       01426  01426                % 17861 RGTR--
+160101002 Bissen, Kräizung      01427  01427                % 17861 RGTR--
+160101004 Bissen, Kiirch        01428  01428                % 17861 RGTR--
+160101007 Bissen, Steekräiz     01430  01430                % 17861 RGTR--
+160102002 Rouscht               01432  01432                % 17861 RGTR--
+160102001 Roost (Bissen), Mold  01433  01433                % 17861 RGTR--
+160301003 Colmar-Berg, Faubour  01435  01435                % 17861 RGTR--
+160301005 Colmar-Berg, Goldbie  01436  01436                % 17861 RGTR--
+160301020 Colmar-Berg, rue de   01436  01436                % 17861 RGTR--
+141301007 Schieren, Porte de S  01438  01438                % 17861 RGTR--
+141301004 Schieren, Neie Wee    01438  01438                % 17861 RGTR--
+141301006 Schieren, Vali's Pla  01439  01439                % 17861 RGTR--
+140701018 Ettelbruck, H.v.Land  01441  01441                % 17861 RGTR--
+140701026 Ettelbruck, Rond Poi  01442  01442                % 17861 RGTR--
+140701015 Ettelbruck, Ecole Pr  01443  01443                % 17861 RGTR--
+140701016 Ettelbruck, Gare      01445                       % 17861 RGTR--
+*Z 17862 RGTR--                                             % 17862 RGTR--
+*L 941      161106001 140701016  02008  02045               % 17862 RGTR--
+*R 2 140701016 161106001 140701016  02008  02045            % 17862 RGTR--
+*G 064 161106001 140701016  02008  02045                    % 17862 RGTR--
+*A VE 161106001 140701016 000039  02008  02045              % 17862 RGTR--
+*I FD 161106001 140701016        0001868  02008  02045      % 17862 RGTR--
+161106001 Tuntange, Duerf              02008                % 17862 RGTR--
+161106002 Tuntange, Kiirch      02009  02009                % 17862 RGTR--
+160202001 Brouch/Mersch, Kierc  02012  02012                % 17862 RGTR--
+160202003 Brouch/Mersch, Knepp  02013  02013                % 17862 RGTR--
+160203001 Buschdorf, Belle Vue  02014  02014                % 17862 RGTR--
+160203003 Buschdorf, Määschhaf  02015  02015                % 17862 RGTR--
+160203002 Buschdorf, Helpërtwe  02016  02016                % 17862 RGTR--
+160206001 Openthalt             02018  02018                % 17862 RGTR--
+160204001 Openthalt, Finsterth  02018  02018                % 17862 RGTR--
+160205002 Grevenknapp, Riesenh  02019  02019                % 17862 RGTR--
+160205003 Grevenknapp, Um ënns  02020  02020                % 17862 RGTR--
+160201007 Boevange, Beim Wald   02021  02021                % 17862 RGTR--
+160201005 Boevange, Lëtschert   02021  02021                % 17862 RGTR--
+160101008 Bissen, Um Sand       02026  02026                % 17862 RGTR--
+160101002 Bissen, Kräizung      02027  02027                % 17862 RGTR--
+160101004 Bissen, Kiirch        02028  02028                % 17862 RGTR--
+160101007 Bissen, Steekräiz     02030  02030                % 17862 RGTR--
+160102002 Rouscht               02032  02032                % 17862 RGTR--
+160102001 Roost (Bissen), Mold  02033  02033                % 17862 RGTR--
+160301003 Colmar-Berg, Faubour  02035  02035                % 17862 RGTR--
+160301005 Colmar-Berg, Goldbie  02036  02036                % 17862 RGTR--
+160301020 Colmar-Berg, rue de   02036  02036                % 17862 RGTR--
+141301007 Schieren, Porte de S  02038  02038                % 17862 RGTR--
+141301004 Schieren, Neie Wee    02038  02038                % 17862 RGTR--
+141301006 Schieren, Vali's Pla  02039  02039                % 17862 RGTR--
+140701018 Ettelbruck, H.v.Land  02041  02041                % 17862 RGTR--
+140701026 Ettelbruck, Rond Poi  02042  02042                % 17862 RGTR--
+140701015 Ettelbruck, Ecole Pr  02043  02043                % 17862 RGTR--
+140701016 Ettelbruck, Gare      02045                       % 17862 RGTR--
+*Z 17863 RGTR--                                             % 17863 RGTR--
+*L 941      161106001 140701016  02208  02245               % 17863 RGTR--
+*R 2 140701016 161106001 140701016  02208  02245            % 17863 RGTR--
+*G 064 161106001 140701016  02208  02245                    % 17863 RGTR--
+*A VE 161106001 140701016 000039  02208  02245              % 17863 RGTR--
+*I FD 161106001 140701016        0001869  02208  02245      % 17863 RGTR--
+161106001 Tuntange, Duerf              02208                % 17863 RGTR--
+161106002 Tuntange, Kiirch      02209  02209                % 17863 RGTR--
+160202001 Brouch/Mersch, Kierc  02212  02212                % 17863 RGTR--
+160202003 Brouch/Mersch, Knepp  02213  02213                % 17863 RGTR--
+160203001 Buschdorf, Belle Vue  02214  02214                % 17863 RGTR--
+160203003 Buschdorf, Määschhaf  02215  02215                % 17863 RGTR--
+160203002 Buschdorf, Helpërtwe  02216  02216                % 17863 RGTR--
+160206001 Openthalt             02218  02218                % 17863 RGTR--
+160204001 Openthalt, Finsterth  02218  02218                % 17863 RGTR--
+160205002 Grevenknapp, Riesenh  02219  02219                % 17863 RGTR--
+160205003 Grevenknapp, Um ënns  02220  02220                % 17863 RGTR--
+160201007 Boevange, Beim Wald   02221  02221                % 17863 RGTR--
+160201005 Boevange, Lëtschert   02221  02221                % 17863 RGTR--
+160101008 Bissen, Um Sand       02226  02226                % 17863 RGTR--
+160101002 Bissen, Kräizung      02227  02227                % 17863 RGTR--
+160101004 Bissen, Kiirch        02228  02228                % 17863 RGTR--
+160101007 Bissen, Steekräiz     02230  02230                % 17863 RGTR--
+160102002 Rouscht               02232  02232                % 17863 RGTR--
+160102001 Roost (Bissen), Mold  02233  02233                % 17863 RGTR--
+160301003 Colmar-Berg, Faubour  02235  02235                % 17863 RGTR--
+160301005 Colmar-Berg, Goldbie  02236  02236                % 17863 RGTR--
+160301020 Colmar-Berg, rue de   02236  02236                % 17863 RGTR--
+141301007 Schieren, Porte de S  02238  02238                % 17863 RGTR--
+141301004 Schieren, Neie Wee    02238  02238                % 17863 RGTR--
+141301006 Schieren, Vali's Pla  02239  02239                % 17863 RGTR--
+140701018 Ettelbruck, H.v.Land  02241  02241                % 17863 RGTR--
+140701026 Ettelbruck, Rond Poi  02242  02242                % 17863 RGTR--
+140701015 Ettelbruck, Ecole Pr  02243  02243                % 17863 RGTR--
+140701016 Ettelbruck, Gare      02245                       % 17863 RGTR--
+*Z 17864 RGTR--                                             % 17864 RGTR--
+*L 941      161106001 140701016  00508  00545               % 17864 RGTR--
+*R 2 140701016 161106001 140701016  00508  00545            % 17864 RGTR--
+*G 064 161106001 140701016  00508  00545                    % 17864 RGTR--
+*A VE 161106001 140701016 000036  00508  00545              % 17864 RGTR--
+*I FD 161106001 140701016        0001870  00508  00545      % 17864 RGTR--
+161106001 Tuntange, Duerf              00508                % 17864 RGTR--
+161106002 Tuntange, Kiirch      00509  00509                % 17864 RGTR--
+160202001 Brouch/Mersch, Kierc  00512  00512                % 17864 RGTR--
+160202003 Brouch/Mersch, Knepp  00513  00513                % 17864 RGTR--
+160203001 Buschdorf, Belle Vue  00514  00514                % 17864 RGTR--
+160203003 Buschdorf, Määschhaf  00515  00515                % 17864 RGTR--
+160203002 Buschdorf, Helpërtwe  00516  00516                % 17864 RGTR--
+160206001 Openthalt             00518  00518                % 17864 RGTR--
+160204001 Openthalt, Finsterth  00518  00518                % 17864 RGTR--
+160205002 Grevenknapp, Riesenh  00519  00519                % 17864 RGTR--
+160205003 Grevenknapp, Um ënns  00520  00520                % 17864 RGTR--
+160201007 Boevange, Beim Wald   00521  00521                % 17864 RGTR--
+160201005 Boevange, Lëtschert   00521  00521                % 17864 RGTR--
+160101008 Bissen, Um Sand       00526  00526                % 17864 RGTR--
+160101002 Bissen, Kräizung      00527  00527                % 17864 RGTR--
+160101004 Bissen, Kiirch        00528  00528                % 17864 RGTR--
+160101007 Bissen, Steekräiz     00530  00530                % 17864 RGTR--
+160102002 Rouscht               00532  00532                % 17864 RGTR--
+160102001 Roost (Bissen), Mold  00533  00533                % 17864 RGTR--
+160301003 Colmar-Berg, Faubour  00535  00535                % 17864 RGTR--
+160301005 Colmar-Berg, Goldbie  00536  00536                % 17864 RGTR--
+160301020 Colmar-Berg, rue de   00536  00536                % 17864 RGTR--
+141301007 Schieren, Porte de S  00538  00538                % 17864 RGTR--
+141301004 Schieren, Neie Wee    00538  00538                % 17864 RGTR--
+141301006 Schieren, Vali's Pla  00539  00539                % 17864 RGTR--
+140701018 Ettelbruck, H.v.Land  00541  00541                % 17864 RGTR--
+140701026 Ettelbruck, Rond Poi  00542  00542                % 17864 RGTR--
+140701015 Ettelbruck, Ecole Pr  00543  00543                % 17864 RGTR--
+140701016 Ettelbruck, Gare      00545                       % 17864 RGTR--
+*Z 17865 RGTR--                                             % 17865 RGTR--
+*L 941      161106001 140701016  00908  00945               % 17865 RGTR--
+*R 2 140701016 161106001 140701016  00908  00945            % 17865 RGTR--
+*G 064 161106001 140701016  00908  00945                    % 17865 RGTR--
+*A VE 161106001 140701016 000036  00908  00945              % 17865 RGTR--
+*I FD 161106001 140701016        0001880  00908  00945      % 17865 RGTR--
+161106001 Tuntange, Duerf              00908                % 17865 RGTR--
+161106002 Tuntange, Kiirch      00909  00909                % 17865 RGTR--
+160202001 Brouch/Mersch, Kierc  00912  00912                % 17865 RGTR--
+160202003 Brouch/Mersch, Knepp  00913  00913                % 17865 RGTR--
+160203001 Buschdorf, Belle Vue  00914  00914                % 17865 RGTR--
+160203003 Buschdorf, Määschhaf  00915  00915                % 17865 RGTR--
+160203002 Buschdorf, Helpërtwe  00916  00916                % 17865 RGTR--
+160206001 Openthalt             00918  00918                % 17865 RGTR--
+160204001 Openthalt, Finsterth  00918  00918                % 17865 RGTR--
+160205002 Grevenknapp, Riesenh  00919  00919                % 17865 RGTR--
+160205003 Grevenknapp, Um ënns  00920  00920                % 17865 RGTR--
+160201007 Boevange, Beim Wald   00921  00921                % 17865 RGTR--
+160201005 Boevange, Lëtschert   00921  00921                % 17865 RGTR--
+160101008 Bissen, Um Sand       00926  00926                % 17865 RGTR--
+160101002 Bissen, Kräizung      00927  00927                % 17865 RGTR--
+160101004 Bissen, Kiirch        00928  00928                % 17865 RGTR--
+160101007 Bissen, Steekräiz     00930  00930                % 17865 RGTR--
+160102002 Rouscht               00932  00932                % 17865 RGTR--
+160102001 Roost (Bissen), Mold  00933  00933                % 17865 RGTR--
+160301003 Colmar-Berg, Faubour  00935  00935                % 17865 RGTR--
+160301005 Colmar-Berg, Goldbie  00936  00936                % 17865 RGTR--
+160301020 Colmar-Berg, rue de   00936  00936                % 17865 RGTR--
+141301007 Schieren, Porte de S  00938  00938                % 17865 RGTR--
+141301004 Schieren, Neie Wee    00938  00938                % 17865 RGTR--
+141301006 Schieren, Vali's Pla  00939  00939                % 17865 RGTR--
+140701018 Ettelbruck, H.v.Land  00941  00941                % 17865 RGTR--
+140701026 Ettelbruck, Rond Poi  00942  00942                % 17865 RGTR--
+140701015 Ettelbruck, Ecole Pr  00943  00943                % 17865 RGTR--
+140701016 Ettelbruck, Gare      00945                       % 17865 RGTR--
+*Z 17866 RGTR--                                             % 17866 RGTR--
+*L 941      161106001 140701016  00608  00645               % 17866 RGTR--
+*R 2 140701016 161106001 140701016  00608  00645            % 17866 RGTR--
+*G 064 161106001 140701016  00608  00645                    % 17866 RGTR--
+*A VE 161106001 140701016 000018  00608  00645              % 17866 RGTR--
+*I FD 161106001 140701016        0001871  00608  00645      % 17866 RGTR--
+161106001 Tuntange, Duerf              00608                % 17866 RGTR--
+161106002 Tuntange, Kiirch      00609  00609                % 17866 RGTR--
+160202001 Brouch/Mersch, Kierc  00612  00612                % 17866 RGTR--
+160202003 Brouch/Mersch, Knepp  00613  00613                % 17866 RGTR--
+160203001 Buschdorf, Belle Vue  00614  00614                % 17866 RGTR--
+160203003 Buschdorf, Määschhaf  00615  00615                % 17866 RGTR--
+160203002 Buschdorf, Helpërtwe  00616  00616                % 17866 RGTR--
+160206001 Openthalt             00618  00618                % 17866 RGTR--
+160204001 Openthalt, Finsterth  00618  00618                % 17866 RGTR--
+160205002 Grevenknapp, Riesenh  00619  00619                % 17866 RGTR--
+160205003 Grevenknapp, Um ënns  00620  00620                % 17866 RGTR--
+160201007 Boevange, Beim Wald   00621  00621                % 17866 RGTR--
+160201005 Boevange, Lëtschert   00621  00621                % 17866 RGTR--
+160101008 Bissen, Um Sand       00626  00626                % 17866 RGTR--
+160101002 Bissen, Kräizung      00627  00627                % 17866 RGTR--
+160101004 Bissen, Kiirch        00628  00628                % 17866 RGTR--
+160101007 Bissen, Steekräiz     00630  00630                % 17866 RGTR--
+160102002 Rouscht               00632  00632                % 17866 RGTR--
+160102001 Roost (Bissen), Mold  00633  00633                % 17866 RGTR--
+160301003 Colmar-Berg, Faubour  00635  00635                % 17866 RGTR--
+160301005 Colmar-Berg, Goldbie  00636  00636                % 17866 RGTR--
+160301020 Colmar-Berg, rue de   00636  00636                % 17866 RGTR--
+141301007 Schieren, Porte de S  00638  00638                % 17866 RGTR--
+141301004 Schieren, Neie Wee    00638  00638                % 17866 RGTR--
+141301006 Schieren, Vali's Pla  00639  00639                % 17866 RGTR--
+140701018 Ettelbruck, H.v.Land  00641  00641                % 17866 RGTR--
+140701026 Ettelbruck, Rond Poi  00642  00642                % 17866 RGTR--
+140701015 Ettelbruck, Ecole Pr  00643  00643                % 17866 RGTR--
+140701016 Ettelbruck, Gare      00645                       % 17866 RGTR--
+*Z 17867 RGTR--                                             % 17867 RGTR--
+*L 941      161106001 140701016  00808  00845               % 17867 RGTR--
+*R 2 140701016 161106001 140701016  00808  00845            % 17867 RGTR--
+*G 064 161106001 140701016  00808  00845                    % 17867 RGTR--
+*A VE 161106001 140701016 000018  00808  00845              % 17867 RGTR--
+*I FD 161106001 140701016        0001876  00808  00845      % 17867 RGTR--
+161106001 Tuntange, Duerf              00808                % 17867 RGTR--
+161106002 Tuntange, Kiirch      00809  00809                % 17867 RGTR--
+160202001 Brouch/Mersch, Kierc  00812  00812                % 17867 RGTR--
+160202003 Brouch/Mersch, Knepp  00813  00813                % 17867 RGTR--
+160203001 Buschdorf, Belle Vue  00814  00814                % 17867 RGTR--
+160203003 Buschdorf, Määschhaf  00815  00815                % 17867 RGTR--
+160203002 Buschdorf, Helpërtwe  00816  00816                % 17867 RGTR--
+160206001 Openthalt             00818  00818                % 17867 RGTR--
+160204001 Openthalt, Finsterth  00818  00818                % 17867 RGTR--
+160205002 Grevenknapp, Riesenh  00819  00819                % 17867 RGTR--
+160205003 Grevenknapp, Um ënns  00820  00820                % 17867 RGTR--
+160201007 Boevange, Beim Wald   00821  00821                % 17867 RGTR--
+160201005 Boevange, Lëtschert   00821  00821                % 17867 RGTR--
+160101008 Bissen, Um Sand       00826  00826                % 17867 RGTR--
+160101002 Bissen, Kräizung      00827  00827                % 17867 RGTR--
+160101004 Bissen, Kiirch        00828  00828                % 17867 RGTR--
+160101007 Bissen, Steekräiz     00830  00830                % 17867 RGTR--
+160102002 Rouscht               00832  00832                % 17867 RGTR--
+160102001 Roost (Bissen), Mold  00833  00833                % 17867 RGTR--
+160301003 Colmar-Berg, Faubour  00835  00835                % 17867 RGTR--
+160301005 Colmar-Berg, Goldbie  00836  00836                % 17867 RGTR--
+160301020 Colmar-Berg, rue de   00836  00836                % 17867 RGTR--
+141301007 Schieren, Porte de S  00838  00838                % 17867 RGTR--
+141301004 Schieren, Neie Wee    00838  00838                % 17867 RGTR--
+141301006 Schieren, Vali's Pla  00839  00839                % 17867 RGTR--
+140701018 Ettelbruck, H.v.Land  00841  00841                % 17867 RGTR--
+140701026 Ettelbruck, Rond Poi  00842  00842                % 17867 RGTR--
+140701015 Ettelbruck, Ecole Pr  00843  00843                % 17867 RGTR--
+140701016 Ettelbruck, Gare      00845                       % 17867 RGTR--
+*Z 17868 RGTR--                                             % 17868 RGTR--
+*L 941      161106001 140701016  01608  01645               % 17868 RGTR--
+*R 2 140701016 161106001 140701016  01608  01645            % 17868 RGTR--
+*G 064 161106001 140701016  01608  01645                    % 17868 RGTR--
+*A VE 161106001 140701016 000018  01608  01645              % 17868 RGTR--
+*I FD 161106001 140701016        0001877  01608  01645      % 17868 RGTR--
+161106001 Tuntange, Duerf              01608                % 17868 RGTR--
+161106002 Tuntange, Kiirch      01609  01609                % 17868 RGTR--
+160202001 Brouch/Mersch, Kierc  01612  01612                % 17868 RGTR--
+160202003 Brouch/Mersch, Knepp  01613  01613                % 17868 RGTR--
+160203001 Buschdorf, Belle Vue  01614  01614                % 17868 RGTR--
+160203003 Buschdorf, Määschhaf  01615  01615                % 17868 RGTR--
+160203002 Buschdorf, Helpërtwe  01616  01616                % 17868 RGTR--
+160206001 Openthalt             01618  01618                % 17868 RGTR--
+160204001 Openthalt, Finsterth  01618  01618                % 17868 RGTR--
+160205002 Grevenknapp, Riesenh  01619  01619                % 17868 RGTR--
+160205003 Grevenknapp, Um ënns  01620  01620                % 17868 RGTR--
+160201007 Boevange, Beim Wald   01621  01621                % 17868 RGTR--
+160201005 Boevange, Lëtschert   01621  01621                % 17868 RGTR--
+160101008 Bissen, Um Sand       01626  01626                % 17868 RGTR--
+160101002 Bissen, Kräizung      01627  01627                % 17868 RGTR--
+160101004 Bissen, Kiirch        01628  01628                % 17868 RGTR--
+160101007 Bissen, Steekräiz     01630  01630                % 17868 RGTR--
+160102002 Rouscht               01632  01632                % 17868 RGTR--
+160102001 Roost (Bissen), Mold  01633  01633                % 17868 RGTR--
+160301003 Colmar-Berg, Faubour  01635  01635                % 17868 RGTR--
+160301005 Colmar-Berg, Goldbie  01636  01636                % 17868 RGTR--
+160301020 Colmar-Berg, rue de   01636  01636                % 17868 RGTR--
+141301007 Schieren, Porte de S  01638  01638                % 17868 RGTR--
+141301004 Schieren, Neie Wee    01638  01638                % 17868 RGTR--
+141301006 Schieren, Vali's Pla  01639  01639                % 17868 RGTR--
+140701018 Ettelbruck, H.v.Land  01641  01641                % 17868 RGTR--
+140701026 Ettelbruck, Rond Poi  01642  01642                % 17868 RGTR--
+140701015 Ettelbruck, Ecole Pr  01643  01643                % 17868 RGTR--
+140701016 Ettelbruck, Gare      01645                       % 17868 RGTR--
+*Z 17869 RGTR--                                             % 17869 RGTR--
+*L 941      161106001 140701016  01808  01845               % 17869 RGTR--
+*R 2 140701016 161106001 140701016  01808  01845            % 17869 RGTR--
+*G 064 161106001 140701016  01808  01845                    % 17869 RGTR--
+*A VE 161106001 140701016 000018  01808  01845              % 17869 RGTR--
+*I FD 161106001 140701016        0001878  01808  01845      % 17869 RGTR--
+161106001 Tuntange, Duerf              01808                % 17869 RGTR--
+161106002 Tuntange, Kiirch      01809  01809                % 17869 RGTR--
+160202001 Brouch/Mersch, Kierc  01812  01812                % 17869 RGTR--
+160202003 Brouch/Mersch, Knepp  01813  01813                % 17869 RGTR--
+160203001 Buschdorf, Belle Vue  01814  01814                % 17869 RGTR--
+160203003 Buschdorf, Määschhaf  01815  01815                % 17869 RGTR--
+160203002 Buschdorf, Helpërtwe  01816  01816                % 17869 RGTR--
+160206001 Openthalt             01818  01818                % 17869 RGTR--
+160204001 Openthalt, Finsterth  01818  01818                % 17869 RGTR--
+160205002 Grevenknapp, Riesenh  01819  01819                % 17869 RGTR--
+160205003 Grevenknapp, Um ënns  01820  01820                % 17869 RGTR--
+160201007 Boevange, Beim Wald   01821  01821                % 17869 RGTR--
+160201005 Boevange, Lëtschert   01821  01821                % 17869 RGTR--
+160101008 Bissen, Um Sand       01826  01826                % 17869 RGTR--
+160101002 Bissen, Kräizung      01827  01827                % 17869 RGTR--
+160101004 Bissen, Kiirch        01828  01828                % 17869 RGTR--
+160101007 Bissen, Steekräiz     01830  01830                % 17869 RGTR--
+160102002 Rouscht               01832  01832                % 17869 RGTR--
+160102001 Roost (Bissen), Mold  01833  01833                % 17869 RGTR--
+160301003 Colmar-Berg, Faubour  01835  01835                % 17869 RGTR--
+160301005 Colmar-Berg, Goldbie  01836  01836                % 17869 RGTR--
+160301020 Colmar-Berg, rue de   01836  01836                % 17869 RGTR--
+141301007 Schieren, Porte de S  01838  01838                % 17869 RGTR--
+141301004 Schieren, Neie Wee    01838  01838                % 17869 RGTR--
+141301006 Schieren, Vali's Pla  01839  01839                % 17869 RGTR--
+140701018 Ettelbruck, H.v.Land  01841  01841                % 17869 RGTR--
+140701026 Ettelbruck, Rond Poi  01842  01842                % 17869 RGTR--
+140701015 Ettelbruck, Ecole Pr  01843  01843                % 17869 RGTR--
+140701016 Ettelbruck, Gare      01845                       % 17869 RGTR--
+*Z 17870 RGTR--                                             % 17870 RGTR--
+*L 941      161106001 140701016  00608  00648               % 17870 RGTR--
+*R 2 140701016 161106001 140701016  00608  00648            % 17870 RGTR--
+*G 064 161106001 140701016  00608  00648                    % 17870 RGTR--
+*A VE 161106001 140701016 000036  00608  00648              % 17870 RGTR--
+*I FD 161106001 140701016        0001871  00608  00648      % 17870 RGTR--
+161106001 Tuntange, Duerf              00608                % 17870 RGTR--
+161106002 Tuntange, Kiirch      00609  00609                % 17870 RGTR--
+160202001 Brouch/Mersch, Kierc  00612  00612                % 17870 RGTR--
+160202003 Brouch/Mersch, Knepp  00613  00613                % 17870 RGTR--
+160203001 Buschdorf, Belle Vue  00615  00615                % 17870 RGTR--
+160203003 Buschdorf, Määschhaf  00616  00616                % 17870 RGTR--
+160203002 Buschdorf, Helpërtwe  00617  00617                % 17870 RGTR--
+160206001 Openthalt             00619  00619                % 17870 RGTR--
+160204001 Openthalt, Finsterth  00619  00619                % 17870 RGTR--
+160205002 Grevenknapp, Riesenh  00620  00620                % 17870 RGTR--
+160205003 Grevenknapp, Um ënns  00621  00621                % 17870 RGTR--
+160201007 Boevange, Beim Wald   00622  00622                % 17870 RGTR--
+160201005 Boevange, Lëtschert   00622  00622                % 17870 RGTR--
+160101008 Bissen, Um Sand       00627  00627                % 17870 RGTR--
+160101002 Bissen, Kräizung      00629  00629                % 17870 RGTR--
+160101004 Bissen, Kiirch        00630  00630                % 17870 RGTR--
+160101007 Bissen, Steekräiz     00631  00631                % 17870 RGTR--
+160102002 Rouscht               00633  00633                % 17870 RGTR--
+160102001 Roost (Bissen), Mold  00634  00634                % 17870 RGTR--
+160301003 Colmar-Berg, Faubour  00637  00637                % 17870 RGTR--
+160301005 Colmar-Berg, Goldbie  00637  00637                % 17870 RGTR--
+160301020 Colmar-Berg, rue de   00638  00638                % 17870 RGTR--
+141301007 Schieren, Porte de S  00639  00639                % 17870 RGTR--
+141301004 Schieren, Neie Wee    00640  00640                % 17870 RGTR--
+141301006 Schieren, Vali's Pla  00641  00641                % 17870 RGTR--
+140701018 Ettelbruck, H.v.Land  00643  00643                % 17870 RGTR--
+140701026 Ettelbruck, Rond Poi  00645  00645                % 17870 RGTR--
+140701015 Ettelbruck, Ecole Pr  00646  00646                % 17870 RGTR--
+140701016 Ettelbruck, Gare      00648                       % 17870 RGTR--
+*Z 17871 RGTR--                                             % 17871 RGTR--
+*L 941      161106001 140701016  00708  00748               % 17871 RGTR--
+*R 2 140701016 161106001 140701016  00708  00748            % 17871 RGTR--
+*G 064 161106001 140701016  00708  00748                    % 17871 RGTR--
+*A VE 161106001 140701016 000036  00708  00748              % 17871 RGTR--
+*I FD 161106001 140701016        0001879  00708  00748      % 17871 RGTR--
+161106001 Tuntange, Duerf              00708                % 17871 RGTR--
+161106002 Tuntange, Kiirch      00709  00709                % 17871 RGTR--
+160202001 Brouch/Mersch, Kierc  00712  00712                % 17871 RGTR--
+160202003 Brouch/Mersch, Knepp  00713  00713                % 17871 RGTR--
+160203001 Buschdorf, Belle Vue  00715  00715                % 17871 RGTR--
+160203003 Buschdorf, Määschhaf  00716  00716                % 17871 RGTR--
+160203002 Buschdorf, Helpërtwe  00717  00717                % 17871 RGTR--
+160206001 Openthalt             00719  00719                % 17871 RGTR--
+160204001 Openthalt, Finsterth  00719  00719                % 17871 RGTR--
+160205002 Grevenknapp, Riesenh  00720  00720                % 17871 RGTR--
+160205003 Grevenknapp, Um ënns  00721  00721                % 17871 RGTR--
+160201007 Boevange, Beim Wald   00722  00722                % 17871 RGTR--
+160201005 Boevange, Lëtschert   00722  00722                % 17871 RGTR--
+160101008 Bissen, Um Sand       00727  00727                % 17871 RGTR--
+160101002 Bissen, Kräizung      00729  00729                % 17871 RGTR--
+160101004 Bissen, Kiirch        00730  00730                % 17871 RGTR--
+160101007 Bissen, Steekräiz     00731  00731                % 17871 RGTR--
+160102002 Rouscht               00733  00733                % 17871 RGTR--
+160102001 Roost (Bissen), Mold  00734  00734                % 17871 RGTR--
+160301003 Colmar-Berg, Faubour  00737  00737                % 17871 RGTR--
+160301005 Colmar-Berg, Goldbie  00737  00737                % 17871 RGTR--
+160301020 Colmar-Berg, rue de   00738  00738                % 17871 RGTR--
+141301007 Schieren, Porte de S  00739  00739                % 17871 RGTR--
+141301004 Schieren, Neie Wee    00740  00740                % 17871 RGTR--
+141301006 Schieren, Vali's Pla  00741  00741                % 17871 RGTR--
+140701018 Ettelbruck, H.v.Land  00743  00743                % 17871 RGTR--
+140701026 Ettelbruck, Rond Poi  00745  00745                % 17871 RGTR--
+140701015 Ettelbruck, Ecole Pr  00746  00746                % 17871 RGTR--
+140701016 Ettelbruck, Gare      00748                       % 17871 RGTR--
+*Z 17872 RGTR--                                             % 17872 RGTR--
+*L 941      161106001 140701016  00808  00848               % 17872 RGTR--
+*R 2 140701016 161106001 140701016  00808  00848            % 17872 RGTR--
+*G 064 161106001 140701016  00808  00848                    % 17872 RGTR--
+*A VE 161106001 140701016 000036  00808  00848              % 17872 RGTR--
+*I FD 161106001 140701016        0001876  00808  00848      % 17872 RGTR--
+161106001 Tuntange, Duerf              00808                % 17872 RGTR--
+161106002 Tuntange, Kiirch      00809  00809                % 17872 RGTR--
+160202001 Brouch/Mersch, Kierc  00812  00812                % 17872 RGTR--
+160202003 Brouch/Mersch, Knepp  00813  00813                % 17872 RGTR--
+160203001 Buschdorf, Belle Vue  00815  00815                % 17872 RGTR--
+160203003 Buschdorf, Määschhaf  00816  00816                % 17872 RGTR--
+160203002 Buschdorf, Helpërtwe  00817  00817                % 17872 RGTR--
+160206001 Openthalt             00819  00819                % 17872 RGTR--
+160204001 Openthalt, Finsterth  00819  00819                % 17872 RGTR--
+160205002 Grevenknapp, Riesenh  00820  00820                % 17872 RGTR--
+160205003 Grevenknapp, Um ënns  00821  00821                % 17872 RGTR--
+160201007 Boevange, Beim Wald   00822  00822                % 17872 RGTR--
+160201005 Boevange, Lëtschert   00822  00822                % 17872 RGTR--
+160101008 Bissen, Um Sand       00827  00827                % 17872 RGTR--
+160101002 Bissen, Kräizung      00829  00829                % 17872 RGTR--
+160101004 Bissen, Kiirch        00830  00830                % 17872 RGTR--
+160101007 Bissen, Steekräiz     00831  00831                % 17872 RGTR--
+160102002 Rouscht               00833  00833                % 17872 RGTR--
+160102001 Roost (Bissen), Mold  00834  00834                % 17872 RGTR--
+160301003 Colmar-Berg, Faubour  00837  00837                % 17872 RGTR--
+160301005 Colmar-Berg, Goldbie  00837  00837                % 17872 RGTR--
+160301020 Colmar-Berg, rue de   00838  00838                % 17872 RGTR--
+141301007 Schieren, Porte de S  00839  00839                % 17872 RGTR--
+141301004 Schieren, Neie Wee    00840  00840                % 17872 RGTR--
+141301006 Schieren, Vali's Pla  00841  00841                % 17872 RGTR--
+140701018 Ettelbruck, H.v.Land  00843  00843                % 17872 RGTR--
+140701026 Ettelbruck, Rond Poi  00845  00845                % 17872 RGTR--
+140701015 Ettelbruck, Ecole Pr  00846  00846                % 17872 RGTR--
+140701016 Ettelbruck, Gare      00848                       % 17872 RGTR--
+*Z 17873 RGTR--                                             % 17873 RGTR--
+*L 941      161106001 140701016  01608  01648               % 17873 RGTR--
+*R 2 140701016 161106001 140701016  01608  01648            % 17873 RGTR--
+*G 064 161106001 140701016  01608  01648                    % 17873 RGTR--
+*A VE 161106001 140701016 000036  01608  01648              % 17873 RGTR--
+*I FD 161106001 140701016        0001877  01608  01648      % 17873 RGTR--
+161106001 Tuntange, Duerf              01608                % 17873 RGTR--
+161106002 Tuntange, Kiirch      01609  01609                % 17873 RGTR--
+160202001 Brouch/Mersch, Kierc  01612  01612                % 17873 RGTR--
+160202003 Brouch/Mersch, Knepp  01613  01613                % 17873 RGTR--
+160203001 Buschdorf, Belle Vue  01615  01615                % 17873 RGTR--
+160203003 Buschdorf, Määschhaf  01616  01616                % 17873 RGTR--
+160203002 Buschdorf, Helpërtwe  01617  01617                % 17873 RGTR--
+160206001 Openthalt             01619  01619                % 17873 RGTR--
+160204001 Openthalt, Finsterth  01619  01619                % 17873 RGTR--
+160205002 Grevenknapp, Riesenh  01620  01620                % 17873 RGTR--
+160205003 Grevenknapp, Um ënns  01621  01621                % 17873 RGTR--
+160201007 Boevange, Beim Wald   01622  01622                % 17873 RGTR--
+160201005 Boevange, Lëtschert   01622  01622                % 17873 RGTR--
+160101008 Bissen, Um Sand       01627  01627                % 17873 RGTR--
+160101002 Bissen, Kräizung      01629  01629                % 17873 RGTR--
+160101004 Bissen, Kiirch        01630  01630                % 17873 RGTR--
+160101007 Bissen, Steekräiz     01631  01631                % 17873 RGTR--
+160102002 Rouscht               01633  01633                % 17873 RGTR--
+160102001 Roost (Bissen), Mold  01634  01634                % 17873 RGTR--
+160301003 Colmar-Berg, Faubour  01637  01637                % 17873 RGTR--
+160301005 Colmar-Berg, Goldbie  01637  01637                % 17873 RGTR--
+160301020 Colmar-Berg, rue de   01638  01638                % 17873 RGTR--
+141301007 Schieren, Porte de S  01639  01639                % 17873 RGTR--
+141301004 Schieren, Neie Wee    01640  01640                % 17873 RGTR--
+141301006 Schieren, Vali's Pla  01641  01641                % 17873 RGTR--
+140701018 Ettelbruck, H.v.Land  01643  01643                % 17873 RGTR--
+140701026 Ettelbruck, Rond Poi  01645  01645                % 17873 RGTR--
+140701015 Ettelbruck, Ecole Pr  01646  01646                % 17873 RGTR--
+140701016 Ettelbruck, Gare      01648                       % 17873 RGTR--
+*Z 17874 RGTR--                                             % 17874 RGTR--
+*L 941      161106001 140701016  01708  01748               % 17874 RGTR--
+*R 2 140701016 161106001 140701016  01708  01748            % 17874 RGTR--
+*G 064 161106001 140701016  01708  01748                    % 17874 RGTR--
+*A VE 161106001 140701016 000036  01708  01748              % 17874 RGTR--
+*I FD 161106001 140701016        0001881  01708  01748      % 17874 RGTR--
+161106001 Tuntange, Duerf              01708                % 17874 RGTR--
+161106002 Tuntange, Kiirch      01709  01709                % 17874 RGTR--
+160202001 Brouch/Mersch, Kierc  01712  01712                % 17874 RGTR--
+160202003 Brouch/Mersch, Knepp  01713  01713                % 17874 RGTR--
+160203001 Buschdorf, Belle Vue  01715  01715                % 17874 RGTR--
+160203003 Buschdorf, Määschhaf  01716  01716                % 17874 RGTR--
+160203002 Buschdorf, Helpërtwe  01717  01717                % 17874 RGTR--
+160206001 Openthalt             01719  01719                % 17874 RGTR--
+160204001 Openthalt, Finsterth  01719  01719                % 17874 RGTR--
+160205002 Grevenknapp, Riesenh  01720  01720                % 17874 RGTR--
+160205003 Grevenknapp, Um ënns  01721  01721                % 17874 RGTR--
+160201007 Boevange, Beim Wald   01722  01722                % 17874 RGTR--
+160201005 Boevange, Lëtschert   01722  01722                % 17874 RGTR--
+160101008 Bissen, Um Sand       01727  01727                % 17874 RGTR--
+160101002 Bissen, Kräizung      01729  01729                % 17874 RGTR--
+160101004 Bissen, Kiirch        01730  01730                % 17874 RGTR--
+160101007 Bissen, Steekräiz     01731  01731                % 17874 RGTR--
+160102002 Rouscht               01733  01733                % 17874 RGTR--
+160102001 Roost (Bissen), Mold  01734  01734                % 17874 RGTR--
+160301003 Colmar-Berg, Faubour  01737  01737                % 17874 RGTR--
+160301005 Colmar-Berg, Goldbie  01737  01737                % 17874 RGTR--
+160301020 Colmar-Berg, rue de   01738  01738                % 17874 RGTR--
+141301007 Schieren, Porte de S  01739  01739                % 17874 RGTR--
+141301004 Schieren, Neie Wee    01740  01740                % 17874 RGTR--
+141301006 Schieren, Vali's Pla  01741  01741                % 17874 RGTR--
+140701018 Ettelbruck, H.v.Land  01743  01743                % 17874 RGTR--
+140701026 Ettelbruck, Rond Poi  01745  01745                % 17874 RGTR--
+140701015 Ettelbruck, Ecole Pr  01746  01746                % 17874 RGTR--
+140701016 Ettelbruck, Gare      01748                       % 17874 RGTR--
+*Z 17875 RGTR--                                             % 17875 RGTR--
+*L 941      161106001 140701016  01808  01848               % 17875 RGTR--
+*R 2 140701016 161106001 140701016  01808  01848            % 17875 RGTR--
+*G 064 161106001 140701016  01808  01848                    % 17875 RGTR--
+*A VE 161106001 140701016 000036  01808  01848              % 17875 RGTR--
+*I FD 161106001 140701016        0001878  01808  01848      % 17875 RGTR--
+161106001 Tuntange, Duerf              01808                % 17875 RGTR--
+161106002 Tuntange, Kiirch      01809  01809                % 17875 RGTR--
+160202001 Brouch/Mersch, Kierc  01812  01812                % 17875 RGTR--
+160202003 Brouch/Mersch, Knepp  01813  01813                % 17875 RGTR--
+160203001 Buschdorf, Belle Vue  01815  01815                % 17875 RGTR--
+160203003 Buschdorf, Määschhaf  01816  01816                % 17875 RGTR--
+160203002 Buschdorf, Helpërtwe  01817  01817                % 17875 RGTR--
+160206001 Openthalt             01819  01819                % 17875 RGTR--
+160204001 Openthalt, Finsterth  01819  01819                % 17875 RGTR--
+160205002 Grevenknapp, Riesenh  01820  01820                % 17875 RGTR--
+160205003 Grevenknapp, Um ënns  01821  01821                % 17875 RGTR--
+160201007 Boevange, Beim Wald   01822  01822                % 17875 RGTR--
+160201005 Boevange, Lëtschert   01822  01822                % 17875 RGTR--
+160101008 Bissen, Um Sand       01827  01827                % 17875 RGTR--
+160101002 Bissen, Kräizung      01829  01829                % 17875 RGTR--
+160101004 Bissen, Kiirch        01830  01830                % 17875 RGTR--
+160101007 Bissen, Steekräiz     01831  01831                % 17875 RGTR--
+160102002 Rouscht               01833  01833                % 17875 RGTR--
+160102001 Roost (Bissen), Mold  01834  01834                % 17875 RGTR--
+160301003 Colmar-Berg, Faubour  01837  01837                % 17875 RGTR--
+160301005 Colmar-Berg, Goldbie  01837  01837                % 17875 RGTR--
+160301020 Colmar-Berg, rue de   01838  01838                % 17875 RGTR--
+141301007 Schieren, Porte de S  01839  01839                % 17875 RGTR--
+141301004 Schieren, Neie Wee    01840  01840                % 17875 RGTR--
+141301006 Schieren, Vali's Pla  01841  01841                % 17875 RGTR--
+140701018 Ettelbruck, H.v.Land  01843  01843                % 17875 RGTR--
+140701026 Ettelbruck, Rond Poi  01845  01845                % 17875 RGTR--
+140701015 Ettelbruck, Ecole Pr  01846  01846                % 17875 RGTR--
+140701016 Ettelbruck, Gare      01848                       % 17875 RGTR--
+*Z 17876 RGTR--                                             % 17876 RGTR--
+*L 941      140701016 161106002  01733  01810               % 17876 RGTR--
+*R 1 161106002 140701016 161106002  01733  01810            % 17876 RGTR--
+*G 064 140701016 161106002  01733  01810                    % 17876 RGTR--
+*A VE 140701016 161106002 000017  01733  01810              % 17876 RGTR--
+*I FD 140701016 161106002        0002113  01733  01810      % 17876 RGTR--
+140701016 Ettelbruck, Gare             01733                % 17876 RGTR--
+140701034 Ettelbruck, Apdikt P  01734  01734                % 17876 RGTR--
+140701026 Ettelbruck, Rond Poi  01735  01735                % 17876 RGTR--
+140701018 Ettelbruck, H.v.Land  01735  01735                % 17876 RGTR--
+141301002 Schieren, Faubourg    01737  01737                % 17876 RGTR--
+141301005 Schieren, Uewerschie  01738  01738                % 17876 RGTR--
+141301007 Schieren, Porte de S  01738  01738                % 17876 RGTR--
+160301011 Colmar-Berg, rue d'E  01740  01740                % 17876 RGTR--
+160301005 Colmar-Berg, Goldbie  01740  01740                % 17876 RGTR--
+160301003 Colmar-Berg, Faubour  01741  01741                % 17876 RGTR--
+160102001 Roost (Bissen), Mold  01743  01743                % 17876 RGTR--
+160102002 Rouscht               01744  01744                % 17876 RGTR--
+160101007 Bissen, Steekräiz     01745  01745                % 17876 RGTR--
+160101004 Bissen, Kiirch        01746  01746                % 17876 RGTR--
+160101002 Bissen, Kräizung      01747  01747                % 17876 RGTR--
+160201002 Boevange-sur-Attert,  01752  01752                % 17876 RGTR--
+160201006 Boevange, Uerbelt     01753  01753                % 17876 RGTR--
+160201004 Boevange, Helpert     01753  01753                % 17876 RGTR--
+160201005 Boevange, Lëtschert   01754  01754                % 17876 RGTR--
+160201007 Boevange, Beim Wald   01755  01755                % 17876 RGTR--
+160205003 Grevenknapp, Um ënns  01756  01756                % 17876 RGTR--
+160205002 Grevenknapp, Riesenh  01756  01756                % 17876 RGTR--
+160204001 Openthalt, Finsterth  01758  01758                % 17876 RGTR--
+160206001 Openthalt             01758  01758                % 17876 RGTR--
+160203002 Buschdorf, Helpërtwe  01801  01801                % 17876 RGTR--
+160203003 Buschdorf, Määschhaf  01801  01801                % 17876 RGTR--
+160203001 Buschdorf, Belle Vue  01802  01802                % 17876 RGTR--
+160202003 Brouch/Mersch, Knepp  01803  01803                % 17876 RGTR--
+160202001 Brouch/Mersch, Kierc  01805  01805                % 17876 RGTR--
+161106001 Tuntange, Duerf       01810  01810                % 17876 RGTR--
+161106002 Tuntange, Kiirch      01810                       % 17876 RGTR--
+*Z 17877 RGTR--                                             % 17877 RGTR--
+*L 941      140701016 161106002  01803  01840               % 17877 RGTR--
+*R 1 161106002 140701016 161106002  01803  01840            % 17877 RGTR--
+*G 064 140701016 161106002  01803  01840                    % 17877 RGTR--
+*A VE 140701016 161106002 000017  01803  01840              % 17877 RGTR--
+*I FD 140701016 161106002        0002106  01803  01840      % 17877 RGTR--
+140701016 Ettelbruck, Gare             01803                % 17877 RGTR--
+140701034 Ettelbruck, Apdikt P  01804  01804                % 17877 RGTR--
+140701026 Ettelbruck, Rond Poi  01805  01805                % 17877 RGTR--
+140701018 Ettelbruck, H.v.Land  01805  01805                % 17877 RGTR--
+141301002 Schieren, Faubourg    01807  01807                % 17877 RGTR--
+141301005 Schieren, Uewerschie  01808  01808                % 17877 RGTR--
+141301007 Schieren, Porte de S  01808  01808                % 17877 RGTR--
+160301011 Colmar-Berg, rue d'E  01810  01810                % 17877 RGTR--
+160301005 Colmar-Berg, Goldbie  01810  01810                % 17877 RGTR--
+160301003 Colmar-Berg, Faubour  01811  01811                % 17877 RGTR--
+160102001 Roost (Bissen), Mold  01813  01813                % 17877 RGTR--
+160102002 Rouscht               01814  01814                % 17877 RGTR--
+160101007 Bissen, Steekräiz     01815  01815                % 17877 RGTR--
+160101004 Bissen, Kiirch        01816  01816                % 17877 RGTR--
+160101002 Bissen, Kräizung      01817  01817                % 17877 RGTR--
+160201002 Boevange-sur-Attert,  01822  01822                % 17877 RGTR--
+160201006 Boevange, Uerbelt     01823  01823                % 17877 RGTR--
+160201004 Boevange, Helpert     01823  01823                % 17877 RGTR--
+160201005 Boevange, Lëtschert   01824  01824                % 17877 RGTR--
+160201007 Boevange, Beim Wald   01825  01825                % 17877 RGTR--
+160205003 Grevenknapp, Um ënns  01826  01826                % 17877 RGTR--
+160205002 Grevenknapp, Riesenh  01826  01826                % 17877 RGTR--
+160204001 Openthalt, Finsterth  01828  01828                % 17877 RGTR--
+160206001 Openthalt             01828  01828                % 17877 RGTR--
+160203002 Buschdorf, Helpërtwe  01831  01831                % 17877 RGTR--
+160203003 Buschdorf, Määschhaf  01831  01831                % 17877 RGTR--
+160203001 Buschdorf, Belle Vue  01832  01832                % 17877 RGTR--
+160202003 Brouch/Mersch, Knepp  01833  01833                % 17877 RGTR--
+160202001 Brouch/Mersch, Kierc  01835  01835                % 17877 RGTR--
+161106001 Tuntange, Duerf       01840  01840                % 17877 RGTR--
+161106002 Tuntange, Kiirch      01840                       % 17877 RGTR--
+*Z 17878 RGTR--                                             % 17878 RGTR--
+*L 941      140701016 161106002  01103  01140               % 17878 RGTR--
+*R 1 161106002 140701016 161106002  01103  01140            % 17878 RGTR--
+*G 064 140701016 161106002  01103  01140                    % 17878 RGTR--
+*A VE 140701016 161106002 000040  01103  01140              % 17878 RGTR--
+*I FD 140701016 161106002        0002099  01103  01140      % 17878 RGTR--
+140701016 Ettelbruck, Gare             01103                % 17878 RGTR--
+140701034 Ettelbruck, Apdikt P  01104  01104                % 17878 RGTR--
+140701026 Ettelbruck, Rond Poi  01105  01105                % 17878 RGTR--
+140701018 Ettelbruck, H.v.Land  01105  01105                % 17878 RGTR--
+141301002 Schieren, Faubourg    01107  01107                % 17878 RGTR--
+141301005 Schieren, Uewerschie  01108  01108                % 17878 RGTR--
+141301007 Schieren, Porte de S  01108  01108                % 17878 RGTR--
+160301011 Colmar-Berg, rue d'E  01110  01110                % 17878 RGTR--
+160301005 Colmar-Berg, Goldbie  01110  01110                % 17878 RGTR--
+160301003 Colmar-Berg, Faubour  01111  01111                % 17878 RGTR--
+160102001 Roost (Bissen), Mold  01113  01113                % 17878 RGTR--
+160102002 Rouscht               01114  01114                % 17878 RGTR--
+160101007 Bissen, Steekräiz     01115  01115                % 17878 RGTR--
+160101004 Bissen, Kiirch        01116  01116                % 17878 RGTR--
+160101002 Bissen, Kräizung      01117  01117                % 17878 RGTR--
+160201002 Boevange-sur-Attert,  01122  01122                % 17878 RGTR--
+160201006 Boevange, Uerbelt     01123  01123                % 17878 RGTR--
+160201004 Boevange, Helpert     01123  01123                % 17878 RGTR--
+160201005 Boevange, Lëtschert   01124  01124                % 17878 RGTR--
+160201007 Boevange, Beim Wald   01125  01125                % 17878 RGTR--
+160205003 Grevenknapp, Um ënns  01126  01126                % 17878 RGTR--
+160205002 Grevenknapp, Riesenh  01126  01126                % 17878 RGTR--
+160204001 Openthalt, Finsterth  01128  01128                % 17878 RGTR--
+160206001 Openthalt             01128  01128                % 17878 RGTR--
+160203002 Buschdorf, Helpërtwe  01131  01131                % 17878 RGTR--
+160203003 Buschdorf, Määschhaf  01131  01131                % 17878 RGTR--
+160203001 Buschdorf, Belle Vue  01132  01132                % 17878 RGTR--
+160202003 Brouch/Mersch, Knepp  01133  01133                % 17878 RGTR--
+160202001 Brouch/Mersch, Kierc  01135  01135                % 17878 RGTR--
+161106001 Tuntange, Duerf       01140  01140                % 17878 RGTR--
+161106002 Tuntange, Kiirch      01140                       % 17878 RGTR--
+*Z 17879 RGTR--                                             % 17879 RGTR--
+*L 941      140701016 161106002  01303  01340               % 17879 RGTR--
+*R 1 161106002 140701016 161106002  01303  01340            % 17879 RGTR--
+*G 064 140701016 161106002  01303  01340                    % 17879 RGTR--
+*A VE 140701016 161106002 000040  01303  01340              % 17879 RGTR--
+*I FD 140701016 161106002        0002100  01303  01340      % 17879 RGTR--
+140701016 Ettelbruck, Gare             01303                % 17879 RGTR--
+140701034 Ettelbruck, Apdikt P  01304  01304                % 17879 RGTR--
+140701026 Ettelbruck, Rond Poi  01305  01305                % 17879 RGTR--
+140701018 Ettelbruck, H.v.Land  01305  01305                % 17879 RGTR--
+141301002 Schieren, Faubourg    01307  01307                % 17879 RGTR--
+141301005 Schieren, Uewerschie  01308  01308                % 17879 RGTR--
+141301007 Schieren, Porte de S  01308  01308                % 17879 RGTR--
+160301011 Colmar-Berg, rue d'E  01310  01310                % 17879 RGTR--
+160301005 Colmar-Berg, Goldbie  01310  01310                % 17879 RGTR--
+160301003 Colmar-Berg, Faubour  01311  01311                % 17879 RGTR--
+160102001 Roost (Bissen), Mold  01313  01313                % 17879 RGTR--
+160102002 Rouscht               01314  01314                % 17879 RGTR--
+160101007 Bissen, Steekräiz     01315  01315                % 17879 RGTR--
+160101004 Bissen, Kiirch        01316  01316                % 17879 RGTR--
+160101002 Bissen, Kräizung      01317  01317                % 17879 RGTR--
+160201002 Boevange-sur-Attert,  01322  01322                % 17879 RGTR--
+160201006 Boevange, Uerbelt     01323  01323                % 17879 RGTR--
+160201004 Boevange, Helpert     01323  01323                % 17879 RGTR--
+160201005 Boevange, Lëtschert   01324  01324                % 17879 RGTR--
+160201007 Boevange, Beim Wald   01325  01325                % 17879 RGTR--
+160205003 Grevenknapp, Um ënns  01326  01326                % 17879 RGTR--
+160205002 Grevenknapp, Riesenh  01326  01326                % 17879 RGTR--
+160204001 Openthalt, Finsterth  01328  01328                % 17879 RGTR--
+160206001 Openthalt             01328  01328                % 17879 RGTR--
+160203002 Buschdorf, Helpërtwe  01331  01331                % 17879 RGTR--
+160203003 Buschdorf, Määschhaf  01331  01331                % 17879 RGTR--
+160203001 Buschdorf, Belle Vue  01332  01332                % 17879 RGTR--
+160202003 Brouch/Mersch, Knepp  01333  01333                % 17879 RGTR--
+160202001 Brouch/Mersch, Kierc  01335  01335                % 17879 RGTR--
+161106001 Tuntange, Duerf       01340  01340                % 17879 RGTR--
+161106002 Tuntange, Kiirch      01340                       % 17879 RGTR--
+*Z 17880 RGTR--                                             % 17880 RGTR--
+*L 941      140701016 161106002  01503  01540               % 17880 RGTR--
+*R 1 161106002 140701016 161106002  01503  01540            % 17880 RGTR--
+*G 064 140701016 161106002  01503  01540                    % 17880 RGTR--
+*A VE 140701016 161106002 000040  01503  01540              % 17880 RGTR--
+*I FD 140701016 161106002        0002101  01503  01540      % 17880 RGTR--
+140701016 Ettelbruck, Gare             01503                % 17880 RGTR--
+140701034 Ettelbruck, Apdikt P  01504  01504                % 17880 RGTR--
+140701026 Ettelbruck, Rond Poi  01505  01505                % 17880 RGTR--
+140701018 Ettelbruck, H.v.Land  01505  01505                % 17880 RGTR--
+141301002 Schieren, Faubourg    01507  01507                % 17880 RGTR--
+141301005 Schieren, Uewerschie  01508  01508                % 17880 RGTR--
+141301007 Schieren, Porte de S  01508  01508                % 17880 RGTR--
+160301011 Colmar-Berg, rue d'E  01510  01510                % 17880 RGTR--
+160301005 Colmar-Berg, Goldbie  01510  01510                % 17880 RGTR--
+160301003 Colmar-Berg, Faubour  01511  01511                % 17880 RGTR--
+160102001 Roost (Bissen), Mold  01513  01513                % 17880 RGTR--
+160102002 Rouscht               01514  01514                % 17880 RGTR--
+160101007 Bissen, Steekräiz     01515  01515                % 17880 RGTR--
+160101004 Bissen, Kiirch        01516  01516                % 17880 RGTR--
+160101002 Bissen, Kräizung      01517  01517                % 17880 RGTR--
+160201002 Boevange-sur-Attert,  01522  01522                % 17880 RGTR--
+160201006 Boevange, Uerbelt     01523  01523                % 17880 RGTR--
+160201004 Boevange, Helpert     01523  01523                % 17880 RGTR--
+160201005 Boevange, Lëtschert   01524  01524                % 17880 RGTR--
+160201007 Boevange, Beim Wald   01525  01525                % 17880 RGTR--
+160205003 Grevenknapp, Um ënns  01526  01526                % 17880 RGTR--
+160205002 Grevenknapp, Riesenh  01526  01526                % 17880 RGTR--
+160204001 Openthalt, Finsterth  01528  01528                % 17880 RGTR--
+160206001 Openthalt             01528  01528                % 17880 RGTR--
+160203002 Buschdorf, Helpërtwe  01531  01531                % 17880 RGTR--
+160203003 Buschdorf, Määschhaf  01531  01531                % 17880 RGTR--
+160203001 Buschdorf, Belle Vue  01532  01532                % 17880 RGTR--
+160202003 Brouch/Mersch, Knepp  01533  01533                % 17880 RGTR--
+160202001 Brouch/Mersch, Kierc  01535  01535                % 17880 RGTR--
+161106001 Tuntange, Duerf       01540  01540                % 17880 RGTR--
+161106002 Tuntange, Kiirch      01540                       % 17880 RGTR--
+*Z 17881 RGTR--                                             % 17881 RGTR--
+*L 941      140701016 161106002  01903  01940               % 17881 RGTR--
+*R 1 161106002 140701016 161106002  01903  01940            % 17881 RGTR--
+*G 064 140701016 161106002  01903  01940                    % 17881 RGTR--
+*A VE 140701016 161106002 000040  01903  01940              % 17881 RGTR--
+*I FD 140701016 161106002        0002103  01903  01940      % 17881 RGTR--
+140701016 Ettelbruck, Gare             01903                % 17881 RGTR--
+140701034 Ettelbruck, Apdikt P  01904  01904                % 17881 RGTR--
+140701026 Ettelbruck, Rond Poi  01905  01905                % 17881 RGTR--
+140701018 Ettelbruck, H.v.Land  01905  01905                % 17881 RGTR--
+141301002 Schieren, Faubourg    01907  01907                % 17881 RGTR--
+141301005 Schieren, Uewerschie  01908  01908                % 17881 RGTR--
+141301007 Schieren, Porte de S  01908  01908                % 17881 RGTR--
+160301011 Colmar-Berg, rue d'E  01910  01910                % 17881 RGTR--
+160301005 Colmar-Berg, Goldbie  01910  01910                % 17881 RGTR--
+160301003 Colmar-Berg, Faubour  01911  01911                % 17881 RGTR--
+160102001 Roost (Bissen), Mold  01913  01913                % 17881 RGTR--
+160102002 Rouscht               01914  01914                % 17881 RGTR--
+160101007 Bissen, Steekräiz     01915  01915                % 17881 RGTR--
+160101004 Bissen, Kiirch        01916  01916                % 17881 RGTR--
+160101002 Bissen, Kräizung      01917  01917                % 17881 RGTR--
+160201002 Boevange-sur-Attert,  01922  01922                % 17881 RGTR--
+160201006 Boevange, Uerbelt     01923  01923                % 17881 RGTR--
+160201004 Boevange, Helpert     01923  01923                % 17881 RGTR--
+160201005 Boevange, Lëtschert   01924  01924                % 17881 RGTR--
+160201007 Boevange, Beim Wald   01925  01925                % 17881 RGTR--
+160205003 Grevenknapp, Um ënns  01926  01926                % 17881 RGTR--
+160205002 Grevenknapp, Riesenh  01926  01926                % 17881 RGTR--
+160204001 Openthalt, Finsterth  01928  01928                % 17881 RGTR--
+160206001 Openthalt             01928  01928                % 17881 RGTR--
+160203002 Buschdorf, Helpërtwe  01931  01931                % 17881 RGTR--
+160203003 Buschdorf, Määschhaf  01931  01931                % 17881 RGTR--
+160203001 Buschdorf, Belle Vue  01932  01932                % 17881 RGTR--
+160202003 Brouch/Mersch, Knepp  01933  01933                % 17881 RGTR--
+160202001 Brouch/Mersch, Kierc  01935  01935                % 17881 RGTR--
+161106001 Tuntange, Duerf       01940  01940                % 17881 RGTR--
+161106002 Tuntange, Kiirch      01940                       % 17881 RGTR--
+*Z 17882 RGTR--                                             % 17882 RGTR--
+*L 941      140701016 161106002  02103  02140               % 17882 RGTR--
+*R 1 161106002 140701016 161106002  02103  02140            % 17882 RGTR--
+*G 064 140701016 161106002  02103  02140                    % 17882 RGTR--
+*A VE 140701016 161106002 000040  02103  02140              % 17882 RGTR--
+*I FD 140701016 161106002        0002115  02103  02140      % 17882 RGTR--
+140701016 Ettelbruck, Gare             02103                % 17882 RGTR--
+140701034 Ettelbruck, Apdikt P  02104  02104                % 17882 RGTR--
+140701026 Ettelbruck, Rond Poi  02105  02105                % 17882 RGTR--
+140701018 Ettelbruck, H.v.Land  02105  02105                % 17882 RGTR--
+141301002 Schieren, Faubourg    02107  02107                % 17882 RGTR--
+141301005 Schieren, Uewerschie  02108  02108                % 17882 RGTR--
+141301007 Schieren, Porte de S  02108  02108                % 17882 RGTR--
+160301011 Colmar-Berg, rue d'E  02110  02110                % 17882 RGTR--
+160301005 Colmar-Berg, Goldbie  02110  02110                % 17882 RGTR--
+160301003 Colmar-Berg, Faubour  02111  02111                % 17882 RGTR--
+160102001 Roost (Bissen), Mold  02113  02113                % 17882 RGTR--
+160102002 Rouscht               02114  02114                % 17882 RGTR--
+160101007 Bissen, Steekräiz     02115  02115                % 17882 RGTR--
+160101004 Bissen, Kiirch        02116  02116                % 17882 RGTR--
+160101002 Bissen, Kräizung      02117  02117                % 17882 RGTR--
+160201002 Boevange-sur-Attert,  02122  02122                % 17882 RGTR--
+160201006 Boevange, Uerbelt     02123  02123                % 17882 RGTR--
+160201004 Boevange, Helpert     02123  02123                % 17882 RGTR--
+160201005 Boevange, Lëtschert   02124  02124                % 17882 RGTR--
+160201007 Boevange, Beim Wald   02125  02125                % 17882 RGTR--
+160205003 Grevenknapp, Um ënns  02126  02126                % 17882 RGTR--
+160205002 Grevenknapp, Riesenh  02126  02126                % 17882 RGTR--
+160204001 Openthalt, Finsterth  02128  02128                % 17882 RGTR--
+160206001 Openthalt             02128  02128                % 17882 RGTR--
+160203002 Buschdorf, Helpërtwe  02131  02131                % 17882 RGTR--
+160203003 Buschdorf, Määschhaf  02131  02131                % 17882 RGTR--
+160203001 Buschdorf, Belle Vue  02132  02132                % 17882 RGTR--
+160202003 Brouch/Mersch, Knepp  02133  02133                % 17882 RGTR--
+160202001 Brouch/Mersch, Kierc  02135  02135                % 17882 RGTR--
+161106001 Tuntange, Duerf       02140  02140                % 17882 RGTR--
+161106002 Tuntange, Kiirch      02140                       % 17882 RGTR--
+*Z 17883 RGTR--                                             % 17883 RGTR--
+*L 941      140701016 161106002  02303  02340               % 17883 RGTR--
+*R 1 161106002 140701016 161106002  02303  02340            % 17883 RGTR--
+*G 064 140701016 161106002  02303  02340                    % 17883 RGTR--
+*A VE 140701016 161106002 000040  02303  02340              % 17883 RGTR--
+*I FD 140701016 161106002        0002116  02303  02340      % 17883 RGTR--
+140701016 Ettelbruck, Gare             02303                % 17883 RGTR--
+140701034 Ettelbruck, Apdikt P  02304  02304                % 17883 RGTR--
+140701026 Ettelbruck, Rond Poi  02305  02305                % 17883 RGTR--
+140701018 Ettelbruck, H.v.Land  02305  02305                % 17883 RGTR--
+141301002 Schieren, Faubourg    02307  02307                % 17883 RGTR--
+141301005 Schieren, Uewerschie  02308  02308                % 17883 RGTR--
+141301007 Schieren, Porte de S  02308  02308                % 17883 RGTR--
+160301011 Colmar-Berg, rue d'E  02310  02310                % 17883 RGTR--
+160301005 Colmar-Berg, Goldbie  02310  02310                % 17883 RGTR--
+160301003 Colmar-Berg, Faubour  02311  02311                % 17883 RGTR--
+160102001 Roost (Bissen), Mold  02313  02313                % 17883 RGTR--
+160102002 Rouscht               02314  02314                % 17883 RGTR--
+160101007 Bissen, Steekräiz     02315  02315                % 17883 RGTR--
+160101004 Bissen, Kiirch        02316  02316                % 17883 RGTR--
+160101002 Bissen, Kräizung      02317  02317                % 17883 RGTR--
+160201002 Boevange-sur-Attert,  02322  02322                % 17883 RGTR--
+160201006 Boevange, Uerbelt     02323  02323                % 17883 RGTR--
+160201004 Boevange, Helpert     02323  02323                % 17883 RGTR--
+160201005 Boevange, Lëtschert   02324  02324                % 17883 RGTR--
+160201007 Boevange, Beim Wald   02325  02325                % 17883 RGTR--
+160205003 Grevenknapp, Um ënns  02326  02326                % 17883 RGTR--
+160205002 Grevenknapp, Riesenh  02326  02326                % 17883 RGTR--
+160204001 Openthalt, Finsterth  02328  02328                % 17883 RGTR--
+160206001 Openthalt             02328  02328                % 17883 RGTR--
+160203002 Buschdorf, Helpërtwe  02331  02331                % 17883 RGTR--
+160203003 Buschdorf, Määschhaf  02331  02331                % 17883 RGTR--
+160203001 Buschdorf, Belle Vue  02332  02332                % 17883 RGTR--
+160202003 Brouch/Mersch, Knepp  02333  02333                % 17883 RGTR--
+160202001 Brouch/Mersch, Kierc  02335  02335                % 17883 RGTR--
+161106001 Tuntange, Duerf       02340  02340                % 17883 RGTR--
+161106002 Tuntange, Kiirch      02340                       % 17883 RGTR--
+*Z 17884 RGTR--                                             % 17884 RGTR--
+*L 941      140701016 161106002  00603  00640               % 17884 RGTR--
+*R 1 161106002 140701016 161106002  00603  00640            % 17884 RGTR--
+*G 064 140701016 161106002  00603  00640                    % 17884 RGTR--
+*A VE 140701016 161106002 000038  00603  00640              % 17884 RGTR--
+*I FD 140701016 161106002        0002097  00603  00640      % 17884 RGTR--
+140701016 Ettelbruck, Gare             00603                % 17884 RGTR--
+140701034 Ettelbruck, Apdikt P  00604  00604                % 17884 RGTR--
+140701026 Ettelbruck, Rond Poi  00605  00605                % 17884 RGTR--
+140701018 Ettelbruck, H.v.Land  00605  00605                % 17884 RGTR--
+141301002 Schieren, Faubourg    00607  00607                % 17884 RGTR--
+141301005 Schieren, Uewerschie  00608  00608                % 17884 RGTR--
+141301007 Schieren, Porte de S  00608  00608                % 17884 RGTR--
+160301011 Colmar-Berg, rue d'E  00610  00610                % 17884 RGTR--
+160301005 Colmar-Berg, Goldbie  00610  00610                % 17884 RGTR--
+160301003 Colmar-Berg, Faubour  00611  00611                % 17884 RGTR--
+160102001 Roost (Bissen), Mold  00613  00613                % 17884 RGTR--
+160102002 Rouscht               00614  00614                % 17884 RGTR--
+160101007 Bissen, Steekräiz     00615  00615                % 17884 RGTR--
+160101004 Bissen, Kiirch        00616  00616                % 17884 RGTR--
+160101002 Bissen, Kräizung      00617  00617                % 17884 RGTR--
+160201002 Boevange-sur-Attert,  00622  00622                % 17884 RGTR--
+160201006 Boevange, Uerbelt     00623  00623                % 17884 RGTR--
+160201004 Boevange, Helpert     00623  00623                % 17884 RGTR--
+160201005 Boevange, Lëtschert   00624  00624                % 17884 RGTR--
+160201007 Boevange, Beim Wald   00625  00625                % 17884 RGTR--
+160205003 Grevenknapp, Um ënns  00626  00626                % 17884 RGTR--
+160205002 Grevenknapp, Riesenh  00626  00626                % 17884 RGTR--
+160204001 Openthalt, Finsterth  00628  00628                % 17884 RGTR--
+160206001 Openthalt             00628  00628                % 17884 RGTR--
+160203002 Buschdorf, Helpërtwe  00631  00631                % 17884 RGTR--
+160203003 Buschdorf, Määschhaf  00631  00631                % 17884 RGTR--
+160203001 Buschdorf, Belle Vue  00632  00632                % 17884 RGTR--
+160202003 Brouch/Mersch, Knepp  00633  00633                % 17884 RGTR--
+160202001 Brouch/Mersch, Kierc  00635  00635                % 17884 RGTR--
+161106001 Tuntange, Duerf       00640  00640                % 17884 RGTR--
+161106002 Tuntange, Kiirch      00640                       % 17884 RGTR--
+*Z 17885 RGTR--                                             % 17885 RGTR--
+*L 941      140701016 161106002  00703  00740               % 17885 RGTR--
+*R 1 161106002 140701016 161106002  00703  00740            % 17885 RGTR--
+*G 064 140701016 161106002  00703  00740                    % 17885 RGTR--
+*A VE 140701016 161106002 000016  00703  00740              % 17885 RGTR--
+*I FD 140701016 161106002        0002107  00703  00740      % 17885 RGTR--
+140701016 Ettelbruck, Gare             00703                % 17885 RGTR--
+140701034 Ettelbruck, Apdikt P  00704  00704                % 17885 RGTR--
+140701026 Ettelbruck, Rond Poi  00705  00705                % 17885 RGTR--
+140701018 Ettelbruck, H.v.Land  00705  00705                % 17885 RGTR--
+141301002 Schieren, Faubourg    00707  00707                % 17885 RGTR--
+141301005 Schieren, Uewerschie  00708  00708                % 17885 RGTR--
+141301007 Schieren, Porte de S  00708  00708                % 17885 RGTR--
+160301011 Colmar-Berg, rue d'E  00710  00710                % 17885 RGTR--
+160301005 Colmar-Berg, Goldbie  00710  00710                % 17885 RGTR--
+160301003 Colmar-Berg, Faubour  00711  00711                % 17885 RGTR--
+160102001 Roost (Bissen), Mold  00713  00713                % 17885 RGTR--
+160102002 Rouscht               00714  00714                % 17885 RGTR--
+160101007 Bissen, Steekräiz     00715  00715                % 17885 RGTR--
+160101004 Bissen, Kiirch        00716  00716                % 17885 RGTR--
+160101002 Bissen, Kräizung      00717  00717                % 17885 RGTR--
+160201002 Boevange-sur-Attert,  00722  00722                % 17885 RGTR--
+160201006 Boevange, Uerbelt     00723  00723                % 17885 RGTR--
+160201004 Boevange, Helpert     00723  00723                % 17885 RGTR--
+160201005 Boevange, Lëtschert   00724  00724                % 17885 RGTR--
+160201007 Boevange, Beim Wald   00725  00725                % 17885 RGTR--
+160205003 Grevenknapp, Um ënns  00726  00726                % 17885 RGTR--
+160205002 Grevenknapp, Riesenh  00726  00726                % 17885 RGTR--
+160204001 Openthalt, Finsterth  00728  00728                % 17885 RGTR--
+160206001 Openthalt             00728  00728                % 17885 RGTR--
+160203002 Buschdorf, Helpërtwe  00731  00731                % 17885 RGTR--
+160203003 Buschdorf, Määschhaf  00731  00731                % 17885 RGTR--
+160203001 Buschdorf, Belle Vue  00732  00732                % 17885 RGTR--
+160202003 Brouch/Mersch, Knepp  00733  00733                % 17885 RGTR--
+160202001 Brouch/Mersch, Kierc  00735  00735                % 17885 RGTR--
+161106001 Tuntange, Duerf       00740  00740                % 17885 RGTR--
+161106002 Tuntange, Kiirch      00740                       % 17885 RGTR--
+*Z 17886 RGTR--                                             % 17886 RGTR--
+*L 941      140701016 161106002  00903  00940               % 17886 RGTR--
+*R 1 161106002 140701016 161106002  00903  00940            % 17886 RGTR--
+*G 064 140701016 161106002  00903  00940                    % 17886 RGTR--
+*A VE 140701016 161106002 000016  00903  00940              % 17886 RGTR--
+*I FD 140701016 161106002        0002110  00903  00940      % 17886 RGTR--
+140701016 Ettelbruck, Gare             00903                % 17886 RGTR--
+140701034 Ettelbruck, Apdikt P  00904  00904                % 17886 RGTR--
+140701026 Ettelbruck, Rond Poi  00905  00905                % 17886 RGTR--
+140701018 Ettelbruck, H.v.Land  00905  00905                % 17886 RGTR--
+141301002 Schieren, Faubourg    00907  00907                % 17886 RGTR--
+141301005 Schieren, Uewerschie  00908  00908                % 17886 RGTR--
+141301007 Schieren, Porte de S  00908  00908                % 17886 RGTR--
+160301011 Colmar-Berg, rue d'E  00910  00910                % 17886 RGTR--
+160301005 Colmar-Berg, Goldbie  00910  00910                % 17886 RGTR--
+160301003 Colmar-Berg, Faubour  00911  00911                % 17886 RGTR--
+160102001 Roost (Bissen), Mold  00913  00913                % 17886 RGTR--
+160102002 Rouscht               00914  00914                % 17886 RGTR--
+160101007 Bissen, Steekräiz     00915  00915                % 17886 RGTR--
+160101004 Bissen, Kiirch        00916  00916                % 17886 RGTR--
+160101002 Bissen, Kräizung      00917  00917                % 17886 RGTR--
+160201002 Boevange-sur-Attert,  00922  00922                % 17886 RGTR--
+160201006 Boevange, Uerbelt     00923  00923                % 17886 RGTR--
+160201004 Boevange, Helpert     00923  00923                % 17886 RGTR--
+160201005 Boevange, Lëtschert   00924  00924                % 17886 RGTR--
+160201007 Boevange, Beim Wald   00925  00925                % 17886 RGTR--
+160205003 Grevenknapp, Um ënns  00926  00926                % 17886 RGTR--
+160205002 Grevenknapp, Riesenh  00926  00926                % 17886 RGTR--
+160204001 Openthalt, Finsterth  00928  00928                % 17886 RGTR--
+160206001 Openthalt             00928  00928                % 17886 RGTR--
+160203002 Buschdorf, Helpërtwe  00931  00931                % 17886 RGTR--
+160203003 Buschdorf, Määschhaf  00931  00931                % 17886 RGTR--
+160203001 Buschdorf, Belle Vue  00932  00932                % 17886 RGTR--
+160202003 Brouch/Mersch, Knepp  00933  00933                % 17886 RGTR--
+160202001 Brouch/Mersch, Kierc  00935  00935                % 17886 RGTR--
+161106001 Tuntange, Duerf       00940  00940                % 17886 RGTR--
+161106002 Tuntange, Kiirch      00940                       % 17886 RGTR--
+*Z 17887 RGTR--                                             % 17887 RGTR--
+*L 941      140701016 161106002  01703  01740               % 17887 RGTR--
+*R 1 161106002 140701016 161106002  01703  01740            % 17887 RGTR--
+*G 064 140701016 161106002  01703  01740                    % 17887 RGTR--
+*A VE 140701016 161106002 000037  01703  01740              % 17887 RGTR--
+*I FD 140701016 161106002        0002112  01703  01740      % 17887 RGTR--
+140701016 Ettelbruck, Gare             01703                % 17887 RGTR--
+140701034 Ettelbruck, Apdikt P  01704  01704                % 17887 RGTR--
+140701026 Ettelbruck, Rond Poi  01705  01705                % 17887 RGTR--
+140701018 Ettelbruck, H.v.Land  01705  01705                % 17887 RGTR--
+141301002 Schieren, Faubourg    01707  01707                % 17887 RGTR--
+141301005 Schieren, Uewerschie  01708  01708                % 17887 RGTR--
+141301007 Schieren, Porte de S  01708  01708                % 17887 RGTR--
+160301011 Colmar-Berg, rue d'E  01710  01710                % 17887 RGTR--
+160301005 Colmar-Berg, Goldbie  01710  01710                % 17887 RGTR--
+160301003 Colmar-Berg, Faubour  01711  01711                % 17887 RGTR--
+160102001 Roost (Bissen), Mold  01713  01713                % 17887 RGTR--
+160102002 Rouscht               01714  01714                % 17887 RGTR--
+160101007 Bissen, Steekräiz     01715  01715                % 17887 RGTR--
+160101004 Bissen, Kiirch        01716  01716                % 17887 RGTR--
+160101002 Bissen, Kräizung      01717  01717                % 17887 RGTR--
+160201002 Boevange-sur-Attert,  01722  01722                % 17887 RGTR--
+160201006 Boevange, Uerbelt     01723  01723                % 17887 RGTR--
+160201004 Boevange, Helpert     01723  01723                % 17887 RGTR--
+160201005 Boevange, Lëtschert   01724  01724                % 17887 RGTR--
+160201007 Boevange, Beim Wald   01725  01725                % 17887 RGTR--
+160205003 Grevenknapp, Um ënns  01726  01726                % 17887 RGTR--
+160205002 Grevenknapp, Riesenh  01726  01726                % 17887 RGTR--
+160204001 Openthalt, Finsterth  01728  01728                % 17887 RGTR--
+160206001 Openthalt             01728  01728                % 17887 RGTR--
+160203002 Buschdorf, Helpërtwe  01731  01731                % 17887 RGTR--
+160203003 Buschdorf, Määschhaf  01731  01731                % 17887 RGTR--
+160203001 Buschdorf, Belle Vue  01732  01732                % 17887 RGTR--
+160202003 Brouch/Mersch, Knepp  01733  01733                % 17887 RGTR--
+160202001 Brouch/Mersch, Kierc  01735  01735                % 17887 RGTR--
+161106001 Tuntange, Duerf       01740  01740                % 17887 RGTR--
+161106002 Tuntange, Kiirch      01740                       % 17887 RGTR--
+*Z 17888 RGTR--                                             % 17888 RGTR--
+*L 941      140701016 161106002  00703  00742               % 17888 RGTR--
+*R 1 161106002 140701016 161106002  00703  00742            % 17888 RGTR--
+*G 064 140701016 161106002  00703  00742                    % 17888 RGTR--
+*A VE 140701016 161106002 000038  00703  00742              % 17888 RGTR--
+*I FD 140701016 161106002        0002107  00703  00742      % 17888 RGTR--
+140701016 Ettelbruck, Gare             00703                % 17888 RGTR--
+140701034 Ettelbruck, Apdikt P  00704  00704                % 17888 RGTR--
+140701026 Ettelbruck, Rond Poi  00705  00705                % 17888 RGTR--
+140701018 Ettelbruck, H.v.Land  00706  00706                % 17888 RGTR--
+141301002 Schieren, Faubourg    00707  00707                % 17888 RGTR--
+141301005 Schieren, Uewerschie  00708  00708                % 17888 RGTR--
+141301007 Schieren, Porte de S  00709  00709                % 17888 RGTR--
+160301011 Colmar-Berg, rue d'E  00710  00710                % 17888 RGTR--
+160301005 Colmar-Berg, Goldbie  00711  00711                % 17888 RGTR--
+160301003 Colmar-Berg, Faubour  00712  00712                % 17888 RGTR--
+160102001 Roost (Bissen), Mold  00713  00713                % 17888 RGTR--
+160102002 Rouscht               00714  00714                % 17888 RGTR--
+160101007 Bissen, Steekräiz     00716  00716                % 17888 RGTR--
+160101004 Bissen, Kiirch        00717  00717                % 17888 RGTR--
+160101002 Bissen, Kräizung      00718  00718                % 17888 RGTR--
+160201002 Boevange-sur-Attert,  00723  00723                % 17888 RGTR--
+160201006 Boevange, Uerbelt     00723  00723                % 17888 RGTR--
+160201004 Boevange, Helpert     00724  00724                % 17888 RGTR--
+160201005 Boevange, Lëtschert   00725  00725                % 17888 RGTR--
+160201007 Boevange, Beim Wald   00726  00726                % 17888 RGTR--
+160205003 Grevenknapp, Um ënns  00727  00727                % 17888 RGTR--
+160205002 Grevenknapp, Riesenh  00727  00727                % 17888 RGTR--
+160204001 Openthalt, Finsterth  00729  00729                % 17888 RGTR--
+160206001 Openthalt             00729  00729                % 17888 RGTR--
+160203002 Buschdorf, Helpërtwe  00732  00732                % 17888 RGTR--
+160203003 Buschdorf, Määschhaf  00732  00732                % 17888 RGTR--
+160203001 Buschdorf, Belle Vue  00733  00733                % 17888 RGTR--
+160202003 Brouch/Mersch, Knepp  00734  00734                % 17888 RGTR--
+160202001 Brouch/Mersch, Kierc  00736  00736                % 17888 RGTR--
+161106001 Tuntange, Duerf       00741  00741                % 17888 RGTR--
+161106002 Tuntange, Kiirch      00742                       % 17888 RGTR--
+*Z 17889 RGTR--                                             % 17889 RGTR--
+*L 941      140701016 161106002  00803  00842               % 17889 RGTR--
+*R 1 161106002 140701016 161106002  00803  00842            % 17889 RGTR--
+*G 064 140701016 161106002  00803  00842                    % 17889 RGTR--
+*A VE 140701016 161106002 000038  00803  00842              % 17889 RGTR--
+*I FD 140701016 161106002        0002104  00803  00842      % 17889 RGTR--
+140701016 Ettelbruck, Gare             00803                % 17889 RGTR--
+140701034 Ettelbruck, Apdikt P  00804  00804                % 17889 RGTR--
+140701026 Ettelbruck, Rond Poi  00805  00805                % 17889 RGTR--
+140701018 Ettelbruck, H.v.Land  00806  00806                % 17889 RGTR--
+141301002 Schieren, Faubourg    00807  00807                % 17889 RGTR--
+141301005 Schieren, Uewerschie  00808  00808                % 17889 RGTR--
+141301007 Schieren, Porte de S  00809  00809                % 17889 RGTR--
+160301011 Colmar-Berg, rue d'E  00810  00810                % 17889 RGTR--
+160301005 Colmar-Berg, Goldbie  00811  00811                % 17889 RGTR--
+160301003 Colmar-Berg, Faubour  00812  00812                % 17889 RGTR--
+160102001 Roost (Bissen), Mold  00813  00813                % 17889 RGTR--
+160102002 Rouscht               00814  00814                % 17889 RGTR--
+160101007 Bissen, Steekräiz     00816  00816                % 17889 RGTR--
+160101004 Bissen, Kiirch        00817  00817                % 17889 RGTR--
+160101002 Bissen, Kräizung      00818  00818                % 17889 RGTR--
+160201002 Boevange-sur-Attert,  00823  00823                % 17889 RGTR--
+160201006 Boevange, Uerbelt     00823  00823                % 17889 RGTR--
+160201004 Boevange, Helpert     00824  00824                % 17889 RGTR--
+160201005 Boevange, Lëtschert   00825  00825                % 17889 RGTR--
+160201007 Boevange, Beim Wald   00826  00826                % 17889 RGTR--
+160205003 Grevenknapp, Um ënns  00827  00827                % 17889 RGTR--
+160205002 Grevenknapp, Riesenh  00827  00827                % 17889 RGTR--
+160204001 Openthalt, Finsterth  00829  00829                % 17889 RGTR--
+160206001 Openthalt             00829  00829                % 17889 RGTR--
+160203002 Buschdorf, Helpërtwe  00832  00832                % 17889 RGTR--
+160203003 Buschdorf, Määschhaf  00832  00832                % 17889 RGTR--
+160203001 Buschdorf, Belle Vue  00833  00833                % 17889 RGTR--
+160202003 Brouch/Mersch, Knepp  00834  00834                % 17889 RGTR--
+160202001 Brouch/Mersch, Kierc  00836  00836                % 17889 RGTR--
+161106001 Tuntange, Duerf       00841  00841                % 17889 RGTR--
+161106002 Tuntange, Kiirch      00842                       % 17889 RGTR--
+*Z 17890 RGTR--                                             % 17890 RGTR--
+*L 941      140701016 161106002  00903  00942               % 17890 RGTR--
+*R 1 161106002 140701016 161106002  00903  00942            % 17890 RGTR--
+*G 064 140701016 161106002  00903  00942                    % 17890 RGTR--
+*A VE 140701016 161106002 000038  00903  00942              % 17890 RGTR--
+*I FD 140701016 161106002        0002110  00903  00942      % 17890 RGTR--
+140701016 Ettelbruck, Gare             00903                % 17890 RGTR--
+140701034 Ettelbruck, Apdikt P  00904  00904                % 17890 RGTR--
+140701026 Ettelbruck, Rond Poi  00905  00905                % 17890 RGTR--
+140701018 Ettelbruck, H.v.Land  00906  00906                % 17890 RGTR--
+141301002 Schieren, Faubourg    00907  00907                % 17890 RGTR--
+141301005 Schieren, Uewerschie  00908  00908                % 17890 RGTR--
+141301007 Schieren, Porte de S  00909  00909                % 17890 RGTR--
+160301011 Colmar-Berg, rue d'E  00910  00910                % 17890 RGTR--
+160301005 Colmar-Berg, Goldbie  00911  00911                % 17890 RGTR--
+160301003 Colmar-Berg, Faubour  00912  00912                % 17890 RGTR--
+160102001 Roost (Bissen), Mold  00913  00913                % 17890 RGTR--
+160102002 Rouscht               00914  00914                % 17890 RGTR--
+160101007 Bissen, Steekräiz     00916  00916                % 17890 RGTR--
+160101004 Bissen, Kiirch        00917  00917                % 17890 RGTR--
+160101002 Bissen, Kräizung      00918  00918                % 17890 RGTR--
+160201002 Boevange-sur-Attert,  00923  00923                % 17890 RGTR--
+160201006 Boevange, Uerbelt     00923  00923                % 17890 RGTR--
+160201004 Boevange, Helpert     00924  00924                % 17890 RGTR--
+160201005 Boevange, Lëtschert   00925  00925                % 17890 RGTR--
+160201007 Boevange, Beim Wald   00926  00926                % 17890 RGTR--
+160205003 Grevenknapp, Um ënns  00927  00927                % 17890 RGTR--
+160205002 Grevenknapp, Riesenh  00927  00927                % 17890 RGTR--
+160204001 Openthalt, Finsterth  00929  00929                % 17890 RGTR--
+160206001 Openthalt             00929  00929                % 17890 RGTR--
+160203002 Buschdorf, Helpërtwe  00932  00932                % 17890 RGTR--
+160203003 Buschdorf, Määschhaf  00932  00932                % 17890 RGTR--
+160203001 Buschdorf, Belle Vue  00933  00933                % 17890 RGTR--
+160202003 Brouch/Mersch, Knepp  00934  00934                % 17890 RGTR--
+160202001 Brouch/Mersch, Kierc  00936  00936                % 17890 RGTR--
+161106001 Tuntange, Duerf       00941  00941                % 17890 RGTR--
+161106002 Tuntange, Kiirch      00942                       % 17890 RGTR--
+*Z 17891 RGTR--                                             % 17891 RGTR--
+*L 941      140701016 161106002  01703  01742               % 17891 RGTR--
+*R 1 161106002 140701016 161106002  01703  01742            % 17891 RGTR--
+*G 064 140701016 161106002  01703  01742                    % 17891 RGTR--
+*A VE 140701016 161106002 000034  01703  01742              % 17891 RGTR--
+*I FD 140701016 161106002        0002112  01703  01742      % 17891 RGTR--
+140701016 Ettelbruck, Gare             01703                % 17891 RGTR--
+140701034 Ettelbruck, Apdikt P  01704  01704                % 17891 RGTR--
+140701026 Ettelbruck, Rond Poi  01705  01705                % 17891 RGTR--
+140701018 Ettelbruck, H.v.Land  01706  01706                % 17891 RGTR--
+141301002 Schieren, Faubourg    01707  01707                % 17891 RGTR--
+141301005 Schieren, Uewerschie  01708  01708                % 17891 RGTR--
+141301007 Schieren, Porte de S  01709  01709                % 17891 RGTR--
+160301011 Colmar-Berg, rue d'E  01710  01710                % 17891 RGTR--
+160301005 Colmar-Berg, Goldbie  01711  01711                % 17891 RGTR--
+160301003 Colmar-Berg, Faubour  01712  01712                % 17891 RGTR--
+160102001 Roost (Bissen), Mold  01713  01713                % 17891 RGTR--
+160102002 Rouscht               01714  01714                % 17891 RGTR--
+160101007 Bissen, Steekräiz     01716  01716                % 17891 RGTR--
+160101004 Bissen, Kiirch        01717  01717                % 17891 RGTR--
+160101002 Bissen, Kräizung      01718  01718                % 17891 RGTR--
+160201002 Boevange-sur-Attert,  01723  01723                % 17891 RGTR--
+160201006 Boevange, Uerbelt     01723  01723                % 17891 RGTR--
+160201004 Boevange, Helpert     01724  01724                % 17891 RGTR--
+160201005 Boevange, Lëtschert   01725  01725                % 17891 RGTR--
+160201007 Boevange, Beim Wald   01726  01726                % 17891 RGTR--
+160205003 Grevenknapp, Um ënns  01727  01727                % 17891 RGTR--
+160205002 Grevenknapp, Riesenh  01727  01727                % 17891 RGTR--
+160204001 Openthalt, Finsterth  01729  01729                % 17891 RGTR--
+160206001 Openthalt             01729  01729                % 17891 RGTR--
+160203002 Buschdorf, Helpërtwe  01732  01732                % 17891 RGTR--
+160203003 Buschdorf, Määschhaf  01732  01732                % 17891 RGTR--
+160203001 Buschdorf, Belle Vue  01733  01733                % 17891 RGTR--
+160202003 Brouch/Mersch, Knepp  01734  01734                % 17891 RGTR--
+160202001 Brouch/Mersch, Kierc  01736  01736                % 17891 RGTR--
+161106001 Tuntange, Duerf       01741  01741                % 17891 RGTR--
+161106002 Tuntange, Kiirch      01742                       % 17891 RGTR--
+*Z 17892 RGTR--                                             % 17892 RGTR--
+*L 941      140701016 161106002  01733  01812               % 17892 RGTR--
+*R 1 161106002 140701016 161106002  01733  01812            % 17892 RGTR--
+*G 064 140701016 161106002  01733  01812                    % 17892 RGTR--
+*A VE 140701016 161106002 000034  01733  01812              % 17892 RGTR--
+*I FD 140701016 161106002        0002113  01733  01812      % 17892 RGTR--
+140701016 Ettelbruck, Gare             01733                % 17892 RGTR--
+140701034 Ettelbruck, Apdikt P  01734  01734                % 17892 RGTR--
+140701026 Ettelbruck, Rond Poi  01735  01735                % 17892 RGTR--
+140701018 Ettelbruck, H.v.Land  01736  01736                % 17892 RGTR--
+141301002 Schieren, Faubourg    01737  01737                % 17892 RGTR--
+141301005 Schieren, Uewerschie  01738  01738                % 17892 RGTR--
+141301007 Schieren, Porte de S  01739  01739                % 17892 RGTR--
+160301011 Colmar-Berg, rue d'E  01740  01740                % 17892 RGTR--
+160301005 Colmar-Berg, Goldbie  01741  01741                % 17892 RGTR--
+160301003 Colmar-Berg, Faubour  01742  01742                % 17892 RGTR--
+160102001 Roost (Bissen), Mold  01743  01743                % 17892 RGTR--
+160102002 Rouscht               01744  01744                % 17892 RGTR--
+160101007 Bissen, Steekräiz     01746  01746                % 17892 RGTR--
+160101004 Bissen, Kiirch        01747  01747                % 17892 RGTR--
+160101002 Bissen, Kräizung      01748  01748                % 17892 RGTR--
+160201002 Boevange-sur-Attert,  01753  01753                % 17892 RGTR--
+160201006 Boevange, Uerbelt     01753  01753                % 17892 RGTR--
+160201004 Boevange, Helpert     01754  01754                % 17892 RGTR--
+160201005 Boevange, Lëtschert   01755  01755                % 17892 RGTR--
+160201007 Boevange, Beim Wald   01756  01756                % 17892 RGTR--
+160205003 Grevenknapp, Um ënns  01757  01757                % 17892 RGTR--
+160205002 Grevenknapp, Riesenh  01757  01757                % 17892 RGTR--
+160204001 Openthalt, Finsterth  01759  01759                % 17892 RGTR--
+160206001 Openthalt             01759  01759                % 17892 RGTR--
+160203002 Buschdorf, Helpërtwe  01802  01802                % 17892 RGTR--
+160203003 Buschdorf, Määschhaf  01802  01802                % 17892 RGTR--
+160203001 Buschdorf, Belle Vue  01803  01803                % 17892 RGTR--
+160202003 Brouch/Mersch, Knepp  01804  01804                % 17892 RGTR--
+160202001 Brouch/Mersch, Kierc  01806  01806                % 17892 RGTR--
+161106001 Tuntange, Duerf       01811  01811                % 17892 RGTR--
+161106002 Tuntange, Kiirch      01812                       % 17892 RGTR--
+*Z 17893 RGTR--                                             % 17893 RGTR--
+*L 941      140701016 161106002  01803  01842               % 17893 RGTR--
+*R 1 161106002 140701016 161106002  01803  01842            % 17893 RGTR--
+*G 064 140701016 161106002  01803  01842                    % 17893 RGTR--
+*A VE 140701016 161106002 000034  01803  01842              % 17893 RGTR--
+*I FD 140701016 161106002        0002106  01803  01842      % 17893 RGTR--
+140701016 Ettelbruck, Gare             01803                % 17893 RGTR--
+140701034 Ettelbruck, Apdikt P  01804  01804                % 17893 RGTR--
+140701026 Ettelbruck, Rond Poi  01805  01805                % 17893 RGTR--
+140701018 Ettelbruck, H.v.Land  01806  01806                % 17893 RGTR--
+141301002 Schieren, Faubourg    01807  01807                % 17893 RGTR--
+141301005 Schieren, Uewerschie  01808  01808                % 17893 RGTR--
+141301007 Schieren, Porte de S  01809  01809                % 17893 RGTR--
+160301011 Colmar-Berg, rue d'E  01810  01810                % 17893 RGTR--
+160301005 Colmar-Berg, Goldbie  01811  01811                % 17893 RGTR--
+160301003 Colmar-Berg, Faubour  01812  01812                % 17893 RGTR--
+160102001 Roost (Bissen), Mold  01813  01813                % 17893 RGTR--
+160102002 Rouscht               01814  01814                % 17893 RGTR--
+160101007 Bissen, Steekräiz     01816  01816                % 17893 RGTR--
+160101004 Bissen, Kiirch        01817  01817                % 17893 RGTR--
+160101002 Bissen, Kräizung      01818  01818                % 17893 RGTR--
+160201002 Boevange-sur-Attert,  01823  01823                % 17893 RGTR--
+160201006 Boevange, Uerbelt     01823  01823                % 17893 RGTR--
+160201004 Boevange, Helpert     01824  01824                % 17893 RGTR--
+160201005 Boevange, Lëtschert   01825  01825                % 17893 RGTR--
+160201007 Boevange, Beim Wald   01826  01826                % 17893 RGTR--
+160205003 Grevenknapp, Um ënns  01827  01827                % 17893 RGTR--
+160205002 Grevenknapp, Riesenh  01827  01827                % 17893 RGTR--
+160204001 Openthalt, Finsterth  01829  01829                % 17893 RGTR--
+160206001 Openthalt             01829  01829                % 17893 RGTR--
+160203002 Buschdorf, Helpërtwe  01832  01832                % 17893 RGTR--
+160203003 Buschdorf, Määschhaf  01832  01832                % 17893 RGTR--
+160203001 Buschdorf, Belle Vue  01833  01833                % 17893 RGTR--
+160202003 Brouch/Mersch, Knepp  01834  01834                % 17893 RGTR--
+160202001 Brouch/Mersch, Kierc  01836  01836                % 17893 RGTR--
+161106001 Tuntange, Duerf       01841  01841                % 17893 RGTR--
+161106002 Tuntange, Kiirch      01842                       % 17893 RGTR--
+*Z 17894 RGTR--                                             % 17894 RGTR--
+*L 941      161106001 140701016  01008  01045               % 17894 RGTR--
+*R 2 140701016 161106001 140701016  01008  01045            % 17894 RGTR--
+*G 064 161106001 140701016  01008  01045                    % 17894 RGTR--
+*A VE 161106001 140701016 000040  01008  01045              % 17894 RGTR--
+*I FD 161106001 140701016        0001865  01008  01045      % 17894 RGTR--
+161106001 Tuntange, Duerf              01008                % 17894 RGTR--
+161106002 Tuntange, Kiirch      01009  01009                % 17894 RGTR--
+160202001 Brouch/Mersch, Kierc  01012  01012                % 17894 RGTR--
+160202003 Brouch/Mersch, Knepp  01013  01013                % 17894 RGTR--
+160203001 Buschdorf, Belle Vue  01014  01014                % 17894 RGTR--
+160203003 Buschdorf, Määschhaf  01015  01015                % 17894 RGTR--
+160203002 Buschdorf, Helpërtwe  01016  01016                % 17894 RGTR--
+160206001 Openthalt             01018  01018                % 17894 RGTR--
+160204001 Openthalt, Finsterth  01018  01018                % 17894 RGTR--
+160205002 Grevenknapp, Riesenh  01019  01019                % 17894 RGTR--
+160205003 Grevenknapp, Um ënns  01020  01020                % 17894 RGTR--
+160201007 Boevange, Beim Wald   01021  01021                % 17894 RGTR--
+160201005 Boevange, Lëtschert   01021  01021                % 17894 RGTR--
+160101008 Bissen, Um Sand       01026  01026                % 17894 RGTR--
+160101002 Bissen, Kräizung      01027  01027                % 17894 RGTR--
+160101004 Bissen, Kiirch        01028  01028                % 17894 RGTR--
+160101007 Bissen, Steekräiz     01030  01030                % 17894 RGTR--
+160102002 Rouscht               01032  01032                % 17894 RGTR--
+160102001 Roost (Bissen), Mold  01033  01033                % 17894 RGTR--
+160301003 Colmar-Berg, Faubour  01035  01035                % 17894 RGTR--
+160301005 Colmar-Berg, Goldbie  01036  01036                % 17894 RGTR--
+160301020 Colmar-Berg, rue de   01036  01036                % 17894 RGTR--
+141301007 Schieren, Porte de S  01038  01038                % 17894 RGTR--
+141301004 Schieren, Neie Wee    01038  01038                % 17894 RGTR--
+141301006 Schieren, Vali's Pla  01039  01039                % 17894 RGTR--
+140701018 Ettelbruck, H.v.Land  01041  01041                % 17894 RGTR--
+140701026 Ettelbruck, Rond Poi  01042  01042                % 17894 RGTR--
+140701015 Ettelbruck, Ecole Pr  01043  01043                % 17894 RGTR--
+140701016 Ettelbruck, Gare      01045                       % 17894 RGTR--
+*Z 17895 RGTR--                                             % 17895 RGTR--
+*L 941      161106001 140701016  01208  01245               % 17895 RGTR--
+*R 2 140701016 161106001 140701016  01208  01245            % 17895 RGTR--
+*G 064 161106001 140701016  01208  01245                    % 17895 RGTR--
+*A VE 161106001 140701016 000040  01208  01245              % 17895 RGTR--
+*I FD 161106001 140701016        0001866  01208  01245      % 17895 RGTR--
+161106001 Tuntange, Duerf              01208                % 17895 RGTR--
+161106002 Tuntange, Kiirch      01209  01209                % 17895 RGTR--
+160202001 Brouch/Mersch, Kierc  01212  01212                % 17895 RGTR--
+160202003 Brouch/Mersch, Knepp  01213  01213                % 17895 RGTR--
+160203001 Buschdorf, Belle Vue  01214  01214                % 17895 RGTR--
+160203003 Buschdorf, Määschhaf  01215  01215                % 17895 RGTR--
+160203002 Buschdorf, Helpërtwe  01216  01216                % 17895 RGTR--
+160206001 Openthalt             01218  01218                % 17895 RGTR--
+160204001 Openthalt, Finsterth  01218  01218                % 17895 RGTR--
+160205002 Grevenknapp, Riesenh  01219  01219                % 17895 RGTR--
+160205003 Grevenknapp, Um ënns  01220  01220                % 17895 RGTR--
+160201007 Boevange, Beim Wald   01221  01221                % 17895 RGTR--
+160201005 Boevange, Lëtschert   01221  01221                % 17895 RGTR--
+160101008 Bissen, Um Sand       01226  01226                % 17895 RGTR--
+160101002 Bissen, Kräizung      01227  01227                % 17895 RGTR--
+160101004 Bissen, Kiirch        01228  01228                % 17895 RGTR--
+160101007 Bissen, Steekräiz     01230  01230                % 17895 RGTR--
+160102002 Rouscht               01232  01232                % 17895 RGTR--
+160102001 Roost (Bissen), Mold  01233  01233                % 17895 RGTR--
+160301003 Colmar-Berg, Faubour  01235  01235                % 17895 RGTR--
+160301005 Colmar-Berg, Goldbie  01236  01236                % 17895 RGTR--
+160301020 Colmar-Berg, rue de   01236  01236                % 17895 RGTR--
+141301007 Schieren, Porte de S  01238  01238                % 17895 RGTR--
+141301004 Schieren, Neie Wee    01238  01238                % 17895 RGTR--
+141301006 Schieren, Vali's Pla  01239  01239                % 17895 RGTR--
+140701018 Ettelbruck, H.v.Land  01241  01241                % 17895 RGTR--
+140701026 Ettelbruck, Rond Poi  01242  01242                % 17895 RGTR--
+140701015 Ettelbruck, Ecole Pr  01243  01243                % 17895 RGTR--
+140701016 Ettelbruck, Gare      01245                       % 17895 RGTR--
+*Z 17896 RGTR--                                             % 17896 RGTR--
+*L 941      161106001 140701016  01408  01445               % 17896 RGTR--
+*R 2 140701016 161106001 140701016  01408  01445            % 17896 RGTR--
+*G 064 161106001 140701016  01408  01445                    % 17896 RGTR--
+*A VE 161106001 140701016 000040  01408  01445              % 17896 RGTR--
+*I FD 161106001 140701016        0001867  01408  01445      % 17896 RGTR--
+161106001 Tuntange, Duerf              01408                % 17896 RGTR--
+161106002 Tuntange, Kiirch      01409  01409                % 17896 RGTR--
+160202001 Brouch/Mersch, Kierc  01412  01412                % 17896 RGTR--
+160202003 Brouch/Mersch, Knepp  01413  01413                % 17896 RGTR--
+160203001 Buschdorf, Belle Vue  01414  01414                % 17896 RGTR--
+160203003 Buschdorf, Määschhaf  01415  01415                % 17896 RGTR--
+160203002 Buschdorf, Helpërtwe  01416  01416                % 17896 RGTR--
+160206001 Openthalt             01418  01418                % 17896 RGTR--
+160204001 Openthalt, Finsterth  01418  01418                % 17896 RGTR--
+160205002 Grevenknapp, Riesenh  01419  01419                % 17896 RGTR--
+160205003 Grevenknapp, Um ënns  01420  01420                % 17896 RGTR--
+160201007 Boevange, Beim Wald   01421  01421                % 17896 RGTR--
+160201005 Boevange, Lëtschert   01421  01421                % 17896 RGTR--
+160101008 Bissen, Um Sand       01426  01426                % 17896 RGTR--
+160101002 Bissen, Kräizung      01427  01427                % 17896 RGTR--
+160101004 Bissen, Kiirch        01428  01428                % 17896 RGTR--
+160101007 Bissen, Steekräiz     01430  01430                % 17896 RGTR--
+160102002 Rouscht               01432  01432                % 17896 RGTR--
+160102001 Roost (Bissen), Mold  01433  01433                % 17896 RGTR--
+160301003 Colmar-Berg, Faubour  01435  01435                % 17896 RGTR--
+160301005 Colmar-Berg, Goldbie  01436  01436                % 17896 RGTR--
+160301020 Colmar-Berg, rue de   01436  01436                % 17896 RGTR--
+141301007 Schieren, Porte de S  01438  01438                % 17896 RGTR--
+141301004 Schieren, Neie Wee    01438  01438                % 17896 RGTR--
+141301006 Schieren, Vali's Pla  01439  01439                % 17896 RGTR--
+140701018 Ettelbruck, H.v.Land  01441  01441                % 17896 RGTR--
+140701026 Ettelbruck, Rond Poi  01442  01442                % 17896 RGTR--
+140701015 Ettelbruck, Ecole Pr  01443  01443                % 17896 RGTR--
+140701016 Ettelbruck, Gare      01445                       % 17896 RGTR--
+*Z 17897 RGTR--                                             % 17897 RGTR--
+*L 941      161106001 140701016  02008  02045               % 17897 RGTR--
+*R 2 140701016 161106001 140701016  02008  02045            % 17897 RGTR--
+*G 064 161106001 140701016  02008  02045                    % 17897 RGTR--
+*A VE 161106001 140701016 000040  02008  02045              % 17897 RGTR--
+*I FD 161106001 140701016        0001868  02008  02045      % 17897 RGTR--
+161106001 Tuntange, Duerf              02008                % 17897 RGTR--
+161106002 Tuntange, Kiirch      02009  02009                % 17897 RGTR--
+160202001 Brouch/Mersch, Kierc  02012  02012                % 17897 RGTR--
+160202003 Brouch/Mersch, Knepp  02013  02013                % 17897 RGTR--
+160203001 Buschdorf, Belle Vue  02014  02014                % 17897 RGTR--
+160203003 Buschdorf, Määschhaf  02015  02015                % 17897 RGTR--
+160203002 Buschdorf, Helpërtwe  02016  02016                % 17897 RGTR--
+160206001 Openthalt             02018  02018                % 17897 RGTR--
+160204001 Openthalt, Finsterth  02018  02018                % 17897 RGTR--
+160205002 Grevenknapp, Riesenh  02019  02019                % 17897 RGTR--
+160205003 Grevenknapp, Um ënns  02020  02020                % 17897 RGTR--
+160201007 Boevange, Beim Wald   02021  02021                % 17897 RGTR--
+160201005 Boevange, Lëtschert   02021  02021                % 17897 RGTR--
+160101008 Bissen, Um Sand       02026  02026                % 17897 RGTR--
+160101002 Bissen, Kräizung      02027  02027                % 17897 RGTR--
+160101004 Bissen, Kiirch        02028  02028                % 17897 RGTR--
+160101007 Bissen, Steekräiz     02030  02030                % 17897 RGTR--
+160102002 Rouscht               02032  02032                % 17897 RGTR--
+160102001 Roost (Bissen), Mold  02033  02033                % 17897 RGTR--
+160301003 Colmar-Berg, Faubour  02035  02035                % 17897 RGTR--
+160301005 Colmar-Berg, Goldbie  02036  02036                % 17897 RGTR--
+160301020 Colmar-Berg, rue de   02036  02036                % 17897 RGTR--
+141301007 Schieren, Porte de S  02038  02038                % 17897 RGTR--
+141301004 Schieren, Neie Wee    02038  02038                % 17897 RGTR--
+141301006 Schieren, Vali's Pla  02039  02039                % 17897 RGTR--
+140701018 Ettelbruck, H.v.Land  02041  02041                % 17897 RGTR--
+140701026 Ettelbruck, Rond Poi  02042  02042                % 17897 RGTR--
+140701015 Ettelbruck, Ecole Pr  02043  02043                % 17897 RGTR--
+140701016 Ettelbruck, Gare      02045                       % 17897 RGTR--
+*Z 17898 RGTR--                                             % 17898 RGTR--
+*L 941      161106001 140701016  02208  02245               % 17898 RGTR--
+*R 2 140701016 161106001 140701016  02208  02245            % 17898 RGTR--
+*G 064 161106001 140701016  02208  02245                    % 17898 RGTR--
+*A VE 161106001 140701016 000040  02208  02245              % 17898 RGTR--
+*I FD 161106001 140701016        0001869  02208  02245      % 17898 RGTR--
+161106001 Tuntange, Duerf              02208                % 17898 RGTR--
+161106002 Tuntange, Kiirch      02209  02209                % 17898 RGTR--
+160202001 Brouch/Mersch, Kierc  02212  02212                % 17898 RGTR--
+160202003 Brouch/Mersch, Knepp  02213  02213                % 17898 RGTR--
+160203001 Buschdorf, Belle Vue  02214  02214                % 17898 RGTR--
+160203003 Buschdorf, Määschhaf  02215  02215                % 17898 RGTR--
+160203002 Buschdorf, Helpërtwe  02216  02216                % 17898 RGTR--
+160206001 Openthalt             02218  02218                % 17898 RGTR--
+160204001 Openthalt, Finsterth  02218  02218                % 17898 RGTR--
+160205002 Grevenknapp, Riesenh  02219  02219                % 17898 RGTR--
+160205003 Grevenknapp, Um ënns  02220  02220                % 17898 RGTR--
+160201007 Boevange, Beim Wald   02221  02221                % 17898 RGTR--
+160201005 Boevange, Lëtschert   02221  02221                % 17898 RGTR--
+160101008 Bissen, Um Sand       02226  02226                % 17898 RGTR--
+160101002 Bissen, Kräizung      02227  02227                % 17898 RGTR--
+160101004 Bissen, Kiirch        02228  02228                % 17898 RGTR--
+160101007 Bissen, Steekräiz     02230  02230                % 17898 RGTR--
+160102002 Rouscht               02232  02232                % 17898 RGTR--
+160102001 Roost (Bissen), Mold  02233  02233                % 17898 RGTR--
+160301003 Colmar-Berg, Faubour  02235  02235                % 17898 RGTR--
+160301005 Colmar-Berg, Goldbie  02236  02236                % 17898 RGTR--
+160301020 Colmar-Berg, rue de   02236  02236                % 17898 RGTR--
+141301007 Schieren, Porte de S  02238  02238                % 17898 RGTR--
+141301004 Schieren, Neie Wee    02238  02238                % 17898 RGTR--
+141301006 Schieren, Vali's Pla  02239  02239                % 17898 RGTR--
+140701018 Ettelbruck, H.v.Land  02241  02241                % 17898 RGTR--
+140701026 Ettelbruck, Rond Poi  02242  02242                % 17898 RGTR--
+140701015 Ettelbruck, Ecole Pr  02243  02243                % 17898 RGTR--
+140701016 Ettelbruck, Gare      02245                       % 17898 RGTR--
+*Z 17899 RGTR--                                             % 17899 RGTR--
+*L 941      161106001 140701016  00508  00545               % 17899 RGTR--
+*R 2 140701016 161106001 140701016  00508  00545            % 17899 RGTR--
+*G 064 161106001 140701016  00508  00545                    % 17899 RGTR--
+*A VE 161106001 140701016 000038  00508  00545              % 17899 RGTR--
+*I FD 161106001 140701016        0001870  00508  00545      % 17899 RGTR--
+161106001 Tuntange, Duerf              00508                % 17899 RGTR--
+161106002 Tuntange, Kiirch      00509  00509                % 17899 RGTR--
+160202001 Brouch/Mersch, Kierc  00512  00512                % 17899 RGTR--
+160202003 Brouch/Mersch, Knepp  00513  00513                % 17899 RGTR--
+160203001 Buschdorf, Belle Vue  00514  00514                % 17899 RGTR--
+160203003 Buschdorf, Määschhaf  00515  00515                % 17899 RGTR--
+160203002 Buschdorf, Helpërtwe  00516  00516                % 17899 RGTR--
+160206001 Openthalt             00518  00518                % 17899 RGTR--
+160204001 Openthalt, Finsterth  00518  00518                % 17899 RGTR--
+160205002 Grevenknapp, Riesenh  00519  00519                % 17899 RGTR--
+160205003 Grevenknapp, Um ënns  00520  00520                % 17899 RGTR--
+160201007 Boevange, Beim Wald   00521  00521                % 17899 RGTR--
+160201005 Boevange, Lëtschert   00521  00521                % 17899 RGTR--
+160101008 Bissen, Um Sand       00526  00526                % 17899 RGTR--
+160101002 Bissen, Kräizung      00527  00527                % 17899 RGTR--
+160101004 Bissen, Kiirch        00528  00528                % 17899 RGTR--
+160101007 Bissen, Steekräiz     00530  00530                % 17899 RGTR--
+160102002 Rouscht               00532  00532                % 17899 RGTR--
+160102001 Roost (Bissen), Mold  00533  00533                % 17899 RGTR--
+160301003 Colmar-Berg, Faubour  00535  00535                % 17899 RGTR--
+160301005 Colmar-Berg, Goldbie  00536  00536                % 17899 RGTR--
+160301020 Colmar-Berg, rue de   00536  00536                % 17899 RGTR--
+141301007 Schieren, Porte de S  00538  00538                % 17899 RGTR--
+141301004 Schieren, Neie Wee    00538  00538                % 17899 RGTR--
+141301006 Schieren, Vali's Pla  00539  00539                % 17899 RGTR--
+140701018 Ettelbruck, H.v.Land  00541  00541                % 17899 RGTR--
+140701026 Ettelbruck, Rond Poi  00542  00542                % 17899 RGTR--
+140701015 Ettelbruck, Ecole Pr  00543  00543                % 17899 RGTR--
+140701016 Ettelbruck, Gare      00545                       % 17899 RGTR--
+*Z 17900 RGTR--                                             % 17900 RGTR--
+*L 941      161106001 140701016  00908  00945               % 17900 RGTR--
+*R 2 140701016 161106001 140701016  00908  00945            % 17900 RGTR--
+*G 064 161106001 140701016  00908  00945                    % 17900 RGTR--
+*A VE 161106001 140701016 000038  00908  00945              % 17900 RGTR--
+*I FD 161106001 140701016        0001880  00908  00945      % 17900 RGTR--
+161106001 Tuntange, Duerf              00908                % 17900 RGTR--
+161106002 Tuntange, Kiirch      00909  00909                % 17900 RGTR--
+160202001 Brouch/Mersch, Kierc  00912  00912                % 17900 RGTR--
+160202003 Brouch/Mersch, Knepp  00913  00913                % 17900 RGTR--
+160203001 Buschdorf, Belle Vue  00914  00914                % 17900 RGTR--
+160203003 Buschdorf, Määschhaf  00915  00915                % 17900 RGTR--
+160203002 Buschdorf, Helpërtwe  00916  00916                % 17900 RGTR--
+160206001 Openthalt             00918  00918                % 17900 RGTR--
+160204001 Openthalt, Finsterth  00918  00918                % 17900 RGTR--
+160205002 Grevenknapp, Riesenh  00919  00919                % 17900 RGTR--
+160205003 Grevenknapp, Um ënns  00920  00920                % 17900 RGTR--
+160201007 Boevange, Beim Wald   00921  00921                % 17900 RGTR--
+160201005 Boevange, Lëtschert   00921  00921                % 17900 RGTR--
+160101008 Bissen, Um Sand       00926  00926                % 17900 RGTR--
+160101002 Bissen, Kräizung      00927  00927                % 17900 RGTR--
+160101004 Bissen, Kiirch        00928  00928                % 17900 RGTR--
+160101007 Bissen, Steekräiz     00930  00930                % 17900 RGTR--
+160102002 Rouscht               00932  00932                % 17900 RGTR--
+160102001 Roost (Bissen), Mold  00933  00933                % 17900 RGTR--
+160301003 Colmar-Berg, Faubour  00935  00935                % 17900 RGTR--
+160301005 Colmar-Berg, Goldbie  00936  00936                % 17900 RGTR--
+160301020 Colmar-Berg, rue de   00936  00936                % 17900 RGTR--
+141301007 Schieren, Porte de S  00938  00938                % 17900 RGTR--
+141301004 Schieren, Neie Wee    00938  00938                % 17900 RGTR--
+141301006 Schieren, Vali's Pla  00939  00939                % 17900 RGTR--
+140701018 Ettelbruck, H.v.Land  00941  00941                % 17900 RGTR--
+140701026 Ettelbruck, Rond Poi  00942  00942                % 17900 RGTR--
+140701015 Ettelbruck, Ecole Pr  00943  00943                % 17900 RGTR--
+140701016 Ettelbruck, Gare      00945                       % 17900 RGTR--
+*Z 17901 RGTR--                                             % 17901 RGTR--
+*L 941      161106001 140701016  00608  00645               % 17901 RGTR--
+*R 2 140701016 161106001 140701016  00608  00645            % 17901 RGTR--
+*G 064 161106001 140701016  00608  00645                    % 17901 RGTR--
+*A VE 161106001 140701016 000016  00608  00645              % 17901 RGTR--
+*I FD 161106001 140701016        0001871  00608  00645      % 17901 RGTR--
+161106001 Tuntange, Duerf              00608                % 17901 RGTR--
+161106002 Tuntange, Kiirch      00609  00609                % 17901 RGTR--
+160202001 Brouch/Mersch, Kierc  00612  00612                % 17901 RGTR--
+160202003 Brouch/Mersch, Knepp  00613  00613                % 17901 RGTR--
+160203001 Buschdorf, Belle Vue  00614  00614                % 17901 RGTR--
+160203003 Buschdorf, Määschhaf  00615  00615                % 17901 RGTR--
+160203002 Buschdorf, Helpërtwe  00616  00616                % 17901 RGTR--
+160206001 Openthalt             00618  00618                % 17901 RGTR--
+160204001 Openthalt, Finsterth  00618  00618                % 17901 RGTR--
+160205002 Grevenknapp, Riesenh  00619  00619                % 17901 RGTR--
+160205003 Grevenknapp, Um ënns  00620  00620                % 17901 RGTR--
+160201007 Boevange, Beim Wald   00621  00621                % 17901 RGTR--
+160201005 Boevange, Lëtschert   00621  00621                % 17901 RGTR--
+160101008 Bissen, Um Sand       00626  00626                % 17901 RGTR--
+160101002 Bissen, Kräizung      00627  00627                % 17901 RGTR--
+160101004 Bissen, Kiirch        00628  00628                % 17901 RGTR--
+160101007 Bissen, Steekräiz     00630  00630                % 17901 RGTR--
+160102002 Rouscht               00632  00632                % 17901 RGTR--
+160102001 Roost (Bissen), Mold  00633  00633                % 17901 RGTR--
+160301003 Colmar-Berg, Faubour  00635  00635                % 17901 RGTR--
+160301005 Colmar-Berg, Goldbie  00636  00636                % 17901 RGTR--
+160301020 Colmar-Berg, rue de   00636  00636                % 17901 RGTR--
+141301007 Schieren, Porte de S  00638  00638                % 17901 RGTR--
+141301004 Schieren, Neie Wee    00638  00638                % 17901 RGTR--
+141301006 Schieren, Vali's Pla  00639  00639                % 17901 RGTR--
+140701018 Ettelbruck, H.v.Land  00641  00641                % 17901 RGTR--
+140701026 Ettelbruck, Rond Poi  00642  00642                % 17901 RGTR--
+140701015 Ettelbruck, Ecole Pr  00643  00643                % 17901 RGTR--
+140701016 Ettelbruck, Gare      00645                       % 17901 RGTR--
+*Z 17902 RGTR--                                             % 17902 RGTR--
+*L 941      161106001 140701016  00808  00845               % 17902 RGTR--
+*R 2 140701016 161106001 140701016  00808  00845            % 17902 RGTR--
+*G 064 161106001 140701016  00808  00845                    % 17902 RGTR--
+*A VE 161106001 140701016 000016  00808  00845              % 17902 RGTR--
+*I FD 161106001 140701016        0001876  00808  00845      % 17902 RGTR--
+161106001 Tuntange, Duerf              00808                % 17902 RGTR--
+161106002 Tuntange, Kiirch      00809  00809                % 17902 RGTR--
+160202001 Brouch/Mersch, Kierc  00812  00812                % 17902 RGTR--
+160202003 Brouch/Mersch, Knepp  00813  00813                % 17902 RGTR--
+160203001 Buschdorf, Belle Vue  00814  00814                % 17902 RGTR--
+160203003 Buschdorf, Määschhaf  00815  00815                % 17902 RGTR--
+160203002 Buschdorf, Helpërtwe  00816  00816                % 17902 RGTR--
+160206001 Openthalt             00818  00818                % 17902 RGTR--
+160204001 Openthalt, Finsterth  00818  00818                % 17902 RGTR--
+160205002 Grevenknapp, Riesenh  00819  00819                % 17902 RGTR--
+160205003 Grevenknapp, Um ënns  00820  00820                % 17902 RGTR--
+160201007 Boevange, Beim Wald   00821  00821                % 17902 RGTR--
+160201005 Boevange, Lëtschert   00821  00821                % 17902 RGTR--
+160101008 Bissen, Um Sand       00826  00826                % 17902 RGTR--
+160101002 Bissen, Kräizung      00827  00827                % 17902 RGTR--
+160101004 Bissen, Kiirch        00828  00828                % 17902 RGTR--
+160101007 Bissen, Steekräiz     00830  00830                % 17902 RGTR--
+160102002 Rouscht               00832  00832                % 17902 RGTR--
+160102001 Roost (Bissen), Mold  00833  00833                % 17902 RGTR--
+160301003 Colmar-Berg, Faubour  00835  00835                % 17902 RGTR--
+160301005 Colmar-Berg, Goldbie  00836  00836                % 17902 RGTR--
+160301020 Colmar-Berg, rue de   00836  00836                % 17902 RGTR--
+141301007 Schieren, Porte de S  00838  00838                % 17902 RGTR--
+141301004 Schieren, Neie Wee    00838  00838                % 17902 RGTR--
+141301006 Schieren, Vali's Pla  00839  00839                % 17902 RGTR--
+140701018 Ettelbruck, H.v.Land  00841  00841                % 17902 RGTR--
+140701026 Ettelbruck, Rond Poi  00842  00842                % 17902 RGTR--
+140701015 Ettelbruck, Ecole Pr  00843  00843                % 17902 RGTR--
+140701016 Ettelbruck, Gare      00845                       % 17902 RGTR--
+*Z 17903 RGTR--                                             % 17903 RGTR--
+*L 941      161106001 140701016  01608  01645               % 17903 RGTR--
+*R 2 140701016 161106001 140701016  01608  01645            % 17903 RGTR--
+*G 064 161106001 140701016  01608  01645                    % 17903 RGTR--
+*A VE 161106001 140701016 000016  01608  01645              % 17903 RGTR--
+*I FD 161106001 140701016        0001877  01608  01645      % 17903 RGTR--
+161106001 Tuntange, Duerf              01608                % 17903 RGTR--
+161106002 Tuntange, Kiirch      01609  01609                % 17903 RGTR--
+160202001 Brouch/Mersch, Kierc  01612  01612                % 17903 RGTR--
+160202003 Brouch/Mersch, Knepp  01613  01613                % 17903 RGTR--
+160203001 Buschdorf, Belle Vue  01614  01614                % 17903 RGTR--
+160203003 Buschdorf, Määschhaf  01615  01615                % 17903 RGTR--
+160203002 Buschdorf, Helpërtwe  01616  01616                % 17903 RGTR--
+160206001 Openthalt             01618  01618                % 17903 RGTR--
+160204001 Openthalt, Finsterth  01618  01618                % 17903 RGTR--
+160205002 Grevenknapp, Riesenh  01619  01619                % 17903 RGTR--
+160205003 Grevenknapp, Um ënns  01620  01620                % 17903 RGTR--
+160201007 Boevange, Beim Wald   01621  01621                % 17903 RGTR--
+160201005 Boevange, Lëtschert   01621  01621                % 17903 RGTR--
+160101008 Bissen, Um Sand       01626  01626                % 17903 RGTR--
+160101002 Bissen, Kräizung      01627  01627                % 17903 RGTR--
+160101004 Bissen, Kiirch        01628  01628                % 17903 RGTR--
+160101007 Bissen, Steekräiz     01630  01630                % 17903 RGTR--
+160102002 Rouscht               01632  01632                % 17903 RGTR--
+160102001 Roost (Bissen), Mold  01633  01633                % 17903 RGTR--
+160301003 Colmar-Berg, Faubour  01635  01635                % 17903 RGTR--
+160301005 Colmar-Berg, Goldbie  01636  01636                % 17903 RGTR--
+160301020 Colmar-Berg, rue de   01636  01636                % 17903 RGTR--
+141301007 Schieren, Porte de S  01638  01638                % 17903 RGTR--
+141301004 Schieren, Neie Wee    01638  01638                % 17903 RGTR--
+141301006 Schieren, Vali's Pla  01639  01639                % 17903 RGTR--
+140701018 Ettelbruck, H.v.Land  01641  01641                % 17903 RGTR--
+140701026 Ettelbruck, Rond Poi  01642  01642                % 17903 RGTR--
+140701015 Ettelbruck, Ecole Pr  01643  01643                % 17903 RGTR--
+140701016 Ettelbruck, Gare      01645                       % 17903 RGTR--
+*Z 17904 RGTR--                                             % 17904 RGTR--
+*L 941      161106001 140701016  01808  01845               % 17904 RGTR--
+*R 2 140701016 161106001 140701016  01808  01845            % 17904 RGTR--
+*G 064 161106001 140701016  01808  01845                    % 17904 RGTR--
+*A VE 161106001 140701016 000016  01808  01845              % 17904 RGTR--
+*I FD 161106001 140701016        0001878  01808  01845      % 17904 RGTR--
+161106001 Tuntange, Duerf              01808                % 17904 RGTR--
+161106002 Tuntange, Kiirch      01809  01809                % 17904 RGTR--
+160202001 Brouch/Mersch, Kierc  01812  01812                % 17904 RGTR--
+160202003 Brouch/Mersch, Knepp  01813  01813                % 17904 RGTR--
+160203001 Buschdorf, Belle Vue  01814  01814                % 17904 RGTR--
+160203003 Buschdorf, Määschhaf  01815  01815                % 17904 RGTR--
+160203002 Buschdorf, Helpërtwe  01816  01816                % 17904 RGTR--
+160206001 Openthalt             01818  01818                % 17904 RGTR--
+160204001 Openthalt, Finsterth  01818  01818                % 17904 RGTR--
+160205002 Grevenknapp, Riesenh  01819  01819                % 17904 RGTR--
+160205003 Grevenknapp, Um ënns  01820  01820                % 17904 RGTR--
+160201007 Boevange, Beim Wald   01821  01821                % 17904 RGTR--
+160201005 Boevange, Lëtschert   01821  01821                % 17904 RGTR--
+160101008 Bissen, Um Sand       01826  01826                % 17904 RGTR--
+160101002 Bissen, Kräizung      01827  01827                % 17904 RGTR--
+160101004 Bissen, Kiirch        01828  01828                % 17904 RGTR--
+160101007 Bissen, Steekräiz     01830  01830                % 17904 RGTR--
+160102002 Rouscht               01832  01832                % 17904 RGTR--
+160102001 Roost (Bissen), Mold  01833  01833                % 17904 RGTR--
+160301003 Colmar-Berg, Faubour  01835  01835                % 17904 RGTR--
+160301005 Colmar-Berg, Goldbie  01836  01836                % 17904 RGTR--
+160301020 Colmar-Berg, rue de   01836  01836                % 17904 RGTR--
+141301007 Schieren, Porte de S  01838  01838                % 17904 RGTR--
+141301004 Schieren, Neie Wee    01838  01838                % 17904 RGTR--
+141301006 Schieren, Vali's Pla  01839  01839                % 17904 RGTR--
+140701018 Ettelbruck, H.v.Land  01841  01841                % 17904 RGTR--
+140701026 Ettelbruck, Rond Poi  01842  01842                % 17904 RGTR--
+140701015 Ettelbruck, Ecole Pr  01843  01843                % 17904 RGTR--
+140701016 Ettelbruck, Gare      01845                       % 17904 RGTR--
+*Z 17905 RGTR--                                             % 17905 RGTR--
+*L 941      161106001 140701016  00608  00648               % 17905 RGTR--
+*R 2 140701016 161106001 140701016  00608  00648            % 17905 RGTR--
+*G 064 161106001 140701016  00608  00648                    % 17905 RGTR--
+*A VE 161106001 140701016 000038  00608  00648              % 17905 RGTR--
+*I FD 161106001 140701016        0001871  00608  00648      % 17905 RGTR--
+161106001 Tuntange, Duerf              00608                % 17905 RGTR--
+161106002 Tuntange, Kiirch      00609  00609                % 17905 RGTR--
+160202001 Brouch/Mersch, Kierc  00612  00612                % 17905 RGTR--
+160202003 Brouch/Mersch, Knepp  00613  00613                % 17905 RGTR--
+160203001 Buschdorf, Belle Vue  00615  00615                % 17905 RGTR--
+160203003 Buschdorf, Määschhaf  00616  00616                % 17905 RGTR--
+160203002 Buschdorf, Helpërtwe  00617  00617                % 17905 RGTR--
+160206001 Openthalt             00619  00619                % 17905 RGTR--
+160204001 Openthalt, Finsterth  00619  00619                % 17905 RGTR--
+160205002 Grevenknapp, Riesenh  00620  00620                % 17905 RGTR--
+160205003 Grevenknapp, Um ënns  00621  00621                % 17905 RGTR--
+160201007 Boevange, Beim Wald   00622  00622                % 17905 RGTR--
+160201005 Boevange, Lëtschert   00622  00622                % 17905 RGTR--
+160101008 Bissen, Um Sand       00627  00627                % 17905 RGTR--
+160101002 Bissen, Kräizung      00629  00629                % 17905 RGTR--
+160101004 Bissen, Kiirch        00630  00630                % 17905 RGTR--
+160101007 Bissen, Steekräiz     00631  00631                % 17905 RGTR--
+160102002 Rouscht               00633  00633                % 17905 RGTR--
+160102001 Roost (Bissen), Mold  00634  00634                % 17905 RGTR--
+160301003 Colmar-Berg, Faubour  00637  00637                % 17905 RGTR--
+160301005 Colmar-Berg, Goldbie  00637  00637                % 17905 RGTR--
+160301020 Colmar-Berg, rue de   00638  00638                % 17905 RGTR--
+141301007 Schieren, Porte de S  00639  00639                % 17905 RGTR--
+141301004 Schieren, Neie Wee    00640  00640                % 17905 RGTR--
+141301006 Schieren, Vali's Pla  00641  00641                % 17905 RGTR--
+140701018 Ettelbruck, H.v.Land  00643  00643                % 17905 RGTR--
+140701026 Ettelbruck, Rond Poi  00645  00645                % 17905 RGTR--
+140701015 Ettelbruck, Ecole Pr  00646  00646                % 17905 RGTR--
+140701016 Ettelbruck, Gare      00648                       % 17905 RGTR--
+*Z 17906 RGTR--                                             % 17906 RGTR--
+*L 941      161106001 140701016  00708  00748               % 17906 RGTR--
+*R 2 140701016 161106001 140701016  00708  00748            % 17906 RGTR--
+*G 064 161106001 140701016  00708  00748                    % 17906 RGTR--
+*A VE 161106001 140701016 000038  00708  00748              % 17906 RGTR--
+*I FD 161106001 140701016        0001879  00708  00748      % 17906 RGTR--
+161106001 Tuntange, Duerf              00708                % 17906 RGTR--
+161106002 Tuntange, Kiirch      00709  00709                % 17906 RGTR--
+160202001 Brouch/Mersch, Kierc  00712  00712                % 17906 RGTR--
+160202003 Brouch/Mersch, Knepp  00713  00713                % 17906 RGTR--
+160203001 Buschdorf, Belle Vue  00715  00715                % 17906 RGTR--
+160203003 Buschdorf, Määschhaf  00716  00716                % 17906 RGTR--
+160203002 Buschdorf, Helpërtwe  00717  00717                % 17906 RGTR--
+160206001 Openthalt             00719  00719                % 17906 RGTR--
+160204001 Openthalt, Finsterth  00719  00719                % 17906 RGTR--
+160205002 Grevenknapp, Riesenh  00720  00720                % 17906 RGTR--
+160205003 Grevenknapp, Um ënns  00721  00721                % 17906 RGTR--
+160201007 Boevange, Beim Wald   00722  00722                % 17906 RGTR--
+160201005 Boevange, Lëtschert   00722  00722                % 17906 RGTR--
+160101008 Bissen, Um Sand       00727  00727                % 17906 RGTR--
+160101002 Bissen, Kräizung      00729  00729                % 17906 RGTR--
+160101004 Bissen, Kiirch        00730  00730                % 17906 RGTR--
+160101007 Bissen, Steekräiz     00731  00731                % 17906 RGTR--
+160102002 Rouscht               00733  00733                % 17906 RGTR--
+160102001 Roost (Bissen), Mold  00734  00734                % 17906 RGTR--
+160301003 Colmar-Berg, Faubour  00737  00737                % 17906 RGTR--
+160301005 Colmar-Berg, Goldbie  00737  00737                % 17906 RGTR--
+160301020 Colmar-Berg, rue de   00738  00738                % 17906 RGTR--
+141301007 Schieren, Porte de S  00739  00739                % 17906 RGTR--
+141301004 Schieren, Neie Wee    00740  00740                % 17906 RGTR--
+141301006 Schieren, Vali's Pla  00741  00741                % 17906 RGTR--
+140701018 Ettelbruck, H.v.Land  00743  00743                % 17906 RGTR--
+140701026 Ettelbruck, Rond Poi  00745  00745                % 17906 RGTR--
+140701015 Ettelbruck, Ecole Pr  00746  00746                % 17906 RGTR--
+140701016 Ettelbruck, Gare      00748                       % 17906 RGTR--
+*Z 17907 RGTR--                                             % 17907 RGTR--
+*L 941      161106001 140701016  00808  00848               % 17907 RGTR--
+*R 2 140701016 161106001 140701016  00808  00848            % 17907 RGTR--
+*G 064 161106001 140701016  00808  00848                    % 17907 RGTR--
+*A VE 161106001 140701016 000038  00808  00848              % 17907 RGTR--
+*I FD 161106001 140701016        0001876  00808  00848      % 17907 RGTR--
+161106001 Tuntange, Duerf              00808                % 17907 RGTR--
+161106002 Tuntange, Kiirch      00809  00809                % 17907 RGTR--
+160202001 Brouch/Mersch, Kierc  00812  00812                % 17907 RGTR--
+160202003 Brouch/Mersch, Knepp  00813  00813                % 17907 RGTR--
+160203001 Buschdorf, Belle Vue  00815  00815                % 17907 RGTR--
+160203003 Buschdorf, Määschhaf  00816  00816                % 17907 RGTR--
+160203002 Buschdorf, Helpërtwe  00817  00817                % 17907 RGTR--
+160206001 Openthalt             00819  00819                % 17907 RGTR--
+160204001 Openthalt, Finsterth  00819  00819                % 17907 RGTR--
+160205002 Grevenknapp, Riesenh  00820  00820                % 17907 RGTR--
+160205003 Grevenknapp, Um ënns  00821  00821                % 17907 RGTR--
+160201007 Boevange, Beim Wald   00822  00822                % 17907 RGTR--
+160201005 Boevange, Lëtschert   00822  00822                % 17907 RGTR--
+160101008 Bissen, Um Sand       00827  00827                % 17907 RGTR--
+160101002 Bissen, Kräizung      00829  00829                % 17907 RGTR--
+160101004 Bissen, Kiirch        00830  00830                % 17907 RGTR--
+160101007 Bissen, Steekräiz     00831  00831                % 17907 RGTR--
+160102002 Rouscht               00833  00833                % 17907 RGTR--
+160102001 Roost (Bissen), Mold  00834  00834                % 17907 RGTR--
+160301003 Colmar-Berg, Faubour  00837  00837                % 17907 RGTR--
+160301005 Colmar-Berg, Goldbie  00837  00837                % 17907 RGTR--
+160301020 Colmar-Berg, rue de   00838  00838                % 17907 RGTR--
+141301007 Schieren, Porte de S  00839  00839                % 17907 RGTR--
+141301004 Schieren, Neie Wee    00840  00840                % 17907 RGTR--
+141301006 Schieren, Vali's Pla  00841  00841                % 17907 RGTR--
+140701018 Ettelbruck, H.v.Land  00843  00843                % 17907 RGTR--
+140701026 Ettelbruck, Rond Poi  00845  00845                % 17907 RGTR--
+140701015 Ettelbruck, Ecole Pr  00846  00846                % 17907 RGTR--
+140701016 Ettelbruck, Gare      00848                       % 17907 RGTR--
+*Z 17908 RGTR--                                             % 17908 RGTR--
+*L 941      161106001 140701016  01608  01648               % 17908 RGTR--
+*R 2 140701016 161106001 140701016  01608  01648            % 17908 RGTR--
+*G 064 161106001 140701016  01608  01648                    % 17908 RGTR--
+*A VE 161106001 140701016 000038  01608  01648              % 17908 RGTR--
+*I FD 161106001 140701016        0001877  01608  01648      % 17908 RGTR--
+161106001 Tuntange, Duerf              01608                % 17908 RGTR--
+161106002 Tuntange, Kiirch      01609  01609                % 17908 RGTR--
+160202001 Brouch/Mersch, Kierc  01612  01612                % 17908 RGTR--
+160202003 Brouch/Mersch, Knepp  01613  01613                % 17908 RGTR--
+160203001 Buschdorf, Belle Vue  01615  01615                % 17908 RGTR--
+160203003 Buschdorf, Määschhaf  01616  01616                % 17908 RGTR--
+160203002 Buschdorf, Helpërtwe  01617  01617                % 17908 RGTR--
+160206001 Openthalt             01619  01619                % 17908 RGTR--
+160204001 Openthalt, Finsterth  01619  01619                % 17908 RGTR--
+160205002 Grevenknapp, Riesenh  01620  01620                % 17908 RGTR--
+160205003 Grevenknapp, Um ënns  01621  01621                % 17908 RGTR--
+160201007 Boevange, Beim Wald   01622  01622                % 17908 RGTR--
+160201005 Boevange, Lëtschert   01622  01622                % 17908 RGTR--
+160101008 Bissen, Um Sand       01627  01627                % 17908 RGTR--
+160101002 Bissen, Kräizung      01629  01629                % 17908 RGTR--
+160101004 Bissen, Kiirch        01630  01630                % 17908 RGTR--
+160101007 Bissen, Steekräiz     01631  01631                % 17908 RGTR--
+160102002 Rouscht               01633  01633                % 17908 RGTR--
+160102001 Roost (Bissen), Mold  01634  01634                % 17908 RGTR--
+160301003 Colmar-Berg, Faubour  01637  01637                % 17908 RGTR--
+160301005 Colmar-Berg, Goldbie  01637  01637                % 17908 RGTR--
+160301020 Colmar-Berg, rue de   01638  01638                % 17908 RGTR--
+141301007 Schieren, Porte de S  01639  01639                % 17908 RGTR--
+141301004 Schieren, Neie Wee    01640  01640                % 17908 RGTR--
+141301006 Schieren, Vali's Pla  01641  01641                % 17908 RGTR--
+140701018 Ettelbruck, H.v.Land  01643  01643                % 17908 RGTR--
+140701026 Ettelbruck, Rond Poi  01645  01645                % 17908 RGTR--
+140701015 Ettelbruck, Ecole Pr  01646  01646                % 17908 RGTR--
+140701016 Ettelbruck, Gare      01648                       % 17908 RGTR--
+*Z 17909 RGTR--                                             % 17909 RGTR--
+*L 941      161106001 140701016  01708  01748               % 17909 RGTR--
+*R 2 140701016 161106001 140701016  01708  01748            % 17909 RGTR--
+*G 064 161106001 140701016  01708  01748                    % 17909 RGTR--
+*A VE 161106001 140701016 000038  01708  01748              % 17909 RGTR--
+*I FD 161106001 140701016        0001881  01708  01748      % 17909 RGTR--
+161106001 Tuntange, Duerf              01708                % 17909 RGTR--
+161106002 Tuntange, Kiirch      01709  01709                % 17909 RGTR--
+160202001 Brouch/Mersch, Kierc  01712  01712                % 17909 RGTR--
+160202003 Brouch/Mersch, Knepp  01713  01713                % 17909 RGTR--
+160203001 Buschdorf, Belle Vue  01715  01715                % 17909 RGTR--
+160203003 Buschdorf, Määschhaf  01716  01716                % 17909 RGTR--
+160203002 Buschdorf, Helpërtwe  01717  01717                % 17909 RGTR--
+160206001 Openthalt             01719  01719                % 17909 RGTR--
+160204001 Openthalt, Finsterth  01719  01719                % 17909 RGTR--
+160205002 Grevenknapp, Riesenh  01720  01720                % 17909 RGTR--
+160205003 Grevenknapp, Um ënns  01721  01721                % 17909 RGTR--
+160201007 Boevange, Beim Wald   01722  01722                % 17909 RGTR--
+160201005 Boevange, Lëtschert   01722  01722                % 17909 RGTR--
+160101008 Bissen, Um Sand       01727  01727                % 17909 RGTR--
+160101002 Bissen, Kräizung      01729  01729                % 17909 RGTR--
+160101004 Bissen, Kiirch        01730  01730                % 17909 RGTR--
+160101007 Bissen, Steekräiz     01731  01731                % 17909 RGTR--
+160102002 Rouscht               01733  01733                % 17909 RGTR--
+160102001 Roost (Bissen), Mold  01734  01734                % 17909 RGTR--
+160301003 Colmar-Berg, Faubour  01737  01737                % 17909 RGTR--
+160301005 Colmar-Berg, Goldbie  01737  01737                % 17909 RGTR--
+160301020 Colmar-Berg, rue de   01738  01738                % 17909 RGTR--
+141301007 Schieren, Porte de S  01739  01739                % 17909 RGTR--
+141301004 Schieren, Neie Wee    01740  01740                % 17909 RGTR--
+141301006 Schieren, Vali's Pla  01741  01741                % 17909 RGTR--
+140701018 Ettelbruck, H.v.Land  01743  01743                % 17909 RGTR--
+140701026 Ettelbruck, Rond Poi  01745  01745                % 17909 RGTR--
+140701015 Ettelbruck, Ecole Pr  01746  01746                % 17909 RGTR--
+140701016 Ettelbruck, Gare      01748                       % 17909 RGTR--
+*Z 17910 RGTR--                                             % 17910 RGTR--
+*L 941      161106001 140701016  01808  01848               % 17910 RGTR--
+*R 2 140701016 161106001 140701016  01808  01848            % 17910 RGTR--
+*G 064 161106001 140701016  01808  01848                    % 17910 RGTR--
+*A VE 161106001 140701016 000038  01808  01848              % 17910 RGTR--
+*I FD 161106001 140701016        0001878  01808  01848      % 17910 RGTR--
+161106001 Tuntange, Duerf              01808                % 17910 RGTR--
+161106002 Tuntange, Kiirch      01809  01809                % 17910 RGTR--
+160202001 Brouch/Mersch, Kierc  01812  01812                % 17910 RGTR--
+160202003 Brouch/Mersch, Knepp  01813  01813                % 17910 RGTR--
+160203001 Buschdorf, Belle Vue  01815  01815                % 17910 RGTR--
+160203003 Buschdorf, Määschhaf  01816  01816                % 17910 RGTR--
+160203002 Buschdorf, Helpërtwe  01817  01817                % 17910 RGTR--
+160206001 Openthalt             01819  01819                % 17910 RGTR--
+160204001 Openthalt, Finsterth  01819  01819                % 17910 RGTR--
+160205002 Grevenknapp, Riesenh  01820  01820                % 17910 RGTR--
+160205003 Grevenknapp, Um ënns  01821  01821                % 17910 RGTR--
+160201007 Boevange, Beim Wald   01822  01822                % 17910 RGTR--
+160201005 Boevange, Lëtschert   01822  01822                % 17910 RGTR--
+160101008 Bissen, Um Sand       01827  01827                % 17910 RGTR--
+160101002 Bissen, Kräizung      01829  01829                % 17910 RGTR--
+160101004 Bissen, Kiirch        01830  01830                % 17910 RGTR--
+160101007 Bissen, Steekräiz     01831  01831                % 17910 RGTR--
+160102002 Rouscht               01833  01833                % 17910 RGTR--
+160102001 Roost (Bissen), Mold  01834  01834                % 17910 RGTR--
+160301003 Colmar-Berg, Faubour  01837  01837                % 17910 RGTR--
+160301005 Colmar-Berg, Goldbie  01837  01837                % 17910 RGTR--
+160301020 Colmar-Berg, rue de   01838  01838                % 17910 RGTR--
+141301007 Schieren, Porte de S  01839  01839                % 17910 RGTR--
+141301004 Schieren, Neie Wee    01840  01840                % 17910 RGTR--
+141301006 Schieren, Vali's Pla  01841  01841                % 17910 RGTR--
+140701018 Ettelbruck, H.v.Land  01843  01843                % 17910 RGTR--
+140701026 Ettelbruck, Rond Poi  01845  01845                % 17910 RGTR--
+140701015 Ettelbruck, Ecole Pr  01846  01846                % 17910 RGTR--
+140701016 Ettelbruck, Gare      01848                       % 17910 RGTR--

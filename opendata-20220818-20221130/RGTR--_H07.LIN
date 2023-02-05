@@ -1,0 +1,171 @@
+*F 03 2
+*Z 18563 RGTR--                                             % 18563 RGTR--
+*L H07      160909001 160904001  00655  00703               % 18563 RGTR--
+*A cj 160909001 160904001 000042  00655  00703              % 18563 RGTR--
+*A ad 160909001 160904001 000042  00655  00703              % 18563 RGTR--
+*R 1 160904001 160909001 160904001  00655  00703            % 18563 RGTR--
+*G 060 160909001 160904001  00655  00703                    % 18563 RGTR--
+*A VE 160909001 160904001 000042  00655  00703              % 18563 RGTR--
+*I FD 160909001 160904001        0001920  00655  00703      % 18563 RGTR--
+160909001 Schoenfels, Duerf            00655                % 18563 RGTR--
+160909002 Schoenfels, Schlass   00655  00655                % 18563 RGTR--
+160904006 Mersch, Uewermiersch  00659  00659                % 18563 RGTR--
+160904010 Mersch, Nic. Welter   00659  00659                % 18563 RGTR--
+160904003 Mersch, Maartplaz     00700  00700                % 18563 RGTR--
+160904005 Mersch, Stäereplaz    00702  00702                % 18563 RGTR--
+160904001 Mersch, Gare routièr  00703                       % 18563 RGTR--
+*Z 18564 RGTR--                                             % 18564 RGTR--
+*L H07      191103002 160904001  00700  00754               % 18564 RGTR--
+*A cj 191103002 160904001 000042  00700  00754              % 18564 RGTR--
+*A ad 191103002 160904001 000042  00700  00754              % 18564 RGTR--
+*R 1 160904001 191103002 160904001  00700  00754            % 18564 RGTR--
+*G 060 191103002 160904001  00700  00754                    % 18564 RGTR--
+*A VE 191103002 160904001 000042  00700  00754              % 18564 RGTR--
+*I FD 191103002 160904001        0001729  00700  00754      % 18564 RGTR--
+191103002 Kleinbettingen, Gare         00700                % 18564 RGTR--
+191103001 Kleinbettingen, Duer  00700  00700                % 18564 RGTR--
+191104007 Steinfort, Schoul     00703  00703                % 18564 RGTR--
+191104009 Steinfort, Äischzent  00705  00705                % 18564 RGTR--
+190704001 Wandhaff              00710  00710                % 18564 RGTR--
+190901005 Capellen, Ponts & Ch  00711  00711                % 18564 RGTR--
+190901003 Capellen, Klouschter  00713  00713                % 18564 RGTR--
+190901004 Capellen, Police      00714  00714                % 18564 RGTR--
+190901002 Capellen, Hireknapp   00715  00715                % 18564 RGTR--
+190903016 Mamer, Scoutshome     00716  00716                % 18564 RGTR--
+190903005 Mamer, Eglantiers     00717  00717                % 18564 RGTR--
+190903012 Mamer, Mambra         00718  00718                % 18564 RGTR--
+190903002 Mamer, Baerendall     00719  00719                % 18564 RGTR--
+190903001 Mamer, Arelerstrooss  00719  00719                % 18564 RGTR--
+190903007 Mamer, Gaaschtbierg   00721  00721                % 18564 RGTR--
+190903013 Mamer, Tossebierg     00722  00722                % 18564 RGTR--
+200101002 Bertrange, Belle Eto  00724  00724                % 18564 RGTR--
+200901011 Strassen, Schoenacht  00725  00725                % 18564 RGTR--
+200901016 Strassen, Geesseneck  00726  00726                % 18564 RGTR--
+190801003 Bridel, Schanz        00733  00733                % 18564 RGTR--
+190801004 Bridel, Stuff         00733  00733                % 18564 RGTR--
+190801005 Bridel, Taverne       00735  00735                % 18564 RGTR--
+190801002 Bridel, Flamo         00735  00735                % 18564 RGTR--
+190801001 Bridel, Berk          00736  00736                % 18564 RGTR--
+190802002 Kopstal, Kapell       00737  00737                % 18564 RGTR--
+190802001 Kopstal, Bréck        00738  00738                % 18564 RGTR--
+190802003 Kopstal, Saangen      00739  00739                % 18564 RGTR--
+190607001 Direndall             00742  00742                % 18564 RGTR--
+160909001 Schoenfels, Duerf     00746  00746                % 18564 RGTR--
+160909002 Schoenfels, Schlass   00746  00746                % 18564 RGTR--
+160904006 Mersch, Uewermiersch  00750  00750                % 18564 RGTR--
+160904010 Mersch, Nic. Welter   00750  00750                % 18564 RGTR--
+160904003 Mersch, Maartplaz     00751  00751                % 18564 RGTR--
+160904005 Mersch, Stäereplaz    00753  00753                % 18564 RGTR--
+160904001 Mersch, Gare routièr  00754                       % 18564 RGTR--
+*Z 18565 RGTR--                                             % 18565 RGTR--
+*L H07      160904001 160909001  01227  01233               % 18565 RGTR--
+*A cj 160904001 160909001 000042  01227  01233              % 18565 RGTR--
+*A ad 160904001 160909001 000042  01227  01233              % 18565 RGTR--
+*R 2 160909001 160904001 160909001  01227  01233            % 18565 RGTR--
+*G 060 160904001 160909001  01227  01233                    % 18565 RGTR--
+*A VE 160904001 160909001 000042  01227  01233              % 18565 RGTR--
+*I FD 160904001 160909001        0002443  01227  01233      % 18565 RGTR--
+160904001 Mersch, Gare routièr         01227                % 18565 RGTR--
+160904003 Mersch, Maartplaz     01228  01228                % 18565 RGTR--
+160904010 Mersch, Nic. Welter   01228  01228                % 18565 RGTR--
+160904006 Mersch, Uewermiersch  01229  01229                % 18565 RGTR--
+160909002 Schoenfels, Schlass   01232  01232                % 18565 RGTR--
+160909001 Schoenfels, Duerf     01233                       % 18565 RGTR--
+*Z 18566 RGTR--                                             % 18566 RGTR--
+*L H07      160904001 160909001  01455  01501               % 18566 RGTR--
+*A cj 160904001 160909001 000042  01455  01501              % 18566 RGTR--
+*A ad 160904001 160909001 000042  01455  01501              % 18566 RGTR--
+*R 2 160909001 160904001 160909001  01455  01501            % 18566 RGTR--
+*G 060 160904001 160909001  01455  01501                    % 18566 RGTR--
+*A VE 160904001 160909001 000042  01455  01501              % 18566 RGTR--
+*I FD 160904001 160909001        0002537  01455  01501      % 18566 RGTR--
+160904001 Mersch, Gare routièr         01455                % 18566 RGTR--
+160904003 Mersch, Maartplaz     01456  01456                % 18566 RGTR--
+160904010 Mersch, Nic. Welter   01456  01456                % 18566 RGTR--
+160904006 Mersch, Uewermiersch  01457  01457                % 18566 RGTR--
+160909002 Schoenfels, Schlass   01500  01500                % 18566 RGTR--
+160909001 Schoenfels, Duerf     01501                       % 18566 RGTR--
+*Z 18567 RGTR--                                             % 18567 RGTR--
+*L H07      160904001 191103002  01635  01731               % 18567 RGTR--
+*A cj 160904001 191103002 000042  01635  01731              % 18567 RGTR--
+*A ad 160904001 191103002 000042  01635  01731              % 18567 RGTR--
+*R 2 191103002 160904001 191103002  01635  01731            % 18567 RGTR--
+*G 060 160904001 191103002  01635  01731                    % 18567 RGTR--
+*A VE 160904001 191103002 000042  01635  01731              % 18567 RGTR--
+*I FD 160904001 191103002        0002044  01635  01731      % 18567 RGTR--
+160904001 Mersch, Gare routièr         01635                % 18567 RGTR--
+160904003 Mersch, Maartplaz     01636  01636                % 18567 RGTR--
+160904010 Mersch, Nic. Welter   01636  01636                % 18567 RGTR--
+160904006 Mersch, Uewermiersch  01637  01637                % 18567 RGTR--
+160909002 Schoenfels, Schlass   01640  01640                % 18567 RGTR--
+160909001 Schoenfels, Duerf     01641  01641                % 18567 RGTR--
+190607001 Direndall             01645  01645                % 18567 RGTR--
+190802003 Kopstal, Saangen      01647  01647                % 18567 RGTR--
+190802001 Kopstal, Bréck        01649  01649                % 18567 RGTR--
+190802004 Kopstal, Kléipesch    01650  01650                % 18567 RGTR--
+190801001 Bridel, Berk          01652  01652                % 18567 RGTR--
+190801002 Bridel, Flamo         01653  01653                % 18567 RGTR--
+190801005 Bridel, Taverne       01654  01654                % 18567 RGTR--
+190801004 Bridel, Stuff         01655  01655                % 18567 RGTR--
+190801003 Bridel, Schanz        01656  01656                % 18567 RGTR--
+200901016 Strassen, Geesseneck  01704  01704                % 18567 RGTR--
+200901011 Strassen, Schoenacht  01705  01705                % 18567 RGTR--
+200101002 Bertrange, Belle Eto  01707  01707                % 18567 RGTR--
+190903013 Mamer, Tossebierg     01709  01709                % 18567 RGTR--
+190903007 Mamer, Gaaschtbierg   01710  01710                % 18567 RGTR--
+190903001 Mamer, Arelerstrooss  01711  01711                % 18567 RGTR--
+190903002 Mamer, Baerendall     01711  01711                % 18567 RGTR--
+190903012 Mamer, Mambra         01712  01712                % 18567 RGTR--
+190903005 Mamer, Eglantiers     01713  01713                % 18567 RGTR--
+190903016 Mamer, Scoutshome     01714  01714                % 18567 RGTR--
+190901002 Capellen, Hireknapp   01715  01715                % 18567 RGTR--
+190901004 Capellen, Police      01716  01716                % 18567 RGTR--
+190901003 Capellen, Klouschter  01717  01717                % 18567 RGTR--
+190901005 Capellen, Ponts & Ch  01718  01718                % 18567 RGTR--
+190704001 Wandhaff              01721  01721                % 18567 RGTR--
+191104009 Steinfort, Äischzent  01724  01724                % 18567 RGTR--
+191104007 Steinfort, Schoul     01727  01727                % 18567 RGTR--
+191103001 Kleinbettingen, Duer  01730  01730                % 18567 RGTR--
+191103002 Kleinbettingen, Gare  01731                       % 18567 RGTR--
+*Z 18568 RGTR--                                             % 18568 RGTR--
+*L H07      160904001 191103002  01415  01511               % 18568 RGTR--
+*A cj 160904001 191103002 000011  01415  01511              % 18568 RGTR--
+*A ad 160904001 191103002 000011  01415  01511              % 18568 RGTR--
+*R 2 191103002 160904001 191103002  01415  01511            % 18568 RGTR--
+*G 060 160904001 191103002  01415  01511                    % 18568 RGTR--
+*A VE 160904001 191103002 000011  01415  01511              % 18568 RGTR--
+*I FD 160904001 191103002        0002055  01415  01511      % 18568 RGTR--
+160904001 Mersch, Gare routièr         01415                % 18568 RGTR--
+160904003 Mersch, Maartplaz     01416  01416                % 18568 RGTR--
+160904010 Mersch, Nic. Welter   01416  01416                % 18568 RGTR--
+160904006 Mersch, Uewermiersch  01417  01417                % 18568 RGTR--
+160909002 Schoenfels, Schlass   01420  01420                % 18568 RGTR--
+160909001 Schoenfels, Duerf     01421  01421                % 18568 RGTR--
+190607001 Direndall             01425  01425                % 18568 RGTR--
+190802003 Kopstal, Saangen      01427  01427                % 18568 RGTR--
+190802001 Kopstal, Bréck        01429  01429                % 18568 RGTR--
+190802004 Kopstal, Kléipesch    01430  01430                % 18568 RGTR--
+190801001 Bridel, Berk          01432  01432                % 18568 RGTR--
+190801002 Bridel, Flamo         01433  01433                % 18568 RGTR--
+190801005 Bridel, Taverne       01434  01434                % 18568 RGTR--
+190801004 Bridel, Stuff         01435  01435                % 18568 RGTR--
+190801003 Bridel, Schanz        01436  01436                % 18568 RGTR--
+200901016 Strassen, Geesseneck  01444  01444                % 18568 RGTR--
+200901011 Strassen, Schoenacht  01445  01445                % 18568 RGTR--
+200101002 Bertrange, Belle Eto  01447  01447                % 18568 RGTR--
+190903013 Mamer, Tossebierg     01449  01449                % 18568 RGTR--
+190903007 Mamer, Gaaschtbierg   01450  01450                % 18568 RGTR--
+190903001 Mamer, Arelerstrooss  01451  01451                % 18568 RGTR--
+190903002 Mamer, Baerendall     01451  01451                % 18568 RGTR--
+190903012 Mamer, Mambra         01452  01452                % 18568 RGTR--
+190903005 Mamer, Eglantiers     01453  01453                % 18568 RGTR--
+190903016 Mamer, Scoutshome     01454  01454                % 18568 RGTR--
+190901002 Capellen, Hireknapp   01455  01455                % 18568 RGTR--
+190901004 Capellen, Police      01456  01456                % 18568 RGTR--
+190901003 Capellen, Klouschter  01457  01457                % 18568 RGTR--
+190901005 Capellen, Ponts & Ch  01458  01458                % 18568 RGTR--
+190704001 Wandhaff              01501  01501                % 18568 RGTR--
+191104009 Steinfort, Äischzent  01504  01504                % 18568 RGTR--
+191104007 Steinfort, Schoul     01507  01507                % 18568 RGTR--
+191103001 Kleinbettingen, Duer  01510  01510                % 18568 RGTR--
+191103002 Kleinbettingen, Gare  01511                       % 18568 RGTR--

@@ -1,0 +1,1216 @@
+*F 03 2
+*Z 04351 AVL---                                             % 04351 AVL---
+*L CN1      200405014 200406019  02516  02530               % 04351 AVL---
+*A BE 200405014 200406019 000043  02516  02530              % 04351 AVL---
+*R 1 200406019 200405014 200406019  02516  02530            % 04351 AVL---
+*G ST  200405014 200406019  02516  02530                    % 04351 AVL---
+*A VE 200405014 200406019 000043  02516  02530              % 04351 AVL---
+200405014 Centre, Fondation Pe         02516                % 04351 AVL---
+200405005 Centre, Badanstalt    02518  02518                % 04351 AVL---
+200423004 Pfaffenthal, Um Bock  02520  02520                % 04351 AVL---
+200408005 Clausen, Plateau Alt  02521  02521                % 04351 AVL---
+200408001 Clausen, Clausener B  02522  02522                % 04351 AVL---
+200408003 Clausen, Malakoff     02523  02523                % 04351 AVL---
+200422005 Neudorf/Weimershof,   02524  02524                % 04351 AVL---
+200408002 Neudorf, Fixmer       02525  02525                % 04351 AVL---
+200422009 Neudorf, Kierch       02526  02526                % 04351 AVL---
+200422001 Neiduerf, Brasserie   02526  02526                % 04351 AVL---
+200422008 Neiduerf, Kapell      02527  02527                % 04351 AVL---
+200422011 Neudorf, Laangegronn  02528  02528                % 04351 AVL---
+200422003 Neudorf/Weimershof,   02528  02528                % 04351 AVL---
+200422007 Neudorf, Kalchesbruc  02529  02529                % 04351 AVL---
+200406019 Cents, Waassertuerm   02530                       % 04351 AVL---
+*Z 04352 AVL---       008 015                               % 04352 AVL---
+*L CN1      200415009 200406019  02114  02140               % 04352 AVL---
+*A BE 200415009 200406019 000063  02114  02140              % 04352 AVL---
+*R 1 200406019 200415009 200406019  02114  02140            % 04352 AVL---
+*G ST  200415009 200406019  02114  02140                    % 04352 AVL---
+*A VE 200415009 200406019 000063  02114  02140              % 04352 AVL---
+200415009 Hollerich, P+R Bouil         02114                % 04352 AVL---
+200415017 Hollerich, Kierfecht  02114  02114                % 04352 AVL---
+200415019 Hollerich, Jean-Bapt  02116  02116                % 04352 AVL---
+200415003 Hollerich, Fonderie   02117  02117                % 04352 AVL---
+200405036 Luxembourg, Gare Cen  02119  02119                % 04352 AVL---
+200405001 Gare, Al Avenue       02121  02121                % 04352 AVL---
+200405013 Centre, F.D. Rooseve  02123  02123                % 04352 AVL---
+200405020 Hamilius (Bus)        02126  02126                % 04352 AVL---
+200405005 Centre, Badanstalt    02128  02128                % 04352 AVL---
+200423004 Pfaffenthal, Um Bock  02130  02130                % 04352 AVL---
+200408005 Clausen, Plateau Alt  02131  02131                % 04352 AVL---
+200408001 Clausen, Clausener B  02132  02132                % 04352 AVL---
+200408003 Clausen, Malakoff     02133  02133                % 04352 AVL---
+200422005 Neudorf/Weimershof,   02134  02134                % 04352 AVL---
+200408002 Neudorf, Fixmer       02135  02135                % 04352 AVL---
+200422009 Neudorf, Kierch       02136  02136                % 04352 AVL---
+200422001 Neiduerf, Brasserie   02136  02136                % 04352 AVL---
+200422008 Neiduerf, Kapell      02137  02137                % 04352 AVL---
+200422011 Neudorf, Laangegronn  02138  02138                % 04352 AVL---
+200422003 Neudorf/Weimershof,   02138  02138                % 04352 AVL---
+200422007 Neudorf, Kalchesbruc  02139  02139                % 04352 AVL---
+200406019 Cents, Waassertuerm   02140                       % 04352 AVL---
+*Z 04353 AVL---       001 210                               % 04353 AVL---
+*L CN1      200415009 200406019  02344  02410               % 04353 AVL---
+*A BE 200415009 200406019 000063  02344  02410              % 04353 AVL---
+*R 1 200406019 200415009 200406019  02344  02410            % 04353 AVL---
+*G ST  200415009 200406019  02344  02410                    % 04353 AVL---
+*A VE 200415009 200406019 000063  02344  02410              % 04353 AVL---
+200415009 Hollerich, P+R Bouil         02344                % 04353 AVL---
+200415017 Hollerich, Kierfecht  02344  02344                % 04353 AVL---
+200415019 Hollerich, Jean-Bapt  02346  02346                % 04353 AVL---
+200415003 Hollerich, Fonderie   02347  02347                % 04353 AVL---
+200405036 Luxembourg, Gare Cen  02349  02349                % 04353 AVL---
+200405001 Gare, Al Avenue       02351  02351                % 04353 AVL---
+200405013 Centre, F.D. Rooseve  02353  02353                % 04353 AVL---
+200405020 Hamilius (Bus)        02356  02356                % 04353 AVL---
+200405005 Centre, Badanstalt    02358  02358                % 04353 AVL---
+200423004 Pfaffenthal, Um Bock  02400  02400                % 04353 AVL---
+200408005 Clausen, Plateau Alt  02401  02401                % 04353 AVL---
+200408001 Clausen, Clausener B  02402  02402                % 04353 AVL---
+200408003 Clausen, Malakoff     02403  02403                % 04353 AVL---
+200422005 Neudorf/Weimershof,   02404  02404                % 04353 AVL---
+200408002 Neudorf, Fixmer       02405  02405                % 04353 AVL---
+200422009 Neudorf, Kierch       02406  02406                % 04353 AVL---
+200422001 Neiduerf, Brasserie   02406  02406                % 04353 AVL---
+200422008 Neiduerf, Kapell      02407  02407                % 04353 AVL---
+200422011 Neudorf, Laangegronn  02408  02408                % 04353 AVL---
+200422003 Neudorf/Weimershof,   02408  02408                % 04353 AVL---
+200422007 Neudorf, Kalchesbruc  02409  02409                % 04353 AVL---
+200406019 Cents, Waassertuerm   02410                       % 04353 AVL---
+*Z 04354 AVL---                                             % 04354 AVL---
+*L CN1      200415009 200406019  02729  02755               % 04354 AVL---
+*A BE 200415009 200406019 000063  02729  02755              % 04354 AVL---
+*R 1 200406019 200415009 200406019  02729  02755            % 04354 AVL---
+*G ST  200415009 200406019  02729  02755                    % 04354 AVL---
+*A VE 200415009 200406019 000063  02729  02755              % 04354 AVL---
+200415009 Hollerich, P+R Bouil         02729                % 04354 AVL---
+200415017 Hollerich, Kierfecht  02729  02729                % 04354 AVL---
+200415019 Hollerich, Jean-Bapt  02731  02731                % 04354 AVL---
+200415003 Hollerich, Fonderie   02732  02732                % 04354 AVL---
+200405036 Luxembourg, Gare Cen  02734  02734                % 04354 AVL---
+200405001 Gare, Al Avenue       02736  02736                % 04354 AVL---
+200405013 Centre, F.D. Rooseve  02738  02738                % 04354 AVL---
+200405020 Hamilius (Bus)        02741  02741                % 04354 AVL---
+200405005 Centre, Badanstalt    02743  02743                % 04354 AVL---
+200423004 Pfaffenthal, Um Bock  02745  02745                % 04354 AVL---
+200408005 Clausen, Plateau Alt  02746  02746                % 04354 AVL---
+200408001 Clausen, Clausener B  02747  02747                % 04354 AVL---
+200408003 Clausen, Malakoff     02748  02748                % 04354 AVL---
+200422005 Neudorf/Weimershof,   02749  02749                % 04354 AVL---
+200408002 Neudorf, Fixmer       02750  02750                % 04354 AVL---
+200422009 Neudorf, Kierch       02751  02751                % 04354 AVL---
+200422001 Neiduerf, Brasserie   02751  02751                % 04354 AVL---
+200422008 Neiduerf, Kapell      02752  02752                % 04354 AVL---
+200422011 Neudorf, Laangegronn  02753  02753                % 04354 AVL---
+200422003 Neudorf/Weimershof,   02753  02753                % 04354 AVL---
+200422007 Neudorf, Kalchesbruc  02754  02754                % 04354 AVL---
+200406019 Cents, Waassertuerm   02755                       % 04354 AVL---
+*Z 04355 AVL---       001 030                               % 04355 AVL---
+*L CN1      200415009 200406019  02329  02356               % 04355 AVL---
+*A BE 200415009 200406019 000063  02329  02356              % 04355 AVL---
+*R 1 200406019 200415009 200406019  02329  02356            % 04355 AVL---
+*G ST  200415009 200406019  02329  02356                    % 04355 AVL---
+*A VE 200415009 200406019 000063  02329  02356              % 04355 AVL---
+200415009 Hollerich, P+R Bouil         02329                % 04355 AVL---
+200415017 Hollerich, Kierfecht  02329  02329                % 04355 AVL---
+200415019 Hollerich, Jean-Bapt  02331  02331                % 04355 AVL---
+200415003 Hollerich, Fonderie   02332  02332                % 04355 AVL---
+200405036 Luxembourg, Gare Cen  02334  02334                % 04355 AVL---
+200405001 Gare, Al Avenue       02336  02336                % 04355 AVL---
+200405013 Centre, F.D. Rooseve  02338  02338                % 04355 AVL---
+200405020 Hamilius (Bus)        02341  02341                % 04355 AVL---
+200405005 Centre, Badanstalt    02343  02343                % 04355 AVL---
+200423004 Pfaffenthal, Um Bock  02345  02345                % 04355 AVL---
+200408005 Clausen, Plateau Alt  02346  02346                % 04355 AVL---
+200408001 Clausen, Clausener B  02347  02347                % 04355 AVL---
+200408003 Clausen, Malakoff     02348  02348                % 04355 AVL---
+200422005 Neudorf/Weimershof,   02349  02349                % 04355 AVL---
+200408002 Neudorf, Fixmer       02350  02350                % 04355 AVL---
+200422009 Neudorf, Kierch       02351  02351                % 04355 AVL---
+200422001 Neiduerf, Brasserie   02351  02351                % 04355 AVL---
+200422008 Neiduerf, Kapell      02352  02352                % 04355 AVL---
+200422011 Neudorf, Laangegronn  02353  02353                % 04355 AVL---
+200422003 Neudorf/Weimershof,   02353  02353                % 04355 AVL---
+200422007 Neudorf, Kalchesbruc  02354  02354                % 04355 AVL---
+200406019 Cents, Waassertuerm   02356                       % 04355 AVL---
+*Z 04356 AVL---       002 010                               % 04356 AVL---
+*L CN1      200415009 200406019  02409  02436               % 04356 AVL---
+*A BE 200415009 200406019 000063  02409  02436              % 04356 AVL---
+*R 1 200406019 200415009 200406019  02409  02436            % 04356 AVL---
+*G ST  200415009 200406019  02409  02436                    % 04356 AVL---
+*A VE 200415009 200406019 000063  02409  02436              % 04356 AVL---
+200415009 Hollerich, P+R Bouil         02409                % 04356 AVL---
+200415017 Hollerich, Kierfecht  02409  02409                % 04356 AVL---
+200415019 Hollerich, Jean-Bapt  02411  02411                % 04356 AVL---
+200415003 Hollerich, Fonderie   02412  02412                % 04356 AVL---
+200405036 Luxembourg, Gare Cen  02414  02414                % 04356 AVL---
+200405001 Gare, Al Avenue       02416  02416                % 04356 AVL---
+200405013 Centre, F.D. Rooseve  02418  02418                % 04356 AVL---
+200405020 Hamilius (Bus)        02421  02421                % 04356 AVL---
+200405005 Centre, Badanstalt    02423  02423                % 04356 AVL---
+200423004 Pfaffenthal, Um Bock  02425  02425                % 04356 AVL---
+200408005 Clausen, Plateau Alt  02426  02426                % 04356 AVL---
+200408001 Clausen, Clausener B  02427  02427                % 04356 AVL---
+200408003 Clausen, Malakoff     02428  02428                % 04356 AVL---
+200422005 Neudorf/Weimershof,   02429  02429                % 04356 AVL---
+200408002 Neudorf, Fixmer       02430  02430                % 04356 AVL---
+200422009 Neudorf, Kierch       02431  02431                % 04356 AVL---
+200422001 Neiduerf, Brasserie   02431  02431                % 04356 AVL---
+200422008 Neiduerf, Kapell      02432  02432                % 04356 AVL---
+200422011 Neudorf, Laangegronn  02433  02433                % 04356 AVL---
+200422003 Neudorf/Weimershof,   02433  02433                % 04356 AVL---
+200422007 Neudorf, Kalchesbruc  02434  02434                % 04356 AVL---
+200406019 Cents, Waassertuerm   02436                       % 04356 AVL---
+*Z 04357 AVL---       005 010                               % 04357 AVL---
+*L CN1      200415009 200406019  02449  02516               % 04357 AVL---
+*A BE 200415009 200406019 000063  02449  02516              % 04357 AVL---
+*R 1 200406019 200415009 200406019  02449  02516            % 04357 AVL---
+*G ST  200415009 200406019  02449  02516                    % 04357 AVL---
+*A VE 200415009 200406019 000063  02449  02516              % 04357 AVL---
+200415009 Hollerich, P+R Bouil         02449                % 04357 AVL---
+200415017 Hollerich, Kierfecht  02449  02449                % 04357 AVL---
+200415019 Hollerich, Jean-Bapt  02451  02451                % 04357 AVL---
+200415003 Hollerich, Fonderie   02452  02452                % 04357 AVL---
+200405036 Luxembourg, Gare Cen  02454  02454                % 04357 AVL---
+200405001 Gare, Al Avenue       02456  02456                % 04357 AVL---
+200405013 Centre, F.D. Rooseve  02458  02458                % 04357 AVL---
+200405020 Hamilius (Bus)        02501  02501                % 04357 AVL---
+200405005 Centre, Badanstalt    02503  02503                % 04357 AVL---
+200423004 Pfaffenthal, Um Bock  02505  02505                % 04357 AVL---
+200408005 Clausen, Plateau Alt  02506  02506                % 04357 AVL---
+200408001 Clausen, Clausener B  02507  02507                % 04357 AVL---
+200408003 Clausen, Malakoff     02508  02508                % 04357 AVL---
+200422005 Neudorf/Weimershof,   02509  02509                % 04357 AVL---
+200408002 Neudorf, Fixmer       02510  02510                % 04357 AVL---
+200422009 Neudorf, Kierch       02511  02511                % 04357 AVL---
+200422001 Neiduerf, Brasserie   02511  02511                % 04357 AVL---
+200422008 Neiduerf, Kapell      02512  02512                % 04357 AVL---
+200422011 Neudorf, Laangegronn  02513  02513                % 04357 AVL---
+200422003 Neudorf/Weimershof,   02513  02513                % 04357 AVL---
+200422007 Neudorf, Kalchesbruc  02514  02514                % 04357 AVL---
+200406019 Cents, Waassertuerm   02516                       % 04357 AVL---
+*Z 04358 AVL---       005 010                               % 04358 AVL---
+*L CN1      200415009 200406019  02559  02626               % 04358 AVL---
+*A BE 200415009 200406019 000063  02559  02626              % 04358 AVL---
+*R 1 200406019 200415009 200406019  02559  02626            % 04358 AVL---
+*G ST  200415009 200406019  02559  02626                    % 04358 AVL---
+*A VE 200415009 200406019 000063  02559  02626              % 04358 AVL---
+200415009 Hollerich, P+R Bouil         02559                % 04358 AVL---
+200415017 Hollerich, Kierfecht  02559  02559                % 04358 AVL---
+200415019 Hollerich, Jean-Bapt  02601  02601                % 04358 AVL---
+200415003 Hollerich, Fonderie   02602  02602                % 04358 AVL---
+200405036 Luxembourg, Gare Cen  02604  02604                % 04358 AVL---
+200405001 Gare, Al Avenue       02606  02606                % 04358 AVL---
+200405013 Centre, F.D. Rooseve  02608  02608                % 04358 AVL---
+200405020 Hamilius (Bus)        02611  02611                % 04358 AVL---
+200405005 Centre, Badanstalt    02613  02613                % 04358 AVL---
+200423004 Pfaffenthal, Um Bock  02615  02615                % 04358 AVL---
+200408005 Clausen, Plateau Alt  02616  02616                % 04358 AVL---
+200408001 Clausen, Clausener B  02617  02617                % 04358 AVL---
+200408003 Clausen, Malakoff     02618  02618                % 04358 AVL---
+200422005 Neudorf/Weimershof,   02619  02619                % 04358 AVL---
+200408002 Neudorf, Fixmer       02620  02620                % 04358 AVL---
+200422009 Neudorf, Kierch       02621  02621                % 04358 AVL---
+200422001 Neiduerf, Brasserie   02621  02621                % 04358 AVL---
+200422008 Neiduerf, Kapell      02622  02622                % 04358 AVL---
+200422011 Neudorf, Laangegronn  02623  02623                % 04358 AVL---
+200422003 Neudorf/Weimershof,   02623  02623                % 04358 AVL---
+200422007 Neudorf, Kalchesbruc  02624  02624                % 04358 AVL---
+200406019 Cents, Waassertuerm   02626                       % 04358 AVL---
+*Z 04359 AVL---       002 070                               % 04359 AVL---
+*L CN1      200415009 200406019  02439  02506               % 04359 AVL---
+*A BE 200415009 200406019 000063  02439  02506              % 04359 AVL---
+*R 1 200406019 200415009 200406019  02439  02506            % 04359 AVL---
+*G STE 200415009 200406019  02439  02506                    % 04359 AVL---
+*A VE 200415009 200406019 000063  02439  02506              % 04359 AVL---
+200415009 Hollerich, P+R Bouil         02439                % 04359 AVL---
+200415017 Hollerich, Kierfecht  02439  02439                % 04359 AVL---
+200415019 Hollerich, Jean-Bapt  02441  02441                % 04359 AVL---
+200415003 Hollerich, Fonderie   02442  02442                % 04359 AVL---
+200405036 Luxembourg, Gare Cen  02444  02444                % 04359 AVL---
+200405001 Gare, Al Avenue       02446  02446                % 04359 AVL---
+200405013 Centre, F.D. Rooseve  02448  02448                % 04359 AVL---
+200405020 Hamilius (Bus)        02451  02451                % 04359 AVL---
+200405005 Centre, Badanstalt    02453  02453                % 04359 AVL---
+200423004 Pfaffenthal, Um Bock  02455  02455                % 04359 AVL---
+200408005 Clausen, Plateau Alt  02456  02456                % 04359 AVL---
+200408001 Clausen, Clausener B  02457  02457                % 04359 AVL---
+200408003 Clausen, Malakoff     02458  02458                % 04359 AVL---
+200422005 Neudorf/Weimershof,   02459  02459                % 04359 AVL---
+200408002 Neudorf, Fixmer       02500  02500                % 04359 AVL---
+200422009 Neudorf, Kierch       02501  02501                % 04359 AVL---
+200422001 Neiduerf, Brasserie   02501  02501                % 04359 AVL---
+200422008 Neiduerf, Kapell      02502  02502                % 04359 AVL---
+200422011 Neudorf, Laangegronn  02503  02503                % 04359 AVL---
+200422003 Neudorf/Weimershof,   02503  02503                % 04359 AVL---
+200422007 Neudorf, Kalchesbruc  02504  02504                % 04359 AVL---
+200406019 Cents, Waassertuerm   02506                       % 04359 AVL---
+*Z 04360 AVL---                                             % 04360 AVL---
+*L CN1      200406019 200406017  02530  02535               % 04360 AVL---
+*A BE 200406019 200406017 000043  02530  02535              % 04360 AVL---
+*R 2 200406017 200406019 200406017  02530  02535            % 04360 AVL---
+*G ST  200406019 200406017  02530  02535                    % 04360 AVL---
+*A VE 200406019 200406017 000043  02530  02535              % 04360 AVL---
+200406019 Cents, Waassertuerm          02530                % 04360 AVL---
+200406003 Cents, Camille Polfe  02531  02531                % 04360 AVL---
+200406004 Cents, Carmel         02532  02532                % 04360 AVL---
+200406018 Cents, Trèves         02532  02532                % 04360 AVL---
+200406016 Cents, Robert Bruch   02533  02533                % 04360 AVL---
+200406012 Cents, Kierch         02534  02534                % 04360 AVL---
+200406017 Cents, Tawioun        02535                       % 04360 AVL---
+*Z 04361 AVL---       008 015                               % 04361 AVL---
+*L CN1      200406019 200415009  02154  02221               % 04361 AVL---
+*A BE 200406019 200415009 000063  02154  02221              % 04361 AVL---
+*R 2 200415009 200406019 200415009  02154  02221            % 04361 AVL---
+*G ST  200406019 200415009  02154  02221                    % 04361 AVL---
+*A VE 200406019 200415009 000063  02154  02221              % 04361 AVL---
+200406019 Cents, Waassertuerm          02154                % 04361 AVL---
+200406003 Cents, Camille Polfe  02155  02155                % 04361 AVL---
+200406004 Cents, Carmel         02155  02155                % 04361 AVL---
+200406018 Cents, Trèves         02156  02156                % 04361 AVL---
+200406016 Cents, Robert Bruch   02156  02156                % 04361 AVL---
+200406012 Cents, Kierch         02157  02157                % 04361 AVL---
+200406017 Cents, Tawioun        02158  02158                % 04361 AVL---
+200406007 Cents, Fort Dumoulin  02159  02159                % 04361 AVL---
+200406011 Cents, Kéibierg-I.N.  02159  02159                % 04361 AVL---
+200408004 Clausen, Melusina     02201  02201                % 04361 AVL---
+200408008 Clausen, Tour Jacob   02201  02201                % 04361 AVL---
+200408001 Clausen, Clausener B  02202  02202                % 04361 AVL---
+200408005 Clausen, Plateau Alt  02203  02203                % 04361 AVL---
+200423004 Pfaffenthal, Um Bock  02204  02204                % 04361 AVL---
+200405005 Centre, Badanstalt    02206  02206                % 04361 AVL---
+200405020 Hamilius (Bus)        02209  02209                % 04361 AVL---
+200405054 Centre, F.D. Rooseve  02211  02211                % 04361 AVL---
+200405001 Gare, Al Avenue       02213  02213                % 04361 AVL---
+200405032 Luxembourg, Gare Cen  02215  02215                % 04361 AVL---
+200415003 Hollerich, Fonderie   02216  02216                % 04361 AVL---
+200415006 Hollerich, Jean-Bapt  02218  02218                % 04361 AVL---
+200415012 Hollerich, Salzhaff   02219  02219                % 04361 AVL---
+200415017 Hollerich, Kierfecht  02220  02220                % 04361 AVL---
+200415009 Hollerich, P+R Bouil  02221                       % 04361 AVL---
+*Z 04362 AVL---       001 200                               % 04362 AVL---
+*L CN1      200406019 200415009  02424  02451               % 04362 AVL---
+*A BE 200406019 200415009 000063  02424  02451              % 04362 AVL---
+*R 2 200415009 200406019 200415009  02424  02451            % 04362 AVL---
+*G ST  200406019 200415009  02424  02451                    % 04362 AVL---
+*A VE 200406019 200415009 000063  02424  02451              % 04362 AVL---
+200406019 Cents, Waassertuerm          02424                % 04362 AVL---
+200406003 Cents, Camille Polfe  02425  02425                % 04362 AVL---
+200406004 Cents, Carmel         02425  02425                % 04362 AVL---
+200406018 Cents, Trèves         02426  02426                % 04362 AVL---
+200406016 Cents, Robert Bruch   02426  02426                % 04362 AVL---
+200406012 Cents, Kierch         02427  02427                % 04362 AVL---
+200406017 Cents, Tawioun        02428  02428                % 04362 AVL---
+200406007 Cents, Fort Dumoulin  02429  02429                % 04362 AVL---
+200406011 Cents, Kéibierg-I.N.  02429  02429                % 04362 AVL---
+200408004 Clausen, Melusina     02431  02431                % 04362 AVL---
+200408008 Clausen, Tour Jacob   02431  02431                % 04362 AVL---
+200408001 Clausen, Clausener B  02432  02432                % 04362 AVL---
+200408005 Clausen, Plateau Alt  02433  02433                % 04362 AVL---
+200423004 Pfaffenthal, Um Bock  02434  02434                % 04362 AVL---
+200405005 Centre, Badanstalt    02436  02436                % 04362 AVL---
+200405020 Hamilius (Bus)        02439  02439                % 04362 AVL---
+200405054 Centre, F.D. Rooseve  02441  02441                % 04362 AVL---
+200405001 Gare, Al Avenue       02443  02443                % 04362 AVL---
+200405032 Luxembourg, Gare Cen  02445  02445                % 04362 AVL---
+200415003 Hollerich, Fonderie   02446  02446                % 04362 AVL---
+200415006 Hollerich, Jean-Bapt  02448  02448                % 04362 AVL---
+200415012 Hollerich, Salzhaff   02449  02449                % 04362 AVL---
+200415017 Hollerich, Kierfecht  02450  02450                % 04362 AVL---
+200415009 Hollerich, P+R Bouil  02451                       % 04362 AVL---
+*Z 04363 AVL---                                             % 04363 AVL---
+*L CN1      200406019 200415009  02759  02826               % 04363 AVL---
+*A BE 200406019 200415009 000063  02759  02826              % 04363 AVL---
+*R 2 200415009 200406019 200415009  02759  02826            % 04363 AVL---
+*G ST  200406019 200415009  02759  02826                    % 04363 AVL---
+*A VE 200406019 200415009 000063  02759  02826              % 04363 AVL---
+200406019 Cents, Waassertuerm          02759                % 04363 AVL---
+200406003 Cents, Camille Polfe  02800  02800                % 04363 AVL---
+200406004 Cents, Carmel         02800  02800                % 04363 AVL---
+200406018 Cents, Trèves         02801  02801                % 04363 AVL---
+200406016 Cents, Robert Bruch   02801  02801                % 04363 AVL---
+200406012 Cents, Kierch         02802  02802                % 04363 AVL---
+200406017 Cents, Tawioun        02803  02803                % 04363 AVL---
+200406007 Cents, Fort Dumoulin  02804  02804                % 04363 AVL---
+200406011 Cents, Kéibierg-I.N.  02804  02804                % 04363 AVL---
+200408004 Clausen, Melusina     02806  02806                % 04363 AVL---
+200408008 Clausen, Tour Jacob   02806  02806                % 04363 AVL---
+200408001 Clausen, Clausener B  02807  02807                % 04363 AVL---
+200408005 Clausen, Plateau Alt  02808  02808                % 04363 AVL---
+200423004 Pfaffenthal, Um Bock  02809  02809                % 04363 AVL---
+200405005 Centre, Badanstalt    02811  02811                % 04363 AVL---
+200405020 Hamilius (Bus)        02814  02814                % 04363 AVL---
+200405054 Centre, F.D. Rooseve  02816  02816                % 04363 AVL---
+200405001 Gare, Al Avenue       02818  02818                % 04363 AVL---
+200405032 Luxembourg, Gare Cen  02820  02820                % 04363 AVL---
+200415003 Hollerich, Fonderie   02821  02821                % 04363 AVL---
+200415006 Hollerich, Jean-Bapt  02823  02823                % 04363 AVL---
+200415012 Hollerich, Salzhaff   02824  02824                % 04363 AVL---
+200415017 Hollerich, Kierfecht  02825  02825                % 04363 AVL---
+200415009 Hollerich, P+R Bouil  02826                       % 04363 AVL---
+*Z 04364 AVL---       001 020                               % 04364 AVL---
+*L CN1      200406019 200415009  02414  02441               % 04364 AVL---
+*A BE 200406019 200415009 000063  02414  02441              % 04364 AVL---
+*R 2 200415009 200406019 200415009  02414  02441            % 04364 AVL---
+*G ST  200406019 200415009  02414  02441                    % 04364 AVL---
+*A VE 200406019 200415009 000063  02414  02441              % 04364 AVL---
+200406019 Cents, Waassertuerm          02414                % 04364 AVL---
+200406003 Cents, Camille Polfe  02415  02415                % 04364 AVL---
+200406004 Cents, Carmel         02415  02415                % 04364 AVL---
+200406018 Cents, Trèves         02416  02416                % 04364 AVL---
+200406016 Cents, Robert Bruch   02416  02416                % 04364 AVL---
+200406012 Cents, Kierch         02417  02417                % 04364 AVL---
+200406017 Cents, Tawioun        02418  02418                % 04364 AVL---
+200406007 Cents, Fort Dumoulin  02419  02419                % 04364 AVL---
+200406011 Cents, Kéibierg-I.N.  02419  02419                % 04364 AVL---
+200408004 Clausen, Melusina     02421  02421                % 04364 AVL---
+200408008 Clausen, Tour Jacob   02421  02421                % 04364 AVL---
+200408001 Clausen, Clausener B  02422  02422                % 04364 AVL---
+200408005 Clausen, Plateau Alt  02423  02423                % 04364 AVL---
+200423004 Pfaffenthal, Um Bock  02424  02424                % 04364 AVL---
+200405005 Centre, Badanstalt    02426  02426                % 04364 AVL---
+200405020 Hamilius (Bus)        02429  02429                % 04364 AVL---
+200405054 Centre, F.D. Rooseve  02431  02431                % 04364 AVL---
+200405001 Gare, Al Avenue       02433  02433                % 04364 AVL---
+200405032 Luxembourg, Gare Cen  02435  02435                % 04364 AVL---
+200415003 Hollerich, Fonderie   02436  02436                % 04364 AVL---
+200415006 Hollerich, Jean-Bapt  02438  02438                % 04364 AVL---
+200415012 Hollerich, Salzhaff   02439  02439                % 04364 AVL---
+200415017 Hollerich, Kierfecht  02440  02440                % 04364 AVL---
+200415009 Hollerich, P+R Bouil  02441                       % 04364 AVL---
+*Z 04365 AVL---       002 010                               % 04365 AVL---
+*L CN1      200406019 200415009  02444  02511               % 04365 AVL---
+*A BE 200406019 200415009 000063  02444  02511              % 04365 AVL---
+*R 2 200415009 200406019 200415009  02444  02511            % 04365 AVL---
+*G ST  200406019 200415009  02444  02511                    % 04365 AVL---
+*A VE 200406019 200415009 000063  02444  02511              % 04365 AVL---
+200406019 Cents, Waassertuerm          02444                % 04365 AVL---
+200406003 Cents, Camille Polfe  02445  02445                % 04365 AVL---
+200406004 Cents, Carmel         02445  02445                % 04365 AVL---
+200406018 Cents, Trèves         02446  02446                % 04365 AVL---
+200406016 Cents, Robert Bruch   02446  02446                % 04365 AVL---
+200406012 Cents, Kierch         02447  02447                % 04365 AVL---
+200406017 Cents, Tawioun        02448  02448                % 04365 AVL---
+200406007 Cents, Fort Dumoulin  02449  02449                % 04365 AVL---
+200406011 Cents, Kéibierg-I.N.  02449  02449                % 04365 AVL---
+200408004 Clausen, Melusina     02451  02451                % 04365 AVL---
+200408008 Clausen, Tour Jacob   02451  02451                % 04365 AVL---
+200408001 Clausen, Clausener B  02452  02452                % 04365 AVL---
+200408005 Clausen, Plateau Alt  02453  02453                % 04365 AVL---
+200423004 Pfaffenthal, Um Bock  02454  02454                % 04365 AVL---
+200405005 Centre, Badanstalt    02456  02456                % 04365 AVL---
+200405020 Hamilius (Bus)        02459  02459                % 04365 AVL---
+200405054 Centre, F.D. Rooseve  02501  02501                % 04365 AVL---
+200405001 Gare, Al Avenue       02503  02503                % 04365 AVL---
+200405032 Luxembourg, Gare Cen  02505  02505                % 04365 AVL---
+200415003 Hollerich, Fonderie   02506  02506                % 04365 AVL---
+200415006 Hollerich, Jean-Bapt  02508  02508                % 04365 AVL---
+200415012 Hollerich, Salzhaff   02509  02509                % 04365 AVL---
+200415017 Hollerich, Kierfecht  02510  02510                % 04365 AVL---
+200415009 Hollerich, P+R Bouil  02511                       % 04365 AVL---
+*Z 04366 AVL---       005 010                               % 04366 AVL---
+*L CN1      200406019 200415009  02524  02551               % 04366 AVL---
+*A BE 200406019 200415009 000063  02524  02551              % 04366 AVL---
+*R 2 200415009 200406019 200415009  02524  02551            % 04366 AVL---
+*G ST  200406019 200415009  02524  02551                    % 04366 AVL---
+*A VE 200406019 200415009 000063  02524  02551              % 04366 AVL---
+200406019 Cents, Waassertuerm          02524                % 04366 AVL---
+200406003 Cents, Camille Polfe  02525  02525                % 04366 AVL---
+200406004 Cents, Carmel         02525  02525                % 04366 AVL---
+200406018 Cents, Trèves         02526  02526                % 04366 AVL---
+200406016 Cents, Robert Bruch   02526  02526                % 04366 AVL---
+200406012 Cents, Kierch         02527  02527                % 04366 AVL---
+200406017 Cents, Tawioun        02528  02528                % 04366 AVL---
+200406007 Cents, Fort Dumoulin  02529  02529                % 04366 AVL---
+200406011 Cents, Kéibierg-I.N.  02529  02529                % 04366 AVL---
+200408004 Clausen, Melusina     02531  02531                % 04366 AVL---
+200408008 Clausen, Tour Jacob   02531  02531                % 04366 AVL---
+200408001 Clausen, Clausener B  02532  02532                % 04366 AVL---
+200408005 Clausen, Plateau Alt  02533  02533                % 04366 AVL---
+200423004 Pfaffenthal, Um Bock  02534  02534                % 04366 AVL---
+200405005 Centre, Badanstalt    02536  02536                % 04366 AVL---
+200405020 Hamilius (Bus)        02539  02539                % 04366 AVL---
+200405054 Centre, F.D. Rooseve  02541  02541                % 04366 AVL---
+200405001 Gare, Al Avenue       02543  02543                % 04366 AVL---
+200405032 Luxembourg, Gare Cen  02545  02545                % 04366 AVL---
+200415003 Hollerich, Fonderie   02546  02546                % 04366 AVL---
+200415006 Hollerich, Jean-Bapt  02548  02548                % 04366 AVL---
+200415012 Hollerich, Salzhaff   02549  02549                % 04366 AVL---
+200415017 Hollerich, Kierfecht  02550  02550                % 04366 AVL---
+200415009 Hollerich, P+R Bouil  02551                       % 04366 AVL---
+*Z 04367 AVL---       005 010                               % 04367 AVL---
+*L CN1      200406019 200415009  02634  02701               % 04367 AVL---
+*A BE 200406019 200415009 000063  02634  02701              % 04367 AVL---
+*R 2 200415009 200406019 200415009  02634  02701            % 04367 AVL---
+*G ST  200406019 200415009  02634  02701                    % 04367 AVL---
+*A VE 200406019 200415009 000063  02634  02701              % 04367 AVL---
+200406019 Cents, Waassertuerm          02634                % 04367 AVL---
+200406003 Cents, Camille Polfe  02635  02635                % 04367 AVL---
+200406004 Cents, Carmel         02635  02635                % 04367 AVL---
+200406018 Cents, Trèves         02636  02636                % 04367 AVL---
+200406016 Cents, Robert Bruch   02636  02636                % 04367 AVL---
+200406012 Cents, Kierch         02637  02637                % 04367 AVL---
+200406017 Cents, Tawioun        02638  02638                % 04367 AVL---
+200406007 Cents, Fort Dumoulin  02639  02639                % 04367 AVL---
+200406011 Cents, Kéibierg-I.N.  02639  02639                % 04367 AVL---
+200408004 Clausen, Melusina     02641  02641                % 04367 AVL---
+200408008 Clausen, Tour Jacob   02641  02641                % 04367 AVL---
+200408001 Clausen, Clausener B  02642  02642                % 04367 AVL---
+200408005 Clausen, Plateau Alt  02643  02643                % 04367 AVL---
+200423004 Pfaffenthal, Um Bock  02644  02644                % 04367 AVL---
+200405005 Centre, Badanstalt    02646  02646                % 04367 AVL---
+200405020 Hamilius (Bus)        02649  02649                % 04367 AVL---
+200405054 Centre, F.D. Rooseve  02651  02651                % 04367 AVL---
+200405001 Gare, Al Avenue       02653  02653                % 04367 AVL---
+200405032 Luxembourg, Gare Cen  02655  02655                % 04367 AVL---
+200415003 Hollerich, Fonderie   02656  02656                % 04367 AVL---
+200415006 Hollerich, Jean-Bapt  02658  02658                % 04367 AVL---
+200415012 Hollerich, Salzhaff   02659  02659                % 04367 AVL---
+200415017 Hollerich, Kierfecht  02700  02700                % 04367 AVL---
+200415009 Hollerich, P+R Bouil  02701                       % 04367 AVL---
+*Z 04368 AVL---       003 070                               % 04368 AVL---
+*L CN1      200406019 200415009  02404  02431               % 04368 AVL---
+*A BE 200406019 200415009 000063  02404  02431              % 04368 AVL---
+*R 2 200415009 200406019 200415009  02404  02431            % 04368 AVL---
+*G STE 200406019 200415009  02404  02431                    % 04368 AVL---
+*A VE 200406019 200415009 000063  02404  02431              % 04368 AVL---
+200406019 Cents, Waassertuerm          02404                % 04368 AVL---
+200406003 Cents, Camille Polfe  02405  02405                % 04368 AVL---
+200406004 Cents, Carmel         02405  02405                % 04368 AVL---
+200406018 Cents, Trèves         02406  02406                % 04368 AVL---
+200406016 Cents, Robert Bruch   02406  02406                % 04368 AVL---
+200406012 Cents, Kierch         02407  02407                % 04368 AVL---
+200406017 Cents, Tawioun        02408  02408                % 04368 AVL---
+200406007 Cents, Fort Dumoulin  02409  02409                % 04368 AVL---
+200406011 Cents, Kéibierg-I.N.  02409  02409                % 04368 AVL---
+200408004 Clausen, Melusina     02411  02411                % 04368 AVL---
+200408008 Clausen, Tour Jacob   02411  02411                % 04368 AVL---
+200408001 Clausen, Clausener B  02412  02412                % 04368 AVL---
+200408005 Clausen, Plateau Alt  02413  02413                % 04368 AVL---
+200423004 Pfaffenthal, Um Bock  02414  02414                % 04368 AVL---
+200405005 Centre, Badanstalt    02416  02416                % 04368 AVL---
+200405020 Hamilius (Bus)        02419  02419                % 04368 AVL---
+200405054 Centre, F.D. Rooseve  02421  02421                % 04368 AVL---
+200405001 Gare, Al Avenue       02423  02423                % 04368 AVL---
+200405032 Luxembourg, Gare Cen  02425  02425                % 04368 AVL---
+200415003 Hollerich, Fonderie   02426  02426                % 04368 AVL---
+200415006 Hollerich, Jean-Bapt  02428  02428                % 04368 AVL---
+200415012 Hollerich, Salzhaff   02429  02429                % 04368 AVL---
+200415017 Hollerich, Kierfecht  02430  02430                % 04368 AVL---
+200415009 Hollerich, P+R Bouil  02431                       % 04368 AVL---
+*Z 04369 AVL---       008 015                               % 04369 AVL---
+*L CN1      200415009 200406019  02114  02146               % 04369 AVL---
+*A BE 200415009 200406019 000064  02114  02146              % 04369 AVL---
+*R 1 200406019 200415009 200406019  02114  02146            % 04369 AVL---
+*G ST  200415009 200406019  02114  02146                    % 04369 AVL---
+*A VE 200415009 200406019 000064  02114  02146              % 04369 AVL---
+200415009 Hollerich, P+R Bouil         02114                % 04369 AVL---
+200415017 Hollerich, Kierfecht  02114  02114                % 04369 AVL---
+200415019 Hollerich, Jean-Bapt  02116  02116                % 04369 AVL---
+200415003 Hollerich, Fonderie   02117  02117                % 04369 AVL---
+200405036 Luxembourg, Gare Cen  02119  02119                % 04369 AVL---
+200405001 Gare, Al Avenue       02121  02121                % 04369 AVL---
+200405013 Centre, F.D. Rooseve  02123  02123                % 04369 AVL---
+200405020 Hamilius (Bus)        02126  02126                % 04369 AVL---
+200405014 Centre, Fondation Pe  02128  02128                % 04369 AVL---
+200419026 Limpertsberg, Theate  02131  02131                % 04369 AVL---
+200405014 Centre, Fondation Pe  02132  02132                % 04369 AVL---
+200405005 Centre, Badanstalt    02134  02134                % 04369 AVL---
+200423004 Pfaffenthal, Um Bock  02136  02136                % 04369 AVL---
+200408005 Clausen, Plateau Alt  02137  02137                % 04369 AVL---
+200408001 Clausen, Clausener B  02138  02138                % 04369 AVL---
+200408003 Clausen, Malakoff     02138  02138                % 04369 AVL---
+200422005 Neudorf/Weimershof,   02139  02139                % 04369 AVL---
+200408002 Neudorf, Fixmer       02141  02141                % 04369 AVL---
+200422009 Neudorf, Kierch       02142  02142                % 04369 AVL---
+200422001 Neiduerf, Brasserie   02142  02142                % 04369 AVL---
+200422008 Neiduerf, Kapell      02143  02143                % 04369 AVL---
+200422011 Neudorf, Laangegronn  02144  02144                % 04369 AVL---
+200422003 Neudorf/Weimershof,   02144  02144                % 04369 AVL---
+200422007 Neudorf, Kalchesbruc  02145  02145                % 04369 AVL---
+200406019 Cents, Waassertuerm   02146                       % 04369 AVL---
+*Z 04370 AVL---       001 210                               % 04370 AVL---
+*L CN1      200415009 200406019  02344  02416               % 04370 AVL---
+*A BE 200415009 200406019 000064  02344  02416              % 04370 AVL---
+*R 1 200406019 200415009 200406019  02344  02416            % 04370 AVL---
+*G ST  200415009 200406019  02344  02416                    % 04370 AVL---
+*A VE 200415009 200406019 000064  02344  02416              % 04370 AVL---
+200415009 Hollerich, P+R Bouil         02344                % 04370 AVL---
+200415017 Hollerich, Kierfecht  02344  02344                % 04370 AVL---
+200415019 Hollerich, Jean-Bapt  02346  02346                % 04370 AVL---
+200415003 Hollerich, Fonderie   02347  02347                % 04370 AVL---
+200405036 Luxembourg, Gare Cen  02349  02349                % 04370 AVL---
+200405001 Gare, Al Avenue       02351  02351                % 04370 AVL---
+200405013 Centre, F.D. Rooseve  02353  02353                % 04370 AVL---
+200405020 Hamilius (Bus)        02356  02356                % 04370 AVL---
+200405014 Centre, Fondation Pe  02358  02358                % 04370 AVL---
+200419026 Limpertsberg, Theate  02401  02401                % 04370 AVL---
+200405014 Centre, Fondation Pe  02402  02402                % 04370 AVL---
+200405005 Centre, Badanstalt    02404  02404                % 04370 AVL---
+200423004 Pfaffenthal, Um Bock  02406  02406                % 04370 AVL---
+200408005 Clausen, Plateau Alt  02407  02407                % 04370 AVL---
+200408001 Clausen, Clausener B  02408  02408                % 04370 AVL---
+200408003 Clausen, Malakoff     02408  02408                % 04370 AVL---
+200422005 Neudorf/Weimershof,   02409  02409                % 04370 AVL---
+200408002 Neudorf, Fixmer       02411  02411                % 04370 AVL---
+200422009 Neudorf, Kierch       02412  02412                % 04370 AVL---
+200422001 Neiduerf, Brasserie   02412  02412                % 04370 AVL---
+200422008 Neiduerf, Kapell      02413  02413                % 04370 AVL---
+200422011 Neudorf, Laangegronn  02414  02414                % 04370 AVL---
+200422003 Neudorf/Weimershof,   02414  02414                % 04370 AVL---
+200422007 Neudorf, Kalchesbruc  02415  02415                % 04370 AVL---
+200406019 Cents, Waassertuerm   02416                       % 04370 AVL---
+*Z 04371 AVL---                                             % 04371 AVL---
+*L CN1      200415009 200406019  02729  02801               % 04371 AVL---
+*A BE 200415009 200406019 000064  02729  02801              % 04371 AVL---
+*R 1 200406019 200415009 200406019  02729  02801            % 04371 AVL---
+*G ST  200415009 200406019  02729  02801                    % 04371 AVL---
+*A VE 200415009 200406019 000064  02729  02801              % 04371 AVL---
+200415009 Hollerich, P+R Bouil         02729                % 04371 AVL---
+200415017 Hollerich, Kierfecht  02729  02729                % 04371 AVL---
+200415019 Hollerich, Jean-Bapt  02731  02731                % 04371 AVL---
+200415003 Hollerich, Fonderie   02732  02732                % 04371 AVL---
+200405036 Luxembourg, Gare Cen  02734  02734                % 04371 AVL---
+200405001 Gare, Al Avenue       02736  02736                % 04371 AVL---
+200405013 Centre, F.D. Rooseve  02738  02738                % 04371 AVL---
+200405020 Hamilius (Bus)        02741  02741                % 04371 AVL---
+200405014 Centre, Fondation Pe  02743  02743                % 04371 AVL---
+200419026 Limpertsberg, Theate  02746  02746                % 04371 AVL---
+200405014 Centre, Fondation Pe  02747  02747                % 04371 AVL---
+200405005 Centre, Badanstalt    02749  02749                % 04371 AVL---
+200423004 Pfaffenthal, Um Bock  02751  02751                % 04371 AVL---
+200408005 Clausen, Plateau Alt  02752  02752                % 04371 AVL---
+200408001 Clausen, Clausener B  02753  02753                % 04371 AVL---
+200408003 Clausen, Malakoff     02753  02753                % 04371 AVL---
+200422005 Neudorf/Weimershof,   02754  02754                % 04371 AVL---
+200408002 Neudorf, Fixmer       02756  02756                % 04371 AVL---
+200422009 Neudorf, Kierch       02757  02757                % 04371 AVL---
+200422001 Neiduerf, Brasserie   02757  02757                % 04371 AVL---
+200422008 Neiduerf, Kapell      02758  02758                % 04371 AVL---
+200422011 Neudorf, Laangegronn  02759  02759                % 04371 AVL---
+200422003 Neudorf/Weimershof,   02759  02759                % 04371 AVL---
+200422007 Neudorf, Kalchesbruc  02800  02800                % 04371 AVL---
+200406019 Cents, Waassertuerm   02801                       % 04371 AVL---
+*Z 04372 AVL---       001 030                               % 04372 AVL---
+*L CN1      200415009 200406019  02329  02402               % 04372 AVL---
+*A BE 200415009 200406019 000064  02329  02402              % 04372 AVL---
+*R 1 200406019 200415009 200406019  02329  02402            % 04372 AVL---
+*G ST  200415009 200406019  02329  02402                    % 04372 AVL---
+*A VE 200415009 200406019 000064  02329  02402              % 04372 AVL---
+200415009 Hollerich, P+R Bouil         02329                % 04372 AVL---
+200415017 Hollerich, Kierfecht  02329  02329                % 04372 AVL---
+200415019 Hollerich, Jean-Bapt  02331  02331                % 04372 AVL---
+200415003 Hollerich, Fonderie   02332  02332                % 04372 AVL---
+200405036 Luxembourg, Gare Cen  02334  02334                % 04372 AVL---
+200405001 Gare, Al Avenue       02336  02336                % 04372 AVL---
+200405013 Centre, F.D. Rooseve  02338  02338                % 04372 AVL---
+200405020 Hamilius (Bus)        02341  02341                % 04372 AVL---
+200405014 Centre, Fondation Pe  02343  02343                % 04372 AVL---
+200419026 Limpertsberg, Theate  02346  02346                % 04372 AVL---
+200405014 Centre, Fondation Pe  02347  02347                % 04372 AVL---
+200405005 Centre, Badanstalt    02349  02349                % 04372 AVL---
+200423004 Pfaffenthal, Um Bock  02351  02351                % 04372 AVL---
+200408005 Clausen, Plateau Alt  02352  02352                % 04372 AVL---
+200408001 Clausen, Clausener B  02353  02353                % 04372 AVL---
+200408003 Clausen, Malakoff     02353  02353                % 04372 AVL---
+200422005 Neudorf/Weimershof,   02354  02354                % 04372 AVL---
+200408002 Neudorf, Fixmer       02356  02356                % 04372 AVL---
+200422009 Neudorf, Kierch       02357  02357                % 04372 AVL---
+200422001 Neiduerf, Brasserie   02357  02357                % 04372 AVL---
+200422008 Neiduerf, Kapell      02358  02358                % 04372 AVL---
+200422011 Neudorf, Laangegronn  02359  02359                % 04372 AVL---
+200422003 Neudorf/Weimershof,   02359  02359                % 04372 AVL---
+200422007 Neudorf, Kalchesbruc  02400  02400                % 04372 AVL---
+200406019 Cents, Waassertuerm   02402                       % 04372 AVL---
+*Z 04373 AVL---       002 010                               % 04373 AVL---
+*L CN1      200415009 200406019  02409  02442               % 04373 AVL---
+*A BE 200415009 200406019 000064  02409  02442              % 04373 AVL---
+*R 1 200406019 200415009 200406019  02409  02442            % 04373 AVL---
+*G ST  200415009 200406019  02409  02442                    % 04373 AVL---
+*A VE 200415009 200406019 000064  02409  02442              % 04373 AVL---
+200415009 Hollerich, P+R Bouil         02409                % 04373 AVL---
+200415017 Hollerich, Kierfecht  02409  02409                % 04373 AVL---
+200415019 Hollerich, Jean-Bapt  02411  02411                % 04373 AVL---
+200415003 Hollerich, Fonderie   02412  02412                % 04373 AVL---
+200405036 Luxembourg, Gare Cen  02414  02414                % 04373 AVL---
+200405001 Gare, Al Avenue       02416  02416                % 04373 AVL---
+200405013 Centre, F.D. Rooseve  02418  02418                % 04373 AVL---
+200405020 Hamilius (Bus)        02421  02421                % 04373 AVL---
+200405014 Centre, Fondation Pe  02423  02423                % 04373 AVL---
+200419026 Limpertsberg, Theate  02426  02426                % 04373 AVL---
+200405014 Centre, Fondation Pe  02427  02427                % 04373 AVL---
+200405005 Centre, Badanstalt    02429  02429                % 04373 AVL---
+200423004 Pfaffenthal, Um Bock  02431  02431                % 04373 AVL---
+200408005 Clausen, Plateau Alt  02432  02432                % 04373 AVL---
+200408001 Clausen, Clausener B  02433  02433                % 04373 AVL---
+200408003 Clausen, Malakoff     02433  02433                % 04373 AVL---
+200422005 Neudorf/Weimershof,   02434  02434                % 04373 AVL---
+200408002 Neudorf, Fixmer       02436  02436                % 04373 AVL---
+200422009 Neudorf, Kierch       02437  02437                % 04373 AVL---
+200422001 Neiduerf, Brasserie   02437  02437                % 04373 AVL---
+200422008 Neiduerf, Kapell      02438  02438                % 04373 AVL---
+200422011 Neudorf, Laangegronn  02439  02439                % 04373 AVL---
+200422003 Neudorf/Weimershof,   02439  02439                % 04373 AVL---
+200422007 Neudorf, Kalchesbruc  02440  02440                % 04373 AVL---
+200406019 Cents, Waassertuerm   02442                       % 04373 AVL---
+*Z 04374 AVL---       001 010                               % 04374 AVL---
+*L CN1      200415009 200406019  02449  02522               % 04374 AVL---
+*A BE 200415009 200406019 000064  02449  02522              % 04374 AVL---
+*R 1 200406019 200415009 200406019  02449  02522            % 04374 AVL---
+*G ST  200415009 200406019  02449  02522                    % 04374 AVL---
+*A VE 200415009 200406019 000064  02449  02522              % 04374 AVL---
+200415009 Hollerich, P+R Bouil         02449                % 04374 AVL---
+200415017 Hollerich, Kierfecht  02449  02449                % 04374 AVL---
+200415019 Hollerich, Jean-Bapt  02451  02451                % 04374 AVL---
+200415003 Hollerich, Fonderie   02452  02452                % 04374 AVL---
+200405036 Luxembourg, Gare Cen  02454  02454                % 04374 AVL---
+200405001 Gare, Al Avenue       02456  02456                % 04374 AVL---
+200405013 Centre, F.D. Rooseve  02458  02458                % 04374 AVL---
+200405020 Hamilius (Bus)        02501  02501                % 04374 AVL---
+200405014 Centre, Fondation Pe  02503  02503                % 04374 AVL---
+200419026 Limpertsberg, Theate  02506  02506                % 04374 AVL---
+200405014 Centre, Fondation Pe  02507  02507                % 04374 AVL---
+200405005 Centre, Badanstalt    02509  02509                % 04374 AVL---
+200423004 Pfaffenthal, Um Bock  02511  02511                % 04374 AVL---
+200408005 Clausen, Plateau Alt  02512  02512                % 04374 AVL---
+200408001 Clausen, Clausener B  02513  02513                % 04374 AVL---
+200408003 Clausen, Malakoff     02513  02513                % 04374 AVL---
+200422005 Neudorf/Weimershof,   02514  02514                % 04374 AVL---
+200408002 Neudorf, Fixmer       02516  02516                % 04374 AVL---
+200422009 Neudorf, Kierch       02517  02517                % 04374 AVL---
+200422001 Neiduerf, Brasserie   02517  02517                % 04374 AVL---
+200422008 Neiduerf, Kapell      02518  02518                % 04374 AVL---
+200422011 Neudorf, Laangegronn  02519  02519                % 04374 AVL---
+200422003 Neudorf/Weimershof,   02519  02519                % 04374 AVL---
+200422007 Neudorf, Kalchesbruc  02520  02520                % 04374 AVL---
+200406019 Cents, Waassertuerm   02522                       % 04374 AVL---
+*Z 04375 AVL---       003 010                               % 04375 AVL---
+*L CN1      200415009 200406019  02519  02552               % 04375 AVL---
+*A BE 200415009 200406019 000064  02519  02552              % 04375 AVL---
+*R 1 200406019 200415009 200406019  02519  02552            % 04375 AVL---
+*G ST  200415009 200406019  02519  02552                    % 04375 AVL---
+*A VE 200415009 200406019 000064  02519  02552              % 04375 AVL---
+200415009 Hollerich, P+R Bouil         02519                % 04375 AVL---
+200415017 Hollerich, Kierfecht  02519  02519                % 04375 AVL---
+200415019 Hollerich, Jean-Bapt  02521  02521                % 04375 AVL---
+200415003 Hollerich, Fonderie   02522  02522                % 04375 AVL---
+200405036 Luxembourg, Gare Cen  02524  02524                % 04375 AVL---
+200405001 Gare, Al Avenue       02526  02526                % 04375 AVL---
+200405013 Centre, F.D. Rooseve  02528  02528                % 04375 AVL---
+200405020 Hamilius (Bus)        02531  02531                % 04375 AVL---
+200405014 Centre, Fondation Pe  02533  02533                % 04375 AVL---
+200419026 Limpertsberg, Theate  02536  02536                % 04375 AVL---
+200405014 Centre, Fondation Pe  02537  02537                % 04375 AVL---
+200405005 Centre, Badanstalt    02539  02539                % 04375 AVL---
+200423004 Pfaffenthal, Um Bock  02541  02541                % 04375 AVL---
+200408005 Clausen, Plateau Alt  02542  02542                % 04375 AVL---
+200408001 Clausen, Clausener B  02543  02543                % 04375 AVL---
+200408003 Clausen, Malakoff     02543  02543                % 04375 AVL---
+200422005 Neudorf/Weimershof,   02544  02544                % 04375 AVL---
+200408002 Neudorf, Fixmer       02546  02546                % 04375 AVL---
+200422009 Neudorf, Kierch       02547  02547                % 04375 AVL---
+200422001 Neiduerf, Brasserie   02547  02547                % 04375 AVL---
+200422008 Neiduerf, Kapell      02548  02548                % 04375 AVL---
+200422011 Neudorf, Laangegronn  02549  02549                % 04375 AVL---
+200422003 Neudorf/Weimershof,   02549  02549                % 04375 AVL---
+200422007 Neudorf, Kalchesbruc  02550  02550                % 04375 AVL---
+200406019 Cents, Waassertuerm   02552                       % 04375 AVL---
+*Z 04376 AVL---       001 010                               % 04376 AVL---
+*L CN1      200415009 200406019  02609  02642               % 04376 AVL---
+*A BE 200415009 200406019 000064  02609  02642              % 04376 AVL---
+*R 1 200406019 200415009 200406019  02609  02642            % 04376 AVL---
+*G ST  200415009 200406019  02609  02642                    % 04376 AVL---
+*A VE 200415009 200406019 000064  02609  02642              % 04376 AVL---
+200415009 Hollerich, P+R Bouil         02609                % 04376 AVL---
+200415017 Hollerich, Kierfecht  02609  02609                % 04376 AVL---
+200415019 Hollerich, Jean-Bapt  02611  02611                % 04376 AVL---
+200415003 Hollerich, Fonderie   02612  02612                % 04376 AVL---
+200405036 Luxembourg, Gare Cen  02614  02614                % 04376 AVL---
+200405001 Gare, Al Avenue       02616  02616                % 04376 AVL---
+200405013 Centre, F.D. Rooseve  02618  02618                % 04376 AVL---
+200405020 Hamilius (Bus)        02621  02621                % 04376 AVL---
+200405014 Centre, Fondation Pe  02623  02623                % 04376 AVL---
+200419026 Limpertsberg, Theate  02626  02626                % 04376 AVL---
+200405014 Centre, Fondation Pe  02627  02627                % 04376 AVL---
+200405005 Centre, Badanstalt    02629  02629                % 04376 AVL---
+200423004 Pfaffenthal, Um Bock  02631  02631                % 04376 AVL---
+200408005 Clausen, Plateau Alt  02632  02632                % 04376 AVL---
+200408001 Clausen, Clausener B  02633  02633                % 04376 AVL---
+200408003 Clausen, Malakoff     02633  02633                % 04376 AVL---
+200422005 Neudorf/Weimershof,   02634  02634                % 04376 AVL---
+200408002 Neudorf, Fixmer       02636  02636                % 04376 AVL---
+200422009 Neudorf, Kierch       02637  02637                % 04376 AVL---
+200422001 Neiduerf, Brasserie   02637  02637                % 04376 AVL---
+200422008 Neiduerf, Kapell      02638  02638                % 04376 AVL---
+200422011 Neudorf, Laangegronn  02639  02639                % 04376 AVL---
+200422003 Neudorf/Weimershof,   02639  02639                % 04376 AVL---
+200422007 Neudorf, Kalchesbruc  02640  02640                % 04376 AVL---
+200406019 Cents, Waassertuerm   02642                       % 04376 AVL---
+*Z 04377 AVL---       002 010                               % 04377 AVL---
+*L CN1      200415009 200406019  02639  02712               % 04377 AVL---
+*A BE 200415009 200406019 000064  02639  02712              % 04377 AVL---
+*R 1 200406019 200415009 200406019  02639  02712            % 04377 AVL---
+*G ST  200415009 200406019  02639  02712                    % 04377 AVL---
+*A VE 200415009 200406019 000064  02639  02712              % 04377 AVL---
+200415009 Hollerich, P+R Bouil         02639                % 04377 AVL---
+200415017 Hollerich, Kierfecht  02639  02639                % 04377 AVL---
+200415019 Hollerich, Jean-Bapt  02641  02641                % 04377 AVL---
+200415003 Hollerich, Fonderie   02642  02642                % 04377 AVL---
+200405036 Luxembourg, Gare Cen  02644  02644                % 04377 AVL---
+200405001 Gare, Al Avenue       02646  02646                % 04377 AVL---
+200405013 Centre, F.D. Rooseve  02648  02648                % 04377 AVL---
+200405020 Hamilius (Bus)        02651  02651                % 04377 AVL---
+200405014 Centre, Fondation Pe  02653  02653                % 04377 AVL---
+200419026 Limpertsberg, Theate  02656  02656                % 04377 AVL---
+200405014 Centre, Fondation Pe  02657  02657                % 04377 AVL---
+200405005 Centre, Badanstalt    02659  02659                % 04377 AVL---
+200423004 Pfaffenthal, Um Bock  02701  02701                % 04377 AVL---
+200408005 Clausen, Plateau Alt  02702  02702                % 04377 AVL---
+200408001 Clausen, Clausener B  02703  02703                % 04377 AVL---
+200408003 Clausen, Malakoff     02703  02703                % 04377 AVL---
+200422005 Neudorf/Weimershof,   02704  02704                % 04377 AVL---
+200408002 Neudorf, Fixmer       02706  02706                % 04377 AVL---
+200422009 Neudorf, Kierch       02707  02707                % 04377 AVL---
+200422001 Neiduerf, Brasserie   02707  02707                % 04377 AVL---
+200422008 Neiduerf, Kapell      02708  02708                % 04377 AVL---
+200422011 Neudorf, Laangegronn  02709  02709                % 04377 AVL---
+200422003 Neudorf/Weimershof,   02709  02709                % 04377 AVL---
+200422007 Neudorf, Kalchesbruc  02710  02710                % 04377 AVL---
+200406019 Cents, Waassertuerm   02712                       % 04377 AVL---
+*Z 04378 AVL---       001 030                               % 04378 AVL---
+*L CN1      200415009 200406019  02439  02512               % 04378 AVL---
+*A BE 200415009 200406019 000064  02439  02512              % 04378 AVL---
+*R 1 200406019 200415009 200406019  02439  02512            % 04378 AVL---
+*G STE 200415009 200406019  02439  02512                    % 04378 AVL---
+*A VE 200415009 200406019 000064  02439  02512              % 04378 AVL---
+200415009 Hollerich, P+R Bouil         02439                % 04378 AVL---
+200415017 Hollerich, Kierfecht  02439  02439                % 04378 AVL---
+200415019 Hollerich, Jean-Bapt  02441  02441                % 04378 AVL---
+200415003 Hollerich, Fonderie   02442  02442                % 04378 AVL---
+200405036 Luxembourg, Gare Cen  02444  02444                % 04378 AVL---
+200405001 Gare, Al Avenue       02446  02446                % 04378 AVL---
+200405013 Centre, F.D. Rooseve  02448  02448                % 04378 AVL---
+200405020 Hamilius (Bus)        02451  02451                % 04378 AVL---
+200405014 Centre, Fondation Pe  02453  02453                % 04378 AVL---
+200419026 Limpertsberg, Theate  02456  02456                % 04378 AVL---
+200405014 Centre, Fondation Pe  02457  02457                % 04378 AVL---
+200405005 Centre, Badanstalt    02459  02459                % 04378 AVL---
+200423004 Pfaffenthal, Um Bock  02501  02501                % 04378 AVL---
+200408005 Clausen, Plateau Alt  02502  02502                % 04378 AVL---
+200408001 Clausen, Clausener B  02503  02503                % 04378 AVL---
+200408003 Clausen, Malakoff     02503  02503                % 04378 AVL---
+200422005 Neudorf/Weimershof,   02504  02504                % 04378 AVL---
+200408002 Neudorf, Fixmer       02506  02506                % 04378 AVL---
+200422009 Neudorf, Kierch       02507  02507                % 04378 AVL---
+200422001 Neiduerf, Brasserie   02507  02507                % 04378 AVL---
+200422008 Neiduerf, Kapell      02508  02508                % 04378 AVL---
+200422011 Neudorf, Laangegronn  02509  02509                % 04378 AVL---
+200422003 Neudorf/Weimershof,   02509  02509                % 04378 AVL---
+200422007 Neudorf, Kalchesbruc  02510  02510                % 04378 AVL---
+200406019 Cents, Waassertuerm   02512                       % 04378 AVL---
+*Z 04379 AVL---       001 030                               % 04379 AVL---
+*L CN1      200415009 200406019  02559  02632               % 04379 AVL---
+*A BE 200415009 200406019 000064  02559  02632              % 04379 AVL---
+*R 1 200406019 200415009 200406019  02559  02632            % 04379 AVL---
+*G STE 200415009 200406019  02559  02632                    % 04379 AVL---
+*A VE 200415009 200406019 000064  02559  02632              % 04379 AVL---
+200415009 Hollerich, P+R Bouil         02559                % 04379 AVL---
+200415017 Hollerich, Kierfecht  02559  02559                % 04379 AVL---
+200415019 Hollerich, Jean-Bapt  02601  02601                % 04379 AVL---
+200415003 Hollerich, Fonderie   02602  02602                % 04379 AVL---
+200405036 Luxembourg, Gare Cen  02604  02604                % 04379 AVL---
+200405001 Gare, Al Avenue       02606  02606                % 04379 AVL---
+200405013 Centre, F.D. Rooseve  02608  02608                % 04379 AVL---
+200405020 Hamilius (Bus)        02611  02611                % 04379 AVL---
+200405014 Centre, Fondation Pe  02613  02613                % 04379 AVL---
+200419026 Limpertsberg, Theate  02616  02616                % 04379 AVL---
+200405014 Centre, Fondation Pe  02617  02617                % 04379 AVL---
+200405005 Centre, Badanstalt    02619  02619                % 04379 AVL---
+200423004 Pfaffenthal, Um Bock  02621  02621                % 04379 AVL---
+200408005 Clausen, Plateau Alt  02622  02622                % 04379 AVL---
+200408001 Clausen, Clausener B  02623  02623                % 04379 AVL---
+200408003 Clausen, Malakoff     02623  02623                % 04379 AVL---
+200422005 Neudorf/Weimershof,   02624  02624                % 04379 AVL---
+200408002 Neudorf, Fixmer       02626  02626                % 04379 AVL---
+200422009 Neudorf, Kierch       02627  02627                % 04379 AVL---
+200422001 Neiduerf, Brasserie   02627  02627                % 04379 AVL---
+200422008 Neiduerf, Kapell      02628  02628                % 04379 AVL---
+200422011 Neudorf, Laangegronn  02629  02629                % 04379 AVL---
+200422003 Neudorf/Weimershof,   02629  02629                % 04379 AVL---
+200422007 Neudorf, Kalchesbruc  02630  02630                % 04379 AVL---
+200406019 Cents, Waassertuerm   02632                       % 04379 AVL---
+*Z 04380 AVL---       008 015                               % 04380 AVL---
+*L CN1      200406019 200415009  02149  02221               % 04380 AVL---
+*A BE 200406019 200415009 000064  02149  02221              % 04380 AVL---
+*R 2 200415009 200406019 200415009  02149  02221            % 04380 AVL---
+*G ST  200406019 200415009  02149  02221                    % 04380 AVL---
+*A VE 200406019 200415009 000064  02149  02221              % 04380 AVL---
+200406019 Cents, Waassertuerm          02149                % 04380 AVL---
+200406003 Cents, Camille Polfe  02150  02150                % 04380 AVL---
+200406004 Cents, Carmel         02151  02151                % 04380 AVL---
+200406018 Cents, Trèves         02151  02151                % 04380 AVL---
+200406016 Cents, Robert Bruch   02152  02152                % 04380 AVL---
+200406012 Cents, Kierch         02153  02153                % 04380 AVL---
+200406017 Cents, Tawioun        02154  02154                % 04380 AVL---
+200406007 Cents, Fort Dumoulin  02154  02154                % 04380 AVL---
+200406011 Cents, Kéibierg-I.N.  02155  02155                % 04380 AVL---
+200408004 Clausen, Melusina     02156  02156                % 04380 AVL---
+200408008 Clausen, Tour Jacob   02157  02157                % 04380 AVL---
+200408001 Clausen, Clausener B  02158  02158                % 04380 AVL---
+200408005 Clausen, Plateau Alt  02159  02159                % 04380 AVL---
+200423004 Pfaffenthal, Um Bock  02159  02159                % 04380 AVL---
+200405005 Centre, Badanstalt    02201  02201                % 04380 AVL---
+200405014 Centre, Fondation Pe  02203  02203                % 04380 AVL---
+200419026 Limpertsberg, Theate  02204  02204                % 04380 AVL---
+200405014 Centre, Fondation Pe  02207  02207                % 04380 AVL---
+200405020 Hamilius (Bus)        02209  02209                % 04380 AVL---
+200405054 Centre, F.D. Rooseve  02211  02211                % 04380 AVL---
+200405001 Gare, Al Avenue       02213  02213                % 04380 AVL---
+200405032 Luxembourg, Gare Cen  02215  02215                % 04380 AVL---
+200415003 Hollerich, Fonderie   02216  02216                % 04380 AVL---
+200415006 Hollerich, Jean-Bapt  02218  02218                % 04380 AVL---
+200415012 Hollerich, Salzhaff   02219  02219                % 04380 AVL---
+200415017 Hollerich, Kierfecht  02220  02220                % 04380 AVL---
+200415009 Hollerich, P+R Bouil  02221                       % 04380 AVL---
+*Z 04381 AVL---       001 210                               % 04381 AVL---
+*L CN1      200406019 200415009  02419  02451               % 04381 AVL---
+*A BE 200406019 200415009 000064  02419  02451              % 04381 AVL---
+*R 2 200415009 200406019 200415009  02419  02451            % 04381 AVL---
+*G ST  200406019 200415009  02419  02451                    % 04381 AVL---
+*A VE 200406019 200415009 000064  02419  02451              % 04381 AVL---
+200406019 Cents, Waassertuerm          02419                % 04381 AVL---
+200406003 Cents, Camille Polfe  02420  02420                % 04381 AVL---
+200406004 Cents, Carmel         02421  02421                % 04381 AVL---
+200406018 Cents, Trèves         02421  02421                % 04381 AVL---
+200406016 Cents, Robert Bruch   02422  02422                % 04381 AVL---
+200406012 Cents, Kierch         02423  02423                % 04381 AVL---
+200406017 Cents, Tawioun        02424  02424                % 04381 AVL---
+200406007 Cents, Fort Dumoulin  02424  02424                % 04381 AVL---
+200406011 Cents, Kéibierg-I.N.  02425  02425                % 04381 AVL---
+200408004 Clausen, Melusina     02426  02426                % 04381 AVL---
+200408008 Clausen, Tour Jacob   02427  02427                % 04381 AVL---
+200408001 Clausen, Clausener B  02428  02428                % 04381 AVL---
+200408005 Clausen, Plateau Alt  02429  02429                % 04381 AVL---
+200423004 Pfaffenthal, Um Bock  02429  02429                % 04381 AVL---
+200405005 Centre, Badanstalt    02431  02431                % 04381 AVL---
+200405014 Centre, Fondation Pe  02433  02433                % 04381 AVL---
+200419026 Limpertsberg, Theate  02434  02434                % 04381 AVL---
+200405014 Centre, Fondation Pe  02437  02437                % 04381 AVL---
+200405020 Hamilius (Bus)        02439  02439                % 04381 AVL---
+200405054 Centre, F.D. Rooseve  02441  02441                % 04381 AVL---
+200405001 Gare, Al Avenue       02443  02443                % 04381 AVL---
+200405032 Luxembourg, Gare Cen  02445  02445                % 04381 AVL---
+200415003 Hollerich, Fonderie   02446  02446                % 04381 AVL---
+200415006 Hollerich, Jean-Bapt  02448  02448                % 04381 AVL---
+200415012 Hollerich, Salzhaff   02449  02449                % 04381 AVL---
+200415017 Hollerich, Kierfecht  02450  02450                % 04381 AVL---
+200415009 Hollerich, P+R Bouil  02451                       % 04381 AVL---
+*Z 04382 AVL---       001 030                               % 04382 AVL---
+*L CN1      200406019 200415009  02409  02441               % 04382 AVL---
+*A BE 200406019 200415009 000064  02409  02441              % 04382 AVL---
+*R 2 200415009 200406019 200415009  02409  02441            % 04382 AVL---
+*G ST  200406019 200415009  02409  02441                    % 04382 AVL---
+*A VE 200406019 200415009 000064  02409  02441              % 04382 AVL---
+200406019 Cents, Waassertuerm          02409                % 04382 AVL---
+200406003 Cents, Camille Polfe  02410  02410                % 04382 AVL---
+200406004 Cents, Carmel         02411  02411                % 04382 AVL---
+200406018 Cents, Trèves         02411  02411                % 04382 AVL---
+200406016 Cents, Robert Bruch   02412  02412                % 04382 AVL---
+200406012 Cents, Kierch         02413  02413                % 04382 AVL---
+200406017 Cents, Tawioun        02414  02414                % 04382 AVL---
+200406007 Cents, Fort Dumoulin  02414  02414                % 04382 AVL---
+200406011 Cents, Kéibierg-I.N.  02415  02415                % 04382 AVL---
+200408004 Clausen, Melusina     02416  02416                % 04382 AVL---
+200408008 Clausen, Tour Jacob   02417  02417                % 04382 AVL---
+200408001 Clausen, Clausener B  02418  02418                % 04382 AVL---
+200408005 Clausen, Plateau Alt  02419  02419                % 04382 AVL---
+200423004 Pfaffenthal, Um Bock  02419  02419                % 04382 AVL---
+200405005 Centre, Badanstalt    02421  02421                % 04382 AVL---
+200405014 Centre, Fondation Pe  02423  02423                % 04382 AVL---
+200419026 Limpertsberg, Theate  02424  02424                % 04382 AVL---
+200405014 Centre, Fondation Pe  02427  02427                % 04382 AVL---
+200405020 Hamilius (Bus)        02429  02429                % 04382 AVL---
+200405054 Centre, F.D. Rooseve  02431  02431                % 04382 AVL---
+200405001 Gare, Al Avenue       02433  02433                % 04382 AVL---
+200405032 Luxembourg, Gare Cen  02435  02435                % 04382 AVL---
+200415003 Hollerich, Fonderie   02436  02436                % 04382 AVL---
+200415006 Hollerich, Jean-Bapt  02438  02438                % 04382 AVL---
+200415012 Hollerich, Salzhaff   02439  02439                % 04382 AVL---
+200415017 Hollerich, Kierfecht  02440  02440                % 04382 AVL---
+200415009 Hollerich, P+R Bouil  02441                       % 04382 AVL---
+*Z 04383 AVL---       002 010                               % 04383 AVL---
+*L CN1      200406019 200415009  02449  02521               % 04383 AVL---
+*A BE 200406019 200415009 000064  02449  02521              % 04383 AVL---
+*R 2 200415009 200406019 200415009  02449  02521            % 04383 AVL---
+*G ST  200406019 200415009  02449  02521                    % 04383 AVL---
+*A VE 200406019 200415009 000064  02449  02521              % 04383 AVL---
+200406019 Cents, Waassertuerm          02449                % 04383 AVL---
+200406003 Cents, Camille Polfe  02450  02450                % 04383 AVL---
+200406004 Cents, Carmel         02451  02451                % 04383 AVL---
+200406018 Cents, Trèves         02451  02451                % 04383 AVL---
+200406016 Cents, Robert Bruch   02452  02452                % 04383 AVL---
+200406012 Cents, Kierch         02453  02453                % 04383 AVL---
+200406017 Cents, Tawioun        02454  02454                % 04383 AVL---
+200406007 Cents, Fort Dumoulin  02454  02454                % 04383 AVL---
+200406011 Cents, Kéibierg-I.N.  02455  02455                % 04383 AVL---
+200408004 Clausen, Melusina     02456  02456                % 04383 AVL---
+200408008 Clausen, Tour Jacob   02457  02457                % 04383 AVL---
+200408001 Clausen, Clausener B  02458  02458                % 04383 AVL---
+200408005 Clausen, Plateau Alt  02459  02459                % 04383 AVL---
+200423004 Pfaffenthal, Um Bock  02459  02459                % 04383 AVL---
+200405005 Centre, Badanstalt    02501  02501                % 04383 AVL---
+200405014 Centre, Fondation Pe  02503  02503                % 04383 AVL---
+200419026 Limpertsberg, Theate  02504  02504                % 04383 AVL---
+200405014 Centre, Fondation Pe  02507  02507                % 04383 AVL---
+200405020 Hamilius (Bus)        02509  02509                % 04383 AVL---
+200405054 Centre, F.D. Rooseve  02511  02511                % 04383 AVL---
+200405001 Gare, Al Avenue       02513  02513                % 04383 AVL---
+200405032 Luxembourg, Gare Cen  02515  02515                % 04383 AVL---
+200415003 Hollerich, Fonderie   02516  02516                % 04383 AVL---
+200415006 Hollerich, Jean-Bapt  02518  02518                % 04383 AVL---
+200415012 Hollerich, Salzhaff   02519  02519                % 04383 AVL---
+200415017 Hollerich, Kierfecht  02520  02520                % 04383 AVL---
+200415009 Hollerich, P+R Bouil  02521                       % 04383 AVL---
+*Z 04384 AVL---       001 010                               % 04384 AVL---
+*L CN1      200406019 200415009  02529  02601               % 04384 AVL---
+*A BE 200406019 200415009 000064  02529  02601              % 04384 AVL---
+*R 2 200415009 200406019 200415009  02529  02601            % 04384 AVL---
+*G ST  200406019 200415009  02529  02601                    % 04384 AVL---
+*A VE 200406019 200415009 000064  02529  02601              % 04384 AVL---
+200406019 Cents, Waassertuerm          02529                % 04384 AVL---
+200406003 Cents, Camille Polfe  02530  02530                % 04384 AVL---
+200406004 Cents, Carmel         02531  02531                % 04384 AVL---
+200406018 Cents, Trèves         02531  02531                % 04384 AVL---
+200406016 Cents, Robert Bruch   02532  02532                % 04384 AVL---
+200406012 Cents, Kierch         02533  02533                % 04384 AVL---
+200406017 Cents, Tawioun        02534  02534                % 04384 AVL---
+200406007 Cents, Fort Dumoulin  02534  02534                % 04384 AVL---
+200406011 Cents, Kéibierg-I.N.  02535  02535                % 04384 AVL---
+200408004 Clausen, Melusina     02536  02536                % 04384 AVL---
+200408008 Clausen, Tour Jacob   02537  02537                % 04384 AVL---
+200408001 Clausen, Clausener B  02538  02538                % 04384 AVL---
+200408005 Clausen, Plateau Alt  02539  02539                % 04384 AVL---
+200423004 Pfaffenthal, Um Bock  02539  02539                % 04384 AVL---
+200405005 Centre, Badanstalt    02541  02541                % 04384 AVL---
+200405014 Centre, Fondation Pe  02543  02543                % 04384 AVL---
+200419026 Limpertsberg, Theate  02544  02544                % 04384 AVL---
+200405014 Centre, Fondation Pe  02547  02547                % 04384 AVL---
+200405020 Hamilius (Bus)        02549  02549                % 04384 AVL---
+200405054 Centre, F.D. Rooseve  02551  02551                % 04384 AVL---
+200405001 Gare, Al Avenue       02553  02553                % 04384 AVL---
+200405032 Luxembourg, Gare Cen  02555  02555                % 04384 AVL---
+200415003 Hollerich, Fonderie   02556  02556                % 04384 AVL---
+200415006 Hollerich, Jean-Bapt  02558  02558                % 04384 AVL---
+200415012 Hollerich, Salzhaff   02559  02559                % 04384 AVL---
+200415017 Hollerich, Kierfecht  02600  02600                % 04384 AVL---
+200415009 Hollerich, P+R Bouil  02601                       % 04384 AVL---
+*Z 04385 AVL---       003 010                               % 04385 AVL---
+*L CN1      200406019 200415009  02559  02631               % 04385 AVL---
+*A BE 200406019 200415009 000064  02559  02631              % 04385 AVL---
+*R 2 200415009 200406019 200415009  02559  02631            % 04385 AVL---
+*G ST  200406019 200415009  02559  02631                    % 04385 AVL---
+*A VE 200406019 200415009 000064  02559  02631              % 04385 AVL---
+200406019 Cents, Waassertuerm          02559                % 04385 AVL---
+200406003 Cents, Camille Polfe  02600  02600                % 04385 AVL---
+200406004 Cents, Carmel         02601  02601                % 04385 AVL---
+200406018 Cents, Trèves         02601  02601                % 04385 AVL---
+200406016 Cents, Robert Bruch   02602  02602                % 04385 AVL---
+200406012 Cents, Kierch         02603  02603                % 04385 AVL---
+200406017 Cents, Tawioun        02604  02604                % 04385 AVL---
+200406007 Cents, Fort Dumoulin  02604  02604                % 04385 AVL---
+200406011 Cents, Kéibierg-I.N.  02605  02605                % 04385 AVL---
+200408004 Clausen, Melusina     02606  02606                % 04385 AVL---
+200408008 Clausen, Tour Jacob   02607  02607                % 04385 AVL---
+200408001 Clausen, Clausener B  02608  02608                % 04385 AVL---
+200408005 Clausen, Plateau Alt  02609  02609                % 04385 AVL---
+200423004 Pfaffenthal, Um Bock  02609  02609                % 04385 AVL---
+200405005 Centre, Badanstalt    02611  02611                % 04385 AVL---
+200405014 Centre, Fondation Pe  02613  02613                % 04385 AVL---
+200419026 Limpertsberg, Theate  02614  02614                % 04385 AVL---
+200405014 Centre, Fondation Pe  02617  02617                % 04385 AVL---
+200405020 Hamilius (Bus)        02619  02619                % 04385 AVL---
+200405054 Centre, F.D. Rooseve  02621  02621                % 04385 AVL---
+200405001 Gare, Al Avenue       02623  02623                % 04385 AVL---
+200405032 Luxembourg, Gare Cen  02625  02625                % 04385 AVL---
+200415003 Hollerich, Fonderie   02626  02626                % 04385 AVL---
+200415006 Hollerich, Jean-Bapt  02628  02628                % 04385 AVL---
+200415012 Hollerich, Salzhaff   02629  02629                % 04385 AVL---
+200415017 Hollerich, Kierfecht  02630  02630                % 04385 AVL---
+200415009 Hollerich, P+R Bouil  02631                       % 04385 AVL---
+*Z 04386 AVL---       001 010                               % 04386 AVL---
+*L CN1      200406019 200415009  02649  02721               % 04386 AVL---
+*A BE 200406019 200415009 000064  02649  02721              % 04386 AVL---
+*R 2 200415009 200406019 200415009  02649  02721            % 04386 AVL---
+*G ST  200406019 200415009  02649  02721                    % 04386 AVL---
+*A VE 200406019 200415009 000064  02649  02721              % 04386 AVL---
+200406019 Cents, Waassertuerm          02649                % 04386 AVL---
+200406003 Cents, Camille Polfe  02650  02650                % 04386 AVL---
+200406004 Cents, Carmel         02651  02651                % 04386 AVL---
+200406018 Cents, Trèves         02651  02651                % 04386 AVL---
+200406016 Cents, Robert Bruch   02652  02652                % 04386 AVL---
+200406012 Cents, Kierch         02653  02653                % 04386 AVL---
+200406017 Cents, Tawioun        02654  02654                % 04386 AVL---
+200406007 Cents, Fort Dumoulin  02654  02654                % 04386 AVL---
+200406011 Cents, Kéibierg-I.N.  02655  02655                % 04386 AVL---
+200408004 Clausen, Melusina     02656  02656                % 04386 AVL---
+200408008 Clausen, Tour Jacob   02657  02657                % 04386 AVL---
+200408001 Clausen, Clausener B  02658  02658                % 04386 AVL---
+200408005 Clausen, Plateau Alt  02659  02659                % 04386 AVL---
+200423004 Pfaffenthal, Um Bock  02659  02659                % 04386 AVL---
+200405005 Centre, Badanstalt    02701  02701                % 04386 AVL---
+200405014 Centre, Fondation Pe  02703  02703                % 04386 AVL---
+200419026 Limpertsberg, Theate  02704  02704                % 04386 AVL---
+200405014 Centre, Fondation Pe  02707  02707                % 04386 AVL---
+200405020 Hamilius (Bus)        02709  02709                % 04386 AVL---
+200405054 Centre, F.D. Rooseve  02711  02711                % 04386 AVL---
+200405001 Gare, Al Avenue       02713  02713                % 04386 AVL---
+200405032 Luxembourg, Gare Cen  02715  02715                % 04386 AVL---
+200415003 Hollerich, Fonderie   02716  02716                % 04386 AVL---
+200415006 Hollerich, Jean-Bapt  02718  02718                % 04386 AVL---
+200415012 Hollerich, Salzhaff   02719  02719                % 04386 AVL---
+200415017 Hollerich, Kierfecht  02720  02720                % 04386 AVL---
+200415009 Hollerich, P+R Bouil  02721                       % 04386 AVL---
+*Z 04387 AVL---       002 010                               % 04387 AVL---
+*L CN1      200406019 200415009  02719  02751               % 04387 AVL---
+*A BE 200406019 200415009 000064  02719  02751              % 04387 AVL---
+*R 2 200415009 200406019 200415009  02719  02751            % 04387 AVL---
+*G ST  200406019 200415009  02719  02751                    % 04387 AVL---
+*A VE 200406019 200415009 000064  02719  02751              % 04387 AVL---
+200406019 Cents, Waassertuerm          02719                % 04387 AVL---
+200406003 Cents, Camille Polfe  02720  02720                % 04387 AVL---
+200406004 Cents, Carmel         02721  02721                % 04387 AVL---
+200406018 Cents, Trèves         02721  02721                % 04387 AVL---
+200406016 Cents, Robert Bruch   02722  02722                % 04387 AVL---
+200406012 Cents, Kierch         02723  02723                % 04387 AVL---
+200406017 Cents, Tawioun        02724  02724                % 04387 AVL---
+200406007 Cents, Fort Dumoulin  02724  02724                % 04387 AVL---
+200406011 Cents, Kéibierg-I.N.  02725  02725                % 04387 AVL---
+200408004 Clausen, Melusina     02726  02726                % 04387 AVL---
+200408008 Clausen, Tour Jacob   02727  02727                % 04387 AVL---
+200408001 Clausen, Clausener B  02728  02728                % 04387 AVL---
+200408005 Clausen, Plateau Alt  02729  02729                % 04387 AVL---
+200423004 Pfaffenthal, Um Bock  02729  02729                % 04387 AVL---
+200405005 Centre, Badanstalt    02731  02731                % 04387 AVL---
+200405014 Centre, Fondation Pe  02733  02733                % 04387 AVL---
+200419026 Limpertsberg, Theate  02734  02734                % 04387 AVL---
+200405014 Centre, Fondation Pe  02737  02737                % 04387 AVL---
+200405020 Hamilius (Bus)        02739  02739                % 04387 AVL---
+200405054 Centre, F.D. Rooseve  02741  02741                % 04387 AVL---
+200405001 Gare, Al Avenue       02743  02743                % 04387 AVL---
+200405032 Luxembourg, Gare Cen  02745  02745                % 04387 AVL---
+200415003 Hollerich, Fonderie   02746  02746                % 04387 AVL---
+200415006 Hollerich, Jean-Bapt  02748  02748                % 04387 AVL---
+200415012 Hollerich, Salzhaff   02749  02749                % 04387 AVL---
+200415017 Hollerich, Kierfecht  02750  02750                % 04387 AVL---
+200415009 Hollerich, P+R Bouil  02751                       % 04387 AVL---
+*Z 04388 AVL---       001 030                               % 04388 AVL---
+*L CN1      200406019 200415009  02359  02431               % 04388 AVL---
+*A BE 200406019 200415009 000064  02359  02431              % 04388 AVL---
+*R 2 200415009 200406019 200415009  02359  02431            % 04388 AVL---
+*G STE 200406019 200415009  02359  02431                    % 04388 AVL---
+*A VE 200406019 200415009 000064  02359  02431              % 04388 AVL---
+200406019 Cents, Waassertuerm          02359                % 04388 AVL---
+200406003 Cents, Camille Polfe  02400  02400                % 04388 AVL---
+200406004 Cents, Carmel         02401  02401                % 04388 AVL---
+200406018 Cents, Trèves         02401  02401                % 04388 AVL---
+200406016 Cents, Robert Bruch   02402  02402                % 04388 AVL---
+200406012 Cents, Kierch         02403  02403                % 04388 AVL---
+200406017 Cents, Tawioun        02404  02404                % 04388 AVL---
+200406007 Cents, Fort Dumoulin  02404  02404                % 04388 AVL---
+200406011 Cents, Kéibierg-I.N.  02405  02405                % 04388 AVL---
+200408004 Clausen, Melusina     02406  02406                % 04388 AVL---
+200408008 Clausen, Tour Jacob   02407  02407                % 04388 AVL---
+200408001 Clausen, Clausener B  02408  02408                % 04388 AVL---
+200408005 Clausen, Plateau Alt  02409  02409                % 04388 AVL---
+200423004 Pfaffenthal, Um Bock  02409  02409                % 04388 AVL---
+200405005 Centre, Badanstalt    02411  02411                % 04388 AVL---
+200405014 Centre, Fondation Pe  02413  02413                % 04388 AVL---
+200419026 Limpertsberg, Theate  02414  02414                % 04388 AVL---
+200405014 Centre, Fondation Pe  02417  02417                % 04388 AVL---
+200405020 Hamilius (Bus)        02419  02419                % 04388 AVL---
+200405054 Centre, F.D. Rooseve  02421  02421                % 04388 AVL---
+200405001 Gare, Al Avenue       02423  02423                % 04388 AVL---
+200405032 Luxembourg, Gare Cen  02425  02425                % 04388 AVL---
+200415003 Hollerich, Fonderie   02426  02426                % 04388 AVL---
+200415006 Hollerich, Jean-Bapt  02428  02428                % 04388 AVL---
+200415012 Hollerich, Salzhaff   02429  02429                % 04388 AVL---
+200415017 Hollerich, Kierfecht  02430  02430                % 04388 AVL---
+200415009 Hollerich, P+R Bouil  02431                       % 04388 AVL---
+*Z 04389 AVL---       001 030                               % 04389 AVL---
+*L CN1      200406019 200415009  02519  02551               % 04389 AVL---
+*A BE 200406019 200415009 000064  02519  02551              % 04389 AVL---
+*R 2 200415009 200406019 200415009  02519  02551            % 04389 AVL---
+*G STE 200406019 200415009  02519  02551                    % 04389 AVL---
+*A VE 200406019 200415009 000064  02519  02551              % 04389 AVL---
+200406019 Cents, Waassertuerm          02519                % 04389 AVL---
+200406003 Cents, Camille Polfe  02520  02520                % 04389 AVL---
+200406004 Cents, Carmel         02521  02521                % 04389 AVL---
+200406018 Cents, Trèves         02521  02521                % 04389 AVL---
+200406016 Cents, Robert Bruch   02522  02522                % 04389 AVL---
+200406012 Cents, Kierch         02523  02523                % 04389 AVL---
+200406017 Cents, Tawioun        02524  02524                % 04389 AVL---
+200406007 Cents, Fort Dumoulin  02524  02524                % 04389 AVL---
+200406011 Cents, Kéibierg-I.N.  02525  02525                % 04389 AVL---
+200408004 Clausen, Melusina     02526  02526                % 04389 AVL---
+200408008 Clausen, Tour Jacob   02527  02527                % 04389 AVL---
+200408001 Clausen, Clausener B  02528  02528                % 04389 AVL---
+200408005 Clausen, Plateau Alt  02529  02529                % 04389 AVL---
+200423004 Pfaffenthal, Um Bock  02529  02529                % 04389 AVL---
+200405005 Centre, Badanstalt    02531  02531                % 04389 AVL---
+200405014 Centre, Fondation Pe  02533  02533                % 04389 AVL---
+200419026 Limpertsberg, Theate  02534  02534                % 04389 AVL---
+200405014 Centre, Fondation Pe  02537  02537                % 04389 AVL---
+200405020 Hamilius (Bus)        02539  02539                % 04389 AVL---
+200405054 Centre, F.D. Rooseve  02541  02541                % 04389 AVL---
+200405001 Gare, Al Avenue       02543  02543                % 04389 AVL---
+200405032 Luxembourg, Gare Cen  02545  02545                % 04389 AVL---
+200415003 Hollerich, Fonderie   02546  02546                % 04389 AVL---
+200415006 Hollerich, Jean-Bapt  02548  02548                % 04389 AVL---
+200415012 Hollerich, Salzhaff   02549  02549                % 04389 AVL---
+200415017 Hollerich, Kierfecht  02550  02550                % 04389 AVL---
+200415009 Hollerich, P+R Bouil  02551                       % 04389 AVL---
+*Z 04390 AVL---       001 030                               % 04390 AVL---
+*L CN1      200406019 200415009  02639  02711               % 04390 AVL---
+*A BE 200406019 200415009 000064  02639  02711              % 04390 AVL---
+*R 2 200415009 200406019 200415009  02639  02711            % 04390 AVL---
+*G STE 200406019 200415009  02639  02711                    % 04390 AVL---
+*A VE 200406019 200415009 000064  02639  02711              % 04390 AVL---
+200406019 Cents, Waassertuerm          02639                % 04390 AVL---
+200406003 Cents, Camille Polfe  02640  02640                % 04390 AVL---
+200406004 Cents, Carmel         02641  02641                % 04390 AVL---
+200406018 Cents, Trèves         02641  02641                % 04390 AVL---
+200406016 Cents, Robert Bruch   02642  02642                % 04390 AVL---
+200406012 Cents, Kierch         02643  02643                % 04390 AVL---
+200406017 Cents, Tawioun        02644  02644                % 04390 AVL---
+200406007 Cents, Fort Dumoulin  02644  02644                % 04390 AVL---
+200406011 Cents, Kéibierg-I.N.  02645  02645                % 04390 AVL---
+200408004 Clausen, Melusina     02646  02646                % 04390 AVL---
+200408008 Clausen, Tour Jacob   02647  02647                % 04390 AVL---
+200408001 Clausen, Clausener B  02648  02648                % 04390 AVL---
+200408005 Clausen, Plateau Alt  02649  02649                % 04390 AVL---
+200423004 Pfaffenthal, Um Bock  02649  02649                % 04390 AVL---
+200405005 Centre, Badanstalt    02651  02651                % 04390 AVL---
+200405014 Centre, Fondation Pe  02653  02653                % 04390 AVL---
+200419026 Limpertsberg, Theate  02654  02654                % 04390 AVL---
+200405014 Centre, Fondation Pe  02657  02657                % 04390 AVL---
+200405020 Hamilius (Bus)        02659  02659                % 04390 AVL---
+200405054 Centre, F.D. Rooseve  02701  02701                % 04390 AVL---
+200405001 Gare, Al Avenue       02703  02703                % 04390 AVL---
+200405032 Luxembourg, Gare Cen  02705  02705                % 04390 AVL---
+200415003 Hollerich, Fonderie   02706  02706                % 04390 AVL---
+200415006 Hollerich, Jean-Bapt  02708  02708                % 04390 AVL---
+200415012 Hollerich, Salzhaff   02709  02709                % 04390 AVL---
+200415017 Hollerich, Kierfecht  02710  02710                % 04390 AVL---
+200415009 Hollerich, P+R Bouil  02711                       % 04390 AVL---
+*Z 04391 AVL---                                             % 04391 AVL---
+*L CN1      200406019 200406017  02801  02805               % 04391 AVL---
+*A BE 200406019 200406017 000064  02801  02805              % 04391 AVL---
+*R 2 200406017 200406019 200406017  02801  02805            % 04391 AVL---
+*G ST  200406019 200406017  02801  02805                    % 04391 AVL---
+*A VE 200406019 200406017 000064  02801  02805              % 04391 AVL---
+200406019 Cents, Waassertuerm          02801                % 04391 AVL---
+200406003 Cents, Camille Polfe  02802  02802                % 04391 AVL---
+200406004 Cents, Carmel         02803  02803                % 04391 AVL---
+200406018 Cents, Trèves         02803  02803                % 04391 AVL---
+200406016 Cents, Robert Bruch   02804  02804                % 04391 AVL---
+200406012 Cents, Kierch         02805  02805                % 04391 AVL---
+200406017 Cents, Tawioun        02805                       % 04391 AVL---

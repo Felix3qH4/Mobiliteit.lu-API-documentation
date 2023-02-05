@@ -1,0 +1,2143 @@
+*F 03 2
+*Z 00001 TIC---                                             % 00001 TIC---
+*L 10       220301024 220301024  00950  01003               % 00001 TIC---
+*R 1 220301024 220301024 220301024  00950  01003            % 00001 TIC---
+*G MB  220301024 220301024  00950  01003                    % 00001 TIC---
+*A VE 220301024 220301024 000277  00950  01003              % 00001 TIC---
+*I FD 220301024 220301024        0000001  00950  01003      % 00001 TIC---
+220301024 Dudelange, Gemeng            00950                % 00001 TIC---
+220301079 Dudelange, Fohrmann   00951  00951                % 00001 TIC---
+220301033 Dudelange, Rue Antoi  00952  00952                % 00001 TIC---
+220301004 Dudelange, Rue Belai  00953  00953                % 00001 TIC---
+220301032 Dudelange, Kräizbier  00954  00954                % 00001 TIC---
+220301072 Dudelange, Mayrisch   00955  00955                % 00001 TIC---
+220301063 Dudelange, Lenkeschl  00955  00955                % 00001 TIC---
+220301057 Dudelange, Waldschou  00956  00956                % 00001 TIC---
+220301088 Dudelange, Rue Nic B  00957  00957                % 00001 TIC---
+220301089 Dudelange, Rue Léon   00958  00958                % 00001 TIC---
+220301034 Dudelange, Lycée Nic  00959  00959                % 00001 TIC---
+220301009 Dudelange, Breininge  01000  01000                % 00001 TIC---
+220301078 Dudelange, Square Ma  01001  01001                % 00001 TIC---
+220301022 Dudelange, Gare       01001  01001                % 00001 TIC---
+220301024 Dudelange, Gemeng     01003                       % 00001 TIC---
+*Z 00002 TIC---                                             % 00002 TIC---
+*L 10       220301024 220301024  01050  01103               % 00002 TIC---
+*R 1 220301024 220301024 220301024  01050  01103            % 00002 TIC---
+*G MB  220301024 220301024  01050  01103                    % 00002 TIC---
+*A VE 220301024 220301024 000277  01050  01103              % 00002 TIC---
+*I FD 220301024 220301024        0000002  01050  01103      % 00002 TIC---
+220301024 Dudelange, Gemeng            01050                % 00002 TIC---
+220301079 Dudelange, Fohrmann   01051  01051                % 00002 TIC---
+220301033 Dudelange, Rue Antoi  01052  01052                % 00002 TIC---
+220301004 Dudelange, Rue Belai  01053  01053                % 00002 TIC---
+220301032 Dudelange, Kräizbier  01054  01054                % 00002 TIC---
+220301072 Dudelange, Mayrisch   01055  01055                % 00002 TIC---
+220301063 Dudelange, Lenkeschl  01055  01055                % 00002 TIC---
+220301057 Dudelange, Waldschou  01056  01056                % 00002 TIC---
+220301088 Dudelange, Rue Nic B  01057  01057                % 00002 TIC---
+220301089 Dudelange, Rue Léon   01058  01058                % 00002 TIC---
+220301034 Dudelange, Lycée Nic  01059  01059                % 00002 TIC---
+220301009 Dudelange, Breininge  01100  01100                % 00002 TIC---
+220301078 Dudelange, Square Ma  01101  01101                % 00002 TIC---
+220301022 Dudelange, Gare       01101  01101                % 00002 TIC---
+220301024 Dudelange, Gemeng     01103                       % 00002 TIC---
+*Z 00003 TIC---                                             % 00003 TIC---
+*L 10       220301024 220301024  01150  01203               % 00003 TIC---
+*R 1 220301024 220301024 220301024  01150  01203            % 00003 TIC---
+*G MB  220301024 220301024  01150  01203                    % 00003 TIC---
+*A VE 220301024 220301024 000277  01150  01203              % 00003 TIC---
+*I FD 220301024 220301024        0000003  01150  01203      % 00003 TIC---
+220301024 Dudelange, Gemeng            01150                % 00003 TIC---
+220301079 Dudelange, Fohrmann   01151  01151                % 00003 TIC---
+220301033 Dudelange, Rue Antoi  01152  01152                % 00003 TIC---
+220301004 Dudelange, Rue Belai  01153  01153                % 00003 TIC---
+220301032 Dudelange, Kräizbier  01154  01154                % 00003 TIC---
+220301072 Dudelange, Mayrisch   01155  01155                % 00003 TIC---
+220301063 Dudelange, Lenkeschl  01155  01155                % 00003 TIC---
+220301057 Dudelange, Waldschou  01156  01156                % 00003 TIC---
+220301088 Dudelange, Rue Nic B  01157  01157                % 00003 TIC---
+220301089 Dudelange, Rue Léon   01158  01158                % 00003 TIC---
+220301034 Dudelange, Lycée Nic  01159  01159                % 00003 TIC---
+220301009 Dudelange, Breininge  01200  01200                % 00003 TIC---
+220301078 Dudelange, Square Ma  01201  01201                % 00003 TIC---
+220301022 Dudelange, Gare       01201  01201                % 00003 TIC---
+220301024 Dudelange, Gemeng     01203                       % 00003 TIC---
+*Z 00004 TIC---                                             % 00004 TIC---
+*L 10       220301024 220301024  01250  01303               % 00004 TIC---
+*R 1 220301024 220301024 220301024  01250  01303            % 00004 TIC---
+*G MB  220301024 220301024  01250  01303                    % 00004 TIC---
+*A VE 220301024 220301024 000277  01250  01303              % 00004 TIC---
+*I FD 220301024 220301024        0000004  01250  01303      % 00004 TIC---
+220301024 Dudelange, Gemeng            01250                % 00004 TIC---
+220301079 Dudelange, Fohrmann   01251  01251                % 00004 TIC---
+220301033 Dudelange, Rue Antoi  01252  01252                % 00004 TIC---
+220301004 Dudelange, Rue Belai  01253  01253                % 00004 TIC---
+220301032 Dudelange, Kräizbier  01254  01254                % 00004 TIC---
+220301072 Dudelange, Mayrisch   01255  01255                % 00004 TIC---
+220301063 Dudelange, Lenkeschl  01255  01255                % 00004 TIC---
+220301057 Dudelange, Waldschou  01256  01256                % 00004 TIC---
+220301088 Dudelange, Rue Nic B  01257  01257                % 00004 TIC---
+220301089 Dudelange, Rue Léon   01258  01258                % 00004 TIC---
+220301034 Dudelange, Lycée Nic  01259  01259                % 00004 TIC---
+220301009 Dudelange, Breininge  01300  01300                % 00004 TIC---
+220301078 Dudelange, Square Ma  01301  01301                % 00004 TIC---
+220301022 Dudelange, Gare       01301  01301                % 00004 TIC---
+220301024 Dudelange, Gemeng     01303                       % 00004 TIC---
+*Z 00005 TIC---                                             % 00005 TIC---
+*L 10       220301024 220301024  01350  01403               % 00005 TIC---
+*R 1 220301024 220301024 220301024  01350  01403            % 00005 TIC---
+*G MB  220301024 220301024  01350  01403                    % 00005 TIC---
+*A VE 220301024 220301024 000277  01350  01403              % 00005 TIC---
+*I FD 220301024 220301024        0000005  01350  01403      % 00005 TIC---
+220301024 Dudelange, Gemeng            01350                % 00005 TIC---
+220301079 Dudelange, Fohrmann   01351  01351                % 00005 TIC---
+220301033 Dudelange, Rue Antoi  01352  01352                % 00005 TIC---
+220301004 Dudelange, Rue Belai  01353  01353                % 00005 TIC---
+220301032 Dudelange, Kräizbier  01354  01354                % 00005 TIC---
+220301072 Dudelange, Mayrisch   01355  01355                % 00005 TIC---
+220301063 Dudelange, Lenkeschl  01355  01355                % 00005 TIC---
+220301057 Dudelange, Waldschou  01356  01356                % 00005 TIC---
+220301088 Dudelange, Rue Nic B  01357  01357                % 00005 TIC---
+220301089 Dudelange, Rue Léon   01358  01358                % 00005 TIC---
+220301034 Dudelange, Lycée Nic  01359  01359                % 00005 TIC---
+220301009 Dudelange, Breininge  01400  01400                % 00005 TIC---
+220301078 Dudelange, Square Ma  01401  01401                % 00005 TIC---
+220301022 Dudelange, Gare       01401  01401                % 00005 TIC---
+220301024 Dudelange, Gemeng     01403                       % 00005 TIC---
+*Z 00006 TIC---                                             % 00006 TIC---
+*L 10       220301024 220301024  01450  01503               % 00006 TIC---
+*R 1 220301024 220301024 220301024  01450  01503            % 00006 TIC---
+*G MB  220301024 220301024  01450  01503                    % 00006 TIC---
+*A VE 220301024 220301024 000277  01450  01503              % 00006 TIC---
+*I FD 220301024 220301024        0000006  01450  01503      % 00006 TIC---
+220301024 Dudelange, Gemeng            01450                % 00006 TIC---
+220301079 Dudelange, Fohrmann   01451  01451                % 00006 TIC---
+220301033 Dudelange, Rue Antoi  01452  01452                % 00006 TIC---
+220301004 Dudelange, Rue Belai  01453  01453                % 00006 TIC---
+220301032 Dudelange, Kräizbier  01454  01454                % 00006 TIC---
+220301072 Dudelange, Mayrisch   01455  01455                % 00006 TIC---
+220301063 Dudelange, Lenkeschl  01455  01455                % 00006 TIC---
+220301057 Dudelange, Waldschou  01456  01456                % 00006 TIC---
+220301088 Dudelange, Rue Nic B  01457  01457                % 00006 TIC---
+220301089 Dudelange, Rue Léon   01458  01458                % 00006 TIC---
+220301034 Dudelange, Lycée Nic  01459  01459                % 00006 TIC---
+220301009 Dudelange, Breininge  01500  01500                % 00006 TIC---
+220301078 Dudelange, Square Ma  01501  01501                % 00006 TIC---
+220301022 Dudelange, Gare       01501  01501                % 00006 TIC---
+220301024 Dudelange, Gemeng     01503                       % 00006 TIC---
+*Z 00007 TIC---                                             % 00007 TIC---
+*L 10       220301024 220301024  01550  01603               % 00007 TIC---
+*R 1 220301024 220301024 220301024  01550  01603            % 00007 TIC---
+*G MB  220301024 220301024  01550  01603                    % 00007 TIC---
+*A VE 220301024 220301024 000277  01550  01603              % 00007 TIC---
+*I FD 220301024 220301024        0000007  01550  01603      % 00007 TIC---
+220301024 Dudelange, Gemeng            01550                % 00007 TIC---
+220301079 Dudelange, Fohrmann   01551  01551                % 00007 TIC---
+220301033 Dudelange, Rue Antoi  01552  01552                % 00007 TIC---
+220301004 Dudelange, Rue Belai  01553  01553                % 00007 TIC---
+220301032 Dudelange, Kräizbier  01554  01554                % 00007 TIC---
+220301072 Dudelange, Mayrisch   01555  01555                % 00007 TIC---
+220301063 Dudelange, Lenkeschl  01555  01555                % 00007 TIC---
+220301057 Dudelange, Waldschou  01556  01556                % 00007 TIC---
+220301088 Dudelange, Rue Nic B  01557  01557                % 00007 TIC---
+220301089 Dudelange, Rue Léon   01558  01558                % 00007 TIC---
+220301034 Dudelange, Lycée Nic  01559  01559                % 00007 TIC---
+220301009 Dudelange, Breininge  01600  01600                % 00007 TIC---
+220301078 Dudelange, Square Ma  01601  01601                % 00007 TIC---
+220301022 Dudelange, Gare       01601  01601                % 00007 TIC---
+220301024 Dudelange, Gemeng     01603                       % 00007 TIC---
+*Z 00008 TIC---                                             % 00008 TIC---
+*L 10       220301024 220301024  01650  01703               % 00008 TIC---
+*R 1 220301024 220301024 220301024  01650  01703            % 00008 TIC---
+*G MB  220301024 220301024  01650  01703                    % 00008 TIC---
+*A VE 220301024 220301024 000277  01650  01703              % 00008 TIC---
+*I FD 220301024 220301024        0000008  01650  01703      % 00008 TIC---
+220301024 Dudelange, Gemeng            01650                % 00008 TIC---
+220301079 Dudelange, Fohrmann   01651  01651                % 00008 TIC---
+220301033 Dudelange, Rue Antoi  01652  01652                % 00008 TIC---
+220301004 Dudelange, Rue Belai  01653  01653                % 00008 TIC---
+220301032 Dudelange, Kräizbier  01654  01654                % 00008 TIC---
+220301072 Dudelange, Mayrisch   01655  01655                % 00008 TIC---
+220301063 Dudelange, Lenkeschl  01655  01655                % 00008 TIC---
+220301057 Dudelange, Waldschou  01656  01656                % 00008 TIC---
+220301088 Dudelange, Rue Nic B  01657  01657                % 00008 TIC---
+220301089 Dudelange, Rue Léon   01658  01658                % 00008 TIC---
+220301034 Dudelange, Lycée Nic  01659  01659                % 00008 TIC---
+220301009 Dudelange, Breininge  01700  01700                % 00008 TIC---
+220301078 Dudelange, Square Ma  01701  01701                % 00008 TIC---
+220301022 Dudelange, Gare       01701  01701                % 00008 TIC---
+220301024 Dudelange, Gemeng     01703                       % 00008 TIC---
+*Z 00009 TIC---                                             % 00009 TIC---
+*L 10       220301024 220301024  01750  01803               % 00009 TIC---
+*R 1 220301024 220301024 220301024  01750  01803            % 00009 TIC---
+*G MB  220301024 220301024  01750  01803                    % 00009 TIC---
+*A VE 220301024 220301024 000277  01750  01803              % 00009 TIC---
+*I FD 220301024 220301024        0000009  01750  01803      % 00009 TIC---
+220301024 Dudelange, Gemeng            01750                % 00009 TIC---
+220301079 Dudelange, Fohrmann   01751  01751                % 00009 TIC---
+220301033 Dudelange, Rue Antoi  01752  01752                % 00009 TIC---
+220301004 Dudelange, Rue Belai  01753  01753                % 00009 TIC---
+220301032 Dudelange, Kräizbier  01754  01754                % 00009 TIC---
+220301072 Dudelange, Mayrisch   01755  01755                % 00009 TIC---
+220301063 Dudelange, Lenkeschl  01755  01755                % 00009 TIC---
+220301057 Dudelange, Waldschou  01756  01756                % 00009 TIC---
+220301088 Dudelange, Rue Nic B  01757  01757                % 00009 TIC---
+220301089 Dudelange, Rue Léon   01758  01758                % 00009 TIC---
+220301034 Dudelange, Lycée Nic  01759  01759                % 00009 TIC---
+220301009 Dudelange, Breininge  01800  01800                % 00009 TIC---
+220301078 Dudelange, Square Ma  01801  01801                % 00009 TIC---
+220301022 Dudelange, Gare       01801  01801                % 00009 TIC---
+220301024 Dudelange, Gemeng     01803                       % 00009 TIC---
+*Z 00010 TIC---                                             % 00010 TIC---
+*L 10       220301024 220301024  01850  01903               % 00010 TIC---
+*R 1 220301024 220301024 220301024  01850  01903            % 00010 TIC---
+*G MB  220301024 220301024  01850  01903                    % 00010 TIC---
+*A VE 220301024 220301024 000277  01850  01903              % 00010 TIC---
+*I FD 220301024 220301024        0000010  01850  01903      % 00010 TIC---
+220301024 Dudelange, Gemeng            01850                % 00010 TIC---
+220301079 Dudelange, Fohrmann   01851  01851                % 00010 TIC---
+220301033 Dudelange, Rue Antoi  01852  01852                % 00010 TIC---
+220301004 Dudelange, Rue Belai  01853  01853                % 00010 TIC---
+220301032 Dudelange, Kräizbier  01854  01854                % 00010 TIC---
+220301072 Dudelange, Mayrisch   01855  01855                % 00010 TIC---
+220301063 Dudelange, Lenkeschl  01855  01855                % 00010 TIC---
+220301057 Dudelange, Waldschou  01856  01856                % 00010 TIC---
+220301088 Dudelange, Rue Nic B  01857  01857                % 00010 TIC---
+220301089 Dudelange, Rue Léon   01858  01858                % 00010 TIC---
+220301034 Dudelange, Lycée Nic  01859  01859                % 00010 TIC---
+220301009 Dudelange, Breininge  01900  01900                % 00010 TIC---
+220301078 Dudelange, Square Ma  01901  01901                % 00010 TIC---
+220301022 Dudelange, Gare       01901  01901                % 00010 TIC---
+220301024 Dudelange, Gemeng     01903                       % 00010 TIC---
+*Z 00011 TIC---                                             % 00011 TIC---
+*L 10       220301024 220301024  00520  00533               % 00011 TIC---
+*R 1 220301024 220301024 220301024  00520  00533            % 00011 TIC---
+*G MB  220301024 220301024  00520  00533                    % 00011 TIC---
+*A VE 220301024 220301024 000278  00520  00533              % 00011 TIC---
+*I FD 220301024 220301024        0000011  00520  00533      % 00011 TIC---
+220301024 Dudelange, Gemeng            00520                % 00011 TIC---
+220301079 Dudelange, Fohrmann   00521  00521                % 00011 TIC---
+220301033 Dudelange, Rue Antoi  00522  00522                % 00011 TIC---
+220301004 Dudelange, Rue Belai  00523  00523                % 00011 TIC---
+220301032 Dudelange, Kräizbier  00524  00524                % 00011 TIC---
+220301072 Dudelange, Mayrisch   00525  00525                % 00011 TIC---
+220301063 Dudelange, Lenkeschl  00525  00525                % 00011 TIC---
+220301057 Dudelange, Waldschou  00526  00526                % 00011 TIC---
+220301088 Dudelange, Rue Nic B  00527  00527                % 00011 TIC---
+220301089 Dudelange, Rue Léon   00528  00528                % 00011 TIC---
+220301034 Dudelange, Lycée Nic  00529  00529                % 00011 TIC---
+220301009 Dudelange, Breininge  00530  00530                % 00011 TIC---
+220301078 Dudelange, Square Ma  00531  00531                % 00011 TIC---
+220301022 Dudelange, Gare       00531  00531                % 00011 TIC---
+220301024 Dudelange, Gemeng     00533                       % 00011 TIC---
+*Z 00012 TIC---                                             % 00012 TIC---
+*L 10       220301024 220301024  00550  00603               % 00012 TIC---
+*R 1 220301024 220301024 220301024  00550  00603            % 00012 TIC---
+*G MB  220301024 220301024  00550  00603                    % 00012 TIC---
+*A VE 220301024 220301024 000278  00550  00603              % 00012 TIC---
+*I FD 220301024 220301024        0000012  00550  00603      % 00012 TIC---
+220301024 Dudelange, Gemeng            00550                % 00012 TIC---
+220301079 Dudelange, Fohrmann   00551  00551                % 00012 TIC---
+220301033 Dudelange, Rue Antoi  00552  00552                % 00012 TIC---
+220301004 Dudelange, Rue Belai  00553  00553                % 00012 TIC---
+220301032 Dudelange, Kräizbier  00554  00554                % 00012 TIC---
+220301072 Dudelange, Mayrisch   00555  00555                % 00012 TIC---
+220301063 Dudelange, Lenkeschl  00555  00555                % 00012 TIC---
+220301057 Dudelange, Waldschou  00556  00556                % 00012 TIC---
+220301088 Dudelange, Rue Nic B  00557  00557                % 00012 TIC---
+220301089 Dudelange, Rue Léon   00558  00558                % 00012 TIC---
+220301034 Dudelange, Lycée Nic  00559  00559                % 00012 TIC---
+220301009 Dudelange, Breininge  00600  00600                % 00012 TIC---
+220301078 Dudelange, Square Ma  00601  00601                % 00012 TIC---
+220301022 Dudelange, Gare       00601  00601                % 00012 TIC---
+220301024 Dudelange, Gemeng     00603                       % 00012 TIC---
+*Z 00013 TIC---                                             % 00013 TIC---
+*L 10       220301024 220301024  00620  00633               % 00013 TIC---
+*R 1 220301024 220301024 220301024  00620  00633            % 00013 TIC---
+*G MB  220301024 220301024  00620  00633                    % 00013 TIC---
+*A VE 220301024 220301024 000278  00620  00633              % 00013 TIC---
+*I FD 220301024 220301024        0000013  00620  00633      % 00013 TIC---
+220301024 Dudelange, Gemeng            00620                % 00013 TIC---
+220301079 Dudelange, Fohrmann   00621  00621                % 00013 TIC---
+220301033 Dudelange, Rue Antoi  00622  00622                % 00013 TIC---
+220301004 Dudelange, Rue Belai  00623  00623                % 00013 TIC---
+220301032 Dudelange, Kräizbier  00624  00624                % 00013 TIC---
+220301072 Dudelange, Mayrisch   00625  00625                % 00013 TIC---
+220301063 Dudelange, Lenkeschl  00625  00625                % 00013 TIC---
+220301057 Dudelange, Waldschou  00626  00626                % 00013 TIC---
+220301088 Dudelange, Rue Nic B  00627  00627                % 00013 TIC---
+220301089 Dudelange, Rue Léon   00628  00628                % 00013 TIC---
+220301034 Dudelange, Lycée Nic  00629  00629                % 00013 TIC---
+220301009 Dudelange, Breininge  00630  00630                % 00013 TIC---
+220301078 Dudelange, Square Ma  00631  00631                % 00013 TIC---
+220301022 Dudelange, Gare       00631  00631                % 00013 TIC---
+220301024 Dudelange, Gemeng     00633                       % 00013 TIC---
+*Z 00014 TIC---                                             % 00014 TIC---
+*L 10       220301024 220301024  00650  00703               % 00014 TIC---
+*R 1 220301024 220301024 220301024  00650  00703            % 00014 TIC---
+*G MB  220301024 220301024  00650  00703                    % 00014 TIC---
+*A VE 220301024 220301024 000278  00650  00703              % 00014 TIC---
+*I FD 220301024 220301024        0000014  00650  00703      % 00014 TIC---
+220301024 Dudelange, Gemeng            00650                % 00014 TIC---
+220301079 Dudelange, Fohrmann   00651  00651                % 00014 TIC---
+220301033 Dudelange, Rue Antoi  00652  00652                % 00014 TIC---
+220301004 Dudelange, Rue Belai  00653  00653                % 00014 TIC---
+220301032 Dudelange, Kräizbier  00654  00654                % 00014 TIC---
+220301072 Dudelange, Mayrisch   00655  00655                % 00014 TIC---
+220301063 Dudelange, Lenkeschl  00655  00655                % 00014 TIC---
+220301057 Dudelange, Waldschou  00656  00656                % 00014 TIC---
+220301088 Dudelange, Rue Nic B  00657  00657                % 00014 TIC---
+220301089 Dudelange, Rue Léon   00658  00658                % 00014 TIC---
+220301034 Dudelange, Lycée Nic  00659  00659                % 00014 TIC---
+220301009 Dudelange, Breininge  00700  00700                % 00014 TIC---
+220301078 Dudelange, Square Ma  00701  00701                % 00014 TIC---
+220301022 Dudelange, Gare       00701  00701                % 00014 TIC---
+220301024 Dudelange, Gemeng     00703                       % 00014 TIC---
+*Z 00015 TIC---                                             % 00015 TIC---
+*L 10       220301024 220301024  00720  00733               % 00015 TIC---
+*R 1 220301024 220301024 220301024  00720  00733            % 00015 TIC---
+*G MB  220301024 220301024  00720  00733                    % 00015 TIC---
+*A VE 220301024 220301024 000278  00720  00733              % 00015 TIC---
+*I FD 220301024 220301024        0000015  00720  00733      % 00015 TIC---
+220301024 Dudelange, Gemeng            00720                % 00015 TIC---
+220301079 Dudelange, Fohrmann   00721  00721                % 00015 TIC---
+220301033 Dudelange, Rue Antoi  00722  00722                % 00015 TIC---
+220301004 Dudelange, Rue Belai  00723  00723                % 00015 TIC---
+220301032 Dudelange, Kräizbier  00724  00724                % 00015 TIC---
+220301072 Dudelange, Mayrisch   00725  00725                % 00015 TIC---
+220301063 Dudelange, Lenkeschl  00725  00725                % 00015 TIC---
+220301057 Dudelange, Waldschou  00726  00726                % 00015 TIC---
+220301088 Dudelange, Rue Nic B  00727  00727                % 00015 TIC---
+220301089 Dudelange, Rue Léon   00728  00728                % 00015 TIC---
+220301034 Dudelange, Lycée Nic  00729  00729                % 00015 TIC---
+220301009 Dudelange, Breininge  00730  00730                % 00015 TIC---
+220301078 Dudelange, Square Ma  00731  00731                % 00015 TIC---
+220301022 Dudelange, Gare       00731  00731                % 00015 TIC---
+220301024 Dudelange, Gemeng     00733                       % 00015 TIC---
+*Z 00016 TIC---                                             % 00016 TIC---
+*L 10       220301024 220301024  00750  00803               % 00016 TIC---
+*R 1 220301024 220301024 220301024  00750  00803            % 00016 TIC---
+*G MB  220301024 220301024  00750  00803                    % 00016 TIC---
+*A VE 220301024 220301024 000278  00750  00803              % 00016 TIC---
+*I FD 220301024 220301024        0000016  00750  00803      % 00016 TIC---
+220301024 Dudelange, Gemeng            00750                % 00016 TIC---
+220301079 Dudelange, Fohrmann   00751  00751                % 00016 TIC---
+220301033 Dudelange, Rue Antoi  00752  00752                % 00016 TIC---
+220301004 Dudelange, Rue Belai  00753  00753                % 00016 TIC---
+220301032 Dudelange, Kräizbier  00754  00754                % 00016 TIC---
+220301072 Dudelange, Mayrisch   00755  00755                % 00016 TIC---
+220301063 Dudelange, Lenkeschl  00755  00755                % 00016 TIC---
+220301057 Dudelange, Waldschou  00756  00756                % 00016 TIC---
+220301088 Dudelange, Rue Nic B  00757  00757                % 00016 TIC---
+220301089 Dudelange, Rue Léon   00758  00758                % 00016 TIC---
+220301034 Dudelange, Lycée Nic  00759  00759                % 00016 TIC---
+220301009 Dudelange, Breininge  00800  00800                % 00016 TIC---
+220301078 Dudelange, Square Ma  00801  00801                % 00016 TIC---
+220301022 Dudelange, Gare       00801  00801                % 00016 TIC---
+220301024 Dudelange, Gemeng     00803                       % 00016 TIC---
+*Z 00017 TIC---                                             % 00017 TIC---
+*L 10       220301024 220301024  00820  00833               % 00017 TIC---
+*R 1 220301024 220301024 220301024  00820  00833            % 00017 TIC---
+*G MB  220301024 220301024  00820  00833                    % 00017 TIC---
+*A VE 220301024 220301024 000278  00820  00833              % 00017 TIC---
+*I FD 220301024 220301024        0000017  00820  00833      % 00017 TIC---
+220301024 Dudelange, Gemeng            00820                % 00017 TIC---
+220301079 Dudelange, Fohrmann   00821  00821                % 00017 TIC---
+220301033 Dudelange, Rue Antoi  00822  00822                % 00017 TIC---
+220301004 Dudelange, Rue Belai  00823  00823                % 00017 TIC---
+220301032 Dudelange, Kräizbier  00824  00824                % 00017 TIC---
+220301072 Dudelange, Mayrisch   00825  00825                % 00017 TIC---
+220301063 Dudelange, Lenkeschl  00825  00825                % 00017 TIC---
+220301057 Dudelange, Waldschou  00826  00826                % 00017 TIC---
+220301088 Dudelange, Rue Nic B  00827  00827                % 00017 TIC---
+220301089 Dudelange, Rue Léon   00828  00828                % 00017 TIC---
+220301034 Dudelange, Lycée Nic  00829  00829                % 00017 TIC---
+220301009 Dudelange, Breininge  00830  00830                % 00017 TIC---
+220301078 Dudelange, Square Ma  00831  00831                % 00017 TIC---
+220301022 Dudelange, Gare       00831  00831                % 00017 TIC---
+220301024 Dudelange, Gemeng     00833                       % 00017 TIC---
+*Z 00018 TIC---                                             % 00018 TIC---
+*L 10       220301024 220301024  00850  00903               % 00018 TIC---
+*R 1 220301024 220301024 220301024  00850  00903            % 00018 TIC---
+*G MB  220301024 220301024  00850  00903                    % 00018 TIC---
+*A VE 220301024 220301024 000278  00850  00903              % 00018 TIC---
+*I FD 220301024 220301024        0000018  00850  00903      % 00018 TIC---
+220301024 Dudelange, Gemeng            00850                % 00018 TIC---
+220301079 Dudelange, Fohrmann   00851  00851                % 00018 TIC---
+220301033 Dudelange, Rue Antoi  00852  00852                % 00018 TIC---
+220301004 Dudelange, Rue Belai  00853  00853                % 00018 TIC---
+220301032 Dudelange, Kräizbier  00854  00854                % 00018 TIC---
+220301072 Dudelange, Mayrisch   00855  00855                % 00018 TIC---
+220301063 Dudelange, Lenkeschl  00855  00855                % 00018 TIC---
+220301057 Dudelange, Waldschou  00856  00856                % 00018 TIC---
+220301088 Dudelange, Rue Nic B  00857  00857                % 00018 TIC---
+220301089 Dudelange, Rue Léon   00858  00858                % 00018 TIC---
+220301034 Dudelange, Lycée Nic  00859  00859                % 00018 TIC---
+220301009 Dudelange, Breininge  00900  00900                % 00018 TIC---
+220301078 Dudelange, Square Ma  00901  00901                % 00018 TIC---
+220301022 Dudelange, Gare       00901  00901                % 00018 TIC---
+220301024 Dudelange, Gemeng     00903                       % 00018 TIC---
+*Z 00019 TIC---                                             % 00019 TIC---
+*L 10       220301024 220301024  00920  00933               % 00019 TIC---
+*R 1 220301024 220301024 220301024  00920  00933            % 00019 TIC---
+*G MB  220301024 220301024  00920  00933                    % 00019 TIC---
+*A VE 220301024 220301024 000278  00920  00933              % 00019 TIC---
+*I FD 220301024 220301024        0000019  00920  00933      % 00019 TIC---
+220301024 Dudelange, Gemeng            00920                % 00019 TIC---
+220301079 Dudelange, Fohrmann   00921  00921                % 00019 TIC---
+220301033 Dudelange, Rue Antoi  00922  00922                % 00019 TIC---
+220301004 Dudelange, Rue Belai  00923  00923                % 00019 TIC---
+220301032 Dudelange, Kräizbier  00924  00924                % 00019 TIC---
+220301072 Dudelange, Mayrisch   00925  00925                % 00019 TIC---
+220301063 Dudelange, Lenkeschl  00925  00925                % 00019 TIC---
+220301057 Dudelange, Waldschou  00926  00926                % 00019 TIC---
+220301088 Dudelange, Rue Nic B  00927  00927                % 00019 TIC---
+220301089 Dudelange, Rue Léon   00928  00928                % 00019 TIC---
+220301034 Dudelange, Lycée Nic  00929  00929                % 00019 TIC---
+220301009 Dudelange, Breininge  00930  00930                % 00019 TIC---
+220301078 Dudelange, Square Ma  00931  00931                % 00019 TIC---
+220301022 Dudelange, Gare       00931  00931                % 00019 TIC---
+220301024 Dudelange, Gemeng     00933                       % 00019 TIC---
+*Z 00020 TIC---                                             % 00020 TIC---
+*L 10       220301024 220301024  01020  01033               % 00020 TIC---
+*R 1 220301024 220301024 220301024  01020  01033            % 00020 TIC---
+*G MB  220301024 220301024  01020  01033                    % 00020 TIC---
+*A VE 220301024 220301024 000278  01020  01033              % 00020 TIC---
+*I FD 220301024 220301024        0000020  01020  01033      % 00020 TIC---
+220301024 Dudelange, Gemeng            01020                % 00020 TIC---
+220301079 Dudelange, Fohrmann   01021  01021                % 00020 TIC---
+220301033 Dudelange, Rue Antoi  01022  01022                % 00020 TIC---
+220301004 Dudelange, Rue Belai  01023  01023                % 00020 TIC---
+220301032 Dudelange, Kräizbier  01024  01024                % 00020 TIC---
+220301072 Dudelange, Mayrisch   01025  01025                % 00020 TIC---
+220301063 Dudelange, Lenkeschl  01025  01025                % 00020 TIC---
+220301057 Dudelange, Waldschou  01026  01026                % 00020 TIC---
+220301088 Dudelange, Rue Nic B  01027  01027                % 00020 TIC---
+220301089 Dudelange, Rue Léon   01028  01028                % 00020 TIC---
+220301034 Dudelange, Lycée Nic  01029  01029                % 00020 TIC---
+220301009 Dudelange, Breininge  01030  01030                % 00020 TIC---
+220301078 Dudelange, Square Ma  01031  01031                % 00020 TIC---
+220301022 Dudelange, Gare       01031  01031                % 00020 TIC---
+220301024 Dudelange, Gemeng     01033                       % 00020 TIC---
+*Z 00021 TIC---                                             % 00021 TIC---
+*L 10       220301024 220301024  01120  01133               % 00021 TIC---
+*R 1 220301024 220301024 220301024  01120  01133            % 00021 TIC---
+*G MB  220301024 220301024  01120  01133                    % 00021 TIC---
+*A VE 220301024 220301024 000278  01120  01133              % 00021 TIC---
+*I FD 220301024 220301024        0000021  01120  01133      % 00021 TIC---
+220301024 Dudelange, Gemeng            01120                % 00021 TIC---
+220301079 Dudelange, Fohrmann   01121  01121                % 00021 TIC---
+220301033 Dudelange, Rue Antoi  01122  01122                % 00021 TIC---
+220301004 Dudelange, Rue Belai  01123  01123                % 00021 TIC---
+220301032 Dudelange, Kräizbier  01124  01124                % 00021 TIC---
+220301072 Dudelange, Mayrisch   01125  01125                % 00021 TIC---
+220301063 Dudelange, Lenkeschl  01125  01125                % 00021 TIC---
+220301057 Dudelange, Waldschou  01126  01126                % 00021 TIC---
+220301088 Dudelange, Rue Nic B  01127  01127                % 00021 TIC---
+220301089 Dudelange, Rue Léon   01128  01128                % 00021 TIC---
+220301034 Dudelange, Lycée Nic  01129  01129                % 00021 TIC---
+220301009 Dudelange, Breininge  01130  01130                % 00021 TIC---
+220301078 Dudelange, Square Ma  01131  01131                % 00021 TIC---
+220301022 Dudelange, Gare       01131  01131                % 00021 TIC---
+220301024 Dudelange, Gemeng     01133                       % 00021 TIC---
+*Z 00022 TIC---                                             % 00022 TIC---
+*L 10       220301024 220301024  01220  01233               % 00022 TIC---
+*R 1 220301024 220301024 220301024  01220  01233            % 00022 TIC---
+*G MB  220301024 220301024  01220  01233                    % 00022 TIC---
+*A VE 220301024 220301024 000278  01220  01233              % 00022 TIC---
+*I FD 220301024 220301024        0000022  01220  01233      % 00022 TIC---
+220301024 Dudelange, Gemeng            01220                % 00022 TIC---
+220301079 Dudelange, Fohrmann   01221  01221                % 00022 TIC---
+220301033 Dudelange, Rue Antoi  01222  01222                % 00022 TIC---
+220301004 Dudelange, Rue Belai  01223  01223                % 00022 TIC---
+220301032 Dudelange, Kräizbier  01224  01224                % 00022 TIC---
+220301072 Dudelange, Mayrisch   01225  01225                % 00022 TIC---
+220301063 Dudelange, Lenkeschl  01225  01225                % 00022 TIC---
+220301057 Dudelange, Waldschou  01226  01226                % 00022 TIC---
+220301088 Dudelange, Rue Nic B  01227  01227                % 00022 TIC---
+220301089 Dudelange, Rue Léon   01228  01228                % 00022 TIC---
+220301034 Dudelange, Lycée Nic  01229  01229                % 00022 TIC---
+220301009 Dudelange, Breininge  01230  01230                % 00022 TIC---
+220301078 Dudelange, Square Ma  01231  01231                % 00022 TIC---
+220301022 Dudelange, Gare       01231  01231                % 00022 TIC---
+220301024 Dudelange, Gemeng     01233                       % 00022 TIC---
+*Z 00023 TIC---                                             % 00023 TIC---
+*L 10       220301024 220301024  01320  01333               % 00023 TIC---
+*R 1 220301024 220301024 220301024  01320  01333            % 00023 TIC---
+*G MB  220301024 220301024  01320  01333                    % 00023 TIC---
+*A VE 220301024 220301024 000278  01320  01333              % 00023 TIC---
+*I FD 220301024 220301024        0000023  01320  01333      % 00023 TIC---
+220301024 Dudelange, Gemeng            01320                % 00023 TIC---
+220301079 Dudelange, Fohrmann   01321  01321                % 00023 TIC---
+220301033 Dudelange, Rue Antoi  01322  01322                % 00023 TIC---
+220301004 Dudelange, Rue Belai  01323  01323                % 00023 TIC---
+220301032 Dudelange, Kräizbier  01324  01324                % 00023 TIC---
+220301072 Dudelange, Mayrisch   01325  01325                % 00023 TIC---
+220301063 Dudelange, Lenkeschl  01325  01325                % 00023 TIC---
+220301057 Dudelange, Waldschou  01326  01326                % 00023 TIC---
+220301088 Dudelange, Rue Nic B  01327  01327                % 00023 TIC---
+220301089 Dudelange, Rue Léon   01328  01328                % 00023 TIC---
+220301034 Dudelange, Lycée Nic  01329  01329                % 00023 TIC---
+220301009 Dudelange, Breininge  01330  01330                % 00023 TIC---
+220301078 Dudelange, Square Ma  01331  01331                % 00023 TIC---
+220301022 Dudelange, Gare       01331  01331                % 00023 TIC---
+220301024 Dudelange, Gemeng     01333                       % 00023 TIC---
+*Z 00024 TIC---                                             % 00024 TIC---
+*L 10       220301024 220301024  01420  01433               % 00024 TIC---
+*R 1 220301024 220301024 220301024  01420  01433            % 00024 TIC---
+*G MB  220301024 220301024  01420  01433                    % 00024 TIC---
+*A VE 220301024 220301024 000278  01420  01433              % 00024 TIC---
+*I FD 220301024 220301024        0000024  01420  01433      % 00024 TIC---
+220301024 Dudelange, Gemeng            01420                % 00024 TIC---
+220301079 Dudelange, Fohrmann   01421  01421                % 00024 TIC---
+220301033 Dudelange, Rue Antoi  01422  01422                % 00024 TIC---
+220301004 Dudelange, Rue Belai  01423  01423                % 00024 TIC---
+220301032 Dudelange, Kräizbier  01424  01424                % 00024 TIC---
+220301072 Dudelange, Mayrisch   01425  01425                % 00024 TIC---
+220301063 Dudelange, Lenkeschl  01425  01425                % 00024 TIC---
+220301057 Dudelange, Waldschou  01426  01426                % 00024 TIC---
+220301088 Dudelange, Rue Nic B  01427  01427                % 00024 TIC---
+220301089 Dudelange, Rue Léon   01428  01428                % 00024 TIC---
+220301034 Dudelange, Lycée Nic  01429  01429                % 00024 TIC---
+220301009 Dudelange, Breininge  01430  01430                % 00024 TIC---
+220301078 Dudelange, Square Ma  01431  01431                % 00024 TIC---
+220301022 Dudelange, Gare       01431  01431                % 00024 TIC---
+220301024 Dudelange, Gemeng     01433                       % 00024 TIC---
+*Z 00025 TIC---                                             % 00025 TIC---
+*L 10       220301024 220301024  01520  01533               % 00025 TIC---
+*R 1 220301024 220301024 220301024  01520  01533            % 00025 TIC---
+*G MB  220301024 220301024  01520  01533                    % 00025 TIC---
+*A VE 220301024 220301024 000278  01520  01533              % 00025 TIC---
+*I FD 220301024 220301024        0000025  01520  01533      % 00025 TIC---
+220301024 Dudelange, Gemeng            01520                % 00025 TIC---
+220301079 Dudelange, Fohrmann   01521  01521                % 00025 TIC---
+220301033 Dudelange, Rue Antoi  01522  01522                % 00025 TIC---
+220301004 Dudelange, Rue Belai  01523  01523                % 00025 TIC---
+220301032 Dudelange, Kräizbier  01524  01524                % 00025 TIC---
+220301072 Dudelange, Mayrisch   01525  01525                % 00025 TIC---
+220301063 Dudelange, Lenkeschl  01525  01525                % 00025 TIC---
+220301057 Dudelange, Waldschou  01526  01526                % 00025 TIC---
+220301088 Dudelange, Rue Nic B  01527  01527                % 00025 TIC---
+220301089 Dudelange, Rue Léon   01528  01528                % 00025 TIC---
+220301034 Dudelange, Lycée Nic  01529  01529                % 00025 TIC---
+220301009 Dudelange, Breininge  01530  01530                % 00025 TIC---
+220301078 Dudelange, Square Ma  01531  01531                % 00025 TIC---
+220301022 Dudelange, Gare       01531  01531                % 00025 TIC---
+220301024 Dudelange, Gemeng     01533                       % 00025 TIC---
+*Z 00026 TIC---                                             % 00026 TIC---
+*L 10       220301024 220301024  01620  01633               % 00026 TIC---
+*R 1 220301024 220301024 220301024  01620  01633            % 00026 TIC---
+*G MB  220301024 220301024  01620  01633                    % 00026 TIC---
+*A VE 220301024 220301024 000278  01620  01633              % 00026 TIC---
+*I FD 220301024 220301024        0000026  01620  01633      % 00026 TIC---
+220301024 Dudelange, Gemeng            01620                % 00026 TIC---
+220301079 Dudelange, Fohrmann   01621  01621                % 00026 TIC---
+220301033 Dudelange, Rue Antoi  01622  01622                % 00026 TIC---
+220301004 Dudelange, Rue Belai  01623  01623                % 00026 TIC---
+220301032 Dudelange, Kräizbier  01624  01624                % 00026 TIC---
+220301072 Dudelange, Mayrisch   01625  01625                % 00026 TIC---
+220301063 Dudelange, Lenkeschl  01625  01625                % 00026 TIC---
+220301057 Dudelange, Waldschou  01626  01626                % 00026 TIC---
+220301088 Dudelange, Rue Nic B  01627  01627                % 00026 TIC---
+220301089 Dudelange, Rue Léon   01628  01628                % 00026 TIC---
+220301034 Dudelange, Lycée Nic  01629  01629                % 00026 TIC---
+220301009 Dudelange, Breininge  01630  01630                % 00026 TIC---
+220301078 Dudelange, Square Ma  01631  01631                % 00026 TIC---
+220301022 Dudelange, Gare       01631  01631                % 00026 TIC---
+220301024 Dudelange, Gemeng     01633                       % 00026 TIC---
+*Z 00027 TIC---                                             % 00027 TIC---
+*L 10       220301024 220301024  01720  01733               % 00027 TIC---
+*R 1 220301024 220301024 220301024  01720  01733            % 00027 TIC---
+*G MB  220301024 220301024  01720  01733                    % 00027 TIC---
+*A VE 220301024 220301024 000278  01720  01733              % 00027 TIC---
+*I FD 220301024 220301024        0000027  01720  01733      % 00027 TIC---
+220301024 Dudelange, Gemeng            01720                % 00027 TIC---
+220301079 Dudelange, Fohrmann   01721  01721                % 00027 TIC---
+220301033 Dudelange, Rue Antoi  01722  01722                % 00027 TIC---
+220301004 Dudelange, Rue Belai  01723  01723                % 00027 TIC---
+220301032 Dudelange, Kräizbier  01724  01724                % 00027 TIC---
+220301072 Dudelange, Mayrisch   01725  01725                % 00027 TIC---
+220301063 Dudelange, Lenkeschl  01725  01725                % 00027 TIC---
+220301057 Dudelange, Waldschou  01726  01726                % 00027 TIC---
+220301088 Dudelange, Rue Nic B  01727  01727                % 00027 TIC---
+220301089 Dudelange, Rue Léon   01728  01728                % 00027 TIC---
+220301034 Dudelange, Lycée Nic  01729  01729                % 00027 TIC---
+220301009 Dudelange, Breininge  01730  01730                % 00027 TIC---
+220301078 Dudelange, Square Ma  01731  01731                % 00027 TIC---
+220301022 Dudelange, Gare       01731  01731                % 00027 TIC---
+220301024 Dudelange, Gemeng     01733                       % 00027 TIC---
+*Z 00028 TIC---                                             % 00028 TIC---
+*L 10       220301024 220301024  01820  01833               % 00028 TIC---
+*R 1 220301024 220301024 220301024  01820  01833            % 00028 TIC---
+*G MB  220301024 220301024  01820  01833                    % 00028 TIC---
+*A VE 220301024 220301024 000278  01820  01833              % 00028 TIC---
+*I FD 220301024 220301024        0000028  01820  01833      % 00028 TIC---
+220301024 Dudelange, Gemeng            01820                % 00028 TIC---
+220301079 Dudelange, Fohrmann   01821  01821                % 00028 TIC---
+220301033 Dudelange, Rue Antoi  01822  01822                % 00028 TIC---
+220301004 Dudelange, Rue Belai  01823  01823                % 00028 TIC---
+220301032 Dudelange, Kräizbier  01824  01824                % 00028 TIC---
+220301072 Dudelange, Mayrisch   01825  01825                % 00028 TIC---
+220301063 Dudelange, Lenkeschl  01825  01825                % 00028 TIC---
+220301057 Dudelange, Waldschou  01826  01826                % 00028 TIC---
+220301088 Dudelange, Rue Nic B  01827  01827                % 00028 TIC---
+220301089 Dudelange, Rue Léon   01828  01828                % 00028 TIC---
+220301034 Dudelange, Lycée Nic  01829  01829                % 00028 TIC---
+220301009 Dudelange, Breininge  01830  01830                % 00028 TIC---
+220301078 Dudelange, Square Ma  01831  01831                % 00028 TIC---
+220301022 Dudelange, Gare       01831  01831                % 00028 TIC---
+220301024 Dudelange, Gemeng     01833                       % 00028 TIC---
+*Z 00029 TIC---                                             % 00029 TIC---
+*L 10       220301024 220301024  01920  01933               % 00029 TIC---
+*R 1 220301024 220301024 220301024  01920  01933            % 00029 TIC---
+*G MB  220301024 220301024  01920  01933                    % 00029 TIC---
+*A VE 220301024 220301024 000278  01920  01933              % 00029 TIC---
+*I FD 220301024 220301024        0000029  01920  01933      % 00029 TIC---
+220301024 Dudelange, Gemeng            01920                % 00029 TIC---
+220301079 Dudelange, Fohrmann   01921  01921                % 00029 TIC---
+220301033 Dudelange, Rue Antoi  01922  01922                % 00029 TIC---
+220301004 Dudelange, Rue Belai  01923  01923                % 00029 TIC---
+220301032 Dudelange, Kräizbier  01924  01924                % 00029 TIC---
+220301072 Dudelange, Mayrisch   01925  01925                % 00029 TIC---
+220301063 Dudelange, Lenkeschl  01925  01925                % 00029 TIC---
+220301057 Dudelange, Waldschou  01926  01926                % 00029 TIC---
+220301088 Dudelange, Rue Nic B  01927  01927                % 00029 TIC---
+220301089 Dudelange, Rue Léon   01928  01928                % 00029 TIC---
+220301034 Dudelange, Lycée Nic  01929  01929                % 00029 TIC---
+220301009 Dudelange, Breininge  01930  01930                % 00029 TIC---
+220301078 Dudelange, Square Ma  01931  01931                % 00029 TIC---
+220301022 Dudelange, Gare       01931  01931                % 00029 TIC---
+220301024 Dudelange, Gemeng     01933                       % 00029 TIC---
+*Z 00030 TIC---                                             % 00030 TIC---
+*L 10       220301024 220301024  01950  02003               % 00030 TIC---
+*R 1 220301024 220301024 220301024  01950  02003            % 00030 TIC---
+*G MB  220301024 220301024  01950  02003                    % 00030 TIC---
+*A VE 220301024 220301024 000278  01950  02003              % 00030 TIC---
+*I FD 220301024 220301024        0000030  01950  02003      % 00030 TIC---
+220301024 Dudelange, Gemeng            01950                % 00030 TIC---
+220301079 Dudelange, Fohrmann   01951  01951                % 00030 TIC---
+220301033 Dudelange, Rue Antoi  01952  01952                % 00030 TIC---
+220301004 Dudelange, Rue Belai  01953  01953                % 00030 TIC---
+220301032 Dudelange, Kräizbier  01954  01954                % 00030 TIC---
+220301072 Dudelange, Mayrisch   01955  01955                % 00030 TIC---
+220301063 Dudelange, Lenkeschl  01955  01955                % 00030 TIC---
+220301057 Dudelange, Waldschou  01956  01956                % 00030 TIC---
+220301088 Dudelange, Rue Nic B  01957  01957                % 00030 TIC---
+220301089 Dudelange, Rue Léon   01958  01958                % 00030 TIC---
+220301034 Dudelange, Lycée Nic  01959  01959                % 00030 TIC---
+220301009 Dudelange, Breininge  02000  02000                % 00030 TIC---
+220301078 Dudelange, Square Ma  02001  02001                % 00030 TIC---
+220301022 Dudelange, Gare       02001  02001                % 00030 TIC---
+220301024 Dudelange, Gemeng     02003                       % 00030 TIC---
+*Z 00031 TIC---                                             % 00031 TIC---
+*L 10       220301024 220301024  02050  02103               % 00031 TIC---
+*R 1 220301024 220301024 220301024  02050  02103            % 00031 TIC---
+*G MB  220301024 220301024  02050  02103                    % 00031 TIC---
+*A VE 220301024 220301024 000278  02050  02103              % 00031 TIC---
+*I FD 220301024 220301024        0000031  02050  02103      % 00031 TIC---
+220301024 Dudelange, Gemeng            02050                % 00031 TIC---
+220301079 Dudelange, Fohrmann   02051  02051                % 00031 TIC---
+220301033 Dudelange, Rue Antoi  02052  02052                % 00031 TIC---
+220301004 Dudelange, Rue Belai  02053  02053                % 00031 TIC---
+220301032 Dudelange, Kräizbier  02054  02054                % 00031 TIC---
+220301072 Dudelange, Mayrisch   02055  02055                % 00031 TIC---
+220301063 Dudelange, Lenkeschl  02055  02055                % 00031 TIC---
+220301057 Dudelange, Waldschou  02056  02056                % 00031 TIC---
+220301088 Dudelange, Rue Nic B  02057  02057                % 00031 TIC---
+220301089 Dudelange, Rue Léon   02058  02058                % 00031 TIC---
+220301034 Dudelange, Lycée Nic  02059  02059                % 00031 TIC---
+220301009 Dudelange, Breininge  02100  02100                % 00031 TIC---
+220301078 Dudelange, Square Ma  02101  02101                % 00031 TIC---
+220301022 Dudelange, Gare       02101  02101                % 00031 TIC---
+220301024 Dudelange, Gemeng     02103                       % 00031 TIC---
+*Z 00032 TIC---                                             % 00032 TIC---
+*L 10       220301024 220301024  02150  02203               % 00032 TIC---
+*R 1 220301024 220301024 220301024  02150  02203            % 00032 TIC---
+*G MB  220301024 220301024  02150  02203                    % 00032 TIC---
+*A VE 220301024 220301024 000278  02150  02203              % 00032 TIC---
+*I FD 220301024 220301024        0000032  02150  02203      % 00032 TIC---
+220301024 Dudelange, Gemeng            02150                % 00032 TIC---
+220301079 Dudelange, Fohrmann   02151  02151                % 00032 TIC---
+220301033 Dudelange, Rue Antoi  02152  02152                % 00032 TIC---
+220301004 Dudelange, Rue Belai  02153  02153                % 00032 TIC---
+220301032 Dudelange, Kräizbier  02154  02154                % 00032 TIC---
+220301072 Dudelange, Mayrisch   02155  02155                % 00032 TIC---
+220301063 Dudelange, Lenkeschl  02155  02155                % 00032 TIC---
+220301057 Dudelange, Waldschou  02156  02156                % 00032 TIC---
+220301088 Dudelange, Rue Nic B  02157  02157                % 00032 TIC---
+220301089 Dudelange, Rue Léon   02158  02158                % 00032 TIC---
+220301034 Dudelange, Lycée Nic  02159  02159                % 00032 TIC---
+220301009 Dudelange, Breininge  02200  02200                % 00032 TIC---
+220301078 Dudelange, Square Ma  02201  02201                % 00032 TIC---
+220301022 Dudelange, Gare       02201  02201                % 00032 TIC---
+220301024 Dudelange, Gemeng     02203                       % 00032 TIC---
+*Z 00033 TIC---                                             % 00033 TIC---
+*L 10       220301024 220301024  02250  02303               % 00033 TIC---
+*R 1 220301024 220301024 220301024  02250  02303            % 00033 TIC---
+*G MB  220301024 220301024  02250  02303                    % 00033 TIC---
+*A VE 220301024 220301024 000278  02250  02303              % 00033 TIC---
+*I FD 220301024 220301024        0000033  02250  02303      % 00033 TIC---
+220301024 Dudelange, Gemeng            02250                % 00033 TIC---
+220301079 Dudelange, Fohrmann   02251  02251                % 00033 TIC---
+220301033 Dudelange, Rue Antoi  02252  02252                % 00033 TIC---
+220301004 Dudelange, Rue Belai  02253  02253                % 00033 TIC---
+220301032 Dudelange, Kräizbier  02254  02254                % 00033 TIC---
+220301072 Dudelange, Mayrisch   02255  02255                % 00033 TIC---
+220301063 Dudelange, Lenkeschl  02255  02255                % 00033 TIC---
+220301057 Dudelange, Waldschou  02256  02256                % 00033 TIC---
+220301088 Dudelange, Rue Nic B  02257  02257                % 00033 TIC---
+220301089 Dudelange, Rue Léon   02258  02258                % 00033 TIC---
+220301034 Dudelange, Lycée Nic  02259  02259                % 00033 TIC---
+220301009 Dudelange, Breininge  02300  02300                % 00033 TIC---
+220301078 Dudelange, Square Ma  02301  02301                % 00033 TIC---
+220301022 Dudelange, Gare       02301  02301                % 00033 TIC---
+220301024 Dudelange, Gemeng     02303                       % 00033 TIC---
+*Z 00034 TIC---                                             % 00034 TIC---
+*L 10       220301024 220301024  02350  02403               % 00034 TIC---
+*R 1 220301024 220301024 220301024  02350  02403            % 00034 TIC---
+*G MB  220301024 220301024  02350  02403                    % 00034 TIC---
+*A VE 220301024 220301024 000278  02350  02403              % 00034 TIC---
+*I FD 220301024 220301024        0000034  02350  02403      % 00034 TIC---
+220301024 Dudelange, Gemeng            02350                % 00034 TIC---
+220301079 Dudelange, Fohrmann   02351  02351                % 00034 TIC---
+220301033 Dudelange, Rue Antoi  02352  02352                % 00034 TIC---
+220301004 Dudelange, Rue Belai  02353  02353                % 00034 TIC---
+220301032 Dudelange, Kräizbier  02354  02354                % 00034 TIC---
+220301072 Dudelange, Mayrisch   02355  02355                % 00034 TIC---
+220301063 Dudelange, Lenkeschl  02355  02355                % 00034 TIC---
+220301057 Dudelange, Waldschou  02356  02356                % 00034 TIC---
+220301088 Dudelange, Rue Nic B  02357  02357                % 00034 TIC---
+220301089 Dudelange, Rue Léon   02358  02358                % 00034 TIC---
+220301034 Dudelange, Lycée Nic  02359  02359                % 00034 TIC---
+220301009 Dudelange, Breininge  02400  02400                % 00034 TIC---
+220301078 Dudelange, Square Ma  02401  02401                % 00034 TIC---
+220301022 Dudelange, Gare       02401  02401                % 00034 TIC---
+220301024 Dudelange, Gemeng     02403                       % 00034 TIC---
+*Z 00035 TIC---                                             % 00035 TIC---
+*L 10       220301024 220301024  00950  01003               % 00035 TIC---
+*R 1 220301024 220301024 220301024  00950  01003            % 00035 TIC---
+*G MB  220301024 220301024  00950  01003                    % 00035 TIC---
+*A VE 220301024 220301024 000279  00950  01003              % 00035 TIC---
+*I FD 220301024 220301024        0000001  00950  01003      % 00035 TIC---
+220301024 Dudelange, Gemeng            00950                % 00035 TIC---
+220301079 Dudelange, Fohrmann   00951  00951                % 00035 TIC---
+220301033 Dudelange, Rue Antoi  00952  00952                % 00035 TIC---
+220301004 Dudelange, Rue Belai  00953  00953                % 00035 TIC---
+220301032 Dudelange, Kräizbier  00954  00954                % 00035 TIC---
+220301072 Dudelange, Mayrisch   00955  00955                % 00035 TIC---
+220301063 Dudelange, Lenkeschl  00955  00955                % 00035 TIC---
+220301057 Dudelange, Waldschou  00956  00956                % 00035 TIC---
+220301088 Dudelange, Rue Nic B  00957  00957                % 00035 TIC---
+220301089 Dudelange, Rue Léon   00958  00958                % 00035 TIC---
+220301034 Dudelange, Lycée Nic  00959  00959                % 00035 TIC---
+220301009 Dudelange, Breininge  01000  01000                % 00035 TIC---
+220301078 Dudelange, Square Ma  01001  01001                % 00035 TIC---
+220301022 Dudelange, Gare       01001  01001                % 00035 TIC---
+220301024 Dudelange, Gemeng     01003                       % 00035 TIC---
+*Z 00036 TIC---                                             % 00036 TIC---
+*L 10       220301024 220301024  01050  01103               % 00036 TIC---
+*R 1 220301024 220301024 220301024  01050  01103            % 00036 TIC---
+*G MB  220301024 220301024  01050  01103                    % 00036 TIC---
+*A VE 220301024 220301024 000279  01050  01103              % 00036 TIC---
+*I FD 220301024 220301024        0000002  01050  01103      % 00036 TIC---
+220301024 Dudelange, Gemeng            01050                % 00036 TIC---
+220301079 Dudelange, Fohrmann   01051  01051                % 00036 TIC---
+220301033 Dudelange, Rue Antoi  01052  01052                % 00036 TIC---
+220301004 Dudelange, Rue Belai  01053  01053                % 00036 TIC---
+220301032 Dudelange, Kräizbier  01054  01054                % 00036 TIC---
+220301072 Dudelange, Mayrisch   01055  01055                % 00036 TIC---
+220301063 Dudelange, Lenkeschl  01055  01055                % 00036 TIC---
+220301057 Dudelange, Waldschou  01056  01056                % 00036 TIC---
+220301088 Dudelange, Rue Nic B  01057  01057                % 00036 TIC---
+220301089 Dudelange, Rue Léon   01058  01058                % 00036 TIC---
+220301034 Dudelange, Lycée Nic  01059  01059                % 00036 TIC---
+220301009 Dudelange, Breininge  01100  01100                % 00036 TIC---
+220301078 Dudelange, Square Ma  01101  01101                % 00036 TIC---
+220301022 Dudelange, Gare       01101  01101                % 00036 TIC---
+220301024 Dudelange, Gemeng     01103                       % 00036 TIC---
+*Z 00037 TIC---                                             % 00037 TIC---
+*L 10       220301024 220301024  01150  01203               % 00037 TIC---
+*R 1 220301024 220301024 220301024  01150  01203            % 00037 TIC---
+*G MB  220301024 220301024  01150  01203                    % 00037 TIC---
+*A VE 220301024 220301024 000279  01150  01203              % 00037 TIC---
+*I FD 220301024 220301024        0000003  01150  01203      % 00037 TIC---
+220301024 Dudelange, Gemeng            01150                % 00037 TIC---
+220301079 Dudelange, Fohrmann   01151  01151                % 00037 TIC---
+220301033 Dudelange, Rue Antoi  01152  01152                % 00037 TIC---
+220301004 Dudelange, Rue Belai  01153  01153                % 00037 TIC---
+220301032 Dudelange, Kräizbier  01154  01154                % 00037 TIC---
+220301072 Dudelange, Mayrisch   01155  01155                % 00037 TIC---
+220301063 Dudelange, Lenkeschl  01155  01155                % 00037 TIC---
+220301057 Dudelange, Waldschou  01156  01156                % 00037 TIC---
+220301088 Dudelange, Rue Nic B  01157  01157                % 00037 TIC---
+220301089 Dudelange, Rue Léon   01158  01158                % 00037 TIC---
+220301034 Dudelange, Lycée Nic  01159  01159                % 00037 TIC---
+220301009 Dudelange, Breininge  01200  01200                % 00037 TIC---
+220301078 Dudelange, Square Ma  01201  01201                % 00037 TIC---
+220301022 Dudelange, Gare       01201  01201                % 00037 TIC---
+220301024 Dudelange, Gemeng     01203                       % 00037 TIC---
+*Z 00038 TIC---                                             % 00038 TIC---
+*L 10       220301024 220301024  01250  01303               % 00038 TIC---
+*R 1 220301024 220301024 220301024  01250  01303            % 00038 TIC---
+*G MB  220301024 220301024  01250  01303                    % 00038 TIC---
+*A VE 220301024 220301024 000279  01250  01303              % 00038 TIC---
+*I FD 220301024 220301024        0000004  01250  01303      % 00038 TIC---
+220301024 Dudelange, Gemeng            01250                % 00038 TIC---
+220301079 Dudelange, Fohrmann   01251  01251                % 00038 TIC---
+220301033 Dudelange, Rue Antoi  01252  01252                % 00038 TIC---
+220301004 Dudelange, Rue Belai  01253  01253                % 00038 TIC---
+220301032 Dudelange, Kräizbier  01254  01254                % 00038 TIC---
+220301072 Dudelange, Mayrisch   01255  01255                % 00038 TIC---
+220301063 Dudelange, Lenkeschl  01255  01255                % 00038 TIC---
+220301057 Dudelange, Waldschou  01256  01256                % 00038 TIC---
+220301088 Dudelange, Rue Nic B  01257  01257                % 00038 TIC---
+220301089 Dudelange, Rue Léon   01258  01258                % 00038 TIC---
+220301034 Dudelange, Lycée Nic  01259  01259                % 00038 TIC---
+220301009 Dudelange, Breininge  01300  01300                % 00038 TIC---
+220301078 Dudelange, Square Ma  01301  01301                % 00038 TIC---
+220301022 Dudelange, Gare       01301  01301                % 00038 TIC---
+220301024 Dudelange, Gemeng     01303                       % 00038 TIC---
+*Z 00039 TIC---                                             % 00039 TIC---
+*L 10       220301024 220301024  01350  01403               % 00039 TIC---
+*R 1 220301024 220301024 220301024  01350  01403            % 00039 TIC---
+*G MB  220301024 220301024  01350  01403                    % 00039 TIC---
+*A VE 220301024 220301024 000279  01350  01403              % 00039 TIC---
+*I FD 220301024 220301024        0000005  01350  01403      % 00039 TIC---
+220301024 Dudelange, Gemeng            01350                % 00039 TIC---
+220301079 Dudelange, Fohrmann   01351  01351                % 00039 TIC---
+220301033 Dudelange, Rue Antoi  01352  01352                % 00039 TIC---
+220301004 Dudelange, Rue Belai  01353  01353                % 00039 TIC---
+220301032 Dudelange, Kräizbier  01354  01354                % 00039 TIC---
+220301072 Dudelange, Mayrisch   01355  01355                % 00039 TIC---
+220301063 Dudelange, Lenkeschl  01355  01355                % 00039 TIC---
+220301057 Dudelange, Waldschou  01356  01356                % 00039 TIC---
+220301088 Dudelange, Rue Nic B  01357  01357                % 00039 TIC---
+220301089 Dudelange, Rue Léon   01358  01358                % 00039 TIC---
+220301034 Dudelange, Lycée Nic  01359  01359                % 00039 TIC---
+220301009 Dudelange, Breininge  01400  01400                % 00039 TIC---
+220301078 Dudelange, Square Ma  01401  01401                % 00039 TIC---
+220301022 Dudelange, Gare       01401  01401                % 00039 TIC---
+220301024 Dudelange, Gemeng     01403                       % 00039 TIC---
+*Z 00040 TIC---                                             % 00040 TIC---
+*L 10       220301024 220301024  01450  01503               % 00040 TIC---
+*R 1 220301024 220301024 220301024  01450  01503            % 00040 TIC---
+*G MB  220301024 220301024  01450  01503                    % 00040 TIC---
+*A VE 220301024 220301024 000279  01450  01503              % 00040 TIC---
+*I FD 220301024 220301024        0000006  01450  01503      % 00040 TIC---
+220301024 Dudelange, Gemeng            01450                % 00040 TIC---
+220301079 Dudelange, Fohrmann   01451  01451                % 00040 TIC---
+220301033 Dudelange, Rue Antoi  01452  01452                % 00040 TIC---
+220301004 Dudelange, Rue Belai  01453  01453                % 00040 TIC---
+220301032 Dudelange, Kräizbier  01454  01454                % 00040 TIC---
+220301072 Dudelange, Mayrisch   01455  01455                % 00040 TIC---
+220301063 Dudelange, Lenkeschl  01455  01455                % 00040 TIC---
+220301057 Dudelange, Waldschou  01456  01456                % 00040 TIC---
+220301088 Dudelange, Rue Nic B  01457  01457                % 00040 TIC---
+220301089 Dudelange, Rue Léon   01458  01458                % 00040 TIC---
+220301034 Dudelange, Lycée Nic  01459  01459                % 00040 TIC---
+220301009 Dudelange, Breininge  01500  01500                % 00040 TIC---
+220301078 Dudelange, Square Ma  01501  01501                % 00040 TIC---
+220301022 Dudelange, Gare       01501  01501                % 00040 TIC---
+220301024 Dudelange, Gemeng     01503                       % 00040 TIC---
+*Z 00041 TIC---                                             % 00041 TIC---
+*L 10       220301024 220301024  01550  01603               % 00041 TIC---
+*R 1 220301024 220301024 220301024  01550  01603            % 00041 TIC---
+*G MB  220301024 220301024  01550  01603                    % 00041 TIC---
+*A VE 220301024 220301024 000279  01550  01603              % 00041 TIC---
+*I FD 220301024 220301024        0000007  01550  01603      % 00041 TIC---
+220301024 Dudelange, Gemeng            01550                % 00041 TIC---
+220301079 Dudelange, Fohrmann   01551  01551                % 00041 TIC---
+220301033 Dudelange, Rue Antoi  01552  01552                % 00041 TIC---
+220301004 Dudelange, Rue Belai  01553  01553                % 00041 TIC---
+220301032 Dudelange, Kräizbier  01554  01554                % 00041 TIC---
+220301072 Dudelange, Mayrisch   01555  01555                % 00041 TIC---
+220301063 Dudelange, Lenkeschl  01555  01555                % 00041 TIC---
+220301057 Dudelange, Waldschou  01556  01556                % 00041 TIC---
+220301088 Dudelange, Rue Nic B  01557  01557                % 00041 TIC---
+220301089 Dudelange, Rue Léon   01558  01558                % 00041 TIC---
+220301034 Dudelange, Lycée Nic  01559  01559                % 00041 TIC---
+220301009 Dudelange, Breininge  01600  01600                % 00041 TIC---
+220301078 Dudelange, Square Ma  01601  01601                % 00041 TIC---
+220301022 Dudelange, Gare       01601  01601                % 00041 TIC---
+220301024 Dudelange, Gemeng     01603                       % 00041 TIC---
+*Z 00042 TIC---                                             % 00042 TIC---
+*L 10       220301024 220301024  01650  01703               % 00042 TIC---
+*R 1 220301024 220301024 220301024  01650  01703            % 00042 TIC---
+*G MB  220301024 220301024  01650  01703                    % 00042 TIC---
+*A VE 220301024 220301024 000279  01650  01703              % 00042 TIC---
+*I FD 220301024 220301024        0000008  01650  01703      % 00042 TIC---
+220301024 Dudelange, Gemeng            01650                % 00042 TIC---
+220301079 Dudelange, Fohrmann   01651  01651                % 00042 TIC---
+220301033 Dudelange, Rue Antoi  01652  01652                % 00042 TIC---
+220301004 Dudelange, Rue Belai  01653  01653                % 00042 TIC---
+220301032 Dudelange, Kräizbier  01654  01654                % 00042 TIC---
+220301072 Dudelange, Mayrisch   01655  01655                % 00042 TIC---
+220301063 Dudelange, Lenkeschl  01655  01655                % 00042 TIC---
+220301057 Dudelange, Waldschou  01656  01656                % 00042 TIC---
+220301088 Dudelange, Rue Nic B  01657  01657                % 00042 TIC---
+220301089 Dudelange, Rue Léon   01658  01658                % 00042 TIC---
+220301034 Dudelange, Lycée Nic  01659  01659                % 00042 TIC---
+220301009 Dudelange, Breininge  01700  01700                % 00042 TIC---
+220301078 Dudelange, Square Ma  01701  01701                % 00042 TIC---
+220301022 Dudelange, Gare       01701  01701                % 00042 TIC---
+220301024 Dudelange, Gemeng     01703                       % 00042 TIC---
+*Z 00043 TIC---                                             % 00043 TIC---
+*L 10       220301024 220301024  01750  01803               % 00043 TIC---
+*R 1 220301024 220301024 220301024  01750  01803            % 00043 TIC---
+*G MB  220301024 220301024  01750  01803                    % 00043 TIC---
+*A VE 220301024 220301024 000279  01750  01803              % 00043 TIC---
+*I FD 220301024 220301024        0000009  01750  01803      % 00043 TIC---
+220301024 Dudelange, Gemeng            01750                % 00043 TIC---
+220301079 Dudelange, Fohrmann   01751  01751                % 00043 TIC---
+220301033 Dudelange, Rue Antoi  01752  01752                % 00043 TIC---
+220301004 Dudelange, Rue Belai  01753  01753                % 00043 TIC---
+220301032 Dudelange, Kräizbier  01754  01754                % 00043 TIC---
+220301072 Dudelange, Mayrisch   01755  01755                % 00043 TIC---
+220301063 Dudelange, Lenkeschl  01755  01755                % 00043 TIC---
+220301057 Dudelange, Waldschou  01756  01756                % 00043 TIC---
+220301088 Dudelange, Rue Nic B  01757  01757                % 00043 TIC---
+220301089 Dudelange, Rue Léon   01758  01758                % 00043 TIC---
+220301034 Dudelange, Lycée Nic  01759  01759                % 00043 TIC---
+220301009 Dudelange, Breininge  01800  01800                % 00043 TIC---
+220301078 Dudelange, Square Ma  01801  01801                % 00043 TIC---
+220301022 Dudelange, Gare       01801  01801                % 00043 TIC---
+220301024 Dudelange, Gemeng     01803                       % 00043 TIC---
+*Z 00044 TIC---                                             % 00044 TIC---
+*L 10       220301024 220301024  01850  01903               % 00044 TIC---
+*R 1 220301024 220301024 220301024  01850  01903            % 00044 TIC---
+*G MB  220301024 220301024  01850  01903                    % 00044 TIC---
+*A VE 220301024 220301024 000279  01850  01903              % 00044 TIC---
+*I FD 220301024 220301024        0000010  01850  01903      % 00044 TIC---
+220301024 Dudelange, Gemeng            01850                % 00044 TIC---
+220301079 Dudelange, Fohrmann   01851  01851                % 00044 TIC---
+220301033 Dudelange, Rue Antoi  01852  01852                % 00044 TIC---
+220301004 Dudelange, Rue Belai  01853  01853                % 00044 TIC---
+220301032 Dudelange, Kräizbier  01854  01854                % 00044 TIC---
+220301072 Dudelange, Mayrisch   01855  01855                % 00044 TIC---
+220301063 Dudelange, Lenkeschl  01855  01855                % 00044 TIC---
+220301057 Dudelange, Waldschou  01856  01856                % 00044 TIC---
+220301088 Dudelange, Rue Nic B  01857  01857                % 00044 TIC---
+220301089 Dudelange, Rue Léon   01858  01858                % 00044 TIC---
+220301034 Dudelange, Lycée Nic  01859  01859                % 00044 TIC---
+220301009 Dudelange, Breininge  01900  01900                % 00044 TIC---
+220301078 Dudelange, Square Ma  01901  01901                % 00044 TIC---
+220301022 Dudelange, Gare       01901  01901                % 00044 TIC---
+220301024 Dudelange, Gemeng     01903                       % 00044 TIC---
+*Z 00045 TIC---                                             % 00045 TIC---
+*L 10       220301024 220301024  00520  00533               % 00045 TIC---
+*R 1 220301024 220301024 220301024  00520  00533            % 00045 TIC---
+*G MB  220301024 220301024  00520  00533                    % 00045 TIC---
+*A VE 220301024 220301024 000280  00520  00533              % 00045 TIC---
+*I FD 220301024 220301024        0000011  00520  00533      % 00045 TIC---
+220301024 Dudelange, Gemeng            00520                % 00045 TIC---
+220301079 Dudelange, Fohrmann   00521  00521                % 00045 TIC---
+220301033 Dudelange, Rue Antoi  00522  00522                % 00045 TIC---
+220301004 Dudelange, Rue Belai  00523  00523                % 00045 TIC---
+220301032 Dudelange, Kräizbier  00524  00524                % 00045 TIC---
+220301072 Dudelange, Mayrisch   00525  00525                % 00045 TIC---
+220301063 Dudelange, Lenkeschl  00525  00525                % 00045 TIC---
+220301057 Dudelange, Waldschou  00526  00526                % 00045 TIC---
+220301088 Dudelange, Rue Nic B  00527  00527                % 00045 TIC---
+220301089 Dudelange, Rue Léon   00528  00528                % 00045 TIC---
+220301034 Dudelange, Lycée Nic  00529  00529                % 00045 TIC---
+220301009 Dudelange, Breininge  00530  00530                % 00045 TIC---
+220301078 Dudelange, Square Ma  00531  00531                % 00045 TIC---
+220301022 Dudelange, Gare       00531  00531                % 00045 TIC---
+220301024 Dudelange, Gemeng     00533                       % 00045 TIC---
+*Z 00046 TIC---                                             % 00046 TIC---
+*L 10       220301024 220301024  00550  00603               % 00046 TIC---
+*R 1 220301024 220301024 220301024  00550  00603            % 00046 TIC---
+*G MB  220301024 220301024  00550  00603                    % 00046 TIC---
+*A VE 220301024 220301024 000280  00550  00603              % 00046 TIC---
+*I FD 220301024 220301024        0000012  00550  00603      % 00046 TIC---
+220301024 Dudelange, Gemeng            00550                % 00046 TIC---
+220301079 Dudelange, Fohrmann   00551  00551                % 00046 TIC---
+220301033 Dudelange, Rue Antoi  00552  00552                % 00046 TIC---
+220301004 Dudelange, Rue Belai  00553  00553                % 00046 TIC---
+220301032 Dudelange, Kräizbier  00554  00554                % 00046 TIC---
+220301072 Dudelange, Mayrisch   00555  00555                % 00046 TIC---
+220301063 Dudelange, Lenkeschl  00555  00555                % 00046 TIC---
+220301057 Dudelange, Waldschou  00556  00556                % 00046 TIC---
+220301088 Dudelange, Rue Nic B  00557  00557                % 00046 TIC---
+220301089 Dudelange, Rue Léon   00558  00558                % 00046 TIC---
+220301034 Dudelange, Lycée Nic  00559  00559                % 00046 TIC---
+220301009 Dudelange, Breininge  00600  00600                % 00046 TIC---
+220301078 Dudelange, Square Ma  00601  00601                % 00046 TIC---
+220301022 Dudelange, Gare       00601  00601                % 00046 TIC---
+220301024 Dudelange, Gemeng     00603                       % 00046 TIC---
+*Z 00047 TIC---                                             % 00047 TIC---
+*L 10       220301024 220301024  00620  00633               % 00047 TIC---
+*R 1 220301024 220301024 220301024  00620  00633            % 00047 TIC---
+*G MB  220301024 220301024  00620  00633                    % 00047 TIC---
+*A VE 220301024 220301024 000280  00620  00633              % 00047 TIC---
+*I FD 220301024 220301024        0000013  00620  00633      % 00047 TIC---
+220301024 Dudelange, Gemeng            00620                % 00047 TIC---
+220301079 Dudelange, Fohrmann   00621  00621                % 00047 TIC---
+220301033 Dudelange, Rue Antoi  00622  00622                % 00047 TIC---
+220301004 Dudelange, Rue Belai  00623  00623                % 00047 TIC---
+220301032 Dudelange, Kräizbier  00624  00624                % 00047 TIC---
+220301072 Dudelange, Mayrisch   00625  00625                % 00047 TIC---
+220301063 Dudelange, Lenkeschl  00625  00625                % 00047 TIC---
+220301057 Dudelange, Waldschou  00626  00626                % 00047 TIC---
+220301088 Dudelange, Rue Nic B  00627  00627                % 00047 TIC---
+220301089 Dudelange, Rue Léon   00628  00628                % 00047 TIC---
+220301034 Dudelange, Lycée Nic  00629  00629                % 00047 TIC---
+220301009 Dudelange, Breininge  00630  00630                % 00047 TIC---
+220301078 Dudelange, Square Ma  00631  00631                % 00047 TIC---
+220301022 Dudelange, Gare       00631  00631                % 00047 TIC---
+220301024 Dudelange, Gemeng     00633                       % 00047 TIC---
+*Z 00048 TIC---                                             % 00048 TIC---
+*L 10       220301024 220301024  00650  00703               % 00048 TIC---
+*R 1 220301024 220301024 220301024  00650  00703            % 00048 TIC---
+*G MB  220301024 220301024  00650  00703                    % 00048 TIC---
+*A VE 220301024 220301024 000280  00650  00703              % 00048 TIC---
+*I FD 220301024 220301024        0000014  00650  00703      % 00048 TIC---
+220301024 Dudelange, Gemeng            00650                % 00048 TIC---
+220301079 Dudelange, Fohrmann   00651  00651                % 00048 TIC---
+220301033 Dudelange, Rue Antoi  00652  00652                % 00048 TIC---
+220301004 Dudelange, Rue Belai  00653  00653                % 00048 TIC---
+220301032 Dudelange, Kräizbier  00654  00654                % 00048 TIC---
+220301072 Dudelange, Mayrisch   00655  00655                % 00048 TIC---
+220301063 Dudelange, Lenkeschl  00655  00655                % 00048 TIC---
+220301057 Dudelange, Waldschou  00656  00656                % 00048 TIC---
+220301088 Dudelange, Rue Nic B  00657  00657                % 00048 TIC---
+220301089 Dudelange, Rue Léon   00658  00658                % 00048 TIC---
+220301034 Dudelange, Lycée Nic  00659  00659                % 00048 TIC---
+220301009 Dudelange, Breininge  00700  00700                % 00048 TIC---
+220301078 Dudelange, Square Ma  00701  00701                % 00048 TIC---
+220301022 Dudelange, Gare       00701  00701                % 00048 TIC---
+220301024 Dudelange, Gemeng     00703                       % 00048 TIC---
+*Z 00049 TIC---                                             % 00049 TIC---
+*L 10       220301024 220301024  00720  00733               % 00049 TIC---
+*R 1 220301024 220301024 220301024  00720  00733            % 00049 TIC---
+*G MB  220301024 220301024  00720  00733                    % 00049 TIC---
+*A VE 220301024 220301024 000280  00720  00733              % 00049 TIC---
+*I FD 220301024 220301024        0000015  00720  00733      % 00049 TIC---
+220301024 Dudelange, Gemeng            00720                % 00049 TIC---
+220301079 Dudelange, Fohrmann   00721  00721                % 00049 TIC---
+220301033 Dudelange, Rue Antoi  00722  00722                % 00049 TIC---
+220301004 Dudelange, Rue Belai  00723  00723                % 00049 TIC---
+220301032 Dudelange, Kräizbier  00724  00724                % 00049 TIC---
+220301072 Dudelange, Mayrisch   00725  00725                % 00049 TIC---
+220301063 Dudelange, Lenkeschl  00725  00725                % 00049 TIC---
+220301057 Dudelange, Waldschou  00726  00726                % 00049 TIC---
+220301088 Dudelange, Rue Nic B  00727  00727                % 00049 TIC---
+220301089 Dudelange, Rue Léon   00728  00728                % 00049 TIC---
+220301034 Dudelange, Lycée Nic  00729  00729                % 00049 TIC---
+220301009 Dudelange, Breininge  00730  00730                % 00049 TIC---
+220301078 Dudelange, Square Ma  00731  00731                % 00049 TIC---
+220301022 Dudelange, Gare       00731  00731                % 00049 TIC---
+220301024 Dudelange, Gemeng     00733                       % 00049 TIC---
+*Z 00050 TIC---                                             % 00050 TIC---
+*L 10       220301024 220301024  00750  00803               % 00050 TIC---
+*R 1 220301024 220301024 220301024  00750  00803            % 00050 TIC---
+*G MB  220301024 220301024  00750  00803                    % 00050 TIC---
+*A VE 220301024 220301024 000280  00750  00803              % 00050 TIC---
+*I FD 220301024 220301024        0000016  00750  00803      % 00050 TIC---
+220301024 Dudelange, Gemeng            00750                % 00050 TIC---
+220301079 Dudelange, Fohrmann   00751  00751                % 00050 TIC---
+220301033 Dudelange, Rue Antoi  00752  00752                % 00050 TIC---
+220301004 Dudelange, Rue Belai  00753  00753                % 00050 TIC---
+220301032 Dudelange, Kräizbier  00754  00754                % 00050 TIC---
+220301072 Dudelange, Mayrisch   00755  00755                % 00050 TIC---
+220301063 Dudelange, Lenkeschl  00755  00755                % 00050 TIC---
+220301057 Dudelange, Waldschou  00756  00756                % 00050 TIC---
+220301088 Dudelange, Rue Nic B  00757  00757                % 00050 TIC---
+220301089 Dudelange, Rue Léon   00758  00758                % 00050 TIC---
+220301034 Dudelange, Lycée Nic  00759  00759                % 00050 TIC---
+220301009 Dudelange, Breininge  00800  00800                % 00050 TIC---
+220301078 Dudelange, Square Ma  00801  00801                % 00050 TIC---
+220301022 Dudelange, Gare       00801  00801                % 00050 TIC---
+220301024 Dudelange, Gemeng     00803                       % 00050 TIC---
+*Z 00051 TIC---                                             % 00051 TIC---
+*L 10       220301024 220301024  00820  00833               % 00051 TIC---
+*R 1 220301024 220301024 220301024  00820  00833            % 00051 TIC---
+*G MB  220301024 220301024  00820  00833                    % 00051 TIC---
+*A VE 220301024 220301024 000280  00820  00833              % 00051 TIC---
+*I FD 220301024 220301024        0000017  00820  00833      % 00051 TIC---
+220301024 Dudelange, Gemeng            00820                % 00051 TIC---
+220301079 Dudelange, Fohrmann   00821  00821                % 00051 TIC---
+220301033 Dudelange, Rue Antoi  00822  00822                % 00051 TIC---
+220301004 Dudelange, Rue Belai  00823  00823                % 00051 TIC---
+220301032 Dudelange, Kräizbier  00824  00824                % 00051 TIC---
+220301072 Dudelange, Mayrisch   00825  00825                % 00051 TIC---
+220301063 Dudelange, Lenkeschl  00825  00825                % 00051 TIC---
+220301057 Dudelange, Waldschou  00826  00826                % 00051 TIC---
+220301088 Dudelange, Rue Nic B  00827  00827                % 00051 TIC---
+220301089 Dudelange, Rue Léon   00828  00828                % 00051 TIC---
+220301034 Dudelange, Lycée Nic  00829  00829                % 00051 TIC---
+220301009 Dudelange, Breininge  00830  00830                % 00051 TIC---
+220301078 Dudelange, Square Ma  00831  00831                % 00051 TIC---
+220301022 Dudelange, Gare       00831  00831                % 00051 TIC---
+220301024 Dudelange, Gemeng     00833                       % 00051 TIC---
+*Z 00052 TIC---                                             % 00052 TIC---
+*L 10       220301024 220301024  00850  00903               % 00052 TIC---
+*R 1 220301024 220301024 220301024  00850  00903            % 00052 TIC---
+*G MB  220301024 220301024  00850  00903                    % 00052 TIC---
+*A VE 220301024 220301024 000280  00850  00903              % 00052 TIC---
+*I FD 220301024 220301024        0000018  00850  00903      % 00052 TIC---
+220301024 Dudelange, Gemeng            00850                % 00052 TIC---
+220301079 Dudelange, Fohrmann   00851  00851                % 00052 TIC---
+220301033 Dudelange, Rue Antoi  00852  00852                % 00052 TIC---
+220301004 Dudelange, Rue Belai  00853  00853                % 00052 TIC---
+220301032 Dudelange, Kräizbier  00854  00854                % 00052 TIC---
+220301072 Dudelange, Mayrisch   00855  00855                % 00052 TIC---
+220301063 Dudelange, Lenkeschl  00855  00855                % 00052 TIC---
+220301057 Dudelange, Waldschou  00856  00856                % 00052 TIC---
+220301088 Dudelange, Rue Nic B  00857  00857                % 00052 TIC---
+220301089 Dudelange, Rue Léon   00858  00858                % 00052 TIC---
+220301034 Dudelange, Lycée Nic  00859  00859                % 00052 TIC---
+220301009 Dudelange, Breininge  00900  00900                % 00052 TIC---
+220301078 Dudelange, Square Ma  00901  00901                % 00052 TIC---
+220301022 Dudelange, Gare       00901  00901                % 00052 TIC---
+220301024 Dudelange, Gemeng     00903                       % 00052 TIC---
+*Z 00053 TIC---                                             % 00053 TIC---
+*L 10       220301024 220301024  00920  00933               % 00053 TIC---
+*R 1 220301024 220301024 220301024  00920  00933            % 00053 TIC---
+*G MB  220301024 220301024  00920  00933                    % 00053 TIC---
+*A VE 220301024 220301024 000280  00920  00933              % 00053 TIC---
+*I FD 220301024 220301024        0000019  00920  00933      % 00053 TIC---
+220301024 Dudelange, Gemeng            00920                % 00053 TIC---
+220301079 Dudelange, Fohrmann   00921  00921                % 00053 TIC---
+220301033 Dudelange, Rue Antoi  00922  00922                % 00053 TIC---
+220301004 Dudelange, Rue Belai  00923  00923                % 00053 TIC---
+220301032 Dudelange, Kräizbier  00924  00924                % 00053 TIC---
+220301072 Dudelange, Mayrisch   00925  00925                % 00053 TIC---
+220301063 Dudelange, Lenkeschl  00925  00925                % 00053 TIC---
+220301057 Dudelange, Waldschou  00926  00926                % 00053 TIC---
+220301088 Dudelange, Rue Nic B  00927  00927                % 00053 TIC---
+220301089 Dudelange, Rue Léon   00928  00928                % 00053 TIC---
+220301034 Dudelange, Lycée Nic  00929  00929                % 00053 TIC---
+220301009 Dudelange, Breininge  00930  00930                % 00053 TIC---
+220301078 Dudelange, Square Ma  00931  00931                % 00053 TIC---
+220301022 Dudelange, Gare       00931  00931                % 00053 TIC---
+220301024 Dudelange, Gemeng     00933                       % 00053 TIC---
+*Z 00054 TIC---                                             % 00054 TIC---
+*L 10       220301024 220301024  01020  01033               % 00054 TIC---
+*R 1 220301024 220301024 220301024  01020  01033            % 00054 TIC---
+*G MB  220301024 220301024  01020  01033                    % 00054 TIC---
+*A VE 220301024 220301024 000280  01020  01033              % 00054 TIC---
+*I FD 220301024 220301024        0000020  01020  01033      % 00054 TIC---
+220301024 Dudelange, Gemeng            01020                % 00054 TIC---
+220301079 Dudelange, Fohrmann   01021  01021                % 00054 TIC---
+220301033 Dudelange, Rue Antoi  01022  01022                % 00054 TIC---
+220301004 Dudelange, Rue Belai  01023  01023                % 00054 TIC---
+220301032 Dudelange, Kräizbier  01024  01024                % 00054 TIC---
+220301072 Dudelange, Mayrisch   01025  01025                % 00054 TIC---
+220301063 Dudelange, Lenkeschl  01025  01025                % 00054 TIC---
+220301057 Dudelange, Waldschou  01026  01026                % 00054 TIC---
+220301088 Dudelange, Rue Nic B  01027  01027                % 00054 TIC---
+220301089 Dudelange, Rue Léon   01028  01028                % 00054 TIC---
+220301034 Dudelange, Lycée Nic  01029  01029                % 00054 TIC---
+220301009 Dudelange, Breininge  01030  01030                % 00054 TIC---
+220301078 Dudelange, Square Ma  01031  01031                % 00054 TIC---
+220301022 Dudelange, Gare       01031  01031                % 00054 TIC---
+220301024 Dudelange, Gemeng     01033                       % 00054 TIC---
+*Z 00055 TIC---                                             % 00055 TIC---
+*L 10       220301024 220301024  01120  01133               % 00055 TIC---
+*R 1 220301024 220301024 220301024  01120  01133            % 00055 TIC---
+*G MB  220301024 220301024  01120  01133                    % 00055 TIC---
+*A VE 220301024 220301024 000280  01120  01133              % 00055 TIC---
+*I FD 220301024 220301024        0000021  01120  01133      % 00055 TIC---
+220301024 Dudelange, Gemeng            01120                % 00055 TIC---
+220301079 Dudelange, Fohrmann   01121  01121                % 00055 TIC---
+220301033 Dudelange, Rue Antoi  01122  01122                % 00055 TIC---
+220301004 Dudelange, Rue Belai  01123  01123                % 00055 TIC---
+220301032 Dudelange, Kräizbier  01124  01124                % 00055 TIC---
+220301072 Dudelange, Mayrisch   01125  01125                % 00055 TIC---
+220301063 Dudelange, Lenkeschl  01125  01125                % 00055 TIC---
+220301057 Dudelange, Waldschou  01126  01126                % 00055 TIC---
+220301088 Dudelange, Rue Nic B  01127  01127                % 00055 TIC---
+220301089 Dudelange, Rue Léon   01128  01128                % 00055 TIC---
+220301034 Dudelange, Lycée Nic  01129  01129                % 00055 TIC---
+220301009 Dudelange, Breininge  01130  01130                % 00055 TIC---
+220301078 Dudelange, Square Ma  01131  01131                % 00055 TIC---
+220301022 Dudelange, Gare       01131  01131                % 00055 TIC---
+220301024 Dudelange, Gemeng     01133                       % 00055 TIC---
+*Z 00056 TIC---                                             % 00056 TIC---
+*L 10       220301024 220301024  01220  01233               % 00056 TIC---
+*R 1 220301024 220301024 220301024  01220  01233            % 00056 TIC---
+*G MB  220301024 220301024  01220  01233                    % 00056 TIC---
+*A VE 220301024 220301024 000280  01220  01233              % 00056 TIC---
+*I FD 220301024 220301024        0000022  01220  01233      % 00056 TIC---
+220301024 Dudelange, Gemeng            01220                % 00056 TIC---
+220301079 Dudelange, Fohrmann   01221  01221                % 00056 TIC---
+220301033 Dudelange, Rue Antoi  01222  01222                % 00056 TIC---
+220301004 Dudelange, Rue Belai  01223  01223                % 00056 TIC---
+220301032 Dudelange, Kräizbier  01224  01224                % 00056 TIC---
+220301072 Dudelange, Mayrisch   01225  01225                % 00056 TIC---
+220301063 Dudelange, Lenkeschl  01225  01225                % 00056 TIC---
+220301057 Dudelange, Waldschou  01226  01226                % 00056 TIC---
+220301088 Dudelange, Rue Nic B  01227  01227                % 00056 TIC---
+220301089 Dudelange, Rue Léon   01228  01228                % 00056 TIC---
+220301034 Dudelange, Lycée Nic  01229  01229                % 00056 TIC---
+220301009 Dudelange, Breininge  01230  01230                % 00056 TIC---
+220301078 Dudelange, Square Ma  01231  01231                % 00056 TIC---
+220301022 Dudelange, Gare       01231  01231                % 00056 TIC---
+220301024 Dudelange, Gemeng     01233                       % 00056 TIC---
+*Z 00057 TIC---                                             % 00057 TIC---
+*L 10       220301024 220301024  01320  01333               % 00057 TIC---
+*R 1 220301024 220301024 220301024  01320  01333            % 00057 TIC---
+*G MB  220301024 220301024  01320  01333                    % 00057 TIC---
+*A VE 220301024 220301024 000280  01320  01333              % 00057 TIC---
+*I FD 220301024 220301024        0000023  01320  01333      % 00057 TIC---
+220301024 Dudelange, Gemeng            01320                % 00057 TIC---
+220301079 Dudelange, Fohrmann   01321  01321                % 00057 TIC---
+220301033 Dudelange, Rue Antoi  01322  01322                % 00057 TIC---
+220301004 Dudelange, Rue Belai  01323  01323                % 00057 TIC---
+220301032 Dudelange, Kräizbier  01324  01324                % 00057 TIC---
+220301072 Dudelange, Mayrisch   01325  01325                % 00057 TIC---
+220301063 Dudelange, Lenkeschl  01325  01325                % 00057 TIC---
+220301057 Dudelange, Waldschou  01326  01326                % 00057 TIC---
+220301088 Dudelange, Rue Nic B  01327  01327                % 00057 TIC---
+220301089 Dudelange, Rue Léon   01328  01328                % 00057 TIC---
+220301034 Dudelange, Lycée Nic  01329  01329                % 00057 TIC---
+220301009 Dudelange, Breininge  01330  01330                % 00057 TIC---
+220301078 Dudelange, Square Ma  01331  01331                % 00057 TIC---
+220301022 Dudelange, Gare       01331  01331                % 00057 TIC---
+220301024 Dudelange, Gemeng     01333                       % 00057 TIC---
+*Z 00058 TIC---                                             % 00058 TIC---
+*L 10       220301024 220301024  01420  01433               % 00058 TIC---
+*R 1 220301024 220301024 220301024  01420  01433            % 00058 TIC---
+*G MB  220301024 220301024  01420  01433                    % 00058 TIC---
+*A VE 220301024 220301024 000280  01420  01433              % 00058 TIC---
+*I FD 220301024 220301024        0000024  01420  01433      % 00058 TIC---
+220301024 Dudelange, Gemeng            01420                % 00058 TIC---
+220301079 Dudelange, Fohrmann   01421  01421                % 00058 TIC---
+220301033 Dudelange, Rue Antoi  01422  01422                % 00058 TIC---
+220301004 Dudelange, Rue Belai  01423  01423                % 00058 TIC---
+220301032 Dudelange, Kräizbier  01424  01424                % 00058 TIC---
+220301072 Dudelange, Mayrisch   01425  01425                % 00058 TIC---
+220301063 Dudelange, Lenkeschl  01425  01425                % 00058 TIC---
+220301057 Dudelange, Waldschou  01426  01426                % 00058 TIC---
+220301088 Dudelange, Rue Nic B  01427  01427                % 00058 TIC---
+220301089 Dudelange, Rue Léon   01428  01428                % 00058 TIC---
+220301034 Dudelange, Lycée Nic  01429  01429                % 00058 TIC---
+220301009 Dudelange, Breininge  01430  01430                % 00058 TIC---
+220301078 Dudelange, Square Ma  01431  01431                % 00058 TIC---
+220301022 Dudelange, Gare       01431  01431                % 00058 TIC---
+220301024 Dudelange, Gemeng     01433                       % 00058 TIC---
+*Z 00059 TIC---                                             % 00059 TIC---
+*L 10       220301024 220301024  01520  01533               % 00059 TIC---
+*R 1 220301024 220301024 220301024  01520  01533            % 00059 TIC---
+*G MB  220301024 220301024  01520  01533                    % 00059 TIC---
+*A VE 220301024 220301024 000280  01520  01533              % 00059 TIC---
+*I FD 220301024 220301024        0000025  01520  01533      % 00059 TIC---
+220301024 Dudelange, Gemeng            01520                % 00059 TIC---
+220301079 Dudelange, Fohrmann   01521  01521                % 00059 TIC---
+220301033 Dudelange, Rue Antoi  01522  01522                % 00059 TIC---
+220301004 Dudelange, Rue Belai  01523  01523                % 00059 TIC---
+220301032 Dudelange, Kräizbier  01524  01524                % 00059 TIC---
+220301072 Dudelange, Mayrisch   01525  01525                % 00059 TIC---
+220301063 Dudelange, Lenkeschl  01525  01525                % 00059 TIC---
+220301057 Dudelange, Waldschou  01526  01526                % 00059 TIC---
+220301088 Dudelange, Rue Nic B  01527  01527                % 00059 TIC---
+220301089 Dudelange, Rue Léon   01528  01528                % 00059 TIC---
+220301034 Dudelange, Lycée Nic  01529  01529                % 00059 TIC---
+220301009 Dudelange, Breininge  01530  01530                % 00059 TIC---
+220301078 Dudelange, Square Ma  01531  01531                % 00059 TIC---
+220301022 Dudelange, Gare       01531  01531                % 00059 TIC---
+220301024 Dudelange, Gemeng     01533                       % 00059 TIC---
+*Z 00060 TIC---                                             % 00060 TIC---
+*L 10       220301024 220301024  01620  01633               % 00060 TIC---
+*R 1 220301024 220301024 220301024  01620  01633            % 00060 TIC---
+*G MB  220301024 220301024  01620  01633                    % 00060 TIC---
+*A VE 220301024 220301024 000280  01620  01633              % 00060 TIC---
+*I FD 220301024 220301024        0000026  01620  01633      % 00060 TIC---
+220301024 Dudelange, Gemeng            01620                % 00060 TIC---
+220301079 Dudelange, Fohrmann   01621  01621                % 00060 TIC---
+220301033 Dudelange, Rue Antoi  01622  01622                % 00060 TIC---
+220301004 Dudelange, Rue Belai  01623  01623                % 00060 TIC---
+220301032 Dudelange, Kräizbier  01624  01624                % 00060 TIC---
+220301072 Dudelange, Mayrisch   01625  01625                % 00060 TIC---
+220301063 Dudelange, Lenkeschl  01625  01625                % 00060 TIC---
+220301057 Dudelange, Waldschou  01626  01626                % 00060 TIC---
+220301088 Dudelange, Rue Nic B  01627  01627                % 00060 TIC---
+220301089 Dudelange, Rue Léon   01628  01628                % 00060 TIC---
+220301034 Dudelange, Lycée Nic  01629  01629                % 00060 TIC---
+220301009 Dudelange, Breininge  01630  01630                % 00060 TIC---
+220301078 Dudelange, Square Ma  01631  01631                % 00060 TIC---
+220301022 Dudelange, Gare       01631  01631                % 00060 TIC---
+220301024 Dudelange, Gemeng     01633                       % 00060 TIC---
+*Z 00061 TIC---                                             % 00061 TIC---
+*L 10       220301024 220301024  01720  01733               % 00061 TIC---
+*R 1 220301024 220301024 220301024  01720  01733            % 00061 TIC---
+*G MB  220301024 220301024  01720  01733                    % 00061 TIC---
+*A VE 220301024 220301024 000280  01720  01733              % 00061 TIC---
+*I FD 220301024 220301024        0000027  01720  01733      % 00061 TIC---
+220301024 Dudelange, Gemeng            01720                % 00061 TIC---
+220301079 Dudelange, Fohrmann   01721  01721                % 00061 TIC---
+220301033 Dudelange, Rue Antoi  01722  01722                % 00061 TIC---
+220301004 Dudelange, Rue Belai  01723  01723                % 00061 TIC---
+220301032 Dudelange, Kräizbier  01724  01724                % 00061 TIC---
+220301072 Dudelange, Mayrisch   01725  01725                % 00061 TIC---
+220301063 Dudelange, Lenkeschl  01725  01725                % 00061 TIC---
+220301057 Dudelange, Waldschou  01726  01726                % 00061 TIC---
+220301088 Dudelange, Rue Nic B  01727  01727                % 00061 TIC---
+220301089 Dudelange, Rue Léon   01728  01728                % 00061 TIC---
+220301034 Dudelange, Lycée Nic  01729  01729                % 00061 TIC---
+220301009 Dudelange, Breininge  01730  01730                % 00061 TIC---
+220301078 Dudelange, Square Ma  01731  01731                % 00061 TIC---
+220301022 Dudelange, Gare       01731  01731                % 00061 TIC---
+220301024 Dudelange, Gemeng     01733                       % 00061 TIC---
+*Z 00062 TIC---                                             % 00062 TIC---
+*L 10       220301024 220301024  01820  01833               % 00062 TIC---
+*R 1 220301024 220301024 220301024  01820  01833            % 00062 TIC---
+*G MB  220301024 220301024  01820  01833                    % 00062 TIC---
+*A VE 220301024 220301024 000280  01820  01833              % 00062 TIC---
+*I FD 220301024 220301024        0000028  01820  01833      % 00062 TIC---
+220301024 Dudelange, Gemeng            01820                % 00062 TIC---
+220301079 Dudelange, Fohrmann   01821  01821                % 00062 TIC---
+220301033 Dudelange, Rue Antoi  01822  01822                % 00062 TIC---
+220301004 Dudelange, Rue Belai  01823  01823                % 00062 TIC---
+220301032 Dudelange, Kräizbier  01824  01824                % 00062 TIC---
+220301072 Dudelange, Mayrisch   01825  01825                % 00062 TIC---
+220301063 Dudelange, Lenkeschl  01825  01825                % 00062 TIC---
+220301057 Dudelange, Waldschou  01826  01826                % 00062 TIC---
+220301088 Dudelange, Rue Nic B  01827  01827                % 00062 TIC---
+220301089 Dudelange, Rue Léon   01828  01828                % 00062 TIC---
+220301034 Dudelange, Lycée Nic  01829  01829                % 00062 TIC---
+220301009 Dudelange, Breininge  01830  01830                % 00062 TIC---
+220301078 Dudelange, Square Ma  01831  01831                % 00062 TIC---
+220301022 Dudelange, Gare       01831  01831                % 00062 TIC---
+220301024 Dudelange, Gemeng     01833                       % 00062 TIC---
+*Z 00063 TIC---                                             % 00063 TIC---
+*L 10       220301024 220301024  01920  01933               % 00063 TIC---
+*R 1 220301024 220301024 220301024  01920  01933            % 00063 TIC---
+*G MB  220301024 220301024  01920  01933                    % 00063 TIC---
+*A VE 220301024 220301024 000280  01920  01933              % 00063 TIC---
+*I FD 220301024 220301024        0000029  01920  01933      % 00063 TIC---
+220301024 Dudelange, Gemeng            01920                % 00063 TIC---
+220301079 Dudelange, Fohrmann   01921  01921                % 00063 TIC---
+220301033 Dudelange, Rue Antoi  01922  01922                % 00063 TIC---
+220301004 Dudelange, Rue Belai  01923  01923                % 00063 TIC---
+220301032 Dudelange, Kräizbier  01924  01924                % 00063 TIC---
+220301072 Dudelange, Mayrisch   01925  01925                % 00063 TIC---
+220301063 Dudelange, Lenkeschl  01925  01925                % 00063 TIC---
+220301057 Dudelange, Waldschou  01926  01926                % 00063 TIC---
+220301088 Dudelange, Rue Nic B  01927  01927                % 00063 TIC---
+220301089 Dudelange, Rue Léon   01928  01928                % 00063 TIC---
+220301034 Dudelange, Lycée Nic  01929  01929                % 00063 TIC---
+220301009 Dudelange, Breininge  01930  01930                % 00063 TIC---
+220301078 Dudelange, Square Ma  01931  01931                % 00063 TIC---
+220301022 Dudelange, Gare       01931  01931                % 00063 TIC---
+220301024 Dudelange, Gemeng     01933                       % 00063 TIC---
+*Z 00064 TIC---                                             % 00064 TIC---
+*L 10       220301024 220301024  01950  02003               % 00064 TIC---
+*R 1 220301024 220301024 220301024  01950  02003            % 00064 TIC---
+*G MB  220301024 220301024  01950  02003                    % 00064 TIC---
+*A VE 220301024 220301024 000280  01950  02003              % 00064 TIC---
+*I FD 220301024 220301024        0000030  01950  02003      % 00064 TIC---
+220301024 Dudelange, Gemeng            01950                % 00064 TIC---
+220301079 Dudelange, Fohrmann   01951  01951                % 00064 TIC---
+220301033 Dudelange, Rue Antoi  01952  01952                % 00064 TIC---
+220301004 Dudelange, Rue Belai  01953  01953                % 00064 TIC---
+220301032 Dudelange, Kräizbier  01954  01954                % 00064 TIC---
+220301072 Dudelange, Mayrisch   01955  01955                % 00064 TIC---
+220301063 Dudelange, Lenkeschl  01955  01955                % 00064 TIC---
+220301057 Dudelange, Waldschou  01956  01956                % 00064 TIC---
+220301088 Dudelange, Rue Nic B  01957  01957                % 00064 TIC---
+220301089 Dudelange, Rue Léon   01958  01958                % 00064 TIC---
+220301034 Dudelange, Lycée Nic  01959  01959                % 00064 TIC---
+220301009 Dudelange, Breininge  02000  02000                % 00064 TIC---
+220301078 Dudelange, Square Ma  02001  02001                % 00064 TIC---
+220301022 Dudelange, Gare       02001  02001                % 00064 TIC---
+220301024 Dudelange, Gemeng     02003                       % 00064 TIC---
+*Z 00065 TIC---                                             % 00065 TIC---
+*L 10       220301024 220301024  02050  02103               % 00065 TIC---
+*R 1 220301024 220301024 220301024  02050  02103            % 00065 TIC---
+*G MB  220301024 220301024  02050  02103                    % 00065 TIC---
+*A VE 220301024 220301024 000280  02050  02103              % 00065 TIC---
+*I FD 220301024 220301024        0000031  02050  02103      % 00065 TIC---
+220301024 Dudelange, Gemeng            02050                % 00065 TIC---
+220301079 Dudelange, Fohrmann   02051  02051                % 00065 TIC---
+220301033 Dudelange, Rue Antoi  02052  02052                % 00065 TIC---
+220301004 Dudelange, Rue Belai  02053  02053                % 00065 TIC---
+220301032 Dudelange, Kräizbier  02054  02054                % 00065 TIC---
+220301072 Dudelange, Mayrisch   02055  02055                % 00065 TIC---
+220301063 Dudelange, Lenkeschl  02055  02055                % 00065 TIC---
+220301057 Dudelange, Waldschou  02056  02056                % 00065 TIC---
+220301088 Dudelange, Rue Nic B  02057  02057                % 00065 TIC---
+220301089 Dudelange, Rue Léon   02058  02058                % 00065 TIC---
+220301034 Dudelange, Lycée Nic  02059  02059                % 00065 TIC---
+220301009 Dudelange, Breininge  02100  02100                % 00065 TIC---
+220301078 Dudelange, Square Ma  02101  02101                % 00065 TIC---
+220301022 Dudelange, Gare       02101  02101                % 00065 TIC---
+220301024 Dudelange, Gemeng     02103                       % 00065 TIC---
+*Z 00066 TIC---                                             % 00066 TIC---
+*L 10       220301024 220301024  02150  02203               % 00066 TIC---
+*R 1 220301024 220301024 220301024  02150  02203            % 00066 TIC---
+*G MB  220301024 220301024  02150  02203                    % 00066 TIC---
+*A VE 220301024 220301024 000280  02150  02203              % 00066 TIC---
+*I FD 220301024 220301024        0000032  02150  02203      % 00066 TIC---
+220301024 Dudelange, Gemeng            02150                % 00066 TIC---
+220301079 Dudelange, Fohrmann   02151  02151                % 00066 TIC---
+220301033 Dudelange, Rue Antoi  02152  02152                % 00066 TIC---
+220301004 Dudelange, Rue Belai  02153  02153                % 00066 TIC---
+220301032 Dudelange, Kräizbier  02154  02154                % 00066 TIC---
+220301072 Dudelange, Mayrisch   02155  02155                % 00066 TIC---
+220301063 Dudelange, Lenkeschl  02155  02155                % 00066 TIC---
+220301057 Dudelange, Waldschou  02156  02156                % 00066 TIC---
+220301088 Dudelange, Rue Nic B  02157  02157                % 00066 TIC---
+220301089 Dudelange, Rue Léon   02158  02158                % 00066 TIC---
+220301034 Dudelange, Lycée Nic  02159  02159                % 00066 TIC---
+220301009 Dudelange, Breininge  02200  02200                % 00066 TIC---
+220301078 Dudelange, Square Ma  02201  02201                % 00066 TIC---
+220301022 Dudelange, Gare       02201  02201                % 00066 TIC---
+220301024 Dudelange, Gemeng     02203                       % 00066 TIC---
+*Z 00067 TIC---                                             % 00067 TIC---
+*L 10       220301024 220301024  02250  02303               % 00067 TIC---
+*R 1 220301024 220301024 220301024  02250  02303            % 00067 TIC---
+*G MB  220301024 220301024  02250  02303                    % 00067 TIC---
+*A VE 220301024 220301024 000280  02250  02303              % 00067 TIC---
+*I FD 220301024 220301024        0000033  02250  02303      % 00067 TIC---
+220301024 Dudelange, Gemeng            02250                % 00067 TIC---
+220301079 Dudelange, Fohrmann   02251  02251                % 00067 TIC---
+220301033 Dudelange, Rue Antoi  02252  02252                % 00067 TIC---
+220301004 Dudelange, Rue Belai  02253  02253                % 00067 TIC---
+220301032 Dudelange, Kräizbier  02254  02254                % 00067 TIC---
+220301072 Dudelange, Mayrisch   02255  02255                % 00067 TIC---
+220301063 Dudelange, Lenkeschl  02255  02255                % 00067 TIC---
+220301057 Dudelange, Waldschou  02256  02256                % 00067 TIC---
+220301088 Dudelange, Rue Nic B  02257  02257                % 00067 TIC---
+220301089 Dudelange, Rue Léon   02258  02258                % 00067 TIC---
+220301034 Dudelange, Lycée Nic  02259  02259                % 00067 TIC---
+220301009 Dudelange, Breininge  02300  02300                % 00067 TIC---
+220301078 Dudelange, Square Ma  02301  02301                % 00067 TIC---
+220301022 Dudelange, Gare       02301  02301                % 00067 TIC---
+220301024 Dudelange, Gemeng     02303                       % 00067 TIC---
+*Z 00068 TIC---                                             % 00068 TIC---
+*L 10       220301024 220301024  02350  02403               % 00068 TIC---
+*R 1 220301024 220301024 220301024  02350  02403            % 00068 TIC---
+*G MB  220301024 220301024  02350  02403                    % 00068 TIC---
+*A VE 220301024 220301024 000280  02350  02403              % 00068 TIC---
+*I FD 220301024 220301024        0000034  02350  02403      % 00068 TIC---
+220301024 Dudelange, Gemeng            02350                % 00068 TIC---
+220301079 Dudelange, Fohrmann   02351  02351                % 00068 TIC---
+220301033 Dudelange, Rue Antoi  02352  02352                % 00068 TIC---
+220301004 Dudelange, Rue Belai  02353  02353                % 00068 TIC---
+220301032 Dudelange, Kräizbier  02354  02354                % 00068 TIC---
+220301072 Dudelange, Mayrisch   02355  02355                % 00068 TIC---
+220301063 Dudelange, Lenkeschl  02355  02355                % 00068 TIC---
+220301057 Dudelange, Waldschou  02356  02356                % 00068 TIC---
+220301088 Dudelange, Rue Nic B  02357  02357                % 00068 TIC---
+220301089 Dudelange, Rue Léon   02358  02358                % 00068 TIC---
+220301034 Dudelange, Lycée Nic  02359  02359                % 00068 TIC---
+220301009 Dudelange, Breininge  02400  02400                % 00068 TIC---
+220301078 Dudelange, Square Ma  02401  02401                % 00068 TIC---
+220301022 Dudelange, Gare       02401  02401                % 00068 TIC---
+220301024 Dudelange, Gemeng     02403                       % 00068 TIC---
+*Z 00069 TIC---                                             % 00069 TIC---
+*L 10       220301024 220301024  00950  01003               % 00069 TIC---
+*R 1 220301024 220301024 220301024  00950  01003            % 00069 TIC---
+*G MB  220301024 220301024  00950  01003                    % 00069 TIC---
+*A VE 220301024 220301024 000281  00950  01003              % 00069 TIC---
+*I FD 220301024 220301024        0000001  00950  01003      % 00069 TIC---
+220301024 Dudelange, Gemeng            00950                % 00069 TIC---
+220301079 Dudelange, Fohrmann   00951  00951                % 00069 TIC---
+220301033 Dudelange, Rue Antoi  00952  00952                % 00069 TIC---
+220301004 Dudelange, Rue Belai  00953  00953                % 00069 TIC---
+220301032 Dudelange, Kräizbier  00954  00954                % 00069 TIC---
+220301072 Dudelange, Mayrisch   00955  00955                % 00069 TIC---
+220301063 Dudelange, Lenkeschl  00955  00955                % 00069 TIC---
+220301057 Dudelange, Waldschou  00956  00956                % 00069 TIC---
+220301088 Dudelange, Rue Nic B  00957  00957                % 00069 TIC---
+220301089 Dudelange, Rue Léon   00958  00958                % 00069 TIC---
+220301034 Dudelange, Lycée Nic  00959  00959                % 00069 TIC---
+220301009 Dudelange, Breininge  01000  01000                % 00069 TIC---
+220301078 Dudelange, Square Ma  01001  01001                % 00069 TIC---
+220301022 Dudelange, Gare       01001  01001                % 00069 TIC---
+220301024 Dudelange, Gemeng     01003                       % 00069 TIC---
+*Z 00070 TIC---                                             % 00070 TIC---
+*L 10       220301024 220301024  01050  01103               % 00070 TIC---
+*R 1 220301024 220301024 220301024  01050  01103            % 00070 TIC---
+*G MB  220301024 220301024  01050  01103                    % 00070 TIC---
+*A VE 220301024 220301024 000281  01050  01103              % 00070 TIC---
+*I FD 220301024 220301024        0000002  01050  01103      % 00070 TIC---
+220301024 Dudelange, Gemeng            01050                % 00070 TIC---
+220301079 Dudelange, Fohrmann   01051  01051                % 00070 TIC---
+220301033 Dudelange, Rue Antoi  01052  01052                % 00070 TIC---
+220301004 Dudelange, Rue Belai  01053  01053                % 00070 TIC---
+220301032 Dudelange, Kräizbier  01054  01054                % 00070 TIC---
+220301072 Dudelange, Mayrisch   01055  01055                % 00070 TIC---
+220301063 Dudelange, Lenkeschl  01055  01055                % 00070 TIC---
+220301057 Dudelange, Waldschou  01056  01056                % 00070 TIC---
+220301088 Dudelange, Rue Nic B  01057  01057                % 00070 TIC---
+220301089 Dudelange, Rue Léon   01058  01058                % 00070 TIC---
+220301034 Dudelange, Lycée Nic  01059  01059                % 00070 TIC---
+220301009 Dudelange, Breininge  01100  01100                % 00070 TIC---
+220301078 Dudelange, Square Ma  01101  01101                % 00070 TIC---
+220301022 Dudelange, Gare       01101  01101                % 00070 TIC---
+220301024 Dudelange, Gemeng     01103                       % 00070 TIC---
+*Z 00071 TIC---                                             % 00071 TIC---
+*L 10       220301024 220301024  01150  01203               % 00071 TIC---
+*R 1 220301024 220301024 220301024  01150  01203            % 00071 TIC---
+*G MB  220301024 220301024  01150  01203                    % 00071 TIC---
+*A VE 220301024 220301024 000281  01150  01203              % 00071 TIC---
+*I FD 220301024 220301024        0000003  01150  01203      % 00071 TIC---
+220301024 Dudelange, Gemeng            01150                % 00071 TIC---
+220301079 Dudelange, Fohrmann   01151  01151                % 00071 TIC---
+220301033 Dudelange, Rue Antoi  01152  01152                % 00071 TIC---
+220301004 Dudelange, Rue Belai  01153  01153                % 00071 TIC---
+220301032 Dudelange, Kräizbier  01154  01154                % 00071 TIC---
+220301072 Dudelange, Mayrisch   01155  01155                % 00071 TIC---
+220301063 Dudelange, Lenkeschl  01155  01155                % 00071 TIC---
+220301057 Dudelange, Waldschou  01156  01156                % 00071 TIC---
+220301088 Dudelange, Rue Nic B  01157  01157                % 00071 TIC---
+220301089 Dudelange, Rue Léon   01158  01158                % 00071 TIC---
+220301034 Dudelange, Lycée Nic  01159  01159                % 00071 TIC---
+220301009 Dudelange, Breininge  01200  01200                % 00071 TIC---
+220301078 Dudelange, Square Ma  01201  01201                % 00071 TIC---
+220301022 Dudelange, Gare       01201  01201                % 00071 TIC---
+220301024 Dudelange, Gemeng     01203                       % 00071 TIC---
+*Z 00072 TIC---                                             % 00072 TIC---
+*L 10       220301024 220301024  01250  01303               % 00072 TIC---
+*R 1 220301024 220301024 220301024  01250  01303            % 00072 TIC---
+*G MB  220301024 220301024  01250  01303                    % 00072 TIC---
+*A VE 220301024 220301024 000281  01250  01303              % 00072 TIC---
+*I FD 220301024 220301024        0000004  01250  01303      % 00072 TIC---
+220301024 Dudelange, Gemeng            01250                % 00072 TIC---
+220301079 Dudelange, Fohrmann   01251  01251                % 00072 TIC---
+220301033 Dudelange, Rue Antoi  01252  01252                % 00072 TIC---
+220301004 Dudelange, Rue Belai  01253  01253                % 00072 TIC---
+220301032 Dudelange, Kräizbier  01254  01254                % 00072 TIC---
+220301072 Dudelange, Mayrisch   01255  01255                % 00072 TIC---
+220301063 Dudelange, Lenkeschl  01255  01255                % 00072 TIC---
+220301057 Dudelange, Waldschou  01256  01256                % 00072 TIC---
+220301088 Dudelange, Rue Nic B  01257  01257                % 00072 TIC---
+220301089 Dudelange, Rue Léon   01258  01258                % 00072 TIC---
+220301034 Dudelange, Lycée Nic  01259  01259                % 00072 TIC---
+220301009 Dudelange, Breininge  01300  01300                % 00072 TIC---
+220301078 Dudelange, Square Ma  01301  01301                % 00072 TIC---
+220301022 Dudelange, Gare       01301  01301                % 00072 TIC---
+220301024 Dudelange, Gemeng     01303                       % 00072 TIC---
+*Z 00073 TIC---                                             % 00073 TIC---
+*L 10       220301024 220301024  01350  01403               % 00073 TIC---
+*R 1 220301024 220301024 220301024  01350  01403            % 00073 TIC---
+*G MB  220301024 220301024  01350  01403                    % 00073 TIC---
+*A VE 220301024 220301024 000281  01350  01403              % 00073 TIC---
+*I FD 220301024 220301024        0000005  01350  01403      % 00073 TIC---
+220301024 Dudelange, Gemeng            01350                % 00073 TIC---
+220301079 Dudelange, Fohrmann   01351  01351                % 00073 TIC---
+220301033 Dudelange, Rue Antoi  01352  01352                % 00073 TIC---
+220301004 Dudelange, Rue Belai  01353  01353                % 00073 TIC---
+220301032 Dudelange, Kräizbier  01354  01354                % 00073 TIC---
+220301072 Dudelange, Mayrisch   01355  01355                % 00073 TIC---
+220301063 Dudelange, Lenkeschl  01355  01355                % 00073 TIC---
+220301057 Dudelange, Waldschou  01356  01356                % 00073 TIC---
+220301088 Dudelange, Rue Nic B  01357  01357                % 00073 TIC---
+220301089 Dudelange, Rue Léon   01358  01358                % 00073 TIC---
+220301034 Dudelange, Lycée Nic  01359  01359                % 00073 TIC---
+220301009 Dudelange, Breininge  01400  01400                % 00073 TIC---
+220301078 Dudelange, Square Ma  01401  01401                % 00073 TIC---
+220301022 Dudelange, Gare       01401  01401                % 00073 TIC---
+220301024 Dudelange, Gemeng     01403                       % 00073 TIC---
+*Z 00074 TIC---                                             % 00074 TIC---
+*L 10       220301024 220301024  01450  01503               % 00074 TIC---
+*R 1 220301024 220301024 220301024  01450  01503            % 00074 TIC---
+*G MB  220301024 220301024  01450  01503                    % 00074 TIC---
+*A VE 220301024 220301024 000281  01450  01503              % 00074 TIC---
+*I FD 220301024 220301024        0000006  01450  01503      % 00074 TIC---
+220301024 Dudelange, Gemeng            01450                % 00074 TIC---
+220301079 Dudelange, Fohrmann   01451  01451                % 00074 TIC---
+220301033 Dudelange, Rue Antoi  01452  01452                % 00074 TIC---
+220301004 Dudelange, Rue Belai  01453  01453                % 00074 TIC---
+220301032 Dudelange, Kräizbier  01454  01454                % 00074 TIC---
+220301072 Dudelange, Mayrisch   01455  01455                % 00074 TIC---
+220301063 Dudelange, Lenkeschl  01455  01455                % 00074 TIC---
+220301057 Dudelange, Waldschou  01456  01456                % 00074 TIC---
+220301088 Dudelange, Rue Nic B  01457  01457                % 00074 TIC---
+220301089 Dudelange, Rue Léon   01458  01458                % 00074 TIC---
+220301034 Dudelange, Lycée Nic  01459  01459                % 00074 TIC---
+220301009 Dudelange, Breininge  01500  01500                % 00074 TIC---
+220301078 Dudelange, Square Ma  01501  01501                % 00074 TIC---
+220301022 Dudelange, Gare       01501  01501                % 00074 TIC---
+220301024 Dudelange, Gemeng     01503                       % 00074 TIC---
+*Z 00075 TIC---                                             % 00075 TIC---
+*L 10       220301024 220301024  01550  01603               % 00075 TIC---
+*R 1 220301024 220301024 220301024  01550  01603            % 00075 TIC---
+*G MB  220301024 220301024  01550  01603                    % 00075 TIC---
+*A VE 220301024 220301024 000281  01550  01603              % 00075 TIC---
+*I FD 220301024 220301024        0000007  01550  01603      % 00075 TIC---
+220301024 Dudelange, Gemeng            01550                % 00075 TIC---
+220301079 Dudelange, Fohrmann   01551  01551                % 00075 TIC---
+220301033 Dudelange, Rue Antoi  01552  01552                % 00075 TIC---
+220301004 Dudelange, Rue Belai  01553  01553                % 00075 TIC---
+220301032 Dudelange, Kräizbier  01554  01554                % 00075 TIC---
+220301072 Dudelange, Mayrisch   01555  01555                % 00075 TIC---
+220301063 Dudelange, Lenkeschl  01555  01555                % 00075 TIC---
+220301057 Dudelange, Waldschou  01556  01556                % 00075 TIC---
+220301088 Dudelange, Rue Nic B  01557  01557                % 00075 TIC---
+220301089 Dudelange, Rue Léon   01558  01558                % 00075 TIC---
+220301034 Dudelange, Lycée Nic  01559  01559                % 00075 TIC---
+220301009 Dudelange, Breininge  01600  01600                % 00075 TIC---
+220301078 Dudelange, Square Ma  01601  01601                % 00075 TIC---
+220301022 Dudelange, Gare       01601  01601                % 00075 TIC---
+220301024 Dudelange, Gemeng     01603                       % 00075 TIC---
+*Z 00076 TIC---                                             % 00076 TIC---
+*L 10       220301024 220301024  01650  01703               % 00076 TIC---
+*R 1 220301024 220301024 220301024  01650  01703            % 00076 TIC---
+*G MB  220301024 220301024  01650  01703                    % 00076 TIC---
+*A VE 220301024 220301024 000281  01650  01703              % 00076 TIC---
+*I FD 220301024 220301024        0000008  01650  01703      % 00076 TIC---
+220301024 Dudelange, Gemeng            01650                % 00076 TIC---
+220301079 Dudelange, Fohrmann   01651  01651                % 00076 TIC---
+220301033 Dudelange, Rue Antoi  01652  01652                % 00076 TIC---
+220301004 Dudelange, Rue Belai  01653  01653                % 00076 TIC---
+220301032 Dudelange, Kräizbier  01654  01654                % 00076 TIC---
+220301072 Dudelange, Mayrisch   01655  01655                % 00076 TIC---
+220301063 Dudelange, Lenkeschl  01655  01655                % 00076 TIC---
+220301057 Dudelange, Waldschou  01656  01656                % 00076 TIC---
+220301088 Dudelange, Rue Nic B  01657  01657                % 00076 TIC---
+220301089 Dudelange, Rue Léon   01658  01658                % 00076 TIC---
+220301034 Dudelange, Lycée Nic  01659  01659                % 00076 TIC---
+220301009 Dudelange, Breininge  01700  01700                % 00076 TIC---
+220301078 Dudelange, Square Ma  01701  01701                % 00076 TIC---
+220301022 Dudelange, Gare       01701  01701                % 00076 TIC---
+220301024 Dudelange, Gemeng     01703                       % 00076 TIC---
+*Z 00077 TIC---                                             % 00077 TIC---
+*L 10       220301024 220301024  01750  01803               % 00077 TIC---
+*R 1 220301024 220301024 220301024  01750  01803            % 00077 TIC---
+*G MB  220301024 220301024  01750  01803                    % 00077 TIC---
+*A VE 220301024 220301024 000281  01750  01803              % 00077 TIC---
+*I FD 220301024 220301024        0000009  01750  01803      % 00077 TIC---
+220301024 Dudelange, Gemeng            01750                % 00077 TIC---
+220301079 Dudelange, Fohrmann   01751  01751                % 00077 TIC---
+220301033 Dudelange, Rue Antoi  01752  01752                % 00077 TIC---
+220301004 Dudelange, Rue Belai  01753  01753                % 00077 TIC---
+220301032 Dudelange, Kräizbier  01754  01754                % 00077 TIC---
+220301072 Dudelange, Mayrisch   01755  01755                % 00077 TIC---
+220301063 Dudelange, Lenkeschl  01755  01755                % 00077 TIC---
+220301057 Dudelange, Waldschou  01756  01756                % 00077 TIC---
+220301088 Dudelange, Rue Nic B  01757  01757                % 00077 TIC---
+220301089 Dudelange, Rue Léon   01758  01758                % 00077 TIC---
+220301034 Dudelange, Lycée Nic  01759  01759                % 00077 TIC---
+220301009 Dudelange, Breininge  01800  01800                % 00077 TIC---
+220301078 Dudelange, Square Ma  01801  01801                % 00077 TIC---
+220301022 Dudelange, Gare       01801  01801                % 00077 TIC---
+220301024 Dudelange, Gemeng     01803                       % 00077 TIC---
+*Z 00078 TIC---                                             % 00078 TIC---
+*L 10       220301024 220301024  01850  01903               % 00078 TIC---
+*R 1 220301024 220301024 220301024  01850  01903            % 00078 TIC---
+*G MB  220301024 220301024  01850  01903                    % 00078 TIC---
+*A VE 220301024 220301024 000281  01850  01903              % 00078 TIC---
+*I FD 220301024 220301024        0000010  01850  01903      % 00078 TIC---
+220301024 Dudelange, Gemeng            01850                % 00078 TIC---
+220301079 Dudelange, Fohrmann   01851  01851                % 00078 TIC---
+220301033 Dudelange, Rue Antoi  01852  01852                % 00078 TIC---
+220301004 Dudelange, Rue Belai  01853  01853                % 00078 TIC---
+220301032 Dudelange, Kräizbier  01854  01854                % 00078 TIC---
+220301072 Dudelange, Mayrisch   01855  01855                % 00078 TIC---
+220301063 Dudelange, Lenkeschl  01855  01855                % 00078 TIC---
+220301057 Dudelange, Waldschou  01856  01856                % 00078 TIC---
+220301088 Dudelange, Rue Nic B  01857  01857                % 00078 TIC---
+220301089 Dudelange, Rue Léon   01858  01858                % 00078 TIC---
+220301034 Dudelange, Lycée Nic  01859  01859                % 00078 TIC---
+220301009 Dudelange, Breininge  01900  01900                % 00078 TIC---
+220301078 Dudelange, Square Ma  01901  01901                % 00078 TIC---
+220301022 Dudelange, Gare       01901  01901                % 00078 TIC---
+220301024 Dudelange, Gemeng     01903                       % 00078 TIC---
+*Z 00079 TIC---                                             % 00079 TIC---
+*L 10       220301024 220301024  00520  00533               % 00079 TIC---
+*R 1 220301024 220301024 220301024  00520  00533            % 00079 TIC---
+*G MB  220301024 220301024  00520  00533                    % 00079 TIC---
+*A VE 220301024 220301024 000282  00520  00533              % 00079 TIC---
+*I FD 220301024 220301024        0000011  00520  00533      % 00079 TIC---
+220301024 Dudelange, Gemeng            00520                % 00079 TIC---
+220301079 Dudelange, Fohrmann   00521  00521                % 00079 TIC---
+220301033 Dudelange, Rue Antoi  00522  00522                % 00079 TIC---
+220301004 Dudelange, Rue Belai  00523  00523                % 00079 TIC---
+220301032 Dudelange, Kräizbier  00524  00524                % 00079 TIC---
+220301072 Dudelange, Mayrisch   00525  00525                % 00079 TIC---
+220301063 Dudelange, Lenkeschl  00525  00525                % 00079 TIC---
+220301057 Dudelange, Waldschou  00526  00526                % 00079 TIC---
+220301088 Dudelange, Rue Nic B  00527  00527                % 00079 TIC---
+220301089 Dudelange, Rue Léon   00528  00528                % 00079 TIC---
+220301034 Dudelange, Lycée Nic  00529  00529                % 00079 TIC---
+220301009 Dudelange, Breininge  00530  00530                % 00079 TIC---
+220301078 Dudelange, Square Ma  00531  00531                % 00079 TIC---
+220301022 Dudelange, Gare       00531  00531                % 00079 TIC---
+220301024 Dudelange, Gemeng     00533                       % 00079 TIC---
+*Z 00080 TIC---                                             % 00080 TIC---
+*L 10       220301024 220301024  00550  00603               % 00080 TIC---
+*R 1 220301024 220301024 220301024  00550  00603            % 00080 TIC---
+*G MB  220301024 220301024  00550  00603                    % 00080 TIC---
+*A VE 220301024 220301024 000282  00550  00603              % 00080 TIC---
+*I FD 220301024 220301024        0000012  00550  00603      % 00080 TIC---
+220301024 Dudelange, Gemeng            00550                % 00080 TIC---
+220301079 Dudelange, Fohrmann   00551  00551                % 00080 TIC---
+220301033 Dudelange, Rue Antoi  00552  00552                % 00080 TIC---
+220301004 Dudelange, Rue Belai  00553  00553                % 00080 TIC---
+220301032 Dudelange, Kräizbier  00554  00554                % 00080 TIC---
+220301072 Dudelange, Mayrisch   00555  00555                % 00080 TIC---
+220301063 Dudelange, Lenkeschl  00555  00555                % 00080 TIC---
+220301057 Dudelange, Waldschou  00556  00556                % 00080 TIC---
+220301088 Dudelange, Rue Nic B  00557  00557                % 00080 TIC---
+220301089 Dudelange, Rue Léon   00558  00558                % 00080 TIC---
+220301034 Dudelange, Lycée Nic  00559  00559                % 00080 TIC---
+220301009 Dudelange, Breininge  00600  00600                % 00080 TIC---
+220301078 Dudelange, Square Ma  00601  00601                % 00080 TIC---
+220301022 Dudelange, Gare       00601  00601                % 00080 TIC---
+220301024 Dudelange, Gemeng     00603                       % 00080 TIC---
+*Z 00081 TIC---                                             % 00081 TIC---
+*L 10       220301024 220301024  00620  00633               % 00081 TIC---
+*R 1 220301024 220301024 220301024  00620  00633            % 00081 TIC---
+*G MB  220301024 220301024  00620  00633                    % 00081 TIC---
+*A VE 220301024 220301024 000282  00620  00633              % 00081 TIC---
+*I FD 220301024 220301024        0000013  00620  00633      % 00081 TIC---
+220301024 Dudelange, Gemeng            00620                % 00081 TIC---
+220301079 Dudelange, Fohrmann   00621  00621                % 00081 TIC---
+220301033 Dudelange, Rue Antoi  00622  00622                % 00081 TIC---
+220301004 Dudelange, Rue Belai  00623  00623                % 00081 TIC---
+220301032 Dudelange, Kräizbier  00624  00624                % 00081 TIC---
+220301072 Dudelange, Mayrisch   00625  00625                % 00081 TIC---
+220301063 Dudelange, Lenkeschl  00625  00625                % 00081 TIC---
+220301057 Dudelange, Waldschou  00626  00626                % 00081 TIC---
+220301088 Dudelange, Rue Nic B  00627  00627                % 00081 TIC---
+220301089 Dudelange, Rue Léon   00628  00628                % 00081 TIC---
+220301034 Dudelange, Lycée Nic  00629  00629                % 00081 TIC---
+220301009 Dudelange, Breininge  00630  00630                % 00081 TIC---
+220301078 Dudelange, Square Ma  00631  00631                % 00081 TIC---
+220301022 Dudelange, Gare       00631  00631                % 00081 TIC---
+220301024 Dudelange, Gemeng     00633                       % 00081 TIC---
+*Z 00082 TIC---                                             % 00082 TIC---
+*L 10       220301024 220301024  00650  00703               % 00082 TIC---
+*R 1 220301024 220301024 220301024  00650  00703            % 00082 TIC---
+*G MB  220301024 220301024  00650  00703                    % 00082 TIC---
+*A VE 220301024 220301024 000282  00650  00703              % 00082 TIC---
+*I FD 220301024 220301024        0000014  00650  00703      % 00082 TIC---
+220301024 Dudelange, Gemeng            00650                % 00082 TIC---
+220301079 Dudelange, Fohrmann   00651  00651                % 00082 TIC---
+220301033 Dudelange, Rue Antoi  00652  00652                % 00082 TIC---
+220301004 Dudelange, Rue Belai  00653  00653                % 00082 TIC---
+220301032 Dudelange, Kräizbier  00654  00654                % 00082 TIC---
+220301072 Dudelange, Mayrisch   00655  00655                % 00082 TIC---
+220301063 Dudelange, Lenkeschl  00655  00655                % 00082 TIC---
+220301057 Dudelange, Waldschou  00656  00656                % 00082 TIC---
+220301088 Dudelange, Rue Nic B  00657  00657                % 00082 TIC---
+220301089 Dudelange, Rue Léon   00658  00658                % 00082 TIC---
+220301034 Dudelange, Lycée Nic  00659  00659                % 00082 TIC---
+220301009 Dudelange, Breininge  00700  00700                % 00082 TIC---
+220301078 Dudelange, Square Ma  00701  00701                % 00082 TIC---
+220301022 Dudelange, Gare       00701  00701                % 00082 TIC---
+220301024 Dudelange, Gemeng     00703                       % 00082 TIC---
+*Z 00083 TIC---                                             % 00083 TIC---
+*L 10       220301024 220301024  00720  00733               % 00083 TIC---
+*R 1 220301024 220301024 220301024  00720  00733            % 00083 TIC---
+*G MB  220301024 220301024  00720  00733                    % 00083 TIC---
+*A VE 220301024 220301024 000282  00720  00733              % 00083 TIC---
+*I FD 220301024 220301024        0000015  00720  00733      % 00083 TIC---
+220301024 Dudelange, Gemeng            00720                % 00083 TIC---
+220301079 Dudelange, Fohrmann   00721  00721                % 00083 TIC---
+220301033 Dudelange, Rue Antoi  00722  00722                % 00083 TIC---
+220301004 Dudelange, Rue Belai  00723  00723                % 00083 TIC---
+220301032 Dudelange, Kräizbier  00724  00724                % 00083 TIC---
+220301072 Dudelange, Mayrisch   00725  00725                % 00083 TIC---
+220301063 Dudelange, Lenkeschl  00725  00725                % 00083 TIC---
+220301057 Dudelange, Waldschou  00726  00726                % 00083 TIC---
+220301088 Dudelange, Rue Nic B  00727  00727                % 00083 TIC---
+220301089 Dudelange, Rue Léon   00728  00728                % 00083 TIC---
+220301034 Dudelange, Lycée Nic  00729  00729                % 00083 TIC---
+220301009 Dudelange, Breininge  00730  00730                % 00083 TIC---
+220301078 Dudelange, Square Ma  00731  00731                % 00083 TIC---
+220301022 Dudelange, Gare       00731  00731                % 00083 TIC---
+220301024 Dudelange, Gemeng     00733                       % 00083 TIC---
+*Z 00084 TIC---                                             % 00084 TIC---
+*L 10       220301024 220301024  00750  00803               % 00084 TIC---
+*R 1 220301024 220301024 220301024  00750  00803            % 00084 TIC---
+*G MB  220301024 220301024  00750  00803                    % 00084 TIC---
+*A VE 220301024 220301024 000282  00750  00803              % 00084 TIC---
+*I FD 220301024 220301024        0000016  00750  00803      % 00084 TIC---
+220301024 Dudelange, Gemeng            00750                % 00084 TIC---
+220301079 Dudelange, Fohrmann   00751  00751                % 00084 TIC---
+220301033 Dudelange, Rue Antoi  00752  00752                % 00084 TIC---
+220301004 Dudelange, Rue Belai  00753  00753                % 00084 TIC---
+220301032 Dudelange, Kräizbier  00754  00754                % 00084 TIC---
+220301072 Dudelange, Mayrisch   00755  00755                % 00084 TIC---
+220301063 Dudelange, Lenkeschl  00755  00755                % 00084 TIC---
+220301057 Dudelange, Waldschou  00756  00756                % 00084 TIC---
+220301088 Dudelange, Rue Nic B  00757  00757                % 00084 TIC---
+220301089 Dudelange, Rue Léon   00758  00758                % 00084 TIC---
+220301034 Dudelange, Lycée Nic  00759  00759                % 00084 TIC---
+220301009 Dudelange, Breininge  00800  00800                % 00084 TIC---
+220301078 Dudelange, Square Ma  00801  00801                % 00084 TIC---
+220301022 Dudelange, Gare       00801  00801                % 00084 TIC---
+220301024 Dudelange, Gemeng     00803                       % 00084 TIC---
+*Z 00085 TIC---                                             % 00085 TIC---
+*L 10       220301024 220301024  00820  00833               % 00085 TIC---
+*R 1 220301024 220301024 220301024  00820  00833            % 00085 TIC---
+*G MB  220301024 220301024  00820  00833                    % 00085 TIC---
+*A VE 220301024 220301024 000282  00820  00833              % 00085 TIC---
+*I FD 220301024 220301024        0000017  00820  00833      % 00085 TIC---
+220301024 Dudelange, Gemeng            00820                % 00085 TIC---
+220301079 Dudelange, Fohrmann   00821  00821                % 00085 TIC---
+220301033 Dudelange, Rue Antoi  00822  00822                % 00085 TIC---
+220301004 Dudelange, Rue Belai  00823  00823                % 00085 TIC---
+220301032 Dudelange, Kräizbier  00824  00824                % 00085 TIC---
+220301072 Dudelange, Mayrisch   00825  00825                % 00085 TIC---
+220301063 Dudelange, Lenkeschl  00825  00825                % 00085 TIC---
+220301057 Dudelange, Waldschou  00826  00826                % 00085 TIC---
+220301088 Dudelange, Rue Nic B  00827  00827                % 00085 TIC---
+220301089 Dudelange, Rue Léon   00828  00828                % 00085 TIC---
+220301034 Dudelange, Lycée Nic  00829  00829                % 00085 TIC---
+220301009 Dudelange, Breininge  00830  00830                % 00085 TIC---
+220301078 Dudelange, Square Ma  00831  00831                % 00085 TIC---
+220301022 Dudelange, Gare       00831  00831                % 00085 TIC---
+220301024 Dudelange, Gemeng     00833                       % 00085 TIC---
+*Z 00086 TIC---                                             % 00086 TIC---
+*L 10       220301024 220301024  00850  00903               % 00086 TIC---
+*R 1 220301024 220301024 220301024  00850  00903            % 00086 TIC---
+*G MB  220301024 220301024  00850  00903                    % 00086 TIC---
+*A VE 220301024 220301024 000282  00850  00903              % 00086 TIC---
+*I FD 220301024 220301024        0000018  00850  00903      % 00086 TIC---
+220301024 Dudelange, Gemeng            00850                % 00086 TIC---
+220301079 Dudelange, Fohrmann   00851  00851                % 00086 TIC---
+220301033 Dudelange, Rue Antoi  00852  00852                % 00086 TIC---
+220301004 Dudelange, Rue Belai  00853  00853                % 00086 TIC---
+220301032 Dudelange, Kräizbier  00854  00854                % 00086 TIC---
+220301072 Dudelange, Mayrisch   00855  00855                % 00086 TIC---
+220301063 Dudelange, Lenkeschl  00855  00855                % 00086 TIC---
+220301057 Dudelange, Waldschou  00856  00856                % 00086 TIC---
+220301088 Dudelange, Rue Nic B  00857  00857                % 00086 TIC---
+220301089 Dudelange, Rue Léon   00858  00858                % 00086 TIC---
+220301034 Dudelange, Lycée Nic  00859  00859                % 00086 TIC---
+220301009 Dudelange, Breininge  00900  00900                % 00086 TIC---
+220301078 Dudelange, Square Ma  00901  00901                % 00086 TIC---
+220301022 Dudelange, Gare       00901  00901                % 00086 TIC---
+220301024 Dudelange, Gemeng     00903                       % 00086 TIC---
+*Z 00087 TIC---                                             % 00087 TIC---
+*L 10       220301024 220301024  00920  00933               % 00087 TIC---
+*R 1 220301024 220301024 220301024  00920  00933            % 00087 TIC---
+*G MB  220301024 220301024  00920  00933                    % 00087 TIC---
+*A VE 220301024 220301024 000282  00920  00933              % 00087 TIC---
+*I FD 220301024 220301024        0000019  00920  00933      % 00087 TIC---
+220301024 Dudelange, Gemeng            00920                % 00087 TIC---
+220301079 Dudelange, Fohrmann   00921  00921                % 00087 TIC---
+220301033 Dudelange, Rue Antoi  00922  00922                % 00087 TIC---
+220301004 Dudelange, Rue Belai  00923  00923                % 00087 TIC---
+220301032 Dudelange, Kräizbier  00924  00924                % 00087 TIC---
+220301072 Dudelange, Mayrisch   00925  00925                % 00087 TIC---
+220301063 Dudelange, Lenkeschl  00925  00925                % 00087 TIC---
+220301057 Dudelange, Waldschou  00926  00926                % 00087 TIC---
+220301088 Dudelange, Rue Nic B  00927  00927                % 00087 TIC---
+220301089 Dudelange, Rue Léon   00928  00928                % 00087 TIC---
+220301034 Dudelange, Lycée Nic  00929  00929                % 00087 TIC---
+220301009 Dudelange, Breininge  00930  00930                % 00087 TIC---
+220301078 Dudelange, Square Ma  00931  00931                % 00087 TIC---
+220301022 Dudelange, Gare       00931  00931                % 00087 TIC---
+220301024 Dudelange, Gemeng     00933                       % 00087 TIC---
+*Z 00088 TIC---                                             % 00088 TIC---
+*L 10       220301024 220301024  01020  01033               % 00088 TIC---
+*R 1 220301024 220301024 220301024  01020  01033            % 00088 TIC---
+*G MB  220301024 220301024  01020  01033                    % 00088 TIC---
+*A VE 220301024 220301024 000282  01020  01033              % 00088 TIC---
+*I FD 220301024 220301024        0000020  01020  01033      % 00088 TIC---
+220301024 Dudelange, Gemeng            01020                % 00088 TIC---
+220301079 Dudelange, Fohrmann   01021  01021                % 00088 TIC---
+220301033 Dudelange, Rue Antoi  01022  01022                % 00088 TIC---
+220301004 Dudelange, Rue Belai  01023  01023                % 00088 TIC---
+220301032 Dudelange, Kräizbier  01024  01024                % 00088 TIC---
+220301072 Dudelange, Mayrisch   01025  01025                % 00088 TIC---
+220301063 Dudelange, Lenkeschl  01025  01025                % 00088 TIC---
+220301057 Dudelange, Waldschou  01026  01026                % 00088 TIC---
+220301088 Dudelange, Rue Nic B  01027  01027                % 00088 TIC---
+220301089 Dudelange, Rue Léon   01028  01028                % 00088 TIC---
+220301034 Dudelange, Lycée Nic  01029  01029                % 00088 TIC---
+220301009 Dudelange, Breininge  01030  01030                % 00088 TIC---
+220301078 Dudelange, Square Ma  01031  01031                % 00088 TIC---
+220301022 Dudelange, Gare       01031  01031                % 00088 TIC---
+220301024 Dudelange, Gemeng     01033                       % 00088 TIC---
+*Z 00089 TIC---                                             % 00089 TIC---
+*L 10       220301024 220301024  01120  01133               % 00089 TIC---
+*R 1 220301024 220301024 220301024  01120  01133            % 00089 TIC---
+*G MB  220301024 220301024  01120  01133                    % 00089 TIC---
+*A VE 220301024 220301024 000282  01120  01133              % 00089 TIC---
+*I FD 220301024 220301024        0000021  01120  01133      % 00089 TIC---
+220301024 Dudelange, Gemeng            01120                % 00089 TIC---
+220301079 Dudelange, Fohrmann   01121  01121                % 00089 TIC---
+220301033 Dudelange, Rue Antoi  01122  01122                % 00089 TIC---
+220301004 Dudelange, Rue Belai  01123  01123                % 00089 TIC---
+220301032 Dudelange, Kräizbier  01124  01124                % 00089 TIC---
+220301072 Dudelange, Mayrisch   01125  01125                % 00089 TIC---
+220301063 Dudelange, Lenkeschl  01125  01125                % 00089 TIC---
+220301057 Dudelange, Waldschou  01126  01126                % 00089 TIC---
+220301088 Dudelange, Rue Nic B  01127  01127                % 00089 TIC---
+220301089 Dudelange, Rue Léon   01128  01128                % 00089 TIC---
+220301034 Dudelange, Lycée Nic  01129  01129                % 00089 TIC---
+220301009 Dudelange, Breininge  01130  01130                % 00089 TIC---
+220301078 Dudelange, Square Ma  01131  01131                % 00089 TIC---
+220301022 Dudelange, Gare       01131  01131                % 00089 TIC---
+220301024 Dudelange, Gemeng     01133                       % 00089 TIC---
+*Z 00090 TIC---                                             % 00090 TIC---
+*L 10       220301024 220301024  01220  01233               % 00090 TIC---
+*R 1 220301024 220301024 220301024  01220  01233            % 00090 TIC---
+*G MB  220301024 220301024  01220  01233                    % 00090 TIC---
+*A VE 220301024 220301024 000282  01220  01233              % 00090 TIC---
+*I FD 220301024 220301024        0000022  01220  01233      % 00090 TIC---
+220301024 Dudelange, Gemeng            01220                % 00090 TIC---
+220301079 Dudelange, Fohrmann   01221  01221                % 00090 TIC---
+220301033 Dudelange, Rue Antoi  01222  01222                % 00090 TIC---
+220301004 Dudelange, Rue Belai  01223  01223                % 00090 TIC---
+220301032 Dudelange, Kräizbier  01224  01224                % 00090 TIC---
+220301072 Dudelange, Mayrisch   01225  01225                % 00090 TIC---
+220301063 Dudelange, Lenkeschl  01225  01225                % 00090 TIC---
+220301057 Dudelange, Waldschou  01226  01226                % 00090 TIC---
+220301088 Dudelange, Rue Nic B  01227  01227                % 00090 TIC---
+220301089 Dudelange, Rue Léon   01228  01228                % 00090 TIC---
+220301034 Dudelange, Lycée Nic  01229  01229                % 00090 TIC---
+220301009 Dudelange, Breininge  01230  01230                % 00090 TIC---
+220301078 Dudelange, Square Ma  01231  01231                % 00090 TIC---
+220301022 Dudelange, Gare       01231  01231                % 00090 TIC---
+220301024 Dudelange, Gemeng     01233                       % 00090 TIC---
+*Z 00091 TIC---                                             % 00091 TIC---
+*L 10       220301024 220301024  01320  01333               % 00091 TIC---
+*R 1 220301024 220301024 220301024  01320  01333            % 00091 TIC---
+*G MB  220301024 220301024  01320  01333                    % 00091 TIC---
+*A VE 220301024 220301024 000282  01320  01333              % 00091 TIC---
+*I FD 220301024 220301024        0000023  01320  01333      % 00091 TIC---
+220301024 Dudelange, Gemeng            01320                % 00091 TIC---
+220301079 Dudelange, Fohrmann   01321  01321                % 00091 TIC---
+220301033 Dudelange, Rue Antoi  01322  01322                % 00091 TIC---
+220301004 Dudelange, Rue Belai  01323  01323                % 00091 TIC---
+220301032 Dudelange, Kräizbier  01324  01324                % 00091 TIC---
+220301072 Dudelange, Mayrisch   01325  01325                % 00091 TIC---
+220301063 Dudelange, Lenkeschl  01325  01325                % 00091 TIC---
+220301057 Dudelange, Waldschou  01326  01326                % 00091 TIC---
+220301088 Dudelange, Rue Nic B  01327  01327                % 00091 TIC---
+220301089 Dudelange, Rue Léon   01328  01328                % 00091 TIC---
+220301034 Dudelange, Lycée Nic  01329  01329                % 00091 TIC---
+220301009 Dudelange, Breininge  01330  01330                % 00091 TIC---
+220301078 Dudelange, Square Ma  01331  01331                % 00091 TIC---
+220301022 Dudelange, Gare       01331  01331                % 00091 TIC---
+220301024 Dudelange, Gemeng     01333                       % 00091 TIC---
+*Z 00092 TIC---                                             % 00092 TIC---
+*L 10       220301024 220301024  01420  01433               % 00092 TIC---
+*R 1 220301024 220301024 220301024  01420  01433            % 00092 TIC---
+*G MB  220301024 220301024  01420  01433                    % 00092 TIC---
+*A VE 220301024 220301024 000282  01420  01433              % 00092 TIC---
+*I FD 220301024 220301024        0000024  01420  01433      % 00092 TIC---
+220301024 Dudelange, Gemeng            01420                % 00092 TIC---
+220301079 Dudelange, Fohrmann   01421  01421                % 00092 TIC---
+220301033 Dudelange, Rue Antoi  01422  01422                % 00092 TIC---
+220301004 Dudelange, Rue Belai  01423  01423                % 00092 TIC---
+220301032 Dudelange, Kräizbier  01424  01424                % 00092 TIC---
+220301072 Dudelange, Mayrisch   01425  01425                % 00092 TIC---
+220301063 Dudelange, Lenkeschl  01425  01425                % 00092 TIC---
+220301057 Dudelange, Waldschou  01426  01426                % 00092 TIC---
+220301088 Dudelange, Rue Nic B  01427  01427                % 00092 TIC---
+220301089 Dudelange, Rue Léon   01428  01428                % 00092 TIC---
+220301034 Dudelange, Lycée Nic  01429  01429                % 00092 TIC---
+220301009 Dudelange, Breininge  01430  01430                % 00092 TIC---
+220301078 Dudelange, Square Ma  01431  01431                % 00092 TIC---
+220301022 Dudelange, Gare       01431  01431                % 00092 TIC---
+220301024 Dudelange, Gemeng     01433                       % 00092 TIC---
+*Z 00093 TIC---                                             % 00093 TIC---
+*L 10       220301024 220301024  01520  01533               % 00093 TIC---
+*R 1 220301024 220301024 220301024  01520  01533            % 00093 TIC---
+*G MB  220301024 220301024  01520  01533                    % 00093 TIC---
+*A VE 220301024 220301024 000282  01520  01533              % 00093 TIC---
+*I FD 220301024 220301024        0000025  01520  01533      % 00093 TIC---
+220301024 Dudelange, Gemeng            01520                % 00093 TIC---
+220301079 Dudelange, Fohrmann   01521  01521                % 00093 TIC---
+220301033 Dudelange, Rue Antoi  01522  01522                % 00093 TIC---
+220301004 Dudelange, Rue Belai  01523  01523                % 00093 TIC---
+220301032 Dudelange, Kräizbier  01524  01524                % 00093 TIC---
+220301072 Dudelange, Mayrisch   01525  01525                % 00093 TIC---
+220301063 Dudelange, Lenkeschl  01525  01525                % 00093 TIC---
+220301057 Dudelange, Waldschou  01526  01526                % 00093 TIC---
+220301088 Dudelange, Rue Nic B  01527  01527                % 00093 TIC---
+220301089 Dudelange, Rue Léon   01528  01528                % 00093 TIC---
+220301034 Dudelange, Lycée Nic  01529  01529                % 00093 TIC---
+220301009 Dudelange, Breininge  01530  01530                % 00093 TIC---
+220301078 Dudelange, Square Ma  01531  01531                % 00093 TIC---
+220301022 Dudelange, Gare       01531  01531                % 00093 TIC---
+220301024 Dudelange, Gemeng     01533                       % 00093 TIC---
+*Z 00094 TIC---                                             % 00094 TIC---
+*L 10       220301024 220301024  01620  01633               % 00094 TIC---
+*R 1 220301024 220301024 220301024  01620  01633            % 00094 TIC---
+*G MB  220301024 220301024  01620  01633                    % 00094 TIC---
+*A VE 220301024 220301024 000282  01620  01633              % 00094 TIC---
+*I FD 220301024 220301024        0000026  01620  01633      % 00094 TIC---
+220301024 Dudelange, Gemeng            01620                % 00094 TIC---
+220301079 Dudelange, Fohrmann   01621  01621                % 00094 TIC---
+220301033 Dudelange, Rue Antoi  01622  01622                % 00094 TIC---
+220301004 Dudelange, Rue Belai  01623  01623                % 00094 TIC---
+220301032 Dudelange, Kräizbier  01624  01624                % 00094 TIC---
+220301072 Dudelange, Mayrisch   01625  01625                % 00094 TIC---
+220301063 Dudelange, Lenkeschl  01625  01625                % 00094 TIC---
+220301057 Dudelange, Waldschou  01626  01626                % 00094 TIC---
+220301088 Dudelange, Rue Nic B  01627  01627                % 00094 TIC---
+220301089 Dudelange, Rue Léon   01628  01628                % 00094 TIC---
+220301034 Dudelange, Lycée Nic  01629  01629                % 00094 TIC---
+220301009 Dudelange, Breininge  01630  01630                % 00094 TIC---
+220301078 Dudelange, Square Ma  01631  01631                % 00094 TIC---
+220301022 Dudelange, Gare       01631  01631                % 00094 TIC---
+220301024 Dudelange, Gemeng     01633                       % 00094 TIC---
+*Z 00095 TIC---                                             % 00095 TIC---
+*L 10       220301024 220301024  01720  01733               % 00095 TIC---
+*R 1 220301024 220301024 220301024  01720  01733            % 00095 TIC---
+*G MB  220301024 220301024  01720  01733                    % 00095 TIC---
+*A VE 220301024 220301024 000282  01720  01733              % 00095 TIC---
+*I FD 220301024 220301024        0000027  01720  01733      % 00095 TIC---
+220301024 Dudelange, Gemeng            01720                % 00095 TIC---
+220301079 Dudelange, Fohrmann   01721  01721                % 00095 TIC---
+220301033 Dudelange, Rue Antoi  01722  01722                % 00095 TIC---
+220301004 Dudelange, Rue Belai  01723  01723                % 00095 TIC---
+220301032 Dudelange, Kräizbier  01724  01724                % 00095 TIC---
+220301072 Dudelange, Mayrisch   01725  01725                % 00095 TIC---
+220301063 Dudelange, Lenkeschl  01725  01725                % 00095 TIC---
+220301057 Dudelange, Waldschou  01726  01726                % 00095 TIC---
+220301088 Dudelange, Rue Nic B  01727  01727                % 00095 TIC---
+220301089 Dudelange, Rue Léon   01728  01728                % 00095 TIC---
+220301034 Dudelange, Lycée Nic  01729  01729                % 00095 TIC---
+220301009 Dudelange, Breininge  01730  01730                % 00095 TIC---
+220301078 Dudelange, Square Ma  01731  01731                % 00095 TIC---
+220301022 Dudelange, Gare       01731  01731                % 00095 TIC---
+220301024 Dudelange, Gemeng     01733                       % 00095 TIC---
+*Z 00096 TIC---                                             % 00096 TIC---
+*L 10       220301024 220301024  01820  01833               % 00096 TIC---
+*R 1 220301024 220301024 220301024  01820  01833            % 00096 TIC---
+*G MB  220301024 220301024  01820  01833                    % 00096 TIC---
+*A VE 220301024 220301024 000282  01820  01833              % 00096 TIC---
+*I FD 220301024 220301024        0000028  01820  01833      % 00096 TIC---
+220301024 Dudelange, Gemeng            01820                % 00096 TIC---
+220301079 Dudelange, Fohrmann   01821  01821                % 00096 TIC---
+220301033 Dudelange, Rue Antoi  01822  01822                % 00096 TIC---
+220301004 Dudelange, Rue Belai  01823  01823                % 00096 TIC---
+220301032 Dudelange, Kräizbier  01824  01824                % 00096 TIC---
+220301072 Dudelange, Mayrisch   01825  01825                % 00096 TIC---
+220301063 Dudelange, Lenkeschl  01825  01825                % 00096 TIC---
+220301057 Dudelange, Waldschou  01826  01826                % 00096 TIC---
+220301088 Dudelange, Rue Nic B  01827  01827                % 00096 TIC---
+220301089 Dudelange, Rue Léon   01828  01828                % 00096 TIC---
+220301034 Dudelange, Lycée Nic  01829  01829                % 00096 TIC---
+220301009 Dudelange, Breininge  01830  01830                % 00096 TIC---
+220301078 Dudelange, Square Ma  01831  01831                % 00096 TIC---
+220301022 Dudelange, Gare       01831  01831                % 00096 TIC---
+220301024 Dudelange, Gemeng     01833                       % 00096 TIC---
+*Z 00097 TIC---                                             % 00097 TIC---
+*L 10       220301024 220301024  01920  01933               % 00097 TIC---
+*R 1 220301024 220301024 220301024  01920  01933            % 00097 TIC---
+*G MB  220301024 220301024  01920  01933                    % 00097 TIC---
+*A VE 220301024 220301024 000282  01920  01933              % 00097 TIC---
+*I FD 220301024 220301024        0000029  01920  01933      % 00097 TIC---
+220301024 Dudelange, Gemeng            01920                % 00097 TIC---
+220301079 Dudelange, Fohrmann   01921  01921                % 00097 TIC---
+220301033 Dudelange, Rue Antoi  01922  01922                % 00097 TIC---
+220301004 Dudelange, Rue Belai  01923  01923                % 00097 TIC---
+220301032 Dudelange, Kräizbier  01924  01924                % 00097 TIC---
+220301072 Dudelange, Mayrisch   01925  01925                % 00097 TIC---
+220301063 Dudelange, Lenkeschl  01925  01925                % 00097 TIC---
+220301057 Dudelange, Waldschou  01926  01926                % 00097 TIC---
+220301088 Dudelange, Rue Nic B  01927  01927                % 00097 TIC---
+220301089 Dudelange, Rue Léon   01928  01928                % 00097 TIC---
+220301034 Dudelange, Lycée Nic  01929  01929                % 00097 TIC---
+220301009 Dudelange, Breininge  01930  01930                % 00097 TIC---
+220301078 Dudelange, Square Ma  01931  01931                % 00097 TIC---
+220301022 Dudelange, Gare       01931  01931                % 00097 TIC---
+220301024 Dudelange, Gemeng     01933                       % 00097 TIC---
+*Z 00098 TIC---                                             % 00098 TIC---
+*L 10       220301024 220301024  01950  02003               % 00098 TIC---
+*R 1 220301024 220301024 220301024  01950  02003            % 00098 TIC---
+*G MB  220301024 220301024  01950  02003                    % 00098 TIC---
+*A VE 220301024 220301024 000282  01950  02003              % 00098 TIC---
+*I FD 220301024 220301024        0000030  01950  02003      % 00098 TIC---
+220301024 Dudelange, Gemeng            01950                % 00098 TIC---
+220301079 Dudelange, Fohrmann   01951  01951                % 00098 TIC---
+220301033 Dudelange, Rue Antoi  01952  01952                % 00098 TIC---
+220301004 Dudelange, Rue Belai  01953  01953                % 00098 TIC---
+220301032 Dudelange, Kräizbier  01954  01954                % 00098 TIC---
+220301072 Dudelange, Mayrisch   01955  01955                % 00098 TIC---
+220301063 Dudelange, Lenkeschl  01955  01955                % 00098 TIC---
+220301057 Dudelange, Waldschou  01956  01956                % 00098 TIC---
+220301088 Dudelange, Rue Nic B  01957  01957                % 00098 TIC---
+220301089 Dudelange, Rue Léon   01958  01958                % 00098 TIC---
+220301034 Dudelange, Lycée Nic  01959  01959                % 00098 TIC---
+220301009 Dudelange, Breininge  02000  02000                % 00098 TIC---
+220301078 Dudelange, Square Ma  02001  02001                % 00098 TIC---
+220301022 Dudelange, Gare       02001  02001                % 00098 TIC---
+220301024 Dudelange, Gemeng     02003                       % 00098 TIC---
+*Z 00099 TIC---                                             % 00099 TIC---
+*L 10       220301024 220301024  02050  02103               % 00099 TIC---
+*R 1 220301024 220301024 220301024  02050  02103            % 00099 TIC---
+*G MB  220301024 220301024  02050  02103                    % 00099 TIC---
+*A VE 220301024 220301024 000282  02050  02103              % 00099 TIC---
+*I FD 220301024 220301024        0000031  02050  02103      % 00099 TIC---
+220301024 Dudelange, Gemeng            02050                % 00099 TIC---
+220301079 Dudelange, Fohrmann   02051  02051                % 00099 TIC---
+220301033 Dudelange, Rue Antoi  02052  02052                % 00099 TIC---
+220301004 Dudelange, Rue Belai  02053  02053                % 00099 TIC---
+220301032 Dudelange, Kräizbier  02054  02054                % 00099 TIC---
+220301072 Dudelange, Mayrisch   02055  02055                % 00099 TIC---
+220301063 Dudelange, Lenkeschl  02055  02055                % 00099 TIC---
+220301057 Dudelange, Waldschou  02056  02056                % 00099 TIC---
+220301088 Dudelange, Rue Nic B  02057  02057                % 00099 TIC---
+220301089 Dudelange, Rue Léon   02058  02058                % 00099 TIC---
+220301034 Dudelange, Lycée Nic  02059  02059                % 00099 TIC---
+220301009 Dudelange, Breininge  02100  02100                % 00099 TIC---
+220301078 Dudelange, Square Ma  02101  02101                % 00099 TIC---
+220301022 Dudelange, Gare       02101  02101                % 00099 TIC---
+220301024 Dudelange, Gemeng     02103                       % 00099 TIC---
+*Z 00100 TIC---                                             % 00100 TIC---
+*L 10       220301024 220301024  02150  02203               % 00100 TIC---
+*R 1 220301024 220301024 220301024  02150  02203            % 00100 TIC---
+*G MB  220301024 220301024  02150  02203                    % 00100 TIC---
+*A VE 220301024 220301024 000282  02150  02203              % 00100 TIC---
+*I FD 220301024 220301024        0000032  02150  02203      % 00100 TIC---
+220301024 Dudelange, Gemeng            02150                % 00100 TIC---
+220301079 Dudelange, Fohrmann   02151  02151                % 00100 TIC---
+220301033 Dudelange, Rue Antoi  02152  02152                % 00100 TIC---
+220301004 Dudelange, Rue Belai  02153  02153                % 00100 TIC---
+220301032 Dudelange, Kräizbier  02154  02154                % 00100 TIC---
+220301072 Dudelange, Mayrisch   02155  02155                % 00100 TIC---
+220301063 Dudelange, Lenkeschl  02155  02155                % 00100 TIC---
+220301057 Dudelange, Waldschou  02156  02156                % 00100 TIC---
+220301088 Dudelange, Rue Nic B  02157  02157                % 00100 TIC---
+220301089 Dudelange, Rue Léon   02158  02158                % 00100 TIC---
+220301034 Dudelange, Lycée Nic  02159  02159                % 00100 TIC---
+220301009 Dudelange, Breininge  02200  02200                % 00100 TIC---
+220301078 Dudelange, Square Ma  02201  02201                % 00100 TIC---
+220301022 Dudelange, Gare       02201  02201                % 00100 TIC---
+220301024 Dudelange, Gemeng     02203                       % 00100 TIC---
+*Z 00101 TIC---                                             % 00101 TIC---
+*L 10       220301024 220301024  02250  02303               % 00101 TIC---
+*R 1 220301024 220301024 220301024  02250  02303            % 00101 TIC---
+*G MB  220301024 220301024  02250  02303                    % 00101 TIC---
+*A VE 220301024 220301024 000282  02250  02303              % 00101 TIC---
+*I FD 220301024 220301024        0000033  02250  02303      % 00101 TIC---
+220301024 Dudelange, Gemeng            02250                % 00101 TIC---
+220301079 Dudelange, Fohrmann   02251  02251                % 00101 TIC---
+220301033 Dudelange, Rue Antoi  02252  02252                % 00101 TIC---
+220301004 Dudelange, Rue Belai  02253  02253                % 00101 TIC---
+220301032 Dudelange, Kräizbier  02254  02254                % 00101 TIC---
+220301072 Dudelange, Mayrisch   02255  02255                % 00101 TIC---
+220301063 Dudelange, Lenkeschl  02255  02255                % 00101 TIC---
+220301057 Dudelange, Waldschou  02256  02256                % 00101 TIC---
+220301088 Dudelange, Rue Nic B  02257  02257                % 00101 TIC---
+220301089 Dudelange, Rue Léon   02258  02258                % 00101 TIC---
+220301034 Dudelange, Lycée Nic  02259  02259                % 00101 TIC---
+220301009 Dudelange, Breininge  02300  02300                % 00101 TIC---
+220301078 Dudelange, Square Ma  02301  02301                % 00101 TIC---
+220301022 Dudelange, Gare       02301  02301                % 00101 TIC---
+220301024 Dudelange, Gemeng     02303                       % 00101 TIC---
+*Z 00102 TIC---                                             % 00102 TIC---
+*L 10       220301024 220301024  02350  02403               % 00102 TIC---
+*R 1 220301024 220301024 220301024  02350  02403            % 00102 TIC---
+*G MB  220301024 220301024  02350  02403                    % 00102 TIC---
+*A VE 220301024 220301024 000282  02350  02403              % 00102 TIC---
+*I FD 220301024 220301024        0000034  02350  02403      % 00102 TIC---
+220301024 Dudelange, Gemeng            02350                % 00102 TIC---
+220301079 Dudelange, Fohrmann   02351  02351                % 00102 TIC---
+220301033 Dudelange, Rue Antoi  02352  02352                % 00102 TIC---
+220301004 Dudelange, Rue Belai  02353  02353                % 00102 TIC---
+220301032 Dudelange, Kräizbier  02354  02354                % 00102 TIC---
+220301072 Dudelange, Mayrisch   02355  02355                % 00102 TIC---
+220301063 Dudelange, Lenkeschl  02355  02355                % 00102 TIC---
+220301057 Dudelange, Waldschou  02356  02356                % 00102 TIC---
+220301088 Dudelange, Rue Nic B  02357  02357                % 00102 TIC---
+220301089 Dudelange, Rue Léon   02358  02358                % 00102 TIC---
+220301034 Dudelange, Lycée Nic  02359  02359                % 00102 TIC---
+220301009 Dudelange, Breininge  02400  02400                % 00102 TIC---
+220301078 Dudelange, Square Ma  02401  02401                % 00102 TIC---
+220301022 Dudelange, Gare       02401  02401                % 00102 TIC---
+220301024 Dudelange, Gemeng     02403                       % 00102 TIC---

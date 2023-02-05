@@ -1,0 +1,1551 @@
+*F 03 2
+*Z 02267 AVL---       001 048                               % 02267 AVL---
+*L 13       200412011 200405008  00445  00510               % 02267 AVL---
+*A BE 200412011 200405008 000034  00445  00510              % 02267 AVL---
+*R 1 200405008 200412011 200405008  00445  00510            % 02267 AVL---
+*G STE 200412011 200405008  00445  00510                    % 02267 AVL---
+*A VE 200412011 200405008 000034  00445  00510              % 02267 AVL---
+200412011 Gasperich, Klensch           00445                % 02267 AVL---
+200412001 Gasperich, Al Gaaspe  00445  00445                % 02267 AVL---
+200412003 Gasperich, Bei der A  00446  00446                % 02267 AVL---
+200412005 Gasperich, Clemencea  00447  00447                % 02267 AVL---
+200412016 Gasperich, Richard W  00448  00448                % 02267 AVL---
+200412020 Gasperich, Millewee   00449  00449                % 02267 AVL---
+200412007 Gasperich, Déportati  00450  00450                % 02267 AVL---
+200405003 Centre, Alsace        00451  00451                % 02267 AVL---
+200405036 Luxembourg, Gare Cen  00454  00454                % 02267 AVL---
+200405001 Gare, Al Avenue       00456  00456                % 02267 AVL---
+200405013 Centre, F.D. Rooseve  00458  00458                % 02267 AVL---
+200405025 Luxembourg/Centre, M  00501  00501                % 02267 AVL---
+200403020 Belair, Wampach       00502  00502                % 02267 AVL---
+200403005 Belair, Sacré-Coeur   00504  00504                % 02267 AVL---
+200403010 Belair, Kierch        00505  00505                % 02267 AVL---
+200403012 Belair, Oradour       00506  00506                % 02267 AVL---
+200420007 Merl, Kiirfecht       00506  00506                % 02267 AVL---
+200403019 Belair, Val Ste Croi  00507  00507                % 02267 AVL---
+200403003 Belair, Aubépines     00508  00508                % 02267 AVL---
+200403009 Belair, Kannerklinic  00509  00509                % 02267 AVL---
+200405008 Luxembourg, Centre H  00510                       % 02267 AVL---
+*Z 02268 AVL---                                             % 02268 AVL---
+*L 13       200407005 200405008  01947  02019               % 02268 AVL---
+*A BE 200407005 200405008 000017  01947  02019              % 02268 AVL---
+*R 1 200405008 200407005 200405008  01947  02019            % 02268 AVL---
+*G STE 200407005 200405008  01947  02019                    % 02268 AVL---
+*A VE 200407005 200405008 000017  01947  02019              % 02268 AVL---
+200407005 Cessange, Boy Konen          01947                % 02268 AVL---
+200407010 Cessange, Rue de Leu  01948  01948                % 02268 AVL---
+200407002 Cessange, Antoine     01949  01949                % 02268 AVL---
+200407012 Cessange, Tubishaff   01950  01950                % 02268 AVL---
+200407009 Cessange, Kuelebierg  01951  01951                % 02268 AVL---
+200407011 Cessange, Rue Verte   01952  01952                % 02268 AVL---
+200412013 Gasperich, Louis de   01953  01953                % 02268 AVL---
+200412011 Gasperich, Klensch    01954  01954                % 02268 AVL---
+200412001 Gasperich, Al Gaaspe  01954  01954                % 02268 AVL---
+200412003 Gasperich, Bei der A  01955  01955                % 02268 AVL---
+200412005 Gasperich, Clemencea  01956  01956                % 02268 AVL---
+200412016 Gasperich, Richard W  01957  01957                % 02268 AVL---
+200412020 Gasperich, Millewee   01958  01958                % 02268 AVL---
+200412007 Gasperich, Déportati  01959  01959                % 02268 AVL---
+200405003 Centre, Alsace        02000  02000                % 02268 AVL---
+200405036 Luxembourg, Gare Cen  02003  02003                % 02268 AVL---
+200405001 Gare, Al Avenue       02005  02005                % 02268 AVL---
+200405013 Centre, F.D. Rooseve  02007  02007                % 02268 AVL---
+200405025 Luxembourg/Centre, M  02010  02010                % 02268 AVL---
+200403020 Belair, Wampach       02011  02011                % 02268 AVL---
+200403005 Belair, Sacré-Coeur   02013  02013                % 02268 AVL---
+200403010 Belair, Kierch        02014  02014                % 02268 AVL---
+200403012 Belair, Oradour       02015  02015                % 02268 AVL---
+200420007 Merl, Kiirfecht       02015  02015                % 02268 AVL---
+200403019 Belair, Val Ste Croi  02016  02016                % 02268 AVL---
+200403003 Belair, Aubépines     02017  02017                % 02268 AVL---
+200403009 Belair, Kannerklinic  02018  02018                % 02268 AVL---
+200405008 Luxembourg, Centre H  02019                       % 02268 AVL---
+*Z 02269 AVL---       001 900                               % 02269 AVL---
+*L 13       200407005 200405008  00508  00540               % 02269 AVL---
+*A BE 200407005 200405008 000040  00508  00540              % 02269 AVL---
+*R 1 200405008 200407005 200405008  00508  00540            % 02269 AVL---
+*G STE 200407005 200405008  00508  00540                    % 02269 AVL---
+*A VE 200407005 200405008 000040  00508  00540              % 02269 AVL---
+200407005 Cessange, Boy Konen          00508                % 02269 AVL---
+200407010 Cessange, Rue de Leu  00509  00509                % 02269 AVL---
+200407002 Cessange, Antoine     00510  00510                % 02269 AVL---
+200407012 Cessange, Tubishaff   00511  00511                % 02269 AVL---
+200407009 Cessange, Kuelebierg  00512  00512                % 02269 AVL---
+200407011 Cessange, Rue Verte   00513  00513                % 02269 AVL---
+200412013 Gasperich, Louis de   00514  00514                % 02269 AVL---
+200412011 Gasperich, Klensch    00515  00515                % 02269 AVL---
+200412001 Gasperich, Al Gaaspe  00515  00515                % 02269 AVL---
+200412003 Gasperich, Bei der A  00516  00516                % 02269 AVL---
+200412005 Gasperich, Clemencea  00517  00517                % 02269 AVL---
+200412016 Gasperich, Richard W  00518  00518                % 02269 AVL---
+200412020 Gasperich, Millewee   00519  00519                % 02269 AVL---
+200412007 Gasperich, Déportati  00520  00520                % 02269 AVL---
+200405003 Centre, Alsace        00521  00521                % 02269 AVL---
+200405036 Luxembourg, Gare Cen  00524  00524                % 02269 AVL---
+200405001 Gare, Al Avenue       00526  00526                % 02269 AVL---
+200405013 Centre, F.D. Rooseve  00528  00528                % 02269 AVL---
+200405025 Luxembourg/Centre, M  00531  00531                % 02269 AVL---
+200403020 Belair, Wampach       00532  00532                % 02269 AVL---
+200403005 Belair, Sacré-Coeur   00534  00534                % 02269 AVL---
+200403010 Belair, Kierch        00535  00535                % 02269 AVL---
+200403012 Belair, Oradour       00536  00536                % 02269 AVL---
+200420007 Merl, Kiirfecht       00536  00536                % 02269 AVL---
+200403019 Belair, Val Ste Croi  00537  00537                % 02269 AVL---
+200403003 Belair, Aubépines     00538  00538                % 02269 AVL---
+200403009 Belair, Kannerklinic  00539  00539                % 02269 AVL---
+200405008 Luxembourg, Centre H  00540                       % 02269 AVL---
+*Z 02270 AVL---       006 030                               % 02270 AVL---
+*L 13       200407005 200405008  02038  02110               % 02270 AVL---
+*A BE 200407005 200405008 000040  02038  02110              % 02270 AVL---
+*R 1 200405008 200407005 200405008  02038  02110            % 02270 AVL---
+*G STE 200407005 200405008  02038  02110                    % 02270 AVL---
+*A VE 200407005 200405008 000040  02038  02110              % 02270 AVL---
+200407005 Cessange, Boy Konen          02038                % 02270 AVL---
+200407010 Cessange, Rue de Leu  02039  02039                % 02270 AVL---
+200407002 Cessange, Antoine     02040  02040                % 02270 AVL---
+200407012 Cessange, Tubishaff   02041  02041                % 02270 AVL---
+200407009 Cessange, Kuelebierg  02042  02042                % 02270 AVL---
+200407011 Cessange, Rue Verte   02043  02043                % 02270 AVL---
+200412013 Gasperich, Louis de   02044  02044                % 02270 AVL---
+200412011 Gasperich, Klensch    02045  02045                % 02270 AVL---
+200412001 Gasperich, Al Gaaspe  02045  02045                % 02270 AVL---
+200412003 Gasperich, Bei der A  02046  02046                % 02270 AVL---
+200412005 Gasperich, Clemencea  02047  02047                % 02270 AVL---
+200412016 Gasperich, Richard W  02048  02048                % 02270 AVL---
+200412020 Gasperich, Millewee   02049  02049                % 02270 AVL---
+200412007 Gasperich, Déportati  02050  02050                % 02270 AVL---
+200405003 Centre, Alsace        02051  02051                % 02270 AVL---
+200405036 Luxembourg, Gare Cen  02054  02054                % 02270 AVL---
+200405001 Gare, Al Avenue       02056  02056                % 02270 AVL---
+200405013 Centre, F.D. Rooseve  02058  02058                % 02270 AVL---
+200405025 Luxembourg/Centre, M  02101  02101                % 02270 AVL---
+200403020 Belair, Wampach       02102  02102                % 02270 AVL---
+200403005 Belair, Sacré-Coeur   02104  02104                % 02270 AVL---
+200403010 Belair, Kierch        02105  02105                % 02270 AVL---
+200403012 Belair, Oradour       02106  02106                % 02270 AVL---
+200420007 Merl, Kiirfecht       02106  02106                % 02270 AVL---
+200403019 Belair, Val Ste Croi  02107  02107                % 02270 AVL---
+200403003 Belair, Aubépines     02108  02108                % 02270 AVL---
+200403009 Belair, Kannerklinic  02109  02109                % 02270 AVL---
+200405008 Luxembourg, Centre H  02110                       % 02270 AVL---
+*Z 02271 AVL---                                             % 02271 AVL---
+*L 13       200407005 200405008  00541  00613               % 02271 AVL---
+*A BE 200407005 200405008 000034  00541  00613              % 02271 AVL---
+*R 1 200405008 200407005 200405008  00541  00613            % 02271 AVL---
+*G STE 200407005 200405008  00541  00613                    % 02271 AVL---
+*A VE 200407005 200405008 000034  00541  00613              % 02271 AVL---
+200407005 Cessange, Boy Konen          00541                % 02271 AVL---
+200407010 Cessange, Rue de Leu  00542  00542                % 02271 AVL---
+200407002 Cessange, Antoine     00543  00543                % 02271 AVL---
+200407012 Cessange, Tubishaff   00544  00544                % 02271 AVL---
+200407009 Cessange, Kuelebierg  00545  00545                % 02271 AVL---
+200407011 Cessange, Rue Verte   00546  00546                % 02271 AVL---
+200412013 Gasperich, Louis de   00547  00547                % 02271 AVL---
+200412011 Gasperich, Klensch    00548  00548                % 02271 AVL---
+200412001 Gasperich, Al Gaaspe  00548  00548                % 02271 AVL---
+200412003 Gasperich, Bei der A  00549  00549                % 02271 AVL---
+200412005 Gasperich, Clemencea  00550  00550                % 02271 AVL---
+200412016 Gasperich, Richard W  00551  00551                % 02271 AVL---
+200412020 Gasperich, Millewee   00552  00552                % 02271 AVL---
+200412007 Gasperich, Déportati  00553  00553                % 02271 AVL---
+200405003 Centre, Alsace        00554  00554                % 02271 AVL---
+200405036 Luxembourg, Gare Cen  00557  00557                % 02271 AVL---
+200405001 Gare, Al Avenue       00559  00559                % 02271 AVL---
+200405013 Centre, F.D. Rooseve  00601  00601                % 02271 AVL---
+200405025 Luxembourg/Centre, M  00604  00604                % 02271 AVL---
+200403020 Belair, Wampach       00605  00605                % 02271 AVL---
+200403005 Belair, Sacré-Coeur   00607  00607                % 02271 AVL---
+200403010 Belair, Kierch        00608  00608                % 02271 AVL---
+200403012 Belair, Oradour       00609  00609                % 02271 AVL---
+200420007 Merl, Kiirfecht       00609  00609                % 02271 AVL---
+200403019 Belair, Val Ste Croi  00610  00610                % 02271 AVL---
+200403003 Belair, Aubépines     00611  00611                % 02271 AVL---
+200403009 Belair, Kannerklinic  00612  00612                % 02271 AVL---
+200405008 Luxembourg, Centre H  00613                       % 02271 AVL---
+*Z 02272 AVL---       001 015                               % 02272 AVL---
+*L 13       200407005 200405008  01940  02012               % 02272 AVL---
+*A BE 200407005 200405008 000034  01940  02012              % 02272 AVL---
+*R 1 200405008 200407005 200405008  01940  02012            % 02272 AVL---
+*G STE 200407005 200405008  01940  02012                    % 02272 AVL---
+*A VE 200407005 200405008 000034  01940  02012              % 02272 AVL---
+200407005 Cessange, Boy Konen          01940                % 02272 AVL---
+200407010 Cessange, Rue de Leu  01941  01941                % 02272 AVL---
+200407002 Cessange, Antoine     01942  01942                % 02272 AVL---
+200407012 Cessange, Tubishaff   01943  01943                % 02272 AVL---
+200407009 Cessange, Kuelebierg  01944  01944                % 02272 AVL---
+200407011 Cessange, Rue Verte   01945  01945                % 02272 AVL---
+200412013 Gasperich, Louis de   01946  01946                % 02272 AVL---
+200412011 Gasperich, Klensch    01947  01947                % 02272 AVL---
+200412001 Gasperich, Al Gaaspe  01948  01948                % 02272 AVL---
+200412003 Gasperich, Bei der A  01949  01949                % 02272 AVL---
+200412005 Gasperich, Clemencea  01949  01949                % 02272 AVL---
+200412016 Gasperich, Richard W  01951  01951                % 02272 AVL---
+200412020 Gasperich, Millewee   01952  01952                % 02272 AVL---
+200412007 Gasperich, Déportati  01953  01953                % 02272 AVL---
+200405003 Centre, Alsace        01954  01954                % 02272 AVL---
+200405036 Luxembourg, Gare Cen  01956  01956                % 02272 AVL---
+200405001 Gare, Al Avenue       01959  01959                % 02272 AVL---
+200405013 Centre, F.D. Rooseve  02001  02001                % 02272 AVL---
+200405025 Luxembourg/Centre, M  02003  02003                % 02272 AVL---
+200403020 Belair, Wampach       02004  02004                % 02272 AVL---
+200403005 Belair, Sacré-Coeur   02006  02006                % 02272 AVL---
+200403010 Belair, Kierch        02007  02007                % 02272 AVL---
+200403012 Belair, Oradour       02008  02008                % 02272 AVL---
+200420007 Merl, Kiirfecht       02009  02009                % 02272 AVL---
+200403019 Belair, Val Ste Croi  02010  02010                % 02272 AVL---
+200403003 Belair, Aubépines     02011  02011                % 02272 AVL---
+200403009 Belair, Kannerklinic  02012  02012                % 02272 AVL---
+200405008 Luxembourg, Centre H  02012                       % 02272 AVL---
+*Z 02273 AVL---       006 030                               % 02273 AVL---
+*L 13       200407005 200405008  00738  00810               % 02273 AVL---
+*A BE 200407005 200405008 000016  00738  00810              % 02273 AVL---
+*R 1 200405008 200407005 200405008  00738  00810            % 02273 AVL---
+*G STE 200407005 200405008  00738  00810                    % 02273 AVL---
+*A VE 200407005 200405008 000016  00738  00810              % 02273 AVL---
+200407005 Cessange, Boy Konen          00738                % 02273 AVL---
+200407010 Cessange, Rue de Leu  00739  00739                % 02273 AVL---
+200407002 Cessange, Antoine     00740  00740                % 02273 AVL---
+200407012 Cessange, Tubishaff   00741  00741                % 02273 AVL---
+200407009 Cessange, Kuelebierg  00742  00742                % 02273 AVL---
+200407011 Cessange, Rue Verte   00743  00743                % 02273 AVL---
+200412013 Gasperich, Louis de   00744  00744                % 02273 AVL---
+200412011 Gasperich, Klensch    00745  00745                % 02273 AVL---
+200412001 Gasperich, Al Gaaspe  00745  00745                % 02273 AVL---
+200412003 Gasperich, Bei der A  00746  00746                % 02273 AVL---
+200412005 Gasperich, Clemencea  00747  00747                % 02273 AVL---
+200412016 Gasperich, Richard W  00748  00748                % 02273 AVL---
+200412020 Gasperich, Millewee   00749  00749                % 02273 AVL---
+200412007 Gasperich, Déportati  00750  00750                % 02273 AVL---
+200405003 Centre, Alsace        00751  00751                % 02273 AVL---
+200405036 Luxembourg, Gare Cen  00754  00754                % 02273 AVL---
+200405001 Gare, Al Avenue       00756  00756                % 02273 AVL---
+200405013 Centre, F.D. Rooseve  00758  00758                % 02273 AVL---
+200405025 Luxembourg/Centre, M  00801  00801                % 02273 AVL---
+200403020 Belair, Wampach       00802  00802                % 02273 AVL---
+200403005 Belair, Sacré-Coeur   00804  00804                % 02273 AVL---
+200403010 Belair, Kierch        00805  00805                % 02273 AVL---
+200403012 Belair, Oradour       00806  00806                % 02273 AVL---
+200420007 Merl, Kiirfecht       00806  00806                % 02273 AVL---
+200403019 Belair, Val Ste Croi  00807  00807                % 02273 AVL---
+200403003 Belair, Aubépines     00808  00808                % 02273 AVL---
+200403009 Belair, Kannerklinic  00809  00809                % 02273 AVL---
+200405008 Luxembourg, Centre H  00810                       % 02273 AVL---
+*Z 02274 AVL---                                             % 02274 AVL---
+*L 13       200407005 200405008  01938  02010               % 02274 AVL---
+*A BE 200407005 200405008 000016  01938  02010              % 02274 AVL---
+*R 1 200405008 200407005 200405008  01938  02010            % 02274 AVL---
+*G STE 200407005 200405008  01938  02010                    % 02274 AVL---
+*A VE 200407005 200405008 000016  01938  02010              % 02274 AVL---
+200407005 Cessange, Boy Konen          01938                % 02274 AVL---
+200407010 Cessange, Rue de Leu  01939  01939                % 02274 AVL---
+200407002 Cessange, Antoine     01940  01940                % 02274 AVL---
+200407012 Cessange, Tubishaff   01941  01941                % 02274 AVL---
+200407009 Cessange, Kuelebierg  01942  01942                % 02274 AVL---
+200407011 Cessange, Rue Verte   01943  01943                % 02274 AVL---
+200412013 Gasperich, Louis de   01944  01944                % 02274 AVL---
+200412011 Gasperich, Klensch    01945  01945                % 02274 AVL---
+200412001 Gasperich, Al Gaaspe  01945  01945                % 02274 AVL---
+200412003 Gasperich, Bei der A  01946  01946                % 02274 AVL---
+200412005 Gasperich, Clemencea  01947  01947                % 02274 AVL---
+200412016 Gasperich, Richard W  01948  01948                % 02274 AVL---
+200412020 Gasperich, Millewee   01949  01949                % 02274 AVL---
+200412007 Gasperich, Déportati  01950  01950                % 02274 AVL---
+200405003 Centre, Alsace        01951  01951                % 02274 AVL---
+200405036 Luxembourg, Gare Cen  01954  01954                % 02274 AVL---
+200405001 Gare, Al Avenue       01956  01956                % 02274 AVL---
+200405013 Centre, F.D. Rooseve  01958  01958                % 02274 AVL---
+200405025 Luxembourg/Centre, M  02001  02001                % 02274 AVL---
+200403020 Belair, Wampach       02002  02002                % 02274 AVL---
+200403005 Belair, Sacré-Coeur   02004  02004                % 02274 AVL---
+200403010 Belair, Kierch        02005  02005                % 02274 AVL---
+200403012 Belair, Oradour       02006  02006                % 02274 AVL---
+200420007 Merl, Kiirfecht       02006  02006                % 02274 AVL---
+200403019 Belair, Val Ste Croi  02007  02007                % 02274 AVL---
+200403003 Belair, Aubépines     02008  02008                % 02274 AVL---
+200403009 Belair, Kannerklinic  02009  02009                % 02274 AVL---
+200405008 Luxembourg, Centre H  02010                       % 02274 AVL---
+*Z 02275 AVL---       003 030                               % 02275 AVL---
+*L 13       200407005 200405008  00538  00610               % 02275 AVL---
+*A BE 200407005 200405008 000037  00538  00610              % 02275 AVL---
+*R 1 200405008 200407005 200405008  00538  00610            % 02275 AVL---
+*G STE 200407005 200405008  00538  00610                    % 02275 AVL---
+*A VE 200407005 200405008 000037  00538  00610              % 02275 AVL---
+200407005 Cessange, Boy Konen          00538                % 02275 AVL---
+200407010 Cessange, Rue de Leu  00539  00539                % 02275 AVL---
+200407002 Cessange, Antoine     00540  00540                % 02275 AVL---
+200407012 Cessange, Tubishaff   00541  00541                % 02275 AVL---
+200407009 Cessange, Kuelebierg  00542  00542                % 02275 AVL---
+200407011 Cessange, Rue Verte   00543  00543                % 02275 AVL---
+200412013 Gasperich, Louis de   00544  00544                % 02275 AVL---
+200412011 Gasperich, Klensch    00545  00545                % 02275 AVL---
+200412001 Gasperich, Al Gaaspe  00545  00545                % 02275 AVL---
+200412003 Gasperich, Bei der A  00546  00546                % 02275 AVL---
+200412005 Gasperich, Clemencea  00547  00547                % 02275 AVL---
+200412016 Gasperich, Richard W  00548  00548                % 02275 AVL---
+200412020 Gasperich, Millewee   00549  00549                % 02275 AVL---
+200412007 Gasperich, Déportati  00550  00550                % 02275 AVL---
+200405003 Centre, Alsace        00551  00551                % 02275 AVL---
+200405036 Luxembourg, Gare Cen  00554  00554                % 02275 AVL---
+200405001 Gare, Al Avenue       00556  00556                % 02275 AVL---
+200405013 Centre, F.D. Rooseve  00558  00558                % 02275 AVL---
+200405025 Luxembourg/Centre, M  00601  00601                % 02275 AVL---
+200403020 Belair, Wampach       00602  00602                % 02275 AVL---
+200403005 Belair, Sacré-Coeur   00604  00604                % 02275 AVL---
+200403010 Belair, Kierch        00605  00605                % 02275 AVL---
+200403012 Belair, Oradour       00606  00606                % 02275 AVL---
+200420007 Merl, Kiirfecht       00606  00606                % 02275 AVL---
+200403019 Belair, Val Ste Croi  00607  00607                % 02275 AVL---
+200403003 Belair, Aubépines     00608  00608                % 02275 AVL---
+200403009 Belair, Kannerklinic  00609  00609                % 02275 AVL---
+200405008 Luxembourg, Centre H  00610                       % 02275 AVL---
+*Z 02276 AVL---       054 015                               % 02276 AVL---
+*L 13       200407005 200405008  00550  00629               % 02276 AVL---
+*A BE 200407005 200405008 000034  00550  00629              % 02276 AVL---
+*R 1 200405008 200407005 200405008  00550  00629            % 02276 AVL---
+*G STE 200407005 200405008  00550  00629                    % 02276 AVL---
+*A VE 200407005 200405008 000034  00550  00629              % 02276 AVL---
+200407005 Cessange, Boy Konen          00550                % 02276 AVL---
+200407010 Cessange, Rue de Leu  00552  00552                % 02276 AVL---
+200407002 Cessange, Antoine     00552  00552                % 02276 AVL---
+200407012 Cessange, Tubishaff   00554  00554                % 02276 AVL---
+200407009 Cessange, Kuelebierg  00555  00555                % 02276 AVL---
+200407011 Cessange, Rue Verte   00556  00556                % 02276 AVL---
+200412013 Gasperich, Louis de   00557  00557                % 02276 AVL---
+200412011 Gasperich, Klensch    00558  00558                % 02276 AVL---
+200412001 Gasperich, Al Gaaspe  00559  00559                % 02276 AVL---
+200412003 Gasperich, Bei der A  00600  00600                % 02276 AVL---
+200412005 Gasperich, Clemencea  00601  00601                % 02276 AVL---
+200412016 Gasperich, Richard W  00603  00603                % 02276 AVL---
+200412020 Gasperich, Millewee   00604  00604                % 02276 AVL---
+200412007 Gasperich, Déportati  00605  00605                % 02276 AVL---
+200405003 Centre, Alsace        00606  00606                % 02276 AVL---
+200405036 Luxembourg, Gare Cen  00609  00609                % 02276 AVL---
+200405001 Gare, Al Avenue       00612  00612                % 02276 AVL---
+200405013 Centre, F.D. Rooseve  00615  00615                % 02276 AVL---
+200405025 Luxembourg/Centre, M  00618  00618                % 02276 AVL---
+200403020 Belair, Wampach       00620  00620                % 02276 AVL---
+200403005 Belair, Sacré-Coeur   00622  00622                % 02276 AVL---
+200403010 Belair, Kierch        00623  00623                % 02276 AVL---
+200403012 Belair, Oradour       00624  00624                % 02276 AVL---
+200420007 Merl, Kiirfecht       00625  00625                % 02276 AVL---
+200403019 Belair, Val Ste Croi  00626  00626                % 02276 AVL---
+200403003 Belair, Aubépines     00627  00627                % 02276 AVL---
+200403009 Belair, Kannerklinic  00629  00629                % 02276 AVL---
+200405008 Luxembourg, Centre H  00629                       % 02276 AVL---
+*Z 02277 AVL---       001 030                               % 02277 AVL---
+*L 13       200407005 200405008  00735  00809               % 02277 AVL---
+*A BE 200407005 200405008 000017  00735  00809              % 02277 AVL---
+*R 1 200405008 200407005 200405008  00735  00809            % 02277 AVL---
+*G STE 200407005 200405008  00735  00809                    % 02277 AVL---
+*A VE 200407005 200405008 000017  00735  00809              % 02277 AVL---
+200407005 Cessange, Boy Konen          00735                % 02277 AVL---
+200407010 Cessange, Rue de Leu  00736  00736                % 02277 AVL---
+200407002 Cessange, Antoine     00737  00737                % 02277 AVL---
+200407012 Cessange, Tubishaff   00738  00738                % 02277 AVL---
+200407009 Cessange, Kuelebierg  00739  00739                % 02277 AVL---
+200407011 Cessange, Rue Verte   00740  00740                % 02277 AVL---
+200412013 Gasperich, Louis de   00742  00742                % 02277 AVL---
+200412011 Gasperich, Klensch    00743  00743                % 02277 AVL---
+200412001 Gasperich, Al Gaaspe  00743  00743                % 02277 AVL---
+200412003 Gasperich, Bei der A  00744  00744                % 02277 AVL---
+200412005 Gasperich, Clemencea  00745  00745                % 02277 AVL---
+200412016 Gasperich, Richard W  00746  00746                % 02277 AVL---
+200412020 Gasperich, Millewee   00747  00747                % 02277 AVL---
+200412007 Gasperich, Déportati  00748  00748                % 02277 AVL---
+200405003 Centre, Alsace        00750  00750                % 02277 AVL---
+200405036 Luxembourg, Gare Cen  00752  00752                % 02277 AVL---
+200405001 Gare, Al Avenue       00755  00755                % 02277 AVL---
+200405013 Centre, F.D. Rooseve  00757  00757                % 02277 AVL---
+200405025 Luxembourg/Centre, M  00800  00800                % 02277 AVL---
+200403020 Belair, Wampach       00801  00801                % 02277 AVL---
+200403005 Belair, Sacré-Coeur   00803  00803                % 02277 AVL---
+200403010 Belair, Kierch        00804  00804                % 02277 AVL---
+200403012 Belair, Oradour       00805  00805                % 02277 AVL---
+200420007 Merl, Kiirfecht       00805  00805                % 02277 AVL---
+200403019 Belair, Val Ste Croi  00806  00806                % 02277 AVL---
+200403003 Belair, Aubépines     00807  00807                % 02277 AVL---
+200403009 Belair, Kannerklinic  00808  00808                % 02277 AVL---
+200405008 Luxembourg, Centre H  00809                       % 02277 AVL---
+*Z 02278 AVL---       033 020                               % 02278 AVL---
+*L 13       200407005 200405008  00825  00859               % 02278 AVL---
+*A BE 200407005 200405008 000017  00825  00859              % 02278 AVL---
+*R 1 200405008 200407005 200405008  00825  00859            % 02278 AVL---
+*G STE 200407005 200405008  00825  00859                    % 02278 AVL---
+*A VE 200407005 200405008 000017  00825  00859              % 02278 AVL---
+200407005 Cessange, Boy Konen          00825                % 02278 AVL---
+200407010 Cessange, Rue de Leu  00826  00826                % 02278 AVL---
+200407002 Cessange, Antoine     00827  00827                % 02278 AVL---
+200407012 Cessange, Tubishaff   00828  00828                % 02278 AVL---
+200407009 Cessange, Kuelebierg  00829  00829                % 02278 AVL---
+200407011 Cessange, Rue Verte   00830  00830                % 02278 AVL---
+200412013 Gasperich, Louis de   00832  00832                % 02278 AVL---
+200412011 Gasperich, Klensch    00833  00833                % 02278 AVL---
+200412001 Gasperich, Al Gaaspe  00833  00833                % 02278 AVL---
+200412003 Gasperich, Bei der A  00834  00834                % 02278 AVL---
+200412005 Gasperich, Clemencea  00835  00835                % 02278 AVL---
+200412016 Gasperich, Richard W  00836  00836                % 02278 AVL---
+200412020 Gasperich, Millewee   00837  00837                % 02278 AVL---
+200412007 Gasperich, Déportati  00838  00838                % 02278 AVL---
+200405003 Centre, Alsace        00840  00840                % 02278 AVL---
+200405036 Luxembourg, Gare Cen  00842  00842                % 02278 AVL---
+200405001 Gare, Al Avenue       00845  00845                % 02278 AVL---
+200405013 Centre, F.D. Rooseve  00847  00847                % 02278 AVL---
+200405025 Luxembourg/Centre, M  00850  00850                % 02278 AVL---
+200403020 Belair, Wampach       00851  00851                % 02278 AVL---
+200403005 Belair, Sacré-Coeur   00853  00853                % 02278 AVL---
+200403010 Belair, Kierch        00854  00854                % 02278 AVL---
+200403012 Belair, Oradour       00855  00855                % 02278 AVL---
+200420007 Merl, Kiirfecht       00855  00855                % 02278 AVL---
+200403019 Belair, Val Ste Croi  00856  00856                % 02278 AVL---
+200403003 Belair, Aubépines     00857  00857                % 02278 AVL---
+200403009 Belair, Kannerklinic  00858  00858                % 02278 AVL---
+200405008 Luxembourg, Centre H  00859                       % 02278 AVL---
+*Z 02279 AVL---       016 030                               % 02279 AVL---
+*L 13       200407005 200405008  01106  01140               % 02279 AVL---
+*A BE 200407005 200405008 000016  01106  01140              % 02279 AVL---
+*R 1 200405008 200407005 200405008  01106  01140            % 02279 AVL---
+*G STE 200407005 200405008  01106  01140                    % 02279 AVL---
+*A VE 200407005 200405008 000016  01106  01140              % 02279 AVL---
+200407005 Cessange, Boy Konen          01106                % 02279 AVL---
+200407010 Cessange, Rue de Leu  01107  01107                % 02279 AVL---
+200407002 Cessange, Antoine     01108  01108                % 02279 AVL---
+200407012 Cessange, Tubishaff   01109  01109                % 02279 AVL---
+200407009 Cessange, Kuelebierg  01110  01110                % 02279 AVL---
+200407011 Cessange, Rue Verte   01111  01111                % 02279 AVL---
+200412013 Gasperich, Louis de   01113  01113                % 02279 AVL---
+200412011 Gasperich, Klensch    01114  01114                % 02279 AVL---
+200412001 Gasperich, Al Gaaspe  01114  01114                % 02279 AVL---
+200412003 Gasperich, Bei der A  01115  01115                % 02279 AVL---
+200412005 Gasperich, Clemencea  01116  01116                % 02279 AVL---
+200412016 Gasperich, Richard W  01117  01117                % 02279 AVL---
+200412020 Gasperich, Millewee   01118  01118                % 02279 AVL---
+200412007 Gasperich, Déportati  01119  01119                % 02279 AVL---
+200405003 Centre, Alsace        01121  01121                % 02279 AVL---
+200405036 Luxembourg, Gare Cen  01123  01123                % 02279 AVL---
+200405001 Gare, Al Avenue       01126  01126                % 02279 AVL---
+200405013 Centre, F.D. Rooseve  01128  01128                % 02279 AVL---
+200405025 Luxembourg/Centre, M  01131  01131                % 02279 AVL---
+200403020 Belair, Wampach       01132  01132                % 02279 AVL---
+200403005 Belair, Sacré-Coeur   01134  01134                % 02279 AVL---
+200403010 Belair, Kierch        01135  01135                % 02279 AVL---
+200403012 Belair, Oradour       01136  01136                % 02279 AVL---
+200420007 Merl, Kiirfecht       01136  01136                % 02279 AVL---
+200403019 Belair, Val Ste Croi  01137  01137                % 02279 AVL---
+200403003 Belair, Aubépines     01138  01138                % 02279 AVL---
+200403009 Belair, Kannerklinic  01139  01139                % 02279 AVL---
+200405008 Luxembourg, Centre H  01140                       % 02279 AVL---
+*Z 02280 AVL---       001 030                               % 02280 AVL---
+*L 13       200405008 200407005  00520  00557               % 02280 AVL---
+*A BE 200405008 200407005 000040  00520  00557              % 02280 AVL---
+*R 2 200407005 200405008 200407005  00520  00557            % 02280 AVL---
+*G STE 200405008 200407005  00520  00557                    % 02280 AVL---
+*A VE 200405008 200407005 000040  00520  00557              % 02280 AVL---
+200405008 Luxembourg, Centre H         00520                % 02280 AVL---
+200403009 Belair, Kannerklinic  00522  00522                % 02280 AVL---
+200403003 Belair, Aubépines     00523  00523                % 02280 AVL---
+200403019 Belair, Val Ste Croi  00523  00523                % 02280 AVL---
+200420007 Merl, Kiirfecht       00524  00524                % 02280 AVL---
+200403012 Belair, Oradour       00525  00525                % 02280 AVL---
+200403010 Belair, Kierch        00526  00526                % 02280 AVL---
+200403005 Belair, Sacré-Coeur   00527  00527                % 02280 AVL---
+200403020 Belair, Wampach       00529  00529                % 02280 AVL---
+200405025 Luxembourg/Centre, M  00531  00536                % 02280 AVL---
+200405054 Centre, F.D. Rooseve  00538  00538                % 02280 AVL---
+200405001 Gare, Al Avenue       00540  00540                % 02280 AVL---
+200405032 Luxembourg, Gare Cen  00542  00542                % 02280 AVL---
+200405003 Centre, Alsace        00544  00544                % 02280 AVL---
+200412007 Gasperich, Déportati  00545  00545                % 02280 AVL---
+200412020 Gasperich, Millewee   00546  00546                % 02280 AVL---
+200412005 Gasperich, Clemencea  00547  00547                % 02280 AVL---
+200412016 Gasperich, Richard W  00548  00548                % 02280 AVL---
+200412003 Gasperich, Bei der A  00549  00549                % 02280 AVL---
+200412001 Gasperich, Al Gaaspe  00550  00550                % 02280 AVL---
+200412011 Gasperich, Klensch    00551  00551                % 02280 AVL---
+200412013 Gasperich, Louis de   00552  00552                % 02280 AVL---
+200407011 Cessange, Rue Verte   00552  00552                % 02280 AVL---
+200407009 Cessange, Kuelebierg  00553  00553                % 02280 AVL---
+200407012 Cessange, Tubishaff   00554  00554                % 02280 AVL---
+200407002 Cessange, Antoine     00555  00555                % 02280 AVL---
+200407010 Cessange, Rue de Leu  00556  00556                % 02280 AVL---
+200407005 Cessange, Boy Konen   00557                       % 02280 AVL---
+*Z 02281 AVL---       007 030                               % 02281 AVL---
+*L 13       200405008 200407005  02020  02057               % 02281 AVL---
+*A BE 200405008 200407005 000040  02020  02057              % 02281 AVL---
+*R 2 200407005 200405008 200407005  02020  02057            % 02281 AVL---
+*G STE 200405008 200407005  02020  02057                    % 02281 AVL---
+*A VE 200405008 200407005 000040  02020  02057              % 02281 AVL---
+200405008 Luxembourg, Centre H         02020                % 02281 AVL---
+200403009 Belair, Kannerklinic  02022  02022                % 02281 AVL---
+200403003 Belair, Aubépines     02023  02023                % 02281 AVL---
+200403019 Belair, Val Ste Croi  02023  02023                % 02281 AVL---
+200420007 Merl, Kiirfecht       02024  02024                % 02281 AVL---
+200403012 Belair, Oradour       02025  02025                % 02281 AVL---
+200403010 Belair, Kierch        02026  02026                % 02281 AVL---
+200403005 Belair, Sacré-Coeur   02027  02027                % 02281 AVL---
+200403020 Belair, Wampach       02029  02029                % 02281 AVL---
+200405025 Luxembourg/Centre, M  02031  02036                % 02281 AVL---
+200405054 Centre, F.D. Rooseve  02038  02038                % 02281 AVL---
+200405001 Gare, Al Avenue       02040  02040                % 02281 AVL---
+200405032 Luxembourg, Gare Cen  02042  02042                % 02281 AVL---
+200405003 Centre, Alsace        02044  02044                % 02281 AVL---
+200412007 Gasperich, Déportati  02045  02045                % 02281 AVL---
+200412020 Gasperich, Millewee   02046  02046                % 02281 AVL---
+200412005 Gasperich, Clemencea  02047  02047                % 02281 AVL---
+200412016 Gasperich, Richard W  02048  02048                % 02281 AVL---
+200412003 Gasperich, Bei der A  02049  02049                % 02281 AVL---
+200412001 Gasperich, Al Gaaspe  02050  02050                % 02281 AVL---
+200412011 Gasperich, Klensch    02051  02051                % 02281 AVL---
+200412013 Gasperich, Louis de   02052  02052                % 02281 AVL---
+200407011 Cessange, Rue Verte   02052  02052                % 02281 AVL---
+200407009 Cessange, Kuelebierg  02053  02053                % 02281 AVL---
+200407012 Cessange, Tubishaff   02054  02054                % 02281 AVL---
+200407002 Cessange, Antoine     02055  02055                % 02281 AVL---
+200407010 Cessange, Rue de Leu  02056  02056                % 02281 AVL---
+200407005 Cessange, Boy Konen   02057                       % 02281 AVL---
+*Z 02282 AVL---       006 030                               % 02282 AVL---
+*L 13       200405008 200407005  00750  00827               % 02282 AVL---
+*A BE 200405008 200407005 000016  00750  00827              % 02282 AVL---
+*R 2 200407005 200405008 200407005  00750  00827            % 02282 AVL---
+*G STE 200405008 200407005  00750  00827                    % 02282 AVL---
+*A VE 200405008 200407005 000016  00750  00827              % 02282 AVL---
+200405008 Luxembourg, Centre H         00750                % 02282 AVL---
+200403009 Belair, Kannerklinic  00752  00752                % 02282 AVL---
+200403003 Belair, Aubépines     00753  00753                % 02282 AVL---
+200403019 Belair, Val Ste Croi  00753  00753                % 02282 AVL---
+200420007 Merl, Kiirfecht       00754  00754                % 02282 AVL---
+200403012 Belair, Oradour       00755  00755                % 02282 AVL---
+200403010 Belair, Kierch        00756  00756                % 02282 AVL---
+200403005 Belair, Sacré-Coeur   00757  00757                % 02282 AVL---
+200403020 Belair, Wampach       00759  00759                % 02282 AVL---
+200405025 Luxembourg/Centre, M  00801  00806                % 02282 AVL---
+200405054 Centre, F.D. Rooseve  00808  00808                % 02282 AVL---
+200405001 Gare, Al Avenue       00810  00810                % 02282 AVL---
+200405032 Luxembourg, Gare Cen  00812  00812                % 02282 AVL---
+200405003 Centre, Alsace        00814  00814                % 02282 AVL---
+200412007 Gasperich, Déportati  00815  00815                % 02282 AVL---
+200412020 Gasperich, Millewee   00816  00816                % 02282 AVL---
+200412005 Gasperich, Clemencea  00817  00817                % 02282 AVL---
+200412016 Gasperich, Richard W  00818  00818                % 02282 AVL---
+200412003 Gasperich, Bei der A  00819  00819                % 02282 AVL---
+200412001 Gasperich, Al Gaaspe  00820  00820                % 02282 AVL---
+200412011 Gasperich, Klensch    00821  00821                % 02282 AVL---
+200412013 Gasperich, Louis de   00822  00822                % 02282 AVL---
+200407011 Cessange, Rue Verte   00822  00822                % 02282 AVL---
+200407009 Cessange, Kuelebierg  00823  00823                % 02282 AVL---
+200407012 Cessange, Tubishaff   00824  00824                % 02282 AVL---
+200407002 Cessange, Antoine     00825  00825                % 02282 AVL---
+200407010 Cessange, Rue de Leu  00826  00826                % 02282 AVL---
+200407005 Cessange, Boy Konen   00827                       % 02282 AVL---
+*Z 02283 AVL---                                             % 02283 AVL---
+*L 13       200405008 200407005  01950  02027               % 02283 AVL---
+*A BE 200405008 200407005 000016  01950  02027              % 02283 AVL---
+*R 2 200407005 200405008 200407005  01950  02027            % 02283 AVL---
+*G STE 200405008 200407005  01950  02027                    % 02283 AVL---
+*A VE 200405008 200407005 000016  01950  02027              % 02283 AVL---
+200405008 Luxembourg, Centre H         01950                % 02283 AVL---
+200403009 Belair, Kannerklinic  01952  01952                % 02283 AVL---
+200403003 Belair, Aubépines     01953  01953                % 02283 AVL---
+200403019 Belair, Val Ste Croi  01953  01953                % 02283 AVL---
+200420007 Merl, Kiirfecht       01954  01954                % 02283 AVL---
+200403012 Belair, Oradour       01955  01955                % 02283 AVL---
+200403010 Belair, Kierch        01956  01956                % 02283 AVL---
+200403005 Belair, Sacré-Coeur   01957  01957                % 02283 AVL---
+200403020 Belair, Wampach       01959  01959                % 02283 AVL---
+200405025 Luxembourg/Centre, M  02001  02006                % 02283 AVL---
+200405054 Centre, F.D. Rooseve  02008  02008                % 02283 AVL---
+200405001 Gare, Al Avenue       02010  02010                % 02283 AVL---
+200405032 Luxembourg, Gare Cen  02012  02012                % 02283 AVL---
+200405003 Centre, Alsace        02014  02014                % 02283 AVL---
+200412007 Gasperich, Déportati  02015  02015                % 02283 AVL---
+200412020 Gasperich, Millewee   02016  02016                % 02283 AVL---
+200412005 Gasperich, Clemencea  02017  02017                % 02283 AVL---
+200412016 Gasperich, Richard W  02018  02018                % 02283 AVL---
+200412003 Gasperich, Bei der A  02019  02019                % 02283 AVL---
+200412001 Gasperich, Al Gaaspe  02020  02020                % 02283 AVL---
+200412011 Gasperich, Klensch    02021  02021                % 02283 AVL---
+200412013 Gasperich, Louis de   02022  02022                % 02283 AVL---
+200407011 Cessange, Rue Verte   02022  02022                % 02283 AVL---
+200407009 Cessange, Kuelebierg  02023  02023                % 02283 AVL---
+200407012 Cessange, Tubishaff   02024  02024                % 02283 AVL---
+200407002 Cessange, Antoine     02025  02025                % 02283 AVL---
+200407010 Cessange, Rue de Leu  02026  02026                % 02283 AVL---
+200407005 Cessange, Boy Konen   02027                       % 02283 AVL---
+*Z 02284 AVL---       002 030                               % 02284 AVL---
+*L 13       200405008 200407005  00620  00657               % 02284 AVL---
+*A BE 200405008 200407005 000037  00620  00657              % 02284 AVL---
+*R 2 200407005 200405008 200407005  00620  00657            % 02284 AVL---
+*G STE 200405008 200407005  00620  00657                    % 02284 AVL---
+*A VE 200405008 200407005 000037  00620  00657              % 02284 AVL---
+200405008 Luxembourg, Centre H         00620                % 02284 AVL---
+200403009 Belair, Kannerklinic  00622  00622                % 02284 AVL---
+200403003 Belair, Aubépines     00623  00623                % 02284 AVL---
+200403019 Belair, Val Ste Croi  00623  00623                % 02284 AVL---
+200420007 Merl, Kiirfecht       00624  00624                % 02284 AVL---
+200403012 Belair, Oradour       00625  00625                % 02284 AVL---
+200403010 Belair, Kierch        00626  00626                % 02284 AVL---
+200403005 Belair, Sacré-Coeur   00627  00627                % 02284 AVL---
+200403020 Belair, Wampach       00629  00629                % 02284 AVL---
+200405025 Luxembourg/Centre, M  00631  00636                % 02284 AVL---
+200405054 Centre, F.D. Rooseve  00638  00638                % 02284 AVL---
+200405001 Gare, Al Avenue       00640  00640                % 02284 AVL---
+200405032 Luxembourg, Gare Cen  00642  00642                % 02284 AVL---
+200405003 Centre, Alsace        00644  00644                % 02284 AVL---
+200412007 Gasperich, Déportati  00645  00645                % 02284 AVL---
+200412020 Gasperich, Millewee   00646  00646                % 02284 AVL---
+200412005 Gasperich, Clemencea  00647  00647                % 02284 AVL---
+200412016 Gasperich, Richard W  00648  00648                % 02284 AVL---
+200412003 Gasperich, Bei der A  00649  00649                % 02284 AVL---
+200412001 Gasperich, Al Gaaspe  00650  00650                % 02284 AVL---
+200412011 Gasperich, Klensch    00651  00651                % 02284 AVL---
+200412013 Gasperich, Louis de   00652  00652                % 02284 AVL---
+200407011 Cessange, Rue Verte   00652  00652                % 02284 AVL---
+200407009 Cessange, Kuelebierg  00653  00653                % 02284 AVL---
+200407012 Cessange, Tubishaff   00654  00654                % 02284 AVL---
+200407002 Cessange, Antoine     00655  00655                % 02284 AVL---
+200407010 Cessange, Rue de Leu  00656  00656                % 02284 AVL---
+200407005 Cessange, Boy Konen   00657                       % 02284 AVL---
+*Z 02285 AVL---                                             % 02285 AVL---
+*L 13       200405008 200407005  00612  00653               % 02285 AVL---
+*A BE 200405008 200407005 000034  00612  00653              % 02285 AVL---
+*R 2 200407005 200405008 200407005  00612  00653            % 02285 AVL---
+*G STE 200405008 200407005  00612  00653                    % 02285 AVL---
+*A VE 200405008 200407005 000034  00612  00653              % 02285 AVL---
+200405008 Luxembourg, Centre H         00612                % 02285 AVL---
+200403009 Belair, Kannerklinic  00614  00614                % 02285 AVL---
+200403003 Belair, Aubépines     00615  00615                % 02285 AVL---
+200403019 Belair, Val Ste Croi  00616  00616                % 02285 AVL---
+200420007 Merl, Kiirfecht       00618  00618                % 02285 AVL---
+200403012 Belair, Oradour       00619  00619                % 02285 AVL---
+200403010 Belair, Kierch        00620  00620                % 02285 AVL---
+200403005 Belair, Sacré-Coeur   00621  00621                % 02285 AVL---
+200403020 Belair, Wampach       00624  00624                % 02285 AVL---
+200405025 Luxembourg/Centre, M  00626  00626                % 02285 AVL---
+200405054 Centre, F.D. Rooseve  00629  00629                % 02285 AVL---
+200405001 Gare, Al Avenue       00632  00632                % 02285 AVL---
+200405032 Luxembourg, Gare Cen  00634  00634                % 02285 AVL---
+200405003 Centre, Alsace        00636  00636                % 02285 AVL---
+200412007 Gasperich, Déportati  00637  00637                % 02285 AVL---
+200412020 Gasperich, Millewee   00639  00639                % 02285 AVL---
+200412005 Gasperich, Clemencea  00640  00640                % 02285 AVL---
+200412016 Gasperich, Richard W  00641  00641                % 02285 AVL---
+200412003 Gasperich, Bei der A  00643  00643                % 02285 AVL---
+200412001 Gasperich, Al Gaaspe  00644  00644                % 02285 AVL---
+200412011 Gasperich, Klensch    00645  00645                % 02285 AVL---
+200412013 Gasperich, Louis de   00646  00646                % 02285 AVL---
+200407011 Cessange, Rue Verte   00647  00647                % 02285 AVL---
+200407009 Cessange, Kuelebierg  00648  00648                % 02285 AVL---
+200407012 Cessange, Tubishaff   00649  00649                % 02285 AVL---
+200407002 Cessange, Antoine     00650  00650                % 02285 AVL---
+200407010 Cessange, Rue de Leu  00651  00651                % 02285 AVL---
+200407005 Cessange, Boy Konen   00653                       % 02285 AVL---
+*Z 02286 AVL---       053 015                               % 02286 AVL---
+*L 13       200405008 200407005  00628  00709               % 02286 AVL---
+*A BE 200405008 200407005 000034  00628  00709              % 02286 AVL---
+*R 2 200407005 200405008 200407005  00628  00709            % 02286 AVL---
+*G STE 200405008 200407005  00628  00709                    % 02286 AVL---
+*A VE 200405008 200407005 000034  00628  00709              % 02286 AVL---
+200405008 Luxembourg, Centre H         00628                % 02286 AVL---
+200403009 Belair, Kannerklinic  00630  00630                % 02286 AVL---
+200403003 Belair, Aubépines     00632  00632                % 02286 AVL---
+200403019 Belair, Val Ste Croi  00633  00633                % 02286 AVL---
+200420007 Merl, Kiirfecht       00634  00634                % 02286 AVL---
+200403012 Belair, Oradour       00635  00635                % 02286 AVL---
+200403010 Belair, Kierch        00636  00636                % 02286 AVL---
+200403005 Belair, Sacré-Coeur   00638  00638                % 02286 AVL---
+200403020 Belair, Wampach       00640  00640                % 02286 AVL---
+200405025 Luxembourg/Centre, M  00642  00642                % 02286 AVL---
+200405054 Centre, F.D. Rooseve  00645  00645                % 02286 AVL---
+200405001 Gare, Al Avenue       00648  00648                % 02286 AVL---
+200405032 Luxembourg, Gare Cen  00650  00650                % 02286 AVL---
+200405003 Centre, Alsace        00652  00652                % 02286 AVL---
+200412007 Gasperich, Déportati  00654  00654                % 02286 AVL---
+200412020 Gasperich, Millewee   00655  00655                % 02286 AVL---
+200412005 Gasperich, Clemencea  00656  00656                % 02286 AVL---
+200412016 Gasperich, Richard W  00658  00658                % 02286 AVL---
+200412003 Gasperich, Bei der A  00659  00659                % 02286 AVL---
+200412001 Gasperich, Al Gaaspe  00700  00700                % 02286 AVL---
+200412011 Gasperich, Klensch    00701  00701                % 02286 AVL---
+200412013 Gasperich, Louis de   00702  00702                % 02286 AVL---
+200407011 Cessange, Rue Verte   00703  00703                % 02286 AVL---
+200407009 Cessange, Kuelebierg  00704  00704                % 02286 AVL---
+200407012 Cessange, Tubishaff   00705  00705                % 02286 AVL---
+200407002 Cessange, Antoine     00707  00707                % 02286 AVL---
+200407010 Cessange, Rue de Leu  00707  00707                % 02286 AVL---
+200407005 Cessange, Boy Konen   00709                       % 02286 AVL---
+*Z 02287 AVL---                                             % 02287 AVL---
+*L 13       200405008 200407005  01959  02031               % 02287 AVL---
+*A BE 200405008 200407005 000034  01959  02031              % 02287 AVL---
+*R 2 200407005 200405008 200407005  01959  02031            % 02287 AVL---
+*G STE 200405008 200407005  01959  02031                    % 02287 AVL---
+*A VE 200405008 200407005 000034  01959  02031              % 02287 AVL---
+200405008 Luxembourg, Centre H         01959                % 02287 AVL---
+200403009 Belair, Kannerklinic  02001  02001                % 02287 AVL---
+200403003 Belair, Aubépines     02002  02002                % 02287 AVL---
+200403019 Belair, Val Ste Croi  02002  02002                % 02287 AVL---
+200420007 Merl, Kiirfecht       02003  02003                % 02287 AVL---
+200403012 Belair, Oradour       02004  02004                % 02287 AVL---
+200403010 Belair, Kierch        02005  02005                % 02287 AVL---
+200403005 Belair, Sacré-Coeur   02006  02006                % 02287 AVL---
+200403020 Belair, Wampach       02008  02008                % 02287 AVL---
+200405025 Luxembourg/Centre, M  02010  02010                % 02287 AVL---
+200405054 Centre, F.D. Rooseve  02012  02012                % 02287 AVL---
+200405001 Gare, Al Avenue       02014  02014                % 02287 AVL---
+200405032 Luxembourg, Gare Cen  02016  02016                % 02287 AVL---
+200405003 Centre, Alsace        02018  02018                % 02287 AVL---
+200412007 Gasperich, Déportati  02019  02019                % 02287 AVL---
+200412020 Gasperich, Millewee   02020  02020                % 02287 AVL---
+200412005 Gasperich, Clemencea  02021  02021                % 02287 AVL---
+200412016 Gasperich, Richard W  02022  02022                % 02287 AVL---
+200412003 Gasperich, Bei der A  02023  02023                % 02287 AVL---
+200412001 Gasperich, Al Gaaspe  02024  02024                % 02287 AVL---
+200412011 Gasperich, Klensch    02025  02025                % 02287 AVL---
+200412013 Gasperich, Louis de   02026  02026                % 02287 AVL---
+200407011 Cessange, Rue Verte   02026  02026                % 02287 AVL---
+200407009 Cessange, Kuelebierg  02027  02027                % 02287 AVL---
+200407012 Cessange, Tubishaff   02028  02028                % 02287 AVL---
+200407002 Cessange, Antoine     02029  02029                % 02287 AVL---
+200407010 Cessange, Rue de Leu  02030  02030                % 02287 AVL---
+200407005 Cessange, Boy Konen   02031                       % 02287 AVL---
+*Z 02288 AVL---       036 020                               % 02288 AVL---
+*L 13       200405008 200407005  00756  00831               % 02288 AVL---
+*A BE 200405008 200407005 000017  00756  00831              % 02288 AVL---
+*R 2 200407005 200405008 200407005  00756  00831            % 02288 AVL---
+*G STE 200405008 200407005  00756  00831                    % 02288 AVL---
+*A VE 200405008 200407005 000017  00756  00831              % 02288 AVL---
+200405008 Luxembourg, Centre H         00756                % 02288 AVL---
+200403009 Belair, Kannerklinic  00758  00758                % 02288 AVL---
+200403003 Belair, Aubépines     00759  00759                % 02288 AVL---
+200403019 Belair, Val Ste Croi  00800  00800                % 02288 AVL---
+200420007 Merl, Kiirfecht       00801  00801                % 02288 AVL---
+200403012 Belair, Oradour       00802  00802                % 02288 AVL---
+200403010 Belair, Kierch        00803  00803                % 02288 AVL---
+200403005 Belair, Sacré-Coeur   00804  00804                % 02288 AVL---
+200403020 Belair, Wampach       00806  00806                % 02288 AVL---
+200405025 Luxembourg/Centre, M  00808  00808                % 02288 AVL---
+200405054 Centre, F.D. Rooseve  00811  00811                % 02288 AVL---
+200405001 Gare, Al Avenue       00813  00813                % 02288 AVL---
+200405032 Luxembourg, Gare Cen  00814  00814                % 02288 AVL---
+200405003 Centre, Alsace        00816  00816                % 02288 AVL---
+200412007 Gasperich, Déportati  00818  00818                % 02288 AVL---
+200412020 Gasperich, Millewee   00819  00819                % 02288 AVL---
+200412005 Gasperich, Clemencea  00820  00820                % 02288 AVL---
+200412016 Gasperich, Richard W  00821  00821                % 02288 AVL---
+200412003 Gasperich, Bei der A  00822  00822                % 02288 AVL---
+200412001 Gasperich, Al Gaaspe  00823  00823                % 02288 AVL---
+200412011 Gasperich, Klensch    00824  00824                % 02288 AVL---
+200412013 Gasperich, Louis de   00825  00825                % 02288 AVL---
+200407011 Cessange, Rue Verte   00826  00826                % 02288 AVL---
+200407009 Cessange, Kuelebierg  00827  00827                % 02288 AVL---
+200407012 Cessange, Tubishaff   00828  00828                % 02288 AVL---
+200407002 Cessange, Antoine     00829  00829                % 02288 AVL---
+200407010 Cessange, Rue de Leu  00829  00829                % 02288 AVL---
+200407005 Cessange, Boy Konen   00831                       % 02288 AVL---
+*Z 02289 AVL---       016 030                               % 02289 AVL---
+*L 13       200405008 200407005  01119  01159               % 02289 AVL---
+*A BE 200405008 200407005 000016  01119  01159              % 02289 AVL---
+*R 2 200407005 200405008 200407005  01119  01159            % 02289 AVL---
+*G STE 200405008 200407005  01119  01159                    % 02289 AVL---
+*A VE 200405008 200407005 000016  01119  01159              % 02289 AVL---
+200405008 Luxembourg, Centre H         01119                % 02289 AVL---
+200403009 Belair, Kannerklinic  01121  01121                % 02289 AVL---
+200403003 Belair, Aubépines     01122  01122                % 02289 AVL---
+200403019 Belair, Val Ste Croi  01123  01123                % 02289 AVL---
+200420007 Merl, Kiirfecht       01124  01124                % 02289 AVL---
+200403012 Belair, Oradour       01125  01125                % 02289 AVL---
+200403010 Belair, Kierch        01126  01126                % 02289 AVL---
+200403005 Belair, Sacré-Coeur   01127  01127                % 02289 AVL---
+200403020 Belair, Wampach       01129  01129                % 02289 AVL---
+200405025 Luxembourg/Centre, M  01131  01136                % 02289 AVL---
+200405054 Centre, F.D. Rooseve  01139  01139                % 02289 AVL---
+200405001 Gare, Al Avenue       01141  01141                % 02289 AVL---
+200405032 Luxembourg, Gare Cen  01142  01142                % 02289 AVL---
+200405003 Centre, Alsace        01144  01144                % 02289 AVL---
+200412007 Gasperich, Déportati  01146  01146                % 02289 AVL---
+200412020 Gasperich, Millewee   01147  01147                % 02289 AVL---
+200412005 Gasperich, Clemencea  01148  01148                % 02289 AVL---
+200412016 Gasperich, Richard W  01149  01149                % 02289 AVL---
+200412003 Gasperich, Bei der A  01150  01150                % 02289 AVL---
+200412001 Gasperich, Al Gaaspe  01151  01151                % 02289 AVL---
+200412011 Gasperich, Klensch    01152  01152                % 02289 AVL---
+200412013 Gasperich, Louis de   01153  01153                % 02289 AVL---
+200407011 Cessange, Rue Verte   01154  01154                % 02289 AVL---
+200407009 Cessange, Kuelebierg  01155  01155                % 02289 AVL---
+200407012 Cessange, Tubishaff   01156  01156                % 02289 AVL---
+200407002 Cessange, Antoine     01157  01157                % 02289 AVL---
+200407010 Cessange, Rue de Leu  01157  01157                % 02289 AVL---
+200407005 Cessange, Boy Konen   01159                       % 02289 AVL---
+*Z 02290 AVL---                                             % 02290 AVL---
+*L 13       200407005 200405008  01947  02019               % 02290 AVL---
+*A BE 200407005 200405008 000025  01947  02019              % 02290 AVL---
+*R 1 200405008 200407005 200405008  01947  02019            % 02290 AVL---
+*G STE 200407005 200405008  01947  02019                    % 02290 AVL---
+*A VE 200407005 200405008 000025  01947  02019              % 02290 AVL---
+200407005 Cessange, Boy Konen          01947                % 02290 AVL---
+200407010 Cessange, Rue de Leu  01948  01948                % 02290 AVL---
+200407002 Cessange, Antoine     01949  01949                % 02290 AVL---
+200407012 Cessange, Tubishaff   01950  01950                % 02290 AVL---
+200407009 Cessange, Kuelebierg  01951  01951                % 02290 AVL---
+200407011 Cessange, Rue Verte   01952  01952                % 02290 AVL---
+200412013 Gasperich, Louis de   01953  01953                % 02290 AVL---
+200412011 Gasperich, Klensch    01954  01954                % 02290 AVL---
+200412001 Gasperich, Al Gaaspe  01954  01954                % 02290 AVL---
+200412003 Gasperich, Bei der A  01955  01955                % 02290 AVL---
+200412005 Gasperich, Clemencea  01956  01956                % 02290 AVL---
+200412016 Gasperich, Richard W  01957  01957                % 02290 AVL---
+200412020 Gasperich, Millewee   01958  01958                % 02290 AVL---
+200412007 Gasperich, Déportati  01959  01959                % 02290 AVL---
+200405003 Centre, Alsace        02000  02000                % 02290 AVL---
+200405036 Luxembourg, Gare Cen  02003  02003                % 02290 AVL---
+200405001 Gare, Al Avenue       02005  02005                % 02290 AVL---
+200405013 Centre, F.D. Rooseve  02007  02007                % 02290 AVL---
+200405025 Luxembourg/Centre, M  02010  02010                % 02290 AVL---
+200403020 Belair, Wampach       02011  02011                % 02290 AVL---
+200403005 Belair, Sacré-Coeur   02013  02013                % 02290 AVL---
+200403010 Belair, Kierch        02014  02014                % 02290 AVL---
+200403012 Belair, Oradour       02015  02015                % 02290 AVL---
+200420007 Merl, Kiirfecht       02015  02015                % 02290 AVL---
+200403019 Belair, Val Ste Croi  02016  02016                % 02290 AVL---
+200403003 Belair, Aubépines     02017  02017                % 02290 AVL---
+200403009 Belair, Kannerklinic  02018  02018                % 02290 AVL---
+200405008 Luxembourg, Centre H  02019                       % 02290 AVL---
+*Z 02291 AVL---                                             % 02291 AVL---
+*L 13       200407005 200405008  00541  00613               % 02291 AVL---
+*A BE 200407005 200405008 000033  00541  00613              % 02291 AVL---
+*R 1 200405008 200407005 200405008  00541  00613            % 02291 AVL---
+*G STE 200407005 200405008  00541  00613                    % 02291 AVL---
+*A VE 200407005 200405008 000033  00541  00613              % 02291 AVL---
+200407005 Cessange, Boy Konen          00541                % 02291 AVL---
+200407010 Cessange, Rue de Leu  00542  00542                % 02291 AVL---
+200407002 Cessange, Antoine     00543  00543                % 02291 AVL---
+200407012 Cessange, Tubishaff   00544  00544                % 02291 AVL---
+200407009 Cessange, Kuelebierg  00545  00545                % 02291 AVL---
+200407011 Cessange, Rue Verte   00546  00546                % 02291 AVL---
+200412013 Gasperich, Louis de   00547  00547                % 02291 AVL---
+200412011 Gasperich, Klensch    00548  00548                % 02291 AVL---
+200412001 Gasperich, Al Gaaspe  00548  00548                % 02291 AVL---
+200412003 Gasperich, Bei der A  00549  00549                % 02291 AVL---
+200412005 Gasperich, Clemencea  00550  00550                % 02291 AVL---
+200412016 Gasperich, Richard W  00551  00551                % 02291 AVL---
+200412020 Gasperich, Millewee   00552  00552                % 02291 AVL---
+200412007 Gasperich, Déportati  00553  00553                % 02291 AVL---
+200405003 Centre, Alsace        00554  00554                % 02291 AVL---
+200405036 Luxembourg, Gare Cen  00557  00557                % 02291 AVL---
+200405001 Gare, Al Avenue       00559  00559                % 02291 AVL---
+200405013 Centre, F.D. Rooseve  00601  00601                % 02291 AVL---
+200405025 Luxembourg/Centre, M  00604  00604                % 02291 AVL---
+200403020 Belair, Wampach       00605  00605                % 02291 AVL---
+200403005 Belair, Sacré-Coeur   00607  00607                % 02291 AVL---
+200403010 Belair, Kierch        00608  00608                % 02291 AVL---
+200403012 Belair, Oradour       00609  00609                % 02291 AVL---
+200420007 Merl, Kiirfecht       00609  00609                % 02291 AVL---
+200403019 Belair, Val Ste Croi  00610  00610                % 02291 AVL---
+200403003 Belair, Aubépines     00611  00611                % 02291 AVL---
+200403009 Belair, Kannerklinic  00612  00612                % 02291 AVL---
+200405008 Luxembourg, Centre H  00613                       % 02291 AVL---
+*Z 02292 AVL---       001 015                               % 02292 AVL---
+*L 13       200407005 200405008  01940  02012               % 02292 AVL---
+*A BE 200407005 200405008 000033  01940  02012              % 02292 AVL---
+*R 1 200405008 200407005 200405008  01940  02012            % 02292 AVL---
+*G STE 200407005 200405008  01940  02012                    % 02292 AVL---
+*A VE 200407005 200405008 000033  01940  02012              % 02292 AVL---
+200407005 Cessange, Boy Konen          01940                % 02292 AVL---
+200407010 Cessange, Rue de Leu  01941  01941                % 02292 AVL---
+200407002 Cessange, Antoine     01942  01942                % 02292 AVL---
+200407012 Cessange, Tubishaff   01943  01943                % 02292 AVL---
+200407009 Cessange, Kuelebierg  01944  01944                % 02292 AVL---
+200407011 Cessange, Rue Verte   01945  01945                % 02292 AVL---
+200412013 Gasperich, Louis de   01946  01946                % 02292 AVL---
+200412011 Gasperich, Klensch    01947  01947                % 02292 AVL---
+200412001 Gasperich, Al Gaaspe  01948  01948                % 02292 AVL---
+200412003 Gasperich, Bei der A  01949  01949                % 02292 AVL---
+200412005 Gasperich, Clemencea  01949  01949                % 02292 AVL---
+200412016 Gasperich, Richard W  01951  01951                % 02292 AVL---
+200412020 Gasperich, Millewee   01952  01952                % 02292 AVL---
+200412007 Gasperich, Déportati  01953  01953                % 02292 AVL---
+200405003 Centre, Alsace        01954  01954                % 02292 AVL---
+200405036 Luxembourg, Gare Cen  01956  01956                % 02292 AVL---
+200405001 Gare, Al Avenue       01959  01959                % 02292 AVL---
+200405013 Centre, F.D. Rooseve  02001  02001                % 02292 AVL---
+200405025 Luxembourg/Centre, M  02003  02003                % 02292 AVL---
+200403020 Belair, Wampach       02004  02004                % 02292 AVL---
+200403005 Belair, Sacré-Coeur   02006  02006                % 02292 AVL---
+200403010 Belair, Kierch        02007  02007                % 02292 AVL---
+200403012 Belair, Oradour       02008  02008                % 02292 AVL---
+200420007 Merl, Kiirfecht       02009  02009                % 02292 AVL---
+200403019 Belair, Val Ste Croi  02010  02010                % 02292 AVL---
+200403003 Belair, Aubépines     02011  02011                % 02292 AVL---
+200403009 Belair, Kannerklinic  02012  02012                % 02292 AVL---
+200405008 Luxembourg, Centre H  02012                       % 02292 AVL---
+*Z 02293 AVL---       006 030                               % 02293 AVL---
+*L 13       200407005 200405008  00738  00810               % 02293 AVL---
+*A BE 200407005 200405008 000018  00738  00810              % 02293 AVL---
+*R 1 200405008 200407005 200405008  00738  00810            % 02293 AVL---
+*G STE 200407005 200405008  00738  00810                    % 02293 AVL---
+*A VE 200407005 200405008 000018  00738  00810              % 02293 AVL---
+200407005 Cessange, Boy Konen          00738                % 02293 AVL---
+200407010 Cessange, Rue de Leu  00739  00739                % 02293 AVL---
+200407002 Cessange, Antoine     00740  00740                % 02293 AVL---
+200407012 Cessange, Tubishaff   00741  00741                % 02293 AVL---
+200407009 Cessange, Kuelebierg  00742  00742                % 02293 AVL---
+200407011 Cessange, Rue Verte   00743  00743                % 02293 AVL---
+200412013 Gasperich, Louis de   00744  00744                % 02293 AVL---
+200412011 Gasperich, Klensch    00745  00745                % 02293 AVL---
+200412001 Gasperich, Al Gaaspe  00745  00745                % 02293 AVL---
+200412003 Gasperich, Bei der A  00746  00746                % 02293 AVL---
+200412005 Gasperich, Clemencea  00747  00747                % 02293 AVL---
+200412016 Gasperich, Richard W  00748  00748                % 02293 AVL---
+200412020 Gasperich, Millewee   00749  00749                % 02293 AVL---
+200412007 Gasperich, Déportati  00750  00750                % 02293 AVL---
+200405003 Centre, Alsace        00751  00751                % 02293 AVL---
+200405036 Luxembourg, Gare Cen  00754  00754                % 02293 AVL---
+200405001 Gare, Al Avenue       00756  00756                % 02293 AVL---
+200405013 Centre, F.D. Rooseve  00758  00758                % 02293 AVL---
+200405025 Luxembourg/Centre, M  00801  00801                % 02293 AVL---
+200403020 Belair, Wampach       00802  00802                % 02293 AVL---
+200403005 Belair, Sacré-Coeur   00804  00804                % 02293 AVL---
+200403010 Belair, Kierch        00805  00805                % 02293 AVL---
+200403012 Belair, Oradour       00806  00806                % 02293 AVL---
+200420007 Merl, Kiirfecht       00806  00806                % 02293 AVL---
+200403019 Belair, Val Ste Croi  00807  00807                % 02293 AVL---
+200403003 Belair, Aubépines     00808  00808                % 02293 AVL---
+200403009 Belair, Kannerklinic  00809  00809                % 02293 AVL---
+200405008 Luxembourg, Centre H  00810                       % 02293 AVL---
+*Z 02294 AVL---                                             % 02294 AVL---
+*L 13       200407005 200405008  01938  02010               % 02294 AVL---
+*A BE 200407005 200405008 000018  01938  02010              % 02294 AVL---
+*R 1 200405008 200407005 200405008  01938  02010            % 02294 AVL---
+*G STE 200407005 200405008  01938  02010                    % 02294 AVL---
+*A VE 200407005 200405008 000018  01938  02010              % 02294 AVL---
+200407005 Cessange, Boy Konen          01938                % 02294 AVL---
+200407010 Cessange, Rue de Leu  01939  01939                % 02294 AVL---
+200407002 Cessange, Antoine     01940  01940                % 02294 AVL---
+200407012 Cessange, Tubishaff   01941  01941                % 02294 AVL---
+200407009 Cessange, Kuelebierg  01942  01942                % 02294 AVL---
+200407011 Cessange, Rue Verte   01943  01943                % 02294 AVL---
+200412013 Gasperich, Louis de   01944  01944                % 02294 AVL---
+200412011 Gasperich, Klensch    01945  01945                % 02294 AVL---
+200412001 Gasperich, Al Gaaspe  01945  01945                % 02294 AVL---
+200412003 Gasperich, Bei der A  01946  01946                % 02294 AVL---
+200412005 Gasperich, Clemencea  01947  01947                % 02294 AVL---
+200412016 Gasperich, Richard W  01948  01948                % 02294 AVL---
+200412020 Gasperich, Millewee   01949  01949                % 02294 AVL---
+200412007 Gasperich, Déportati  01950  01950                % 02294 AVL---
+200405003 Centre, Alsace        01951  01951                % 02294 AVL---
+200405036 Luxembourg, Gare Cen  01954  01954                % 02294 AVL---
+200405001 Gare, Al Avenue       01956  01956                % 02294 AVL---
+200405013 Centre, F.D. Rooseve  01958  01958                % 02294 AVL---
+200405025 Luxembourg/Centre, M  02001  02001                % 02294 AVL---
+200403020 Belair, Wampach       02002  02002                % 02294 AVL---
+200403005 Belair, Sacré-Coeur   02004  02004                % 02294 AVL---
+200403010 Belair, Kierch        02005  02005                % 02294 AVL---
+200403012 Belair, Oradour       02006  02006                % 02294 AVL---
+200420007 Merl, Kiirfecht       02006  02006                % 02294 AVL---
+200403019 Belair, Val Ste Croi  02007  02007                % 02294 AVL---
+200403003 Belair, Aubépines     02008  02008                % 02294 AVL---
+200403009 Belair, Kannerklinic  02009  02009                % 02294 AVL---
+200405008 Luxembourg, Centre H  02010                       % 02294 AVL---
+*Z 02295 AVL---       001 900                               % 02295 AVL---
+*L 13       200407005 200405008  00508  00540               % 02295 AVL---
+*A BE 200407005 200405008 000039  00508  00540              % 02295 AVL---
+*R 1 200405008 200407005 200405008  00508  00540            % 02295 AVL---
+*G STE 200407005 200405008  00508  00540                    % 02295 AVL---
+*A VE 200407005 200405008 000039  00508  00540              % 02295 AVL---
+200407005 Cessange, Boy Konen          00508                % 02295 AVL---
+200407010 Cessange, Rue de Leu  00509  00509                % 02295 AVL---
+200407002 Cessange, Antoine     00510  00510                % 02295 AVL---
+200407012 Cessange, Tubishaff   00511  00511                % 02295 AVL---
+200407009 Cessange, Kuelebierg  00512  00512                % 02295 AVL---
+200407011 Cessange, Rue Verte   00513  00513                % 02295 AVL---
+200412013 Gasperich, Louis de   00514  00514                % 02295 AVL---
+200412011 Gasperich, Klensch    00515  00515                % 02295 AVL---
+200412001 Gasperich, Al Gaaspe  00515  00515                % 02295 AVL---
+200412003 Gasperich, Bei der A  00516  00516                % 02295 AVL---
+200412005 Gasperich, Clemencea  00517  00517                % 02295 AVL---
+200412016 Gasperich, Richard W  00518  00518                % 02295 AVL---
+200412020 Gasperich, Millewee   00519  00519                % 02295 AVL---
+200412007 Gasperich, Déportati  00520  00520                % 02295 AVL---
+200405003 Centre, Alsace        00521  00521                % 02295 AVL---
+200405036 Luxembourg, Gare Cen  00524  00524                % 02295 AVL---
+200405001 Gare, Al Avenue       00526  00526                % 02295 AVL---
+200405013 Centre, F.D. Rooseve  00528  00528                % 02295 AVL---
+200405025 Luxembourg/Centre, M  00531  00531                % 02295 AVL---
+200403020 Belair, Wampach       00532  00532                % 02295 AVL---
+200403005 Belair, Sacré-Coeur   00534  00534                % 02295 AVL---
+200403010 Belair, Kierch        00535  00535                % 02295 AVL---
+200403012 Belair, Oradour       00536  00536                % 02295 AVL---
+200420007 Merl, Kiirfecht       00536  00536                % 02295 AVL---
+200403019 Belair, Val Ste Croi  00537  00537                % 02295 AVL---
+200403003 Belair, Aubépines     00538  00538                % 02295 AVL---
+200403009 Belair, Kannerklinic  00539  00539                % 02295 AVL---
+200405008 Luxembourg, Centre H  00540                       % 02295 AVL---
+*Z 02296 AVL---       006 030                               % 02296 AVL---
+*L 13       200407005 200405008  02038  02110               % 02296 AVL---
+*A BE 200407005 200405008 000039  02038  02110              % 02296 AVL---
+*R 1 200405008 200407005 200405008  02038  02110            % 02296 AVL---
+*G STE 200407005 200405008  02038  02110                    % 02296 AVL---
+*A VE 200407005 200405008 000039  02038  02110              % 02296 AVL---
+200407005 Cessange, Boy Konen          02038                % 02296 AVL---
+200407010 Cessange, Rue de Leu  02039  02039                % 02296 AVL---
+200407002 Cessange, Antoine     02040  02040                % 02296 AVL---
+200407012 Cessange, Tubishaff   02041  02041                % 02296 AVL---
+200407009 Cessange, Kuelebierg  02042  02042                % 02296 AVL---
+200407011 Cessange, Rue Verte   02043  02043                % 02296 AVL---
+200412013 Gasperich, Louis de   02044  02044                % 02296 AVL---
+200412011 Gasperich, Klensch    02045  02045                % 02296 AVL---
+200412001 Gasperich, Al Gaaspe  02045  02045                % 02296 AVL---
+200412003 Gasperich, Bei der A  02046  02046                % 02296 AVL---
+200412005 Gasperich, Clemencea  02047  02047                % 02296 AVL---
+200412016 Gasperich, Richard W  02048  02048                % 02296 AVL---
+200412020 Gasperich, Millewee   02049  02049                % 02296 AVL---
+200412007 Gasperich, Déportati  02050  02050                % 02296 AVL---
+200405003 Centre, Alsace        02051  02051                % 02296 AVL---
+200405036 Luxembourg, Gare Cen  02054  02054                % 02296 AVL---
+200405001 Gare, Al Avenue       02056  02056                % 02296 AVL---
+200405013 Centre, F.D. Rooseve  02058  02058                % 02296 AVL---
+200405025 Luxembourg/Centre, M  02101  02101                % 02296 AVL---
+200403020 Belair, Wampach       02102  02102                % 02296 AVL---
+200403005 Belair, Sacré-Coeur   02104  02104                % 02296 AVL---
+200403010 Belair, Kierch        02105  02105                % 02296 AVL---
+200403012 Belair, Oradour       02106  02106                % 02296 AVL---
+200420007 Merl, Kiirfecht       02106  02106                % 02296 AVL---
+200403019 Belair, Val Ste Croi  02107  02107                % 02296 AVL---
+200403003 Belair, Aubépines     02108  02108                % 02296 AVL---
+200403009 Belair, Kannerklinic  02109  02109                % 02296 AVL---
+200405008 Luxembourg, Centre H  02110                       % 02296 AVL---
+*Z 02297 AVL---       003 030                               % 02297 AVL---
+*L 13       200407005 200405008  00538  00610               % 02297 AVL---
+*A BE 200407005 200405008 000035  00538  00610              % 02297 AVL---
+*R 1 200405008 200407005 200405008  00538  00610            % 02297 AVL---
+*G STE 200407005 200405008  00538  00610                    % 02297 AVL---
+*A VE 200407005 200405008 000035  00538  00610              % 02297 AVL---
+200407005 Cessange, Boy Konen          00538                % 02297 AVL---
+200407010 Cessange, Rue de Leu  00539  00539                % 02297 AVL---
+200407002 Cessange, Antoine     00540  00540                % 02297 AVL---
+200407012 Cessange, Tubishaff   00541  00541                % 02297 AVL---
+200407009 Cessange, Kuelebierg  00542  00542                % 02297 AVL---
+200407011 Cessange, Rue Verte   00543  00543                % 02297 AVL---
+200412013 Gasperich, Louis de   00544  00544                % 02297 AVL---
+200412011 Gasperich, Klensch    00545  00545                % 02297 AVL---
+200412001 Gasperich, Al Gaaspe  00545  00545                % 02297 AVL---
+200412003 Gasperich, Bei der A  00546  00546                % 02297 AVL---
+200412005 Gasperich, Clemencea  00547  00547                % 02297 AVL---
+200412016 Gasperich, Richard W  00548  00548                % 02297 AVL---
+200412020 Gasperich, Millewee   00549  00549                % 02297 AVL---
+200412007 Gasperich, Déportati  00550  00550                % 02297 AVL---
+200405003 Centre, Alsace        00551  00551                % 02297 AVL---
+200405036 Luxembourg, Gare Cen  00554  00554                % 02297 AVL---
+200405001 Gare, Al Avenue       00556  00556                % 02297 AVL---
+200405013 Centre, F.D. Rooseve  00558  00558                % 02297 AVL---
+200405025 Luxembourg/Centre, M  00601  00601                % 02297 AVL---
+200403020 Belair, Wampach       00602  00602                % 02297 AVL---
+200403005 Belair, Sacré-Coeur   00604  00604                % 02297 AVL---
+200403010 Belair, Kierch        00605  00605                % 02297 AVL---
+200403012 Belair, Oradour       00606  00606                % 02297 AVL---
+200420007 Merl, Kiirfecht       00606  00606                % 02297 AVL---
+200403019 Belair, Val Ste Croi  00607  00607                % 02297 AVL---
+200403003 Belair, Aubépines     00608  00608                % 02297 AVL---
+200403009 Belair, Kannerklinic  00609  00609                % 02297 AVL---
+200405008 Luxembourg, Centre H  00610                       % 02297 AVL---
+*Z 02298 AVL---       001 030                               % 02298 AVL---
+*L 13       200407005 200405008  00735  00809               % 02298 AVL---
+*A BE 200407005 200405008 000025  00735  00809              % 02298 AVL---
+*R 1 200405008 200407005 200405008  00735  00809            % 02298 AVL---
+*G STE 200407005 200405008  00735  00809                    % 02298 AVL---
+*A VE 200407005 200405008 000025  00735  00809              % 02298 AVL---
+200407005 Cessange, Boy Konen          00735                % 02298 AVL---
+200407010 Cessange, Rue de Leu  00736  00736                % 02298 AVL---
+200407002 Cessange, Antoine     00737  00737                % 02298 AVL---
+200407012 Cessange, Tubishaff   00738  00738                % 02298 AVL---
+200407009 Cessange, Kuelebierg  00739  00739                % 02298 AVL---
+200407011 Cessange, Rue Verte   00740  00740                % 02298 AVL---
+200412013 Gasperich, Louis de   00742  00742                % 02298 AVL---
+200412011 Gasperich, Klensch    00743  00743                % 02298 AVL---
+200412001 Gasperich, Al Gaaspe  00743  00743                % 02298 AVL---
+200412003 Gasperich, Bei der A  00744  00744                % 02298 AVL---
+200412005 Gasperich, Clemencea  00745  00745                % 02298 AVL---
+200412016 Gasperich, Richard W  00746  00746                % 02298 AVL---
+200412020 Gasperich, Millewee   00747  00747                % 02298 AVL---
+200412007 Gasperich, Déportati  00748  00748                % 02298 AVL---
+200405003 Centre, Alsace        00750  00750                % 02298 AVL---
+200405036 Luxembourg, Gare Cen  00752  00752                % 02298 AVL---
+200405001 Gare, Al Avenue       00755  00755                % 02298 AVL---
+200405013 Centre, F.D. Rooseve  00757  00757                % 02298 AVL---
+200405025 Luxembourg/Centre, M  00800  00800                % 02298 AVL---
+200403020 Belair, Wampach       00801  00801                % 02298 AVL---
+200403005 Belair, Sacré-Coeur   00803  00803                % 02298 AVL---
+200403010 Belair, Kierch        00804  00804                % 02298 AVL---
+200403012 Belair, Oradour       00805  00805                % 02298 AVL---
+200420007 Merl, Kiirfecht       00805  00805                % 02298 AVL---
+200403019 Belair, Val Ste Croi  00806  00806                % 02298 AVL---
+200403003 Belair, Aubépines     00807  00807                % 02298 AVL---
+200403009 Belair, Kannerklinic  00808  00808                % 02298 AVL---
+200405008 Luxembourg, Centre H  00809                       % 02298 AVL---
+*Z 02299 AVL---       033 020                               % 02299 AVL---
+*L 13       200407005 200405008  00825  00859               % 02299 AVL---
+*A BE 200407005 200405008 000025  00825  00859              % 02299 AVL---
+*R 1 200405008 200407005 200405008  00825  00859            % 02299 AVL---
+*G STE 200407005 200405008  00825  00859                    % 02299 AVL---
+*A VE 200407005 200405008 000025  00825  00859              % 02299 AVL---
+200407005 Cessange, Boy Konen          00825                % 02299 AVL---
+200407010 Cessange, Rue de Leu  00826  00826                % 02299 AVL---
+200407002 Cessange, Antoine     00827  00827                % 02299 AVL---
+200407012 Cessange, Tubishaff   00828  00828                % 02299 AVL---
+200407009 Cessange, Kuelebierg  00829  00829                % 02299 AVL---
+200407011 Cessange, Rue Verte   00830  00830                % 02299 AVL---
+200412013 Gasperich, Louis de   00832  00832                % 02299 AVL---
+200412011 Gasperich, Klensch    00833  00833                % 02299 AVL---
+200412001 Gasperich, Al Gaaspe  00833  00833                % 02299 AVL---
+200412003 Gasperich, Bei der A  00834  00834                % 02299 AVL---
+200412005 Gasperich, Clemencea  00835  00835                % 02299 AVL---
+200412016 Gasperich, Richard W  00836  00836                % 02299 AVL---
+200412020 Gasperich, Millewee   00837  00837                % 02299 AVL---
+200412007 Gasperich, Déportati  00838  00838                % 02299 AVL---
+200405003 Centre, Alsace        00840  00840                % 02299 AVL---
+200405036 Luxembourg, Gare Cen  00842  00842                % 02299 AVL---
+200405001 Gare, Al Avenue       00845  00845                % 02299 AVL---
+200405013 Centre, F.D. Rooseve  00847  00847                % 02299 AVL---
+200405025 Luxembourg/Centre, M  00850  00850                % 02299 AVL---
+200403020 Belair, Wampach       00851  00851                % 02299 AVL---
+200403005 Belair, Sacré-Coeur   00853  00853                % 02299 AVL---
+200403010 Belair, Kierch        00854  00854                % 02299 AVL---
+200403012 Belair, Oradour       00855  00855                % 02299 AVL---
+200420007 Merl, Kiirfecht       00855  00855                % 02299 AVL---
+200403019 Belair, Val Ste Croi  00856  00856                % 02299 AVL---
+200403003 Belair, Aubépines     00857  00857                % 02299 AVL---
+200403009 Belair, Kannerklinic  00858  00858                % 02299 AVL---
+200405008 Luxembourg, Centre H  00859                       % 02299 AVL---
+*Z 02300 AVL---       016 030                               % 02300 AVL---
+*L 13       200407005 200405008  01106  01140               % 02300 AVL---
+*A BE 200407005 200405008 000018  01106  01140              % 02300 AVL---
+*R 1 200405008 200407005 200405008  01106  01140            % 02300 AVL---
+*G STE 200407005 200405008  01106  01140                    % 02300 AVL---
+*A VE 200407005 200405008 000018  01106  01140              % 02300 AVL---
+200407005 Cessange, Boy Konen          01106                % 02300 AVL---
+200407010 Cessange, Rue de Leu  01107  01107                % 02300 AVL---
+200407002 Cessange, Antoine     01108  01108                % 02300 AVL---
+200407012 Cessange, Tubishaff   01109  01109                % 02300 AVL---
+200407009 Cessange, Kuelebierg  01110  01110                % 02300 AVL---
+200407011 Cessange, Rue Verte   01111  01111                % 02300 AVL---
+200412013 Gasperich, Louis de   01113  01113                % 02300 AVL---
+200412011 Gasperich, Klensch    01114  01114                % 02300 AVL---
+200412001 Gasperich, Al Gaaspe  01114  01114                % 02300 AVL---
+200412003 Gasperich, Bei der A  01115  01115                % 02300 AVL---
+200412005 Gasperich, Clemencea  01116  01116                % 02300 AVL---
+200412016 Gasperich, Richard W  01117  01117                % 02300 AVL---
+200412020 Gasperich, Millewee   01118  01118                % 02300 AVL---
+200412007 Gasperich, Déportati  01119  01119                % 02300 AVL---
+200405003 Centre, Alsace        01121  01121                % 02300 AVL---
+200405036 Luxembourg, Gare Cen  01123  01123                % 02300 AVL---
+200405001 Gare, Al Avenue       01126  01126                % 02300 AVL---
+200405013 Centre, F.D. Rooseve  01128  01128                % 02300 AVL---
+200405025 Luxembourg/Centre, M  01131  01131                % 02300 AVL---
+200403020 Belair, Wampach       01132  01132                % 02300 AVL---
+200403005 Belair, Sacré-Coeur   01134  01134                % 02300 AVL---
+200403010 Belair, Kierch        01135  01135                % 02300 AVL---
+200403012 Belair, Oradour       01136  01136                % 02300 AVL---
+200420007 Merl, Kiirfecht       01136  01136                % 02300 AVL---
+200403019 Belair, Val Ste Croi  01137  01137                % 02300 AVL---
+200403003 Belair, Aubépines     01138  01138                % 02300 AVL---
+200403009 Belair, Kannerklinic  01139  01139                % 02300 AVL---
+200405008 Luxembourg, Centre H  01140                       % 02300 AVL---
+*Z 02301 AVL---       054 015                               % 02301 AVL---
+*L 13       200407005 200405008  00550  00629               % 02301 AVL---
+*A BE 200407005 200405008 000033  00550  00629              % 02301 AVL---
+*R 1 200405008 200407005 200405008  00550  00629            % 02301 AVL---
+*G STE 200407005 200405008  00550  00629                    % 02301 AVL---
+*A VE 200407005 200405008 000033  00550  00629              % 02301 AVL---
+200407005 Cessange, Boy Konen          00550                % 02301 AVL---
+200407010 Cessange, Rue de Leu  00552  00552                % 02301 AVL---
+200407002 Cessange, Antoine     00552  00552                % 02301 AVL---
+200407012 Cessange, Tubishaff   00554  00554                % 02301 AVL---
+200407009 Cessange, Kuelebierg  00555  00555                % 02301 AVL---
+200407011 Cessange, Rue Verte   00556  00556                % 02301 AVL---
+200412013 Gasperich, Louis de   00557  00557                % 02301 AVL---
+200412011 Gasperich, Klensch    00558  00558                % 02301 AVL---
+200412001 Gasperich, Al Gaaspe  00559  00559                % 02301 AVL---
+200412003 Gasperich, Bei der A  00600  00600                % 02301 AVL---
+200412005 Gasperich, Clemencea  00601  00601                % 02301 AVL---
+200412016 Gasperich, Richard W  00603  00603                % 02301 AVL---
+200412020 Gasperich, Millewee   00604  00604                % 02301 AVL---
+200412007 Gasperich, Déportati  00605  00605                % 02301 AVL---
+200405003 Centre, Alsace        00606  00606                % 02301 AVL---
+200405036 Luxembourg, Gare Cen  00609  00609                % 02301 AVL---
+200405001 Gare, Al Avenue       00612  00612                % 02301 AVL---
+200405013 Centre, F.D. Rooseve  00615  00615                % 02301 AVL---
+200405025 Luxembourg/Centre, M  00618  00618                % 02301 AVL---
+200403020 Belair, Wampach       00620  00620                % 02301 AVL---
+200403005 Belair, Sacré-Coeur   00622  00622                % 02301 AVL---
+200403010 Belair, Kierch        00623  00623                % 02301 AVL---
+200403012 Belair, Oradour       00624  00624                % 02301 AVL---
+200420007 Merl, Kiirfecht       00625  00625                % 02301 AVL---
+200403019 Belair, Val Ste Croi  00626  00626                % 02301 AVL---
+200403003 Belair, Aubépines     00627  00627                % 02301 AVL---
+200403009 Belair, Kannerklinic  00629  00629                % 02301 AVL---
+200405008 Luxembourg, Centre H  00629                       % 02301 AVL---
+*Z 02302 AVL---       001 048                               % 02302 AVL---
+*L 13       200412011 200405008  00445  00510               % 02302 AVL---
+*A BE 200412011 200405008 000033  00445  00510              % 02302 AVL---
+*R 1 200405008 200412011 200405008  00445  00510            % 02302 AVL---
+*G STE 200412011 200405008  00445  00510                    % 02302 AVL---
+*A VE 200412011 200405008 000033  00445  00510              % 02302 AVL---
+200412011 Gasperich, Klensch           00445                % 02302 AVL---
+200412001 Gasperich, Al Gaaspe  00445  00445                % 02302 AVL---
+200412003 Gasperich, Bei der A  00446  00446                % 02302 AVL---
+200412005 Gasperich, Clemencea  00447  00447                % 02302 AVL---
+200412016 Gasperich, Richard W  00448  00448                % 02302 AVL---
+200412020 Gasperich, Millewee   00449  00449                % 02302 AVL---
+200412007 Gasperich, Déportati  00450  00450                % 02302 AVL---
+200405003 Centre, Alsace        00451  00451                % 02302 AVL---
+200405036 Luxembourg, Gare Cen  00454  00454                % 02302 AVL---
+200405001 Gare, Al Avenue       00456  00456                % 02302 AVL---
+200405013 Centre, F.D. Rooseve  00458  00458                % 02302 AVL---
+200405025 Luxembourg/Centre, M  00501  00501                % 02302 AVL---
+200403020 Belair, Wampach       00502  00502                % 02302 AVL---
+200403005 Belair, Sacré-Coeur   00504  00504                % 02302 AVL---
+200403010 Belair, Kierch        00505  00505                % 02302 AVL---
+200403012 Belair, Oradour       00506  00506                % 02302 AVL---
+200420007 Merl, Kiirfecht       00506  00506                % 02302 AVL---
+200403019 Belair, Val Ste Croi  00507  00507                % 02302 AVL---
+200403003 Belair, Aubépines     00508  00508                % 02302 AVL---
+200403009 Belair, Kannerklinic  00509  00509                % 02302 AVL---
+200405008 Luxembourg, Centre H  00510                       % 02302 AVL---
+*Z 02303 AVL---       001 030                               % 02303 AVL---
+*L 13       200405008 200407005  00520  00557               % 02303 AVL---
+*A BE 200405008 200407005 000039  00520  00557              % 02303 AVL---
+*R 2 200407005 200405008 200407005  00520  00557            % 02303 AVL---
+*G STE 200405008 200407005  00520  00557                    % 02303 AVL---
+*A VE 200405008 200407005 000039  00520  00557              % 02303 AVL---
+200405008 Luxembourg, Centre H         00520                % 02303 AVL---
+200403009 Belair, Kannerklinic  00522  00522                % 02303 AVL---
+200403003 Belair, Aubépines     00523  00523                % 02303 AVL---
+200403019 Belair, Val Ste Croi  00523  00523                % 02303 AVL---
+200420007 Merl, Kiirfecht       00524  00524                % 02303 AVL---
+200403012 Belair, Oradour       00525  00525                % 02303 AVL---
+200403010 Belair, Kierch        00526  00526                % 02303 AVL---
+200403005 Belair, Sacré-Coeur   00527  00527                % 02303 AVL---
+200403020 Belair, Wampach       00529  00529                % 02303 AVL---
+200405025 Luxembourg/Centre, M  00531  00536                % 02303 AVL---
+200405054 Centre, F.D. Rooseve  00538  00538                % 02303 AVL---
+200405001 Gare, Al Avenue       00540  00540                % 02303 AVL---
+200405032 Luxembourg, Gare Cen  00542  00542                % 02303 AVL---
+200405003 Centre, Alsace        00544  00544                % 02303 AVL---
+200412007 Gasperich, Déportati  00545  00545                % 02303 AVL---
+200412020 Gasperich, Millewee   00546  00546                % 02303 AVL---
+200412005 Gasperich, Clemencea  00547  00547                % 02303 AVL---
+200412016 Gasperich, Richard W  00548  00548                % 02303 AVL---
+200412003 Gasperich, Bei der A  00549  00549                % 02303 AVL---
+200412001 Gasperich, Al Gaaspe  00550  00550                % 02303 AVL---
+200412011 Gasperich, Klensch    00551  00551                % 02303 AVL---
+200412013 Gasperich, Louis de   00552  00552                % 02303 AVL---
+200407011 Cessange, Rue Verte   00552  00552                % 02303 AVL---
+200407009 Cessange, Kuelebierg  00553  00553                % 02303 AVL---
+200407012 Cessange, Tubishaff   00554  00554                % 02303 AVL---
+200407002 Cessange, Antoine     00555  00555                % 02303 AVL---
+200407010 Cessange, Rue de Leu  00556  00556                % 02303 AVL---
+200407005 Cessange, Boy Konen   00557                       % 02303 AVL---
+*Z 02304 AVL---       007 030                               % 02304 AVL---
+*L 13       200405008 200407005  02020  02057               % 02304 AVL---
+*A BE 200405008 200407005 000039  02020  02057              % 02304 AVL---
+*R 2 200407005 200405008 200407005  02020  02057            % 02304 AVL---
+*G STE 200405008 200407005  02020  02057                    % 02304 AVL---
+*A VE 200405008 200407005 000039  02020  02057              % 02304 AVL---
+200405008 Luxembourg, Centre H         02020                % 02304 AVL---
+200403009 Belair, Kannerklinic  02022  02022                % 02304 AVL---
+200403003 Belair, Aubépines     02023  02023                % 02304 AVL---
+200403019 Belair, Val Ste Croi  02023  02023                % 02304 AVL---
+200420007 Merl, Kiirfecht       02024  02024                % 02304 AVL---
+200403012 Belair, Oradour       02025  02025                % 02304 AVL---
+200403010 Belair, Kierch        02026  02026                % 02304 AVL---
+200403005 Belair, Sacré-Coeur   02027  02027                % 02304 AVL---
+200403020 Belair, Wampach       02029  02029                % 02304 AVL---
+200405025 Luxembourg/Centre, M  02031  02036                % 02304 AVL---
+200405054 Centre, F.D. Rooseve  02038  02038                % 02304 AVL---
+200405001 Gare, Al Avenue       02040  02040                % 02304 AVL---
+200405032 Luxembourg, Gare Cen  02042  02042                % 02304 AVL---
+200405003 Centre, Alsace        02044  02044                % 02304 AVL---
+200412007 Gasperich, Déportati  02045  02045                % 02304 AVL---
+200412020 Gasperich, Millewee   02046  02046                % 02304 AVL---
+200412005 Gasperich, Clemencea  02047  02047                % 02304 AVL---
+200412016 Gasperich, Richard W  02048  02048                % 02304 AVL---
+200412003 Gasperich, Bei der A  02049  02049                % 02304 AVL---
+200412001 Gasperich, Al Gaaspe  02050  02050                % 02304 AVL---
+200412011 Gasperich, Klensch    02051  02051                % 02304 AVL---
+200412013 Gasperich, Louis de   02052  02052                % 02304 AVL---
+200407011 Cessange, Rue Verte   02052  02052                % 02304 AVL---
+200407009 Cessange, Kuelebierg  02053  02053                % 02304 AVL---
+200407012 Cessange, Tubishaff   02054  02054                % 02304 AVL---
+200407002 Cessange, Antoine     02055  02055                % 02304 AVL---
+200407010 Cessange, Rue de Leu  02056  02056                % 02304 AVL---
+200407005 Cessange, Boy Konen   02057                       % 02304 AVL---
+*Z 02305 AVL---       006 030                               % 02305 AVL---
+*L 13       200405008 200407005  00750  00827               % 02305 AVL---
+*A BE 200405008 200407005 000018  00750  00827              % 02305 AVL---
+*R 2 200407005 200405008 200407005  00750  00827            % 02305 AVL---
+*G STE 200405008 200407005  00750  00827                    % 02305 AVL---
+*A VE 200405008 200407005 000018  00750  00827              % 02305 AVL---
+200405008 Luxembourg, Centre H         00750                % 02305 AVL---
+200403009 Belair, Kannerklinic  00752  00752                % 02305 AVL---
+200403003 Belair, Aubépines     00753  00753                % 02305 AVL---
+200403019 Belair, Val Ste Croi  00753  00753                % 02305 AVL---
+200420007 Merl, Kiirfecht       00754  00754                % 02305 AVL---
+200403012 Belair, Oradour       00755  00755                % 02305 AVL---
+200403010 Belair, Kierch        00756  00756                % 02305 AVL---
+200403005 Belair, Sacré-Coeur   00757  00757                % 02305 AVL---
+200403020 Belair, Wampach       00759  00759                % 02305 AVL---
+200405025 Luxembourg/Centre, M  00801  00806                % 02305 AVL---
+200405054 Centre, F.D. Rooseve  00808  00808                % 02305 AVL---
+200405001 Gare, Al Avenue       00810  00810                % 02305 AVL---
+200405032 Luxembourg, Gare Cen  00812  00812                % 02305 AVL---
+200405003 Centre, Alsace        00814  00814                % 02305 AVL---
+200412007 Gasperich, Déportati  00815  00815                % 02305 AVL---
+200412020 Gasperich, Millewee   00816  00816                % 02305 AVL---
+200412005 Gasperich, Clemencea  00817  00817                % 02305 AVL---
+200412016 Gasperich, Richard W  00818  00818                % 02305 AVL---
+200412003 Gasperich, Bei der A  00819  00819                % 02305 AVL---
+200412001 Gasperich, Al Gaaspe  00820  00820                % 02305 AVL---
+200412011 Gasperich, Klensch    00821  00821                % 02305 AVL---
+200412013 Gasperich, Louis de   00822  00822                % 02305 AVL---
+200407011 Cessange, Rue Verte   00822  00822                % 02305 AVL---
+200407009 Cessange, Kuelebierg  00823  00823                % 02305 AVL---
+200407012 Cessange, Tubishaff   00824  00824                % 02305 AVL---
+200407002 Cessange, Antoine     00825  00825                % 02305 AVL---
+200407010 Cessange, Rue de Leu  00826  00826                % 02305 AVL---
+200407005 Cessange, Boy Konen   00827                       % 02305 AVL---
+*Z 02306 AVL---                                             % 02306 AVL---
+*L 13       200405008 200407005  01950  02027               % 02306 AVL---
+*A BE 200405008 200407005 000018  01950  02027              % 02306 AVL---
+*R 2 200407005 200405008 200407005  01950  02027            % 02306 AVL---
+*G STE 200405008 200407005  01950  02027                    % 02306 AVL---
+*A VE 200405008 200407005 000018  01950  02027              % 02306 AVL---
+200405008 Luxembourg, Centre H         01950                % 02306 AVL---
+200403009 Belair, Kannerklinic  01952  01952                % 02306 AVL---
+200403003 Belair, Aubépines     01953  01953                % 02306 AVL---
+200403019 Belair, Val Ste Croi  01953  01953                % 02306 AVL---
+200420007 Merl, Kiirfecht       01954  01954                % 02306 AVL---
+200403012 Belair, Oradour       01955  01955                % 02306 AVL---
+200403010 Belair, Kierch        01956  01956                % 02306 AVL---
+200403005 Belair, Sacré-Coeur   01957  01957                % 02306 AVL---
+200403020 Belair, Wampach       01959  01959                % 02306 AVL---
+200405025 Luxembourg/Centre, M  02001  02006                % 02306 AVL---
+200405054 Centre, F.D. Rooseve  02008  02008                % 02306 AVL---
+200405001 Gare, Al Avenue       02010  02010                % 02306 AVL---
+200405032 Luxembourg, Gare Cen  02012  02012                % 02306 AVL---
+200405003 Centre, Alsace        02014  02014                % 02306 AVL---
+200412007 Gasperich, Déportati  02015  02015                % 02306 AVL---
+200412020 Gasperich, Millewee   02016  02016                % 02306 AVL---
+200412005 Gasperich, Clemencea  02017  02017                % 02306 AVL---
+200412016 Gasperich, Richard W  02018  02018                % 02306 AVL---
+200412003 Gasperich, Bei der A  02019  02019                % 02306 AVL---
+200412001 Gasperich, Al Gaaspe  02020  02020                % 02306 AVL---
+200412011 Gasperich, Klensch    02021  02021                % 02306 AVL---
+200412013 Gasperich, Louis de   02022  02022                % 02306 AVL---
+200407011 Cessange, Rue Verte   02022  02022                % 02306 AVL---
+200407009 Cessange, Kuelebierg  02023  02023                % 02306 AVL---
+200407012 Cessange, Tubishaff   02024  02024                % 02306 AVL---
+200407002 Cessange, Antoine     02025  02025                % 02306 AVL---
+200407010 Cessange, Rue de Leu  02026  02026                % 02306 AVL---
+200407005 Cessange, Boy Konen   02027                       % 02306 AVL---
+*Z 02307 AVL---       002 030                               % 02307 AVL---
+*L 13       200405008 200407005  00620  00657               % 02307 AVL---
+*A BE 200405008 200407005 000035  00620  00657              % 02307 AVL---
+*R 2 200407005 200405008 200407005  00620  00657            % 02307 AVL---
+*G STE 200405008 200407005  00620  00657                    % 02307 AVL---
+*A VE 200405008 200407005 000035  00620  00657              % 02307 AVL---
+200405008 Luxembourg, Centre H         00620                % 02307 AVL---
+200403009 Belair, Kannerklinic  00622  00622                % 02307 AVL---
+200403003 Belair, Aubépines     00623  00623                % 02307 AVL---
+200403019 Belair, Val Ste Croi  00623  00623                % 02307 AVL---
+200420007 Merl, Kiirfecht       00624  00624                % 02307 AVL---
+200403012 Belair, Oradour       00625  00625                % 02307 AVL---
+200403010 Belair, Kierch        00626  00626                % 02307 AVL---
+200403005 Belair, Sacré-Coeur   00627  00627                % 02307 AVL---
+200403020 Belair, Wampach       00629  00629                % 02307 AVL---
+200405025 Luxembourg/Centre, M  00631  00636                % 02307 AVL---
+200405054 Centre, F.D. Rooseve  00638  00638                % 02307 AVL---
+200405001 Gare, Al Avenue       00640  00640                % 02307 AVL---
+200405032 Luxembourg, Gare Cen  00642  00642                % 02307 AVL---
+200405003 Centre, Alsace        00644  00644                % 02307 AVL---
+200412007 Gasperich, Déportati  00645  00645                % 02307 AVL---
+200412020 Gasperich, Millewee   00646  00646                % 02307 AVL---
+200412005 Gasperich, Clemencea  00647  00647                % 02307 AVL---
+200412016 Gasperich, Richard W  00648  00648                % 02307 AVL---
+200412003 Gasperich, Bei der A  00649  00649                % 02307 AVL---
+200412001 Gasperich, Al Gaaspe  00650  00650                % 02307 AVL---
+200412011 Gasperich, Klensch    00651  00651                % 02307 AVL---
+200412013 Gasperich, Louis de   00652  00652                % 02307 AVL---
+200407011 Cessange, Rue Verte   00652  00652                % 02307 AVL---
+200407009 Cessange, Kuelebierg  00653  00653                % 02307 AVL---
+200407012 Cessange, Tubishaff   00654  00654                % 02307 AVL---
+200407002 Cessange, Antoine     00655  00655                % 02307 AVL---
+200407010 Cessange, Rue de Leu  00656  00656                % 02307 AVL---
+200407005 Cessange, Boy Konen   00657                       % 02307 AVL---
+*Z 02308 AVL---       036 020                               % 02308 AVL---
+*L 13       200405008 200407005  00756  00831               % 02308 AVL---
+*A BE 200405008 200407005 000025  00756  00831              % 02308 AVL---
+*R 2 200407005 200405008 200407005  00756  00831            % 02308 AVL---
+*G STE 200405008 200407005  00756  00831                    % 02308 AVL---
+*A VE 200405008 200407005 000025  00756  00831              % 02308 AVL---
+200405008 Luxembourg, Centre H         00756                % 02308 AVL---
+200403009 Belair, Kannerklinic  00758  00758                % 02308 AVL---
+200403003 Belair, Aubépines     00759  00759                % 02308 AVL---
+200403019 Belair, Val Ste Croi  00800  00800                % 02308 AVL---
+200420007 Merl, Kiirfecht       00801  00801                % 02308 AVL---
+200403012 Belair, Oradour       00802  00802                % 02308 AVL---
+200403010 Belair, Kierch        00803  00803                % 02308 AVL---
+200403005 Belair, Sacré-Coeur   00804  00804                % 02308 AVL---
+200403020 Belair, Wampach       00806  00806                % 02308 AVL---
+200405025 Luxembourg/Centre, M  00808  00808                % 02308 AVL---
+200405054 Centre, F.D. Rooseve  00811  00811                % 02308 AVL---
+200405001 Gare, Al Avenue       00813  00813                % 02308 AVL---
+200405032 Luxembourg, Gare Cen  00814  00814                % 02308 AVL---
+200405003 Centre, Alsace        00816  00816                % 02308 AVL---
+200412007 Gasperich, Déportati  00818  00818                % 02308 AVL---
+200412020 Gasperich, Millewee   00819  00819                % 02308 AVL---
+200412005 Gasperich, Clemencea  00820  00820                % 02308 AVL---
+200412016 Gasperich, Richard W  00821  00821                % 02308 AVL---
+200412003 Gasperich, Bei der A  00822  00822                % 02308 AVL---
+200412001 Gasperich, Al Gaaspe  00823  00823                % 02308 AVL---
+200412011 Gasperich, Klensch    00824  00824                % 02308 AVL---
+200412013 Gasperich, Louis de   00825  00825                % 02308 AVL---
+200407011 Cessange, Rue Verte   00826  00826                % 02308 AVL---
+200407009 Cessange, Kuelebierg  00827  00827                % 02308 AVL---
+200407012 Cessange, Tubishaff   00828  00828                % 02308 AVL---
+200407002 Cessange, Antoine     00829  00829                % 02308 AVL---
+200407010 Cessange, Rue de Leu  00829  00829                % 02308 AVL---
+200407005 Cessange, Boy Konen   00831                       % 02308 AVL---
+*Z 02309 AVL---       016 030                               % 02309 AVL---
+*L 13       200405008 200407005  01119  01159               % 02309 AVL---
+*A BE 200405008 200407005 000018  01119  01159              % 02309 AVL---
+*R 2 200407005 200405008 200407005  01119  01159            % 02309 AVL---
+*G STE 200405008 200407005  01119  01159                    % 02309 AVL---
+*A VE 200405008 200407005 000018  01119  01159              % 02309 AVL---
+200405008 Luxembourg, Centre H         01119                % 02309 AVL---
+200403009 Belair, Kannerklinic  01121  01121                % 02309 AVL---
+200403003 Belair, Aubépines     01122  01122                % 02309 AVL---
+200403019 Belair, Val Ste Croi  01123  01123                % 02309 AVL---
+200420007 Merl, Kiirfecht       01124  01124                % 02309 AVL---
+200403012 Belair, Oradour       01125  01125                % 02309 AVL---
+200403010 Belair, Kierch        01126  01126                % 02309 AVL---
+200403005 Belair, Sacré-Coeur   01127  01127                % 02309 AVL---
+200403020 Belair, Wampach       01129  01129                % 02309 AVL---
+200405025 Luxembourg/Centre, M  01131  01136                % 02309 AVL---
+200405054 Centre, F.D. Rooseve  01139  01139                % 02309 AVL---
+200405001 Gare, Al Avenue       01141  01141                % 02309 AVL---
+200405032 Luxembourg, Gare Cen  01142  01142                % 02309 AVL---
+200405003 Centre, Alsace        01144  01144                % 02309 AVL---
+200412007 Gasperich, Déportati  01146  01146                % 02309 AVL---
+200412020 Gasperich, Millewee   01147  01147                % 02309 AVL---
+200412005 Gasperich, Clemencea  01148  01148                % 02309 AVL---
+200412016 Gasperich, Richard W  01149  01149                % 02309 AVL---
+200412003 Gasperich, Bei der A  01150  01150                % 02309 AVL---
+200412001 Gasperich, Al Gaaspe  01151  01151                % 02309 AVL---
+200412011 Gasperich, Klensch    01152  01152                % 02309 AVL---
+200412013 Gasperich, Louis de   01153  01153                % 02309 AVL---
+200407011 Cessange, Rue Verte   01154  01154                % 02309 AVL---
+200407009 Cessange, Kuelebierg  01155  01155                % 02309 AVL---
+200407012 Cessange, Tubishaff   01156  01156                % 02309 AVL---
+200407002 Cessange, Antoine     01157  01157                % 02309 AVL---
+200407010 Cessange, Rue de Leu  01157  01157                % 02309 AVL---
+200407005 Cessange, Boy Konen   01159                       % 02309 AVL---
+*Z 02310 AVL---                                             % 02310 AVL---
+*L 13       200405008 200407005  00612  00653               % 02310 AVL---
+*A BE 200405008 200407005 000033  00612  00653              % 02310 AVL---
+*R 2 200407005 200405008 200407005  00612  00653            % 02310 AVL---
+*G STE 200405008 200407005  00612  00653                    % 02310 AVL---
+*A VE 200405008 200407005 000033  00612  00653              % 02310 AVL---
+200405008 Luxembourg, Centre H         00612                % 02310 AVL---
+200403009 Belair, Kannerklinic  00614  00614                % 02310 AVL---
+200403003 Belair, Aubépines     00615  00615                % 02310 AVL---
+200403019 Belair, Val Ste Croi  00616  00616                % 02310 AVL---
+200420007 Merl, Kiirfecht       00618  00618                % 02310 AVL---
+200403012 Belair, Oradour       00619  00619                % 02310 AVL---
+200403010 Belair, Kierch        00620  00620                % 02310 AVL---
+200403005 Belair, Sacré-Coeur   00621  00621                % 02310 AVL---
+200403020 Belair, Wampach       00624  00624                % 02310 AVL---
+200405025 Luxembourg/Centre, M  00626  00626                % 02310 AVL---
+200405054 Centre, F.D. Rooseve  00629  00629                % 02310 AVL---
+200405001 Gare, Al Avenue       00632  00632                % 02310 AVL---
+200405032 Luxembourg, Gare Cen  00634  00634                % 02310 AVL---
+200405003 Centre, Alsace        00636  00636                % 02310 AVL---
+200412007 Gasperich, Déportati  00637  00637                % 02310 AVL---
+200412020 Gasperich, Millewee   00639  00639                % 02310 AVL---
+200412005 Gasperich, Clemencea  00640  00640                % 02310 AVL---
+200412016 Gasperich, Richard W  00641  00641                % 02310 AVL---
+200412003 Gasperich, Bei der A  00643  00643                % 02310 AVL---
+200412001 Gasperich, Al Gaaspe  00644  00644                % 02310 AVL---
+200412011 Gasperich, Klensch    00645  00645                % 02310 AVL---
+200412013 Gasperich, Louis de   00646  00646                % 02310 AVL---
+200407011 Cessange, Rue Verte   00647  00647                % 02310 AVL---
+200407009 Cessange, Kuelebierg  00648  00648                % 02310 AVL---
+200407012 Cessange, Tubishaff   00649  00649                % 02310 AVL---
+200407002 Cessange, Antoine     00650  00650                % 02310 AVL---
+200407010 Cessange, Rue de Leu  00651  00651                % 02310 AVL---
+200407005 Cessange, Boy Konen   00653                       % 02310 AVL---
+*Z 02311 AVL---       053 015                               % 02311 AVL---
+*L 13       200405008 200407005  00628  00709               % 02311 AVL---
+*A BE 200405008 200407005 000033  00628  00709              % 02311 AVL---
+*R 2 200407005 200405008 200407005  00628  00709            % 02311 AVL---
+*G STE 200405008 200407005  00628  00709                    % 02311 AVL---
+*A VE 200405008 200407005 000033  00628  00709              % 02311 AVL---
+200405008 Luxembourg, Centre H         00628                % 02311 AVL---
+200403009 Belair, Kannerklinic  00630  00630                % 02311 AVL---
+200403003 Belair, Aubépines     00632  00632                % 02311 AVL---
+200403019 Belair, Val Ste Croi  00633  00633                % 02311 AVL---
+200420007 Merl, Kiirfecht       00634  00634                % 02311 AVL---
+200403012 Belair, Oradour       00635  00635                % 02311 AVL---
+200403010 Belair, Kierch        00636  00636                % 02311 AVL---
+200403005 Belair, Sacré-Coeur   00638  00638                % 02311 AVL---
+200403020 Belair, Wampach       00640  00640                % 02311 AVL---
+200405025 Luxembourg/Centre, M  00642  00642                % 02311 AVL---
+200405054 Centre, F.D. Rooseve  00645  00645                % 02311 AVL---
+200405001 Gare, Al Avenue       00648  00648                % 02311 AVL---
+200405032 Luxembourg, Gare Cen  00650  00650                % 02311 AVL---
+200405003 Centre, Alsace        00652  00652                % 02311 AVL---
+200412007 Gasperich, Déportati  00654  00654                % 02311 AVL---
+200412020 Gasperich, Millewee   00655  00655                % 02311 AVL---
+200412005 Gasperich, Clemencea  00656  00656                % 02311 AVL---
+200412016 Gasperich, Richard W  00658  00658                % 02311 AVL---
+200412003 Gasperich, Bei der A  00659  00659                % 02311 AVL---
+200412001 Gasperich, Al Gaaspe  00700  00700                % 02311 AVL---
+200412011 Gasperich, Klensch    00701  00701                % 02311 AVL---
+200412013 Gasperich, Louis de   00702  00702                % 02311 AVL---
+200407011 Cessange, Rue Verte   00703  00703                % 02311 AVL---
+200407009 Cessange, Kuelebierg  00704  00704                % 02311 AVL---
+200407012 Cessange, Tubishaff   00705  00705                % 02311 AVL---
+200407002 Cessange, Antoine     00707  00707                % 02311 AVL---
+200407010 Cessange, Rue de Leu  00707  00707                % 02311 AVL---
+200407005 Cessange, Boy Konen   00709                       % 02311 AVL---
+*Z 02312 AVL---                                             % 02312 AVL---
+*L 13       200405008 200407005  01959  02031               % 02312 AVL---
+*A BE 200405008 200407005 000033  01959  02031              % 02312 AVL---
+*R 2 200407005 200405008 200407005  01959  02031            % 02312 AVL---
+*G STE 200405008 200407005  01959  02031                    % 02312 AVL---
+*A VE 200405008 200407005 000033  01959  02031              % 02312 AVL---
+200405008 Luxembourg, Centre H         01959                % 02312 AVL---
+200403009 Belair, Kannerklinic  02001  02001                % 02312 AVL---
+200403003 Belair, Aubépines     02002  02002                % 02312 AVL---
+200403019 Belair, Val Ste Croi  02002  02002                % 02312 AVL---
+200420007 Merl, Kiirfecht       02003  02003                % 02312 AVL---
+200403012 Belair, Oradour       02004  02004                % 02312 AVL---
+200403010 Belair, Kierch        02005  02005                % 02312 AVL---
+200403005 Belair, Sacré-Coeur   02006  02006                % 02312 AVL---
+200403020 Belair, Wampach       02008  02008                % 02312 AVL---
+200405025 Luxembourg/Centre, M  02010  02010                % 02312 AVL---
+200405054 Centre, F.D. Rooseve  02012  02012                % 02312 AVL---
+200405001 Gare, Al Avenue       02014  02014                % 02312 AVL---
+200405032 Luxembourg, Gare Cen  02016  02016                % 02312 AVL---
+200405003 Centre, Alsace        02018  02018                % 02312 AVL---
+200412007 Gasperich, Déportati  02019  02019                % 02312 AVL---
+200412020 Gasperich, Millewee   02020  02020                % 02312 AVL---
+200412005 Gasperich, Clemencea  02021  02021                % 02312 AVL---
+200412016 Gasperich, Richard W  02022  02022                % 02312 AVL---
+200412003 Gasperich, Bei der A  02023  02023                % 02312 AVL---
+200412001 Gasperich, Al Gaaspe  02024  02024                % 02312 AVL---
+200412011 Gasperich, Klensch    02025  02025                % 02312 AVL---
+200412013 Gasperich, Louis de   02026  02026                % 02312 AVL---
+200407011 Cessange, Rue Verte   02026  02026                % 02312 AVL---
+200407009 Cessange, Kuelebierg  02027  02027                % 02312 AVL---
+200407012 Cessange, Tubishaff   02028  02028                % 02312 AVL---
+200407002 Cessange, Antoine     02029  02029                % 02312 AVL---
+200407010 Cessange, Rue de Leu  02030  02030                % 02312 AVL---
+200407005 Cessange, Boy Konen   02031                       % 02312 AVL---

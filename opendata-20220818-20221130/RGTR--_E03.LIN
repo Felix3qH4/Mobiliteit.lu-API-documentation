@@ -1,0 +1,67 @@
+*F 03 2
+*Z 18397 RGTR--                                             % 18397 RGTR--
+*L E03      200419021 200502001  01403  01430               % 18397 RGTR--
+*A cj 200419021 200502001 000042  01403  01430              % 18397 RGTR--
+*A ad 200419021 200502001 000042  01403  01430              % 18397 RGTR--
+*R 1 200502001 200419021 200502001  01403  01430            % 18397 RGTR--
+*G 050 200419021 200502001  01403  01430                    % 18397 RGTR--
+*A VE 200419021 200502001 000042  01403  01430              % 18397 RGTR--
+*I FD 200419021 200502001        0002093  01403  01430      % 18397 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 18397 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 18397 RGTR--
+200419026 Limpertsberg, Theate  01410  01410                % 18397 RGTR--
+200508011 Senningerberg, Rue d  01421  01421                % 18397 RGTR--
+200508003 Senningerberg, Charl  01422  01422                % 18397 RGTR--
+200508002 Senningerberg, Breed  01422  01422                % 18397 RGTR--
+200503001 Hostert, Charlys Gar  01425  01425                % 18397 RGTR--
+200506006 Rameldange, Op der B  01426  01426                % 18397 RGTR--
+200506001 Rameldange, Am Duerf  01426  01426                % 18397 RGTR--
+200506004 Rameldange, Beim Bës  01427  01427                % 18397 RGTR--
+200506003 Rameldange, Beiebier  01428  01428                % 18397 RGTR--
+200502002 Ernster, Engelshaff   01429  01429                % 18397 RGTR--
+200502001 Ernster, Duerfplaz    01430                       % 18397 RGTR--
+*Z 18398 RGTR--                                             % 18398 RGTR--
+*L E03      180511002 200405052  00700  00739               % 18398 RGTR--
+*A cj 180511002 200405052 000042  00700  00739              % 18398 RGTR--
+*A ad 180511002 200405052 000042  00700  00739              % 18398 RGTR--
+*R 2 200405052 180511002 200405052  00700  00739            % 18398 RGTR--
+*G 050 180511002 200405052  00700  00739                    % 18398 RGTR--
+*A VE 180511002 200405052 000042  00700  00739              % 18398 RGTR--
+*I FD 180511002 200405052        0001948  00700  00739      % 18398 RGTR--
+180511002 Junglinster, Op der          00700                % 18398 RGTR--
+180508002 Gonderange, Eeschële  00703  00703                % 18398 RGTR--
+180508005 Gonderange, Schoul    00705  00705                % 18398 RGTR--
+200502003 Ernster, Naasswiss    00706  00706                % 18398 RGTR--
+200502001 Ernster, Duerfplaz    00707  00707                % 18398 RGTR--
+200502002 Ernster, Engelshaff   00708  00708                % 18398 RGTR--
+200506003 Rameldange, Beiebier  00709  00709                % 18398 RGTR--
+200506004 Rameldange, Beim Bës  00710  00710                % 18398 RGTR--
+200506001 Rameldange, Am Duerf  00711  00711                % 18398 RGTR--
+200506006 Rameldange, Op der B  00712  00712                % 18398 RGTR--
+200503001 Hostert, Charlys Gar  00713  00713                % 18398 RGTR--
+200409005 Dommeldange, Contour  00723  00723                % 18398 RGTR--
+200419026 Limpertsberg, Theate  00728  00728                % 18398 RGTR--
+200405014 Centre, Fondation Pe  00730  00730                % 18398 RGTR--
+200405020 Hamilius (Bus)        00734  00734                % 18398 RGTR--
+200405052 Luxembourg, Gare Cen  00739                       % 18398 RGTR--
+*Z 18399 RGTR--                                             % 18399 RGTR--
+*L E03      200502001 200419021  00720  00747               % 18399 RGTR--
+*A cj 200502001 200419021 000042  00720  00747              % 18399 RGTR--
+*A ad 200502001 200419021 000042  00720  00747              % 18399 RGTR--
+*R 2 200419021 200502001 200419021  00720  00747            % 18399 RGTR--
+*G 050 200502001 200419021  00720  00747                    % 18399 RGTR--
+*A VE 200502001 200419021 000042  00720  00747              % 18399 RGTR--
+*I FD 200502001 200419021        0002041  00720  00747      % 18399 RGTR--
+200502001 Ernster, Duerfplaz           00720                % 18399 RGTR--
+200502002 Ernster, Engelshaff   00721  00721                % 18399 RGTR--
+200506003 Rameldange, Beiebier  00722  00722                % 18399 RGTR--
+200506004 Rameldange, Beim Bës  00723  00723                % 18399 RGTR--
+200506001 Rameldange, Am Duerf  00724  00724                % 18399 RGTR--
+200506006 Rameldange, Op der B  00724  00724                % 18399 RGTR--
+200503001 Hostert, Charlys Gar  00726  00726                % 18399 RGTR--
+200508002 Senningerberg, Breed  00728  00728                % 18399 RGTR--
+200508003 Senningerberg, Charl  00729  00729                % 18399 RGTR--
+200508011 Senningerberg, Rue d  00731  00731                % 18399 RGTR--
+200419026 Limpertsberg, Theate  00741  00741                % 18399 RGTR--
+200419025 Limpertsberg, Lycée   00743  00743                % 18399 RGTR--
+200419021 Limpertsberg, L.T.C.  00747                       % 18399 RGTR--

@@ -1,0 +1,143 @@
+*F 13 2
+@@@@@@@@@ AVL--- AVL--- 05
+@@@@@@@@@ AVL--- C80--- 05
+@@@@@@@@@ AVL--- C82--- 05
+@@@@@@@@@ AVL--- C87--- 05
+@@@@@@@@@ AVL--- C85--- 05
+@@@@@@@@@ AVL--- C88--- 05
+@@@@@@@@@ AVL--- TIC--- 00
+@@@@@@@@@ AVL--- RGTR-- 05
+@@@@@@@@@ AVL--- CFLBUS 05
+@@@@@@@@@ AVL--- LUTRAM 02
+@@@@@@@@@ C80--- AVL--- 05
+@@@@@@@@@ C80--- C80--- 05
+@@@@@@@@@ C80--- C82--- 05
+@@@@@@@@@ C80--- C87--- 05
+@@@@@@@@@ C80--- C85--- 05
+@@@@@@@@@ C80--- C88--- 05
+@@@@@@@@@ C80--- TIC--- 00
+@@@@@@@@@ C80--- RGTR-- 05
+@@@@@@@@@ C80--- CFLBUS 05
+@@@@@@@@@ C80--- LUTRAM 02
+@@@@@@@@@ C82--- AVL--- 05
+@@@@@@@@@ C82--- C80--- 05
+@@@@@@@@@ C82--- C82--- 05
+@@@@@@@@@ C82--- C87--- 05
+@@@@@@@@@ C82--- C85--- 05
+@@@@@@@@@ C82--- C88--- 05
+@@@@@@@@@ C82--- TIC--- 00
+@@@@@@@@@ C82--- RGTR-- 05
+@@@@@@@@@ C82--- CFLBUS 05
+@@@@@@@@@ C82--- LUTRAM 02
+@@@@@@@@@ C87--- AVL--- 05
+@@@@@@@@@ C87--- C80--- 05
+@@@@@@@@@ C87--- C82--- 05
+@@@@@@@@@ C87--- C87--- 05
+@@@@@@@@@ C87--- C85--- 05
+@@@@@@@@@ C87--- C88--- 05
+@@@@@@@@@ C87--- TIC--- 00
+@@@@@@@@@ C87--- RGTR-- 05
+@@@@@@@@@ C87--- CFLBUS 05
+@@@@@@@@@ C87--- LUTRAM 02
+@@@@@@@@@ C85--- AVL--- 05
+@@@@@@@@@ C85--- C80--- 05
+@@@@@@@@@ C85--- C82--- 05
+@@@@@@@@@ C85--- C87--- 05
+@@@@@@@@@ C85--- C85--- 05
+@@@@@@@@@ C85--- C88--- 05
+@@@@@@@@@ C85--- TIC--- 00
+@@@@@@@@@ C85--- RGTR-- 05
+@@@@@@@@@ C85--- CFLBUS 05
+@@@@@@@@@ C85--- LUTRAM 02
+@@@@@@@@@ C88--- AVL--- 05
+@@@@@@@@@ C88--- C80--- 05
+@@@@@@@@@ C88--- C82--- 05
+@@@@@@@@@ C88--- C87--- 05
+@@@@@@@@@ C88--- C85--- 05
+@@@@@@@@@ C88--- C88--- 05
+@@@@@@@@@ C88--- TIC--- 00
+@@@@@@@@@ C88--- RGTR-- 05
+@@@@@@@@@ C88--- CFLBUS 05
+@@@@@@@@@ C88--- LUTRAM 02
+@@@@@@@@@ TIC--- AVL--- 05
+@@@@@@@@@ TIC--- C80--- 05
+@@@@@@@@@ TIC--- C82--- 05
+@@@@@@@@@ TIC--- C87--- 05
+@@@@@@@@@ TIC--- C85--- 05
+@@@@@@@@@ TIC--- C88--- 05
+@@@@@@@@@ TIC--- TIC--- 05
+@@@@@@@@@ TIC--- LUTRAM 02
+@@@@@@@@@ RGTR-- AVL--- 05
+@@@@@@@@@ RGTR-- C80--- 05
+@@@@@@@@@ RGTR-- C82--- 05
+@@@@@@@@@ RGTR-- C87--- 05
+@@@@@@@@@ RGTR-- C85--- 05
+@@@@@@@@@ RGTR-- C88--- 05
+@@@@@@@@@ RGTR-- RGTR-- 05
+@@@@@@@@@ RGTR-- CFLBUS 05
+@@@@@@@@@ RGTR-- LUTRAM 02
+@@@@@@@@@ CFLBUS AVL--- 05
+@@@@@@@@@ CFLBUS C80--- 05
+@@@@@@@@@ CFLBUS C82--- 05
+@@@@@@@@@ CFLBUS C87--- 05
+@@@@@@@@@ CFLBUS C85--- 05
+@@@@@@@@@ CFLBUS C88--- 05
+@@@@@@@@@ CFLBUS RGTR-- 05
+@@@@@@@@@ CFLBUS CFLBUS 05
+@@@@@@@@@ CFLBUS LUTRAM 02
+@@@@@@@@@ LUTRAM AVL--- 02
+@@@@@@@@@ LUTRAM C80--- 02
+@@@@@@@@@ LUTRAM C82--- 02
+@@@@@@@@@ LUTRAM C87--- 02
+@@@@@@@@@ LUTRAM C85--- 02
+@@@@@@@@@ LUTRAM C88--- 02
+@@@@@@@@@ LUTRAM TIC--- 02
+@@@@@@@@@ LUTRAM RGTR-- 02
+@@@@@@@@@ LUTRAM CFLBUS 02
+@@@@@@@@@ LUTRAM LUTRAM 00
+200404027 AVL--- AVL--- 01 Bonnevoie, Lycée Technique de Bonnevoie/Quais
+200405032 AVL--- AVL--- 02 Luxembourg, Gare Centrale Quai 2
+140701016 C82--- C82--- 05 Ettelbruck, Gare
+140701016 C82--- RGTR-- 05 Ettelbruck, Gare
+140701016 C82--- CFLBUS 04 Ettelbruck, Gare
+140701016 RGTR-- C82--- 05 Ettelbruck, Gare
+140701016 RGTR-- RGTR-- 05 Ettelbruck, Gare
+140701016 RGTR-- CFLBUS 05 Ettelbruck, Gare
+140701016 CFLBUS C82--- 04 Ettelbruck, Gare
+140701016 CFLBUS RGTR-- 05 Ettelbruck, Gare
+140701016 CFLBUS CFLBUS 04 Ettelbruck, Gare
+500000079 C82--- C82--- 00 Trier, Hauptbahnhof
+221302001 TIC--- TIC--- 03 Ehlerange, Centre
+220402034 TIC--- CFLBUS 05 Esch-sur-Alzette, Gare routière
+220402034 CFLBUS TIC--- 05 Esch-sur-Alzette, Gare routière
+180505001 RGTR-- RGTR-- 03 Eisenborn, Am Duerf
+200405036 AVL--- AVL--- 02 Luxembourg, Gare Centrale routière
+200405036 AVL--- RGTR-- 02 Luxembourg, Gare Centrale routière
+200405036 AVL--- CFLBUS 02 Luxembourg, Gare Centrale routière
+200405036 RGTR-- AVL--- 02 Luxembourg, Gare Centrale routière
+200405036 RGTR-- RGTR-- 02 Luxembourg, Gare Centrale routière
+200405036 RGTR-- CFLBUS 02 Luxembourg, Gare Centrale routière
+200405036 CFLBUS AVL--- 02 Luxembourg, Gare Centrale routière
+200405036 CFLBUS RGTR-- 02 Luxembourg, Gare Centrale routière
+200405036 CFLBUS CFLBUS 02 Luxembourg, Gare Centrale routière
+170402005 RGTR-- RGTR-- 00 Consdorf, Post
+191104007 RGTR-- RGTR-- 05 Steinfort, Schoul
+180207004 RGTR-- RGTR-- 04 Wecker, Gare routière
+150402002 RGTR-- RGTR-- 03 Grosbous, Kiircheplaz
+200417044 AVL--- AVL--- 05 Kirchberg, Luxexpo Quai 4
+200417044 AVL--- RGTR-- 05 Kirchberg, Luxexpo Quai 4
+200417044 RGTR-- AVL--- 05 Kirchberg, Luxexpo Quai 4
+200417044 RGTR-- RGTR-- 05 Kirchberg, Luxexpo Quai 4
+200417047 AVL--- AVL--- 05 Kirchberg, Rout Bréck - Pafendall (Bus)
+200417047 AVL--- RGTR-- 05 Kirchberg, Rout Bréck - Pafendall (Bus)
+200417047 AVL--- CFLBUS 05 Kirchberg, Rout Bréck - Pafendall (Bus)
+200417047 RGTR-- AVL--- 05 Kirchberg, Rout Bréck - Pafendall (Bus)
+200417047 RGTR-- RGTR-- 05 Kirchberg, Rout Bréck - Pafendall (Bus)
+200417047 RGTR-- CFLBUS 05 Kirchberg, Rout Bréck - Pafendall (Bus)
+200417047 CFLBUS AVL--- 05 Kirchberg, Rout Bréck - Pafendall (Bus)
+200417047 CFLBUS RGTR-- 05 Kirchberg, Rout Bréck - Pafendall (Bus)
+200417047 CFLBUS CFLBUS 05 Kirchberg, Rout Bréck - Pafendall (Bus)
+200417048 RGTR-- RGTR-- 05 Kirchberg, Europe Gare routière
+200417050 RGTR-- RGTR-- 08 Kirchberg, Gare routière Luxexpo
+200417052 LUTRAM LUTRAM 05 Kirchberg, Luxexpo
+120603003 C82--- C82--- 03 Kautenbach, Gare

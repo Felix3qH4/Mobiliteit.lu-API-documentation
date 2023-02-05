@@ -1,0 +1,366 @@
+*F 03 2
+*Z 00340 RGTR--                                             % 00340 RGTR--
+*L B05      160601003 170501016  00700  00747               % 00340 RGTR--
+*A cj 160601003 170501016 000015  00700  00747              % 00340 RGTR--
+*A IR 160601003 170501016 000015  00700  00747              % 00340 RGTR--
+*A co 160601003 170501016 000015  00700  00747              % 00340 RGTR--
+*A ad 160601003 170501016 000015  00700  00747              % 00340 RGTR--
+*R 1 170501016 160601003 170501016  00700  00747            % 00340 RGTR--
+*G 050 160601003 170501016  00700  00747                    % 00340 RGTR--
+*A VE 160601003 170501016 000015  00700  00747              % 00340 RGTR--
+*I FD 160601003 170501016        0001729  00700  00747      % 00340 RGTR--
+160601003 Larochette, Gare Rou         00700                % 00340 RGTR--
+160601006 Larochette, Millewee  00701  00701                % 00340 RGTR--
+160501002 Heffingen, Centre     00704  00704                % 00340 RGTR--
+160501003 Heffingen, Rue de Ch  00705  00705                % 00340 RGTR--
+170801001 Christnach, Hierheck  00708  00708                % 00340 RGTR--
+170801002 Christnach, Schoulst  00709  00709                % 00340 RGTR--
+170804001 Waldbillig, Bëlleger  00710  00710                % 00340 RGTR--
+170804002 Waldbillig, Gemeng    00711  00711                % 00340 RGTR--
+170802001 Haller, Beim Basseng  00714  00714                % 00340 RGTR--
+170802002 Haller, Schoul        00715  00715                % 00340 RGTR--
+170101008 Beaufort, Halerstroo  00722  00722                % 00340 RGTR--
+170101002 Beaufort, Ennescht H  00723  00723                % 00340 RGTR--
+170101009 Beaufort, Um Bierg    00725  00725                % 00340 RGTR--
+170101001 Beaufort, Aispist     00725  00725                % 00340 RGTR--
+170101006 Beaufort, Op der Gar  00726  00726                % 00340 RGTR--
+170101003 Beaufort, Härewiss    00728  00728                % 00340 RGTR--
+170101004 Beaufort, Huelewee    00728  00728                % 00340 RGTR--
+170103002 Vugelsmillen          00733  00733                % 00340 RGTR--
+170303002 Grundhof, Bei der Er  00734  00734                % 00340 RGTR--
+170302001 Bollendorf, Gare      00737  00737                % 00340 RGTR--
+170302003 Bollendorf-Pont, Pon  00738  00738                % 00340 RGTR--
+170302002 Bollendorf-Pont, Ham  00739  00739                % 00340 RGTR--
+170304001 Weilerbach, Laufenwe  00740  00740                % 00340 RGTR--
+170304002 Weilerbach            00741  00741                % 00340 RGTR--
+170501007 Echternach, Fielsmil  00743  00743                % 00340 RGTR--
+170501018 Echternach, Ermesind  00745  00745                % 00340 RGTR--
+170501016 Echternach, Gare Cen  00747                       % 00340 RGTR--
+*Z 00338 RGTR--                                             % 00338 RGTR--
+*L B05      160601003 170501016  00700  00747               % 00338 RGTR--
+*A cj 160601003 170501016 000009  00700  00747              % 00338 RGTR--
+*A IR 160601003 170501016 000009  00700  00747              % 00338 RGTR--
+*A co 160601003 170501016 000009  00700  00747              % 00338 RGTR--
+*A ad 160601003 170501016 000009  00700  00747              % 00338 RGTR--
+*R 1 170501016 160601003 170501016  00700  00747            % 00338 RGTR--
+*G 050 160601003 170501016  00700  00747                    % 00338 RGTR--
+*A VE 160601003 170501016 000009  00700  00747              % 00338 RGTR--
+*I FD 160601003 170501016        0001729  00700  00747      % 00338 RGTR--
+160601003 Larochette, Gare Rou         00700                % 00338 RGTR--
+160601006 Larochette, Millewee  00701  00701                % 00338 RGTR--
+160501002 Heffingen, Centre     00704  00704                % 00338 RGTR--
+160501003 Heffingen, Rue de Ch  00705  00705                % 00338 RGTR--
+170801001 Christnach, Hierheck  00708  00708                % 00338 RGTR--
+170801002 Christnach, Schoulst  00709  00709                % 00338 RGTR--
+170804001 Waldbillig, Bëlleger  00710  00710                % 00338 RGTR--
+170804002 Waldbillig, Gemeng    00711  00711                % 00338 RGTR--
+170802001 Haller, Beim Basseng  00714  00714                % 00338 RGTR--
+170802002 Haller, Schoul        00715  00715                % 00338 RGTR--
+170101008 Beaufort, Halerstroo  00722  00722                % 00338 RGTR--
+170101002 Beaufort, Ennescht H  00723  00723                % 00338 RGTR--
+170101009 Beaufort, Um Bierg    00725  00725                % 00338 RGTR--
+170101001 Beaufort, Aispist     00725  00725                % 00338 RGTR--
+170101006 Beaufort, Op der Gar  00726  00726                % 00338 RGTR--
+170101003 Beaufort, Härewiss    00728  00728                % 00338 RGTR--
+170101004 Beaufort, Huelewee    00728  00728                % 00338 RGTR--
+170103002 Vugelsmillen          00733  00733                % 00338 RGTR--
+170303002 Grundhof, Bei der Er  00734  00734                % 00338 RGTR--
+170302001 Bollendorf, Gare      00737  00737                % 00338 RGTR--
+170302003 Bollendorf-Pont, Pon  00738  00738                % 00338 RGTR--
+170302002 Bollendorf-Pont, Ham  00739  00739                % 00338 RGTR--
+170304001 Weilerbach, Laufenwe  00740  00740                % 00338 RGTR--
+170304002 Weilerbach            00741  00741                % 00338 RGTR--
+170501007 Echternach, Fielsmil  00743  00743                % 00338 RGTR--
+170501018 Echternach, Ermesind  00745  00745                % 00338 RGTR--
+170501016 Echternach, Gare Cen  00747                       % 00338 RGTR--
+*Z 00336 RGTR--                                             % 00336 RGTR--
+*L B05      160601003 170501016  00700  00747               % 00336 RGTR--
+*A cj 160601003 170501016 000013  00700  00747              % 00336 RGTR--
+*A IR 160601003 170501016 000013  00700  00747              % 00336 RGTR--
+*A co 160601003 170501016 000013  00700  00747              % 00336 RGTR--
+*A ad 160601003 170501016 000013  00700  00747              % 00336 RGTR--
+*R 1 170501016 160601003 170501016  00700  00747            % 00336 RGTR--
+*G 050 160601003 170501016  00700  00747                    % 00336 RGTR--
+*A VE 160601003 170501016 000013  00700  00747              % 00336 RGTR--
+*I FD 160601003 170501016        0001729  00700  00747      % 00336 RGTR--
+160601003 Larochette, Gare Rou         00700                % 00336 RGTR--
+160601006 Larochette, Millewee  00701  00701                % 00336 RGTR--
+160501002 Heffingen, Centre     00704  00704                % 00336 RGTR--
+160501003 Heffingen, Rue de Ch  00705  00705                % 00336 RGTR--
+170801001 Christnach, Hierheck  00708  00708                % 00336 RGTR--
+170801002 Christnach, Schoulst  00709  00709                % 00336 RGTR--
+170804001 Waldbillig, Bëlleger  00710  00710                % 00336 RGTR--
+170804002 Waldbillig, Gemeng    00711  00711                % 00336 RGTR--
+170802001 Haller, Beim Basseng  00714  00714                % 00336 RGTR--
+170802002 Haller, Schoul        00715  00715                % 00336 RGTR--
+170101008 Beaufort, Halerstroo  00722  00722                % 00336 RGTR--
+170101002 Beaufort, Ennescht H  00723  00723                % 00336 RGTR--
+170101009 Beaufort, Um Bierg    00725  00725                % 00336 RGTR--
+170101001 Beaufort, Aispist     00725  00725                % 00336 RGTR--
+170101006 Beaufort, Op der Gar  00726  00726                % 00336 RGTR--
+170101003 Beaufort, Härewiss    00728  00728                % 00336 RGTR--
+170101004 Beaufort, Huelewee    00728  00728                % 00336 RGTR--
+170103002 Vugelsmillen          00733  00733                % 00336 RGTR--
+170303002 Grundhof, Bei der Er  00734  00734                % 00336 RGTR--
+170302001 Bollendorf, Gare      00737  00737                % 00336 RGTR--
+170302003 Bollendorf-Pont, Pon  00738  00738                % 00336 RGTR--
+170302002 Bollendorf-Pont, Ham  00739  00739                % 00336 RGTR--
+170304001 Weilerbach, Laufenwe  00740  00740                % 00336 RGTR--
+170304002 Weilerbach            00741  00741                % 00336 RGTR--
+170501007 Echternach, Fielsmil  00743  00743                % 00336 RGTR--
+170501018 Echternach, Ermesind  00745  00745                % 00336 RGTR--
+170501016 Echternach, Gare Cen  00747                       % 00336 RGTR--
+*Z 00334 RGTR--                                             % 00334 RGTR--
+*L B05      160601003 170501016  00700  00747               % 00334 RGTR--
+*A cj 160601003 170501016 000007  00700  00747              % 00334 RGTR--
+*A IR 160601003 170501016 000007  00700  00747              % 00334 RGTR--
+*A co 160601003 170501016 000007  00700  00747              % 00334 RGTR--
+*A ad 160601003 170501016 000007  00700  00747              % 00334 RGTR--
+*R 1 170501016 160601003 170501016  00700  00747            % 00334 RGTR--
+*G 050 160601003 170501016  00700  00747                    % 00334 RGTR--
+*A VE 160601003 170501016 000007  00700  00747              % 00334 RGTR--
+*I FD 160601003 170501016        0001729  00700  00747      % 00334 RGTR--
+160601003 Larochette, Gare Rou         00700                % 00334 RGTR--
+160601006 Larochette, Millewee  00701  00701                % 00334 RGTR--
+160501002 Heffingen, Centre     00704  00704                % 00334 RGTR--
+160501003 Heffingen, Rue de Ch  00705  00705                % 00334 RGTR--
+170801001 Christnach, Hierheck  00708  00708                % 00334 RGTR--
+170801002 Christnach, Schoulst  00709  00709                % 00334 RGTR--
+170804001 Waldbillig, Bëlleger  00710  00710                % 00334 RGTR--
+170804002 Waldbillig, Gemeng    00711  00711                % 00334 RGTR--
+170802001 Haller, Beim Basseng  00714  00714                % 00334 RGTR--
+170802002 Haller, Schoul        00715  00715                % 00334 RGTR--
+170101008 Beaufort, Halerstroo  00722  00722                % 00334 RGTR--
+170101002 Beaufort, Ennescht H  00723  00723                % 00334 RGTR--
+170101009 Beaufort, Um Bierg    00725  00725                % 00334 RGTR--
+170101001 Beaufort, Aispist     00725  00725                % 00334 RGTR--
+170101006 Beaufort, Op der Gar  00726  00726                % 00334 RGTR--
+170101003 Beaufort, Härewiss    00728  00728                % 00334 RGTR--
+170101004 Beaufort, Huelewee    00728  00728                % 00334 RGTR--
+170103002 Vugelsmillen          00733  00733                % 00334 RGTR--
+170303002 Grundhof, Bei der Er  00734  00734                % 00334 RGTR--
+170302001 Bollendorf, Gare      00737  00737                % 00334 RGTR--
+170302003 Bollendorf-Pont, Pon  00738  00738                % 00334 RGTR--
+170302002 Bollendorf-Pont, Ham  00739  00739                % 00334 RGTR--
+170304001 Weilerbach, Laufenwe  00740  00740                % 00334 RGTR--
+170304002 Weilerbach            00741  00741                % 00334 RGTR--
+170501007 Echternach, Fielsmil  00743  00743                % 00334 RGTR--
+170501018 Echternach, Ermesind  00745  00745                % 00334 RGTR--
+170501016 Echternach, Gare Cen  00747                       % 00334 RGTR--
+*Z 00342 RGTR--                                             % 00342 RGTR--
+*L B05      160601003 170501016  00700  00747               % 00342 RGTR--
+*A cj 160601003 170501016 000011  00700  00747              % 00342 RGTR--
+*A IR 160601003 170501016 000011  00700  00747              % 00342 RGTR--
+*A co 160601003 170501016 000011  00700  00747              % 00342 RGTR--
+*A ad 160601003 170501016 000011  00700  00747              % 00342 RGTR--
+*R 1 170501016 160601003 170501016  00700  00747            % 00342 RGTR--
+*G 050 160601003 170501016  00700  00747                    % 00342 RGTR--
+*A VE 160601003 170501016 000011  00700  00747              % 00342 RGTR--
+*I FD 160601003 170501016        0001729  00700  00747      % 00342 RGTR--
+160601003 Larochette, Gare Rou         00700                % 00342 RGTR--
+160601006 Larochette, Millewee  00701  00701                % 00342 RGTR--
+160501002 Heffingen, Centre     00704  00704                % 00342 RGTR--
+160501003 Heffingen, Rue de Ch  00705  00705                % 00342 RGTR--
+170801001 Christnach, Hierheck  00708  00708                % 00342 RGTR--
+170801002 Christnach, Schoulst  00709  00709                % 00342 RGTR--
+170804001 Waldbillig, Bëlleger  00710  00710                % 00342 RGTR--
+170804002 Waldbillig, Gemeng    00711  00711                % 00342 RGTR--
+170802001 Haller, Beim Basseng  00714  00714                % 00342 RGTR--
+170802002 Haller, Schoul        00715  00715                % 00342 RGTR--
+170101008 Beaufort, Halerstroo  00722  00722                % 00342 RGTR--
+170101002 Beaufort, Ennescht H  00723  00723                % 00342 RGTR--
+170101009 Beaufort, Um Bierg    00725  00725                % 00342 RGTR--
+170101001 Beaufort, Aispist     00725  00725                % 00342 RGTR--
+170101006 Beaufort, Op der Gar  00726  00726                % 00342 RGTR--
+170101003 Beaufort, Härewiss    00728  00728                % 00342 RGTR--
+170101004 Beaufort, Huelewee    00728  00728                % 00342 RGTR--
+170103002 Vugelsmillen          00733  00733                % 00342 RGTR--
+170303002 Grundhof, Bei der Er  00734  00734                % 00342 RGTR--
+170302001 Bollendorf, Gare      00737  00737                % 00342 RGTR--
+170302003 Bollendorf-Pont, Pon  00738  00738                % 00342 RGTR--
+170302002 Bollendorf-Pont, Ham  00739  00739                % 00342 RGTR--
+170304001 Weilerbach, Laufenwe  00740  00740                % 00342 RGTR--
+170304002 Weilerbach            00741  00741                % 00342 RGTR--
+170501007 Echternach, Fielsmil  00743  00743                % 00342 RGTR--
+170501018 Echternach, Ermesind  00745  00745                % 00342 RGTR--
+170501016 Echternach, Gare Cen  00747                       % 00342 RGTR--
+*Z 00329 RGTR--                                             % 00329 RGTR--
+*L B05      170501016 160601003  01440  01526               % 00329 RGTR--
+*A cj 170501016 160601003 000015  01440  01526              % 00329 RGTR--
+*A IT 170501016 160601003 000015  01440  01526              % 00329 RGTR--
+*A ad 170501016 160601003 000015  01440  01526              % 00329 RGTR--
+*R 2 160601003 170501016 160601003  01440  01526            % 00329 RGTR--
+*G 072 170501016 160601003  01440  01526                    % 00329 RGTR--
+*A VE 170501016 160601003 000015  01440  01526              % 00329 RGTR--
+*I FD 170501016 160601003        0002330  01440  01526      % 00329 RGTR--
+170501016 Echternach, Gare Cen         01440                % 00329 RGTR--
+170501018 Echternach, Ermesind  01440  01440                % 00329 RGTR--
+170501007 Echternach, Fielsmil  01442  01442                % 00329 RGTR--
+170304002 Weilerbach            01444  01444                % 00329 RGTR--
+170304001 Weilerbach, Laufenwe  01445  01445                % 00329 RGTR--
+170302002 Bollendorf-Pont, Ham  01446  01446                % 00329 RGTR--
+170302003 Bollendorf-Pont, Pon  01447  01447                % 00329 RGTR--
+170302001 Bollendorf, Gare      01448  01448                % 00329 RGTR--
+170303002 Grundhof, Bei der Er  01451  01451                % 00329 RGTR--
+170103002 Vugelsmillen          01453  01453                % 00329 RGTR--
+170101004 Beaufort, Huelewee    01457  01457                % 00329 RGTR--
+170101003 Beaufort, Härewiss    01458  01458                % 00329 RGTR--
+170101006 Beaufort, Op der Gar  01459  01459                % 00329 RGTR--
+170101001 Beaufort, Aispist     01500  01500                % 00329 RGTR--
+170101009 Beaufort, Um Bierg    01501  01501                % 00329 RGTR--
+170101002 Beaufort, Ennescht H  01502  01502                % 00329 RGTR--
+170101008 Beaufort, Halerstroo  01503  01503                % 00329 RGTR--
+170802002 Haller, Schoul        01510  01510                % 00329 RGTR--
+170802001 Haller, Beim Basseng  01511  01511                % 00329 RGTR--
+170804002 Waldbillig, Gemeng    01514  01514                % 00329 RGTR--
+170804001 Waldbillig, Bëlleger  01515  01515                % 00329 RGTR--
+170801002 Christnach, Schoulst  01517  01517                % 00329 RGTR--
+170801001 Christnach, Hierheck  01517  01517                % 00329 RGTR--
+160501003 Heffingen, Rue de Ch  01520  01520                % 00329 RGTR--
+160501002 Heffingen, Centre     01521  01521                % 00329 RGTR--
+160601006 Larochette, Millewee  01524  01524                % 00329 RGTR--
+160601003 Larochette, Gare Rou  01526                       % 00329 RGTR--
+*Z 00327 RGTR--                                             % 00327 RGTR--
+*L B05      170501016 160601003  01440  01526               % 00327 RGTR--
+*A cj 170501016 160601003 000009  01440  01526              % 00327 RGTR--
+*A IT 170501016 160601003 000009  01440  01526              % 00327 RGTR--
+*A ad 170501016 160601003 000009  01440  01526              % 00327 RGTR--
+*R 2 160601003 170501016 160601003  01440  01526            % 00327 RGTR--
+*G 072 170501016 160601003  01440  01526                    % 00327 RGTR--
+*A VE 170501016 160601003 000009  01440  01526              % 00327 RGTR--
+*I FD 170501016 160601003        0002330  01440  01526      % 00327 RGTR--
+170501016 Echternach, Gare Cen         01440                % 00327 RGTR--
+170501018 Echternach, Ermesind  01440  01440                % 00327 RGTR--
+170501007 Echternach, Fielsmil  01442  01442                % 00327 RGTR--
+170304002 Weilerbach            01444  01444                % 00327 RGTR--
+170304001 Weilerbach, Laufenwe  01445  01445                % 00327 RGTR--
+170302002 Bollendorf-Pont, Ham  01446  01446                % 00327 RGTR--
+170302003 Bollendorf-Pont, Pon  01447  01447                % 00327 RGTR--
+170302001 Bollendorf, Gare      01448  01448                % 00327 RGTR--
+170303002 Grundhof, Bei der Er  01451  01451                % 00327 RGTR--
+170103002 Vugelsmillen          01453  01453                % 00327 RGTR--
+170101004 Beaufort, Huelewee    01457  01457                % 00327 RGTR--
+170101003 Beaufort, Härewiss    01458  01458                % 00327 RGTR--
+170101006 Beaufort, Op der Gar  01459  01459                % 00327 RGTR--
+170101001 Beaufort, Aispist     01500  01500                % 00327 RGTR--
+170101009 Beaufort, Um Bierg    01501  01501                % 00327 RGTR--
+170101002 Beaufort, Ennescht H  01502  01502                % 00327 RGTR--
+170101008 Beaufort, Halerstroo  01503  01503                % 00327 RGTR--
+170802002 Haller, Schoul        01510  01510                % 00327 RGTR--
+170802001 Haller, Beim Basseng  01511  01511                % 00327 RGTR--
+170804002 Waldbillig, Gemeng    01514  01514                % 00327 RGTR--
+170804001 Waldbillig, Bëlleger  01515  01515                % 00327 RGTR--
+170801002 Christnach, Schoulst  01517  01517                % 00327 RGTR--
+170801001 Christnach, Hierheck  01517  01517                % 00327 RGTR--
+160501003 Heffingen, Rue de Ch  01520  01520                % 00327 RGTR--
+160501002 Heffingen, Centre     01521  01521                % 00327 RGTR--
+160601006 Larochette, Millewee  01524  01524                % 00327 RGTR--
+160601003 Larochette, Gare Rou  01526                       % 00327 RGTR--
+*Z 00325 RGTR--                                             % 00325 RGTR--
+*L B05      170501016 160601003  01440  01526               % 00325 RGTR--
+*A cj 170501016 160601003 000013  01440  01526              % 00325 RGTR--
+*A IT 170501016 160601003 000013  01440  01526              % 00325 RGTR--
+*A ad 170501016 160601003 000013  01440  01526              % 00325 RGTR--
+*R 2 160601003 170501016 160601003  01440  01526            % 00325 RGTR--
+*G 072 170501016 160601003  01440  01526                    % 00325 RGTR--
+*A VE 170501016 160601003 000013  01440  01526              % 00325 RGTR--
+*I FD 170501016 160601003        0002330  01440  01526      % 00325 RGTR--
+170501016 Echternach, Gare Cen         01440                % 00325 RGTR--
+170501018 Echternach, Ermesind  01440  01440                % 00325 RGTR--
+170501007 Echternach, Fielsmil  01442  01442                % 00325 RGTR--
+170304002 Weilerbach            01444  01444                % 00325 RGTR--
+170304001 Weilerbach, Laufenwe  01445  01445                % 00325 RGTR--
+170302002 Bollendorf-Pont, Ham  01446  01446                % 00325 RGTR--
+170302003 Bollendorf-Pont, Pon  01447  01447                % 00325 RGTR--
+170302001 Bollendorf, Gare      01448  01448                % 00325 RGTR--
+170303002 Grundhof, Bei der Er  01451  01451                % 00325 RGTR--
+170103002 Vugelsmillen          01453  01453                % 00325 RGTR--
+170101004 Beaufort, Huelewee    01457  01457                % 00325 RGTR--
+170101003 Beaufort, Härewiss    01458  01458                % 00325 RGTR--
+170101006 Beaufort, Op der Gar  01459  01459                % 00325 RGTR--
+170101001 Beaufort, Aispist     01500  01500                % 00325 RGTR--
+170101009 Beaufort, Um Bierg    01501  01501                % 00325 RGTR--
+170101002 Beaufort, Ennescht H  01502  01502                % 00325 RGTR--
+170101008 Beaufort, Halerstroo  01503  01503                % 00325 RGTR--
+170802002 Haller, Schoul        01510  01510                % 00325 RGTR--
+170802001 Haller, Beim Basseng  01511  01511                % 00325 RGTR--
+170804002 Waldbillig, Gemeng    01514  01514                % 00325 RGTR--
+170804001 Waldbillig, Bëlleger  01515  01515                % 00325 RGTR--
+170801002 Christnach, Schoulst  01517  01517                % 00325 RGTR--
+170801001 Christnach, Hierheck  01517  01517                % 00325 RGTR--
+160501003 Heffingen, Rue de Ch  01520  01520                % 00325 RGTR--
+160501002 Heffingen, Centre     01521  01521                % 00325 RGTR--
+160601006 Larochette, Millewee  01524  01524                % 00325 RGTR--
+160601003 Larochette, Gare Rou  01526                       % 00325 RGTR--
+*Z 00323 RGTR--                                             % 00323 RGTR--
+*L B05      170501016 160601003  01440  01526               % 00323 RGTR--
+*A cj 170501016 160601003 000007  01440  01526              % 00323 RGTR--
+*A IT 170501016 160601003 000007  01440  01526              % 00323 RGTR--
+*A ad 170501016 160601003 000007  01440  01526              % 00323 RGTR--
+*R 2 160601003 170501016 160601003  01440  01526            % 00323 RGTR--
+*G 072 170501016 160601003  01440  01526                    % 00323 RGTR--
+*A VE 170501016 160601003 000007  01440  01526              % 00323 RGTR--
+*I FD 170501016 160601003        0002330  01440  01526      % 00323 RGTR--
+170501016 Echternach, Gare Cen         01440                % 00323 RGTR--
+170501018 Echternach, Ermesind  01440  01440                % 00323 RGTR--
+170501007 Echternach, Fielsmil  01442  01442                % 00323 RGTR--
+170304002 Weilerbach            01444  01444                % 00323 RGTR--
+170304001 Weilerbach, Laufenwe  01445  01445                % 00323 RGTR--
+170302002 Bollendorf-Pont, Ham  01446  01446                % 00323 RGTR--
+170302003 Bollendorf-Pont, Pon  01447  01447                % 00323 RGTR--
+170302001 Bollendorf, Gare      01448  01448                % 00323 RGTR--
+170303002 Grundhof, Bei der Er  01451  01451                % 00323 RGTR--
+170103002 Vugelsmillen          01453  01453                % 00323 RGTR--
+170101004 Beaufort, Huelewee    01457  01457                % 00323 RGTR--
+170101003 Beaufort, Härewiss    01458  01458                % 00323 RGTR--
+170101006 Beaufort, Op der Gar  01459  01459                % 00323 RGTR--
+170101001 Beaufort, Aispist     01500  01500                % 00323 RGTR--
+170101009 Beaufort, Um Bierg    01501  01501                % 00323 RGTR--
+170101002 Beaufort, Ennescht H  01502  01502                % 00323 RGTR--
+170101008 Beaufort, Halerstroo  01503  01503                % 00323 RGTR--
+170802002 Haller, Schoul        01510  01510                % 00323 RGTR--
+170802001 Haller, Beim Basseng  01511  01511                % 00323 RGTR--
+170804002 Waldbillig, Gemeng    01514  01514                % 00323 RGTR--
+170804001 Waldbillig, Bëlleger  01515  01515                % 00323 RGTR--
+170801002 Christnach, Schoulst  01517  01517                % 00323 RGTR--
+170801001 Christnach, Hierheck  01517  01517                % 00323 RGTR--
+160501003 Heffingen, Rue de Ch  01520  01520                % 00323 RGTR--
+160501002 Heffingen, Centre     01521  01521                % 00323 RGTR--
+160601006 Larochette, Millewee  01524  01524                % 00323 RGTR--
+160601003 Larochette, Gare Rou  01526                       % 00323 RGTR--
+*Z 00331 RGTR--                                             % 00331 RGTR--
+*L B05      170501016 160601003  01440  01526               % 00331 RGTR--
+*A cj 170501016 160601003 000011  01440  01526              % 00331 RGTR--
+*A IT 170501016 160601003 000011  01440  01526              % 00331 RGTR--
+*A ad 170501016 160601003 000011  01440  01526              % 00331 RGTR--
+*R 2 160601003 170501016 160601003  01440  01526            % 00331 RGTR--
+*G 072 170501016 160601003  01440  01526                    % 00331 RGTR--
+*A VE 170501016 160601003 000011  01440  01526              % 00331 RGTR--
+*I FD 170501016 160601003        0002330  01440  01526      % 00331 RGTR--
+170501016 Echternach, Gare Cen         01440                % 00331 RGTR--
+170501018 Echternach, Ermesind  01440  01440                % 00331 RGTR--
+170501007 Echternach, Fielsmil  01442  01442                % 00331 RGTR--
+170304002 Weilerbach            01444  01444                % 00331 RGTR--
+170304001 Weilerbach, Laufenwe  01445  01445                % 00331 RGTR--
+170302002 Bollendorf-Pont, Ham  01446  01446                % 00331 RGTR--
+170302003 Bollendorf-Pont, Pon  01447  01447                % 00331 RGTR--
+170302001 Bollendorf, Gare      01448  01448                % 00331 RGTR--
+170303002 Grundhof, Bei der Er  01451  01451                % 00331 RGTR--
+170103002 Vugelsmillen          01453  01453                % 00331 RGTR--
+170101004 Beaufort, Huelewee    01457  01457                % 00331 RGTR--
+170101003 Beaufort, Härewiss    01458  01458                % 00331 RGTR--
+170101006 Beaufort, Op der Gar  01459  01459                % 00331 RGTR--
+170101001 Beaufort, Aispist     01500  01500                % 00331 RGTR--
+170101009 Beaufort, Um Bierg    01501  01501                % 00331 RGTR--
+170101002 Beaufort, Ennescht H  01502  01502                % 00331 RGTR--
+170101008 Beaufort, Halerstroo  01503  01503                % 00331 RGTR--
+170802002 Haller, Schoul        01510  01510                % 00331 RGTR--
+170802001 Haller, Beim Basseng  01511  01511                % 00331 RGTR--
+170804002 Waldbillig, Gemeng    01514  01514                % 00331 RGTR--
+170804001 Waldbillig, Bëlleger  01515  01515                % 00331 RGTR--
+170801002 Christnach, Schoulst  01517  01517                % 00331 RGTR--
+170801001 Christnach, Hierheck  01517  01517                % 00331 RGTR--
+160501003 Heffingen, Rue de Ch  01520  01520                % 00331 RGTR--
+160501002 Heffingen, Centre     01521  01521                % 00331 RGTR--
+160601006 Larochette, Millewee  01524  01524                % 00331 RGTR--
+160601003 Larochette, Gare Rou  01526                       % 00331 RGTR--

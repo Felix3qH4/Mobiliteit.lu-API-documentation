@@ -1,0 +1,885 @@
+*F 03 2
+*Z 10726 RGTR--                                             % 10726 RGTR--
+*L 603      200405053 400000135  01240  01345               % 10726 RGTR--
+*R 1 400000135 200405053 400000135  01240  01345            % 10726 RGTR--
+*G 050 200405053 400000135  01240  01345                    % 10726 RGTR--
+*A VE 200405053 400000135 000033  01240  01345              % 10726 RGTR--
+*I FD 200405053 400000135        0001122  01240  01345      % 10726 RGTR--
+200405053 Luxembourg, Gare Cen         01240                % 10726 RGTR--
+200415003 Hollerich, Fonderie   01241  01241                % 10726 RGTR--
+200415002 Hollerich, Assurance  01244  01244                % 10726 RGTR--
+200412009 Gasperich, Gaasperec  01246  01246                % 10726 RGTR--
+200412028 Gasperich, Stengege   01248  01248                % 10726 RGTR--
+200412006 Gasperich, Cloche d'  01250  01250                % 10726 RGTR--
+200412018 Gasperich, Schaarfen  01251  01251                % 10726 RGTR--
+200412031 Gasperich, Stade de   01252  01252                % 10726 RGTR--
+220402123 Esch-sur-Alzette, Au  01308  01308                % 10726 RGTR--
+400000099 Audun-le-Tiche, Mair  01315 -01315                % 10726 RGTR--
+400000117 Aumetz, Poste         01323 -01323                % 10726 RGTR--
+400000123 Beuvillers, Centre    01329 -01329                % 10726 RGTR--
+400000160 Audun-le-Roman, Park  01330 -01330                % 10726 RGTR--
+400000023 Audun-le-Roman, Egli  01331 -01331                % 10726 RGTR--
+400000129 Malavillers, Mairie   01335 -01335                % 10726 RGTR--
+400000130 Landres, Gare         01340 -01340                % 10726 RGTR--
+400000131 Landres, Intermarché  01341 -01341                % 10726 RGTR--
+400000132 Landres, Cités        01342 -01342                % 10726 RGTR--
+400000134 Piennes, Place        01343 -01343                % 10726 RGTR--
+400000135 Piennes, Zone d'acti  01345                       % 10726 RGTR--
+*Z 10727 RGTR--                                             % 10727 RGTR--
+*L 603      200405053 400000135  01440  01545               % 10727 RGTR--
+*R 1 400000135 200405053 400000135  01440  01545            % 10727 RGTR--
+*G 050 200405053 400000135  01440  01545                    % 10727 RGTR--
+*A VE 200405053 400000135 000033  01440  01545              % 10727 RGTR--
+*I FD 200405053 400000135        0002566  01440  01545      % 10727 RGTR--
+200405053 Luxembourg, Gare Cen         01440                % 10727 RGTR--
+200415003 Hollerich, Fonderie   01441  01441                % 10727 RGTR--
+200415002 Hollerich, Assurance  01444  01444                % 10727 RGTR--
+200412009 Gasperich, Gaasperec  01446  01446                % 10727 RGTR--
+200412028 Gasperich, Stengege   01448  01448                % 10727 RGTR--
+200412006 Gasperich, Cloche d'  01450  01450                % 10727 RGTR--
+200412018 Gasperich, Schaarfen  01451  01451                % 10727 RGTR--
+200412031 Gasperich, Stade de   01452  01452                % 10727 RGTR--
+220402123 Esch-sur-Alzette, Au  01508  01508                % 10727 RGTR--
+400000099 Audun-le-Tiche, Mair  01515 -01515                % 10727 RGTR--
+400000117 Aumetz, Poste         01523 -01523                % 10727 RGTR--
+400000123 Beuvillers, Centre    01529 -01529                % 10727 RGTR--
+400000160 Audun-le-Roman, Park  01530 -01530                % 10727 RGTR--
+400000023 Audun-le-Roman, Egli  01531 -01531                % 10727 RGTR--
+400000129 Malavillers, Mairie   01535 -01535                % 10727 RGTR--
+400000130 Landres, Gare         01540 -01540                % 10727 RGTR--
+400000131 Landres, Intermarché  01541 -01541                % 10727 RGTR--
+400000132 Landres, Cités        01542 -01542                % 10727 RGTR--
+400000134 Piennes, Place        01543 -01543                % 10727 RGTR--
+400000135 Piennes, Zone d'acti  01545                       % 10727 RGTR--
+*Z 10728 RGTR--                                             % 10728 RGTR--
+*L 603      200405053 400000135  01940  02045               % 10728 RGTR--
+*R 1 400000135 200405053 400000135  01940  02045            % 10728 RGTR--
+*G 050 200405053 400000135  01940  02045                    % 10728 RGTR--
+*A VE 200405053 400000135 000033  01940  02045              % 10728 RGTR--
+*I FD 200405053 400000135        0002585  01940  02045      % 10728 RGTR--
+200405053 Luxembourg, Gare Cen         01940                % 10728 RGTR--
+200415003 Hollerich, Fonderie   01941  01941                % 10728 RGTR--
+200415002 Hollerich, Assurance  01944  01944                % 10728 RGTR--
+200412009 Gasperich, Gaasperec  01946  01946                % 10728 RGTR--
+200412028 Gasperich, Stengege   01948  01948                % 10728 RGTR--
+200412006 Gasperich, Cloche d'  01950  01950                % 10728 RGTR--
+200412018 Gasperich, Schaarfen  01951  01951                % 10728 RGTR--
+200412031 Gasperich, Stade de   01952  01952                % 10728 RGTR--
+220402123 Esch-sur-Alzette, Au  02008  02008                % 10728 RGTR--
+400000099 Audun-le-Tiche, Mair  02015 -02015                % 10728 RGTR--
+400000117 Aumetz, Poste         02023 -02023                % 10728 RGTR--
+400000123 Beuvillers, Centre    02029 -02029                % 10728 RGTR--
+400000160 Audun-le-Roman, Park  02030 -02030                % 10728 RGTR--
+400000023 Audun-le-Roman, Egli  02031 -02031                % 10728 RGTR--
+400000129 Malavillers, Mairie   02035 -02035                % 10728 RGTR--
+400000130 Landres, Gare         02040 -02040                % 10728 RGTR--
+400000131 Landres, Intermarché  02041 -02041                % 10728 RGTR--
+400000132 Landres, Cités        02042 -02042                % 10728 RGTR--
+400000134 Piennes, Place        02043 -02043                % 10728 RGTR--
+400000135 Piennes, Zone d'acti  02045                       % 10728 RGTR--
+*Z 10729 RGTR--                                             % 10729 RGTR--
+*L 603      200405053 400000135  02040  02145               % 10729 RGTR--
+*R 1 400000135 200405053 400000135  02040  02145            % 10729 RGTR--
+*G 050 200405053 400000135  02040  02145                    % 10729 RGTR--
+*A VE 200405053 400000135 000033  02040  02145              % 10729 RGTR--
+*I FD 200405053 400000135        0002563  02040  02145      % 10729 RGTR--
+200405053 Luxembourg, Gare Cen         02040                % 10729 RGTR--
+200415003 Hollerich, Fonderie   02041  02041                % 10729 RGTR--
+200415002 Hollerich, Assurance  02044  02044                % 10729 RGTR--
+200412009 Gasperich, Gaasperec  02046  02046                % 10729 RGTR--
+200412028 Gasperich, Stengege   02048  02048                % 10729 RGTR--
+200412006 Gasperich, Cloche d'  02050  02050                % 10729 RGTR--
+200412018 Gasperich, Schaarfen  02051  02051                % 10729 RGTR--
+200412031 Gasperich, Stade de   02052  02052                % 10729 RGTR--
+220402123 Esch-sur-Alzette, Au  02108  02108                % 10729 RGTR--
+400000099 Audun-le-Tiche, Mair  02115 -02115                % 10729 RGTR--
+400000117 Aumetz, Poste         02123 -02123                % 10729 RGTR--
+400000123 Beuvillers, Centre    02129 -02129                % 10729 RGTR--
+400000160 Audun-le-Roman, Park  02130 -02130                % 10729 RGTR--
+400000023 Audun-le-Roman, Egli  02131 -02131                % 10729 RGTR--
+400000129 Malavillers, Mairie   02135 -02135                % 10729 RGTR--
+400000130 Landres, Gare         02140 -02140                % 10729 RGTR--
+400000131 Landres, Intermarché  02141 -02141                % 10729 RGTR--
+400000132 Landres, Cités        02142 -02142                % 10729 RGTR--
+400000134 Piennes, Place        02143 -02143                % 10729 RGTR--
+400000135 Piennes, Zone d'acti  02145                       % 10729 RGTR--
+*Z 10730 RGTR--                                             % 10730 RGTR--
+*L 603      200405053 400000135  02220  02325               % 10730 RGTR--
+*R 1 400000135 200405053 400000135  02220  02325            % 10730 RGTR--
+*G 050 200405053 400000135  02220  02325                    % 10730 RGTR--
+*A VE 200405053 400000135 000033  02220  02325              % 10730 RGTR--
+*I FD 200405053 400000135        0002601  02220  02325      % 10730 RGTR--
+200405053 Luxembourg, Gare Cen         02220                % 10730 RGTR--
+200415003 Hollerich, Fonderie   02221  02221                % 10730 RGTR--
+200415002 Hollerich, Assurance  02224  02224                % 10730 RGTR--
+200412009 Gasperich, Gaasperec  02226  02226                % 10730 RGTR--
+200412028 Gasperich, Stengege   02228  02228                % 10730 RGTR--
+200412006 Gasperich, Cloche d'  02230  02230                % 10730 RGTR--
+200412018 Gasperich, Schaarfen  02231  02231                % 10730 RGTR--
+200412031 Gasperich, Stade de   02232  02232                % 10730 RGTR--
+220402123 Esch-sur-Alzette, Au  02248  02248                % 10730 RGTR--
+400000099 Audun-le-Tiche, Mair  02255 -02255                % 10730 RGTR--
+400000117 Aumetz, Poste         02303 -02303                % 10730 RGTR--
+400000123 Beuvillers, Centre    02309 -02309                % 10730 RGTR--
+400000160 Audun-le-Roman, Park  02310 -02310                % 10730 RGTR--
+400000023 Audun-le-Roman, Egli  02311 -02311                % 10730 RGTR--
+400000129 Malavillers, Mairie   02315 -02315                % 10730 RGTR--
+400000130 Landres, Gare         02320 -02320                % 10730 RGTR--
+400000131 Landres, Intermarché  02321 -02321                % 10730 RGTR--
+400000132 Landres, Cités        02322 -02322                % 10730 RGTR--
+400000134 Piennes, Place        02323 -02323                % 10730 RGTR--
+400000135 Piennes, Zone d'acti  02325                       % 10730 RGTR--
+*Z 10731 RGTR--                                             % 10731 RGTR--
+*L 603      200405053 400000135  01640  01755               % 10731 RGTR--
+*R 1 400000135 200405053 400000135  01640  01755            % 10731 RGTR--
+*G 050 200405053 400000135  01640  01755                    % 10731 RGTR--
+*A VE 200405053 400000135 000033  01640  01755              % 10731 RGTR--
+*I FD 200405053 400000135        0002590  01640  01755      % 10731 RGTR--
+200405053 Luxembourg, Gare Cen         01640                % 10731 RGTR--
+200415003 Hollerich, Fonderie   01642  01642                % 10731 RGTR--
+200415002 Hollerich, Assurance  01644  01644                % 10731 RGTR--
+200412009 Gasperich, Gaasperec  01647  01647                % 10731 RGTR--
+200412028 Gasperich, Stengege   01649  01649                % 10731 RGTR--
+200412006 Gasperich, Cloche d'  01653  01653                % 10731 RGTR--
+200412018 Gasperich, Schaarfen  01655  01655                % 10731 RGTR--
+200412031 Gasperich, Stade de   01655  01655                % 10731 RGTR--
+220402123 Esch-sur-Alzette, Au  01714  01714                % 10731 RGTR--
+400000099 Audun-le-Tiche, Mair  01722 -01722                % 10731 RGTR--
+400000117 Aumetz, Poste         01730 -01730                % 10731 RGTR--
+400000123 Beuvillers, Centre    01737 -01737                % 10731 RGTR--
+400000160 Audun-le-Roman, Park  01739 -01739                % 10731 RGTR--
+400000023 Audun-le-Roman, Egli  01740 -01740                % 10731 RGTR--
+400000129 Malavillers, Mairie   01744 -01744                % 10731 RGTR--
+400000130 Landres, Gare         01749 -01749                % 10731 RGTR--
+400000131 Landres, Intermarché  01750 -01750                % 10731 RGTR--
+400000132 Landres, Cités        01751 -01751                % 10731 RGTR--
+400000134 Piennes, Place        01753 -01753                % 10731 RGTR--
+400000135 Piennes, Zone d'acti  01755                       % 10731 RGTR--
+*Z 10732 RGTR--                                             % 10732 RGTR--
+*L 603      200405053 400000135  01710  01825               % 10732 RGTR--
+*R 1 400000135 200405053 400000135  01710  01825            % 10732 RGTR--
+*G 050 200405053 400000135  01710  01825                    % 10732 RGTR--
+*A VE 200405053 400000135 000033  01710  01825              % 10732 RGTR--
+*I FD 200405053 400000135        0002594  01710  01825      % 10732 RGTR--
+200405053 Luxembourg, Gare Cen         01710                % 10732 RGTR--
+200415003 Hollerich, Fonderie   01712  01712                % 10732 RGTR--
+200415002 Hollerich, Assurance  01714  01714                % 10732 RGTR--
+200412009 Gasperich, Gaasperec  01717  01717                % 10732 RGTR--
+200412028 Gasperich, Stengege   01719  01719                % 10732 RGTR--
+200412006 Gasperich, Cloche d'  01723  01723                % 10732 RGTR--
+200412018 Gasperich, Schaarfen  01725  01725                % 10732 RGTR--
+200412031 Gasperich, Stade de   01725  01725                % 10732 RGTR--
+220402123 Esch-sur-Alzette, Au  01744  01744                % 10732 RGTR--
+400000099 Audun-le-Tiche, Mair  01752 -01752                % 10732 RGTR--
+400000117 Aumetz, Poste         01800 -01800                % 10732 RGTR--
+400000123 Beuvillers, Centre    01807 -01807                % 10732 RGTR--
+400000160 Audun-le-Roman, Park  01809 -01809                % 10732 RGTR--
+400000023 Audun-le-Roman, Egli  01810 -01810                % 10732 RGTR--
+400000129 Malavillers, Mairie   01814 -01814                % 10732 RGTR--
+400000130 Landres, Gare         01819 -01819                % 10732 RGTR--
+400000131 Landres, Intermarché  01820 -01820                % 10732 RGTR--
+400000132 Landres, Cités        01821 -01821                % 10732 RGTR--
+400000134 Piennes, Place        01823 -01823                % 10732 RGTR--
+400000135 Piennes, Zone d'acti  01825                       % 10732 RGTR--
+*Z 10733 RGTR--                                             % 10733 RGTR--
+*L 603      200405053 400000135  01740  01855               % 10733 RGTR--
+*R 1 400000135 200405053 400000135  01740  01855            % 10733 RGTR--
+*G 050 200405053 400000135  01740  01855                    % 10733 RGTR--
+*A VE 200405053 400000135 000033  01740  01855              % 10733 RGTR--
+*I FD 200405053 400000135        0002570  01740  01855      % 10733 RGTR--
+200405053 Luxembourg, Gare Cen         01740                % 10733 RGTR--
+200415003 Hollerich, Fonderie   01742  01742                % 10733 RGTR--
+200415002 Hollerich, Assurance  01744  01744                % 10733 RGTR--
+200412009 Gasperich, Gaasperec  01747  01747                % 10733 RGTR--
+200412028 Gasperich, Stengege   01749  01749                % 10733 RGTR--
+200412006 Gasperich, Cloche d'  01753  01753                % 10733 RGTR--
+200412018 Gasperich, Schaarfen  01755  01755                % 10733 RGTR--
+200412031 Gasperich, Stade de   01755  01755                % 10733 RGTR--
+220402123 Esch-sur-Alzette, Au  01814  01814                % 10733 RGTR--
+400000099 Audun-le-Tiche, Mair  01822 -01822                % 10733 RGTR--
+400000117 Aumetz, Poste         01830 -01830                % 10733 RGTR--
+400000123 Beuvillers, Centre    01837 -01837                % 10733 RGTR--
+400000160 Audun-le-Roman, Park  01839 -01839                % 10733 RGTR--
+400000023 Audun-le-Roman, Egli  01840 -01840                % 10733 RGTR--
+400000129 Malavillers, Mairie   01844 -01844                % 10733 RGTR--
+400000130 Landres, Gare         01849 -01849                % 10733 RGTR--
+400000131 Landres, Intermarché  01850 -01850                % 10733 RGTR--
+400000132 Landres, Cités        01851 -01851                % 10733 RGTR--
+400000134 Piennes, Place        01853 -01853                % 10733 RGTR--
+400000135 Piennes, Zone d'acti  01855                       % 10733 RGTR--
+*Z 10734 RGTR--                                             % 10734 RGTR--
+*L 603      200405053 400000135  01810  01925               % 10734 RGTR--
+*R 1 400000135 200405053 400000135  01810  01925            % 10734 RGTR--
+*G 050 200405053 400000135  01810  01925                    % 10734 RGTR--
+*A VE 200405053 400000135 000033  01810  01925              % 10734 RGTR--
+*I FD 200405053 400000135        0002595  01810  01925      % 10734 RGTR--
+200405053 Luxembourg, Gare Cen         01810                % 10734 RGTR--
+200415003 Hollerich, Fonderie   01812  01812                % 10734 RGTR--
+200415002 Hollerich, Assurance  01814  01814                % 10734 RGTR--
+200412009 Gasperich, Gaasperec  01817  01817                % 10734 RGTR--
+200412028 Gasperich, Stengege   01819  01819                % 10734 RGTR--
+200412006 Gasperich, Cloche d'  01823  01823                % 10734 RGTR--
+200412018 Gasperich, Schaarfen  01825  01825                % 10734 RGTR--
+200412031 Gasperich, Stade de   01825  01825                % 10734 RGTR--
+220402123 Esch-sur-Alzette, Au  01844  01844                % 10734 RGTR--
+400000099 Audun-le-Tiche, Mair  01852 -01852                % 10734 RGTR--
+400000117 Aumetz, Poste         01900 -01900                % 10734 RGTR--
+400000123 Beuvillers, Centre    01907 -01907                % 10734 RGTR--
+400000160 Audun-le-Roman, Park  01909 -01909                % 10734 RGTR--
+400000023 Audun-le-Roman, Egli  01910 -01910                % 10734 RGTR--
+400000129 Malavillers, Mairie   01914 -01914                % 10734 RGTR--
+400000130 Landres, Gare         01919 -01919                % 10734 RGTR--
+400000131 Landres, Intermarché  01920 -01920                % 10734 RGTR--
+400000132 Landres, Cités        01921 -01921                % 10734 RGTR--
+400000134 Piennes, Place        01923 -01923                % 10734 RGTR--
+400000135 Piennes, Zone d'acti  01925                       % 10734 RGTR--
+*Z 10735 RGTR--                                             % 10735 RGTR--
+*L 603      200405053 400000135  01840  01955               % 10735 RGTR--
+*R 1 400000135 200405053 400000135  01840  01955            % 10735 RGTR--
+*G 050 200405053 400000135  01840  01955                    % 10735 RGTR--
+*A VE 200405053 400000135 000033  01840  01955              % 10735 RGTR--
+*I FD 200405053 400000135        0001282  01840  01955      % 10735 RGTR--
+200405053 Luxembourg, Gare Cen         01840                % 10735 RGTR--
+200415003 Hollerich, Fonderie   01842  01842                % 10735 RGTR--
+200415002 Hollerich, Assurance  01844  01844                % 10735 RGTR--
+200412009 Gasperich, Gaasperec  01847  01847                % 10735 RGTR--
+200412028 Gasperich, Stengege   01849  01849                % 10735 RGTR--
+200412006 Gasperich, Cloche d'  01853  01853                % 10735 RGTR--
+200412018 Gasperich, Schaarfen  01855  01855                % 10735 RGTR--
+200412031 Gasperich, Stade de   01855  01855                % 10735 RGTR--
+220402123 Esch-sur-Alzette, Au  01914  01914                % 10735 RGTR--
+400000099 Audun-le-Tiche, Mair  01922 -01922                % 10735 RGTR--
+400000117 Aumetz, Poste         01930 -01930                % 10735 RGTR--
+400000123 Beuvillers, Centre    01937 -01937                % 10735 RGTR--
+400000160 Audun-le-Roman, Park  01939 -01939                % 10735 RGTR--
+400000023 Audun-le-Roman, Egli  01940 -01940                % 10735 RGTR--
+400000129 Malavillers, Mairie   01944 -01944                % 10735 RGTR--
+400000130 Landres, Gare         01949 -01949                % 10735 RGTR--
+400000131 Landres, Intermarché  01950 -01950                % 10735 RGTR--
+400000132 Landres, Cités        01951 -01951                % 10735 RGTR--
+400000134 Piennes, Place        01953 -01953                % 10735 RGTR--
+400000135 Piennes, Zone d'acti  01955                       % 10735 RGTR--
+*Z 10736 RGTR--                                             % 10736 RGTR--
+*L 603      400000135 200405036  00423  00524               % 10736 RGTR--
+*R 2 200405036 400000135 200405036  00423  00524            % 10736 RGTR--
+*G 050 400000135 200405036  00423  00524                    % 10736 RGTR--
+*A VE 400000135 200405036 000033  00423  00524              % 10736 RGTR--
+*I FD 400000135 200405036        0003026  00423  00524      % 10736 RGTR--
+400000135 Piennes, Zone d'acti         00423                % 10736 RGTR--
+400000134 Piennes, Place       -00425  00425                % 10736 RGTR--
+400000133 Landres, Cimetière   -00426  00426                % 10736 RGTR--
+400000131 Landres, Intermarché -00427  00427                % 10736 RGTR--
+400000130 Landres, Gare        -00428  00428                % 10736 RGTR--
+400000129 Malavillers, Mairie  -00433  00433                % 10736 RGTR--
+400000023 Audun-le-Roman, Egli -00436  00436                % 10736 RGTR--
+400000160 Audun-le-Roman, Park -00437  00437                % 10736 RGTR--
+400000123 Beuvillers, Centre   -00440  00440                % 10736 RGTR--
+400000117 Aumetz, Poste        -00444  00444                % 10736 RGTR--
+400000099 Audun-le-Tiche, Mair -00453  00453                % 10736 RGTR--
+220402034 Esch-sur-Alzette, Ga  00500  00500                % 10736 RGTR--
+200412031 Gasperich, Stade de   00514  00514                % 10736 RGTR--
+200412018 Gasperich, Schaarfen  00515  00515                % 10736 RGTR--
+200412006 Gasperich, Cloche d'  00516  00516                % 10736 RGTR--
+200412028 Gasperich, Stengege   00519  00519                % 10736 RGTR--
+200412009 Gasperich, Gaasperec  00520  00520                % 10736 RGTR--
+200415002 Hollerich, Assurance  00521  00521                % 10736 RGTR--
+200415003 Hollerich, Fonderie   00523  00523                % 10736 RGTR--
+200405036 Luxembourg, Gare Cen  00524                       % 10736 RGTR--
+*Z 10737 RGTR--                                             % 10737 RGTR--
+*L 603      400000135 200405036  00553  00654               % 10737 RGTR--
+*R 2 200405036 400000135 200405036  00553  00654            % 10737 RGTR--
+*G 050 400000135 200405036  00553  00654                    % 10737 RGTR--
+*A VE 400000135 200405036 000033  00553  00654              % 10737 RGTR--
+*I FD 400000135 200405036        0002632  00553  00654      % 10737 RGTR--
+400000135 Piennes, Zone d'acti         00553                % 10737 RGTR--
+400000134 Piennes, Place       -00555  00555                % 10737 RGTR--
+400000133 Landres, Cimetière   -00556  00556                % 10737 RGTR--
+400000131 Landres, Intermarché -00557  00557                % 10737 RGTR--
+400000130 Landres, Gare        -00558  00558                % 10737 RGTR--
+400000129 Malavillers, Mairie  -00603  00603                % 10737 RGTR--
+400000023 Audun-le-Roman, Egli -00606  00606                % 10737 RGTR--
+400000160 Audun-le-Roman, Park -00607  00607                % 10737 RGTR--
+400000123 Beuvillers, Centre   -00610  00610                % 10737 RGTR--
+400000117 Aumetz, Poste        -00614  00614                % 10737 RGTR--
+400000099 Audun-le-Tiche, Mair -00623  00623                % 10737 RGTR--
+220402034 Esch-sur-Alzette, Ga  00630  00630                % 10737 RGTR--
+200412031 Gasperich, Stade de   00644  00644                % 10737 RGTR--
+200412018 Gasperich, Schaarfen  00645  00645                % 10737 RGTR--
+200412006 Gasperich, Cloche d'  00646  00646                % 10737 RGTR--
+200412028 Gasperich, Stengege   00649  00649                % 10737 RGTR--
+200412009 Gasperich, Gaasperec  00650  00650                % 10737 RGTR--
+200415002 Hollerich, Assurance  00651  00651                % 10737 RGTR--
+200415003 Hollerich, Fonderie   00653  00653                % 10737 RGTR--
+200405036 Luxembourg, Gare Cen  00654                       % 10737 RGTR--
+*Z 10738 RGTR--                                             % 10738 RGTR--
+*L 603      400000135 200405036  01223  01324               % 10738 RGTR--
+*R 2 200405036 400000135 200405036  01223  01324            % 10738 RGTR--
+*G 050 400000135 200405036  01223  01324                    % 10738 RGTR--
+*A VE 400000135 200405036 000033  01223  01324              % 10738 RGTR--
+*I FD 400000135 200405036        0003027  01223  01324      % 10738 RGTR--
+400000135 Piennes, Zone d'acti         01223                % 10738 RGTR--
+400000134 Piennes, Place       -01225  01225                % 10738 RGTR--
+400000133 Landres, Cimetière   -01226  01226                % 10738 RGTR--
+400000131 Landres, Intermarché -01227  01227                % 10738 RGTR--
+400000130 Landres, Gare        -01228  01228                % 10738 RGTR--
+400000129 Malavillers, Mairie  -01233  01233                % 10738 RGTR--
+400000023 Audun-le-Roman, Egli -01236  01236                % 10738 RGTR--
+400000160 Audun-le-Roman, Park -01237  01237                % 10738 RGTR--
+400000123 Beuvillers, Centre   -01240  01240                % 10738 RGTR--
+400000117 Aumetz, Poste        -01244  01244                % 10738 RGTR--
+400000099 Audun-le-Tiche, Mair -01253  01253                % 10738 RGTR--
+220402034 Esch-sur-Alzette, Ga  01300  01300                % 10738 RGTR--
+200412031 Gasperich, Stade de   01314  01314                % 10738 RGTR--
+200412018 Gasperich, Schaarfen  01315  01315                % 10738 RGTR--
+200412006 Gasperich, Cloche d'  01316  01316                % 10738 RGTR--
+200412028 Gasperich, Stengege   01319  01319                % 10738 RGTR--
+200412009 Gasperich, Gaasperec  01320  01320                % 10738 RGTR--
+200415002 Hollerich, Assurance  01321  01321                % 10738 RGTR--
+200415003 Hollerich, Fonderie   01323  01323                % 10738 RGTR--
+200405036 Luxembourg, Gare Cen  01324                       % 10738 RGTR--
+*Z 10739 RGTR--                                             % 10739 RGTR--
+*L 603      400000135 200405036  01543  01644               % 10739 RGTR--
+*R 2 200405036 400000135 200405036  01543  01644            % 10739 RGTR--
+*G 050 400000135 200405036  01543  01644                    % 10739 RGTR--
+*A VE 400000135 200405036 000033  01543  01644              % 10739 RGTR--
+*I FD 400000135 200405036        0002766  01543  01644      % 10739 RGTR--
+400000135 Piennes, Zone d'acti         01543                % 10739 RGTR--
+400000134 Piennes, Place       -01545  01545                % 10739 RGTR--
+400000133 Landres, Cimetière   -01546  01546                % 10739 RGTR--
+400000131 Landres, Intermarché -01547  01547                % 10739 RGTR--
+400000130 Landres, Gare        -01548  01548                % 10739 RGTR--
+400000129 Malavillers, Mairie  -01553  01553                % 10739 RGTR--
+400000023 Audun-le-Roman, Egli -01556  01556                % 10739 RGTR--
+400000160 Audun-le-Roman, Park -01557  01557                % 10739 RGTR--
+400000123 Beuvillers, Centre   -01600  01600                % 10739 RGTR--
+400000117 Aumetz, Poste        -01604  01604                % 10739 RGTR--
+400000099 Audun-le-Tiche, Mair -01613  01613                % 10739 RGTR--
+220402034 Esch-sur-Alzette, Ga  01620  01620                % 10739 RGTR--
+200412031 Gasperich, Stade de   01634  01634                % 10739 RGTR--
+200412018 Gasperich, Schaarfen  01635  01635                % 10739 RGTR--
+200412006 Gasperich, Cloche d'  01636  01636                % 10739 RGTR--
+200412028 Gasperich, Stengege   01639  01639                % 10739 RGTR--
+200412009 Gasperich, Gaasperec  01640  01640                % 10739 RGTR--
+200415002 Hollerich, Assurance  01641  01641                % 10739 RGTR--
+200415003 Hollerich, Fonderie   01643  01643                % 10739 RGTR--
+200405036 Luxembourg, Gare Cen  01644                       % 10739 RGTR--
+*Z 10740 RGTR--                                             % 10740 RGTR--
+*L 603      400000135 200405036  00623  00739               % 10740 RGTR--
+*R 2 200405036 400000135 200405036  00623  00739            % 10740 RGTR--
+*G 050 400000135 200405036  00623  00739                    % 10740 RGTR--
+*A VE 400000135 200405036 000033  00623  00739              % 10740 RGTR--
+*I FD 400000135 200405036        0003028  00623  00739      % 10740 RGTR--
+400000135 Piennes, Zone d'acti         00623                % 10740 RGTR--
+400000134 Piennes, Place       -00625  00625                % 10740 RGTR--
+400000133 Landres, Cimetière   -00626  00626                % 10740 RGTR--
+400000131 Landres, Intermarché -00627  00627                % 10740 RGTR--
+400000130 Landres, Gare        -00629  00629                % 10740 RGTR--
+400000129 Malavillers, Mairie  -00634  00634                % 10740 RGTR--
+400000023 Audun-le-Roman, Egli -00638  00638                % 10740 RGTR--
+400000160 Audun-le-Roman, Park -00639  00639                % 10740 RGTR--
+400000123 Beuvillers, Centre   -00642  00642                % 10740 RGTR--
+400000117 Aumetz, Poste        -00647  00647                % 10740 RGTR--
+400000099 Audun-le-Tiche, Mair -00656  00656                % 10740 RGTR--
+220402034 Esch-sur-Alzette, Ga  00704  00704                % 10740 RGTR--
+200412031 Gasperich, Stade de   00727  00727                % 10740 RGTR--
+200412018 Gasperich, Schaarfen  00728  00728                % 10740 RGTR--
+200412006 Gasperich, Cloche d'  00729  00729                % 10740 RGTR--
+200412028 Gasperich, Stengege   00733  00733                % 10740 RGTR--
+200412009 Gasperich, Gaasperec  00733  00733                % 10740 RGTR--
+200415002 Hollerich, Assurance  00735  00735                % 10740 RGTR--
+200415003 Hollerich, Fonderie   00737  00737                % 10740 RGTR--
+200405036 Luxembourg, Gare Cen  00739                       % 10740 RGTR--
+*Z 10741 RGTR--                                             % 10741 RGTR--
+*L 603      400000135 200405036  00648  00804               % 10741 RGTR--
+*R 2 200405036 400000135 200405036  00648  00804            % 10741 RGTR--
+*G 050 400000135 200405036  00648  00804                    % 10741 RGTR--
+*A VE 400000135 200405036 000033  00648  00804              % 10741 RGTR--
+*I FD 400000135 200405036        0002719  00648  00804      % 10741 RGTR--
+400000135 Piennes, Zone d'acti         00648                % 10741 RGTR--
+400000134 Piennes, Place       -00650  00650                % 10741 RGTR--
+400000133 Landres, Cimetière   -00651  00651                % 10741 RGTR--
+400000131 Landres, Intermarché -00652  00652                % 10741 RGTR--
+400000130 Landres, Gare        -00654  00654                % 10741 RGTR--
+400000129 Malavillers, Mairie  -00659  00659                % 10741 RGTR--
+400000023 Audun-le-Roman, Egli -00703  00703                % 10741 RGTR--
+400000160 Audun-le-Roman, Park -00704  00704                % 10741 RGTR--
+400000123 Beuvillers, Centre   -00707  00707                % 10741 RGTR--
+400000117 Aumetz, Poste        -00712  00712                % 10741 RGTR--
+400000099 Audun-le-Tiche, Mair -00721  00721                % 10741 RGTR--
+220402034 Esch-sur-Alzette, Ga  00729  00729                % 10741 RGTR--
+200412031 Gasperich, Stade de   00752  00752                % 10741 RGTR--
+200412018 Gasperich, Schaarfen  00753  00753                % 10741 RGTR--
+200412006 Gasperich, Cloche d'  00754  00754                % 10741 RGTR--
+200412028 Gasperich, Stengege   00758  00758                % 10741 RGTR--
+200412009 Gasperich, Gaasperec  00758  00758                % 10741 RGTR--
+200415002 Hollerich, Assurance  00800  00800                % 10741 RGTR--
+200415003 Hollerich, Fonderie   00802  00802                % 10741 RGTR--
+200405036 Luxembourg, Gare Cen  00804                       % 10741 RGTR--
+*Z 10742 RGTR--                                             % 10742 RGTR--
+*L 603      400000135 200405036  00713  00829               % 10742 RGTR--
+*R 2 200405036 400000135 200405036  00713  00829            % 10742 RGTR--
+*G 050 400000135 200405036  00713  00829                    % 10742 RGTR--
+*A VE 400000135 200405036 000033  00713  00829              % 10742 RGTR--
+*I FD 400000135 200405036        0002827  00713  00829      % 10742 RGTR--
+400000135 Piennes, Zone d'acti         00713                % 10742 RGTR--
+400000134 Piennes, Place       -00715  00715                % 10742 RGTR--
+400000133 Landres, Cimetière   -00716  00716                % 10742 RGTR--
+400000131 Landres, Intermarché -00717  00717                % 10742 RGTR--
+400000130 Landres, Gare        -00719  00719                % 10742 RGTR--
+400000129 Malavillers, Mairie  -00724  00724                % 10742 RGTR--
+400000023 Audun-le-Roman, Egli -00728  00728                % 10742 RGTR--
+400000160 Audun-le-Roman, Park -00729  00729                % 10742 RGTR--
+400000123 Beuvillers, Centre   -00732  00732                % 10742 RGTR--
+400000117 Aumetz, Poste        -00737  00737                % 10742 RGTR--
+400000099 Audun-le-Tiche, Mair -00746  00746                % 10742 RGTR--
+220402034 Esch-sur-Alzette, Ga  00754  00754                % 10742 RGTR--
+200412031 Gasperich, Stade de   00817  00817                % 10742 RGTR--
+200412018 Gasperich, Schaarfen  00818  00818                % 10742 RGTR--
+200412006 Gasperich, Cloche d'  00819  00819                % 10742 RGTR--
+200412028 Gasperich, Stengege   00823  00823                % 10742 RGTR--
+200412009 Gasperich, Gaasperec  00823  00823                % 10742 RGTR--
+200415002 Hollerich, Assurance  00825  00825                % 10742 RGTR--
+200415003 Hollerich, Fonderie   00827  00827                % 10742 RGTR--
+200405036 Luxembourg, Gare Cen  00829                       % 10742 RGTR--
+*Z 10743 RGTR--                                             % 10743 RGTR--
+*L 603      200405053 400000135  01240  01345               % 10743 RGTR--
+*R 1 400000135 200405053 400000135  01240  01345            % 10743 RGTR--
+*G 050 200405053 400000135  01240  01345                    % 10743 RGTR--
+*A VE 200405053 400000135 000034  01240  01345              % 10743 RGTR--
+*I FD 200405053 400000135        0001122  01240  01345      % 10743 RGTR--
+200405053 Luxembourg, Gare Cen         01240                % 10743 RGTR--
+200415003 Hollerich, Fonderie   01241  01241                % 10743 RGTR--
+200415002 Hollerich, Assurance  01244  01244                % 10743 RGTR--
+200412009 Gasperich, Gaasperec  01246  01246                % 10743 RGTR--
+200412028 Gasperich, Stengege   01248  01248                % 10743 RGTR--
+200412006 Gasperich, Cloche d'  01250  01250                % 10743 RGTR--
+200412018 Gasperich, Schaarfen  01251  01251                % 10743 RGTR--
+200412031 Gasperich, Stade de   01252  01252                % 10743 RGTR--
+220402123 Esch-sur-Alzette, Au  01308  01308                % 10743 RGTR--
+400000099 Audun-le-Tiche, Mair  01315 -01315                % 10743 RGTR--
+400000117 Aumetz, Poste         01323 -01323                % 10743 RGTR--
+400000123 Beuvillers, Centre    01329 -01329                % 10743 RGTR--
+400000160 Audun-le-Roman, Park  01330 -01330                % 10743 RGTR--
+400000023 Audun-le-Roman, Egli  01331 -01331                % 10743 RGTR--
+400000129 Malavillers, Mairie   01335 -01335                % 10743 RGTR--
+400000130 Landres, Gare         01340 -01340                % 10743 RGTR--
+400000131 Landres, Intermarché  01341 -01341                % 10743 RGTR--
+400000132 Landres, Cités        01342 -01342                % 10743 RGTR--
+400000134 Piennes, Place        01343 -01343                % 10743 RGTR--
+400000135 Piennes, Zone d'acti  01345                       % 10743 RGTR--
+*Z 10744 RGTR--                                             % 10744 RGTR--
+*L 603      200405053 400000135  01440  01545               % 10744 RGTR--
+*R 1 400000135 200405053 400000135  01440  01545            % 10744 RGTR--
+*G 050 200405053 400000135  01440  01545                    % 10744 RGTR--
+*A VE 200405053 400000135 000034  01440  01545              % 10744 RGTR--
+*I FD 200405053 400000135        0002566  01440  01545      % 10744 RGTR--
+200405053 Luxembourg, Gare Cen         01440                % 10744 RGTR--
+200415003 Hollerich, Fonderie   01441  01441                % 10744 RGTR--
+200415002 Hollerich, Assurance  01444  01444                % 10744 RGTR--
+200412009 Gasperich, Gaasperec  01446  01446                % 10744 RGTR--
+200412028 Gasperich, Stengege   01448  01448                % 10744 RGTR--
+200412006 Gasperich, Cloche d'  01450  01450                % 10744 RGTR--
+200412018 Gasperich, Schaarfen  01451  01451                % 10744 RGTR--
+200412031 Gasperich, Stade de   01452  01452                % 10744 RGTR--
+220402123 Esch-sur-Alzette, Au  01508  01508                % 10744 RGTR--
+400000099 Audun-le-Tiche, Mair  01515 -01515                % 10744 RGTR--
+400000117 Aumetz, Poste         01523 -01523                % 10744 RGTR--
+400000123 Beuvillers, Centre    01529 -01529                % 10744 RGTR--
+400000160 Audun-le-Roman, Park  01530 -01530                % 10744 RGTR--
+400000023 Audun-le-Roman, Egli  01531 -01531                % 10744 RGTR--
+400000129 Malavillers, Mairie   01535 -01535                % 10744 RGTR--
+400000130 Landres, Gare         01540 -01540                % 10744 RGTR--
+400000131 Landres, Intermarché  01541 -01541                % 10744 RGTR--
+400000132 Landres, Cités        01542 -01542                % 10744 RGTR--
+400000134 Piennes, Place        01543 -01543                % 10744 RGTR--
+400000135 Piennes, Zone d'acti  01545                       % 10744 RGTR--
+*Z 10745 RGTR--                                             % 10745 RGTR--
+*L 603      200405053 400000135  01940  02045               % 10745 RGTR--
+*R 1 400000135 200405053 400000135  01940  02045            % 10745 RGTR--
+*G 050 200405053 400000135  01940  02045                    % 10745 RGTR--
+*A VE 200405053 400000135 000034  01940  02045              % 10745 RGTR--
+*I FD 200405053 400000135        0002585  01940  02045      % 10745 RGTR--
+200405053 Luxembourg, Gare Cen         01940                % 10745 RGTR--
+200415003 Hollerich, Fonderie   01941  01941                % 10745 RGTR--
+200415002 Hollerich, Assurance  01944  01944                % 10745 RGTR--
+200412009 Gasperich, Gaasperec  01946  01946                % 10745 RGTR--
+200412028 Gasperich, Stengege   01948  01948                % 10745 RGTR--
+200412006 Gasperich, Cloche d'  01950  01950                % 10745 RGTR--
+200412018 Gasperich, Schaarfen  01951  01951                % 10745 RGTR--
+200412031 Gasperich, Stade de   01952  01952                % 10745 RGTR--
+220402123 Esch-sur-Alzette, Au  02008  02008                % 10745 RGTR--
+400000099 Audun-le-Tiche, Mair  02015 -02015                % 10745 RGTR--
+400000117 Aumetz, Poste         02023 -02023                % 10745 RGTR--
+400000123 Beuvillers, Centre    02029 -02029                % 10745 RGTR--
+400000160 Audun-le-Roman, Park  02030 -02030                % 10745 RGTR--
+400000023 Audun-le-Roman, Egli  02031 -02031                % 10745 RGTR--
+400000129 Malavillers, Mairie   02035 -02035                % 10745 RGTR--
+400000130 Landres, Gare         02040 -02040                % 10745 RGTR--
+400000131 Landres, Intermarché  02041 -02041                % 10745 RGTR--
+400000132 Landres, Cités        02042 -02042                % 10745 RGTR--
+400000134 Piennes, Place        02043 -02043                % 10745 RGTR--
+400000135 Piennes, Zone d'acti  02045                       % 10745 RGTR--
+*Z 10746 RGTR--                                             % 10746 RGTR--
+*L 603      200405053 400000135  02040  02145               % 10746 RGTR--
+*R 1 400000135 200405053 400000135  02040  02145            % 10746 RGTR--
+*G 050 200405053 400000135  02040  02145                    % 10746 RGTR--
+*A VE 200405053 400000135 000034  02040  02145              % 10746 RGTR--
+*I FD 200405053 400000135        0002563  02040  02145      % 10746 RGTR--
+200405053 Luxembourg, Gare Cen         02040                % 10746 RGTR--
+200415003 Hollerich, Fonderie   02041  02041                % 10746 RGTR--
+200415002 Hollerich, Assurance  02044  02044                % 10746 RGTR--
+200412009 Gasperich, Gaasperec  02046  02046                % 10746 RGTR--
+200412028 Gasperich, Stengege   02048  02048                % 10746 RGTR--
+200412006 Gasperich, Cloche d'  02050  02050                % 10746 RGTR--
+200412018 Gasperich, Schaarfen  02051  02051                % 10746 RGTR--
+200412031 Gasperich, Stade de   02052  02052                % 10746 RGTR--
+220402123 Esch-sur-Alzette, Au  02108  02108                % 10746 RGTR--
+400000099 Audun-le-Tiche, Mair  02115 -02115                % 10746 RGTR--
+400000117 Aumetz, Poste         02123 -02123                % 10746 RGTR--
+400000123 Beuvillers, Centre    02129 -02129                % 10746 RGTR--
+400000160 Audun-le-Roman, Park  02130 -02130                % 10746 RGTR--
+400000023 Audun-le-Roman, Egli  02131 -02131                % 10746 RGTR--
+400000129 Malavillers, Mairie   02135 -02135                % 10746 RGTR--
+400000130 Landres, Gare         02140 -02140                % 10746 RGTR--
+400000131 Landres, Intermarché  02141 -02141                % 10746 RGTR--
+400000132 Landres, Cités        02142 -02142                % 10746 RGTR--
+400000134 Piennes, Place        02143 -02143                % 10746 RGTR--
+400000135 Piennes, Zone d'acti  02145                       % 10746 RGTR--
+*Z 10747 RGTR--                                             % 10747 RGTR--
+*L 603      200405053 400000135  02220  02325               % 10747 RGTR--
+*R 1 400000135 200405053 400000135  02220  02325            % 10747 RGTR--
+*G 050 200405053 400000135  02220  02325                    % 10747 RGTR--
+*A VE 200405053 400000135 000034  02220  02325              % 10747 RGTR--
+*I FD 200405053 400000135        0002601  02220  02325      % 10747 RGTR--
+200405053 Luxembourg, Gare Cen         02220                % 10747 RGTR--
+200415003 Hollerich, Fonderie   02221  02221                % 10747 RGTR--
+200415002 Hollerich, Assurance  02224  02224                % 10747 RGTR--
+200412009 Gasperich, Gaasperec  02226  02226                % 10747 RGTR--
+200412028 Gasperich, Stengege   02228  02228                % 10747 RGTR--
+200412006 Gasperich, Cloche d'  02230  02230                % 10747 RGTR--
+200412018 Gasperich, Schaarfen  02231  02231                % 10747 RGTR--
+200412031 Gasperich, Stade de   02232  02232                % 10747 RGTR--
+220402123 Esch-sur-Alzette, Au  02248  02248                % 10747 RGTR--
+400000099 Audun-le-Tiche, Mair  02255 -02255                % 10747 RGTR--
+400000117 Aumetz, Poste         02303 -02303                % 10747 RGTR--
+400000123 Beuvillers, Centre    02309 -02309                % 10747 RGTR--
+400000160 Audun-le-Roman, Park  02310 -02310                % 10747 RGTR--
+400000023 Audun-le-Roman, Egli  02311 -02311                % 10747 RGTR--
+400000129 Malavillers, Mairie   02315 -02315                % 10747 RGTR--
+400000130 Landres, Gare         02320 -02320                % 10747 RGTR--
+400000131 Landres, Intermarché  02321 -02321                % 10747 RGTR--
+400000132 Landres, Cités        02322 -02322                % 10747 RGTR--
+400000134 Piennes, Place        02323 -02323                % 10747 RGTR--
+400000135 Piennes, Zone d'acti  02325                       % 10747 RGTR--
+*Z 10748 RGTR--                                             % 10748 RGTR--
+*L 603      200405053 400000135  01640  01755               % 10748 RGTR--
+*R 1 400000135 200405053 400000135  01640  01755            % 10748 RGTR--
+*G 050 200405053 400000135  01640  01755                    % 10748 RGTR--
+*A VE 200405053 400000135 000034  01640  01755              % 10748 RGTR--
+*I FD 200405053 400000135        0002590  01640  01755      % 10748 RGTR--
+200405053 Luxembourg, Gare Cen         01640                % 10748 RGTR--
+200415003 Hollerich, Fonderie   01642  01642                % 10748 RGTR--
+200415002 Hollerich, Assurance  01644  01644                % 10748 RGTR--
+200412009 Gasperich, Gaasperec  01647  01647                % 10748 RGTR--
+200412028 Gasperich, Stengege   01649  01649                % 10748 RGTR--
+200412006 Gasperich, Cloche d'  01653  01653                % 10748 RGTR--
+200412018 Gasperich, Schaarfen  01655  01655                % 10748 RGTR--
+200412031 Gasperich, Stade de   01655  01655                % 10748 RGTR--
+220402123 Esch-sur-Alzette, Au  01714  01714                % 10748 RGTR--
+400000099 Audun-le-Tiche, Mair  01722 -01722                % 10748 RGTR--
+400000117 Aumetz, Poste         01730 -01730                % 10748 RGTR--
+400000123 Beuvillers, Centre    01737 -01737                % 10748 RGTR--
+400000160 Audun-le-Roman, Park  01739 -01739                % 10748 RGTR--
+400000023 Audun-le-Roman, Egli  01740 -01740                % 10748 RGTR--
+400000129 Malavillers, Mairie   01744 -01744                % 10748 RGTR--
+400000130 Landres, Gare         01749 -01749                % 10748 RGTR--
+400000131 Landres, Intermarché  01750 -01750                % 10748 RGTR--
+400000132 Landres, Cités        01751 -01751                % 10748 RGTR--
+400000134 Piennes, Place        01753 -01753                % 10748 RGTR--
+400000135 Piennes, Zone d'acti  01755                       % 10748 RGTR--
+*Z 10749 RGTR--                                             % 10749 RGTR--
+*L 603      200405053 400000135  01710  01825               % 10749 RGTR--
+*R 1 400000135 200405053 400000135  01710  01825            % 10749 RGTR--
+*G 050 200405053 400000135  01710  01825                    % 10749 RGTR--
+*A VE 200405053 400000135 000034  01710  01825              % 10749 RGTR--
+*I FD 200405053 400000135        0002594  01710  01825      % 10749 RGTR--
+200405053 Luxembourg, Gare Cen         01710                % 10749 RGTR--
+200415003 Hollerich, Fonderie   01712  01712                % 10749 RGTR--
+200415002 Hollerich, Assurance  01714  01714                % 10749 RGTR--
+200412009 Gasperich, Gaasperec  01717  01717                % 10749 RGTR--
+200412028 Gasperich, Stengege   01719  01719                % 10749 RGTR--
+200412006 Gasperich, Cloche d'  01723  01723                % 10749 RGTR--
+200412018 Gasperich, Schaarfen  01725  01725                % 10749 RGTR--
+200412031 Gasperich, Stade de   01725  01725                % 10749 RGTR--
+220402123 Esch-sur-Alzette, Au  01744  01744                % 10749 RGTR--
+400000099 Audun-le-Tiche, Mair  01752 -01752                % 10749 RGTR--
+400000117 Aumetz, Poste         01800 -01800                % 10749 RGTR--
+400000123 Beuvillers, Centre    01807 -01807                % 10749 RGTR--
+400000160 Audun-le-Roman, Park  01809 -01809                % 10749 RGTR--
+400000023 Audun-le-Roman, Egli  01810 -01810                % 10749 RGTR--
+400000129 Malavillers, Mairie   01814 -01814                % 10749 RGTR--
+400000130 Landres, Gare         01819 -01819                % 10749 RGTR--
+400000131 Landres, Intermarché  01820 -01820                % 10749 RGTR--
+400000132 Landres, Cités        01821 -01821                % 10749 RGTR--
+400000134 Piennes, Place        01823 -01823                % 10749 RGTR--
+400000135 Piennes, Zone d'acti  01825                       % 10749 RGTR--
+*Z 10750 RGTR--                                             % 10750 RGTR--
+*L 603      200405053 400000135  01740  01855               % 10750 RGTR--
+*R 1 400000135 200405053 400000135  01740  01855            % 10750 RGTR--
+*G 050 200405053 400000135  01740  01855                    % 10750 RGTR--
+*A VE 200405053 400000135 000034  01740  01855              % 10750 RGTR--
+*I FD 200405053 400000135        0002570  01740  01855      % 10750 RGTR--
+200405053 Luxembourg, Gare Cen         01740                % 10750 RGTR--
+200415003 Hollerich, Fonderie   01742  01742                % 10750 RGTR--
+200415002 Hollerich, Assurance  01744  01744                % 10750 RGTR--
+200412009 Gasperich, Gaasperec  01747  01747                % 10750 RGTR--
+200412028 Gasperich, Stengege   01749  01749                % 10750 RGTR--
+200412006 Gasperich, Cloche d'  01753  01753                % 10750 RGTR--
+200412018 Gasperich, Schaarfen  01755  01755                % 10750 RGTR--
+200412031 Gasperich, Stade de   01755  01755                % 10750 RGTR--
+220402123 Esch-sur-Alzette, Au  01814  01814                % 10750 RGTR--
+400000099 Audun-le-Tiche, Mair  01822 -01822                % 10750 RGTR--
+400000117 Aumetz, Poste         01830 -01830                % 10750 RGTR--
+400000123 Beuvillers, Centre    01837 -01837                % 10750 RGTR--
+400000160 Audun-le-Roman, Park  01839 -01839                % 10750 RGTR--
+400000023 Audun-le-Roman, Egli  01840 -01840                % 10750 RGTR--
+400000129 Malavillers, Mairie   01844 -01844                % 10750 RGTR--
+400000130 Landres, Gare         01849 -01849                % 10750 RGTR--
+400000131 Landres, Intermarché  01850 -01850                % 10750 RGTR--
+400000132 Landres, Cités        01851 -01851                % 10750 RGTR--
+400000134 Piennes, Place        01853 -01853                % 10750 RGTR--
+400000135 Piennes, Zone d'acti  01855                       % 10750 RGTR--
+*Z 10751 RGTR--                                             % 10751 RGTR--
+*L 603      200405053 400000135  01810  01925               % 10751 RGTR--
+*R 1 400000135 200405053 400000135  01810  01925            % 10751 RGTR--
+*G 050 200405053 400000135  01810  01925                    % 10751 RGTR--
+*A VE 200405053 400000135 000034  01810  01925              % 10751 RGTR--
+*I FD 200405053 400000135        0002595  01810  01925      % 10751 RGTR--
+200405053 Luxembourg, Gare Cen         01810                % 10751 RGTR--
+200415003 Hollerich, Fonderie   01812  01812                % 10751 RGTR--
+200415002 Hollerich, Assurance  01814  01814                % 10751 RGTR--
+200412009 Gasperich, Gaasperec  01817  01817                % 10751 RGTR--
+200412028 Gasperich, Stengege   01819  01819                % 10751 RGTR--
+200412006 Gasperich, Cloche d'  01823  01823                % 10751 RGTR--
+200412018 Gasperich, Schaarfen  01825  01825                % 10751 RGTR--
+200412031 Gasperich, Stade de   01825  01825                % 10751 RGTR--
+220402123 Esch-sur-Alzette, Au  01844  01844                % 10751 RGTR--
+400000099 Audun-le-Tiche, Mair  01852 -01852                % 10751 RGTR--
+400000117 Aumetz, Poste         01900 -01900                % 10751 RGTR--
+400000123 Beuvillers, Centre    01907 -01907                % 10751 RGTR--
+400000160 Audun-le-Roman, Park  01909 -01909                % 10751 RGTR--
+400000023 Audun-le-Roman, Egli  01910 -01910                % 10751 RGTR--
+400000129 Malavillers, Mairie   01914 -01914                % 10751 RGTR--
+400000130 Landres, Gare         01919 -01919                % 10751 RGTR--
+400000131 Landres, Intermarché  01920 -01920                % 10751 RGTR--
+400000132 Landres, Cités        01921 -01921                % 10751 RGTR--
+400000134 Piennes, Place        01923 -01923                % 10751 RGTR--
+400000135 Piennes, Zone d'acti  01925                       % 10751 RGTR--
+*Z 10752 RGTR--                                             % 10752 RGTR--
+*L 603      200405053 400000135  01840  01955               % 10752 RGTR--
+*R 1 400000135 200405053 400000135  01840  01955            % 10752 RGTR--
+*G 050 200405053 400000135  01840  01955                    % 10752 RGTR--
+*A VE 200405053 400000135 000034  01840  01955              % 10752 RGTR--
+*I FD 200405053 400000135        0001282  01840  01955      % 10752 RGTR--
+200405053 Luxembourg, Gare Cen         01840                % 10752 RGTR--
+200415003 Hollerich, Fonderie   01842  01842                % 10752 RGTR--
+200415002 Hollerich, Assurance  01844  01844                % 10752 RGTR--
+200412009 Gasperich, Gaasperec  01847  01847                % 10752 RGTR--
+200412028 Gasperich, Stengege   01849  01849                % 10752 RGTR--
+200412006 Gasperich, Cloche d'  01853  01853                % 10752 RGTR--
+200412018 Gasperich, Schaarfen  01855  01855                % 10752 RGTR--
+200412031 Gasperich, Stade de   01855  01855                % 10752 RGTR--
+220402123 Esch-sur-Alzette, Au  01914  01914                % 10752 RGTR--
+400000099 Audun-le-Tiche, Mair  01922 -01922                % 10752 RGTR--
+400000117 Aumetz, Poste         01930 -01930                % 10752 RGTR--
+400000123 Beuvillers, Centre    01937 -01937                % 10752 RGTR--
+400000160 Audun-le-Roman, Park  01939 -01939                % 10752 RGTR--
+400000023 Audun-le-Roman, Egli  01940 -01940                % 10752 RGTR--
+400000129 Malavillers, Mairie   01944 -01944                % 10752 RGTR--
+400000130 Landres, Gare         01949 -01949                % 10752 RGTR--
+400000131 Landres, Intermarché  01950 -01950                % 10752 RGTR--
+400000132 Landres, Cités        01951 -01951                % 10752 RGTR--
+400000134 Piennes, Place        01953 -01953                % 10752 RGTR--
+400000135 Piennes, Zone d'acti  01955                       % 10752 RGTR--
+*Z 10753 RGTR--                                             % 10753 RGTR--
+*L 603      400000135 200405036  00423  00524               % 10753 RGTR--
+*R 2 200405036 400000135 200405036  00423  00524            % 10753 RGTR--
+*G 050 400000135 200405036  00423  00524                    % 10753 RGTR--
+*A VE 400000135 200405036 000034  00423  00524              % 10753 RGTR--
+*I FD 400000135 200405036        0003026  00423  00524      % 10753 RGTR--
+400000135 Piennes, Zone d'acti         00423                % 10753 RGTR--
+400000134 Piennes, Place       -00425  00425                % 10753 RGTR--
+400000133 Landres, Cimetière   -00426  00426                % 10753 RGTR--
+400000131 Landres, Intermarché -00427  00427                % 10753 RGTR--
+400000130 Landres, Gare        -00428  00428                % 10753 RGTR--
+400000129 Malavillers, Mairie  -00433  00433                % 10753 RGTR--
+400000023 Audun-le-Roman, Egli -00436  00436                % 10753 RGTR--
+400000160 Audun-le-Roman, Park -00437  00437                % 10753 RGTR--
+400000123 Beuvillers, Centre   -00440  00440                % 10753 RGTR--
+400000117 Aumetz, Poste        -00444  00444                % 10753 RGTR--
+400000099 Audun-le-Tiche, Mair -00453  00453                % 10753 RGTR--
+220402034 Esch-sur-Alzette, Ga  00500  00500                % 10753 RGTR--
+200412031 Gasperich, Stade de   00514  00514                % 10753 RGTR--
+200412018 Gasperich, Schaarfen  00515  00515                % 10753 RGTR--
+200412006 Gasperich, Cloche d'  00516  00516                % 10753 RGTR--
+200412028 Gasperich, Stengege   00519  00519                % 10753 RGTR--
+200412009 Gasperich, Gaasperec  00520  00520                % 10753 RGTR--
+200415002 Hollerich, Assurance  00521  00521                % 10753 RGTR--
+200415003 Hollerich, Fonderie   00523  00523                % 10753 RGTR--
+200405036 Luxembourg, Gare Cen  00524                       % 10753 RGTR--
+*Z 10754 RGTR--                                             % 10754 RGTR--
+*L 603      400000135 200405036  00553  00654               % 10754 RGTR--
+*R 2 200405036 400000135 200405036  00553  00654            % 10754 RGTR--
+*G 050 400000135 200405036  00553  00654                    % 10754 RGTR--
+*A VE 400000135 200405036 000034  00553  00654              % 10754 RGTR--
+*I FD 400000135 200405036        0002632  00553  00654      % 10754 RGTR--
+400000135 Piennes, Zone d'acti         00553                % 10754 RGTR--
+400000134 Piennes, Place       -00555  00555                % 10754 RGTR--
+400000133 Landres, Cimetière   -00556  00556                % 10754 RGTR--
+400000131 Landres, Intermarché -00557  00557                % 10754 RGTR--
+400000130 Landres, Gare        -00558  00558                % 10754 RGTR--
+400000129 Malavillers, Mairie  -00603  00603                % 10754 RGTR--
+400000023 Audun-le-Roman, Egli -00606  00606                % 10754 RGTR--
+400000160 Audun-le-Roman, Park -00607  00607                % 10754 RGTR--
+400000123 Beuvillers, Centre   -00610  00610                % 10754 RGTR--
+400000117 Aumetz, Poste        -00614  00614                % 10754 RGTR--
+400000099 Audun-le-Tiche, Mair -00623  00623                % 10754 RGTR--
+220402034 Esch-sur-Alzette, Ga  00630  00630                % 10754 RGTR--
+200412031 Gasperich, Stade de   00644  00644                % 10754 RGTR--
+200412018 Gasperich, Schaarfen  00645  00645                % 10754 RGTR--
+200412006 Gasperich, Cloche d'  00646  00646                % 10754 RGTR--
+200412028 Gasperich, Stengege   00649  00649                % 10754 RGTR--
+200412009 Gasperich, Gaasperec  00650  00650                % 10754 RGTR--
+200415002 Hollerich, Assurance  00651  00651                % 10754 RGTR--
+200415003 Hollerich, Fonderie   00653  00653                % 10754 RGTR--
+200405036 Luxembourg, Gare Cen  00654                       % 10754 RGTR--
+*Z 10755 RGTR--                                             % 10755 RGTR--
+*L 603      400000135 200405036  01223  01324               % 10755 RGTR--
+*R 2 200405036 400000135 200405036  01223  01324            % 10755 RGTR--
+*G 050 400000135 200405036  01223  01324                    % 10755 RGTR--
+*A VE 400000135 200405036 000034  01223  01324              % 10755 RGTR--
+*I FD 400000135 200405036        0003027  01223  01324      % 10755 RGTR--
+400000135 Piennes, Zone d'acti         01223                % 10755 RGTR--
+400000134 Piennes, Place       -01225  01225                % 10755 RGTR--
+400000133 Landres, Cimetière   -01226  01226                % 10755 RGTR--
+400000131 Landres, Intermarché -01227  01227                % 10755 RGTR--
+400000130 Landres, Gare        -01228  01228                % 10755 RGTR--
+400000129 Malavillers, Mairie  -01233  01233                % 10755 RGTR--
+400000023 Audun-le-Roman, Egli -01236  01236                % 10755 RGTR--
+400000160 Audun-le-Roman, Park -01237  01237                % 10755 RGTR--
+400000123 Beuvillers, Centre   -01240  01240                % 10755 RGTR--
+400000117 Aumetz, Poste        -01244  01244                % 10755 RGTR--
+400000099 Audun-le-Tiche, Mair -01253  01253                % 10755 RGTR--
+220402034 Esch-sur-Alzette, Ga  01300  01300                % 10755 RGTR--
+200412031 Gasperich, Stade de   01314  01314                % 10755 RGTR--
+200412018 Gasperich, Schaarfen  01315  01315                % 10755 RGTR--
+200412006 Gasperich, Cloche d'  01316  01316                % 10755 RGTR--
+200412028 Gasperich, Stengege   01319  01319                % 10755 RGTR--
+200412009 Gasperich, Gaasperec  01320  01320                % 10755 RGTR--
+200415002 Hollerich, Assurance  01321  01321                % 10755 RGTR--
+200415003 Hollerich, Fonderie   01323  01323                % 10755 RGTR--
+200405036 Luxembourg, Gare Cen  01324                       % 10755 RGTR--
+*Z 10756 RGTR--                                             % 10756 RGTR--
+*L 603      400000135 200405036  01543  01644               % 10756 RGTR--
+*R 2 200405036 400000135 200405036  01543  01644            % 10756 RGTR--
+*G 050 400000135 200405036  01543  01644                    % 10756 RGTR--
+*A VE 400000135 200405036 000034  01543  01644              % 10756 RGTR--
+*I FD 400000135 200405036        0002766  01543  01644      % 10756 RGTR--
+400000135 Piennes, Zone d'acti         01543                % 10756 RGTR--
+400000134 Piennes, Place       -01545  01545                % 10756 RGTR--
+400000133 Landres, Cimetière   -01546  01546                % 10756 RGTR--
+400000131 Landres, Intermarché -01547  01547                % 10756 RGTR--
+400000130 Landres, Gare        -01548  01548                % 10756 RGTR--
+400000129 Malavillers, Mairie  -01553  01553                % 10756 RGTR--
+400000023 Audun-le-Roman, Egli -01556  01556                % 10756 RGTR--
+400000160 Audun-le-Roman, Park -01557  01557                % 10756 RGTR--
+400000123 Beuvillers, Centre   -01600  01600                % 10756 RGTR--
+400000117 Aumetz, Poste        -01604  01604                % 10756 RGTR--
+400000099 Audun-le-Tiche, Mair -01613  01613                % 10756 RGTR--
+220402034 Esch-sur-Alzette, Ga  01620  01620                % 10756 RGTR--
+200412031 Gasperich, Stade de   01634  01634                % 10756 RGTR--
+200412018 Gasperich, Schaarfen  01635  01635                % 10756 RGTR--
+200412006 Gasperich, Cloche d'  01636  01636                % 10756 RGTR--
+200412028 Gasperich, Stengege   01639  01639                % 10756 RGTR--
+200412009 Gasperich, Gaasperec  01640  01640                % 10756 RGTR--
+200415002 Hollerich, Assurance  01641  01641                % 10756 RGTR--
+200415003 Hollerich, Fonderie   01643  01643                % 10756 RGTR--
+200405036 Luxembourg, Gare Cen  01644                       % 10756 RGTR--
+*Z 10757 RGTR--                                             % 10757 RGTR--
+*L 603      400000135 200405036  00623  00739               % 10757 RGTR--
+*R 2 200405036 400000135 200405036  00623  00739            % 10757 RGTR--
+*G 050 400000135 200405036  00623  00739                    % 10757 RGTR--
+*A VE 400000135 200405036 000034  00623  00739              % 10757 RGTR--
+*I FD 400000135 200405036        0003028  00623  00739      % 10757 RGTR--
+400000135 Piennes, Zone d'acti         00623                % 10757 RGTR--
+400000134 Piennes, Place       -00625  00625                % 10757 RGTR--
+400000133 Landres, Cimetière   -00626  00626                % 10757 RGTR--
+400000131 Landres, Intermarché -00627  00627                % 10757 RGTR--
+400000130 Landres, Gare        -00629  00629                % 10757 RGTR--
+400000129 Malavillers, Mairie  -00634  00634                % 10757 RGTR--
+400000023 Audun-le-Roman, Egli -00638  00638                % 10757 RGTR--
+400000160 Audun-le-Roman, Park -00639  00639                % 10757 RGTR--
+400000123 Beuvillers, Centre   -00642  00642                % 10757 RGTR--
+400000117 Aumetz, Poste        -00647  00647                % 10757 RGTR--
+400000099 Audun-le-Tiche, Mair -00656  00656                % 10757 RGTR--
+220402034 Esch-sur-Alzette, Ga  00704  00704                % 10757 RGTR--
+200412031 Gasperich, Stade de   00727  00727                % 10757 RGTR--
+200412018 Gasperich, Schaarfen  00728  00728                % 10757 RGTR--
+200412006 Gasperich, Cloche d'  00729  00729                % 10757 RGTR--
+200412028 Gasperich, Stengege   00733  00733                % 10757 RGTR--
+200412009 Gasperich, Gaasperec  00733  00733                % 10757 RGTR--
+200415002 Hollerich, Assurance  00735  00735                % 10757 RGTR--
+200415003 Hollerich, Fonderie   00737  00737                % 10757 RGTR--
+200405036 Luxembourg, Gare Cen  00739                       % 10757 RGTR--
+*Z 10758 RGTR--                                             % 10758 RGTR--
+*L 603      400000135 200405036  00648  00804               % 10758 RGTR--
+*R 2 200405036 400000135 200405036  00648  00804            % 10758 RGTR--
+*G 050 400000135 200405036  00648  00804                    % 10758 RGTR--
+*A VE 400000135 200405036 000034  00648  00804              % 10758 RGTR--
+*I FD 400000135 200405036        0002719  00648  00804      % 10758 RGTR--
+400000135 Piennes, Zone d'acti         00648                % 10758 RGTR--
+400000134 Piennes, Place       -00650  00650                % 10758 RGTR--
+400000133 Landres, Cimetière   -00651  00651                % 10758 RGTR--
+400000131 Landres, Intermarché -00652  00652                % 10758 RGTR--
+400000130 Landres, Gare        -00654  00654                % 10758 RGTR--
+400000129 Malavillers, Mairie  -00659  00659                % 10758 RGTR--
+400000023 Audun-le-Roman, Egli -00703  00703                % 10758 RGTR--
+400000160 Audun-le-Roman, Park -00704  00704                % 10758 RGTR--
+400000123 Beuvillers, Centre   -00707  00707                % 10758 RGTR--
+400000117 Aumetz, Poste        -00712  00712                % 10758 RGTR--
+400000099 Audun-le-Tiche, Mair -00721  00721                % 10758 RGTR--
+220402034 Esch-sur-Alzette, Ga  00729  00729                % 10758 RGTR--
+200412031 Gasperich, Stade de   00752  00752                % 10758 RGTR--
+200412018 Gasperich, Schaarfen  00753  00753                % 10758 RGTR--
+200412006 Gasperich, Cloche d'  00754  00754                % 10758 RGTR--
+200412028 Gasperich, Stengege   00758  00758                % 10758 RGTR--
+200412009 Gasperich, Gaasperec  00758  00758                % 10758 RGTR--
+200415002 Hollerich, Assurance  00800  00800                % 10758 RGTR--
+200415003 Hollerich, Fonderie   00802  00802                % 10758 RGTR--
+200405036 Luxembourg, Gare Cen  00804                       % 10758 RGTR--
+*Z 10759 RGTR--                                             % 10759 RGTR--
+*L 603      400000135 200405036  00713  00829               % 10759 RGTR--
+*R 2 200405036 400000135 200405036  00713  00829            % 10759 RGTR--
+*G 050 400000135 200405036  00713  00829                    % 10759 RGTR--
+*A VE 400000135 200405036 000034  00713  00829              % 10759 RGTR--
+*I FD 400000135 200405036        0002827  00713  00829      % 10759 RGTR--
+400000135 Piennes, Zone d'acti         00713                % 10759 RGTR--
+400000134 Piennes, Place       -00715  00715                % 10759 RGTR--
+400000133 Landres, Cimetière   -00716  00716                % 10759 RGTR--
+400000131 Landres, Intermarché -00717  00717                % 10759 RGTR--
+400000130 Landres, Gare        -00719  00719                % 10759 RGTR--
+400000129 Malavillers, Mairie  -00724  00724                % 10759 RGTR--
+400000023 Audun-le-Roman, Egli -00728  00728                % 10759 RGTR--
+400000160 Audun-le-Roman, Park -00729  00729                % 10759 RGTR--
+400000123 Beuvillers, Centre   -00732  00732                % 10759 RGTR--
+400000117 Aumetz, Poste        -00737  00737                % 10759 RGTR--
+400000099 Audun-le-Tiche, Mair -00746  00746                % 10759 RGTR--
+220402034 Esch-sur-Alzette, Ga  00754  00754                % 10759 RGTR--
+200412031 Gasperich, Stade de   00817  00817                % 10759 RGTR--
+200412018 Gasperich, Schaarfen  00818  00818                % 10759 RGTR--
+200412006 Gasperich, Cloche d'  00819  00819                % 10759 RGTR--
+200412028 Gasperich, Stengege   00823  00823                % 10759 RGTR--
+200412009 Gasperich, Gaasperec  00823  00823                % 10759 RGTR--
+200415002 Hollerich, Assurance  00825  00825                % 10759 RGTR--
+200415003 Hollerich, Fonderie   00827  00827                % 10759 RGTR--
+200405036 Luxembourg, Gare Cen  00829                       % 10759 RGTR--

@@ -1,0 +1,5 @@
+*F 31 2
+B1 300 10 $IUR
+B2 300 10 $IAD
+BH 350 50 Bedarfshalt
+aa 350 50 Umsteigemöglichkeit $Iaa

@@ -1,0 +1,213 @@
+*F 03 2
+*Z 18300 RGTR--                                             % 18300 RGTR--
+*L D19      200420006 220701002  01250  01308               % 18300 RGTR--
+*A cj 200420006 220701002 000046  01250  01308              % 18300 RGTR--
+*A ad 200420006 220701002 000046  01250  01308              % 18300 RGTR--
+*R 1 220701002 200420006 220701002  01250  01308            % 18300 RGTR--
+*G 063 200420006 220701002  01250  01308                    % 18300 RGTR--
+*A VE 200420006 220701002 000046  01250  01308              % 18300 RGTR--
+*I FD 200420006 220701002        0002070  01250  01308      % 18300 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 18300 RGTR--
+220701003 Leudelange, Edeleck   01258  01258                % 18300 RGTR--
+220701011 Leudelange, Op der S  01300  01300                % 18300 RGTR--
+220701008 Leudelange, Gruef     01300  01300                % 18300 RGTR--
+220701016 Leudelange, Wäschbur  01301  01301                % 18300 RGTR--
+220701006 Leudelange, Gemeng    01302  01302                % 18300 RGTR--
+220701004 Leudelange, Galgebös  01303  01303                % 18300 RGTR--
+220701013 Leudelange, Queesche  01304  01304                % 18300 RGTR--
+220701010 Leudelange, Ketzelac  01307  01307                % 18300 RGTR--
+220701002 Leudelange, Bowent    01308                       % 18300 RGTR--
+*Z 18301 RGTR--                                             % 18301 RGTR--
+*L D19      200420006 220701002  01425  01443               % 18301 RGTR--
+*A cj 200420006 220701002 000042  01425  01443              % 18301 RGTR--
+*A ad 200420006 220701002 000042  01425  01443              % 18301 RGTR--
+*R 1 220701002 200420006 220701002  01425  01443            % 18301 RGTR--
+*G 063 200420006 220701002  01425  01443                    % 18301 RGTR--
+*A VE 200420006 220701002 000042  01425  01443              % 18301 RGTR--
+*I FD 200420006 220701002        0002197  01425  01443      % 18301 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 18301 RGTR--
+220701003 Leudelange, Edeleck   01433  01433                % 18301 RGTR--
+220701011 Leudelange, Op der S  01435  01435                % 18301 RGTR--
+220701008 Leudelange, Gruef     01435  01435                % 18301 RGTR--
+220701016 Leudelange, Wäschbur  01436  01436                % 18301 RGTR--
+220701006 Leudelange, Gemeng    01437  01437                % 18301 RGTR--
+220701004 Leudelange, Galgebös  01438  01438                % 18301 RGTR--
+220701013 Leudelange, Queesche  01439  01439                % 18301 RGTR--
+220701010 Leudelange, Ketzelac  01442  01442                % 18301 RGTR--
+220701002 Leudelange, Bowent    01443                       % 18301 RGTR--
+*Z 18302 RGTR--                                             % 18302 RGTR--
+*L D19      200420006 220701002  01550  01608               % 18302 RGTR--
+*A cj 200420006 220701002 000047  01550  01608              % 18302 RGTR--
+*A ad 200420006 220701002 000047  01550  01608              % 18302 RGTR--
+*R 1 220701002 200420006 220701002  01550  01608            % 18302 RGTR--
+*G 060 200420006 220701002  01550  01608                    % 18302 RGTR--
+*A VE 200420006 220701002 000047  01550  01608              % 18302 RGTR--
+*I FD 200420006 220701002        0002073  01550  01608      % 18302 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 18302 RGTR--
+220701003 Leudelange, Edeleck   01558  01558                % 18302 RGTR--
+220701011 Leudelange, Op der S  01600  01600                % 18302 RGTR--
+220701008 Leudelange, Gruef     01600  01600                % 18302 RGTR--
+220701016 Leudelange, Wäschbur  01601  01601                % 18302 RGTR--
+220701006 Leudelange, Gemeng    01602  01602                % 18302 RGTR--
+220701004 Leudelange, Galgebös  01603  01603                % 18302 RGTR--
+220701013 Leudelange, Queesche  01604  01604                % 18302 RGTR--
+220701010 Leudelange, Ketzelac  01607  01607                % 18302 RGTR--
+220701002 Leudelange, Bowent    01608                       % 18302 RGTR--
+*Z 18303 RGTR--                                             % 18303 RGTR--
+*L D19      200420006 220803023  01250  01327               % 18303 RGTR--
+*A cj 200420006 220803023 000046  01250  01327              % 18303 RGTR--
+*A ad 200420006 220803023 000046  01250  01327              % 18303 RGTR--
+*R 1 220803023 200420006 220803023  01250  01327            % 18303 RGTR--
+*G 050 200420006 220803023  01250  01327                    % 18303 RGTR--
+*A VE 200420006 220803023 000046  01250  01327              % 18303 RGTR--
+*I FD 200420006 220803023        0001106  01250  01327      % 18303 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 18303 RGTR--
+220701003 Leudelange, Edeleck   01258  01258                % 18303 RGTR--
+220701011 Leudelange, Op der S  01300  01300                % 18303 RGTR--
+220701001 Leudelange, Beetebue  01300  01300                % 18303 RGTR--
+220804002 Pontpierre, Leidelen  01304  01304                % 18303 RGTR--
+220804013 Pontpierre, Lëtzebue  01305  01305                % 18303 RGTR--
+220804001 Pontpierre, Beim Kue  01305  01305                % 18303 RGTR--
+220804008 Pontpierre, Koppbier  01306  01306                % 18303 RGTR--
+220804007 Pontpierre, Bei der   01307  01307                % 18303 RGTR--
+220804014 Pontpierre, Steewee   01307  01307                % 18303 RGTR--
+220801009 Bergem, Steebréckerw  01308  01308                % 18303 RGTR--
+220801004 Bergem, Centre        01309  01309                % 18303 RGTR--
+220801010 Bergem, Am Haff       01309  01309                % 18303 RGTR--
+220801002 Bergem, Blummestroos  01310  01310                % 18303 RGTR--
+220801008 Bergem, Raedelsboesc  01311  01311                % 18303 RGTR--
+220801004 Bergem, Centre        01312  01312                % 18303 RGTR--
+220801011 Bergem, Beim Nëssert  01312  01312                % 18303 RGTR--
+220802004 Foetz, Am Butterbril  01318  01318                % 18303 RGTR--
+220802010 Foetz, Rond Point     01319  01319                % 18303 RGTR--
+220803013 Mondercange, Krombac  01320  01320                % 18303 RGTR--
+220803030 Mondercange, Dokter   01321  01321                % 18303 RGTR--
+220803022 Mondercange, Police   01322  01322                % 18303 RGTR--
+220803011 Mondercange, Kazebac  01323  01323                % 18303 RGTR--
+220803015 Mondercange, Mausere  01324  01324                % 18303 RGTR--
+220803016 Mondercange, Kierfec  01325  01325                % 18303 RGTR--
+220803001 Mondercange, A.Thinn  01326  01326                % 18303 RGTR--
+220803023 Mondercange, Rommelt  01327                       % 18303 RGTR--
+*Z 18304 RGTR--                                             % 18304 RGTR--
+*L D19      200420006 220803023  01425  01502               % 18304 RGTR--
+*A cj 200420006 220803023 000042  01425  01502              % 18304 RGTR--
+*A ad 200420006 220803023 000042  01425  01502              % 18304 RGTR--
+*R 1 220803023 200420006 220803023  01425  01502            % 18304 RGTR--
+*G 050 200420006 220803023  01425  01502                    % 18304 RGTR--
+*A VE 200420006 220803023 000042  01425  01502              % 18304 RGTR--
+*I FD 200420006 220803023        0003395  01425  01502      % 18304 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 18304 RGTR--
+220701003 Leudelange, Edeleck   01433  01433                % 18304 RGTR--
+220701011 Leudelange, Op der S  01435  01435                % 18304 RGTR--
+220701001 Leudelange, Beetebue  01435  01435                % 18304 RGTR--
+220804002 Pontpierre, Leidelen  01439  01439                % 18304 RGTR--
+220804013 Pontpierre, Lëtzebue  01440  01440                % 18304 RGTR--
+220804001 Pontpierre, Beim Kue  01440  01440                % 18304 RGTR--
+220804008 Pontpierre, Koppbier  01441  01441                % 18304 RGTR--
+220804007 Pontpierre, Bei der   01442  01442                % 18304 RGTR--
+220804014 Pontpierre, Steewee   01442  01442                % 18304 RGTR--
+220801009 Bergem, Steebréckerw  01443  01443                % 18304 RGTR--
+220801004 Bergem, Centre        01444  01444                % 18304 RGTR--
+220801010 Bergem, Am Haff       01444  01444                % 18304 RGTR--
+220801002 Bergem, Blummestroos  01445  01445                % 18304 RGTR--
+220801008 Bergem, Raedelsboesc  01446  01446                % 18304 RGTR--
+220801004 Bergem, Centre        01447  01447                % 18304 RGTR--
+220801011 Bergem, Beim Nëssert  01447  01447                % 18304 RGTR--
+220802004 Foetz, Am Butterbril  01453  01453                % 18304 RGTR--
+220802010 Foetz, Rond Point     01454  01454                % 18304 RGTR--
+220803013 Mondercange, Krombac  01455  01455                % 18304 RGTR--
+220803030 Mondercange, Dokter   01456  01456                % 18304 RGTR--
+220803022 Mondercange, Police   01457  01457                % 18304 RGTR--
+220803011 Mondercange, Kazebac  01458  01458                % 18304 RGTR--
+220803015 Mondercange, Mausere  01459  01459                % 18304 RGTR--
+220803016 Mondercange, Kierfec  01500  01500                % 18304 RGTR--
+220803001 Mondercange, A.Thinn  01501  01501                % 18304 RGTR--
+220803023 Mondercange, Rommelt  01502                       % 18304 RGTR--
+*Z 18305 RGTR--                                             % 18305 RGTR--
+*L D19      200420006 220803023  01550  01629               % 18305 RGTR--
+*A cj 200420006 220803023 000047  01550  01629              % 18305 RGTR--
+*A ad 200420006 220803023 000047  01550  01629              % 18305 RGTR--
+*R 1 220803023 200420006 220803023  01550  01629            % 18305 RGTR--
+*G 050 200420006 220803023  01550  01629                    % 18305 RGTR--
+*A VE 200420006 220803023 000047  01550  01629              % 18305 RGTR--
+*I FD 200420006 220803023        0001176  01550  01629      % 18305 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 18305 RGTR--
+220701003 Leudelange, Edeleck   01558  01558                % 18305 RGTR--
+220701011 Leudelange, Op der S  01600  01600                % 18305 RGTR--
+220701001 Leudelange, Beetebue  01601  01601                % 18305 RGTR--
+220804002 Pontpierre, Leidelen  01605  01605                % 18305 RGTR--
+220804013 Pontpierre, Lëtzebue  01605  01605                % 18305 RGTR--
+220804001 Pontpierre, Beim Kue  01606  01606                % 18305 RGTR--
+220804008 Pontpierre, Koppbier  01607  01607                % 18305 RGTR--
+220804007 Pontpierre, Bei der   01607  01607                % 18305 RGTR--
+220804014 Pontpierre, Steewee   01608  01608                % 18305 RGTR--
+220801009 Bergem, Steebréckerw  01609  01609                % 18305 RGTR--
+220801004 Bergem, Centre        01609  01609                % 18305 RGTR--
+220801010 Bergem, Am Haff       01610  01610                % 18305 RGTR--
+220801002 Bergem, Blummestroos  01611  01611                % 18305 RGTR--
+220801008 Bergem, Raedelsboesc  01612  01612                % 18305 RGTR--
+220801004 Bergem, Centre        01612  01612                % 18305 RGTR--
+220801011 Bergem, Beim Nëssert  01613  01613                % 18305 RGTR--
+220802004 Foetz, Am Butterbril  01620  01620                % 18305 RGTR--
+220802010 Foetz, Rond Point     01621  01621                % 18305 RGTR--
+220803013 Mondercange, Krombac  01622  01622                % 18305 RGTR--
+220803030 Mondercange, Dokter   01623  01623                % 18305 RGTR--
+220803022 Mondercange, Police   01624  01624                % 18305 RGTR--
+220803011 Mondercange, Kazebac  01625  01625                % 18305 RGTR--
+220803015 Mondercange, Mausere  01626  01626                % 18305 RGTR--
+220803016 Mondercange, Kierfec  01627  01627                % 18305 RGTR--
+220803001 Mondercange, A.Thinn  01629  01629                % 18305 RGTR--
+220803023 Mondercange, Rommelt  01629                       % 18305 RGTR--
+*Z 18306 RGTR--                                             % 18306 RGTR--
+*L D19      220803017 200420006  00650  00733               % 18306 RGTR--
+*A cj 220803017 200420006 000042  00650  00733              % 18306 RGTR--
+*A ad 220803017 200420006 000042  00650  00733              % 18306 RGTR--
+*R 2 200420006 220803017 200420006  00650  00733            % 18306 RGTR--
+*G 060 220803017 200420006  00650  00733                    % 18306 RGTR--
+*A VE 220803017 200420006 000042  00650  00733              % 18306 RGTR--
+*I FD 220803017 200420006        0001907  00650  00733      % 18306 RGTR--
+220803017 Mondercange, Musekss         00650                % 18306 RGTR--
+220803005 Mondercange, Centre   00650  00650                % 18306 RGTR--
+220803016 Mondercange, Kierfec  00652  00652                % 18306 RGTR--
+220803003 Mondercange, Blach    00653  00653                % 18306 RGTR--
+220803011 Mondercange, Kazebac  00654  00654                % 18306 RGTR--
+220803022 Mondercange, Police   00655  00655                % 18306 RGTR--
+220803030 Mondercange, Dokter   00655  00655                % 18306 RGTR--
+220803013 Mondercange, Krombac  00656  00656                % 18306 RGTR--
+220802010 Foetz, Rond Point     00658  00658                % 18306 RGTR--
+220802003 Foetz, Am Brill       00659  00659                % 18306 RGTR--
+220801011 Bergem, Beim Nëssert  00704  00704                % 18306 RGTR--
+220801004 Bergem, Centre        00705  00705                % 18306 RGTR--
+220801010 Bergem, Am Haff       00705  00705                % 18306 RGTR--
+220801002 Bergem, Blummestroos  00706  00706                % 18306 RGTR--
+220801008 Bergem, Raedelsboesc  00707  00707                % 18306 RGTR--
+220801004 Bergem, Centre        00708  00708                % 18306 RGTR--
+220801009 Bergem, Steebréckerw  00709  00709                % 18306 RGTR--
+220804014 Pontpierre, Steewee   00710  00710                % 18306 RGTR--
+220804007 Pontpierre, Bei der   00710  00710                % 18306 RGTR--
+220804008 Pontpierre, Koppbier  00711  00711                % 18306 RGTR--
+220804001 Pontpierre, Beim Kue  00712  00712                % 18306 RGTR--
+220804013 Pontpierre, Lëtzebue  00713  00713                % 18306 RGTR--
+220804002 Pontpierre, Leidelen  00713  00713                % 18306 RGTR--
+220701001 Leudelange, Beetebue  00718  00718                % 18306 RGTR--
+220701011 Leudelange, Op der S  00719  00719                % 18306 RGTR--
+220701003 Leudelange, Edeleck   00721  00721                % 18306 RGTR--
+200420006 Merl, Geesseknäppche  00733                       % 18306 RGTR--
+*Z 18307 RGTR--                                             % 18307 RGTR--
+*L D19      220701002 200420006  00715  00738               % 18307 RGTR--
+*A cj 220701002 200420006 000042  00715  00738              % 18307 RGTR--
+*A ad 220701002 200420006 000042  00715  00738              % 18307 RGTR--
+*R 2 200420006 220701002 200420006  00715  00738            % 18307 RGTR--
+*G 060 220701002 200420006  00715  00738                    % 18307 RGTR--
+*A VE 220701002 200420006 000042  00715  00738              % 18307 RGTR--
+*I FD 220701002 200420006        0002046  00715  00738      % 18307 RGTR--
+220701002 Leudelange, Bowent           00715                % 18307 RGTR--
+220701010 Leudelange, Ketzelac  00716  00716                % 18307 RGTR--
+220701013 Leudelange, Queesche  00718  00718                % 18307 RGTR--
+220701004 Leudelange, Galgebös  00719  00719                % 18307 RGTR--
+220701006 Leudelange, Gemeng    00720  00720                % 18307 RGTR--
+220701016 Leudelange, Wäschbur  00722  00722                % 18307 RGTR--
+220701008 Leudelange, Gruef     00723  00723                % 18307 RGTR--
+220701011 Leudelange, Op der S  00724  00724                % 18307 RGTR--
+220701003 Leudelange, Edeleck   00726  00726                % 18307 RGTR--
+200420006 Merl, Geesseknäppche  00738                       % 18307 RGTR--

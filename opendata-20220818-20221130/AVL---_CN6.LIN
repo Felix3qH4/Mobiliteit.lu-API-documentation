@@ -1,0 +1,285 @@
+*F 03 2
+*Z 04419 AVL---                                             % 04419 AVL---
+*L CN6      200405020 200426007  02520  02540               % 04419 AVL---
+*A BE 200405020 200426007 000044  02520  02540              % 04419 AVL---
+*R 1 200426007 200405020 200426007  02520  02540            % 04419 AVL---
+*G ST  200405020 200426007  02520  02540                    % 04419 AVL---
+*A VE 200405020 200426007 000044  02520  02540              % 04419 AVL---
+200405020 Hamilius (Bus)               02520                % 04419 AVL---
+200405014 Centre, Fondation Pe  02522  02522                % 04419 AVL---
+200419026 Limpertsberg, Theate  02522  02522                % 04419 AVL---
+200419037 Limpertsberg, Kiisch  02523  02523                % 04419 AVL---
+200419001 Limpertsberg, Alen E  02525  02525                % 04419 AVL---
+200410005 Eich, Octroi          02526  02526                % 04419 AVL---
+200410003 Eich, Eecher Plaz     02527  02527                % 04419 AVL---
+200410004 Eich, Eecher Klinick  02528  02528                % 04419 AVL---
+200409007 Dommeldange, Emile M  02529  02529                % 04419 AVL---
+200402005 Beggen, Henri Heyman  02529  02529                % 04419 AVL---
+200402002 Beggen, Binnchen      02530  02530                % 04419 AVL---
+200402006 Beggen, Kierch        02531  02531                % 04419 AVL---
+200402003 Beggen, Cyprien Merj  02532  02532                % 04419 AVL---
+200409014 Luxembourg, Chingiz   02533  02533                % 04419 AVL---
+200409003 Dommeldange, Château  02535  02535                % 04419 AVL---
+200409011 Dommeldange, Van der  02536  02536                % 04419 AVL---
+200426004 Weimerskirch, Bieche  02537  02537                % 04419 AVL---
+200426011 Weimerskirch, Tommys  02538  02538                % 04419 AVL---
+200426006 Weimerskirch, Knupp   02539  02539                % 04419 AVL---
+200426007 Weimerskirch, Laval'  02540                       % 04419 AVL---
+*Z 04420 AVL---                                             % 04420 AVL---
+*L CN6      200405020 200426007  02520  02540               % 04420 AVL---
+*A BE 200405020 200426007 000045  02520  02540              % 04420 AVL---
+*R 1 200426007 200405020 200426007  02520  02540            % 04420 AVL---
+*G STR 200405020 200426007  02520  02540                    % 04420 AVL---
+*A VE 200405020 200426007 000045  02520  02540              % 04420 AVL---
+200405020 Hamilius (Bus)               02520                % 04420 AVL---
+200405014 Centre, Fondation Pe  02522  02522                % 04420 AVL---
+200419026 Limpertsberg, Theate  02522  02522                % 04420 AVL---
+200419037 Limpertsberg, Kiisch  02523  02523                % 04420 AVL---
+200419001 Limpertsberg, Alen E  02525  02525                % 04420 AVL---
+200410005 Eich, Octroi          02526  02526                % 04420 AVL---
+200410003 Eich, Eecher Plaz     02527  02527                % 04420 AVL---
+200410004 Eich, Eecher Klinick  02528  02528                % 04420 AVL---
+200409007 Dommeldange, Emile M  02529  02529                % 04420 AVL---
+200402005 Beggen, Henri Heyman  02529  02529                % 04420 AVL---
+200402002 Beggen, Binnchen      02530  02530                % 04420 AVL---
+200402006 Beggen, Kierch        02531  02531                % 04420 AVL---
+200402003 Beggen, Cyprien Merj  02532  02532                % 04420 AVL---
+200409014 Luxembourg, Chingiz   02533  02533                % 04420 AVL---
+200409003 Dommeldange, Château  02535  02535                % 04420 AVL---
+200409011 Dommeldange, Van der  02536  02536                % 04420 AVL---
+200426004 Weimerskirch, Bieche  02537  02537                % 04420 AVL---
+200426011 Weimerskirch, Tommys  02538  02538                % 04420 AVL---
+200426006 Weimerskirch, Knupp   02539  02539                % 04420 AVL---
+200426007 Weimerskirch, Laval'  02540                       % 04420 AVL---
+*Z 04421 AVL---       001 030                               % 04421 AVL---
+*L CN6      200405020 200405020  02435  02500               % 04421 AVL---
+*A BE 200405020 200405020 000063  02435  02500              % 04421 AVL---
+*R 1 200405020 200405020 200405020  02435  02500            % 04421 AVL---
+*G ST  200405020 200405020  02435  02500                    % 04421 AVL---
+*A VE 200405020 200405020 000063  02435  02500              % 04421 AVL---
+200405020 Hamilius (Bus)               02435                % 04421 AVL---
+200405005 Centre, Badanstalt    02437  02437                % 04421 AVL---
+200419013 Limpertsberg, Crispi  02439  02439                % 04421 AVL---
+200410005 Eich, Octroi          02439  02439                % 04421 AVL---
+200410003 Eich, Eecher Plaz     02441  02441                % 04421 AVL---
+200410004 Eich, Eecher Klinick  02442  02442                % 04421 AVL---
+200409007 Dommeldange, Emile M  02442  02442                % 04421 AVL---
+200402005 Beggen, Henri Heyman  02443  02443                % 04421 AVL---
+200402002 Beggen, Binnchen      02444  02444                % 04421 AVL---
+200402006 Beggen, Kierch        02444  02444                % 04421 AVL---
+200402003 Beggen, Cyprien Merj  02446  02446                % 04421 AVL---
+200409014 Luxembourg, Chingiz   02447  02447                % 04421 AVL---
+200409003 Dommeldange, Château  02448  02448                % 04421 AVL---
+200409011 Dommeldange, Van der  02449  02449                % 04421 AVL---
+200426004 Weimerskirch, Bieche  02451  02451                % 04421 AVL---
+200426011 Weimerskirch, Tommys  02451  02451                % 04421 AVL---
+200426006 Weimerskirch, Knupp   02452  02452                % 04421 AVL---
+200426007 Weimerskirch, Laval'  02453  02453                % 04421 AVL---
+200410003 Eich, Eecher Plaz     02454  02454                % 04421 AVL---
+200410005 Eich, Octroi          02455  02455                % 04421 AVL---
+200419013 Limpertsberg, Crispi  02456  02456                % 04421 AVL---
+200405005 Centre, Badanstalt    02458  02458                % 04421 AVL---
+200405020 Hamilius (Bus)        02500                       % 04421 AVL---
+*Z 04422 AVL---       001 030                               % 04422 AVL---
+*L CN6      200405020 200405020  02605  02630               % 04422 AVL---
+*A BE 200405020 200405020 000063  02605  02630              % 04422 AVL---
+*R 1 200405020 200405020 200405020  02605  02630            % 04422 AVL---
+*G ST  200405020 200405020  02605  02630                    % 04422 AVL---
+*A VE 200405020 200405020 000063  02605  02630              % 04422 AVL---
+200405020 Hamilius (Bus)               02605                % 04422 AVL---
+200405005 Centre, Badanstalt    02607  02607                % 04422 AVL---
+200419013 Limpertsberg, Crispi  02609  02609                % 04422 AVL---
+200410005 Eich, Octroi          02609  02609                % 04422 AVL---
+200410003 Eich, Eecher Plaz     02611  02611                % 04422 AVL---
+200410004 Eich, Eecher Klinick  02612  02612                % 04422 AVL---
+200409007 Dommeldange, Emile M  02612  02612                % 04422 AVL---
+200402005 Beggen, Henri Heyman  02613  02613                % 04422 AVL---
+200402002 Beggen, Binnchen      02614  02614                % 04422 AVL---
+200402006 Beggen, Kierch        02614  02614                % 04422 AVL---
+200402003 Beggen, Cyprien Merj  02616  02616                % 04422 AVL---
+200409014 Luxembourg, Chingiz   02617  02617                % 04422 AVL---
+200409003 Dommeldange, Château  02618  02618                % 04422 AVL---
+200409011 Dommeldange, Van der  02619  02619                % 04422 AVL---
+200426004 Weimerskirch, Bieche  02621  02621                % 04422 AVL---
+200426011 Weimerskirch, Tommys  02621  02621                % 04422 AVL---
+200426006 Weimerskirch, Knupp   02622  02622                % 04422 AVL---
+200426007 Weimerskirch, Laval'  02623  02623                % 04422 AVL---
+200410003 Eich, Eecher Plaz     02624  02624                % 04422 AVL---
+200410005 Eich, Octroi          02625  02625                % 04422 AVL---
+200419013 Limpertsberg, Crispi  02626  02626                % 04422 AVL---
+200405005 Centre, Badanstalt    02628  02628                % 04422 AVL---
+200405020 Hamilius (Bus)        02630                       % 04422 AVL---
+*Z 04423 AVL---                                             % 04423 AVL---
+*L CN6      200405020 200405020  02735  02800               % 04423 AVL---
+*A BE 200405020 200405020 000063  02735  02800              % 04423 AVL---
+*R 1 200405020 200405020 200405020  02735  02800            % 04423 AVL---
+*G ST  200405020 200405020  02735  02800                    % 04423 AVL---
+*A VE 200405020 200405020 000063  02735  02800              % 04423 AVL---
+200405020 Hamilius (Bus)               02735                % 04423 AVL---
+200405005 Centre, Badanstalt    02737  02737                % 04423 AVL---
+200419013 Limpertsberg, Crispi  02739  02739                % 04423 AVL---
+200410005 Eich, Octroi          02739  02739                % 04423 AVL---
+200410003 Eich, Eecher Plaz     02741  02741                % 04423 AVL---
+200410004 Eich, Eecher Klinick  02742  02742                % 04423 AVL---
+200409007 Dommeldange, Emile M  02742  02742                % 04423 AVL---
+200402005 Beggen, Henri Heyman  02743  02743                % 04423 AVL---
+200402002 Beggen, Binnchen      02744  02744                % 04423 AVL---
+200402006 Beggen, Kierch        02744  02744                % 04423 AVL---
+200402003 Beggen, Cyprien Merj  02746  02746                % 04423 AVL---
+200409014 Luxembourg, Chingiz   02747  02747                % 04423 AVL---
+200409003 Dommeldange, Château  02748  02748                % 04423 AVL---
+200409011 Dommeldange, Van der  02749  02749                % 04423 AVL---
+200426004 Weimerskirch, Bieche  02751  02751                % 04423 AVL---
+200426011 Weimerskirch, Tommys  02751  02751                % 04423 AVL---
+200426006 Weimerskirch, Knupp   02752  02752                % 04423 AVL---
+200426007 Weimerskirch, Laval'  02753  02753                % 04423 AVL---
+200410003 Eich, Eecher Plaz     02754  02754                % 04423 AVL---
+200410005 Eich, Octroi          02755  02755                % 04423 AVL---
+200419013 Limpertsberg, Crispi  02756  02756                % 04423 AVL---
+200405005 Centre, Badanstalt    02758  02758                % 04423 AVL---
+200405020 Hamilius (Bus)        02800                       % 04423 AVL---
+*Z 04424 AVL---       001 090                               % 04424 AVL---
+*L CN6      200405020 200405020  02535  02600               % 04424 AVL---
+*A BE 200405020 200405020 000063  02535  02600              % 04424 AVL---
+*R 1 200405020 200405020 200405020  02535  02600            % 04424 AVL---
+*G MDE 200405020 200405020  02535  02600                    % 04424 AVL---
+*A VE 200405020 200405020 000063  02535  02600              % 04424 AVL---
+200405020 Hamilius (Bus)               02535                % 04424 AVL---
+200405005 Centre, Badanstalt    02537  02537                % 04424 AVL---
+200419013 Limpertsberg, Crispi  02539  02539                % 04424 AVL---
+200410005 Eich, Octroi          02539  02539                % 04424 AVL---
+200410003 Eich, Eecher Plaz     02541  02541                % 04424 AVL---
+200410004 Eich, Eecher Klinick  02542  02542                % 04424 AVL---
+200409007 Dommeldange, Emile M  02542  02542                % 04424 AVL---
+200402005 Beggen, Henri Heyman  02543  02543                % 04424 AVL---
+200402002 Beggen, Binnchen      02544  02544                % 04424 AVL---
+200402006 Beggen, Kierch        02544  02544                % 04424 AVL---
+200402003 Beggen, Cyprien Merj  02546  02546                % 04424 AVL---
+200409014 Luxembourg, Chingiz   02547  02547                % 04424 AVL---
+200409003 Dommeldange, Château  02548  02548                % 04424 AVL---
+200409011 Dommeldange, Van der  02549  02549                % 04424 AVL---
+200426004 Weimerskirch, Bieche  02551  02551                % 04424 AVL---
+200426011 Weimerskirch, Tommys  02551  02551                % 04424 AVL---
+200426006 Weimerskirch, Knupp   02552  02552                % 04424 AVL---
+200426007 Weimerskirch, Laval'  02553  02553                % 04424 AVL---
+200410003 Eich, Eecher Plaz     02554  02554                % 04424 AVL---
+200410005 Eich, Octroi          02555  02555                % 04424 AVL---
+200419013 Limpertsberg, Crispi  02556  02556                % 04424 AVL---
+200405005 Centre, Badanstalt    02558  02558                % 04424 AVL---
+200405020 Hamilius (Bus)        02600                       % 04424 AVL---
+*Z 04425 AVL---       001 030                               % 04425 AVL---
+*L CN6      200405020 200405020  02435  02500               % 04425 AVL---
+*A BE 200405020 200405020 000064  02435  02500              % 04425 AVL---
+*R 1 200405020 200405020 200405020  02435  02500            % 04425 AVL---
+*G ST  200405020 200405020  02435  02500                    % 04425 AVL---
+*A VE 200405020 200405020 000064  02435  02500              % 04425 AVL---
+200405020 Hamilius (Bus)               02435                % 04425 AVL---
+200405005 Centre, Badanstalt    02437  02437                % 04425 AVL---
+200419013 Limpertsberg, Crispi  02439  02439                % 04425 AVL---
+200410005 Eich, Octroi          02439  02439                % 04425 AVL---
+200410003 Eich, Eecher Plaz     02441  02441                % 04425 AVL---
+200410004 Eich, Eecher Klinick  02442  02442                % 04425 AVL---
+200409007 Dommeldange, Emile M  02442  02442                % 04425 AVL---
+200402005 Beggen, Henri Heyman  02443  02443                % 04425 AVL---
+200402002 Beggen, Binnchen      02444  02444                % 04425 AVL---
+200402006 Beggen, Kierch        02444  02444                % 04425 AVL---
+200402003 Beggen, Cyprien Merj  02446  02446                % 04425 AVL---
+200409014 Luxembourg, Chingiz   02447  02447                % 04425 AVL---
+200409003 Dommeldange, Château  02448  02448                % 04425 AVL---
+200409011 Dommeldange, Van der  02449  02449                % 04425 AVL---
+200426004 Weimerskirch, Bieche  02451  02451                % 04425 AVL---
+200426011 Weimerskirch, Tommys  02451  02451                % 04425 AVL---
+200426006 Weimerskirch, Knupp   02452  02452                % 04425 AVL---
+200426007 Weimerskirch, Laval'  02453  02453                % 04425 AVL---
+200410003 Eich, Eecher Plaz     02454  02454                % 04425 AVL---
+200410005 Eich, Octroi          02455  02455                % 04425 AVL---
+200419013 Limpertsberg, Crispi  02456  02456                % 04425 AVL---
+200405005 Centre, Badanstalt    02458  02458                % 04425 AVL---
+200405020 Hamilius (Bus)        02500                       % 04425 AVL---
+*Z 04426 AVL---       001 030                               % 04426 AVL---
+*L CN6      200405020 200405020  02605  02630               % 04426 AVL---
+*A BE 200405020 200405020 000064  02605  02630              % 04426 AVL---
+*R 1 200405020 200405020 200405020  02605  02630            % 04426 AVL---
+*G ST  200405020 200405020  02605  02630                    % 04426 AVL---
+*A VE 200405020 200405020 000064  02605  02630              % 04426 AVL---
+200405020 Hamilius (Bus)               02605                % 04426 AVL---
+200405005 Centre, Badanstalt    02607  02607                % 04426 AVL---
+200419013 Limpertsberg, Crispi  02609  02609                % 04426 AVL---
+200410005 Eich, Octroi          02609  02609                % 04426 AVL---
+200410003 Eich, Eecher Plaz     02611  02611                % 04426 AVL---
+200410004 Eich, Eecher Klinick  02612  02612                % 04426 AVL---
+200409007 Dommeldange, Emile M  02612  02612                % 04426 AVL---
+200402005 Beggen, Henri Heyman  02613  02613                % 04426 AVL---
+200402002 Beggen, Binnchen      02614  02614                % 04426 AVL---
+200402006 Beggen, Kierch        02614  02614                % 04426 AVL---
+200402003 Beggen, Cyprien Merj  02616  02616                % 04426 AVL---
+200409014 Luxembourg, Chingiz   02617  02617                % 04426 AVL---
+200409003 Dommeldange, Château  02618  02618                % 04426 AVL---
+200409011 Dommeldange, Van der  02619  02619                % 04426 AVL---
+200426004 Weimerskirch, Bieche  02621  02621                % 04426 AVL---
+200426011 Weimerskirch, Tommys  02621  02621                % 04426 AVL---
+200426006 Weimerskirch, Knupp   02622  02622                % 04426 AVL---
+200426007 Weimerskirch, Laval'  02623  02623                % 04426 AVL---
+200410003 Eich, Eecher Plaz     02624  02624                % 04426 AVL---
+200410005 Eich, Octroi          02625  02625                % 04426 AVL---
+200419013 Limpertsberg, Crispi  02626  02626                % 04426 AVL---
+200405005 Centre, Badanstalt    02628  02628                % 04426 AVL---
+200405020 Hamilius (Bus)        02630                       % 04426 AVL---
+*Z 04427 AVL---                                             % 04427 AVL---
+*L CN6      200405020 200405020  02735  02800               % 04427 AVL---
+*A BE 200405020 200405020 000064  02735  02800              % 04427 AVL---
+*R 1 200405020 200405020 200405020  02735  02800            % 04427 AVL---
+*G ST  200405020 200405020  02735  02800                    % 04427 AVL---
+*A VE 200405020 200405020 000064  02735  02800              % 04427 AVL---
+200405020 Hamilius (Bus)               02735                % 04427 AVL---
+200405005 Centre, Badanstalt    02737  02737                % 04427 AVL---
+200419013 Limpertsberg, Crispi  02739  02739                % 04427 AVL---
+200410005 Eich, Octroi          02739  02739                % 04427 AVL---
+200410003 Eich, Eecher Plaz     02741  02741                % 04427 AVL---
+200410004 Eich, Eecher Klinick  02742  02742                % 04427 AVL---
+200409007 Dommeldange, Emile M  02742  02742                % 04427 AVL---
+200402005 Beggen, Henri Heyman  02743  02743                % 04427 AVL---
+200402002 Beggen, Binnchen      02744  02744                % 04427 AVL---
+200402006 Beggen, Kierch        02744  02744                % 04427 AVL---
+200402003 Beggen, Cyprien Merj  02746  02746                % 04427 AVL---
+200409014 Luxembourg, Chingiz   02747  02747                % 04427 AVL---
+200409003 Dommeldange, Château  02748  02748                % 04427 AVL---
+200409011 Dommeldange, Van der  02749  02749                % 04427 AVL---
+200426004 Weimerskirch, Bieche  02751  02751                % 04427 AVL---
+200426011 Weimerskirch, Tommys  02751  02751                % 04427 AVL---
+200426006 Weimerskirch, Knupp   02752  02752                % 04427 AVL---
+200426007 Weimerskirch, Laval'  02753  02753                % 04427 AVL---
+200410003 Eich, Eecher Plaz     02754  02754                % 04427 AVL---
+200410005 Eich, Octroi          02755  02755                % 04427 AVL---
+200419013 Limpertsberg, Crispi  02756  02756                % 04427 AVL---
+200405005 Centre, Badanstalt    02758  02758                % 04427 AVL---
+200405020 Hamilius (Bus)        02800                       % 04427 AVL---
+*Z 04428 AVL---       001 090                               % 04428 AVL---
+*L CN6      200405020 200405020  02535  02600               % 04428 AVL---
+*A BE 200405020 200405020 000064  02535  02600              % 04428 AVL---
+*R 1 200405020 200405020 200405020  02535  02600            % 04428 AVL---
+*G MDE 200405020 200405020  02535  02600                    % 04428 AVL---
+*A VE 200405020 200405020 000064  02535  02600              % 04428 AVL---
+200405020 Hamilius (Bus)               02535                % 04428 AVL---
+200405005 Centre, Badanstalt    02537  02537                % 04428 AVL---
+200419013 Limpertsberg, Crispi  02539  02539                % 04428 AVL---
+200410005 Eich, Octroi          02539  02539                % 04428 AVL---
+200410003 Eich, Eecher Plaz     02541  02541                % 04428 AVL---
+200410004 Eich, Eecher Klinick  02542  02542                % 04428 AVL---
+200409007 Dommeldange, Emile M  02542  02542                % 04428 AVL---
+200402005 Beggen, Henri Heyman  02543  02543                % 04428 AVL---
+200402002 Beggen, Binnchen      02544  02544                % 04428 AVL---
+200402006 Beggen, Kierch        02544  02544                % 04428 AVL---
+200402003 Beggen, Cyprien Merj  02546  02546                % 04428 AVL---
+200409014 Luxembourg, Chingiz   02547  02547                % 04428 AVL---
+200409003 Dommeldange, Château  02548  02548                % 04428 AVL---
+200409011 Dommeldange, Van der  02549  02549                % 04428 AVL---
+200426004 Weimerskirch, Bieche  02551  02551                % 04428 AVL---
+200426011 Weimerskirch, Tommys  02551  02551                % 04428 AVL---
+200426006 Weimerskirch, Knupp   02552  02552                % 04428 AVL---
+200426007 Weimerskirch, Laval'  02553  02553                % 04428 AVL---
+200410003 Eich, Eecher Plaz     02554  02554                % 04428 AVL---
+200410005 Eich, Octroi          02555  02555                % 04428 AVL---
+200419013 Limpertsberg, Crispi  02556  02556                % 04428 AVL---
+200405005 Centre, Badanstalt    02558  02558                % 04428 AVL---
+200405020 Hamilius (Bus)        02600                       % 04428 AVL---

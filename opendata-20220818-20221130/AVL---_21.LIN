@@ -1,0 +1,2257 @@
+*F 03 2
+*Z 02966 AVL---       002 030                               % 02966 AVL---
+*L 21       200410001 200417023  00620  00652               % 02966 AVL---
+*A BE 200410001 200417023 000017  00620  00652              % 02966 AVL---
+*R 1 200417023 200410001 200417023  00620  00652            % 02966 AVL---
+*G ST  200410001 200417023  00620  00652                    % 02966 AVL---
+*A VE 200410001 200417023 000017  00620  00652              % 02966 AVL---
+200410001 Eich, Centre Culture         00620                % 02966 AVL---
+200410003 Eich, Eecher Plaz     00622  00622                % 02966 AVL---
+200421003 Muhlenbach, Eecher S  00623  00623                % 02966 AVL---
+200421006 Muhlenbach, Siwemuer  00624  00624                % 02966 AVL---
+200421004 Muhlenbach, Peiffesc  00624  00624                % 02966 AVL---
+200425012 Rollingergrund, Vill  00625  00625                % 02966 AVL---
+200425006 Rollingergrund, Roud  00626  00626                % 02966 AVL---
+200425011 Rollingergrund, Val   00627  00627                % 02966 AVL---
+200425010 Rollingergrund, Val   00628  00628                % 02966 AVL---
+200425004 Rollingergrund, Beim  00628  00628                % 02966 AVL---
+200425003 Rollingergrund, Bei   00629  00629                % 02966 AVL---
+200425005 Rollingergrund, Biis  00629  00629                % 02966 AVL---
+200405045 Centre, Stäreplaz /   00630  00630                % 02966 AVL---
+200403020 Belair, Wampach       00632  00632                % 02966 AVL---
+200405020 Hamilius (Bus)        00635  00635                % 02966 AVL---
+200405014 Centre, Fondation Pe  00637  00637                % 02966 AVL---
+200417047 Kirchberg, Rout Bréc  00639  00639                % 02966 AVL---
+200417007 Kirchberg, B.E.I.     00640  00640                % 02966 AVL---
+200417016 Kirchberg, Jean Monn  00642  00642                % 02966 AVL---
+200417005 Kirchberg, Antoine d  00643  00643                % 02966 AVL---
+200417019 Kirchberg, Konrad Ad  00643  00643                % 02966 AVL---
+200417013 Kirchberg, Coudenhov  00644  00644                % 02966 AVL---
+200417002 Kirchberg, Albert Bo  00645  00645                % 02966 AVL---
+200417036 Kirchberg, Réimerwee  00645  00645                % 02966 AVL---
+200417004 Kirchberg, Alphonse   00646  00646                % 02966 AVL---
+200417015 Kirchberg, Hôpital    00648  00648                % 02966 AVL---
+200417040 Kirchberg, Hugo Gern  00650  00650                % 02966 AVL---
+200417023 Kirchberg, Luxexpo E  00652                       % 02966 AVL---
+*Z 02967 AVL---                                             % 02967 AVL---
+*L 21       200410001 200417023  01945  02017               % 02967 AVL---
+*A BE 200410001 200417023 000017  01945  02017              % 02967 AVL---
+*R 1 200417023 200410001 200417023  01945  02017            % 02967 AVL---
+*G ST  200410001 200417023  01945  02017                    % 02967 AVL---
+*A VE 200410001 200417023 000017  01945  02017              % 02967 AVL---
+200410001 Eich, Centre Culture         01945                % 02967 AVL---
+200410003 Eich, Eecher Plaz     01947  01947                % 02967 AVL---
+200421003 Muhlenbach, Eecher S  01948  01948                % 02967 AVL---
+200421006 Muhlenbach, Siwemuer  01949  01949                % 02967 AVL---
+200421004 Muhlenbach, Peiffesc  01949  01949                % 02967 AVL---
+200425012 Rollingergrund, Vill  01950  01950                % 02967 AVL---
+200425006 Rollingergrund, Roud  01951  01951                % 02967 AVL---
+200425011 Rollingergrund, Val   01952  01952                % 02967 AVL---
+200425010 Rollingergrund, Val   01953  01953                % 02967 AVL---
+200425004 Rollingergrund, Beim  01953  01953                % 02967 AVL---
+200425003 Rollingergrund, Bei   01954  01954                % 02967 AVL---
+200425005 Rollingergrund, Biis  01954  01954                % 02967 AVL---
+200405045 Centre, Stäreplaz /   01955  01955                % 02967 AVL---
+200403020 Belair, Wampach       01957  01957                % 02967 AVL---
+200405020 Hamilius (Bus)        02000  02000                % 02967 AVL---
+200405014 Centre, Fondation Pe  02002  02002                % 02967 AVL---
+200417047 Kirchberg, Rout Bréc  02004  02004                % 02967 AVL---
+200417007 Kirchberg, B.E.I.     02005  02005                % 02967 AVL---
+200417016 Kirchberg, Jean Monn  02007  02007                % 02967 AVL---
+200417005 Kirchberg, Antoine d  02008  02008                % 02967 AVL---
+200417019 Kirchberg, Konrad Ad  02008  02008                % 02967 AVL---
+200417013 Kirchberg, Coudenhov  02009  02009                % 02967 AVL---
+200417002 Kirchberg, Albert Bo  02010  02010                % 02967 AVL---
+200417036 Kirchberg, Réimerwee  02010  02010                % 02967 AVL---
+200417004 Kirchberg, Alphonse   02011  02011                % 02967 AVL---
+200417015 Kirchberg, Hôpital    02013  02013                % 02967 AVL---
+200417040 Kirchberg, Hugo Gern  02015  02015                % 02967 AVL---
+200417023 Kirchberg, Luxexpo E  02017                       % 02967 AVL---
+*Z 02968 AVL---                                             % 02968 AVL---
+*L 21       200410001 200417023  02020  02052               % 02968 AVL---
+*A BE 200410001 200417023 000040  02020  02052              % 02968 AVL---
+*R 1 200417023 200410001 200417023  02020  02052            % 02968 AVL---
+*G ST  200410001 200417023  02020  02052                    % 02968 AVL---
+*A VE 200410001 200417023 000040  02020  02052              % 02968 AVL---
+200410001 Eich, Centre Culture         02020                % 02968 AVL---
+200410003 Eich, Eecher Plaz     02022  02022                % 02968 AVL---
+200421003 Muhlenbach, Eecher S  02023  02023                % 02968 AVL---
+200421006 Muhlenbach, Siwemuer  02024  02024                % 02968 AVL---
+200421004 Muhlenbach, Peiffesc  02024  02024                % 02968 AVL---
+200425012 Rollingergrund, Vill  02025  02025                % 02968 AVL---
+200425006 Rollingergrund, Roud  02026  02026                % 02968 AVL---
+200425011 Rollingergrund, Val   02027  02027                % 02968 AVL---
+200425010 Rollingergrund, Val   02028  02028                % 02968 AVL---
+200425004 Rollingergrund, Beim  02028  02028                % 02968 AVL---
+200425003 Rollingergrund, Bei   02029  02029                % 02968 AVL---
+200425005 Rollingergrund, Biis  02029  02029                % 02968 AVL---
+200405045 Centre, Stäreplaz /   02030  02030                % 02968 AVL---
+200403020 Belair, Wampach       02032  02032                % 02968 AVL---
+200405020 Hamilius (Bus)        02035  02035                % 02968 AVL---
+200405014 Centre, Fondation Pe  02037  02037                % 02968 AVL---
+200417047 Kirchberg, Rout Bréc  02039  02039                % 02968 AVL---
+200417007 Kirchberg, B.E.I.     02040  02040                % 02968 AVL---
+200417016 Kirchberg, Jean Monn  02042  02042                % 02968 AVL---
+200417005 Kirchberg, Antoine d  02043  02043                % 02968 AVL---
+200417019 Kirchberg, Konrad Ad  02043  02043                % 02968 AVL---
+200417013 Kirchberg, Coudenhov  02044  02044                % 02968 AVL---
+200417002 Kirchberg, Albert Bo  02045  02045                % 02968 AVL---
+200417036 Kirchberg, Réimerwee  02045  02045                % 02968 AVL---
+200417004 Kirchberg, Alphonse   02046  02046                % 02968 AVL---
+200417015 Kirchberg, Hôpital    02048  02048                % 02968 AVL---
+200417040 Kirchberg, Hugo Gern  02050  02050                % 02968 AVL---
+200417023 Kirchberg, Luxexpo E  02052                       % 02968 AVL---
+*Z 02969 AVL---                                             % 02969 AVL---
+*L 21       200410001 200417023  01947  02019               % 02969 AVL---
+*A BE 200410001 200417023 000034  01947  02019              % 02969 AVL---
+*R 1 200417023 200410001 200417023  01947  02019            % 02969 AVL---
+*G GE  200410001 200417023  01947  02019                    % 02969 AVL---
+*A VE 200410001 200417023 000034  01947  02019              % 02969 AVL---
+200410001 Eich, Centre Culture         01947                % 02969 AVL---
+200410003 Eich, Eecher Plaz     01949  01949                % 02969 AVL---
+200421003 Muhlenbach, Eecher S  01950  01950                % 02969 AVL---
+200421006 Muhlenbach, Siwemuer  01951  01951                % 02969 AVL---
+200421004 Muhlenbach, Peiffesc  01951  01951                % 02969 AVL---
+200425012 Rollingergrund, Vill  01952  01952                % 02969 AVL---
+200425006 Rollingergrund, Roud  01953  01953                % 02969 AVL---
+200425011 Rollingergrund, Val   01954  01954                % 02969 AVL---
+200425010 Rollingergrund, Val   01955  01955                % 02969 AVL---
+200425004 Rollingergrund, Beim  01955  01955                % 02969 AVL---
+200425003 Rollingergrund, Bei   01956  01956                % 02969 AVL---
+200425005 Rollingergrund, Biis  01956  01956                % 02969 AVL---
+200405045 Centre, Stäreplaz /   01957  01957                % 02969 AVL---
+200403020 Belair, Wampach       01959  01959                % 02969 AVL---
+200405020 Hamilius (Bus)        02002  02002                % 02969 AVL---
+200405014 Centre, Fondation Pe  02004  02004                % 02969 AVL---
+200417047 Kirchberg, Rout Bréc  02006  02006                % 02969 AVL---
+200417007 Kirchberg, B.E.I.     02007  02007                % 02969 AVL---
+200417016 Kirchberg, Jean Monn  02009  02009                % 02969 AVL---
+200417005 Kirchberg, Antoine d  02010  02010                % 02969 AVL---
+200417019 Kirchberg, Konrad Ad  02010  02010                % 02969 AVL---
+200417013 Kirchberg, Coudenhov  02011  02011                % 02969 AVL---
+200417002 Kirchberg, Albert Bo  02012  02012                % 02969 AVL---
+200417036 Kirchberg, Réimerwee  02012  02012                % 02969 AVL---
+200417004 Kirchberg, Alphonse   02013  02013                % 02969 AVL---
+200417015 Kirchberg, Hôpital    02015  02015                % 02969 AVL---
+200417040 Kirchberg, Hugo Gern  02017  02017                % 02969 AVL---
+200417023 Kirchberg, Luxexpo E  02019                       % 02969 AVL---
+*Z 02970 AVL---       002 015                               % 02970 AVL---
+*L 21       200410001 200417023  00520  00552               % 02970 AVL---
+*A BE 200410001 200417023 000034  00520  00552              % 02970 AVL---
+*R 1 200417023 200410001 200417023  00520  00552            % 02970 AVL---
+*G ST  200410001 200417023  00520  00552                    % 02970 AVL---
+*A VE 200410001 200417023 000034  00520  00552              % 02970 AVL---
+200410001 Eich, Centre Culture         00520                % 02970 AVL---
+200410003 Eich, Eecher Plaz     00522  00522                % 02970 AVL---
+200421003 Muhlenbach, Eecher S  00523  00523                % 02970 AVL---
+200421006 Muhlenbach, Siwemuer  00524  00524                % 02970 AVL---
+200421004 Muhlenbach, Peiffesc  00524  00524                % 02970 AVL---
+200425012 Rollingergrund, Vill  00525  00525                % 02970 AVL---
+200425006 Rollingergrund, Roud  00526  00526                % 02970 AVL---
+200425011 Rollingergrund, Val   00527  00527                % 02970 AVL---
+200425010 Rollingergrund, Val   00528  00528                % 02970 AVL---
+200425004 Rollingergrund, Beim  00528  00528                % 02970 AVL---
+200425003 Rollingergrund, Bei   00529  00529                % 02970 AVL---
+200425005 Rollingergrund, Biis  00529  00529                % 02970 AVL---
+200405045 Centre, Stäreplaz /   00530  00530                % 02970 AVL---
+200403020 Belair, Wampach       00532  00532                % 02970 AVL---
+200405020 Hamilius (Bus)        00535  00535                % 02970 AVL---
+200405014 Centre, Fondation Pe  00537  00537                % 02970 AVL---
+200417047 Kirchberg, Rout Bréc  00539  00539                % 02970 AVL---
+200417007 Kirchberg, B.E.I.     00540  00540                % 02970 AVL---
+200417016 Kirchberg, Jean Monn  00542  00542                % 02970 AVL---
+200417005 Kirchberg, Antoine d  00543  00543                % 02970 AVL---
+200417019 Kirchberg, Konrad Ad  00543  00543                % 02970 AVL---
+200417013 Kirchberg, Coudenhov  00544  00544                % 02970 AVL---
+200417002 Kirchberg, Albert Bo  00545  00545                % 02970 AVL---
+200417036 Kirchberg, Réimerwee  00545  00545                % 02970 AVL---
+200417004 Kirchberg, Alphonse   00546  00546                % 02970 AVL---
+200417015 Kirchberg, Hôpital    00548  00548                % 02970 AVL---
+200417040 Kirchberg, Hugo Gern  00550  00550                % 02970 AVL---
+200417023 Kirchberg, Luxexpo E  00552                       % 02970 AVL---
+*Z 02971 AVL---       001 138                               % 02971 AVL---
+*L 21       200410001 200417023  02002  02034               % 02971 AVL---
+*A BE 200410001 200417023 000034  02002  02034              % 02971 AVL---
+*R 1 200417023 200410001 200417023  02002  02034            % 02971 AVL---
+*G ST  200410001 200417023  02002  02034                    % 02971 AVL---
+*A VE 200410001 200417023 000034  02002  02034              % 02971 AVL---
+200410001 Eich, Centre Culture         02002                % 02971 AVL---
+200410003 Eich, Eecher Plaz     02004  02004                % 02971 AVL---
+200421003 Muhlenbach, Eecher S  02005  02005                % 02971 AVL---
+200421006 Muhlenbach, Siwemuer  02006  02006                % 02971 AVL---
+200421004 Muhlenbach, Peiffesc  02006  02006                % 02971 AVL---
+200425012 Rollingergrund, Vill  02007  02007                % 02971 AVL---
+200425006 Rollingergrund, Roud  02008  02008                % 02971 AVL---
+200425011 Rollingergrund, Val   02009  02009                % 02971 AVL---
+200425010 Rollingergrund, Val   02010  02010                % 02971 AVL---
+200425004 Rollingergrund, Beim  02010  02010                % 02971 AVL---
+200425003 Rollingergrund, Bei   02011  02011                % 02971 AVL---
+200425005 Rollingergrund, Biis  02011  02011                % 02971 AVL---
+200405045 Centre, Stäreplaz /   02012  02012                % 02971 AVL---
+200403020 Belair, Wampach       02014  02014                % 02971 AVL---
+200405020 Hamilius (Bus)        02017  02017                % 02971 AVL---
+200405014 Centre, Fondation Pe  02019  02019                % 02971 AVL---
+200417047 Kirchberg, Rout Bréc  02021  02021                % 02971 AVL---
+200417007 Kirchberg, B.E.I.     02022  02022                % 02971 AVL---
+200417016 Kirchberg, Jean Monn  02024  02024                % 02971 AVL---
+200417005 Kirchberg, Antoine d  02025  02025                % 02971 AVL---
+200417019 Kirchberg, Konrad Ad  02025  02025                % 02971 AVL---
+200417013 Kirchberg, Coudenhov  02026  02026                % 02971 AVL---
+200417002 Kirchberg, Albert Bo  02027  02027                % 02971 AVL---
+200417036 Kirchberg, Réimerwee  02027  02027                % 02971 AVL---
+200417004 Kirchberg, Alphonse   02028  02028                % 02971 AVL---
+200417015 Kirchberg, Hôpital    02030  02030                % 02971 AVL---
+200417040 Kirchberg, Hugo Gern  02032  02032                % 02971 AVL---
+200417023 Kirchberg, Luxexpo E  02034                       % 02971 AVL---
+*Z 02972 AVL---                                             % 02972 AVL---
+*L 21       200410001 200417023  02250  02322               % 02972 AVL---
+*A BE 200410001 200417023 000034  02250  02322              % 02972 AVL---
+*R 1 200417023 200410001 200417023  02250  02322            % 02972 AVL---
+*G ST  200410001 200417023  02250  02322                    % 02972 AVL---
+*A VE 200410001 200417023 000034  02250  02322              % 02972 AVL---
+200410001 Eich, Centre Culture         02250                % 02972 AVL---
+200410003 Eich, Eecher Plaz     02252  02252                % 02972 AVL---
+200421003 Muhlenbach, Eecher S  02253  02253                % 02972 AVL---
+200421006 Muhlenbach, Siwemuer  02254  02254                % 02972 AVL---
+200421004 Muhlenbach, Peiffesc  02254  02254                % 02972 AVL---
+200425012 Rollingergrund, Vill  02255  02255                % 02972 AVL---
+200425006 Rollingergrund, Roud  02256  02256                % 02972 AVL---
+200425011 Rollingergrund, Val   02257  02257                % 02972 AVL---
+200425010 Rollingergrund, Val   02258  02258                % 02972 AVL---
+200425004 Rollingergrund, Beim  02258  02258                % 02972 AVL---
+200425003 Rollingergrund, Bei   02259  02259                % 02972 AVL---
+200425005 Rollingergrund, Biis  02259  02259                % 02972 AVL---
+200405045 Centre, Stäreplaz /   02300  02300                % 02972 AVL---
+200403020 Belair, Wampach       02302  02302                % 02972 AVL---
+200405020 Hamilius (Bus)        02305  02305                % 02972 AVL---
+200405014 Centre, Fondation Pe  02307  02307                % 02972 AVL---
+200417047 Kirchberg, Rout Bréc  02309  02309                % 02972 AVL---
+200417007 Kirchberg, B.E.I.     02310  02310                % 02972 AVL---
+200417016 Kirchberg, Jean Monn  02312  02312                % 02972 AVL---
+200417005 Kirchberg, Antoine d  02313  02313                % 02972 AVL---
+200417019 Kirchberg, Konrad Ad  02313  02313                % 02972 AVL---
+200417013 Kirchberg, Coudenhov  02314  02314                % 02972 AVL---
+200417002 Kirchberg, Albert Bo  02315  02315                % 02972 AVL---
+200417036 Kirchberg, Réimerwee  02315  02315                % 02972 AVL---
+200417004 Kirchberg, Alphonse   02316  02316                % 02972 AVL---
+200417015 Kirchberg, Hôpital    02318  02318                % 02972 AVL---
+200417040 Kirchberg, Hugo Gern  02320  02320                % 02972 AVL---
+200417023 Kirchberg, Luxexpo E  02322                       % 02972 AVL---
+*Z 02973 AVL---       002 030                               % 02973 AVL---
+*L 21       200410001 200417023  02050  02122               % 02973 AVL---
+*A BE 200410001 200417023 000038  02050  02122              % 02973 AVL---
+*R 1 200417023 200410001 200417023  02050  02122            % 02973 AVL---
+*G ST  200410001 200417023  02050  02122                    % 02973 AVL---
+*A VE 200410001 200417023 000038  02050  02122              % 02973 AVL---
+200410001 Eich, Centre Culture         02050                % 02973 AVL---
+200410003 Eich, Eecher Plaz     02052  02052                % 02973 AVL---
+200421003 Muhlenbach, Eecher S  02053  02053                % 02973 AVL---
+200421006 Muhlenbach, Siwemuer  02054  02054                % 02973 AVL---
+200421004 Muhlenbach, Peiffesc  02054  02054                % 02973 AVL---
+200425012 Rollingergrund, Vill  02055  02055                % 02973 AVL---
+200425006 Rollingergrund, Roud  02056  02056                % 02973 AVL---
+200425011 Rollingergrund, Val   02057  02057                % 02973 AVL---
+200425010 Rollingergrund, Val   02058  02058                % 02973 AVL---
+200425004 Rollingergrund, Beim  02058  02058                % 02973 AVL---
+200425003 Rollingergrund, Bei   02059  02059                % 02973 AVL---
+200425005 Rollingergrund, Biis  02059  02059                % 02973 AVL---
+200405045 Centre, Stäreplaz /   02100  02100                % 02973 AVL---
+200403020 Belair, Wampach       02102  02102                % 02973 AVL---
+200405020 Hamilius (Bus)        02105  02105                % 02973 AVL---
+200405014 Centre, Fondation Pe  02107  02107                % 02973 AVL---
+200417047 Kirchberg, Rout Bréc  02109  02109                % 02973 AVL---
+200417007 Kirchberg, B.E.I.     02110  02110                % 02973 AVL---
+200417016 Kirchberg, Jean Monn  02112  02112                % 02973 AVL---
+200417005 Kirchberg, Antoine d  02113  02113                % 02973 AVL---
+200417019 Kirchberg, Konrad Ad  02113  02113                % 02973 AVL---
+200417013 Kirchberg, Coudenhov  02114  02114                % 02973 AVL---
+200417002 Kirchberg, Albert Bo  02115  02115                % 02973 AVL---
+200417036 Kirchberg, Réimerwee  02115  02115                % 02973 AVL---
+200417004 Kirchberg, Alphonse   02116  02116                % 02973 AVL---
+200417015 Kirchberg, Hôpital    02118  02118                % 02973 AVL---
+200417040 Kirchberg, Hugo Gern  02120  02120                % 02973 AVL---
+200417023 Kirchberg, Luxexpo E  02122                       % 02973 AVL---
+*Z 02974 AVL---       003 030                               % 02974 AVL---
+*L 21       200410001 200417023  00920  00952               % 02974 AVL---
+*A BE 200410001 200417023 000016  00920  00952              % 02974 AVL---
+*R 1 200417023 200410001 200417023  00920  00952            % 02974 AVL---
+*G ST  200410001 200417023  00920  00952                    % 02974 AVL---
+*A VE 200410001 200417023 000016  00920  00952              % 02974 AVL---
+200410001 Eich, Centre Culture         00920                % 02974 AVL---
+200410003 Eich, Eecher Plaz     00922  00922                % 02974 AVL---
+200421003 Muhlenbach, Eecher S  00923  00923                % 02974 AVL---
+200421006 Muhlenbach, Siwemuer  00924  00924                % 02974 AVL---
+200421004 Muhlenbach, Peiffesc  00924  00924                % 02974 AVL---
+200425012 Rollingergrund, Vill  00925  00925                % 02974 AVL---
+200425006 Rollingergrund, Roud  00926  00926                % 02974 AVL---
+200425011 Rollingergrund, Val   00927  00927                % 02974 AVL---
+200425010 Rollingergrund, Val   00928  00928                % 02974 AVL---
+200425004 Rollingergrund, Beim  00928  00928                % 02974 AVL---
+200425003 Rollingergrund, Bei   00929  00929                % 02974 AVL---
+200425005 Rollingergrund, Biis  00929  00929                % 02974 AVL---
+200405045 Centre, Stäreplaz /   00930  00930                % 02974 AVL---
+200403020 Belair, Wampach       00932  00932                % 02974 AVL---
+200405020 Hamilius (Bus)        00935  00935                % 02974 AVL---
+200405014 Centre, Fondation Pe  00937  00937                % 02974 AVL---
+200417047 Kirchberg, Rout Bréc  00939  00939                % 02974 AVL---
+200417007 Kirchberg, B.E.I.     00940  00940                % 02974 AVL---
+200417016 Kirchberg, Jean Monn  00942  00942                % 02974 AVL---
+200417005 Kirchberg, Antoine d  00943  00943                % 02974 AVL---
+200417019 Kirchberg, Konrad Ad  00943  00943                % 02974 AVL---
+200417013 Kirchberg, Coudenhov  00944  00944                % 02974 AVL---
+200417002 Kirchberg, Albert Bo  00945  00945                % 02974 AVL---
+200417036 Kirchberg, Réimerwee  00945  00945                % 02974 AVL---
+200417004 Kirchberg, Alphonse   00946  00946                % 02974 AVL---
+200417015 Kirchberg, Hôpital    00948  00948                % 02974 AVL---
+200417040 Kirchberg, Hugo Gern  00950  00950                % 02974 AVL---
+200417023 Kirchberg, Luxexpo E  00952                       % 02974 AVL---
+*Z 02975 AVL---                                             % 02975 AVL---
+*L 21       200410001 200417023  01950  02022               % 02975 AVL---
+*A BE 200410001 200417023 000016  01950  02022              % 02975 AVL---
+*R 1 200417023 200410001 200417023  01950  02022            % 02975 AVL---
+*G ST  200410001 200417023  01950  02022                    % 02975 AVL---
+*A VE 200410001 200417023 000016  01950  02022              % 02975 AVL---
+200410001 Eich, Centre Culture         01950                % 02975 AVL---
+200410003 Eich, Eecher Plaz     01952  01952                % 02975 AVL---
+200421003 Muhlenbach, Eecher S  01953  01953                % 02975 AVL---
+200421006 Muhlenbach, Siwemuer  01954  01954                % 02975 AVL---
+200421004 Muhlenbach, Peiffesc  01954  01954                % 02975 AVL---
+200425012 Rollingergrund, Vill  01955  01955                % 02975 AVL---
+200425006 Rollingergrund, Roud  01956  01956                % 02975 AVL---
+200425011 Rollingergrund, Val   01957  01957                % 02975 AVL---
+200425010 Rollingergrund, Val   01958  01958                % 02975 AVL---
+200425004 Rollingergrund, Beim  01958  01958                % 02975 AVL---
+200425003 Rollingergrund, Bei   01959  01959                % 02975 AVL---
+200425005 Rollingergrund, Biis  01959  01959                % 02975 AVL---
+200405045 Centre, Stäreplaz /   02000  02000                % 02975 AVL---
+200403020 Belair, Wampach       02002  02002                % 02975 AVL---
+200405020 Hamilius (Bus)        02005  02005                % 02975 AVL---
+200405014 Centre, Fondation Pe  02007  02007                % 02975 AVL---
+200417047 Kirchberg, Rout Bréc  02009  02009                % 02975 AVL---
+200417007 Kirchberg, B.E.I.     02010  02010                % 02975 AVL---
+200417016 Kirchberg, Jean Monn  02012  02012                % 02975 AVL---
+200417005 Kirchberg, Antoine d  02013  02013                % 02975 AVL---
+200417019 Kirchberg, Konrad Ad  02013  02013                % 02975 AVL---
+200417013 Kirchberg, Coudenhov  02014  02014                % 02975 AVL---
+200417002 Kirchberg, Albert Bo  02015  02015                % 02975 AVL---
+200417036 Kirchberg, Réimerwee  02015  02015                % 02975 AVL---
+200417004 Kirchberg, Alphonse   02016  02016                % 02975 AVL---
+200417015 Kirchberg, Hôpital    02018  02018                % 02975 AVL---
+200417040 Kirchberg, Hugo Gern  02020  02020                % 02975 AVL---
+200417023 Kirchberg, Luxexpo E  02022                       % 02975 AVL---
+*Z 02976 AVL---       054 015                               % 02976 AVL---
+*L 21       200410001 200417023  00557  00640               % 02976 AVL---
+*A BE 200410001 200417023 000034  00557  00640              % 02976 AVL---
+*R 1 200417023 200410001 200417023  00557  00640            % 02976 AVL---
+*G GE  200410001 200417023  00557  00640                    % 02976 AVL---
+*A VE 200410001 200417023 000034  00557  00640              % 02976 AVL---
+200410001 Eich, Centre Culture         00557                % 02976 AVL---
+200410003 Eich, Eecher Plaz     00559  00559                % 02976 AVL---
+200421003 Muhlenbach, Eecher S  00600  00600                % 02976 AVL---
+200421006 Muhlenbach, Siwemuer  00601  00601                % 02976 AVL---
+200421004 Muhlenbach, Peiffesc  00602  00602                % 02976 AVL---
+200425012 Rollingergrund, Vill  00603  00603                % 02976 AVL---
+200425006 Rollingergrund, Roud  00604  00604                % 02976 AVL---
+200425011 Rollingergrund, Val   00606  00606                % 02976 AVL---
+200425010 Rollingergrund, Val   00607  00607                % 02976 AVL---
+200425004 Rollingergrund, Beim  00608  00608                % 02976 AVL---
+200425003 Rollingergrund, Bei   00608  00608                % 02976 AVL---
+200425005 Rollingergrund, Biis  00609  00609                % 02976 AVL---
+200405045 Centre, Stäreplaz /   00611  00611                % 02976 AVL---
+200403020 Belair, Wampach       00614  00614                % 02976 AVL---
+200405020 Hamilius (Bus)        00617  00617                % 02976 AVL---
+200405014 Centre, Fondation Pe  00620  00620                % 02976 AVL---
+200417047 Kirchberg, Rout Bréc  00622  00622                % 02976 AVL---
+200417007 Kirchberg, B.E.I.     00625  00625                % 02976 AVL---
+200417016 Kirchberg, Jean Monn  00626  00626                % 02976 AVL---
+200417005 Kirchberg, Antoine d  00627  00627                % 02976 AVL---
+200417019 Kirchberg, Konrad Ad  00629  00629                % 02976 AVL---
+200417013 Kirchberg, Coudenhov  00629  00629                % 02976 AVL---
+200417002 Kirchberg, Albert Bo  00630  00630                % 02976 AVL---
+200417036 Kirchberg, Réimerwee  00632  00632                % 02976 AVL---
+200417004 Kirchberg, Alphonse   00632  00632                % 02976 AVL---
+200417015 Kirchberg, Hôpital    00635  00635                % 02976 AVL---
+200417040 Kirchberg, Hugo Gern  00638  00638                % 02976 AVL---
+200417023 Kirchberg, Luxexpo E  00640                       % 02976 AVL---
+*Z 02977 AVL---       035 020                               % 02977 AVL---
+*L 21       200410001 200417023  00744  00818               % 02977 AVL---
+*A BE 200410001 200417023 000017  00744  00818              % 02977 AVL---
+*R 1 200417023 200410001 200417023  00744  00818            % 02977 AVL---
+*G ST  200410001 200417023  00744  00818                    % 02977 AVL---
+*A VE 200410001 200417023 000017  00744  00818              % 02977 AVL---
+200410001 Eich, Centre Culture         00744                % 02977 AVL---
+200410003 Eich, Eecher Plaz     00745  00745                % 02977 AVL---
+200421003 Muhlenbach, Eecher S  00747  00747                % 02977 AVL---
+200421006 Muhlenbach, Siwemuer  00748  00748                % 02977 AVL---
+200421004 Muhlenbach, Peiffesc  00748  00748                % 02977 AVL---
+200425012 Rollingergrund, Vill  00749  00749                % 02977 AVL---
+200425006 Rollingergrund, Roud  00750  00750                % 02977 AVL---
+200425011 Rollingergrund, Val   00751  00751                % 02977 AVL---
+200425010 Rollingergrund, Val   00752  00752                % 02977 AVL---
+200425004 Rollingergrund, Beim  00753  00753                % 02977 AVL---
+200425003 Rollingergrund, Bei   00753  00753                % 02977 AVL---
+200425005 Rollingergrund, Biis  00754  00754                % 02977 AVL---
+200405045 Centre, Stäreplaz /   00755  00755                % 02977 AVL---
+200403020 Belair, Wampach       00757  00757                % 02977 AVL---
+200405020 Hamilius (Bus)        00800  00800                % 02977 AVL---
+200405014 Centre, Fondation Pe  00802  00802                % 02977 AVL---
+200417047 Kirchberg, Rout Bréc  00804  00804                % 02977 AVL---
+200417007 Kirchberg, B.E.I.     00806  00806                % 02977 AVL---
+200417016 Kirchberg, Jean Monn  00807  00807                % 02977 AVL---
+200417005 Kirchberg, Antoine d  00808  00808                % 02977 AVL---
+200417019 Kirchberg, Konrad Ad  00809  00809                % 02977 AVL---
+200417013 Kirchberg, Coudenhov  00809  00809                % 02977 AVL---
+200417002 Kirchberg, Albert Bo  00810  00810                % 02977 AVL---
+200417036 Kirchberg, Réimerwee  00811  00811                % 02977 AVL---
+200417004 Kirchberg, Alphonse   00812  00812                % 02977 AVL---
+200417015 Kirchberg, Hôpital    00813  00813                % 02977 AVL---
+200417040 Kirchberg, Hugo Gern  00815  00815                % 02977 AVL---
+200417023 Kirchberg, Luxexpo E  00818                       % 02977 AVL---
+*Z 02978 AVL---       016 030                               % 02978 AVL---
+*L 21       200410001 200417023  01119  01153               % 02978 AVL---
+*A BE 200410001 200417023 000016  01119  01153              % 02978 AVL---
+*R 1 200417023 200410001 200417023  01119  01153            % 02978 AVL---
+*G ST  200410001 200417023  01119  01153                    % 02978 AVL---
+*A VE 200410001 200417023 000016  01119  01153              % 02978 AVL---
+200410001 Eich, Centre Culture         01119                % 02978 AVL---
+200410003 Eich, Eecher Plaz     01120  01120                % 02978 AVL---
+200421003 Muhlenbach, Eecher S  01122  01122                % 02978 AVL---
+200421006 Muhlenbach, Siwemuer  01123  01123                % 02978 AVL---
+200421004 Muhlenbach, Peiffesc  01123  01123                % 02978 AVL---
+200425012 Rollingergrund, Vill  01124  01124                % 02978 AVL---
+200425006 Rollingergrund, Roud  01125  01125                % 02978 AVL---
+200425011 Rollingergrund, Val   01126  01126                % 02978 AVL---
+200425010 Rollingergrund, Val   01127  01127                % 02978 AVL---
+200425004 Rollingergrund, Beim  01128  01128                % 02978 AVL---
+200425003 Rollingergrund, Bei   01128  01128                % 02978 AVL---
+200425005 Rollingergrund, Biis  01129  01129                % 02978 AVL---
+200405045 Centre, Stäreplaz /   01130  01130                % 02978 AVL---
+200403020 Belair, Wampach       01132  01132                % 02978 AVL---
+200405020 Hamilius (Bus)        01135  01135                % 02978 AVL---
+200405014 Centre, Fondation Pe  01137  01137                % 02978 AVL---
+200417047 Kirchberg, Rout Bréc  01139  01139                % 02978 AVL---
+200417007 Kirchberg, B.E.I.     01141  01141                % 02978 AVL---
+200417016 Kirchberg, Jean Monn  01142  01142                % 02978 AVL---
+200417005 Kirchberg, Antoine d  01143  01143                % 02978 AVL---
+200417019 Kirchberg, Konrad Ad  01144  01144                % 02978 AVL---
+200417013 Kirchberg, Coudenhov  01144  01144                % 02978 AVL---
+200417002 Kirchberg, Albert Bo  01145  01145                % 02978 AVL---
+200417036 Kirchberg, Réimerwee  01146  01146                % 02978 AVL---
+200417004 Kirchberg, Alphonse   01147  01147                % 02978 AVL---
+200417015 Kirchberg, Hôpital    01148  01148                % 02978 AVL---
+200417040 Kirchberg, Hugo Gern  01150  01150                % 02978 AVL---
+200417023 Kirchberg, Luxexpo E  01153                       % 02978 AVL---
+*Z 02979 AVL---       001 030                               % 02979 AVL---
+*L 21       200410001 200405025  02317  02330               % 02979 AVL---
+*A BE 200410001 200405025 000040  02317  02330              % 02979 AVL---
+*R 1 200405025 200410001 200405025  02317  02330            % 02979 AVL---
+*G ST  200410001 200405025  02317  02330                    % 02979 AVL---
+*A VE 200410001 200405025 000040  02317  02330              % 02979 AVL---
+200410001 Eich, Centre Culture         02317                % 02979 AVL---
+200410003 Eich, Eecher Plaz     02319  02319                % 02979 AVL---
+200421003 Muhlenbach, Eecher S  02320  02320                % 02979 AVL---
+200421006 Muhlenbach, Siwemuer  02321  02321                % 02979 AVL---
+200421004 Muhlenbach, Peiffesc  02321  02321                % 02979 AVL---
+200425012 Rollingergrund, Vill  02322  02322                % 02979 AVL---
+200425006 Rollingergrund, Roud  02323  02323                % 02979 AVL---
+200425011 Rollingergrund, Val   02324  02324                % 02979 AVL---
+200425010 Rollingergrund, Val   02325  02325                % 02979 AVL---
+200425004 Rollingergrund, Beim  02325  02325                % 02979 AVL---
+200425003 Rollingergrund, Bei   02326  02326                % 02979 AVL---
+200425005 Rollingergrund, Biis  02326  02326                % 02979 AVL---
+200405045 Centre, Stäreplaz /   02327  02327                % 02979 AVL---
+200403020 Belair, Wampach       02329  02329                % 02979 AVL---
+200405025 Luxembourg/Centre, M  02330                       % 02979 AVL---
+*Z 02980 AVL---       005 030                               % 02980 AVL---
+*L 21       200410001 200405025  00617  00630               % 02980 AVL---
+*A BE 200410001 200405025 000016  00617  00630              % 02980 AVL---
+*R 1 200405025 200410001 200405025  00617  00630            % 02980 AVL---
+*G ST  200410001 200405025  00617  00630                    % 02980 AVL---
+*A VE 200410001 200405025 000016  00617  00630              % 02980 AVL---
+200410001 Eich, Centre Culture         00617                % 02980 AVL---
+200410003 Eich, Eecher Plaz     00619  00619                % 02980 AVL---
+200421003 Muhlenbach, Eecher S  00620  00620                % 02980 AVL---
+200421006 Muhlenbach, Siwemuer  00621  00621                % 02980 AVL---
+200421004 Muhlenbach, Peiffesc  00621  00621                % 02980 AVL---
+200425012 Rollingergrund, Vill  00622  00622                % 02980 AVL---
+200425006 Rollingergrund, Roud  00623  00623                % 02980 AVL---
+200425011 Rollingergrund, Val   00624  00624                % 02980 AVL---
+200425010 Rollingergrund, Val   00625  00625                % 02980 AVL---
+200425004 Rollingergrund, Beim  00625  00625                % 02980 AVL---
+200425003 Rollingergrund, Bei   00626  00626                % 02980 AVL---
+200425005 Rollingergrund, Biis  00626  00626                % 02980 AVL---
+200405045 Centre, Stäreplaz /   00627  00627                % 02980 AVL---
+200403020 Belair, Wampach       00629  00629                % 02980 AVL---
+200405025 Luxembourg/Centre, M  00630                       % 02980 AVL---
+*Z 02981 AVL---       002 030                               % 02981 AVL---
+*L 21       200410001 200405025  02047  02100               % 02981 AVL---
+*A BE 200410001 200405025 000016  02047  02100              % 02981 AVL---
+*R 1 200405025 200410001 200405025  02047  02100            % 02981 AVL---
+*G ST  200410001 200405025  02047  02100                    % 02981 AVL---
+*A VE 200410001 200405025 000016  02047  02100              % 02981 AVL---
+200410001 Eich, Centre Culture         02047                % 02981 AVL---
+200410003 Eich, Eecher Plaz     02049  02049                % 02981 AVL---
+200421003 Muhlenbach, Eecher S  02050  02050                % 02981 AVL---
+200421006 Muhlenbach, Siwemuer  02051  02051                % 02981 AVL---
+200421004 Muhlenbach, Peiffesc  02051  02051                % 02981 AVL---
+200425012 Rollingergrund, Vill  02052  02052                % 02981 AVL---
+200425006 Rollingergrund, Roud  02053  02053                % 02981 AVL---
+200425011 Rollingergrund, Val   02054  02054                % 02981 AVL---
+200425010 Rollingergrund, Val   02055  02055                % 02981 AVL---
+200425004 Rollingergrund, Beim  02055  02055                % 02981 AVL---
+200425003 Rollingergrund, Bei   02056  02056                % 02981 AVL---
+200425005 Rollingergrund, Biis  02056  02056                % 02981 AVL---
+200405045 Centre, Stäreplaz /   02057  02057                % 02981 AVL---
+200403020 Belair, Wampach       02059  02059                % 02981 AVL---
+200405025 Luxembourg/Centre, M  02100                       % 02981 AVL---
+*Z 02982 AVL---       001 030                               % 02982 AVL---
+*L 21       200410001 200405025  00517  00530               % 02982 AVL---
+*A BE 200410001 200405025 000037  00517  00530              % 02982 AVL---
+*R 1 200405025 200410001 200405025  00517  00530            % 02982 AVL---
+*G ST  200410001 200405025  00517  00530                    % 02982 AVL---
+*A VE 200410001 200405025 000037  00517  00530              % 02982 AVL---
+200410001 Eich, Centre Culture         00517                % 02982 AVL---
+200410003 Eich, Eecher Plaz     00519  00519                % 02982 AVL---
+200421003 Muhlenbach, Eecher S  00520  00520                % 02982 AVL---
+200421006 Muhlenbach, Siwemuer  00521  00521                % 02982 AVL---
+200421004 Muhlenbach, Peiffesc  00521  00521                % 02982 AVL---
+200425012 Rollingergrund, Vill  00522  00522                % 02982 AVL---
+200425006 Rollingergrund, Roud  00523  00523                % 02982 AVL---
+200425011 Rollingergrund, Val   00524  00524                % 02982 AVL---
+200425010 Rollingergrund, Val   00525  00525                % 02982 AVL---
+200425004 Rollingergrund, Beim  00525  00525                % 02982 AVL---
+200425003 Rollingergrund, Bei   00526  00526                % 02982 AVL---
+200425005 Rollingergrund, Biis  00526  00526                % 02982 AVL---
+200405045 Centre, Stäreplaz /   00527  00527                % 02982 AVL---
+200403020 Belair, Wampach       00529  00529                % 02982 AVL---
+200405025 Luxembourg/Centre, M  00530                       % 02982 AVL---
+*Z 02983 AVL---       001 030                               % 02983 AVL---
+*L 21       200410001 200405025  02217  02230               % 02983 AVL---
+*A BE 200410001 200405025 000037  02217  02230              % 02983 AVL---
+*R 1 200405025 200410001 200405025  02217  02230            % 02983 AVL---
+*G ST  200410001 200405025  02217  02230                    % 02983 AVL---
+*A VE 200410001 200405025 000037  02217  02230              % 02983 AVL---
+200410001 Eich, Centre Culture         02217                % 02983 AVL---
+200410003 Eich, Eecher Plaz     02219  02219                % 02983 AVL---
+200421003 Muhlenbach, Eecher S  02220  02220                % 02983 AVL---
+200421006 Muhlenbach, Siwemuer  02221  02221                % 02983 AVL---
+200421004 Muhlenbach, Peiffesc  02221  02221                % 02983 AVL---
+200425012 Rollingergrund, Vill  02222  02222                % 02983 AVL---
+200425006 Rollingergrund, Roud  02223  02223                % 02983 AVL---
+200425011 Rollingergrund, Val   02224  02224                % 02983 AVL---
+200425010 Rollingergrund, Val   02225  02225                % 02983 AVL---
+200425004 Rollingergrund, Beim  02225  02225                % 02983 AVL---
+200425003 Rollingergrund, Bei   02226  02226                % 02983 AVL---
+200425005 Rollingergrund, Biis  02226  02226                % 02983 AVL---
+200405045 Centre, Stäreplaz /   02227  02227                % 02983 AVL---
+200403020 Belair, Wampach       02229  02229                % 02983 AVL---
+200405025 Luxembourg/Centre, M  02230                       % 02983 AVL---
+*Z 02985 AVL---       002 030                               % 02985 AVL---
+*L 21       200417023 200410001  00611  00649               % 02985 AVL---
+*A BE 200417023 200410001 000017  00611  00649              % 02985 AVL---
+*R 2 200410001 200417023 200410001  00611  00649            % 02985 AVL---
+*G ST  200417023 200410001  00611  00649                    % 02985 AVL---
+*A VE 200417023 200410001 000017  00611  00649              % 02985 AVL---
+200417023 Kirchberg, Luxexpo E         00611                % 02985 AVL---
+200417033 Kirchberg, Poutty St  00612  00612                % 02985 AVL---
+200417044 Kirchberg, Luxexpo Q  00613  00613                % 02985 AVL---
+200417015 Kirchberg, Hôpital    00615  00615                % 02985 AVL---
+200417004 Kirchberg, Alphonse   00616  00616                % 02985 AVL---
+200417036 Kirchberg, Réimerwee  00617  00617                % 02985 AVL---
+200417002 Kirchberg, Albert Bo  00618  00618                % 02985 AVL---
+200417013 Kirchberg, Coudenhov  00619  00619                % 02985 AVL---
+200417019 Kirchberg, Konrad Ad  00620  00620                % 02985 AVL---
+200417005 Kirchberg, Antoine d  00621  00621                % 02985 AVL---
+200417016 Kirchberg, Jean Monn  00622  00622                % 02985 AVL---
+200417007 Kirchberg, B.E.I.     00623  00623                % 02985 AVL---
+200417047 Kirchberg, Rout Bréc  00624  00624                % 02985 AVL---
+200405014 Centre, Fondation Pe  00627  00627                % 02985 AVL---
+200405020 Hamilius (Bus)        00630  00635                % 02985 AVL---
+200405045 Centre, Stäreplaz /   00639  00639                % 02985 AVL---
+200425005 Rollingergrund, Biis  00640  00640                % 02985 AVL---
+200425003 Rollingergrund, Bei   00640  00640                % 02985 AVL---
+200425004 Rollingergrund, Beim  00641  00641                % 02985 AVL---
+200425010 Rollingergrund, Val   00641  00641                % 02985 AVL---
+200425011 Rollingergrund, Val   00642  00642                % 02985 AVL---
+200425006 Rollingergrund, Roud  00643  00643                % 02985 AVL---
+200425012 Rollingergrund, Vill  00644  00644                % 02985 AVL---
+200421004 Muhlenbach, Peiffesc  00645  00645                % 02985 AVL---
+200421006 Muhlenbach, Siwemuer  00646  00646                % 02985 AVL---
+200421003 Muhlenbach, Eecher S  00646  00646                % 02985 AVL---
+200410002 Eich, Ecole Eich      00647  00647                % 02985 AVL---
+200410003 Eich, Eecher Plaz     00648  00648                % 02985 AVL---
+200410001 Eich, Centre Culture  00649                       % 02985 AVL---
+*Z 02986 AVL---                                             % 02986 AVL---
+*L 21       200417023 200410001  02011  02049               % 02986 AVL---
+*A BE 200417023 200410001 000040  02011  02049              % 02986 AVL---
+*R 2 200410001 200417023 200410001  02011  02049            % 02986 AVL---
+*G ST  200417023 200410001  02011  02049                    % 02986 AVL---
+*A VE 200417023 200410001 000040  02011  02049              % 02986 AVL---
+200417023 Kirchberg, Luxexpo E         02011                % 02986 AVL---
+200417033 Kirchberg, Poutty St  02012  02012                % 02986 AVL---
+200417044 Kirchberg, Luxexpo Q  02013  02013                % 02986 AVL---
+200417015 Kirchberg, Hôpital    02015  02015                % 02986 AVL---
+200417004 Kirchberg, Alphonse   02016  02016                % 02986 AVL---
+200417036 Kirchberg, Réimerwee  02017  02017                % 02986 AVL---
+200417002 Kirchberg, Albert Bo  02018  02018                % 02986 AVL---
+200417013 Kirchberg, Coudenhov  02019  02019                % 02986 AVL---
+200417019 Kirchberg, Konrad Ad  02020  02020                % 02986 AVL---
+200417005 Kirchberg, Antoine d  02021  02021                % 02986 AVL---
+200417016 Kirchberg, Jean Monn  02022  02022                % 02986 AVL---
+200417007 Kirchberg, B.E.I.     02023  02023                % 02986 AVL---
+200417047 Kirchberg, Rout Bréc  02024  02024                % 02986 AVL---
+200405014 Centre, Fondation Pe  02027  02027                % 02986 AVL---
+200405020 Hamilius (Bus)        02030  02035                % 02986 AVL---
+200405045 Centre, Stäreplaz /   02039  02039                % 02986 AVL---
+200425005 Rollingergrund, Biis  02040  02040                % 02986 AVL---
+200425003 Rollingergrund, Bei   02040  02040                % 02986 AVL---
+200425004 Rollingergrund, Beim  02041  02041                % 02986 AVL---
+200425010 Rollingergrund, Val   02041  02041                % 02986 AVL---
+200425011 Rollingergrund, Val   02042  02042                % 02986 AVL---
+200425006 Rollingergrund, Roud  02043  02043                % 02986 AVL---
+200425012 Rollingergrund, Vill  02044  02044                % 02986 AVL---
+200421004 Muhlenbach, Peiffesc  02045  02045                % 02986 AVL---
+200421006 Muhlenbach, Siwemuer  02046  02046                % 02986 AVL---
+200421003 Muhlenbach, Eecher S  02046  02046                % 02986 AVL---
+200410002 Eich, Ecole Eich      02047  02047                % 02986 AVL---
+200410003 Eich, Eecher Plaz     02048  02048                % 02986 AVL---
+200410001 Eich, Centre Culture  02049                       % 02986 AVL---
+*Z 02987 AVL---                                             % 02987 AVL---
+*L 21       200417023 200410001  00511  00549               % 02987 AVL---
+*A BE 200417023 200410001 000034  00511  00549              % 02987 AVL---
+*R 2 200410001 200417023 200410001  00511  00549            % 02987 AVL---
+*G ST  200417023 200410001  00511  00549                    % 02987 AVL---
+*A VE 200417023 200410001 000034  00511  00549              % 02987 AVL---
+200417023 Kirchberg, Luxexpo E         00511                % 02987 AVL---
+200417033 Kirchberg, Poutty St  00512  00512                % 02987 AVL---
+200417044 Kirchberg, Luxexpo Q  00513  00513                % 02987 AVL---
+200417015 Kirchberg, Hôpital    00515  00515                % 02987 AVL---
+200417004 Kirchberg, Alphonse   00516  00516                % 02987 AVL---
+200417036 Kirchberg, Réimerwee  00517  00517                % 02987 AVL---
+200417002 Kirchberg, Albert Bo  00518  00518                % 02987 AVL---
+200417013 Kirchberg, Coudenhov  00519  00519                % 02987 AVL---
+200417019 Kirchberg, Konrad Ad  00520  00520                % 02987 AVL---
+200417005 Kirchberg, Antoine d  00521  00521                % 02987 AVL---
+200417016 Kirchberg, Jean Monn  00522  00522                % 02987 AVL---
+200417007 Kirchberg, B.E.I.     00523  00523                % 02987 AVL---
+200417047 Kirchberg, Rout Bréc  00524  00524                % 02987 AVL---
+200405014 Centre, Fondation Pe  00527  00527                % 02987 AVL---
+200405020 Hamilius (Bus)        00530  00535                % 02987 AVL---
+200405045 Centre, Stäreplaz /   00539  00539                % 02987 AVL---
+200425005 Rollingergrund, Biis  00540  00540                % 02987 AVL---
+200425003 Rollingergrund, Bei   00540  00540                % 02987 AVL---
+200425004 Rollingergrund, Beim  00541  00541                % 02987 AVL---
+200425010 Rollingergrund, Val   00541  00541                % 02987 AVL---
+200425011 Rollingergrund, Val   00542  00542                % 02987 AVL---
+200425006 Rollingergrund, Roud  00543  00543                % 02987 AVL---
+200425012 Rollingergrund, Vill  00544  00544                % 02987 AVL---
+200421004 Muhlenbach, Peiffesc  00545  00545                % 02987 AVL---
+200421006 Muhlenbach, Siwemuer  00546  00546                % 02987 AVL---
+200421003 Muhlenbach, Eecher S  00546  00546                % 02987 AVL---
+200410002 Eich, Ecole Eich      00547  00547                % 02987 AVL---
+200410003 Eich, Eecher Plaz     00548  00548                % 02987 AVL---
+200410001 Eich, Centre Culture  00549                       % 02987 AVL---
+*Z 02988 AVL---                                             % 02988 AVL---
+*L 21       200417023 200410001  02241  02319               % 02988 AVL---
+*A BE 200417023 200410001 000034  02241  02319              % 02988 AVL---
+*R 2 200410001 200417023 200410001  02241  02319            % 02988 AVL---
+*G ST  200417023 200410001  02241  02319                    % 02988 AVL---
+*A VE 200417023 200410001 000034  02241  02319              % 02988 AVL---
+200417023 Kirchberg, Luxexpo E         02241                % 02988 AVL---
+200417033 Kirchberg, Poutty St  02242  02242                % 02988 AVL---
+200417044 Kirchberg, Luxexpo Q  02243  02243                % 02988 AVL---
+200417015 Kirchberg, Hôpital    02245  02245                % 02988 AVL---
+200417004 Kirchberg, Alphonse   02246  02246                % 02988 AVL---
+200417036 Kirchberg, Réimerwee  02247  02247                % 02988 AVL---
+200417002 Kirchberg, Albert Bo  02248  02248                % 02988 AVL---
+200417013 Kirchberg, Coudenhov  02249  02249                % 02988 AVL---
+200417019 Kirchberg, Konrad Ad  02250  02250                % 02988 AVL---
+200417005 Kirchberg, Antoine d  02251  02251                % 02988 AVL---
+200417016 Kirchberg, Jean Monn  02252  02252                % 02988 AVL---
+200417007 Kirchberg, B.E.I.     02253  02253                % 02988 AVL---
+200417047 Kirchberg, Rout Bréc  02254  02254                % 02988 AVL---
+200405014 Centre, Fondation Pe  02257  02257                % 02988 AVL---
+200405020 Hamilius (Bus)        02300  02305                % 02988 AVL---
+200405045 Centre, Stäreplaz /   02309  02309                % 02988 AVL---
+200425005 Rollingergrund, Biis  02310  02310                % 02988 AVL---
+200425003 Rollingergrund, Bei   02310  02310                % 02988 AVL---
+200425004 Rollingergrund, Beim  02311  02311                % 02988 AVL---
+200425010 Rollingergrund, Val   02311  02311                % 02988 AVL---
+200425011 Rollingergrund, Val   02312  02312                % 02988 AVL---
+200425006 Rollingergrund, Roud  02313  02313                % 02988 AVL---
+200425012 Rollingergrund, Vill  02314  02314                % 02988 AVL---
+200421004 Muhlenbach, Peiffesc  02315  02315                % 02988 AVL---
+200421006 Muhlenbach, Siwemuer  02316  02316                % 02988 AVL---
+200421003 Muhlenbach, Eecher S  02316  02316                % 02988 AVL---
+200410002 Eich, Ecole Eich      02317  02317                % 02988 AVL---
+200410003 Eich, Eecher Plaz     02318  02318                % 02988 AVL---
+200410001 Eich, Centre Culture  02319                       % 02988 AVL---
+*Z 02989 AVL---       003 030                               % 02989 AVL---
+*L 21       200417023 200410001  02041  02119               % 02989 AVL---
+*A BE 200417023 200410001 000038  02041  02119              % 02989 AVL---
+*R 2 200410001 200417023 200410001  02041  02119            % 02989 AVL---
+*G ST  200417023 200410001  02041  02119                    % 02989 AVL---
+*A VE 200417023 200410001 000038  02041  02119              % 02989 AVL---
+200417023 Kirchberg, Luxexpo E         02041                % 02989 AVL---
+200417033 Kirchberg, Poutty St  02042  02042                % 02989 AVL---
+200417044 Kirchberg, Luxexpo Q  02043  02043                % 02989 AVL---
+200417015 Kirchberg, Hôpital    02045  02045                % 02989 AVL---
+200417004 Kirchberg, Alphonse   02046  02046                % 02989 AVL---
+200417036 Kirchberg, Réimerwee  02047  02047                % 02989 AVL---
+200417002 Kirchberg, Albert Bo  02048  02048                % 02989 AVL---
+200417013 Kirchberg, Coudenhov  02049  02049                % 02989 AVL---
+200417019 Kirchberg, Konrad Ad  02050  02050                % 02989 AVL---
+200417005 Kirchberg, Antoine d  02051  02051                % 02989 AVL---
+200417016 Kirchberg, Jean Monn  02052  02052                % 02989 AVL---
+200417007 Kirchberg, B.E.I.     02053  02053                % 02989 AVL---
+200417047 Kirchberg, Rout Bréc  02054  02054                % 02989 AVL---
+200405014 Centre, Fondation Pe  02057  02057                % 02989 AVL---
+200405020 Hamilius (Bus)        02100  02105                % 02989 AVL---
+200405045 Centre, Stäreplaz /   02109  02109                % 02989 AVL---
+200425005 Rollingergrund, Biis  02110  02110                % 02989 AVL---
+200425003 Rollingergrund, Bei   02110  02110                % 02989 AVL---
+200425004 Rollingergrund, Beim  02111  02111                % 02989 AVL---
+200425010 Rollingergrund, Val   02111  02111                % 02989 AVL---
+200425011 Rollingergrund, Val   02112  02112                % 02989 AVL---
+200425006 Rollingergrund, Roud  02113  02113                % 02989 AVL---
+200425012 Rollingergrund, Vill  02114  02114                % 02989 AVL---
+200421004 Muhlenbach, Peiffesc  02115  02115                % 02989 AVL---
+200421006 Muhlenbach, Siwemuer  02116  02116                % 02989 AVL---
+200421003 Muhlenbach, Eecher S  02116  02116                % 02989 AVL---
+200410002 Eich, Ecole Eich      02117  02117                % 02989 AVL---
+200410003 Eich, Eecher Plaz     02118  02118                % 02989 AVL---
+200410001 Eich, Centre Culture  02119                       % 02989 AVL---
+*Z 02990 AVL---       003 030                               % 02990 AVL---
+*L 21       200417023 200410001  00911  00949               % 02990 AVL---
+*A BE 200417023 200410001 000016  00911  00949              % 02990 AVL---
+*R 2 200410001 200417023 200410001  00911  00949            % 02990 AVL---
+*G ST  200417023 200410001  00911  00949                    % 02990 AVL---
+*A VE 200417023 200410001 000016  00911  00949              % 02990 AVL---
+200417023 Kirchberg, Luxexpo E         00911                % 02990 AVL---
+200417033 Kirchberg, Poutty St  00912  00912                % 02990 AVL---
+200417044 Kirchberg, Luxexpo Q  00913  00913                % 02990 AVL---
+200417015 Kirchberg, Hôpital    00915  00915                % 02990 AVL---
+200417004 Kirchberg, Alphonse   00916  00916                % 02990 AVL---
+200417036 Kirchberg, Réimerwee  00917  00917                % 02990 AVL---
+200417002 Kirchberg, Albert Bo  00918  00918                % 02990 AVL---
+200417013 Kirchberg, Coudenhov  00919  00919                % 02990 AVL---
+200417019 Kirchberg, Konrad Ad  00920  00920                % 02990 AVL---
+200417005 Kirchberg, Antoine d  00921  00921                % 02990 AVL---
+200417016 Kirchberg, Jean Monn  00922  00922                % 02990 AVL---
+200417007 Kirchberg, B.E.I.     00923  00923                % 02990 AVL---
+200417047 Kirchberg, Rout Bréc  00924  00924                % 02990 AVL---
+200405014 Centre, Fondation Pe  00927  00927                % 02990 AVL---
+200405020 Hamilius (Bus)        00930  00935                % 02990 AVL---
+200405045 Centre, Stäreplaz /   00939  00939                % 02990 AVL---
+200425005 Rollingergrund, Biis  00940  00940                % 02990 AVL---
+200425003 Rollingergrund, Bei   00940  00940                % 02990 AVL---
+200425004 Rollingergrund, Beim  00941  00941                % 02990 AVL---
+200425010 Rollingergrund, Val   00941  00941                % 02990 AVL---
+200425011 Rollingergrund, Val   00942  00942                % 02990 AVL---
+200425006 Rollingergrund, Roud  00943  00943                % 02990 AVL---
+200425012 Rollingergrund, Vill  00944  00944                % 02990 AVL---
+200421004 Muhlenbach, Peiffesc  00945  00945                % 02990 AVL---
+200421006 Muhlenbach, Siwemuer  00946  00946                % 02990 AVL---
+200421003 Muhlenbach, Eecher S  00946  00946                % 02990 AVL---
+200410002 Eich, Ecole Eich      00947  00947                % 02990 AVL---
+200410003 Eich, Eecher Plaz     00948  00948                % 02990 AVL---
+200410001 Eich, Centre Culture  00949                       % 02990 AVL---
+*Z 02991 AVL---                                             % 02991 AVL---
+*L 21       200417023 200410001  01941  02019               % 02991 AVL---
+*A BE 200417023 200410001 000016  01941  02019              % 02991 AVL---
+*R 2 200410001 200417023 200410001  01941  02019            % 02991 AVL---
+*G ST  200417023 200410001  01941  02019                    % 02991 AVL---
+*A VE 200417023 200410001 000016  01941  02019              % 02991 AVL---
+200417023 Kirchberg, Luxexpo E         01941                % 02991 AVL---
+200417033 Kirchberg, Poutty St  01942  01942                % 02991 AVL---
+200417044 Kirchberg, Luxexpo Q  01943  01943                % 02991 AVL---
+200417015 Kirchberg, Hôpital    01945  01945                % 02991 AVL---
+200417004 Kirchberg, Alphonse   01946  01946                % 02991 AVL---
+200417036 Kirchberg, Réimerwee  01947  01947                % 02991 AVL---
+200417002 Kirchberg, Albert Bo  01948  01948                % 02991 AVL---
+200417013 Kirchberg, Coudenhov  01949  01949                % 02991 AVL---
+200417019 Kirchberg, Konrad Ad  01950  01950                % 02991 AVL---
+200417005 Kirchberg, Antoine d  01951  01951                % 02991 AVL---
+200417016 Kirchberg, Jean Monn  01952  01952                % 02991 AVL---
+200417007 Kirchberg, B.E.I.     01953  01953                % 02991 AVL---
+200417047 Kirchberg, Rout Bréc  01954  01954                % 02991 AVL---
+200405014 Centre, Fondation Pe  01957  01957                % 02991 AVL---
+200405020 Hamilius (Bus)        02000  02005                % 02991 AVL---
+200405045 Centre, Stäreplaz /   02009  02009                % 02991 AVL---
+200425005 Rollingergrund, Biis  02010  02010                % 02991 AVL---
+200425003 Rollingergrund, Bei   02010  02010                % 02991 AVL---
+200425004 Rollingergrund, Beim  02011  02011                % 02991 AVL---
+200425010 Rollingergrund, Val   02011  02011                % 02991 AVL---
+200425011 Rollingergrund, Val   02012  02012                % 02991 AVL---
+200425006 Rollingergrund, Roud  02013  02013                % 02991 AVL---
+200425012 Rollingergrund, Vill  02014  02014                % 02991 AVL---
+200421004 Muhlenbach, Peiffesc  02015  02015                % 02991 AVL---
+200421006 Muhlenbach, Siwemuer  02016  02016                % 02991 AVL---
+200421003 Muhlenbach, Eecher S  02016  02016                % 02991 AVL---
+200410002 Eich, Ecole Eich      02017  02017                % 02991 AVL---
+200410003 Eich, Eecher Plaz     02018  02018                % 02991 AVL---
+200410001 Eich, Centre Culture  02019                       % 02991 AVL---
+*Z 02992 AVL---                                             % 02992 AVL---
+*L 21       200417023 200410001  01952  02025               % 02992 AVL---
+*A BE 200417023 200410001 000017  01952  02025              % 02992 AVL---
+*R 2 200410001 200417023 200410001  01952  02025            % 02992 AVL---
+*G ST  200417023 200410001  01952  02025                    % 02992 AVL---
+*A VE 200417023 200410001 000017  01952  02025              % 02992 AVL---
+200417023 Kirchberg, Luxexpo E         01952                % 02992 AVL---
+200417033 Kirchberg, Poutty St  01953  01953                % 02992 AVL---
+200417044 Kirchberg, Luxexpo Q  01954  01954                % 02992 AVL---
+200417015 Kirchberg, Hôpital    01956  01956                % 02992 AVL---
+200417004 Kirchberg, Alphonse   01957  01957                % 02992 AVL---
+200417036 Kirchberg, Réimerwee  01958  01958                % 02992 AVL---
+200417002 Kirchberg, Albert Bo  01959  01959                % 02992 AVL---
+200417013 Kirchberg, Coudenhov  02000  02000                % 02992 AVL---
+200417019 Kirchberg, Konrad Ad  02001  02001                % 02992 AVL---
+200417005 Kirchberg, Antoine d  02002  02002                % 02992 AVL---
+200417016 Kirchberg, Jean Monn  02003  02003                % 02992 AVL---
+200417007 Kirchberg, B.E.I.     02004  02004                % 02992 AVL---
+200417047 Kirchberg, Rout Bréc  02005  02005                % 02992 AVL---
+200405014 Centre, Fondation Pe  02008  02008                % 02992 AVL---
+200405020 Hamilius (Bus)        02011  02011                % 02992 AVL---
+200405045 Centre, Stäreplaz /   02015  02015                % 02992 AVL---
+200425005 Rollingergrund, Biis  02016  02016                % 02992 AVL---
+200425003 Rollingergrund, Bei   02016  02016                % 02992 AVL---
+200425004 Rollingergrund, Beim  02017  02017                % 02992 AVL---
+200425010 Rollingergrund, Val   02017  02017                % 02992 AVL---
+200425011 Rollingergrund, Val   02018  02018                % 02992 AVL---
+200425006 Rollingergrund, Roud  02019  02019                % 02992 AVL---
+200425012 Rollingergrund, Vill  02020  02020                % 02992 AVL---
+200421004 Muhlenbach, Peiffesc  02021  02021                % 02992 AVL---
+200421006 Muhlenbach, Siwemuer  02022  02022                % 02992 AVL---
+200421003 Muhlenbach, Eecher S  02022  02022                % 02992 AVL---
+200410002 Eich, Ecole Eich      02023  02023                % 02992 AVL---
+200410003 Eich, Eecher Plaz     02024  02024                % 02992 AVL---
+200410001 Eich, Centre Culture  02025                       % 02992 AVL---
+*Z 02993 AVL---       001 015                               % 02993 AVL---
+*L 21       200417023 200410001  01942  02015               % 02993 AVL---
+*A BE 200417023 200410001 000034  01942  02015              % 02993 AVL---
+*R 2 200410001 200417023 200410001  01942  02015            % 02993 AVL---
+*G GE  200417023 200410001  01942  02015                    % 02993 AVL---
+*A VE 200417023 200410001 000034  01942  02015              % 02993 AVL---
+200417023 Kirchberg, Luxexpo E         01942                % 02993 AVL---
+200417033 Kirchberg, Poutty St  01943  01943                % 02993 AVL---
+200417044 Kirchberg, Luxexpo Q  01944  01944                % 02993 AVL---
+200417015 Kirchberg, Hôpital    01946  01946                % 02993 AVL---
+200417004 Kirchberg, Alphonse   01947  01947                % 02993 AVL---
+200417036 Kirchberg, Réimerwee  01948  01948                % 02993 AVL---
+200417002 Kirchberg, Albert Bo  01949  01949                % 02993 AVL---
+200417013 Kirchberg, Coudenhov  01950  01950                % 02993 AVL---
+200417019 Kirchberg, Konrad Ad  01951  01951                % 02993 AVL---
+200417005 Kirchberg, Antoine d  01952  01952                % 02993 AVL---
+200417016 Kirchberg, Jean Monn  01953  01953                % 02993 AVL---
+200417007 Kirchberg, B.E.I.     01954  01954                % 02993 AVL---
+200417047 Kirchberg, Rout Bréc  01955  01955                % 02993 AVL---
+200405014 Centre, Fondation Pe  01958  01958                % 02993 AVL---
+200405020 Hamilius (Bus)        02001  02001                % 02993 AVL---
+200405045 Centre, Stäreplaz /   02005  02005                % 02993 AVL---
+200425005 Rollingergrund, Biis  02006  02006                % 02993 AVL---
+200425003 Rollingergrund, Bei   02006  02006                % 02993 AVL---
+200425004 Rollingergrund, Beim  02007  02007                % 02993 AVL---
+200425010 Rollingergrund, Val   02007  02007                % 02993 AVL---
+200425011 Rollingergrund, Val   02008  02008                % 02993 AVL---
+200425006 Rollingergrund, Roud  02009  02009                % 02993 AVL---
+200425012 Rollingergrund, Vill  02010  02010                % 02993 AVL---
+200421004 Muhlenbach, Peiffesc  02011  02011                % 02993 AVL---
+200421006 Muhlenbach, Siwemuer  02012  02012                % 02993 AVL---
+200421003 Muhlenbach, Eecher S  02012  02012                % 02993 AVL---
+200410002 Eich, Ecole Eich      02013  02013                % 02993 AVL---
+200410003 Eich, Eecher Plaz     02014  02014                % 02993 AVL---
+200410001 Eich, Centre Culture  02015                       % 02993 AVL---
+*Z 02994 AVL---                                             % 02994 AVL---
+*L 21       200417023 200410001  00531  00604               % 02994 AVL---
+*A BE 200417023 200410001 000034  00531  00604              % 02994 AVL---
+*R 2 200410001 200417023 200410001  00531  00604            % 02994 AVL---
+*G ST  200417023 200410001  00531  00604                    % 02994 AVL---
+*A VE 200417023 200410001 000034  00531  00604              % 02994 AVL---
+200417023 Kirchberg, Luxexpo E         00531                % 02994 AVL---
+200417033 Kirchberg, Poutty St  00532  00532                % 02994 AVL---
+200417044 Kirchberg, Luxexpo Q  00533  00533                % 02994 AVL---
+200417015 Kirchberg, Hôpital    00535  00535                % 02994 AVL---
+200417004 Kirchberg, Alphonse   00536  00536                % 02994 AVL---
+200417036 Kirchberg, Réimerwee  00537  00537                % 02994 AVL---
+200417002 Kirchberg, Albert Bo  00538  00538                % 02994 AVL---
+200417013 Kirchberg, Coudenhov  00539  00539                % 02994 AVL---
+200417019 Kirchberg, Konrad Ad  00540  00540                % 02994 AVL---
+200417005 Kirchberg, Antoine d  00541  00541                % 02994 AVL---
+200417016 Kirchberg, Jean Monn  00542  00542                % 02994 AVL---
+200417007 Kirchberg, B.E.I.     00543  00543                % 02994 AVL---
+200417047 Kirchberg, Rout Bréc  00544  00544                % 02994 AVL---
+200405014 Centre, Fondation Pe  00547  00547                % 02994 AVL---
+200405020 Hamilius (Bus)        00550  00550                % 02994 AVL---
+200405045 Centre, Stäreplaz /   00554  00554                % 02994 AVL---
+200425005 Rollingergrund, Biis  00555  00555                % 02994 AVL---
+200425003 Rollingergrund, Bei   00555  00555                % 02994 AVL---
+200425004 Rollingergrund, Beim  00556  00556                % 02994 AVL---
+200425010 Rollingergrund, Val   00556  00556                % 02994 AVL---
+200425011 Rollingergrund, Val   00557  00557                % 02994 AVL---
+200425006 Rollingergrund, Roud  00558  00558                % 02994 AVL---
+200425012 Rollingergrund, Vill  00559  00559                % 02994 AVL---
+200421004 Muhlenbach, Peiffesc  00600  00600                % 02994 AVL---
+200421006 Muhlenbach, Siwemuer  00601  00601                % 02994 AVL---
+200421003 Muhlenbach, Eecher S  00601  00601                % 02994 AVL---
+200410002 Eich, Ecole Eich      00602  00602                % 02994 AVL---
+200410003 Eich, Eecher Plaz     00603  00603                % 02994 AVL---
+200410001 Eich, Centre Culture  00604                       % 02994 AVL---
+*Z 02995 AVL---       054 015                               % 02995 AVL---
+*L 21       200417023 200410001  00551  00633               % 02995 AVL---
+*A BE 200417023 200410001 000034  00551  00633              % 02995 AVL---
+*R 2 200410001 200417023 200410001  00551  00633            % 02995 AVL---
+*G GE  200417023 200410001  00551  00633                    % 02995 AVL---
+*A VE 200417023 200410001 000034  00551  00633              % 02995 AVL---
+200417023 Kirchberg, Luxexpo E         00551                % 02995 AVL---
+200417033 Kirchberg, Poutty St  00552  00552                % 02995 AVL---
+200417044 Kirchberg, Luxexpo Q  00554  00554                % 02995 AVL---
+200417015 Kirchberg, Hôpital    00556  00556                % 02995 AVL---
+200417004 Kirchberg, Alphonse   00558  00558                % 02995 AVL---
+200417036 Kirchberg, Réimerwee  00559  00559                % 02995 AVL---
+200417002 Kirchberg, Albert Bo  00601  00601                % 02995 AVL---
+200417013 Kirchberg, Coudenhov  00602  00602                % 02995 AVL---
+200417019 Kirchberg, Konrad Ad  00603  00603                % 02995 AVL---
+200417005 Kirchberg, Antoine d  00604  00604                % 02995 AVL---
+200417016 Kirchberg, Jean Monn  00605  00605                % 02995 AVL---
+200417007 Kirchberg, B.E.I.     00607  00607                % 02995 AVL---
+200417047 Kirchberg, Rout Bréc  00609  00609                % 02995 AVL---
+200405014 Centre, Fondation Pe  00611  00611                % 02995 AVL---
+200405020 Hamilius (Bus)        00616  00616                % 02995 AVL---
+200405045 Centre, Stäreplaz /   00620  00620                % 02995 AVL---
+200425005 Rollingergrund, Biis  00621  00621                % 02995 AVL---
+200425003 Rollingergrund, Bei   00622  00622                % 02995 AVL---
+200425004 Rollingergrund, Beim  00623  00623                % 02995 AVL---
+200425010 Rollingergrund, Val   00623  00623                % 02995 AVL---
+200425011 Rollingergrund, Val   00624  00624                % 02995 AVL---
+200425006 Rollingergrund, Roud  00625  00625                % 02995 AVL---
+200425012 Rollingergrund, Vill  00626  00626                % 02995 AVL---
+200421004 Muhlenbach, Peiffesc  00627  00627                % 02995 AVL---
+200421006 Muhlenbach, Siwemuer  00628  00628                % 02995 AVL---
+200421003 Muhlenbach, Eecher S  00629  00629                % 02995 AVL---
+200410002 Eich, Ecole Eich      00630  00630                % 02995 AVL---
+200410003 Eich, Eecher Plaz     00632  00632                % 02995 AVL---
+200410001 Eich, Centre Culture  00633                       % 02995 AVL---
+*Z 02996 AVL---       036 020                               % 02996 AVL---
+*L 21       200417023 200410001  00730  00806               % 02996 AVL---
+*A BE 200417023 200410001 000017  00730  00806              % 02996 AVL---
+*R 2 200410001 200417023 200410001  00730  00806            % 02996 AVL---
+*G ST  200417023 200410001  00730  00806                    % 02996 AVL---
+*A VE 200417023 200410001 000017  00730  00806              % 02996 AVL---
+200417023 Kirchberg, Luxexpo E         00730                % 02996 AVL---
+200417033 Kirchberg, Poutty St  00731  00731                % 02996 AVL---
+200417044 Kirchberg, Luxexpo Q  00733  00733                % 02996 AVL---
+200417015 Kirchberg, Hôpital    00734  00734                % 02996 AVL---
+200417004 Kirchberg, Alphonse   00736  00736                % 02996 AVL---
+200417036 Kirchberg, Réimerwee  00737  00737                % 02996 AVL---
+200417002 Kirchberg, Albert Bo  00738  00738                % 02996 AVL---
+200417013 Kirchberg, Coudenhov  00739  00739                % 02996 AVL---
+200417019 Kirchberg, Konrad Ad  00740  00740                % 02996 AVL---
+200417005 Kirchberg, Antoine d  00740  00740                % 02996 AVL---
+200417016 Kirchberg, Jean Monn  00741  00741                % 02996 AVL---
+200417007 Kirchberg, B.E.I.     00743  00743                % 02996 AVL---
+200417047 Kirchberg, Rout Bréc  00744  00744                % 02996 AVL---
+200405014 Centre, Fondation Pe  00747  00747                % 02996 AVL---
+200405020 Hamilius (Bus)        00751  00751                % 02996 AVL---
+200405045 Centre, Stäreplaz /   00755  00755                % 02996 AVL---
+200425005 Rollingergrund, Biis  00756  00756                % 02996 AVL---
+200425003 Rollingergrund, Bei   00756  00756                % 02996 AVL---
+200425004 Rollingergrund, Beim  00757  00757                % 02996 AVL---
+200425010 Rollingergrund, Val   00758  00758                % 02996 AVL---
+200425011 Rollingergrund, Val   00759  00759                % 02996 AVL---
+200425006 Rollingergrund, Roud  00800  00800                % 02996 AVL---
+200425012 Rollingergrund, Vill  00800  00800                % 02996 AVL---
+200421004 Muhlenbach, Peiffesc  00801  00801                % 02996 AVL---
+200421006 Muhlenbach, Siwemuer  00802  00802                % 02996 AVL---
+200421003 Muhlenbach, Eecher S  00803  00803                % 02996 AVL---
+200410002 Eich, Ecole Eich      00804  00804                % 02996 AVL---
+200410003 Eich, Eecher Plaz     00805  00805                % 02996 AVL---
+200410001 Eich, Centre Culture  00806                       % 02996 AVL---
+*Z 02997 AVL---       016 030                               % 02997 AVL---
+*L 21       200417023 200410001  01109  01150               % 02997 AVL---
+*A BE 200417023 200410001 000016  01109  01150              % 02997 AVL---
+*R 2 200410001 200417023 200410001  01109  01150            % 02997 AVL---
+*G ST  200417023 200410001  01109  01150                    % 02997 AVL---
+*A VE 200417023 200410001 000016  01109  01150              % 02997 AVL---
+200417023 Kirchberg, Luxexpo E         01109                % 02997 AVL---
+200417033 Kirchberg, Poutty St  01110  01110                % 02997 AVL---
+200417044 Kirchberg, Luxexpo Q  01112  01112                % 02997 AVL---
+200417015 Kirchberg, Hôpital    01113  01113                % 02997 AVL---
+200417004 Kirchberg, Alphonse   01115  01115                % 02997 AVL---
+200417036 Kirchberg, Réimerwee  01116  01116                % 02997 AVL---
+200417002 Kirchberg, Albert Bo  01117  01117                % 02997 AVL---
+200417013 Kirchberg, Coudenhov  01118  01118                % 02997 AVL---
+200417019 Kirchberg, Konrad Ad  01119  01119                % 02997 AVL---
+200417005 Kirchberg, Antoine d  01119  01119                % 02997 AVL---
+200417016 Kirchberg, Jean Monn  01120  01120                % 02997 AVL---
+200417007 Kirchberg, B.E.I.     01122  01122                % 02997 AVL---
+200417047 Kirchberg, Rout Bréc  01123  01123                % 02997 AVL---
+200405014 Centre, Fondation Pe  01126  01126                % 02997 AVL---
+200405020 Hamilius (Bus)        01130  01135                % 02997 AVL---
+200405045 Centre, Stäreplaz /   01139  01139                % 02997 AVL---
+200425005 Rollingergrund, Biis  01140  01140                % 02997 AVL---
+200425003 Rollingergrund, Bei   01140  01140                % 02997 AVL---
+200425004 Rollingergrund, Beim  01141  01141                % 02997 AVL---
+200425010 Rollingergrund, Val   01142  01142                % 02997 AVL---
+200425011 Rollingergrund, Val   01143  01143                % 02997 AVL---
+200425006 Rollingergrund, Roud  01144  01144                % 02997 AVL---
+200425012 Rollingergrund, Vill  01144  01144                % 02997 AVL---
+200421004 Muhlenbach, Peiffesc  01145  01145                % 02997 AVL---
+200421006 Muhlenbach, Siwemuer  01146  01146                % 02997 AVL---
+200421003 Muhlenbach, Eecher S  01147  01147                % 02997 AVL---
+200410002 Eich, Ecole Eich      01148  01148                % 02997 AVL---
+200410003 Eich, Eecher Plaz     01149  01149                % 02997 AVL---
+200410001 Eich, Centre Culture  01150                       % 02997 AVL---
+*Z 02998 AVL---                                             % 02998 AVL---
+*L 21       200405020 200410001  00605  00619               % 02998 AVL---
+*A BE 200405020 200410001 000040  00605  00619              % 02998 AVL---
+*R 2 200410001 200405020 200410001  00605  00619            % 02998 AVL---
+*G ST  200405020 200410001  00605  00619                    % 02998 AVL---
+*A VE 200405020 200410001 000040  00605  00619              % 02998 AVL---
+200405020 Hamilius (Bus)               00605                % 02998 AVL---
+200405045 Centre, Stäreplaz /   00609  00609                % 02998 AVL---
+200425005 Rollingergrund, Biis  00610  00610                % 02998 AVL---
+200425003 Rollingergrund, Bei   00610  00610                % 02998 AVL---
+200425004 Rollingergrund, Beim  00611  00611                % 02998 AVL---
+200425010 Rollingergrund, Val   00611  00611                % 02998 AVL---
+200425011 Rollingergrund, Val   00612  00612                % 02998 AVL---
+200425006 Rollingergrund, Roud  00613  00613                % 02998 AVL---
+200425012 Rollingergrund, Vill  00614  00614                % 02998 AVL---
+200421004 Muhlenbach, Peiffesc  00615  00615                % 02998 AVL---
+200421006 Muhlenbach, Siwemuer  00616  00616                % 02998 AVL---
+200421003 Muhlenbach, Eecher S  00616  00616                % 02998 AVL---
+200410002 Eich, Ecole Eich      00617  00617                % 02998 AVL---
+200410003 Eich, Eecher Plaz     00618  00618                % 02998 AVL---
+200410001 Eich, Centre Culture  00619                       % 02998 AVL---
+*Z 02999 AVL---       001 030                               % 02999 AVL---
+*L 21       200405020 200410001  02335  02349               % 02999 AVL---
+*A BE 200405020 200410001 000040  02335  02349              % 02999 AVL---
+*R 2 200410001 200405020 200410001  02335  02349            % 02999 AVL---
+*G ST  200405020 200410001  02335  02349                    % 02999 AVL---
+*A VE 200405020 200410001 000040  02335  02349              % 02999 AVL---
+200405020 Hamilius (Bus)               02335                % 02999 AVL---
+200405045 Centre, Stäreplaz /   02339  02339                % 02999 AVL---
+200425005 Rollingergrund, Biis  02340  02340                % 02999 AVL---
+200425003 Rollingergrund, Bei   02340  02340                % 02999 AVL---
+200425004 Rollingergrund, Beim  02341  02341                % 02999 AVL---
+200425010 Rollingergrund, Val   02341  02341                % 02999 AVL---
+200425011 Rollingergrund, Val   02342  02342                % 02999 AVL---
+200425006 Rollingergrund, Roud  02343  02343                % 02999 AVL---
+200425012 Rollingergrund, Vill  02344  02344                % 02999 AVL---
+200421004 Muhlenbach, Peiffesc  02345  02345                % 02999 AVL---
+200421006 Muhlenbach, Siwemuer  02346  02346                % 02999 AVL---
+200421003 Muhlenbach, Eecher S  02346  02346                % 02999 AVL---
+200410002 Eich, Ecole Eich      02347  02347                % 02999 AVL---
+200410003 Eich, Eecher Plaz     02348  02348                % 02999 AVL---
+200410001 Eich, Centre Culture  02349                       % 02999 AVL---
+*Z 03000 AVL---       005 030                               % 03000 AVL---
+*L 21       200405020 200410001  00635  00649               % 03000 AVL---
+*A BE 200405020 200410001 000016  00635  00649              % 03000 AVL---
+*R 2 200410001 200405020 200410001  00635  00649            % 03000 AVL---
+*G ST  200405020 200410001  00635  00649                    % 03000 AVL---
+*A VE 200405020 200410001 000016  00635  00649              % 03000 AVL---
+200405020 Hamilius (Bus)               00635                % 03000 AVL---
+200405045 Centre, Stäreplaz /   00639  00639                % 03000 AVL---
+200425005 Rollingergrund, Biis  00640  00640                % 03000 AVL---
+200425003 Rollingergrund, Bei   00640  00640                % 03000 AVL---
+200425004 Rollingergrund, Beim  00641  00641                % 03000 AVL---
+200425010 Rollingergrund, Val   00641  00641                % 03000 AVL---
+200425011 Rollingergrund, Val   00642  00642                % 03000 AVL---
+200425006 Rollingergrund, Roud  00643  00643                % 03000 AVL---
+200425012 Rollingergrund, Vill  00644  00644                % 03000 AVL---
+200421004 Muhlenbach, Peiffesc  00645  00645                % 03000 AVL---
+200421006 Muhlenbach, Siwemuer  00646  00646                % 03000 AVL---
+200421003 Muhlenbach, Eecher S  00646  00646                % 03000 AVL---
+200410002 Eich, Ecole Eich      00647  00647                % 03000 AVL---
+200410003 Eich, Eecher Plaz     00648  00648                % 03000 AVL---
+200410001 Eich, Centre Culture  00649                       % 03000 AVL---
+*Z 03001 AVL---       003 030                               % 03001 AVL---
+*L 21       200405020 200410001  02105  02119               % 03001 AVL---
+*A BE 200405020 200410001 000016  02105  02119              % 03001 AVL---
+*R 2 200410001 200405020 200410001  02105  02119            % 03001 AVL---
+*G ST  200405020 200410001  02105  02119                    % 03001 AVL---
+*A VE 200405020 200410001 000016  02105  02119              % 03001 AVL---
+200405020 Hamilius (Bus)               02105                % 03001 AVL---
+200405045 Centre, Stäreplaz /   02109  02109                % 03001 AVL---
+200425005 Rollingergrund, Biis  02110  02110                % 03001 AVL---
+200425003 Rollingergrund, Bei   02110  02110                % 03001 AVL---
+200425004 Rollingergrund, Beim  02111  02111                % 03001 AVL---
+200425010 Rollingergrund, Val   02111  02111                % 03001 AVL---
+200425011 Rollingergrund, Val   02112  02112                % 03001 AVL---
+200425006 Rollingergrund, Roud  02113  02113                % 03001 AVL---
+200425012 Rollingergrund, Vill  02114  02114                % 03001 AVL---
+200421004 Muhlenbach, Peiffesc  02115  02115                % 03001 AVL---
+200421006 Muhlenbach, Siwemuer  02116  02116                % 03001 AVL---
+200421003 Muhlenbach, Eecher S  02116  02116                % 03001 AVL---
+200410002 Eich, Ecole Eich      02117  02117                % 03001 AVL---
+200410003 Eich, Eecher Plaz     02118  02118                % 03001 AVL---
+200410001 Eich, Centre Culture  02119                       % 03001 AVL---
+*Z 03002 AVL---                                             % 03002 AVL---
+*L 21       200405020 200410001  00535  00549               % 03002 AVL---
+*A BE 200405020 200410001 000037  00535  00549              % 03002 AVL---
+*R 2 200410001 200405020 200410001  00535  00549            % 03002 AVL---
+*G ST  200405020 200410001  00535  00549                    % 03002 AVL---
+*A VE 200405020 200410001 000037  00535  00549              % 03002 AVL---
+200405020 Hamilius (Bus)               00535                % 03002 AVL---
+200405045 Centre, Stäreplaz /   00539  00539                % 03002 AVL---
+200425005 Rollingergrund, Biis  00540  00540                % 03002 AVL---
+200425003 Rollingergrund, Bei   00540  00540                % 03002 AVL---
+200425004 Rollingergrund, Beim  00541  00541                % 03002 AVL---
+200425010 Rollingergrund, Val   00541  00541                % 03002 AVL---
+200425011 Rollingergrund, Val   00542  00542                % 03002 AVL---
+200425006 Rollingergrund, Roud  00543  00543                % 03002 AVL---
+200425012 Rollingergrund, Vill  00544  00544                % 03002 AVL---
+200421004 Muhlenbach, Peiffesc  00545  00545                % 03002 AVL---
+200421006 Muhlenbach, Siwemuer  00546  00546                % 03002 AVL---
+200421003 Muhlenbach, Eecher S  00546  00546                % 03002 AVL---
+200410002 Eich, Ecole Eich      00547  00547                % 03002 AVL---
+200410003 Eich, Eecher Plaz     00548  00548                % 03002 AVL---
+200410001 Eich, Centre Culture  00549                       % 03002 AVL---
+*Z 03003 AVL---                                             % 03003 AVL---
+*L 21       200405020 200410001  02305  02319               % 03003 AVL---
+*A BE 200405020 200410001 000037  02305  02319              % 03003 AVL---
+*R 2 200410001 200405020 200410001  02305  02319            % 03003 AVL---
+*G ST  200405020 200410001  02305  02319                    % 03003 AVL---
+*A VE 200405020 200410001 000037  02305  02319              % 03003 AVL---
+200405020 Hamilius (Bus)               02305                % 03003 AVL---
+200405045 Centre, Stäreplaz /   02309  02309                % 03003 AVL---
+200425005 Rollingergrund, Biis  02310  02310                % 03003 AVL---
+200425003 Rollingergrund, Bei   02310  02310                % 03003 AVL---
+200425004 Rollingergrund, Beim  02311  02311                % 03003 AVL---
+200425010 Rollingergrund, Val   02311  02311                % 03003 AVL---
+200425011 Rollingergrund, Val   02312  02312                % 03003 AVL---
+200425006 Rollingergrund, Roud  02313  02313                % 03003 AVL---
+200425012 Rollingergrund, Vill  02314  02314                % 03003 AVL---
+200421004 Muhlenbach, Peiffesc  02315  02315                % 03003 AVL---
+200421006 Muhlenbach, Siwemuer  02316  02316                % 03003 AVL---
+200421003 Muhlenbach, Eecher S  02316  02316                % 03003 AVL---
+200410002 Eich, Ecole Eich      02317  02317                % 03003 AVL---
+200410003 Eich, Eecher Plaz     02318  02318                % 03003 AVL---
+200410001 Eich, Centre Culture  02319                       % 03003 AVL---
+*Z 03004 AVL---       001 030                               % 03004 AVL---
+*L 21       200410001 200405025  02317  02330               % 03004 AVL---
+*A BE 200410001 200405025 000039  02317  02330              % 03004 AVL---
+*R 1 200405025 200410001 200405025  02317  02330            % 03004 AVL---
+*G ST  200410001 200405025  02317  02330                    % 03004 AVL---
+*A VE 200410001 200405025 000039  02317  02330              % 03004 AVL---
+200410001 Eich, Centre Culture         02317                % 03004 AVL---
+200410003 Eich, Eecher Plaz     02319  02319                % 03004 AVL---
+200421003 Muhlenbach, Eecher S  02320  02320                % 03004 AVL---
+200421006 Muhlenbach, Siwemuer  02321  02321                % 03004 AVL---
+200421004 Muhlenbach, Peiffesc  02321  02321                % 03004 AVL---
+200425012 Rollingergrund, Vill  02322  02322                % 03004 AVL---
+200425006 Rollingergrund, Roud  02323  02323                % 03004 AVL---
+200425011 Rollingergrund, Val   02324  02324                % 03004 AVL---
+200425010 Rollingergrund, Val   02325  02325                % 03004 AVL---
+200425004 Rollingergrund, Beim  02325  02325                % 03004 AVL---
+200425003 Rollingergrund, Bei   02326  02326                % 03004 AVL---
+200425005 Rollingergrund, Biis  02326  02326                % 03004 AVL---
+200405045 Centre, Stäreplaz /   02327  02327                % 03004 AVL---
+200403020 Belair, Wampach       02329  02329                % 03004 AVL---
+200405025 Luxembourg/Centre, M  02330                       % 03004 AVL---
+*Z 03005 AVL---       005 030                               % 03005 AVL---
+*L 21       200410001 200405025  00617  00630               % 03005 AVL---
+*A BE 200410001 200405025 000018  00617  00630              % 03005 AVL---
+*R 1 200405025 200410001 200405025  00617  00630            % 03005 AVL---
+*G ST  200410001 200405025  00617  00630                    % 03005 AVL---
+*A VE 200410001 200405025 000018  00617  00630              % 03005 AVL---
+200410001 Eich, Centre Culture         00617                % 03005 AVL---
+200410003 Eich, Eecher Plaz     00619  00619                % 03005 AVL---
+200421003 Muhlenbach, Eecher S  00620  00620                % 03005 AVL---
+200421006 Muhlenbach, Siwemuer  00621  00621                % 03005 AVL---
+200421004 Muhlenbach, Peiffesc  00621  00621                % 03005 AVL---
+200425012 Rollingergrund, Vill  00622  00622                % 03005 AVL---
+200425006 Rollingergrund, Roud  00623  00623                % 03005 AVL---
+200425011 Rollingergrund, Val   00624  00624                % 03005 AVL---
+200425010 Rollingergrund, Val   00625  00625                % 03005 AVL---
+200425004 Rollingergrund, Beim  00625  00625                % 03005 AVL---
+200425003 Rollingergrund, Bei   00626  00626                % 03005 AVL---
+200425005 Rollingergrund, Biis  00626  00626                % 03005 AVL---
+200405045 Centre, Stäreplaz /   00627  00627                % 03005 AVL---
+200403020 Belair, Wampach       00629  00629                % 03005 AVL---
+200405025 Luxembourg/Centre, M  00630                       % 03005 AVL---
+*Z 03006 AVL---       002 030                               % 03006 AVL---
+*L 21       200410001 200405025  02047  02100               % 03006 AVL---
+*A BE 200410001 200405025 000018  02047  02100              % 03006 AVL---
+*R 1 200405025 200410001 200405025  02047  02100            % 03006 AVL---
+*G ST  200410001 200405025  02047  02100                    % 03006 AVL---
+*A VE 200410001 200405025 000018  02047  02100              % 03006 AVL---
+200410001 Eich, Centre Culture         02047                % 03006 AVL---
+200410003 Eich, Eecher Plaz     02049  02049                % 03006 AVL---
+200421003 Muhlenbach, Eecher S  02050  02050                % 03006 AVL---
+200421006 Muhlenbach, Siwemuer  02051  02051                % 03006 AVL---
+200421004 Muhlenbach, Peiffesc  02051  02051                % 03006 AVL---
+200425012 Rollingergrund, Vill  02052  02052                % 03006 AVL---
+200425006 Rollingergrund, Roud  02053  02053                % 03006 AVL---
+200425011 Rollingergrund, Val   02054  02054                % 03006 AVL---
+200425010 Rollingergrund, Val   02055  02055                % 03006 AVL---
+200425004 Rollingergrund, Beim  02055  02055                % 03006 AVL---
+200425003 Rollingergrund, Bei   02056  02056                % 03006 AVL---
+200425005 Rollingergrund, Biis  02056  02056                % 03006 AVL---
+200405045 Centre, Stäreplaz /   02057  02057                % 03006 AVL---
+200403020 Belair, Wampach       02059  02059                % 03006 AVL---
+200405025 Luxembourg/Centre, M  02100                       % 03006 AVL---
+*Z 03007 AVL---       001 030                               % 03007 AVL---
+*L 21       200410001 200405025  00517  00530               % 03007 AVL---
+*A BE 200410001 200405025 000035  00517  00530              % 03007 AVL---
+*R 1 200405025 200410001 200405025  00517  00530            % 03007 AVL---
+*G ST  200410001 200405025  00517  00530                    % 03007 AVL---
+*A VE 200410001 200405025 000035  00517  00530              % 03007 AVL---
+200410001 Eich, Centre Culture         00517                % 03007 AVL---
+200410003 Eich, Eecher Plaz     00519  00519                % 03007 AVL---
+200421003 Muhlenbach, Eecher S  00520  00520                % 03007 AVL---
+200421006 Muhlenbach, Siwemuer  00521  00521                % 03007 AVL---
+200421004 Muhlenbach, Peiffesc  00521  00521                % 03007 AVL---
+200425012 Rollingergrund, Vill  00522  00522                % 03007 AVL---
+200425006 Rollingergrund, Roud  00523  00523                % 03007 AVL---
+200425011 Rollingergrund, Val   00524  00524                % 03007 AVL---
+200425010 Rollingergrund, Val   00525  00525                % 03007 AVL---
+200425004 Rollingergrund, Beim  00525  00525                % 03007 AVL---
+200425003 Rollingergrund, Bei   00526  00526                % 03007 AVL---
+200425005 Rollingergrund, Biis  00526  00526                % 03007 AVL---
+200405045 Centre, Stäreplaz /   00527  00527                % 03007 AVL---
+200403020 Belair, Wampach       00529  00529                % 03007 AVL---
+200405025 Luxembourg/Centre, M  00530                       % 03007 AVL---
+*Z 03008 AVL---       001 030                               % 03008 AVL---
+*L 21       200410001 200405025  02217  02230               % 03008 AVL---
+*A BE 200410001 200405025 000035  02217  02230              % 03008 AVL---
+*R 1 200405025 200410001 200405025  02217  02230            % 03008 AVL---
+*G ST  200410001 200405025  02217  02230                    % 03008 AVL---
+*A VE 200410001 200405025 000035  02217  02230              % 03008 AVL---
+200410001 Eich, Centre Culture         02217                % 03008 AVL---
+200410003 Eich, Eecher Plaz     02219  02219                % 03008 AVL---
+200421003 Muhlenbach, Eecher S  02220  02220                % 03008 AVL---
+200421006 Muhlenbach, Siwemuer  02221  02221                % 03008 AVL---
+200421004 Muhlenbach, Peiffesc  02221  02221                % 03008 AVL---
+200425012 Rollingergrund, Vill  02222  02222                % 03008 AVL---
+200425006 Rollingergrund, Roud  02223  02223                % 03008 AVL---
+200425011 Rollingergrund, Val   02224  02224                % 03008 AVL---
+200425010 Rollingergrund, Val   02225  02225                % 03008 AVL---
+200425004 Rollingergrund, Beim  02225  02225                % 03008 AVL---
+200425003 Rollingergrund, Bei   02226  02226                % 03008 AVL---
+200425005 Rollingergrund, Biis  02226  02226                % 03008 AVL---
+200405045 Centre, Stäreplaz /   02227  02227                % 03008 AVL---
+200403020 Belair, Wampach       02229  02229                % 03008 AVL---
+200405025 Luxembourg/Centre, M  02230                       % 03008 AVL---
+*Z 03009 AVL---                                             % 03009 AVL---
+*L 21       200410001 200417023  02020  02052               % 03009 AVL---
+*A BE 200410001 200417023 000039  02020  02052              % 03009 AVL---
+*R 1 200417023 200410001 200417023  02020  02052            % 03009 AVL---
+*G ST  200410001 200417023  02020  02052                    % 03009 AVL---
+*A VE 200410001 200417023 000039  02020  02052              % 03009 AVL---
+200410001 Eich, Centre Culture         02020                % 03009 AVL---
+200410003 Eich, Eecher Plaz     02022  02022                % 03009 AVL---
+200421003 Muhlenbach, Eecher S  02023  02023                % 03009 AVL---
+200421006 Muhlenbach, Siwemuer  02024  02024                % 03009 AVL---
+200421004 Muhlenbach, Peiffesc  02024  02024                % 03009 AVL---
+200425012 Rollingergrund, Vill  02025  02025                % 03009 AVL---
+200425006 Rollingergrund, Roud  02026  02026                % 03009 AVL---
+200425011 Rollingergrund, Val   02027  02027                % 03009 AVL---
+200425010 Rollingergrund, Val   02028  02028                % 03009 AVL---
+200425004 Rollingergrund, Beim  02028  02028                % 03009 AVL---
+200425003 Rollingergrund, Bei   02029  02029                % 03009 AVL---
+200425005 Rollingergrund, Biis  02029  02029                % 03009 AVL---
+200405045 Centre, Stäreplaz /   02030  02030                % 03009 AVL---
+200403020 Belair, Wampach       02032  02032                % 03009 AVL---
+200405020 Hamilius (Bus)        02035  02035                % 03009 AVL---
+200405014 Centre, Fondation Pe  02037  02037                % 03009 AVL---
+200417047 Kirchberg, Rout Bréc  02039  02039                % 03009 AVL---
+200417007 Kirchberg, B.E.I.     02040  02040                % 03009 AVL---
+200417016 Kirchberg, Jean Monn  02042  02042                % 03009 AVL---
+200417005 Kirchberg, Antoine d  02043  02043                % 03009 AVL---
+200417019 Kirchberg, Konrad Ad  02043  02043                % 03009 AVL---
+200417013 Kirchberg, Coudenhov  02044  02044                % 03009 AVL---
+200417002 Kirchberg, Albert Bo  02045  02045                % 03009 AVL---
+200417036 Kirchberg, Réimerwee  02045  02045                % 03009 AVL---
+200417004 Kirchberg, Alphonse   02046  02046                % 03009 AVL---
+200417015 Kirchberg, Hôpital    02048  02048                % 03009 AVL---
+200417040 Kirchberg, Hugo Gern  02050  02050                % 03009 AVL---
+200417023 Kirchberg, Luxexpo E  02052                       % 03009 AVL---
+*Z 03010 AVL---       002 030                               % 03010 AVL---
+*L 21       200410001 200417023  00620  00652               % 03010 AVL---
+*A BE 200410001 200417023 000025  00620  00652              % 03010 AVL---
+*R 1 200417023 200410001 200417023  00620  00652            % 03010 AVL---
+*G ST  200410001 200417023  00620  00652                    % 03010 AVL---
+*A VE 200410001 200417023 000025  00620  00652              % 03010 AVL---
+200410001 Eich, Centre Culture         00620                % 03010 AVL---
+200410003 Eich, Eecher Plaz     00622  00622                % 03010 AVL---
+200421003 Muhlenbach, Eecher S  00623  00623                % 03010 AVL---
+200421006 Muhlenbach, Siwemuer  00624  00624                % 03010 AVL---
+200421004 Muhlenbach, Peiffesc  00624  00624                % 03010 AVL---
+200425012 Rollingergrund, Vill  00625  00625                % 03010 AVL---
+200425006 Rollingergrund, Roud  00626  00626                % 03010 AVL---
+200425011 Rollingergrund, Val   00627  00627                % 03010 AVL---
+200425010 Rollingergrund, Val   00628  00628                % 03010 AVL---
+200425004 Rollingergrund, Beim  00628  00628                % 03010 AVL---
+200425003 Rollingergrund, Bei   00629  00629                % 03010 AVL---
+200425005 Rollingergrund, Biis  00629  00629                % 03010 AVL---
+200405045 Centre, Stäreplaz /   00630  00630                % 03010 AVL---
+200403020 Belair, Wampach       00632  00632                % 03010 AVL---
+200405020 Hamilius (Bus)        00635  00635                % 03010 AVL---
+200405014 Centre, Fondation Pe  00637  00637                % 03010 AVL---
+200417047 Kirchberg, Rout Bréc  00639  00639                % 03010 AVL---
+200417007 Kirchberg, B.E.I.     00640  00640                % 03010 AVL---
+200417016 Kirchberg, Jean Monn  00642  00642                % 03010 AVL---
+200417005 Kirchberg, Antoine d  00643  00643                % 03010 AVL---
+200417019 Kirchberg, Konrad Ad  00643  00643                % 03010 AVL---
+200417013 Kirchberg, Coudenhov  00644  00644                % 03010 AVL---
+200417002 Kirchberg, Albert Bo  00645  00645                % 03010 AVL---
+200417036 Kirchberg, Réimerwee  00645  00645                % 03010 AVL---
+200417004 Kirchberg, Alphonse   00646  00646                % 03010 AVL---
+200417015 Kirchberg, Hôpital    00648  00648                % 03010 AVL---
+200417040 Kirchberg, Hugo Gern  00650  00650                % 03010 AVL---
+200417023 Kirchberg, Luxexpo E  00652                       % 03010 AVL---
+*Z 03011 AVL---                                             % 03011 AVL---
+*L 21       200410001 200417023  01945  02017               % 03011 AVL---
+*A BE 200410001 200417023 000025  01945  02017              % 03011 AVL---
+*R 1 200417023 200410001 200417023  01945  02017            % 03011 AVL---
+*G ST  200410001 200417023  01945  02017                    % 03011 AVL---
+*A VE 200410001 200417023 000025  01945  02017              % 03011 AVL---
+200410001 Eich, Centre Culture         01945                % 03011 AVL---
+200410003 Eich, Eecher Plaz     01947  01947                % 03011 AVL---
+200421003 Muhlenbach, Eecher S  01948  01948                % 03011 AVL---
+200421006 Muhlenbach, Siwemuer  01949  01949                % 03011 AVL---
+200421004 Muhlenbach, Peiffesc  01949  01949                % 03011 AVL---
+200425012 Rollingergrund, Vill  01950  01950                % 03011 AVL---
+200425006 Rollingergrund, Roud  01951  01951                % 03011 AVL---
+200425011 Rollingergrund, Val   01952  01952                % 03011 AVL---
+200425010 Rollingergrund, Val   01953  01953                % 03011 AVL---
+200425004 Rollingergrund, Beim  01953  01953                % 03011 AVL---
+200425003 Rollingergrund, Bei   01954  01954                % 03011 AVL---
+200425005 Rollingergrund, Biis  01954  01954                % 03011 AVL---
+200405045 Centre, Stäreplaz /   01955  01955                % 03011 AVL---
+200403020 Belair, Wampach       01957  01957                % 03011 AVL---
+200405020 Hamilius (Bus)        02000  02000                % 03011 AVL---
+200405014 Centre, Fondation Pe  02002  02002                % 03011 AVL---
+200417047 Kirchberg, Rout Bréc  02004  02004                % 03011 AVL---
+200417007 Kirchberg, B.E.I.     02005  02005                % 03011 AVL---
+200417016 Kirchberg, Jean Monn  02007  02007                % 03011 AVL---
+200417005 Kirchberg, Antoine d  02008  02008                % 03011 AVL---
+200417019 Kirchberg, Konrad Ad  02008  02008                % 03011 AVL---
+200417013 Kirchberg, Coudenhov  02009  02009                % 03011 AVL---
+200417002 Kirchberg, Albert Bo  02010  02010                % 03011 AVL---
+200417036 Kirchberg, Réimerwee  02010  02010                % 03011 AVL---
+200417004 Kirchberg, Alphonse   02011  02011                % 03011 AVL---
+200417015 Kirchberg, Hôpital    02013  02013                % 03011 AVL---
+200417040 Kirchberg, Hugo Gern  02015  02015                % 03011 AVL---
+200417023 Kirchberg, Luxexpo E  02017                       % 03011 AVL---
+*Z 03012 AVL---       002 030                               % 03012 AVL---
+*L 21       200410001 200417023  02050  02122               % 03012 AVL---
+*A BE 200410001 200417023 000036  02050  02122              % 03012 AVL---
+*R 1 200417023 200410001 200417023  02050  02122            % 03012 AVL---
+*G ST  200410001 200417023  02050  02122                    % 03012 AVL---
+*A VE 200410001 200417023 000036  02050  02122              % 03012 AVL---
+200410001 Eich, Centre Culture         02050                % 03012 AVL---
+200410003 Eich, Eecher Plaz     02052  02052                % 03012 AVL---
+200421003 Muhlenbach, Eecher S  02053  02053                % 03012 AVL---
+200421006 Muhlenbach, Siwemuer  02054  02054                % 03012 AVL---
+200421004 Muhlenbach, Peiffesc  02054  02054                % 03012 AVL---
+200425012 Rollingergrund, Vill  02055  02055                % 03012 AVL---
+200425006 Rollingergrund, Roud  02056  02056                % 03012 AVL---
+200425011 Rollingergrund, Val   02057  02057                % 03012 AVL---
+200425010 Rollingergrund, Val   02058  02058                % 03012 AVL---
+200425004 Rollingergrund, Beim  02058  02058                % 03012 AVL---
+200425003 Rollingergrund, Bei   02059  02059                % 03012 AVL---
+200425005 Rollingergrund, Biis  02059  02059                % 03012 AVL---
+200405045 Centre, Stäreplaz /   02100  02100                % 03012 AVL---
+200403020 Belair, Wampach       02102  02102                % 03012 AVL---
+200405020 Hamilius (Bus)        02105  02105                % 03012 AVL---
+200405014 Centre, Fondation Pe  02107  02107                % 03012 AVL---
+200417047 Kirchberg, Rout Bréc  02109  02109                % 03012 AVL---
+200417007 Kirchberg, B.E.I.     02110  02110                % 03012 AVL---
+200417016 Kirchberg, Jean Monn  02112  02112                % 03012 AVL---
+200417005 Kirchberg, Antoine d  02113  02113                % 03012 AVL---
+200417019 Kirchberg, Konrad Ad  02113  02113                % 03012 AVL---
+200417013 Kirchberg, Coudenhov  02114  02114                % 03012 AVL---
+200417002 Kirchberg, Albert Bo  02115  02115                % 03012 AVL---
+200417036 Kirchberg, Réimerwee  02115  02115                % 03012 AVL---
+200417004 Kirchberg, Alphonse   02116  02116                % 03012 AVL---
+200417015 Kirchberg, Hôpital    02118  02118                % 03012 AVL---
+200417040 Kirchberg, Hugo Gern  02120  02120                % 03012 AVL---
+200417023 Kirchberg, Luxexpo E  02122                       % 03012 AVL---
+*Z 03013 AVL---                                             % 03013 AVL---
+*L 21       200410001 200417023  01947  02019               % 03013 AVL---
+*A BE 200410001 200417023 000033  01947  02019              % 03013 AVL---
+*R 1 200417023 200410001 200417023  01947  02019            % 03013 AVL---
+*G GE  200410001 200417023  01947  02019                    % 03013 AVL---
+*A VE 200410001 200417023 000033  01947  02019              % 03013 AVL---
+200410001 Eich, Centre Culture         01947                % 03013 AVL---
+200410003 Eich, Eecher Plaz     01949  01949                % 03013 AVL---
+200421003 Muhlenbach, Eecher S  01950  01950                % 03013 AVL---
+200421006 Muhlenbach, Siwemuer  01951  01951                % 03013 AVL---
+200421004 Muhlenbach, Peiffesc  01951  01951                % 03013 AVL---
+200425012 Rollingergrund, Vill  01952  01952                % 03013 AVL---
+200425006 Rollingergrund, Roud  01953  01953                % 03013 AVL---
+200425011 Rollingergrund, Val   01954  01954                % 03013 AVL---
+200425010 Rollingergrund, Val   01955  01955                % 03013 AVL---
+200425004 Rollingergrund, Beim  01955  01955                % 03013 AVL---
+200425003 Rollingergrund, Bei   01956  01956                % 03013 AVL---
+200425005 Rollingergrund, Biis  01956  01956                % 03013 AVL---
+200405045 Centre, Stäreplaz /   01957  01957                % 03013 AVL---
+200403020 Belair, Wampach       01959  01959                % 03013 AVL---
+200405020 Hamilius (Bus)        02002  02002                % 03013 AVL---
+200405014 Centre, Fondation Pe  02004  02004                % 03013 AVL---
+200417047 Kirchberg, Rout Bréc  02006  02006                % 03013 AVL---
+200417007 Kirchberg, B.E.I.     02007  02007                % 03013 AVL---
+200417016 Kirchberg, Jean Monn  02009  02009                % 03013 AVL---
+200417005 Kirchberg, Antoine d  02010  02010                % 03013 AVL---
+200417019 Kirchberg, Konrad Ad  02010  02010                % 03013 AVL---
+200417013 Kirchberg, Coudenhov  02011  02011                % 03013 AVL---
+200417002 Kirchberg, Albert Bo  02012  02012                % 03013 AVL---
+200417036 Kirchberg, Réimerwee  02012  02012                % 03013 AVL---
+200417004 Kirchberg, Alphonse   02013  02013                % 03013 AVL---
+200417015 Kirchberg, Hôpital    02015  02015                % 03013 AVL---
+200417040 Kirchberg, Hugo Gern  02017  02017                % 03013 AVL---
+200417023 Kirchberg, Luxexpo E  02019                       % 03013 AVL---
+*Z 03014 AVL---       002 015                               % 03014 AVL---
+*L 21       200410001 200417023  00520  00552               % 03014 AVL---
+*A BE 200410001 200417023 000033  00520  00552              % 03014 AVL---
+*R 1 200417023 200410001 200417023  00520  00552            % 03014 AVL---
+*G ST  200410001 200417023  00520  00552                    % 03014 AVL---
+*A VE 200410001 200417023 000033  00520  00552              % 03014 AVL---
+200410001 Eich, Centre Culture         00520                % 03014 AVL---
+200410003 Eich, Eecher Plaz     00522  00522                % 03014 AVL---
+200421003 Muhlenbach, Eecher S  00523  00523                % 03014 AVL---
+200421006 Muhlenbach, Siwemuer  00524  00524                % 03014 AVL---
+200421004 Muhlenbach, Peiffesc  00524  00524                % 03014 AVL---
+200425012 Rollingergrund, Vill  00525  00525                % 03014 AVL---
+200425006 Rollingergrund, Roud  00526  00526                % 03014 AVL---
+200425011 Rollingergrund, Val   00527  00527                % 03014 AVL---
+200425010 Rollingergrund, Val   00528  00528                % 03014 AVL---
+200425004 Rollingergrund, Beim  00528  00528                % 03014 AVL---
+200425003 Rollingergrund, Bei   00529  00529                % 03014 AVL---
+200425005 Rollingergrund, Biis  00529  00529                % 03014 AVL---
+200405045 Centre, Stäreplaz /   00530  00530                % 03014 AVL---
+200403020 Belair, Wampach       00532  00532                % 03014 AVL---
+200405020 Hamilius (Bus)        00535  00535                % 03014 AVL---
+200405014 Centre, Fondation Pe  00537  00537                % 03014 AVL---
+200417047 Kirchberg, Rout Bréc  00539  00539                % 03014 AVL---
+200417007 Kirchberg, B.E.I.     00540  00540                % 03014 AVL---
+200417016 Kirchberg, Jean Monn  00542  00542                % 03014 AVL---
+200417005 Kirchberg, Antoine d  00543  00543                % 03014 AVL---
+200417019 Kirchberg, Konrad Ad  00543  00543                % 03014 AVL---
+200417013 Kirchberg, Coudenhov  00544  00544                % 03014 AVL---
+200417002 Kirchberg, Albert Bo  00545  00545                % 03014 AVL---
+200417036 Kirchberg, Réimerwee  00545  00545                % 03014 AVL---
+200417004 Kirchberg, Alphonse   00546  00546                % 03014 AVL---
+200417015 Kirchberg, Hôpital    00548  00548                % 03014 AVL---
+200417040 Kirchberg, Hugo Gern  00550  00550                % 03014 AVL---
+200417023 Kirchberg, Luxexpo E  00552                       % 03014 AVL---
+*Z 03015 AVL---       001 138                               % 03015 AVL---
+*L 21       200410001 200417023  02002  02034               % 03015 AVL---
+*A BE 200410001 200417023 000033  02002  02034              % 03015 AVL---
+*R 1 200417023 200410001 200417023  02002  02034            % 03015 AVL---
+*G ST  200410001 200417023  02002  02034                    % 03015 AVL---
+*A VE 200410001 200417023 000033  02002  02034              % 03015 AVL---
+200410001 Eich, Centre Culture         02002                % 03015 AVL---
+200410003 Eich, Eecher Plaz     02004  02004                % 03015 AVL---
+200421003 Muhlenbach, Eecher S  02005  02005                % 03015 AVL---
+200421006 Muhlenbach, Siwemuer  02006  02006                % 03015 AVL---
+200421004 Muhlenbach, Peiffesc  02006  02006                % 03015 AVL---
+200425012 Rollingergrund, Vill  02007  02007                % 03015 AVL---
+200425006 Rollingergrund, Roud  02008  02008                % 03015 AVL---
+200425011 Rollingergrund, Val   02009  02009                % 03015 AVL---
+200425010 Rollingergrund, Val   02010  02010                % 03015 AVL---
+200425004 Rollingergrund, Beim  02010  02010                % 03015 AVL---
+200425003 Rollingergrund, Bei   02011  02011                % 03015 AVL---
+200425005 Rollingergrund, Biis  02011  02011                % 03015 AVL---
+200405045 Centre, Stäreplaz /   02012  02012                % 03015 AVL---
+200403020 Belair, Wampach       02014  02014                % 03015 AVL---
+200405020 Hamilius (Bus)        02017  02017                % 03015 AVL---
+200405014 Centre, Fondation Pe  02019  02019                % 03015 AVL---
+200417047 Kirchberg, Rout Bréc  02021  02021                % 03015 AVL---
+200417007 Kirchberg, B.E.I.     02022  02022                % 03015 AVL---
+200417016 Kirchberg, Jean Monn  02024  02024                % 03015 AVL---
+200417005 Kirchberg, Antoine d  02025  02025                % 03015 AVL---
+200417019 Kirchberg, Konrad Ad  02025  02025                % 03015 AVL---
+200417013 Kirchberg, Coudenhov  02026  02026                % 03015 AVL---
+200417002 Kirchberg, Albert Bo  02027  02027                % 03015 AVL---
+200417036 Kirchberg, Réimerwee  02027  02027                % 03015 AVL---
+200417004 Kirchberg, Alphonse   02028  02028                % 03015 AVL---
+200417015 Kirchberg, Hôpital    02030  02030                % 03015 AVL---
+200417040 Kirchberg, Hugo Gern  02032  02032                % 03015 AVL---
+200417023 Kirchberg, Luxexpo E  02034                       % 03015 AVL---
+*Z 03016 AVL---                                             % 03016 AVL---
+*L 21       200410001 200417023  02250  02322               % 03016 AVL---
+*A BE 200410001 200417023 000033  02250  02322              % 03016 AVL---
+*R 1 200417023 200410001 200417023  02250  02322            % 03016 AVL---
+*G ST  200410001 200417023  02250  02322                    % 03016 AVL---
+*A VE 200410001 200417023 000033  02250  02322              % 03016 AVL---
+200410001 Eich, Centre Culture         02250                % 03016 AVL---
+200410003 Eich, Eecher Plaz     02252  02252                % 03016 AVL---
+200421003 Muhlenbach, Eecher S  02253  02253                % 03016 AVL---
+200421006 Muhlenbach, Siwemuer  02254  02254                % 03016 AVL---
+200421004 Muhlenbach, Peiffesc  02254  02254                % 03016 AVL---
+200425012 Rollingergrund, Vill  02255  02255                % 03016 AVL---
+200425006 Rollingergrund, Roud  02256  02256                % 03016 AVL---
+200425011 Rollingergrund, Val   02257  02257                % 03016 AVL---
+200425010 Rollingergrund, Val   02258  02258                % 03016 AVL---
+200425004 Rollingergrund, Beim  02258  02258                % 03016 AVL---
+200425003 Rollingergrund, Bei   02259  02259                % 03016 AVL---
+200425005 Rollingergrund, Biis  02259  02259                % 03016 AVL---
+200405045 Centre, Stäreplaz /   02300  02300                % 03016 AVL---
+200403020 Belair, Wampach       02302  02302                % 03016 AVL---
+200405020 Hamilius (Bus)        02305  02305                % 03016 AVL---
+200405014 Centre, Fondation Pe  02307  02307                % 03016 AVL---
+200417047 Kirchberg, Rout Bréc  02309  02309                % 03016 AVL---
+200417007 Kirchberg, B.E.I.     02310  02310                % 03016 AVL---
+200417016 Kirchberg, Jean Monn  02312  02312                % 03016 AVL---
+200417005 Kirchberg, Antoine d  02313  02313                % 03016 AVL---
+200417019 Kirchberg, Konrad Ad  02313  02313                % 03016 AVL---
+200417013 Kirchberg, Coudenhov  02314  02314                % 03016 AVL---
+200417002 Kirchberg, Albert Bo  02315  02315                % 03016 AVL---
+200417036 Kirchberg, Réimerwee  02315  02315                % 03016 AVL---
+200417004 Kirchberg, Alphonse   02316  02316                % 03016 AVL---
+200417015 Kirchberg, Hôpital    02318  02318                % 03016 AVL---
+200417040 Kirchberg, Hugo Gern  02320  02320                % 03016 AVL---
+200417023 Kirchberg, Luxexpo E  02322                       % 03016 AVL---
+*Z 03017 AVL---       003 030                               % 03017 AVL---
+*L 21       200410001 200417023  00920  00952               % 03017 AVL---
+*A BE 200410001 200417023 000018  00920  00952              % 03017 AVL---
+*R 1 200417023 200410001 200417023  00920  00952            % 03017 AVL---
+*G ST  200410001 200417023  00920  00952                    % 03017 AVL---
+*A VE 200410001 200417023 000018  00920  00952              % 03017 AVL---
+200410001 Eich, Centre Culture         00920                % 03017 AVL---
+200410003 Eich, Eecher Plaz     00922  00922                % 03017 AVL---
+200421003 Muhlenbach, Eecher S  00923  00923                % 03017 AVL---
+200421006 Muhlenbach, Siwemuer  00924  00924                % 03017 AVL---
+200421004 Muhlenbach, Peiffesc  00924  00924                % 03017 AVL---
+200425012 Rollingergrund, Vill  00925  00925                % 03017 AVL---
+200425006 Rollingergrund, Roud  00926  00926                % 03017 AVL---
+200425011 Rollingergrund, Val   00927  00927                % 03017 AVL---
+200425010 Rollingergrund, Val   00928  00928                % 03017 AVL---
+200425004 Rollingergrund, Beim  00928  00928                % 03017 AVL---
+200425003 Rollingergrund, Bei   00929  00929                % 03017 AVL---
+200425005 Rollingergrund, Biis  00929  00929                % 03017 AVL---
+200405045 Centre, Stäreplaz /   00930  00930                % 03017 AVL---
+200403020 Belair, Wampach       00932  00932                % 03017 AVL---
+200405020 Hamilius (Bus)        00935  00935                % 03017 AVL---
+200405014 Centre, Fondation Pe  00937  00937                % 03017 AVL---
+200417047 Kirchberg, Rout Bréc  00939  00939                % 03017 AVL---
+200417007 Kirchberg, B.E.I.     00940  00940                % 03017 AVL---
+200417016 Kirchberg, Jean Monn  00942  00942                % 03017 AVL---
+200417005 Kirchberg, Antoine d  00943  00943                % 03017 AVL---
+200417019 Kirchberg, Konrad Ad  00943  00943                % 03017 AVL---
+200417013 Kirchberg, Coudenhov  00944  00944                % 03017 AVL---
+200417002 Kirchberg, Albert Bo  00945  00945                % 03017 AVL---
+200417036 Kirchberg, Réimerwee  00945  00945                % 03017 AVL---
+200417004 Kirchberg, Alphonse   00946  00946                % 03017 AVL---
+200417015 Kirchberg, Hôpital    00948  00948                % 03017 AVL---
+200417040 Kirchberg, Hugo Gern  00950  00950                % 03017 AVL---
+200417023 Kirchberg, Luxexpo E  00952                       % 03017 AVL---
+*Z 03018 AVL---                                             % 03018 AVL---
+*L 21       200410001 200417023  01950  02022               % 03018 AVL---
+*A BE 200410001 200417023 000018  01950  02022              % 03018 AVL---
+*R 1 200417023 200410001 200417023  01950  02022            % 03018 AVL---
+*G ST  200410001 200417023  01950  02022                    % 03018 AVL---
+*A VE 200410001 200417023 000018  01950  02022              % 03018 AVL---
+200410001 Eich, Centre Culture         01950                % 03018 AVL---
+200410003 Eich, Eecher Plaz     01952  01952                % 03018 AVL---
+200421003 Muhlenbach, Eecher S  01953  01953                % 03018 AVL---
+200421006 Muhlenbach, Siwemuer  01954  01954                % 03018 AVL---
+200421004 Muhlenbach, Peiffesc  01954  01954                % 03018 AVL---
+200425012 Rollingergrund, Vill  01955  01955                % 03018 AVL---
+200425006 Rollingergrund, Roud  01956  01956                % 03018 AVL---
+200425011 Rollingergrund, Val   01957  01957                % 03018 AVL---
+200425010 Rollingergrund, Val   01958  01958                % 03018 AVL---
+200425004 Rollingergrund, Beim  01958  01958                % 03018 AVL---
+200425003 Rollingergrund, Bei   01959  01959                % 03018 AVL---
+200425005 Rollingergrund, Biis  01959  01959                % 03018 AVL---
+200405045 Centre, Stäreplaz /   02000  02000                % 03018 AVL---
+200403020 Belair, Wampach       02002  02002                % 03018 AVL---
+200405020 Hamilius (Bus)        02005  02005                % 03018 AVL---
+200405014 Centre, Fondation Pe  02007  02007                % 03018 AVL---
+200417047 Kirchberg, Rout Bréc  02009  02009                % 03018 AVL---
+200417007 Kirchberg, B.E.I.     02010  02010                % 03018 AVL---
+200417016 Kirchberg, Jean Monn  02012  02012                % 03018 AVL---
+200417005 Kirchberg, Antoine d  02013  02013                % 03018 AVL---
+200417019 Kirchberg, Konrad Ad  02013  02013                % 03018 AVL---
+200417013 Kirchberg, Coudenhov  02014  02014                % 03018 AVL---
+200417002 Kirchberg, Albert Bo  02015  02015                % 03018 AVL---
+200417036 Kirchberg, Réimerwee  02015  02015                % 03018 AVL---
+200417004 Kirchberg, Alphonse   02016  02016                % 03018 AVL---
+200417015 Kirchberg, Hôpital    02018  02018                % 03018 AVL---
+200417040 Kirchberg, Hugo Gern  02020  02020                % 03018 AVL---
+200417023 Kirchberg, Luxexpo E  02022                       % 03018 AVL---
+*Z 03019 AVL---       035 020                               % 03019 AVL---
+*L 21       200410001 200417023  00744  00818               % 03019 AVL---
+*A BE 200410001 200417023 000025  00744  00818              % 03019 AVL---
+*R 1 200417023 200410001 200417023  00744  00818            % 03019 AVL---
+*G ST  200410001 200417023  00744  00818                    % 03019 AVL---
+*A VE 200410001 200417023 000025  00744  00818              % 03019 AVL---
+200410001 Eich, Centre Culture         00744                % 03019 AVL---
+200410003 Eich, Eecher Plaz     00745  00745                % 03019 AVL---
+200421003 Muhlenbach, Eecher S  00747  00747                % 03019 AVL---
+200421006 Muhlenbach, Siwemuer  00748  00748                % 03019 AVL---
+200421004 Muhlenbach, Peiffesc  00748  00748                % 03019 AVL---
+200425012 Rollingergrund, Vill  00749  00749                % 03019 AVL---
+200425006 Rollingergrund, Roud  00750  00750                % 03019 AVL---
+200425011 Rollingergrund, Val   00751  00751                % 03019 AVL---
+200425010 Rollingergrund, Val   00752  00752                % 03019 AVL---
+200425004 Rollingergrund, Beim  00753  00753                % 03019 AVL---
+200425003 Rollingergrund, Bei   00753  00753                % 03019 AVL---
+200425005 Rollingergrund, Biis  00754  00754                % 03019 AVL---
+200405045 Centre, Stäreplaz /   00755  00755                % 03019 AVL---
+200403020 Belair, Wampach       00757  00757                % 03019 AVL---
+200405020 Hamilius (Bus)        00800  00800                % 03019 AVL---
+200405014 Centre, Fondation Pe  00802  00802                % 03019 AVL---
+200417047 Kirchberg, Rout Bréc  00804  00804                % 03019 AVL---
+200417007 Kirchberg, B.E.I.     00806  00806                % 03019 AVL---
+200417016 Kirchberg, Jean Monn  00807  00807                % 03019 AVL---
+200417005 Kirchberg, Antoine d  00808  00808                % 03019 AVL---
+200417019 Kirchberg, Konrad Ad  00809  00809                % 03019 AVL---
+200417013 Kirchberg, Coudenhov  00809  00809                % 03019 AVL---
+200417002 Kirchberg, Albert Bo  00810  00810                % 03019 AVL---
+200417036 Kirchberg, Réimerwee  00811  00811                % 03019 AVL---
+200417004 Kirchberg, Alphonse   00812  00812                % 03019 AVL---
+200417015 Kirchberg, Hôpital    00813  00813                % 03019 AVL---
+200417040 Kirchberg, Hugo Gern  00815  00815                % 03019 AVL---
+200417023 Kirchberg, Luxexpo E  00818                       % 03019 AVL---
+*Z 03020 AVL---       016 030                               % 03020 AVL---
+*L 21       200410001 200417023  01119  01153               % 03020 AVL---
+*A BE 200410001 200417023 000018  01119  01153              % 03020 AVL---
+*R 1 200417023 200410001 200417023  01119  01153            % 03020 AVL---
+*G ST  200410001 200417023  01119  01153                    % 03020 AVL---
+*A VE 200410001 200417023 000018  01119  01153              % 03020 AVL---
+200410001 Eich, Centre Culture         01119                % 03020 AVL---
+200410003 Eich, Eecher Plaz     01120  01120                % 03020 AVL---
+200421003 Muhlenbach, Eecher S  01122  01122                % 03020 AVL---
+200421006 Muhlenbach, Siwemuer  01123  01123                % 03020 AVL---
+200421004 Muhlenbach, Peiffesc  01123  01123                % 03020 AVL---
+200425012 Rollingergrund, Vill  01124  01124                % 03020 AVL---
+200425006 Rollingergrund, Roud  01125  01125                % 03020 AVL---
+200425011 Rollingergrund, Val   01126  01126                % 03020 AVL---
+200425010 Rollingergrund, Val   01127  01127                % 03020 AVL---
+200425004 Rollingergrund, Beim  01128  01128                % 03020 AVL---
+200425003 Rollingergrund, Bei   01128  01128                % 03020 AVL---
+200425005 Rollingergrund, Biis  01129  01129                % 03020 AVL---
+200405045 Centre, Stäreplaz /   01130  01130                % 03020 AVL---
+200403020 Belair, Wampach       01132  01132                % 03020 AVL---
+200405020 Hamilius (Bus)        01135  01135                % 03020 AVL---
+200405014 Centre, Fondation Pe  01137  01137                % 03020 AVL---
+200417047 Kirchberg, Rout Bréc  01139  01139                % 03020 AVL---
+200417007 Kirchberg, B.E.I.     01141  01141                % 03020 AVL---
+200417016 Kirchberg, Jean Monn  01142  01142                % 03020 AVL---
+200417005 Kirchberg, Antoine d  01143  01143                % 03020 AVL---
+200417019 Kirchberg, Konrad Ad  01144  01144                % 03020 AVL---
+200417013 Kirchberg, Coudenhov  01144  01144                % 03020 AVL---
+200417002 Kirchberg, Albert Bo  01145  01145                % 03020 AVL---
+200417036 Kirchberg, Réimerwee  01146  01146                % 03020 AVL---
+200417004 Kirchberg, Alphonse   01147  01147                % 03020 AVL---
+200417015 Kirchberg, Hôpital    01148  01148                % 03020 AVL---
+200417040 Kirchberg, Hugo Gern  01150  01150                % 03020 AVL---
+200417023 Kirchberg, Luxexpo E  01153                       % 03020 AVL---
+*Z 03021 AVL---       054 015                               % 03021 AVL---
+*L 21       200410001 200417023  00557  00640               % 03021 AVL---
+*A BE 200410001 200417023 000033  00557  00640              % 03021 AVL---
+*R 1 200417023 200410001 200417023  00557  00640            % 03021 AVL---
+*G GE  200410001 200417023  00557  00640                    % 03021 AVL---
+*A VE 200410001 200417023 000033  00557  00640              % 03021 AVL---
+200410001 Eich, Centre Culture         00557                % 03021 AVL---
+200410003 Eich, Eecher Plaz     00559  00559                % 03021 AVL---
+200421003 Muhlenbach, Eecher S  00600  00600                % 03021 AVL---
+200421006 Muhlenbach, Siwemuer  00601  00601                % 03021 AVL---
+200421004 Muhlenbach, Peiffesc  00602  00602                % 03021 AVL---
+200425012 Rollingergrund, Vill  00603  00603                % 03021 AVL---
+200425006 Rollingergrund, Roud  00604  00604                % 03021 AVL---
+200425011 Rollingergrund, Val   00606  00606                % 03021 AVL---
+200425010 Rollingergrund, Val   00607  00607                % 03021 AVL---
+200425004 Rollingergrund, Beim  00608  00608                % 03021 AVL---
+200425003 Rollingergrund, Bei   00608  00608                % 03021 AVL---
+200425005 Rollingergrund, Biis  00609  00609                % 03021 AVL---
+200405045 Centre, Stäreplaz /   00611  00611                % 03021 AVL---
+200403020 Belair, Wampach       00614  00614                % 03021 AVL---
+200405020 Hamilius (Bus)        00617  00617                % 03021 AVL---
+200405014 Centre, Fondation Pe  00620  00620                % 03021 AVL---
+200417047 Kirchberg, Rout Bréc  00622  00622                % 03021 AVL---
+200417007 Kirchberg, B.E.I.     00625  00625                % 03021 AVL---
+200417016 Kirchberg, Jean Monn  00626  00626                % 03021 AVL---
+200417005 Kirchberg, Antoine d  00627  00627                % 03021 AVL---
+200417019 Kirchberg, Konrad Ad  00629  00629                % 03021 AVL---
+200417013 Kirchberg, Coudenhov  00629  00629                % 03021 AVL---
+200417002 Kirchberg, Albert Bo  00630  00630                % 03021 AVL---
+200417036 Kirchberg, Réimerwee  00632  00632                % 03021 AVL---
+200417004 Kirchberg, Alphonse   00632  00632                % 03021 AVL---
+200417015 Kirchberg, Hôpital    00635  00635                % 03021 AVL---
+200417040 Kirchberg, Hugo Gern  00638  00638                % 03021 AVL---
+200417023 Kirchberg, Luxexpo E  00640                       % 03021 AVL---
+*Z 03023 AVL---                                             % 03023 AVL---
+*L 21       200405020 200410001  00605  00619               % 03023 AVL---
+*A BE 200405020 200410001 000039  00605  00619              % 03023 AVL---
+*R 2 200410001 200405020 200410001  00605  00619            % 03023 AVL---
+*G ST  200405020 200410001  00605  00619                    % 03023 AVL---
+*A VE 200405020 200410001 000039  00605  00619              % 03023 AVL---
+200405020 Hamilius (Bus)               00605                % 03023 AVL---
+200405045 Centre, Stäreplaz /   00609  00609                % 03023 AVL---
+200425005 Rollingergrund, Biis  00610  00610                % 03023 AVL---
+200425003 Rollingergrund, Bei   00610  00610                % 03023 AVL---
+200425004 Rollingergrund, Beim  00611  00611                % 03023 AVL---
+200425010 Rollingergrund, Val   00611  00611                % 03023 AVL---
+200425011 Rollingergrund, Val   00612  00612                % 03023 AVL---
+200425006 Rollingergrund, Roud  00613  00613                % 03023 AVL---
+200425012 Rollingergrund, Vill  00614  00614                % 03023 AVL---
+200421004 Muhlenbach, Peiffesc  00615  00615                % 03023 AVL---
+200421006 Muhlenbach, Siwemuer  00616  00616                % 03023 AVL---
+200421003 Muhlenbach, Eecher S  00616  00616                % 03023 AVL---
+200410002 Eich, Ecole Eich      00617  00617                % 03023 AVL---
+200410003 Eich, Eecher Plaz     00618  00618                % 03023 AVL---
+200410001 Eich, Centre Culture  00619                       % 03023 AVL---
+*Z 03024 AVL---       001 030                               % 03024 AVL---
+*L 21       200405020 200410001  02335  02349               % 03024 AVL---
+*A BE 200405020 200410001 000039  02335  02349              % 03024 AVL---
+*R 2 200410001 200405020 200410001  02335  02349            % 03024 AVL---
+*G ST  200405020 200410001  02335  02349                    % 03024 AVL---
+*A VE 200405020 200410001 000039  02335  02349              % 03024 AVL---
+200405020 Hamilius (Bus)               02335                % 03024 AVL---
+200405045 Centre, Stäreplaz /   02339  02339                % 03024 AVL---
+200425005 Rollingergrund, Biis  02340  02340                % 03024 AVL---
+200425003 Rollingergrund, Bei   02340  02340                % 03024 AVL---
+200425004 Rollingergrund, Beim  02341  02341                % 03024 AVL---
+200425010 Rollingergrund, Val   02341  02341                % 03024 AVL---
+200425011 Rollingergrund, Val   02342  02342                % 03024 AVL---
+200425006 Rollingergrund, Roud  02343  02343                % 03024 AVL---
+200425012 Rollingergrund, Vill  02344  02344                % 03024 AVL---
+200421004 Muhlenbach, Peiffesc  02345  02345                % 03024 AVL---
+200421006 Muhlenbach, Siwemuer  02346  02346                % 03024 AVL---
+200421003 Muhlenbach, Eecher S  02346  02346                % 03024 AVL---
+200410002 Eich, Ecole Eich      02347  02347                % 03024 AVL---
+200410003 Eich, Eecher Plaz     02348  02348                % 03024 AVL---
+200410001 Eich, Centre Culture  02349                       % 03024 AVL---
+*Z 03025 AVL---       005 030                               % 03025 AVL---
+*L 21       200405020 200410001  00635  00649               % 03025 AVL---
+*A BE 200405020 200410001 000018  00635  00649              % 03025 AVL---
+*R 2 200410001 200405020 200410001  00635  00649            % 03025 AVL---
+*G ST  200405020 200410001  00635  00649                    % 03025 AVL---
+*A VE 200405020 200410001 000018  00635  00649              % 03025 AVL---
+200405020 Hamilius (Bus)               00635                % 03025 AVL---
+200405045 Centre, Stäreplaz /   00639  00639                % 03025 AVL---
+200425005 Rollingergrund, Biis  00640  00640                % 03025 AVL---
+200425003 Rollingergrund, Bei   00640  00640                % 03025 AVL---
+200425004 Rollingergrund, Beim  00641  00641                % 03025 AVL---
+200425010 Rollingergrund, Val   00641  00641                % 03025 AVL---
+200425011 Rollingergrund, Val   00642  00642                % 03025 AVL---
+200425006 Rollingergrund, Roud  00643  00643                % 03025 AVL---
+200425012 Rollingergrund, Vill  00644  00644                % 03025 AVL---
+200421004 Muhlenbach, Peiffesc  00645  00645                % 03025 AVL---
+200421006 Muhlenbach, Siwemuer  00646  00646                % 03025 AVL---
+200421003 Muhlenbach, Eecher S  00646  00646                % 03025 AVL---
+200410002 Eich, Ecole Eich      00647  00647                % 03025 AVL---
+200410003 Eich, Eecher Plaz     00648  00648                % 03025 AVL---
+200410001 Eich, Centre Culture  00649                       % 03025 AVL---
+*Z 03026 AVL---       003 030                               % 03026 AVL---
+*L 21       200405020 200410001  02105  02119               % 03026 AVL---
+*A BE 200405020 200410001 000018  02105  02119              % 03026 AVL---
+*R 2 200410001 200405020 200410001  02105  02119            % 03026 AVL---
+*G ST  200405020 200410001  02105  02119                    % 03026 AVL---
+*A VE 200405020 200410001 000018  02105  02119              % 03026 AVL---
+200405020 Hamilius (Bus)               02105                % 03026 AVL---
+200405045 Centre, Stäreplaz /   02109  02109                % 03026 AVL---
+200425005 Rollingergrund, Biis  02110  02110                % 03026 AVL---
+200425003 Rollingergrund, Bei   02110  02110                % 03026 AVL---
+200425004 Rollingergrund, Beim  02111  02111                % 03026 AVL---
+200425010 Rollingergrund, Val   02111  02111                % 03026 AVL---
+200425011 Rollingergrund, Val   02112  02112                % 03026 AVL---
+200425006 Rollingergrund, Roud  02113  02113                % 03026 AVL---
+200425012 Rollingergrund, Vill  02114  02114                % 03026 AVL---
+200421004 Muhlenbach, Peiffesc  02115  02115                % 03026 AVL---
+200421006 Muhlenbach, Siwemuer  02116  02116                % 03026 AVL---
+200421003 Muhlenbach, Eecher S  02116  02116                % 03026 AVL---
+200410002 Eich, Ecole Eich      02117  02117                % 03026 AVL---
+200410003 Eich, Eecher Plaz     02118  02118                % 03026 AVL---
+200410001 Eich, Centre Culture  02119                       % 03026 AVL---
+*Z 03027 AVL---                                             % 03027 AVL---
+*L 21       200405020 200410001  00535  00549               % 03027 AVL---
+*A BE 200405020 200410001 000035  00535  00549              % 03027 AVL---
+*R 2 200410001 200405020 200410001  00535  00549            % 03027 AVL---
+*G ST  200405020 200410001  00535  00549                    % 03027 AVL---
+*A VE 200405020 200410001 000035  00535  00549              % 03027 AVL---
+200405020 Hamilius (Bus)               00535                % 03027 AVL---
+200405045 Centre, Stäreplaz /   00539  00539                % 03027 AVL---
+200425005 Rollingergrund, Biis  00540  00540                % 03027 AVL---
+200425003 Rollingergrund, Bei   00540  00540                % 03027 AVL---
+200425004 Rollingergrund, Beim  00541  00541                % 03027 AVL---
+200425010 Rollingergrund, Val   00541  00541                % 03027 AVL---
+200425011 Rollingergrund, Val   00542  00542                % 03027 AVL---
+200425006 Rollingergrund, Roud  00543  00543                % 03027 AVL---
+200425012 Rollingergrund, Vill  00544  00544                % 03027 AVL---
+200421004 Muhlenbach, Peiffesc  00545  00545                % 03027 AVL---
+200421006 Muhlenbach, Siwemuer  00546  00546                % 03027 AVL---
+200421003 Muhlenbach, Eecher S  00546  00546                % 03027 AVL---
+200410002 Eich, Ecole Eich      00547  00547                % 03027 AVL---
+200410003 Eich, Eecher Plaz     00548  00548                % 03027 AVL---
+200410001 Eich, Centre Culture  00549                       % 03027 AVL---
+*Z 03028 AVL---                                             % 03028 AVL---
+*L 21       200405020 200410001  02305  02319               % 03028 AVL---
+*A BE 200405020 200410001 000035  02305  02319              % 03028 AVL---
+*R 2 200410001 200405020 200410001  02305  02319            % 03028 AVL---
+*G ST  200405020 200410001  02305  02319                    % 03028 AVL---
+*A VE 200405020 200410001 000035  02305  02319              % 03028 AVL---
+200405020 Hamilius (Bus)               02305                % 03028 AVL---
+200405045 Centre, Stäreplaz /   02309  02309                % 03028 AVL---
+200425005 Rollingergrund, Biis  02310  02310                % 03028 AVL---
+200425003 Rollingergrund, Bei   02310  02310                % 03028 AVL---
+200425004 Rollingergrund, Beim  02311  02311                % 03028 AVL---
+200425010 Rollingergrund, Val   02311  02311                % 03028 AVL---
+200425011 Rollingergrund, Val   02312  02312                % 03028 AVL---
+200425006 Rollingergrund, Roud  02313  02313                % 03028 AVL---
+200425012 Rollingergrund, Vill  02314  02314                % 03028 AVL---
+200421004 Muhlenbach, Peiffesc  02315  02315                % 03028 AVL---
+200421006 Muhlenbach, Siwemuer  02316  02316                % 03028 AVL---
+200421003 Muhlenbach, Eecher S  02316  02316                % 03028 AVL---
+200410002 Eich, Ecole Eich      02317  02317                % 03028 AVL---
+200410003 Eich, Eecher Plaz     02318  02318                % 03028 AVL---
+200410001 Eich, Centre Culture  02319                       % 03028 AVL---
+*Z 03029 AVL---                                             % 03029 AVL---
+*L 21       200417023 200410001  02011  02049               % 03029 AVL---
+*A BE 200417023 200410001 000039  02011  02049              % 03029 AVL---
+*R 2 200410001 200417023 200410001  02011  02049            % 03029 AVL---
+*G ST  200417023 200410001  02011  02049                    % 03029 AVL---
+*A VE 200417023 200410001 000039  02011  02049              % 03029 AVL---
+200417023 Kirchberg, Luxexpo E         02011                % 03029 AVL---
+200417033 Kirchberg, Poutty St  02012  02012                % 03029 AVL---
+200417044 Kirchberg, Luxexpo Q  02013  02013                % 03029 AVL---
+200417015 Kirchberg, Hôpital    02015  02015                % 03029 AVL---
+200417004 Kirchberg, Alphonse   02016  02016                % 03029 AVL---
+200417036 Kirchberg, Réimerwee  02017  02017                % 03029 AVL---
+200417002 Kirchberg, Albert Bo  02018  02018                % 03029 AVL---
+200417013 Kirchberg, Coudenhov  02019  02019                % 03029 AVL---
+200417019 Kirchberg, Konrad Ad  02020  02020                % 03029 AVL---
+200417005 Kirchberg, Antoine d  02021  02021                % 03029 AVL---
+200417016 Kirchberg, Jean Monn  02022  02022                % 03029 AVL---
+200417007 Kirchberg, B.E.I.     02023  02023                % 03029 AVL---
+200417047 Kirchberg, Rout Bréc  02024  02024                % 03029 AVL---
+200405014 Centre, Fondation Pe  02027  02027                % 03029 AVL---
+200405020 Hamilius (Bus)        02030  02035                % 03029 AVL---
+200405045 Centre, Stäreplaz /   02039  02039                % 03029 AVL---
+200425005 Rollingergrund, Biis  02040  02040                % 03029 AVL---
+200425003 Rollingergrund, Bei   02040  02040                % 03029 AVL---
+200425004 Rollingergrund, Beim  02041  02041                % 03029 AVL---
+200425010 Rollingergrund, Val   02041  02041                % 03029 AVL---
+200425011 Rollingergrund, Val   02042  02042                % 03029 AVL---
+200425006 Rollingergrund, Roud  02043  02043                % 03029 AVL---
+200425012 Rollingergrund, Vill  02044  02044                % 03029 AVL---
+200421004 Muhlenbach, Peiffesc  02045  02045                % 03029 AVL---
+200421006 Muhlenbach, Siwemuer  02046  02046                % 03029 AVL---
+200421003 Muhlenbach, Eecher S  02046  02046                % 03029 AVL---
+200410002 Eich, Ecole Eich      02047  02047                % 03029 AVL---
+200410003 Eich, Eecher Plaz     02048  02048                % 03029 AVL---
+200410001 Eich, Centre Culture  02049                       % 03029 AVL---
+*Z 03030 AVL---       002 030                               % 03030 AVL---
+*L 21       200417023 200410001  00611  00649               % 03030 AVL---
+*A BE 200417023 200410001 000025  00611  00649              % 03030 AVL---
+*R 2 200410001 200417023 200410001  00611  00649            % 03030 AVL---
+*G ST  200417023 200410001  00611  00649                    % 03030 AVL---
+*A VE 200417023 200410001 000025  00611  00649              % 03030 AVL---
+200417023 Kirchberg, Luxexpo E         00611                % 03030 AVL---
+200417033 Kirchberg, Poutty St  00612  00612                % 03030 AVL---
+200417044 Kirchberg, Luxexpo Q  00613  00613                % 03030 AVL---
+200417015 Kirchberg, Hôpital    00615  00615                % 03030 AVL---
+200417004 Kirchberg, Alphonse   00616  00616                % 03030 AVL---
+200417036 Kirchberg, Réimerwee  00617  00617                % 03030 AVL---
+200417002 Kirchberg, Albert Bo  00618  00618                % 03030 AVL---
+200417013 Kirchberg, Coudenhov  00619  00619                % 03030 AVL---
+200417019 Kirchberg, Konrad Ad  00620  00620                % 03030 AVL---
+200417005 Kirchberg, Antoine d  00621  00621                % 03030 AVL---
+200417016 Kirchberg, Jean Monn  00622  00622                % 03030 AVL---
+200417007 Kirchberg, B.E.I.     00623  00623                % 03030 AVL---
+200417047 Kirchberg, Rout Bréc  00624  00624                % 03030 AVL---
+200405014 Centre, Fondation Pe  00627  00627                % 03030 AVL---
+200405020 Hamilius (Bus)        00630  00635                % 03030 AVL---
+200405045 Centre, Stäreplaz /   00639  00639                % 03030 AVL---
+200425005 Rollingergrund, Biis  00640  00640                % 03030 AVL---
+200425003 Rollingergrund, Bei   00640  00640                % 03030 AVL---
+200425004 Rollingergrund, Beim  00641  00641                % 03030 AVL---
+200425010 Rollingergrund, Val   00641  00641                % 03030 AVL---
+200425011 Rollingergrund, Val   00642  00642                % 03030 AVL---
+200425006 Rollingergrund, Roud  00643  00643                % 03030 AVL---
+200425012 Rollingergrund, Vill  00644  00644                % 03030 AVL---
+200421004 Muhlenbach, Peiffesc  00645  00645                % 03030 AVL---
+200421006 Muhlenbach, Siwemuer  00646  00646                % 03030 AVL---
+200421003 Muhlenbach, Eecher S  00646  00646                % 03030 AVL---
+200410002 Eich, Ecole Eich      00647  00647                % 03030 AVL---
+200410003 Eich, Eecher Plaz     00648  00648                % 03030 AVL---
+200410001 Eich, Centre Culture  00649                       % 03030 AVL---
+*Z 03031 AVL---       003 030                               % 03031 AVL---
+*L 21       200417023 200410001  02041  02119               % 03031 AVL---
+*A BE 200417023 200410001 000036  02041  02119              % 03031 AVL---
+*R 2 200410001 200417023 200410001  02041  02119            % 03031 AVL---
+*G ST  200417023 200410001  02041  02119                    % 03031 AVL---
+*A VE 200417023 200410001 000036  02041  02119              % 03031 AVL---
+200417023 Kirchberg, Luxexpo E         02041                % 03031 AVL---
+200417033 Kirchberg, Poutty St  02042  02042                % 03031 AVL---
+200417044 Kirchberg, Luxexpo Q  02043  02043                % 03031 AVL---
+200417015 Kirchberg, Hôpital    02045  02045                % 03031 AVL---
+200417004 Kirchberg, Alphonse   02046  02046                % 03031 AVL---
+200417036 Kirchberg, Réimerwee  02047  02047                % 03031 AVL---
+200417002 Kirchberg, Albert Bo  02048  02048                % 03031 AVL---
+200417013 Kirchberg, Coudenhov  02049  02049                % 03031 AVL---
+200417019 Kirchberg, Konrad Ad  02050  02050                % 03031 AVL---
+200417005 Kirchberg, Antoine d  02051  02051                % 03031 AVL---
+200417016 Kirchberg, Jean Monn  02052  02052                % 03031 AVL---
+200417007 Kirchberg, B.E.I.     02053  02053                % 03031 AVL---
+200417047 Kirchberg, Rout Bréc  02054  02054                % 03031 AVL---
+200405014 Centre, Fondation Pe  02057  02057                % 03031 AVL---
+200405020 Hamilius (Bus)        02100  02105                % 03031 AVL---
+200405045 Centre, Stäreplaz /   02109  02109                % 03031 AVL---
+200425005 Rollingergrund, Biis  02110  02110                % 03031 AVL---
+200425003 Rollingergrund, Bei   02110  02110                % 03031 AVL---
+200425004 Rollingergrund, Beim  02111  02111                % 03031 AVL---
+200425010 Rollingergrund, Val   02111  02111                % 03031 AVL---
+200425011 Rollingergrund, Val   02112  02112                % 03031 AVL---
+200425006 Rollingergrund, Roud  02113  02113                % 03031 AVL---
+200425012 Rollingergrund, Vill  02114  02114                % 03031 AVL---
+200421004 Muhlenbach, Peiffesc  02115  02115                % 03031 AVL---
+200421006 Muhlenbach, Siwemuer  02116  02116                % 03031 AVL---
+200421003 Muhlenbach, Eecher S  02116  02116                % 03031 AVL---
+200410002 Eich, Ecole Eich      02117  02117                % 03031 AVL---
+200410003 Eich, Eecher Plaz     02118  02118                % 03031 AVL---
+200410001 Eich, Centre Culture  02119                       % 03031 AVL---
+*Z 03032 AVL---                                             % 03032 AVL---
+*L 21       200417023 200410001  00511  00549               % 03032 AVL---
+*A BE 200417023 200410001 000033  00511  00549              % 03032 AVL---
+*R 2 200410001 200417023 200410001  00511  00549            % 03032 AVL---
+*G ST  200417023 200410001  00511  00549                    % 03032 AVL---
+*A VE 200417023 200410001 000033  00511  00549              % 03032 AVL---
+200417023 Kirchberg, Luxexpo E         00511                % 03032 AVL---
+200417033 Kirchberg, Poutty St  00512  00512                % 03032 AVL---
+200417044 Kirchberg, Luxexpo Q  00513  00513                % 03032 AVL---
+200417015 Kirchberg, Hôpital    00515  00515                % 03032 AVL---
+200417004 Kirchberg, Alphonse   00516  00516                % 03032 AVL---
+200417036 Kirchberg, Réimerwee  00517  00517                % 03032 AVL---
+200417002 Kirchberg, Albert Bo  00518  00518                % 03032 AVL---
+200417013 Kirchberg, Coudenhov  00519  00519                % 03032 AVL---
+200417019 Kirchberg, Konrad Ad  00520  00520                % 03032 AVL---
+200417005 Kirchberg, Antoine d  00521  00521                % 03032 AVL---
+200417016 Kirchberg, Jean Monn  00522  00522                % 03032 AVL---
+200417007 Kirchberg, B.E.I.     00523  00523                % 03032 AVL---
+200417047 Kirchberg, Rout Bréc  00524  00524                % 03032 AVL---
+200405014 Centre, Fondation Pe  00527  00527                % 03032 AVL---
+200405020 Hamilius (Bus)        00530  00535                % 03032 AVL---
+200405045 Centre, Stäreplaz /   00539  00539                % 03032 AVL---
+200425005 Rollingergrund, Biis  00540  00540                % 03032 AVL---
+200425003 Rollingergrund, Bei   00540  00540                % 03032 AVL---
+200425004 Rollingergrund, Beim  00541  00541                % 03032 AVL---
+200425010 Rollingergrund, Val   00541  00541                % 03032 AVL---
+200425011 Rollingergrund, Val   00542  00542                % 03032 AVL---
+200425006 Rollingergrund, Roud  00543  00543                % 03032 AVL---
+200425012 Rollingergrund, Vill  00544  00544                % 03032 AVL---
+200421004 Muhlenbach, Peiffesc  00545  00545                % 03032 AVL---
+200421006 Muhlenbach, Siwemuer  00546  00546                % 03032 AVL---
+200421003 Muhlenbach, Eecher S  00546  00546                % 03032 AVL---
+200410002 Eich, Ecole Eich      00547  00547                % 03032 AVL---
+200410003 Eich, Eecher Plaz     00548  00548                % 03032 AVL---
+200410001 Eich, Centre Culture  00549                       % 03032 AVL---
+*Z 03033 AVL---                                             % 03033 AVL---
+*L 21       200417023 200410001  02241  02319               % 03033 AVL---
+*A BE 200417023 200410001 000033  02241  02319              % 03033 AVL---
+*R 2 200410001 200417023 200410001  02241  02319            % 03033 AVL---
+*G ST  200417023 200410001  02241  02319                    % 03033 AVL---
+*A VE 200417023 200410001 000033  02241  02319              % 03033 AVL---
+200417023 Kirchberg, Luxexpo E         02241                % 03033 AVL---
+200417033 Kirchberg, Poutty St  02242  02242                % 03033 AVL---
+200417044 Kirchberg, Luxexpo Q  02243  02243                % 03033 AVL---
+200417015 Kirchberg, Hôpital    02245  02245                % 03033 AVL---
+200417004 Kirchberg, Alphonse   02246  02246                % 03033 AVL---
+200417036 Kirchberg, Réimerwee  02247  02247                % 03033 AVL---
+200417002 Kirchberg, Albert Bo  02248  02248                % 03033 AVL---
+200417013 Kirchberg, Coudenhov  02249  02249                % 03033 AVL---
+200417019 Kirchberg, Konrad Ad  02250  02250                % 03033 AVL---
+200417005 Kirchberg, Antoine d  02251  02251                % 03033 AVL---
+200417016 Kirchberg, Jean Monn  02252  02252                % 03033 AVL---
+200417007 Kirchberg, B.E.I.     02253  02253                % 03033 AVL---
+200417047 Kirchberg, Rout Bréc  02254  02254                % 03033 AVL---
+200405014 Centre, Fondation Pe  02257  02257                % 03033 AVL---
+200405020 Hamilius (Bus)        02300  02305                % 03033 AVL---
+200405045 Centre, Stäreplaz /   02309  02309                % 03033 AVL---
+200425005 Rollingergrund, Biis  02310  02310                % 03033 AVL---
+200425003 Rollingergrund, Bei   02310  02310                % 03033 AVL---
+200425004 Rollingergrund, Beim  02311  02311                % 03033 AVL---
+200425010 Rollingergrund, Val   02311  02311                % 03033 AVL---
+200425011 Rollingergrund, Val   02312  02312                % 03033 AVL---
+200425006 Rollingergrund, Roud  02313  02313                % 03033 AVL---
+200425012 Rollingergrund, Vill  02314  02314                % 03033 AVL---
+200421004 Muhlenbach, Peiffesc  02315  02315                % 03033 AVL---
+200421006 Muhlenbach, Siwemuer  02316  02316                % 03033 AVL---
+200421003 Muhlenbach, Eecher S  02316  02316                % 03033 AVL---
+200410002 Eich, Ecole Eich      02317  02317                % 03033 AVL---
+200410003 Eich, Eecher Plaz     02318  02318                % 03033 AVL---
+200410001 Eich, Centre Culture  02319                       % 03033 AVL---
+*Z 03034 AVL---       003 030                               % 03034 AVL---
+*L 21       200417023 200410001  00911  00949               % 03034 AVL---
+*A BE 200417023 200410001 000018  00911  00949              % 03034 AVL---
+*R 2 200410001 200417023 200410001  00911  00949            % 03034 AVL---
+*G ST  200417023 200410001  00911  00949                    % 03034 AVL---
+*A VE 200417023 200410001 000018  00911  00949              % 03034 AVL---
+200417023 Kirchberg, Luxexpo E         00911                % 03034 AVL---
+200417033 Kirchberg, Poutty St  00912  00912                % 03034 AVL---
+200417044 Kirchberg, Luxexpo Q  00913  00913                % 03034 AVL---
+200417015 Kirchberg, Hôpital    00915  00915                % 03034 AVL---
+200417004 Kirchberg, Alphonse   00916  00916                % 03034 AVL---
+200417036 Kirchberg, Réimerwee  00917  00917                % 03034 AVL---
+200417002 Kirchberg, Albert Bo  00918  00918                % 03034 AVL---
+200417013 Kirchberg, Coudenhov  00919  00919                % 03034 AVL---
+200417019 Kirchberg, Konrad Ad  00920  00920                % 03034 AVL---
+200417005 Kirchberg, Antoine d  00921  00921                % 03034 AVL---
+200417016 Kirchberg, Jean Monn  00922  00922                % 03034 AVL---
+200417007 Kirchberg, B.E.I.     00923  00923                % 03034 AVL---
+200417047 Kirchberg, Rout Bréc  00924  00924                % 03034 AVL---
+200405014 Centre, Fondation Pe  00927  00927                % 03034 AVL---
+200405020 Hamilius (Bus)        00930  00935                % 03034 AVL---
+200405045 Centre, Stäreplaz /   00939  00939                % 03034 AVL---
+200425005 Rollingergrund, Biis  00940  00940                % 03034 AVL---
+200425003 Rollingergrund, Bei   00940  00940                % 03034 AVL---
+200425004 Rollingergrund, Beim  00941  00941                % 03034 AVL---
+200425010 Rollingergrund, Val   00941  00941                % 03034 AVL---
+200425011 Rollingergrund, Val   00942  00942                % 03034 AVL---
+200425006 Rollingergrund, Roud  00943  00943                % 03034 AVL---
+200425012 Rollingergrund, Vill  00944  00944                % 03034 AVL---
+200421004 Muhlenbach, Peiffesc  00945  00945                % 03034 AVL---
+200421006 Muhlenbach, Siwemuer  00946  00946                % 03034 AVL---
+200421003 Muhlenbach, Eecher S  00946  00946                % 03034 AVL---
+200410002 Eich, Ecole Eich      00947  00947                % 03034 AVL---
+200410003 Eich, Eecher Plaz     00948  00948                % 03034 AVL---
+200410001 Eich, Centre Culture  00949                       % 03034 AVL---
+*Z 03035 AVL---                                             % 03035 AVL---
+*L 21       200417023 200410001  01941  02019               % 03035 AVL---
+*A BE 200417023 200410001 000018  01941  02019              % 03035 AVL---
+*R 2 200410001 200417023 200410001  01941  02019            % 03035 AVL---
+*G ST  200417023 200410001  01941  02019                    % 03035 AVL---
+*A VE 200417023 200410001 000018  01941  02019              % 03035 AVL---
+200417023 Kirchberg, Luxexpo E         01941                % 03035 AVL---
+200417033 Kirchberg, Poutty St  01942  01942                % 03035 AVL---
+200417044 Kirchberg, Luxexpo Q  01943  01943                % 03035 AVL---
+200417015 Kirchberg, Hôpital    01945  01945                % 03035 AVL---
+200417004 Kirchberg, Alphonse   01946  01946                % 03035 AVL---
+200417036 Kirchberg, Réimerwee  01947  01947                % 03035 AVL---
+200417002 Kirchberg, Albert Bo  01948  01948                % 03035 AVL---
+200417013 Kirchberg, Coudenhov  01949  01949                % 03035 AVL---
+200417019 Kirchberg, Konrad Ad  01950  01950                % 03035 AVL---
+200417005 Kirchberg, Antoine d  01951  01951                % 03035 AVL---
+200417016 Kirchberg, Jean Monn  01952  01952                % 03035 AVL---
+200417007 Kirchberg, B.E.I.     01953  01953                % 03035 AVL---
+200417047 Kirchberg, Rout Bréc  01954  01954                % 03035 AVL---
+200405014 Centre, Fondation Pe  01957  01957                % 03035 AVL---
+200405020 Hamilius (Bus)        02000  02005                % 03035 AVL---
+200405045 Centre, Stäreplaz /   02009  02009                % 03035 AVL---
+200425005 Rollingergrund, Biis  02010  02010                % 03035 AVL---
+200425003 Rollingergrund, Bei   02010  02010                % 03035 AVL---
+200425004 Rollingergrund, Beim  02011  02011                % 03035 AVL---
+200425010 Rollingergrund, Val   02011  02011                % 03035 AVL---
+200425011 Rollingergrund, Val   02012  02012                % 03035 AVL---
+200425006 Rollingergrund, Roud  02013  02013                % 03035 AVL---
+200425012 Rollingergrund, Vill  02014  02014                % 03035 AVL---
+200421004 Muhlenbach, Peiffesc  02015  02015                % 03035 AVL---
+200421006 Muhlenbach, Siwemuer  02016  02016                % 03035 AVL---
+200421003 Muhlenbach, Eecher S  02016  02016                % 03035 AVL---
+200410002 Eich, Ecole Eich      02017  02017                % 03035 AVL---
+200410003 Eich, Eecher Plaz     02018  02018                % 03035 AVL---
+200410001 Eich, Centre Culture  02019                       % 03035 AVL---
+*Z 03036 AVL---       036 020                               % 03036 AVL---
+*L 21       200417023 200410001  00730  00806               % 03036 AVL---
+*A BE 200417023 200410001 000025  00730  00806              % 03036 AVL---
+*R 2 200410001 200417023 200410001  00730  00806            % 03036 AVL---
+*G ST  200417023 200410001  00730  00806                    % 03036 AVL---
+*A VE 200417023 200410001 000025  00730  00806              % 03036 AVL---
+200417023 Kirchberg, Luxexpo E         00730                % 03036 AVL---
+200417033 Kirchberg, Poutty St  00731  00731                % 03036 AVL---
+200417044 Kirchberg, Luxexpo Q  00733  00733                % 03036 AVL---
+200417015 Kirchberg, Hôpital    00734  00734                % 03036 AVL---
+200417004 Kirchberg, Alphonse   00736  00736                % 03036 AVL---
+200417036 Kirchberg, Réimerwee  00737  00737                % 03036 AVL---
+200417002 Kirchberg, Albert Bo  00738  00738                % 03036 AVL---
+200417013 Kirchberg, Coudenhov  00739  00739                % 03036 AVL---
+200417019 Kirchberg, Konrad Ad  00740  00740                % 03036 AVL---
+200417005 Kirchberg, Antoine d  00740  00740                % 03036 AVL---
+200417016 Kirchberg, Jean Monn  00741  00741                % 03036 AVL---
+200417007 Kirchberg, B.E.I.     00743  00743                % 03036 AVL---
+200417047 Kirchberg, Rout Bréc  00744  00744                % 03036 AVL---
+200405014 Centre, Fondation Pe  00747  00747                % 03036 AVL---
+200405020 Hamilius (Bus)        00751  00751                % 03036 AVL---
+200405045 Centre, Stäreplaz /   00755  00755                % 03036 AVL---
+200425005 Rollingergrund, Biis  00756  00756                % 03036 AVL---
+200425003 Rollingergrund, Bei   00756  00756                % 03036 AVL---
+200425004 Rollingergrund, Beim  00757  00757                % 03036 AVL---
+200425010 Rollingergrund, Val   00758  00758                % 03036 AVL---
+200425011 Rollingergrund, Val   00759  00759                % 03036 AVL---
+200425006 Rollingergrund, Roud  00800  00800                % 03036 AVL---
+200425012 Rollingergrund, Vill  00800  00800                % 03036 AVL---
+200421004 Muhlenbach, Peiffesc  00801  00801                % 03036 AVL---
+200421006 Muhlenbach, Siwemuer  00802  00802                % 03036 AVL---
+200421003 Muhlenbach, Eecher S  00803  00803                % 03036 AVL---
+200410002 Eich, Ecole Eich      00804  00804                % 03036 AVL---
+200410003 Eich, Eecher Plaz     00805  00805                % 03036 AVL---
+200410001 Eich, Centre Culture  00806                       % 03036 AVL---
+*Z 03037 AVL---                                             % 03037 AVL---
+*L 21       200417023 200410001  01952  02025               % 03037 AVL---
+*A BE 200417023 200410001 000025  01952  02025              % 03037 AVL---
+*R 2 200410001 200417023 200410001  01952  02025            % 03037 AVL---
+*G ST  200417023 200410001  01952  02025                    % 03037 AVL---
+*A VE 200417023 200410001 000025  01952  02025              % 03037 AVL---
+200417023 Kirchberg, Luxexpo E         01952                % 03037 AVL---
+200417033 Kirchberg, Poutty St  01953  01953                % 03037 AVL---
+200417044 Kirchberg, Luxexpo Q  01954  01954                % 03037 AVL---
+200417015 Kirchberg, Hôpital    01956  01956                % 03037 AVL---
+200417004 Kirchberg, Alphonse   01957  01957                % 03037 AVL---
+200417036 Kirchberg, Réimerwee  01958  01958                % 03037 AVL---
+200417002 Kirchberg, Albert Bo  01959  01959                % 03037 AVL---
+200417013 Kirchberg, Coudenhov  02000  02000                % 03037 AVL---
+200417019 Kirchberg, Konrad Ad  02001  02001                % 03037 AVL---
+200417005 Kirchberg, Antoine d  02002  02002                % 03037 AVL---
+200417016 Kirchberg, Jean Monn  02003  02003                % 03037 AVL---
+200417007 Kirchberg, B.E.I.     02004  02004                % 03037 AVL---
+200417047 Kirchberg, Rout Bréc  02005  02005                % 03037 AVL---
+200405014 Centre, Fondation Pe  02008  02008                % 03037 AVL---
+200405020 Hamilius (Bus)        02011  02011                % 03037 AVL---
+200405045 Centre, Stäreplaz /   02015  02015                % 03037 AVL---
+200425005 Rollingergrund, Biis  02016  02016                % 03037 AVL---
+200425003 Rollingergrund, Bei   02016  02016                % 03037 AVL---
+200425004 Rollingergrund, Beim  02017  02017                % 03037 AVL---
+200425010 Rollingergrund, Val   02017  02017                % 03037 AVL---
+200425011 Rollingergrund, Val   02018  02018                % 03037 AVL---
+200425006 Rollingergrund, Roud  02019  02019                % 03037 AVL---
+200425012 Rollingergrund, Vill  02020  02020                % 03037 AVL---
+200421004 Muhlenbach, Peiffesc  02021  02021                % 03037 AVL---
+200421006 Muhlenbach, Siwemuer  02022  02022                % 03037 AVL---
+200421003 Muhlenbach, Eecher S  02022  02022                % 03037 AVL---
+200410002 Eich, Ecole Eich      02023  02023                % 03037 AVL---
+200410003 Eich, Eecher Plaz     02024  02024                % 03037 AVL---
+200410001 Eich, Centre Culture  02025                       % 03037 AVL---
+*Z 03038 AVL---       001 015                               % 03038 AVL---
+*L 21       200417023 200410001  01942  02015               % 03038 AVL---
+*A BE 200417023 200410001 000033  01942  02015              % 03038 AVL---
+*R 2 200410001 200417023 200410001  01942  02015            % 03038 AVL---
+*G GE  200417023 200410001  01942  02015                    % 03038 AVL---
+*A VE 200417023 200410001 000033  01942  02015              % 03038 AVL---
+200417023 Kirchberg, Luxexpo E         01942                % 03038 AVL---
+200417033 Kirchberg, Poutty St  01943  01943                % 03038 AVL---
+200417044 Kirchberg, Luxexpo Q  01944  01944                % 03038 AVL---
+200417015 Kirchberg, Hôpital    01946  01946                % 03038 AVL---
+200417004 Kirchberg, Alphonse   01947  01947                % 03038 AVL---
+200417036 Kirchberg, Réimerwee  01948  01948                % 03038 AVL---
+200417002 Kirchberg, Albert Bo  01949  01949                % 03038 AVL---
+200417013 Kirchberg, Coudenhov  01950  01950                % 03038 AVL---
+200417019 Kirchberg, Konrad Ad  01951  01951                % 03038 AVL---
+200417005 Kirchberg, Antoine d  01952  01952                % 03038 AVL---
+200417016 Kirchberg, Jean Monn  01953  01953                % 03038 AVL---
+200417007 Kirchberg, B.E.I.     01954  01954                % 03038 AVL---
+200417047 Kirchberg, Rout Bréc  01955  01955                % 03038 AVL---
+200405014 Centre, Fondation Pe  01958  01958                % 03038 AVL---
+200405020 Hamilius (Bus)        02001  02001                % 03038 AVL---
+200405045 Centre, Stäreplaz /   02005  02005                % 03038 AVL---
+200425005 Rollingergrund, Biis  02006  02006                % 03038 AVL---
+200425003 Rollingergrund, Bei   02006  02006                % 03038 AVL---
+200425004 Rollingergrund, Beim  02007  02007                % 03038 AVL---
+200425010 Rollingergrund, Val   02007  02007                % 03038 AVL---
+200425011 Rollingergrund, Val   02008  02008                % 03038 AVL---
+200425006 Rollingergrund, Roud  02009  02009                % 03038 AVL---
+200425012 Rollingergrund, Vill  02010  02010                % 03038 AVL---
+200421004 Muhlenbach, Peiffesc  02011  02011                % 03038 AVL---
+200421006 Muhlenbach, Siwemuer  02012  02012                % 03038 AVL---
+200421003 Muhlenbach, Eecher S  02012  02012                % 03038 AVL---
+200410002 Eich, Ecole Eich      02013  02013                % 03038 AVL---
+200410003 Eich, Eecher Plaz     02014  02014                % 03038 AVL---
+200410001 Eich, Centre Culture  02015                       % 03038 AVL---
+*Z 03039 AVL---                                             % 03039 AVL---
+*L 21       200417023 200410001  00531  00604               % 03039 AVL---
+*A BE 200417023 200410001 000033  00531  00604              % 03039 AVL---
+*R 2 200410001 200417023 200410001  00531  00604            % 03039 AVL---
+*G ST  200417023 200410001  00531  00604                    % 03039 AVL---
+*A VE 200417023 200410001 000033  00531  00604              % 03039 AVL---
+200417023 Kirchberg, Luxexpo E         00531                % 03039 AVL---
+200417033 Kirchberg, Poutty St  00532  00532                % 03039 AVL---
+200417044 Kirchberg, Luxexpo Q  00533  00533                % 03039 AVL---
+200417015 Kirchberg, Hôpital    00535  00535                % 03039 AVL---
+200417004 Kirchberg, Alphonse   00536  00536                % 03039 AVL---
+200417036 Kirchberg, Réimerwee  00537  00537                % 03039 AVL---
+200417002 Kirchberg, Albert Bo  00538  00538                % 03039 AVL---
+200417013 Kirchberg, Coudenhov  00539  00539                % 03039 AVL---
+200417019 Kirchberg, Konrad Ad  00540  00540                % 03039 AVL---
+200417005 Kirchberg, Antoine d  00541  00541                % 03039 AVL---
+200417016 Kirchberg, Jean Monn  00542  00542                % 03039 AVL---
+200417007 Kirchberg, B.E.I.     00543  00543                % 03039 AVL---
+200417047 Kirchberg, Rout Bréc  00544  00544                % 03039 AVL---
+200405014 Centre, Fondation Pe  00547  00547                % 03039 AVL---
+200405020 Hamilius (Bus)        00550  00550                % 03039 AVL---
+200405045 Centre, Stäreplaz /   00554  00554                % 03039 AVL---
+200425005 Rollingergrund, Biis  00555  00555                % 03039 AVL---
+200425003 Rollingergrund, Bei   00555  00555                % 03039 AVL---
+200425004 Rollingergrund, Beim  00556  00556                % 03039 AVL---
+200425010 Rollingergrund, Val   00556  00556                % 03039 AVL---
+200425011 Rollingergrund, Val   00557  00557                % 03039 AVL---
+200425006 Rollingergrund, Roud  00558  00558                % 03039 AVL---
+200425012 Rollingergrund, Vill  00559  00559                % 03039 AVL---
+200421004 Muhlenbach, Peiffesc  00600  00600                % 03039 AVL---
+200421006 Muhlenbach, Siwemuer  00601  00601                % 03039 AVL---
+200421003 Muhlenbach, Eecher S  00601  00601                % 03039 AVL---
+200410002 Eich, Ecole Eich      00602  00602                % 03039 AVL---
+200410003 Eich, Eecher Plaz     00603  00603                % 03039 AVL---
+200410001 Eich, Centre Culture  00604                       % 03039 AVL---
+*Z 03040 AVL---       016 030                               % 03040 AVL---
+*L 21       200417023 200410001  01109  01150               % 03040 AVL---
+*A BE 200417023 200410001 000018  01109  01150              % 03040 AVL---
+*R 2 200410001 200417023 200410001  01109  01150            % 03040 AVL---
+*G ST  200417023 200410001  01109  01150                    % 03040 AVL---
+*A VE 200417023 200410001 000018  01109  01150              % 03040 AVL---
+200417023 Kirchberg, Luxexpo E         01109                % 03040 AVL---
+200417033 Kirchberg, Poutty St  01110  01110                % 03040 AVL---
+200417044 Kirchberg, Luxexpo Q  01112  01112                % 03040 AVL---
+200417015 Kirchberg, Hôpital    01113  01113                % 03040 AVL---
+200417004 Kirchberg, Alphonse   01115  01115                % 03040 AVL---
+200417036 Kirchberg, Réimerwee  01116  01116                % 03040 AVL---
+200417002 Kirchberg, Albert Bo  01117  01117                % 03040 AVL---
+200417013 Kirchberg, Coudenhov  01118  01118                % 03040 AVL---
+200417019 Kirchberg, Konrad Ad  01119  01119                % 03040 AVL---
+200417005 Kirchberg, Antoine d  01119  01119                % 03040 AVL---
+200417016 Kirchberg, Jean Monn  01120  01120                % 03040 AVL---
+200417007 Kirchberg, B.E.I.     01122  01122                % 03040 AVL---
+200417047 Kirchberg, Rout Bréc  01123  01123                % 03040 AVL---
+200405014 Centre, Fondation Pe  01126  01126                % 03040 AVL---
+200405020 Hamilius (Bus)        01130  01135                % 03040 AVL---
+200405045 Centre, Stäreplaz /   01139  01139                % 03040 AVL---
+200425005 Rollingergrund, Biis  01140  01140                % 03040 AVL---
+200425003 Rollingergrund, Bei   01140  01140                % 03040 AVL---
+200425004 Rollingergrund, Beim  01141  01141                % 03040 AVL---
+200425010 Rollingergrund, Val   01142  01142                % 03040 AVL---
+200425011 Rollingergrund, Val   01143  01143                % 03040 AVL---
+200425006 Rollingergrund, Roud  01144  01144                % 03040 AVL---
+200425012 Rollingergrund, Vill  01144  01144                % 03040 AVL---
+200421004 Muhlenbach, Peiffesc  01145  01145                % 03040 AVL---
+200421006 Muhlenbach, Siwemuer  01146  01146                % 03040 AVL---
+200421003 Muhlenbach, Eecher S  01147  01147                % 03040 AVL---
+200410002 Eich, Ecole Eich      01148  01148                % 03040 AVL---
+200410003 Eich, Eecher Plaz     01149  01149                % 03040 AVL---
+200410001 Eich, Centre Culture  01150                       % 03040 AVL---
+*Z 03041 AVL---       054 015                               % 03041 AVL---
+*L 21       200417023 200410001  00551  00633               % 03041 AVL---
+*A BE 200417023 200410001 000033  00551  00633              % 03041 AVL---
+*R 2 200410001 200417023 200410001  00551  00633            % 03041 AVL---
+*G GE  200417023 200410001  00551  00633                    % 03041 AVL---
+*A VE 200417023 200410001 000033  00551  00633              % 03041 AVL---
+200417023 Kirchberg, Luxexpo E         00551                % 03041 AVL---
+200417033 Kirchberg, Poutty St  00552  00552                % 03041 AVL---
+200417044 Kirchberg, Luxexpo Q  00554  00554                % 03041 AVL---
+200417015 Kirchberg, Hôpital    00556  00556                % 03041 AVL---
+200417004 Kirchberg, Alphonse   00558  00558                % 03041 AVL---
+200417036 Kirchberg, Réimerwee  00559  00559                % 03041 AVL---
+200417002 Kirchberg, Albert Bo  00601  00601                % 03041 AVL---
+200417013 Kirchberg, Coudenhov  00602  00602                % 03041 AVL---
+200417019 Kirchberg, Konrad Ad  00603  00603                % 03041 AVL---
+200417005 Kirchberg, Antoine d  00604  00604                % 03041 AVL---
+200417016 Kirchberg, Jean Monn  00605  00605                % 03041 AVL---
+200417007 Kirchberg, B.E.I.     00607  00607                % 03041 AVL---
+200417047 Kirchberg, Rout Bréc  00609  00609                % 03041 AVL---
+200405014 Centre, Fondation Pe  00611  00611                % 03041 AVL---
+200405020 Hamilius (Bus)        00616  00616                % 03041 AVL---
+200405045 Centre, Stäreplaz /   00620  00620                % 03041 AVL---
+200425005 Rollingergrund, Biis  00621  00621                % 03041 AVL---
+200425003 Rollingergrund, Bei   00622  00622                % 03041 AVL---
+200425004 Rollingergrund, Beim  00623  00623                % 03041 AVL---
+200425010 Rollingergrund, Val   00623  00623                % 03041 AVL---
+200425011 Rollingergrund, Val   00624  00624                % 03041 AVL---
+200425006 Rollingergrund, Roud  00625  00625                % 03041 AVL---
+200425012 Rollingergrund, Vill  00626  00626                % 03041 AVL---
+200421004 Muhlenbach, Peiffesc  00627  00627                % 03041 AVL---
+200421006 Muhlenbach, Siwemuer  00628  00628                % 03041 AVL---
+200421003 Muhlenbach, Eecher S  00629  00629                % 03041 AVL---
+200410002 Eich, Ecole Eich      00630  00630                % 03041 AVL---
+200410003 Eich, Eecher Plaz     00632  00632                % 03041 AVL---
+200410001 Eich, Centre Culture  00633                       % 03041 AVL---

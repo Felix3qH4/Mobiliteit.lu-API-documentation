@@ -1,0 +1,1597 @@
+*F 03 2
+*Z 01012 RGTR--                                             % 01012 RGTR--
+*L 165      110101002 110821006  01826  01854               % 01012 RGTR--
+*R 1 110821006 110101002 110821006  01826  01854            % 01012 RGTR--
+*G 034 110101002 110821006  01826  01854                    % 01012 RGTR--
+*A VE 110101002 110821006 000039  01826  01854              % 01012 RGTR--
+*I FD 110101002 110821006        0001787  01826  01854      % 01012 RGTR--
+110101002 Clervaux, Gare routi         01826                % 01012 RGTR--
+110101013 Clervaux, Baastneche  01827  01827                % 01012 RGTR--
+110822004 Maulusmühle, Cliärrw  01831  01831                % 01012 RGTR--
+110817001 Sassel, Beim Millewe  01835  01835                % 01012 RGTR--
+110803001 Boxhorn, Am Eck       01839  01839                % 01012 RGTR--
+110803003 Boxhorn, Schemer      01840  01840                % 01012 RGTR--
+110816001 Rumlange, Om Knäppch  01842  01842                % 01012 RGTR--
+110812001 Lentzweiler, Haaptst  01844  01844                % 01012 RGTR--
+110806001 Deiffelt, Haaptstroo  01845  01845                % 01012 RGTR--
+110808001 Doennange, Haaptstro  01846  01846                % 01012 RGTR--
+110813001 Lullange, Haaptstroo  01848  01848                % 01012 RGTR--
+110824001 Boevange, Wëntgerdal  01850  01850                % 01012 RGTR--
+110821001 Wincrange, Bei der K  01851  01851                % 01012 RGTR--
+110821005 Wincrange, Béigener   01852  01852                % 01012 RGTR--
+110821006 Wincrange, Centre Mé  01854                       % 01012 RGTR--
+*Z 01013 RGTR--                                             % 01013 RGTR--
+*L 165      110101002 110821006  00626  00654               % 01013 RGTR--
+*R 1 110821006 110101002 110821006  00626  00654            % 01013 RGTR--
+*G 034 110101002 110821006  00626  00654                    % 01013 RGTR--
+*A VE 110101002 110821006 000036  00626  00654              % 01013 RGTR--
+*I FD 110101002 110821006        0000823  00626  00654      % 01013 RGTR--
+110101002 Clervaux, Gare routi         00626                % 01013 RGTR--
+110101013 Clervaux, Baastneche  00627  00627                % 01013 RGTR--
+110822004 Maulusmühle, Cliärrw  00631  00631                % 01013 RGTR--
+110817001 Sassel, Beim Millewe  00635  00635                % 01013 RGTR--
+110803001 Boxhorn, Am Eck       00639  00639                % 01013 RGTR--
+110803003 Boxhorn, Schemer      00640  00640                % 01013 RGTR--
+110816001 Rumlange, Om Knäppch  00642  00642                % 01013 RGTR--
+110812001 Lentzweiler, Haaptst  00644  00644                % 01013 RGTR--
+110806001 Deiffelt, Haaptstroo  00645  00645                % 01013 RGTR--
+110808001 Doennange, Haaptstro  00646  00646                % 01013 RGTR--
+110813001 Lullange, Haaptstroo  00648  00648                % 01013 RGTR--
+110824001 Boevange, Wëntgerdal  00650  00650                % 01013 RGTR--
+110821001 Wincrange, Bei der K  00651  00651                % 01013 RGTR--
+110821005 Wincrange, Béigener   00652  00652                % 01013 RGTR--
+110821006 Wincrange, Centre Mé  00654                       % 01013 RGTR--
+*Z 01014 RGTR--                                             % 01014 RGTR--
+*L 165      110101002 110821006  00726  00754               % 01014 RGTR--
+*R 1 110821006 110101002 110821006  00726  00754            % 01014 RGTR--
+*G 034 110101002 110821006  00726  00754                    % 01014 RGTR--
+*A VE 110101002 110821006 000036  00726  00754              % 01014 RGTR--
+*I FD 110101002 110821006        0001788  00726  00754      % 01014 RGTR--
+110101002 Clervaux, Gare routi         00726                % 01014 RGTR--
+110101013 Clervaux, Baastneche  00727  00727                % 01014 RGTR--
+110822004 Maulusmühle, Cliärrw  00731  00731                % 01014 RGTR--
+110817001 Sassel, Beim Millewe  00735  00735                % 01014 RGTR--
+110803001 Boxhorn, Am Eck       00739  00739                % 01014 RGTR--
+110803003 Boxhorn, Schemer      00740  00740                % 01014 RGTR--
+110816001 Rumlange, Om Knäppch  00742  00742                % 01014 RGTR--
+110812001 Lentzweiler, Haaptst  00744  00744                % 01014 RGTR--
+110806001 Deiffelt, Haaptstroo  00745  00745                % 01014 RGTR--
+110808001 Doennange, Haaptstro  00746  00746                % 01014 RGTR--
+110813001 Lullange, Haaptstroo  00748  00748                % 01014 RGTR--
+110824001 Boevange, Wëntgerdal  00750  00750                % 01014 RGTR--
+110821001 Wincrange, Bei der K  00751  00751                % 01014 RGTR--
+110821005 Wincrange, Béigener   00752  00752                % 01014 RGTR--
+110821006 Wincrange, Centre Mé  00754                       % 01014 RGTR--
+*Z 01015 RGTR--                                             % 01015 RGTR--
+*L 165      110101002 110821006  00826  00854               % 01015 RGTR--
+*R 1 110821006 110101002 110821006  00826  00854            % 01015 RGTR--
+*G 034 110101002 110821006  00826  00854                    % 01015 RGTR--
+*A VE 110101002 110821006 000036  00826  00854              % 01015 RGTR--
+*I FD 110101002 110821006        0000885  00826  00854      % 01015 RGTR--
+110101002 Clervaux, Gare routi         00826                % 01015 RGTR--
+110101013 Clervaux, Baastneche  00827  00827                % 01015 RGTR--
+110822004 Maulusmühle, Cliärrw  00831  00831                % 01015 RGTR--
+110817001 Sassel, Beim Millewe  00835  00835                % 01015 RGTR--
+110803001 Boxhorn, Am Eck       00839  00839                % 01015 RGTR--
+110803003 Boxhorn, Schemer      00840  00840                % 01015 RGTR--
+110816001 Rumlange, Om Knäppch  00842  00842                % 01015 RGTR--
+110812001 Lentzweiler, Haaptst  00844  00844                % 01015 RGTR--
+110806001 Deiffelt, Haaptstroo  00845  00845                % 01015 RGTR--
+110808001 Doennange, Haaptstro  00846  00846                % 01015 RGTR--
+110813001 Lullange, Haaptstroo  00848  00848                % 01015 RGTR--
+110824001 Boevange, Wëntgerdal  00850  00850                % 01015 RGTR--
+110821001 Wincrange, Bei der K  00851  00851                % 01015 RGTR--
+110821005 Wincrange, Béigener   00852  00852                % 01015 RGTR--
+110821006 Wincrange, Centre Mé  00854                       % 01015 RGTR--
+*Z 01016 RGTR--                                             % 01016 RGTR--
+*L 165      110101002 110821006  01626  01654               % 01016 RGTR--
+*R 1 110821006 110101002 110821006  01626  01654            % 01016 RGTR--
+*G 034 110101002 110821006  01626  01654                    % 01016 RGTR--
+*A VE 110101002 110821006 000036  01626  01654              % 01016 RGTR--
+*I FD 110101002 110821006        0001789  01626  01654      % 01016 RGTR--
+110101002 Clervaux, Gare routi         01626                % 01016 RGTR--
+110101013 Clervaux, Baastneche  01627  01627                % 01016 RGTR--
+110822004 Maulusmühle, Cliärrw  01631  01631                % 01016 RGTR--
+110817001 Sassel, Beim Millewe  01635  01635                % 01016 RGTR--
+110803001 Boxhorn, Am Eck       01639  01639                % 01016 RGTR--
+110803003 Boxhorn, Schemer      01640  01640                % 01016 RGTR--
+110816001 Rumlange, Om Knäppch  01642  01642                % 01016 RGTR--
+110812001 Lentzweiler, Haaptst  01644  01644                % 01016 RGTR--
+110806001 Deiffelt, Haaptstroo  01645  01645                % 01016 RGTR--
+110808001 Doennange, Haaptstro  01646  01646                % 01016 RGTR--
+110813001 Lullange, Haaptstroo  01648  01648                % 01016 RGTR--
+110824001 Boevange, Wëntgerdal  01650  01650                % 01016 RGTR--
+110821001 Wincrange, Bei der K  01651  01651                % 01016 RGTR--
+110821005 Wincrange, Béigener   01652  01652                % 01016 RGTR--
+110821006 Wincrange, Centre Mé  01654                       % 01016 RGTR--
+*Z 01017 RGTR--                                             % 01017 RGTR--
+*L 165      110101002 110821006  01726  01754               % 01017 RGTR--
+*R 1 110821006 110101002 110821006  01726  01754            % 01017 RGTR--
+*G 034 110101002 110821006  01726  01754                    % 01017 RGTR--
+*A VE 110101002 110821006 000036  01726  01754              % 01017 RGTR--
+*I FD 110101002 110821006        0001790  01726  01754      % 01017 RGTR--
+110101002 Clervaux, Gare routi         01726                % 01017 RGTR--
+110101013 Clervaux, Baastneche  01727  01727                % 01017 RGTR--
+110822004 Maulusmühle, Cliärrw  01731  01731                % 01017 RGTR--
+110817001 Sassel, Beim Millewe  01735  01735                % 01017 RGTR--
+110803001 Boxhorn, Am Eck       01739  01739                % 01017 RGTR--
+110803003 Boxhorn, Schemer      01740  01740                % 01017 RGTR--
+110816001 Rumlange, Om Knäppch  01742  01742                % 01017 RGTR--
+110812001 Lentzweiler, Haaptst  01744  01744                % 01017 RGTR--
+110806001 Deiffelt, Haaptstroo  01745  01745                % 01017 RGTR--
+110808001 Doennange, Haaptstro  01746  01746                % 01017 RGTR--
+110813001 Lullange, Haaptstroo  01748  01748                % 01017 RGTR--
+110824001 Boevange, Wëntgerdal  01750  01750                % 01017 RGTR--
+110821001 Wincrange, Bei der K  01751  01751                % 01017 RGTR--
+110821005 Wincrange, Béigener   01752  01752                % 01017 RGTR--
+110821006 Wincrange, Centre Mé  01754                       % 01017 RGTR--
+*Z 01018 RGTR--                                             % 01018 RGTR--
+*L 165      110101002 110821006  02126  02154               % 01018 RGTR--
+*R 1 110821006 110101002 110821006  02126  02154            % 01018 RGTR--
+*G 034 110101002 110821006  02126  02154                    % 01018 RGTR--
+*A VE 110101002 110821006 000036  02126  02154              % 01018 RGTR--
+*I FD 110101002 110821006        0001791  02126  02154      % 01018 RGTR--
+110101002 Clervaux, Gare routi         02126                % 01018 RGTR--
+110101013 Clervaux, Baastneche  02127  02127                % 01018 RGTR--
+110822004 Maulusmühle, Cliärrw  02131  02131                % 01018 RGTR--
+110817001 Sassel, Beim Millewe  02135  02135                % 01018 RGTR--
+110803001 Boxhorn, Am Eck       02139  02139                % 01018 RGTR--
+110803003 Boxhorn, Schemer      02140  02140                % 01018 RGTR--
+110816001 Rumlange, Om Knäppch  02142  02142                % 01018 RGTR--
+110812001 Lentzweiler, Haaptst  02144  02144                % 01018 RGTR--
+110806001 Deiffelt, Haaptstroo  02145  02145                % 01018 RGTR--
+110808001 Doennange, Haaptstro  02146  02146                % 01018 RGTR--
+110813001 Lullange, Haaptstroo  02148  02148                % 01018 RGTR--
+110824001 Boevange, Wëntgerdal  02150  02150                % 01018 RGTR--
+110821001 Wincrange, Bei der K  02151  02151                % 01018 RGTR--
+110821005 Wincrange, Béigener   02152  02152                % 01018 RGTR--
+110821006 Wincrange, Centre Mé  02154                       % 01018 RGTR--
+*Z 01019 RGTR--                                             % 01019 RGTR--
+*L 165      110101002 110821006  01026  01052               % 01019 RGTR--
+*R 1 110821006 110101002 110821006  01026  01052            % 01019 RGTR--
+*G 034 110101002 110821006  01026  01052                    % 01019 RGTR--
+*A VE 110101002 110821006 000039  01026  01052              % 01019 RGTR--
+*I FD 110101002 110821006        0001792  01026  01052      % 01019 RGTR--
+110101002 Clervaux, Gare routi         01026                % 01019 RGTR--
+110101013 Clervaux, Baastneche  01027  01027                % 01019 RGTR--
+110822004 Maulusmühle, Cliärrw  01031  01031                % 01019 RGTR--
+110817001 Sassel, Beim Millewe  01035  01035                % 01019 RGTR--
+110803001 Boxhorn, Am Eck       01039  01039                % 01019 RGTR--
+110803003 Boxhorn, Schemer      01039  01039                % 01019 RGTR--
+110816001 Rumlange, Om Knäppch  01041  01041                % 01019 RGTR--
+110812001 Lentzweiler, Haaptst  01043  01043                % 01019 RGTR--
+110806001 Deiffelt, Haaptstroo  01044  01044                % 01019 RGTR--
+110808001 Doennange, Haaptstro  01045  01045                % 01019 RGTR--
+110813001 Lullange, Haaptstroo  01047  01047                % 01019 RGTR--
+110824001 Boevange, Wëntgerdal  01049  01049                % 01019 RGTR--
+110821001 Wincrange, Bei der K  01050  01050                % 01019 RGTR--
+110821005 Wincrange, Béigener   01051  01051                % 01019 RGTR--
+110821006 Wincrange, Centre Mé  01052                       % 01019 RGTR--
+*Z 01020 RGTR--                                             % 01020 RGTR--
+*L 165      110101002 110821006  01226  01252               % 01020 RGTR--
+*R 1 110821006 110101002 110821006  01226  01252            % 01020 RGTR--
+*G 034 110101002 110821006  01226  01252                    % 01020 RGTR--
+*A VE 110101002 110821006 000039  01226  01252              % 01020 RGTR--
+*I FD 110101002 110821006        0001793  01226  01252      % 01020 RGTR--
+110101002 Clervaux, Gare routi         01226                % 01020 RGTR--
+110101013 Clervaux, Baastneche  01227  01227                % 01020 RGTR--
+110822004 Maulusmühle, Cliärrw  01231  01231                % 01020 RGTR--
+110817001 Sassel, Beim Millewe  01235  01235                % 01020 RGTR--
+110803001 Boxhorn, Am Eck       01239  01239                % 01020 RGTR--
+110803003 Boxhorn, Schemer      01239  01239                % 01020 RGTR--
+110816001 Rumlange, Om Knäppch  01241  01241                % 01020 RGTR--
+110812001 Lentzweiler, Haaptst  01243  01243                % 01020 RGTR--
+110806001 Deiffelt, Haaptstroo  01244  01244                % 01020 RGTR--
+110808001 Doennange, Haaptstro  01245  01245                % 01020 RGTR--
+110813001 Lullange, Haaptstroo  01247  01247                % 01020 RGTR--
+110824001 Boevange, Wëntgerdal  01249  01249                % 01020 RGTR--
+110821001 Wincrange, Bei der K  01250  01250                % 01020 RGTR--
+110821005 Wincrange, Béigener   01251  01251                % 01020 RGTR--
+110821006 Wincrange, Centre Mé  01252                       % 01020 RGTR--
+*Z 01021 RGTR--                                             % 01021 RGTR--
+*L 165      110101002 110821006  01426  01452               % 01021 RGTR--
+*R 1 110821006 110101002 110821006  01426  01452            % 01021 RGTR--
+*G 034 110101002 110821006  01426  01452                    % 01021 RGTR--
+*A VE 110101002 110821006 000039  01426  01452              % 01021 RGTR--
+*I FD 110101002 110821006        0001794  01426  01452      % 01021 RGTR--
+110101002 Clervaux, Gare routi         01426                % 01021 RGTR--
+110101013 Clervaux, Baastneche  01427  01427                % 01021 RGTR--
+110822004 Maulusmühle, Cliärrw  01431  01431                % 01021 RGTR--
+110817001 Sassel, Beim Millewe  01435  01435                % 01021 RGTR--
+110803001 Boxhorn, Am Eck       01439  01439                % 01021 RGTR--
+110803003 Boxhorn, Schemer      01439  01439                % 01021 RGTR--
+110816001 Rumlange, Om Knäppch  01441  01441                % 01021 RGTR--
+110812001 Lentzweiler, Haaptst  01443  01443                % 01021 RGTR--
+110806001 Deiffelt, Haaptstroo  01444  01444                % 01021 RGTR--
+110808001 Doennange, Haaptstro  01445  01445                % 01021 RGTR--
+110813001 Lullange, Haaptstroo  01447  01447                % 01021 RGTR--
+110824001 Boevange, Wëntgerdal  01449  01449                % 01021 RGTR--
+110821001 Wincrange, Bei der K  01450  01450                % 01021 RGTR--
+110821005 Wincrange, Béigener   01451  01451                % 01021 RGTR--
+110821006 Wincrange, Centre Mé  01452                       % 01021 RGTR--
+*Z 01022 RGTR--                                             % 01022 RGTR--
+*L 165      110101002 110821006  02026  02052               % 01022 RGTR--
+*R 1 110821006 110101002 110821006  02026  02052            % 01022 RGTR--
+*G 034 110101002 110821006  02026  02052                    % 01022 RGTR--
+*A VE 110101002 110821006 000039  02026  02052              % 01022 RGTR--
+*I FD 110101002 110821006        0001795  02026  02052      % 01022 RGTR--
+110101002 Clervaux, Gare routi         02026                % 01022 RGTR--
+110101013 Clervaux, Baastneche  02027  02027                % 01022 RGTR--
+110822004 Maulusmühle, Cliärrw  02031  02031                % 01022 RGTR--
+110817001 Sassel, Beim Millewe  02035  02035                % 01022 RGTR--
+110803001 Boxhorn, Am Eck       02039  02039                % 01022 RGTR--
+110803003 Boxhorn, Schemer      02039  02039                % 01022 RGTR--
+110816001 Rumlange, Om Knäppch  02041  02041                % 01022 RGTR--
+110812001 Lentzweiler, Haaptst  02043  02043                % 01022 RGTR--
+110806001 Deiffelt, Haaptstroo  02044  02044                % 01022 RGTR--
+110808001 Doennange, Haaptstro  02045  02045                % 01022 RGTR--
+110813001 Lullange, Haaptstroo  02047  02047                % 01022 RGTR--
+110824001 Boevange, Wëntgerdal  02049  02049                % 01022 RGTR--
+110821001 Wincrange, Bei der K  02050  02050                % 01022 RGTR--
+110821005 Wincrange, Béigener   02051  02051                % 01022 RGTR--
+110821006 Wincrange, Centre Mé  02052                       % 01022 RGTR--
+*Z 01023 RGTR--                                             % 01023 RGTR--
+*L 165      110101002 110821006  02226  02252               % 01023 RGTR--
+*R 1 110821006 110101002 110821006  02226  02252            % 01023 RGTR--
+*G 034 110101002 110821006  02226  02252                    % 01023 RGTR--
+*A VE 110101002 110821006 000039  02226  02252              % 01023 RGTR--
+*I FD 110101002 110821006        0001796  02226  02252      % 01023 RGTR--
+110101002 Clervaux, Gare routi         02226                % 01023 RGTR--
+110101013 Clervaux, Baastneche  02227  02227                % 01023 RGTR--
+110822004 Maulusmühle, Cliärrw  02231  02231                % 01023 RGTR--
+110817001 Sassel, Beim Millewe  02235  02235                % 01023 RGTR--
+110803001 Boxhorn, Am Eck       02239  02239                % 01023 RGTR--
+110803003 Boxhorn, Schemer      02239  02239                % 01023 RGTR--
+110816001 Rumlange, Om Knäppch  02241  02241                % 01023 RGTR--
+110812001 Lentzweiler, Haaptst  02243  02243                % 01023 RGTR--
+110806001 Deiffelt, Haaptstroo  02244  02244                % 01023 RGTR--
+110808001 Doennange, Haaptstro  02245  02245                % 01023 RGTR--
+110813001 Lullange, Haaptstroo  02247  02247                % 01023 RGTR--
+110824001 Boevange, Wëntgerdal  02249  02249                % 01023 RGTR--
+110821001 Wincrange, Bei der K  02250  02250                % 01023 RGTR--
+110821005 Wincrange, Béigener   02251  02251                % 01023 RGTR--
+110821006 Wincrange, Centre Mé  02252                       % 01023 RGTR--
+*Z 01024 RGTR--                                             % 01024 RGTR--
+*L 165      110101002 110821006  00926  00952               % 01024 RGTR--
+*R 1 110821006 110101002 110821006  00926  00952            % 01024 RGTR--
+*G 034 110101002 110821006  00926  00952                    % 01024 RGTR--
+*A VE 110101002 110821006 000036  00926  00952              % 01024 RGTR--
+*I FD 110101002 110821006        0001797  00926  00952      % 01024 RGTR--
+110101002 Clervaux, Gare routi         00926                % 01024 RGTR--
+110101013 Clervaux, Baastneche  00927  00927                % 01024 RGTR--
+110822004 Maulusmühle, Cliärrw  00931  00931                % 01024 RGTR--
+110817001 Sassel, Beim Millewe  00935  00935                % 01024 RGTR--
+110803001 Boxhorn, Am Eck       00939  00939                % 01024 RGTR--
+110803003 Boxhorn, Schemer      00939  00939                % 01024 RGTR--
+110816001 Rumlange, Om Knäppch  00941  00941                % 01024 RGTR--
+110812001 Lentzweiler, Haaptst  00943  00943                % 01024 RGTR--
+110806001 Deiffelt, Haaptstroo  00944  00944                % 01024 RGTR--
+110808001 Doennange, Haaptstro  00945  00945                % 01024 RGTR--
+110813001 Lullange, Haaptstroo  00947  00947                % 01024 RGTR--
+110824001 Boevange, Wëntgerdal  00949  00949                % 01024 RGTR--
+110821001 Wincrange, Bei der K  00950  00950                % 01024 RGTR--
+110821005 Wincrange, Béigener   00951  00951                % 01024 RGTR--
+110821006 Wincrange, Centre Mé  00952                       % 01024 RGTR--
+*Z 01025 RGTR--                                             % 01025 RGTR--
+*L 165      110101002 110821006  01126  01152               % 01025 RGTR--
+*R 1 110821006 110101002 110821006  01126  01152            % 01025 RGTR--
+*G 034 110101002 110821006  01126  01152                    % 01025 RGTR--
+*A VE 110101002 110821006 000036  01126  01152              % 01025 RGTR--
+*I FD 110101002 110821006        0001798  01126  01152      % 01025 RGTR--
+110101002 Clervaux, Gare routi         01126                % 01025 RGTR--
+110101013 Clervaux, Baastneche  01127  01127                % 01025 RGTR--
+110822004 Maulusmühle, Cliärrw  01131  01131                % 01025 RGTR--
+110817001 Sassel, Beim Millewe  01135  01135                % 01025 RGTR--
+110803001 Boxhorn, Am Eck       01139  01139                % 01025 RGTR--
+110803003 Boxhorn, Schemer      01139  01139                % 01025 RGTR--
+110816001 Rumlange, Om Knäppch  01141  01141                % 01025 RGTR--
+110812001 Lentzweiler, Haaptst  01143  01143                % 01025 RGTR--
+110806001 Deiffelt, Haaptstroo  01144  01144                % 01025 RGTR--
+110808001 Doennange, Haaptstro  01145  01145                % 01025 RGTR--
+110813001 Lullange, Haaptstroo  01147  01147                % 01025 RGTR--
+110824001 Boevange, Wëntgerdal  01149  01149                % 01025 RGTR--
+110821001 Wincrange, Bei der K  01150  01150                % 01025 RGTR--
+110821005 Wincrange, Béigener   01151  01151                % 01025 RGTR--
+110821006 Wincrange, Centre Mé  01152                       % 01025 RGTR--
+*Z 01026 RGTR--                                             % 01026 RGTR--
+*L 165      110101002 110821006  01326  01352               % 01026 RGTR--
+*R 1 110821006 110101002 110821006  01326  01352            % 01026 RGTR--
+*G 034 110101002 110821006  01326  01352                    % 01026 RGTR--
+*A VE 110101002 110821006 000036  01326  01352              % 01026 RGTR--
+*I FD 110101002 110821006        0001799  01326  01352      % 01026 RGTR--
+110101002 Clervaux, Gare routi         01326                % 01026 RGTR--
+110101013 Clervaux, Baastneche  01327  01327                % 01026 RGTR--
+110822004 Maulusmühle, Cliärrw  01331  01331                % 01026 RGTR--
+110817001 Sassel, Beim Millewe  01335  01335                % 01026 RGTR--
+110803001 Boxhorn, Am Eck       01339  01339                % 01026 RGTR--
+110803003 Boxhorn, Schemer      01339  01339                % 01026 RGTR--
+110816001 Rumlange, Om Knäppch  01341  01341                % 01026 RGTR--
+110812001 Lentzweiler, Haaptst  01343  01343                % 01026 RGTR--
+110806001 Deiffelt, Haaptstroo  01344  01344                % 01026 RGTR--
+110808001 Doennange, Haaptstro  01345  01345                % 01026 RGTR--
+110813001 Lullange, Haaptstroo  01347  01347                % 01026 RGTR--
+110824001 Boevange, Wëntgerdal  01349  01349                % 01026 RGTR--
+110821001 Wincrange, Bei der K  01350  01350                % 01026 RGTR--
+110821005 Wincrange, Béigener   01351  01351                % 01026 RGTR--
+110821006 Wincrange, Centre Mé  01352                       % 01026 RGTR--
+*Z 01027 RGTR--                                             % 01027 RGTR--
+*L 165      110101002 110821006  01526  01552               % 01027 RGTR--
+*R 1 110821006 110101002 110821006  01526  01552            % 01027 RGTR--
+*G 034 110101002 110821006  01526  01552                    % 01027 RGTR--
+*A VE 110101002 110821006 000036  01526  01552              % 01027 RGTR--
+*I FD 110101002 110821006        0001800  01526  01552      % 01027 RGTR--
+110101002 Clervaux, Gare routi         01526                % 01027 RGTR--
+110101013 Clervaux, Baastneche  01527  01527                % 01027 RGTR--
+110822004 Maulusmühle, Cliärrw  01531  01531                % 01027 RGTR--
+110817001 Sassel, Beim Millewe  01535  01535                % 01027 RGTR--
+110803001 Boxhorn, Am Eck       01539  01539                % 01027 RGTR--
+110803003 Boxhorn, Schemer      01539  01539                % 01027 RGTR--
+110816001 Rumlange, Om Knäppch  01541  01541                % 01027 RGTR--
+110812001 Lentzweiler, Haaptst  01543  01543                % 01027 RGTR--
+110806001 Deiffelt, Haaptstroo  01544  01544                % 01027 RGTR--
+110808001 Doennange, Haaptstro  01545  01545                % 01027 RGTR--
+110813001 Lullange, Haaptstroo  01547  01547                % 01027 RGTR--
+110824001 Boevange, Wëntgerdal  01549  01549                % 01027 RGTR--
+110821001 Wincrange, Bei der K  01550  01550                % 01027 RGTR--
+110821005 Wincrange, Béigener   01551  01551                % 01027 RGTR--
+110821006 Wincrange, Centre Mé  01552                       % 01027 RGTR--
+*Z 01028 RGTR--                                             % 01028 RGTR--
+*L 165      110101002 110821006  01926  01952               % 01028 RGTR--
+*R 1 110821006 110101002 110821006  01926  01952            % 01028 RGTR--
+*G 034 110101002 110821006  01926  01952                    % 01028 RGTR--
+*A VE 110101002 110821006 000036  01926  01952              % 01028 RGTR--
+*I FD 110101002 110821006        0001801  01926  01952      % 01028 RGTR--
+110101002 Clervaux, Gare routi         01926                % 01028 RGTR--
+110101013 Clervaux, Baastneche  01927  01927                % 01028 RGTR--
+110822004 Maulusmühle, Cliärrw  01931  01931                % 01028 RGTR--
+110817001 Sassel, Beim Millewe  01935  01935                % 01028 RGTR--
+110803001 Boxhorn, Am Eck       01939  01939                % 01028 RGTR--
+110803003 Boxhorn, Schemer      01939  01939                % 01028 RGTR--
+110816001 Rumlange, Om Knäppch  01941  01941                % 01028 RGTR--
+110812001 Lentzweiler, Haaptst  01943  01943                % 01028 RGTR--
+110806001 Deiffelt, Haaptstroo  01944  01944                % 01028 RGTR--
+110808001 Doennange, Haaptstro  01945  01945                % 01028 RGTR--
+110813001 Lullange, Haaptstroo  01947  01947                % 01028 RGTR--
+110824001 Boevange, Wëntgerdal  01949  01949                % 01028 RGTR--
+110821001 Wincrange, Bei der K  01950  01950                % 01028 RGTR--
+110821005 Wincrange, Béigener   01951  01951                % 01028 RGTR--
+110821006 Wincrange, Centre Mé  01952                       % 01028 RGTR--
+*Z 01029 RGTR--                                             % 01029 RGTR--
+*L 165      110101002 110821006  00826  00852               % 01029 RGTR--
+*R 1 110821006 110101002 110821006  00826  00852            % 01029 RGTR--
+*G 034 110101002 110821006  00826  00852                    % 01029 RGTR--
+*A VE 110101002 110821006 000018  00826  00852              % 01029 RGTR--
+*I FD 110101002 110821006        0000885  00826  00852      % 01029 RGTR--
+110101002 Clervaux, Gare routi         00826                % 01029 RGTR--
+110101013 Clervaux, Baastneche  00827  00827                % 01029 RGTR--
+110822004 Maulusmühle, Cliärrw  00831  00831                % 01029 RGTR--
+110817001 Sassel, Beim Millewe  00835  00835                % 01029 RGTR--
+110803001 Boxhorn, Am Eck       00839  00839                % 01029 RGTR--
+110803003 Boxhorn, Schemer      00839  00839                % 01029 RGTR--
+110816001 Rumlange, Om Knäppch  00841  00841                % 01029 RGTR--
+110812001 Lentzweiler, Haaptst  00843  00843                % 01029 RGTR--
+110806001 Deiffelt, Haaptstroo  00844  00844                % 01029 RGTR--
+110808001 Doennange, Haaptstro  00845  00845                % 01029 RGTR--
+110813001 Lullange, Haaptstroo  00847  00847                % 01029 RGTR--
+110824001 Boevange, Wëntgerdal  00849  00849                % 01029 RGTR--
+110821001 Wincrange, Bei der K  00850  00850                % 01029 RGTR--
+110821005 Wincrange, Béigener   00851  00851                % 01029 RGTR--
+110821006 Wincrange, Centre Mé  00852                       % 01029 RGTR--
+*Z 01030 RGTR--                                             % 01030 RGTR--
+*L 165      110101002 110821006  01626  01652               % 01030 RGTR--
+*R 1 110821006 110101002 110821006  01626  01652            % 01030 RGTR--
+*G 034 110101002 110821006  01626  01652                    % 01030 RGTR--
+*A VE 110101002 110821006 000018  01626  01652              % 01030 RGTR--
+*I FD 110101002 110821006        0001789  01626  01652      % 01030 RGTR--
+110101002 Clervaux, Gare routi         01626                % 01030 RGTR--
+110101013 Clervaux, Baastneche  01627  01627                % 01030 RGTR--
+110822004 Maulusmühle, Cliärrw  01631  01631                % 01030 RGTR--
+110817001 Sassel, Beim Millewe  01635  01635                % 01030 RGTR--
+110803001 Boxhorn, Am Eck       01639  01639                % 01030 RGTR--
+110803003 Boxhorn, Schemer      01639  01639                % 01030 RGTR--
+110816001 Rumlange, Om Knäppch  01641  01641                % 01030 RGTR--
+110812001 Lentzweiler, Haaptst  01643  01643                % 01030 RGTR--
+110806001 Deiffelt, Haaptstroo  01644  01644                % 01030 RGTR--
+110808001 Doennange, Haaptstro  01645  01645                % 01030 RGTR--
+110813001 Lullange, Haaptstroo  01647  01647                % 01030 RGTR--
+110824001 Boevange, Wëntgerdal  01649  01649                % 01030 RGTR--
+110821001 Wincrange, Bei der K  01650  01650                % 01030 RGTR--
+110821005 Wincrange, Béigener   01651  01651                % 01030 RGTR--
+110821006 Wincrange, Centre Mé  01652                       % 01030 RGTR--
+*Z 01031 RGTR--                                             % 01031 RGTR--
+*L 165      110821006 110101002  00905  00932               % 01031 RGTR--
+*R 2 110101002 110821006 110101002  00905  00932            % 01031 RGTR--
+*G 034 110821006 110101002  00905  00932                    % 01031 RGTR--
+*A VE 110821006 110101002 000039  00905  00932              % 01031 RGTR--
+*I FD 110821006 110101002        0001802  00905  00932      % 01031 RGTR--
+110821006 Wincrange, Centre Mé         00905                % 01031 RGTR--
+110821005 Wincrange, Béigener   00906  00906                % 01031 RGTR--
+110821001 Wincrange, Bei der K  00907  00907                % 01031 RGTR--
+110824001 Boevange, Wëntgerdal  00908  00908                % 01031 RGTR--
+110813001 Lullange, Haaptstroo  00910  00910                % 01031 RGTR--
+110808001 Doennange, Haaptstro  00912  00912                % 01031 RGTR--
+110806001 Deiffelt, Haaptstroo  00913  00913                % 01031 RGTR--
+110812001 Lentzweiler, Haaptst  00914  00914                % 01031 RGTR--
+110816001 Rumlange, Om Knäppch  00915  00915                % 01031 RGTR--
+110803003 Boxhorn, Schemer      00917  00917                % 01031 RGTR--
+110803001 Boxhorn, Am Eck       00918  00918                % 01031 RGTR--
+110817001 Sassel, Beim Millewe  00922  00922                % 01031 RGTR--
+110822004 Maulusmühle, Cliärrw  00927  00927                % 01031 RGTR--
+110101013 Clervaux, Baastneche  00931  00931                % 01031 RGTR--
+110101002 Clervaux, Gare routi  00932                       % 01031 RGTR--
+*Z 01032 RGTR--                                             % 01032 RGTR--
+*L 165      110821006 110101002  01105  01132               % 01032 RGTR--
+*R 2 110101002 110821006 110101002  01105  01132            % 01032 RGTR--
+*G 034 110821006 110101002  01105  01132                    % 01032 RGTR--
+*A VE 110821006 110101002 000039  01105  01132              % 01032 RGTR--
+*I FD 110821006 110101002        0001803  01105  01132      % 01032 RGTR--
+110821006 Wincrange, Centre Mé         01105                % 01032 RGTR--
+110821005 Wincrange, Béigener   01106  01106                % 01032 RGTR--
+110821001 Wincrange, Bei der K  01107  01107                % 01032 RGTR--
+110824001 Boevange, Wëntgerdal  01108  01108                % 01032 RGTR--
+110813001 Lullange, Haaptstroo  01110  01110                % 01032 RGTR--
+110808001 Doennange, Haaptstro  01112  01112                % 01032 RGTR--
+110806001 Deiffelt, Haaptstroo  01113  01113                % 01032 RGTR--
+110812001 Lentzweiler, Haaptst  01114  01114                % 01032 RGTR--
+110816001 Rumlange, Om Knäppch  01115  01115                % 01032 RGTR--
+110803003 Boxhorn, Schemer      01117  01117                % 01032 RGTR--
+110803001 Boxhorn, Am Eck       01118  01118                % 01032 RGTR--
+110817001 Sassel, Beim Millewe  01122  01122                % 01032 RGTR--
+110822004 Maulusmühle, Cliärrw  01127  01127                % 01032 RGTR--
+110101013 Clervaux, Baastneche  01131  01131                % 01032 RGTR--
+110101002 Clervaux, Gare routi  01132                       % 01032 RGTR--
+*Z 01033 RGTR--                                             % 01033 RGTR--
+*L 165      110821006 110101002  01305  01332               % 01033 RGTR--
+*R 2 110101002 110821006 110101002  01305  01332            % 01033 RGTR--
+*G 034 110821006 110101002  01305  01332                    % 01033 RGTR--
+*A VE 110821006 110101002 000039  01305  01332              % 01033 RGTR--
+*I FD 110821006 110101002        0001804  01305  01332      % 01033 RGTR--
+110821006 Wincrange, Centre Mé         01305                % 01033 RGTR--
+110821005 Wincrange, Béigener   01306  01306                % 01033 RGTR--
+110821001 Wincrange, Bei der K  01307  01307                % 01033 RGTR--
+110824001 Boevange, Wëntgerdal  01308  01308                % 01033 RGTR--
+110813001 Lullange, Haaptstroo  01310  01310                % 01033 RGTR--
+110808001 Doennange, Haaptstro  01312  01312                % 01033 RGTR--
+110806001 Deiffelt, Haaptstroo  01313  01313                % 01033 RGTR--
+110812001 Lentzweiler, Haaptst  01314  01314                % 01033 RGTR--
+110816001 Rumlange, Om Knäppch  01315  01315                % 01033 RGTR--
+110803003 Boxhorn, Schemer      01317  01317                % 01033 RGTR--
+110803001 Boxhorn, Am Eck       01318  01318                % 01033 RGTR--
+110817001 Sassel, Beim Millewe  01322  01322                % 01033 RGTR--
+110822004 Maulusmühle, Cliärrw  01327  01327                % 01033 RGTR--
+110101013 Clervaux, Baastneche  01331  01331                % 01033 RGTR--
+110101002 Clervaux, Gare routi  01332                       % 01033 RGTR--
+*Z 01034 RGTR--                                             % 01034 RGTR--
+*L 165      110821006 110101002  01505  01532               % 01034 RGTR--
+*R 2 110101002 110821006 110101002  01505  01532            % 01034 RGTR--
+*G 034 110821006 110101002  01505  01532                    % 01034 RGTR--
+*A VE 110821006 110101002 000039  01505  01532              % 01034 RGTR--
+*I FD 110821006 110101002        0001805  01505  01532      % 01034 RGTR--
+110821006 Wincrange, Centre Mé         01505                % 01034 RGTR--
+110821005 Wincrange, Béigener   01506  01506                % 01034 RGTR--
+110821001 Wincrange, Bei der K  01507  01507                % 01034 RGTR--
+110824001 Boevange, Wëntgerdal  01508  01508                % 01034 RGTR--
+110813001 Lullange, Haaptstroo  01510  01510                % 01034 RGTR--
+110808001 Doennange, Haaptstro  01512  01512                % 01034 RGTR--
+110806001 Deiffelt, Haaptstroo  01513  01513                % 01034 RGTR--
+110812001 Lentzweiler, Haaptst  01514  01514                % 01034 RGTR--
+110816001 Rumlange, Om Knäppch  01515  01515                % 01034 RGTR--
+110803003 Boxhorn, Schemer      01517  01517                % 01034 RGTR--
+110803001 Boxhorn, Am Eck       01518  01518                % 01034 RGTR--
+110817001 Sassel, Beim Millewe  01522  01522                % 01034 RGTR--
+110822004 Maulusmühle, Cliärrw  01527  01527                % 01034 RGTR--
+110101013 Clervaux, Baastneche  01531  01531                % 01034 RGTR--
+110101002 Clervaux, Gare routi  01532                       % 01034 RGTR--
+*Z 01035 RGTR--                                             % 01035 RGTR--
+*L 165      110821006 110101002  01905  01932               % 01035 RGTR--
+*R 2 110101002 110821006 110101002  01905  01932            % 01035 RGTR--
+*G 034 110821006 110101002  01905  01932                    % 01035 RGTR--
+*A VE 110821006 110101002 000039  01905  01932              % 01035 RGTR--
+*I FD 110821006 110101002        0001806  01905  01932      % 01035 RGTR--
+110821006 Wincrange, Centre Mé         01905                % 01035 RGTR--
+110821005 Wincrange, Béigener   01906  01906                % 01035 RGTR--
+110821001 Wincrange, Bei der K  01907  01907                % 01035 RGTR--
+110824001 Boevange, Wëntgerdal  01908  01908                % 01035 RGTR--
+110813001 Lullange, Haaptstroo  01910  01910                % 01035 RGTR--
+110808001 Doennange, Haaptstro  01912  01912                % 01035 RGTR--
+110806001 Deiffelt, Haaptstroo  01913  01913                % 01035 RGTR--
+110812001 Lentzweiler, Haaptst  01914  01914                % 01035 RGTR--
+110816001 Rumlange, Om Knäppch  01915  01915                % 01035 RGTR--
+110803003 Boxhorn, Schemer      01917  01917                % 01035 RGTR--
+110803001 Boxhorn, Am Eck       01918  01918                % 01035 RGTR--
+110817001 Sassel, Beim Millewe  01922  01922                % 01035 RGTR--
+110822004 Maulusmühle, Cliärrw  01927  01927                % 01035 RGTR--
+110101013 Clervaux, Baastneche  01931  01931                % 01035 RGTR--
+110101002 Clervaux, Gare routi  01932                       % 01035 RGTR--
+*Z 01036 RGTR--                                             % 01036 RGTR--
+*L 165      110821006 110101002  02105  02132               % 01036 RGTR--
+*R 2 110101002 110821006 110101002  02105  02132            % 01036 RGTR--
+*G 034 110821006 110101002  02105  02132                    % 01036 RGTR--
+*A VE 110821006 110101002 000039  02105  02132              % 01036 RGTR--
+*I FD 110821006 110101002        0001807  02105  02132      % 01036 RGTR--
+110821006 Wincrange, Centre Mé         02105                % 01036 RGTR--
+110821005 Wincrange, Béigener   02106  02106                % 01036 RGTR--
+110821001 Wincrange, Bei der K  02107  02107                % 01036 RGTR--
+110824001 Boevange, Wëntgerdal  02108  02108                % 01036 RGTR--
+110813001 Lullange, Haaptstroo  02110  02110                % 01036 RGTR--
+110808001 Doennange, Haaptstro  02112  02112                % 01036 RGTR--
+110806001 Deiffelt, Haaptstroo  02113  02113                % 01036 RGTR--
+110812001 Lentzweiler, Haaptst  02114  02114                % 01036 RGTR--
+110816001 Rumlange, Om Knäppch  02115  02115                % 01036 RGTR--
+110803003 Boxhorn, Schemer      02117  02117                % 01036 RGTR--
+110803001 Boxhorn, Am Eck       02118  02118                % 01036 RGTR--
+110817001 Sassel, Beim Millewe  02122  02122                % 01036 RGTR--
+110822004 Maulusmühle, Cliärrw  02127  02127                % 01036 RGTR--
+110101013 Clervaux, Baastneche  02131  02131                % 01036 RGTR--
+110101002 Clervaux, Gare routi  02132                       % 01036 RGTR--
+*Z 01037 RGTR--                                             % 01037 RGTR--
+*L 165      110821006 110101002  00505  00532               % 01037 RGTR--
+*R 2 110101002 110821006 110101002  00505  00532            % 01037 RGTR--
+*G 034 110821006 110101002  00505  00532                    % 01037 RGTR--
+*A VE 110821006 110101002 000036  00505  00532              % 01037 RGTR--
+*I FD 110821006 110101002        0001808  00505  00532      % 01037 RGTR--
+110821006 Wincrange, Centre Mé         00505                % 01037 RGTR--
+110821005 Wincrange, Béigener   00506  00506                % 01037 RGTR--
+110821001 Wincrange, Bei der K  00507  00507                % 01037 RGTR--
+110824001 Boevange, Wëntgerdal  00508  00508                % 01037 RGTR--
+110813001 Lullange, Haaptstroo  00510  00510                % 01037 RGTR--
+110808001 Doennange, Haaptstro  00512  00512                % 01037 RGTR--
+110806001 Deiffelt, Haaptstroo  00513  00513                % 01037 RGTR--
+110812001 Lentzweiler, Haaptst  00514  00514                % 01037 RGTR--
+110816001 Rumlange, Om Knäppch  00515  00515                % 01037 RGTR--
+110803003 Boxhorn, Schemer      00517  00517                % 01037 RGTR--
+110803001 Boxhorn, Am Eck       00518  00518                % 01037 RGTR--
+110817001 Sassel, Beim Millewe  00522  00522                % 01037 RGTR--
+110822004 Maulusmühle, Cliärrw  00527  00527                % 01037 RGTR--
+110101013 Clervaux, Baastneche  00531  00531                % 01037 RGTR--
+110101002 Clervaux, Gare routi  00532                       % 01037 RGTR--
+*Z 01038 RGTR--                                             % 01038 RGTR--
+*L 165      110821006 110101002  00605  00632               % 01038 RGTR--
+*R 2 110101002 110821006 110101002  00605  00632            % 01038 RGTR--
+*G 034 110821006 110101002  00605  00632                    % 01038 RGTR--
+*A VE 110821006 110101002 000036  00605  00632              % 01038 RGTR--
+*I FD 110821006 110101002        0001809  00605  00632      % 01038 RGTR--
+110821006 Wincrange, Centre Mé         00605                % 01038 RGTR--
+110821005 Wincrange, Béigener   00606  00606                % 01038 RGTR--
+110821001 Wincrange, Bei der K  00607  00607                % 01038 RGTR--
+110824001 Boevange, Wëntgerdal  00608  00608                % 01038 RGTR--
+110813001 Lullange, Haaptstroo  00610  00610                % 01038 RGTR--
+110808001 Doennange, Haaptstro  00612  00612                % 01038 RGTR--
+110806001 Deiffelt, Haaptstroo  00613  00613                % 01038 RGTR--
+110812001 Lentzweiler, Haaptst  00614  00614                % 01038 RGTR--
+110816001 Rumlange, Om Knäppch  00615  00615                % 01038 RGTR--
+110803003 Boxhorn, Schemer      00617  00617                % 01038 RGTR--
+110803001 Boxhorn, Am Eck       00618  00618                % 01038 RGTR--
+110817001 Sassel, Beim Millewe  00622  00622                % 01038 RGTR--
+110822004 Maulusmühle, Cliärrw  00627  00627                % 01038 RGTR--
+110101013 Clervaux, Baastneche  00631  00631                % 01038 RGTR--
+110101002 Clervaux, Gare routi  00632                       % 01038 RGTR--
+*Z 01039 RGTR--                                             % 01039 RGTR--
+*L 165      110821006 110101002  01005  01032               % 01039 RGTR--
+*R 2 110101002 110821006 110101002  01005  01032            % 01039 RGTR--
+*G 034 110821006 110101002  01005  01032                    % 01039 RGTR--
+*A VE 110821006 110101002 000036  01005  01032              % 01039 RGTR--
+*I FD 110821006 110101002        0001810  01005  01032      % 01039 RGTR--
+110821006 Wincrange, Centre Mé         01005                % 01039 RGTR--
+110821005 Wincrange, Béigener   01006  01006                % 01039 RGTR--
+110821001 Wincrange, Bei der K  01007  01007                % 01039 RGTR--
+110824001 Boevange, Wëntgerdal  01008  01008                % 01039 RGTR--
+110813001 Lullange, Haaptstroo  01010  01010                % 01039 RGTR--
+110808001 Doennange, Haaptstro  01012  01012                % 01039 RGTR--
+110806001 Deiffelt, Haaptstroo  01013  01013                % 01039 RGTR--
+110812001 Lentzweiler, Haaptst  01014  01014                % 01039 RGTR--
+110816001 Rumlange, Om Knäppch  01015  01015                % 01039 RGTR--
+110803003 Boxhorn, Schemer      01017  01017                % 01039 RGTR--
+110803001 Boxhorn, Am Eck       01018  01018                % 01039 RGTR--
+110817001 Sassel, Beim Millewe  01022  01022                % 01039 RGTR--
+110822004 Maulusmühle, Cliärrw  01027  01027                % 01039 RGTR--
+110101013 Clervaux, Baastneche  01031  01031                % 01039 RGTR--
+110101002 Clervaux, Gare routi  01032                       % 01039 RGTR--
+*Z 01040 RGTR--                                             % 01040 RGTR--
+*L 165      110821006 110101002  01205  01232               % 01040 RGTR--
+*R 2 110101002 110821006 110101002  01205  01232            % 01040 RGTR--
+*G 034 110821006 110101002  01205  01232                    % 01040 RGTR--
+*A VE 110821006 110101002 000036  01205  01232              % 01040 RGTR--
+*I FD 110821006 110101002        0001811  01205  01232      % 01040 RGTR--
+110821006 Wincrange, Centre Mé         01205                % 01040 RGTR--
+110821005 Wincrange, Béigener   01206  01206                % 01040 RGTR--
+110821001 Wincrange, Bei der K  01207  01207                % 01040 RGTR--
+110824001 Boevange, Wëntgerdal  01208  01208                % 01040 RGTR--
+110813001 Lullange, Haaptstroo  01210  01210                % 01040 RGTR--
+110808001 Doennange, Haaptstro  01212  01212                % 01040 RGTR--
+110806001 Deiffelt, Haaptstroo  01213  01213                % 01040 RGTR--
+110812001 Lentzweiler, Haaptst  01214  01214                % 01040 RGTR--
+110816001 Rumlange, Om Knäppch  01215  01215                % 01040 RGTR--
+110803003 Boxhorn, Schemer      01217  01217                % 01040 RGTR--
+110803001 Boxhorn, Am Eck       01218  01218                % 01040 RGTR--
+110817001 Sassel, Beim Millewe  01222  01222                % 01040 RGTR--
+110822004 Maulusmühle, Cliärrw  01227  01227                % 01040 RGTR--
+110101013 Clervaux, Baastneche  01231  01231                % 01040 RGTR--
+110101002 Clervaux, Gare routi  01232                       % 01040 RGTR--
+*Z 01041 RGTR--                                             % 01041 RGTR--
+*L 165      110821006 110101002  01405  01432               % 01041 RGTR--
+*R 2 110101002 110821006 110101002  01405  01432            % 01041 RGTR--
+*G 034 110821006 110101002  01405  01432                    % 01041 RGTR--
+*A VE 110821006 110101002 000036  01405  01432              % 01041 RGTR--
+*I FD 110821006 110101002        0001812  01405  01432      % 01041 RGTR--
+110821006 Wincrange, Centre Mé         01405                % 01041 RGTR--
+110821005 Wincrange, Béigener   01406  01406                % 01041 RGTR--
+110821001 Wincrange, Bei der K  01407  01407                % 01041 RGTR--
+110824001 Boevange, Wëntgerdal  01408  01408                % 01041 RGTR--
+110813001 Lullange, Haaptstroo  01410  01410                % 01041 RGTR--
+110808001 Doennange, Haaptstro  01412  01412                % 01041 RGTR--
+110806001 Deiffelt, Haaptstroo  01413  01413                % 01041 RGTR--
+110812001 Lentzweiler, Haaptst  01414  01414                % 01041 RGTR--
+110816001 Rumlange, Om Knäppch  01415  01415                % 01041 RGTR--
+110803003 Boxhorn, Schemer      01417  01417                % 01041 RGTR--
+110803001 Boxhorn, Am Eck       01418  01418                % 01041 RGTR--
+110817001 Sassel, Beim Millewe  01422  01422                % 01041 RGTR--
+110822004 Maulusmühle, Cliärrw  01427  01427                % 01041 RGTR--
+110101013 Clervaux, Baastneche  01431  01431                % 01041 RGTR--
+110101002 Clervaux, Gare routi  01432                       % 01041 RGTR--
+*Z 01042 RGTR--                                             % 01042 RGTR--
+*L 165      110821006 110101002  00705  00732               % 01042 RGTR--
+*R 2 110101002 110821006 110101002  00705  00732            % 01042 RGTR--
+*G 034 110821006 110101002  00705  00732                    % 01042 RGTR--
+*A VE 110821006 110101002 000018  00705  00732              % 01042 RGTR--
+*I FD 110821006 110101002        0001813  00705  00732      % 01042 RGTR--
+110821006 Wincrange, Centre Mé         00705                % 01042 RGTR--
+110821005 Wincrange, Béigener   00706  00706                % 01042 RGTR--
+110821001 Wincrange, Bei der K  00707  00707                % 01042 RGTR--
+110824001 Boevange, Wëntgerdal  00708  00708                % 01042 RGTR--
+110813001 Lullange, Haaptstroo  00710  00710                % 01042 RGTR--
+110808001 Doennange, Haaptstro  00712  00712                % 01042 RGTR--
+110806001 Deiffelt, Haaptstroo  00713  00713                % 01042 RGTR--
+110812001 Lentzweiler, Haaptst  00714  00714                % 01042 RGTR--
+110816001 Rumlange, Om Knäppch  00715  00715                % 01042 RGTR--
+110803003 Boxhorn, Schemer      00717  00717                % 01042 RGTR--
+110803001 Boxhorn, Am Eck       00718  00718                % 01042 RGTR--
+110817001 Sassel, Beim Millewe  00722  00722                % 01042 RGTR--
+110822004 Maulusmühle, Cliärrw  00727  00727                % 01042 RGTR--
+110101013 Clervaux, Baastneche  00731  00731                % 01042 RGTR--
+110101002 Clervaux, Gare routi  00732                       % 01042 RGTR--
+*Z 01043 RGTR--                                             % 01043 RGTR--
+*L 165      110821006 110101002  01705  01732               % 01043 RGTR--
+*R 2 110101002 110821006 110101002  01705  01732            % 01043 RGTR--
+*G 034 110821006 110101002  01705  01732                    % 01043 RGTR--
+*A VE 110821006 110101002 000018  01705  01732              % 01043 RGTR--
+*I FD 110821006 110101002        0001814  01705  01732      % 01043 RGTR--
+110821006 Wincrange, Centre Mé         01705                % 01043 RGTR--
+110821005 Wincrange, Béigener   01706  01706                % 01043 RGTR--
+110821001 Wincrange, Bei der K  01707  01707                % 01043 RGTR--
+110824001 Boevange, Wëntgerdal  01708  01708                % 01043 RGTR--
+110813001 Lullange, Haaptstroo  01710  01710                % 01043 RGTR--
+110808001 Doennange, Haaptstro  01712  01712                % 01043 RGTR--
+110806001 Deiffelt, Haaptstroo  01713  01713                % 01043 RGTR--
+110812001 Lentzweiler, Haaptst  01714  01714                % 01043 RGTR--
+110816001 Rumlange, Om Knäppch  01715  01715                % 01043 RGTR--
+110803003 Boxhorn, Schemer      01717  01717                % 01043 RGTR--
+110803001 Boxhorn, Am Eck       01718  01718                % 01043 RGTR--
+110817001 Sassel, Beim Millewe  01722  01722                % 01043 RGTR--
+110822004 Maulusmühle, Cliärrw  01727  01727                % 01043 RGTR--
+110101013 Clervaux, Baastneche  01731  01731                % 01043 RGTR--
+110101002 Clervaux, Gare routi  01732                       % 01043 RGTR--
+*Z 01044 RGTR--                                             % 01044 RGTR--
+*L 165      110821006 110101002  00705  00733               % 01044 RGTR--
+*R 2 110101002 110821006 110101002  00705  00733            % 01044 RGTR--
+*G 034 110821006 110101002  00705  00733                    % 01044 RGTR--
+*A VE 110821006 110101002 000036  00705  00733              % 01044 RGTR--
+*I FD 110821006 110101002        0001813  00705  00733      % 01044 RGTR--
+110821006 Wincrange, Centre Mé         00705                % 01044 RGTR--
+110821005 Wincrange, Béigener   00707  00707                % 01044 RGTR--
+110821001 Wincrange, Bei der K  00707  00707                % 01044 RGTR--
+110824001 Boevange, Wëntgerdal  00708  00708                % 01044 RGTR--
+110813001 Lullange, Haaptstroo  00710  00710                % 01044 RGTR--
+110808001 Doennange, Haaptstro  00712  00712                % 01044 RGTR--
+110806001 Deiffelt, Haaptstroo  00713  00713                % 01044 RGTR--
+110812001 Lentzweiler, Haaptst  00715  00715                % 01044 RGTR--
+110816001 Rumlange, Om Knäppch  00717  00717                % 01044 RGTR--
+110803003 Boxhorn, Schemer      00718  00718                % 01044 RGTR--
+110803001 Boxhorn, Am Eck       00719  00719                % 01044 RGTR--
+110817001 Sassel, Beim Millewe  00723  00723                % 01044 RGTR--
+110822004 Maulusmühle, Cliärrw  00728  00728                % 01044 RGTR--
+110101013 Clervaux, Baastneche  00732  00732                % 01044 RGTR--
+110101002 Clervaux, Gare routi  00733                       % 01044 RGTR--
+*Z 01045 RGTR--                                             % 01045 RGTR--
+*L 165      110821006 110101002  00805  00833               % 01045 RGTR--
+*R 2 110101002 110821006 110101002  00805  00833            % 01045 RGTR--
+*G 034 110821006 110101002  00805  00833                    % 01045 RGTR--
+*A VE 110821006 110101002 000036  00805  00833              % 01045 RGTR--
+*I FD 110821006 110101002        0001815  00805  00833      % 01045 RGTR--
+110821006 Wincrange, Centre Mé         00805                % 01045 RGTR--
+110821005 Wincrange, Béigener   00807  00807                % 01045 RGTR--
+110821001 Wincrange, Bei der K  00807  00807                % 01045 RGTR--
+110824001 Boevange, Wëntgerdal  00808  00808                % 01045 RGTR--
+110813001 Lullange, Haaptstroo  00810  00810                % 01045 RGTR--
+110808001 Doennange, Haaptstro  00812  00812                % 01045 RGTR--
+110806001 Deiffelt, Haaptstroo  00813  00813                % 01045 RGTR--
+110812001 Lentzweiler, Haaptst  00815  00815                % 01045 RGTR--
+110816001 Rumlange, Om Knäppch  00817  00817                % 01045 RGTR--
+110803003 Boxhorn, Schemer      00818  00818                % 01045 RGTR--
+110803001 Boxhorn, Am Eck       00819  00819                % 01045 RGTR--
+110817001 Sassel, Beim Millewe  00823  00823                % 01045 RGTR--
+110822004 Maulusmühle, Cliärrw  00828  00828                % 01045 RGTR--
+110101013 Clervaux, Baastneche  00832  00832                % 01045 RGTR--
+110101002 Clervaux, Gare routi  00833                       % 01045 RGTR--
+*Z 01046 RGTR--                                             % 01046 RGTR--
+*L 165      110821006 110101002  01605  01633               % 01046 RGTR--
+*R 2 110101002 110821006 110101002  01605  01633            % 01046 RGTR--
+*G 034 110821006 110101002  01605  01633                    % 01046 RGTR--
+*A VE 110821006 110101002 000036  01605  01633              % 01046 RGTR--
+*I FD 110821006 110101002        0001816  01605  01633      % 01046 RGTR--
+110821006 Wincrange, Centre Mé         01605                % 01046 RGTR--
+110821005 Wincrange, Béigener   01607  01607                % 01046 RGTR--
+110821001 Wincrange, Bei der K  01607  01607                % 01046 RGTR--
+110824001 Boevange, Wëntgerdal  01608  01608                % 01046 RGTR--
+110813001 Lullange, Haaptstroo  01610  01610                % 01046 RGTR--
+110808001 Doennange, Haaptstro  01612  01612                % 01046 RGTR--
+110806001 Deiffelt, Haaptstroo  01613  01613                % 01046 RGTR--
+110812001 Lentzweiler, Haaptst  01615  01615                % 01046 RGTR--
+110816001 Rumlange, Om Knäppch  01617  01617                % 01046 RGTR--
+110803003 Boxhorn, Schemer      01618  01618                % 01046 RGTR--
+110803001 Boxhorn, Am Eck       01619  01619                % 01046 RGTR--
+110817001 Sassel, Beim Millewe  01623  01623                % 01046 RGTR--
+110822004 Maulusmühle, Cliärrw  01628  01628                % 01046 RGTR--
+110101013 Clervaux, Baastneche  01632  01632                % 01046 RGTR--
+110101002 Clervaux, Gare routi  01633                       % 01046 RGTR--
+*Z 01047 RGTR--                                             % 01047 RGTR--
+*L 165      110821006 110101002  01705  01733               % 01047 RGTR--
+*R 2 110101002 110821006 110101002  01705  01733            % 01047 RGTR--
+*G 034 110821006 110101002  01705  01733                    % 01047 RGTR--
+*A VE 110821006 110101002 000036  01705  01733              % 01047 RGTR--
+*I FD 110821006 110101002        0001814  01705  01733      % 01047 RGTR--
+110821006 Wincrange, Centre Mé         01705                % 01047 RGTR--
+110821005 Wincrange, Béigener   01707  01707                % 01047 RGTR--
+110821001 Wincrange, Bei der K  01707  01707                % 01047 RGTR--
+110824001 Boevange, Wëntgerdal  01708  01708                % 01047 RGTR--
+110813001 Lullange, Haaptstroo  01710  01710                % 01047 RGTR--
+110808001 Doennange, Haaptstro  01712  01712                % 01047 RGTR--
+110806001 Deiffelt, Haaptstroo  01713  01713                % 01047 RGTR--
+110812001 Lentzweiler, Haaptst  01715  01715                % 01047 RGTR--
+110816001 Rumlange, Om Knäppch  01717  01717                % 01047 RGTR--
+110803003 Boxhorn, Schemer      01718  01718                % 01047 RGTR--
+110803001 Boxhorn, Am Eck       01719  01719                % 01047 RGTR--
+110817001 Sassel, Beim Millewe  01723  01723                % 01047 RGTR--
+110822004 Maulusmühle, Cliärrw  01728  01728                % 01047 RGTR--
+110101013 Clervaux, Baastneche  01732  01732                % 01047 RGTR--
+110101002 Clervaux, Gare routi  01733                       % 01047 RGTR--
+*Z 01048 RGTR--                                             % 01048 RGTR--
+*L 165      110821006 110101002  01805  01833               % 01048 RGTR--
+*R 2 110101002 110821006 110101002  01805  01833            % 01048 RGTR--
+*G 034 110821006 110101002  01805  01833                    % 01048 RGTR--
+*A VE 110821006 110101002 000036  01805  01833              % 01048 RGTR--
+*I FD 110821006 110101002        0001817  01805  01833      % 01048 RGTR--
+110821006 Wincrange, Centre Mé         01805                % 01048 RGTR--
+110821005 Wincrange, Béigener   01807  01807                % 01048 RGTR--
+110821001 Wincrange, Bei der K  01807  01807                % 01048 RGTR--
+110824001 Boevange, Wëntgerdal  01808  01808                % 01048 RGTR--
+110813001 Lullange, Haaptstroo  01810  01810                % 01048 RGTR--
+110808001 Doennange, Haaptstro  01812  01812                % 01048 RGTR--
+110806001 Deiffelt, Haaptstroo  01813  01813                % 01048 RGTR--
+110812001 Lentzweiler, Haaptst  01815  01815                % 01048 RGTR--
+110816001 Rumlange, Om Knäppch  01817  01817                % 01048 RGTR--
+110803003 Boxhorn, Schemer      01818  01818                % 01048 RGTR--
+110803001 Boxhorn, Am Eck       01819  01819                % 01048 RGTR--
+110817001 Sassel, Beim Millewe  01823  01823                % 01048 RGTR--
+110822004 Maulusmühle, Cliärrw  01828  01828                % 01048 RGTR--
+110101013 Clervaux, Baastneche  01832  01832                % 01048 RGTR--
+110101002 Clervaux, Gare routi  01833                       % 01048 RGTR--
+*Z 01049 RGTR--                                             % 01049 RGTR--
+*L 165      110821006 110101002  02005  02033               % 01049 RGTR--
+*R 2 110101002 110821006 110101002  02005  02033            % 01049 RGTR--
+*G 034 110821006 110101002  02005  02033                    % 01049 RGTR--
+*A VE 110821006 110101002 000036  02005  02033              % 01049 RGTR--
+*I FD 110821006 110101002        0001818  02005  02033      % 01049 RGTR--
+110821006 Wincrange, Centre Mé         02005                % 01049 RGTR--
+110821005 Wincrange, Béigener   02007  02007                % 01049 RGTR--
+110821001 Wincrange, Bei der K  02007  02007                % 01049 RGTR--
+110824001 Boevange, Wëntgerdal  02008  02008                % 01049 RGTR--
+110813001 Lullange, Haaptstroo  02010  02010                % 01049 RGTR--
+110808001 Doennange, Haaptstro  02012  02012                % 01049 RGTR--
+110806001 Deiffelt, Haaptstroo  02013  02013                % 01049 RGTR--
+110812001 Lentzweiler, Haaptst  02015  02015                % 01049 RGTR--
+110816001 Rumlange, Om Knäppch  02017  02017                % 01049 RGTR--
+110803003 Boxhorn, Schemer      02018  02018                % 01049 RGTR--
+110803001 Boxhorn, Am Eck       02019  02019                % 01049 RGTR--
+110817001 Sassel, Beim Millewe  02023  02023                % 01049 RGTR--
+110822004 Maulusmühle, Cliärrw  02028  02028                % 01049 RGTR--
+110101013 Clervaux, Baastneche  02032  02032                % 01049 RGTR--
+110101002 Clervaux, Gare routi  02033                       % 01049 RGTR--
+*Z 01050 RGTR--                                             % 01050 RGTR--
+*L 165      110101002 110821006  01826  01854               % 01050 RGTR--
+*R 1 110821006 110101002 110821006  01826  01854            % 01050 RGTR--
+*G 034 110101002 110821006  01826  01854                    % 01050 RGTR--
+*A VE 110101002 110821006 000040  01826  01854              % 01050 RGTR--
+*I FD 110101002 110821006        0001787  01826  01854      % 01050 RGTR--
+110101002 Clervaux, Gare routi         01826                % 01050 RGTR--
+110101013 Clervaux, Baastneche  01827  01827                % 01050 RGTR--
+110822004 Maulusmühle, Cliärrw  01831  01831                % 01050 RGTR--
+110817001 Sassel, Beim Millewe  01835  01835                % 01050 RGTR--
+110803001 Boxhorn, Am Eck       01839  01839                % 01050 RGTR--
+110803003 Boxhorn, Schemer      01840  01840                % 01050 RGTR--
+110816001 Rumlange, Om Knäppch  01842  01842                % 01050 RGTR--
+110812001 Lentzweiler, Haaptst  01844  01844                % 01050 RGTR--
+110806001 Deiffelt, Haaptstroo  01845  01845                % 01050 RGTR--
+110808001 Doennange, Haaptstro  01846  01846                % 01050 RGTR--
+110813001 Lullange, Haaptstroo  01848  01848                % 01050 RGTR--
+110824001 Boevange, Wëntgerdal  01850  01850                % 01050 RGTR--
+110821001 Wincrange, Bei der K  01851  01851                % 01050 RGTR--
+110821005 Wincrange, Béigener   01852  01852                % 01050 RGTR--
+110821006 Wincrange, Centre Mé  01854                       % 01050 RGTR--
+*Z 01051 RGTR--                                             % 01051 RGTR--
+*L 165      110101002 110821006  00626  00654               % 01051 RGTR--
+*R 1 110821006 110101002 110821006  00626  00654            % 01051 RGTR--
+*G 034 110101002 110821006  00626  00654                    % 01051 RGTR--
+*A VE 110101002 110821006 000038  00626  00654              % 01051 RGTR--
+*I FD 110101002 110821006        0000823  00626  00654      % 01051 RGTR--
+110101002 Clervaux, Gare routi         00626                % 01051 RGTR--
+110101013 Clervaux, Baastneche  00627  00627                % 01051 RGTR--
+110822004 Maulusmühle, Cliärrw  00631  00631                % 01051 RGTR--
+110817001 Sassel, Beim Millewe  00635  00635                % 01051 RGTR--
+110803001 Boxhorn, Am Eck       00639  00639                % 01051 RGTR--
+110803003 Boxhorn, Schemer      00640  00640                % 01051 RGTR--
+110816001 Rumlange, Om Knäppch  00642  00642                % 01051 RGTR--
+110812001 Lentzweiler, Haaptst  00644  00644                % 01051 RGTR--
+110806001 Deiffelt, Haaptstroo  00645  00645                % 01051 RGTR--
+110808001 Doennange, Haaptstro  00646  00646                % 01051 RGTR--
+110813001 Lullange, Haaptstroo  00648  00648                % 01051 RGTR--
+110824001 Boevange, Wëntgerdal  00650  00650                % 01051 RGTR--
+110821001 Wincrange, Bei der K  00651  00651                % 01051 RGTR--
+110821005 Wincrange, Béigener   00652  00652                % 01051 RGTR--
+110821006 Wincrange, Centre Mé  00654                       % 01051 RGTR--
+*Z 01052 RGTR--                                             % 01052 RGTR--
+*L 165      110101002 110821006  00726  00754               % 01052 RGTR--
+*R 1 110821006 110101002 110821006  00726  00754            % 01052 RGTR--
+*G 034 110101002 110821006  00726  00754                    % 01052 RGTR--
+*A VE 110101002 110821006 000038  00726  00754              % 01052 RGTR--
+*I FD 110101002 110821006        0001788  00726  00754      % 01052 RGTR--
+110101002 Clervaux, Gare routi         00726                % 01052 RGTR--
+110101013 Clervaux, Baastneche  00727  00727                % 01052 RGTR--
+110822004 Maulusmühle, Cliärrw  00731  00731                % 01052 RGTR--
+110817001 Sassel, Beim Millewe  00735  00735                % 01052 RGTR--
+110803001 Boxhorn, Am Eck       00739  00739                % 01052 RGTR--
+110803003 Boxhorn, Schemer      00740  00740                % 01052 RGTR--
+110816001 Rumlange, Om Knäppch  00742  00742                % 01052 RGTR--
+110812001 Lentzweiler, Haaptst  00744  00744                % 01052 RGTR--
+110806001 Deiffelt, Haaptstroo  00745  00745                % 01052 RGTR--
+110808001 Doennange, Haaptstro  00746  00746                % 01052 RGTR--
+110813001 Lullange, Haaptstroo  00748  00748                % 01052 RGTR--
+110824001 Boevange, Wëntgerdal  00750  00750                % 01052 RGTR--
+110821001 Wincrange, Bei der K  00751  00751                % 01052 RGTR--
+110821005 Wincrange, Béigener   00752  00752                % 01052 RGTR--
+110821006 Wincrange, Centre Mé  00754                       % 01052 RGTR--
+*Z 01053 RGTR--                                             % 01053 RGTR--
+*L 165      110101002 110821006  00826  00854               % 01053 RGTR--
+*R 1 110821006 110101002 110821006  00826  00854            % 01053 RGTR--
+*G 034 110101002 110821006  00826  00854                    % 01053 RGTR--
+*A VE 110101002 110821006 000038  00826  00854              % 01053 RGTR--
+*I FD 110101002 110821006        0000885  00826  00854      % 01053 RGTR--
+110101002 Clervaux, Gare routi         00826                % 01053 RGTR--
+110101013 Clervaux, Baastneche  00827  00827                % 01053 RGTR--
+110822004 Maulusmühle, Cliärrw  00831  00831                % 01053 RGTR--
+110817001 Sassel, Beim Millewe  00835  00835                % 01053 RGTR--
+110803001 Boxhorn, Am Eck       00839  00839                % 01053 RGTR--
+110803003 Boxhorn, Schemer      00840  00840                % 01053 RGTR--
+110816001 Rumlange, Om Knäppch  00842  00842                % 01053 RGTR--
+110812001 Lentzweiler, Haaptst  00844  00844                % 01053 RGTR--
+110806001 Deiffelt, Haaptstroo  00845  00845                % 01053 RGTR--
+110808001 Doennange, Haaptstro  00846  00846                % 01053 RGTR--
+110813001 Lullange, Haaptstroo  00848  00848                % 01053 RGTR--
+110824001 Boevange, Wëntgerdal  00850  00850                % 01053 RGTR--
+110821001 Wincrange, Bei der K  00851  00851                % 01053 RGTR--
+110821005 Wincrange, Béigener   00852  00852                % 01053 RGTR--
+110821006 Wincrange, Centre Mé  00854                       % 01053 RGTR--
+*Z 01054 RGTR--                                             % 01054 RGTR--
+*L 165      110101002 110821006  01626  01654               % 01054 RGTR--
+*R 1 110821006 110101002 110821006  01626  01654            % 01054 RGTR--
+*G 034 110101002 110821006  01626  01654                    % 01054 RGTR--
+*A VE 110101002 110821006 000038  01626  01654              % 01054 RGTR--
+*I FD 110101002 110821006        0001789  01626  01654      % 01054 RGTR--
+110101002 Clervaux, Gare routi         01626                % 01054 RGTR--
+110101013 Clervaux, Baastneche  01627  01627                % 01054 RGTR--
+110822004 Maulusmühle, Cliärrw  01631  01631                % 01054 RGTR--
+110817001 Sassel, Beim Millewe  01635  01635                % 01054 RGTR--
+110803001 Boxhorn, Am Eck       01639  01639                % 01054 RGTR--
+110803003 Boxhorn, Schemer      01640  01640                % 01054 RGTR--
+110816001 Rumlange, Om Knäppch  01642  01642                % 01054 RGTR--
+110812001 Lentzweiler, Haaptst  01644  01644                % 01054 RGTR--
+110806001 Deiffelt, Haaptstroo  01645  01645                % 01054 RGTR--
+110808001 Doennange, Haaptstro  01646  01646                % 01054 RGTR--
+110813001 Lullange, Haaptstroo  01648  01648                % 01054 RGTR--
+110824001 Boevange, Wëntgerdal  01650  01650                % 01054 RGTR--
+110821001 Wincrange, Bei der K  01651  01651                % 01054 RGTR--
+110821005 Wincrange, Béigener   01652  01652                % 01054 RGTR--
+110821006 Wincrange, Centre Mé  01654                       % 01054 RGTR--
+*Z 01055 RGTR--                                             % 01055 RGTR--
+*L 165      110101002 110821006  01726  01754               % 01055 RGTR--
+*R 1 110821006 110101002 110821006  01726  01754            % 01055 RGTR--
+*G 034 110101002 110821006  01726  01754                    % 01055 RGTR--
+*A VE 110101002 110821006 000038  01726  01754              % 01055 RGTR--
+*I FD 110101002 110821006        0001790  01726  01754      % 01055 RGTR--
+110101002 Clervaux, Gare routi         01726                % 01055 RGTR--
+110101013 Clervaux, Baastneche  01727  01727                % 01055 RGTR--
+110822004 Maulusmühle, Cliärrw  01731  01731                % 01055 RGTR--
+110817001 Sassel, Beim Millewe  01735  01735                % 01055 RGTR--
+110803001 Boxhorn, Am Eck       01739  01739                % 01055 RGTR--
+110803003 Boxhorn, Schemer      01740  01740                % 01055 RGTR--
+110816001 Rumlange, Om Knäppch  01742  01742                % 01055 RGTR--
+110812001 Lentzweiler, Haaptst  01744  01744                % 01055 RGTR--
+110806001 Deiffelt, Haaptstroo  01745  01745                % 01055 RGTR--
+110808001 Doennange, Haaptstro  01746  01746                % 01055 RGTR--
+110813001 Lullange, Haaptstroo  01748  01748                % 01055 RGTR--
+110824001 Boevange, Wëntgerdal  01750  01750                % 01055 RGTR--
+110821001 Wincrange, Bei der K  01751  01751                % 01055 RGTR--
+110821005 Wincrange, Béigener   01752  01752                % 01055 RGTR--
+110821006 Wincrange, Centre Mé  01754                       % 01055 RGTR--
+*Z 01056 RGTR--                                             % 01056 RGTR--
+*L 165      110101002 110821006  02126  02154               % 01056 RGTR--
+*R 1 110821006 110101002 110821006  02126  02154            % 01056 RGTR--
+*G 034 110101002 110821006  02126  02154                    % 01056 RGTR--
+*A VE 110101002 110821006 000038  02126  02154              % 01056 RGTR--
+*I FD 110101002 110821006        0001791  02126  02154      % 01056 RGTR--
+110101002 Clervaux, Gare routi         02126                % 01056 RGTR--
+110101013 Clervaux, Baastneche  02127  02127                % 01056 RGTR--
+110822004 Maulusmühle, Cliärrw  02131  02131                % 01056 RGTR--
+110817001 Sassel, Beim Millewe  02135  02135                % 01056 RGTR--
+110803001 Boxhorn, Am Eck       02139  02139                % 01056 RGTR--
+110803003 Boxhorn, Schemer      02140  02140                % 01056 RGTR--
+110816001 Rumlange, Om Knäppch  02142  02142                % 01056 RGTR--
+110812001 Lentzweiler, Haaptst  02144  02144                % 01056 RGTR--
+110806001 Deiffelt, Haaptstroo  02145  02145                % 01056 RGTR--
+110808001 Doennange, Haaptstro  02146  02146                % 01056 RGTR--
+110813001 Lullange, Haaptstroo  02148  02148                % 01056 RGTR--
+110824001 Boevange, Wëntgerdal  02150  02150                % 01056 RGTR--
+110821001 Wincrange, Bei der K  02151  02151                % 01056 RGTR--
+110821005 Wincrange, Béigener   02152  02152                % 01056 RGTR--
+110821006 Wincrange, Centre Mé  02154                       % 01056 RGTR--
+*Z 01057 RGTR--                                             % 01057 RGTR--
+*L 165      110101002 110821006  01026  01052               % 01057 RGTR--
+*R 1 110821006 110101002 110821006  01026  01052            % 01057 RGTR--
+*G 034 110101002 110821006  01026  01052                    % 01057 RGTR--
+*A VE 110101002 110821006 000040  01026  01052              % 01057 RGTR--
+*I FD 110101002 110821006        0001792  01026  01052      % 01057 RGTR--
+110101002 Clervaux, Gare routi         01026                % 01057 RGTR--
+110101013 Clervaux, Baastneche  01027  01027                % 01057 RGTR--
+110822004 Maulusmühle, Cliärrw  01031  01031                % 01057 RGTR--
+110817001 Sassel, Beim Millewe  01035  01035                % 01057 RGTR--
+110803001 Boxhorn, Am Eck       01039  01039                % 01057 RGTR--
+110803003 Boxhorn, Schemer      01039  01039                % 01057 RGTR--
+110816001 Rumlange, Om Knäppch  01041  01041                % 01057 RGTR--
+110812001 Lentzweiler, Haaptst  01043  01043                % 01057 RGTR--
+110806001 Deiffelt, Haaptstroo  01044  01044                % 01057 RGTR--
+110808001 Doennange, Haaptstro  01045  01045                % 01057 RGTR--
+110813001 Lullange, Haaptstroo  01047  01047                % 01057 RGTR--
+110824001 Boevange, Wëntgerdal  01049  01049                % 01057 RGTR--
+110821001 Wincrange, Bei der K  01050  01050                % 01057 RGTR--
+110821005 Wincrange, Béigener   01051  01051                % 01057 RGTR--
+110821006 Wincrange, Centre Mé  01052                       % 01057 RGTR--
+*Z 01058 RGTR--                                             % 01058 RGTR--
+*L 165      110101002 110821006  01226  01252               % 01058 RGTR--
+*R 1 110821006 110101002 110821006  01226  01252            % 01058 RGTR--
+*G 034 110101002 110821006  01226  01252                    % 01058 RGTR--
+*A VE 110101002 110821006 000040  01226  01252              % 01058 RGTR--
+*I FD 110101002 110821006        0001793  01226  01252      % 01058 RGTR--
+110101002 Clervaux, Gare routi         01226                % 01058 RGTR--
+110101013 Clervaux, Baastneche  01227  01227                % 01058 RGTR--
+110822004 Maulusmühle, Cliärrw  01231  01231                % 01058 RGTR--
+110817001 Sassel, Beim Millewe  01235  01235                % 01058 RGTR--
+110803001 Boxhorn, Am Eck       01239  01239                % 01058 RGTR--
+110803003 Boxhorn, Schemer      01239  01239                % 01058 RGTR--
+110816001 Rumlange, Om Knäppch  01241  01241                % 01058 RGTR--
+110812001 Lentzweiler, Haaptst  01243  01243                % 01058 RGTR--
+110806001 Deiffelt, Haaptstroo  01244  01244                % 01058 RGTR--
+110808001 Doennange, Haaptstro  01245  01245                % 01058 RGTR--
+110813001 Lullange, Haaptstroo  01247  01247                % 01058 RGTR--
+110824001 Boevange, Wëntgerdal  01249  01249                % 01058 RGTR--
+110821001 Wincrange, Bei der K  01250  01250                % 01058 RGTR--
+110821005 Wincrange, Béigener   01251  01251                % 01058 RGTR--
+110821006 Wincrange, Centre Mé  01252                       % 01058 RGTR--
+*Z 01059 RGTR--                                             % 01059 RGTR--
+*L 165      110101002 110821006  01426  01452               % 01059 RGTR--
+*R 1 110821006 110101002 110821006  01426  01452            % 01059 RGTR--
+*G 034 110101002 110821006  01426  01452                    % 01059 RGTR--
+*A VE 110101002 110821006 000040  01426  01452              % 01059 RGTR--
+*I FD 110101002 110821006        0001794  01426  01452      % 01059 RGTR--
+110101002 Clervaux, Gare routi         01426                % 01059 RGTR--
+110101013 Clervaux, Baastneche  01427  01427                % 01059 RGTR--
+110822004 Maulusmühle, Cliärrw  01431  01431                % 01059 RGTR--
+110817001 Sassel, Beim Millewe  01435  01435                % 01059 RGTR--
+110803001 Boxhorn, Am Eck       01439  01439                % 01059 RGTR--
+110803003 Boxhorn, Schemer      01439  01439                % 01059 RGTR--
+110816001 Rumlange, Om Knäppch  01441  01441                % 01059 RGTR--
+110812001 Lentzweiler, Haaptst  01443  01443                % 01059 RGTR--
+110806001 Deiffelt, Haaptstroo  01444  01444                % 01059 RGTR--
+110808001 Doennange, Haaptstro  01445  01445                % 01059 RGTR--
+110813001 Lullange, Haaptstroo  01447  01447                % 01059 RGTR--
+110824001 Boevange, Wëntgerdal  01449  01449                % 01059 RGTR--
+110821001 Wincrange, Bei der K  01450  01450                % 01059 RGTR--
+110821005 Wincrange, Béigener   01451  01451                % 01059 RGTR--
+110821006 Wincrange, Centre Mé  01452                       % 01059 RGTR--
+*Z 01060 RGTR--                                             % 01060 RGTR--
+*L 165      110101002 110821006  02026  02052               % 01060 RGTR--
+*R 1 110821006 110101002 110821006  02026  02052            % 01060 RGTR--
+*G 034 110101002 110821006  02026  02052                    % 01060 RGTR--
+*A VE 110101002 110821006 000040  02026  02052              % 01060 RGTR--
+*I FD 110101002 110821006        0001795  02026  02052      % 01060 RGTR--
+110101002 Clervaux, Gare routi         02026                % 01060 RGTR--
+110101013 Clervaux, Baastneche  02027  02027                % 01060 RGTR--
+110822004 Maulusmühle, Cliärrw  02031  02031                % 01060 RGTR--
+110817001 Sassel, Beim Millewe  02035  02035                % 01060 RGTR--
+110803001 Boxhorn, Am Eck       02039  02039                % 01060 RGTR--
+110803003 Boxhorn, Schemer      02039  02039                % 01060 RGTR--
+110816001 Rumlange, Om Knäppch  02041  02041                % 01060 RGTR--
+110812001 Lentzweiler, Haaptst  02043  02043                % 01060 RGTR--
+110806001 Deiffelt, Haaptstroo  02044  02044                % 01060 RGTR--
+110808001 Doennange, Haaptstro  02045  02045                % 01060 RGTR--
+110813001 Lullange, Haaptstroo  02047  02047                % 01060 RGTR--
+110824001 Boevange, Wëntgerdal  02049  02049                % 01060 RGTR--
+110821001 Wincrange, Bei der K  02050  02050                % 01060 RGTR--
+110821005 Wincrange, Béigener   02051  02051                % 01060 RGTR--
+110821006 Wincrange, Centre Mé  02052                       % 01060 RGTR--
+*Z 01061 RGTR--                                             % 01061 RGTR--
+*L 165      110101002 110821006  02226  02252               % 01061 RGTR--
+*R 1 110821006 110101002 110821006  02226  02252            % 01061 RGTR--
+*G 034 110101002 110821006  02226  02252                    % 01061 RGTR--
+*A VE 110101002 110821006 000040  02226  02252              % 01061 RGTR--
+*I FD 110101002 110821006        0001796  02226  02252      % 01061 RGTR--
+110101002 Clervaux, Gare routi         02226                % 01061 RGTR--
+110101013 Clervaux, Baastneche  02227  02227                % 01061 RGTR--
+110822004 Maulusmühle, Cliärrw  02231  02231                % 01061 RGTR--
+110817001 Sassel, Beim Millewe  02235  02235                % 01061 RGTR--
+110803001 Boxhorn, Am Eck       02239  02239                % 01061 RGTR--
+110803003 Boxhorn, Schemer      02239  02239                % 01061 RGTR--
+110816001 Rumlange, Om Knäppch  02241  02241                % 01061 RGTR--
+110812001 Lentzweiler, Haaptst  02243  02243                % 01061 RGTR--
+110806001 Deiffelt, Haaptstroo  02244  02244                % 01061 RGTR--
+110808001 Doennange, Haaptstro  02245  02245                % 01061 RGTR--
+110813001 Lullange, Haaptstroo  02247  02247                % 01061 RGTR--
+110824001 Boevange, Wëntgerdal  02249  02249                % 01061 RGTR--
+110821001 Wincrange, Bei der K  02250  02250                % 01061 RGTR--
+110821005 Wincrange, Béigener   02251  02251                % 01061 RGTR--
+110821006 Wincrange, Centre Mé  02252                       % 01061 RGTR--
+*Z 01062 RGTR--                                             % 01062 RGTR--
+*L 165      110101002 110821006  00926  00952               % 01062 RGTR--
+*R 1 110821006 110101002 110821006  00926  00952            % 01062 RGTR--
+*G 034 110101002 110821006  00926  00952                    % 01062 RGTR--
+*A VE 110101002 110821006 000038  00926  00952              % 01062 RGTR--
+*I FD 110101002 110821006        0001797  00926  00952      % 01062 RGTR--
+110101002 Clervaux, Gare routi         00926                % 01062 RGTR--
+110101013 Clervaux, Baastneche  00927  00927                % 01062 RGTR--
+110822004 Maulusmühle, Cliärrw  00931  00931                % 01062 RGTR--
+110817001 Sassel, Beim Millewe  00935  00935                % 01062 RGTR--
+110803001 Boxhorn, Am Eck       00939  00939                % 01062 RGTR--
+110803003 Boxhorn, Schemer      00939  00939                % 01062 RGTR--
+110816001 Rumlange, Om Knäppch  00941  00941                % 01062 RGTR--
+110812001 Lentzweiler, Haaptst  00943  00943                % 01062 RGTR--
+110806001 Deiffelt, Haaptstroo  00944  00944                % 01062 RGTR--
+110808001 Doennange, Haaptstro  00945  00945                % 01062 RGTR--
+110813001 Lullange, Haaptstroo  00947  00947                % 01062 RGTR--
+110824001 Boevange, Wëntgerdal  00949  00949                % 01062 RGTR--
+110821001 Wincrange, Bei der K  00950  00950                % 01062 RGTR--
+110821005 Wincrange, Béigener   00951  00951                % 01062 RGTR--
+110821006 Wincrange, Centre Mé  00952                       % 01062 RGTR--
+*Z 01063 RGTR--                                             % 01063 RGTR--
+*L 165      110101002 110821006  01126  01152               % 01063 RGTR--
+*R 1 110821006 110101002 110821006  01126  01152            % 01063 RGTR--
+*G 034 110101002 110821006  01126  01152                    % 01063 RGTR--
+*A VE 110101002 110821006 000038  01126  01152              % 01063 RGTR--
+*I FD 110101002 110821006        0001798  01126  01152      % 01063 RGTR--
+110101002 Clervaux, Gare routi         01126                % 01063 RGTR--
+110101013 Clervaux, Baastneche  01127  01127                % 01063 RGTR--
+110822004 Maulusmühle, Cliärrw  01131  01131                % 01063 RGTR--
+110817001 Sassel, Beim Millewe  01135  01135                % 01063 RGTR--
+110803001 Boxhorn, Am Eck       01139  01139                % 01063 RGTR--
+110803003 Boxhorn, Schemer      01139  01139                % 01063 RGTR--
+110816001 Rumlange, Om Knäppch  01141  01141                % 01063 RGTR--
+110812001 Lentzweiler, Haaptst  01143  01143                % 01063 RGTR--
+110806001 Deiffelt, Haaptstroo  01144  01144                % 01063 RGTR--
+110808001 Doennange, Haaptstro  01145  01145                % 01063 RGTR--
+110813001 Lullange, Haaptstroo  01147  01147                % 01063 RGTR--
+110824001 Boevange, Wëntgerdal  01149  01149                % 01063 RGTR--
+110821001 Wincrange, Bei der K  01150  01150                % 01063 RGTR--
+110821005 Wincrange, Béigener   01151  01151                % 01063 RGTR--
+110821006 Wincrange, Centre Mé  01152                       % 01063 RGTR--
+*Z 01064 RGTR--                                             % 01064 RGTR--
+*L 165      110101002 110821006  01326  01352               % 01064 RGTR--
+*R 1 110821006 110101002 110821006  01326  01352            % 01064 RGTR--
+*G 034 110101002 110821006  01326  01352                    % 01064 RGTR--
+*A VE 110101002 110821006 000038  01326  01352              % 01064 RGTR--
+*I FD 110101002 110821006        0001799  01326  01352      % 01064 RGTR--
+110101002 Clervaux, Gare routi         01326                % 01064 RGTR--
+110101013 Clervaux, Baastneche  01327  01327                % 01064 RGTR--
+110822004 Maulusmühle, Cliärrw  01331  01331                % 01064 RGTR--
+110817001 Sassel, Beim Millewe  01335  01335                % 01064 RGTR--
+110803001 Boxhorn, Am Eck       01339  01339                % 01064 RGTR--
+110803003 Boxhorn, Schemer      01339  01339                % 01064 RGTR--
+110816001 Rumlange, Om Knäppch  01341  01341                % 01064 RGTR--
+110812001 Lentzweiler, Haaptst  01343  01343                % 01064 RGTR--
+110806001 Deiffelt, Haaptstroo  01344  01344                % 01064 RGTR--
+110808001 Doennange, Haaptstro  01345  01345                % 01064 RGTR--
+110813001 Lullange, Haaptstroo  01347  01347                % 01064 RGTR--
+110824001 Boevange, Wëntgerdal  01349  01349                % 01064 RGTR--
+110821001 Wincrange, Bei der K  01350  01350                % 01064 RGTR--
+110821005 Wincrange, Béigener   01351  01351                % 01064 RGTR--
+110821006 Wincrange, Centre Mé  01352                       % 01064 RGTR--
+*Z 01065 RGTR--                                             % 01065 RGTR--
+*L 165      110101002 110821006  01526  01552               % 01065 RGTR--
+*R 1 110821006 110101002 110821006  01526  01552            % 01065 RGTR--
+*G 034 110101002 110821006  01526  01552                    % 01065 RGTR--
+*A VE 110101002 110821006 000038  01526  01552              % 01065 RGTR--
+*I FD 110101002 110821006        0001800  01526  01552      % 01065 RGTR--
+110101002 Clervaux, Gare routi         01526                % 01065 RGTR--
+110101013 Clervaux, Baastneche  01527  01527                % 01065 RGTR--
+110822004 Maulusmühle, Cliärrw  01531  01531                % 01065 RGTR--
+110817001 Sassel, Beim Millewe  01535  01535                % 01065 RGTR--
+110803001 Boxhorn, Am Eck       01539  01539                % 01065 RGTR--
+110803003 Boxhorn, Schemer      01539  01539                % 01065 RGTR--
+110816001 Rumlange, Om Knäppch  01541  01541                % 01065 RGTR--
+110812001 Lentzweiler, Haaptst  01543  01543                % 01065 RGTR--
+110806001 Deiffelt, Haaptstroo  01544  01544                % 01065 RGTR--
+110808001 Doennange, Haaptstro  01545  01545                % 01065 RGTR--
+110813001 Lullange, Haaptstroo  01547  01547                % 01065 RGTR--
+110824001 Boevange, Wëntgerdal  01549  01549                % 01065 RGTR--
+110821001 Wincrange, Bei der K  01550  01550                % 01065 RGTR--
+110821005 Wincrange, Béigener   01551  01551                % 01065 RGTR--
+110821006 Wincrange, Centre Mé  01552                       % 01065 RGTR--
+*Z 01066 RGTR--                                             % 01066 RGTR--
+*L 165      110101002 110821006  01926  01952               % 01066 RGTR--
+*R 1 110821006 110101002 110821006  01926  01952            % 01066 RGTR--
+*G 034 110101002 110821006  01926  01952                    % 01066 RGTR--
+*A VE 110101002 110821006 000038  01926  01952              % 01066 RGTR--
+*I FD 110101002 110821006        0001801  01926  01952      % 01066 RGTR--
+110101002 Clervaux, Gare routi         01926                % 01066 RGTR--
+110101013 Clervaux, Baastneche  01927  01927                % 01066 RGTR--
+110822004 Maulusmühle, Cliärrw  01931  01931                % 01066 RGTR--
+110817001 Sassel, Beim Millewe  01935  01935                % 01066 RGTR--
+110803001 Boxhorn, Am Eck       01939  01939                % 01066 RGTR--
+110803003 Boxhorn, Schemer      01939  01939                % 01066 RGTR--
+110816001 Rumlange, Om Knäppch  01941  01941                % 01066 RGTR--
+110812001 Lentzweiler, Haaptst  01943  01943                % 01066 RGTR--
+110806001 Deiffelt, Haaptstroo  01944  01944                % 01066 RGTR--
+110808001 Doennange, Haaptstro  01945  01945                % 01066 RGTR--
+110813001 Lullange, Haaptstroo  01947  01947                % 01066 RGTR--
+110824001 Boevange, Wëntgerdal  01949  01949                % 01066 RGTR--
+110821001 Wincrange, Bei der K  01950  01950                % 01066 RGTR--
+110821005 Wincrange, Béigener   01951  01951                % 01066 RGTR--
+110821006 Wincrange, Centre Mé  01952                       % 01066 RGTR--
+*Z 01067 RGTR--                                             % 01067 RGTR--
+*L 165      110101002 110821006  00826  00852               % 01067 RGTR--
+*R 1 110821006 110101002 110821006  00826  00852            % 01067 RGTR--
+*G 034 110101002 110821006  00826  00852                    % 01067 RGTR--
+*A VE 110101002 110821006 000016  00826  00852              % 01067 RGTR--
+*I FD 110101002 110821006        0000885  00826  00852      % 01067 RGTR--
+110101002 Clervaux, Gare routi         00826                % 01067 RGTR--
+110101013 Clervaux, Baastneche  00827  00827                % 01067 RGTR--
+110822004 Maulusmühle, Cliärrw  00831  00831                % 01067 RGTR--
+110817001 Sassel, Beim Millewe  00835  00835                % 01067 RGTR--
+110803001 Boxhorn, Am Eck       00839  00839                % 01067 RGTR--
+110803003 Boxhorn, Schemer      00839  00839                % 01067 RGTR--
+110816001 Rumlange, Om Knäppch  00841  00841                % 01067 RGTR--
+110812001 Lentzweiler, Haaptst  00843  00843                % 01067 RGTR--
+110806001 Deiffelt, Haaptstroo  00844  00844                % 01067 RGTR--
+110808001 Doennange, Haaptstro  00845  00845                % 01067 RGTR--
+110813001 Lullange, Haaptstroo  00847  00847                % 01067 RGTR--
+110824001 Boevange, Wëntgerdal  00849  00849                % 01067 RGTR--
+110821001 Wincrange, Bei der K  00850  00850                % 01067 RGTR--
+110821005 Wincrange, Béigener   00851  00851                % 01067 RGTR--
+110821006 Wincrange, Centre Mé  00852                       % 01067 RGTR--
+*Z 01068 RGTR--                                             % 01068 RGTR--
+*L 165      110101002 110821006  01626  01652               % 01068 RGTR--
+*R 1 110821006 110101002 110821006  01626  01652            % 01068 RGTR--
+*G 034 110101002 110821006  01626  01652                    % 01068 RGTR--
+*A VE 110101002 110821006 000016  01626  01652              % 01068 RGTR--
+*I FD 110101002 110821006        0001789  01626  01652      % 01068 RGTR--
+110101002 Clervaux, Gare routi         01626                % 01068 RGTR--
+110101013 Clervaux, Baastneche  01627  01627                % 01068 RGTR--
+110822004 Maulusmühle, Cliärrw  01631  01631                % 01068 RGTR--
+110817001 Sassel, Beim Millewe  01635  01635                % 01068 RGTR--
+110803001 Boxhorn, Am Eck       01639  01639                % 01068 RGTR--
+110803003 Boxhorn, Schemer      01639  01639                % 01068 RGTR--
+110816001 Rumlange, Om Knäppch  01641  01641                % 01068 RGTR--
+110812001 Lentzweiler, Haaptst  01643  01643                % 01068 RGTR--
+110806001 Deiffelt, Haaptstroo  01644  01644                % 01068 RGTR--
+110808001 Doennange, Haaptstro  01645  01645                % 01068 RGTR--
+110813001 Lullange, Haaptstroo  01647  01647                % 01068 RGTR--
+110824001 Boevange, Wëntgerdal  01649  01649                % 01068 RGTR--
+110821001 Wincrange, Bei der K  01650  01650                % 01068 RGTR--
+110821005 Wincrange, Béigener   01651  01651                % 01068 RGTR--
+110821006 Wincrange, Centre Mé  01652                       % 01068 RGTR--
+*Z 01069 RGTR--                                             % 01069 RGTR--
+*L 165      110821006 110101002  00905  00932               % 01069 RGTR--
+*R 2 110101002 110821006 110101002  00905  00932            % 01069 RGTR--
+*G 034 110821006 110101002  00905  00932                    % 01069 RGTR--
+*A VE 110821006 110101002 000040  00905  00932              % 01069 RGTR--
+*I FD 110821006 110101002        0001802  00905  00932      % 01069 RGTR--
+110821006 Wincrange, Centre Mé         00905                % 01069 RGTR--
+110821005 Wincrange, Béigener   00906  00906                % 01069 RGTR--
+110821001 Wincrange, Bei der K  00907  00907                % 01069 RGTR--
+110824001 Boevange, Wëntgerdal  00908  00908                % 01069 RGTR--
+110813001 Lullange, Haaptstroo  00910  00910                % 01069 RGTR--
+110808001 Doennange, Haaptstro  00912  00912                % 01069 RGTR--
+110806001 Deiffelt, Haaptstroo  00913  00913                % 01069 RGTR--
+110812001 Lentzweiler, Haaptst  00914  00914                % 01069 RGTR--
+110816001 Rumlange, Om Knäppch  00915  00915                % 01069 RGTR--
+110803003 Boxhorn, Schemer      00917  00917                % 01069 RGTR--
+110803001 Boxhorn, Am Eck       00918  00918                % 01069 RGTR--
+110817001 Sassel, Beim Millewe  00922  00922                % 01069 RGTR--
+110822004 Maulusmühle, Cliärrw  00927  00927                % 01069 RGTR--
+110101013 Clervaux, Baastneche  00931  00931                % 01069 RGTR--
+110101002 Clervaux, Gare routi  00932                       % 01069 RGTR--
+*Z 01070 RGTR--                                             % 01070 RGTR--
+*L 165      110821006 110101002  01105  01132               % 01070 RGTR--
+*R 2 110101002 110821006 110101002  01105  01132            % 01070 RGTR--
+*G 034 110821006 110101002  01105  01132                    % 01070 RGTR--
+*A VE 110821006 110101002 000040  01105  01132              % 01070 RGTR--
+*I FD 110821006 110101002        0001803  01105  01132      % 01070 RGTR--
+110821006 Wincrange, Centre Mé         01105                % 01070 RGTR--
+110821005 Wincrange, Béigener   01106  01106                % 01070 RGTR--
+110821001 Wincrange, Bei der K  01107  01107                % 01070 RGTR--
+110824001 Boevange, Wëntgerdal  01108  01108                % 01070 RGTR--
+110813001 Lullange, Haaptstroo  01110  01110                % 01070 RGTR--
+110808001 Doennange, Haaptstro  01112  01112                % 01070 RGTR--
+110806001 Deiffelt, Haaptstroo  01113  01113                % 01070 RGTR--
+110812001 Lentzweiler, Haaptst  01114  01114                % 01070 RGTR--
+110816001 Rumlange, Om Knäppch  01115  01115                % 01070 RGTR--
+110803003 Boxhorn, Schemer      01117  01117                % 01070 RGTR--
+110803001 Boxhorn, Am Eck       01118  01118                % 01070 RGTR--
+110817001 Sassel, Beim Millewe  01122  01122                % 01070 RGTR--
+110822004 Maulusmühle, Cliärrw  01127  01127                % 01070 RGTR--
+110101013 Clervaux, Baastneche  01131  01131                % 01070 RGTR--
+110101002 Clervaux, Gare routi  01132                       % 01070 RGTR--
+*Z 01071 RGTR--                                             % 01071 RGTR--
+*L 165      110821006 110101002  01305  01332               % 01071 RGTR--
+*R 2 110101002 110821006 110101002  01305  01332            % 01071 RGTR--
+*G 034 110821006 110101002  01305  01332                    % 01071 RGTR--
+*A VE 110821006 110101002 000040  01305  01332              % 01071 RGTR--
+*I FD 110821006 110101002        0001804  01305  01332      % 01071 RGTR--
+110821006 Wincrange, Centre Mé         01305                % 01071 RGTR--
+110821005 Wincrange, Béigener   01306  01306                % 01071 RGTR--
+110821001 Wincrange, Bei der K  01307  01307                % 01071 RGTR--
+110824001 Boevange, Wëntgerdal  01308  01308                % 01071 RGTR--
+110813001 Lullange, Haaptstroo  01310  01310                % 01071 RGTR--
+110808001 Doennange, Haaptstro  01312  01312                % 01071 RGTR--
+110806001 Deiffelt, Haaptstroo  01313  01313                % 01071 RGTR--
+110812001 Lentzweiler, Haaptst  01314  01314                % 01071 RGTR--
+110816001 Rumlange, Om Knäppch  01315  01315                % 01071 RGTR--
+110803003 Boxhorn, Schemer      01317  01317                % 01071 RGTR--
+110803001 Boxhorn, Am Eck       01318  01318                % 01071 RGTR--
+110817001 Sassel, Beim Millewe  01322  01322                % 01071 RGTR--
+110822004 Maulusmühle, Cliärrw  01327  01327                % 01071 RGTR--
+110101013 Clervaux, Baastneche  01331  01331                % 01071 RGTR--
+110101002 Clervaux, Gare routi  01332                       % 01071 RGTR--
+*Z 01072 RGTR--                                             % 01072 RGTR--
+*L 165      110821006 110101002  01505  01532               % 01072 RGTR--
+*R 2 110101002 110821006 110101002  01505  01532            % 01072 RGTR--
+*G 034 110821006 110101002  01505  01532                    % 01072 RGTR--
+*A VE 110821006 110101002 000040  01505  01532              % 01072 RGTR--
+*I FD 110821006 110101002        0001805  01505  01532      % 01072 RGTR--
+110821006 Wincrange, Centre Mé         01505                % 01072 RGTR--
+110821005 Wincrange, Béigener   01506  01506                % 01072 RGTR--
+110821001 Wincrange, Bei der K  01507  01507                % 01072 RGTR--
+110824001 Boevange, Wëntgerdal  01508  01508                % 01072 RGTR--
+110813001 Lullange, Haaptstroo  01510  01510                % 01072 RGTR--
+110808001 Doennange, Haaptstro  01512  01512                % 01072 RGTR--
+110806001 Deiffelt, Haaptstroo  01513  01513                % 01072 RGTR--
+110812001 Lentzweiler, Haaptst  01514  01514                % 01072 RGTR--
+110816001 Rumlange, Om Knäppch  01515  01515                % 01072 RGTR--
+110803003 Boxhorn, Schemer      01517  01517                % 01072 RGTR--
+110803001 Boxhorn, Am Eck       01518  01518                % 01072 RGTR--
+110817001 Sassel, Beim Millewe  01522  01522                % 01072 RGTR--
+110822004 Maulusmühle, Cliärrw  01527  01527                % 01072 RGTR--
+110101013 Clervaux, Baastneche  01531  01531                % 01072 RGTR--
+110101002 Clervaux, Gare routi  01532                       % 01072 RGTR--
+*Z 01073 RGTR--                                             % 01073 RGTR--
+*L 165      110821006 110101002  01905  01932               % 01073 RGTR--
+*R 2 110101002 110821006 110101002  01905  01932            % 01073 RGTR--
+*G 034 110821006 110101002  01905  01932                    % 01073 RGTR--
+*A VE 110821006 110101002 000040  01905  01932              % 01073 RGTR--
+*I FD 110821006 110101002        0001806  01905  01932      % 01073 RGTR--
+110821006 Wincrange, Centre Mé         01905                % 01073 RGTR--
+110821005 Wincrange, Béigener   01906  01906                % 01073 RGTR--
+110821001 Wincrange, Bei der K  01907  01907                % 01073 RGTR--
+110824001 Boevange, Wëntgerdal  01908  01908                % 01073 RGTR--
+110813001 Lullange, Haaptstroo  01910  01910                % 01073 RGTR--
+110808001 Doennange, Haaptstro  01912  01912                % 01073 RGTR--
+110806001 Deiffelt, Haaptstroo  01913  01913                % 01073 RGTR--
+110812001 Lentzweiler, Haaptst  01914  01914                % 01073 RGTR--
+110816001 Rumlange, Om Knäppch  01915  01915                % 01073 RGTR--
+110803003 Boxhorn, Schemer      01917  01917                % 01073 RGTR--
+110803001 Boxhorn, Am Eck       01918  01918                % 01073 RGTR--
+110817001 Sassel, Beim Millewe  01922  01922                % 01073 RGTR--
+110822004 Maulusmühle, Cliärrw  01927  01927                % 01073 RGTR--
+110101013 Clervaux, Baastneche  01931  01931                % 01073 RGTR--
+110101002 Clervaux, Gare routi  01932                       % 01073 RGTR--
+*Z 01074 RGTR--                                             % 01074 RGTR--
+*L 165      110821006 110101002  02105  02132               % 01074 RGTR--
+*R 2 110101002 110821006 110101002  02105  02132            % 01074 RGTR--
+*G 034 110821006 110101002  02105  02132                    % 01074 RGTR--
+*A VE 110821006 110101002 000040  02105  02132              % 01074 RGTR--
+*I FD 110821006 110101002        0001807  02105  02132      % 01074 RGTR--
+110821006 Wincrange, Centre Mé         02105                % 01074 RGTR--
+110821005 Wincrange, Béigener   02106  02106                % 01074 RGTR--
+110821001 Wincrange, Bei der K  02107  02107                % 01074 RGTR--
+110824001 Boevange, Wëntgerdal  02108  02108                % 01074 RGTR--
+110813001 Lullange, Haaptstroo  02110  02110                % 01074 RGTR--
+110808001 Doennange, Haaptstro  02112  02112                % 01074 RGTR--
+110806001 Deiffelt, Haaptstroo  02113  02113                % 01074 RGTR--
+110812001 Lentzweiler, Haaptst  02114  02114                % 01074 RGTR--
+110816001 Rumlange, Om Knäppch  02115  02115                % 01074 RGTR--
+110803003 Boxhorn, Schemer      02117  02117                % 01074 RGTR--
+110803001 Boxhorn, Am Eck       02118  02118                % 01074 RGTR--
+110817001 Sassel, Beim Millewe  02122  02122                % 01074 RGTR--
+110822004 Maulusmühle, Cliärrw  02127  02127                % 01074 RGTR--
+110101013 Clervaux, Baastneche  02131  02131                % 01074 RGTR--
+110101002 Clervaux, Gare routi  02132                       % 01074 RGTR--
+*Z 01075 RGTR--                                             % 01075 RGTR--
+*L 165      110821006 110101002  00505  00532               % 01075 RGTR--
+*R 2 110101002 110821006 110101002  00505  00532            % 01075 RGTR--
+*G 034 110821006 110101002  00505  00532                    % 01075 RGTR--
+*A VE 110821006 110101002 000038  00505  00532              % 01075 RGTR--
+*I FD 110821006 110101002        0001808  00505  00532      % 01075 RGTR--
+110821006 Wincrange, Centre Mé         00505                % 01075 RGTR--
+110821005 Wincrange, Béigener   00506  00506                % 01075 RGTR--
+110821001 Wincrange, Bei der K  00507  00507                % 01075 RGTR--
+110824001 Boevange, Wëntgerdal  00508  00508                % 01075 RGTR--
+110813001 Lullange, Haaptstroo  00510  00510                % 01075 RGTR--
+110808001 Doennange, Haaptstro  00512  00512                % 01075 RGTR--
+110806001 Deiffelt, Haaptstroo  00513  00513                % 01075 RGTR--
+110812001 Lentzweiler, Haaptst  00514  00514                % 01075 RGTR--
+110816001 Rumlange, Om Knäppch  00515  00515                % 01075 RGTR--
+110803003 Boxhorn, Schemer      00517  00517                % 01075 RGTR--
+110803001 Boxhorn, Am Eck       00518  00518                % 01075 RGTR--
+110817001 Sassel, Beim Millewe  00522  00522                % 01075 RGTR--
+110822004 Maulusmühle, Cliärrw  00527  00527                % 01075 RGTR--
+110101013 Clervaux, Baastneche  00531  00531                % 01075 RGTR--
+110101002 Clervaux, Gare routi  00532                       % 01075 RGTR--
+*Z 01076 RGTR--                                             % 01076 RGTR--
+*L 165      110821006 110101002  00605  00632               % 01076 RGTR--
+*R 2 110101002 110821006 110101002  00605  00632            % 01076 RGTR--
+*G 034 110821006 110101002  00605  00632                    % 01076 RGTR--
+*A VE 110821006 110101002 000038  00605  00632              % 01076 RGTR--
+*I FD 110821006 110101002        0001809  00605  00632      % 01076 RGTR--
+110821006 Wincrange, Centre Mé         00605                % 01076 RGTR--
+110821005 Wincrange, Béigener   00606  00606                % 01076 RGTR--
+110821001 Wincrange, Bei der K  00607  00607                % 01076 RGTR--
+110824001 Boevange, Wëntgerdal  00608  00608                % 01076 RGTR--
+110813001 Lullange, Haaptstroo  00610  00610                % 01076 RGTR--
+110808001 Doennange, Haaptstro  00612  00612                % 01076 RGTR--
+110806001 Deiffelt, Haaptstroo  00613  00613                % 01076 RGTR--
+110812001 Lentzweiler, Haaptst  00614  00614                % 01076 RGTR--
+110816001 Rumlange, Om Knäppch  00615  00615                % 01076 RGTR--
+110803003 Boxhorn, Schemer      00617  00617                % 01076 RGTR--
+110803001 Boxhorn, Am Eck       00618  00618                % 01076 RGTR--
+110817001 Sassel, Beim Millewe  00622  00622                % 01076 RGTR--
+110822004 Maulusmühle, Cliärrw  00627  00627                % 01076 RGTR--
+110101013 Clervaux, Baastneche  00631  00631                % 01076 RGTR--
+110101002 Clervaux, Gare routi  00632                       % 01076 RGTR--
+*Z 01077 RGTR--                                             % 01077 RGTR--
+*L 165      110821006 110101002  01005  01032               % 01077 RGTR--
+*R 2 110101002 110821006 110101002  01005  01032            % 01077 RGTR--
+*G 034 110821006 110101002  01005  01032                    % 01077 RGTR--
+*A VE 110821006 110101002 000038  01005  01032              % 01077 RGTR--
+*I FD 110821006 110101002        0001810  01005  01032      % 01077 RGTR--
+110821006 Wincrange, Centre Mé         01005                % 01077 RGTR--
+110821005 Wincrange, Béigener   01006  01006                % 01077 RGTR--
+110821001 Wincrange, Bei der K  01007  01007                % 01077 RGTR--
+110824001 Boevange, Wëntgerdal  01008  01008                % 01077 RGTR--
+110813001 Lullange, Haaptstroo  01010  01010                % 01077 RGTR--
+110808001 Doennange, Haaptstro  01012  01012                % 01077 RGTR--
+110806001 Deiffelt, Haaptstroo  01013  01013                % 01077 RGTR--
+110812001 Lentzweiler, Haaptst  01014  01014                % 01077 RGTR--
+110816001 Rumlange, Om Knäppch  01015  01015                % 01077 RGTR--
+110803003 Boxhorn, Schemer      01017  01017                % 01077 RGTR--
+110803001 Boxhorn, Am Eck       01018  01018                % 01077 RGTR--
+110817001 Sassel, Beim Millewe  01022  01022                % 01077 RGTR--
+110822004 Maulusmühle, Cliärrw  01027  01027                % 01077 RGTR--
+110101013 Clervaux, Baastneche  01031  01031                % 01077 RGTR--
+110101002 Clervaux, Gare routi  01032                       % 01077 RGTR--
+*Z 01078 RGTR--                                             % 01078 RGTR--
+*L 165      110821006 110101002  01205  01232               % 01078 RGTR--
+*R 2 110101002 110821006 110101002  01205  01232            % 01078 RGTR--
+*G 034 110821006 110101002  01205  01232                    % 01078 RGTR--
+*A VE 110821006 110101002 000038  01205  01232              % 01078 RGTR--
+*I FD 110821006 110101002        0001811  01205  01232      % 01078 RGTR--
+110821006 Wincrange, Centre Mé         01205                % 01078 RGTR--
+110821005 Wincrange, Béigener   01206  01206                % 01078 RGTR--
+110821001 Wincrange, Bei der K  01207  01207                % 01078 RGTR--
+110824001 Boevange, Wëntgerdal  01208  01208                % 01078 RGTR--
+110813001 Lullange, Haaptstroo  01210  01210                % 01078 RGTR--
+110808001 Doennange, Haaptstro  01212  01212                % 01078 RGTR--
+110806001 Deiffelt, Haaptstroo  01213  01213                % 01078 RGTR--
+110812001 Lentzweiler, Haaptst  01214  01214                % 01078 RGTR--
+110816001 Rumlange, Om Knäppch  01215  01215                % 01078 RGTR--
+110803003 Boxhorn, Schemer      01217  01217                % 01078 RGTR--
+110803001 Boxhorn, Am Eck       01218  01218                % 01078 RGTR--
+110817001 Sassel, Beim Millewe  01222  01222                % 01078 RGTR--
+110822004 Maulusmühle, Cliärrw  01227  01227                % 01078 RGTR--
+110101013 Clervaux, Baastneche  01231  01231                % 01078 RGTR--
+110101002 Clervaux, Gare routi  01232                       % 01078 RGTR--
+*Z 01079 RGTR--                                             % 01079 RGTR--
+*L 165      110821006 110101002  01405  01432               % 01079 RGTR--
+*R 2 110101002 110821006 110101002  01405  01432            % 01079 RGTR--
+*G 034 110821006 110101002  01405  01432                    % 01079 RGTR--
+*A VE 110821006 110101002 000038  01405  01432              % 01079 RGTR--
+*I FD 110821006 110101002        0001812  01405  01432      % 01079 RGTR--
+110821006 Wincrange, Centre Mé         01405                % 01079 RGTR--
+110821005 Wincrange, Béigener   01406  01406                % 01079 RGTR--
+110821001 Wincrange, Bei der K  01407  01407                % 01079 RGTR--
+110824001 Boevange, Wëntgerdal  01408  01408                % 01079 RGTR--
+110813001 Lullange, Haaptstroo  01410  01410                % 01079 RGTR--
+110808001 Doennange, Haaptstro  01412  01412                % 01079 RGTR--
+110806001 Deiffelt, Haaptstroo  01413  01413                % 01079 RGTR--
+110812001 Lentzweiler, Haaptst  01414  01414                % 01079 RGTR--
+110816001 Rumlange, Om Knäppch  01415  01415                % 01079 RGTR--
+110803003 Boxhorn, Schemer      01417  01417                % 01079 RGTR--
+110803001 Boxhorn, Am Eck       01418  01418                % 01079 RGTR--
+110817001 Sassel, Beim Millewe  01422  01422                % 01079 RGTR--
+110822004 Maulusmühle, Cliärrw  01427  01427                % 01079 RGTR--
+110101013 Clervaux, Baastneche  01431  01431                % 01079 RGTR--
+110101002 Clervaux, Gare routi  01432                       % 01079 RGTR--
+*Z 01080 RGTR--                                             % 01080 RGTR--
+*L 165      110821006 110101002  00705  00732               % 01080 RGTR--
+*R 2 110101002 110821006 110101002  00705  00732            % 01080 RGTR--
+*G 034 110821006 110101002  00705  00732                    % 01080 RGTR--
+*A VE 110821006 110101002 000016  00705  00732              % 01080 RGTR--
+*I FD 110821006 110101002        0001813  00705  00732      % 01080 RGTR--
+110821006 Wincrange, Centre Mé         00705                % 01080 RGTR--
+110821005 Wincrange, Béigener   00706  00706                % 01080 RGTR--
+110821001 Wincrange, Bei der K  00707  00707                % 01080 RGTR--
+110824001 Boevange, Wëntgerdal  00708  00708                % 01080 RGTR--
+110813001 Lullange, Haaptstroo  00710  00710                % 01080 RGTR--
+110808001 Doennange, Haaptstro  00712  00712                % 01080 RGTR--
+110806001 Deiffelt, Haaptstroo  00713  00713                % 01080 RGTR--
+110812001 Lentzweiler, Haaptst  00714  00714                % 01080 RGTR--
+110816001 Rumlange, Om Knäppch  00715  00715                % 01080 RGTR--
+110803003 Boxhorn, Schemer      00717  00717                % 01080 RGTR--
+110803001 Boxhorn, Am Eck       00718  00718                % 01080 RGTR--
+110817001 Sassel, Beim Millewe  00722  00722                % 01080 RGTR--
+110822004 Maulusmühle, Cliärrw  00727  00727                % 01080 RGTR--
+110101013 Clervaux, Baastneche  00731  00731                % 01080 RGTR--
+110101002 Clervaux, Gare routi  00732                       % 01080 RGTR--
+*Z 01081 RGTR--                                             % 01081 RGTR--
+*L 165      110821006 110101002  01705  01732               % 01081 RGTR--
+*R 2 110101002 110821006 110101002  01705  01732            % 01081 RGTR--
+*G 034 110821006 110101002  01705  01732                    % 01081 RGTR--
+*A VE 110821006 110101002 000016  01705  01732              % 01081 RGTR--
+*I FD 110821006 110101002        0001814  01705  01732      % 01081 RGTR--
+110821006 Wincrange, Centre Mé         01705                % 01081 RGTR--
+110821005 Wincrange, Béigener   01706  01706                % 01081 RGTR--
+110821001 Wincrange, Bei der K  01707  01707                % 01081 RGTR--
+110824001 Boevange, Wëntgerdal  01708  01708                % 01081 RGTR--
+110813001 Lullange, Haaptstroo  01710  01710                % 01081 RGTR--
+110808001 Doennange, Haaptstro  01712  01712                % 01081 RGTR--
+110806001 Deiffelt, Haaptstroo  01713  01713                % 01081 RGTR--
+110812001 Lentzweiler, Haaptst  01714  01714                % 01081 RGTR--
+110816001 Rumlange, Om Knäppch  01715  01715                % 01081 RGTR--
+110803003 Boxhorn, Schemer      01717  01717                % 01081 RGTR--
+110803001 Boxhorn, Am Eck       01718  01718                % 01081 RGTR--
+110817001 Sassel, Beim Millewe  01722  01722                % 01081 RGTR--
+110822004 Maulusmühle, Cliärrw  01727  01727                % 01081 RGTR--
+110101013 Clervaux, Baastneche  01731  01731                % 01081 RGTR--
+110101002 Clervaux, Gare routi  01732                       % 01081 RGTR--
+*Z 01082 RGTR--                                             % 01082 RGTR--
+*L 165      110821006 110101002  00705  00733               % 01082 RGTR--
+*R 2 110101002 110821006 110101002  00705  00733            % 01082 RGTR--
+*G 034 110821006 110101002  00705  00733                    % 01082 RGTR--
+*A VE 110821006 110101002 000038  00705  00733              % 01082 RGTR--
+*I FD 110821006 110101002        0001813  00705  00733      % 01082 RGTR--
+110821006 Wincrange, Centre Mé         00705                % 01082 RGTR--
+110821005 Wincrange, Béigener   00707  00707                % 01082 RGTR--
+110821001 Wincrange, Bei der K  00707  00707                % 01082 RGTR--
+110824001 Boevange, Wëntgerdal  00708  00708                % 01082 RGTR--
+110813001 Lullange, Haaptstroo  00710  00710                % 01082 RGTR--
+110808001 Doennange, Haaptstro  00712  00712                % 01082 RGTR--
+110806001 Deiffelt, Haaptstroo  00713  00713                % 01082 RGTR--
+110812001 Lentzweiler, Haaptst  00715  00715                % 01082 RGTR--
+110816001 Rumlange, Om Knäppch  00717  00717                % 01082 RGTR--
+110803003 Boxhorn, Schemer      00718  00718                % 01082 RGTR--
+110803001 Boxhorn, Am Eck       00719  00719                % 01082 RGTR--
+110817001 Sassel, Beim Millewe  00723  00723                % 01082 RGTR--
+110822004 Maulusmühle, Cliärrw  00728  00728                % 01082 RGTR--
+110101013 Clervaux, Baastneche  00732  00732                % 01082 RGTR--
+110101002 Clervaux, Gare routi  00733                       % 01082 RGTR--
+*Z 01083 RGTR--                                             % 01083 RGTR--
+*L 165      110821006 110101002  00805  00833               % 01083 RGTR--
+*R 2 110101002 110821006 110101002  00805  00833            % 01083 RGTR--
+*G 034 110821006 110101002  00805  00833                    % 01083 RGTR--
+*A VE 110821006 110101002 000038  00805  00833              % 01083 RGTR--
+*I FD 110821006 110101002        0001815  00805  00833      % 01083 RGTR--
+110821006 Wincrange, Centre Mé         00805                % 01083 RGTR--
+110821005 Wincrange, Béigener   00807  00807                % 01083 RGTR--
+110821001 Wincrange, Bei der K  00807  00807                % 01083 RGTR--
+110824001 Boevange, Wëntgerdal  00808  00808                % 01083 RGTR--
+110813001 Lullange, Haaptstroo  00810  00810                % 01083 RGTR--
+110808001 Doennange, Haaptstro  00812  00812                % 01083 RGTR--
+110806001 Deiffelt, Haaptstroo  00813  00813                % 01083 RGTR--
+110812001 Lentzweiler, Haaptst  00815  00815                % 01083 RGTR--
+110816001 Rumlange, Om Knäppch  00817  00817                % 01083 RGTR--
+110803003 Boxhorn, Schemer      00818  00818                % 01083 RGTR--
+110803001 Boxhorn, Am Eck       00819  00819                % 01083 RGTR--
+110817001 Sassel, Beim Millewe  00823  00823                % 01083 RGTR--
+110822004 Maulusmühle, Cliärrw  00828  00828                % 01083 RGTR--
+110101013 Clervaux, Baastneche  00832  00832                % 01083 RGTR--
+110101002 Clervaux, Gare routi  00833                       % 01083 RGTR--
+*Z 01084 RGTR--                                             % 01084 RGTR--
+*L 165      110821006 110101002  01605  01633               % 01084 RGTR--
+*R 2 110101002 110821006 110101002  01605  01633            % 01084 RGTR--
+*G 034 110821006 110101002  01605  01633                    % 01084 RGTR--
+*A VE 110821006 110101002 000038  01605  01633              % 01084 RGTR--
+*I FD 110821006 110101002        0001816  01605  01633      % 01084 RGTR--
+110821006 Wincrange, Centre Mé         01605                % 01084 RGTR--
+110821005 Wincrange, Béigener   01607  01607                % 01084 RGTR--
+110821001 Wincrange, Bei der K  01607  01607                % 01084 RGTR--
+110824001 Boevange, Wëntgerdal  01608  01608                % 01084 RGTR--
+110813001 Lullange, Haaptstroo  01610  01610                % 01084 RGTR--
+110808001 Doennange, Haaptstro  01612  01612                % 01084 RGTR--
+110806001 Deiffelt, Haaptstroo  01613  01613                % 01084 RGTR--
+110812001 Lentzweiler, Haaptst  01615  01615                % 01084 RGTR--
+110816001 Rumlange, Om Knäppch  01617  01617                % 01084 RGTR--
+110803003 Boxhorn, Schemer      01618  01618                % 01084 RGTR--
+110803001 Boxhorn, Am Eck       01619  01619                % 01084 RGTR--
+110817001 Sassel, Beim Millewe  01623  01623                % 01084 RGTR--
+110822004 Maulusmühle, Cliärrw  01628  01628                % 01084 RGTR--
+110101013 Clervaux, Baastneche  01632  01632                % 01084 RGTR--
+110101002 Clervaux, Gare routi  01633                       % 01084 RGTR--
+*Z 01085 RGTR--                                             % 01085 RGTR--
+*L 165      110821006 110101002  01705  01733               % 01085 RGTR--
+*R 2 110101002 110821006 110101002  01705  01733            % 01085 RGTR--
+*G 034 110821006 110101002  01705  01733                    % 01085 RGTR--
+*A VE 110821006 110101002 000038  01705  01733              % 01085 RGTR--
+*I FD 110821006 110101002        0001814  01705  01733      % 01085 RGTR--
+110821006 Wincrange, Centre Mé         01705                % 01085 RGTR--
+110821005 Wincrange, Béigener   01707  01707                % 01085 RGTR--
+110821001 Wincrange, Bei der K  01707  01707                % 01085 RGTR--
+110824001 Boevange, Wëntgerdal  01708  01708                % 01085 RGTR--
+110813001 Lullange, Haaptstroo  01710  01710                % 01085 RGTR--
+110808001 Doennange, Haaptstro  01712  01712                % 01085 RGTR--
+110806001 Deiffelt, Haaptstroo  01713  01713                % 01085 RGTR--
+110812001 Lentzweiler, Haaptst  01715  01715                % 01085 RGTR--
+110816001 Rumlange, Om Knäppch  01717  01717                % 01085 RGTR--
+110803003 Boxhorn, Schemer      01718  01718                % 01085 RGTR--
+110803001 Boxhorn, Am Eck       01719  01719                % 01085 RGTR--
+110817001 Sassel, Beim Millewe  01723  01723                % 01085 RGTR--
+110822004 Maulusmühle, Cliärrw  01728  01728                % 01085 RGTR--
+110101013 Clervaux, Baastneche  01732  01732                % 01085 RGTR--
+110101002 Clervaux, Gare routi  01733                       % 01085 RGTR--
+*Z 01086 RGTR--                                             % 01086 RGTR--
+*L 165      110821006 110101002  01805  01833               % 01086 RGTR--
+*R 2 110101002 110821006 110101002  01805  01833            % 01086 RGTR--
+*G 034 110821006 110101002  01805  01833                    % 01086 RGTR--
+*A VE 110821006 110101002 000038  01805  01833              % 01086 RGTR--
+*I FD 110821006 110101002        0001817  01805  01833      % 01086 RGTR--
+110821006 Wincrange, Centre Mé         01805                % 01086 RGTR--
+110821005 Wincrange, Béigener   01807  01807                % 01086 RGTR--
+110821001 Wincrange, Bei der K  01807  01807                % 01086 RGTR--
+110824001 Boevange, Wëntgerdal  01808  01808                % 01086 RGTR--
+110813001 Lullange, Haaptstroo  01810  01810                % 01086 RGTR--
+110808001 Doennange, Haaptstro  01812  01812                % 01086 RGTR--
+110806001 Deiffelt, Haaptstroo  01813  01813                % 01086 RGTR--
+110812001 Lentzweiler, Haaptst  01815  01815                % 01086 RGTR--
+110816001 Rumlange, Om Knäppch  01817  01817                % 01086 RGTR--
+110803003 Boxhorn, Schemer      01818  01818                % 01086 RGTR--
+110803001 Boxhorn, Am Eck       01819  01819                % 01086 RGTR--
+110817001 Sassel, Beim Millewe  01823  01823                % 01086 RGTR--
+110822004 Maulusmühle, Cliärrw  01828  01828                % 01086 RGTR--
+110101013 Clervaux, Baastneche  01832  01832                % 01086 RGTR--
+110101002 Clervaux, Gare routi  01833                       % 01086 RGTR--
+*Z 01087 RGTR--                                             % 01087 RGTR--
+*L 165      110821006 110101002  02005  02033               % 01087 RGTR--
+*R 2 110101002 110821006 110101002  02005  02033            % 01087 RGTR--
+*G 034 110821006 110101002  02005  02033                    % 01087 RGTR--
+*A VE 110821006 110101002 000038  02005  02033              % 01087 RGTR--
+*I FD 110821006 110101002        0001818  02005  02033      % 01087 RGTR--
+110821006 Wincrange, Centre Mé         02005                % 01087 RGTR--
+110821005 Wincrange, Béigener   02007  02007                % 01087 RGTR--
+110821001 Wincrange, Bei der K  02007  02007                % 01087 RGTR--
+110824001 Boevange, Wëntgerdal  02008  02008                % 01087 RGTR--
+110813001 Lullange, Haaptstroo  02010  02010                % 01087 RGTR--
+110808001 Doennange, Haaptstro  02012  02012                % 01087 RGTR--
+110806001 Deiffelt, Haaptstroo  02013  02013                % 01087 RGTR--
+110812001 Lentzweiler, Haaptst  02015  02015                % 01087 RGTR--
+110816001 Rumlange, Om Knäppch  02017  02017                % 01087 RGTR--
+110803003 Boxhorn, Schemer      02018  02018                % 01087 RGTR--
+110803001 Boxhorn, Am Eck       02019  02019                % 01087 RGTR--
+110817001 Sassel, Beim Millewe  02023  02023                % 01087 RGTR--
+110822004 Maulusmühle, Cliärrw  02028  02028                % 01087 RGTR--
+110101013 Clervaux, Baastneche  02032  02032                % 01087 RGTR--
+110101002 Clervaux, Gare routi  02033                       % 01087 RGTR--

@@ -1,0 +1,65 @@
+*F 03 2
+*Z 18918 RGTR--                                             % 18918 RGTR--
+*L N05      190202003 220901004  00720  00751               % 18918 RGTR--
+*A cj 190202003 220901004 000042  00720  00751              % 18918 RGTR--
+*A ad 190202003 220901004 000042  00720  00751              % 18918 RGTR--
+*R 1 220901004 190202003 220901004  00720  00751            % 18918 RGTR--
+*G 060 190202003 220901004  00720  00751                    % 18918 RGTR--
+*A VE 190202003 220901004 000042  00720  00751              % 18918 RGTR--
+*I FD 190202003 220901004        0002604  00720  00751      % 18918 RGTR--
+190202003 Fingig, Maerchen             00720                % 18918 RGTR--
+190202002 Fingig, Dillesbierg   00720  00720                % 18918 RGTR--
+190201003 Clemency, Féngegerbi  00722  00722                % 18918 RGTR--
+190201008 Clemency, Schwemm     00723  00723                % 18918 RGTR--
+190201007 Clemency, Schock      00725  00725                % 18918 RGTR--
+190201002 Clemency, Eecherwee   00727  00727                % 18918 RGTR--
+190201004 Clemency, Gemeng      00728  00728                % 18918 RGTR--
+190201006 Clemency, Ieweschtga  00729  00729                % 18918 RGTR--
+190201005 Clemency, Henn        00730  00730                % 18918 RGTR--
+190201001 Clemency, Breedewee   00731  00731                % 18918 RGTR--
+190101009 Bascharage, Eglise    00735  00735                % 18918 RGTR--
+190101001 Bascharage, Arcades   00737  00737                % 18918 RGTR--
+190101007 Bascharage, Treff/Op  00738  00738                % 18918 RGTR--
+190101020 Bascharage, Sicon     00739  00739                % 18918 RGTR--
+190101018 Bascharage, R.P. And  00740  00740                % 18918 RGTR--
+190101003 Bascharage, Bomecht   00740  00740                % 18918 RGTR--
+220902005 Pétange, Cité CFL     00741  00741                % 18918 RGTR--
+220902011 Pétange, Lëtzebuerge  00742  00742                % 18918 RGTR--
+220902003 Pétange, Gemeng       00742  00742                % 18918 RGTR--
+220902014 Pétange, Maison des   00743  00743                % 18918 RGTR--
+220902016 Pétange, Op der Mill  00744  00744                % 18918 RGTR--
+220902002 Pétange, Athuserstro  00745  00745                % 18918 RGTR--
+220902010 Pétange, Kräizheck    00746  00746                % 18918 RGTR--
+220901004 Lamadelaine, Lycée T  00751                       % 18918 RGTR--
+*Z 18919 RGTR--                                             % 18919 RGTR--
+*L N05      220901004 190202003  01455  01521               % 18919 RGTR--
+*A cj 220901004 190202003 000042  01455  01521              % 18919 RGTR--
+*A ad 220901004 190202003 000042  01455  01521              % 18919 RGTR--
+*R 2 190202003 220901004 190202003  01455  01521            % 18919 RGTR--
+*G 060 220901004 190202003  01455  01521                    % 18919 RGTR--
+*A VE 220901004 190202003 000042  01455  01521              % 18919 RGTR--
+*I FD 220901004 190202003        0002537  01455  01521      % 18919 RGTR--
+220901004 Lamadelaine, Lycée T         01455                % 18919 RGTR--
+220902010 Pétange, Kräizheck    01457  01457                % 18919 RGTR--
+220902002 Pétange, Athuserstro  01457  01457                % 18919 RGTR--
+220902016 Pétange, Op der Mill  01458  01458                % 18919 RGTR--
+220902008 Pétange, Rue Gillard  01459  01459                % 18919 RGTR--
+220902017 Pétange, Paschtouesc  01459  01459                % 18919 RGTR--
+220902011 Pétange, Lëtzebuerge  01500  01500                % 18919 RGTR--
+220902005 Pétange, Cité CFL     01501  01501                % 18919 RGTR--
+190101003 Bascharage, Bomecht   01501  01501                % 18919 RGTR--
+190101018 Bascharage, R.P. And  01502  01502                % 18919 RGTR--
+190101020 Bascharage, Sicon     01504  01504                % 18919 RGTR--
+190101007 Bascharage, Treff/Op  01504  01504                % 18919 RGTR--
+190101016 Bascharage, Place Sc  01505  01505                % 18919 RGTR--
+190101009 Bascharage, Eglise    01506  01506                % 18919 RGTR--
+190201001 Clemency, Breedewee   01511  01511                % 18919 RGTR--
+190201005 Clemency, Henn        01511  01511                % 18919 RGTR--
+190201004 Clemency, Gemeng      01512  01512                % 18919 RGTR--
+190201002 Clemency, Eecherwee   01513  01513                % 18919 RGTR--
+190201007 Clemency, Schock      01514  01514                % 18919 RGTR--
+190201006 Clemency, Ieweschtga  01516  01516                % 18919 RGTR--
+190201008 Clemency, Schwemm     01517  01517                % 18919 RGTR--
+190201003 Clemency, Féngegerbi  01518  01518                % 18919 RGTR--
+190202002 Fingig, Dillesbierg   01520  01520                % 18919 RGTR--
+190202003 Fingig, Maerchen      01521                       % 18919 RGTR--

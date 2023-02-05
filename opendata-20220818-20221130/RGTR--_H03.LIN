@@ -1,0 +1,144 @@
+*F 03 2
+*Z 18550 RGTR--                                             % 18550 RGTR--
+*L H03      170501016 160904001  00650  00748               % 18550 RGTR--
+*A cj 170501016 160904001 000042  00650  00748              % 18550 RGTR--
+*A ad 170501016 160904001 000042  00650  00748              % 18550 RGTR--
+*R 1 160904001 170501016 160904001  00650  00748            % 18550 RGTR--
+*G 050 170501016 160904001  00650  00748                    % 18550 RGTR--
+*A VE 170501016 160904001 000042  00650  00748              % 18550 RGTR--
+*I FD 170501016 160904001        0002066  00650  00748      % 18550 RGTR--
+170501016 Echternach, Gare Cen         00650                % 18550 RGTR--
+170501018 Echternach, Ermesind  00651  00651                % 18550 RGTR--
+170501007 Echternach, Fielsmil  00653  00653                % 18550 RGTR--
+170501002 Echternach, Bel Air   00654  00654                % 18550 RGTR--
+170301003 Berdorf, Hôtel Perek  00657  00657                % 18550 RGTR--
+170301002 Berdorf, Hotel Herbe  00658  00658                % 18550 RGTR--
+170301004 Berdorf, Duerfplaz    00658  00658                % 18550 RGTR--
+170103002 Vugelsmillen          00705  00705                % 18550 RGTR--
+170101004 Beaufort, Huelewee    00710  00710                % 18550 RGTR--
+170101003 Beaufort, Härewiss    00711  00711                % 18550 RGTR--
+170101006 Beaufort, Op der Gar  00712  00712                % 18550 RGTR--
+170101001 Beaufort, Aispist     00713  00713                % 18550 RGTR--
+170101009 Beaufort, Um Bierg    00714  00714                % 18550 RGTR--
+170101002 Beaufort, Ennescht H  00715  00715                % 18550 RGTR--
+170101008 Beaufort, Halerstroo  00716  00716                % 18550 RGTR--
+170802002 Haller, Schoul        00723  00723                % 18550 RGTR--
+170802001 Haller, Beim Basseng  00724  00724                % 18550 RGTR--
+170804002 Waldbillig, Gemeng    00727  00727                % 18550 RGTR--
+170804001 Waldbillig, Bëlleger  00728  00728                % 18550 RGTR--
+170801002 Christnach, Schoulst  00730  00730                % 18550 RGTR--
+170801003 Christnach, Fielsers  00731  00731                % 18550 RGTR--
+160603001 Heffingen, Scherfemi  00734  00734                % 18550 RGTR--
+160601008 Larochette, Spuerkee  00735  00735                % 18550 RGTR--
+160601002 Larochette, Boltgest  00737  00737                % 18550 RGTR--
+160601009 Larochette, Goudelt   00740  00740                % 18550 RGTR--
+160401001 Angelsberg, Paafenda  00742  00742                % 18550 RGTR--
+160910001 Mersch, Bënzert       00744  00744                % 18550 RGTR--
+160902002 Rollingen, Fielserst  00746  00746                % 18550 RGTR--
+160904001 Mersch, Gare routièr  00748                       % 18550 RGTR--
+*Z 18551 RGTR--                                             % 18551 RGTR--
+*L H03      160904007 170501016  01630  01728               % 18551 RGTR--
+*A cj 160904007 170501016 000335  01630  01728              % 18551 RGTR--
+*A ad 160904007 170501016 000335  01630  01728              % 18551 RGTR--
+*R 2 170501016 160904007 170501016  01630  01728            % 18551 RGTR--
+*G 050 160904007 170501016  01630  01728                    % 18551 RGTR--
+*A VE 160904007 170501016 000335  01630  01728              % 18551 RGTR--
+*I FD 160904007 170501016        0002059  01630  01728      % 18551 RGTR--
+160904007 Mersch, Lycée Ermesi         01630                % 18551 RGTR--
+160902003 Mersch, Lohr          01633  01633                % 18551 RGTR--
+160902002 Rollingen, Fielserst  01634  01634                % 18551 RGTR--
+160910001 Mersch, Bënzert       01636  01636                % 18551 RGTR--
+160401001 Angelsberg, Paafenda  01638  01638                % 18551 RGTR--
+160601009 Larochette, Goudelt   01641  01641                % 18551 RGTR--
+160601002 Larochette, Boltgest  01644  01644                % 18551 RGTR--
+160601008 Larochette, Spuerkee  01645  01645                % 18551 RGTR--
+160603001 Heffingen, Scherfemi  01646  01646                % 18551 RGTR--
+170801003 Christnach, Fielsers  01649  01649                % 18551 RGTR--
+170801002 Christnach, Schoulst  01650  01650                % 18551 RGTR--
+170804001 Waldbillig, Bëlleger  01651  01651                % 18551 RGTR--
+170804002 Waldbillig, Gemeng    01652  01652                % 18551 RGTR--
+170802001 Haller, Beim Basseng  01655  01655                % 18551 RGTR--
+170802002 Haller, Schoul        01656  01656                % 18551 RGTR--
+170101008 Beaufort, Halerstroo  01703  01703                % 18551 RGTR--
+170101002 Beaufort, Ennescht H  01704  01704                % 18551 RGTR--
+170101009 Beaufort, Um Bierg    01706  01706                % 18551 RGTR--
+170101001 Beaufort, Aispist     01706  01706                % 18551 RGTR--
+170101006 Beaufort, Op der Gar  01707  01707                % 18551 RGTR--
+170101003 Beaufort, Härewiss    01708  01708                % 18551 RGTR--
+170101004 Beaufort, Huelewee    01708  01708                % 18551 RGTR--
+170103002 Vugelsmillen          01713  01713                % 18551 RGTR--
+170301004 Berdorf, Duerfplaz    01719  01719                % 18551 RGTR--
+170301002 Berdorf, Hotel Herbe  01720  01720                % 18551 RGTR--
+170301003 Berdorf, Hôtel Perek  01721  01721                % 18551 RGTR--
+170501002 Echternach, Bel Air   01724  01724                % 18551 RGTR--
+170501007 Echternach, Fielsmil  01725  01725                % 18551 RGTR--
+170501018 Echternach, Ermesind  01727  01727                % 18551 RGTR--
+170501016 Echternach, Gare Cen  01728                       % 18551 RGTR--
+*Z 18552 RGTR--                                             % 18552 RGTR--
+*L H03      160904007 170501016  01410  01508               % 18552 RGTR--
+*A cj 160904007 170501016 000011  01410  01508              % 18552 RGTR--
+*A ad 160904007 170501016 000011  01410  01508              % 18552 RGTR--
+*R 2 170501016 160904007 170501016  01410  01508            % 18552 RGTR--
+*G 050 160904007 170501016  01410  01508                    % 18552 RGTR--
+*A VE 160904007 170501016 000011  01410  01508              % 18552 RGTR--
+*I FD 160904007 170501016        0001988  01410  01508      % 18552 RGTR--
+160904007 Mersch, Lycée Ermesi         01410                % 18552 RGTR--
+160902003 Mersch, Lohr          01413  01413                % 18552 RGTR--
+160902002 Rollingen, Fielserst  01414  01414                % 18552 RGTR--
+160910001 Mersch, Bënzert       01416  01416                % 18552 RGTR--
+160401001 Angelsberg, Paafenda  01418  01418                % 18552 RGTR--
+160601009 Larochette, Goudelt   01421  01421                % 18552 RGTR--
+160601002 Larochette, Boltgest  01424  01424                % 18552 RGTR--
+160601008 Larochette, Spuerkee  01425  01425                % 18552 RGTR--
+160603001 Heffingen, Scherfemi  01426  01426                % 18552 RGTR--
+170801003 Christnach, Fielsers  01429  01429                % 18552 RGTR--
+170801002 Christnach, Schoulst  01430  01430                % 18552 RGTR--
+170804001 Waldbillig, Bëlleger  01431  01431                % 18552 RGTR--
+170804002 Waldbillig, Gemeng    01432  01432                % 18552 RGTR--
+170802001 Haller, Beim Basseng  01435  01435                % 18552 RGTR--
+170802002 Haller, Schoul        01436  01436                % 18552 RGTR--
+170101008 Beaufort, Halerstroo  01443  01443                % 18552 RGTR--
+170101002 Beaufort, Ennescht H  01444  01444                % 18552 RGTR--
+170101009 Beaufort, Um Bierg    01446  01446                % 18552 RGTR--
+170101001 Beaufort, Aispist     01446  01446                % 18552 RGTR--
+170101006 Beaufort, Op der Gar  01447  01447                % 18552 RGTR--
+170101003 Beaufort, Härewiss    01448  01448                % 18552 RGTR--
+170101004 Beaufort, Huelewee    01448  01448                % 18552 RGTR--
+170103002 Vugelsmillen          01453  01453                % 18552 RGTR--
+170301004 Berdorf, Duerfplaz    01459  01459                % 18552 RGTR--
+170301002 Berdorf, Hotel Herbe  01500  01500                % 18552 RGTR--
+170301003 Berdorf, Hôtel Perek  01501  01501                % 18552 RGTR--
+170501002 Echternach, Bel Air   01504  01504                % 18552 RGTR--
+170501007 Echternach, Fielsmil  01505  01505                % 18552 RGTR--
+170501018 Echternach, Ermesind  01507  01507                % 18552 RGTR--
+170501016 Echternach, Gare Cen  01508                       % 18552 RGTR--
+*Z 18553 RGTR--                                             % 18553 RGTR--
+*L H03      160904007 170101004  01450  01528               % 18553 RGTR--
+*A cj 160904007 170101004 000042  01450  01528              % 18553 RGTR--
+*A ad 160904007 170101004 000042  01450  01528              % 18553 RGTR--
+*R 2 170101004 160904007 170101004  01450  01528            % 18553 RGTR--
+*G 050 160904007 170101004  01450  01528                    % 18553 RGTR--
+*A VE 160904007 170101004 000042  01450  01528              % 18553 RGTR--
+*I FD 160904007 170101004        0001910  01450  01528      % 18553 RGTR--
+160904007 Mersch, Lycée Ermesi         01450                % 18553 RGTR--
+160902003 Mersch, Lohr          01453  01453                % 18553 RGTR--
+160902002 Rollingen, Fielserst  01454  01454                % 18553 RGTR--
+160910001 Mersch, Bënzert       01456  01456                % 18553 RGTR--
+160401001 Angelsberg, Paafenda  01458  01458                % 18553 RGTR--
+160601009 Larochette, Goudelt   01501  01501                % 18553 RGTR--
+160601002 Larochette, Boltgest  01504  01504                % 18553 RGTR--
+160601008 Larochette, Spuerkee  01505  01505                % 18553 RGTR--
+160603001 Heffingen, Scherfemi  01506  01506                % 18553 RGTR--
+170801003 Christnach, Fielsers  01509  01509                % 18553 RGTR--
+170801002 Christnach, Schoulst  01510  01510                % 18553 RGTR--
+170804001 Waldbillig, Bëlleger  01511  01511                % 18553 RGTR--
+170804002 Waldbillig, Gemeng    01512  01512                % 18553 RGTR--
+170802001 Haller, Beim Basseng  01515  01515                % 18553 RGTR--
+170802002 Haller, Schoul        01516  01516                % 18553 RGTR--
+170101008 Beaufort, Halerstroo  01523  01523                % 18553 RGTR--
+170101002 Beaufort, Ennescht H  01524  01524                % 18553 RGTR--
+170101009 Beaufort, Um Bierg    01526  01526                % 18553 RGTR--
+170101001 Beaufort, Aispist     01526  01526                % 18553 RGTR--
+170101006 Beaufort, Op der Gar  01527  01527                % 18553 RGTR--
+170101003 Beaufort, Härewiss    01528  01528                % 18553 RGTR--
+170101004 Beaufort, Huelewee    01528                       % 18553 RGTR--

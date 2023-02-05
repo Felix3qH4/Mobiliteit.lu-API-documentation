@@ -1,0 +1,85 @@
+*F 03 2
+*Z 20122 RGTR--                                             % 20122 RGTR--
+*L P20      110403005 120903023  00703  00739               % 20122 RGTR--
+*A KJ 110403005 120903023 000042  00703  00739              % 20122 RGTR--
+*A ad 110403005 120903023 000042  00703  00739              % 20122 RGTR--
+*R 1 120903023 110403005 120903023  00703  00739            % 20122 RGTR--
+*G 050 110403005 120903023  00703  00739                    % 20122 RGTR--
+*A VE 110403005 120903023 000042  00703  00739              % 20122 RGTR--
+*I FD 110403005 120903023        0002734  00703  00739      % 20122 RGTR--
+110403005 Hosingen, Bei der Ki         00703                % 20122 RGTR--
+110403001 Hosingen, Eesberwee   00704  00704                % 20122 RGTR--
+110411001 Bockholtz/Hosingen,   00707  00707                % 20122 RGTR--
+120605001 Pintsch, An der Kéie  00714  00714                % 20122 RGTR--
+120606002 Wilwerwiltz, Tomm     00715  00715                % 20122 RGTR--
+120606001 Wilwerwiltz, Gare ro  00716  00716                % 20122 RGTR--
+120602002 Enscherange, Loumill  00718  00718                % 20122 RGTR--
+120602001 Enscherange, Bei Ste  00719  00719                % 20122 RGTR--
+110501002 Drauffelt, Gare rout  00723  00723                % 20122 RGTR--
+110501003 Drauffelt, Op der Lé  00724  00724                % 20122 RGTR--
+120301002 Erpeldange/Wiltz      00732  00732                % 20122 RGTR--
+120903007 Weidingen, Erpeldang  00733  00733                % 20122 RGTR--
+120902001 Weidingen, Erpeldang  00734  00734                % 20122 RGTR--
+120903040 Weidingen, Wegdicher  00734  00734                % 20122 RGTR--
+120903041 Wiltz, Wéinebeerig    00735  00735                % 20122 RGTR--
+120903021 Wiltz, Lann           00736  00736                % 20122 RGTR--
+120903008 Wiltz, Pompjeesbau    00738  00738                % 20122 RGTR--
+120903023 Wiltz, Lycée du Nord  00739                       % 20122 RGTR--
+*Z 20123 RGTR--                                             % 20123 RGTR--
+*L P20      120903023 110403004  01615  01700               % 20123 RGTR--
+*A LC 120903023 110403004 000047  01615  01700              % 20123 RGTR--
+*A ad 120903023 110403004 000047  01615  01700              % 20123 RGTR--
+*R 2 110403004 120903023 110403004  01615  01700            % 20123 RGTR--
+*G 050 120903023 110403004  01615  01700                    % 20123 RGTR--
+*A VE 120903023 110403004 000047  01615  01700              % 20123 RGTR--
+*I FD 120903023 110403004        0001895  01615  01700      % 20123 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 20123 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 20123 RGTR--
+120903041 Wiltz, Wéinebeerig    01619  01619                % 20123 RGTR--
+120903040 Weidingen, Wegdicher  01620  01620                % 20123 RGTR--
+120902001 Weidingen, Erpeldang  01621  01621                % 20123 RGTR--
+120903007 Weidingen, Erpeldang  01622  01622                % 20123 RGTR--
+120301002 Erpeldange/Wiltz      01622  01622                % 20123 RGTR--
+110501003 Drauffelt, Op der Lé  01630  01630                % 20123 RGTR--
+110501002 Drauffelt, Gare rout  01631  01631                % 20123 RGTR--
+120602001 Enscherange, Bei Ste  01635  01635                % 20123 RGTR--
+120602002 Enscherange, Loumill  01636  01636                % 20123 RGTR--
+120606001 Wilwerwiltz, Gare ro  01638  01638                % 20123 RGTR--
+120606002 Wilwerwiltz, Tomm     01639  01639                % 20123 RGTR--
+120605001 Pintsch, An der Kéie  01640  01640                % 20123 RGTR--
+110411001 Bockholtz/Hosingen,   01646  01646                % 20123 RGTR--
+110403001 Hosingen, Eesberwee   01650  01650                % 20123 RGTR--
+110403002 Hosingen, Ewescht Du  01651  01651                % 20123 RGTR--
+110403005 Hosingen, Bei der Ki  01653  01653                % 20123 RGTR--
+110203003 Um Schinker           01657  01657                % 20123 RGTR--
+110412004 Wahlhausen, Beim Cha  01658  01658                % 20123 RGTR--
+110403004 Hosingen, Parc House  01700                       % 20123 RGTR--
+*Z 20124 RGTR--                                             % 20124 RGTR--
+*L P20      120903023 110403004  01208  01249               % 20124 RGTR--
+*A LC 120903023 110403004 000046  01208  01249              % 20124 RGTR--
+*A ad 120903023 110403004 000046  01208  01249              % 20124 RGTR--
+*R 2 110403004 120903023 110403004  01208  01249            % 20124 RGTR--
+*G 050 120903023 110403004  01208  01249                    % 20124 RGTR--
+*A VE 120903023 110403004 000046  01208  01249              % 20124 RGTR--
+*I FD 120903023 110403004        0002467  01208  01249      % 20124 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 20124 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 20124 RGTR--
+120903041 Wiltz, Wéinebeerig    01212  01212                % 20124 RGTR--
+120903040 Weidingen, Wegdicher  01213  01213                % 20124 RGTR--
+120902001 Weidingen, Erpeldang  01213  01213                % 20124 RGTR--
+120903007 Weidingen, Erpeldang  01214  01214                % 20124 RGTR--
+120301002 Erpeldange/Wiltz      01214  01214                % 20124 RGTR--
+110501003 Drauffelt, Op der Lé  01221  01221                % 20124 RGTR--
+110501002 Drauffelt, Gare rout  01223  01223                % 20124 RGTR--
+120602001 Enscherange, Bei Ste  01227  01227                % 20124 RGTR--
+120602002 Enscherange, Loumill  01227  01227                % 20124 RGTR--
+120606001 Wilwerwiltz, Gare ro  01229  01229                % 20124 RGTR--
+120606002 Wilwerwiltz, Tomm     01230  01230                % 20124 RGTR--
+120605001 Pintsch, An der Kéie  01231  01231                % 20124 RGTR--
+110411001 Bockholtz/Hosingen,   01237  01237                % 20124 RGTR--
+110403001 Hosingen, Eesberwee   01240  01240                % 20124 RGTR--
+110403002 Hosingen, Ewescht Du  01241  01241                % 20124 RGTR--
+110403005 Hosingen, Bei der Ki  01243  01243                % 20124 RGTR--
+110203003 Um Schinker           01247  01247                % 20124 RGTR--
+110412004 Wahlhausen, Beim Cha  01248  01248                % 20124 RGTR--
+110403004 Hosingen, Parc House  01249                       % 20124 RGTR--

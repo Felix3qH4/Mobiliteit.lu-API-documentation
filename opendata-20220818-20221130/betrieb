@@ -1,0 +1,14 @@
+*F 28 2
+00000 K 'DPN' L 'DPN' V 'Nahreisezug'
+00001 K "AVL" L "AVL" V "Ville de Luxembourg - Service Autobus"
+00001 : AVL---
+00002 K "CFL" L "CFL" V "Chemins de Fer Luxembourgeois"
+00002 : C80--- C82--- C87--- C85--- C88---
+00003 K "CFL" L "CFLBus" V "Société Nationale des Chemins de Fer Luxembourgeois"
+00003 : CFLBUS
+00004 K "RGT" L "RGTR" V "Régime Général des Transports Routiers"
+00004 : RGTR--
+00005 K "TIC" L "TICE" V "Syndicat des Tramways Intercommunaux dans le Canton d'Esch"
+00005 : TIC---
+00006 K "TRA" L "TRAM" V "Luxtram"
+00006 : LUTRAM

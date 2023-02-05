@@ -1,0 +1,725 @@
+*F 03 2
+*Z 12069 RGTR--                                             % 12069 RGTR--
+*L 15U      110820002 160101001  00406  00532               % 12069 RGTR--
+*A UM 110820002 160101001 000036  00406  00532              % 12069 RGTR--
+*R 1 160101001 110820002 160101001  00406  00532            % 12069 RGTR--
+*G 050 110820002 160101001  00406  00532                    % 12069 RGTR--
+*A VE 110820002 160101001 000036  00406  00532              % 12069 RGTR--
+*I FD 110820002 160101001        0003130  00406  00532      % 12069 RGTR--
+110820002 Troine, Duarrefstroo         00406                % 12069 RGTR--
+110820001 Troine, Bréck         00407  00407                % 12069 RGTR--
+110805001 Crendal, Duerefstroo  00408  00408                % 12069 RGTR--
+110821005 Wincrange, Béigener   00410  00410                % 12069 RGTR--
+110821001 Wincrange, Bei der K  00411  00411                % 12069 RGTR--
+110824001 Boevange, Wëntgerdal  00412  00412                % 12069 RGTR--
+110813001 Lullange, Haaptstroo  00414  00414                % 12069 RGTR--
+110808001 Doennange, Haaptstro  00416  00416                % 12069 RGTR--
+110806001 Deiffelt, Haaptstroo  00417  00417                % 12069 RGTR--
+110812001 Lentzweiler, Haaptst  00418  00418                % 12069 RGTR--
+110819001 Stockem, Duärrefstro  00421  00421                % 12069 RGTR--
+110816001 Rumlange, Om Knäppch  00423  00423                % 12069 RGTR--
+110803003 Boxhorn, Schemer      00425  00425                % 12069 RGTR--
+110803002 Boxhorn, Hauptstroos  00426  00426                % 12069 RGTR--
+110101013 Clervaux, Baastneche  00430  00430                % 12069 RGTR--
+110101002 Clervaux, Gare routi  00430  00430                % 12069 RGTR--
+110101004 Clervaux, Maison de   00432  00432                % 12069 RGTR--
+110101009 Clervaux, Place Bene  00433  00433                % 12069 RGTR--
+110101010 Clervaux, Police      00434  00434                % 12069 RGTR--
+110101001 Clervaux, Clinique    00435  00435                % 12069 RGTR--
+110103003 Reuler, Hôh           00436  00436                % 12069 RGTR--
+110502006 Marnach, Bei der Kie  00438  00438                % 12069 RGTR--
+110502005 Marnach, Geschäftsze  00440  00440                % 12069 RGTR--
+110502008 Marnach, Op der Bréc  00441  00441                % 12069 RGTR--
+110401002 Dorscheid, Am Poul    00445  00445                % 12069 RGTR--
+110403006 Hosingen, Bayrischt   00448  00448                % 12069 RGTR--
+110403005 Hosingen, Bei der Ki  00449  00449                % 12069 RGTR--
+110403001 Hosingen, Eesberwee   00450  00450                % 12069 RGTR--
+110403003 Hosingen, Z.A.E.R.    00450  00450                % 12069 RGTR--
+110203003 Um Schinker           00452  00452                % 12069 RGTR--
+110203001 Ennert Schinker       00453  00453                % 12069 RGTR--
+140902002 Hoscheid-Dickt, Um W  00455  00455                % 12069 RGTR--
+140902001 Hoscheid-Dickt, Um P  00456  00456                % 12069 RGTR--
+140901001 Hoscheid, Braaken     00457  00457                % 12069 RGTR--
+140901002 Hoscheid, Kräizgaass  00458  00458                % 12069 RGTR--
+140901003 Hoscheid, Markenbach  00459  00459                % 12069 RGTR--
+140402001 Fridhaff              00505  00505                % 12069 RGTR--
+140401006 Diekirch, Kluuster    00509  00509                % 12069 RGTR--
+140401004 Diekirch, Gare routi  00511  00511                % 12069 RGTR--
+140401008 Diekirch, Lorentzwue  00513  00513                % 12069 RGTR--
+140603005 Ingeldorf, Walebroch  00513  00513                % 12069 RGTR--
+140603002 Ingeldorf, Café de l  00514  00514                % 12069 RGTR--
+140603006 Ingeldorf, Cactus     00515  00515                % 12069 RGTR--
+140602008 Erpeldange-sur-Sûre,  00517  00517                % 12069 RGTR--
+140701016 Ettelbruck, Gare      00519  00519                % 12069 RGTR--
+140701026 Ettelbruck, Rond Poi  00520  00520                % 12069 RGTR--
+140701018 Ettelbruck, H.v.Land  00521  00521                % 12069 RGTR--
+160301002 Colmar-Berg, Centre   00524  00524                % 12069 RGTR--
+160301007 Colmar-Berg, Usines   00526  00526                % 12069 RGTR--
+160101005 Bissen, Op der Mille  00528  00528                % 12069 RGTR--
+160101003 Bissen, Geiwels       00529  00529                % 12069 RGTR--
+160101006 Bissen, Henckels      00530  00530                % 12069 RGTR--
+160101001 Bissen, ArcelorMitta  00532                       % 12069 RGTR--
+*Z 12070 RGTR--                                             % 12070 RGTR--
+*L 15U      110820002 160101001  01206  01332               % 12070 RGTR--
+*A UM 110820002 160101001 000036  01206  01332              % 12070 RGTR--
+*R 1 160101001 110820002 160101001  01206  01332            % 12070 RGTR--
+*G 050 110820002 160101001  01206  01332                    % 12070 RGTR--
+*A VE 110820002 160101001 000036  01206  01332              % 12070 RGTR--
+*I FD 110820002 160101001        0003131  01206  01332      % 12070 RGTR--
+110820002 Troine, Duarrefstroo         01206                % 12070 RGTR--
+110820001 Troine, Bréck         01207  01207                % 12070 RGTR--
+110805001 Crendal, Duerefstroo  01208  01208                % 12070 RGTR--
+110821005 Wincrange, Béigener   01210  01210                % 12070 RGTR--
+110821001 Wincrange, Bei der K  01211  01211                % 12070 RGTR--
+110824001 Boevange, Wëntgerdal  01212  01212                % 12070 RGTR--
+110813001 Lullange, Haaptstroo  01214  01214                % 12070 RGTR--
+110808001 Doennange, Haaptstro  01216  01216                % 12070 RGTR--
+110806001 Deiffelt, Haaptstroo  01217  01217                % 12070 RGTR--
+110812001 Lentzweiler, Haaptst  01218  01218                % 12070 RGTR--
+110819001 Stockem, Duärrefstro  01221  01221                % 12070 RGTR--
+110816001 Rumlange, Om Knäppch  01223  01223                % 12070 RGTR--
+110803003 Boxhorn, Schemer      01225  01225                % 12070 RGTR--
+110803002 Boxhorn, Hauptstroos  01226  01226                % 12070 RGTR--
+110101013 Clervaux, Baastneche  01230  01230                % 12070 RGTR--
+110101002 Clervaux, Gare routi  01230  01230                % 12070 RGTR--
+110101004 Clervaux, Maison de   01232  01232                % 12070 RGTR--
+110101009 Clervaux, Place Bene  01233  01233                % 12070 RGTR--
+110101010 Clervaux, Police      01234  01234                % 12070 RGTR--
+110101001 Clervaux, Clinique    01235  01235                % 12070 RGTR--
+110103003 Reuler, Hôh           01236  01236                % 12070 RGTR--
+110502006 Marnach, Bei der Kie  01238  01238                % 12070 RGTR--
+110502005 Marnach, Geschäftsze  01240  01240                % 12070 RGTR--
+110502008 Marnach, Op der Bréc  01241  01241                % 12070 RGTR--
+110401002 Dorscheid, Am Poul    01245  01245                % 12070 RGTR--
+110403006 Hosingen, Bayrischt   01248  01248                % 12070 RGTR--
+110403005 Hosingen, Bei der Ki  01249  01249                % 12070 RGTR--
+110403001 Hosingen, Eesberwee   01250  01250                % 12070 RGTR--
+110403003 Hosingen, Z.A.E.R.    01250  01250                % 12070 RGTR--
+110203003 Um Schinker           01252  01252                % 12070 RGTR--
+110203001 Ennert Schinker       01253  01253                % 12070 RGTR--
+140902002 Hoscheid-Dickt, Um W  01255  01255                % 12070 RGTR--
+140902001 Hoscheid-Dickt, Um P  01256  01256                % 12070 RGTR--
+140901001 Hoscheid, Braaken     01257  01257                % 12070 RGTR--
+140901002 Hoscheid, Kräizgaass  01258  01258                % 12070 RGTR--
+140901003 Hoscheid, Markenbach  01259  01259                % 12070 RGTR--
+140402001 Fridhaff              01305  01305                % 12070 RGTR--
+140401006 Diekirch, Kluuster    01309  01309                % 12070 RGTR--
+140401004 Diekirch, Gare routi  01311  01311                % 12070 RGTR--
+140401008 Diekirch, Lorentzwue  01313  01313                % 12070 RGTR--
+140603005 Ingeldorf, Walebroch  01313  01313                % 12070 RGTR--
+140603002 Ingeldorf, Café de l  01314  01314                % 12070 RGTR--
+140603006 Ingeldorf, Cactus     01315  01315                % 12070 RGTR--
+140602008 Erpeldange-sur-Sûre,  01317  01317                % 12070 RGTR--
+140701016 Ettelbruck, Gare      01319  01319                % 12070 RGTR--
+140701026 Ettelbruck, Rond Poi  01320  01320                % 12070 RGTR--
+140701018 Ettelbruck, H.v.Land  01321  01321                % 12070 RGTR--
+160301002 Colmar-Berg, Centre   01324  01324                % 12070 RGTR--
+160301007 Colmar-Berg, Usines   01326  01326                % 12070 RGTR--
+160101005 Bissen, Op der Mille  01328  01328                % 12070 RGTR--
+160101003 Bissen, Geiwels       01329  01329                % 12070 RGTR--
+160101006 Bissen, Henckels      01330  01330                % 12070 RGTR--
+160101001 Bissen, ArcelorMitta  01332                       % 12070 RGTR--
+*Z 12071 RGTR--                                             % 12071 RGTR--
+*L 15U      110820002 160101001  02006  02132               % 12071 RGTR--
+*A UM 110820002 160101001 000036  02006  02132              % 12071 RGTR--
+*R 1 160101001 110820002 160101001  02006  02132            % 12071 RGTR--
+*G 050 110820002 160101001  02006  02132                    % 12071 RGTR--
+*A VE 110820002 160101001 000036  02006  02132              % 12071 RGTR--
+*I FD 110820002 160101001        0003132  02006  02132      % 12071 RGTR--
+110820002 Troine, Duarrefstroo         02006                % 12071 RGTR--
+110820001 Troine, Bréck         02007  02007                % 12071 RGTR--
+110805001 Crendal, Duerefstroo  02008  02008                % 12071 RGTR--
+110821005 Wincrange, Béigener   02010  02010                % 12071 RGTR--
+110821001 Wincrange, Bei der K  02011  02011                % 12071 RGTR--
+110824001 Boevange, Wëntgerdal  02012  02012                % 12071 RGTR--
+110813001 Lullange, Haaptstroo  02014  02014                % 12071 RGTR--
+110808001 Doennange, Haaptstro  02016  02016                % 12071 RGTR--
+110806001 Deiffelt, Haaptstroo  02017  02017                % 12071 RGTR--
+110812001 Lentzweiler, Haaptst  02018  02018                % 12071 RGTR--
+110819001 Stockem, Duärrefstro  02021  02021                % 12071 RGTR--
+110816001 Rumlange, Om Knäppch  02023  02023                % 12071 RGTR--
+110803003 Boxhorn, Schemer      02025  02025                % 12071 RGTR--
+110803002 Boxhorn, Hauptstroos  02026  02026                % 12071 RGTR--
+110101013 Clervaux, Baastneche  02030  02030                % 12071 RGTR--
+110101002 Clervaux, Gare routi  02030  02030                % 12071 RGTR--
+110101004 Clervaux, Maison de   02032  02032                % 12071 RGTR--
+110101009 Clervaux, Place Bene  02033  02033                % 12071 RGTR--
+110101010 Clervaux, Police      02034  02034                % 12071 RGTR--
+110101001 Clervaux, Clinique    02035  02035                % 12071 RGTR--
+110103003 Reuler, Hôh           02036  02036                % 12071 RGTR--
+110502006 Marnach, Bei der Kie  02038  02038                % 12071 RGTR--
+110502005 Marnach, Geschäftsze  02040  02040                % 12071 RGTR--
+110502008 Marnach, Op der Bréc  02041  02041                % 12071 RGTR--
+110401002 Dorscheid, Am Poul    02045  02045                % 12071 RGTR--
+110403006 Hosingen, Bayrischt   02048  02048                % 12071 RGTR--
+110403005 Hosingen, Bei der Ki  02049  02049                % 12071 RGTR--
+110403001 Hosingen, Eesberwee   02050  02050                % 12071 RGTR--
+110403003 Hosingen, Z.A.E.R.    02050  02050                % 12071 RGTR--
+110203003 Um Schinker           02052  02052                % 12071 RGTR--
+110203001 Ennert Schinker       02053  02053                % 12071 RGTR--
+140902002 Hoscheid-Dickt, Um W  02055  02055                % 12071 RGTR--
+140902001 Hoscheid-Dickt, Um P  02056  02056                % 12071 RGTR--
+140901001 Hoscheid, Braaken     02057  02057                % 12071 RGTR--
+140901002 Hoscheid, Kräizgaass  02058  02058                % 12071 RGTR--
+140901003 Hoscheid, Markenbach  02059  02059                % 12071 RGTR--
+140402001 Fridhaff              02105  02105                % 12071 RGTR--
+140401006 Diekirch, Kluuster    02109  02109                % 12071 RGTR--
+140401004 Diekirch, Gare routi  02111  02111                % 12071 RGTR--
+140401008 Diekirch, Lorentzwue  02113  02113                % 12071 RGTR--
+140603005 Ingeldorf, Walebroch  02113  02113                % 12071 RGTR--
+140603002 Ingeldorf, Café de l  02114  02114                % 12071 RGTR--
+140603006 Ingeldorf, Cactus     02115  02115                % 12071 RGTR--
+140602008 Erpeldange-sur-Sûre,  02117  02117                % 12071 RGTR--
+140701016 Ettelbruck, Gare      02119  02119                % 12071 RGTR--
+140701026 Ettelbruck, Rond Poi  02120  02120                % 12071 RGTR--
+140701018 Ettelbruck, H.v.Land  02121  02121                % 12071 RGTR--
+160301002 Colmar-Berg, Centre   02124  02124                % 12071 RGTR--
+160301007 Colmar-Berg, Usines   02126  02126                % 12071 RGTR--
+160101005 Bissen, Op der Mille  02128  02128                % 12071 RGTR--
+160101003 Bissen, Geiwels       02129  02129                % 12071 RGTR--
+160101006 Bissen, Henckels      02130  02130                % 12071 RGTR--
+160101001 Bissen, ArcelorMitta  02132                       % 12071 RGTR--
+*Z 12072 RGTR--                                             % 12072 RGTR--
+*L 15U      160101001 110820002  01408  01529               % 12072 RGTR--
+*A UM 160101001 110820002 000036  01408  01529              % 12072 RGTR--
+*R 2 110820002 160101001 110820002  01408  01529            % 12072 RGTR--
+*G 050 160101001 110820002  01408  01529                    % 12072 RGTR--
+*A VE 160101001 110820002 000036  01408  01529              % 12072 RGTR--
+*I FD 160101001 110820002        0001867  01408  01529      % 12072 RGTR--
+160101001 Bissen, ArcelorMitta         01408                % 12072 RGTR--
+160101006 Bissen, Henckels      01410  01410                % 12072 RGTR--
+160101003 Bissen, Geiwels       01411  01411                % 12072 RGTR--
+160101005 Bissen, Op der Mille  01411  01411                % 12072 RGTR--
+160301007 Colmar-Berg, Usines   01414  01414                % 12072 RGTR--
+160301002 Colmar-Berg, Centre   01416  01416                % 12072 RGTR--
+140603006 Ingeldorf, Cactus     01422  01422                % 12072 RGTR--
+140603002 Ingeldorf, Café de l  01423  01423                % 12072 RGTR--
+140603005 Ingeldorf, Walebroch  01424  01424                % 12072 RGTR--
+140401008 Diekirch, Lorentzwue  01424  01424                % 12072 RGTR--
+140401004 Diekirch, Gare routi  01426  01426                % 12072 RGTR--
+140401001 Diekirch, Altersheem  01427  01427                % 12072 RGTR--
+140401011 Diekirch, Alexis Hec  01428  01428                % 12072 RGTR--
+140401010 Diekirch, Place des   01429  01429                % 12072 RGTR--
+140402001 Fridhaff              01432  01432                % 12072 RGTR--
+140901003 Hoscheid, Markenbach  01438  01438                % 12072 RGTR--
+140901002 Hoscheid, Kräizgaass  01440  01440                % 12072 RGTR--
+140901001 Hoscheid, Braaken     01440  01440                % 12072 RGTR--
+140902001 Hoscheid-Dickt, Um P  01444  01444                % 12072 RGTR--
+140902002 Hoscheid-Dickt, Um W  01445  01445                % 12072 RGTR--
+110203001 Ennert Schinker       01446  01446                % 12072 RGTR--
+110203003 Um Schinker           01447  01447                % 12072 RGTR--
+110403003 Hosingen, Z.A.E.R.    01449  01449                % 12072 RGTR--
+110403001 Hosingen, Eesberwee   01450  01450                % 12072 RGTR--
+110403002 Hosingen, Ewescht Du  01451  01451                % 12072 RGTR--
+110403006 Hosingen, Bayrischt   01451  01451                % 12072 RGTR--
+110401002 Dorscheid, Am Poul    01453  01453                % 12072 RGTR--
+110502005 Marnach, Geschäftsze  01456  01456                % 12072 RGTR--
+110502008 Marnach, Op der Bréc  01457  01457                % 12072 RGTR--
+110502006 Marnach, Bei der Kie  01457  01457                % 12072 RGTR--
+110103003 Reuler, Hôh           01500  01500                % 12072 RGTR--
+110101001 Clervaux, Clinique    01501  01501                % 12072 RGTR--
+110101010 Clervaux, Police      01501  01501                % 12072 RGTR--
+110101008 Clervaux, Pl. de la   01502  01502                % 12072 RGTR--
+110101011 Clervaux, Postes      01503  01503                % 12072 RGTR--
+110101004 Clervaux, Maison de   01504  01504                % 12072 RGTR--
+110101002 Clervaux, Gare routi  01505  01505                % 12072 RGTR--
+110101013 Clervaux, Baastneche  01506  01506                % 12072 RGTR--
+110803002 Boxhorn, Hauptstroos  01509  01509                % 12072 RGTR--
+110803003 Boxhorn, Schemer      01510  01510                % 12072 RGTR--
+110816001 Rumlange, Om Knäppch  01511  01511                % 12072 RGTR--
+110819001 Stockem, Duärrefstro  01514  01514                % 12072 RGTR--
+110812001 Lentzweiler, Haaptst  01517  01517                % 12072 RGTR--
+110806001 Deiffelt, Haaptstroo  01518  01518                % 12072 RGTR--
+110808001 Doennange, Haaptstro  01519  01519                % 12072 RGTR--
+110813001 Lullange, Haaptstroo  01521  01521                % 12072 RGTR--
+110824001 Boevange, Wëntgerdal  01523  01523                % 12072 RGTR--
+110821001 Wincrange, Bei der K  01524  01524                % 12072 RGTR--
+110821005 Wincrange, Béigener   01525  01525                % 12072 RGTR--
+110805001 Crendal, Duerefstroo  01527  01527                % 12072 RGTR--
+110820001 Troine, Bréck         01528  01528                % 12072 RGTR--
+110820002 Troine, Duarrefstroo  01529                       % 12072 RGTR--
+*Z 12073 RGTR--                                             % 12073 RGTR--
+*L 15U      160101001 110820002  00608  00732               % 12073 RGTR--
+*A UM 160101001 110820002 000325  00608  00732              % 12073 RGTR--
+*R 2 110820002 160101001 110820002  00608  00732            % 12073 RGTR--
+*G 050 160101001 110820002  00608  00732                    % 12073 RGTR--
+*A VE 160101001 110820002 000325  00608  00732              % 12073 RGTR--
+*I FD 160101001 110820002        0001871  00608  00732      % 12073 RGTR--
+160101001 Bissen, ArcelorMitta         00608                % 12073 RGTR--
+160101006 Bissen, Henckels      00610  00610                % 12073 RGTR--
+160101003 Bissen, Geiwels       00611  00611                % 12073 RGTR--
+160101005 Bissen, Op der Mille  00612  00612                % 12073 RGTR--
+160301007 Colmar-Berg, Usines   00614  00614                % 12073 RGTR--
+160301002 Colmar-Berg, Centre   00616  00616                % 12073 RGTR--
+140603006 Ingeldorf, Cactus     00622  00622                % 12073 RGTR--
+140603002 Ingeldorf, Café de l  00623  00623                % 12073 RGTR--
+140603005 Ingeldorf, Walebroch  00624  00624                % 12073 RGTR--
+140401008 Diekirch, Lorentzwue  00624  00624                % 12073 RGTR--
+140401004 Diekirch, Gare routi  00626  00626                % 12073 RGTR--
+140401001 Diekirch, Altersheem  00627  00627                % 12073 RGTR--
+140401011 Diekirch, Alexis Hec  00628  00628                % 12073 RGTR--
+140401010 Diekirch, Place des   00629  00629                % 12073 RGTR--
+140402001 Fridhaff              00633  00633                % 12073 RGTR--
+140901003 Hoscheid, Markenbach  00639  00639                % 12073 RGTR--
+140901002 Hoscheid, Kräizgaass  00640  00640                % 12073 RGTR--
+140901001 Hoscheid, Braaken     00641  00641                % 12073 RGTR--
+140902001 Hoscheid-Dickt, Um P  00645  00645                % 12073 RGTR--
+140902002 Hoscheid-Dickt, Um W  00646  00646                % 12073 RGTR--
+110203001 Ennert Schinker       00647  00647                % 12073 RGTR--
+110203003 Um Schinker           00648  00648                % 12073 RGTR--
+110403003 Hosingen, Z.A.E.R.    00650  00650                % 12073 RGTR--
+110403001 Hosingen, Eesberwee   00651  00651                % 12073 RGTR--
+110403002 Hosingen, Ewescht Du  00652  00652                % 12073 RGTR--
+110403006 Hosingen, Bayrischt   00653  00653                % 12073 RGTR--
+110401002 Dorscheid, Am Poul    00655  00655                % 12073 RGTR--
+110502005 Marnach, Geschäftsze  00657  00657                % 12073 RGTR--
+110502008 Marnach, Op der Bréc  00658  00658                % 12073 RGTR--
+110502006 Marnach, Bei der Kie  00659  00659                % 12073 RGTR--
+110103003 Reuler, Hôh           00702  00702                % 12073 RGTR--
+110101001 Clervaux, Clinique    00703  00703                % 12073 RGTR--
+110101010 Clervaux, Police      00703  00703                % 12073 RGTR--
+110101008 Clervaux, Pl. de la   00704  00704                % 12073 RGTR--
+110101011 Clervaux, Postes      00705  00705                % 12073 RGTR--
+110101004 Clervaux, Maison de   00706  00706                % 12073 RGTR--
+110101002 Clervaux, Gare routi  00707  00707                % 12073 RGTR--
+110101013 Clervaux, Baastneche  00708  00708                % 12073 RGTR--
+110803002 Boxhorn, Hauptstroos  00711  00711                % 12073 RGTR--
+110803003 Boxhorn, Schemer      00712  00712                % 12073 RGTR--
+110816001 Rumlange, Om Knäppch  00713  00713                % 12073 RGTR--
+110819001 Stockem, Duärrefstro  00716  00716                % 12073 RGTR--
+110812001 Lentzweiler, Haaptst  00719  00719                % 12073 RGTR--
+110806001 Deiffelt, Haaptstroo  00720  00720                % 12073 RGTR--
+110808001 Doennange, Haaptstro  00721  00721                % 12073 RGTR--
+110813001 Lullange, Haaptstroo  00723  00723                % 12073 RGTR--
+110824001 Boevange, Wëntgerdal  00725  00725                % 12073 RGTR--
+110821001 Wincrange, Bei der K  00726  00726                % 12073 RGTR--
+110821005 Wincrange, Béigener   00727  00727                % 12073 RGTR--
+110805001 Crendal, Duerefstroo  00729  00729                % 12073 RGTR--
+110820001 Troine, Bréck         00731  00731                % 12073 RGTR--
+110820002 Troine, Duarrefstroo  00732                       % 12073 RGTR--
+*Z 12074 RGTR--                                             % 12074 RGTR--
+*L 15U      160101001 110820002  02208  02335               % 12074 RGTR--
+*A UM 160101001 110820002 000036  02208  02335              % 12074 RGTR--
+*R 2 110820002 160101001 110820002  02208  02335            % 12074 RGTR--
+*G 050 160101001 110820002  02208  02335                    % 12074 RGTR--
+*A VE 160101001 110820002 000036  02208  02335              % 12074 RGTR--
+*I FD 160101001 110820002        0001869  02208  02335      % 12074 RGTR--
+160101001 Bissen, ArcelorMitta         02208                % 12074 RGTR--
+160101006 Bissen, Henckels      02210  02210                % 12074 RGTR--
+160101003 Bissen, Geiwels       02211  02211                % 12074 RGTR--
+160101005 Bissen, Op der Mille  02211  02211                % 12074 RGTR--
+160301007 Colmar-Berg, Usines   02214  02214                % 12074 RGTR--
+160301002 Colmar-Berg, Centre   02216  02216                % 12074 RGTR--
+140701018 Ettelbruck, H.v.Land  02220  02220                % 12074 RGTR--
+140701026 Ettelbruck, Rond Poi  02221  02221                % 12074 RGTR--
+140701015 Ettelbruck, Ecole Pr  02222  02222                % 12074 RGTR--
+140701016 Ettelbruck, Gare      02223  02223                % 12074 RGTR--
+140602008 Erpeldange-sur-Sûre,  02226  02226                % 12074 RGTR--
+140603006 Ingeldorf, Cactus     02227  02227                % 12074 RGTR--
+140603002 Ingeldorf, Café de l  02228  02228                % 12074 RGTR--
+140603005 Ingeldorf, Walebroch  02229  02229                % 12074 RGTR--
+140401008 Diekirch, Lorentzwue  02230  02230                % 12074 RGTR--
+140401004 Diekirch, Gare routi  02231  02231                % 12074 RGTR--
+140401001 Diekirch, Altersheem  02233  02233                % 12074 RGTR--
+140401011 Diekirch, Alexis Hec  02233  02233                % 12074 RGTR--
+140401010 Diekirch, Place des   02234  02234                % 12074 RGTR--
+140402001 Fridhaff              02238  02238                % 12074 RGTR--
+140901003 Hoscheid, Markenbach  02244  02244                % 12074 RGTR--
+140901002 Hoscheid, Kräizgaass  02245  02245                % 12074 RGTR--
+140901001 Hoscheid, Braaken     02246  02246                % 12074 RGTR--
+140902001 Hoscheid-Dickt, Um P  02250  02250                % 12074 RGTR--
+140902002 Hoscheid-Dickt, Um W  02251  02251                % 12074 RGTR--
+110203001 Ennert Schinker       02252  02252                % 12074 RGTR--
+110203003 Um Schinker           02253  02253                % 12074 RGTR--
+110403003 Hosingen, Z.A.E.R.    02254  02254                % 12074 RGTR--
+110403001 Hosingen, Eesberwee   02256  02256                % 12074 RGTR--
+110403002 Hosingen, Ewescht Du  02256  02256                % 12074 RGTR--
+110403006 Hosingen, Bayrischt   02257  02257                % 12074 RGTR--
+110401002 Dorscheid, Am Poul    02259  02259                % 12074 RGTR--
+110502005 Marnach, Geschäftsze  02301  02301                % 12074 RGTR--
+110502008 Marnach, Op der Bréc  02302  02302                % 12074 RGTR--
+110502006 Marnach, Bei der Kie  02303  02303                % 12074 RGTR--
+110103003 Reuler, Hôh           02306  02306                % 12074 RGTR--
+110101001 Clervaux, Clinique    02307  02307                % 12074 RGTR--
+110101010 Clervaux, Police      02307  02307                % 12074 RGTR--
+110101008 Clervaux, Pl. de la   02308  02308                % 12074 RGTR--
+110101011 Clervaux, Postes      02309  02309                % 12074 RGTR--
+110101004 Clervaux, Maison de   02309  02309                % 12074 RGTR--
+110101002 Clervaux, Gare routi  02310  02310                % 12074 RGTR--
+110101013 Clervaux, Baastneche  02311  02311                % 12074 RGTR--
+110803002 Boxhorn, Hauptstroos  02314  02314                % 12074 RGTR--
+110803003 Boxhorn, Schemer      02315  02315                % 12074 RGTR--
+110816001 Rumlange, Om Knäppch  02317  02317                % 12074 RGTR--
+110819001 Stockem, Duärrefstro  02320  02320                % 12074 RGTR--
+110812001 Lentzweiler, Haaptst  02322  02322                % 12074 RGTR--
+110806001 Deiffelt, Haaptstroo  02324  02324                % 12074 RGTR--
+110808001 Doennange, Haaptstro  02325  02325                % 12074 RGTR--
+110813001 Lullange, Haaptstroo  02327  02327                % 12074 RGTR--
+110824001 Boevange, Wëntgerdal  02328  02328                % 12074 RGTR--
+110821001 Wincrange, Bei der K  02330  02330                % 12074 RGTR--
+110821005 Wincrange, Béigener   02330  02330                % 12074 RGTR--
+110805001 Crendal, Duerefstroo  02332  02332                % 12074 RGTR--
+110820001 Troine, Bréck         02334  02334                % 12074 RGTR--
+110820002 Troine, Duarrefstroo  02335                       % 12074 RGTR--
+*Z 12075 RGTR--                                             % 12075 RGTR--
+*L 15U      110820002 160101001  00406  00532               % 12075 RGTR--
+*A UM 110820002 160101001 000038  00406  00532              % 12075 RGTR--
+*R 1 160101001 110820002 160101001  00406  00532            % 12075 RGTR--
+*G 050 110820002 160101001  00406  00532                    % 12075 RGTR--
+*A VE 110820002 160101001 000038  00406  00532              % 12075 RGTR--
+*I FD 110820002 160101001        0003130  00406  00532      % 12075 RGTR--
+110820002 Troine, Duarrefstroo         00406                % 12075 RGTR--
+110820001 Troine, Bréck         00407  00407                % 12075 RGTR--
+110805001 Crendal, Duerefstroo  00408  00408                % 12075 RGTR--
+110821005 Wincrange, Béigener   00410  00410                % 12075 RGTR--
+110821001 Wincrange, Bei der K  00411  00411                % 12075 RGTR--
+110824001 Boevange, Wëntgerdal  00412  00412                % 12075 RGTR--
+110813001 Lullange, Haaptstroo  00414  00414                % 12075 RGTR--
+110808001 Doennange, Haaptstro  00416  00416                % 12075 RGTR--
+110806001 Deiffelt, Haaptstroo  00417  00417                % 12075 RGTR--
+110812001 Lentzweiler, Haaptst  00418  00418                % 12075 RGTR--
+110819001 Stockem, Duärrefstro  00421  00421                % 12075 RGTR--
+110816001 Rumlange, Om Knäppch  00423  00423                % 12075 RGTR--
+110803003 Boxhorn, Schemer      00425  00425                % 12075 RGTR--
+110803002 Boxhorn, Hauptstroos  00426  00426                % 12075 RGTR--
+110101013 Clervaux, Baastneche  00430  00430                % 12075 RGTR--
+110101002 Clervaux, Gare routi  00430  00430                % 12075 RGTR--
+110101004 Clervaux, Maison de   00432  00432                % 12075 RGTR--
+110101009 Clervaux, Place Bene  00433  00433                % 12075 RGTR--
+110101010 Clervaux, Police      00434  00434                % 12075 RGTR--
+110101001 Clervaux, Clinique    00435  00435                % 12075 RGTR--
+110103003 Reuler, Hôh           00436  00436                % 12075 RGTR--
+110502006 Marnach, Bei der Kie  00438  00438                % 12075 RGTR--
+110502005 Marnach, Geschäftsze  00440  00440                % 12075 RGTR--
+110502008 Marnach, Op der Bréc  00441  00441                % 12075 RGTR--
+110401002 Dorscheid, Am Poul    00445  00445                % 12075 RGTR--
+110403006 Hosingen, Bayrischt   00448  00448                % 12075 RGTR--
+110403005 Hosingen, Bei der Ki  00449  00449                % 12075 RGTR--
+110403001 Hosingen, Eesberwee   00450  00450                % 12075 RGTR--
+110403003 Hosingen, Z.A.E.R.    00450  00450                % 12075 RGTR--
+110203003 Um Schinker           00452  00452                % 12075 RGTR--
+110203001 Ennert Schinker       00453  00453                % 12075 RGTR--
+140902002 Hoscheid-Dickt, Um W  00455  00455                % 12075 RGTR--
+140902001 Hoscheid-Dickt, Um P  00456  00456                % 12075 RGTR--
+140901001 Hoscheid, Braaken     00457  00457                % 12075 RGTR--
+140901002 Hoscheid, Kräizgaass  00458  00458                % 12075 RGTR--
+140901003 Hoscheid, Markenbach  00459  00459                % 12075 RGTR--
+140402001 Fridhaff              00505  00505                % 12075 RGTR--
+140401006 Diekirch, Kluuster    00509  00509                % 12075 RGTR--
+140401004 Diekirch, Gare routi  00511  00511                % 12075 RGTR--
+140401008 Diekirch, Lorentzwue  00513  00513                % 12075 RGTR--
+140603005 Ingeldorf, Walebroch  00513  00513                % 12075 RGTR--
+140603002 Ingeldorf, Café de l  00514  00514                % 12075 RGTR--
+140603006 Ingeldorf, Cactus     00515  00515                % 12075 RGTR--
+140602008 Erpeldange-sur-Sûre,  00517  00517                % 12075 RGTR--
+140701016 Ettelbruck, Gare      00519  00519                % 12075 RGTR--
+140701026 Ettelbruck, Rond Poi  00520  00520                % 12075 RGTR--
+140701018 Ettelbruck, H.v.Land  00521  00521                % 12075 RGTR--
+160301002 Colmar-Berg, Centre   00524  00524                % 12075 RGTR--
+160301007 Colmar-Berg, Usines   00526  00526                % 12075 RGTR--
+160101005 Bissen, Op der Mille  00528  00528                % 12075 RGTR--
+160101003 Bissen, Geiwels       00529  00529                % 12075 RGTR--
+160101006 Bissen, Henckels      00530  00530                % 12075 RGTR--
+160101001 Bissen, ArcelorMitta  00532                       % 12075 RGTR--
+*Z 12076 RGTR--                                             % 12076 RGTR--
+*L 15U      110820002 160101001  01206  01332               % 12076 RGTR--
+*A UM 110820002 160101001 000038  01206  01332              % 12076 RGTR--
+*R 1 160101001 110820002 160101001  01206  01332            % 12076 RGTR--
+*G 050 110820002 160101001  01206  01332                    % 12076 RGTR--
+*A VE 110820002 160101001 000038  01206  01332              % 12076 RGTR--
+*I FD 110820002 160101001        0003131  01206  01332      % 12076 RGTR--
+110820002 Troine, Duarrefstroo         01206                % 12076 RGTR--
+110820001 Troine, Bréck         01207  01207                % 12076 RGTR--
+110805001 Crendal, Duerefstroo  01208  01208                % 12076 RGTR--
+110821005 Wincrange, Béigener   01210  01210                % 12076 RGTR--
+110821001 Wincrange, Bei der K  01211  01211                % 12076 RGTR--
+110824001 Boevange, Wëntgerdal  01212  01212                % 12076 RGTR--
+110813001 Lullange, Haaptstroo  01214  01214                % 12076 RGTR--
+110808001 Doennange, Haaptstro  01216  01216                % 12076 RGTR--
+110806001 Deiffelt, Haaptstroo  01217  01217                % 12076 RGTR--
+110812001 Lentzweiler, Haaptst  01218  01218                % 12076 RGTR--
+110819001 Stockem, Duärrefstro  01221  01221                % 12076 RGTR--
+110816001 Rumlange, Om Knäppch  01223  01223                % 12076 RGTR--
+110803003 Boxhorn, Schemer      01225  01225                % 12076 RGTR--
+110803002 Boxhorn, Hauptstroos  01226  01226                % 12076 RGTR--
+110101013 Clervaux, Baastneche  01230  01230                % 12076 RGTR--
+110101002 Clervaux, Gare routi  01230  01230                % 12076 RGTR--
+110101004 Clervaux, Maison de   01232  01232                % 12076 RGTR--
+110101009 Clervaux, Place Bene  01233  01233                % 12076 RGTR--
+110101010 Clervaux, Police      01234  01234                % 12076 RGTR--
+110101001 Clervaux, Clinique    01235  01235                % 12076 RGTR--
+110103003 Reuler, Hôh           01236  01236                % 12076 RGTR--
+110502006 Marnach, Bei der Kie  01238  01238                % 12076 RGTR--
+110502005 Marnach, Geschäftsze  01240  01240                % 12076 RGTR--
+110502008 Marnach, Op der Bréc  01241  01241                % 12076 RGTR--
+110401002 Dorscheid, Am Poul    01245  01245                % 12076 RGTR--
+110403006 Hosingen, Bayrischt   01248  01248                % 12076 RGTR--
+110403005 Hosingen, Bei der Ki  01249  01249                % 12076 RGTR--
+110403001 Hosingen, Eesberwee   01250  01250                % 12076 RGTR--
+110403003 Hosingen, Z.A.E.R.    01250  01250                % 12076 RGTR--
+110203003 Um Schinker           01252  01252                % 12076 RGTR--
+110203001 Ennert Schinker       01253  01253                % 12076 RGTR--
+140902002 Hoscheid-Dickt, Um W  01255  01255                % 12076 RGTR--
+140902001 Hoscheid-Dickt, Um P  01256  01256                % 12076 RGTR--
+140901001 Hoscheid, Braaken     01257  01257                % 12076 RGTR--
+140901002 Hoscheid, Kräizgaass  01258  01258                % 12076 RGTR--
+140901003 Hoscheid, Markenbach  01259  01259                % 12076 RGTR--
+140402001 Fridhaff              01305  01305                % 12076 RGTR--
+140401006 Diekirch, Kluuster    01309  01309                % 12076 RGTR--
+140401004 Diekirch, Gare routi  01311  01311                % 12076 RGTR--
+140401008 Diekirch, Lorentzwue  01313  01313                % 12076 RGTR--
+140603005 Ingeldorf, Walebroch  01313  01313                % 12076 RGTR--
+140603002 Ingeldorf, Café de l  01314  01314                % 12076 RGTR--
+140603006 Ingeldorf, Cactus     01315  01315                % 12076 RGTR--
+140602008 Erpeldange-sur-Sûre,  01317  01317                % 12076 RGTR--
+140701016 Ettelbruck, Gare      01319  01319                % 12076 RGTR--
+140701026 Ettelbruck, Rond Poi  01320  01320                % 12076 RGTR--
+140701018 Ettelbruck, H.v.Land  01321  01321                % 12076 RGTR--
+160301002 Colmar-Berg, Centre   01324  01324                % 12076 RGTR--
+160301007 Colmar-Berg, Usines   01326  01326                % 12076 RGTR--
+160101005 Bissen, Op der Mille  01328  01328                % 12076 RGTR--
+160101003 Bissen, Geiwels       01329  01329                % 12076 RGTR--
+160101006 Bissen, Henckels      01330  01330                % 12076 RGTR--
+160101001 Bissen, ArcelorMitta  01332                       % 12076 RGTR--
+*Z 12077 RGTR--                                             % 12077 RGTR--
+*L 15U      110820002 160101001  02006  02132               % 12077 RGTR--
+*A UM 110820002 160101001 000038  02006  02132              % 12077 RGTR--
+*R 1 160101001 110820002 160101001  02006  02132            % 12077 RGTR--
+*G 050 110820002 160101001  02006  02132                    % 12077 RGTR--
+*A VE 110820002 160101001 000038  02006  02132              % 12077 RGTR--
+*I FD 110820002 160101001        0003132  02006  02132      % 12077 RGTR--
+110820002 Troine, Duarrefstroo         02006                % 12077 RGTR--
+110820001 Troine, Bréck         02007  02007                % 12077 RGTR--
+110805001 Crendal, Duerefstroo  02008  02008                % 12077 RGTR--
+110821005 Wincrange, Béigener   02010  02010                % 12077 RGTR--
+110821001 Wincrange, Bei der K  02011  02011                % 12077 RGTR--
+110824001 Boevange, Wëntgerdal  02012  02012                % 12077 RGTR--
+110813001 Lullange, Haaptstroo  02014  02014                % 12077 RGTR--
+110808001 Doennange, Haaptstro  02016  02016                % 12077 RGTR--
+110806001 Deiffelt, Haaptstroo  02017  02017                % 12077 RGTR--
+110812001 Lentzweiler, Haaptst  02018  02018                % 12077 RGTR--
+110819001 Stockem, Duärrefstro  02021  02021                % 12077 RGTR--
+110816001 Rumlange, Om Knäppch  02023  02023                % 12077 RGTR--
+110803003 Boxhorn, Schemer      02025  02025                % 12077 RGTR--
+110803002 Boxhorn, Hauptstroos  02026  02026                % 12077 RGTR--
+110101013 Clervaux, Baastneche  02030  02030                % 12077 RGTR--
+110101002 Clervaux, Gare routi  02030  02030                % 12077 RGTR--
+110101004 Clervaux, Maison de   02032  02032                % 12077 RGTR--
+110101009 Clervaux, Place Bene  02033  02033                % 12077 RGTR--
+110101010 Clervaux, Police      02034  02034                % 12077 RGTR--
+110101001 Clervaux, Clinique    02035  02035                % 12077 RGTR--
+110103003 Reuler, Hôh           02036  02036                % 12077 RGTR--
+110502006 Marnach, Bei der Kie  02038  02038                % 12077 RGTR--
+110502005 Marnach, Geschäftsze  02040  02040                % 12077 RGTR--
+110502008 Marnach, Op der Bréc  02041  02041                % 12077 RGTR--
+110401002 Dorscheid, Am Poul    02045  02045                % 12077 RGTR--
+110403006 Hosingen, Bayrischt   02048  02048                % 12077 RGTR--
+110403005 Hosingen, Bei der Ki  02049  02049                % 12077 RGTR--
+110403001 Hosingen, Eesberwee   02050  02050                % 12077 RGTR--
+110403003 Hosingen, Z.A.E.R.    02050  02050                % 12077 RGTR--
+110203003 Um Schinker           02052  02052                % 12077 RGTR--
+110203001 Ennert Schinker       02053  02053                % 12077 RGTR--
+140902002 Hoscheid-Dickt, Um W  02055  02055                % 12077 RGTR--
+140902001 Hoscheid-Dickt, Um P  02056  02056                % 12077 RGTR--
+140901001 Hoscheid, Braaken     02057  02057                % 12077 RGTR--
+140901002 Hoscheid, Kräizgaass  02058  02058                % 12077 RGTR--
+140901003 Hoscheid, Markenbach  02059  02059                % 12077 RGTR--
+140402001 Fridhaff              02105  02105                % 12077 RGTR--
+140401006 Diekirch, Kluuster    02109  02109                % 12077 RGTR--
+140401004 Diekirch, Gare routi  02111  02111                % 12077 RGTR--
+140401008 Diekirch, Lorentzwue  02113  02113                % 12077 RGTR--
+140603005 Ingeldorf, Walebroch  02113  02113                % 12077 RGTR--
+140603002 Ingeldorf, Café de l  02114  02114                % 12077 RGTR--
+140603006 Ingeldorf, Cactus     02115  02115                % 12077 RGTR--
+140602008 Erpeldange-sur-Sûre,  02117  02117                % 12077 RGTR--
+140701016 Ettelbruck, Gare      02119  02119                % 12077 RGTR--
+140701026 Ettelbruck, Rond Poi  02120  02120                % 12077 RGTR--
+140701018 Ettelbruck, H.v.Land  02121  02121                % 12077 RGTR--
+160301002 Colmar-Berg, Centre   02124  02124                % 12077 RGTR--
+160301007 Colmar-Berg, Usines   02126  02126                % 12077 RGTR--
+160101005 Bissen, Op der Mille  02128  02128                % 12077 RGTR--
+160101003 Bissen, Geiwels       02129  02129                % 12077 RGTR--
+160101006 Bissen, Henckels      02130  02130                % 12077 RGTR--
+160101001 Bissen, ArcelorMitta  02132                       % 12077 RGTR--
+*Z 12078 RGTR--                                             % 12078 RGTR--
+*L 15U      160101001 110820002  01408  01529               % 12078 RGTR--
+*A UM 160101001 110820002 000038  01408  01529              % 12078 RGTR--
+*R 2 110820002 160101001 110820002  01408  01529            % 12078 RGTR--
+*G 050 160101001 110820002  01408  01529                    % 12078 RGTR--
+*A VE 160101001 110820002 000038  01408  01529              % 12078 RGTR--
+*I FD 160101001 110820002        0001867  01408  01529      % 12078 RGTR--
+160101001 Bissen, ArcelorMitta         01408                % 12078 RGTR--
+160101006 Bissen, Henckels      01410  01410                % 12078 RGTR--
+160101003 Bissen, Geiwels       01411  01411                % 12078 RGTR--
+160101005 Bissen, Op der Mille  01412  01412                % 12078 RGTR--
+160301007 Colmar-Berg, Usines   01414  01415                % 12078 RGTR--
+160301002 Colmar-Berg, Centre   01416  01416                % 12078 RGTR--
+140603006 Ingeldorf, Cactus     01422  01422                % 12078 RGTR--
+140603002 Ingeldorf, Café de l  01423  01423                % 12078 RGTR--
+140603005 Ingeldorf, Walebroch  01424  01424                % 12078 RGTR--
+140401008 Diekirch, Lorentzwue  01424  01424                % 12078 RGTR--
+140401004 Diekirch, Gare routi  01426  01426                % 12078 RGTR--
+140401001 Diekirch, Altersheem  01427  01427                % 12078 RGTR--
+140401011 Diekirch, Alexis Hec  01428  01428                % 12078 RGTR--
+140401010 Diekirch, Place des   01429  01429                % 12078 RGTR--
+140402001 Fridhaff              01433  01433                % 12078 RGTR--
+140901003 Hoscheid, Markenbach  01439  01439                % 12078 RGTR--
+140901002 Hoscheid, Kräizgaass  01440  01440                % 12078 RGTR--
+140901001 Hoscheid, Braaken     01441  01441                % 12078 RGTR--
+140902001 Hoscheid-Dickt, Um P  01444  01444                % 12078 RGTR--
+140902002 Hoscheid-Dickt, Um W  01445  01445                % 12078 RGTR--
+110203001 Ennert Schinker       01446  01446                % 12078 RGTR--
+110203003 Um Schinker           01447  01447                % 12078 RGTR--
+110403003 Hosingen, Z.A.E.R.    01449  01449                % 12078 RGTR--
+110403001 Hosingen, Eesberwee   01450  01450                % 12078 RGTR--
+110403002 Hosingen, Ewescht Du  01451  01451                % 12078 RGTR--
+110403006 Hosingen, Bayrischt   01452  01452                % 12078 RGTR--
+110401002 Dorscheid, Am Poul    01454  01454                % 12078 RGTR--
+110502005 Marnach, Geschäftsze  01456  01456                % 12078 RGTR--
+110502008 Marnach, Op der Bréc  01457  01457                % 12078 RGTR--
+110502006 Marnach, Bei der Kie  01458  01458                % 12078 RGTR--
+110103003 Reuler, Hôh           01500  01500                % 12078 RGTR--
+110101001 Clervaux, Clinique    01501  01501                % 12078 RGTR--
+110101010 Clervaux, Police      01502  01502                % 12078 RGTR--
+110101008 Clervaux, Pl. de la   01502  01502                % 12078 RGTR--
+110101011 Clervaux, Postes      01503  01503                % 12078 RGTR--
+110101004 Clervaux, Maison de   01504  01504                % 12078 RGTR--
+110101002 Clervaux, Gare routi  01505  01505                % 12078 RGTR--
+110101013 Clervaux, Baastneche  01506  01506                % 12078 RGTR--
+110803002 Boxhorn, Hauptstroos  01509  01509                % 12078 RGTR--
+110803003 Boxhorn, Schemer      01510  01510                % 12078 RGTR--
+110816001 Rumlange, Om Knäppch  01512  01512                % 12078 RGTR--
+110819001 Stockem, Duärrefstro  01514  01514                % 12078 RGTR--
+110812001 Lentzweiler, Haaptst  01517  01517                % 12078 RGTR--
+110806001 Deiffelt, Haaptstroo  01518  01518                % 12078 RGTR--
+110808001 Doennange, Haaptstro  01519  01519                % 12078 RGTR--
+110813001 Lullange, Haaptstroo  01521  01521                % 12078 RGTR--
+110824001 Boevange, Wëntgerdal  01523  01523                % 12078 RGTR--
+110821001 Wincrange, Bei der K  01524  01524                % 12078 RGTR--
+110821005 Wincrange, Béigener   01525  01525                % 12078 RGTR--
+110805001 Crendal, Duerefstroo  01527  01527                % 12078 RGTR--
+110820001 Troine, Bréck         01528  01528                % 12078 RGTR--
+110820002 Troine, Duarrefstroo  01529                       % 12078 RGTR--
+*Z 12079 RGTR--                                             % 12079 RGTR--
+*L 15U      160101001 110820002  00608  00732               % 12079 RGTR--
+*A UM 160101001 110820002 000326  00608  00732              % 12079 RGTR--
+*R 2 110820002 160101001 110820002  00608  00732            % 12079 RGTR--
+*G 050 160101001 110820002  00608  00732                    % 12079 RGTR--
+*A VE 160101001 110820002 000326  00608  00732              % 12079 RGTR--
+*I FD 160101001 110820002        0001871  00608  00732      % 12079 RGTR--
+160101001 Bissen, ArcelorMitta         00608                % 12079 RGTR--
+160101006 Bissen, Henckels      00610  00610                % 12079 RGTR--
+160101003 Bissen, Geiwels       00611  00611                % 12079 RGTR--
+160101005 Bissen, Op der Mille  00612  00612                % 12079 RGTR--
+160301007 Colmar-Berg, Usines   00615  00615                % 12079 RGTR--
+160301002 Colmar-Berg, Centre   00616  00616                % 12079 RGTR--
+140603006 Ingeldorf, Cactus     00622  00622                % 12079 RGTR--
+140603002 Ingeldorf, Café de l  00623  00623                % 12079 RGTR--
+140603005 Ingeldorf, Walebroch  00624  00624                % 12079 RGTR--
+140401008 Diekirch, Lorentzwue  00624  00624                % 12079 RGTR--
+140401004 Diekirch, Gare routi  00626  00626                % 12079 RGTR--
+140401001 Diekirch, Altersheem  00628  00628                % 12079 RGTR--
+140401011 Diekirch, Alexis Hec  00628  00628                % 12079 RGTR--
+140401010 Diekirch, Place des   00629  00629                % 12079 RGTR--
+140402001 Fridhaff              00633  00633                % 12079 RGTR--
+140901003 Hoscheid, Markenbach  00639  00639                % 12079 RGTR--
+140901002 Hoscheid, Kräizgaass  00640  00640                % 12079 RGTR--
+140901001 Hoscheid, Braaken     00641  00641                % 12079 RGTR--
+140902001 Hoscheid-Dickt, Um P  00645  00645                % 12079 RGTR--
+140902002 Hoscheid-Dickt, Um W  00646  00646                % 12079 RGTR--
+110203001 Ennert Schinker       00647  00647                % 12079 RGTR--
+110203003 Um Schinker           00648  00648                % 12079 RGTR--
+110403003 Hosingen, Z.A.E.R.    00650  00650                % 12079 RGTR--
+110403001 Hosingen, Eesberwee   00651  00651                % 12079 RGTR--
+110403002 Hosingen, Ewescht Du  00652  00652                % 12079 RGTR--
+110403006 Hosingen, Bayrischt   00653  00653                % 12079 RGTR--
+110401002 Dorscheid, Am Poul    00655  00655                % 12079 RGTR--
+110502005 Marnach, Geschäftsze  00657  00657                % 12079 RGTR--
+110502008 Marnach, Op der Bréc  00658  00658                % 12079 RGTR--
+110502006 Marnach, Bei der Kie  00659  00659                % 12079 RGTR--
+110103003 Reuler, Hôh           00702  00702                % 12079 RGTR--
+110101001 Clervaux, Clinique    00703  00703                % 12079 RGTR--
+110101010 Clervaux, Police      00704  00704                % 12079 RGTR--
+110101008 Clervaux, Pl. de la   00704  00704                % 12079 RGTR--
+110101011 Clervaux, Postes      00705  00705                % 12079 RGTR--
+110101004 Clervaux, Maison de   00706  00706                % 12079 RGTR--
+110101002 Clervaux, Gare routi  00707  00707                % 12079 RGTR--
+110101013 Clervaux, Baastneche  00708  00708                % 12079 RGTR--
+110803002 Boxhorn, Hauptstroos  00711  00711                % 12079 RGTR--
+110803003 Boxhorn, Schemer      00712  00712                % 12079 RGTR--
+110816001 Rumlange, Om Knäppch  00714  00714                % 12079 RGTR--
+110819001 Stockem, Duärrefstro  00716  00716                % 12079 RGTR--
+110812001 Lentzweiler, Haaptst  00719  00719                % 12079 RGTR--
+110806001 Deiffelt, Haaptstroo  00720  00720                % 12079 RGTR--
+110808001 Doennange, Haaptstro  00721  00721                % 12079 RGTR--
+110813001 Lullange, Haaptstroo  00723  00723                % 12079 RGTR--
+110824001 Boevange, Wëntgerdal  00725  00725                % 12079 RGTR--
+110821001 Wincrange, Bei der K  00726  00726                % 12079 RGTR--
+110821005 Wincrange, Béigener   00727  00727                % 12079 RGTR--
+110805001 Crendal, Duerefstroo  00729  00729                % 12079 RGTR--
+110820001 Troine, Bréck         00731  00731                % 12079 RGTR--
+110820002 Troine, Duarrefstroo  00732                       % 12079 RGTR--
+*Z 12080 RGTR--                                             % 12080 RGTR--
+*L 15U      160101001 110820002  02208  02335               % 12080 RGTR--
+*A UM 160101001 110820002 000038  02208  02335              % 12080 RGTR--
+*R 2 110820002 160101001 110820002  02208  02335            % 12080 RGTR--
+*G 050 160101001 110820002  02208  02335                    % 12080 RGTR--
+*A VE 160101001 110820002 000038  02208  02335              % 12080 RGTR--
+*I FD 160101001 110820002        0001869  02208  02335      % 12080 RGTR--
+160101001 Bissen, ArcelorMitta         02208                % 12080 RGTR--
+160101006 Bissen, Henckels      02210  02210                % 12080 RGTR--
+160101003 Bissen, Geiwels       02211  02211                % 12080 RGTR--
+160101005 Bissen, Op der Mille  02212  02212                % 12080 RGTR--
+160301007 Colmar-Berg, Usines   02214  02215                % 12080 RGTR--
+160301002 Colmar-Berg, Centre   02216  02216                % 12080 RGTR--
+140701018 Ettelbruck, H.v.Land  02220  02220                % 12080 RGTR--
+140701026 Ettelbruck, Rond Poi  02221  02221                % 12080 RGTR--
+140701015 Ettelbruck, Ecole Pr  02222  02222                % 12080 RGTR--
+140701016 Ettelbruck, Gare      02224  02224                % 12080 RGTR--
+140602008 Erpeldange-sur-Sûre,  02226  02226                % 12080 RGTR--
+140603006 Ingeldorf, Cactus     02227  02227                % 12080 RGTR--
+140603002 Ingeldorf, Café de l  02229  02229                % 12080 RGTR--
+140603005 Ingeldorf, Walebroch  02229  02229                % 12080 RGTR--
+140401008 Diekirch, Lorentzwue  02230  02230                % 12080 RGTR--
+140401004 Diekirch, Gare routi  02231  02231                % 12080 RGTR--
+140401001 Diekirch, Altersheem  02233  02233                % 12080 RGTR--
+140401011 Diekirch, Alexis Hec  02234  02234                % 12080 RGTR--
+140401010 Diekirch, Place des   02235  02235                % 12080 RGTR--
+140402001 Fridhaff              02238  02238                % 12080 RGTR--
+140901003 Hoscheid, Markenbach  02244  02244                % 12080 RGTR--
+140901002 Hoscheid, Kräizgaass  02246  02246                % 12080 RGTR--
+140901001 Hoscheid, Braaken     02246  02246                % 12080 RGTR--
+140902001 Hoscheid-Dickt, Um P  02250  02250                % 12080 RGTR--
+140902002 Hoscheid-Dickt, Um W  02251  02251                % 12080 RGTR--
+110203001 Ennert Schinker       02252  02252                % 12080 RGTR--
+110203003 Um Schinker           02253  02253                % 12080 RGTR--
+110403003 Hosingen, Z.A.E.R.    02255  02255                % 12080 RGTR--
+110403001 Hosingen, Eesberwee   02256  02256                % 12080 RGTR--
+110403002 Hosingen, Ewescht Du  02257  02257                % 12080 RGTR--
+110403006 Hosingen, Bayrischt   02257  02257                % 12080 RGTR--
+110401002 Dorscheid, Am Poul    02259  02259                % 12080 RGTR--
+110502005 Marnach, Geschäftsze  02302  02302                % 12080 RGTR--
+110502008 Marnach, Op der Bréc  02302  02302                % 12080 RGTR--
+110502006 Marnach, Bei der Kie  02303  02303                % 12080 RGTR--
+110103003 Reuler, Hôh           02306  02306                % 12080 RGTR--
+110101001 Clervaux, Clinique    02307  02307                % 12080 RGTR--
+110101010 Clervaux, Police      02307  02307                % 12080 RGTR--
+110101008 Clervaux, Pl. de la   02308  02308                % 12080 RGTR--
+110101011 Clervaux, Postes      02309  02309                % 12080 RGTR--
+110101004 Clervaux, Maison de   02310  02310                % 12080 RGTR--
+110101002 Clervaux, Gare routi  02310  02310                % 12080 RGTR--
+110101013 Clervaux, Baastneche  02311  02311                % 12080 RGTR--
+110803002 Boxhorn, Hauptstroos  02314  02314                % 12080 RGTR--
+110803003 Boxhorn, Schemer      02315  02315                % 12080 RGTR--
+110816001 Rumlange, Om Knäppch  02317  02317                % 12080 RGTR--
+110819001 Stockem, Duärrefstro  02320  02320                % 12080 RGTR--
+110812001 Lentzweiler, Haaptst  02322  02322                % 12080 RGTR--
+110806001 Deiffelt, Haaptstroo  02324  02324                % 12080 RGTR--
+110808001 Doennange, Haaptstro  02325  02325                % 12080 RGTR--
+110813001 Lullange, Haaptstroo  02327  02327                % 12080 RGTR--
+110824001 Boevange, Wëntgerdal  02328  02328                % 12080 RGTR--
+110821001 Wincrange, Bei der K  02330  02330                % 12080 RGTR--
+110821005 Wincrange, Béigener   02330  02330                % 12080 RGTR--
+110805001 Crendal, Duerefstroo  02332  02332                % 12080 RGTR--
+110820001 Troine, Bréck         02334  02334                % 12080 RGTR--
+110820002 Troine, Duarrefstroo  02335                       % 12080 RGTR--

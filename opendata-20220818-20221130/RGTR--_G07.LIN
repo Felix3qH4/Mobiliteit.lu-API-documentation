@@ -1,0 +1,144 @@
+*F 03 2
+*Z 18524 RGTR--                                             % 18524 RGTR--
+*L G07      190101018 190903015  00655  00743               % 18524 RGTR--
+*A cj 190101018 190903015 000042  00655  00743              % 18524 RGTR--
+*A ad 190101018 190903015 000042  00655  00743              % 18524 RGTR--
+*R 1 190903015 190101018 190903015  00655  00743            % 18524 RGTR--
+*G 060 190101018 190903015  00655  00743                    % 18524 RGTR--
+*A VE 190101018 190903015 000042  00655  00743              % 18524 RGTR--
+*I FD 190101018 190903015        0001920  00655  00743      % 18524 RGTR--
+190101018 Bascharage, R.P. And         00655                % 18524 RGTR--
+190101003 Bascharage, Bomecht   00655  00655                % 18524 RGTR--
+190101022 Bascharage, Théophil  00656  00656                % 18524 RGTR--
+190103001 Linger, Schoul        00657  00657                % 18524 RGTR--
+190102002 Hautcharage, Scheedw  00659  00659                % 18524 RGTR--
+190102001 Hautcharage, Crèche   00701  00701                % 18524 RGTR--
+190102004 Hautcharage, Um Kläp  00701  00701                % 18524 RGTR--
+190101021 Bascharage, Widdems   00703  00703                % 18524 RGTR--
+190101009 Bascharage, Eglise    00703  00703                % 18524 RGTR--
+190101016 Bascharage, Place Sc  00704  00704                % 18524 RGTR--
+190101006 Bascharage, Brasseri  00711  00711                % 18524 RGTR--
+190101017 Bascharage, Prince H  00715  00715                % 18524 RGTR--
+190101005 Bascharage, Bommertb  00718  00718                % 18524 RGTR--
+190101012 Bascharage, Industri  00719  00719                % 18524 RGTR--
+190303001 Schouweiler, Bei der  00722  00722                % 18524 RGTR--
+190304003 Sprinkange, Um Kierk  00723  00723                % 18524 RGTR--
+190302005 Dippach, Op der Kopp  00724  00724                % 18524 RGTR--
+190302002 Dippach, Bei der Kap  00726  00726                % 18524 RGTR--
+190302001 Dippach, Bei der Crè  00727  00727                % 18524 RGTR--
+190903015 Mamer (Lycée), Gare   00743                       % 18524 RGTR--
+*Z 18525 RGTR--                                             % 18525 RGTR--
+*L G07      190303004 190903015  00730  00757               % 18525 RGTR--
+*A cj 190303004 190903015 000042  00730  00757              % 18525 RGTR--
+*A ad 190303004 190903015 000042  00730  00757              % 18525 RGTR--
+*R 1 190903015 190303004 190903015  00730  00757            % 18525 RGTR--
+*G 060 190303004 190903015  00730  00757                    % 18525 RGTR--
+*A VE 190303004 190903015 000042  00730  00757              % 18525 RGTR--
+*I FD 190303004 190903015        0001730  00730  00757      % 18525 RGTR--
+190303004 Schouweiler, Kastill         00730                % 18525 RGTR--
+190303006 Schouweiler, Schéife  00730  00730                % 18525 RGTR--
+190303005 Schouweiler, Kiirch   00731  00731                % 18525 RGTR--
+190304002 Sprinkange, Place de  00733  00733                % 18525 RGTR--
+190300503 Bettange-sur-Mess, S  00735  00735                % 18525 RGTR--
+190301001 Bettange-sur-Mess, B  00737  00737                % 18525 RGTR--
+190301003 Bettange-sur-Mess, K  00738  00738                % 18525 RGTR--
+190302005 Dippach, Op der Kopp  00741  00741                % 18525 RGTR--
+190302002 Dippach, Bei der Kap  00743  00743                % 18525 RGTR--
+190302001 Dippach, Bei der Crè  00744  00744                % 18525 RGTR--
+190903001 Mamer, Arelerstrooss  00754  00754                % 18525 RGTR--
+190903015 Mamer (Lycée), Gare   00757                       % 18525 RGTR--
+*Z 18526 RGTR--                                             % 18526 RGTR--
+*L G07      190903015 190303004  01430  01454               % 18526 RGTR--
+*A cj 190903015 190303004 000042  01430  01454              % 18526 RGTR--
+*A ad 190903015 190303004 000042  01430  01454              % 18526 RGTR--
+*R 2 190303004 190903015 190303004  01430  01454            % 18526 RGTR--
+*G 050 190903015 190303004  01430  01454                    % 18526 RGTR--
+*A VE 190903015 190303004 000042  01430  01454              % 18526 RGTR--
+*I FD 190903015 190303004        0002354  01430  01454      % 18526 RGTR--
+190903015 Mamer (Lycée), Gare          01430                % 18526 RGTR--
+190302007 Dippach, Um Pull      01441  01441                % 18526 RGTR--
+190302002 Dippach, Bei der Kap  01442  01442                % 18526 RGTR--
+190302005 Dippach, Op der Kopp  01443  01443                % 18526 RGTR--
+190301003 Bettange-sur-Mess, K  01445  01445                % 18526 RGTR--
+190301001 Bettange-sur-Mess, B  01446  01446                % 18526 RGTR--
+190300503 Bettange-sur-Mess, S  01448  01448                % 18526 RGTR--
+190304002 Sprinkange, Place de  01451  01451                % 18526 RGTR--
+190303005 Schouweiler, Kiirch   01452  01452                % 18526 RGTR--
+190303006 Schouweiler, Schéife  01453  01453                % 18526 RGTR--
+190303004 Schouweiler, Kastill  01454                       % 18526 RGTR--
+*Z 18527 RGTR--                                             % 18527 RGTR--
+*L G07      190903015 190101018  01430  01506               % 18527 RGTR--
+*A cj 190903015 190101018 000042  01430  01506              % 18527 RGTR--
+*A ad 190903015 190101018 000042  01430  01506              % 18527 RGTR--
+*R 2 190101018 190903015 190101018  01430  01506            % 18527 RGTR--
+*G 072 190903015 190101018  01430  01506                    % 18527 RGTR--
+*A VE 190903015 190101018 000042  01430  01506              % 18527 RGTR--
+*I FD 190903015 190101018        0003410  01430  01506      % 18527 RGTR--
+190903015 Mamer (Lycée), Gare          01430                % 18527 RGTR--
+190302007 Dippach, Um Pull      01441  01441                % 18527 RGTR--
+190302002 Dippach, Bei der Kap  01442  01442                % 18527 RGTR--
+190302005 Dippach, Op der Kopp  01443  01443                % 18527 RGTR--
+190303009 Schouweiler, Bei der  01444  01444                % 18527 RGTR--
+190101012 Bascharage, Industri  01447  01447                % 18527 RGTR--
+190101005 Bascharage, Bommertb  01449  01449                % 18527 RGTR--
+190101004 Bascharage, Bommelsc  01450  01450                % 18527 RGTR--
+190101006 Bascharage, Brasseri  01454  01454                % 18527 RGTR--
+190101001 Bascharage, Arcades   01455  01455                % 18527 RGTR--
+190101009 Bascharage, Eglise    01455  01455                % 18527 RGTR--
+190101021 Bascharage, Widdems   01456  01456                % 18527 RGTR--
+190102004 Hautcharage, Um Kläp  01457  01457                % 18527 RGTR--
+190102001 Hautcharage, Crèche   01458  01458                % 18527 RGTR--
+190102002 Hautcharage, Scheedw  01500  01500                % 18527 RGTR--
+190103001 Linger, Schoul        01501  01501                % 18527 RGTR--
+190101013 Bascharage, Jules He  01504  01504                % 18527 RGTR--
+190101003 Bascharage, Bomecht   01504  01504                % 18527 RGTR--
+190101018 Bascharage, R.P. And  01506                       % 18527 RGTR--
+*Z 18528 RGTR--                                             % 18528 RGTR--
+*L G07      190903015 190304002  01520  01541               % 18528 RGTR--
+*A cj 190903015 190304002 000042  01520  01541              % 18528 RGTR--
+*A ad 190903015 190304002 000042  01520  01541              % 18528 RGTR--
+*R 2 190304002 190903015 190304002  01520  01541            % 18528 RGTR--
+*G 060 190903015 190304002  01520  01541                    % 18528 RGTR--
+*A VE 190903015 190304002 000042  01520  01541              % 18528 RGTR--
+*I FD 190903015 190304002        0002087  01520  01541      % 18528 RGTR--
+190903015 Mamer (Lycée), Gare          01520                % 18528 RGTR--
+190302007 Dippach, Um Pull      01531  01531                % 18528 RGTR--
+190302002 Dippach, Bei der Kap  01532  01532                % 18528 RGTR--
+190302005 Dippach, Op der Kopp  01533  01533                % 18528 RGTR--
+190301003 Bettange-sur-Mess, K  01535  01535                % 18528 RGTR--
+190301001 Bettange-sur-Mess, B  01536  01536                % 18528 RGTR--
+190300503 Bettange-sur-Mess, S  01538  01538                % 18528 RGTR--
+190304002 Sprinkange, Place de  01541                       % 18528 RGTR--
+*Z 18529 RGTR--                                             % 18529 RGTR--
+*L G07      190903015 190101018  01610  01654               % 18529 RGTR--
+*A cj 190903015 190101018 000042  01610  01654              % 18529 RGTR--
+*A ad 190903015 190101018 000042  01610  01654              % 18529 RGTR--
+*R 2 190101018 190903015 190101018  01610  01654            % 18529 RGTR--
+*G 060 190903015 190101018  01610  01654                    % 18529 RGTR--
+*A VE 190903015 190101018 000042  01610  01654              % 18529 RGTR--
+*I FD 190903015 190101018        0001997  01610  01654      % 18529 RGTR--
+190903015 Mamer (Lycée), Gare          01610                % 18529 RGTR--
+190302007 Dippach, Um Pull      01621  01621                % 18529 RGTR--
+190302002 Dippach, Bei der Kap  01622  01622                % 18529 RGTR--
+190302005 Dippach, Op der Kopp  01623  01623                % 18529 RGTR--
+190301003 Bettange-sur-Mess, K  01625  01625                % 18529 RGTR--
+190301001 Bettange-sur-Mess, B  01626  01626                % 18529 RGTR--
+190300503 Bettange-sur-Mess, S  01628  01628                % 18529 RGTR--
+190304002 Sprinkange, Place de  01631  01631                % 18529 RGTR--
+190303005 Schouweiler, Kiirch   01632  01632                % 18529 RGTR--
+190303006 Schouweiler, Schéife  01633  01633                % 18529 RGTR--
+190303004 Schouweiler, Kastill  01634  01634                % 18529 RGTR--
+190101012 Bascharage, Industri  01636  01636                % 18529 RGTR--
+190101005 Bascharage, Bommertb  01638  01638                % 18529 RGTR--
+190101004 Bascharage, Bommelsc  01638  01638                % 18529 RGTR--
+190101006 Bascharage, Brasseri  01642  01642                % 18529 RGTR--
+190101001 Bascharage, Arcades   01643  01643                % 18529 RGTR--
+190101009 Bascharage, Eglise    01644  01644                % 18529 RGTR--
+190101021 Bascharage, Widdems   01644  01644                % 18529 RGTR--
+190102004 Hautcharage, Um Kläp  01645  01645                % 18529 RGTR--
+190102001 Hautcharage, Crèche   01646  01646                % 18529 RGTR--
+190102002 Hautcharage, Scheedw  01648  01648                % 18529 RGTR--
+190103001 Linger, Schoul        01649  01649                % 18529 RGTR--
+190101013 Bascharage, Jules He  01652  01652                % 18529 RGTR--
+190101003 Bascharage, Bomecht   01653  01653                % 18529 RGTR--
+190101018 Bascharage, R.P. And  01654                       % 18529 RGTR--

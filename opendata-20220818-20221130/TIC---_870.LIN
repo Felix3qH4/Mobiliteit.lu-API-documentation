@@ -1,0 +1,34 @@
+*F 03 2
+*Z 05870 TIC---                                             % 05870 TIC---
+*L 870      220402062 221201011  01451  01527               % 05870 TIC---
+*R 1 221201011 220402062 221201011  01451  01527            % 05870 TIC---
+*G TRB 220402062 221201011  01451  01527                    % 05870 TIC---
+*A VE 220402062 221201011 000290  01451  01527              % 05870 TIC---
+*I FD 220402062 221201011        0001683  01451  01527      % 05870 TIC---
+220402062 Esch-sur-Alzette, Ly         01451                % 05870 TIC---
+221401006 Schifflange, Millche  01504 -01504                % 05870 TIC---
+221401005 Schifflange, Huele W  01504 -01504                % 05870 TIC---
+221401003 Schifflange, Stadhau  01505 -01505                % 05870 TIC---
+221401007 Schifflange, Niddesc  01507 -01507                % 05870 TIC---
+221401004 Schifflange, Gringe   01508 -01508                % 05870 TIC---
+221401008 Schifflange, Poto     01509 -01509                % 05870 TIC---
+220601009 Kayl, Stellwierk      01511 -01511                % 05870 TIC---
+220601011 Kayl, Broucherbierg   01511 -01511                % 05870 TIC---
+220601005 Kayl, Barrière        01512 -01512                % 05870 TIC---
+220601010 Kayl, Bréck           01513 -01513                % 05870 TIC---
+220601007 Kayl, Post            01514 -01514                % 05870 TIC---
+220601021 Kayl, Brill           01516 -01516                % 05870 TIC---
+220601012 Kayl, Cité Berens     01517 -01517                % 05870 TIC---
+220602006 Tétange, Rue Neuve    01518 -01518                % 05870 TIC---
+220602007 Tétange, Schungfabri  01519 -01519                % 05870 TIC---
+220602009 Tétange, Bréck        01520 -01520                % 05870 TIC---
+220602010 Tétange, Schoul       01520 -01520                % 05870 TIC---
+220602008 Tétange, Um Haff      01521 -01521                % 05870 TIC---
+220602005 Tétange, Lorei        01521 -01521                % 05870 TIC---
+221201003 Rumelange, Atelier K  01522 -01522                % 05870 TIC---
+221201012 Rumelange, Schmelz    01523 -01523                % 05870 TIC---
+221201005 Rumelange, Gare rout  01524 -01524                % 05870 TIC---
+221201009 Rumelange, Maartplaz  01525 -01525                % 05870 TIC---
+221201002 Rumelange, Aale Kier  01526 -01526                % 05870 TIC---
+221201007 Rumelange, Laangegro  01526 -01526                % 05870 TIC---
+221201011 Rumelange, Rembour    01527                       % 05870 TIC---

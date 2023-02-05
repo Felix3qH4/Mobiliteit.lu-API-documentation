@@ -1,0 +1,217 @@
+*F 03 2
+*Z 04337 AVL---       027 030                               % 04337 AVL---
+*L 32       200417059 200409010  00609  00641               % 04337 AVL---
+*A BE 200417059 200409010 000034  00609  00641              % 04337 AVL---
+*R 1 200409010 200417059 200409010  00609  00641            % 04337 AVL---
+*G ST  200417059 200409010  00609  00641                    % 04337 AVL---
+*A VE 200417059 200409010 000034  00609  00641              % 04337 AVL---
+200417059 Kirchberg, Kierch            00609                % 04337 AVL---
+200417030 Kirchberg, Paul Noes  00610  00610                % 04337 AVL---
+200417001 Kirchberg, Prince Fé  00612  00612                % 04337 AVL---
+200417018 Kirchberg, Kierch     00613  00613                % 04337 AVL---
+200417037 Kirchberg, Schmëdd    00614  00614                % 04337 AVL---
+200417038 Kirchberg, Sichegron  00615  00615                % 04337 AVL---
+200417005 Kirchberg, Antoine d  00617  00617                % 04337 AVL---
+200417021 Kirchberg, Léon Heng  00619  00619                % 04337 AVL---
+200417049 Kirchberg, Niedergrü  00619  00619                % 04337 AVL---
+200417061 Kirchberg, Philharmo  00620  00620                % 04337 AVL---
+200417047 Kirchberg, Rout Bréc  00622  00622                % 04337 AVL---
+200405014 Centre, Fondation Pe  00625  00625                % 04337 AVL---
+200405005 Centre, Badanstalt    00628  00628                % 04337 AVL---
+200419013 Limpertsberg, Crispi  00630  00630                % 04337 AVL---
+200410005 Eich, Octroi          00631  00631                % 04337 AVL---
+200410003 Eich, Eecher Plaz     00633  00633                % 04337 AVL---
+200409005 Dommeldange, Contour  00634  00634                % 04337 AVL---
+200409008 Dommeldange, Gare ro  00637  00637                % 04337 AVL---
+200409011 Dommeldange, Van der  00639  00639                % 04337 AVL---
+200409009 Dommeldange, Jean En  00640  00640                % 04337 AVL---
+200409010 Dommeldange, Parc de  00641                       % 04337 AVL---
+*Z 04338 AVL---                                             % 04338 AVL---
+*L 32       200417059 200409010  02012  02038               % 04338 AVL---
+*A BE 200417059 200409010 000034  02012  02038              % 04338 AVL---
+*R 1 200409010 200417059 200409010  02012  02038            % 04338 AVL---
+*G ST  200417059 200409010  02012  02038                    % 04338 AVL---
+*A VE 200417059 200409010 000034  02012  02038              % 04338 AVL---
+200417059 Kirchberg, Kierch            02012                % 04338 AVL---
+200417030 Kirchberg, Paul Noes  02013  02013                % 04338 AVL---
+200417001 Kirchberg, Prince Fé  02014  02014                % 04338 AVL---
+200417018 Kirchberg, Kierch     02016  02016                % 04338 AVL---
+200417037 Kirchberg, Schmëdd    02017  02017                % 04338 AVL---
+200417038 Kirchberg, Sichegron  02018  02018                % 04338 AVL---
+200417005 Kirchberg, Antoine d  02019  02019                % 04338 AVL---
+200417021 Kirchberg, Léon Heng  02020  02020                % 04338 AVL---
+200417049 Kirchberg, Niedergrü  02021  02021                % 04338 AVL---
+200417061 Kirchberg, Philharmo  02022  02022                % 04338 AVL---
+200417047 Kirchberg, Rout Bréc  02023  02023                % 04338 AVL---
+200405014 Centre, Fondation Pe  02026  02026                % 04338 AVL---
+200405005 Centre, Badanstalt    02028  02028                % 04338 AVL---
+200419013 Limpertsberg, Crispi  02030  02030                % 04338 AVL---
+200410005 Eich, Octroi          02030  02030                % 04338 AVL---
+200410003 Eich, Eecher Plaz     02031  02031                % 04338 AVL---
+200409005 Dommeldange, Contour  02033  02033                % 04338 AVL---
+200409008 Dommeldange, Gare ro  02035  02035                % 04338 AVL---
+200409011 Dommeldange, Van der  02037  02037                % 04338 AVL---
+200409009 Dommeldange, Jean En  02038  02038                % 04338 AVL---
+200409010 Dommeldange, Parc de  02038                       % 04338 AVL---
+*Z 04339 AVL---       027 030                               % 04339 AVL---
+*L 32       200409010 200417001  00549  00619               % 04339 AVL---
+*A BE 200409010 200417001 000034  00549  00619              % 04339 AVL---
+*R 2 200417001 200409010 200417001  00549  00619            % 04339 AVL---
+*G ST  200409010 200417001  00549  00619                    % 04339 AVL---
+*A VE 200409010 200417001 000034  00549  00619              % 04339 AVL---
+200409010 Dommeldange, Parc de         00549                % 04339 AVL---
+200409009 Dommeldange, Jean En  00551  00551                % 04339 AVL---
+200409011 Dommeldange, Van der  00552  00552                % 04339 AVL---
+200409012 Dommeldange, Sidney   00553  00553                % 04339 AVL---
+200409008 Dommeldange, Gare ro  00554  00554                % 04339 AVL---
+200409005 Dommeldange, Contour  00556  00556                % 04339 AVL---
+200410003 Eich, Eecher Plaz     00558  00558                % 04339 AVL---
+200410005 Eich, Octroi          00559  00559                % 04339 AVL---
+200419013 Limpertsberg, Crispi  00600  00600                % 04339 AVL---
+200405005 Centre, Badanstalt    00603  00603                % 04339 AVL---
+200405014 Centre, Fondation Pe  00605  00605                % 04339 AVL---
+200417047 Kirchberg, Rout Bréc  00607  00607                % 04339 AVL---
+200417061 Kirchberg, Philharmo  00609  00609                % 04339 AVL---
+200417049 Kirchberg, Niedergrü  00610  00610                % 04339 AVL---
+200417021 Kirchberg, Léon Heng  00611  00611                % 04339 AVL---
+200417005 Kirchberg, Antoine d  00613  00613                % 04339 AVL---
+200417038 Kirchberg, Sichegron  00615  00615                % 04339 AVL---
+200417037 Kirchberg, Schmëdd    00615  00615                % 04339 AVL---
+200417059 Kirchberg, Kierch     00616  00616                % 04339 AVL---
+200417030 Kirchberg, Paul Noes  00618  00618                % 04339 AVL---
+200417001 Kirchberg, Prince Fé  00619                       % 04339 AVL---
+*Z 04340 AVL---                                             % 04340 AVL---
+*L 32       200409010 200417001  01949  02015               % 04340 AVL---
+*A BE 200409010 200417001 000034  01949  02015              % 04340 AVL---
+*R 2 200417001 200409010 200417001  01949  02015            % 04340 AVL---
+*G ST  200409010 200417001  01949  02015                    % 04340 AVL---
+*A VE 200409010 200417001 000034  01949  02015              % 04340 AVL---
+200409010 Dommeldange, Parc de         01949                % 04340 AVL---
+200409009 Dommeldange, Jean En  01951  01951                % 04340 AVL---
+200409011 Dommeldange, Van der  01952  01952                % 04340 AVL---
+200409012 Dommeldange, Sidney   01953  01953                % 04340 AVL---
+200409008 Dommeldange, Gare ro  01954  01954                % 04340 AVL---
+200409005 Dommeldange, Contour  01955  01955                % 04340 AVL---
+200410003 Eich, Eecher Plaz     01957  01957                % 04340 AVL---
+200410005 Eich, Octroi          01958  01958                % 04340 AVL---
+200419013 Limpertsberg, Crispi  01959  01959                % 04340 AVL---
+200405005 Centre, Badanstalt    02001  02001                % 04340 AVL---
+200405014 Centre, Fondation Pe  02003  02003                % 04340 AVL---
+200417047 Kirchberg, Rout Bréc  02005  02005                % 04340 AVL---
+200417061 Kirchberg, Philharmo  02007  02007                % 04340 AVL---
+200417049 Kirchberg, Niedergrü  02007  02007                % 04340 AVL---
+200417021 Kirchberg, Léon Heng  02008  02008                % 04340 AVL---
+200417005 Kirchberg, Antoine d  02010  02010                % 04340 AVL---
+200417038 Kirchberg, Sichegron  02011  02011                % 04340 AVL---
+200417037 Kirchberg, Schmëdd    02012  02012                % 04340 AVL---
+200417059 Kirchberg, Kierch     02012  02012                % 04340 AVL---
+200417030 Kirchberg, Paul Noes  02014  02014                % 04340 AVL---
+200417001 Kirchberg, Prince Fé  02015                       % 04340 AVL---
+*Z 04341 AVL---       027 030                               % 04341 AVL---
+*L 32       200417059 200409010  00609  00641               % 04341 AVL---
+*A BE 200417059 200409010 000033  00609  00641              % 04341 AVL---
+*R 1 200409010 200417059 200409010  00609  00641            % 04341 AVL---
+*G ST  200417059 200409010  00609  00641                    % 04341 AVL---
+*A VE 200417059 200409010 000033  00609  00641              % 04341 AVL---
+200417059 Kirchberg, Kierch            00609                % 04341 AVL---
+200417030 Kirchberg, Paul Noes  00610  00610                % 04341 AVL---
+200417001 Kirchberg, Prince Fé  00612  00612                % 04341 AVL---
+200417018 Kirchberg, Kierch     00613  00613                % 04341 AVL---
+200417037 Kirchberg, Schmëdd    00614  00614                % 04341 AVL---
+200417038 Kirchberg, Sichegron  00615  00615                % 04341 AVL---
+200417005 Kirchberg, Antoine d  00617  00617                % 04341 AVL---
+200417021 Kirchberg, Léon Heng  00619  00619                % 04341 AVL---
+200417049 Kirchberg, Niedergrü  00619  00619                % 04341 AVL---
+200417061 Kirchberg, Philharmo  00620  00620                % 04341 AVL---
+200417047 Kirchberg, Rout Bréc  00622  00622                % 04341 AVL---
+200405014 Centre, Fondation Pe  00625  00625                % 04341 AVL---
+200405005 Centre, Badanstalt    00628  00628                % 04341 AVL---
+200419013 Limpertsberg, Crispi  00630  00630                % 04341 AVL---
+200410005 Eich, Octroi          00631  00631                % 04341 AVL---
+200410003 Eich, Eecher Plaz     00633  00633                % 04341 AVL---
+200409005 Dommeldange, Contour  00634  00634                % 04341 AVL---
+200409008 Dommeldange, Gare ro  00637  00637                % 04341 AVL---
+200409011 Dommeldange, Van der  00639  00639                % 04341 AVL---
+200409009 Dommeldange, Jean En  00640  00640                % 04341 AVL---
+200409010 Dommeldange, Parc de  00641                       % 04341 AVL---
+*Z 04342 AVL---                                             % 04342 AVL---
+*L 32       200417059 200409010  02012  02038               % 04342 AVL---
+*A BE 200417059 200409010 000033  02012  02038              % 04342 AVL---
+*R 1 200409010 200417059 200409010  02012  02038            % 04342 AVL---
+*G ST  200417059 200409010  02012  02038                    % 04342 AVL---
+*A VE 200417059 200409010 000033  02012  02038              % 04342 AVL---
+200417059 Kirchberg, Kierch            02012                % 04342 AVL---
+200417030 Kirchberg, Paul Noes  02013  02013                % 04342 AVL---
+200417001 Kirchberg, Prince Fé  02014  02014                % 04342 AVL---
+200417018 Kirchberg, Kierch     02016  02016                % 04342 AVL---
+200417037 Kirchberg, Schmëdd    02017  02017                % 04342 AVL---
+200417038 Kirchberg, Sichegron  02018  02018                % 04342 AVL---
+200417005 Kirchberg, Antoine d  02019  02019                % 04342 AVL---
+200417021 Kirchberg, Léon Heng  02020  02020                % 04342 AVL---
+200417049 Kirchberg, Niedergrü  02021  02021                % 04342 AVL---
+200417061 Kirchberg, Philharmo  02022  02022                % 04342 AVL---
+200417047 Kirchberg, Rout Bréc  02023  02023                % 04342 AVL---
+200405014 Centre, Fondation Pe  02026  02026                % 04342 AVL---
+200405005 Centre, Badanstalt    02028  02028                % 04342 AVL---
+200419013 Limpertsberg, Crispi  02030  02030                % 04342 AVL---
+200410005 Eich, Octroi          02030  02030                % 04342 AVL---
+200410003 Eich, Eecher Plaz     02031  02031                % 04342 AVL---
+200409005 Dommeldange, Contour  02033  02033                % 04342 AVL---
+200409008 Dommeldange, Gare ro  02035  02035                % 04342 AVL---
+200409011 Dommeldange, Van der  02037  02037                % 04342 AVL---
+200409009 Dommeldange, Jean En  02038  02038                % 04342 AVL---
+200409010 Dommeldange, Parc de  02038                       % 04342 AVL---
+*Z 04343 AVL---       027 030                               % 04343 AVL---
+*L 32       200409010 200417001  00549  00619               % 04343 AVL---
+*A BE 200409010 200417001 000033  00549  00619              % 04343 AVL---
+*R 2 200417001 200409010 200417001  00549  00619            % 04343 AVL---
+*G ST  200409010 200417001  00549  00619                    % 04343 AVL---
+*A VE 200409010 200417001 000033  00549  00619              % 04343 AVL---
+200409010 Dommeldange, Parc de         00549                % 04343 AVL---
+200409009 Dommeldange, Jean En  00551  00551                % 04343 AVL---
+200409011 Dommeldange, Van der  00552  00552                % 04343 AVL---
+200409012 Dommeldange, Sidney   00553  00553                % 04343 AVL---
+200409008 Dommeldange, Gare ro  00554  00554                % 04343 AVL---
+200409005 Dommeldange, Contour  00556  00556                % 04343 AVL---
+200410003 Eich, Eecher Plaz     00558  00558                % 04343 AVL---
+200410005 Eich, Octroi          00559  00559                % 04343 AVL---
+200419013 Limpertsberg, Crispi  00600  00600                % 04343 AVL---
+200405005 Centre, Badanstalt    00603  00603                % 04343 AVL---
+200405014 Centre, Fondation Pe  00605  00605                % 04343 AVL---
+200417047 Kirchberg, Rout Bréc  00607  00607                % 04343 AVL---
+200417061 Kirchberg, Philharmo  00609  00609                % 04343 AVL---
+200417049 Kirchberg, Niedergrü  00610  00610                % 04343 AVL---
+200417021 Kirchberg, Léon Heng  00611  00611                % 04343 AVL---
+200417005 Kirchberg, Antoine d  00613  00613                % 04343 AVL---
+200417038 Kirchberg, Sichegron  00615  00615                % 04343 AVL---
+200417037 Kirchberg, Schmëdd    00615  00615                % 04343 AVL---
+200417059 Kirchberg, Kierch     00616  00616                % 04343 AVL---
+200417030 Kirchberg, Paul Noes  00618  00618                % 04343 AVL---
+200417001 Kirchberg, Prince Fé  00619                       % 04343 AVL---
+*Z 04344 AVL---                                             % 04344 AVL---
+*L 32       200409010 200417001  01949  02015               % 04344 AVL---
+*A BE 200409010 200417001 000033  01949  02015              % 04344 AVL---
+*R 2 200417001 200409010 200417001  01949  02015            % 04344 AVL---
+*G ST  200409010 200417001  01949  02015                    % 04344 AVL---
+*A VE 200409010 200417001 000033  01949  02015              % 04344 AVL---
+200409010 Dommeldange, Parc de         01949                % 04344 AVL---
+200409009 Dommeldange, Jean En  01951  01951                % 04344 AVL---
+200409011 Dommeldange, Van der  01952  01952                % 04344 AVL---
+200409012 Dommeldange, Sidney   01953  01953                % 04344 AVL---
+200409008 Dommeldange, Gare ro  01954  01954                % 04344 AVL---
+200409005 Dommeldange, Contour  01955  01955                % 04344 AVL---
+200410003 Eich, Eecher Plaz     01957  01957                % 04344 AVL---
+200410005 Eich, Octroi          01958  01958                % 04344 AVL---
+200419013 Limpertsberg, Crispi  01959  01959                % 04344 AVL---
+200405005 Centre, Badanstalt    02001  02001                % 04344 AVL---
+200405014 Centre, Fondation Pe  02003  02003                % 04344 AVL---
+200417047 Kirchberg, Rout Bréc  02005  02005                % 04344 AVL---
+200417061 Kirchberg, Philharmo  02007  02007                % 04344 AVL---
+200417049 Kirchberg, Niedergrü  02007  02007                % 04344 AVL---
+200417021 Kirchberg, Léon Heng  02008  02008                % 04344 AVL---
+200417005 Kirchberg, Antoine d  02010  02010                % 04344 AVL---
+200417038 Kirchberg, Sichegron  02011  02011                % 04344 AVL---
+200417037 Kirchberg, Schmëdd    02012  02012                % 04344 AVL---
+200417059 Kirchberg, Kierch     02012  02012                % 04344 AVL---
+200417030 Kirchberg, Paul Noes  02014  02014                % 04344 AVL---
+200417001 Kirchberg, Prince Fé  02015                       % 04344 AVL---

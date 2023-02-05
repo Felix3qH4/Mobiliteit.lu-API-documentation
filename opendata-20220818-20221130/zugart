@@ -1,0 +1,134 @@
+*F 06 2
+RGB  5   0 Bus      0 N          
+CIC  1   0 IC       0 N          
+CRB  2   0 RB       0 N          
+RE   2   0 RE       0 N          
+CTE  2   0 TER      0 N          
+CTG  0   0 TGV      0 N          
+CAF  8   2 Tram     0 N      #001
+090  5   0 Bus      0 N          
+091  5   0 Bus      0 N          
+010  5   0 Bus      0 N          
+020  5   0 Bus      0 N          
+030  5   0 Bus      0 N          
+040  5   0 Bus      0 N          
+060  5   0 Bus      0 N          
+050  5   0 Bus      0 N          
+070  5   0 Bus      0 N          
+080  5   0 Bus      0 N          
+130  5   0 Bus      0 N          
+072  5   0 Bus      0 N          
+063  5   0 Bus      0 N          
+034  5   0 Bus      0 N          
+064  5   0 Bus      0 N          
+094  5   0 Bus      0 N          
+SB   5   0 Bus      0 N          
+MB   5   0 Bus      0 N          
+GE   5   0 Bus      0 N          
+ST   5   0 Bus      0 N          
+GEH  5   0 Bus      0 N          
+GER  5   0 Bus      0 N          
+STP  5   0 Bus      0 N          
+MD   5   0 Bus      0 N          
+MDE  5   0 Bus      0 N          
+GMB  5   0 Bus      0 N          
+STR  5   0 Bus      0 N          
+MI   5   0 Bus      0 N          
+GB1  5   0 Bus      0 N          
+TRB  5   0 Bus      0 N          
+STE  5   0 Bus      0 N          
+C02  5   0 Bus      0 N          
+C04  5   0 Bus      0 N          
+C07  5   0 Bus      0 N          
+C10  5   0 Bus      0 N          
+C09  5   0 Bus      0 N          
+UUU  9   3 -        0      
+
+<text>
+<Deutsch>
+class00                  "ICE-Züge"
+class01                  "Intercity- und Eurocityzüge"
+class02                  "Interregio- und Schnellzüge"
+class03                  "Nahverkehr, sonstige Züge"
+class04                  "S-Bahnen"
+class05                  "Busse"
+class06                  "Schiffe"
+class07                  "U-Bahn"
+class08                  "Straßenbahn"
+class09                  "Anrufpflichtige Verkehre"
+Option00                  "nur Direktverbindungen"
+Option01                  "-"
+Option02                  "-"
+Option03                  "-"
+Option04                  "-"
+category001              "Tram"
+<Englisch>
+class00                  "ICE-Trains"
+class01                  "Intercity- and Eurocitytrains"
+class02                  "Interregio- and Fast trains"
+class03                  "Regional and other trains"
+class04                  "S-Bahn"
+class05                  "Busses"
+class06                  "Boats"
+class07                  "Underground"
+class08                  "Tram"
+class09                  "Services requiring tel. registration for passengers"
+Option00                  "only direct connections"
+Option01                  "-"
+Option02                  "-"
+Option03                  "-"
+Option04                  "-"
+category001              "Tram"
+<Italienisch>
+class00                  "Ferrovia urbana"
+class01                  "Metropolitana"
+class02                  "Tram"
+class03                  "Bus"
+class04                  "Treni regionali rapidi"
+class05                  "Battelli"
+class06                  "Funicular"
+class07                  "-"
+class08                  "-"
+class09                  "-"
+Option00                  "soltanto collegamenti diretti"
+Option01                  "-"
+Option02                  "-"
+Option03                  "-"
+Option04                  "-"
+category001              "-"
+<Spanisch>
+class00                  "Ferrocarril urbano"
+class01                  "Subterráneo"
+class02                  "Tranvía"
+class03                  "Bus"
+class04                  "Ferry"
+class05                  "Tren de larga distancia"
+class06                  "Tren regional"
+class07                  "Teleférico"
+class08                  "-"
+class09                  "-"
+Option00                  "Sólo conexiones directas"
+Option01                  "-"
+Option02                  "-"
+Option03                  "-"
+Option04                  "-"
+category001              "-"
+<Französisch>
+class00                  "Trains ICE"
+class01                  "Trains Intercity et Eurocity"
+class02                  "Trains express à longues distances, Inter-Regio"
+class03                  "Trains regionaux et autres trains"
+class04                  "Trains de banlieue"
+class05                  "Bus"
+class06                  "Bateaux"
+class07                  "Metro"
+class08                  "Tram"
+class09                  "Communications nécessitant un appel"
+Option00                  "Relation directe seulement"
+Option01                  "-"
+Option02                  "-"
+Option03                  "-"
+Option04                  "-"
+category001              "Tramway"
+
+<picture>

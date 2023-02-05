@@ -1,0 +1,117 @@
+*F 03 2
+*Z 18151 RGTR--                                             % 18151 RGTR--
+*L C07      170303001 180511008  00707  00751               % 18151 RGTR--
+*A cj 170303001 180511008 000042  00707  00751              % 18151 RGTR--
+*A ad 170303001 180511008 000042  00707  00751              % 18151 RGTR--
+*R 1 180511008 170303001 180511008  00707  00751            % 18151 RGTR--
+*G 050 170303001 180511008  00707  00751                    % 18151 RGTR--
+*A VE 170303001 180511008 000042  00707  00751              % 18151 RGTR--
+*I FD 170303001 180511008        0002666  00707  00751      % 18151 RGTR--
+170303001 Grundhof, Grondhaff          00707                % 18151 RGTR--
+170303002 Grundhof, Bei der Er  00707  00707                % 18151 RGTR--
+170101004 Beaufort, Huelewee    00713  00713                % 18151 RGTR--
+170101003 Beaufort, Härewiss    00714  00714                % 18151 RGTR--
+170101006 Beaufort, Op der Gar  00716  00716                % 18151 RGTR--
+170101001 Beaufort, Aispist     00716  00716                % 18151 RGTR--
+170101009 Beaufort, Um Bierg    00717  00717                % 18151 RGTR--
+170101002 Beaufort, Ennescht H  00719  00719                % 18151 RGTR--
+170101008 Beaufort, Halerstroo  00720  00720                % 18151 RGTR--
+170802002 Haller, Schoul        00727  00727                % 18151 RGTR--
+170802001 Haller, Beim Basseng  00727  00727                % 18151 RGTR--
+170804002 Waldbillig, Gemeng    00731  00731                % 18151 RGTR--
+170804001 Waldbillig, Bëlleger  00732  00732                % 18151 RGTR--
+170801002 Christnach, Schoulst  00733  00733                % 18151 RGTR--
+170801001 Christnach, Hierheck  00734  00734                % 18151 RGTR--
+160501003 Heffingen, Rue de Ch  00737  00737                % 18151 RGTR--
+160501006 Heffingen, Abri (Cen  00738  00738                % 18151 RGTR--
+160501004 Heffingen, Thommes    00739  00739                % 18151 RGTR--
+160502001 Reuland               00742  00742                % 18151 RGTR--
+180503001 Blumenthal/Blummenda  00744  00744                % 18151 RGTR--
+180511008 Junglinster, Lënster  00751                       % 18151 RGTR--
+*Z 18152 RGTR--                                             % 18152 RGTR--
+*L C07      180511008 170303001  01145  01227               % 18152 RGTR--
+*A cj 180511008 170303001 000007  01145  01227              % 18152 RGTR--
+*A ad 180511008 170303001 000007  01145  01227              % 18152 RGTR--
+*R 2 170303001 180511008 170303001  01145  01227            % 18152 RGTR--
+*G 050 180511008 170303001  01145  01227                    % 18152 RGTR--
+*A VE 180511008 170303001 000007  01145  01227              % 18152 RGTR--
+*I FD 180511008 170303001        0002343  01145  01227      % 18152 RGTR--
+180511008 Junglinster, Lënster         01145                % 18152 RGTR--
+180503001 Blumenthal/Blummenda  01151  01151                % 18152 RGTR--
+160502001 Reuland               01153  01153                % 18152 RGTR--
+160501004 Heffingen, Thommes    01156  01156                % 18152 RGTR--
+160501001 Heffingen, Al Gemeng  01157  01157                % 18152 RGTR--
+160501003 Heffingen, Rue de Ch  01158  01158                % 18152 RGTR--
+170801001 Christnach, Hierheck  01201  01201                % 18152 RGTR--
+170801002 Christnach, Schoulst  01201  01201                % 18152 RGTR--
+170804001 Waldbillig, Bëlleger  01202  01202                % 18152 RGTR--
+170804002 Waldbillig, Gemeng    01203  01203                % 18152 RGTR--
+170802001 Haller, Beim Basseng  01207  01207                % 18152 RGTR--
+170802002 Haller, Schoul        01208  01208                % 18152 RGTR--
+170101008 Beaufort, Halerstroo  01215  01215                % 18152 RGTR--
+170101002 Beaufort, Ennescht H  01216  01216                % 18152 RGTR--
+170101009 Beaufort, Um Bierg    01217  01217                % 18152 RGTR--
+170101001 Beaufort, Aispist     01217  01217                % 18152 RGTR--
+170101006 Beaufort, Op der Gar  01218  01218                % 18152 RGTR--
+170101003 Beaufort, Härewiss    01219  01219                % 18152 RGTR--
+170101004 Beaufort, Huelewee    01220  01220                % 18152 RGTR--
+170303002 Grundhof, Bei der Er  01226  01226                % 18152 RGTR--
+170303001 Grundhof, Grondhaff   01227                       % 18152 RGTR--
+*Z 18153 RGTR--                                             % 18153 RGTR--
+*L C07      180511008 170303001  01415  01457               % 18153 RGTR--
+*A cj 180511008 170303001 000046  01415  01457              % 18153 RGTR--
+*A ad 180511008 170303001 000046  01415  01457              % 18153 RGTR--
+*R 2 170303001 180511008 170303001  01415  01457            % 18153 RGTR--
+*G 050 180511008 170303001  01415  01457                    % 18153 RGTR--
+*A VE 180511008 170303001 000046  01415  01457              % 18153 RGTR--
+*I FD 180511008 170303001        0002055  01415  01457      % 18153 RGTR--
+180511008 Junglinster, Lënster         01415                % 18153 RGTR--
+180503001 Blumenthal/Blummenda  01421  01421                % 18153 RGTR--
+160502001 Reuland               01423  01423                % 18153 RGTR--
+160501004 Heffingen, Thommes    01426  01426                % 18153 RGTR--
+160501001 Heffingen, Al Gemeng  01427  01427                % 18153 RGTR--
+160501003 Heffingen, Rue de Ch  01428  01428                % 18153 RGTR--
+170801001 Christnach, Hierheck  01431  01431                % 18153 RGTR--
+170801002 Christnach, Schoulst  01431  01431                % 18153 RGTR--
+170804001 Waldbillig, Bëlleger  01432  01432                % 18153 RGTR--
+170804002 Waldbillig, Gemeng    01433  01433                % 18153 RGTR--
+170802001 Haller, Beim Basseng  01437  01437                % 18153 RGTR--
+170802002 Haller, Schoul        01438  01438                % 18153 RGTR--
+170101008 Beaufort, Halerstroo  01445  01445                % 18153 RGTR--
+170101002 Beaufort, Ennescht H  01446  01446                % 18153 RGTR--
+170101009 Beaufort, Um Bierg    01447  01447                % 18153 RGTR--
+170101001 Beaufort, Aispist     01447  01447                % 18153 RGTR--
+170101006 Beaufort, Op der Gar  01448  01448                % 18153 RGTR--
+170101003 Beaufort, Härewiss    01449  01449                % 18153 RGTR--
+170101004 Beaufort, Huelewee    01450  01450                % 18153 RGTR--
+170303002 Grundhof, Bei der Er  01456  01456                % 18153 RGTR--
+170303001 Grundhof, Grondhaff   01457                       % 18153 RGTR--
+*Z 18154 RGTR--                                             % 18154 RGTR--
+*L C07      180511008 170303001  01610  01652               % 18154 RGTR--
+*A cj 180511008 170303001 000312  01610  01652              % 18154 RGTR--
+*A ad 180511008 170303001 000312  01610  01652              % 18154 RGTR--
+*R 2 170303001 180511008 170303001  01610  01652            % 18154 RGTR--
+*G 050 180511008 170303001  01610  01652                    % 18154 RGTR--
+*A VE 180511008 170303001 000312  01610  01652              % 18154 RGTR--
+*I FD 180511008 170303001        0001997  01610  01652      % 18154 RGTR--
+180511008 Junglinster, Lënster         01610                % 18154 RGTR--
+180503001 Blumenthal/Blummenda  01616  01616                % 18154 RGTR--
+160502001 Reuland               01618  01618                % 18154 RGTR--
+160501004 Heffingen, Thommes    01621  01621                % 18154 RGTR--
+160501001 Heffingen, Al Gemeng  01622  01622                % 18154 RGTR--
+160501003 Heffingen, Rue de Ch  01623  01623                % 18154 RGTR--
+170801001 Christnach, Hierheck  01626  01626                % 18154 RGTR--
+170801002 Christnach, Schoulst  01626  01626                % 18154 RGTR--
+170804001 Waldbillig, Bëlleger  01627  01627                % 18154 RGTR--
+170804002 Waldbillig, Gemeng    01628  01628                % 18154 RGTR--
+170802001 Haller, Beim Basseng  01632  01632                % 18154 RGTR--
+170802002 Haller, Schoul        01633  01633                % 18154 RGTR--
+170101008 Beaufort, Halerstroo  01640  01640                % 18154 RGTR--
+170101002 Beaufort, Ennescht H  01641  01641                % 18154 RGTR--
+170101009 Beaufort, Um Bierg    01642  01642                % 18154 RGTR--
+170101001 Beaufort, Aispist     01642  01642                % 18154 RGTR--
+170101006 Beaufort, Op der Gar  01643  01643                % 18154 RGTR--
+170101003 Beaufort, Härewiss    01644  01644                % 18154 RGTR--
+170101004 Beaufort, Huelewee    01645  01645                % 18154 RGTR--
+170303002 Grundhof, Bei der Er  01651  01651                % 18154 RGTR--
+170303001 Grundhof, Grondhaff   01652                       % 18154 RGTR--

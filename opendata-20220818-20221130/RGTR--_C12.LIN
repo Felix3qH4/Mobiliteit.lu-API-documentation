@@ -1,0 +1,167 @@
+*F 03 2
+*Z 18171 RGTR--                                             % 18171 RGTR--
+*L C12      200702002 180511008  00705  00744               % 18171 RGTR--
+*A cj 200702002 180511008 000042  00705  00744              % 18171 RGTR--
+*A ad 200702002 180511008 000042  00705  00744              % 18171 RGTR--
+*R 1 180511008 200702002 180511008  00705  00744            % 18171 RGTR--
+*G 050 200702002 180511008  00705  00744                    % 18171 RGTR--
+*A VE 200702002 180511008 000042  00705  00744              % 18171 RGTR--
+*I FD 200702002 180511008        0002027  00705  00744      % 18171 RGTR--
+200702002 Neuhaeusgen, Iewesch         00705                % 18171 RGTR--
+200702003 Neuhaeusgen, Kiischt  00705  00705                % 18171 RGTR--
+200702001 Neuhaeusgen, Ennesch  00706  00706                % 18171 RGTR--
+200601004 Sandweiler, Hiel      00710  00710                % 18171 RGTR--
+200601005 Sandweiler, Kiirch    00711  00711                % 18171 RGTR--
+200601010 Sandweiler, Schiltzp  00711  00711                % 18171 RGTR--
+200601007 Sandweiler, Koschter  00712  00712                % 18171 RGTR--
+200204004 Oetrange, Prisong     00714  00714                % 18171 RGTR--
+200204006 Oetrange, Trengen Kn  00716  00716                % 18171 RGTR--
+200204001 Oetrange, Gare routi  00718  00718                % 18171 RGTR--
+200704001 Schrassig, Bastenhaf  00719  00719                % 18171 RGTR--
+200704003 Schrassig, Schwaarz   00720  00720                % 18171 RGTR--
+200705007 Schuttrange, Um Grou  00721  00721                % 18171 RGTR--
+200705005 Schuttrange, Kreizun  00722  00722                % 18171 RGTR--
+200705004 Schuttrange, Kierche  00722  00722                % 18171 RGTR--
+200701002 Munsbach, Kulturzent  00724  00724                % 18171 RGTR--
+200701003 Munsbach, Minsber Ba  00725  00725                % 18171 RGTR--
+200701005 Munsbach, Parc d'Act  00725  00725                % 18171 RGTR--
+200504010 Niederanven, Jacques  00726  00726                % 18171 RGTR--
+200504003 Niederanven, Millen   00728  00728                % 18171 RGTR--
+200504004 Niederanven, Minsbec  00728  00728                % 18171 RGTR--
+200504002 Niederanven, Laach    00729  00729                % 18171 RGTR--
+200504005 Niederanven, Op de W  00730  00730                % 18171 RGTR--
+200505003 Oberanven, Routstrac  00731  00731                % 18171 RGTR--
+200505001 Oberanven, Fielsenha  00731  00731                % 18171 RGTR--
+200505005 Oberanven, Rue Schet  00732  00732                % 18171 RGTR--
+200505004 Oberanven, rue d'Ern  00733  00733                % 18171 RGTR--
+200506005 Rameldange, Bounert   00733  00733                % 18171 RGTR--
+200506002 Rameldange, Rëtsch    00734  00734                % 18171 RGTR--
+180511008 Junglinster, Lënster  00744                       % 18171 RGTR--
+*Z 18172 RGTR--                                             % 18172 RGTR--
+*L C12      200504002 180511008  00730  00745               % 18172 RGTR--
+*A cj 200504002 180511008 000042  00730  00745              % 18172 RGTR--
+*A ad 200504002 180511008 000042  00730  00745              % 18172 RGTR--
+*R 1 180511008 200504002 180511008  00730  00745            % 18172 RGTR--
+*G 050 200504002 180511008  00730  00745                    % 18172 RGTR--
+*A VE 200504002 180511008 000042  00730  00745              % 18172 RGTR--
+*I FD 200504002 180511008        0001730  00730  00745      % 18172 RGTR--
+200504002 Niederanven, Laach           00730                % 18172 RGTR--
+200504005 Niederanven, Op de W  00730  00730                % 18172 RGTR--
+200505003 Oberanven, Routstrac  00731  00731                % 18172 RGTR--
+200505001 Oberanven, Fielsenha  00731  00731                % 18172 RGTR--
+200505005 Oberanven, Rue Schet  00732  00732                % 18172 RGTR--
+200505004 Oberanven, rue d'Ern  00733  00733                % 18172 RGTR--
+200506005 Rameldange, Bounert   00734  00734                % 18172 RGTR--
+200506002 Rameldange, Rëtsch    00735  00735                % 18172 RGTR--
+180511008 Junglinster, Lënster  00745                       % 18172 RGTR--
+*Z 18173 RGTR--                                             % 18173 RGTR--
+*L C12      180511008 200702002  01145  01228               % 18173 RGTR--
+*A cj 180511008 200702002 000007  01145  01228              % 18173 RGTR--
+*A ad 180511008 200702002 000007  01145  01228              % 18173 RGTR--
+*R 2 200702002 180511008 200702002  01145  01228            % 18173 RGTR--
+*G 050 180511008 200702002  01145  01228                    % 18173 RGTR--
+*A VE 180511008 200702002 000007  01145  01228              % 18173 RGTR--
+*I FD 180511008 200702002        0002343  01145  01228      % 18173 RGTR--
+180511008 Junglinster, Lënster         01145                % 18173 RGTR--
+200506002 Rameldange, Rëtsch    01155  01155                % 18173 RGTR--
+200506005 Rameldange, Bounert   01156  01156                % 18173 RGTR--
+200505004 Oberanven, rue d'Ern  01157  01157                % 18173 RGTR--
+200505005 Oberanven, Rue Schet  01157  01157                % 18173 RGTR--
+200505001 Oberanven, Fielsenha  01158  01158                % 18173 RGTR--
+200505003 Oberanven, Routstrac  01159  01159                % 18173 RGTR--
+200504005 Niederanven, Op de W  01200  01200                % 18173 RGTR--
+200504002 Niederanven, Laach    01201  01201                % 18173 RGTR--
+200504004 Niederanven, Minsbec  01202  01202                % 18173 RGTR--
+200504003 Niederanven, Millen   01203  01203                % 18173 RGTR--
+200504010 Niederanven, Jacques  01204  01204                % 18173 RGTR--
+200701005 Munsbach, Parc d'Act  01205  01205                % 18173 RGTR--
+200701003 Munsbach, Minsber Ba  01206  01206                % 18173 RGTR--
+200701002 Munsbach, Kulturzent  01207  01207                % 18173 RGTR--
+200705004 Schuttrange, Kierche  01209  01209                % 18173 RGTR--
+200705005 Schuttrange, Kreizun  01209  01209                % 18173 RGTR--
+200705007 Schuttrange, Um Grou  01210  01210                % 18173 RGTR--
+200704003 Schrassig, Schwaarz   01211  01211                % 18173 RGTR--
+200704001 Schrassig, Bastenhaf  01212  01212                % 18173 RGTR--
+200204001 Oetrange, Gare routi  01213  01213                % 18173 RGTR--
+200204006 Oetrange, Trengen Kn  01214  01214                % 18173 RGTR--
+200204004 Oetrange, Prisong     01217  01217                % 18173 RGTR--
+200601007 Sandweiler, Koschter  01219  01219                % 18173 RGTR--
+200601010 Sandweiler, Schiltzp  01220  01220                % 18173 RGTR--
+200601005 Sandweiler, Kiirch    01221  01221                % 18173 RGTR--
+200702001 Neuhaeusgen, Ennesch  01226  01226                % 18173 RGTR--
+200702003 Neuhaeusgen, Kiischt  01227  01227                % 18173 RGTR--
+200702002 Neuhaeusgen, Iewesch  01228                       % 18173 RGTR--
+*Z 18174 RGTR--                                             % 18174 RGTR--
+*L C12      180511008 200702002  01415  01458               % 18174 RGTR--
+*A cj 180511008 200702002 000046  01415  01458              % 18174 RGTR--
+*A ad 180511008 200702002 000046  01415  01458              % 18174 RGTR--
+*R 2 200702002 180511008 200702002  01415  01458            % 18174 RGTR--
+*G 050 180511008 200702002  01415  01458                    % 18174 RGTR--
+*A VE 180511008 200702002 000046  01415  01458              % 18174 RGTR--
+*I FD 180511008 200702002        0002055  01415  01458      % 18174 RGTR--
+180511008 Junglinster, Lënster         01415                % 18174 RGTR--
+200506002 Rameldange, Rëtsch    01425  01425                % 18174 RGTR--
+200506005 Rameldange, Bounert   01426  01426                % 18174 RGTR--
+200505004 Oberanven, rue d'Ern  01427  01427                % 18174 RGTR--
+200505005 Oberanven, Rue Schet  01427  01427                % 18174 RGTR--
+200505001 Oberanven, Fielsenha  01428  01428                % 18174 RGTR--
+200505003 Oberanven, Routstrac  01429  01429                % 18174 RGTR--
+200504005 Niederanven, Op de W  01430  01430                % 18174 RGTR--
+200504002 Niederanven, Laach    01431  01431                % 18174 RGTR--
+200504004 Niederanven, Minsbec  01432  01432                % 18174 RGTR--
+200504003 Niederanven, Millen   01433  01433                % 18174 RGTR--
+200504010 Niederanven, Jacques  01434  01434                % 18174 RGTR--
+200701005 Munsbach, Parc d'Act  01435  01435                % 18174 RGTR--
+200701003 Munsbach, Minsber Ba  01436  01436                % 18174 RGTR--
+200701002 Munsbach, Kulturzent  01437  01437                % 18174 RGTR--
+200705004 Schuttrange, Kierche  01439  01439                % 18174 RGTR--
+200705005 Schuttrange, Kreizun  01439  01439                % 18174 RGTR--
+200705007 Schuttrange, Um Grou  01440  01440                % 18174 RGTR--
+200704003 Schrassig, Schwaarz   01441  01441                % 18174 RGTR--
+200704001 Schrassig, Bastenhaf  01442  01442                % 18174 RGTR--
+200204001 Oetrange, Gare routi  01443  01443                % 18174 RGTR--
+200204006 Oetrange, Trengen Kn  01444  01444                % 18174 RGTR--
+200204004 Oetrange, Prisong     01447  01447                % 18174 RGTR--
+200601007 Sandweiler, Koschter  01449  01449                % 18174 RGTR--
+200601010 Sandweiler, Schiltzp  01450  01450                % 18174 RGTR--
+200601005 Sandweiler, Kiirch    01451  01451                % 18174 RGTR--
+200702001 Neuhaeusgen, Ennesch  01456  01456                % 18174 RGTR--
+200702003 Neuhaeusgen, Kiischt  01457  01457                % 18174 RGTR--
+200702002 Neuhaeusgen, Iewesch  01458                       % 18174 RGTR--
+*Z 18175 RGTR--                                             % 18175 RGTR--
+*L C12      180511008 200702002  01610  01653               % 18175 RGTR--
+*A cj 180511008 200702002 000312  01610  01653              % 18175 RGTR--
+*A ad 180511008 200702002 000312  01610  01653              % 18175 RGTR--
+*R 2 200702002 180511008 200702002  01610  01653            % 18175 RGTR--
+*G 050 180511008 200702002  01610  01653                    % 18175 RGTR--
+*A VE 180511008 200702002 000312  01610  01653              % 18175 RGTR--
+*I FD 180511008 200702002        0001997  01610  01653      % 18175 RGTR--
+180511008 Junglinster, Lënster         01610                % 18175 RGTR--
+200506002 Rameldange, Rëtsch    01620  01620                % 18175 RGTR--
+200506005 Rameldange, Bounert   01621  01621                % 18175 RGTR--
+200505004 Oberanven, rue d'Ern  01622  01622                % 18175 RGTR--
+200505005 Oberanven, Rue Schet  01622  01622                % 18175 RGTR--
+200505001 Oberanven, Fielsenha  01623  01623                % 18175 RGTR--
+200505003 Oberanven, Routstrac  01624  01624                % 18175 RGTR--
+200504005 Niederanven, Op de W  01625  01625                % 18175 RGTR--
+200504002 Niederanven, Laach    01626  01626                % 18175 RGTR--
+200504004 Niederanven, Minsbec  01627  01627                % 18175 RGTR--
+200504003 Niederanven, Millen   01628  01628                % 18175 RGTR--
+200504010 Niederanven, Jacques  01629  01629                % 18175 RGTR--
+200701005 Munsbach, Parc d'Act  01630  01630                % 18175 RGTR--
+200701003 Munsbach, Minsber Ba  01631  01631                % 18175 RGTR--
+200701002 Munsbach, Kulturzent  01632  01632                % 18175 RGTR--
+200705004 Schuttrange, Kierche  01634  01634                % 18175 RGTR--
+200705005 Schuttrange, Kreizun  01634  01634                % 18175 RGTR--
+200705007 Schuttrange, Um Grou  01635  01635                % 18175 RGTR--
+200704003 Schrassig, Schwaarz   01636  01636                % 18175 RGTR--
+200704001 Schrassig, Bastenhaf  01637  01637                % 18175 RGTR--
+200204001 Oetrange, Gare routi  01638  01638                % 18175 RGTR--
+200204006 Oetrange, Trengen Kn  01639  01639                % 18175 RGTR--
+200204004 Oetrange, Prisong     01642  01642                % 18175 RGTR--
+200601007 Sandweiler, Koschter  01644  01644                % 18175 RGTR--
+200601010 Sandweiler, Schiltzp  01645  01645                % 18175 RGTR--
+200601005 Sandweiler, Kiirch    01646  01646                % 18175 RGTR--
+200702001 Neuhaeusgen, Ennesch  01651  01651                % 18175 RGTR--
+200702003 Neuhaeusgen, Kiischt  01652  01652                % 18175 RGTR--
+200702002 Neuhaeusgen, Iewesch  01653                       % 18175 RGTR--

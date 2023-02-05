@@ -1,0 +1,37 @@
+*F 03 2
+*Z 05852 TIC---                                             % 05852 TIC---
+*L 785      220901004 220402034  01453  01530               % 05852 TIC---
+*R 1 220402034 220901004 220402034  01453  01530            % 05852 TIC---
+*G SB  220901004 220402034  01453  01530                    % 05852 TIC---
+*A VE 220901004 220402034 000290  01453  01530              % 05852 TIC---
+*I FD 220901004 220402034        0001665  01453  01530      % 05852 TIC---
+220901004 Lamadelaine, Lycée T         01453                % 05852 TIC---
+220902020 Pétange, Op der Mill  01455 -01455                % 05852 TIC---
+190103003 Linger, Velo's Piste  01456 -01456                % 05852 TIC---
+190103001 Linger, Schoul        01457 -01457                % 05852 TIC---
+190102002 Hautcharage, Scheedw  01459 -01459                % 05852 TIC---
+190102001 Hautcharage, Crèche   01500 -01500                % 05852 TIC---
+190102004 Hautcharage, Um Kläp  01501 -01501                % 05852 TIC---
+190102003 Hautcharage, Stade    01502 -01502                % 05852 TIC---
+190101019 Bascharage, Rue de S  01504 -01504                % 05852 TIC---
+190101012 Bascharage, Industri  01505 -01505                % 05852 TIC---
+190101024 Bascharage, Ecocente  01508 -01508                % 05852 TIC---
+190101010 Bascharage, Continen  01509 -01509                % 05852 TIC---
+221303004 Sanem, Op Lohr        01511 -01511                % 05852 TIC---
+221303009 Sanem, Zentrum        01512 -01512                % 05852 TIC---
+221303007 Sanem, Schlass        01513 -01513                % 05852 TIC---
+221304013 Soleuvre, Reitschoul  01514 -01514                % 05852 TIC---
+221304001 Soleuvre, Aessen      01516 -01516                % 05852 TIC---
+221302002 Ehlerange, Dennebësc  01517 -01517                % 05852 TIC---
+221302007 Ehlerange, Rousebësc  01518 -01518                % 05852 TIC---
+221302005 Ehlerange, Keupewee   01518 -01518                % 05852 TIC---
+221302001 Ehlerange, Centre     01520 -01520                % 05852 TIC---
+221302003 Ehlerange, Escherstr  01521 -01521                % 05852 TIC---
+221302009 Ehlerange, ZARE oues  01522 -01522                % 05852 TIC---
+220402022 Esch-sur-Alzette, Ci  01523  01523                % 05852 TIC---
+220402067 Esch-sur-Alzette, Op  01523  01523                % 05852 TIC---
+220402071 Esch-sur-Alzette, Pl  01524  01524                % 05852 TIC---
+220402100 Esch-sur-Alzette, Pi  01525 -01525                % 05852 TIC---
+220402021 Esch-sur-Alzette, ru  01527  01527                % 05852 TIC---
+220402036 Esch-sur-Alzette, Pl  01528 -01528                % 05852 TIC---
+220402034 Esch-sur-Alzette, Ga  01530                       % 05852 TIC---

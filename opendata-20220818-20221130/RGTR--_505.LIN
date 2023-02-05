@@ -1,0 +1,1599 @@
+*F 03 2
+*Z 01961 RGTR--                                             % 01961 RGTR--
+*L 505      400000015 200417048  01200  01246               % 01961 RGTR--
+*R 1 200417048 400000015 200417048  01200  01246            % 01961 RGTR--
+*G 070 400000015 200417048  01200  01246                    % 01961 RGTR--
+*A VE 400000015 200417048 000033  01200  01246              % 01961 RGTR--
+*I FD 400000015 200417048        0001713  01200  01246      % 01961 RGTR--
+400000015 Hayange, Esplanade           01200                % 01961 RGTR--
+400000014 Elange-Veymerange, S -01209  01209                % 01961 RGTR--
+400000077 Metzange, P&R Metzan  01213  01213                % 01961 RGTR--
+200417015 Kirchberg, Hôpital    01239 -01239                % 01961 RGTR--
+200417004 Kirchberg, Alphonse   01240 -01240                % 01961 RGTR--
+200417036 Kirchberg, Réimerwee  01241 -01241                % 01961 RGTR--
+200417002 Kirchberg, Albert Bo  01242 -01242                % 01961 RGTR--
+200417013 Kirchberg, Coudenhov  01243 -01243                % 01961 RGTR--
+200417019 Kirchberg, Konrad Ad  01244 -01244                % 01961 RGTR--
+200417005 Kirchberg, Antoine d  01245 -01245                % 01961 RGTR--
+200417048 Kirchberg, Europe Ga  01246                       % 01961 RGTR--
+*Z 01962 RGTR--                                             % 01962 RGTR--
+*L 505      400000015 200417048  01500  01546               % 01962 RGTR--
+*R 1 200417048 400000015 200417048  01500  01546            % 01962 RGTR--
+*G 070 400000015 200417048  01500  01546                    % 01962 RGTR--
+*A VE 400000015 200417048 000033  01500  01546              % 01962 RGTR--
+*I FD 400000015 200417048        0001721  01500  01546      % 01962 RGTR--
+400000015 Hayange, Esplanade           01500                % 01962 RGTR--
+400000014 Elange-Veymerange, S -01509  01509                % 01962 RGTR--
+400000077 Metzange, P&R Metzan  01513  01513                % 01962 RGTR--
+200417015 Kirchberg, Hôpital    01539 -01539                % 01962 RGTR--
+200417004 Kirchberg, Alphonse   01540 -01540                % 01962 RGTR--
+200417036 Kirchberg, Réimerwee  01541 -01541                % 01962 RGTR--
+200417002 Kirchberg, Albert Bo  01542 -01542                % 01962 RGTR--
+200417013 Kirchberg, Coudenhov  01543 -01543                % 01962 RGTR--
+200417019 Kirchberg, Konrad Ad  01544 -01544                % 01962 RGTR--
+200417005 Kirchberg, Antoine d  01545 -01545                % 01962 RGTR--
+200417048 Kirchberg, Europe Ga  01546                       % 01962 RGTR--
+*Z 01963 RGTR--                                             % 01963 RGTR--
+*L 505      400000015 200417048  02000  02046               % 01963 RGTR--
+*R 1 200417048 400000015 200417048  02000  02046            % 01963 RGTR--
+*G 070 400000015 200417048  02000  02046                    % 01963 RGTR--
+*A VE 400000015 200417048 000033  02000  02046              % 01963 RGTR--
+*I FD 400000015 200417048        0001927  02000  02046      % 01963 RGTR--
+400000015 Hayange, Esplanade           02000                % 01963 RGTR--
+400000014 Elange-Veymerange, S -02009  02009                % 01963 RGTR--
+400000077 Metzange, P&R Metzan  02013  02013                % 01963 RGTR--
+200417015 Kirchberg, Hôpital    02039 -02039                % 01963 RGTR--
+200417004 Kirchberg, Alphonse   02040 -02040                % 01963 RGTR--
+200417036 Kirchberg, Réimerwee  02041 -02041                % 01963 RGTR--
+200417002 Kirchberg, Albert Bo  02042 -02042                % 01963 RGTR--
+200417013 Kirchberg, Coudenhov  02043 -02043                % 01963 RGTR--
+200417019 Kirchberg, Konrad Ad  02044 -02044                % 01963 RGTR--
+200417005 Kirchberg, Antoine d  02045 -02045                % 01963 RGTR--
+200417048 Kirchberg, Europe Ga  02046                       % 01963 RGTR--
+*Z 01964 RGTR--                                             % 01964 RGTR--
+*L 505      400000015 200417048  00500  00546               % 01964 RGTR--
+*R 1 200417048 400000015 200417048  00500  00546            % 01964 RGTR--
+*G 130 400000015 200417048  00500  00546                    % 01964 RGTR--
+*A VE 400000015 200417048 000033  00500  00546              % 01964 RGTR--
+*I FD 400000015 200417048        0001725  00500  00546      % 01964 RGTR--
+400000015 Hayange, Esplanade           00500                % 01964 RGTR--
+400000014 Elange-Veymerange, S -00509  00509                % 01964 RGTR--
+400000077 Metzange, P&R Metzan  00513  00513                % 01964 RGTR--
+200417015 Kirchberg, Hôpital    00539 -00539                % 01964 RGTR--
+200417004 Kirchberg, Alphonse   00540 -00540                % 01964 RGTR--
+200417036 Kirchberg, Réimerwee  00541 -00541                % 01964 RGTR--
+200417002 Kirchberg, Albert Bo  00542 -00542                % 01964 RGTR--
+200417013 Kirchberg, Coudenhov  00543 -00543                % 01964 RGTR--
+200417019 Kirchberg, Konrad Ad  00544 -00544                % 01964 RGTR--
+200417005 Kirchberg, Antoine d  00545 -00545                % 01964 RGTR--
+200417048 Kirchberg, Europe Ga  00546                       % 01964 RGTR--
+*Z 01965 RGTR--                                             % 01965 RGTR--
+*L 505      400000015 200417048  00545  00631               % 01965 RGTR--
+*R 1 200417048 400000015 200417048  00545  00631            % 01965 RGTR--
+*G 130 400000015 200417048  00545  00631                    % 01965 RGTR--
+*A VE 400000015 200417048 000033  00545  00631              % 01965 RGTR--
+*I FD 400000015 200417048        0001953  00545  00631      % 01965 RGTR--
+400000015 Hayange, Esplanade           00545                % 01965 RGTR--
+400000014 Elange-Veymerange, S -00554  00554                % 01965 RGTR--
+400000077 Metzange, P&R Metzan  00558  00558                % 01965 RGTR--
+200417015 Kirchberg, Hôpital    00624 -00624                % 01965 RGTR--
+200417004 Kirchberg, Alphonse   00625 -00625                % 01965 RGTR--
+200417036 Kirchberg, Réimerwee  00626 -00626                % 01965 RGTR--
+200417002 Kirchberg, Albert Bo  00627 -00627                % 01965 RGTR--
+200417013 Kirchberg, Coudenhov  00628 -00628                % 01965 RGTR--
+200417019 Kirchberg, Konrad Ad  00629 -00629                % 01965 RGTR--
+200417005 Kirchberg, Antoine d  00630 -00630                % 01965 RGTR--
+200417048 Kirchberg, Europe Ga  00631                       % 01965 RGTR--
+*Z 01966 RGTR--                                             % 01966 RGTR--
+*L 505      400000015 200417048  01000  01046               % 01966 RGTR--
+*R 1 200417048 400000015 200417048  01000  01046            % 01966 RGTR--
+*G 130 400000015 200417048  01000  01046                    % 01966 RGTR--
+*A VE 400000015 200417048 000033  01000  01046              % 01966 RGTR--
+*I FD 400000015 200417048        0001712  01000  01046      % 01966 RGTR--
+400000015 Hayange, Esplanade           01000                % 01966 RGTR--
+400000014 Elange-Veymerange, S -01009  01009                % 01966 RGTR--
+400000077 Metzange, P&R Metzan  01013  01013                % 01966 RGTR--
+200417015 Kirchberg, Hôpital    01039 -01039                % 01966 RGTR--
+200417004 Kirchberg, Alphonse   01040 -01040                % 01966 RGTR--
+200417036 Kirchberg, Réimerwee  01041 -01041                % 01966 RGTR--
+200417002 Kirchberg, Albert Bo  01042 -01042                % 01966 RGTR--
+200417013 Kirchberg, Coudenhov  01043 -01043                % 01966 RGTR--
+200417019 Kirchberg, Konrad Ad  01044 -01044                % 01966 RGTR--
+200417005 Kirchberg, Antoine d  01045 -01045                % 01966 RGTR--
+200417048 Kirchberg, Europe Ga  01046                       % 01966 RGTR--
+*Z 01967 RGTR--                                             % 01967 RGTR--
+*L 505      400000015 200417048  01100  01146               % 01967 RGTR--
+*R 1 200417048 400000015 200417048  01100  01146            % 01967 RGTR--
+*G 130 400000015 200417048  01100  01146                    % 01967 RGTR--
+*A VE 400000015 200417048 000033  01100  01146              % 01967 RGTR--
+*I FD 400000015 200417048        0001719  01100  01146      % 01967 RGTR--
+400000015 Hayange, Esplanade           01100                % 01967 RGTR--
+400000014 Elange-Veymerange, S -01109  01109                % 01967 RGTR--
+400000077 Metzange, P&R Metzan  01113  01113                % 01967 RGTR--
+200417015 Kirchberg, Hôpital    01139 -01139                % 01967 RGTR--
+200417004 Kirchberg, Alphonse   01140 -01140                % 01967 RGTR--
+200417036 Kirchberg, Réimerwee  01141 -01141                % 01967 RGTR--
+200417002 Kirchberg, Albert Bo  01142 -01142                % 01967 RGTR--
+200417013 Kirchberg, Coudenhov  01143 -01143                % 01967 RGTR--
+200417019 Kirchberg, Konrad Ad  01144 -01144                % 01967 RGTR--
+200417005 Kirchberg, Antoine d  01145 -01145                % 01967 RGTR--
+200417048 Kirchberg, Europe Ga  01146                       % 01967 RGTR--
+*Z 01968 RGTR--                                             % 01968 RGTR--
+*L 505      400000015 200417048  01300  01346               % 01968 RGTR--
+*R 1 200417048 400000015 200417048  01300  01346            % 01968 RGTR--
+*G 130 400000015 200417048  01300  01346                    % 01968 RGTR--
+*A VE 400000015 200417048 000033  01300  01346              % 01968 RGTR--
+*I FD 400000015 200417048        0001720  01300  01346      % 01968 RGTR--
+400000015 Hayange, Esplanade           01300                % 01968 RGTR--
+400000014 Elange-Veymerange, S -01309  01309                % 01968 RGTR--
+400000077 Metzange, P&R Metzan  01313  01313                % 01968 RGTR--
+200417015 Kirchberg, Hôpital    01339 -01339                % 01968 RGTR--
+200417004 Kirchberg, Alphonse   01340 -01340                % 01968 RGTR--
+200417036 Kirchberg, Réimerwee  01341 -01341                % 01968 RGTR--
+200417002 Kirchberg, Albert Bo  01342 -01342                % 01968 RGTR--
+200417013 Kirchberg, Coudenhov  01343 -01343                % 01968 RGTR--
+200417019 Kirchberg, Konrad Ad  01344 -01344                % 01968 RGTR--
+200417005 Kirchberg, Antoine d  01345 -01345                % 01968 RGTR--
+200417048 Kirchberg, Europe Ga  01346                       % 01968 RGTR--
+*Z 01969 RGTR--                                             % 01969 RGTR--
+*L 505      400000015 200417048  01400  01446               % 01969 RGTR--
+*R 1 200417048 400000015 200417048  01400  01446            % 01969 RGTR--
+*G 130 400000015 200417048  01400  01446                    % 01969 RGTR--
+*A VE 400000015 200417048 000033  01400  01446              % 01969 RGTR--
+*I FD 400000015 200417048        0001714  01400  01446      % 01969 RGTR--
+400000015 Hayange, Esplanade           01400                % 01969 RGTR--
+400000014 Elange-Veymerange, S -01409  01409                % 01969 RGTR--
+400000077 Metzange, P&R Metzan  01413  01413                % 01969 RGTR--
+200417015 Kirchberg, Hôpital    01439 -01439                % 01969 RGTR--
+200417004 Kirchberg, Alphonse   01440 -01440                % 01969 RGTR--
+200417036 Kirchberg, Réimerwee  01441 -01441                % 01969 RGTR--
+200417002 Kirchberg, Albert Bo  01442 -01442                % 01969 RGTR--
+200417013 Kirchberg, Coudenhov  01443 -01443                % 01969 RGTR--
+200417019 Kirchberg, Konrad Ad  01444 -01444                % 01969 RGTR--
+200417005 Kirchberg, Antoine d  01445 -01445                % 01969 RGTR--
+200417048 Kirchberg, Europe Ga  01446                       % 01969 RGTR--
+*Z 01970 RGTR--                                             % 01970 RGTR--
+*L 505      400000015 200417048  01600  01646               % 01970 RGTR--
+*R 1 200417048 400000015 200417048  01600  01646            % 01970 RGTR--
+*G 130 400000015 200417048  01600  01646                    % 01970 RGTR--
+*A VE 400000015 200417048 000033  01600  01646              % 01970 RGTR--
+*I FD 400000015 200417048        0001727  01600  01646      % 01970 RGTR--
+400000015 Hayange, Esplanade           01600                % 01970 RGTR--
+400000014 Elange-Veymerange, S -01609  01609                % 01970 RGTR--
+400000077 Metzange, P&R Metzan  01613  01613                % 01970 RGTR--
+200417015 Kirchberg, Hôpital    01639 -01639                % 01970 RGTR--
+200417004 Kirchberg, Alphonse   01640 -01640                % 01970 RGTR--
+200417036 Kirchberg, Réimerwee  01641 -01641                % 01970 RGTR--
+200417002 Kirchberg, Albert Bo  01642 -01642                % 01970 RGTR--
+200417013 Kirchberg, Coudenhov  01643 -01643                % 01970 RGTR--
+200417019 Kirchberg, Konrad Ad  01644 -01644                % 01970 RGTR--
+200417005 Kirchberg, Antoine d  01645 -01645                % 01970 RGTR--
+200417048 Kirchberg, Europe Ga  01646                       % 01970 RGTR--
+*Z 01971 RGTR--                                             % 01971 RGTR--
+*L 505      400000015 200417048  01700  01746               % 01971 RGTR--
+*R 1 200417048 400000015 200417048  01700  01746            % 01971 RGTR--
+*G 130 400000015 200417048  01700  01746                    % 01971 RGTR--
+*A VE 400000015 200417048 000033  01700  01746              % 01971 RGTR--
+*I FD 400000015 200417048        0001732  01700  01746      % 01971 RGTR--
+400000015 Hayange, Esplanade           01700                % 01971 RGTR--
+400000014 Elange-Veymerange, S -01709  01709                % 01971 RGTR--
+400000077 Metzange, P&R Metzan  01713  01713                % 01971 RGTR--
+200417015 Kirchberg, Hôpital    01739 -01739                % 01971 RGTR--
+200417004 Kirchberg, Alphonse   01740 -01740                % 01971 RGTR--
+200417036 Kirchberg, Réimerwee  01741 -01741                % 01971 RGTR--
+200417002 Kirchberg, Albert Bo  01742 -01742                % 01971 RGTR--
+200417013 Kirchberg, Coudenhov  01743 -01743                % 01971 RGTR--
+200417019 Kirchberg, Konrad Ad  01744 -01744                % 01971 RGTR--
+200417005 Kirchberg, Antoine d  01745 -01745                % 01971 RGTR--
+200417048 Kirchberg, Europe Ga  01746                       % 01971 RGTR--
+*Z 01972 RGTR--                                             % 01972 RGTR--
+*L 505      400000015 200417048  01800  01846               % 01972 RGTR--
+*R 1 200417048 400000015 200417048  01800  01846            % 01972 RGTR--
+*G 130 400000015 200417048  01800  01846                    % 01972 RGTR--
+*A VE 400000015 200417048 000033  01800  01846              % 01972 RGTR--
+*I FD 400000015 200417048        0001728  01800  01846      % 01972 RGTR--
+400000015 Hayange, Esplanade           01800                % 01972 RGTR--
+400000014 Elange-Veymerange, S -01809  01809                % 01972 RGTR--
+400000077 Metzange, P&R Metzan  01813  01813                % 01972 RGTR--
+200417015 Kirchberg, Hôpital    01839 -01839                % 01972 RGTR--
+200417004 Kirchberg, Alphonse   01840 -01840                % 01972 RGTR--
+200417036 Kirchberg, Réimerwee  01841 -01841                % 01972 RGTR--
+200417002 Kirchberg, Albert Bo  01842 -01842                % 01972 RGTR--
+200417013 Kirchberg, Coudenhov  01843 -01843                % 01972 RGTR--
+200417019 Kirchberg, Konrad Ad  01844 -01844                % 01972 RGTR--
+200417005 Kirchberg, Antoine d  01845 -01845                % 01972 RGTR--
+200417048 Kirchberg, Europe Ga  01846                       % 01972 RGTR--
+*Z 01973 RGTR--                                             % 01973 RGTR--
+*L 505      400000015 200417048  01900  01946               % 01973 RGTR--
+*R 1 200417048 400000015 200417048  01900  01946            % 01973 RGTR--
+*G 130 400000015 200417048  01900  01946                    % 01973 RGTR--
+*A VE 400000015 200417048 000033  01900  01946              % 01973 RGTR--
+*I FD 400000015 200417048        0001723  01900  01946      % 01973 RGTR--
+400000015 Hayange, Esplanade           01900                % 01973 RGTR--
+400000014 Elange-Veymerange, S -01909  01909                % 01973 RGTR--
+400000077 Metzange, P&R Metzan  01913  01913                % 01973 RGTR--
+200417015 Kirchberg, Hôpital    01939 -01939                % 01973 RGTR--
+200417004 Kirchberg, Alphonse   01940 -01940                % 01973 RGTR--
+200417036 Kirchberg, Réimerwee  01941 -01941                % 01973 RGTR--
+200417002 Kirchberg, Albert Bo  01942 -01942                % 01973 RGTR--
+200417013 Kirchberg, Coudenhov  01943 -01943                % 01973 RGTR--
+200417019 Kirchberg, Konrad Ad  01944 -01944                % 01973 RGTR--
+200417005 Kirchberg, Antoine d  01945 -01945                % 01973 RGTR--
+200417048 Kirchberg, Europe Ga  01946                       % 01973 RGTR--
+*Z 01974 RGTR--                                             % 01974 RGTR--
+*L 505      400000015 200417048  02100  02146               % 01974 RGTR--
+*R 1 200417048 400000015 200417048  02100  02146            % 01974 RGTR--
+*G 130 400000015 200417048  02100  02146                    % 01974 RGTR--
+*A VE 400000015 200417048 000033  02100  02146              % 01974 RGTR--
+*I FD 400000015 200417048        0001928  02100  02146      % 01974 RGTR--
+400000015 Hayange, Esplanade           02100                % 01974 RGTR--
+400000014 Elange-Veymerange, S -02109  02109                % 01974 RGTR--
+400000077 Metzange, P&R Metzan  02113  02113                % 01974 RGTR--
+200417015 Kirchberg, Hôpital    02139 -02139                % 01974 RGTR--
+200417004 Kirchberg, Alphonse   02140 -02140                % 01974 RGTR--
+200417036 Kirchberg, Réimerwee  02141 -02141                % 01974 RGTR--
+200417002 Kirchberg, Albert Bo  02142 -02142                % 01974 RGTR--
+200417013 Kirchberg, Coudenhov  02143 -02143                % 01974 RGTR--
+200417019 Kirchberg, Konrad Ad  02144 -02144                % 01974 RGTR--
+200417005 Kirchberg, Antoine d  02145 -02145                % 01974 RGTR--
+200417048 Kirchberg, Europe Ga  02146                       % 01974 RGTR--
+*Z 01975 RGTR--                                             % 01975 RGTR--
+*L 505      400000015 200417048  00745  00902               % 01975 RGTR--
+*R 1 200417048 400000015 200417048  00745  00902            % 01975 RGTR--
+*G 070 400000015 200417048  00745  00902                    % 01975 RGTR--
+*A VE 400000015 200417048 000033  00745  00902              % 01975 RGTR--
+*I FD 400000015 200417048        0001965  00745  00902      % 01975 RGTR--
+400000015 Hayange, Esplanade           00745                % 01975 RGTR--
+400000014 Elange-Veymerange, S -00754  00754                % 01975 RGTR--
+400000077 Metzange, P&R Metzan  00758  00758                % 01975 RGTR--
+200417015 Kirchberg, Hôpital    00853 -00853                % 01975 RGTR--
+200417004 Kirchberg, Alphonse   00855 -00855                % 01975 RGTR--
+200417036 Kirchberg, Réimerwee  00856 -00856                % 01975 RGTR--
+200417002 Kirchberg, Albert Bo  00857 -00857                % 01975 RGTR--
+200417013 Kirchberg, Coudenhov  00858 -00858                % 01975 RGTR--
+200417019 Kirchberg, Konrad Ad  00859 -00859                % 01975 RGTR--
+200417005 Kirchberg, Antoine d  00901 -00901                % 01975 RGTR--
+200417048 Kirchberg, Europe Ga  00902                       % 01975 RGTR--
+*Z 01976 RGTR--                                             % 01976 RGTR--
+*L 505      400000015 200417048  00845  01002               % 01976 RGTR--
+*R 1 200417048 400000015 200417048  00845  01002            % 01976 RGTR--
+*G 070 400000015 200417048  00845  01002                    % 01976 RGTR--
+*A VE 400000015 200417048 000033  00845  01002              % 01976 RGTR--
+*I FD 400000015 200417048        0001966  00845  01002      % 01976 RGTR--
+400000015 Hayange, Esplanade           00845                % 01976 RGTR--
+400000014 Elange-Veymerange, S -00854  00854                % 01976 RGTR--
+400000077 Metzange, P&R Metzan  00858  00858                % 01976 RGTR--
+200417015 Kirchberg, Hôpital    00953 -00953                % 01976 RGTR--
+200417004 Kirchberg, Alphonse   00955 -00955                % 01976 RGTR--
+200417036 Kirchberg, Réimerwee  00956 -00956                % 01976 RGTR--
+200417002 Kirchberg, Albert Bo  00957 -00957                % 01976 RGTR--
+200417013 Kirchberg, Coudenhov  00958 -00958                % 01976 RGTR--
+200417019 Kirchberg, Konrad Ad  00959 -00959                % 01976 RGTR--
+200417005 Kirchberg, Antoine d  01001 -01001                % 01976 RGTR--
+200417048 Kirchberg, Europe Ga  01002                       % 01976 RGTR--
+*Z 01977 RGTR--                                             % 01977 RGTR--
+*L 505      400000015 200417048  00600  00717               % 01977 RGTR--
+*R 1 200417048 400000015 200417048  00600  00717            % 01977 RGTR--
+*G 130 400000015 200417048  00600  00717                    % 01977 RGTR--
+*A VE 400000015 200417048 000033  00600  00717              % 01977 RGTR--
+*I FD 400000015 200417048        0001717  00600  00717      % 01977 RGTR--
+400000015 Hayange, Esplanade           00600                % 01977 RGTR--
+400000014 Elange-Veymerange, S -00609  00609                % 01977 RGTR--
+400000077 Metzange, P&R Metzan  00613  00613                % 01977 RGTR--
+200417015 Kirchberg, Hôpital    00708 -00708                % 01977 RGTR--
+200417004 Kirchberg, Alphonse   00710 -00710                % 01977 RGTR--
+200417036 Kirchberg, Réimerwee  00711 -00711                % 01977 RGTR--
+200417002 Kirchberg, Albert Bo  00712 -00712                % 01977 RGTR--
+200417013 Kirchberg, Coudenhov  00713 -00713                % 01977 RGTR--
+200417019 Kirchberg, Konrad Ad  00714 -00714                % 01977 RGTR--
+200417005 Kirchberg, Antoine d  00716 -00716                % 01977 RGTR--
+200417048 Kirchberg, Europe Ga  00717                       % 01977 RGTR--
+*Z 01978 RGTR--                                             % 01978 RGTR--
+*L 505      400000015 200417048  00615  00732               % 01978 RGTR--
+*R 1 200417048 400000015 200417048  00615  00732            % 01978 RGTR--
+*G 130 400000015 200417048  00615  00732                    % 01978 RGTR--
+*A VE 400000015 200417048 000033  00615  00732              % 01978 RGTR--
+*I FD 400000015 200417048        0001887  00615  00732      % 01978 RGTR--
+400000015 Hayange, Esplanade           00615                % 01978 RGTR--
+400000014 Elange-Veymerange, S -00624  00624                % 01978 RGTR--
+400000077 Metzange, P&R Metzan  00628  00628                % 01978 RGTR--
+200417015 Kirchberg, Hôpital    00723 -00723                % 01978 RGTR--
+200417004 Kirchberg, Alphonse   00725 -00725                % 01978 RGTR--
+200417036 Kirchberg, Réimerwee  00726 -00726                % 01978 RGTR--
+200417002 Kirchberg, Albert Bo  00727 -00727                % 01978 RGTR--
+200417013 Kirchberg, Coudenhov  00728 -00728                % 01978 RGTR--
+200417019 Kirchberg, Konrad Ad  00729 -00729                % 01978 RGTR--
+200417005 Kirchberg, Antoine d  00731 -00731                % 01978 RGTR--
+200417048 Kirchberg, Europe Ga  00732                       % 01978 RGTR--
+*Z 01979 RGTR--                                             % 01979 RGTR--
+*L 505      400000015 200417048  00630  00747               % 01979 RGTR--
+*R 1 200417048 400000015 200417048  00630  00747            % 01979 RGTR--
+*G 130 400000015 200417048  00630  00747                    % 01979 RGTR--
+*A VE 400000015 200417048 000033  00630  00747              % 01979 RGTR--
+*I FD 400000015 200417048        0000839  00630  00747      % 01979 RGTR--
+400000015 Hayange, Esplanade           00630                % 01979 RGTR--
+400000014 Elange-Veymerange, S -00639  00639                % 01979 RGTR--
+400000077 Metzange, P&R Metzan  00643  00643                % 01979 RGTR--
+200417015 Kirchberg, Hôpital    00738 -00738                % 01979 RGTR--
+200417004 Kirchberg, Alphonse   00740 -00740                % 01979 RGTR--
+200417036 Kirchberg, Réimerwee  00741 -00741                % 01979 RGTR--
+200417002 Kirchberg, Albert Bo  00742 -00742                % 01979 RGTR--
+200417013 Kirchberg, Coudenhov  00743 -00743                % 01979 RGTR--
+200417019 Kirchberg, Konrad Ad  00744 -00744                % 01979 RGTR--
+200417005 Kirchberg, Antoine d  00746 -00746                % 01979 RGTR--
+200417048 Kirchberg, Europe Ga  00747                       % 01979 RGTR--
+*Z 01980 RGTR--                                             % 01980 RGTR--
+*L 505      400000015 200417048  00645  00802               % 01980 RGTR--
+*R 1 200417048 400000015 200417048  00645  00802            % 01980 RGTR--
+*G 130 400000015 200417048  00645  00802                    % 01980 RGTR--
+*A VE 400000015 200417048 000033  00645  00802              % 01980 RGTR--
+*I FD 400000015 200417048        0001964  00645  00802      % 01980 RGTR--
+400000015 Hayange, Esplanade           00645                % 01980 RGTR--
+400000014 Elange-Veymerange, S -00654  00654                % 01980 RGTR--
+400000077 Metzange, P&R Metzan  00658  00658                % 01980 RGTR--
+200417015 Kirchberg, Hôpital    00753 -00753                % 01980 RGTR--
+200417004 Kirchberg, Alphonse   00755 -00755                % 01980 RGTR--
+200417036 Kirchberg, Réimerwee  00756 -00756                % 01980 RGTR--
+200417002 Kirchberg, Albert Bo  00757 -00757                % 01980 RGTR--
+200417013 Kirchberg, Coudenhov  00758 -00758                % 01980 RGTR--
+200417019 Kirchberg, Konrad Ad  00759 -00759                % 01980 RGTR--
+200417005 Kirchberg, Antoine d  00801 -00801                % 01980 RGTR--
+200417048 Kirchberg, Europe Ga  00802                       % 01980 RGTR--
+*Z 01981 RGTR--                                             % 01981 RGTR--
+*L 505      400000015 200417048  00700  00817               % 01981 RGTR--
+*R 1 200417048 400000015 200417048  00700  00817            % 01981 RGTR--
+*G 130 400000015 200417048  00700  00817                    % 01981 RGTR--
+*A VE 400000015 200417048 000033  00700  00817              % 01981 RGTR--
+*I FD 400000015 200417048        0001729  00700  00817      % 01981 RGTR--
+400000015 Hayange, Esplanade           00700                % 01981 RGTR--
+400000014 Elange-Veymerange, S -00709  00709                % 01981 RGTR--
+400000077 Metzange, P&R Metzan  00713  00713                % 01981 RGTR--
+200417015 Kirchberg, Hôpital    00808 -00808                % 01981 RGTR--
+200417004 Kirchberg, Alphonse   00810 -00810                % 01981 RGTR--
+200417036 Kirchberg, Réimerwee  00811 -00811                % 01981 RGTR--
+200417002 Kirchberg, Albert Bo  00812 -00812                % 01981 RGTR--
+200417013 Kirchberg, Coudenhov  00813 -00813                % 01981 RGTR--
+200417019 Kirchberg, Konrad Ad  00814 -00814                % 01981 RGTR--
+200417005 Kirchberg, Antoine d  00816 -00816                % 01981 RGTR--
+200417048 Kirchberg, Europe Ga  00817                       % 01981 RGTR--
+*Z 01982 RGTR--                                             % 01982 RGTR--
+*L 505      400000015 200417048  00715  00832               % 01982 RGTR--
+*R 1 200417048 400000015 200417048  00715  00832            % 01982 RGTR--
+*G 130 400000015 200417048  00715  00832                    % 01982 RGTR--
+*A VE 400000015 200417048 000033  00715  00832              % 01982 RGTR--
+*I FD 400000015 200417048        0001898  00715  00832      % 01982 RGTR--
+400000015 Hayange, Esplanade           00715                % 01982 RGTR--
+400000014 Elange-Veymerange, S -00724  00724                % 01982 RGTR--
+400000077 Metzange, P&R Metzan  00728  00728                % 01982 RGTR--
+200417015 Kirchberg, Hôpital    00823 -00823                % 01982 RGTR--
+200417004 Kirchberg, Alphonse   00825 -00825                % 01982 RGTR--
+200417036 Kirchberg, Réimerwee  00826 -00826                % 01982 RGTR--
+200417002 Kirchberg, Albert Bo  00827 -00827                % 01982 RGTR--
+200417013 Kirchberg, Coudenhov  00828 -00828                % 01982 RGTR--
+200417019 Kirchberg, Konrad Ad  00829 -00829                % 01982 RGTR--
+200417005 Kirchberg, Antoine d  00831 -00831                % 01982 RGTR--
+200417048 Kirchberg, Europe Ga  00832                       % 01982 RGTR--
+*Z 01983 RGTR--                                             % 01983 RGTR--
+*L 505      200417048 400000015  00715  00800               % 01983 RGTR--
+*R 2 400000015 200417048 400000015  00715  00800            % 01983 RGTR--
+*G 070 200417048 400000015  00715  00800                    % 01983 RGTR--
+*A VE 200417048 400000015 000033  00715  00800              % 01983 RGTR--
+*I FD 200417048 400000015        0002046  00715  00800      % 01983 RGTR--
+200417048 Kirchberg, Europe Ga         00715                % 01983 RGTR--
+200417005 Kirchberg, Antoine d -00715  00715                % 01983 RGTR--
+200417019 Kirchberg, Konrad Ad -00716  00716                % 01983 RGTR--
+200417013 Kirchberg, Coudenhov -00717  00717                % 01983 RGTR--
+200417002 Kirchberg, Albert Bo -00718  00718                % 01983 RGTR--
+200417036 Kirchberg, Réimerwee -00719  00719                % 01983 RGTR--
+200417004 Kirchberg, Alphonse  -00719  00719                % 01983 RGTR--
+200417015 Kirchberg, Hôpital   -00721  00721                % 01983 RGTR--
+400000077 Metzange, P&R Metzan  00749  00749                % 01983 RGTR--
+400000014 Elange-Veymerange, S  00753 -00753                % 01983 RGTR--
+400000015 Hayange, Esplanade    00800                       % 01983 RGTR--
+*Z 01984 RGTR--                                             % 01984 RGTR--
+*L 505      200417048 400000015  01015  01100               % 01984 RGTR--
+*R 2 400000015 200417048 400000015  01015  01100            % 01984 RGTR--
+*G 070 200417048 400000015  01015  01100                    % 01984 RGTR--
+*A VE 200417048 400000015 000033  01015  01100              % 01984 RGTR--
+*I FD 200417048 400000015        0002047  01015  01100      % 01984 RGTR--
+200417048 Kirchberg, Europe Ga         01015                % 01984 RGTR--
+200417005 Kirchberg, Antoine d -01015  01015                % 01984 RGTR--
+200417019 Kirchberg, Konrad Ad -01016  01016                % 01984 RGTR--
+200417013 Kirchberg, Coudenhov -01017  01017                % 01984 RGTR--
+200417002 Kirchberg, Albert Bo -01018  01018                % 01984 RGTR--
+200417036 Kirchberg, Réimerwee -01019  01019                % 01984 RGTR--
+200417004 Kirchberg, Alphonse  -01019  01019                % 01984 RGTR--
+200417015 Kirchberg, Hôpital   -01021  01021                % 01984 RGTR--
+400000077 Metzange, P&R Metzan  01049  01049                % 01984 RGTR--
+400000014 Elange-Veymerange, S  01053 -01053                % 01984 RGTR--
+400000015 Hayange, Esplanade    01100                       % 01984 RGTR--
+*Z 01985 RGTR--                                             % 01985 RGTR--
+*L 505      200417048 400000015  01315  01400               % 01985 RGTR--
+*R 2 400000015 200417048 400000015  01315  01400            % 01985 RGTR--
+*G 070 200417048 400000015  01315  01400                    % 01985 RGTR--
+*A VE 200417048 400000015 000033  01315  01400              % 01985 RGTR--
+*I FD 200417048 400000015        0002048  01315  01400      % 01985 RGTR--
+200417048 Kirchberg, Europe Ga         01315                % 01985 RGTR--
+200417005 Kirchberg, Antoine d -01315  01315                % 01985 RGTR--
+200417019 Kirchberg, Konrad Ad -01316  01316                % 01985 RGTR--
+200417013 Kirchberg, Coudenhov -01317  01317                % 01985 RGTR--
+200417002 Kirchberg, Albert Bo -01318  01318                % 01985 RGTR--
+200417036 Kirchberg, Réimerwee -01319  01319                % 01985 RGTR--
+200417004 Kirchberg, Alphonse  -01319  01319                % 01985 RGTR--
+200417015 Kirchberg, Hôpital   -01321  01321                % 01985 RGTR--
+400000077 Metzange, P&R Metzan  01349  01349                % 01985 RGTR--
+400000014 Elange-Veymerange, S  01353 -01353                % 01985 RGTR--
+400000015 Hayange, Esplanade    01400                       % 01985 RGTR--
+*Z 01986 RGTR--                                             % 01986 RGTR--
+*L 505      200417048 400000015  01845  01930               % 01986 RGTR--
+*R 2 400000015 200417048 400000015  01845  01930            % 01986 RGTR--
+*G 070 200417048 400000015  01845  01930                    % 01986 RGTR--
+*A VE 200417048 400000015 000033  01845  01930              % 01986 RGTR--
+*I FD 200417048 400000015        0001339  01845  01930      % 01986 RGTR--
+200417048 Kirchberg, Europe Ga         01845                % 01986 RGTR--
+200417005 Kirchberg, Antoine d -01845  01845                % 01986 RGTR--
+200417019 Kirchberg, Konrad Ad -01846  01846                % 01986 RGTR--
+200417013 Kirchberg, Coudenhov -01847  01847                % 01986 RGTR--
+200417002 Kirchberg, Albert Bo -01848  01848                % 01986 RGTR--
+200417036 Kirchberg, Réimerwee -01849  01849                % 01986 RGTR--
+200417004 Kirchberg, Alphonse  -01849  01849                % 01986 RGTR--
+200417015 Kirchberg, Hôpital   -01851  01851                % 01986 RGTR--
+400000077 Metzange, P&R Metzan  01919  01919                % 01986 RGTR--
+400000014 Elange-Veymerange, S  01923 -01923                % 01986 RGTR--
+400000015 Hayange, Esplanade    01930                       % 01986 RGTR--
+*Z 01987 RGTR--                                             % 01987 RGTR--
+*L 505      200417048 400000015  02115  02200               % 01987 RGTR--
+*R 2 400000015 200417048 400000015  02115  02200            % 01987 RGTR--
+*G 070 200417048 400000015  02115  02200                    % 01987 RGTR--
+*A VE 200417048 400000015 000033  02115  02200              % 01987 RGTR--
+*I FD 200417048 400000015        0002049  02115  02200      % 01987 RGTR--
+200417048 Kirchberg, Europe Ga         02115                % 01987 RGTR--
+200417005 Kirchberg, Antoine d -02115  02115                % 01987 RGTR--
+200417019 Kirchberg, Konrad Ad -02116  02116                % 01987 RGTR--
+200417013 Kirchberg, Coudenhov -02117  02117                % 01987 RGTR--
+200417002 Kirchberg, Albert Bo -02118  02118                % 01987 RGTR--
+200417036 Kirchberg, Réimerwee -02119  02119                % 01987 RGTR--
+200417004 Kirchberg, Alphonse  -02119  02119                % 01987 RGTR--
+200417015 Kirchberg, Hôpital   -02121  02121                % 01987 RGTR--
+400000077 Metzange, P&R Metzan  02149  02149                % 01987 RGTR--
+400000014 Elange-Veymerange, S  02153 -02153                % 01987 RGTR--
+400000015 Hayange, Esplanade    02200                       % 01987 RGTR--
+*Z 01988 RGTR--                                             % 01988 RGTR--
+*L 505      200417048 400000015  02315  02400               % 01988 RGTR--
+*R 2 400000015 200417048 400000015  02315  02400            % 01988 RGTR--
+*G 070 200417048 400000015  02315  02400                    % 01988 RGTR--
+*A VE 200417048 400000015 000033  02315  02400              % 01988 RGTR--
+*I FD 200417048 400000015        0002050  02315  02400      % 01988 RGTR--
+200417048 Kirchberg, Europe Ga         02315                % 01988 RGTR--
+200417005 Kirchberg, Antoine d -02315  02315                % 01988 RGTR--
+200417019 Kirchberg, Konrad Ad -02316  02316                % 01988 RGTR--
+200417013 Kirchberg, Coudenhov -02317  02317                % 01988 RGTR--
+200417002 Kirchberg, Albert Bo -02318  02318                % 01988 RGTR--
+200417036 Kirchberg, Réimerwee -02319  02319                % 01988 RGTR--
+200417004 Kirchberg, Alphonse  -02319  02319                % 01988 RGTR--
+200417015 Kirchberg, Hôpital   -02321  02321                % 01988 RGTR--
+400000077 Metzange, P&R Metzan  02349  02349                % 01988 RGTR--
+400000014 Elange-Veymerange, S  02353 -02353                % 01988 RGTR--
+400000015 Hayange, Esplanade    02400                       % 01988 RGTR--
+*Z 01989 RGTR--                                             % 01989 RGTR--
+*L 505      200417048 400000015  00615  00700               % 01989 RGTR--
+*R 2 400000015 200417048 400000015  00615  00700            % 01989 RGTR--
+*G 130 200417048 400000015  00615  00700                    % 01989 RGTR--
+*A VE 200417048 400000015 000033  00615  00700              % 01989 RGTR--
+*I FD 200417048 400000015        0002051  00615  00700      % 01989 RGTR--
+200417048 Kirchberg, Europe Ga         00615                % 01989 RGTR--
+200417005 Kirchberg, Antoine d -00615  00615                % 01989 RGTR--
+200417019 Kirchberg, Konrad Ad -00616  00616                % 01989 RGTR--
+200417013 Kirchberg, Coudenhov -00617  00617                % 01989 RGTR--
+200417002 Kirchberg, Albert Bo -00618  00618                % 01989 RGTR--
+200417036 Kirchberg, Réimerwee -00619  00619                % 01989 RGTR--
+200417004 Kirchberg, Alphonse  -00619  00619                % 01989 RGTR--
+200417015 Kirchberg, Hôpital   -00621  00621                % 01989 RGTR--
+400000077 Metzange, P&R Metzan  00649  00649                % 01989 RGTR--
+400000014 Elange-Veymerange, S  00653 -00653                % 01989 RGTR--
+400000015 Hayange, Esplanade    00700                       % 01989 RGTR--
+*Z 01990 RGTR--                                             % 01990 RGTR--
+*L 505      200417048 400000015  00815  00900               % 01990 RGTR--
+*R 2 400000015 200417048 400000015  00815  00900            % 01990 RGTR--
+*G 130 200417048 400000015  00815  00900                    % 01990 RGTR--
+*A VE 200417048 400000015 000033  00815  00900              % 01990 RGTR--
+*I FD 200417048 400000015        0002052  00815  00900      % 01990 RGTR--
+200417048 Kirchberg, Europe Ga         00815                % 01990 RGTR--
+200417005 Kirchberg, Antoine d -00815  00815                % 01990 RGTR--
+200417019 Kirchberg, Konrad Ad -00816  00816                % 01990 RGTR--
+200417013 Kirchberg, Coudenhov -00817  00817                % 01990 RGTR--
+200417002 Kirchberg, Albert Bo -00818  00818                % 01990 RGTR--
+200417036 Kirchberg, Réimerwee -00819  00819                % 01990 RGTR--
+200417004 Kirchberg, Alphonse  -00819  00819                % 01990 RGTR--
+200417015 Kirchberg, Hôpital   -00821  00821                % 01990 RGTR--
+400000077 Metzange, P&R Metzan  00849  00849                % 01990 RGTR--
+400000014 Elange-Veymerange, S  00853 -00853                % 01990 RGTR--
+400000015 Hayange, Esplanade    00900                       % 01990 RGTR--
+*Z 01991 RGTR--                                             % 01991 RGTR--
+*L 505      200417048 400000015  00915  01000               % 01991 RGTR--
+*R 2 400000015 200417048 400000015  00915  01000            % 01991 RGTR--
+*G 130 200417048 400000015  00915  01000                    % 01991 RGTR--
+*A VE 200417048 400000015 000033  00915  01000              % 01991 RGTR--
+*I FD 200417048 400000015        0002053  00915  01000      % 01991 RGTR--
+200417048 Kirchberg, Europe Ga         00915                % 01991 RGTR--
+200417005 Kirchberg, Antoine d -00915  00915                % 01991 RGTR--
+200417019 Kirchberg, Konrad Ad -00916  00916                % 01991 RGTR--
+200417013 Kirchberg, Coudenhov -00917  00917                % 01991 RGTR--
+200417002 Kirchberg, Albert Bo -00918  00918                % 01991 RGTR--
+200417036 Kirchberg, Réimerwee -00919  00919                % 01991 RGTR--
+200417004 Kirchberg, Alphonse  -00919  00919                % 01991 RGTR--
+200417015 Kirchberg, Hôpital   -00921  00921                % 01991 RGTR--
+400000077 Metzange, P&R Metzan  00949  00949                % 01991 RGTR--
+400000014 Elange-Veymerange, S  00953 -00953                % 01991 RGTR--
+400000015 Hayange, Esplanade    01000                       % 01991 RGTR--
+*Z 01992 RGTR--                                             % 01992 RGTR--
+*L 505      200417048 400000015  01115  01200               % 01992 RGTR--
+*R 2 400000015 200417048 400000015  01115  01200            % 01992 RGTR--
+*G 130 200417048 400000015  01115  01200                    % 01992 RGTR--
+*A VE 200417048 400000015 000033  01115  01200              % 01992 RGTR--
+*I FD 200417048 400000015        0001071  01115  01200      % 01992 RGTR--
+200417048 Kirchberg, Europe Ga         01115                % 01992 RGTR--
+200417005 Kirchberg, Antoine d -01115  01115                % 01992 RGTR--
+200417019 Kirchberg, Konrad Ad -01116  01116                % 01992 RGTR--
+200417013 Kirchberg, Coudenhov -01117  01117                % 01992 RGTR--
+200417002 Kirchberg, Albert Bo -01118  01118                % 01992 RGTR--
+200417036 Kirchberg, Réimerwee -01119  01119                % 01992 RGTR--
+200417004 Kirchberg, Alphonse  -01119  01119                % 01992 RGTR--
+200417015 Kirchberg, Hôpital   -01121  01121                % 01992 RGTR--
+400000077 Metzange, P&R Metzan  01149  01149                % 01992 RGTR--
+400000014 Elange-Veymerange, S  01153 -01153                % 01992 RGTR--
+400000015 Hayange, Esplanade    01200                       % 01992 RGTR--
+*Z 01993 RGTR--                                             % 01993 RGTR--
+*L 505      200417048 400000015  01215  01300               % 01993 RGTR--
+*R 2 400000015 200417048 400000015  01215  01300            % 01993 RGTR--
+*G 130 200417048 400000015  01215  01300                    % 01993 RGTR--
+*A VE 200417048 400000015 000033  01215  01300              % 01993 RGTR--
+*I FD 200417048 400000015        0002054  01215  01300      % 01993 RGTR--
+200417048 Kirchberg, Europe Ga         01215                % 01993 RGTR--
+200417005 Kirchberg, Antoine d -01215  01215                % 01993 RGTR--
+200417019 Kirchberg, Konrad Ad -01216  01216                % 01993 RGTR--
+200417013 Kirchberg, Coudenhov -01217  01217                % 01993 RGTR--
+200417002 Kirchberg, Albert Bo -01218  01218                % 01993 RGTR--
+200417036 Kirchberg, Réimerwee -01219  01219                % 01993 RGTR--
+200417004 Kirchberg, Alphonse  -01219  01219                % 01993 RGTR--
+200417015 Kirchberg, Hôpital   -01221  01221                % 01993 RGTR--
+400000077 Metzange, P&R Metzan  01249  01249                % 01993 RGTR--
+400000014 Elange-Veymerange, S  01253 -01253                % 01993 RGTR--
+400000015 Hayange, Esplanade    01300                       % 01993 RGTR--
+*Z 01994 RGTR--                                             % 01994 RGTR--
+*L 505      200417048 400000015  01415  01500               % 01994 RGTR--
+*R 2 400000015 200417048 400000015  01415  01500            % 01994 RGTR--
+*G 130 200417048 400000015  01415  01500                    % 01994 RGTR--
+*A VE 200417048 400000015 000033  01415  01500              % 01994 RGTR--
+*I FD 200417048 400000015        0002055  01415  01500      % 01994 RGTR--
+200417048 Kirchberg, Europe Ga         01415                % 01994 RGTR--
+200417005 Kirchberg, Antoine d -01415  01415                % 01994 RGTR--
+200417019 Kirchberg, Konrad Ad -01416  01416                % 01994 RGTR--
+200417013 Kirchberg, Coudenhov -01417  01417                % 01994 RGTR--
+200417002 Kirchberg, Albert Bo -01418  01418                % 01994 RGTR--
+200417036 Kirchberg, Réimerwee -01419  01419                % 01994 RGTR--
+200417004 Kirchberg, Alphonse  -01419  01419                % 01994 RGTR--
+200417015 Kirchberg, Hôpital   -01421  01421                % 01994 RGTR--
+400000077 Metzange, P&R Metzan  01449  01449                % 01994 RGTR--
+400000014 Elange-Veymerange, S  01453 -01453                % 01994 RGTR--
+400000015 Hayange, Esplanade    01500                       % 01994 RGTR--
+*Z 01995 RGTR--                                             % 01995 RGTR--
+*L 505      200417048 400000015  01515  01600               % 01995 RGTR--
+*R 2 400000015 200417048 400000015  01515  01600            % 01995 RGTR--
+*G 130 200417048 400000015  01515  01600                    % 01995 RGTR--
+*A VE 200417048 400000015 000033  01515  01600              % 01995 RGTR--
+*I FD 200417048 400000015        0002056  01515  01600      % 01995 RGTR--
+200417048 Kirchberg, Europe Ga         01515                % 01995 RGTR--
+200417005 Kirchberg, Antoine d -01515  01515                % 01995 RGTR--
+200417019 Kirchberg, Konrad Ad -01516  01516                % 01995 RGTR--
+200417013 Kirchberg, Coudenhov -01517  01517                % 01995 RGTR--
+200417002 Kirchberg, Albert Bo -01518  01518                % 01995 RGTR--
+200417036 Kirchberg, Réimerwee -01519  01519                % 01995 RGTR--
+200417004 Kirchberg, Alphonse  -01519  01519                % 01995 RGTR--
+200417015 Kirchberg, Hôpital   -01521  01521                % 01995 RGTR--
+400000077 Metzange, P&R Metzan  01549  01549                % 01995 RGTR--
+400000014 Elange-Veymerange, S  01553 -01553                % 01995 RGTR--
+400000015 Hayange, Esplanade    01600                       % 01995 RGTR--
+*Z 01996 RGTR--                                             % 01996 RGTR--
+*L 505      200417048 400000015  01915  02000               % 01996 RGTR--
+*R 2 400000015 200417048 400000015  01915  02000            % 01996 RGTR--
+*G 130 200417048 400000015  01915  02000                    % 01996 RGTR--
+*A VE 200417048 400000015 000033  01915  02000              % 01996 RGTR--
+*I FD 200417048 400000015        0002057  01915  02000      % 01996 RGTR--
+200417048 Kirchberg, Europe Ga         01915                % 01996 RGTR--
+200417005 Kirchberg, Antoine d -01915  01915                % 01996 RGTR--
+200417019 Kirchberg, Konrad Ad -01916  01916                % 01996 RGTR--
+200417013 Kirchberg, Coudenhov -01917  01917                % 01996 RGTR--
+200417002 Kirchberg, Albert Bo -01918  01918                % 01996 RGTR--
+200417036 Kirchberg, Réimerwee -01919  01919                % 01996 RGTR--
+200417004 Kirchberg, Alphonse  -01919  01919                % 01996 RGTR--
+200417015 Kirchberg, Hôpital   -01921  01921                % 01996 RGTR--
+400000077 Metzange, P&R Metzan  01949  01949                % 01996 RGTR--
+400000014 Elange-Veymerange, S  01953 -01953                % 01996 RGTR--
+400000015 Hayange, Esplanade    02000                       % 01996 RGTR--
+*Z 01997 RGTR--                                             % 01997 RGTR--
+*L 505      200417048 400000015  02015  02100               % 01997 RGTR--
+*R 2 400000015 200417048 400000015  02015  02100            % 01997 RGTR--
+*G 130 200417048 400000015  02015  02100                    % 01997 RGTR--
+*A VE 200417048 400000015 000033  02015  02100              % 01997 RGTR--
+*I FD 200417048 400000015        0002058  02015  02100      % 01997 RGTR--
+200417048 Kirchberg, Europe Ga         02015                % 01997 RGTR--
+200417005 Kirchberg, Antoine d -02015  02015                % 01997 RGTR--
+200417019 Kirchberg, Konrad Ad -02016  02016                % 01997 RGTR--
+200417013 Kirchberg, Coudenhov -02017  02017                % 01997 RGTR--
+200417002 Kirchberg, Albert Bo -02018  02018                % 01997 RGTR--
+200417036 Kirchberg, Réimerwee -02019  02019                % 01997 RGTR--
+200417004 Kirchberg, Alphonse  -02019  02019                % 01997 RGTR--
+200417015 Kirchberg, Hôpital   -02021  02021                % 01997 RGTR--
+400000077 Metzange, P&R Metzan  02049  02049                % 01997 RGTR--
+400000014 Elange-Veymerange, S  02053 -02053                % 01997 RGTR--
+400000015 Hayange, Esplanade    02100                       % 01997 RGTR--
+*Z 01998 RGTR--                                             % 01998 RGTR--
+*L 505      200417048 400000015  02215  02300               % 01998 RGTR--
+*R 2 400000015 200417048 400000015  02215  02300            % 01998 RGTR--
+*G 130 200417048 400000015  02215  02300                    % 01998 RGTR--
+*A VE 200417048 400000015 000033  02215  02300              % 01998 RGTR--
+*I FD 200417048 400000015        0001439  02215  02300      % 01998 RGTR--
+200417048 Kirchberg, Europe Ga         02215                % 01998 RGTR--
+200417005 Kirchberg, Antoine d -02215  02215                % 01998 RGTR--
+200417019 Kirchberg, Konrad Ad -02216  02216                % 01998 RGTR--
+200417013 Kirchberg, Coudenhov -02217  02217                % 01998 RGTR--
+200417002 Kirchberg, Albert Bo -02218  02218                % 01998 RGTR--
+200417036 Kirchberg, Réimerwee -02219  02219                % 01998 RGTR--
+200417004 Kirchberg, Alphonse  -02219  02219                % 01998 RGTR--
+200417015 Kirchberg, Hôpital   -02221  02221                % 01998 RGTR--
+400000077 Metzange, P&R Metzan  02249  02249                % 01998 RGTR--
+400000014 Elange-Veymerange, S  02253 -02253                % 01998 RGTR--
+400000015 Hayange, Esplanade    02300                       % 01998 RGTR--
+*Z 01999 RGTR--                                             % 01999 RGTR--
+*L 505      200417048 400000015  01630  01737               % 01999 RGTR--
+*R 2 400000015 200417048 400000015  01630  01737            % 01999 RGTR--
+*G 070 200417048 400000015  01630  01737                    % 01999 RGTR--
+*A VE 200417048 400000015 000033  01630  01737              % 01999 RGTR--
+*I FD 200417048 400000015        0002059  01630  01737      % 01999 RGTR--
+200417048 Kirchberg, Europe Ga         01630                % 01999 RGTR--
+200417005 Kirchberg, Antoine d -01631  01631                % 01999 RGTR--
+200417019 Kirchberg, Konrad Ad -01632  01632                % 01999 RGTR--
+200417013 Kirchberg, Coudenhov -01633  01633                % 01999 RGTR--
+200417002 Kirchberg, Albert Bo -01634  01634                % 01999 RGTR--
+200417036 Kirchberg, Réimerwee -01635  01635                % 01999 RGTR--
+200417004 Kirchberg, Alphonse  -01636  01636                % 01999 RGTR--
+200417015 Kirchberg, Hôpital   -01638  01638                % 01999 RGTR--
+400000077 Metzange, P&R Metzan  01724  01724                % 01999 RGTR--
+400000014 Elange-Veymerange, S  01728 -01728                % 01999 RGTR--
+400000015 Hayange, Esplanade    01737                       % 01999 RGTR--
+*Z 02000 RGTR--                                             % 02000 RGTR--
+*L 505      200417048 400000015  01800  01907               % 02000 RGTR--
+*R 2 400000015 200417048 400000015  01800  01907            % 02000 RGTR--
+*G 070 200417048 400000015  01800  01907                    % 02000 RGTR--
+*A VE 200417048 400000015 000033  01800  01907              % 02000 RGTR--
+*I FD 200417048 400000015        0001946  01800  01907      % 02000 RGTR--
+200417048 Kirchberg, Europe Ga         01800                % 02000 RGTR--
+200417005 Kirchberg, Antoine d -01801  01801                % 02000 RGTR--
+200417019 Kirchberg, Konrad Ad -01802  01802                % 02000 RGTR--
+200417013 Kirchberg, Coudenhov -01803  01803                % 02000 RGTR--
+200417002 Kirchberg, Albert Bo -01804  01804                % 02000 RGTR--
+200417036 Kirchberg, Réimerwee -01805  01805                % 02000 RGTR--
+200417004 Kirchberg, Alphonse  -01806  01806                % 02000 RGTR--
+200417015 Kirchberg, Hôpital   -01808  01808                % 02000 RGTR--
+400000077 Metzange, P&R Metzan  01854  01854                % 02000 RGTR--
+400000014 Elange-Veymerange, S  01858 -01858                % 02000 RGTR--
+400000015 Hayange, Esplanade    01907                       % 02000 RGTR--
+*Z 02001 RGTR--                                             % 02001 RGTR--
+*L 505      200417048 400000015  01615  01722               % 02001 RGTR--
+*R 2 400000015 200417048 400000015  01615  01722            % 02001 RGTR--
+*G 130 200417048 400000015  01615  01722                    % 02001 RGTR--
+*A VE 200417048 400000015 000033  01615  01722              % 02001 RGTR--
+*I FD 200417048 400000015        0002060  01615  01722      % 02001 RGTR--
+200417048 Kirchberg, Europe Ga         01615                % 02001 RGTR--
+200417005 Kirchberg, Antoine d -01616  01616                % 02001 RGTR--
+200417019 Kirchberg, Konrad Ad -01617  01617                % 02001 RGTR--
+200417013 Kirchberg, Coudenhov -01618  01618                % 02001 RGTR--
+200417002 Kirchberg, Albert Bo -01619  01619                % 02001 RGTR--
+200417036 Kirchberg, Réimerwee -01620  01620                % 02001 RGTR--
+200417004 Kirchberg, Alphonse  -01621  01621                % 02001 RGTR--
+200417015 Kirchberg, Hôpital   -01623  01623                % 02001 RGTR--
+400000077 Metzange, P&R Metzan  01709  01709                % 02001 RGTR--
+400000014 Elange-Veymerange, S  01713 -01713                % 02001 RGTR--
+400000015 Hayange, Esplanade    01722                       % 02001 RGTR--
+*Z 02002 RGTR--                                             % 02002 RGTR--
+*L 505      200417048 400000015  01645  01752               % 02002 RGTR--
+*R 2 400000015 200417048 400000015  01645  01752            % 02002 RGTR--
+*G 130 200417048 400000015  01645  01752                    % 02002 RGTR--
+*A VE 200417048 400000015 000033  01645  01752              % 02002 RGTR--
+*I FD 200417048 400000015        0001236  01645  01752      % 02002 RGTR--
+200417048 Kirchberg, Europe Ga         01645                % 02002 RGTR--
+200417005 Kirchberg, Antoine d -01646  01646                % 02002 RGTR--
+200417019 Kirchberg, Konrad Ad -01647  01647                % 02002 RGTR--
+200417013 Kirchberg, Coudenhov -01648  01648                % 02002 RGTR--
+200417002 Kirchberg, Albert Bo -01649  01649                % 02002 RGTR--
+200417036 Kirchberg, Réimerwee -01650  01650                % 02002 RGTR--
+200417004 Kirchberg, Alphonse  -01651  01651                % 02002 RGTR--
+200417015 Kirchberg, Hôpital   -01653  01653                % 02002 RGTR--
+400000077 Metzange, P&R Metzan  01739  01739                % 02002 RGTR--
+400000014 Elange-Veymerange, S  01743 -01743                % 02002 RGTR--
+400000015 Hayange, Esplanade    01752                       % 02002 RGTR--
+*Z 02003 RGTR--                                             % 02003 RGTR--
+*L 505      200417048 400000015  01700  01807               % 02003 RGTR--
+*R 2 400000015 200417048 400000015  01700  01807            % 02003 RGTR--
+*G 130 200417048 400000015  01700  01807                    % 02003 RGTR--
+*A VE 200417048 400000015 000033  01700  01807              % 02003 RGTR--
+*I FD 200417048 400000015        0001950  01700  01807      % 02003 RGTR--
+200417048 Kirchberg, Europe Ga         01700                % 02003 RGTR--
+200417005 Kirchberg, Antoine d -01701  01701                % 02003 RGTR--
+200417019 Kirchberg, Konrad Ad -01702  01702                % 02003 RGTR--
+200417013 Kirchberg, Coudenhov -01703  01703                % 02003 RGTR--
+200417002 Kirchberg, Albert Bo -01704  01704                % 02003 RGTR--
+200417036 Kirchberg, Réimerwee -01705  01705                % 02003 RGTR--
+200417004 Kirchberg, Alphonse  -01706  01706                % 02003 RGTR--
+200417015 Kirchberg, Hôpital   -01708  01708                % 02003 RGTR--
+400000077 Metzange, P&R Metzan  01754  01754                % 02003 RGTR--
+400000014 Elange-Veymerange, S  01758 -01758                % 02003 RGTR--
+400000015 Hayange, Esplanade    01807                       % 02003 RGTR--
+*Z 02004 RGTR--                                             % 02004 RGTR--
+*L 505      200417048 400000015  01715  01822               % 02004 RGTR--
+*R 2 400000015 200417048 400000015  01715  01822            % 02004 RGTR--
+*G 130 200417048 400000015  01715  01822                    % 02004 RGTR--
+*A VE 200417048 400000015 000033  01715  01822              % 02004 RGTR--
+*I FD 200417048 400000015        0002061  01715  01822      % 02004 RGTR--
+200417048 Kirchberg, Europe Ga         01715                % 02004 RGTR--
+200417005 Kirchberg, Antoine d -01716  01716                % 02004 RGTR--
+200417019 Kirchberg, Konrad Ad -01717  01717                % 02004 RGTR--
+200417013 Kirchberg, Coudenhov -01718  01718                % 02004 RGTR--
+200417002 Kirchberg, Albert Bo -01719  01719                % 02004 RGTR--
+200417036 Kirchberg, Réimerwee -01720  01720                % 02004 RGTR--
+200417004 Kirchberg, Alphonse  -01721  01721                % 02004 RGTR--
+200417015 Kirchberg, Hôpital   -01723  01723                % 02004 RGTR--
+400000077 Metzange, P&R Metzan  01809  01809                % 02004 RGTR--
+400000014 Elange-Veymerange, S  01813 -01813                % 02004 RGTR--
+400000015 Hayange, Esplanade    01822                       % 02004 RGTR--
+*Z 02005 RGTR--                                             % 02005 RGTR--
+*L 505      200417048 400000015  01730  01837               % 02005 RGTR--
+*R 2 400000015 200417048 400000015  01730  01837            % 02005 RGTR--
+*G 130 200417048 400000015  01730  01837                    % 02005 RGTR--
+*A VE 200417048 400000015 000033  01730  01837              % 02005 RGTR--
+*I FD 200417048 400000015        0002062  01730  01837      % 02005 RGTR--
+200417048 Kirchberg, Europe Ga         01730                % 02005 RGTR--
+200417005 Kirchberg, Antoine d -01731  01731                % 02005 RGTR--
+200417019 Kirchberg, Konrad Ad -01732  01732                % 02005 RGTR--
+200417013 Kirchberg, Coudenhov -01733  01733                % 02005 RGTR--
+200417002 Kirchberg, Albert Bo -01734  01734                % 02005 RGTR--
+200417036 Kirchberg, Réimerwee -01735  01735                % 02005 RGTR--
+200417004 Kirchberg, Alphonse  -01736  01736                % 02005 RGTR--
+200417015 Kirchberg, Hôpital   -01738  01738                % 02005 RGTR--
+400000077 Metzange, P&R Metzan  01824  01824                % 02005 RGTR--
+400000014 Elange-Veymerange, S  01828 -01828                % 02005 RGTR--
+400000015 Hayange, Esplanade    01837                       % 02005 RGTR--
+*Z 02006 RGTR--                                             % 02006 RGTR--
+*L 505      200417048 400000015  01745  01852               % 02006 RGTR--
+*R 2 400000015 200417048 400000015  01745  01852            % 02006 RGTR--
+*G 130 200417048 400000015  01745  01852                    % 02006 RGTR--
+*A VE 200417048 400000015 000033  01745  01852              % 02006 RGTR--
+*I FD 200417048 400000015        0002063  01745  01852      % 02006 RGTR--
+200417048 Kirchberg, Europe Ga         01745                % 02006 RGTR--
+200417005 Kirchberg, Antoine d -01746  01746                % 02006 RGTR--
+200417019 Kirchberg, Konrad Ad -01747  01747                % 02006 RGTR--
+200417013 Kirchberg, Coudenhov -01748  01748                % 02006 RGTR--
+200417002 Kirchberg, Albert Bo -01749  01749                % 02006 RGTR--
+200417036 Kirchberg, Réimerwee -01750  01750                % 02006 RGTR--
+200417004 Kirchberg, Alphonse  -01751  01751                % 02006 RGTR--
+200417015 Kirchberg, Hôpital   -01753  01753                % 02006 RGTR--
+400000077 Metzange, P&R Metzan  01839  01839                % 02006 RGTR--
+400000014 Elange-Veymerange, S  01843 -01843                % 02006 RGTR--
+400000015 Hayange, Esplanade    01852                       % 02006 RGTR--
+*Z 02007 RGTR--                                             % 02007 RGTR--
+*L 505      200417048 400000015  01815  01922               % 02007 RGTR--
+*R 2 400000015 200417048 400000015  01815  01922            % 02007 RGTR--
+*G 130 200417048 400000015  01815  01922                    % 02007 RGTR--
+*A VE 200417048 400000015 000033  01815  01922              % 02007 RGTR--
+*I FD 200417048 400000015        0002064  01815  01922      % 02007 RGTR--
+200417048 Kirchberg, Europe Ga         01815                % 02007 RGTR--
+200417005 Kirchberg, Antoine d -01816  01816                % 02007 RGTR--
+200417019 Kirchberg, Konrad Ad -01817  01817                % 02007 RGTR--
+200417013 Kirchberg, Coudenhov -01818  01818                % 02007 RGTR--
+200417002 Kirchberg, Albert Bo -01819  01819                % 02007 RGTR--
+200417036 Kirchberg, Réimerwee -01820  01820                % 02007 RGTR--
+200417004 Kirchberg, Alphonse  -01821  01821                % 02007 RGTR--
+200417015 Kirchberg, Hôpital   -01823  01823                % 02007 RGTR--
+400000077 Metzange, P&R Metzan  01909  01909                % 02007 RGTR--
+400000014 Elange-Veymerange, S  01913 -01913                % 02007 RGTR--
+400000015 Hayange, Esplanade    01922                       % 02007 RGTR--
+*Z 02008 RGTR--                                             % 02008 RGTR--
+*L 505      400000015 200417048  01200  01246               % 02008 RGTR--
+*R 1 200417048 400000015 200417048  01200  01246            % 02008 RGTR--
+*G 070 400000015 200417048  01200  01246                    % 02008 RGTR--
+*A VE 400000015 200417048 000034  01200  01246              % 02008 RGTR--
+*I FD 400000015 200417048        0001713  01200  01246      % 02008 RGTR--
+400000015 Hayange, Esplanade           01200                % 02008 RGTR--
+400000014 Elange-Veymerange, S -01209  01209                % 02008 RGTR--
+400000077 Metzange, P&R Metzan  01213  01213                % 02008 RGTR--
+200417015 Kirchberg, Hôpital    01239 -01239                % 02008 RGTR--
+200417004 Kirchberg, Alphonse   01240 -01240                % 02008 RGTR--
+200417036 Kirchberg, Réimerwee  01241 -01241                % 02008 RGTR--
+200417002 Kirchberg, Albert Bo  01242 -01242                % 02008 RGTR--
+200417013 Kirchberg, Coudenhov  01243 -01243                % 02008 RGTR--
+200417019 Kirchberg, Konrad Ad  01244 -01244                % 02008 RGTR--
+200417005 Kirchberg, Antoine d  01245 -01245                % 02008 RGTR--
+200417048 Kirchberg, Europe Ga  01246                       % 02008 RGTR--
+*Z 02009 RGTR--                                             % 02009 RGTR--
+*L 505      400000015 200417048  01500  01546               % 02009 RGTR--
+*R 1 200417048 400000015 200417048  01500  01546            % 02009 RGTR--
+*G 070 400000015 200417048  01500  01546                    % 02009 RGTR--
+*A VE 400000015 200417048 000034  01500  01546              % 02009 RGTR--
+*I FD 400000015 200417048        0001721  01500  01546      % 02009 RGTR--
+400000015 Hayange, Esplanade           01500                % 02009 RGTR--
+400000014 Elange-Veymerange, S -01509  01509                % 02009 RGTR--
+400000077 Metzange, P&R Metzan  01513  01513                % 02009 RGTR--
+200417015 Kirchberg, Hôpital    01539 -01539                % 02009 RGTR--
+200417004 Kirchberg, Alphonse   01540 -01540                % 02009 RGTR--
+200417036 Kirchberg, Réimerwee  01541 -01541                % 02009 RGTR--
+200417002 Kirchberg, Albert Bo  01542 -01542                % 02009 RGTR--
+200417013 Kirchberg, Coudenhov  01543 -01543                % 02009 RGTR--
+200417019 Kirchberg, Konrad Ad  01544 -01544                % 02009 RGTR--
+200417005 Kirchberg, Antoine d  01545 -01545                % 02009 RGTR--
+200417048 Kirchberg, Europe Ga  01546                       % 02009 RGTR--
+*Z 02010 RGTR--                                             % 02010 RGTR--
+*L 505      400000015 200417048  02000  02046               % 02010 RGTR--
+*R 1 200417048 400000015 200417048  02000  02046            % 02010 RGTR--
+*G 070 400000015 200417048  02000  02046                    % 02010 RGTR--
+*A VE 400000015 200417048 000034  02000  02046              % 02010 RGTR--
+*I FD 400000015 200417048        0001927  02000  02046      % 02010 RGTR--
+400000015 Hayange, Esplanade           02000                % 02010 RGTR--
+400000014 Elange-Veymerange, S -02009  02009                % 02010 RGTR--
+400000077 Metzange, P&R Metzan  02013  02013                % 02010 RGTR--
+200417015 Kirchberg, Hôpital    02039 -02039                % 02010 RGTR--
+200417004 Kirchberg, Alphonse   02040 -02040                % 02010 RGTR--
+200417036 Kirchberg, Réimerwee  02041 -02041                % 02010 RGTR--
+200417002 Kirchberg, Albert Bo  02042 -02042                % 02010 RGTR--
+200417013 Kirchberg, Coudenhov  02043 -02043                % 02010 RGTR--
+200417019 Kirchberg, Konrad Ad  02044 -02044                % 02010 RGTR--
+200417005 Kirchberg, Antoine d  02045 -02045                % 02010 RGTR--
+200417048 Kirchberg, Europe Ga  02046                       % 02010 RGTR--
+*Z 02011 RGTR--                                             % 02011 RGTR--
+*L 505      400000015 200417048  00500  00546               % 02011 RGTR--
+*R 1 200417048 400000015 200417048  00500  00546            % 02011 RGTR--
+*G 130 400000015 200417048  00500  00546                    % 02011 RGTR--
+*A VE 400000015 200417048 000034  00500  00546              % 02011 RGTR--
+*I FD 400000015 200417048        0001725  00500  00546      % 02011 RGTR--
+400000015 Hayange, Esplanade           00500                % 02011 RGTR--
+400000014 Elange-Veymerange, S -00509  00509                % 02011 RGTR--
+400000077 Metzange, P&R Metzan  00513  00513                % 02011 RGTR--
+200417015 Kirchberg, Hôpital    00539 -00539                % 02011 RGTR--
+200417004 Kirchberg, Alphonse   00540 -00540                % 02011 RGTR--
+200417036 Kirchberg, Réimerwee  00541 -00541                % 02011 RGTR--
+200417002 Kirchberg, Albert Bo  00542 -00542                % 02011 RGTR--
+200417013 Kirchberg, Coudenhov  00543 -00543                % 02011 RGTR--
+200417019 Kirchberg, Konrad Ad  00544 -00544                % 02011 RGTR--
+200417005 Kirchberg, Antoine d  00545 -00545                % 02011 RGTR--
+200417048 Kirchberg, Europe Ga  00546                       % 02011 RGTR--
+*Z 02012 RGTR--                                             % 02012 RGTR--
+*L 505      400000015 200417048  00545  00631               % 02012 RGTR--
+*R 1 200417048 400000015 200417048  00545  00631            % 02012 RGTR--
+*G 130 400000015 200417048  00545  00631                    % 02012 RGTR--
+*A VE 400000015 200417048 000034  00545  00631              % 02012 RGTR--
+*I FD 400000015 200417048        0001953  00545  00631      % 02012 RGTR--
+400000015 Hayange, Esplanade           00545                % 02012 RGTR--
+400000014 Elange-Veymerange, S -00554  00554                % 02012 RGTR--
+400000077 Metzange, P&R Metzan  00558  00558                % 02012 RGTR--
+200417015 Kirchberg, Hôpital    00624 -00624                % 02012 RGTR--
+200417004 Kirchberg, Alphonse   00625 -00625                % 02012 RGTR--
+200417036 Kirchberg, Réimerwee  00626 -00626                % 02012 RGTR--
+200417002 Kirchberg, Albert Bo  00627 -00627                % 02012 RGTR--
+200417013 Kirchberg, Coudenhov  00628 -00628                % 02012 RGTR--
+200417019 Kirchberg, Konrad Ad  00629 -00629                % 02012 RGTR--
+200417005 Kirchberg, Antoine d  00630 -00630                % 02012 RGTR--
+200417048 Kirchberg, Europe Ga  00631                       % 02012 RGTR--
+*Z 02013 RGTR--                                             % 02013 RGTR--
+*L 505      400000015 200417048  01000  01046               % 02013 RGTR--
+*R 1 200417048 400000015 200417048  01000  01046            % 02013 RGTR--
+*G 130 400000015 200417048  01000  01046                    % 02013 RGTR--
+*A VE 400000015 200417048 000034  01000  01046              % 02013 RGTR--
+*I FD 400000015 200417048        0001712  01000  01046      % 02013 RGTR--
+400000015 Hayange, Esplanade           01000                % 02013 RGTR--
+400000014 Elange-Veymerange, S -01009  01009                % 02013 RGTR--
+400000077 Metzange, P&R Metzan  01013  01013                % 02013 RGTR--
+200417015 Kirchberg, Hôpital    01039 -01039                % 02013 RGTR--
+200417004 Kirchberg, Alphonse   01040 -01040                % 02013 RGTR--
+200417036 Kirchberg, Réimerwee  01041 -01041                % 02013 RGTR--
+200417002 Kirchberg, Albert Bo  01042 -01042                % 02013 RGTR--
+200417013 Kirchberg, Coudenhov  01043 -01043                % 02013 RGTR--
+200417019 Kirchberg, Konrad Ad  01044 -01044                % 02013 RGTR--
+200417005 Kirchberg, Antoine d  01045 -01045                % 02013 RGTR--
+200417048 Kirchberg, Europe Ga  01046                       % 02013 RGTR--
+*Z 02014 RGTR--                                             % 02014 RGTR--
+*L 505      400000015 200417048  01100  01146               % 02014 RGTR--
+*R 1 200417048 400000015 200417048  01100  01146            % 02014 RGTR--
+*G 130 400000015 200417048  01100  01146                    % 02014 RGTR--
+*A VE 400000015 200417048 000034  01100  01146              % 02014 RGTR--
+*I FD 400000015 200417048        0001719  01100  01146      % 02014 RGTR--
+400000015 Hayange, Esplanade           01100                % 02014 RGTR--
+400000014 Elange-Veymerange, S -01109  01109                % 02014 RGTR--
+400000077 Metzange, P&R Metzan  01113  01113                % 02014 RGTR--
+200417015 Kirchberg, Hôpital    01139 -01139                % 02014 RGTR--
+200417004 Kirchberg, Alphonse   01140 -01140                % 02014 RGTR--
+200417036 Kirchberg, Réimerwee  01141 -01141                % 02014 RGTR--
+200417002 Kirchberg, Albert Bo  01142 -01142                % 02014 RGTR--
+200417013 Kirchberg, Coudenhov  01143 -01143                % 02014 RGTR--
+200417019 Kirchberg, Konrad Ad  01144 -01144                % 02014 RGTR--
+200417005 Kirchberg, Antoine d  01145 -01145                % 02014 RGTR--
+200417048 Kirchberg, Europe Ga  01146                       % 02014 RGTR--
+*Z 02015 RGTR--                                             % 02015 RGTR--
+*L 505      400000015 200417048  01300  01346               % 02015 RGTR--
+*R 1 200417048 400000015 200417048  01300  01346            % 02015 RGTR--
+*G 130 400000015 200417048  01300  01346                    % 02015 RGTR--
+*A VE 400000015 200417048 000034  01300  01346              % 02015 RGTR--
+*I FD 400000015 200417048        0001720  01300  01346      % 02015 RGTR--
+400000015 Hayange, Esplanade           01300                % 02015 RGTR--
+400000014 Elange-Veymerange, S -01309  01309                % 02015 RGTR--
+400000077 Metzange, P&R Metzan  01313  01313                % 02015 RGTR--
+200417015 Kirchberg, Hôpital    01339 -01339                % 02015 RGTR--
+200417004 Kirchberg, Alphonse   01340 -01340                % 02015 RGTR--
+200417036 Kirchberg, Réimerwee  01341 -01341                % 02015 RGTR--
+200417002 Kirchberg, Albert Bo  01342 -01342                % 02015 RGTR--
+200417013 Kirchberg, Coudenhov  01343 -01343                % 02015 RGTR--
+200417019 Kirchberg, Konrad Ad  01344 -01344                % 02015 RGTR--
+200417005 Kirchberg, Antoine d  01345 -01345                % 02015 RGTR--
+200417048 Kirchberg, Europe Ga  01346                       % 02015 RGTR--
+*Z 02016 RGTR--                                             % 02016 RGTR--
+*L 505      400000015 200417048  01400  01446               % 02016 RGTR--
+*R 1 200417048 400000015 200417048  01400  01446            % 02016 RGTR--
+*G 130 400000015 200417048  01400  01446                    % 02016 RGTR--
+*A VE 400000015 200417048 000034  01400  01446              % 02016 RGTR--
+*I FD 400000015 200417048        0001714  01400  01446      % 02016 RGTR--
+400000015 Hayange, Esplanade           01400                % 02016 RGTR--
+400000014 Elange-Veymerange, S -01409  01409                % 02016 RGTR--
+400000077 Metzange, P&R Metzan  01413  01413                % 02016 RGTR--
+200417015 Kirchberg, Hôpital    01439 -01439                % 02016 RGTR--
+200417004 Kirchberg, Alphonse   01440 -01440                % 02016 RGTR--
+200417036 Kirchberg, Réimerwee  01441 -01441                % 02016 RGTR--
+200417002 Kirchberg, Albert Bo  01442 -01442                % 02016 RGTR--
+200417013 Kirchberg, Coudenhov  01443 -01443                % 02016 RGTR--
+200417019 Kirchberg, Konrad Ad  01444 -01444                % 02016 RGTR--
+200417005 Kirchberg, Antoine d  01445 -01445                % 02016 RGTR--
+200417048 Kirchberg, Europe Ga  01446                       % 02016 RGTR--
+*Z 02017 RGTR--                                             % 02017 RGTR--
+*L 505      400000015 200417048  01600  01646               % 02017 RGTR--
+*R 1 200417048 400000015 200417048  01600  01646            % 02017 RGTR--
+*G 130 400000015 200417048  01600  01646                    % 02017 RGTR--
+*A VE 400000015 200417048 000034  01600  01646              % 02017 RGTR--
+*I FD 400000015 200417048        0001727  01600  01646      % 02017 RGTR--
+400000015 Hayange, Esplanade           01600                % 02017 RGTR--
+400000014 Elange-Veymerange, S -01609  01609                % 02017 RGTR--
+400000077 Metzange, P&R Metzan  01613  01613                % 02017 RGTR--
+200417015 Kirchberg, Hôpital    01639 -01639                % 02017 RGTR--
+200417004 Kirchberg, Alphonse   01640 -01640                % 02017 RGTR--
+200417036 Kirchberg, Réimerwee  01641 -01641                % 02017 RGTR--
+200417002 Kirchberg, Albert Bo  01642 -01642                % 02017 RGTR--
+200417013 Kirchberg, Coudenhov  01643 -01643                % 02017 RGTR--
+200417019 Kirchberg, Konrad Ad  01644 -01644                % 02017 RGTR--
+200417005 Kirchberg, Antoine d  01645 -01645                % 02017 RGTR--
+200417048 Kirchberg, Europe Ga  01646                       % 02017 RGTR--
+*Z 02018 RGTR--                                             % 02018 RGTR--
+*L 505      400000015 200417048  01700  01746               % 02018 RGTR--
+*R 1 200417048 400000015 200417048  01700  01746            % 02018 RGTR--
+*G 130 400000015 200417048  01700  01746                    % 02018 RGTR--
+*A VE 400000015 200417048 000034  01700  01746              % 02018 RGTR--
+*I FD 400000015 200417048        0001732  01700  01746      % 02018 RGTR--
+400000015 Hayange, Esplanade           01700                % 02018 RGTR--
+400000014 Elange-Veymerange, S -01709  01709                % 02018 RGTR--
+400000077 Metzange, P&R Metzan  01713  01713                % 02018 RGTR--
+200417015 Kirchberg, Hôpital    01739 -01739                % 02018 RGTR--
+200417004 Kirchberg, Alphonse   01740 -01740                % 02018 RGTR--
+200417036 Kirchberg, Réimerwee  01741 -01741                % 02018 RGTR--
+200417002 Kirchberg, Albert Bo  01742 -01742                % 02018 RGTR--
+200417013 Kirchberg, Coudenhov  01743 -01743                % 02018 RGTR--
+200417019 Kirchberg, Konrad Ad  01744 -01744                % 02018 RGTR--
+200417005 Kirchberg, Antoine d  01745 -01745                % 02018 RGTR--
+200417048 Kirchberg, Europe Ga  01746                       % 02018 RGTR--
+*Z 02019 RGTR--                                             % 02019 RGTR--
+*L 505      400000015 200417048  01800  01846               % 02019 RGTR--
+*R 1 200417048 400000015 200417048  01800  01846            % 02019 RGTR--
+*G 130 400000015 200417048  01800  01846                    % 02019 RGTR--
+*A VE 400000015 200417048 000034  01800  01846              % 02019 RGTR--
+*I FD 400000015 200417048        0001728  01800  01846      % 02019 RGTR--
+400000015 Hayange, Esplanade           01800                % 02019 RGTR--
+400000014 Elange-Veymerange, S -01809  01809                % 02019 RGTR--
+400000077 Metzange, P&R Metzan  01813  01813                % 02019 RGTR--
+200417015 Kirchberg, Hôpital    01839 -01839                % 02019 RGTR--
+200417004 Kirchberg, Alphonse   01840 -01840                % 02019 RGTR--
+200417036 Kirchberg, Réimerwee  01841 -01841                % 02019 RGTR--
+200417002 Kirchberg, Albert Bo  01842 -01842                % 02019 RGTR--
+200417013 Kirchberg, Coudenhov  01843 -01843                % 02019 RGTR--
+200417019 Kirchberg, Konrad Ad  01844 -01844                % 02019 RGTR--
+200417005 Kirchberg, Antoine d  01845 -01845                % 02019 RGTR--
+200417048 Kirchberg, Europe Ga  01846                       % 02019 RGTR--
+*Z 02020 RGTR--                                             % 02020 RGTR--
+*L 505      400000015 200417048  01900  01946               % 02020 RGTR--
+*R 1 200417048 400000015 200417048  01900  01946            % 02020 RGTR--
+*G 130 400000015 200417048  01900  01946                    % 02020 RGTR--
+*A VE 400000015 200417048 000034  01900  01946              % 02020 RGTR--
+*I FD 400000015 200417048        0001723  01900  01946      % 02020 RGTR--
+400000015 Hayange, Esplanade           01900                % 02020 RGTR--
+400000014 Elange-Veymerange, S -01909  01909                % 02020 RGTR--
+400000077 Metzange, P&R Metzan  01913  01913                % 02020 RGTR--
+200417015 Kirchberg, Hôpital    01939 -01939                % 02020 RGTR--
+200417004 Kirchberg, Alphonse   01940 -01940                % 02020 RGTR--
+200417036 Kirchberg, Réimerwee  01941 -01941                % 02020 RGTR--
+200417002 Kirchberg, Albert Bo  01942 -01942                % 02020 RGTR--
+200417013 Kirchberg, Coudenhov  01943 -01943                % 02020 RGTR--
+200417019 Kirchberg, Konrad Ad  01944 -01944                % 02020 RGTR--
+200417005 Kirchberg, Antoine d  01945 -01945                % 02020 RGTR--
+200417048 Kirchberg, Europe Ga  01946                       % 02020 RGTR--
+*Z 02021 RGTR--                                             % 02021 RGTR--
+*L 505      400000015 200417048  02100  02146               % 02021 RGTR--
+*R 1 200417048 400000015 200417048  02100  02146            % 02021 RGTR--
+*G 130 400000015 200417048  02100  02146                    % 02021 RGTR--
+*A VE 400000015 200417048 000034  02100  02146              % 02021 RGTR--
+*I FD 400000015 200417048        0001928  02100  02146      % 02021 RGTR--
+400000015 Hayange, Esplanade           02100                % 02021 RGTR--
+400000014 Elange-Veymerange, S -02109  02109                % 02021 RGTR--
+400000077 Metzange, P&R Metzan  02113  02113                % 02021 RGTR--
+200417015 Kirchberg, Hôpital    02139 -02139                % 02021 RGTR--
+200417004 Kirchberg, Alphonse   02140 -02140                % 02021 RGTR--
+200417036 Kirchberg, Réimerwee  02141 -02141                % 02021 RGTR--
+200417002 Kirchberg, Albert Bo  02142 -02142                % 02021 RGTR--
+200417013 Kirchberg, Coudenhov  02143 -02143                % 02021 RGTR--
+200417019 Kirchberg, Konrad Ad  02144 -02144                % 02021 RGTR--
+200417005 Kirchberg, Antoine d  02145 -02145                % 02021 RGTR--
+200417048 Kirchberg, Europe Ga  02146                       % 02021 RGTR--
+*Z 02022 RGTR--                                             % 02022 RGTR--
+*L 505      400000015 200417048  00745  00902               % 02022 RGTR--
+*R 1 200417048 400000015 200417048  00745  00902            % 02022 RGTR--
+*G 070 400000015 200417048  00745  00902                    % 02022 RGTR--
+*A VE 400000015 200417048 000034  00745  00902              % 02022 RGTR--
+*I FD 400000015 200417048        0001965  00745  00902      % 02022 RGTR--
+400000015 Hayange, Esplanade           00745                % 02022 RGTR--
+400000014 Elange-Veymerange, S -00754  00754                % 02022 RGTR--
+400000077 Metzange, P&R Metzan  00758  00758                % 02022 RGTR--
+200417015 Kirchberg, Hôpital    00853 -00853                % 02022 RGTR--
+200417004 Kirchberg, Alphonse   00855 -00855                % 02022 RGTR--
+200417036 Kirchberg, Réimerwee  00856 -00856                % 02022 RGTR--
+200417002 Kirchberg, Albert Bo  00857 -00857                % 02022 RGTR--
+200417013 Kirchberg, Coudenhov  00858 -00858                % 02022 RGTR--
+200417019 Kirchberg, Konrad Ad  00859 -00859                % 02022 RGTR--
+200417005 Kirchberg, Antoine d  00901 -00901                % 02022 RGTR--
+200417048 Kirchberg, Europe Ga  00902                       % 02022 RGTR--
+*Z 02023 RGTR--                                             % 02023 RGTR--
+*L 505      400000015 200417048  00845  01002               % 02023 RGTR--
+*R 1 200417048 400000015 200417048  00845  01002            % 02023 RGTR--
+*G 070 400000015 200417048  00845  01002                    % 02023 RGTR--
+*A VE 400000015 200417048 000034  00845  01002              % 02023 RGTR--
+*I FD 400000015 200417048        0001966  00845  01002      % 02023 RGTR--
+400000015 Hayange, Esplanade           00845                % 02023 RGTR--
+400000014 Elange-Veymerange, S -00854  00854                % 02023 RGTR--
+400000077 Metzange, P&R Metzan  00858  00858                % 02023 RGTR--
+200417015 Kirchberg, Hôpital    00953 -00953                % 02023 RGTR--
+200417004 Kirchberg, Alphonse   00955 -00955                % 02023 RGTR--
+200417036 Kirchberg, Réimerwee  00956 -00956                % 02023 RGTR--
+200417002 Kirchberg, Albert Bo  00957 -00957                % 02023 RGTR--
+200417013 Kirchberg, Coudenhov  00958 -00958                % 02023 RGTR--
+200417019 Kirchberg, Konrad Ad  00959 -00959                % 02023 RGTR--
+200417005 Kirchberg, Antoine d  01001 -01001                % 02023 RGTR--
+200417048 Kirchberg, Europe Ga  01002                       % 02023 RGTR--
+*Z 02024 RGTR--                                             % 02024 RGTR--
+*L 505      400000015 200417048  00600  00717               % 02024 RGTR--
+*R 1 200417048 400000015 200417048  00600  00717            % 02024 RGTR--
+*G 130 400000015 200417048  00600  00717                    % 02024 RGTR--
+*A VE 400000015 200417048 000034  00600  00717              % 02024 RGTR--
+*I FD 400000015 200417048        0001717  00600  00717      % 02024 RGTR--
+400000015 Hayange, Esplanade           00600                % 02024 RGTR--
+400000014 Elange-Veymerange, S -00609  00609                % 02024 RGTR--
+400000077 Metzange, P&R Metzan  00613  00613                % 02024 RGTR--
+200417015 Kirchberg, Hôpital    00708 -00708                % 02024 RGTR--
+200417004 Kirchberg, Alphonse   00710 -00710                % 02024 RGTR--
+200417036 Kirchberg, Réimerwee  00711 -00711                % 02024 RGTR--
+200417002 Kirchberg, Albert Bo  00712 -00712                % 02024 RGTR--
+200417013 Kirchberg, Coudenhov  00713 -00713                % 02024 RGTR--
+200417019 Kirchberg, Konrad Ad  00714 -00714                % 02024 RGTR--
+200417005 Kirchberg, Antoine d  00716 -00716                % 02024 RGTR--
+200417048 Kirchberg, Europe Ga  00717                       % 02024 RGTR--
+*Z 02025 RGTR--                                             % 02025 RGTR--
+*L 505      400000015 200417048  00615  00732               % 02025 RGTR--
+*R 1 200417048 400000015 200417048  00615  00732            % 02025 RGTR--
+*G 130 400000015 200417048  00615  00732                    % 02025 RGTR--
+*A VE 400000015 200417048 000034  00615  00732              % 02025 RGTR--
+*I FD 400000015 200417048        0001887  00615  00732      % 02025 RGTR--
+400000015 Hayange, Esplanade           00615                % 02025 RGTR--
+400000014 Elange-Veymerange, S -00624  00624                % 02025 RGTR--
+400000077 Metzange, P&R Metzan  00628  00628                % 02025 RGTR--
+200417015 Kirchberg, Hôpital    00723 -00723                % 02025 RGTR--
+200417004 Kirchberg, Alphonse   00725 -00725                % 02025 RGTR--
+200417036 Kirchberg, Réimerwee  00726 -00726                % 02025 RGTR--
+200417002 Kirchberg, Albert Bo  00727 -00727                % 02025 RGTR--
+200417013 Kirchberg, Coudenhov  00728 -00728                % 02025 RGTR--
+200417019 Kirchberg, Konrad Ad  00729 -00729                % 02025 RGTR--
+200417005 Kirchberg, Antoine d  00731 -00731                % 02025 RGTR--
+200417048 Kirchberg, Europe Ga  00732                       % 02025 RGTR--
+*Z 02026 RGTR--                                             % 02026 RGTR--
+*L 505      400000015 200417048  00630  00747               % 02026 RGTR--
+*R 1 200417048 400000015 200417048  00630  00747            % 02026 RGTR--
+*G 130 400000015 200417048  00630  00747                    % 02026 RGTR--
+*A VE 400000015 200417048 000034  00630  00747              % 02026 RGTR--
+*I FD 400000015 200417048        0000839  00630  00747      % 02026 RGTR--
+400000015 Hayange, Esplanade           00630                % 02026 RGTR--
+400000014 Elange-Veymerange, S -00639  00639                % 02026 RGTR--
+400000077 Metzange, P&R Metzan  00643  00643                % 02026 RGTR--
+200417015 Kirchberg, Hôpital    00738 -00738                % 02026 RGTR--
+200417004 Kirchberg, Alphonse   00740 -00740                % 02026 RGTR--
+200417036 Kirchberg, Réimerwee  00741 -00741                % 02026 RGTR--
+200417002 Kirchberg, Albert Bo  00742 -00742                % 02026 RGTR--
+200417013 Kirchberg, Coudenhov  00743 -00743                % 02026 RGTR--
+200417019 Kirchberg, Konrad Ad  00744 -00744                % 02026 RGTR--
+200417005 Kirchberg, Antoine d  00746 -00746                % 02026 RGTR--
+200417048 Kirchberg, Europe Ga  00747                       % 02026 RGTR--
+*Z 02027 RGTR--                                             % 02027 RGTR--
+*L 505      400000015 200417048  00645  00802               % 02027 RGTR--
+*R 1 200417048 400000015 200417048  00645  00802            % 02027 RGTR--
+*G 130 400000015 200417048  00645  00802                    % 02027 RGTR--
+*A VE 400000015 200417048 000034  00645  00802              % 02027 RGTR--
+*I FD 400000015 200417048        0001964  00645  00802      % 02027 RGTR--
+400000015 Hayange, Esplanade           00645                % 02027 RGTR--
+400000014 Elange-Veymerange, S -00654  00654                % 02027 RGTR--
+400000077 Metzange, P&R Metzan  00658  00658                % 02027 RGTR--
+200417015 Kirchberg, Hôpital    00753 -00753                % 02027 RGTR--
+200417004 Kirchberg, Alphonse   00755 -00755                % 02027 RGTR--
+200417036 Kirchberg, Réimerwee  00756 -00756                % 02027 RGTR--
+200417002 Kirchberg, Albert Bo  00757 -00757                % 02027 RGTR--
+200417013 Kirchberg, Coudenhov  00758 -00758                % 02027 RGTR--
+200417019 Kirchberg, Konrad Ad  00759 -00759                % 02027 RGTR--
+200417005 Kirchberg, Antoine d  00801 -00801                % 02027 RGTR--
+200417048 Kirchberg, Europe Ga  00802                       % 02027 RGTR--
+*Z 02028 RGTR--                                             % 02028 RGTR--
+*L 505      400000015 200417048  00700  00817               % 02028 RGTR--
+*R 1 200417048 400000015 200417048  00700  00817            % 02028 RGTR--
+*G 130 400000015 200417048  00700  00817                    % 02028 RGTR--
+*A VE 400000015 200417048 000034  00700  00817              % 02028 RGTR--
+*I FD 400000015 200417048        0001729  00700  00817      % 02028 RGTR--
+400000015 Hayange, Esplanade           00700                % 02028 RGTR--
+400000014 Elange-Veymerange, S -00709  00709                % 02028 RGTR--
+400000077 Metzange, P&R Metzan  00713  00713                % 02028 RGTR--
+200417015 Kirchberg, Hôpital    00808 -00808                % 02028 RGTR--
+200417004 Kirchberg, Alphonse   00810 -00810                % 02028 RGTR--
+200417036 Kirchberg, Réimerwee  00811 -00811                % 02028 RGTR--
+200417002 Kirchberg, Albert Bo  00812 -00812                % 02028 RGTR--
+200417013 Kirchberg, Coudenhov  00813 -00813                % 02028 RGTR--
+200417019 Kirchberg, Konrad Ad  00814 -00814                % 02028 RGTR--
+200417005 Kirchberg, Antoine d  00816 -00816                % 02028 RGTR--
+200417048 Kirchberg, Europe Ga  00817                       % 02028 RGTR--
+*Z 02029 RGTR--                                             % 02029 RGTR--
+*L 505      400000015 200417048  00715  00832               % 02029 RGTR--
+*R 1 200417048 400000015 200417048  00715  00832            % 02029 RGTR--
+*G 130 400000015 200417048  00715  00832                    % 02029 RGTR--
+*A VE 400000015 200417048 000034  00715  00832              % 02029 RGTR--
+*I FD 400000015 200417048        0001898  00715  00832      % 02029 RGTR--
+400000015 Hayange, Esplanade           00715                % 02029 RGTR--
+400000014 Elange-Veymerange, S -00724  00724                % 02029 RGTR--
+400000077 Metzange, P&R Metzan  00728  00728                % 02029 RGTR--
+200417015 Kirchberg, Hôpital    00823 -00823                % 02029 RGTR--
+200417004 Kirchberg, Alphonse   00825 -00825                % 02029 RGTR--
+200417036 Kirchberg, Réimerwee  00826 -00826                % 02029 RGTR--
+200417002 Kirchberg, Albert Bo  00827 -00827                % 02029 RGTR--
+200417013 Kirchberg, Coudenhov  00828 -00828                % 02029 RGTR--
+200417019 Kirchberg, Konrad Ad  00829 -00829                % 02029 RGTR--
+200417005 Kirchberg, Antoine d  00831 -00831                % 02029 RGTR--
+200417048 Kirchberg, Europe Ga  00832                       % 02029 RGTR--
+*Z 02030 RGTR--                                             % 02030 RGTR--
+*L 505      200417048 400000015  00715  00800               % 02030 RGTR--
+*R 2 400000015 200417048 400000015  00715  00800            % 02030 RGTR--
+*G 070 200417048 400000015  00715  00800                    % 02030 RGTR--
+*A VE 200417048 400000015 000034  00715  00800              % 02030 RGTR--
+*I FD 200417048 400000015        0002046  00715  00800      % 02030 RGTR--
+200417048 Kirchberg, Europe Ga         00715                % 02030 RGTR--
+200417005 Kirchberg, Antoine d -00715  00715                % 02030 RGTR--
+200417019 Kirchberg, Konrad Ad -00716  00716                % 02030 RGTR--
+200417013 Kirchberg, Coudenhov -00717  00717                % 02030 RGTR--
+200417002 Kirchberg, Albert Bo -00718  00718                % 02030 RGTR--
+200417036 Kirchberg, Réimerwee -00719  00719                % 02030 RGTR--
+200417004 Kirchberg, Alphonse  -00719  00719                % 02030 RGTR--
+200417015 Kirchberg, Hôpital   -00721  00721                % 02030 RGTR--
+400000077 Metzange, P&R Metzan  00749  00749                % 02030 RGTR--
+400000014 Elange-Veymerange, S  00753 -00753                % 02030 RGTR--
+400000015 Hayange, Esplanade    00800                       % 02030 RGTR--
+*Z 02031 RGTR--                                             % 02031 RGTR--
+*L 505      200417048 400000015  01015  01100               % 02031 RGTR--
+*R 2 400000015 200417048 400000015  01015  01100            % 02031 RGTR--
+*G 070 200417048 400000015  01015  01100                    % 02031 RGTR--
+*A VE 200417048 400000015 000034  01015  01100              % 02031 RGTR--
+*I FD 200417048 400000015        0002047  01015  01100      % 02031 RGTR--
+200417048 Kirchberg, Europe Ga         01015                % 02031 RGTR--
+200417005 Kirchberg, Antoine d -01015  01015                % 02031 RGTR--
+200417019 Kirchberg, Konrad Ad -01016  01016                % 02031 RGTR--
+200417013 Kirchberg, Coudenhov -01017  01017                % 02031 RGTR--
+200417002 Kirchberg, Albert Bo -01018  01018                % 02031 RGTR--
+200417036 Kirchberg, Réimerwee -01019  01019                % 02031 RGTR--
+200417004 Kirchberg, Alphonse  -01019  01019                % 02031 RGTR--
+200417015 Kirchberg, Hôpital   -01021  01021                % 02031 RGTR--
+400000077 Metzange, P&R Metzan  01049  01049                % 02031 RGTR--
+400000014 Elange-Veymerange, S  01053 -01053                % 02031 RGTR--
+400000015 Hayange, Esplanade    01100                       % 02031 RGTR--
+*Z 02032 RGTR--                                             % 02032 RGTR--
+*L 505      200417048 400000015  01315  01400               % 02032 RGTR--
+*R 2 400000015 200417048 400000015  01315  01400            % 02032 RGTR--
+*G 070 200417048 400000015  01315  01400                    % 02032 RGTR--
+*A VE 200417048 400000015 000034  01315  01400              % 02032 RGTR--
+*I FD 200417048 400000015        0002048  01315  01400      % 02032 RGTR--
+200417048 Kirchberg, Europe Ga         01315                % 02032 RGTR--
+200417005 Kirchberg, Antoine d -01315  01315                % 02032 RGTR--
+200417019 Kirchberg, Konrad Ad -01316  01316                % 02032 RGTR--
+200417013 Kirchberg, Coudenhov -01317  01317                % 02032 RGTR--
+200417002 Kirchberg, Albert Bo -01318  01318                % 02032 RGTR--
+200417036 Kirchberg, Réimerwee -01319  01319                % 02032 RGTR--
+200417004 Kirchberg, Alphonse  -01319  01319                % 02032 RGTR--
+200417015 Kirchberg, Hôpital   -01321  01321                % 02032 RGTR--
+400000077 Metzange, P&R Metzan  01349  01349                % 02032 RGTR--
+400000014 Elange-Veymerange, S  01353 -01353                % 02032 RGTR--
+400000015 Hayange, Esplanade    01400                       % 02032 RGTR--
+*Z 02033 RGTR--                                             % 02033 RGTR--
+*L 505      200417048 400000015  01845  01930               % 02033 RGTR--
+*R 2 400000015 200417048 400000015  01845  01930            % 02033 RGTR--
+*G 070 200417048 400000015  01845  01930                    % 02033 RGTR--
+*A VE 200417048 400000015 000034  01845  01930              % 02033 RGTR--
+*I FD 200417048 400000015        0001339  01845  01930      % 02033 RGTR--
+200417048 Kirchberg, Europe Ga         01845                % 02033 RGTR--
+200417005 Kirchberg, Antoine d -01845  01845                % 02033 RGTR--
+200417019 Kirchberg, Konrad Ad -01846  01846                % 02033 RGTR--
+200417013 Kirchberg, Coudenhov -01847  01847                % 02033 RGTR--
+200417002 Kirchberg, Albert Bo -01848  01848                % 02033 RGTR--
+200417036 Kirchberg, Réimerwee -01849  01849                % 02033 RGTR--
+200417004 Kirchberg, Alphonse  -01849  01849                % 02033 RGTR--
+200417015 Kirchberg, Hôpital   -01851  01851                % 02033 RGTR--
+400000077 Metzange, P&R Metzan  01919  01919                % 02033 RGTR--
+400000014 Elange-Veymerange, S  01923 -01923                % 02033 RGTR--
+400000015 Hayange, Esplanade    01930                       % 02033 RGTR--
+*Z 02034 RGTR--                                             % 02034 RGTR--
+*L 505      200417048 400000015  02115  02200               % 02034 RGTR--
+*R 2 400000015 200417048 400000015  02115  02200            % 02034 RGTR--
+*G 070 200417048 400000015  02115  02200                    % 02034 RGTR--
+*A VE 200417048 400000015 000034  02115  02200              % 02034 RGTR--
+*I FD 200417048 400000015        0002049  02115  02200      % 02034 RGTR--
+200417048 Kirchberg, Europe Ga         02115                % 02034 RGTR--
+200417005 Kirchberg, Antoine d -02115  02115                % 02034 RGTR--
+200417019 Kirchberg, Konrad Ad -02116  02116                % 02034 RGTR--
+200417013 Kirchberg, Coudenhov -02117  02117                % 02034 RGTR--
+200417002 Kirchberg, Albert Bo -02118  02118                % 02034 RGTR--
+200417036 Kirchberg, Réimerwee -02119  02119                % 02034 RGTR--
+200417004 Kirchberg, Alphonse  -02119  02119                % 02034 RGTR--
+200417015 Kirchberg, Hôpital   -02121  02121                % 02034 RGTR--
+400000077 Metzange, P&R Metzan  02149  02149                % 02034 RGTR--
+400000014 Elange-Veymerange, S  02153 -02153                % 02034 RGTR--
+400000015 Hayange, Esplanade    02200                       % 02034 RGTR--
+*Z 02035 RGTR--                                             % 02035 RGTR--
+*L 505      200417048 400000015  02315  02400               % 02035 RGTR--
+*R 2 400000015 200417048 400000015  02315  02400            % 02035 RGTR--
+*G 070 200417048 400000015  02315  02400                    % 02035 RGTR--
+*A VE 200417048 400000015 000034  02315  02400              % 02035 RGTR--
+*I FD 200417048 400000015        0002050  02315  02400      % 02035 RGTR--
+200417048 Kirchberg, Europe Ga         02315                % 02035 RGTR--
+200417005 Kirchberg, Antoine d -02315  02315                % 02035 RGTR--
+200417019 Kirchberg, Konrad Ad -02316  02316                % 02035 RGTR--
+200417013 Kirchberg, Coudenhov -02317  02317                % 02035 RGTR--
+200417002 Kirchberg, Albert Bo -02318  02318                % 02035 RGTR--
+200417036 Kirchberg, Réimerwee -02319  02319                % 02035 RGTR--
+200417004 Kirchberg, Alphonse  -02319  02319                % 02035 RGTR--
+200417015 Kirchberg, Hôpital   -02321  02321                % 02035 RGTR--
+400000077 Metzange, P&R Metzan  02349  02349                % 02035 RGTR--
+400000014 Elange-Veymerange, S  02353 -02353                % 02035 RGTR--
+400000015 Hayange, Esplanade    02400                       % 02035 RGTR--
+*Z 02036 RGTR--                                             % 02036 RGTR--
+*L 505      200417048 400000015  00615  00700               % 02036 RGTR--
+*R 2 400000015 200417048 400000015  00615  00700            % 02036 RGTR--
+*G 130 200417048 400000015  00615  00700                    % 02036 RGTR--
+*A VE 200417048 400000015 000034  00615  00700              % 02036 RGTR--
+*I FD 200417048 400000015        0002051  00615  00700      % 02036 RGTR--
+200417048 Kirchberg, Europe Ga         00615                % 02036 RGTR--
+200417005 Kirchberg, Antoine d -00615  00615                % 02036 RGTR--
+200417019 Kirchberg, Konrad Ad -00616  00616                % 02036 RGTR--
+200417013 Kirchberg, Coudenhov -00617  00617                % 02036 RGTR--
+200417002 Kirchberg, Albert Bo -00618  00618                % 02036 RGTR--
+200417036 Kirchberg, Réimerwee -00619  00619                % 02036 RGTR--
+200417004 Kirchberg, Alphonse  -00619  00619                % 02036 RGTR--
+200417015 Kirchberg, Hôpital   -00621  00621                % 02036 RGTR--
+400000077 Metzange, P&R Metzan  00649  00649                % 02036 RGTR--
+400000014 Elange-Veymerange, S  00653 -00653                % 02036 RGTR--
+400000015 Hayange, Esplanade    00700                       % 02036 RGTR--
+*Z 02037 RGTR--                                             % 02037 RGTR--
+*L 505      200417048 400000015  00815  00900               % 02037 RGTR--
+*R 2 400000015 200417048 400000015  00815  00900            % 02037 RGTR--
+*G 130 200417048 400000015  00815  00900                    % 02037 RGTR--
+*A VE 200417048 400000015 000034  00815  00900              % 02037 RGTR--
+*I FD 200417048 400000015        0002052  00815  00900      % 02037 RGTR--
+200417048 Kirchberg, Europe Ga         00815                % 02037 RGTR--
+200417005 Kirchberg, Antoine d -00815  00815                % 02037 RGTR--
+200417019 Kirchberg, Konrad Ad -00816  00816                % 02037 RGTR--
+200417013 Kirchberg, Coudenhov -00817  00817                % 02037 RGTR--
+200417002 Kirchberg, Albert Bo -00818  00818                % 02037 RGTR--
+200417036 Kirchberg, Réimerwee -00819  00819                % 02037 RGTR--
+200417004 Kirchberg, Alphonse  -00819  00819                % 02037 RGTR--
+200417015 Kirchberg, Hôpital   -00821  00821                % 02037 RGTR--
+400000077 Metzange, P&R Metzan  00849  00849                % 02037 RGTR--
+400000014 Elange-Veymerange, S  00853 -00853                % 02037 RGTR--
+400000015 Hayange, Esplanade    00900                       % 02037 RGTR--
+*Z 02038 RGTR--                                             % 02038 RGTR--
+*L 505      200417048 400000015  00915  01000               % 02038 RGTR--
+*R 2 400000015 200417048 400000015  00915  01000            % 02038 RGTR--
+*G 130 200417048 400000015  00915  01000                    % 02038 RGTR--
+*A VE 200417048 400000015 000034  00915  01000              % 02038 RGTR--
+*I FD 200417048 400000015        0002053  00915  01000      % 02038 RGTR--
+200417048 Kirchberg, Europe Ga         00915                % 02038 RGTR--
+200417005 Kirchberg, Antoine d -00915  00915                % 02038 RGTR--
+200417019 Kirchberg, Konrad Ad -00916  00916                % 02038 RGTR--
+200417013 Kirchberg, Coudenhov -00917  00917                % 02038 RGTR--
+200417002 Kirchberg, Albert Bo -00918  00918                % 02038 RGTR--
+200417036 Kirchberg, Réimerwee -00919  00919                % 02038 RGTR--
+200417004 Kirchberg, Alphonse  -00919  00919                % 02038 RGTR--
+200417015 Kirchberg, Hôpital   -00921  00921                % 02038 RGTR--
+400000077 Metzange, P&R Metzan  00949  00949                % 02038 RGTR--
+400000014 Elange-Veymerange, S  00953 -00953                % 02038 RGTR--
+400000015 Hayange, Esplanade    01000                       % 02038 RGTR--
+*Z 02039 RGTR--                                             % 02039 RGTR--
+*L 505      200417048 400000015  01115  01200               % 02039 RGTR--
+*R 2 400000015 200417048 400000015  01115  01200            % 02039 RGTR--
+*G 130 200417048 400000015  01115  01200                    % 02039 RGTR--
+*A VE 200417048 400000015 000034  01115  01200              % 02039 RGTR--
+*I FD 200417048 400000015        0001071  01115  01200      % 02039 RGTR--
+200417048 Kirchberg, Europe Ga         01115                % 02039 RGTR--
+200417005 Kirchberg, Antoine d -01115  01115                % 02039 RGTR--
+200417019 Kirchberg, Konrad Ad -01116  01116                % 02039 RGTR--
+200417013 Kirchberg, Coudenhov -01117  01117                % 02039 RGTR--
+200417002 Kirchberg, Albert Bo -01118  01118                % 02039 RGTR--
+200417036 Kirchberg, Réimerwee -01119  01119                % 02039 RGTR--
+200417004 Kirchberg, Alphonse  -01119  01119                % 02039 RGTR--
+200417015 Kirchberg, Hôpital   -01121  01121                % 02039 RGTR--
+400000077 Metzange, P&R Metzan  01149  01149                % 02039 RGTR--
+400000014 Elange-Veymerange, S  01153 -01153                % 02039 RGTR--
+400000015 Hayange, Esplanade    01200                       % 02039 RGTR--
+*Z 02040 RGTR--                                             % 02040 RGTR--
+*L 505      200417048 400000015  01215  01300               % 02040 RGTR--
+*R 2 400000015 200417048 400000015  01215  01300            % 02040 RGTR--
+*G 130 200417048 400000015  01215  01300                    % 02040 RGTR--
+*A VE 200417048 400000015 000034  01215  01300              % 02040 RGTR--
+*I FD 200417048 400000015        0002054  01215  01300      % 02040 RGTR--
+200417048 Kirchberg, Europe Ga         01215                % 02040 RGTR--
+200417005 Kirchberg, Antoine d -01215  01215                % 02040 RGTR--
+200417019 Kirchberg, Konrad Ad -01216  01216                % 02040 RGTR--
+200417013 Kirchberg, Coudenhov -01217  01217                % 02040 RGTR--
+200417002 Kirchberg, Albert Bo -01218  01218                % 02040 RGTR--
+200417036 Kirchberg, Réimerwee -01219  01219                % 02040 RGTR--
+200417004 Kirchberg, Alphonse  -01219  01219                % 02040 RGTR--
+200417015 Kirchberg, Hôpital   -01221  01221                % 02040 RGTR--
+400000077 Metzange, P&R Metzan  01249  01249                % 02040 RGTR--
+400000014 Elange-Veymerange, S  01253 -01253                % 02040 RGTR--
+400000015 Hayange, Esplanade    01300                       % 02040 RGTR--
+*Z 02041 RGTR--                                             % 02041 RGTR--
+*L 505      200417048 400000015  01415  01500               % 02041 RGTR--
+*R 2 400000015 200417048 400000015  01415  01500            % 02041 RGTR--
+*G 130 200417048 400000015  01415  01500                    % 02041 RGTR--
+*A VE 200417048 400000015 000034  01415  01500              % 02041 RGTR--
+*I FD 200417048 400000015        0002055  01415  01500      % 02041 RGTR--
+200417048 Kirchberg, Europe Ga         01415                % 02041 RGTR--
+200417005 Kirchberg, Antoine d -01415  01415                % 02041 RGTR--
+200417019 Kirchberg, Konrad Ad -01416  01416                % 02041 RGTR--
+200417013 Kirchberg, Coudenhov -01417  01417                % 02041 RGTR--
+200417002 Kirchberg, Albert Bo -01418  01418                % 02041 RGTR--
+200417036 Kirchberg, Réimerwee -01419  01419                % 02041 RGTR--
+200417004 Kirchberg, Alphonse  -01419  01419                % 02041 RGTR--
+200417015 Kirchberg, Hôpital   -01421  01421                % 02041 RGTR--
+400000077 Metzange, P&R Metzan  01449  01449                % 02041 RGTR--
+400000014 Elange-Veymerange, S  01453 -01453                % 02041 RGTR--
+400000015 Hayange, Esplanade    01500                       % 02041 RGTR--
+*Z 02042 RGTR--                                             % 02042 RGTR--
+*L 505      200417048 400000015  01515  01600               % 02042 RGTR--
+*R 2 400000015 200417048 400000015  01515  01600            % 02042 RGTR--
+*G 130 200417048 400000015  01515  01600                    % 02042 RGTR--
+*A VE 200417048 400000015 000034  01515  01600              % 02042 RGTR--
+*I FD 200417048 400000015        0002056  01515  01600      % 02042 RGTR--
+200417048 Kirchberg, Europe Ga         01515                % 02042 RGTR--
+200417005 Kirchberg, Antoine d -01515  01515                % 02042 RGTR--
+200417019 Kirchberg, Konrad Ad -01516  01516                % 02042 RGTR--
+200417013 Kirchberg, Coudenhov -01517  01517                % 02042 RGTR--
+200417002 Kirchberg, Albert Bo -01518  01518                % 02042 RGTR--
+200417036 Kirchberg, Réimerwee -01519  01519                % 02042 RGTR--
+200417004 Kirchberg, Alphonse  -01519  01519                % 02042 RGTR--
+200417015 Kirchberg, Hôpital   -01521  01521                % 02042 RGTR--
+400000077 Metzange, P&R Metzan  01549  01549                % 02042 RGTR--
+400000014 Elange-Veymerange, S  01553 -01553                % 02042 RGTR--
+400000015 Hayange, Esplanade    01600                       % 02042 RGTR--
+*Z 02043 RGTR--                                             % 02043 RGTR--
+*L 505      200417048 400000015  01915  02000               % 02043 RGTR--
+*R 2 400000015 200417048 400000015  01915  02000            % 02043 RGTR--
+*G 130 200417048 400000015  01915  02000                    % 02043 RGTR--
+*A VE 200417048 400000015 000034  01915  02000              % 02043 RGTR--
+*I FD 200417048 400000015        0002057  01915  02000      % 02043 RGTR--
+200417048 Kirchberg, Europe Ga         01915                % 02043 RGTR--
+200417005 Kirchberg, Antoine d -01915  01915                % 02043 RGTR--
+200417019 Kirchberg, Konrad Ad -01916  01916                % 02043 RGTR--
+200417013 Kirchberg, Coudenhov -01917  01917                % 02043 RGTR--
+200417002 Kirchberg, Albert Bo -01918  01918                % 02043 RGTR--
+200417036 Kirchberg, Réimerwee -01919  01919                % 02043 RGTR--
+200417004 Kirchberg, Alphonse  -01919  01919                % 02043 RGTR--
+200417015 Kirchberg, Hôpital   -01921  01921                % 02043 RGTR--
+400000077 Metzange, P&R Metzan  01949  01949                % 02043 RGTR--
+400000014 Elange-Veymerange, S  01953 -01953                % 02043 RGTR--
+400000015 Hayange, Esplanade    02000                       % 02043 RGTR--
+*Z 02044 RGTR--                                             % 02044 RGTR--
+*L 505      200417048 400000015  02015  02100               % 02044 RGTR--
+*R 2 400000015 200417048 400000015  02015  02100            % 02044 RGTR--
+*G 130 200417048 400000015  02015  02100                    % 02044 RGTR--
+*A VE 200417048 400000015 000034  02015  02100              % 02044 RGTR--
+*I FD 200417048 400000015        0002058  02015  02100      % 02044 RGTR--
+200417048 Kirchberg, Europe Ga         02015                % 02044 RGTR--
+200417005 Kirchberg, Antoine d -02015  02015                % 02044 RGTR--
+200417019 Kirchberg, Konrad Ad -02016  02016                % 02044 RGTR--
+200417013 Kirchberg, Coudenhov -02017  02017                % 02044 RGTR--
+200417002 Kirchberg, Albert Bo -02018  02018                % 02044 RGTR--
+200417036 Kirchberg, Réimerwee -02019  02019                % 02044 RGTR--
+200417004 Kirchberg, Alphonse  -02019  02019                % 02044 RGTR--
+200417015 Kirchberg, Hôpital   -02021  02021                % 02044 RGTR--
+400000077 Metzange, P&R Metzan  02049  02049                % 02044 RGTR--
+400000014 Elange-Veymerange, S  02053 -02053                % 02044 RGTR--
+400000015 Hayange, Esplanade    02100                       % 02044 RGTR--
+*Z 02045 RGTR--                                             % 02045 RGTR--
+*L 505      200417048 400000015  02215  02300               % 02045 RGTR--
+*R 2 400000015 200417048 400000015  02215  02300            % 02045 RGTR--
+*G 130 200417048 400000015  02215  02300                    % 02045 RGTR--
+*A VE 200417048 400000015 000034  02215  02300              % 02045 RGTR--
+*I FD 200417048 400000015        0001439  02215  02300      % 02045 RGTR--
+200417048 Kirchberg, Europe Ga         02215                % 02045 RGTR--
+200417005 Kirchberg, Antoine d -02215  02215                % 02045 RGTR--
+200417019 Kirchberg, Konrad Ad -02216  02216                % 02045 RGTR--
+200417013 Kirchberg, Coudenhov -02217  02217                % 02045 RGTR--
+200417002 Kirchberg, Albert Bo -02218  02218                % 02045 RGTR--
+200417036 Kirchberg, Réimerwee -02219  02219                % 02045 RGTR--
+200417004 Kirchberg, Alphonse  -02219  02219                % 02045 RGTR--
+200417015 Kirchberg, Hôpital   -02221  02221                % 02045 RGTR--
+400000077 Metzange, P&R Metzan  02249  02249                % 02045 RGTR--
+400000014 Elange-Veymerange, S  02253 -02253                % 02045 RGTR--
+400000015 Hayange, Esplanade    02300                       % 02045 RGTR--
+*Z 02046 RGTR--                                             % 02046 RGTR--
+*L 505      200417048 400000015  01630  01737               % 02046 RGTR--
+*R 2 400000015 200417048 400000015  01630  01737            % 02046 RGTR--
+*G 070 200417048 400000015  01630  01737                    % 02046 RGTR--
+*A VE 200417048 400000015 000034  01630  01737              % 02046 RGTR--
+*I FD 200417048 400000015        0002059  01630  01737      % 02046 RGTR--
+200417048 Kirchberg, Europe Ga         01630                % 02046 RGTR--
+200417005 Kirchberg, Antoine d -01631  01631                % 02046 RGTR--
+200417019 Kirchberg, Konrad Ad -01632  01632                % 02046 RGTR--
+200417013 Kirchberg, Coudenhov -01633  01633                % 02046 RGTR--
+200417002 Kirchberg, Albert Bo -01634  01634                % 02046 RGTR--
+200417036 Kirchberg, Réimerwee -01635  01635                % 02046 RGTR--
+200417004 Kirchberg, Alphonse  -01636  01636                % 02046 RGTR--
+200417015 Kirchberg, Hôpital   -01638  01638                % 02046 RGTR--
+400000077 Metzange, P&R Metzan  01724  01724                % 02046 RGTR--
+400000014 Elange-Veymerange, S  01728 -01728                % 02046 RGTR--
+400000015 Hayange, Esplanade    01737                       % 02046 RGTR--
+*Z 02047 RGTR--                                             % 02047 RGTR--
+*L 505      200417048 400000015  01800  01907               % 02047 RGTR--
+*R 2 400000015 200417048 400000015  01800  01907            % 02047 RGTR--
+*G 070 200417048 400000015  01800  01907                    % 02047 RGTR--
+*A VE 200417048 400000015 000034  01800  01907              % 02047 RGTR--
+*I FD 200417048 400000015        0001946  01800  01907      % 02047 RGTR--
+200417048 Kirchberg, Europe Ga         01800                % 02047 RGTR--
+200417005 Kirchberg, Antoine d -01801  01801                % 02047 RGTR--
+200417019 Kirchberg, Konrad Ad -01802  01802                % 02047 RGTR--
+200417013 Kirchberg, Coudenhov -01803  01803                % 02047 RGTR--
+200417002 Kirchberg, Albert Bo -01804  01804                % 02047 RGTR--
+200417036 Kirchberg, Réimerwee -01805  01805                % 02047 RGTR--
+200417004 Kirchberg, Alphonse  -01806  01806                % 02047 RGTR--
+200417015 Kirchberg, Hôpital   -01808  01808                % 02047 RGTR--
+400000077 Metzange, P&R Metzan  01854  01854                % 02047 RGTR--
+400000014 Elange-Veymerange, S  01858 -01858                % 02047 RGTR--
+400000015 Hayange, Esplanade    01907                       % 02047 RGTR--
+*Z 02048 RGTR--                                             % 02048 RGTR--
+*L 505      200417048 400000015  01615  01722               % 02048 RGTR--
+*R 2 400000015 200417048 400000015  01615  01722            % 02048 RGTR--
+*G 130 200417048 400000015  01615  01722                    % 02048 RGTR--
+*A VE 200417048 400000015 000034  01615  01722              % 02048 RGTR--
+*I FD 200417048 400000015        0002060  01615  01722      % 02048 RGTR--
+200417048 Kirchberg, Europe Ga         01615                % 02048 RGTR--
+200417005 Kirchberg, Antoine d -01616  01616                % 02048 RGTR--
+200417019 Kirchberg, Konrad Ad -01617  01617                % 02048 RGTR--
+200417013 Kirchberg, Coudenhov -01618  01618                % 02048 RGTR--
+200417002 Kirchberg, Albert Bo -01619  01619                % 02048 RGTR--
+200417036 Kirchberg, Réimerwee -01620  01620                % 02048 RGTR--
+200417004 Kirchberg, Alphonse  -01621  01621                % 02048 RGTR--
+200417015 Kirchberg, Hôpital   -01623  01623                % 02048 RGTR--
+400000077 Metzange, P&R Metzan  01709  01709                % 02048 RGTR--
+400000014 Elange-Veymerange, S  01713 -01713                % 02048 RGTR--
+400000015 Hayange, Esplanade    01722                       % 02048 RGTR--
+*Z 02049 RGTR--                                             % 02049 RGTR--
+*L 505      200417048 400000015  01645  01752               % 02049 RGTR--
+*R 2 400000015 200417048 400000015  01645  01752            % 02049 RGTR--
+*G 130 200417048 400000015  01645  01752                    % 02049 RGTR--
+*A VE 200417048 400000015 000034  01645  01752              % 02049 RGTR--
+*I FD 200417048 400000015        0001236  01645  01752      % 02049 RGTR--
+200417048 Kirchberg, Europe Ga         01645                % 02049 RGTR--
+200417005 Kirchberg, Antoine d -01646  01646                % 02049 RGTR--
+200417019 Kirchberg, Konrad Ad -01647  01647                % 02049 RGTR--
+200417013 Kirchberg, Coudenhov -01648  01648                % 02049 RGTR--
+200417002 Kirchberg, Albert Bo -01649  01649                % 02049 RGTR--
+200417036 Kirchberg, Réimerwee -01650  01650                % 02049 RGTR--
+200417004 Kirchberg, Alphonse  -01651  01651                % 02049 RGTR--
+200417015 Kirchberg, Hôpital   -01653  01653                % 02049 RGTR--
+400000077 Metzange, P&R Metzan  01739  01739                % 02049 RGTR--
+400000014 Elange-Veymerange, S  01743 -01743                % 02049 RGTR--
+400000015 Hayange, Esplanade    01752                       % 02049 RGTR--
+*Z 02050 RGTR--                                             % 02050 RGTR--
+*L 505      200417048 400000015  01700  01807               % 02050 RGTR--
+*R 2 400000015 200417048 400000015  01700  01807            % 02050 RGTR--
+*G 130 200417048 400000015  01700  01807                    % 02050 RGTR--
+*A VE 200417048 400000015 000034  01700  01807              % 02050 RGTR--
+*I FD 200417048 400000015        0001950  01700  01807      % 02050 RGTR--
+200417048 Kirchberg, Europe Ga         01700                % 02050 RGTR--
+200417005 Kirchberg, Antoine d -01701  01701                % 02050 RGTR--
+200417019 Kirchberg, Konrad Ad -01702  01702                % 02050 RGTR--
+200417013 Kirchberg, Coudenhov -01703  01703                % 02050 RGTR--
+200417002 Kirchberg, Albert Bo -01704  01704                % 02050 RGTR--
+200417036 Kirchberg, Réimerwee -01705  01705                % 02050 RGTR--
+200417004 Kirchberg, Alphonse  -01706  01706                % 02050 RGTR--
+200417015 Kirchberg, Hôpital   -01708  01708                % 02050 RGTR--
+400000077 Metzange, P&R Metzan  01754  01754                % 02050 RGTR--
+400000014 Elange-Veymerange, S  01758 -01758                % 02050 RGTR--
+400000015 Hayange, Esplanade    01807                       % 02050 RGTR--
+*Z 02051 RGTR--                                             % 02051 RGTR--
+*L 505      200417048 400000015  01715  01822               % 02051 RGTR--
+*R 2 400000015 200417048 400000015  01715  01822            % 02051 RGTR--
+*G 130 200417048 400000015  01715  01822                    % 02051 RGTR--
+*A VE 200417048 400000015 000034  01715  01822              % 02051 RGTR--
+*I FD 200417048 400000015        0002061  01715  01822      % 02051 RGTR--
+200417048 Kirchberg, Europe Ga         01715                % 02051 RGTR--
+200417005 Kirchberg, Antoine d -01716  01716                % 02051 RGTR--
+200417019 Kirchberg, Konrad Ad -01717  01717                % 02051 RGTR--
+200417013 Kirchberg, Coudenhov -01718  01718                % 02051 RGTR--
+200417002 Kirchberg, Albert Bo -01719  01719                % 02051 RGTR--
+200417036 Kirchberg, Réimerwee -01720  01720                % 02051 RGTR--
+200417004 Kirchberg, Alphonse  -01721  01721                % 02051 RGTR--
+200417015 Kirchberg, Hôpital   -01723  01723                % 02051 RGTR--
+400000077 Metzange, P&R Metzan  01809  01809                % 02051 RGTR--
+400000014 Elange-Veymerange, S  01813 -01813                % 02051 RGTR--
+400000015 Hayange, Esplanade    01822                       % 02051 RGTR--
+*Z 02052 RGTR--                                             % 02052 RGTR--
+*L 505      200417048 400000015  01730  01837               % 02052 RGTR--
+*R 2 400000015 200417048 400000015  01730  01837            % 02052 RGTR--
+*G 130 200417048 400000015  01730  01837                    % 02052 RGTR--
+*A VE 200417048 400000015 000034  01730  01837              % 02052 RGTR--
+*I FD 200417048 400000015        0002062  01730  01837      % 02052 RGTR--
+200417048 Kirchberg, Europe Ga         01730                % 02052 RGTR--
+200417005 Kirchberg, Antoine d -01731  01731                % 02052 RGTR--
+200417019 Kirchberg, Konrad Ad -01732  01732                % 02052 RGTR--
+200417013 Kirchberg, Coudenhov -01733  01733                % 02052 RGTR--
+200417002 Kirchberg, Albert Bo -01734  01734                % 02052 RGTR--
+200417036 Kirchberg, Réimerwee -01735  01735                % 02052 RGTR--
+200417004 Kirchberg, Alphonse  -01736  01736                % 02052 RGTR--
+200417015 Kirchberg, Hôpital   -01738  01738                % 02052 RGTR--
+400000077 Metzange, P&R Metzan  01824  01824                % 02052 RGTR--
+400000014 Elange-Veymerange, S  01828 -01828                % 02052 RGTR--
+400000015 Hayange, Esplanade    01837                       % 02052 RGTR--
+*Z 02053 RGTR--                                             % 02053 RGTR--
+*L 505      200417048 400000015  01745  01852               % 02053 RGTR--
+*R 2 400000015 200417048 400000015  01745  01852            % 02053 RGTR--
+*G 130 200417048 400000015  01745  01852                    % 02053 RGTR--
+*A VE 200417048 400000015 000034  01745  01852              % 02053 RGTR--
+*I FD 200417048 400000015        0002063  01745  01852      % 02053 RGTR--
+200417048 Kirchberg, Europe Ga         01745                % 02053 RGTR--
+200417005 Kirchberg, Antoine d -01746  01746                % 02053 RGTR--
+200417019 Kirchberg, Konrad Ad -01747  01747                % 02053 RGTR--
+200417013 Kirchberg, Coudenhov -01748  01748                % 02053 RGTR--
+200417002 Kirchberg, Albert Bo -01749  01749                % 02053 RGTR--
+200417036 Kirchberg, Réimerwee -01750  01750                % 02053 RGTR--
+200417004 Kirchberg, Alphonse  -01751  01751                % 02053 RGTR--
+200417015 Kirchberg, Hôpital   -01753  01753                % 02053 RGTR--
+400000077 Metzange, P&R Metzan  01839  01839                % 02053 RGTR--
+400000014 Elange-Veymerange, S  01843 -01843                % 02053 RGTR--
+400000015 Hayange, Esplanade    01852                       % 02053 RGTR--
+*Z 02054 RGTR--                                             % 02054 RGTR--
+*L 505      200417048 400000015  01815  01922               % 02054 RGTR--
+*R 2 400000015 200417048 400000015  01815  01922            % 02054 RGTR--
+*G 130 200417048 400000015  01815  01922                    % 02054 RGTR--
+*A VE 200417048 400000015 000034  01815  01922              % 02054 RGTR--
+*I FD 200417048 400000015        0002064  01815  01922      % 02054 RGTR--
+200417048 Kirchberg, Europe Ga         01815                % 02054 RGTR--
+200417005 Kirchberg, Antoine d -01816  01816                % 02054 RGTR--
+200417019 Kirchberg, Konrad Ad -01817  01817                % 02054 RGTR--
+200417013 Kirchberg, Coudenhov -01818  01818                % 02054 RGTR--
+200417002 Kirchberg, Albert Bo -01819  01819                % 02054 RGTR--
+200417036 Kirchberg, Réimerwee -01820  01820                % 02054 RGTR--
+200417004 Kirchberg, Alphonse  -01821  01821                % 02054 RGTR--
+200417015 Kirchberg, Hôpital   -01823  01823                % 02054 RGTR--
+400000077 Metzange, P&R Metzan  01909  01909                % 02054 RGTR--
+400000014 Elange-Veymerange, S  01913 -01913                % 02054 RGTR--
+400000015 Hayange, Esplanade    01922                       % 02054 RGTR--

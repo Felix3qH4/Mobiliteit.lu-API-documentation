@@ -1,0 +1,535 @@
+*F 03 2
+*Z 14555 RGTR--                                             % 14555 RGTR--
+*L 60U      220203009 200801009  00443  00550               % 14555 RGTR--
+*R 1 200801009 220203009 200801009  00443  00550            % 14555 RGTR--
+*G 060 220203009 200801009  00443  00550                    % 14555 RGTR--
+*A VE 220203009 200801009 000033  00443  00550              % 14555 RGTR--
+*I FD 220203009 200801009        0003099  00443  00550      % 14555 RGTR--
+220203009 Niederkorn, Moartpla         00443                % 14555 RGTR--
+220201003 Differdange, Arbed   -00445  00445                % 14555 RGTR--
+220201019 Differdange, Fousban -00446  00446                % 14555 RGTR--
+220201039 Differdange, Profi   -00447  00447                % 14555 RGTR--
+221304004 Soleuvre, Cité Kauff -00450  00450                % 14555 RGTR--
+221304007 Soleuvre, Déifferden -00450  00450                % 14555 RGTR--
+221304005 Soleuvre, Cité Schei -00451  00451                % 14555 RGTR--
+221304009 Soleuvre, Emile Mayr -00452  00452                % 14555 RGTR--
+221304012 Soleuvre, Place de l -00452  00452                % 14555 RGTR--
+221304011 Soleuvre, Jugendhaus -00453  00453                % 14555 RGTR--
+221301013 Belvaux, Paquebierg  -00454  00454                % 14555 RGTR--
+221301028 Belvaux, Ënnert Zolw -00455  00455                % 14555 RGTR--
+221301007 Belvaux, Gemeng      -00456  00456                % 14555 RGTR--
+221301009 Belvaux, Henri Tudor -00457  00457                % 14555 RGTR--
+221301016 Belvaux, Roudewee    -00458  00458                % 14555 RGTR--
+221301005 Belvaux, Brill       -00458  00458                % 14555 RGTR--
+220402079 Esch-sur-Alzette, Ra -00500  00500                % 14555 RGTR--
+220402106 Esch-sur-Alzette, Tr -00500  00500                % 14555 RGTR--
+220402126 Esch-sur-Alzette, Ci -00501  00501                % 14555 RGTR--
+220402014 Esch-sur-Alzette, Bd -00504  00504                % 14555 RGTR--
+220402019 Esch-sur-Alzette, ru -00504  00504                % 14555 RGTR--
+220402045 Esch-sur-Alzette, Pa -00505  00505                % 14555 RGTR--
+220402034 Esch-sur-Alzette, Ga -00506  00506                % 14555 RGTR--
+220402097 Esch-sur-Alzette, Bd -00507  00507                % 14555 RGTR--
+220402049 Esch-sur-Alzette, Cl -00508  00508                % 14555 RGTR--
+220402076 Esch-sur-Alzette, Bd -00510  00510                % 14555 RGTR--
+200415019 Hollerich, Jean-Bapt -00525  00525                % 14555 RGTR--
+200415003 Hollerich, Fonderie  -00526  00526                % 14555 RGTR--
+200405046 Luxembourg, Gare Roc -00530  00530                % 14555 RGTR--
+200405005 Centre, Badanstalt   -00536  00536                % 14555 RGTR--
+200419013 Limpertsberg, Crispi -00538  00538                % 14555 RGTR--
+200410003 Eich, Eecher Plaz    -00539  00539                % 14555 RGTR--
+200410004 Eich, Eecher Klinick -00540  00540                % 14555 RGTR--
+200409007 Dommeldange, Emile M -00541  00541                % 14555 RGTR--
+200402002 Beggen, Binnchen     -00542  00542                % 14555 RGTR--
+200402001 Beggen, Bastogne     -00544  00544                % 14555 RGTR--
+201001004 Bereldange, Rue du P -00544  00544                % 14555 RGTR--
+201001002 Bereldange, Police   -00546  00546                % 14555 RGTR--
+200801009 Steinsel, Zone Indus  00550                       % 14555 RGTR--
+*Z 14556 RGTR--                                             % 14556 RGTR--
+*L 60U      220203009 200801009  01235  01342               % 14556 RGTR--
+*R 1 200801009 220203009 200801009  01235  01342            % 14556 RGTR--
+*G 060 220203009 200801009  01235  01342                    % 14556 RGTR--
+*A VE 220203009 200801009 000033  01235  01342              % 14556 RGTR--
+*I FD 220203009 200801009        0001149  01235  01342      % 14556 RGTR--
+220203009 Niederkorn, Moartpla         01235                % 14556 RGTR--
+220201003 Differdange, Arbed   -01237  01237                % 14556 RGTR--
+220201019 Differdange, Fousban -01238  01238                % 14556 RGTR--
+220201039 Differdange, Profi   -01239  01239                % 14556 RGTR--
+221304004 Soleuvre, Cité Kauff -01242  01242                % 14556 RGTR--
+221304007 Soleuvre, Déifferden -01242  01242                % 14556 RGTR--
+221304005 Soleuvre, Cité Schei -01243  01243                % 14556 RGTR--
+221304009 Soleuvre, Emile Mayr -01244  01244                % 14556 RGTR--
+221304012 Soleuvre, Place de l -01244  01244                % 14556 RGTR--
+221304011 Soleuvre, Jugendhaus -01245  01245                % 14556 RGTR--
+221301013 Belvaux, Paquebierg  -01246  01246                % 14556 RGTR--
+221301028 Belvaux, Ënnert Zolw -01247  01247                % 14556 RGTR--
+221301007 Belvaux, Gemeng      -01248  01248                % 14556 RGTR--
+221301009 Belvaux, Henri Tudor -01249  01249                % 14556 RGTR--
+221301016 Belvaux, Roudewee    -01250  01250                % 14556 RGTR--
+221301005 Belvaux, Brill       -01250  01250                % 14556 RGTR--
+220402079 Esch-sur-Alzette, Ra -01252  01252                % 14556 RGTR--
+220402106 Esch-sur-Alzette, Tr -01252  01252                % 14556 RGTR--
+220402126 Esch-sur-Alzette, Ci -01253  01253                % 14556 RGTR--
+220402014 Esch-sur-Alzette, Bd -01256  01256                % 14556 RGTR--
+220402019 Esch-sur-Alzette, ru -01256  01256                % 14556 RGTR--
+220402045 Esch-sur-Alzette, Pa -01257  01257                % 14556 RGTR--
+220402034 Esch-sur-Alzette, Ga -01258  01258                % 14556 RGTR--
+220402097 Esch-sur-Alzette, Bd -01259  01259                % 14556 RGTR--
+220402049 Esch-sur-Alzette, Cl -01300  01300                % 14556 RGTR--
+220402076 Esch-sur-Alzette, Bd -01302  01302                % 14556 RGTR--
+200415019 Hollerich, Jean-Bapt -01317  01317                % 14556 RGTR--
+200415003 Hollerich, Fonderie  -01318  01318                % 14556 RGTR--
+200405046 Luxembourg, Gare Roc -01322  01322                % 14556 RGTR--
+200405005 Centre, Badanstalt   -01328  01328                % 14556 RGTR--
+200419013 Limpertsberg, Crispi -01330  01330                % 14556 RGTR--
+200410003 Eich, Eecher Plaz    -01331  01331                % 14556 RGTR--
+200410004 Eich, Eecher Klinick -01332  01332                % 14556 RGTR--
+200409007 Dommeldange, Emile M -01333  01333                % 14556 RGTR--
+200402002 Beggen, Binnchen     -01334  01334                % 14556 RGTR--
+200402001 Beggen, Bastogne     -01336  01336                % 14556 RGTR--
+201001004 Bereldange, Rue du P -01336  01336                % 14556 RGTR--
+201001002 Bereldange, Police   -01338  01338                % 14556 RGTR--
+200801009 Steinsel, Zone Indus  01342                       % 14556 RGTR--
+*Z 14557 RGTR--                                             % 14557 RGTR--
+*L 60U      220203009 200801009  02043  02150               % 14557 RGTR--
+*R 1 200801009 220203009 200801009  02043  02150            % 14557 RGTR--
+*G 060 220203009 200801009  02043  02150                    % 14557 RGTR--
+*A VE 220203009 200801009 000033  02043  02150              % 14557 RGTR--
+*I FD 220203009 200801009        0003106  02043  02150      % 14557 RGTR--
+220203009 Niederkorn, Moartpla         02043                % 14557 RGTR--
+220201003 Differdange, Arbed   -02045  02045                % 14557 RGTR--
+220201019 Differdange, Fousban -02046  02046                % 14557 RGTR--
+220201039 Differdange, Profi   -02047  02047                % 14557 RGTR--
+221304004 Soleuvre, Cité Kauff -02050  02050                % 14557 RGTR--
+221304007 Soleuvre, Déifferden -02050  02050                % 14557 RGTR--
+221304005 Soleuvre, Cité Schei -02051  02051                % 14557 RGTR--
+221304009 Soleuvre, Emile Mayr -02052  02052                % 14557 RGTR--
+221304012 Soleuvre, Place de l -02052  02052                % 14557 RGTR--
+221304011 Soleuvre, Jugendhaus -02053  02053                % 14557 RGTR--
+221301013 Belvaux, Paquebierg  -02054  02054                % 14557 RGTR--
+221301028 Belvaux, Ënnert Zolw -02055  02055                % 14557 RGTR--
+221301007 Belvaux, Gemeng      -02056  02056                % 14557 RGTR--
+221301009 Belvaux, Henri Tudor -02057  02057                % 14557 RGTR--
+221301016 Belvaux, Roudewee    -02058  02058                % 14557 RGTR--
+221301005 Belvaux, Brill       -02058  02058                % 14557 RGTR--
+220402079 Esch-sur-Alzette, Ra -02100  02100                % 14557 RGTR--
+220402106 Esch-sur-Alzette, Tr -02100  02100                % 14557 RGTR--
+220402126 Esch-sur-Alzette, Ci -02101  02101                % 14557 RGTR--
+220402014 Esch-sur-Alzette, Bd -02104  02104                % 14557 RGTR--
+220402019 Esch-sur-Alzette, ru -02104  02104                % 14557 RGTR--
+220402045 Esch-sur-Alzette, Pa -02105  02105                % 14557 RGTR--
+220402034 Esch-sur-Alzette, Ga -02106  02106                % 14557 RGTR--
+220402097 Esch-sur-Alzette, Bd -02107  02107                % 14557 RGTR--
+220402049 Esch-sur-Alzette, Cl -02108  02108                % 14557 RGTR--
+220402076 Esch-sur-Alzette, Bd -02110  02110                % 14557 RGTR--
+200415019 Hollerich, Jean-Bapt -02125  02125                % 14557 RGTR--
+200415003 Hollerich, Fonderie  -02126  02126                % 14557 RGTR--
+200405046 Luxembourg, Gare Roc -02130  02130                % 14557 RGTR--
+200405005 Centre, Badanstalt   -02136  02136                % 14557 RGTR--
+200419013 Limpertsberg, Crispi -02138  02138                % 14557 RGTR--
+200410003 Eich, Eecher Plaz    -02139  02139                % 14557 RGTR--
+200410004 Eich, Eecher Klinick -02140  02140                % 14557 RGTR--
+200409007 Dommeldange, Emile M -02141  02141                % 14557 RGTR--
+200402002 Beggen, Binnchen     -02142  02142                % 14557 RGTR--
+200402001 Beggen, Bastogne     -02144  02144                % 14557 RGTR--
+201001004 Bereldange, Rue du P -02144  02144                % 14557 RGTR--
+201001002 Bereldange, Police   -02146  02146                % 14557 RGTR--
+200801009 Steinsel, Zone Indus  02150                       % 14557 RGTR--
+*Z 14558 RGTR--                                             % 14558 RGTR--
+*L 60U      200801009 220203009  01407  01517               % 14558 RGTR--
+*R 2 220203009 200801009 220203009  01407  01517            % 14558 RGTR--
+*G 060 200801009 220203009  01407  01517                    % 14558 RGTR--
+*A VE 200801009 220203009 000033  01407  01517              % 14558 RGTR--
+*I FD 200801009 220203009        0003091  01407  01517      % 14558 RGTR--
+200801009 Steinsel, Zone Indus         01407                % 14558 RGTR--
+201001002 Bereldange, Police    01410 -01410                % 14558 RGTR--
+200402007 Beggen, Rue du Pont   01412 -01412                % 14558 RGTR--
+200402001 Beggen, Bastogne      01413 -01413                % 14558 RGTR--
+200402002 Beggen, Binnchen      01414 -01414                % 14558 RGTR--
+200409007 Dommeldange, Emile M  01415 -01415                % 14558 RGTR--
+200410004 Eich, Eecher Klinick  01416 -01416                % 14558 RGTR--
+200410003 Eich, Eecher Plaz     01417 -01417                % 14558 RGTR--
+200419013 Limpertsberg, Crispi  01418 -01418                % 14558 RGTR--
+200405005 Centre, Badanstalt    01420 -01420                % 14558 RGTR--
+200405046 Luxembourg, Gare Roc  01429 -01429                % 14558 RGTR--
+200415003 Hollerich, Fonderie   01433 -01433                % 14558 RGTR--
+200415006 Hollerich, Jean-Bapt  01435 -01435                % 14558 RGTR--
+220402076 Esch-sur-Alzette, Bd  01450 -01450                % 14558 RGTR--
+220402049 Esch-sur-Alzette, Cl  01451 -01451                % 14558 RGTR--
+220402072 Esch-sur-Alzette, Pl  01453 -01453                % 14558 RGTR--
+220402123 Esch-sur-Alzette, Au  01455 -01455                % 14558 RGTR--
+220402019 Esch-sur-Alzette, ru  01456 -01456                % 14558 RGTR--
+220402014 Esch-sur-Alzette, Bd  01457 -01457                % 14558 RGTR--
+220402126 Esch-sur-Alzette, Ci  01459 -01459                % 14558 RGTR--
+220402106 Esch-sur-Alzette, Tr  01500 -01500                % 14558 RGTR--
+220402079 Esch-sur-Alzette, Ra  01501 -01501                % 14558 RGTR--
+221301005 Belvaux, Brill        01503 -01503                % 14558 RGTR--
+221301016 Belvaux, Roudewee     01503 -01503                % 14558 RGTR--
+221301009 Belvaux, Henri Tudor  01504 -01504                % 14558 RGTR--
+221301007 Belvaux, Gemeng       01504 -01504                % 14558 RGTR--
+221301028 Belvaux, Ënnert Zolw  01505 -01505                % 14558 RGTR--
+221301013 Belvaux, Paquebierg   01506 -01506                % 14558 RGTR--
+221304011 Soleuvre, Jugendhaus  01507 -01507                % 14558 RGTR--
+221304012 Soleuvre, Place de l  01508 -01508                % 14558 RGTR--
+221304009 Soleuvre, Emile Mayr  01509 -01509                % 14558 RGTR--
+221304005 Soleuvre, Cité Schei  01510 -01510                % 14558 RGTR--
+221304007 Soleuvre, Déifferden  01511 -01511                % 14558 RGTR--
+220201023 Differdange, Gewännc  01511 -01511                % 14558 RGTR--
+220201026 Differdange, Hansen   01513 -01513                % 14558 RGTR--
+220201019 Differdange, Fousban  01515 -01515                % 14558 RGTR--
+220201003 Differdange, Arbed    01515 -01515                % 14558 RGTR--
+220203009 Niederkorn, Moartpla  01517                       % 14558 RGTR--
+*Z 14559 RGTR--                                             % 14559 RGTR--
+*L 60U      200801009 220203009  02207  02317               % 14559 RGTR--
+*R 2 220203009 200801009 220203009  02207  02317            % 14559 RGTR--
+*G 060 200801009 220203009  02207  02317                    % 14559 RGTR--
+*A VE 200801009 220203009 000033  02207  02317              % 14559 RGTR--
+*I FD 200801009 220203009        0003184  02207  02317      % 14559 RGTR--
+200801009 Steinsel, Zone Indus         02207                % 14559 RGTR--
+201001002 Bereldange, Police    02210 -02210                % 14559 RGTR--
+200402007 Beggen, Rue du Pont   02212 -02212                % 14559 RGTR--
+200402001 Beggen, Bastogne      02213 -02213                % 14559 RGTR--
+200402002 Beggen, Binnchen      02214 -02214                % 14559 RGTR--
+200409007 Dommeldange, Emile M  02215 -02215                % 14559 RGTR--
+200410004 Eich, Eecher Klinick  02216 -02216                % 14559 RGTR--
+200410003 Eich, Eecher Plaz     02217 -02217                % 14559 RGTR--
+200419013 Limpertsberg, Crispi  02218 -02218                % 14559 RGTR--
+200405005 Centre, Badanstalt    02220 -02220                % 14559 RGTR--
+200405046 Luxembourg, Gare Roc  02229 -02229                % 14559 RGTR--
+200415003 Hollerich, Fonderie   02233 -02233                % 14559 RGTR--
+200415006 Hollerich, Jean-Bapt  02235 -02235                % 14559 RGTR--
+220402076 Esch-sur-Alzette, Bd  02250 -02250                % 14559 RGTR--
+220402049 Esch-sur-Alzette, Cl  02251 -02251                % 14559 RGTR--
+220402072 Esch-sur-Alzette, Pl  02253 -02253                % 14559 RGTR--
+220402123 Esch-sur-Alzette, Au  02255 -02255                % 14559 RGTR--
+220402019 Esch-sur-Alzette, ru  02256 -02256                % 14559 RGTR--
+220402014 Esch-sur-Alzette, Bd  02257 -02257                % 14559 RGTR--
+220402126 Esch-sur-Alzette, Ci  02259 -02259                % 14559 RGTR--
+220402106 Esch-sur-Alzette, Tr  02300 -02300                % 14559 RGTR--
+220402079 Esch-sur-Alzette, Ra  02301 -02301                % 14559 RGTR--
+221301005 Belvaux, Brill        02303 -02303                % 14559 RGTR--
+221301016 Belvaux, Roudewee     02303 -02303                % 14559 RGTR--
+221301009 Belvaux, Henri Tudor  02304 -02304                % 14559 RGTR--
+221301007 Belvaux, Gemeng       02304 -02304                % 14559 RGTR--
+221301028 Belvaux, Ënnert Zolw  02305 -02305                % 14559 RGTR--
+221301013 Belvaux, Paquebierg   02306 -02306                % 14559 RGTR--
+221304011 Soleuvre, Jugendhaus  02307 -02307                % 14559 RGTR--
+221304012 Soleuvre, Place de l  02308 -02308                % 14559 RGTR--
+221304009 Soleuvre, Emile Mayr  02309 -02309                % 14559 RGTR--
+221304005 Soleuvre, Cité Schei  02310 -02310                % 14559 RGTR--
+221304007 Soleuvre, Déifferden  02311 -02311                % 14559 RGTR--
+220201023 Differdange, Gewännc  02311 -02311                % 14559 RGTR--
+220201026 Differdange, Hansen   02313 -02313                % 14559 RGTR--
+220201019 Differdange, Fousban  02315 -02315                % 14559 RGTR--
+220201003 Differdange, Arbed    02315 -02315                % 14559 RGTR--
+220203009 Niederkorn, Moartpla  02317                       % 14559 RGTR--
+*Z 14560 RGTR--                                             % 14560 RGTR--
+*L 60U      200801009 220203009  00607  00717               % 14560 RGTR--
+*R 2 220203009 200801009 220203009  00607  00717            % 14560 RGTR--
+*G 060 200801009 220203009  00607  00717                    % 14560 RGTR--
+*A VE 200801009 220203009 000327  00607  00717              % 14560 RGTR--
+*I FD 200801009 220203009        0003042  00607  00717      % 14560 RGTR--
+200801009 Steinsel, Zone Indus         00607                % 14560 RGTR--
+201001002 Bereldange, Police    00610 -00610                % 14560 RGTR--
+200402007 Beggen, Rue du Pont   00612 -00612                % 14560 RGTR--
+200402001 Beggen, Bastogne      00613 -00613                % 14560 RGTR--
+200402002 Beggen, Binnchen      00614 -00614                % 14560 RGTR--
+200409007 Dommeldange, Emile M  00615 -00615                % 14560 RGTR--
+200410004 Eich, Eecher Klinick  00616 -00616                % 14560 RGTR--
+200410003 Eich, Eecher Plaz     00617 -00617                % 14560 RGTR--
+200419013 Limpertsberg, Crispi  00618 -00618                % 14560 RGTR--
+200405005 Centre, Badanstalt    00620 -00620                % 14560 RGTR--
+200405046 Luxembourg, Gare Roc  00629 -00629                % 14560 RGTR--
+200415003 Hollerich, Fonderie   00633 -00633                % 14560 RGTR--
+200415006 Hollerich, Jean-Bapt  00635 -00635                % 14560 RGTR--
+220402076 Esch-sur-Alzette, Bd  00650 -00650                % 14560 RGTR--
+220402049 Esch-sur-Alzette, Cl  00651 -00651                % 14560 RGTR--
+220402072 Esch-sur-Alzette, Pl  00653 -00653                % 14560 RGTR--
+220402123 Esch-sur-Alzette, Au  00655 -00655                % 14560 RGTR--
+220402019 Esch-sur-Alzette, ru  00656 -00656                % 14560 RGTR--
+220402014 Esch-sur-Alzette, Bd  00657 -00657                % 14560 RGTR--
+220402126 Esch-sur-Alzette, Ci  00659 -00659                % 14560 RGTR--
+220402106 Esch-sur-Alzette, Tr  00700 -00700                % 14560 RGTR--
+220402079 Esch-sur-Alzette, Ra  00701 -00701                % 14560 RGTR--
+221301005 Belvaux, Brill        00703 -00703                % 14560 RGTR--
+221301016 Belvaux, Roudewee     00703 -00703                % 14560 RGTR--
+221301009 Belvaux, Henri Tudor  00704 -00704                % 14560 RGTR--
+221301007 Belvaux, Gemeng       00704 -00704                % 14560 RGTR--
+221301028 Belvaux, Ënnert Zolw  00705 -00705                % 14560 RGTR--
+221301013 Belvaux, Paquebierg   00706 -00706                % 14560 RGTR--
+221304011 Soleuvre, Jugendhaus  00707 -00707                % 14560 RGTR--
+221304012 Soleuvre, Place de l  00708 -00708                % 14560 RGTR--
+221304009 Soleuvre, Emile Mayr  00709 -00709                % 14560 RGTR--
+221304005 Soleuvre, Cité Schei  00710 -00710                % 14560 RGTR--
+221304007 Soleuvre, Déifferden  00711 -00711                % 14560 RGTR--
+220201023 Differdange, Gewännc  00711 -00711                % 14560 RGTR--
+220201026 Differdange, Hansen   00713 -00713                % 14560 RGTR--
+220201019 Differdange, Fousban  00715 -00715                % 14560 RGTR--
+220201003 Differdange, Arbed    00715 -00715                % 14560 RGTR--
+220203009 Niederkorn, Moartpla  00717                       % 14560 RGTR--
+*Z 14561 RGTR--                                             % 14561 RGTR--
+*L 60U      220203009 200801009  00443  00550               % 14561 RGTR--
+*R 1 200801009 220203009 200801009  00443  00550            % 14561 RGTR--
+*G 060 220203009 200801009  00443  00550                    % 14561 RGTR--
+*A VE 220203009 200801009 000034  00443  00550              % 14561 RGTR--
+*I FD 220203009 200801009        0003099  00443  00550      % 14561 RGTR--
+220203009 Niederkorn, Moartpla         00443                % 14561 RGTR--
+220201003 Differdange, Arbed   -00445  00445                % 14561 RGTR--
+220201019 Differdange, Fousban -00446  00446                % 14561 RGTR--
+220201039 Differdange, Profi   -00447  00447                % 14561 RGTR--
+221304004 Soleuvre, Cité Kauff -00450  00450                % 14561 RGTR--
+221304007 Soleuvre, Déifferden -00450  00450                % 14561 RGTR--
+221304005 Soleuvre, Cité Schei -00451  00451                % 14561 RGTR--
+221304009 Soleuvre, Emile Mayr -00452  00452                % 14561 RGTR--
+221304012 Soleuvre, Place de l -00452  00452                % 14561 RGTR--
+221304011 Soleuvre, Jugendhaus -00453  00453                % 14561 RGTR--
+221301013 Belvaux, Paquebierg  -00454  00454                % 14561 RGTR--
+221301028 Belvaux, Ënnert Zolw -00455  00455                % 14561 RGTR--
+221301007 Belvaux, Gemeng      -00456  00456                % 14561 RGTR--
+221301009 Belvaux, Henri Tudor -00457  00457                % 14561 RGTR--
+221301016 Belvaux, Roudewee    -00458  00458                % 14561 RGTR--
+221301005 Belvaux, Brill       -00458  00458                % 14561 RGTR--
+220402079 Esch-sur-Alzette, Ra -00500  00500                % 14561 RGTR--
+220402106 Esch-sur-Alzette, Tr -00500  00500                % 14561 RGTR--
+220402126 Esch-sur-Alzette, Ci -00501  00501                % 14561 RGTR--
+220402014 Esch-sur-Alzette, Bd -00504  00504                % 14561 RGTR--
+220402019 Esch-sur-Alzette, ru -00504  00504                % 14561 RGTR--
+220402045 Esch-sur-Alzette, Pa -00505  00505                % 14561 RGTR--
+220402034 Esch-sur-Alzette, Ga -00506  00506                % 14561 RGTR--
+220402097 Esch-sur-Alzette, Bd -00507  00507                % 14561 RGTR--
+220402049 Esch-sur-Alzette, Cl -00508  00508                % 14561 RGTR--
+220402076 Esch-sur-Alzette, Bd -00510  00510                % 14561 RGTR--
+200415019 Hollerich, Jean-Bapt -00525  00525                % 14561 RGTR--
+200415003 Hollerich, Fonderie  -00526  00526                % 14561 RGTR--
+200405046 Luxembourg, Gare Roc -00530  00530                % 14561 RGTR--
+200405005 Centre, Badanstalt   -00536  00536                % 14561 RGTR--
+200419013 Limpertsberg, Crispi -00538  00538                % 14561 RGTR--
+200410003 Eich, Eecher Plaz    -00539  00539                % 14561 RGTR--
+200410004 Eich, Eecher Klinick -00540  00540                % 14561 RGTR--
+200409007 Dommeldange, Emile M -00541  00541                % 14561 RGTR--
+200402002 Beggen, Binnchen     -00542  00542                % 14561 RGTR--
+200402001 Beggen, Bastogne     -00544  00544                % 14561 RGTR--
+201001004 Bereldange, Rue du P -00544  00544                % 14561 RGTR--
+201001002 Bereldange, Police   -00546  00546                % 14561 RGTR--
+200801009 Steinsel, Zone Indus  00550                       % 14561 RGTR--
+*Z 14562 RGTR--                                             % 14562 RGTR--
+*L 60U      220203009 200801009  01235  01342               % 14562 RGTR--
+*R 1 200801009 220203009 200801009  01235  01342            % 14562 RGTR--
+*G 060 220203009 200801009  01235  01342                    % 14562 RGTR--
+*A VE 220203009 200801009 000034  01235  01342              % 14562 RGTR--
+*I FD 220203009 200801009        0001149  01235  01342      % 14562 RGTR--
+220203009 Niederkorn, Moartpla         01235                % 14562 RGTR--
+220201003 Differdange, Arbed   -01237  01237                % 14562 RGTR--
+220201019 Differdange, Fousban -01238  01238                % 14562 RGTR--
+220201039 Differdange, Profi   -01239  01239                % 14562 RGTR--
+221304004 Soleuvre, Cité Kauff -01242  01242                % 14562 RGTR--
+221304007 Soleuvre, Déifferden -01242  01242                % 14562 RGTR--
+221304005 Soleuvre, Cité Schei -01243  01243                % 14562 RGTR--
+221304009 Soleuvre, Emile Mayr -01244  01244                % 14562 RGTR--
+221304012 Soleuvre, Place de l -01244  01244                % 14562 RGTR--
+221304011 Soleuvre, Jugendhaus -01245  01245                % 14562 RGTR--
+221301013 Belvaux, Paquebierg  -01246  01246                % 14562 RGTR--
+221301028 Belvaux, Ënnert Zolw -01247  01247                % 14562 RGTR--
+221301007 Belvaux, Gemeng      -01248  01248                % 14562 RGTR--
+221301009 Belvaux, Henri Tudor -01249  01249                % 14562 RGTR--
+221301016 Belvaux, Roudewee    -01250  01250                % 14562 RGTR--
+221301005 Belvaux, Brill       -01250  01250                % 14562 RGTR--
+220402079 Esch-sur-Alzette, Ra -01252  01252                % 14562 RGTR--
+220402106 Esch-sur-Alzette, Tr -01252  01252                % 14562 RGTR--
+220402126 Esch-sur-Alzette, Ci -01253  01253                % 14562 RGTR--
+220402014 Esch-sur-Alzette, Bd -01256  01256                % 14562 RGTR--
+220402019 Esch-sur-Alzette, ru -01256  01256                % 14562 RGTR--
+220402045 Esch-sur-Alzette, Pa -01257  01257                % 14562 RGTR--
+220402034 Esch-sur-Alzette, Ga -01258  01258                % 14562 RGTR--
+220402097 Esch-sur-Alzette, Bd -01259  01259                % 14562 RGTR--
+220402049 Esch-sur-Alzette, Cl -01300  01300                % 14562 RGTR--
+220402076 Esch-sur-Alzette, Bd -01302  01302                % 14562 RGTR--
+200415019 Hollerich, Jean-Bapt -01317  01317                % 14562 RGTR--
+200415003 Hollerich, Fonderie  -01318  01318                % 14562 RGTR--
+200405046 Luxembourg, Gare Roc -01322  01322                % 14562 RGTR--
+200405005 Centre, Badanstalt   -01328  01328                % 14562 RGTR--
+200419013 Limpertsberg, Crispi -01330  01330                % 14562 RGTR--
+200410003 Eich, Eecher Plaz    -01331  01331                % 14562 RGTR--
+200410004 Eich, Eecher Klinick -01332  01332                % 14562 RGTR--
+200409007 Dommeldange, Emile M -01333  01333                % 14562 RGTR--
+200402002 Beggen, Binnchen     -01334  01334                % 14562 RGTR--
+200402001 Beggen, Bastogne     -01336  01336                % 14562 RGTR--
+201001004 Bereldange, Rue du P -01336  01336                % 14562 RGTR--
+201001002 Bereldange, Police   -01338  01338                % 14562 RGTR--
+200801009 Steinsel, Zone Indus  01342                       % 14562 RGTR--
+*Z 14563 RGTR--                                             % 14563 RGTR--
+*L 60U      220203009 200801009  02043  02150               % 14563 RGTR--
+*R 1 200801009 220203009 200801009  02043  02150            % 14563 RGTR--
+*G 060 220203009 200801009  02043  02150                    % 14563 RGTR--
+*A VE 220203009 200801009 000034  02043  02150              % 14563 RGTR--
+*I FD 220203009 200801009        0003106  02043  02150      % 14563 RGTR--
+220203009 Niederkorn, Moartpla         02043                % 14563 RGTR--
+220201003 Differdange, Arbed   -02045  02045                % 14563 RGTR--
+220201019 Differdange, Fousban -02046  02046                % 14563 RGTR--
+220201039 Differdange, Profi   -02047  02047                % 14563 RGTR--
+221304004 Soleuvre, Cité Kauff -02050  02050                % 14563 RGTR--
+221304007 Soleuvre, Déifferden -02050  02050                % 14563 RGTR--
+221304005 Soleuvre, Cité Schei -02051  02051                % 14563 RGTR--
+221304009 Soleuvre, Emile Mayr -02052  02052                % 14563 RGTR--
+221304012 Soleuvre, Place de l -02052  02052                % 14563 RGTR--
+221304011 Soleuvre, Jugendhaus -02053  02053                % 14563 RGTR--
+221301013 Belvaux, Paquebierg  -02054  02054                % 14563 RGTR--
+221301028 Belvaux, Ënnert Zolw -02055  02055                % 14563 RGTR--
+221301007 Belvaux, Gemeng      -02056  02056                % 14563 RGTR--
+221301009 Belvaux, Henri Tudor -02057  02057                % 14563 RGTR--
+221301016 Belvaux, Roudewee    -02058  02058                % 14563 RGTR--
+221301005 Belvaux, Brill       -02058  02058                % 14563 RGTR--
+220402079 Esch-sur-Alzette, Ra -02100  02100                % 14563 RGTR--
+220402106 Esch-sur-Alzette, Tr -02100  02100                % 14563 RGTR--
+220402126 Esch-sur-Alzette, Ci -02101  02101                % 14563 RGTR--
+220402014 Esch-sur-Alzette, Bd -02104  02104                % 14563 RGTR--
+220402019 Esch-sur-Alzette, ru -02104  02104                % 14563 RGTR--
+220402045 Esch-sur-Alzette, Pa -02105  02105                % 14563 RGTR--
+220402034 Esch-sur-Alzette, Ga -02106  02106                % 14563 RGTR--
+220402097 Esch-sur-Alzette, Bd -02107  02107                % 14563 RGTR--
+220402049 Esch-sur-Alzette, Cl -02108  02108                % 14563 RGTR--
+220402076 Esch-sur-Alzette, Bd -02110  02110                % 14563 RGTR--
+200415019 Hollerich, Jean-Bapt -02125  02125                % 14563 RGTR--
+200415003 Hollerich, Fonderie  -02126  02126                % 14563 RGTR--
+200405046 Luxembourg, Gare Roc -02130  02130                % 14563 RGTR--
+200405005 Centre, Badanstalt   -02136  02136                % 14563 RGTR--
+200419013 Limpertsberg, Crispi -02138  02138                % 14563 RGTR--
+200410003 Eich, Eecher Plaz    -02139  02139                % 14563 RGTR--
+200410004 Eich, Eecher Klinick -02140  02140                % 14563 RGTR--
+200409007 Dommeldange, Emile M -02141  02141                % 14563 RGTR--
+200402002 Beggen, Binnchen     -02142  02142                % 14563 RGTR--
+200402001 Beggen, Bastogne     -02144  02144                % 14563 RGTR--
+201001004 Bereldange, Rue du P -02144  02144                % 14563 RGTR--
+201001002 Bereldange, Police   -02146  02146                % 14563 RGTR--
+200801009 Steinsel, Zone Indus  02150                       % 14563 RGTR--
+*Z 14564 RGTR--                                             % 14564 RGTR--
+*L 60U      200801009 220203009  01407  01517               % 14564 RGTR--
+*R 2 220203009 200801009 220203009  01407  01517            % 14564 RGTR--
+*G 060 200801009 220203009  01407  01517                    % 14564 RGTR--
+*A VE 200801009 220203009 000034  01407  01517              % 14564 RGTR--
+*I FD 200801009 220203009        0003091  01407  01517      % 14564 RGTR--
+200801009 Steinsel, Zone Indus         01407                % 14564 RGTR--
+201001002 Bereldange, Police    01410 -01410                % 14564 RGTR--
+200402007 Beggen, Rue du Pont   01412 -01412                % 14564 RGTR--
+200402001 Beggen, Bastogne      01413 -01413                % 14564 RGTR--
+200402002 Beggen, Binnchen      01414 -01414                % 14564 RGTR--
+200409007 Dommeldange, Emile M  01415 -01415                % 14564 RGTR--
+200410004 Eich, Eecher Klinick  01416 -01416                % 14564 RGTR--
+200410003 Eich, Eecher Plaz     01417 -01417                % 14564 RGTR--
+200419013 Limpertsberg, Crispi  01418 -01418                % 14564 RGTR--
+200405005 Centre, Badanstalt    01420 -01420                % 14564 RGTR--
+200405046 Luxembourg, Gare Roc  01429 -01429                % 14564 RGTR--
+200415003 Hollerich, Fonderie   01433 -01433                % 14564 RGTR--
+200415006 Hollerich, Jean-Bapt  01435 -01435                % 14564 RGTR--
+220402076 Esch-sur-Alzette, Bd  01450 -01450                % 14564 RGTR--
+220402049 Esch-sur-Alzette, Cl  01451 -01451                % 14564 RGTR--
+220402072 Esch-sur-Alzette, Pl  01453 -01453                % 14564 RGTR--
+220402123 Esch-sur-Alzette, Au  01455 -01455                % 14564 RGTR--
+220402019 Esch-sur-Alzette, ru  01456 -01456                % 14564 RGTR--
+220402014 Esch-sur-Alzette, Bd  01457 -01457                % 14564 RGTR--
+220402126 Esch-sur-Alzette, Ci  01459 -01459                % 14564 RGTR--
+220402106 Esch-sur-Alzette, Tr  01500 -01500                % 14564 RGTR--
+220402079 Esch-sur-Alzette, Ra  01501 -01501                % 14564 RGTR--
+221301005 Belvaux, Brill        01503 -01503                % 14564 RGTR--
+221301016 Belvaux, Roudewee     01503 -01503                % 14564 RGTR--
+221301009 Belvaux, Henri Tudor  01504 -01504                % 14564 RGTR--
+221301007 Belvaux, Gemeng       01504 -01504                % 14564 RGTR--
+221301028 Belvaux, Ënnert Zolw  01505 -01505                % 14564 RGTR--
+221301013 Belvaux, Paquebierg   01506 -01506                % 14564 RGTR--
+221304011 Soleuvre, Jugendhaus  01507 -01507                % 14564 RGTR--
+221304012 Soleuvre, Place de l  01508 -01508                % 14564 RGTR--
+221304009 Soleuvre, Emile Mayr  01509 -01509                % 14564 RGTR--
+221304005 Soleuvre, Cité Schei  01510 -01510                % 14564 RGTR--
+221304007 Soleuvre, Déifferden  01511 -01511                % 14564 RGTR--
+220201023 Differdange, Gewännc  01511 -01511                % 14564 RGTR--
+220201026 Differdange, Hansen   01513 -01513                % 14564 RGTR--
+220201019 Differdange, Fousban  01515 -01515                % 14564 RGTR--
+220201003 Differdange, Arbed    01515 -01515                % 14564 RGTR--
+220203009 Niederkorn, Moartpla  01517                       % 14564 RGTR--
+*Z 14565 RGTR--                                             % 14565 RGTR--
+*L 60U      200801009 220203009  02207  02317               % 14565 RGTR--
+*R 2 220203009 200801009 220203009  02207  02317            % 14565 RGTR--
+*G 060 200801009 220203009  02207  02317                    % 14565 RGTR--
+*A VE 200801009 220203009 000034  02207  02317              % 14565 RGTR--
+*I FD 200801009 220203009        0003184  02207  02317      % 14565 RGTR--
+200801009 Steinsel, Zone Indus         02207                % 14565 RGTR--
+201001002 Bereldange, Police    02210 -02210                % 14565 RGTR--
+200402007 Beggen, Rue du Pont   02212 -02212                % 14565 RGTR--
+200402001 Beggen, Bastogne      02213 -02213                % 14565 RGTR--
+200402002 Beggen, Binnchen      02214 -02214                % 14565 RGTR--
+200409007 Dommeldange, Emile M  02215 -02215                % 14565 RGTR--
+200410004 Eich, Eecher Klinick  02216 -02216                % 14565 RGTR--
+200410003 Eich, Eecher Plaz     02217 -02217                % 14565 RGTR--
+200419013 Limpertsberg, Crispi  02218 -02218                % 14565 RGTR--
+200405005 Centre, Badanstalt    02220 -02220                % 14565 RGTR--
+200405046 Luxembourg, Gare Roc  02229 -02229                % 14565 RGTR--
+200415003 Hollerich, Fonderie   02233 -02233                % 14565 RGTR--
+200415006 Hollerich, Jean-Bapt  02235 -02235                % 14565 RGTR--
+220402076 Esch-sur-Alzette, Bd  02250 -02250                % 14565 RGTR--
+220402049 Esch-sur-Alzette, Cl  02251 -02251                % 14565 RGTR--
+220402072 Esch-sur-Alzette, Pl  02253 -02253                % 14565 RGTR--
+220402123 Esch-sur-Alzette, Au  02255 -02255                % 14565 RGTR--
+220402019 Esch-sur-Alzette, ru  02256 -02256                % 14565 RGTR--
+220402014 Esch-sur-Alzette, Bd  02257 -02257                % 14565 RGTR--
+220402126 Esch-sur-Alzette, Ci  02259 -02259                % 14565 RGTR--
+220402106 Esch-sur-Alzette, Tr  02300 -02300                % 14565 RGTR--
+220402079 Esch-sur-Alzette, Ra  02301 -02301                % 14565 RGTR--
+221301005 Belvaux, Brill        02303 -02303                % 14565 RGTR--
+221301016 Belvaux, Roudewee     02303 -02303                % 14565 RGTR--
+221301009 Belvaux, Henri Tudor  02304 -02304                % 14565 RGTR--
+221301007 Belvaux, Gemeng       02304 -02304                % 14565 RGTR--
+221301028 Belvaux, Ënnert Zolw  02305 -02305                % 14565 RGTR--
+221301013 Belvaux, Paquebierg   02306 -02306                % 14565 RGTR--
+221304011 Soleuvre, Jugendhaus  02307 -02307                % 14565 RGTR--
+221304012 Soleuvre, Place de l  02308 -02308                % 14565 RGTR--
+221304009 Soleuvre, Emile Mayr  02309 -02309                % 14565 RGTR--
+221304005 Soleuvre, Cité Schei  02310 -02310                % 14565 RGTR--
+221304007 Soleuvre, Déifferden  02311 -02311                % 14565 RGTR--
+220201023 Differdange, Gewännc  02311 -02311                % 14565 RGTR--
+220201026 Differdange, Hansen   02313 -02313                % 14565 RGTR--
+220201019 Differdange, Fousban  02315 -02315                % 14565 RGTR--
+220201003 Differdange, Arbed    02315 -02315                % 14565 RGTR--
+220203009 Niederkorn, Moartpla  02317                       % 14565 RGTR--
+*Z 14566 RGTR--                                             % 14566 RGTR--
+*L 60U      200801009 220203009  00607  00717               % 14566 RGTR--
+*R 2 220203009 200801009 220203009  00607  00717            % 14566 RGTR--
+*G 060 200801009 220203009  00607  00717                    % 14566 RGTR--
+*A VE 200801009 220203009 000160  00607  00717              % 14566 RGTR--
+*I FD 200801009 220203009        0003042  00607  00717      % 14566 RGTR--
+200801009 Steinsel, Zone Indus         00607                % 14566 RGTR--
+201001002 Bereldange, Police    00610 -00610                % 14566 RGTR--
+200402007 Beggen, Rue du Pont   00612 -00612                % 14566 RGTR--
+200402001 Beggen, Bastogne      00613 -00613                % 14566 RGTR--
+200402002 Beggen, Binnchen      00614 -00614                % 14566 RGTR--
+200409007 Dommeldange, Emile M  00615 -00615                % 14566 RGTR--
+200410004 Eich, Eecher Klinick  00616 -00616                % 14566 RGTR--
+200410003 Eich, Eecher Plaz     00617 -00617                % 14566 RGTR--
+200419013 Limpertsberg, Crispi  00618 -00618                % 14566 RGTR--
+200405005 Centre, Badanstalt    00620 -00620                % 14566 RGTR--
+200405046 Luxembourg, Gare Roc  00629 -00629                % 14566 RGTR--
+200415003 Hollerich, Fonderie   00633 -00633                % 14566 RGTR--
+200415006 Hollerich, Jean-Bapt  00635 -00635                % 14566 RGTR--
+220402076 Esch-sur-Alzette, Bd  00650 -00650                % 14566 RGTR--
+220402049 Esch-sur-Alzette, Cl  00651 -00651                % 14566 RGTR--
+220402072 Esch-sur-Alzette, Pl  00653 -00653                % 14566 RGTR--
+220402123 Esch-sur-Alzette, Au  00655 -00655                % 14566 RGTR--
+220402019 Esch-sur-Alzette, ru  00656 -00656                % 14566 RGTR--
+220402014 Esch-sur-Alzette, Bd  00657 -00657                % 14566 RGTR--
+220402126 Esch-sur-Alzette, Ci  00659 -00659                % 14566 RGTR--
+220402106 Esch-sur-Alzette, Tr  00700 -00700                % 14566 RGTR--
+220402079 Esch-sur-Alzette, Ra  00701 -00701                % 14566 RGTR--
+221301005 Belvaux, Brill        00703 -00703                % 14566 RGTR--
+221301016 Belvaux, Roudewee     00703 -00703                % 14566 RGTR--
+221301009 Belvaux, Henri Tudor  00704 -00704                % 14566 RGTR--
+221301007 Belvaux, Gemeng       00704 -00704                % 14566 RGTR--
+221301028 Belvaux, Ënnert Zolw  00705 -00705                % 14566 RGTR--
+221301013 Belvaux, Paquebierg   00706 -00706                % 14566 RGTR--
+221304011 Soleuvre, Jugendhaus  00707 -00707                % 14566 RGTR--
+221304012 Soleuvre, Place de l  00708 -00708                % 14566 RGTR--
+221304009 Soleuvre, Emile Mayr  00709 -00709                % 14566 RGTR--
+221304005 Soleuvre, Cité Schei  00710 -00710                % 14566 RGTR--
+221304007 Soleuvre, Déifferden  00711 -00711                % 14566 RGTR--
+220201023 Differdange, Gewännc  00711 -00711                % 14566 RGTR--
+220201026 Differdange, Hansen   00713 -00713                % 14566 RGTR--
+220201019 Differdange, Fousban  00715 -00715                % 14566 RGTR--
+220201003 Differdange, Arbed    00715 -00715                % 14566 RGTR--
+220203009 Niederkorn, Moartpla  00717                       % 14566 RGTR--

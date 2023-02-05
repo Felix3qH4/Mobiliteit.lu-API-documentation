@@ -1,0 +1,70 @@
+*F 03 2
+*Z 18432 RGTR--                                             % 18432 RGTR--
+*L E10      200419021 210302002  01403  01448               % 18432 RGTR--
+*A cj 200419021 210302002 000042  01403  01448              % 18432 RGTR--
+*A ad 200419021 210302002 000042  01403  01448              % 18432 RGTR--
+*R 1 210302002 200419021 210302002  01403  01448            % 18432 RGTR--
+*G 072 200419021 210302002  01403  01448                    % 18432 RGTR--
+*A VE 200419021 210302002 000042  01403  01448              % 18432 RGTR--
+*I FD 200419021 210302002        0002093  01403  01448      % 18432 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 18432 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 18432 RGTR--
+200303001 Hesperange, Am Kelle  01423  01423                % 18432 RGTR--
+200303006 Hesperange, Urbengss  01425  01425                % 18432 RGTR--
+200301001 Alzingen, Gässel      01426  01426                % 18432 RGTR--
+201102003 Syren, Troudelermill  01432  01432                % 18432 RGTR--
+201102002 Syren, Nidderbaach    01432  01432                % 18432 RGTR--
+201102001 Syren, Klappsbréck    01433  01433                % 18432 RGTR--
+210301003 Dalheim, Waasserklap  01437  01437                % 18432 RGTR--
+210301002 Dalheim, Poste        01438  01438                % 18432 RGTR--
+210301004 Dalheim, Gemeng       01439  01439                % 18432 RGTR--
+210301001 Dalheim, Hossegaass   01440  01440                % 18432 RGTR--
+210303001 Welfrange, Op der Pl  01443  01443                % 18432 RGTR--
+210302002 Filsdorf, Wäschbour   01448                       % 18432 RGTR--
+*Z 18433 RGTR--                                             % 18433 RGTR--
+*L E10      200419021 210302002  01535  01620               % 18433 RGTR--
+*A cj 200419021 210302002 000047  01535  01620              % 18433 RGTR--
+*A ad 200419021 210302002 000047  01535  01620              % 18433 RGTR--
+*R 1 210302002 200419021 210302002  01535  01620            % 18433 RGTR--
+*G 063 200419021 210302002  01535  01620                    % 18433 RGTR--
+*A VE 200419021 210302002 000047  01535  01620              % 18433 RGTR--
+*I FD 200419021 210302002        0001193  01535  01620      % 18433 RGTR--
+200419021 Limpertsberg, L.T.C.         01535                % 18433 RGTR--
+200419025 Limpertsberg, Lycée   01539  01539                % 18433 RGTR--
+200303001 Hesperange, Am Kelle  01555  01555                % 18433 RGTR--
+200303006 Hesperange, Urbengss  01557  01557                % 18433 RGTR--
+200301001 Alzingen, Gässel      01558  01558                % 18433 RGTR--
+201102003 Syren, Troudelermill  01604  01604                % 18433 RGTR--
+201102002 Syren, Nidderbaach    01604  01604                % 18433 RGTR--
+201102001 Syren, Klappsbréck    01605  01605                % 18433 RGTR--
+210301003 Dalheim, Waasserklap  01609  01609                % 18433 RGTR--
+210301002 Dalheim, Poste        01610  01610                % 18433 RGTR--
+210301004 Dalheim, Gemeng       01611  01611                % 18433 RGTR--
+210301001 Dalheim, Hossegaass   01612  01612                % 18433 RGTR--
+210303001 Welfrange, Op der Pl  01615  01615                % 18433 RGTR--
+210302002 Filsdorf, Wäschbour   01620                       % 18433 RGTR--
+*Z 18434 RGTR--                                             % 18434 RGTR--
+*L E10      210302002 200419021  00650  00739               % 18434 RGTR--
+*A cj 210302002 200419021 000042  00650  00739              % 18434 RGTR--
+*A ad 210302002 200419021 000042  00650  00739              % 18434 RGTR--
+*R 2 200419021 210302002 200419021  00650  00739            % 18434 RGTR--
+*G 050 210302002 200419021  00650  00739                    % 18434 RGTR--
+*A VE 210302002 200419021 000042  00650  00739              % 18434 RGTR--
+*I FD 210302002 200419021        0001907  00650  00739      % 18434 RGTR--
+210302002 Filsdorf, Wäschbour          00650                % 18434 RGTR--
+210302001 Filsdorf, Op der Pla  00651  00651                % 18434 RGTR--
+210303001 Welfrange, Op der Pl  00654  00654                % 18434 RGTR--
+210301001 Dalheim, Hossegaass   00657  00657                % 18434 RGTR--
+210301004 Dalheim, Gemeng       00659  00659                % 18434 RGTR--
+210301002 Dalheim, Poste        00700  00700                % 18434 RGTR--
+210301003 Dalheim, Waasserklap  00702  00702                % 18434 RGTR--
+201102001 Syren, Klappsbréck    00706  00706                % 18434 RGTR--
+201102002 Syren, Nidderbaach    00707  00707                % 18434 RGTR--
+201102003 Syren, Troudelermill  00707  00707                % 18434 RGTR--
+200301001 Alzingen, Gässel      00712  00712                % 18434 RGTR--
+200303006 Hesperange, Urbengss  00713  00713                % 18434 RGTR--
+200303001 Hesperange, Am Kelle  00715  00715                % 18434 RGTR--
+200304004 Howald, Jhangeli      00719  00719                % 18434 RGTR--
+200419026 Limpertsberg, Theate  00733  00733                % 18434 RGTR--
+200419025 Limpertsberg, Lycée   00735  00735                % 18434 RGTR--
+200419021 Limpertsberg, L.T.C.  00739                       % 18434 RGTR--

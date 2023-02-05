@@ -1,0 +1,115 @@
+*F 03 2
+*Z 18530 RGTR--                                             % 18530 RGTR--
+*L G08      160904001 190903015  00725  00749               % 18530 RGTR--
+*A cj 160904001 190903015 000042  00725  00749              % 18530 RGTR--
+*A ad 160904001 190903015 000042  00725  00749              % 18530 RGTR--
+*R 1 190903015 160904001 190903015  00725  00749            % 18530 RGTR--
+*G 060 160904001 190903015  00725  00749                    % 18530 RGTR--
+*A VE 160904001 190903015 000042  00725  00749              % 18530 RGTR--
+*I FD 160904001 190903015        0001921  00725  00749      % 18530 RGTR--
+160904001 Mersch, Gare routièr         00725                % 18530 RGTR--
+160904003 Mersch, Maartplaz     00726  00726                % 18530 RGTR--
+160904010 Mersch, Nic. Welter   00726  00726                % 18530 RGTR--
+160904006 Mersch, Uewermiersch  00727  00727                % 18530 RGTR--
+190903005 Mamer, Eglantiers     00743  00743                % 18530 RGTR--
+190903012 Mamer, Mambra         00744  00744                % 18530 RGTR--
+190903002 Mamer, Baerendall     00745  00745                % 18530 RGTR--
+190903001 Mamer, Arelerstrooss  00745  00745                % 18530 RGTR--
+190903007 Mamer, Gaaschtbierg   00746  00746                % 18530 RGTR--
+190903015 Mamer (Lycée), Gare   00749                       % 18530 RGTR--
+*Z 18531 RGTR--                                             % 18531 RGTR--
+*L G08      190602002 190903015  00727  00747               % 18531 RGTR--
+*A cj 190602002 190903015 000042  00727  00747              % 18531 RGTR--
+*A ad 190602002 190903015 000042  00727  00747              % 18531 RGTR--
+*R 1 190903015 190602002 190903015  00727  00747            % 18531 RGTR--
+*G 060 190602002 190903015  00727  00747                    % 18531 RGTR--
+*A VE 190602002 190903015 000042  00727  00747              % 18531 RGTR--
+*I FD 190602002 190903015        0002161  00727  00747      % 18531 RGTR--
+190602002 Kehlen, Enneschte Bu         00727                % 18531 RGTR--
+190602006 Kehlen, Zone Industr  00729  00729                % 18531 RGTR--
+190605002 Nospelt, Kräizhiel    00730  00730                % 18531 RGTR--
+190605003 Nospelt, Pompjeesbau  00730  00730                % 18531 RGTR--
+190605001 Nospelt, Beim Gliese  00731  00731                % 18531 RGTR--
+190606003 Olm, Kréimerech       00734  00734                % 18531 RGTR--
+190606002 Olm, Kräizwee         00735  00735                % 18531 RGTR--
+190606001 Olm, Dréischelsfeld   00736  00736                % 18531 RGTR--
+190903005 Mamer, Eglantiers     00740  00740                % 18531 RGTR--
+190903012 Mamer, Mambra         00742  00742                % 18531 RGTR--
+190903002 Mamer, Baerendall     00742  00742                % 18531 RGTR--
+190903001 Mamer, Arelerstrooss  00743  00743                % 18531 RGTR--
+190903007 Mamer, Gaaschtbierg   00744  00744                % 18531 RGTR--
+190903015 Mamer (Lycée), Gare   00747                       % 18531 RGTR--
+*Z 18532 RGTR--                                             % 18532 RGTR--
+*L G08      190603001 190903015  00734  00753               % 18532 RGTR--
+*A cj 190603001 190903015 000042  00734  00753              % 18532 RGTR--
+*A ad 190603001 190903015 000042  00734  00753              % 18532 RGTR--
+*R 1 190903015 190603001 190903015  00734  00753            % 18532 RGTR--
+*G 060 190603001 190903015  00734  00753                    % 18532 RGTR--
+*A VE 190603001 190903015 000042  00734  00753              % 18532 RGTR--
+*I FD 190603001 190903015        0001861  00734  00753      % 18532 RGTR--
+190603001 Keispelt, Bei Péicke         00734                % 18532 RGTR--
+190603002 Keispelt, Spellen Ec  00734  00734                % 18532 RGTR--
+190604003 Meispelt, Kuesselt    00735  00735                % 18532 RGTR--
+190604001 Meispelt, Bei Mëlles  00736  00736                % 18532 RGTR--
+190604002 Meispelt, Kräizwee    00737  00737                % 18532 RGTR--
+190602004 Kehlen, Schaarfeneck  00741  00741                % 18532 RGTR--
+190602001 Kehlen, Bei Fiewer    00742  00742                % 18532 RGTR--
+190602003 Kehlen, Op der Héich  00743  00743                % 18532 RGTR--
+190903005 Mamer, Eglantiers     00747  00747                % 18532 RGTR--
+190903012 Mamer, Mambra         00748  00748                % 18532 RGTR--
+190903002 Mamer, Baerendall     00749  00749                % 18532 RGTR--
+190903001 Mamer, Arelerstrooss  00749  00749                % 18532 RGTR--
+190903007 Mamer, Gaaschtbierg   00750  00750                % 18532 RGTR--
+190903015 Mamer (Lycée), Gare   00753                       % 18532 RGTR--
+*Z 18533 RGTR--                                             % 18533 RGTR--
+*L G08      190903015 160904001  01430  01459               % 18533 RGTR--
+*A cj 190903015 160904001 000042  01430  01459              % 18533 RGTR--
+*A ad 190903015 160904001 000042  01430  01459              % 18533 RGTR--
+*R 2 160904001 190903015 160904001  01430  01459            % 18533 RGTR--
+*G 060 190903015 160904001  01430  01459                    % 18533 RGTR--
+*A VE 190903015 160904001 000042  01430  01459              % 18533 RGTR--
+*I FD 190903015 160904001        0003410  01430  01459      % 18533 RGTR--
+190903015 Mamer (Lycée), Gare          01430                % 18533 RGTR--
+190903007 Mamer, Gaaschtbierg   01432  01432                % 18533 RGTR--
+190903001 Mamer, Arelerstrooss  01432  01432                % 18533 RGTR--
+190903002 Mamer, Baerendall     01433  01433                % 18533 RGTR--
+190903012 Mamer, Mambra         01433  01433                % 18533 RGTR--
+190903005 Mamer, Eglantiers     01434  01434                % 18533 RGTR--
+190602003 Kehlen, Op der Héich  01439  01439                % 18533 RGTR--
+190602001 Kehlen, Bei Fiewer    01440  01440                % 18533 RGTR--
+190602004 Kehlen, Schaarfeneck  01441  01441                % 18533 RGTR--
+190603001 Keispelt, Bei Péicke  01446  01446                % 18533 RGTR--
+160904006 Mersch, Uewermiersch  01455  01455                % 18533 RGTR--
+160904010 Mersch, Nic. Welter   01456  01456                % 18533 RGTR--
+160904003 Mersch, Maartplaz     01456  01456                % 18533 RGTR--
+160904005 Mersch, Stäereplaz    01458  01458                % 18533 RGTR--
+160904001 Mersch, Gare routièr  01459                       % 18533 RGTR--
+*Z 18534 RGTR--                                             % 18534 RGTR--
+*L G08      190903015 190603001  01430  01456               % 18534 RGTR--
+*A cj 190903015 190603001 000042  01430  01456              % 18534 RGTR--
+*A ad 190903015 190603001 000042  01430  01456              % 18534 RGTR--
+*R 2 190603001 190903015 190603001  01430  01456            % 18534 RGTR--
+*G 060 190903015 190603001  01430  01456                    % 18534 RGTR--
+*A VE 190903015 190603001 000042  01430  01456              % 18534 RGTR--
+*I FD 190903015 190603001        0002354  01430  01456      % 18534 RGTR--
+190903015 Mamer (Lycée), Gare          01430                % 18534 RGTR--
+190903007 Mamer, Gaaschtbierg   01432  01432                % 18534 RGTR--
+190903001 Mamer, Arelerstrooss  01432  01432                % 18534 RGTR--
+190903002 Mamer, Baerendall     01433  01433                % 18534 RGTR--
+190903012 Mamer, Mambra         01433  01433                % 18534 RGTR--
+190903005 Mamer, Eglantiers     01434  01434                % 18534 RGTR--
+190606001 Olm, Dréischelsfeld   01438  01438                % 18534 RGTR--
+190606002 Olm, Kräizwee         01439  01439                % 18534 RGTR--
+190606003 Olm, Kréimerech       01440  01440                % 18534 RGTR--
+190605001 Nospelt, Beim Gliese  01443  01443                % 18534 RGTR--
+190605003 Nospelt, Pompjeesbau  01444  01444                % 18534 RGTR--
+190605002 Nospelt, Kräizhiel    01444  01444                % 18534 RGTR--
+190602006 Kehlen, Zone Industr  01445  01445                % 18534 RGTR--
+190602002 Kehlen, Enneschte Bu  01447  01447                % 18534 RGTR--
+190602001 Kehlen, Bei Fiewer    01448  01448                % 18534 RGTR--
+190602004 Kehlen, Schaarfeneck  01450  01450                % 18534 RGTR--
+190604002 Meispelt, Kräizwee    01453  01453                % 18534 RGTR--
+190604001 Meispelt, Bei Mëlles  01453  01453                % 18534 RGTR--
+190604003 Meispelt, Kuesselt    01454  01454                % 18534 RGTR--
+190603002 Keispelt, Spellen Ec  01455  01455                % 18534 RGTR--
+190603001 Keispelt, Bei Péicke  01456                       % 18534 RGTR--

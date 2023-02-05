@@ -1,0 +1,116 @@
+*F 03 2
+*Z 18082 RGTR--                                             % 18082 RGTR--
+*L B10      200702002 180401006  00635  00717               % 18082 RGTR--
+*A cj 200702002 180401006 000042  00635  00717              % 18082 RGTR--
+*A DA 200702002 180401006 000042  00635  00717              % 18082 RGTR--
+*A ad 200702002 180401006 000042  00635  00717              % 18082 RGTR--
+*R 1 180401006 200702002 180401006  00635  00717            % 18082 RGTR--
+*G 070 200702002 180401006  00635  00717                    % 18082 RGTR--
+*A VE 200702002 180401006 000042  00635  00717              % 18082 RGTR--
+*I FD 200702002 180401006        0002019  00635  00717      % 18082 RGTR--
+200702002 Neuhaeusgen, Iewesch         00635                % 18082 RGTR--
+200702003 Neuhaeusgen, Kiischt  00635  00635                % 18082 RGTR--
+200702001 Neuhaeusgen, Ennesch  00636  00636                % 18082 RGTR--
+200704002 Schrassig, Schlassge  00639  00639                % 18082 RGTR--
+200704003 Schrassig, Schwaarz   00640  00640                % 18082 RGTR--
+200705007 Schuttrange, Um Grou  00641  00641                % 18082 RGTR--
+200705005 Schuttrange, Kreizun  00642  00642                % 18082 RGTR--
+200705004 Schuttrange, Kierche  00643  00643                % 18082 RGTR--
+200701002 Munsbach, Kulturzent  00644  00644                % 18082 RGTR--
+200701004 Munsbach, Gare routi  00645  00645                % 18082 RGTR--
+200706001 Uebersyren, Kreizgaa  00646  00646                % 18082 RGTR--
+200705001 Schuttrange, Al-Schë  00648  00648                % 18082 RGTR--
+210401006 Canach, Weber         00653  00653                % 18082 RGTR--
+210401004 Canach, Post          00653  00653                % 18082 RGTR--
+210402002 Lenningen, Basilika   00657  00657                % 18082 RGTR--
+180802001 Ehnen, An den Aessen  00659  00659                % 18082 RGTR--
+180802007 Ehnen, Puddel         00700  00700                % 18082 RGTR--
+180804003 Wormeldange, Gewân    00702  00702                % 18082 RGTR--
+180804002 Wormeldange, Geméen   00703  00703                % 18082 RGTR--
+180804005 Wormeldange, Op der   00704  00704                % 18082 RGTR--
+180804004 Wormeldange, Kellere  00704  00704                % 18082 RGTR--
+180801003 Ahn, Op der Musel     00706  00706                % 18082 RGTR--
+180801001 Ahn, Alphonse Steinè  00706  00706                % 18082 RGTR--
+180803004 Machtum, Ongkaf       00711  00711                % 18082 RGTR--
+180803003 Machtum, Gellebur     00711  00711                % 18082 RGTR--
+180803002 Machtum, Deisermille  00712  00712                % 18082 RGTR--
+180401005 Grevenmacher, Route   00713  00713                % 18082 RGTR--
+180401002 Grevenmacher, Enner   00714  00714                % 18082 RGTR--
+180401003 Grevenmacher, Gare r  00716  00716                % 18082 RGTR--
+180401006 Grevenmacher, Schoul  00717                       % 18082 RGTR--
+*Z 18083 RGTR--                                             % 18083 RGTR--
+*L B10      180401006 200702002  01405  01446               % 18083 RGTR--
+*A cj 180401006 200702002 000042  01405  01446              % 18083 RGTR--
+*A ad 180401006 200702002 000042  01405  01446              % 18083 RGTR--
+*R 2 200702002 180401006 200702002  01405  01446            % 18083 RGTR--
+*G 063 180401006 200702002  01405  01446                    % 18083 RGTR--
+*A VE 180401006 200702002 000042  01405  01446              % 18083 RGTR--
+*I FD 180401006 200702002        0001812  01405  01446      % 18083 RGTR--
+180401006 Grevenmacher, Schoul         01405                % 18083 RGTR--
+180401003 Grevenmacher, Gare r  01406  01406                % 18083 RGTR--
+180401002 Grevenmacher, Enner   01407  01407                % 18083 RGTR--
+180401005 Grevenmacher, Route   01408  01408                % 18083 RGTR--
+180803002 Machtum, Deisermille  01410  01410                % 18083 RGTR--
+180803003 Machtum, Gellebur     01410  01410                % 18083 RGTR--
+180803001 Machtum, Bei Kallek'  01411  01411                % 18083 RGTR--
+180801001 Ahn, Alphonse Steinè  01415  01415                % 18083 RGTR--
+180801003 Ahn, Op der Musel     01415  01415                % 18083 RGTR--
+180804004 Wormeldange, Kellere  01417  01417                % 18083 RGTR--
+180804001 Wormeldange, Erdkaul  01418  01418                % 18083 RGTR--
+180804002 Wormeldange, Geméen   01419  01419                % 18083 RGTR--
+180804003 Wormeldange, Gewân    01420  01420                % 18083 RGTR--
+180802003 Ehnen, Ieselsbreck    01421  01421                % 18083 RGTR--
+180802001 Ehnen, An den Aessen  01422  01422                % 18083 RGTR--
+210402002 Lenningen, Basilika   01423  01423                % 18083 RGTR--
+210401004 Canach, Post          01428  01428                % 18083 RGTR--
+210401006 Canach, Weber         01428  01428                % 18083 RGTR--
+200705001 Schuttrange, Al-Schë  01433  01433                % 18083 RGTR--
+200706001 Uebersyren, Kreizgaa  01436  01436                % 18083 RGTR--
+200701004 Munsbach, Gare routi  01437  01437                % 18083 RGTR--
+200701002 Munsbach, Kulturzent  01437  01437                % 18083 RGTR--
+200705004 Schuttrange, Kierche  01438  01438                % 18083 RGTR--
+200705005 Schuttrange, Kreizun  01439  01439                % 18083 RGTR--
+200705007 Schuttrange, Um Grou  01440  01440                % 18083 RGTR--
+200704003 Schrassig, Schwaarz   01440  01440                % 18083 RGTR--
+200704002 Schrassig, Schlassge  01441  01441                % 18083 RGTR--
+200702001 Neuhaeusgen, Ennesch  01444  01444                % 18083 RGTR--
+200702003 Neuhaeusgen, Kiischt  01445  01445                % 18083 RGTR--
+200702002 Neuhaeusgen, Iewesch  01446                       % 18083 RGTR--
+*Z 18084 RGTR--                                             % 18084 RGTR--
+*L B10      180401006 200702002  01550  01632               % 18084 RGTR--
+*A cj 180401006 200702002 000042  01550  01632              % 18084 RGTR--
+*A ad 180401006 200702002 000042  01550  01632              % 18084 RGTR--
+*R 2 200702002 180401006 200702002  01550  01632            % 18084 RGTR--
+*G 050 180401006 200702002  01550  01632                    % 18084 RGTR--
+*A VE 180401006 200702002 000042  01550  01632              % 18084 RGTR--
+*I FD 180401006 200702002        0001175  01550  01632      % 18084 RGTR--
+180401006 Grevenmacher, Schoul         01550                % 18084 RGTR--
+180401003 Grevenmacher, Gare r  01551  01551                % 18084 RGTR--
+180401002 Grevenmacher, Enner   01553  01553                % 18084 RGTR--
+180401005 Grevenmacher, Route   01554  01554                % 18084 RGTR--
+180803002 Machtum, Deisermille  01555  01555                % 18084 RGTR--
+180803003 Machtum, Gellebur     01556  01556                % 18084 RGTR--
+180803001 Machtum, Bei Kallek'  01556  01556                % 18084 RGTR--
+180801001 Ahn, Alphonse Steinè  01601  01601                % 18084 RGTR--
+180801003 Ahn, Op der Musel     01601  01601                % 18084 RGTR--
+180804004 Wormeldange, Kellere  01603  01603                % 18084 RGTR--
+180804001 Wormeldange, Erdkaul  01603  01603                % 18084 RGTR--
+180804002 Wormeldange, Geméen   01605  01605                % 18084 RGTR--
+180804003 Wormeldange, Gewân    01605  01605                % 18084 RGTR--
+180802003 Ehnen, Ieselsbreck    01607  01607                % 18084 RGTR--
+180802001 Ehnen, An den Aessen  01607  01607                % 18084 RGTR--
+210402002 Lenningen, Basilika   01609  01609                % 18084 RGTR--
+210401004 Canach, Post          01614  01614                % 18084 RGTR--
+210401006 Canach, Weber         01614  01614                % 18084 RGTR--
+200705001 Schuttrange, Al-Schë  01619  01619                % 18084 RGTR--
+200706001 Uebersyren, Kreizgaa  01621  01621                % 18084 RGTR--
+200701004 Munsbach, Gare routi  01622  01622                % 18084 RGTR--
+200701002 Munsbach, Kulturzent  01623  01623                % 18084 RGTR--
+200705004 Schuttrange, Kierche  01624  01624                % 18084 RGTR--
+200705005 Schuttrange, Kreizun  01625  01625                % 18084 RGTR--
+200705007 Schuttrange, Um Grou  01625  01625                % 18084 RGTR--
+200704003 Schrassig, Schwaarz   01626  01626                % 18084 RGTR--
+200704002 Schrassig, Schlassge  01627  01627                % 18084 RGTR--
+200702001 Neuhaeusgen, Ennesch  01630  01630                % 18084 RGTR--
+200702003 Neuhaeusgen, Kiischt  01631  01631                % 18084 RGTR--
+200702002 Neuhaeusgen, Iewesch  01632                       % 18084 RGTR--

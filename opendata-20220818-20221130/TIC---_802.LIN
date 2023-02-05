@@ -1,0 +1,23 @@
+*F 03 2
+*Z 05800 TIC---                                             % 05800 TIC---
+*L 802      220301024 220301034  00730  00742               % 05800 TIC---
+*R 1 220301034 220301024 220301034  00730  00742            % 05800 TIC---
+*G MB  220301024 220301034  00730  00742                    % 05800 TIC---
+*A VE 220301024 220301034 000290  00730  00742              % 05800 TIC---
+*I FD 220301024 220301034        0001613  00730  00742      % 05800 TIC---
+220301024 Dudelange, Gemeng            00730                % 05800 TIC---
+220301038 Dudelange, Rue de la  00731  00731                % 05800 TIC---
+220301056 Dudelange, Centre Cu  00732  00732                % 05800 TIC---
+220301014 Dudelange, Casino     00732  00732                % 05800 TIC---
+220301070 Dudelange, Rue Grand  00732  00732                % 05800 TIC---
+220301050 Dudelange, Schmelz    00733  00733                % 05800 TIC---
+220301049 Dudelange, Schlakemi  00734  00734                % 05800 TIC---
+220301027 Dudelange, Greisenda  00735  00735                % 05800 TIC---
+220301049 Dudelange, Schlakemi  00735  00735                % 05800 TIC---
+220301050 Dudelange, Schmelz    00736  00736                % 05800 TIC---
+220301070 Dudelange, Rue Grand  00736  00736                % 05800 TIC---
+220301014 Dudelange, Casino     00736  00736                % 05800 TIC---
+220301056 Dudelange, Centre Cu  00737  00737                % 05800 TIC---
+220301038 Dudelange, Rue de la  00738  00738                % 05800 TIC---
+220301029 Dudelange, Kiirch     00739  00739                % 05800 TIC---
+220301034 Dudelange, Lycée Nic  00742                       % 05800 TIC---

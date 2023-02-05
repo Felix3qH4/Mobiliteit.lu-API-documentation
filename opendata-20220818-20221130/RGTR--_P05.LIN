@@ -1,0 +1,139 @@
+*F 03 2
+*Z 18955 RGTR--                                             % 18955 RGTR--
+*L P05      150512006 120903023  00652  00740               % 18955 RGTR--
+*A cj 150512006 120903023 000042  00652  00740              % 18955 RGTR--
+*A ad 150512006 120903023 000042  00652  00740              % 18955 RGTR--
+*R 1 120903023 150512006 120903023  00652  00740            % 18955 RGTR--
+*G 050 150512006 120903023  00652  00740                    % 18955 RGTR--
+*A VE 150512006 120903023 000042  00652  00740              % 18955 RGTR--
+*I FD 150512006 120903023        0002626  00652  00740      % 18955 RGTR--
+150512006 Rambrouch, Gare              00652                % 18955 RGTR--
+150512005 Rambrouch, Schlass    00653  00653                % 18955 RGTR--
+150509001 Koetschette, Rond-Po  00654  00654                % 18955 RGTR--
+150501003 Arsdorf, An der Gaas  00657  00657                % 18955 RGTR--
+150501001 Arsdorf, Am Duerf     00658  00658                % 18955 RGTR--
+150501004 Arsdorf, Um Knupp     00659  00659                % 18955 RGTR--
+150503001 Bilsdorf, Riesenhaff  00702  00702                % 18955 RGTR--
+150501005 Arsdorf, Misärshaff   00707  00707                % 18955 RGTR--
+120101004 Boulaide, Post        00712  00712                % 18955 RGTR--
+120103001 Baschleiden, Flebour  00714  00714                % 18955 RGTR--
+120103002 Hareler Poteau        00715  00715                % 18955 RGTR--
+120703002 Harlange, Bréck       00719  00719                % 18955 RGTR--
+120703001 Harlange, Bei der Sc  00720  00720                % 18955 RGTR--
+120709001 Watrange              00722  00722                % 18955 RGTR--
+120708001 Tarchamps, Kierch     00723  00723                % 18955 RGTR--
+121008001 Sonlez, Koschter      00728  00728                % 18955 RGTR--
+121003002 Doncols, Beim Schneg  00728  00728                % 18955 RGTR--
+121003001 Doncols, Bei der Kie  00729  00729                % 18955 RGTR--
+121002001 Bohey, Um Weiher      00730  00730                % 18955 RGTR--
+121006003 Pommerlach (Knauf)    00733  00733                % 18955 RGTR--
+121006001 Pommerloch, Theis     00734  00734                % 18955 RGTR--
+120903038 Wiltz, Schumann       00736  00736                % 18955 RGTR--
+120903023 Wiltz, Lycée du Nord  00740                       % 18955 RGTR--
+*Z 18956 RGTR--                                             % 18956 RGTR--
+*L P05      121006003 120903023  00732  00745               % 18956 RGTR--
+*A cj 121006003 120903023 000042  00732  00745              % 18956 RGTR--
+*A ad 121006003 120903023 000042  00732  00745              % 18956 RGTR--
+*R 1 120903023 121006003 120903023  00732  00745            % 18956 RGTR--
+*G 050 121006003 120903023  00732  00745                    % 18956 RGTR--
+*A VE 121006003 120903023 000042  00732  00745              % 18956 RGTR--
+*I FD 121006003 120903023        0003163  00732  00745      % 18956 RGTR--
+121006003 Pommerlach (Knauf)           00732                % 18956 RGTR--
+121006001 Pommerloch, Theis     00732  00732                % 18956 RGTR--
+121006002 Pommerloch, Trëntelh  00733  00733                % 18956 RGTR--
+121001001 Berlé, Um Dréisch     00735  00735                % 18956 RGTR--
+120707003 Nothum, Schumann      00738  00738                % 18956 RGTR--
+120707002 Nothum, Molkerei      00739  00739                % 18956 RGTR--
+120707001 Nothum, Duerfstrooss  00740  00740                % 18956 RGTR--
+120903038 Wiltz, Schumann       00741  00741                % 18956 RGTR--
+120903023 Wiltz, Lycée du Nord  00745                       % 18956 RGTR--
+*Z 18957 RGTR--                                             % 18957 RGTR--
+*L P05      120903023 150512006  01610  01652               % 18957 RGTR--
+*A cj 120903023 150512006 000047  01610  01652              % 18957 RGTR--
+*A ad 120903023 150512006 000047  01610  01652              % 18957 RGTR--
+*R 2 150512006 120903023 150512006  01610  01652            % 18957 RGTR--
+*G 050 120903023 150512006  01610  01652                    % 18957 RGTR--
+*A VE 120903023 150512006 000047  01610  01652              % 18957 RGTR--
+*I FD 120903023 150512006        0001997  01610  01652      % 18957 RGTR--
+120903023 Wiltz, Lycée du Nord         01610                % 18957 RGTR--
+120903038 Wiltz, Schumann       01614  01614                % 18957 RGTR--
+121006001 Pommerloch, Theis     01617  01617                % 18957 RGTR--
+121006003 Pommerlach (Knauf)    01617  01617                % 18957 RGTR--
+121002001 Bohey, Um Weiher      01620  01620                % 18957 RGTR--
+121003001 Doncols, Bei der Kie  01621  01621                % 18957 RGTR--
+121003003 Doncols, Um Wäschbur  01622  01622                % 18957 RGTR--
+121008001 Sonlez, Koschter      01622  01622                % 18957 RGTR--
+120708001 Tarchamps, Kierch     01626  01626                % 18957 RGTR--
+120709001 Watrange              01628  01628                % 18957 RGTR--
+120703001 Harlange, Bei der Sc  01629  01629                % 18957 RGTR--
+120703002 Harlange, Bréck       01630  01630                % 18957 RGTR--
+120103002 Hareler Poteau        01633  01633                % 18957 RGTR--
+120103001 Baschleiden, Flebour  01635  01635                % 18957 RGTR--
+120101004 Boulaide, Post        01636  01636                % 18957 RGTR--
+150501005 Arsdorf, Misärshaff   01641  01641                % 18957 RGTR--
+150503001 Bilsdorf, Riesenhaff  01645  01645                % 18957 RGTR--
+150509001 Koetschette, Rond-Po  01650  01650                % 18957 RGTR--
+150512005 Rambrouch, Schlass    01651  01651                % 18957 RGTR--
+150512006 Rambrouch, Gare       01652                       % 18957 RGTR--
+*Z 18958 RGTR--                                             % 18958 RGTR--
+*L P05      120903023 150512006  01208  01248               % 18958 RGTR--
+*A cj 120903023 150512006 000046  01208  01248              % 18958 RGTR--
+*A ad 120903023 150512006 000046  01208  01248              % 18958 RGTR--
+*R 2 150512006 120903023 150512006  01208  01248            % 18958 RGTR--
+*G 050 120903023 150512006  01208  01248                    % 18958 RGTR--
+*A VE 120903023 150512006 000046  01208  01248              % 18958 RGTR--
+*I FD 120903023 150512006        0001866  01208  01248      % 18958 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 18958 RGTR--
+120903038 Wiltz, Schumann       01212  01212                % 18958 RGTR--
+121006001 Pommerloch, Theis     01214  01214                % 18958 RGTR--
+121006003 Pommerlach (Knauf)    01215  01215                % 18958 RGTR--
+121002001 Bohey, Um Weiher      01217  01217                % 18958 RGTR--
+121003001 Doncols, Bei der Kie  01218  01218                % 18958 RGTR--
+121003003 Doncols, Um Wäschbur  01219  01219                % 18958 RGTR--
+121008001 Sonlez, Koschter      01220  01220                % 18958 RGTR--
+120708001 Tarchamps, Kierch     01223  01223                % 18958 RGTR--
+120709001 Watrange              01225  01225                % 18958 RGTR--
+120703001 Harlange, Bei der Sc  01226  01226                % 18958 RGTR--
+120703002 Harlange, Bréck       01227  01227                % 18958 RGTR--
+120103002 Hareler Poteau        01230  01230                % 18958 RGTR--
+120103001 Baschleiden, Flebour  01231  01231                % 18958 RGTR--
+120101004 Boulaide, Post        01233  01233                % 18958 RGTR--
+150501005 Arsdorf, Misärshaff   01237  01237                % 18958 RGTR--
+150503001 Bilsdorf, Riesenhaff  01241  01241                % 18958 RGTR--
+150509001 Koetschette, Rond-Po  01245  01245                % 18958 RGTR--
+150512005 Rambrouch, Schlass    01247  01247                % 18958 RGTR--
+150512006 Rambrouch, Gare       01248                       % 18958 RGTR--
+*Z 18959 RGTR--                                             % 18959 RGTR--
+*L P05      120903023 121006003  01610  01624               % 18959 RGTR--
+*A cj 120903023 121006003 000047  01610  01624              % 18959 RGTR--
+*A ad 120903023 121006003 000047  01610  01624              % 18959 RGTR--
+*R 2 121006003 120903023 121006003  01610  01624            % 18959 RGTR--
+*G 050 120903023 121006003  01610  01624                    % 18959 RGTR--
+*A VE 120903023 121006003 000047  01610  01624              % 18959 RGTR--
+*I FD 120903023 121006003        0003392  01610  01624      % 18959 RGTR--
+120903023 Wiltz, Lycée du Nord         01610                % 18959 RGTR--
+120903038 Wiltz, Schumann       01614  01614                % 18959 RGTR--
+120707003 Nothum, Schumann      01615  01615                % 18959 RGTR--
+120707002 Nothum, Molkerei      01616  01616                % 18959 RGTR--
+120707001 Nothum, Duerfstrooss  01616  01616                % 18959 RGTR--
+121001001 Berlé, Um Dréisch     01621  01621                % 18959 RGTR--
+121006002 Pommerloch, Trëntelh  01622  01622                % 18959 RGTR--
+121006001 Pommerloch, Theis     01623  01623                % 18959 RGTR--
+121006003 Pommerlach (Knauf)    01624                       % 18959 RGTR--
+*Z 18960 RGTR--                                             % 18960 RGTR--
+*L P05      120903023 121006003  01208  01221               % 18960 RGTR--
+*A cj 120903023 121006003 000046  01208  01221              % 18960 RGTR--
+*A ad 120903023 121006003 000046  01208  01221              % 18960 RGTR--
+*R 2 121006003 120903023 121006003  01208  01221            % 18960 RGTR--
+*G 050 120903023 121006003  01208  01221                    % 18960 RGTR--
+*A VE 120903023 121006003 000046  01208  01221              % 18960 RGTR--
+*I FD 120903023 121006003        0003443  01208  01221      % 18960 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 18960 RGTR--
+120903038 Wiltz, Schumann       01212  01212                % 18960 RGTR--
+120707003 Nothum, Schumann      01212  01212                % 18960 RGTR--
+120707002 Nothum, Molkerei      01213  01213                % 18960 RGTR--
+120707001 Nothum, Duerfstrooss  01214  01214                % 18960 RGTR--
+121001001 Berlé, Um Dréisch     01218  01218                % 18960 RGTR--
+121006002 Pommerloch, Trëntelh  01220  01220                % 18960 RGTR--
+121006001 Pommerloch, Theis     01221  01221                % 18960 RGTR--
+121006003 Pommerlach (Knauf)    01221                       % 18960 RGTR--

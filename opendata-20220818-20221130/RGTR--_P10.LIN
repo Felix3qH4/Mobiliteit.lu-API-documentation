@@ -1,0 +1,82 @@
+*F 03 2
+*Z 18970 RGTR--                                             % 18970 RGTR--
+*L P10      120903023 110101008  01615  01654               % 18970 RGTR--
+*A cj 120903023 110101008 000047  01615  01654              % 18970 RGTR--
+*A ad 120903023 110101008 000047  01615  01654              % 18970 RGTR--
+*R 1 110101008 120903023 110101008  01615  01654            % 18970 RGTR--
+*G 050 120903023 110101008  01615  01654                    % 18970 RGTR--
+*A VE 120903023 110101008 000047  01615  01654              % 18970 RGTR--
+*I FD 120903023 110101008        0001895  01615  01654      % 18970 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 18970 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 18970 RGTR--
+110807004 Derenbach, Weischent  01626  01626                % 18970 RGTR--
+110807001 Derenbach, Kapell     01627  01627                % 18970 RGTR--
+110822002 Féitsch               01630  01630                % 18970 RGTR--
+110810001 Hamiville, Beim Tout  01631  01631                % 18970 RGTR--
+110810002 Hamiville, Haaptstro  01631  01631                % 18970 RGTR--
+110821005 Wincrange, Béigener   01633  01633                % 18970 RGTR--
+110821001 Wincrange, Bei der K  01633  01633                % 18970 RGTR--
+110824001 Boevange, Wëntgerdal  01635  01635                % 18970 RGTR--
+110813001 Lullange, Haaptstroo  01636  01636                % 18970 RGTR--
+110808001 Doennange, Haaptstro  01639  01639                % 18970 RGTR--
+110806001 Deiffelt, Haaptstroo  01640  01640                % 18970 RGTR--
+110812001 Lentzweiler, Haaptst  01641  01641                % 18970 RGTR--
+110102001 Eselborn, Dueref      01644  01644                % 18970 RGTR--
+110102002 Eselborn, Neidierfch  01645  01645                % 18970 RGTR--
+110101015 Clervaux, Hall Polyv  01646  01646                % 18970 RGTR--
+110101002 Clervaux, Gare routi  01648  01648                % 18970 RGTR--
+110101004 Clervaux, Maison de   01650  01650                % 18970 RGTR--
+110101009 Clervaux, Place Bene  01651  01651                % 18970 RGTR--
+110101008 Clervaux, Pl. de la   01654                       % 18970 RGTR--
+*Z 18971 RGTR--                                             % 18971 RGTR--
+*L P10      120903023 110101002  01208  01240               % 18971 RGTR--
+*A cj 120903023 110101002 000046  01208  01240              % 18971 RGTR--
+*A ad 120903023 110101002 000046  01208  01240              % 18971 RGTR--
+*R 1 110101002 120903023 110101002  01208  01240            % 18971 RGTR--
+*G 050 120903023 110101002  01208  01240                    % 18971 RGTR--
+*A VE 120903023 110101002 000046  01208  01240              % 18971 RGTR--
+*I FD 120903023 110101002        0002467  01208  01240      % 18971 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 18971 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 18971 RGTR--
+110807004 Derenbach, Weischent  01218  01218                % 18971 RGTR--
+110807001 Derenbach, Kapell     01219  01219                % 18971 RGTR--
+110822002 Féitsch               01222  01222                % 18971 RGTR--
+110810001 Hamiville, Beim Tout  01223  01223                % 18971 RGTR--
+110810002 Hamiville, Haaptstro  01224  01224                % 18971 RGTR--
+110821005 Wincrange, Béigener   01225  01225                % 18971 RGTR--
+110821001 Wincrange, Bei der K  01225  01225                % 18971 RGTR--
+110824001 Boevange, Wëntgerdal  01227  01227                % 18971 RGTR--
+110813001 Lullange, Haaptstroo  01229  01229                % 18971 RGTR--
+110808001 Doennange, Haaptstro  01230  01230                % 18971 RGTR--
+110806001 Deiffelt, Haaptstroo  01231  01231                % 18971 RGTR--
+110812001 Lentzweiler, Haaptst  01233  01233                % 18971 RGTR--
+110102001 Eselborn, Dueref      01236  01236                % 18971 RGTR--
+110102002 Eselborn, Neidierfch  01237  01237                % 18971 RGTR--
+110101015 Clervaux, Hall Polyv  01238  01238                % 18971 RGTR--
+110101002 Clervaux, Gare routi  01240                       % 18971 RGTR--
+*Z 18972 RGTR--                                             % 18972 RGTR--
+*L P10      110101002 120903023  00700  00733               % 18972 RGTR--
+*A cj 110101002 120903023 000042  00700  00733              % 18972 RGTR--
+*A ad 110101002 120903023 000042  00700  00733              % 18972 RGTR--
+*R 2 120903023 110101002 120903023  00700  00733            % 18972 RGTR--
+*G 050 110101002 120903023  00700  00733                    % 18972 RGTR--
+*A VE 110101002 120903023 000042  00700  00733              % 18972 RGTR--
+*I FD 110101002 120903023        0001948  00700  00733      % 18972 RGTR--
+110101002 Clervaux, Gare routi         00700                % 18972 RGTR--
+110101015 Clervaux, Hall Polyv  00701  00701                % 18972 RGTR--
+110102002 Eselborn, Neidierfch  00703  00703                % 18972 RGTR--
+110102001 Eselborn, Dueref      00704  00704                % 18972 RGTR--
+110812001 Lentzweiler, Haaptst  00707  00707                % 18972 RGTR--
+110806001 Deiffelt, Haaptstroo  00708  00708                % 18972 RGTR--
+110808001 Doennange, Haaptstro  00709  00709                % 18972 RGTR--
+110813001 Lullange, Haaptstroo  00711  00711                % 18972 RGTR--
+110824001 Boevange, Wëntgerdal  00713  00713                % 18972 RGTR--
+110821001 Wincrange, Bei der K  00715  00715                % 18972 RGTR--
+110821005 Wincrange, Béigener   00715  00715                % 18972 RGTR--
+110810002 Hamiville, Haaptstro  00717  00717                % 18972 RGTR--
+110810001 Hamiville, Beim Tout  00717  00717                % 18972 RGTR--
+110822002 Féitsch               00718  00718                % 18972 RGTR--
+110807001 Derenbach, Kapell     00721  00721                % 18972 RGTR--
+110807004 Derenbach, Weischent  00722  00722                % 18972 RGTR--
+120903021 Wiltz, Lann           00730  00730                % 18972 RGTR--
+120903023 Wiltz, Lycée du Nord  00733                       % 18972 RGTR--

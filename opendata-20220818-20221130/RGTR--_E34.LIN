@@ -1,0 +1,44 @@
+*F 03 2
+*Z 20098 RGTR--                                             % 20098 RGTR--
+*L E34      200419021 201101003  01510  01544               % 20098 RGTR--
+*A ad 200419021 201101003 000042  01510  01544              % 20098 RGTR--
+*R 1 201101003 200419021 201101003  01510  01544            % 20098 RGTR--
+*G 050 200419021 201101003  01510  01544                    % 20098 RGTR--
+*A VE 200419021 201101003 000042  01510  01544              % 20098 RGTR--
+*I FD 200419021 201101003        0001982  01510  01544      % 20098 RGTR--
+200419021 Limpertsberg, L.T.C.         01510                % 20098 RGTR--
+200419025 Limpertsberg, Lycée   01514  01514                % 20098 RGTR--
+200303001 Hesperange, Am Kelle  01530  01530                % 20098 RGTR--
+200303006 Hesperange, Urbengss  01532  01532                % 20098 RGTR--
+200301003 Alzingen, Trapeneck   01533  01533                % 20098 RGTR--
+200301002 Alzingen, Hondsbréck  01534  01534                % 20098 RGTR--
+201103001 Weiler-la-Tour, Camp  01536  01536                % 20098 RGTR--
+201103004 Weiler-la-Tour, Schl  01538  01538                % 20098 RGTR--
+201103003 Weiler-la-Tour, Hueh  01540  01540                % 20098 RGTR--
+201103002 Weiler-la-Tour, Gëlt  01541  01541                % 20098 RGTR--
+201103005 Weiler-la-Tour, Peke  01542  01542                % 20098 RGTR--
+201101001 Hassel, Dielchen      01543  01543                % 20098 RGTR--
+201101002 Hassel, Karmesch      01543  01543                % 20098 RGTR--
+201101003 Hassel, Küneftchen    01544                       % 20098 RGTR--
+*Z 20099 RGTR--                                             % 20099 RGTR--
+*L E34      201101003 200419021  00700  00739               % 20099 RGTR--
+*A ad 201101003 200419021 000042  00700  00739              % 20099 RGTR--
+*R 2 200419021 201101003 200419021  00700  00739            % 20099 RGTR--
+*G 050 201101003 200419021  00700  00739                    % 20099 RGTR--
+*A VE 201101003 200419021 000042  00700  00739              % 20099 RGTR--
+*I FD 201101003 200419021        0001948  00700  00739      % 20099 RGTR--
+201101003 Hassel, Küneftchen           00700                % 20099 RGTR--
+201101002 Hassel, Karmesch      00700  00700                % 20099 RGTR--
+201101001 Hassel, Dielchen      00701  00701                % 20099 RGTR--
+201103005 Weiler-la-Tour, Peke  00702  00702                % 20099 RGTR--
+201103002 Weiler-la-Tour, Gëlt  00703  00703                % 20099 RGTR--
+201103003 Weiler-la-Tour, Hueh  00704  00704                % 20099 RGTR--
+201103004 Weiler-la-Tour, Schl  00706  00706                % 20099 RGTR--
+201103001 Weiler-la-Tour, Camp  00707  00707                % 20099 RGTR--
+200301002 Alzingen, Hondsbréck  00709  00709                % 20099 RGTR--
+200301003 Alzingen, Trapeneck   00710  00710                % 20099 RGTR--
+200303006 Hesperange, Urbengss  00711  00711                % 20099 RGTR--
+200303001 Hesperange, Am Kelle  00713  00713                % 20099 RGTR--
+200419026 Limpertsberg, Theate  00733  00733                % 20099 RGTR--
+200419025 Limpertsberg, Lycée   00735  00735                % 20099 RGTR--
+200419021 Limpertsberg, L.T.C.  00739                       % 20099 RGTR--

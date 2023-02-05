@@ -1,0 +1,149 @@
+*F 03 2
+*Z 04392 AVL---                                             % 04392 AVL---
+*L CN2      200405014 200415002  02518  02542               % 04392 AVL---
+*A BE 200405014 200415002 000043  02518  02542              % 04392 AVL---
+*R 1 200415002 200405014 200415002  02518  02542            % 04392 AVL---
+*G ST  200405014 200415002  02518  02542                    % 04392 AVL---
+*A VE 200405014 200415002 000043  02518  02542              % 04392 AVL---
+200405014 Centre, Fondation Pe         02518                % 04392 AVL---
+200405020 Hamilius (Bus)        02520  02520                % 04392 AVL---
+200405054 Centre, F.D. Rooseve  02522  02522                % 04392 AVL---
+200405039 Luxembourg, Wallis    02525  02525                % 04392 AVL---
+200404017 Bonnevoie, Huese Vic  02526  02526                % 04392 AVL---
+200404036 Bonnevoie, Virchow    02527  02527                % 04392 AVL---
+200404013 Bonnevoie, Fraternit  02528  02528                % 04392 AVL---
+200404026 Bonnevoie, Léon XIII  02529  02529                % 04392 AVL---
+200404008 Bonnevoie, Dernier S  02530  02530                % 04392 AVL---
+200405003 Centre, Alsace        02532  02532                % 04392 AVL---
+200412007 Gasperich, Déportati  02533  02533                % 04392 AVL---
+200412020 Gasperich, Millewee   02534  02534                % 04392 AVL---
+200412003 Gasperich, Bei der A  02535  02535                % 04392 AVL---
+200412001 Gasperich, Al Gaaspe  02535  02535                % 04392 AVL---
+200412011 Gasperich, Klensch    02536  02536                % 04392 AVL---
+200412013 Gasperich, Louis de   02537  02537                % 04392 AVL---
+200407011 Cessange, Rue Verte   02538  02538                % 04392 AVL---
+200407008 Cessange, Kierch      02539  02539                % 04392 AVL---
+200407007 Cessange, Fischerhaf  02539  02539                % 04392 AVL---
+200407003 Cessange, Artisans    02540  02540                % 04392 AVL---
+200407004 Cessange, Barrès      02541  02541                % 04392 AVL---
+200415002 Hollerich, Assurance  02542                       % 04392 AVL---
+*Z 04393 AVL---       005 030                               % 04393 AVL---
+*L CN2      200405020 200405020  02435  02502               % 04393 AVL---
+*A BE 200405020 200405020 000063  02435  02502              % 04393 AVL---
+*R 1 200405020 200405020 200405020  02435  02502            % 04393 AVL---
+*G ST  200405020 200405020  02435  02502                    % 04393 AVL---
+*A VE 200405020 200405020 000063  02435  02502              % 04393 AVL---
+200405020 Hamilius (Bus)               02435                % 04393 AVL---
+200405054 Centre, F.D. Rooseve  02437  02437                % 04393 AVL---
+200405039 Luxembourg, Wallis    02440  02440                % 04393 AVL---
+200404017 Bonnevoie, Huese Vic  02441  02441                % 04393 AVL---
+200404036 Bonnevoie, Virchow    02442  02442                % 04393 AVL---
+200404013 Bonnevoie, Fraternit  02443  02443                % 04393 AVL---
+200404026 Bonnevoie, Léon XIII  02444  02444                % 04393 AVL---
+200404008 Bonnevoie, Dernier S  02445  02445                % 04393 AVL---
+200405003 Centre, Alsace        02447  02447                % 04393 AVL---
+200412007 Gasperich, Déportati  02448  02448                % 04393 AVL---
+200412020 Gasperich, Millewee   02449  02449                % 04393 AVL---
+200412003 Gasperich, Bei der A  02450  02450                % 04393 AVL---
+200412001 Gasperich, Al Gaaspe  02450  02450                % 04393 AVL---
+200412011 Gasperich, Klensch    02451  02451                % 04393 AVL---
+200412013 Gasperich, Louis de   02452  02452                % 04393 AVL---
+200407011 Cessange, Rue Verte   02453  02453                % 04393 AVL---
+200407008 Cessange, Kierch      02454  02454                % 04393 AVL---
+200407007 Cessange, Fischerhaf  02454  02454                % 04393 AVL---
+200407003 Cessange, Artisans    02455  02455                % 04393 AVL---
+200407004 Cessange, Barrès      02456  02456                % 04393 AVL---
+200415002 Hollerich, Assurance  02457  02457                % 04393 AVL---
+200415005 Hollerich, Heentze P  02459  02459                % 04393 AVL---
+200403015 Belair, Rheinsheim    02500  02500                % 04393 AVL---
+200405020 Hamilius (Bus)        02502                       % 04393 AVL---
+*Z 04394 AVL---                                             % 04394 AVL---
+*L CN2      200405020 200405020  02735  02802               % 04394 AVL---
+*A BE 200405020 200405020 000063  02735  02802              % 04394 AVL---
+*R 1 200405020 200405020 200405020  02735  02802            % 04394 AVL---
+*G ST  200405020 200405020  02735  02802                    % 04394 AVL---
+*A VE 200405020 200405020 000063  02735  02802              % 04394 AVL---
+200405020 Hamilius (Bus)               02735                % 04394 AVL---
+200405054 Centre, F.D. Rooseve  02737  02737                % 04394 AVL---
+200405039 Luxembourg, Wallis    02740  02740                % 04394 AVL---
+200404017 Bonnevoie, Huese Vic  02741  02741                % 04394 AVL---
+200404036 Bonnevoie, Virchow    02742  02742                % 04394 AVL---
+200404013 Bonnevoie, Fraternit  02743  02743                % 04394 AVL---
+200404026 Bonnevoie, Léon XIII  02744  02744                % 04394 AVL---
+200404008 Bonnevoie, Dernier S  02745  02745                % 04394 AVL---
+200405003 Centre, Alsace        02747  02747                % 04394 AVL---
+200412007 Gasperich, Déportati  02748  02748                % 04394 AVL---
+200412020 Gasperich, Millewee   02749  02749                % 04394 AVL---
+200412003 Gasperich, Bei der A  02750  02750                % 04394 AVL---
+200412001 Gasperich, Al Gaaspe  02750  02750                % 04394 AVL---
+200412011 Gasperich, Klensch    02751  02751                % 04394 AVL---
+200412013 Gasperich, Louis de   02752  02752                % 04394 AVL---
+200407011 Cessange, Rue Verte   02753  02753                % 04394 AVL---
+200407008 Cessange, Kierch      02754  02754                % 04394 AVL---
+200407007 Cessange, Fischerhaf  02754  02754                % 04394 AVL---
+200407003 Cessange, Artisans    02755  02755                % 04394 AVL---
+200407004 Cessange, Barrès      02756  02756                % 04394 AVL---
+200415002 Hollerich, Assurance  02757  02757                % 04394 AVL---
+200415005 Hollerich, Heentze P  02759  02759                % 04394 AVL---
+200403015 Belair, Rheinsheim    02800  02800                % 04394 AVL---
+200405020 Hamilius (Bus)        02802                       % 04394 AVL---
+*Z 04395 AVL---       005 030                               % 04395 AVL---
+*L CN2      200405020 200405020  02435  02502               % 04395 AVL---
+*A BE 200405020 200405020 000064  02435  02502              % 04395 AVL---
+*R 1 200405020 200405020 200405020  02435  02502            % 04395 AVL---
+*G ST  200405020 200405020  02435  02502                    % 04395 AVL---
+*A VE 200405020 200405020 000064  02435  02502              % 04395 AVL---
+200405020 Hamilius (Bus)               02435                % 04395 AVL---
+200405054 Centre, F.D. Rooseve  02437  02437                % 04395 AVL---
+200405039 Luxembourg, Wallis    02440  02440                % 04395 AVL---
+200404017 Bonnevoie, Huese Vic  02441  02441                % 04395 AVL---
+200404036 Bonnevoie, Virchow    02442  02442                % 04395 AVL---
+200404013 Bonnevoie, Fraternit  02443  02443                % 04395 AVL---
+200404026 Bonnevoie, Léon XIII  02444  02444                % 04395 AVL---
+200404008 Bonnevoie, Dernier S  02445  02445                % 04395 AVL---
+200405003 Centre, Alsace        02447  02447                % 04395 AVL---
+200412007 Gasperich, Déportati  02448  02448                % 04395 AVL---
+200412020 Gasperich, Millewee   02449  02449                % 04395 AVL---
+200412003 Gasperich, Bei der A  02450  02450                % 04395 AVL---
+200412001 Gasperich, Al Gaaspe  02450  02450                % 04395 AVL---
+200412011 Gasperich, Klensch    02451  02451                % 04395 AVL---
+200412013 Gasperich, Louis de   02452  02452                % 04395 AVL---
+200407011 Cessange, Rue Verte   02453  02453                % 04395 AVL---
+200407008 Cessange, Kierch      02454  02454                % 04395 AVL---
+200407007 Cessange, Fischerhaf  02454  02454                % 04395 AVL---
+200407003 Cessange, Artisans    02455  02455                % 04395 AVL---
+200407004 Cessange, Barrès      02456  02456                % 04395 AVL---
+200415002 Hollerich, Assurance  02457  02457                % 04395 AVL---
+200415005 Hollerich, Heentze P  02459  02459                % 04395 AVL---
+200403015 Belair, Rheinsheim    02500  02500                % 04395 AVL---
+200405020 Hamilius (Bus)        02502                       % 04395 AVL---
+*Z 04396 AVL---                                             % 04396 AVL---
+*L CN2      200405020 200405020  02735  02802               % 04396 AVL---
+*A BE 200405020 200405020 000064  02735  02802              % 04396 AVL---
+*R 1 200405020 200405020 200405020  02735  02802            % 04396 AVL---
+*G ST  200405020 200405020  02735  02802                    % 04396 AVL---
+*A VE 200405020 200405020 000064  02735  02802              % 04396 AVL---
+200405020 Hamilius (Bus)               02735                % 04396 AVL---
+200405054 Centre, F.D. Rooseve  02737  02737                % 04396 AVL---
+200405039 Luxembourg, Wallis    02740  02740                % 04396 AVL---
+200404017 Bonnevoie, Huese Vic  02741  02741                % 04396 AVL---
+200404036 Bonnevoie, Virchow    02742  02742                % 04396 AVL---
+200404013 Bonnevoie, Fraternit  02743  02743                % 04396 AVL---
+200404026 Bonnevoie, Léon XIII  02744  02744                % 04396 AVL---
+200404008 Bonnevoie, Dernier S  02745  02745                % 04396 AVL---
+200405003 Centre, Alsace        02747  02747                % 04396 AVL---
+200412007 Gasperich, Déportati  02748  02748                % 04396 AVL---
+200412020 Gasperich, Millewee   02749  02749                % 04396 AVL---
+200412003 Gasperich, Bei der A  02750  02750                % 04396 AVL---
+200412001 Gasperich, Al Gaaspe  02750  02750                % 04396 AVL---
+200412011 Gasperich, Klensch    02751  02751                % 04396 AVL---
+200412013 Gasperich, Louis de   02752  02752                % 04396 AVL---
+200407011 Cessange, Rue Verte   02753  02753                % 04396 AVL---
+200407008 Cessange, Kierch      02754  02754                % 04396 AVL---
+200407007 Cessange, Fischerhaf  02754  02754                % 04396 AVL---
+200407003 Cessange, Artisans    02755  02755                % 04396 AVL---
+200407004 Cessange, Barrès      02756  02756                % 04396 AVL---
+200415002 Hollerich, Assurance  02757  02757                % 04396 AVL---
+200415005 Hollerich, Heentze P  02759  02759                % 04396 AVL---
+200403015 Belair, Rheinsheim    02800  02800                % 04396 AVL---
+200405020 Hamilius (Bus)        02802                       % 04396 AVL---

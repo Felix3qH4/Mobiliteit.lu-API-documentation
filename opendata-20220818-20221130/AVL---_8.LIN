@@ -1,0 +1,1334 @@
+*F 03 2
+*Z 03780 AVL---       001 900                               % 03780 AVL---
+*L 8        200101019 200419022  00524  00558               % 03780 AVL---
+*A BE 200101019 200419022 000040  00524  00558              % 03780 AVL---
+*R 1 200419022 200101019 200419022  00524  00558            % 03780 AVL---
+*G STR 200101019 200419022  00524  00558                    % 03780 AVL---
+*A VE 200101019 200419022 000040  00524  00558              % 03780 AVL---
+200101019 Bertrange, Waassertu         00524                % 03780 AVL---
+200101002 Bertrange, Belle Eto  00525  00525                % 03780 AVL---
+200901011 Strassen, Schoenacht  00527  00527                % 03780 AVL---
+200901016 Strassen, Geesseneck  00527  00527                % 03780 AVL---
+200901017 Strassen, Kesseler    00528  00528                % 03780 AVL---
+200901004 Strassen, Barblé      00529  00529                % 03780 AVL---
+200901020 Strassen, Benelux     00529  00529                % 03780 AVL---
+200901018 Strassen, Kiem        00530  00530                % 03780 AVL---
+200901025 Strassen, Réimerwee   00531  00531                % 03780 AVL---
+200901022 Strassen, Michel Ang  00532  00532                % 03780 AVL---
+200901019 Strassen, Les Aubépi  00532  00532                % 03780 AVL---
+200403016 Belair, Rue de l'Oue  00533  00533                % 03780 AVL---
+200403019 Belair, Val Ste Croi  00534  00534                % 03780 AVL---
+200403023 Belair, Glaesener-Ha  00535  00535                % 03780 AVL---
+200403010 Belair, Kierch        00537  00537                % 03780 AVL---
+200403001 Belair, Amsterdam     00538  00538                % 03780 AVL---
+200403002 Belair, Archiducs     00538  00538                % 03780 AVL---
+200403022 Luxembourg, Square N  00539  00539                % 03780 AVL---
+200405045 Centre, Stäreplaz /   00540  00540                % 03780 AVL---
+200403020 Belair, Wampach       00542  00542                % 03780 AVL---
+200405020 Hamilius (Bus)        00545  00550                % 03780 AVL---
+200405014 Centre, Fondation Pe  00552  00552                % 03780 AVL---
+200419026 Limpertsberg, Theate  00553  00553                % 03780 AVL---
+200419025 Limpertsberg, Lycée   00554  00554                % 03780 AVL---
+200419002 Limpertsberg, Alen T  00555  00555                % 03780 AVL---
+200419034 Limpertsberg, Square  00556  00556                % 03780 AVL---
+200419008 Limpertsberg, Batty   00557  00557                % 03780 AVL---
+200419022 Limpertsberg, Lycée   00558                       % 03780 AVL---
+*Z 03781 AVL---       005 030                               % 03781 AVL---
+*L 8        200101019 200419022  02054  02128               % 03781 AVL---
+*A BE 200101019 200419022 000040  02054  02128              % 03781 AVL---
+*R 1 200419022 200101019 200419022  02054  02128            % 03781 AVL---
+*G STR 200101019 200419022  02054  02128                    % 03781 AVL---
+*A VE 200101019 200419022 000040  02054  02128              % 03781 AVL---
+200101019 Bertrange, Waassertu         02054                % 03781 AVL---
+200101002 Bertrange, Belle Eto  02055  02055                % 03781 AVL---
+200901011 Strassen, Schoenacht  02057  02057                % 03781 AVL---
+200901016 Strassen, Geesseneck  02057  02057                % 03781 AVL---
+200901017 Strassen, Kesseler    02058  02058                % 03781 AVL---
+200901004 Strassen, Barblé      02059  02059                % 03781 AVL---
+200901020 Strassen, Benelux     02059  02059                % 03781 AVL---
+200901018 Strassen, Kiem        02100  02100                % 03781 AVL---
+200901025 Strassen, Réimerwee   02101  02101                % 03781 AVL---
+200901022 Strassen, Michel Ang  02102  02102                % 03781 AVL---
+200901019 Strassen, Les Aubépi  02102  02102                % 03781 AVL---
+200403016 Belair, Rue de l'Oue  02103  02103                % 03781 AVL---
+200403019 Belair, Val Ste Croi  02104  02104                % 03781 AVL---
+200403023 Belair, Glaesener-Ha  02105  02105                % 03781 AVL---
+200403010 Belair, Kierch        02107  02107                % 03781 AVL---
+200403001 Belair, Amsterdam     02108  02108                % 03781 AVL---
+200403002 Belair, Archiducs     02108  02108                % 03781 AVL---
+200403022 Luxembourg, Square N  02109  02109                % 03781 AVL---
+200405045 Centre, Stäreplaz /   02110  02110                % 03781 AVL---
+200403020 Belair, Wampach       02112  02112                % 03781 AVL---
+200405020 Hamilius (Bus)        02115  02120                % 03781 AVL---
+200405014 Centre, Fondation Pe  02122  02122                % 03781 AVL---
+200419026 Limpertsberg, Theate  02123  02123                % 03781 AVL---
+200419025 Limpertsberg, Lycée   02124  02124                % 03781 AVL---
+200419002 Limpertsberg, Alen T  02125  02125                % 03781 AVL---
+200419034 Limpertsberg, Square  02126  02126                % 03781 AVL---
+200419008 Limpertsberg, Batty   02127  02127                % 03781 AVL---
+200419022 Limpertsberg, Lycée   02128                       % 03781 AVL---
+*Z 03782 AVL---       003 030                               % 03782 AVL---
+*L 8        200101019 200419022  00554  00628               % 03782 AVL---
+*A BE 200101019 200419022 000037  00554  00628              % 03782 AVL---
+*R 1 200419022 200101019 200419022  00554  00628            % 03782 AVL---
+*G STR 200101019 200419022  00554  00628                    % 03782 AVL---
+*A VE 200101019 200419022 000037  00554  00628              % 03782 AVL---
+200101019 Bertrange, Waassertu         00554                % 03782 AVL---
+200101002 Bertrange, Belle Eto  00555  00555                % 03782 AVL---
+200901011 Strassen, Schoenacht  00557  00557                % 03782 AVL---
+200901016 Strassen, Geesseneck  00557  00557                % 03782 AVL---
+200901017 Strassen, Kesseler    00558  00558                % 03782 AVL---
+200901004 Strassen, Barblé      00559  00559                % 03782 AVL---
+200901020 Strassen, Benelux     00559  00559                % 03782 AVL---
+200901018 Strassen, Kiem        00600  00600                % 03782 AVL---
+200901025 Strassen, Réimerwee   00601  00601                % 03782 AVL---
+200901022 Strassen, Michel Ang  00602  00602                % 03782 AVL---
+200901019 Strassen, Les Aubépi  00602  00602                % 03782 AVL---
+200403016 Belair, Rue de l'Oue  00603  00603                % 03782 AVL---
+200403019 Belair, Val Ste Croi  00604  00604                % 03782 AVL---
+200403023 Belair, Glaesener-Ha  00605  00605                % 03782 AVL---
+200403010 Belair, Kierch        00607  00607                % 03782 AVL---
+200403001 Belair, Amsterdam     00608  00608                % 03782 AVL---
+200403002 Belair, Archiducs     00608  00608                % 03782 AVL---
+200403022 Luxembourg, Square N  00609  00609                % 03782 AVL---
+200405045 Centre, Stäreplaz /   00610  00610                % 03782 AVL---
+200403020 Belair, Wampach       00612  00612                % 03782 AVL---
+200405020 Hamilius (Bus)        00615  00620                % 03782 AVL---
+200405014 Centre, Fondation Pe  00622  00622                % 03782 AVL---
+200419026 Limpertsberg, Theate  00623  00623                % 03782 AVL---
+200419025 Limpertsberg, Lycée   00624  00624                % 03782 AVL---
+200419002 Limpertsberg, Alen T  00625  00625                % 03782 AVL---
+200419034 Limpertsberg, Square  00626  00626                % 03782 AVL---
+200419008 Limpertsberg, Batty   00627  00627                % 03782 AVL---
+200419022 Limpertsberg, Lycée   00628                       % 03782 AVL---
+*Z 03783 AVL---       006 030                               % 03783 AVL---
+*L 8        200101019 200419022  00754  00828               % 03783 AVL---
+*A BE 200101019 200419022 000016  00754  00828              % 03783 AVL---
+*R 1 200419022 200101019 200419022  00754  00828            % 03783 AVL---
+*G STR 200101019 200419022  00754  00828                    % 03783 AVL---
+*A VE 200101019 200419022 000016  00754  00828              % 03783 AVL---
+200101019 Bertrange, Waassertu         00754                % 03783 AVL---
+200101002 Bertrange, Belle Eto  00755  00755                % 03783 AVL---
+200901011 Strassen, Schoenacht  00757  00757                % 03783 AVL---
+200901016 Strassen, Geesseneck  00757  00757                % 03783 AVL---
+200901017 Strassen, Kesseler    00758  00758                % 03783 AVL---
+200901004 Strassen, Barblé      00759  00759                % 03783 AVL---
+200901020 Strassen, Benelux     00759  00759                % 03783 AVL---
+200901018 Strassen, Kiem        00800  00800                % 03783 AVL---
+200901025 Strassen, Réimerwee   00801  00801                % 03783 AVL---
+200901022 Strassen, Michel Ang  00802  00802                % 03783 AVL---
+200901019 Strassen, Les Aubépi  00802  00802                % 03783 AVL---
+200403016 Belair, Rue de l'Oue  00803  00803                % 03783 AVL---
+200403019 Belair, Val Ste Croi  00804  00804                % 03783 AVL---
+200403023 Belair, Glaesener-Ha  00805  00805                % 03783 AVL---
+200403010 Belair, Kierch        00807  00807                % 03783 AVL---
+200403001 Belair, Amsterdam     00808  00808                % 03783 AVL---
+200403002 Belair, Archiducs     00808  00808                % 03783 AVL---
+200403022 Luxembourg, Square N  00809  00809                % 03783 AVL---
+200405045 Centre, Stäreplaz /   00810  00810                % 03783 AVL---
+200403020 Belair, Wampach       00812  00812                % 03783 AVL---
+200405020 Hamilius (Bus)        00815  00820                % 03783 AVL---
+200405014 Centre, Fondation Pe  00822  00822                % 03783 AVL---
+200419026 Limpertsberg, Theate  00823  00823                % 03783 AVL---
+200419025 Limpertsberg, Lycée   00824  00824                % 03783 AVL---
+200419002 Limpertsberg, Alen T  00825  00825                % 03783 AVL---
+200419034 Limpertsberg, Square  00826  00826                % 03783 AVL---
+200419008 Limpertsberg, Batty   00827  00827                % 03783 AVL---
+200419022 Limpertsberg, Lycée   00828                       % 03783 AVL---
+*Z 03784 AVL---                                             % 03784 AVL---
+*L 8        200101019 200419022  01954  02028               % 03784 AVL---
+*A BE 200101019 200419022 000016  01954  02028              % 03784 AVL---
+*R 1 200419022 200101019 200419022  01954  02028            % 03784 AVL---
+*G STR 200101019 200419022  01954  02028                    % 03784 AVL---
+*A VE 200101019 200419022 000016  01954  02028              % 03784 AVL---
+200101019 Bertrange, Waassertu         01954                % 03784 AVL---
+200101002 Bertrange, Belle Eto  01955  01955                % 03784 AVL---
+200901011 Strassen, Schoenacht  01957  01957                % 03784 AVL---
+200901016 Strassen, Geesseneck  01957  01957                % 03784 AVL---
+200901017 Strassen, Kesseler    01958  01958                % 03784 AVL---
+200901004 Strassen, Barblé      01959  01959                % 03784 AVL---
+200901020 Strassen, Benelux     01959  01959                % 03784 AVL---
+200901018 Strassen, Kiem        02000  02000                % 03784 AVL---
+200901025 Strassen, Réimerwee   02001  02001                % 03784 AVL---
+200901022 Strassen, Michel Ang  02002  02002                % 03784 AVL---
+200901019 Strassen, Les Aubépi  02002  02002                % 03784 AVL---
+200403016 Belair, Rue de l'Oue  02003  02003                % 03784 AVL---
+200403019 Belair, Val Ste Croi  02004  02004                % 03784 AVL---
+200403023 Belair, Glaesener-Ha  02005  02005                % 03784 AVL---
+200403010 Belair, Kierch        02007  02007                % 03784 AVL---
+200403001 Belair, Amsterdam     02008  02008                % 03784 AVL---
+200403002 Belair, Archiducs     02008  02008                % 03784 AVL---
+200403022 Luxembourg, Square N  02009  02009                % 03784 AVL---
+200405045 Centre, Stäreplaz /   02010  02010                % 03784 AVL---
+200403020 Belair, Wampach       02012  02012                % 03784 AVL---
+200405020 Hamilius (Bus)        02015  02020                % 03784 AVL---
+200405014 Centre, Fondation Pe  02022  02022                % 03784 AVL---
+200419026 Limpertsberg, Theate  02023  02023                % 03784 AVL---
+200419025 Limpertsberg, Lycée   02024  02024                % 03784 AVL---
+200419002 Limpertsberg, Alen T  02025  02025                % 03784 AVL---
+200419034 Limpertsberg, Square  02026  02026                % 03784 AVL---
+200419008 Limpertsberg, Batty   02027  02027                % 03784 AVL---
+200419022 Limpertsberg, Lycée   02028                       % 03784 AVL---
+*Z 03785 AVL---       001 030                               % 03785 AVL---
+*L 8        200101019 200419022  00554  00629               % 03785 AVL---
+*A BE 200101019 200419022 000034  00554  00629              % 03785 AVL---
+*R 1 200419022 200101019 200419022  00554  00629            % 03785 AVL---
+*G STR 200101019 200419022  00554  00629                    % 03785 AVL---
+*A VE 200101019 200419022 000034  00554  00629              % 03785 AVL---
+200101019 Bertrange, Waassertu         00554                % 03785 AVL---
+200101002 Bertrange, Belle Eto  00555  00555                % 03785 AVL---
+200901011 Strassen, Schoenacht  00557  00557                % 03785 AVL---
+200901016 Strassen, Geesseneck  00557  00557                % 03785 AVL---
+200901017 Strassen, Kesseler    00558  00558                % 03785 AVL---
+200901004 Strassen, Barblé      00559  00559                % 03785 AVL---
+200901020 Strassen, Benelux     00600  00600                % 03785 AVL---
+200901018 Strassen, Kiem        00602  00602                % 03785 AVL---
+200901025 Strassen, Réimerwee   00602  00602                % 03785 AVL---
+200901022 Strassen, Michel Ang  00603  00603                % 03785 AVL---
+200901019 Strassen, Les Aubépi  00604  00604                % 03785 AVL---
+200403016 Belair, Rue de l'Oue  00605  00605                % 03785 AVL---
+200403019 Belair, Val Ste Croi  00606  00606                % 03785 AVL---
+200403023 Belair, Glaesener-Ha  00607  00607                % 03785 AVL---
+200403010 Belair, Kierch        00609  00609                % 03785 AVL---
+200403001 Belair, Amsterdam     00610  00610                % 03785 AVL---
+200403002 Belair, Archiducs     00610  00610                % 03785 AVL---
+200403022 Luxembourg, Square N  00611  00611                % 03785 AVL---
+200405045 Centre, Stäreplaz /   00613  00613                % 03785 AVL---
+200403020 Belair, Wampach       00616  00616                % 03785 AVL---
+200405020 Hamilius (Bus)        00619  00619                % 03785 AVL---
+200405014 Centre, Fondation Pe  00622  00622                % 03785 AVL---
+200419026 Limpertsberg, Theate  00624  00624                % 03785 AVL---
+200419025 Limpertsberg, Lycée   00625  00625                % 03785 AVL---
+200419002 Limpertsberg, Alen T  00626  00626                % 03785 AVL---
+200419034 Limpertsberg, Square  00627  00627                % 03785 AVL---
+200419008 Limpertsberg, Batty   00629  00629                % 03785 AVL---
+200419022 Limpertsberg, Lycée   00629                       % 03785 AVL---
+*Z 03786 AVL---       038 020                               % 03786 AVL---
+*L 8        200101019 200419022  00644  00719               % 03786 AVL---
+*A BE 200101019 200419022 000034  00644  00719              % 03786 AVL---
+*R 1 200419022 200101019 200419022  00644  00719            % 03786 AVL---
+*G STR 200101019 200419022  00644  00719                    % 03786 AVL---
+*A VE 200101019 200419022 000034  00644  00719              % 03786 AVL---
+200101019 Bertrange, Waassertu         00644                % 03786 AVL---
+200101002 Bertrange, Belle Eto  00645  00645                % 03786 AVL---
+200901011 Strassen, Schoenacht  00647  00647                % 03786 AVL---
+200901016 Strassen, Geesseneck  00647  00647                % 03786 AVL---
+200901017 Strassen, Kesseler    00648  00648                % 03786 AVL---
+200901004 Strassen, Barblé      00649  00649                % 03786 AVL---
+200901020 Strassen, Benelux     00650  00650                % 03786 AVL---
+200901018 Strassen, Kiem        00652  00652                % 03786 AVL---
+200901025 Strassen, Réimerwee   00652  00652                % 03786 AVL---
+200901022 Strassen, Michel Ang  00653  00653                % 03786 AVL---
+200901019 Strassen, Les Aubépi  00654  00654                % 03786 AVL---
+200403016 Belair, Rue de l'Oue  00655  00655                % 03786 AVL---
+200403019 Belair, Val Ste Croi  00656  00656                % 03786 AVL---
+200403023 Belair, Glaesener-Ha  00657  00657                % 03786 AVL---
+200403010 Belair, Kierch        00659  00659                % 03786 AVL---
+200403001 Belair, Amsterdam     00700  00700                % 03786 AVL---
+200403002 Belair, Archiducs     00700  00700                % 03786 AVL---
+200403022 Luxembourg, Square N  00701  00701                % 03786 AVL---
+200405045 Centre, Stäreplaz /   00703  00703                % 03786 AVL---
+200403020 Belair, Wampach       00706  00706                % 03786 AVL---
+200405020 Hamilius (Bus)        00709  00709                % 03786 AVL---
+200405014 Centre, Fondation Pe  00712  00712                % 03786 AVL---
+200419026 Limpertsberg, Theate  00714  00714                % 03786 AVL---
+200419025 Limpertsberg, Lycée   00715  00715                % 03786 AVL---
+200419002 Limpertsberg, Alen T  00716  00716                % 03786 AVL---
+200419034 Limpertsberg, Square  00717  00717                % 03786 AVL---
+200419008 Limpertsberg, Batty   00719  00719                % 03786 AVL---
+200419022 Limpertsberg, Lycée   00719                       % 03786 AVL---
+*Z 03787 AVL---       001 020                               % 03787 AVL---
+*L 8        200101019 200419022  01949  02018               % 03787 AVL---
+*A BE 200101019 200419022 000017  01949  02018              % 03787 AVL---
+*R 1 200419022 200101019 200419022  01949  02018            % 03787 AVL---
+*G STR 200101019 200419022  01949  02018                    % 03787 AVL---
+*A VE 200101019 200419022 000017  01949  02018              % 03787 AVL---
+200101019 Bertrange, Waassertu         01949                % 03787 AVL---
+200101002 Bertrange, Belle Eto  01950  01950                % 03787 AVL---
+200901011 Strassen, Schoenacht  01952  01952                % 03787 AVL---
+200901016 Strassen, Geesseneck  01952  01952                % 03787 AVL---
+200901017 Strassen, Kesseler    01953  01953                % 03787 AVL---
+200901004 Strassen, Barblé      01954  01954                % 03787 AVL---
+200901020 Strassen, Benelux     01954  01954                % 03787 AVL---
+200901018 Strassen, Kiem        01955  01955                % 03787 AVL---
+200901025 Strassen, Réimerwee   01956  01956                % 03787 AVL---
+200901022 Strassen, Michel Ang  01957  01957                % 03787 AVL---
+200901019 Strassen, Les Aubépi  01957  01957                % 03787 AVL---
+200403016 Belair, Rue de l'Oue  01958  01958                % 03787 AVL---
+200403019 Belair, Val Ste Croi  01959  01959                % 03787 AVL---
+200403023 Belair, Glaesener-Ha  02000  02000                % 03787 AVL---
+200403010 Belair, Kierch        02002  02002                % 03787 AVL---
+200403001 Belair, Amsterdam     02003  02003                % 03787 AVL---
+200403002 Belair, Archiducs     02003  02003                % 03787 AVL---
+200403022 Luxembourg, Square N  02004  02004                % 03787 AVL---
+200405045 Centre, Stäreplaz /   02005  02005                % 03787 AVL---
+200403020 Belair, Wampach       02007  02007                % 03787 AVL---
+200405020 Hamilius (Bus)        02010  02010                % 03787 AVL---
+200405014 Centre, Fondation Pe  02012  02012                % 03787 AVL---
+200419026 Limpertsberg, Theate  02013  02013                % 03787 AVL---
+200419025 Limpertsberg, Lycée   02014  02014                % 03787 AVL---
+200419002 Limpertsberg, Alen T  02015  02015                % 03787 AVL---
+200419034 Limpertsberg, Square  02016  02016                % 03787 AVL---
+200419008 Limpertsberg, Batty   02017  02017                % 03787 AVL---
+200419022 Limpertsberg, Lycée   02018                       % 03787 AVL---
+*Z 03788 AVL---       001 020                               % 03788 AVL---
+*L 8        200101019 200419022  01948  02017               % 03788 AVL---
+*A BE 200101019 200419022 000034  01948  02017              % 03788 AVL---
+*R 1 200419022 200101019 200419022  01948  02017            % 03788 AVL---
+*G STR 200101019 200419022  01948  02017                    % 03788 AVL---
+*A VE 200101019 200419022 000034  01948  02017              % 03788 AVL---
+200101019 Bertrange, Waassertu         01948                % 03788 AVL---
+200101002 Bertrange, Belle Eto  01949  01949                % 03788 AVL---
+200901011 Strassen, Schoenacht  01951  01951                % 03788 AVL---
+200901016 Strassen, Geesseneck  01951  01951                % 03788 AVL---
+200901017 Strassen, Kesseler    01952  01952                % 03788 AVL---
+200901004 Strassen, Barblé      01953  01953                % 03788 AVL---
+200901020 Strassen, Benelux     01953  01953                % 03788 AVL---
+200901018 Strassen, Kiem        01954  01954                % 03788 AVL---
+200901025 Strassen, Réimerwee   01955  01955                % 03788 AVL---
+200901022 Strassen, Michel Ang  01956  01956                % 03788 AVL---
+200901019 Strassen, Les Aubépi  01956  01956                % 03788 AVL---
+200403016 Belair, Rue de l'Oue  01957  01957                % 03788 AVL---
+200403019 Belair, Val Ste Croi  01958  01958                % 03788 AVL---
+200403023 Belair, Glaesener-Ha  01959  01959                % 03788 AVL---
+200403010 Belair, Kierch        02001  02001                % 03788 AVL---
+200403001 Belair, Amsterdam     02002  02002                % 03788 AVL---
+200403002 Belair, Archiducs     02002  02002                % 03788 AVL---
+200403022 Luxembourg, Square N  02003  02003                % 03788 AVL---
+200405045 Centre, Stäreplaz /   02004  02004                % 03788 AVL---
+200403020 Belair, Wampach       02006  02006                % 03788 AVL---
+200405020 Hamilius (Bus)        02009  02009                % 03788 AVL---
+200405014 Centre, Fondation Pe  02011  02011                % 03788 AVL---
+200419026 Limpertsberg, Theate  02012  02012                % 03788 AVL---
+200419025 Limpertsberg, Lycée   02013  02013                % 03788 AVL---
+200419002 Limpertsberg, Alen T  02014  02014                % 03788 AVL---
+200419034 Limpertsberg, Square  02015  02015                % 03788 AVL---
+200419008 Limpertsberg, Batty   02016  02016                % 03788 AVL---
+200419022 Limpertsberg, Lycée   02017                       % 03788 AVL---
+*Z 03789 AVL---       016 030                               % 03789 AVL---
+*L 8        200101019 200419022  01123  01158               % 03789 AVL---
+*A BE 200101019 200419022 000016  01123  01158              % 03789 AVL---
+*R 1 200419022 200101019 200419022  01123  01158            % 03789 AVL---
+*G STR 200101019 200419022  01123  01158                    % 03789 AVL---
+*A VE 200101019 200419022 000016  01123  01158              % 03789 AVL---
+200101019 Bertrange, Waassertu         01123                % 03789 AVL---
+200101002 Bertrange, Belle Eto  01124  01124                % 03789 AVL---
+200901011 Strassen, Schoenacht  01126  01126                % 03789 AVL---
+200901016 Strassen, Geesseneck  01126  01126                % 03789 AVL---
+200901017 Strassen, Kesseler    01127  01127                % 03789 AVL---
+200901004 Strassen, Barblé      01128  01128                % 03789 AVL---
+200901020 Strassen, Benelux     01129  01129                % 03789 AVL---
+200901018 Strassen, Kiem        01130  01130                % 03789 AVL---
+200901025 Strassen, Réimerwee   01131  01131                % 03789 AVL---
+200901022 Strassen, Michel Ang  01132  01132                % 03789 AVL---
+200901019 Strassen, Les Aubépi  01132  01132                % 03789 AVL---
+200403016 Belair, Rue de l'Oue  01133  01133                % 03789 AVL---
+200403019 Belair, Val Ste Croi  01134  01134                % 03789 AVL---
+200403023 Belair, Glaesener-Ha  01135  01135                % 03789 AVL---
+200403010 Belair, Kierch        01137  01137                % 03789 AVL---
+200403001 Belair, Amsterdam     01137  01137                % 03789 AVL---
+200403002 Belair, Archiducs     01138  01138                % 03789 AVL---
+200403022 Luxembourg, Square N  01139  01139                % 03789 AVL---
+200405045 Centre, Stäreplaz /   01140  01140                % 03789 AVL---
+200403020 Belair, Wampach       01142  01142                % 03789 AVL---
+200405020 Hamilius (Bus)        01145  01150                % 03789 AVL---
+200405014 Centre, Fondation Pe  01152  01152                % 03789 AVL---
+200419026 Limpertsberg, Theate  01153  01153                % 03789 AVL---
+200419025 Limpertsberg, Lycée   01154  01154                % 03789 AVL---
+200419002 Limpertsberg, Alen T  01155  01155                % 03789 AVL---
+200419034 Limpertsberg, Square  01156  01156                % 03789 AVL---
+200419008 Limpertsberg, Batty   01158  01158                % 03789 AVL---
+200419022 Limpertsberg, Lycée   01158                       % 03789 AVL---
+*Z 03790 AVL---       035 020                               % 03790 AVL---
+*L 8        200101019 200419022  00748  00818               % 03790 AVL---
+*A BE 200101019 200419022 000017  00748  00818              % 03790 AVL---
+*R 1 200419022 200101019 200419022  00748  00818            % 03790 AVL---
+*G STR 200101019 200419022  00748  00818                    % 03790 AVL---
+*A VE 200101019 200419022 000017  00748  00818              % 03790 AVL---
+200101019 Bertrange, Waassertu         00748                % 03790 AVL---
+200101002 Bertrange, Belle Eto  00749  00749                % 03790 AVL---
+200901011 Strassen, Schoenacht  00751  00751                % 03790 AVL---
+200901016 Strassen, Geesseneck  00751  00751                % 03790 AVL---
+200901017 Strassen, Kesseler    00752  00752                % 03790 AVL---
+200901004 Strassen, Barblé      00753  00753                % 03790 AVL---
+200901020 Strassen, Benelux     00754  00754                % 03790 AVL---
+200901018 Strassen, Kiem        00755  00755                % 03790 AVL---
+200901025 Strassen, Réimerwee   00756  00756                % 03790 AVL---
+200901022 Strassen, Michel Ang  00757  00757                % 03790 AVL---
+200901019 Strassen, Les Aubépi  00757  00757                % 03790 AVL---
+200403016 Belair, Rue de l'Oue  00758  00758                % 03790 AVL---
+200403019 Belair, Val Ste Croi  00759  00759                % 03790 AVL---
+200403023 Belair, Glaesener-Ha  00800  00800                % 03790 AVL---
+200403010 Belair, Kierch        00802  00802                % 03790 AVL---
+200403001 Belair, Amsterdam     00802  00802                % 03790 AVL---
+200403002 Belair, Archiducs     00803  00803                % 03790 AVL---
+200403022 Luxembourg, Square N  00804  00804                % 03790 AVL---
+200405045 Centre, Stäreplaz /   00805  00805                % 03790 AVL---
+200403020 Belair, Wampach       00807  00807                % 03790 AVL---
+200405020 Hamilius (Bus)        00810  00810                % 03790 AVL---
+200405014 Centre, Fondation Pe  00812  00812                % 03790 AVL---
+200419026 Limpertsberg, Theate  00813  00813                % 03790 AVL---
+200419025 Limpertsberg, Lycée   00814  00814                % 03790 AVL---
+200419002 Limpertsberg, Alen T  00815  00815                % 03790 AVL---
+200419034 Limpertsberg, Square  00816  00816                % 03790 AVL---
+200419008 Limpertsberg, Batty   00818  00818                % 03790 AVL---
+200419022 Limpertsberg, Lycée   00818                       % 03790 AVL---
+*Z 03791 AVL---       001 900                               % 03791 AVL---
+*L 8        200419022 200101019  00538  00611               % 03791 AVL---
+*A BE 200419022 200101019 000040  00538  00611              % 03791 AVL---
+*R 2 200101019 200419022 200101019  00538  00611            % 03791 AVL---
+*G STR 200419022 200101019  00538  00611                    % 03791 AVL---
+*A VE 200419022 200101019 000040  00538  00611              % 03791 AVL---
+200419022 Limpertsberg, Lycée          00538                % 03791 AVL---
+200419034 Limpertsberg, Square  00539  00539                % 03791 AVL---
+200419002 Limpertsberg, Alen T  00540  00540                % 03791 AVL---
+200419025 Limpertsberg, Lycée   00540  00540                % 03791 AVL---
+200419026 Limpertsberg, Theate  00541  00541                % 03791 AVL---
+200405014 Centre, Fondation Pe  00543  00543                % 03791 AVL---
+200405020 Hamilius (Bus)        00546  00550                % 03791 AVL---
+200405045 Centre, Stäreplaz /   00554  00554                % 03791 AVL---
+200403022 Luxembourg, Square N  00556  00556                % 03791 AVL---
+200403002 Belair, Archiducs     00556  00556                % 03791 AVL---
+200403001 Belair, Amsterdam     00557  00557                % 03791 AVL---
+200403010 Belair, Kierch        00558  00558                % 03791 AVL---
+200403023 Belair, Glaesener-Ha  00559  00559                % 03791 AVL---
+200403019 Belair, Val Ste Croi  00600  00600                % 03791 AVL---
+200403016 Belair, Rue de l'Oue  00601  00601                % 03791 AVL---
+200901019 Strassen, Les Aubépi  00602  00602                % 03791 AVL---
+200901022 Strassen, Michel Ang  00602  00602                % 03791 AVL---
+200901025 Strassen, Réimerwee   00603  00603                % 03791 AVL---
+200901018 Strassen, Kiem        00603  00603                % 03791 AVL---
+200901013 Strassen, Grande-Duc  00605  00605                % 03791 AVL---
+200901017 Strassen, Kesseler    00607  00607                % 03791 AVL---
+200901008 Strassen, Chapelle    00608  00608                % 03791 AVL---
+200901026 Strassen, Riedgen     00609  00609                % 03791 AVL---
+200101022 Bertrange, Pesch      00610  00610                % 03791 AVL---
+200101011 Bertrange, Millewee   00611  00611                % 03791 AVL---
+200101019 Bertrange, Waassertu  00611                       % 03791 AVL---
+*Z 03792 AVL---       005 030                               % 03792 AVL---
+*L 8        200419022 200101019  02108  02141               % 03792 AVL---
+*A BE 200419022 200101019 000040  02108  02141              % 03792 AVL---
+*R 2 200101019 200419022 200101019  02108  02141            % 03792 AVL---
+*G STR 200419022 200101019  02108  02141                    % 03792 AVL---
+*A VE 200419022 200101019 000040  02108  02141              % 03792 AVL---
+200419022 Limpertsberg, Lycée          02108                % 03792 AVL---
+200419034 Limpertsberg, Square  02109  02109                % 03792 AVL---
+200419002 Limpertsberg, Alen T  02110  02110                % 03792 AVL---
+200419025 Limpertsberg, Lycée   02110  02110                % 03792 AVL---
+200419026 Limpertsberg, Theate  02111  02111                % 03792 AVL---
+200405014 Centre, Fondation Pe  02113  02113                % 03792 AVL---
+200405020 Hamilius (Bus)        02116  02120                % 03792 AVL---
+200405045 Centre, Stäreplaz /   02124  02124                % 03792 AVL---
+200403022 Luxembourg, Square N  02126  02126                % 03792 AVL---
+200403002 Belair, Archiducs     02126  02126                % 03792 AVL---
+200403001 Belair, Amsterdam     02127  02127                % 03792 AVL---
+200403010 Belair, Kierch        02128  02128                % 03792 AVL---
+200403023 Belair, Glaesener-Ha  02129  02129                % 03792 AVL---
+200403019 Belair, Val Ste Croi  02130  02130                % 03792 AVL---
+200403016 Belair, Rue de l'Oue  02131  02131                % 03792 AVL---
+200901019 Strassen, Les Aubépi  02132  02132                % 03792 AVL---
+200901022 Strassen, Michel Ang  02132  02132                % 03792 AVL---
+200901025 Strassen, Réimerwee   02133  02133                % 03792 AVL---
+200901018 Strassen, Kiem        02133  02133                % 03792 AVL---
+200901013 Strassen, Grande-Duc  02135  02135                % 03792 AVL---
+200901017 Strassen, Kesseler    02137  02137                % 03792 AVL---
+200901008 Strassen, Chapelle    02138  02138                % 03792 AVL---
+200901026 Strassen, Riedgen     02139  02139                % 03792 AVL---
+200101022 Bertrange, Pesch      02140  02140                % 03792 AVL---
+200101011 Bertrange, Millewee   02141  02141                % 03792 AVL---
+200101019 Bertrange, Waassertu  02141                       % 03792 AVL---
+*Z 03793 AVL---       003 030                               % 03793 AVL---
+*L 8        200419022 200101019  00608  00641               % 03793 AVL---
+*A BE 200419022 200101019 000037  00608  00641              % 03793 AVL---
+*R 2 200101019 200419022 200101019  00608  00641            % 03793 AVL---
+*G STR 200419022 200101019  00608  00641                    % 03793 AVL---
+*A VE 200419022 200101019 000037  00608  00641              % 03793 AVL---
+200419022 Limpertsberg, Lycée          00608                % 03793 AVL---
+200419034 Limpertsberg, Square  00609  00609                % 03793 AVL---
+200419002 Limpertsberg, Alen T  00610  00610                % 03793 AVL---
+200419025 Limpertsberg, Lycée   00610  00610                % 03793 AVL---
+200419026 Limpertsberg, Theate  00611  00611                % 03793 AVL---
+200405014 Centre, Fondation Pe  00613  00613                % 03793 AVL---
+200405020 Hamilius (Bus)        00616  00620                % 03793 AVL---
+200405045 Centre, Stäreplaz /   00624  00624                % 03793 AVL---
+200403022 Luxembourg, Square N  00626  00626                % 03793 AVL---
+200403002 Belair, Archiducs     00626  00626                % 03793 AVL---
+200403001 Belair, Amsterdam     00627  00627                % 03793 AVL---
+200403010 Belair, Kierch        00628  00628                % 03793 AVL---
+200403023 Belair, Glaesener-Ha  00629  00629                % 03793 AVL---
+200403019 Belair, Val Ste Croi  00630  00630                % 03793 AVL---
+200403016 Belair, Rue de l'Oue  00631  00631                % 03793 AVL---
+200901019 Strassen, Les Aubépi  00632  00632                % 03793 AVL---
+200901022 Strassen, Michel Ang  00632  00632                % 03793 AVL---
+200901025 Strassen, Réimerwee   00633  00633                % 03793 AVL---
+200901018 Strassen, Kiem        00633  00633                % 03793 AVL---
+200901013 Strassen, Grande-Duc  00635  00635                % 03793 AVL---
+200901017 Strassen, Kesseler    00637  00637                % 03793 AVL---
+200901008 Strassen, Chapelle    00638  00638                % 03793 AVL---
+200901026 Strassen, Riedgen     00639  00639                % 03793 AVL---
+200101022 Bertrange, Pesch      00640  00640                % 03793 AVL---
+200101011 Bertrange, Millewee   00641  00641                % 03793 AVL---
+200101019 Bertrange, Waassertu  00641                       % 03793 AVL---
+*Z 03794 AVL---       006 030                               % 03794 AVL---
+*L 8        200419022 200101019  00808  00841               % 03794 AVL---
+*A BE 200419022 200101019 000016  00808  00841              % 03794 AVL---
+*R 2 200101019 200419022 200101019  00808  00841            % 03794 AVL---
+*G STR 200419022 200101019  00808  00841                    % 03794 AVL---
+*A VE 200419022 200101019 000016  00808  00841              % 03794 AVL---
+200419022 Limpertsberg, Lycée          00808                % 03794 AVL---
+200419034 Limpertsberg, Square  00809  00809                % 03794 AVL---
+200419002 Limpertsberg, Alen T  00810  00810                % 03794 AVL---
+200419025 Limpertsberg, Lycée   00810  00810                % 03794 AVL---
+200419026 Limpertsberg, Theate  00811  00811                % 03794 AVL---
+200405014 Centre, Fondation Pe  00813  00813                % 03794 AVL---
+200405020 Hamilius (Bus)        00816  00820                % 03794 AVL---
+200405045 Centre, Stäreplaz /   00824  00824                % 03794 AVL---
+200403022 Luxembourg, Square N  00826  00826                % 03794 AVL---
+200403002 Belair, Archiducs     00826  00826                % 03794 AVL---
+200403001 Belair, Amsterdam     00827  00827                % 03794 AVL---
+200403010 Belair, Kierch        00828  00828                % 03794 AVL---
+200403023 Belair, Glaesener-Ha  00829  00829                % 03794 AVL---
+200403019 Belair, Val Ste Croi  00830  00830                % 03794 AVL---
+200403016 Belair, Rue de l'Oue  00831  00831                % 03794 AVL---
+200901019 Strassen, Les Aubépi  00832  00832                % 03794 AVL---
+200901022 Strassen, Michel Ang  00832  00832                % 03794 AVL---
+200901025 Strassen, Réimerwee   00833  00833                % 03794 AVL---
+200901018 Strassen, Kiem        00833  00833                % 03794 AVL---
+200901013 Strassen, Grande-Duc  00835  00835                % 03794 AVL---
+200901017 Strassen, Kesseler    00837  00837                % 03794 AVL---
+200901008 Strassen, Chapelle    00838  00838                % 03794 AVL---
+200901026 Strassen, Riedgen     00839  00839                % 03794 AVL---
+200101022 Bertrange, Pesch      00840  00840                % 03794 AVL---
+200101011 Bertrange, Millewee   00841  00841                % 03794 AVL---
+200101019 Bertrange, Waassertu  00841                       % 03794 AVL---
+*Z 03795 AVL---                                             % 03795 AVL---
+*L 8        200419022 200101019  02008  02041               % 03795 AVL---
+*A BE 200419022 200101019 000016  02008  02041              % 03795 AVL---
+*R 2 200101019 200419022 200101019  02008  02041            % 03795 AVL---
+*G STR 200419022 200101019  02008  02041                    % 03795 AVL---
+*A VE 200419022 200101019 000016  02008  02041              % 03795 AVL---
+200419022 Limpertsberg, Lycée          02008                % 03795 AVL---
+200419034 Limpertsberg, Square  02009  02009                % 03795 AVL---
+200419002 Limpertsberg, Alen T  02010  02010                % 03795 AVL---
+200419025 Limpertsberg, Lycée   02010  02010                % 03795 AVL---
+200419026 Limpertsberg, Theate  02011  02011                % 03795 AVL---
+200405014 Centre, Fondation Pe  02013  02013                % 03795 AVL---
+200405020 Hamilius (Bus)        02016  02020                % 03795 AVL---
+200405045 Centre, Stäreplaz /   02024  02024                % 03795 AVL---
+200403022 Luxembourg, Square N  02026  02026                % 03795 AVL---
+200403002 Belair, Archiducs     02026  02026                % 03795 AVL---
+200403001 Belair, Amsterdam     02027  02027                % 03795 AVL---
+200403010 Belair, Kierch        02028  02028                % 03795 AVL---
+200403023 Belair, Glaesener-Ha  02029  02029                % 03795 AVL---
+200403019 Belair, Val Ste Croi  02030  02030                % 03795 AVL---
+200403016 Belair, Rue de l'Oue  02031  02031                % 03795 AVL---
+200901019 Strassen, Les Aubépi  02032  02032                % 03795 AVL---
+200901022 Strassen, Michel Ang  02032  02032                % 03795 AVL---
+200901025 Strassen, Réimerwee   02033  02033                % 03795 AVL---
+200901018 Strassen, Kiem        02033  02033                % 03795 AVL---
+200901013 Strassen, Grande-Duc  02035  02035                % 03795 AVL---
+200901017 Strassen, Kesseler    02037  02037                % 03795 AVL---
+200901008 Strassen, Chapelle    02038  02038                % 03795 AVL---
+200901026 Strassen, Riedgen     02039  02039                % 03795 AVL---
+200101022 Bertrange, Pesch      02040  02040                % 03795 AVL---
+200101011 Bertrange, Millewee   02041  02041                % 03795 AVL---
+200101019 Bertrange, Waassertu  02041                       % 03795 AVL---
+*Z 03796 AVL---       040 020                               % 03796 AVL---
+*L 8        200419022 200101019  00609  00645               % 03796 AVL---
+*A BE 200419022 200101019 000034  00609  00645              % 03796 AVL---
+*R 2 200101019 200419022 200101019  00609  00645            % 03796 AVL---
+*G STR 200419022 200101019  00609  00645                    % 03796 AVL---
+*A VE 200419022 200101019 000034  00609  00645              % 03796 AVL---
+200419022 Limpertsberg, Lycée          00609                % 03796 AVL---
+200419034 Limpertsberg, Square  00610  00610                % 03796 AVL---
+200419002 Limpertsberg, Alen T  00611  00611                % 03796 AVL---
+200419025 Limpertsberg, Lycée   00612  00612                % 03796 AVL---
+200419026 Limpertsberg, Theate  00614  00614                % 03796 AVL---
+200405014 Centre, Fondation Pe  00615  00615                % 03796 AVL---
+200405020 Hamilius (Bus)        00620  00620                % 03796 AVL---
+200405045 Centre, Stäreplaz /   00624  00624                % 03796 AVL---
+200403022 Luxembourg, Square N  00627  00627                % 03796 AVL---
+200403002 Belair, Archiducs     00627  00627                % 03796 AVL---
+200403001 Belair, Amsterdam     00628  00628                % 03796 AVL---
+200403010 Belair, Kierch        00629  00629                % 03796 AVL---
+200403023 Belair, Glaesener-Ha  00631  00631                % 03796 AVL---
+200403019 Belair, Val Ste Croi  00632  00632                % 03796 AVL---
+200403016 Belair, Rue de l'Oue  00633  00633                % 03796 AVL---
+200901019 Strassen, Les Aubépi  00634  00634                % 03796 AVL---
+200901022 Strassen, Michel Ang  00634  00634                % 03796 AVL---
+200901025 Strassen, Réimerwee   00635  00635                % 03796 AVL---
+200901018 Strassen, Kiem        00636  00636                % 03796 AVL---
+200901013 Strassen, Grande-Duc  00637  00637                % 03796 AVL---
+200901017 Strassen, Kesseler    00639  00639                % 03796 AVL---
+200901008 Strassen, Chapelle    00641  00641                % 03796 AVL---
+200901026 Strassen, Riedgen     00642  00642                % 03796 AVL---
+200101022 Bertrange, Pesch      00643  00643                % 03796 AVL---
+200101011 Bertrange, Millewee   00644  00644                % 03796 AVL---
+200101019 Bertrange, Waassertu  00645                       % 03796 AVL---
+*Z 03797 AVL---       001 020                               % 03797 AVL---
+*L 8        200419022 200101019  01952  02021               % 03797 AVL---
+*A BE 200419022 200101019 000034  01952  02021              % 03797 AVL---
+*R 2 200101019 200419022 200101019  01952  02021            % 03797 AVL---
+*G STR 200419022 200101019  01952  02021                    % 03797 AVL---
+*A VE 200419022 200101019 000034  01952  02021              % 03797 AVL---
+200419022 Limpertsberg, Lycée          01952                % 03797 AVL---
+200419034 Limpertsberg, Square  01953  01953                % 03797 AVL---
+200419002 Limpertsberg, Alen T  01954  01954                % 03797 AVL---
+200419025 Limpertsberg, Lycée   01954  01954                % 03797 AVL---
+200419026 Limpertsberg, Theate  01955  01955                % 03797 AVL---
+200405014 Centre, Fondation Pe  01957  01957                % 03797 AVL---
+200405020 Hamilius (Bus)        02000  02000                % 03797 AVL---
+200405045 Centre, Stäreplaz /   02004  02004                % 03797 AVL---
+200403022 Luxembourg, Square N  02006  02006                % 03797 AVL---
+200403002 Belair, Archiducs     02006  02006                % 03797 AVL---
+200403001 Belair, Amsterdam     02007  02007                % 03797 AVL---
+200403010 Belair, Kierch        02008  02008                % 03797 AVL---
+200403023 Belair, Glaesener-Ha  02009  02009                % 03797 AVL---
+200403019 Belair, Val Ste Croi  02010  02010                % 03797 AVL---
+200403016 Belair, Rue de l'Oue  02011  02011                % 03797 AVL---
+200901019 Strassen, Les Aubépi  02012  02012                % 03797 AVL---
+200901022 Strassen, Michel Ang  02012  02012                % 03797 AVL---
+200901025 Strassen, Réimerwee   02013  02013                % 03797 AVL---
+200901018 Strassen, Kiem        02013  02013                % 03797 AVL---
+200901013 Strassen, Grande-Duc  02015  02015                % 03797 AVL---
+200901017 Strassen, Kesseler    02017  02017                % 03797 AVL---
+200901008 Strassen, Chapelle    02018  02018                % 03797 AVL---
+200901026 Strassen, Riedgen     02019  02019                % 03797 AVL---
+200101022 Bertrange, Pesch      02020  02020                % 03797 AVL---
+200101011 Bertrange, Millewee   02021  02021                % 03797 AVL---
+200101019 Bertrange, Waassertu  02021                       % 03797 AVL---
+*Z 03798 AVL---       016 030                               % 03798 AVL---
+*L 8        200419022 200101019  01137  01212               % 03798 AVL---
+*A BE 200419022 200101019 000016  01137  01212              % 03798 AVL---
+*R 2 200101019 200419022 200101019  01137  01212            % 03798 AVL---
+*G STR 200419022 200101019  01137  01212                    % 03798 AVL---
+*A VE 200419022 200101019 000016  01137  01212              % 03798 AVL---
+200419022 Limpertsberg, Lycée          01137                % 03798 AVL---
+200419034 Limpertsberg, Square  01137  01137                % 03798 AVL---
+200419002 Limpertsberg, Alen T  01138  01138                % 03798 AVL---
+200419025 Limpertsberg, Lycée   01139  01139                % 03798 AVL---
+200419026 Limpertsberg, Theate  01140  01140                % 03798 AVL---
+200405014 Centre, Fondation Pe  01142  01142                % 03798 AVL---
+200405020 Hamilius (Bus)        01146  01150                % 03798 AVL---
+200405045 Centre, Stäreplaz /   01154  01154                % 03798 AVL---
+200403022 Luxembourg, Square N  01156  01156                % 03798 AVL---
+200403002 Belair, Archiducs     01157  01157                % 03798 AVL---
+200403001 Belair, Amsterdam     01157  01157                % 03798 AVL---
+200403010 Belair, Kierch        01158  01158                % 03798 AVL---
+200403023 Belair, Glaesener-Ha  01159  01159                % 03798 AVL---
+200403019 Belair, Val Ste Croi  01200  01200                % 03798 AVL---
+200403016 Belair, Rue de l'Oue  01201  01201                % 03798 AVL---
+200901019 Strassen, Les Aubépi  01202  01202                % 03798 AVL---
+200901022 Strassen, Michel Ang  01202  01202                % 03798 AVL---
+200901025 Strassen, Réimerwee   01203  01203                % 03798 AVL---
+200901018 Strassen, Kiem        01204  01204                % 03798 AVL---
+200901013 Strassen, Grande-Duc  01205  01205                % 03798 AVL---
+200901017 Strassen, Kesseler    01207  01207                % 03798 AVL---
+200901008 Strassen, Chapelle    01208  01208                % 03798 AVL---
+200901026 Strassen, Riedgen     01209  01209                % 03798 AVL---
+200101022 Bertrange, Pesch      01210  01210                % 03798 AVL---
+200101011 Bertrange, Millewee   01211  01211                % 03798 AVL---
+200101019 Bertrange, Waassertu  01212                       % 03798 AVL---
+*Z 03799 AVL---       037 020                               % 03799 AVL---
+*L 8        200419022 200101019  00751  00822               % 03799 AVL---
+*A BE 200419022 200101019 000017  00751  00822              % 03799 AVL---
+*R 2 200101019 200419022 200101019  00751  00822            % 03799 AVL---
+*G STR 200419022 200101019  00751  00822                    % 03799 AVL---
+*A VE 200419022 200101019 000017  00751  00822              % 03799 AVL---
+200419022 Limpertsberg, Lycée          00751                % 03799 AVL---
+200419034 Limpertsberg, Square  00751  00751                % 03799 AVL---
+200419002 Limpertsberg, Alen T  00752  00752                % 03799 AVL---
+200419025 Limpertsberg, Lycée   00753  00753                % 03799 AVL---
+200419026 Limpertsberg, Theate  00754  00754                % 03799 AVL---
+200405014 Centre, Fondation Pe  00756  00756                % 03799 AVL---
+200405020 Hamilius (Bus)        00800  00800                % 03799 AVL---
+200405045 Centre, Stäreplaz /   00804  00804                % 03799 AVL---
+200403022 Luxembourg, Square N  00806  00806                % 03799 AVL---
+200403002 Belair, Archiducs     00807  00807                % 03799 AVL---
+200403001 Belair, Amsterdam     00807  00807                % 03799 AVL---
+200403010 Belair, Kierch        00808  00808                % 03799 AVL---
+200403023 Belair, Glaesener-Ha  00809  00809                % 03799 AVL---
+200403019 Belair, Val Ste Croi  00810  00810                % 03799 AVL---
+200403016 Belair, Rue de l'Oue  00811  00811                % 03799 AVL---
+200901019 Strassen, Les Aubépi  00812  00812                % 03799 AVL---
+200901022 Strassen, Michel Ang  00812  00812                % 03799 AVL---
+200901025 Strassen, Réimerwee   00813  00813                % 03799 AVL---
+200901018 Strassen, Kiem        00814  00814                % 03799 AVL---
+200901013 Strassen, Grande-Duc  00815  00815                % 03799 AVL---
+200901017 Strassen, Kesseler    00817  00817                % 03799 AVL---
+200901008 Strassen, Chapelle    00818  00818                % 03799 AVL---
+200901026 Strassen, Riedgen     00819  00819                % 03799 AVL---
+200101022 Bertrange, Pesch      00820  00820                % 03799 AVL---
+200101011 Bertrange, Millewee   00821  00821                % 03799 AVL---
+200101019 Bertrange, Waassertu  00822                       % 03799 AVL---
+*Z 03800 AVL---       001 900                               % 03800 AVL---
+*L 8        200101019 200419022  00524  00558               % 03800 AVL---
+*A BE 200101019 200419022 000039  00524  00558              % 03800 AVL---
+*R 1 200419022 200101019 200419022  00524  00558            % 03800 AVL---
+*G STR 200101019 200419022  00524  00558                    % 03800 AVL---
+*A VE 200101019 200419022 000039  00524  00558              % 03800 AVL---
+200101019 Bertrange, Waassertu         00524                % 03800 AVL---
+200101002 Bertrange, Belle Eto  00525  00525                % 03800 AVL---
+200901011 Strassen, Schoenacht  00527  00527                % 03800 AVL---
+200901016 Strassen, Geesseneck  00527  00527                % 03800 AVL---
+200901017 Strassen, Kesseler    00528  00528                % 03800 AVL---
+200901004 Strassen, Barblé      00529  00529                % 03800 AVL---
+200901020 Strassen, Benelux     00529  00529                % 03800 AVL---
+200901018 Strassen, Kiem        00530  00530                % 03800 AVL---
+200901025 Strassen, Réimerwee   00531  00531                % 03800 AVL---
+200901022 Strassen, Michel Ang  00532  00532                % 03800 AVL---
+200901019 Strassen, Les Aubépi  00532  00532                % 03800 AVL---
+200403016 Belair, Rue de l'Oue  00533  00533                % 03800 AVL---
+200403019 Belair, Val Ste Croi  00534  00534                % 03800 AVL---
+200403023 Belair, Glaesener-Ha  00535  00535                % 03800 AVL---
+200403010 Belair, Kierch        00537  00537                % 03800 AVL---
+200403001 Belair, Amsterdam     00538  00538                % 03800 AVL---
+200403002 Belair, Archiducs     00538  00538                % 03800 AVL---
+200403022 Luxembourg, Square N  00539  00539                % 03800 AVL---
+200405045 Centre, Stäreplaz /   00540  00540                % 03800 AVL---
+200403020 Belair, Wampach       00542  00542                % 03800 AVL---
+200405020 Hamilius (Bus)        00545  00550                % 03800 AVL---
+200405014 Centre, Fondation Pe  00552  00552                % 03800 AVL---
+200419036 Limpertsberg, Faïenc  00554  00554                % 03800 AVL---
+200419019 Limpertsberg, Henri   00555  00555                % 03800 AVL---
+200419014 Limpertsberg, Ermesi  00556  00556                % 03800 AVL---
+200419020 Luxembourg, Uni Camp  00557  00557                % 03800 AVL---
+200419008 Limpertsberg, Batty   00557  00557                % 03800 AVL---
+200419022 Limpertsberg, Lycée   00558                       % 03800 AVL---
+*Z 03801 AVL---       005 030                               % 03801 AVL---
+*L 8        200101019 200419022  02054  02128               % 03801 AVL---
+*A BE 200101019 200419022 000039  02054  02128              % 03801 AVL---
+*R 1 200419022 200101019 200419022  02054  02128            % 03801 AVL---
+*G STR 200101019 200419022  02054  02128                    % 03801 AVL---
+*A VE 200101019 200419022 000039  02054  02128              % 03801 AVL---
+200101019 Bertrange, Waassertu         02054                % 03801 AVL---
+200101002 Bertrange, Belle Eto  02055  02055                % 03801 AVL---
+200901011 Strassen, Schoenacht  02057  02057                % 03801 AVL---
+200901016 Strassen, Geesseneck  02057  02057                % 03801 AVL---
+200901017 Strassen, Kesseler    02058  02058                % 03801 AVL---
+200901004 Strassen, Barblé      02059  02059                % 03801 AVL---
+200901020 Strassen, Benelux     02059  02059                % 03801 AVL---
+200901018 Strassen, Kiem        02100  02100                % 03801 AVL---
+200901025 Strassen, Réimerwee   02101  02101                % 03801 AVL---
+200901022 Strassen, Michel Ang  02102  02102                % 03801 AVL---
+200901019 Strassen, Les Aubépi  02102  02102                % 03801 AVL---
+200403016 Belair, Rue de l'Oue  02103  02103                % 03801 AVL---
+200403019 Belair, Val Ste Croi  02104  02104                % 03801 AVL---
+200403023 Belair, Glaesener-Ha  02105  02105                % 03801 AVL---
+200403010 Belair, Kierch        02107  02107                % 03801 AVL---
+200403001 Belair, Amsterdam     02108  02108                % 03801 AVL---
+200403002 Belair, Archiducs     02108  02108                % 03801 AVL---
+200403022 Luxembourg, Square N  02109  02109                % 03801 AVL---
+200405045 Centre, Stäreplaz /   02110  02110                % 03801 AVL---
+200403020 Belair, Wampach       02112  02112                % 03801 AVL---
+200405020 Hamilius (Bus)        02115  02120                % 03801 AVL---
+200405014 Centre, Fondation Pe  02122  02122                % 03801 AVL---
+200419036 Limpertsberg, Faïenc  02124  02124                % 03801 AVL---
+200419019 Limpertsberg, Henri   02125  02125                % 03801 AVL---
+200419014 Limpertsberg, Ermesi  02126  02126                % 03801 AVL---
+200419020 Luxembourg, Uni Camp  02127  02127                % 03801 AVL---
+200419008 Limpertsberg, Batty   02127  02127                % 03801 AVL---
+200419022 Limpertsberg, Lycée   02128                       % 03801 AVL---
+*Z 03802 AVL---       006 030                               % 03802 AVL---
+*L 8        200101019 200419022  00754  00828               % 03802 AVL---
+*A BE 200101019 200419022 000018  00754  00828              % 03802 AVL---
+*R 1 200419022 200101019 200419022  00754  00828            % 03802 AVL---
+*G STR 200101019 200419022  00754  00828                    % 03802 AVL---
+*A VE 200101019 200419022 000018  00754  00828              % 03802 AVL---
+200101019 Bertrange, Waassertu         00754                % 03802 AVL---
+200101002 Bertrange, Belle Eto  00755  00755                % 03802 AVL---
+200901011 Strassen, Schoenacht  00757  00757                % 03802 AVL---
+200901016 Strassen, Geesseneck  00757  00757                % 03802 AVL---
+200901017 Strassen, Kesseler    00758  00758                % 03802 AVL---
+200901004 Strassen, Barblé      00759  00759                % 03802 AVL---
+200901020 Strassen, Benelux     00759  00759                % 03802 AVL---
+200901018 Strassen, Kiem        00800  00800                % 03802 AVL---
+200901025 Strassen, Réimerwee   00801  00801                % 03802 AVL---
+200901022 Strassen, Michel Ang  00802  00802                % 03802 AVL---
+200901019 Strassen, Les Aubépi  00802  00802                % 03802 AVL---
+200403016 Belair, Rue de l'Oue  00803  00803                % 03802 AVL---
+200403019 Belair, Val Ste Croi  00804  00804                % 03802 AVL---
+200403023 Belair, Glaesener-Ha  00805  00805                % 03802 AVL---
+200403010 Belair, Kierch        00807  00807                % 03802 AVL---
+200403001 Belair, Amsterdam     00808  00808                % 03802 AVL---
+200403002 Belair, Archiducs     00808  00808                % 03802 AVL---
+200403022 Luxembourg, Square N  00809  00809                % 03802 AVL---
+200405045 Centre, Stäreplaz /   00810  00810                % 03802 AVL---
+200403020 Belair, Wampach       00812  00812                % 03802 AVL---
+200405020 Hamilius (Bus)        00815  00820                % 03802 AVL---
+200405014 Centre, Fondation Pe  00822  00822                % 03802 AVL---
+200419036 Limpertsberg, Faïenc  00824  00824                % 03802 AVL---
+200419019 Limpertsberg, Henri   00825  00825                % 03802 AVL---
+200419014 Limpertsberg, Ermesi  00826  00826                % 03802 AVL---
+200419020 Luxembourg, Uni Camp  00827  00827                % 03802 AVL---
+200419008 Limpertsberg, Batty   00827  00827                % 03802 AVL---
+200419022 Limpertsberg, Lycée   00828                       % 03802 AVL---
+*Z 03803 AVL---                                             % 03803 AVL---
+*L 8        200101019 200419022  01954  02028               % 03803 AVL---
+*A BE 200101019 200419022 000018  01954  02028              % 03803 AVL---
+*R 1 200419022 200101019 200419022  01954  02028            % 03803 AVL---
+*G STR 200101019 200419022  01954  02028                    % 03803 AVL---
+*A VE 200101019 200419022 000018  01954  02028              % 03803 AVL---
+200101019 Bertrange, Waassertu         01954                % 03803 AVL---
+200101002 Bertrange, Belle Eto  01955  01955                % 03803 AVL---
+200901011 Strassen, Schoenacht  01957  01957                % 03803 AVL---
+200901016 Strassen, Geesseneck  01957  01957                % 03803 AVL---
+200901017 Strassen, Kesseler    01958  01958                % 03803 AVL---
+200901004 Strassen, Barblé      01959  01959                % 03803 AVL---
+200901020 Strassen, Benelux     01959  01959                % 03803 AVL---
+200901018 Strassen, Kiem        02000  02000                % 03803 AVL---
+200901025 Strassen, Réimerwee   02001  02001                % 03803 AVL---
+200901022 Strassen, Michel Ang  02002  02002                % 03803 AVL---
+200901019 Strassen, Les Aubépi  02002  02002                % 03803 AVL---
+200403016 Belair, Rue de l'Oue  02003  02003                % 03803 AVL---
+200403019 Belair, Val Ste Croi  02004  02004                % 03803 AVL---
+200403023 Belair, Glaesener-Ha  02005  02005                % 03803 AVL---
+200403010 Belair, Kierch        02007  02007                % 03803 AVL---
+200403001 Belair, Amsterdam     02008  02008                % 03803 AVL---
+200403002 Belair, Archiducs     02008  02008                % 03803 AVL---
+200403022 Luxembourg, Square N  02009  02009                % 03803 AVL---
+200405045 Centre, Stäreplaz /   02010  02010                % 03803 AVL---
+200403020 Belair, Wampach       02012  02012                % 03803 AVL---
+200405020 Hamilius (Bus)        02015  02020                % 03803 AVL---
+200405014 Centre, Fondation Pe  02022  02022                % 03803 AVL---
+200419036 Limpertsberg, Faïenc  02024  02024                % 03803 AVL---
+200419019 Limpertsberg, Henri   02025  02025                % 03803 AVL---
+200419014 Limpertsberg, Ermesi  02026  02026                % 03803 AVL---
+200419020 Luxembourg, Uni Camp  02027  02027                % 03803 AVL---
+200419008 Limpertsberg, Batty   02027  02027                % 03803 AVL---
+200419022 Limpertsberg, Lycée   02028                       % 03803 AVL---
+*Z 03804 AVL---       003 030                               % 03804 AVL---
+*L 8        200101019 200419022  00554  00628               % 03804 AVL---
+*A BE 200101019 200419022 000035  00554  00628              % 03804 AVL---
+*R 1 200419022 200101019 200419022  00554  00628            % 03804 AVL---
+*G STR 200101019 200419022  00554  00628                    % 03804 AVL---
+*A VE 200101019 200419022 000035  00554  00628              % 03804 AVL---
+200101019 Bertrange, Waassertu         00554                % 03804 AVL---
+200101002 Bertrange, Belle Eto  00555  00555                % 03804 AVL---
+200901011 Strassen, Schoenacht  00557  00557                % 03804 AVL---
+200901016 Strassen, Geesseneck  00557  00557                % 03804 AVL---
+200901017 Strassen, Kesseler    00558  00558                % 03804 AVL---
+200901004 Strassen, Barblé      00559  00559                % 03804 AVL---
+200901020 Strassen, Benelux     00559  00559                % 03804 AVL---
+200901018 Strassen, Kiem        00600  00600                % 03804 AVL---
+200901025 Strassen, Réimerwee   00601  00601                % 03804 AVL---
+200901022 Strassen, Michel Ang  00602  00602                % 03804 AVL---
+200901019 Strassen, Les Aubépi  00602  00602                % 03804 AVL---
+200403016 Belair, Rue de l'Oue  00603  00603                % 03804 AVL---
+200403019 Belair, Val Ste Croi  00604  00604                % 03804 AVL---
+200403023 Belair, Glaesener-Ha  00605  00605                % 03804 AVL---
+200403010 Belair, Kierch        00607  00607                % 03804 AVL---
+200403001 Belair, Amsterdam     00608  00608                % 03804 AVL---
+200403002 Belair, Archiducs     00608  00608                % 03804 AVL---
+200403022 Luxembourg, Square N  00609  00609                % 03804 AVL---
+200405045 Centre, Stäreplaz /   00610  00610                % 03804 AVL---
+200403020 Belair, Wampach       00612  00612                % 03804 AVL---
+200405020 Hamilius (Bus)        00615  00620                % 03804 AVL---
+200405014 Centre, Fondation Pe  00622  00622                % 03804 AVL---
+200419036 Limpertsberg, Faïenc  00624  00624                % 03804 AVL---
+200419019 Limpertsberg, Henri   00625  00625                % 03804 AVL---
+200419014 Limpertsberg, Ermesi  00626  00626                % 03804 AVL---
+200419020 Luxembourg, Uni Camp  00627  00627                % 03804 AVL---
+200419008 Limpertsberg, Batty   00627  00627                % 03804 AVL---
+200419022 Limpertsberg, Lycée   00628                       % 03804 AVL---
+*Z 03805 AVL---       035 020                               % 03805 AVL---
+*L 8        200101019 200419022  00748  00818               % 03805 AVL---
+*A BE 200101019 200419022 000025  00748  00818              % 03805 AVL---
+*R 1 200419022 200101019 200419022  00748  00818            % 03805 AVL---
+*G STR 200101019 200419022  00748  00818                    % 03805 AVL---
+*A VE 200101019 200419022 000025  00748  00818              % 03805 AVL---
+200101019 Bertrange, Waassertu         00748                % 03805 AVL---
+200101002 Bertrange, Belle Eto  00749  00749                % 03805 AVL---
+200901011 Strassen, Schoenacht  00751  00751                % 03805 AVL---
+200901016 Strassen, Geesseneck  00751  00751                % 03805 AVL---
+200901017 Strassen, Kesseler    00752  00752                % 03805 AVL---
+200901004 Strassen, Barblé      00753  00753                % 03805 AVL---
+200901020 Strassen, Benelux     00754  00754                % 03805 AVL---
+200901018 Strassen, Kiem        00755  00755                % 03805 AVL---
+200901025 Strassen, Réimerwee   00756  00756                % 03805 AVL---
+200901022 Strassen, Michel Ang  00757  00757                % 03805 AVL---
+200901019 Strassen, Les Aubépi  00757  00757                % 03805 AVL---
+200403016 Belair, Rue de l'Oue  00758  00758                % 03805 AVL---
+200403019 Belair, Val Ste Croi  00759  00759                % 03805 AVL---
+200403023 Belair, Glaesener-Ha  00800  00800                % 03805 AVL---
+200403010 Belair, Kierch        00802  00802                % 03805 AVL---
+200403001 Belair, Amsterdam     00802  00802                % 03805 AVL---
+200403002 Belair, Archiducs     00803  00803                % 03805 AVL---
+200403022 Luxembourg, Square N  00804  00804                % 03805 AVL---
+200405045 Centre, Stäreplaz /   00805  00805                % 03805 AVL---
+200403020 Belair, Wampach       00807  00807                % 03805 AVL---
+200405020 Hamilius (Bus)        00810  00810                % 03805 AVL---
+200405014 Centre, Fondation Pe  00812  00812                % 03805 AVL---
+200419036 Limpertsberg, Faïenc  00814  00814                % 03805 AVL---
+200419019 Limpertsberg, Henri   00815  00815                % 03805 AVL---
+200419014 Limpertsberg, Ermesi  00816  00816                % 03805 AVL---
+200419020 Luxembourg, Uni Camp  00817  00817                % 03805 AVL---
+200419008 Limpertsberg, Batty   00818  00818                % 03805 AVL---
+200419022 Limpertsberg, Lycée   00818                       % 03805 AVL---
+*Z 03806 AVL---       001 020                               % 03806 AVL---
+*L 8        200101019 200419022  01949  02018               % 03806 AVL---
+*A BE 200101019 200419022 000025  01949  02018              % 03806 AVL---
+*R 1 200419022 200101019 200419022  01949  02018            % 03806 AVL---
+*G STR 200101019 200419022  01949  02018                    % 03806 AVL---
+*A VE 200101019 200419022 000025  01949  02018              % 03806 AVL---
+200101019 Bertrange, Waassertu         01949                % 03806 AVL---
+200101002 Bertrange, Belle Eto  01950  01950                % 03806 AVL---
+200901011 Strassen, Schoenacht  01952  01952                % 03806 AVL---
+200901016 Strassen, Geesseneck  01952  01952                % 03806 AVL---
+200901017 Strassen, Kesseler    01953  01953                % 03806 AVL---
+200901004 Strassen, Barblé      01954  01954                % 03806 AVL---
+200901020 Strassen, Benelux     01954  01954                % 03806 AVL---
+200901018 Strassen, Kiem        01955  01955                % 03806 AVL---
+200901025 Strassen, Réimerwee   01956  01956                % 03806 AVL---
+200901022 Strassen, Michel Ang  01957  01957                % 03806 AVL---
+200901019 Strassen, Les Aubépi  01957  01957                % 03806 AVL---
+200403016 Belair, Rue de l'Oue  01958  01958                % 03806 AVL---
+200403019 Belair, Val Ste Croi  01959  01959                % 03806 AVL---
+200403023 Belair, Glaesener-Ha  02000  02000                % 03806 AVL---
+200403010 Belair, Kierch        02002  02002                % 03806 AVL---
+200403001 Belair, Amsterdam     02003  02003                % 03806 AVL---
+200403002 Belair, Archiducs     02003  02003                % 03806 AVL---
+200403022 Luxembourg, Square N  02004  02004                % 03806 AVL---
+200405045 Centre, Stäreplaz /   02005  02005                % 03806 AVL---
+200403020 Belair, Wampach       02007  02007                % 03806 AVL---
+200405020 Hamilius (Bus)        02010  02010                % 03806 AVL---
+200405014 Centre, Fondation Pe  02012  02012                % 03806 AVL---
+200419036 Limpertsberg, Faïenc  02014  02014                % 03806 AVL---
+200419019 Limpertsberg, Henri   02015  02015                % 03806 AVL---
+200419014 Limpertsberg, Ermesi  02016  02016                % 03806 AVL---
+200419020 Luxembourg, Uni Camp  02017  02017                % 03806 AVL---
+200419008 Limpertsberg, Batty   02017  02017                % 03806 AVL---
+200419022 Limpertsberg, Lycée   02018                       % 03806 AVL---
+*Z 03807 AVL---       001 020                               % 03807 AVL---
+*L 8        200101019 200419022  01948  02017               % 03807 AVL---
+*A BE 200101019 200419022 000033  01948  02017              % 03807 AVL---
+*R 1 200419022 200101019 200419022  01948  02017            % 03807 AVL---
+*G STR 200101019 200419022  01948  02017                    % 03807 AVL---
+*A VE 200101019 200419022 000033  01948  02017              % 03807 AVL---
+200101019 Bertrange, Waassertu         01948                % 03807 AVL---
+200101002 Bertrange, Belle Eto  01949  01949                % 03807 AVL---
+200901011 Strassen, Schoenacht  01951  01951                % 03807 AVL---
+200901016 Strassen, Geesseneck  01951  01951                % 03807 AVL---
+200901017 Strassen, Kesseler    01952  01952                % 03807 AVL---
+200901004 Strassen, Barblé      01953  01953                % 03807 AVL---
+200901020 Strassen, Benelux     01953  01953                % 03807 AVL---
+200901018 Strassen, Kiem        01954  01954                % 03807 AVL---
+200901025 Strassen, Réimerwee   01955  01955                % 03807 AVL---
+200901022 Strassen, Michel Ang  01956  01956                % 03807 AVL---
+200901019 Strassen, Les Aubépi  01956  01956                % 03807 AVL---
+200403016 Belair, Rue de l'Oue  01957  01957                % 03807 AVL---
+200403019 Belair, Val Ste Croi  01958  01958                % 03807 AVL---
+200403023 Belair, Glaesener-Ha  01959  01959                % 03807 AVL---
+200403010 Belair, Kierch        02001  02001                % 03807 AVL---
+200403001 Belair, Amsterdam     02002  02002                % 03807 AVL---
+200403002 Belair, Archiducs     02002  02002                % 03807 AVL---
+200403022 Luxembourg, Square N  02003  02003                % 03807 AVL---
+200405045 Centre, Stäreplaz /   02004  02004                % 03807 AVL---
+200403020 Belair, Wampach       02006  02006                % 03807 AVL---
+200405020 Hamilius (Bus)        02009  02009                % 03807 AVL---
+200405014 Centre, Fondation Pe  02011  02011                % 03807 AVL---
+200419036 Limpertsberg, Faïenc  02013  02013                % 03807 AVL---
+200419019 Limpertsberg, Henri   02014  02014                % 03807 AVL---
+200419014 Limpertsberg, Ermesi  02015  02015                % 03807 AVL---
+200419020 Luxembourg, Uni Camp  02016  02016                % 03807 AVL---
+200419008 Limpertsberg, Batty   02016  02016                % 03807 AVL---
+200419022 Limpertsberg, Lycée   02017                       % 03807 AVL---
+*Z 03808 AVL---       016 030                               % 03808 AVL---
+*L 8        200101019 200419022  01123  01158               % 03808 AVL---
+*A BE 200101019 200419022 000018  01123  01158              % 03808 AVL---
+*R 1 200419022 200101019 200419022  01123  01158            % 03808 AVL---
+*G STR 200101019 200419022  01123  01158                    % 03808 AVL---
+*A VE 200101019 200419022 000018  01123  01158              % 03808 AVL---
+200101019 Bertrange, Waassertu         01123                % 03808 AVL---
+200101002 Bertrange, Belle Eto  01124  01124                % 03808 AVL---
+200901011 Strassen, Schoenacht  01126  01126                % 03808 AVL---
+200901016 Strassen, Geesseneck  01126  01126                % 03808 AVL---
+200901017 Strassen, Kesseler    01127  01127                % 03808 AVL---
+200901004 Strassen, Barblé      01128  01128                % 03808 AVL---
+200901020 Strassen, Benelux     01129  01129                % 03808 AVL---
+200901018 Strassen, Kiem        01130  01130                % 03808 AVL---
+200901025 Strassen, Réimerwee   01131  01131                % 03808 AVL---
+200901022 Strassen, Michel Ang  01132  01132                % 03808 AVL---
+200901019 Strassen, Les Aubépi  01132  01132                % 03808 AVL---
+200403016 Belair, Rue de l'Oue  01133  01133                % 03808 AVL---
+200403019 Belair, Val Ste Croi  01134  01134                % 03808 AVL---
+200403023 Belair, Glaesener-Ha  01135  01135                % 03808 AVL---
+200403010 Belair, Kierch        01137  01137                % 03808 AVL---
+200403001 Belair, Amsterdam     01137  01137                % 03808 AVL---
+200403002 Belair, Archiducs     01138  01138                % 03808 AVL---
+200403022 Luxembourg, Square N  01139  01139                % 03808 AVL---
+200405045 Centre, Stäreplaz /   01140  01140                % 03808 AVL---
+200403020 Belair, Wampach       01142  01142                % 03808 AVL---
+200405020 Hamilius (Bus)        01145  01150                % 03808 AVL---
+200405014 Centre, Fondation Pe  01152  01152                % 03808 AVL---
+200419036 Limpertsberg, Faïenc  01154  01154                % 03808 AVL---
+200419019 Limpertsberg, Henri   01155  01155                % 03808 AVL---
+200419014 Limpertsberg, Ermesi  01156  01156                % 03808 AVL---
+200419020 Luxembourg, Uni Camp  01157  01157                % 03808 AVL---
+200419008 Limpertsberg, Batty   01158  01158                % 03808 AVL---
+200419022 Limpertsberg, Lycée   01158                       % 03808 AVL---
+*Z 03809 AVL---       001 030                               % 03809 AVL---
+*L 8        200101019 200419022  00554  00629               % 03809 AVL---
+*A BE 200101019 200419022 000033  00554  00629              % 03809 AVL---
+*R 1 200419022 200101019 200419022  00554  00629            % 03809 AVL---
+*G STR 200101019 200419022  00554  00629                    % 03809 AVL---
+*A VE 200101019 200419022 000033  00554  00629              % 03809 AVL---
+200101019 Bertrange, Waassertu         00554                % 03809 AVL---
+200101002 Bertrange, Belle Eto  00555  00555                % 03809 AVL---
+200901011 Strassen, Schoenacht  00557  00557                % 03809 AVL---
+200901016 Strassen, Geesseneck  00557  00557                % 03809 AVL---
+200901017 Strassen, Kesseler    00558  00558                % 03809 AVL---
+200901004 Strassen, Barblé      00559  00559                % 03809 AVL---
+200901020 Strassen, Benelux     00600  00600                % 03809 AVL---
+200901018 Strassen, Kiem        00602  00602                % 03809 AVL---
+200901025 Strassen, Réimerwee   00602  00602                % 03809 AVL---
+200901022 Strassen, Michel Ang  00603  00603                % 03809 AVL---
+200901019 Strassen, Les Aubépi  00604  00604                % 03809 AVL---
+200403016 Belair, Rue de l'Oue  00605  00605                % 03809 AVL---
+200403019 Belair, Val Ste Croi  00606  00606                % 03809 AVL---
+200403023 Belair, Glaesener-Ha  00607  00607                % 03809 AVL---
+200403010 Belair, Kierch        00609  00609                % 03809 AVL---
+200403001 Belair, Amsterdam     00610  00610                % 03809 AVL---
+200403002 Belair, Archiducs     00610  00610                % 03809 AVL---
+200403022 Luxembourg, Square N  00611  00611                % 03809 AVL---
+200405045 Centre, Stäreplaz /   00613  00613                % 03809 AVL---
+200403020 Belair, Wampach       00616  00616                % 03809 AVL---
+200405020 Hamilius (Bus)        00619  00619                % 03809 AVL---
+200405014 Centre, Fondation Pe  00622  00622                % 03809 AVL---
+200419036 Limpertsberg, Faïenc  00625  00625                % 03809 AVL---
+200419019 Limpertsberg, Henri   00626  00626                % 03809 AVL---
+200419014 Limpertsberg, Ermesi  00626  00626                % 03809 AVL---
+200419020 Luxembourg, Uni Camp  00628  00628                % 03809 AVL---
+200419008 Limpertsberg, Batty   00629  00629                % 03809 AVL---
+200419022 Limpertsberg, Lycée   00629                       % 03809 AVL---
+*Z 03810 AVL---       038 020                               % 03810 AVL---
+*L 8        200101019 200419022  00644  00719               % 03810 AVL---
+*A BE 200101019 200419022 000033  00644  00719              % 03810 AVL---
+*R 1 200419022 200101019 200419022  00644  00719            % 03810 AVL---
+*G STR 200101019 200419022  00644  00719                    % 03810 AVL---
+*A VE 200101019 200419022 000033  00644  00719              % 03810 AVL---
+200101019 Bertrange, Waassertu         00644                % 03810 AVL---
+200101002 Bertrange, Belle Eto  00645  00645                % 03810 AVL---
+200901011 Strassen, Schoenacht  00647  00647                % 03810 AVL---
+200901016 Strassen, Geesseneck  00647  00647                % 03810 AVL---
+200901017 Strassen, Kesseler    00648  00648                % 03810 AVL---
+200901004 Strassen, Barblé      00649  00649                % 03810 AVL---
+200901020 Strassen, Benelux     00650  00650                % 03810 AVL---
+200901018 Strassen, Kiem        00652  00652                % 03810 AVL---
+200901025 Strassen, Réimerwee   00652  00652                % 03810 AVL---
+200901022 Strassen, Michel Ang  00653  00653                % 03810 AVL---
+200901019 Strassen, Les Aubépi  00654  00654                % 03810 AVL---
+200403016 Belair, Rue de l'Oue  00655  00655                % 03810 AVL---
+200403019 Belair, Val Ste Croi  00656  00656                % 03810 AVL---
+200403023 Belair, Glaesener-Ha  00657  00657                % 03810 AVL---
+200403010 Belair, Kierch        00659  00659                % 03810 AVL---
+200403001 Belair, Amsterdam     00700  00700                % 03810 AVL---
+200403002 Belair, Archiducs     00700  00700                % 03810 AVL---
+200403022 Luxembourg, Square N  00701  00701                % 03810 AVL---
+200405045 Centre, Stäreplaz /   00703  00703                % 03810 AVL---
+200403020 Belair, Wampach       00706  00706                % 03810 AVL---
+200405020 Hamilius (Bus)        00709  00709                % 03810 AVL---
+200405014 Centre, Fondation Pe  00712  00712                % 03810 AVL---
+200419036 Limpertsberg, Faïenc  00715  00715                % 03810 AVL---
+200419019 Limpertsberg, Henri   00716  00716                % 03810 AVL---
+200419014 Limpertsberg, Ermesi  00716  00716                % 03810 AVL---
+200419020 Luxembourg, Uni Camp  00718  00718                % 03810 AVL---
+200419008 Limpertsberg, Batty   00719  00719                % 03810 AVL---
+200419022 Limpertsberg, Lycée   00719                       % 03810 AVL---
+*Z 03811 AVL---       001 900                               % 03811 AVL---
+*L 8        200419022 200101019  00538  00611               % 03811 AVL---
+*A BE 200419022 200101019 000039  00538  00611              % 03811 AVL---
+*R 2 200101019 200419022 200101019  00538  00611            % 03811 AVL---
+*G STR 200419022 200101019  00538  00611                    % 03811 AVL---
+*A VE 200419022 200101019 000039  00538  00611              % 03811 AVL---
+200419022 Limpertsberg, Lycée          00538                % 03811 AVL---
+200419008 Limpertsberg, Batty   00539  00539                % 03811 AVL---
+200419020 Luxembourg, Uni Camp  00539  00539                % 03811 AVL---
+200419014 Limpertsberg, Ermesi  00540  00540                % 03811 AVL---
+200419019 Limpertsberg, Henri   00541  00541                % 03811 AVL---
+200419036 Limpertsberg, Faïenc  00541  00541                % 03811 AVL---
+200405014 Centre, Fondation Pe  00543  00543                % 03811 AVL---
+200405020 Hamilius (Bus)        00546  00550                % 03811 AVL---
+200405045 Centre, Stäreplaz /   00554  00554                % 03811 AVL---
+200403022 Luxembourg, Square N  00556  00556                % 03811 AVL---
+200403002 Belair, Archiducs     00556  00556                % 03811 AVL---
+200403001 Belair, Amsterdam     00557  00557                % 03811 AVL---
+200403010 Belair, Kierch        00558  00558                % 03811 AVL---
+200403023 Belair, Glaesener-Ha  00559  00559                % 03811 AVL---
+200403019 Belair, Val Ste Croi  00600  00600                % 03811 AVL---
+200403016 Belair, Rue de l'Oue  00601  00601                % 03811 AVL---
+200901019 Strassen, Les Aubépi  00602  00602                % 03811 AVL---
+200901022 Strassen, Michel Ang  00602  00602                % 03811 AVL---
+200901025 Strassen, Réimerwee   00603  00603                % 03811 AVL---
+200901018 Strassen, Kiem        00603  00603                % 03811 AVL---
+200901013 Strassen, Grande-Duc  00605  00605                % 03811 AVL---
+200901017 Strassen, Kesseler    00607  00607                % 03811 AVL---
+200901008 Strassen, Chapelle    00608  00608                % 03811 AVL---
+200901026 Strassen, Riedgen     00609  00609                % 03811 AVL---
+200101022 Bertrange, Pesch      00610  00610                % 03811 AVL---
+200101011 Bertrange, Millewee   00611  00611                % 03811 AVL---
+200101019 Bertrange, Waassertu  00611                       % 03811 AVL---
+*Z 03812 AVL---       005 030                               % 03812 AVL---
+*L 8        200419022 200101019  02108  02141               % 03812 AVL---
+*A BE 200419022 200101019 000039  02108  02141              % 03812 AVL---
+*R 2 200101019 200419022 200101019  02108  02141            % 03812 AVL---
+*G STR 200419022 200101019  02108  02141                    % 03812 AVL---
+*A VE 200419022 200101019 000039  02108  02141              % 03812 AVL---
+200419022 Limpertsberg, Lycée          02108                % 03812 AVL---
+200419008 Limpertsberg, Batty   02109  02109                % 03812 AVL---
+200419020 Luxembourg, Uni Camp  02109  02109                % 03812 AVL---
+200419014 Limpertsberg, Ermesi  02110  02110                % 03812 AVL---
+200419019 Limpertsberg, Henri   02111  02111                % 03812 AVL---
+200419036 Limpertsberg, Faïenc  02111  02111                % 03812 AVL---
+200405014 Centre, Fondation Pe  02113  02113                % 03812 AVL---
+200405020 Hamilius (Bus)        02116  02120                % 03812 AVL---
+200405045 Centre, Stäreplaz /   02124  02124                % 03812 AVL---
+200403022 Luxembourg, Square N  02126  02126                % 03812 AVL---
+200403002 Belair, Archiducs     02126  02126                % 03812 AVL---
+200403001 Belair, Amsterdam     02127  02127                % 03812 AVL---
+200403010 Belair, Kierch        02128  02128                % 03812 AVL---
+200403023 Belair, Glaesener-Ha  02129  02129                % 03812 AVL---
+200403019 Belair, Val Ste Croi  02130  02130                % 03812 AVL---
+200403016 Belair, Rue de l'Oue  02131  02131                % 03812 AVL---
+200901019 Strassen, Les Aubépi  02132  02132                % 03812 AVL---
+200901022 Strassen, Michel Ang  02132  02132                % 03812 AVL---
+200901025 Strassen, Réimerwee   02133  02133                % 03812 AVL---
+200901018 Strassen, Kiem        02133  02133                % 03812 AVL---
+200901013 Strassen, Grande-Duc  02135  02135                % 03812 AVL---
+200901017 Strassen, Kesseler    02137  02137                % 03812 AVL---
+200901008 Strassen, Chapelle    02138  02138                % 03812 AVL---
+200901026 Strassen, Riedgen     02139  02139                % 03812 AVL---
+200101022 Bertrange, Pesch      02140  02140                % 03812 AVL---
+200101011 Bertrange, Millewee   02141  02141                % 03812 AVL---
+200101019 Bertrange, Waassertu  02141                       % 03812 AVL---
+*Z 03813 AVL---       006 030                               % 03813 AVL---
+*L 8        200419022 200101019  00808  00841               % 03813 AVL---
+*A BE 200419022 200101019 000018  00808  00841              % 03813 AVL---
+*R 2 200101019 200419022 200101019  00808  00841            % 03813 AVL---
+*G STR 200419022 200101019  00808  00841                    % 03813 AVL---
+*A VE 200419022 200101019 000018  00808  00841              % 03813 AVL---
+200419022 Limpertsberg, Lycée          00808                % 03813 AVL---
+200419008 Limpertsberg, Batty   00809  00809                % 03813 AVL---
+200419020 Luxembourg, Uni Camp  00809  00809                % 03813 AVL---
+200419014 Limpertsberg, Ermesi  00810  00810                % 03813 AVL---
+200419019 Limpertsberg, Henri   00811  00811                % 03813 AVL---
+200419036 Limpertsberg, Faïenc  00811  00811                % 03813 AVL---
+200405014 Centre, Fondation Pe  00813  00813                % 03813 AVL---
+200405020 Hamilius (Bus)        00816  00820                % 03813 AVL---
+200405045 Centre, Stäreplaz /   00824  00824                % 03813 AVL---
+200403022 Luxembourg, Square N  00826  00826                % 03813 AVL---
+200403002 Belair, Archiducs     00826  00826                % 03813 AVL---
+200403001 Belair, Amsterdam     00827  00827                % 03813 AVL---
+200403010 Belair, Kierch        00828  00828                % 03813 AVL---
+200403023 Belair, Glaesener-Ha  00829  00829                % 03813 AVL---
+200403019 Belair, Val Ste Croi  00830  00830                % 03813 AVL---
+200403016 Belair, Rue de l'Oue  00831  00831                % 03813 AVL---
+200901019 Strassen, Les Aubépi  00832  00832                % 03813 AVL---
+200901022 Strassen, Michel Ang  00832  00832                % 03813 AVL---
+200901025 Strassen, Réimerwee   00833  00833                % 03813 AVL---
+200901018 Strassen, Kiem        00833  00833                % 03813 AVL---
+200901013 Strassen, Grande-Duc  00835  00835                % 03813 AVL---
+200901017 Strassen, Kesseler    00837  00837                % 03813 AVL---
+200901008 Strassen, Chapelle    00838  00838                % 03813 AVL---
+200901026 Strassen, Riedgen     00839  00839                % 03813 AVL---
+200101022 Bertrange, Pesch      00840  00840                % 03813 AVL---
+200101011 Bertrange, Millewee   00841  00841                % 03813 AVL---
+200101019 Bertrange, Waassertu  00841                       % 03813 AVL---
+*Z 03814 AVL---                                             % 03814 AVL---
+*L 8        200419022 200101019  02008  02041               % 03814 AVL---
+*A BE 200419022 200101019 000018  02008  02041              % 03814 AVL---
+*R 2 200101019 200419022 200101019  02008  02041            % 03814 AVL---
+*G STR 200419022 200101019  02008  02041                    % 03814 AVL---
+*A VE 200419022 200101019 000018  02008  02041              % 03814 AVL---
+200419022 Limpertsberg, Lycée          02008                % 03814 AVL---
+200419008 Limpertsberg, Batty   02009  02009                % 03814 AVL---
+200419020 Luxembourg, Uni Camp  02009  02009                % 03814 AVL---
+200419014 Limpertsberg, Ermesi  02010  02010                % 03814 AVL---
+200419019 Limpertsberg, Henri   02011  02011                % 03814 AVL---
+200419036 Limpertsberg, Faïenc  02011  02011                % 03814 AVL---
+200405014 Centre, Fondation Pe  02013  02013                % 03814 AVL---
+200405020 Hamilius (Bus)        02016  02020                % 03814 AVL---
+200405045 Centre, Stäreplaz /   02024  02024                % 03814 AVL---
+200403022 Luxembourg, Square N  02026  02026                % 03814 AVL---
+200403002 Belair, Archiducs     02026  02026                % 03814 AVL---
+200403001 Belair, Amsterdam     02027  02027                % 03814 AVL---
+200403010 Belair, Kierch        02028  02028                % 03814 AVL---
+200403023 Belair, Glaesener-Ha  02029  02029                % 03814 AVL---
+200403019 Belair, Val Ste Croi  02030  02030                % 03814 AVL---
+200403016 Belair, Rue de l'Oue  02031  02031                % 03814 AVL---
+200901019 Strassen, Les Aubépi  02032  02032                % 03814 AVL---
+200901022 Strassen, Michel Ang  02032  02032                % 03814 AVL---
+200901025 Strassen, Réimerwee   02033  02033                % 03814 AVL---
+200901018 Strassen, Kiem        02033  02033                % 03814 AVL---
+200901013 Strassen, Grande-Duc  02035  02035                % 03814 AVL---
+200901017 Strassen, Kesseler    02037  02037                % 03814 AVL---
+200901008 Strassen, Chapelle    02038  02038                % 03814 AVL---
+200901026 Strassen, Riedgen     02039  02039                % 03814 AVL---
+200101022 Bertrange, Pesch      02040  02040                % 03814 AVL---
+200101011 Bertrange, Millewee   02041  02041                % 03814 AVL---
+200101019 Bertrange, Waassertu  02041                       % 03814 AVL---
+*Z 03815 AVL---       003 030                               % 03815 AVL---
+*L 8        200419022 200101019  00608  00641               % 03815 AVL---
+*A BE 200419022 200101019 000035  00608  00641              % 03815 AVL---
+*R 2 200101019 200419022 200101019  00608  00641            % 03815 AVL---
+*G STR 200419022 200101019  00608  00641                    % 03815 AVL---
+*A VE 200419022 200101019 000035  00608  00641              % 03815 AVL---
+200419022 Limpertsberg, Lycée          00608                % 03815 AVL---
+200419008 Limpertsberg, Batty   00609  00609                % 03815 AVL---
+200419020 Luxembourg, Uni Camp  00609  00609                % 03815 AVL---
+200419014 Limpertsberg, Ermesi  00610  00610                % 03815 AVL---
+200419019 Limpertsberg, Henri   00611  00611                % 03815 AVL---
+200419036 Limpertsberg, Faïenc  00611  00611                % 03815 AVL---
+200405014 Centre, Fondation Pe  00613  00613                % 03815 AVL---
+200405020 Hamilius (Bus)        00616  00620                % 03815 AVL---
+200405045 Centre, Stäreplaz /   00624  00624                % 03815 AVL---
+200403022 Luxembourg, Square N  00626  00626                % 03815 AVL---
+200403002 Belair, Archiducs     00626  00626                % 03815 AVL---
+200403001 Belair, Amsterdam     00627  00627                % 03815 AVL---
+200403010 Belair, Kierch        00628  00628                % 03815 AVL---
+200403023 Belair, Glaesener-Ha  00629  00629                % 03815 AVL---
+200403019 Belair, Val Ste Croi  00630  00630                % 03815 AVL---
+200403016 Belair, Rue de l'Oue  00631  00631                % 03815 AVL---
+200901019 Strassen, Les Aubépi  00632  00632                % 03815 AVL---
+200901022 Strassen, Michel Ang  00632  00632                % 03815 AVL---
+200901025 Strassen, Réimerwee   00633  00633                % 03815 AVL---
+200901018 Strassen, Kiem        00633  00633                % 03815 AVL---
+200901013 Strassen, Grande-Duc  00635  00635                % 03815 AVL---
+200901017 Strassen, Kesseler    00637  00637                % 03815 AVL---
+200901008 Strassen, Chapelle    00638  00638                % 03815 AVL---
+200901026 Strassen, Riedgen     00639  00639                % 03815 AVL---
+200101022 Bertrange, Pesch      00640  00640                % 03815 AVL---
+200101011 Bertrange, Millewee   00641  00641                % 03815 AVL---
+200101019 Bertrange, Waassertu  00641                       % 03815 AVL---
+*Z 03816 AVL---       037 020                               % 03816 AVL---
+*L 8        200419022 200101019  00751  00822               % 03816 AVL---
+*A BE 200419022 200101019 000025  00751  00822              % 03816 AVL---
+*R 2 200101019 200419022 200101019  00751  00822            % 03816 AVL---
+*G STR 200419022 200101019  00751  00822                    % 03816 AVL---
+*A VE 200419022 200101019 000025  00751  00822              % 03816 AVL---
+200419022 Limpertsberg, Lycée          00751                % 03816 AVL---
+200419008 Limpertsberg, Batty   00752  00752                % 03816 AVL---
+200419020 Luxembourg, Uni Camp  00752  00752                % 03816 AVL---
+200419014 Limpertsberg, Ermesi  00753  00753                % 03816 AVL---
+200419019 Limpertsberg, Henri   00754  00754                % 03816 AVL---
+200419036 Limpertsberg, Faïenc  00754  00754                % 03816 AVL---
+200405014 Centre, Fondation Pe  00756  00756                % 03816 AVL---
+200405020 Hamilius (Bus)        00800  00800                % 03816 AVL---
+200405045 Centre, Stäreplaz /   00804  00804                % 03816 AVL---
+200403022 Luxembourg, Square N  00806  00806                % 03816 AVL---
+200403002 Belair, Archiducs     00807  00807                % 03816 AVL---
+200403001 Belair, Amsterdam     00807  00807                % 03816 AVL---
+200403010 Belair, Kierch        00808  00808                % 03816 AVL---
+200403023 Belair, Glaesener-Ha  00809  00809                % 03816 AVL---
+200403019 Belair, Val Ste Croi  00810  00810                % 03816 AVL---
+200403016 Belair, Rue de l'Oue  00811  00811                % 03816 AVL---
+200901019 Strassen, Les Aubépi  00812  00812                % 03816 AVL---
+200901022 Strassen, Michel Ang  00812  00812                % 03816 AVL---
+200901025 Strassen, Réimerwee   00813  00813                % 03816 AVL---
+200901018 Strassen, Kiem        00814  00814                % 03816 AVL---
+200901013 Strassen, Grande-Duc  00815  00815                % 03816 AVL---
+200901017 Strassen, Kesseler    00817  00817                % 03816 AVL---
+200901008 Strassen, Chapelle    00818  00818                % 03816 AVL---
+200901026 Strassen, Riedgen     00819  00819                % 03816 AVL---
+200101022 Bertrange, Pesch      00820  00820                % 03816 AVL---
+200101011 Bertrange, Millewee   00821  00821                % 03816 AVL---
+200101019 Bertrange, Waassertu  00822                       % 03816 AVL---
+*Z 03817 AVL---       016 030                               % 03817 AVL---
+*L 8        200419022 200101019  01137  01212               % 03817 AVL---
+*A BE 200419022 200101019 000018  01137  01212              % 03817 AVL---
+*R 2 200101019 200419022 200101019  01137  01212            % 03817 AVL---
+*G STR 200419022 200101019  01137  01212                    % 03817 AVL---
+*A VE 200419022 200101019 000018  01137  01212              % 03817 AVL---
+200419022 Limpertsberg, Lycée          01137                % 03817 AVL---
+200419008 Limpertsberg, Batty   01138  01138                % 03817 AVL---
+200419020 Luxembourg, Uni Camp  01138  01138                % 03817 AVL---
+200419014 Limpertsberg, Ermesi  01139  01139                % 03817 AVL---
+200419019 Limpertsberg, Henri   01140  01140                % 03817 AVL---
+200419036 Limpertsberg, Faïenc  01140  01140                % 03817 AVL---
+200405014 Centre, Fondation Pe  01142  01142                % 03817 AVL---
+200405020 Hamilius (Bus)        01146  01150                % 03817 AVL---
+200405045 Centre, Stäreplaz /   01154  01154                % 03817 AVL---
+200403022 Luxembourg, Square N  01156  01156                % 03817 AVL---
+200403002 Belair, Archiducs     01157  01157                % 03817 AVL---
+200403001 Belair, Amsterdam     01157  01157                % 03817 AVL---
+200403010 Belair, Kierch        01158  01158                % 03817 AVL---
+200403023 Belair, Glaesener-Ha  01159  01159                % 03817 AVL---
+200403019 Belair, Val Ste Croi  01200  01200                % 03817 AVL---
+200403016 Belair, Rue de l'Oue  01201  01201                % 03817 AVL---
+200901019 Strassen, Les Aubépi  01202  01202                % 03817 AVL---
+200901022 Strassen, Michel Ang  01202  01202                % 03817 AVL---
+200901025 Strassen, Réimerwee   01203  01203                % 03817 AVL---
+200901018 Strassen, Kiem        01204  01204                % 03817 AVL---
+200901013 Strassen, Grande-Duc  01205  01205                % 03817 AVL---
+200901017 Strassen, Kesseler    01207  01207                % 03817 AVL---
+200901008 Strassen, Chapelle    01208  01208                % 03817 AVL---
+200901026 Strassen, Riedgen     01209  01209                % 03817 AVL---
+200101022 Bertrange, Pesch      01210  01210                % 03817 AVL---
+200101011 Bertrange, Millewee   01211  01211                % 03817 AVL---
+200101019 Bertrange, Waassertu  01212                       % 03817 AVL---
+*Z 03818 AVL---       040 020                               % 03818 AVL---
+*L 8        200419022 200101019  00609  00645               % 03818 AVL---
+*A BE 200419022 200101019 000033  00609  00645              % 03818 AVL---
+*R 2 200101019 200419022 200101019  00609  00645            % 03818 AVL---
+*G STR 200419022 200101019  00609  00645                    % 03818 AVL---
+*A VE 200419022 200101019 000033  00609  00645              % 03818 AVL---
+200419022 Limpertsberg, Lycée          00609                % 03818 AVL---
+200419008 Limpertsberg, Batty   00610  00610                % 03818 AVL---
+200419020 Luxembourg, Uni Camp  00611  00611                % 03818 AVL---
+200419014 Limpertsberg, Ermesi  00612  00612                % 03818 AVL---
+200419019 Limpertsberg, Henri   00613  00613                % 03818 AVL---
+200419036 Limpertsberg, Faïenc  00614  00614                % 03818 AVL---
+200405014 Centre, Fondation Pe  00615  00615                % 03818 AVL---
+200405020 Hamilius (Bus)        00620  00620                % 03818 AVL---
+200405045 Centre, Stäreplaz /   00624  00624                % 03818 AVL---
+200403022 Luxembourg, Square N  00627  00627                % 03818 AVL---
+200403002 Belair, Archiducs     00627  00627                % 03818 AVL---
+200403001 Belair, Amsterdam     00628  00628                % 03818 AVL---
+200403010 Belair, Kierch        00629  00629                % 03818 AVL---
+200403023 Belair, Glaesener-Ha  00631  00631                % 03818 AVL---
+200403019 Belair, Val Ste Croi  00632  00632                % 03818 AVL---
+200403016 Belair, Rue de l'Oue  00633  00633                % 03818 AVL---
+200901019 Strassen, Les Aubépi  00634  00634                % 03818 AVL---
+200901022 Strassen, Michel Ang  00634  00634                % 03818 AVL---
+200901025 Strassen, Réimerwee   00635  00635                % 03818 AVL---
+200901018 Strassen, Kiem        00636  00636                % 03818 AVL---
+200901013 Strassen, Grande-Duc  00637  00637                % 03818 AVL---
+200901017 Strassen, Kesseler    00639  00639                % 03818 AVL---
+200901008 Strassen, Chapelle    00641  00641                % 03818 AVL---
+200901026 Strassen, Riedgen     00642  00642                % 03818 AVL---
+200101022 Bertrange, Pesch      00643  00643                % 03818 AVL---
+200101011 Bertrange, Millewee   00644  00644                % 03818 AVL---
+200101019 Bertrange, Waassertu  00645                       % 03818 AVL---
+*Z 03819 AVL---       001 020                               % 03819 AVL---
+*L 8        200419022 200101019  01952  02021               % 03819 AVL---
+*A BE 200419022 200101019 000033  01952  02021              % 03819 AVL---
+*R 2 200101019 200419022 200101019  01952  02021            % 03819 AVL---
+*G STR 200419022 200101019  01952  02021                    % 03819 AVL---
+*A VE 200419022 200101019 000033  01952  02021              % 03819 AVL---
+200419022 Limpertsberg, Lycée          01952                % 03819 AVL---
+200419008 Limpertsberg, Batty   01953  01953                % 03819 AVL---
+200419020 Luxembourg, Uni Camp  01953  01953                % 03819 AVL---
+200419014 Limpertsberg, Ermesi  01954  01954                % 03819 AVL---
+200419019 Limpertsberg, Henri   01955  01955                % 03819 AVL---
+200419036 Limpertsberg, Faïenc  01955  01955                % 03819 AVL---
+200405014 Centre, Fondation Pe  01957  01957                % 03819 AVL---
+200405020 Hamilius (Bus)        02000  02000                % 03819 AVL---
+200405045 Centre, Stäreplaz /   02004  02004                % 03819 AVL---
+200403022 Luxembourg, Square N  02006  02006                % 03819 AVL---
+200403002 Belair, Archiducs     02006  02006                % 03819 AVL---
+200403001 Belair, Amsterdam     02007  02007                % 03819 AVL---
+200403010 Belair, Kierch        02008  02008                % 03819 AVL---
+200403023 Belair, Glaesener-Ha  02009  02009                % 03819 AVL---
+200403019 Belair, Val Ste Croi  02010  02010                % 03819 AVL---
+200403016 Belair, Rue de l'Oue  02011  02011                % 03819 AVL---
+200901019 Strassen, Les Aubépi  02012  02012                % 03819 AVL---
+200901022 Strassen, Michel Ang  02012  02012                % 03819 AVL---
+200901025 Strassen, Réimerwee   02013  02013                % 03819 AVL---
+200901018 Strassen, Kiem        02013  02013                % 03819 AVL---
+200901013 Strassen, Grande-Duc  02015  02015                % 03819 AVL---
+200901017 Strassen, Kesseler    02017  02017                % 03819 AVL---
+200901008 Strassen, Chapelle    02018  02018                % 03819 AVL---
+200901026 Strassen, Riedgen     02019  02019                % 03819 AVL---
+200101022 Bertrange, Pesch      02020  02020                % 03819 AVL---
+200101011 Bertrange, Millewee   02021  02021                % 03819 AVL---
+200101019 Bertrange, Waassertu  02021                       % 03819 AVL---

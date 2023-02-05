@@ -1,0 +1,80 @@
+*F 03 2
+*Z 18941 RGTR--                                             % 18941 RGTR--
+*L P02      140901003 120903023  00706  00745               % 18941 RGTR--
+*A cj 140901003 120903023 000042  00706  00745              % 18941 RGTR--
+*A ad 140901003 120903023 000042  00706  00745              % 18941 RGTR--
+*R 1 120903023 140901003 120903023  00706  00745            % 18941 RGTR--
+*G 020 140901003 120903023  00706  00745                    % 18941 RGTR--
+*A VE 140901003 120903023 000042  00706  00745              % 18941 RGTR--
+*I FD 140901003 120903023        0003374  00706  00745      % 18941 RGTR--
+140901003 Hoscheid, Markenbach         00706                % 18941 RGTR--
+140901002 Hoscheid, Kräizgaass  00707  00707                % 18941 RGTR--
+140901001 Hoscheid, Braaken     00708  00708                % 18941 RGTR--
+140902001 Hoscheid-Dickt, Um P  00711  00711                % 18941 RGTR--
+140902002 Hoscheid-Dickt, Um W  00712  00712                % 18941 RGTR--
+110203001 Ennert Schinker       00714  00714                % 18941 RGTR--
+110203002 Schinker, Um Rank     00715  00715                % 18941 RGTR--
+110202004 Holzthum, Ferme Thev  00715  00715                % 18941 RGTR--
+110202003 Holzthum, Kiirfecht   00716  00716                % 18941 RGTR--
+110202002 Holzthum, Bei der Ki  00717  00717                % 18941 RGTR--
+110202001 Holzthum, Op der Hoe  00717  00717                % 18941 RGTR--
+110201002 Consthum, Kémel       00719  00719                % 18941 RGTR--
+110201003 Consthum, Knupp       00720  00720                % 18941 RGTR--
+110201001 Consthum, Ennescht D  00721  00721                % 18941 RGTR--
+120603001 Kautenbach, Am Duerf  00728  00728                % 18941 RGTR--
+120603002 Kautenbach, Gare rou  00730  00730                % 18941 RGTR--
+120903033 Wiltz, Post           00743  00743                % 18941 RGTR--
+120903023 Wiltz, Lycée du Nord  00745                       % 18941 RGTR--
+*Z 18942 RGTR--                                             % 18942 RGTR--
+*L P02      120903023 140901003  01615  01651               % 18942 RGTR--
+*A cj 120903023 140901003 000047  01615  01651              % 18942 RGTR--
+*A KH 120903023 140901003 000047  01615  01651              % 18942 RGTR--
+*A ad 120903023 140901003 000047  01615  01651              % 18942 RGTR--
+*R 2 140901003 120903023 140901003  01615  01651            % 18942 RGTR--
+*G 020 120903023 140901003  01615  01651                    % 18942 RGTR--
+*A VE 120903023 140901003 000047  01615  01651              % 18942 RGTR--
+*I FD 120903023 140901003        0002060  01615  01651      % 18942 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 18942 RGTR--
+120903030 Wiltz, Kautebaachers  01617  01617                % 18942 RGTR--
+120603002 Kautenbach, Gare rou  01629  01629                % 18942 RGTR--
+120603001 Kautenbach, Am Duerf  01630  01630                % 18942 RGTR--
+110201001 Consthum, Ennescht D  01638  01638                % 18942 RGTR--
+110201003 Consthum, Knupp       01638  01638                % 18942 RGTR--
+110201002 Consthum, Kémel       01639  01639                % 18942 RGTR--
+110202001 Holzthum, Op der Hoe  01642  01642                % 18942 RGTR--
+110202002 Holzthum, Bei der Ki  01642  01642                % 18942 RGTR--
+110202003 Holzthum, Kiirfecht   01643  01643                % 18942 RGTR--
+110202004 Holzthum, Ferme Thev  01644  01644                % 18942 RGTR--
+110203002 Schinker, Um Rank     01644  01644                % 18942 RGTR--
+110203001 Ennert Schinker       01645  01645                % 18942 RGTR--
+140902002 Hoscheid-Dickt, Um W  01647  01647                % 18942 RGTR--
+140902001 Hoscheid-Dickt, Um P  01648  01648                % 18942 RGTR--
+140901001 Hoscheid, Braaken     01649  01649                % 18942 RGTR--
+140901002 Hoscheid, Kräizgaass  01650  01650                % 18942 RGTR--
+140901003 Hoscheid, Markenbach  01651                       % 18942 RGTR--
+*Z 18943 RGTR--                                             % 18943 RGTR--
+*L P02      120903023 140901003  01208  01244               % 18943 RGTR--
+*A cj 120903023 140901003 000046  01208  01244              % 18943 RGTR--
+*A ad 120903023 140901003 000046  01208  01244              % 18943 RGTR--
+*R 2 140901003 120903023 140901003  01208  01244            % 18943 RGTR--
+*G 020 120903023 140901003  01208  01244                    % 18943 RGTR--
+*A VE 120903023 140901003 000046  01208  01244              % 18943 RGTR--
+*I FD 120903023 140901003        0001866  01208  01244      % 18943 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 18943 RGTR--
+120903030 Wiltz, Kautebaachers  01210  01210                % 18943 RGTR--
+120603002 Kautenbach, Gare rou  01222  01222                % 18943 RGTR--
+120603001 Kautenbach, Am Duerf  01223  01223                % 18943 RGTR--
+110201001 Consthum, Ennescht D  01231  01231                % 18943 RGTR--
+110201003 Consthum, Knupp       01231  01231                % 18943 RGTR--
+110201002 Consthum, Kémel       01232  01232                % 18943 RGTR--
+110202001 Holzthum, Op der Hoe  01235  01235                % 18943 RGTR--
+110202002 Holzthum, Bei der Ki  01235  01235                % 18943 RGTR--
+110202003 Holzthum, Kiirfecht   01236  01236                % 18943 RGTR--
+110202004 Holzthum, Ferme Thev  01237  01237                % 18943 RGTR--
+110203002 Schinker, Um Rank     01237  01237                % 18943 RGTR--
+110203001 Ennert Schinker       01238  01238                % 18943 RGTR--
+140902002 Hoscheid-Dickt, Um W  01240  01240                % 18943 RGTR--
+140902001 Hoscheid-Dickt, Um P  01241  01241                % 18943 RGTR--
+140901001 Hoscheid, Braaken     01242  01242                % 18943 RGTR--
+140901002 Hoscheid, Kräizgaass  01243  01243                % 18943 RGTR--
+140901003 Hoscheid, Markenbach  01244                       % 18943 RGTR--

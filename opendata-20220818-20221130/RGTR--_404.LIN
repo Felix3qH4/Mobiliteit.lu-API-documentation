@@ -1,0 +1,1214 @@
+*F 03 2
+*Z 10540 RGTR--                                             % 10540 RGTR--
+*L 404      500000033 200417048  00455  00602               % 10540 RGTR--
+*R 1 200417048 500000033 200417048  00455  00602            % 10540 RGTR--
+*G 050 500000033 200417048  00455  00602                    % 10540 RGTR--
+*A VE 500000033 200417048 000033  00455  00602              % 10540 RGTR--
+*I FD 500000033 200417048        0002270  00455  00602      % 10540 RGTR--
+500000033 Merzig, Bahnhof              00455                % 10540 RGTR--
+500000034 Merzig, Stadthalle   -00458  00458                % 10540 RGTR--
+500000113 Merzig, Hilbringer B -00501  00501                % 10540 RGTR--
+200417040 Kirchberg, Hugo Gern  00556 -00556                % 10540 RGTR--
+200417039 Kirchberg, Avalon     00600 -00600                % 10540 RGTR--
+200417019 Kirchberg, Konrad Ad  00601 -00601                % 10540 RGTR--
+200417005 Kirchberg, Antoine d  00602 -00602                % 10540 RGTR--
+200417048 Kirchberg, Europe Ga  00602                       % 10540 RGTR--
+*Z 10541 RGTR--                                             % 10541 RGTR--
+*L 404      500000033 200417048  00555  00702               % 10541 RGTR--
+*R 1 200417048 500000033 200417048  00555  00702            % 10541 RGTR--
+*G 050 500000033 200417048  00555  00702                    % 10541 RGTR--
+*A VE 500000033 200417048 000033  00555  00702              % 10541 RGTR--
+*I FD 500000033 200417048        0002265  00555  00702      % 10541 RGTR--
+500000033 Merzig, Bahnhof              00555                % 10541 RGTR--
+500000034 Merzig, Stadthalle   -00558  00558                % 10541 RGTR--
+500000113 Merzig, Hilbringer B -00601  00601                % 10541 RGTR--
+200417040 Kirchberg, Hugo Gern  00656 -00656                % 10541 RGTR--
+200417039 Kirchberg, Avalon     00700 -00700                % 10541 RGTR--
+200417019 Kirchberg, Konrad Ad  00701 -00701                % 10541 RGTR--
+200417005 Kirchberg, Antoine d  00702 -00702                % 10541 RGTR--
+200417048 Kirchberg, Europe Ga  00702                       % 10541 RGTR--
+*Z 10542 RGTR--                                             % 10542 RGTR--
+*L 404      500000033 200417048  00955  01102               % 10542 RGTR--
+*R 1 200417048 500000033 200417048  00955  01102            % 10542 RGTR--
+*G 050 500000033 200417048  00955  01102                    % 10542 RGTR--
+*A VE 500000033 200417048 000033  00955  01102              % 10542 RGTR--
+*I FD 500000033 200417048        0002268  00955  01102      % 10542 RGTR--
+500000033 Merzig, Bahnhof              00955                % 10542 RGTR--
+500000034 Merzig, Stadthalle   -00958  00958                % 10542 RGTR--
+500000113 Merzig, Hilbringer B -01001  01001                % 10542 RGTR--
+200417040 Kirchberg, Hugo Gern  01056 -01056                % 10542 RGTR--
+200417039 Kirchberg, Avalon     01100 -01100                % 10542 RGTR--
+200417019 Kirchberg, Konrad Ad  01101 -01101                % 10542 RGTR--
+200417005 Kirchberg, Antoine d  01102 -01102                % 10542 RGTR--
+200417048 Kirchberg, Europe Ga  01102                       % 10542 RGTR--
+*Z 10543 RGTR--                                             % 10543 RGTR--
+*L 404      500000033 200417048  01055  01202               % 10543 RGTR--
+*R 1 200417048 500000033 200417048  01055  01202            % 10543 RGTR--
+*G 050 500000033 200417048  01055  01202                    % 10543 RGTR--
+*A VE 500000033 200417048 000033  01055  01202              % 10543 RGTR--
+*I FD 500000033 200417048        0002758  01055  01202      % 10543 RGTR--
+500000033 Merzig, Bahnhof              01055                % 10543 RGTR--
+500000034 Merzig, Stadthalle   -01058  01058                % 10543 RGTR--
+500000113 Merzig, Hilbringer B -01101  01101                % 10543 RGTR--
+200417040 Kirchberg, Hugo Gern  01156 -01156                % 10543 RGTR--
+200417039 Kirchberg, Avalon     01200 -01200                % 10543 RGTR--
+200417019 Kirchberg, Konrad Ad  01201 -01201                % 10543 RGTR--
+200417005 Kirchberg, Antoine d  01202 -01202                % 10543 RGTR--
+200417048 Kirchberg, Europe Ga  01202                       % 10543 RGTR--
+*Z 10544 RGTR--                                             % 10544 RGTR--
+*L 404      500000033 200417048  01155  01302               % 10544 RGTR--
+*R 1 200417048 500000033 200417048  01155  01302            % 10544 RGTR--
+*G 050 500000033 200417048  01155  01302                    % 10544 RGTR--
+*A VE 500000033 200417048 000033  01155  01302              % 10544 RGTR--
+*I FD 500000033 200417048        0002762  01155  01302      % 10544 RGTR--
+500000033 Merzig, Bahnhof              01155                % 10544 RGTR--
+500000034 Merzig, Stadthalle   -01158  01158                % 10544 RGTR--
+500000113 Merzig, Hilbringer B -01201  01201                % 10544 RGTR--
+200417040 Kirchberg, Hugo Gern  01256 -01256                % 10544 RGTR--
+200417039 Kirchberg, Avalon     01300 -01300                % 10544 RGTR--
+200417019 Kirchberg, Konrad Ad  01301 -01301                % 10544 RGTR--
+200417005 Kirchberg, Antoine d  01302 -01302                % 10544 RGTR--
+200417048 Kirchberg, Europe Ga  01302                       % 10544 RGTR--
+*Z 10545 RGTR--                                             % 10545 RGTR--
+*L 404      500000033 200417048  01255  01402               % 10545 RGTR--
+*R 1 200417048 500000033 200417048  01255  01402            % 10545 RGTR--
+*G 050 500000033 200417048  01255  01402                    % 10545 RGTR--
+*A VE 500000033 200417048 000033  01255  01402              % 10545 RGTR--
+*I FD 500000033 200417048        0002759  01255  01402      % 10545 RGTR--
+500000033 Merzig, Bahnhof              01255                % 10545 RGTR--
+500000034 Merzig, Stadthalle   -01258  01258                % 10545 RGTR--
+500000113 Merzig, Hilbringer B -01301  01301                % 10545 RGTR--
+200417040 Kirchberg, Hugo Gern  01356 -01356                % 10545 RGTR--
+200417039 Kirchberg, Avalon     01400 -01400                % 10545 RGTR--
+200417019 Kirchberg, Konrad Ad  01401 -01401                % 10545 RGTR--
+200417005 Kirchberg, Antoine d  01402 -01402                % 10545 RGTR--
+200417048 Kirchberg, Europe Ga  01402                       % 10545 RGTR--
+*Z 10546 RGTR--                                             % 10546 RGTR--
+*L 404      500000033 200417048  01355  01502               % 10546 RGTR--
+*R 1 200417048 500000033 200417048  01355  01502            % 10546 RGTR--
+*G 050 500000033 200417048  01355  01502                    % 10546 RGTR--
+*A VE 500000033 200417048 000033  01355  01502              % 10546 RGTR--
+*I FD 500000033 200417048        0001170  01355  01502      % 10546 RGTR--
+500000033 Merzig, Bahnhof              01355                % 10546 RGTR--
+500000034 Merzig, Stadthalle   -01358  01358                % 10546 RGTR--
+500000113 Merzig, Hilbringer B -01401  01401                % 10546 RGTR--
+200417040 Kirchberg, Hugo Gern  01456 -01456                % 10546 RGTR--
+200417039 Kirchberg, Avalon     01500 -01500                % 10546 RGTR--
+200417019 Kirchberg, Konrad Ad  01501 -01501                % 10546 RGTR--
+200417005 Kirchberg, Antoine d  01502 -01502                % 10546 RGTR--
+200417048 Kirchberg, Europe Ga  01502                       % 10546 RGTR--
+*Z 10547 RGTR--                                             % 10547 RGTR--
+*L 404      500000033 200417048  01455  01602               % 10547 RGTR--
+*R 1 200417048 500000033 200417048  01455  01602            % 10547 RGTR--
+*G 050 500000033 200417048  01455  01602                    % 10547 RGTR--
+*A VE 500000033 200417048 000033  01455  01602              % 10547 RGTR--
+*I FD 500000033 200417048        0002760  01455  01602      % 10547 RGTR--
+500000033 Merzig, Bahnhof              01455                % 10547 RGTR--
+500000034 Merzig, Stadthalle   -01458  01458                % 10547 RGTR--
+500000113 Merzig, Hilbringer B -01501  01501                % 10547 RGTR--
+200417040 Kirchberg, Hugo Gern  01556 -01556                % 10547 RGTR--
+200417039 Kirchberg, Avalon     01600 -01600                % 10547 RGTR--
+200417019 Kirchberg, Konrad Ad  01601 -01601                % 10547 RGTR--
+200417005 Kirchberg, Antoine d  01602 -01602                % 10547 RGTR--
+200417048 Kirchberg, Europe Ga  01602                       % 10547 RGTR--
+*Z 10548 RGTR--                                             % 10548 RGTR--
+*L 404      500000033 200417048  01555  01702               % 10548 RGTR--
+*R 1 200417048 500000033 200417048  01555  01702            % 10548 RGTR--
+*G 050 500000033 200417048  01555  01702                    % 10548 RGTR--
+*A VE 500000033 200417048 000033  01555  01702              % 10548 RGTR--
+*I FD 500000033 200417048        0002269  01555  01702      % 10548 RGTR--
+500000033 Merzig, Bahnhof              01555                % 10548 RGTR--
+500000034 Merzig, Stadthalle   -01558  01558                % 10548 RGTR--
+500000113 Merzig, Hilbringer B -01601  01601                % 10548 RGTR--
+200417040 Kirchberg, Hugo Gern  01656 -01656                % 10548 RGTR--
+200417039 Kirchberg, Avalon     01700 -01700                % 10548 RGTR--
+200417019 Kirchberg, Konrad Ad  01701 -01701                % 10548 RGTR--
+200417005 Kirchberg, Antoine d  01702 -01702                % 10548 RGTR--
+200417048 Kirchberg, Europe Ga  01702                       % 10548 RGTR--
+*Z 10549 RGTR--                                             % 10549 RGTR--
+*L 404      500000033 200417048  01655  01802               % 10549 RGTR--
+*R 1 200417048 500000033 200417048  01655  01802            % 10549 RGTR--
+*G 050 500000033 200417048  01655  01802                    % 10549 RGTR--
+*A VE 500000033 200417048 000033  01655  01802              % 10549 RGTR--
+*I FD 500000033 200417048        0002209  01655  01802      % 10549 RGTR--
+500000033 Merzig, Bahnhof              01655                % 10549 RGTR--
+500000034 Merzig, Stadthalle   -01658  01658                % 10549 RGTR--
+500000113 Merzig, Hilbringer B -01701  01701                % 10549 RGTR--
+200417040 Kirchberg, Hugo Gern  01756 -01756                % 10549 RGTR--
+200417039 Kirchberg, Avalon     01800 -01800                % 10549 RGTR--
+200417019 Kirchberg, Konrad Ad  01801 -01801                % 10549 RGTR--
+200417005 Kirchberg, Antoine d  01802 -01802                % 10549 RGTR--
+200417048 Kirchberg, Europe Ga  01802                       % 10549 RGTR--
+*Z 10550 RGTR--                                             % 10550 RGTR--
+*L 404      500000033 200417048  01755  01902               % 10550 RGTR--
+*R 1 200417048 500000033 200417048  01755  01902            % 10550 RGTR--
+*G 050 500000033 200417048  01755  01902                    % 10550 RGTR--
+*A VE 500000033 200417048 000033  01755  01902              % 10550 RGTR--
+*I FD 500000033 200417048        0002210  01755  01902      % 10550 RGTR--
+500000033 Merzig, Bahnhof              01755                % 10550 RGTR--
+500000034 Merzig, Stadthalle   -01758  01758                % 10550 RGTR--
+500000113 Merzig, Hilbringer B -01801  01801                % 10550 RGTR--
+200417040 Kirchberg, Hugo Gern  01856 -01856                % 10550 RGTR--
+200417039 Kirchberg, Avalon     01900 -01900                % 10550 RGTR--
+200417019 Kirchberg, Konrad Ad  01901 -01901                % 10550 RGTR--
+200417005 Kirchberg, Antoine d  01902 -01902                % 10550 RGTR--
+200417048 Kirchberg, Europe Ga  01902                       % 10550 RGTR--
+*Z 10551 RGTR--                                             % 10551 RGTR--
+*L 404      500000033 200417048  01855  02002               % 10551 RGTR--
+*R 1 200417048 500000033 200417048  01855  02002            % 10551 RGTR--
+*G 050 500000033 200417048  01855  02002                    % 10551 RGTR--
+*A VE 500000033 200417048 000033  01855  02002              % 10551 RGTR--
+*I FD 500000033 200417048        0002206  01855  02002      % 10551 RGTR--
+500000033 Merzig, Bahnhof              01855                % 10551 RGTR--
+500000034 Merzig, Stadthalle   -01858  01858                % 10551 RGTR--
+500000113 Merzig, Hilbringer B -01901  01901                % 10551 RGTR--
+200417040 Kirchberg, Hugo Gern  01956 -01956                % 10551 RGTR--
+200417039 Kirchberg, Avalon     02000 -02000                % 10551 RGTR--
+200417019 Kirchberg, Konrad Ad  02001 -02001                % 10551 RGTR--
+200417005 Kirchberg, Antoine d  02002 -02002                % 10551 RGTR--
+200417048 Kirchberg, Europe Ga  02002                       % 10551 RGTR--
+*Z 10552 RGTR--                                             % 10552 RGTR--
+*L 404      500000033 200417048  00655  00807               % 10552 RGTR--
+*R 1 200417048 500000033 200417048  00655  00807            % 10552 RGTR--
+*G 050 500000033 200417048  00655  00807                    % 10552 RGTR--
+*A VE 500000033 200417048 000033  00655  00807              % 10552 RGTR--
+*I FD 500000033 200417048        0001920  00655  00807      % 10552 RGTR--
+500000033 Merzig, Bahnhof              00655                % 10552 RGTR--
+500000034 Merzig, Stadthalle   -00659  00659                % 10552 RGTR--
+500000113 Merzig, Hilbringer B -00702  00702                % 10552 RGTR--
+200417040 Kirchberg, Hugo Gern  00800 -00800                % 10552 RGTR--
+200417039 Kirchberg, Avalon     00803 -00803                % 10552 RGTR--
+200417019 Kirchberg, Konrad Ad  00804 -00804                % 10552 RGTR--
+200417005 Kirchberg, Antoine d  00806 -00806                % 10552 RGTR--
+200417048 Kirchberg, Europe Ga  00807                       % 10552 RGTR--
+*Z 10553 RGTR--                                             % 10553 RGTR--
+*L 404      500000033 200417048  00755  00907               % 10553 RGTR--
+*R 1 200417048 500000033 200417048  00755  00907            % 10553 RGTR--
+*G 050 500000033 200417048  00755  00907                    % 10553 RGTR--
+*A VE 500000033 200417048 000033  00755  00907              % 10553 RGTR--
+*I FD 500000033 200417048        0002266  00755  00907      % 10553 RGTR--
+500000033 Merzig, Bahnhof              00755                % 10553 RGTR--
+500000034 Merzig, Stadthalle   -00759  00759                % 10553 RGTR--
+500000113 Merzig, Hilbringer B -00802  00802                % 10553 RGTR--
+200417040 Kirchberg, Hugo Gern  00900 -00900                % 10553 RGTR--
+200417039 Kirchberg, Avalon     00903 -00903                % 10553 RGTR--
+200417019 Kirchberg, Konrad Ad  00904 -00904                % 10553 RGTR--
+200417005 Kirchberg, Antoine d  00906 -00906                % 10553 RGTR--
+200417048 Kirchberg, Europe Ga  00907                       % 10553 RGTR--
+*Z 10554 RGTR--                                             % 10554 RGTR--
+*L 404      500000033 200417048  00855  01007               % 10554 RGTR--
+*R 1 200417048 500000033 200417048  00855  01007            % 10554 RGTR--
+*G 050 500000033 200417048  00855  01007                    % 10554 RGTR--
+*A VE 500000033 200417048 000033  00855  01007              % 10554 RGTR--
+*I FD 500000033 200417048        0002267  00855  01007      % 10554 RGTR--
+500000033 Merzig, Bahnhof              00855                % 10554 RGTR--
+500000034 Merzig, Stadthalle   -00859  00859                % 10554 RGTR--
+500000113 Merzig, Hilbringer B -00902  00902                % 10554 RGTR--
+200417040 Kirchberg, Hugo Gern  01000 -01000                % 10554 RGTR--
+200417039 Kirchberg, Avalon     01003 -01003                % 10554 RGTR--
+200417019 Kirchberg, Konrad Ad  01004 -01004                % 10554 RGTR--
+200417005 Kirchberg, Antoine d  01006 -01006                % 10554 RGTR--
+200417048 Kirchberg, Europe Ga  01007                       % 10554 RGTR--
+*Z 10555 RGTR--                                             % 10555 RGTR--
+*L 404      500000033 220701020  00525  00628               % 10555 RGTR--
+*R 1 220701020 500000033 220701020  00525  00628            % 10555 RGTR--
+*G 050 500000033 220701020  00525  00628                    % 10555 RGTR--
+*A VE 500000033 220701020 000033  00525  00628              % 10555 RGTR--
+*I FD 500000033 220701020        0001917  00525  00628      % 10555 RGTR--
+500000033 Merzig, Bahnhof              00525                % 10555 RGTR--
+500000034 Merzig, Stadthalle   -00528  00528                % 10555 RGTR--
+500000113 Merzig, Hilbringer B -00531  00531                % 10555 RGTR--
+200412021 Gasperich, Gerhard M  00618  00618                % 10555 RGTR--
+200412006 Gasperich, Cloche d'  00620  00620                % 10555 RGTR--
+200412018 Gasperich, Schaarfen  00621  00621                % 10555 RGTR--
+200412031 Gasperich, Stade de   00622  00622                % 10555 RGTR--
+220701007 Leudelange, Grasbösc  00624  00624                % 10555 RGTR--
+220701018 Leudelange, Foyer     00627  00627                % 10555 RGTR--
+220701020 Leudelange, LaLux     00628                       % 10555 RGTR--
+*Z 10556 RGTR--                                             % 10556 RGTR--
+*L 404      500000033 220701020  00925  01028               % 10556 RGTR--
+*R 1 220701020 500000033 220701020  00925  01028            % 10556 RGTR--
+*G 050 500000033 220701020  00925  01028                    % 10556 RGTR--
+*A VE 500000033 220701020 000033  00925  01028              % 10556 RGTR--
+*I FD 500000033 220701020        0002200  00925  01028      % 10556 RGTR--
+500000033 Merzig, Bahnhof              00925                % 10556 RGTR--
+500000034 Merzig, Stadthalle   -00928  00928                % 10556 RGTR--
+500000113 Merzig, Hilbringer B -00931  00931                % 10556 RGTR--
+200412021 Gasperich, Gerhard M  01018  01018                % 10556 RGTR--
+200412006 Gasperich, Cloche d'  01020  01020                % 10556 RGTR--
+200412018 Gasperich, Schaarfen  01021  01021                % 10556 RGTR--
+200412031 Gasperich, Stade de   01022  01022                % 10556 RGTR--
+220701007 Leudelange, Grasbösc  01024  01024                % 10556 RGTR--
+220701018 Leudelange, Foyer     01027  01027                % 10556 RGTR--
+220701020 Leudelange, LaLux     01028                       % 10556 RGTR--
+*Z 10557 RGTR--                                             % 10557 RGTR--
+*L 404      500000033 220701020  01025  01128               % 10557 RGTR--
+*R 1 220701020 500000033 220701020  01025  01128            % 10557 RGTR--
+*G 050 500000033 220701020  01025  01128                    % 10557 RGTR--
+*A VE 500000033 220701020 000033  01025  01128              % 10557 RGTR--
+*I FD 500000033 220701020        0002195  01025  01128      % 10557 RGTR--
+500000033 Merzig, Bahnhof              01025                % 10557 RGTR--
+500000034 Merzig, Stadthalle   -01028  01028                % 10557 RGTR--
+500000113 Merzig, Hilbringer B -01031  01031                % 10557 RGTR--
+200412021 Gasperich, Gerhard M  01118  01118                % 10557 RGTR--
+200412006 Gasperich, Cloche d'  01120  01120                % 10557 RGTR--
+200412018 Gasperich, Schaarfen  01121  01121                % 10557 RGTR--
+200412031 Gasperich, Stade de   01122  01122                % 10557 RGTR--
+220701007 Leudelange, Grasbösc  01124  01124                % 10557 RGTR--
+220701018 Leudelange, Foyer     01127  01127                % 10557 RGTR--
+220701020 Leudelange, LaLux     01128                       % 10557 RGTR--
+*Z 10558 RGTR--                                             % 10558 RGTR--
+*L 404      500000033 220701020  01125  01228               % 10558 RGTR--
+*R 1 220701020 500000033 220701020  01125  01228            % 10558 RGTR--
+*G 050 500000033 220701020  01125  01228                    % 10558 RGTR--
+*A VE 500000033 220701020 000033  01125  01228              % 10558 RGTR--
+*I FD 500000033 220701020        0002201  01125  01228      % 10558 RGTR--
+500000033 Merzig, Bahnhof              01125                % 10558 RGTR--
+500000034 Merzig, Stadthalle   -01128  01128                % 10558 RGTR--
+500000113 Merzig, Hilbringer B -01131  01131                % 10558 RGTR--
+200412021 Gasperich, Gerhard M  01218  01218                % 10558 RGTR--
+200412006 Gasperich, Cloche d'  01220  01220                % 10558 RGTR--
+200412018 Gasperich, Schaarfen  01221  01221                % 10558 RGTR--
+200412031 Gasperich, Stade de   01222  01222                % 10558 RGTR--
+220701007 Leudelange, Grasbösc  01224  01224                % 10558 RGTR--
+220701018 Leudelange, Foyer     01227  01227                % 10558 RGTR--
+220701020 Leudelange, LaLux     01228                       % 10558 RGTR--
+*Z 10559 RGTR--                                             % 10559 RGTR--
+*L 404      500000033 220701020  01225  01328               % 10559 RGTR--
+*R 1 220701020 500000033 220701020  01225  01328            % 10559 RGTR--
+*G 050 500000033 220701020  01225  01328                    % 10559 RGTR--
+*A VE 500000033 220701020 000033  01225  01328              % 10559 RGTR--
+*I FD 500000033 220701020        0002196  01225  01328      % 10559 RGTR--
+500000033 Merzig, Bahnhof              01225                % 10559 RGTR--
+500000034 Merzig, Stadthalle   -01228  01228                % 10559 RGTR--
+500000113 Merzig, Hilbringer B -01231  01231                % 10559 RGTR--
+200412021 Gasperich, Gerhard M  01318  01318                % 10559 RGTR--
+200412006 Gasperich, Cloche d'  01320  01320                % 10559 RGTR--
+200412018 Gasperich, Schaarfen  01321  01321                % 10559 RGTR--
+200412031 Gasperich, Stade de   01322  01322                % 10559 RGTR--
+220701007 Leudelange, Grasbösc  01324  01324                % 10559 RGTR--
+220701018 Leudelange, Foyer     01327  01327                % 10559 RGTR--
+220701020 Leudelange, LaLux     01328                       % 10559 RGTR--
+*Z 10560 RGTR--                                             % 10560 RGTR--
+*L 404      500000033 220701020  01325  01428               % 10560 RGTR--
+*R 1 220701020 500000033 220701020  01325  01428            % 10560 RGTR--
+*G 050 500000033 220701020  01325  01428                    % 10560 RGTR--
+*A VE 500000033 220701020 000033  01325  01428              % 10560 RGTR--
+*I FD 500000033 220701020        0002202  01325  01428      % 10560 RGTR--
+500000033 Merzig, Bahnhof              01325                % 10560 RGTR--
+500000034 Merzig, Stadthalle   -01328  01328                % 10560 RGTR--
+500000113 Merzig, Hilbringer B -01331  01331                % 10560 RGTR--
+200412021 Gasperich, Gerhard M  01418  01418                % 10560 RGTR--
+200412006 Gasperich, Cloche d'  01420  01420                % 10560 RGTR--
+200412018 Gasperich, Schaarfen  01421  01421                % 10560 RGTR--
+200412031 Gasperich, Stade de   01422  01422                % 10560 RGTR--
+220701007 Leudelange, Grasbösc  01424  01424                % 10560 RGTR--
+220701018 Leudelange, Foyer     01427  01427                % 10560 RGTR--
+220701020 Leudelange, LaLux     01428                       % 10560 RGTR--
+*Z 10561 RGTR--                                             % 10561 RGTR--
+*L 404      500000033 220701020  01425  01528               % 10561 RGTR--
+*R 1 220701020 500000033 220701020  01425  01528            % 10561 RGTR--
+*G 050 500000033 220701020  01425  01528                    % 10561 RGTR--
+*A VE 500000033 220701020 000033  01425  01528              % 10561 RGTR--
+*I FD 500000033 220701020        0002197  01425  01528      % 10561 RGTR--
+500000033 Merzig, Bahnhof              01425                % 10561 RGTR--
+500000034 Merzig, Stadthalle   -01428  01428                % 10561 RGTR--
+500000113 Merzig, Hilbringer B -01431  01431                % 10561 RGTR--
+200412021 Gasperich, Gerhard M  01518  01518                % 10561 RGTR--
+200412006 Gasperich, Cloche d'  01520  01520                % 10561 RGTR--
+200412018 Gasperich, Schaarfen  01521  01521                % 10561 RGTR--
+200412031 Gasperich, Stade de   01522  01522                % 10561 RGTR--
+220701007 Leudelange, Grasbösc  01524  01524                % 10561 RGTR--
+220701018 Leudelange, Foyer     01527  01527                % 10561 RGTR--
+220701020 Leudelange, LaLux     01528                       % 10561 RGTR--
+*Z 10562 RGTR--                                             % 10562 RGTR--
+*L 404      500000033 220701020  01525  01628               % 10562 RGTR--
+*R 1 220701020 500000033 220701020  01525  01628            % 10562 RGTR--
+*G 050 500000033 220701020  01525  01628                    % 10562 RGTR--
+*A VE 500000033 220701020 000033  01525  01628              % 10562 RGTR--
+*I FD 500000033 220701020        0002134  01525  01628      % 10562 RGTR--
+500000033 Merzig, Bahnhof              01525                % 10562 RGTR--
+500000034 Merzig, Stadthalle   -01528  01528                % 10562 RGTR--
+500000113 Merzig, Hilbringer B -01531  01531                % 10562 RGTR--
+200412021 Gasperich, Gerhard M  01618  01618                % 10562 RGTR--
+200412006 Gasperich, Cloche d'  01620  01620                % 10562 RGTR--
+200412018 Gasperich, Schaarfen  01621  01621                % 10562 RGTR--
+200412031 Gasperich, Stade de   01622  01622                % 10562 RGTR--
+220701007 Leudelange, Grasbösc  01624  01624                % 10562 RGTR--
+220701018 Leudelange, Foyer     01627  01627                % 10562 RGTR--
+220701020 Leudelange, LaLux     01628                       % 10562 RGTR--
+*Z 10563 RGTR--                                             % 10563 RGTR--
+*L 404      500000033 220701020  01625  01728               % 10563 RGTR--
+*R 1 220701020 500000033 220701020  01625  01728            % 10563 RGTR--
+*G 050 500000033 220701020  01625  01728                    % 10563 RGTR--
+*A VE 500000033 220701020 000033  01625  01728              % 10563 RGTR--
+*I FD 500000033 220701020        0001919  01625  01728      % 10563 RGTR--
+500000033 Merzig, Bahnhof              01625                % 10563 RGTR--
+500000034 Merzig, Stadthalle   -01628  01628                % 10563 RGTR--
+500000113 Merzig, Hilbringer B -01631  01631                % 10563 RGTR--
+200412021 Gasperich, Gerhard M  01718  01718                % 10563 RGTR--
+200412006 Gasperich, Cloche d'  01720  01720                % 10563 RGTR--
+200412018 Gasperich, Schaarfen  01721  01721                % 10563 RGTR--
+200412031 Gasperich, Stade de   01722  01722                % 10563 RGTR--
+220701007 Leudelange, Grasbösc  01724  01724                % 10563 RGTR--
+220701018 Leudelange, Foyer     01727  01727                % 10563 RGTR--
+220701020 Leudelange, LaLux     01728                       % 10563 RGTR--
+*Z 10564 RGTR--                                             % 10564 RGTR--
+*L 404      500000033 220701020  01725  01828               % 10564 RGTR--
+*R 1 220701020 500000033 220701020  01725  01828            % 10564 RGTR--
+*G 050 500000033 220701020  01725  01828                    % 10564 RGTR--
+*A VE 500000033 220701020 000033  01725  01828              % 10564 RGTR--
+*I FD 500000033 220701020        0002208  01725  01828      % 10564 RGTR--
+500000033 Merzig, Bahnhof              01725                % 10564 RGTR--
+500000034 Merzig, Stadthalle   -01728  01728                % 10564 RGTR--
+500000113 Merzig, Hilbringer B -01731  01731                % 10564 RGTR--
+200412021 Gasperich, Gerhard M  01818  01818                % 10564 RGTR--
+200412006 Gasperich, Cloche d'  01820  01820                % 10564 RGTR--
+200412018 Gasperich, Schaarfen  01821  01821                % 10564 RGTR--
+200412031 Gasperich, Stade de   01822  01822                % 10564 RGTR--
+220701007 Leudelange, Grasbösc  01824  01824                % 10564 RGTR--
+220701018 Leudelange, Foyer     01827  01827                % 10564 RGTR--
+220701020 Leudelange, LaLux     01828                       % 10564 RGTR--
+*Z 10565 RGTR--                                             % 10565 RGTR--
+*L 404      500000033 220701020  01825  01928               % 10565 RGTR--
+*R 1 220701020 500000033 220701020  01825  01928            % 10565 RGTR--
+*G 050 500000033 220701020  01825  01928                    % 10565 RGTR--
+*A VE 500000033 220701020 000033  01825  01928              % 10565 RGTR--
+*I FD 500000033 220701020        0002207  01825  01928      % 10565 RGTR--
+500000033 Merzig, Bahnhof              01825                % 10565 RGTR--
+500000034 Merzig, Stadthalle   -01828  01828                % 10565 RGTR--
+500000113 Merzig, Hilbringer B -01831  01831                % 10565 RGTR--
+200412021 Gasperich, Gerhard M  01918  01918                % 10565 RGTR--
+200412006 Gasperich, Cloche d'  01920  01920                % 10565 RGTR--
+200412018 Gasperich, Schaarfen  01921  01921                % 10565 RGTR--
+200412031 Gasperich, Stade de   01922  01922                % 10565 RGTR--
+220701007 Leudelange, Grasbösc  01924  01924                % 10565 RGTR--
+220701018 Leudelange, Foyer     01927  01927                % 10565 RGTR--
+220701020 Leudelange, LaLux     01928                       % 10565 RGTR--
+*Z 10566 RGTR--                                             % 10566 RGTR--
+*L 404      500000033 220701020  00625  00735               % 10566 RGTR--
+*R 1 220701020 500000033 220701020  00625  00735            % 10566 RGTR--
+*G 050 500000033 220701020  00625  00735                    % 10566 RGTR--
+*A VE 500000033 220701020 000033  00625  00735              % 10566 RGTR--
+*I FD 500000033 220701020        0000819  00625  00735      % 10566 RGTR--
+500000033 Merzig, Bahnhof              00625                % 10566 RGTR--
+500000034 Merzig, Stadthalle   -00629  00629                % 10566 RGTR--
+500000113 Merzig, Hilbringer B -00632  00632                % 10566 RGTR--
+200412021 Gasperich, Gerhard M  00723  00723                % 10566 RGTR--
+200412006 Gasperich, Cloche d'  00726  00726                % 10566 RGTR--
+200412018 Gasperich, Schaarfen  00728  00728                % 10566 RGTR--
+200412031 Gasperich, Stade de   00729  00729                % 10566 RGTR--
+220701007 Leudelange, Grasbösc  00731  00731                % 10566 RGTR--
+220701018 Leudelange, Foyer     00734  00734                % 10566 RGTR--
+220701020 Leudelange, LaLux     00735                       % 10566 RGTR--
+*Z 10567 RGTR--                                             % 10567 RGTR--
+*L 404      500000033 220701020  00725  00835               % 10567 RGTR--
+*R 1 220701020 500000033 220701020  00725  00835            % 10567 RGTR--
+*G 050 500000033 220701020  00725  00835                    % 10567 RGTR--
+*A VE 500000033 220701020 000033  00725  00835              % 10567 RGTR--
+*I FD 500000033 220701020        0001921  00725  00835      % 10567 RGTR--
+500000033 Merzig, Bahnhof              00725                % 10567 RGTR--
+500000034 Merzig, Stadthalle   -00729  00729                % 10567 RGTR--
+500000113 Merzig, Hilbringer B -00732  00732                % 10567 RGTR--
+200412021 Gasperich, Gerhard M  00823  00823                % 10567 RGTR--
+200412006 Gasperich, Cloche d'  00826  00826                % 10567 RGTR--
+200412018 Gasperich, Schaarfen  00828  00828                % 10567 RGTR--
+200412031 Gasperich, Stade de   00829  00829                % 10567 RGTR--
+220701007 Leudelange, Grasbösc  00831  00831                % 10567 RGTR--
+220701018 Leudelange, Foyer     00834  00834                % 10567 RGTR--
+220701020 Leudelange, LaLux     00835                       % 10567 RGTR--
+*Z 10568 RGTR--                                             % 10568 RGTR--
+*L 404      500000033 220701020  00825  00935               % 10568 RGTR--
+*R 1 220701020 500000033 220701020  00825  00935            % 10568 RGTR--
+*G 050 500000033 220701020  00825  00935                    % 10568 RGTR--
+*A VE 500000033 220701020 000033  00825  00935              % 10568 RGTR--
+*I FD 500000033 220701020        0000908  00825  00935      % 10568 RGTR--
+500000033 Merzig, Bahnhof              00825                % 10568 RGTR--
+500000034 Merzig, Stadthalle   -00829  00829                % 10568 RGTR--
+500000113 Merzig, Hilbringer B -00832  00832                % 10568 RGTR--
+200412021 Gasperich, Gerhard M  00923  00923                % 10568 RGTR--
+200412006 Gasperich, Cloche d'  00926  00926                % 10568 RGTR--
+200412018 Gasperich, Schaarfen  00928  00928                % 10568 RGTR--
+200412031 Gasperich, Stade de   00929  00929                % 10568 RGTR--
+220701007 Leudelange, Grasbösc  00931  00931                % 10568 RGTR--
+220701018 Leudelange, Foyer     00934  00934                % 10568 RGTR--
+220701020 Leudelange, LaLux     00935                       % 10568 RGTR--
+*Z 10569 RGTR--                                             % 10569 RGTR--
+*L 404      200417048 500000033  00810  00906               % 10569 RGTR--
+*R 2 500000033 200417048 500000033  00810  00906            % 10569 RGTR--
+*G 050 200417048 500000033  00810  00906                    % 10569 RGTR--
+*A VE 200417048 500000033 000033  00810  00906              % 10569 RGTR--
+*I FD 200417048 500000033        0001985  00810  00906      % 10569 RGTR--
+200417048 Kirchberg, Europe Ga         00810                % 10569 RGTR--
+200417005 Kirchberg, Antoine d -00810  00810                % 10569 RGTR--
+200417019 Kirchberg, Konrad Ad -00811  00811                % 10569 RGTR--
+200417039 Kirchberg, Avalon    -00812  00812                % 10569 RGTR--
+200417033 Kirchberg, Poutty St -00814  00814                % 10569 RGTR--
+200417044 Kirchberg, Luxexpo Q -00816  00816                % 10569 RGTR--
+500000113 Merzig, Hilbringer B  00901 -00901                % 10569 RGTR--
+500000034 Merzig, Stadthalle    00903 -00903                % 10569 RGTR--
+500000033 Merzig, Bahnhof       00906                       % 10569 RGTR--
+*Z 10570 RGTR--                                             % 10570 RGTR--
+*L 404      200417048 500000033  00910  01006               % 10570 RGTR--
+*R 2 500000033 200417048 500000033  00910  01006            % 10570 RGTR--
+*G 050 200417048 500000033  00910  01006                    % 10570 RGTR--
+*A VE 200417048 500000033 000033  00910  01006              % 10570 RGTR--
+*I FD 200417048 500000033        0001980  00910  01006      % 10570 RGTR--
+200417048 Kirchberg, Europe Ga         00910                % 10570 RGTR--
+200417005 Kirchberg, Antoine d -00910  00910                % 10570 RGTR--
+200417019 Kirchberg, Konrad Ad -00911  00911                % 10570 RGTR--
+200417039 Kirchberg, Avalon    -00912  00912                % 10570 RGTR--
+200417033 Kirchberg, Poutty St -00914  00914                % 10570 RGTR--
+200417044 Kirchberg, Luxexpo Q -00916  00916                % 10570 RGTR--
+500000113 Merzig, Hilbringer B  01001 -01001                % 10570 RGTR--
+500000034 Merzig, Stadthalle    01003 -01003                % 10570 RGTR--
+500000033 Merzig, Bahnhof       01006                       % 10570 RGTR--
+*Z 10571 RGTR--                                             % 10571 RGTR--
+*L 404      200417048 500000033  01010  01106               % 10571 RGTR--
+*R 2 500000033 200417048 500000033  01010  01106            % 10571 RGTR--
+*G 050 200417048 500000033  01010  01106                    % 10571 RGTR--
+*A VE 200417048 500000033 000033  01010  01106              % 10571 RGTR--
+*I FD 200417048 500000033        0001986  01010  01106      % 10571 RGTR--
+200417048 Kirchberg, Europe Ga         01010                % 10571 RGTR--
+200417005 Kirchberg, Antoine d -01010  01010                % 10571 RGTR--
+200417019 Kirchberg, Konrad Ad -01011  01011                % 10571 RGTR--
+200417039 Kirchberg, Avalon    -01012  01012                % 10571 RGTR--
+200417033 Kirchberg, Poutty St -01014  01014                % 10571 RGTR--
+200417044 Kirchberg, Luxexpo Q -01016  01016                % 10571 RGTR--
+500000113 Merzig, Hilbringer B  01101 -01101                % 10571 RGTR--
+500000034 Merzig, Stadthalle    01103 -01103                % 10571 RGTR--
+500000033 Merzig, Bahnhof       01106                       % 10571 RGTR--
+*Z 10572 RGTR--                                             % 10572 RGTR--
+*L 404      200417048 500000033  01110  01206               % 10572 RGTR--
+*R 2 500000033 200417048 500000033  01110  01206            % 10572 RGTR--
+*G 050 200417048 500000033  01110  01206                    % 10572 RGTR--
+*A VE 200417048 500000033 000033  01110  01206              % 10572 RGTR--
+*I FD 200417048 500000033        0001063  01110  01206      % 10572 RGTR--
+200417048 Kirchberg, Europe Ga         01110                % 10572 RGTR--
+200417005 Kirchberg, Antoine d -01110  01110                % 10572 RGTR--
+200417019 Kirchberg, Konrad Ad -01111  01111                % 10572 RGTR--
+200417039 Kirchberg, Avalon    -01112  01112                % 10572 RGTR--
+200417033 Kirchberg, Poutty St -01114  01114                % 10572 RGTR--
+200417044 Kirchberg, Luxexpo Q -01116  01116                % 10572 RGTR--
+500000113 Merzig, Hilbringer B  01201 -01201                % 10572 RGTR--
+500000034 Merzig, Stadthalle    01203 -01203                % 10572 RGTR--
+500000033 Merzig, Bahnhof       01206                       % 10572 RGTR--
+*Z 10573 RGTR--                                             % 10573 RGTR--
+*L 404      200417048 500000033  01210  01306               % 10573 RGTR--
+*R 2 500000033 200417048 500000033  01210  01306            % 10573 RGTR--
+*G 050 200417048 500000033  01210  01306                    % 10573 RGTR--
+*A VE 200417048 500000033 000033  01210  01306              % 10573 RGTR--
+*I FD 200417048 500000033        0001981  01210  01306      % 10573 RGTR--
+200417048 Kirchberg, Europe Ga         01210                % 10573 RGTR--
+200417005 Kirchberg, Antoine d -01210  01210                % 10573 RGTR--
+200417019 Kirchberg, Konrad Ad -01211  01211                % 10573 RGTR--
+200417039 Kirchberg, Avalon    -01212  01212                % 10573 RGTR--
+200417033 Kirchberg, Poutty St -01214  01214                % 10573 RGTR--
+200417044 Kirchberg, Luxexpo Q -01216  01216                % 10573 RGTR--
+500000113 Merzig, Hilbringer B  01301 -01301                % 10573 RGTR--
+500000034 Merzig, Stadthalle    01303 -01303                % 10573 RGTR--
+500000033 Merzig, Bahnhof       01306                       % 10573 RGTR--
+*Z 10574 RGTR--                                             % 10574 RGTR--
+*L 404      200417048 500000033  01310  01406               % 10574 RGTR--
+*R 2 500000033 200417048 500000033  01310  01406            % 10574 RGTR--
+*G 050 200417048 500000033  01310  01406                    % 10574 RGTR--
+*A VE 200417048 500000033 000033  01310  01406              % 10574 RGTR--
+*I FD 200417048 500000033        0001987  01310  01406      % 10574 RGTR--
+200417048 Kirchberg, Europe Ga         01310                % 10574 RGTR--
+200417005 Kirchberg, Antoine d -01310  01310                % 10574 RGTR--
+200417019 Kirchberg, Konrad Ad -01311  01311                % 10574 RGTR--
+200417039 Kirchberg, Avalon    -01312  01312                % 10574 RGTR--
+200417033 Kirchberg, Poutty St -01314  01314                % 10574 RGTR--
+200417044 Kirchberg, Luxexpo Q -01316  01316                % 10574 RGTR--
+500000113 Merzig, Hilbringer B  01401 -01401                % 10574 RGTR--
+500000034 Merzig, Stadthalle    01403 -01403                % 10574 RGTR--
+500000033 Merzig, Bahnhof       01406                       % 10574 RGTR--
+*Z 10575 RGTR--                                             % 10575 RGTR--
+*L 404      200417048 500000033  01410  01506               % 10575 RGTR--
+*R 2 500000033 200417048 500000033  01410  01506            % 10575 RGTR--
+*G 050 200417048 500000033  01410  01506                    % 10575 RGTR--
+*A VE 200417048 500000033 000033  01410  01506              % 10575 RGTR--
+*I FD 200417048 500000033        0001988  01410  01506      % 10575 RGTR--
+200417048 Kirchberg, Europe Ga         01410                % 10575 RGTR--
+200417005 Kirchberg, Antoine d -01410  01410                % 10575 RGTR--
+200417019 Kirchberg, Konrad Ad -01411  01411                % 10575 RGTR--
+200417039 Kirchberg, Avalon    -01412  01412                % 10575 RGTR--
+200417033 Kirchberg, Poutty St -01414  01414                % 10575 RGTR--
+200417044 Kirchberg, Luxexpo Q -01416  01416                % 10575 RGTR--
+500000113 Merzig, Hilbringer B  01501 -01501                % 10575 RGTR--
+500000034 Merzig, Stadthalle    01503 -01503                % 10575 RGTR--
+500000033 Merzig, Bahnhof       01506                       % 10575 RGTR--
+*Z 10576 RGTR--                                             % 10576 RGTR--
+*L 404      200417048 500000033  01510  01606               % 10576 RGTR--
+*R 2 500000033 200417048 500000033  01510  01606            % 10576 RGTR--
+*G 050 200417048 500000033  01510  01606                    % 10576 RGTR--
+*A VE 200417048 500000033 000033  01510  01606              % 10576 RGTR--
+*I FD 200417048 500000033        0001982  01510  01606      % 10576 RGTR--
+200417048 Kirchberg, Europe Ga         01510                % 10576 RGTR--
+200417005 Kirchberg, Antoine d -01510  01510                % 10576 RGTR--
+200417019 Kirchberg, Konrad Ad -01511  01511                % 10576 RGTR--
+200417039 Kirchberg, Avalon    -01512  01512                % 10576 RGTR--
+200417033 Kirchberg, Poutty St -01514  01514                % 10576 RGTR--
+200417044 Kirchberg, Luxexpo Q -01516  01516                % 10576 RGTR--
+500000113 Merzig, Hilbringer B  01601 -01601                % 10576 RGTR--
+500000034 Merzig, Stadthalle    01603 -01603                % 10576 RGTR--
+500000033 Merzig, Bahnhof       01606                       % 10576 RGTR--
+*Z 10577 RGTR--                                             % 10577 RGTR--
+*L 404      200417048 500000033  01910  02006               % 10577 RGTR--
+*R 2 500000033 200417048 500000033  01910  02006            % 10577 RGTR--
+*G 050 200417048 500000033  01910  02006                    % 10577 RGTR--
+*A VE 200417048 500000033 000033  01910  02006              % 10577 RGTR--
+*I FD 200417048 500000033        0001989  01910  02006      % 10577 RGTR--
+200417048 Kirchberg, Europe Ga         01910                % 10577 RGTR--
+200417005 Kirchberg, Antoine d -01910  01910                % 10577 RGTR--
+200417019 Kirchberg, Konrad Ad -01911  01911                % 10577 RGTR--
+200417039 Kirchberg, Avalon    -01912  01912                % 10577 RGTR--
+200417033 Kirchberg, Poutty St -01914  01914                % 10577 RGTR--
+200417044 Kirchberg, Luxexpo Q -01916  01916                % 10577 RGTR--
+500000113 Merzig, Hilbringer B  02001 -02001                % 10577 RGTR--
+500000034 Merzig, Stadthalle    02003 -02003                % 10577 RGTR--
+500000033 Merzig, Bahnhof       02006                       % 10577 RGTR--
+*Z 10578 RGTR--                                             % 10578 RGTR--
+*L 404      200417048 500000033  02010  02106               % 10578 RGTR--
+*R 2 500000033 200417048 500000033  02010  02106            % 10578 RGTR--
+*G 050 200417048 500000033  02010  02106                    % 10578 RGTR--
+*A VE 200417048 500000033 000033  02010  02106              % 10578 RGTR--
+*I FD 200417048 500000033        0001990  02010  02106      % 10578 RGTR--
+200417048 Kirchberg, Europe Ga         02010                % 10578 RGTR--
+200417005 Kirchberg, Antoine d -02010  02010                % 10578 RGTR--
+200417019 Kirchberg, Konrad Ad -02011  02011                % 10578 RGTR--
+200417039 Kirchberg, Avalon    -02012  02012                % 10578 RGTR--
+200417033 Kirchberg, Poutty St -02014  02014                % 10578 RGTR--
+200417044 Kirchberg, Luxexpo Q -02016  02016                % 10578 RGTR--
+500000113 Merzig, Hilbringer B  02101 -02101                % 10578 RGTR--
+500000034 Merzig, Stadthalle    02103 -02103                % 10578 RGTR--
+500000033 Merzig, Bahnhof       02106                       % 10578 RGTR--
+*Z 10579 RGTR--                                             % 10579 RGTR--
+*L 404      200417048 500000033  01610  01718               % 10579 RGTR--
+*R 2 500000033 200417048 500000033  01610  01718            % 10579 RGTR--
+*G 050 200417048 500000033  01610  01718                    % 10579 RGTR--
+*A VE 200417048 500000033 000033  01610  01718              % 10579 RGTR--
+*I FD 200417048 500000033        0001997  01610  01718      % 10579 RGTR--
+200417048 Kirchberg, Europe Ga         01610                % 10579 RGTR--
+200417005 Kirchberg, Antoine d -01611  01611                % 10579 RGTR--
+200417019 Kirchberg, Konrad Ad -01612  01612                % 10579 RGTR--
+200417039 Kirchberg, Avalon    -01613  01613                % 10579 RGTR--
+200417033 Kirchberg, Poutty St -01615  01615                % 10579 RGTR--
+200417044 Kirchberg, Luxexpo Q -01617  01617                % 10579 RGTR--
+500000113 Merzig, Hilbringer B  01712 -01712                % 10579 RGTR--
+500000034 Merzig, Stadthalle    01715 -01715                % 10579 RGTR--
+500000033 Merzig, Bahnhof       01718                       % 10579 RGTR--
+*Z 10580 RGTR--                                             % 10580 RGTR--
+*L 404      200417048 500000033  01710  01818               % 10580 RGTR--
+*R 2 500000033 200417048 500000033  01710  01818            % 10580 RGTR--
+*G 050 200417048 500000033  01710  01818                    % 10580 RGTR--
+*A VE 200417048 500000033 000033  01710  01818              % 10580 RGTR--
+*I FD 200417048 500000033        0001993  01710  01818      % 10580 RGTR--
+200417048 Kirchberg, Europe Ga         01710                % 10580 RGTR--
+200417005 Kirchberg, Antoine d -01711  01711                % 10580 RGTR--
+200417019 Kirchberg, Konrad Ad -01712  01712                % 10580 RGTR--
+200417039 Kirchberg, Avalon    -01713  01713                % 10580 RGTR--
+200417033 Kirchberg, Poutty St -01715  01715                % 10580 RGTR--
+200417044 Kirchberg, Luxexpo Q -01717  01717                % 10580 RGTR--
+500000113 Merzig, Hilbringer B  01812 -01812                % 10580 RGTR--
+500000034 Merzig, Stadthalle    01815 -01815                % 10580 RGTR--
+500000033 Merzig, Bahnhof       01818                       % 10580 RGTR--
+*Z 10581 RGTR--                                             % 10581 RGTR--
+*L 404      200417048 500000033  01810  01918               % 10581 RGTR--
+*R 2 500000033 200417048 500000033  01810  01918            % 10581 RGTR--
+*G 050 200417048 500000033  01810  01918                    % 10581 RGTR--
+*A VE 200417048 500000033 000033  01810  01918              % 10581 RGTR--
+*I FD 200417048 500000033        0001996  01810  01918      % 10581 RGTR--
+200417048 Kirchberg, Europe Ga         01810                % 10581 RGTR--
+200417005 Kirchberg, Antoine d -01811  01811                % 10581 RGTR--
+200417019 Kirchberg, Konrad Ad -01812  01812                % 10581 RGTR--
+200417039 Kirchberg, Avalon    -01813  01813                % 10581 RGTR--
+200417033 Kirchberg, Poutty St -01815  01815                % 10581 RGTR--
+200417044 Kirchberg, Luxexpo Q -01817  01817                % 10581 RGTR--
+500000113 Merzig, Hilbringer B  01912 -01912                % 10581 RGTR--
+500000034 Merzig, Stadthalle    01915 -01915                % 10581 RGTR--
+500000033 Merzig, Bahnhof       01918                       % 10581 RGTR--
+*Z 10582 RGTR--                                             % 10582 RGTR--
+*L 404      220701020 500000033  00840  00948               % 10582 RGTR--
+*R 2 500000033 220701020 500000033  00840  00948            % 10582 RGTR--
+*G 050 220701020 500000033  00840  00948                    % 10582 RGTR--
+*A VE 220701020 500000033 000033  00840  00948              % 10582 RGTR--
+*I FD 220701020 500000033        0002328  00840  00948      % 10582 RGTR--
+220701020 Leudelange, LaLux            00840                % 10582 RGTR--
+220701018 Leudelange, Foyer     00842  00842                % 10582 RGTR--
+220701007 Leudelange, Grasbösc  00844  00844                % 10582 RGTR--
+200412031 Gasperich, Stade de   00847  00847                % 10582 RGTR--
+200412018 Gasperich, Schaarfen  00848  00848                % 10582 RGTR--
+200412006 Gasperich, Cloche d'  00849  00849                % 10582 RGTR--
+200412021 Gasperich, Gerhard M  00851  00851                % 10582 RGTR--
+500000113 Merzig, Hilbringer B  00943 -00943                % 10582 RGTR--
+500000034 Merzig, Stadthalle    00946 -00946                % 10582 RGTR--
+500000033 Merzig, Bahnhof       00948                       % 10582 RGTR--
+*Z 10583 RGTR--                                             % 10583 RGTR--
+*L 404      220701020 500000033  00940  01048               % 10583 RGTR--
+*R 2 500000033 220701020 500000033  00940  01048            % 10583 RGTR--
+*G 050 220701020 500000033  00940  01048                    % 10583 RGTR--
+*A VE 220701020 500000033 000033  00940  01048              % 10583 RGTR--
+*I FD 220701020 500000033        0002320  00940  01048      % 10583 RGTR--
+220701020 Leudelange, LaLux            00940                % 10583 RGTR--
+220701018 Leudelange, Foyer     00942  00942                % 10583 RGTR--
+220701007 Leudelange, Grasbösc  00944  00944                % 10583 RGTR--
+200412031 Gasperich, Stade de   00947  00947                % 10583 RGTR--
+200412018 Gasperich, Schaarfen  00948  00948                % 10583 RGTR--
+200412006 Gasperich, Cloche d'  00949  00949                % 10583 RGTR--
+200412021 Gasperich, Gerhard M  00951  00951                % 10583 RGTR--
+500000113 Merzig, Hilbringer B  01043 -01043                % 10583 RGTR--
+500000034 Merzig, Stadthalle    01046 -01046                % 10583 RGTR--
+500000033 Merzig, Bahnhof       01048                       % 10583 RGTR--
+*Z 10584 RGTR--                                             % 10584 RGTR--
+*L 404      220701020 500000033  01040  01148               % 10584 RGTR--
+*R 2 500000033 220701020 500000033  01040  01148            % 10584 RGTR--
+*G 050 220701020 500000033  01040  01148                    % 10584 RGTR--
+*A VE 220701020 500000033 000033  01040  01148              % 10584 RGTR--
+*I FD 220701020 500000033        0002329  01040  01148      % 10584 RGTR--
+220701020 Leudelange, LaLux            01040                % 10584 RGTR--
+220701018 Leudelange, Foyer     01042  01042                % 10584 RGTR--
+220701007 Leudelange, Grasbösc  01044  01044                % 10584 RGTR--
+200412031 Gasperich, Stade de   01047  01047                % 10584 RGTR--
+200412018 Gasperich, Schaarfen  01048  01048                % 10584 RGTR--
+200412006 Gasperich, Cloche d'  01049  01049                % 10584 RGTR--
+200412021 Gasperich, Gerhard M  01051  01051                % 10584 RGTR--
+500000113 Merzig, Hilbringer B  01143 -01143                % 10584 RGTR--
+500000034 Merzig, Stadthalle    01146 -01146                % 10584 RGTR--
+500000033 Merzig, Bahnhof       01148                       % 10584 RGTR--
+*Z 10585 RGTR--                                             % 10585 RGTR--
+*L 404      220701020 500000033  01140  01248               % 10585 RGTR--
+*R 2 500000033 220701020 500000033  01140  01248            % 10585 RGTR--
+*G 050 220701020 500000033  01140  01248                    % 10585 RGTR--
+*A VE 220701020 500000033 000033  01140  01248              % 10585 RGTR--
+*I FD 220701020 500000033        0002321  01140  01248      % 10585 RGTR--
+220701020 Leudelange, LaLux            01140                % 10585 RGTR--
+220701018 Leudelange, Foyer     01142  01142                % 10585 RGTR--
+220701007 Leudelange, Grasbösc  01144  01144                % 10585 RGTR--
+200412031 Gasperich, Stade de   01147  01147                % 10585 RGTR--
+200412018 Gasperich, Schaarfen  01148  01148                % 10585 RGTR--
+200412006 Gasperich, Cloche d'  01149  01149                % 10585 RGTR--
+200412021 Gasperich, Gerhard M  01151  01151                % 10585 RGTR--
+500000113 Merzig, Hilbringer B  01243 -01243                % 10585 RGTR--
+500000034 Merzig, Stadthalle    01246 -01246                % 10585 RGTR--
+500000033 Merzig, Bahnhof       01248                       % 10585 RGTR--
+*Z 10586 RGTR--                                             % 10586 RGTR--
+*L 404      220701020 500000033  01240  01348               % 10586 RGTR--
+*R 2 500000033 220701020 500000033  01240  01348            % 10586 RGTR--
+*G 050 220701020 500000033  01240  01348                    % 10586 RGTR--
+*A VE 220701020 500000033 000033  01240  01348              % 10586 RGTR--
+*I FD 220701020 500000033        0001133  01240  01348      % 10586 RGTR--
+220701020 Leudelange, LaLux            01240                % 10586 RGTR--
+220701018 Leudelange, Foyer     01242  01242                % 10586 RGTR--
+220701007 Leudelange, Grasbösc  01244  01244                % 10586 RGTR--
+200412031 Gasperich, Stade de   01247  01247                % 10586 RGTR--
+200412018 Gasperich, Schaarfen  01248  01248                % 10586 RGTR--
+200412006 Gasperich, Cloche d'  01249  01249                % 10586 RGTR--
+200412021 Gasperich, Gerhard M  01251  01251                % 10586 RGTR--
+500000113 Merzig, Hilbringer B  01343 -01343                % 10586 RGTR--
+500000034 Merzig, Stadthalle    01346 -01346                % 10586 RGTR--
+500000033 Merzig, Bahnhof       01348                       % 10586 RGTR--
+*Z 10587 RGTR--                                             % 10587 RGTR--
+*L 404      220701020 500000033  01340  01448               % 10587 RGTR--
+*R 2 500000033 220701020 500000033  01340  01448            % 10587 RGTR--
+*G 050 220701020 500000033  01340  01448                    % 10587 RGTR--
+*A VE 220701020 500000033 000033  01340  01448              % 10587 RGTR--
+*I FD 220701020 500000033        0002322  01340  01448      % 10587 RGTR--
+220701020 Leudelange, LaLux            01340                % 10587 RGTR--
+220701018 Leudelange, Foyer     01342  01342                % 10587 RGTR--
+220701007 Leudelange, Grasbösc  01344  01344                % 10587 RGTR--
+200412031 Gasperich, Stade de   01347  01347                % 10587 RGTR--
+200412018 Gasperich, Schaarfen  01348  01348                % 10587 RGTR--
+200412006 Gasperich, Cloche d'  01349  01349                % 10587 RGTR--
+200412021 Gasperich, Gerhard M  01351  01351                % 10587 RGTR--
+500000113 Merzig, Hilbringer B  01443 -01443                % 10587 RGTR--
+500000034 Merzig, Stadthalle    01446 -01446                % 10587 RGTR--
+500000033 Merzig, Bahnhof       01448                       % 10587 RGTR--
+*Z 10588 RGTR--                                             % 10588 RGTR--
+*L 404      220701020 500000033  01440  01548               % 10588 RGTR--
+*R 2 500000033 220701020 500000033  01440  01548            % 10588 RGTR--
+*G 050 220701020 500000033  01440  01548                    % 10588 RGTR--
+*A VE 220701020 500000033 000033  01440  01548              % 10588 RGTR--
+*I FD 220701020 500000033        0002330  01440  01548      % 10588 RGTR--
+220701020 Leudelange, LaLux            01440                % 10588 RGTR--
+220701018 Leudelange, Foyer     01442  01442                % 10588 RGTR--
+220701007 Leudelange, Grasbösc  01444  01444                % 10588 RGTR--
+200412031 Gasperich, Stade de   01447  01447                % 10588 RGTR--
+200412018 Gasperich, Schaarfen  01448  01448                % 10588 RGTR--
+200412006 Gasperich, Cloche d'  01449  01449                % 10588 RGTR--
+200412021 Gasperich, Gerhard M  01451  01451                % 10588 RGTR--
+500000113 Merzig, Hilbringer B  01543 -01543                % 10588 RGTR--
+500000034 Merzig, Stadthalle    01546 -01546                % 10588 RGTR--
+500000033 Merzig, Bahnhof       01548                       % 10588 RGTR--
+*Z 10589 RGTR--                                             % 10589 RGTR--
+*L 404      220701020 500000033  01540  01648               % 10589 RGTR--
+*R 2 500000033 220701020 500000033  01540  01648            % 10589 RGTR--
+*G 050 220701020 500000033  01540  01648                    % 10589 RGTR--
+*A VE 220701020 500000033 000033  01540  01648              % 10589 RGTR--
+*I FD 220701020 500000033        0002323  01540  01648      % 10589 RGTR--
+220701020 Leudelange, LaLux            01540                % 10589 RGTR--
+220701018 Leudelange, Foyer     01542  01542                % 10589 RGTR--
+220701007 Leudelange, Grasbösc  01544  01544                % 10589 RGTR--
+200412031 Gasperich, Stade de   01547  01547                % 10589 RGTR--
+200412018 Gasperich, Schaarfen  01548  01548                % 10589 RGTR--
+200412006 Gasperich, Cloche d'  01549  01549                % 10589 RGTR--
+200412021 Gasperich, Gerhard M  01551  01551                % 10589 RGTR--
+500000113 Merzig, Hilbringer B  01643 -01643                % 10589 RGTR--
+500000034 Merzig, Stadthalle    01646 -01646                % 10589 RGTR--
+500000033 Merzig, Bahnhof       01648                       % 10589 RGTR--
+*Z 10590 RGTR--                                             % 10590 RGTR--
+*L 404      220701020 500000033  01840  01948               % 10590 RGTR--
+*R 2 500000033 220701020 500000033  01840  01948            % 10590 RGTR--
+*G 050 220701020 500000033  01840  01948                    % 10590 RGTR--
+*A VE 220701020 500000033 000033  01840  01948              % 10590 RGTR--
+*I FD 220701020 500000033        0001336  01840  01948      % 10590 RGTR--
+220701020 Leudelange, LaLux            01840                % 10590 RGTR--
+220701018 Leudelange, Foyer     01842  01842                % 10590 RGTR--
+220701007 Leudelange, Grasbösc  01844  01844                % 10590 RGTR--
+200412031 Gasperich, Stade de   01847  01847                % 10590 RGTR--
+200412018 Gasperich, Schaarfen  01848  01848                % 10590 RGTR--
+200412006 Gasperich, Cloche d'  01849  01849                % 10590 RGTR--
+200412021 Gasperich, Gerhard M  01851  01851                % 10590 RGTR--
+500000113 Merzig, Hilbringer B  01943 -01943                % 10590 RGTR--
+500000034 Merzig, Stadthalle    01946 -01946                % 10590 RGTR--
+500000033 Merzig, Bahnhof       01948                       % 10590 RGTR--
+*Z 10591 RGTR--                                             % 10591 RGTR--
+*L 404      220701020 500000033  01940  02048               % 10591 RGTR--
+*R 2 500000033 220701020 500000033  01940  02048            % 10591 RGTR--
+*G 050 220701020 500000033  01940  02048                    % 10591 RGTR--
+*A VE 220701020 500000033 000033  01940  02048              % 10591 RGTR--
+*I FD 220701020 500000033        0002324  01940  02048      % 10591 RGTR--
+220701020 Leudelange, LaLux            01940                % 10591 RGTR--
+220701018 Leudelange, Foyer     01942  01942                % 10591 RGTR--
+220701007 Leudelange, Grasbösc  01944  01944                % 10591 RGTR--
+200412031 Gasperich, Stade de   01947  01947                % 10591 RGTR--
+200412018 Gasperich, Schaarfen  01948  01948                % 10591 RGTR--
+200412006 Gasperich, Cloche d'  01949  01949                % 10591 RGTR--
+200412021 Gasperich, Gerhard M  01951  01951                % 10591 RGTR--
+500000113 Merzig, Hilbringer B  02043 -02043                % 10591 RGTR--
+500000034 Merzig, Stadthalle    02046 -02046                % 10591 RGTR--
+500000033 Merzig, Bahnhof       02048                       % 10591 RGTR--
+*Z 10592 RGTR--                                             % 10592 RGTR--
+*L 404      220701020 500000033  01640  01756               % 10592 RGTR--
+*R 2 500000033 220701020 500000033  01640  01756            % 10592 RGTR--
+*G 050 220701020 500000033  01640  01756                    % 10592 RGTR--
+*A VE 220701020 500000033 000033  01640  01756              % 10592 RGTR--
+*I FD 220701020 500000033        0001261  01640  01756      % 10592 RGTR--
+220701020 Leudelange, LaLux            01640                % 10592 RGTR--
+220701018 Leudelange, Foyer     01642  01642                % 10592 RGTR--
+220701007 Leudelange, Grasbösc  01644  01644                % 10592 RGTR--
+200412031 Gasperich, Stade de   01649  01649                % 10592 RGTR--
+200412018 Gasperich, Schaarfen  01650  01650                % 10592 RGTR--
+200412006 Gasperich, Cloche d'  01651  01651                % 10592 RGTR--
+200412021 Gasperich, Gerhard M  01654  01654                % 10592 RGTR--
+500000113 Merzig, Hilbringer B  01751 -01751                % 10592 RGTR--
+500000034 Merzig, Stadthalle    01754 -01754                % 10592 RGTR--
+500000033 Merzig, Bahnhof       01756                       % 10592 RGTR--
+*Z 10593 RGTR--                                             % 10593 RGTR--
+*L 404      220701020 500000033  01740  01856               % 10593 RGTR--
+*R 2 500000033 220701020 500000033  01740  01856            % 10593 RGTR--
+*G 050 220701020 500000033  01740  01856                    % 10593 RGTR--
+*A VE 220701020 500000033 000033  01740  01856              % 10593 RGTR--
+*I FD 220701020 500000033        0001994  01740  01856      % 10593 RGTR--
+220701020 Leudelange, LaLux            01740                % 10593 RGTR--
+220701018 Leudelange, Foyer     01742  01742                % 10593 RGTR--
+220701007 Leudelange, Grasbösc  01744  01744                % 10593 RGTR--
+200412031 Gasperich, Stade de   01749  01749                % 10593 RGTR--
+200412018 Gasperich, Schaarfen  01750  01750                % 10593 RGTR--
+200412006 Gasperich, Cloche d'  01751  01751                % 10593 RGTR--
+200412021 Gasperich, Gerhard M  01754  01754                % 10593 RGTR--
+500000113 Merzig, Hilbringer B  01851 -01851                % 10593 RGTR--
+500000034 Merzig, Stadthalle    01854 -01854                % 10593 RGTR--
+500000033 Merzig, Bahnhof       01856                       % 10593 RGTR--
+*Z 10594 RGTR--                                             % 10594 RGTR--
+*L 404      500000033 200304017  00455  00554               % 10594 RGTR--
+*R 1 200304017 500000033 200304017  00455  00554            % 10594 RGTR--
+*G 050 500000033 200304017  00455  00554                    % 10594 RGTR--
+*A VE 500000033 200304017 000034  00455  00554              % 10594 RGTR--
+*I FD 500000033 200304017        0002270  00455  00554      % 10594 RGTR--
+500000033 Merzig, Bahnhof              00455                % 10594 RGTR--
+500000034 Merzig, Stadthalle   -00458  00458                % 10594 RGTR--
+500000113 Merzig, Hilbringer B -00501  00501                % 10594 RGTR--
+200412021 Gasperich, Gerhard M  00548  00548                % 10594 RGTR--
+200412023 Gasperich, Leonardo   00549  00549                % 10594 RGTR--
+200412004 Gasperich, Émile Bia  00550  00550                % 10594 RGTR--
+200412006 Gasperich, Cloche d'  00551  00551                % 10594 RGTR--
+200304017 Howald, P&R Howald Q  00554                       % 10594 RGTR--
+*Z 10595 RGTR--                                             % 10595 RGTR--
+*L 404      500000033 200304017  00555  00654               % 10595 RGTR--
+*R 1 200304017 500000033 200304017  00555  00654            % 10595 RGTR--
+*G 050 500000033 200304017  00555  00654                    % 10595 RGTR--
+*A VE 500000033 200304017 000034  00555  00654              % 10595 RGTR--
+*I FD 500000033 200304017        0002265  00555  00654      % 10595 RGTR--
+500000033 Merzig, Bahnhof              00555                % 10595 RGTR--
+500000034 Merzig, Stadthalle   -00558  00558                % 10595 RGTR--
+500000113 Merzig, Hilbringer B -00601  00601                % 10595 RGTR--
+200412021 Gasperich, Gerhard M  00648  00648                % 10595 RGTR--
+200412023 Gasperich, Leonardo   00649  00649                % 10595 RGTR--
+200412004 Gasperich, Émile Bia  00650  00650                % 10595 RGTR--
+200412006 Gasperich, Cloche d'  00651  00651                % 10595 RGTR--
+200304017 Howald, P&R Howald Q  00654                       % 10595 RGTR--
+*Z 10596 RGTR--                                             % 10596 RGTR--
+*L 404      500000033 200304017  00955  01054               % 10596 RGTR--
+*R 1 200304017 500000033 200304017  00955  01054            % 10596 RGTR--
+*G 050 500000033 200304017  00955  01054                    % 10596 RGTR--
+*A VE 500000033 200304017 000034  00955  01054              % 10596 RGTR--
+*I FD 500000033 200304017        0002268  00955  01054      % 10596 RGTR--
+500000033 Merzig, Bahnhof              00955                % 10596 RGTR--
+500000034 Merzig, Stadthalle   -00958  00958                % 10596 RGTR--
+500000113 Merzig, Hilbringer B -01001  01001                % 10596 RGTR--
+200412021 Gasperich, Gerhard M  01048  01048                % 10596 RGTR--
+200412023 Gasperich, Leonardo   01049  01049                % 10596 RGTR--
+200412004 Gasperich, Émile Bia  01050  01050                % 10596 RGTR--
+200412006 Gasperich, Cloche d'  01051  01051                % 10596 RGTR--
+200304017 Howald, P&R Howald Q  01054                       % 10596 RGTR--
+*Z 10597 RGTR--                                             % 10597 RGTR--
+*L 404      500000033 200304017  01055  01154               % 10597 RGTR--
+*R 1 200304017 500000033 200304017  01055  01154            % 10597 RGTR--
+*G 050 500000033 200304017  01055  01154                    % 10597 RGTR--
+*A VE 500000033 200304017 000034  01055  01154              % 10597 RGTR--
+*I FD 500000033 200304017        0002758  01055  01154      % 10597 RGTR--
+500000033 Merzig, Bahnhof              01055                % 10597 RGTR--
+500000034 Merzig, Stadthalle   -01058  01058                % 10597 RGTR--
+500000113 Merzig, Hilbringer B -01101  01101                % 10597 RGTR--
+200412021 Gasperich, Gerhard M  01148  01148                % 10597 RGTR--
+200412023 Gasperich, Leonardo   01149  01149                % 10597 RGTR--
+200412004 Gasperich, Émile Bia  01150  01150                % 10597 RGTR--
+200412006 Gasperich, Cloche d'  01151  01151                % 10597 RGTR--
+200304017 Howald, P&R Howald Q  01154                       % 10597 RGTR--
+*Z 10598 RGTR--                                             % 10598 RGTR--
+*L 404      500000033 200304017  01155  01254               % 10598 RGTR--
+*R 1 200304017 500000033 200304017  01155  01254            % 10598 RGTR--
+*G 050 500000033 200304017  01155  01254                    % 10598 RGTR--
+*A VE 500000033 200304017 000034  01155  01254              % 10598 RGTR--
+*I FD 500000033 200304017        0002762  01155  01254      % 10598 RGTR--
+500000033 Merzig, Bahnhof              01155                % 10598 RGTR--
+500000034 Merzig, Stadthalle   -01158  01158                % 10598 RGTR--
+500000113 Merzig, Hilbringer B -01201  01201                % 10598 RGTR--
+200412021 Gasperich, Gerhard M  01248  01248                % 10598 RGTR--
+200412023 Gasperich, Leonardo   01249  01249                % 10598 RGTR--
+200412004 Gasperich, Émile Bia  01250  01250                % 10598 RGTR--
+200412006 Gasperich, Cloche d'  01251  01251                % 10598 RGTR--
+200304017 Howald, P&R Howald Q  01254                       % 10598 RGTR--
+*Z 10599 RGTR--                                             % 10599 RGTR--
+*L 404      500000033 200304017  01255  01354               % 10599 RGTR--
+*R 1 200304017 500000033 200304017  01255  01354            % 10599 RGTR--
+*G 050 500000033 200304017  01255  01354                    % 10599 RGTR--
+*A VE 500000033 200304017 000034  01255  01354              % 10599 RGTR--
+*I FD 500000033 200304017        0002759  01255  01354      % 10599 RGTR--
+500000033 Merzig, Bahnhof              01255                % 10599 RGTR--
+500000034 Merzig, Stadthalle   -01258  01258                % 10599 RGTR--
+500000113 Merzig, Hilbringer B -01301  01301                % 10599 RGTR--
+200412021 Gasperich, Gerhard M  01348  01348                % 10599 RGTR--
+200412023 Gasperich, Leonardo   01349  01349                % 10599 RGTR--
+200412004 Gasperich, Émile Bia  01350  01350                % 10599 RGTR--
+200412006 Gasperich, Cloche d'  01351  01351                % 10599 RGTR--
+200304017 Howald, P&R Howald Q  01354                       % 10599 RGTR--
+*Z 10600 RGTR--                                             % 10600 RGTR--
+*L 404      500000033 200304017  01355  01454               % 10600 RGTR--
+*R 1 200304017 500000033 200304017  01355  01454            % 10600 RGTR--
+*G 050 500000033 200304017  01355  01454                    % 10600 RGTR--
+*A VE 500000033 200304017 000034  01355  01454              % 10600 RGTR--
+*I FD 500000033 200304017        0001170  01355  01454      % 10600 RGTR--
+500000033 Merzig, Bahnhof              01355                % 10600 RGTR--
+500000034 Merzig, Stadthalle   -01358  01358                % 10600 RGTR--
+500000113 Merzig, Hilbringer B -01401  01401                % 10600 RGTR--
+200412021 Gasperich, Gerhard M  01448  01448                % 10600 RGTR--
+200412023 Gasperich, Leonardo   01449  01449                % 10600 RGTR--
+200412004 Gasperich, Émile Bia  01450  01450                % 10600 RGTR--
+200412006 Gasperich, Cloche d'  01451  01451                % 10600 RGTR--
+200304017 Howald, P&R Howald Q  01454                       % 10600 RGTR--
+*Z 10601 RGTR--                                             % 10601 RGTR--
+*L 404      500000033 200304017  01455  01554               % 10601 RGTR--
+*R 1 200304017 500000033 200304017  01455  01554            % 10601 RGTR--
+*G 050 500000033 200304017  01455  01554                    % 10601 RGTR--
+*A VE 500000033 200304017 000034  01455  01554              % 10601 RGTR--
+*I FD 500000033 200304017        0002760  01455  01554      % 10601 RGTR--
+500000033 Merzig, Bahnhof              01455                % 10601 RGTR--
+500000034 Merzig, Stadthalle   -01458  01458                % 10601 RGTR--
+500000113 Merzig, Hilbringer B -01501  01501                % 10601 RGTR--
+200412021 Gasperich, Gerhard M  01548  01548                % 10601 RGTR--
+200412023 Gasperich, Leonardo   01549  01549                % 10601 RGTR--
+200412004 Gasperich, Émile Bia  01550  01550                % 10601 RGTR--
+200412006 Gasperich, Cloche d'  01551  01551                % 10601 RGTR--
+200304017 Howald, P&R Howald Q  01554                       % 10601 RGTR--
+*Z 10602 RGTR--                                             % 10602 RGTR--
+*L 404      500000033 200304017  01555  01654               % 10602 RGTR--
+*R 1 200304017 500000033 200304017  01555  01654            % 10602 RGTR--
+*G 050 500000033 200304017  01555  01654                    % 10602 RGTR--
+*A VE 500000033 200304017 000034  01555  01654              % 10602 RGTR--
+*I FD 500000033 200304017        0002269  01555  01654      % 10602 RGTR--
+500000033 Merzig, Bahnhof              01555                % 10602 RGTR--
+500000034 Merzig, Stadthalle   -01558  01558                % 10602 RGTR--
+500000113 Merzig, Hilbringer B -01601  01601                % 10602 RGTR--
+200412021 Gasperich, Gerhard M  01648  01648                % 10602 RGTR--
+200412023 Gasperich, Leonardo   01649  01649                % 10602 RGTR--
+200412004 Gasperich, Émile Bia  01650  01650                % 10602 RGTR--
+200412006 Gasperich, Cloche d'  01651  01651                % 10602 RGTR--
+200304017 Howald, P&R Howald Q  01654                       % 10602 RGTR--
+*Z 10603 RGTR--                                             % 10603 RGTR--
+*L 404      500000033 200304017  01855  01954               % 10603 RGTR--
+*R 1 200304017 500000033 200304017  01855  01954            % 10603 RGTR--
+*G 050 500000033 200304017  01855  01954                    % 10603 RGTR--
+*A VE 500000033 200304017 000034  01855  01954              % 10603 RGTR--
+*I FD 500000033 200304017        0002206  01855  01954      % 10603 RGTR--
+500000033 Merzig, Bahnhof              01855                % 10603 RGTR--
+500000034 Merzig, Stadthalle   -01858  01858                % 10603 RGTR--
+500000113 Merzig, Hilbringer B -01901  01901                % 10603 RGTR--
+200412021 Gasperich, Gerhard M  01948  01948                % 10603 RGTR--
+200412023 Gasperich, Leonardo   01949  01949                % 10603 RGTR--
+200412004 Gasperich, Émile Bia  01950  01950                % 10603 RGTR--
+200412006 Gasperich, Cloche d'  01951  01951                % 10603 RGTR--
+200304017 Howald, P&R Howald Q  01954                       % 10603 RGTR--
+*Z 10604 RGTR--                                             % 10604 RGTR--
+*L 404      500000033 200304017  00655  00800               % 10604 RGTR--
+*R 1 200304017 500000033 200304017  00655  00800            % 10604 RGTR--
+*G 050 500000033 200304017  00655  00800                    % 10604 RGTR--
+*A VE 500000033 200304017 000034  00655  00800              % 10604 RGTR--
+*I FD 500000033 200304017        0001920  00655  00800      % 10604 RGTR--
+500000033 Merzig, Bahnhof              00655                % 10604 RGTR--
+500000034 Merzig, Stadthalle   -00659  00659                % 10604 RGTR--
+500000113 Merzig, Hilbringer B -00702  00702                % 10604 RGTR--
+200412021 Gasperich, Gerhard M  00753  00753                % 10604 RGTR--
+200412023 Gasperich, Leonardo   00754  00754                % 10604 RGTR--
+200412004 Gasperich, Émile Bia  00754  00754                % 10604 RGTR--
+200412006 Gasperich, Cloche d'  00756  00756                % 10604 RGTR--
+200304017 Howald, P&R Howald Q  00800                       % 10604 RGTR--
+*Z 10605 RGTR--                                             % 10605 RGTR--
+*L 404      500000033 200304017  00755  00900               % 10605 RGTR--
+*R 1 200304017 500000033 200304017  00755  00900            % 10605 RGTR--
+*G 050 500000033 200304017  00755  00900                    % 10605 RGTR--
+*A VE 500000033 200304017 000034  00755  00900              % 10605 RGTR--
+*I FD 500000033 200304017        0002266  00755  00900      % 10605 RGTR--
+500000033 Merzig, Bahnhof              00755                % 10605 RGTR--
+500000034 Merzig, Stadthalle   -00759  00759                % 10605 RGTR--
+500000113 Merzig, Hilbringer B -00802  00802                % 10605 RGTR--
+200412021 Gasperich, Gerhard M  00853  00853                % 10605 RGTR--
+200412023 Gasperich, Leonardo   00854  00854                % 10605 RGTR--
+200412004 Gasperich, Émile Bia  00854  00854                % 10605 RGTR--
+200412006 Gasperich, Cloche d'  00856  00856                % 10605 RGTR--
+200304017 Howald, P&R Howald Q  00900                       % 10605 RGTR--
+*Z 10606 RGTR--                                             % 10606 RGTR--
+*L 404      500000033 200304017  00855  01000               % 10606 RGTR--
+*R 1 200304017 500000033 200304017  00855  01000            % 10606 RGTR--
+*G 050 500000033 200304017  00855  01000                    % 10606 RGTR--
+*A VE 500000033 200304017 000034  00855  01000              % 10606 RGTR--
+*I FD 500000033 200304017        0002267  00855  01000      % 10606 RGTR--
+500000033 Merzig, Bahnhof              00855                % 10606 RGTR--
+500000034 Merzig, Stadthalle   -00859  00859                % 10606 RGTR--
+500000113 Merzig, Hilbringer B -00902  00902                % 10606 RGTR--
+200412021 Gasperich, Gerhard M  00953  00953                % 10606 RGTR--
+200412023 Gasperich, Leonardo   00954  00954                % 10606 RGTR--
+200412004 Gasperich, Émile Bia  00954  00954                % 10606 RGTR--
+200412006 Gasperich, Cloche d'  00956  00956                % 10606 RGTR--
+200304017 Howald, P&R Howald Q  01000                       % 10606 RGTR--
+*Z 10607 RGTR--                                             % 10607 RGTR--
+*L 404      500000033 200304017  01655  01800               % 10607 RGTR--
+*R 1 200304017 500000033 200304017  01655  01800            % 10607 RGTR--
+*G 050 500000033 200304017  01655  01800                    % 10607 RGTR--
+*A VE 500000033 200304017 000034  01655  01800              % 10607 RGTR--
+*I FD 500000033 200304017        0002209  01655  01800      % 10607 RGTR--
+500000033 Merzig, Bahnhof              01655                % 10607 RGTR--
+500000034 Merzig, Stadthalle   -01659  01659                % 10607 RGTR--
+500000113 Merzig, Hilbringer B -01702  01702                % 10607 RGTR--
+200412021 Gasperich, Gerhard M  01753  01753                % 10607 RGTR--
+200412023 Gasperich, Leonardo   01754  01754                % 10607 RGTR--
+200412004 Gasperich, Émile Bia  01754  01754                % 10607 RGTR--
+200412006 Gasperich, Cloche d'  01756  01756                % 10607 RGTR--
+200304017 Howald, P&R Howald Q  01800                       % 10607 RGTR--
+*Z 10608 RGTR--                                             % 10608 RGTR--
+*L 404      500000033 200304017  01755  01900               % 10608 RGTR--
+*R 1 200304017 500000033 200304017  01755  01900            % 10608 RGTR--
+*G 050 500000033 200304017  01755  01900                    % 10608 RGTR--
+*A VE 500000033 200304017 000034  01755  01900              % 10608 RGTR--
+*I FD 500000033 200304017        0002210  01755  01900      % 10608 RGTR--
+500000033 Merzig, Bahnhof              01755                % 10608 RGTR--
+500000034 Merzig, Stadthalle   -01759  01759                % 10608 RGTR--
+500000113 Merzig, Hilbringer B -01802  01802                % 10608 RGTR--
+200412021 Gasperich, Gerhard M  01853  01853                % 10608 RGTR--
+200412023 Gasperich, Leonardo   01854  01854                % 10608 RGTR--
+200412004 Gasperich, Émile Bia  01854  01854                % 10608 RGTR--
+200412006 Gasperich, Cloche d'  01856  01856                % 10608 RGTR--
+200304017 Howald, P&R Howald Q  01900                       % 10608 RGTR--
+*Z 10609 RGTR--                                             % 10609 RGTR--
+*L 404      200304012 500000033  00810  00916               % 10609 RGTR--
+*R 2 500000033 200304012 500000033  00810  00916            % 10609 RGTR--
+*G 050 200304012 500000033  00810  00916                    % 10609 RGTR--
+*A VE 200304012 500000033 000034  00810  00916              % 10609 RGTR--
+*I FD 200304012 500000033        0001985  00810  00916      % 10609 RGTR--
+200304012 Howald, P&R Howald Q         00810                % 10609 RGTR--
+200412021 Gasperich, Gerhard M  00810  00810                % 10609 RGTR--
+200412023 Gasperich, Leonardo   00811  00811                % 10609 RGTR--
+200412004 Gasperich, Émile Bia  00812  00812                % 10609 RGTR--
+200412006 Gasperich, Cloche d'  00814  00814                % 10609 RGTR--
+500000113 Merzig, Hilbringer B  00910 -00910                % 10609 RGTR--
+500000034 Merzig, Stadthalle    00914 -00914                % 10609 RGTR--
+500000033 Merzig, Bahnhof       00916                       % 10609 RGTR--
+*Z 10610 RGTR--                                             % 10610 RGTR--
+*L 404      200304012 500000033  00910  01016               % 10610 RGTR--
+*R 2 500000033 200304012 500000033  00910  01016            % 10610 RGTR--
+*G 050 200304012 500000033  00910  01016                    % 10610 RGTR--
+*A VE 200304012 500000033 000034  00910  01016              % 10610 RGTR--
+*I FD 200304012 500000033        0001980  00910  01016      % 10610 RGTR--
+200304012 Howald, P&R Howald Q         00910                % 10610 RGTR--
+200412021 Gasperich, Gerhard M  00910  00910                % 10610 RGTR--
+200412023 Gasperich, Leonardo   00911  00911                % 10610 RGTR--
+200412004 Gasperich, Émile Bia  00912  00912                % 10610 RGTR--
+200412006 Gasperich, Cloche d'  00914  00914                % 10610 RGTR--
+500000113 Merzig, Hilbringer B  01010 -01010                % 10610 RGTR--
+500000034 Merzig, Stadthalle    01014 -01014                % 10610 RGTR--
+500000033 Merzig, Bahnhof       01016                       % 10610 RGTR--
+*Z 10611 RGTR--                                             % 10611 RGTR--
+*L 404      200304012 500000033  01610  01716               % 10611 RGTR--
+*R 2 500000033 200304012 500000033  01610  01716            % 10611 RGTR--
+*G 050 200304012 500000033  01610  01716                    % 10611 RGTR--
+*A VE 200304012 500000033 000034  01610  01716              % 10611 RGTR--
+*I FD 200304012 500000033        0001997  01610  01716      % 10611 RGTR--
+200304012 Howald, P&R Howald Q         01610                % 10611 RGTR--
+200412021 Gasperich, Gerhard M  01610  01610                % 10611 RGTR--
+200412023 Gasperich, Leonardo   01611  01611                % 10611 RGTR--
+200412004 Gasperich, Émile Bia  01612  01612                % 10611 RGTR--
+200412006 Gasperich, Cloche d'  01614  01614                % 10611 RGTR--
+500000113 Merzig, Hilbringer B  01710 -01710                % 10611 RGTR--
+500000034 Merzig, Stadthalle    01714 -01714                % 10611 RGTR--
+500000033 Merzig, Bahnhof       01716                       % 10611 RGTR--
+*Z 10612 RGTR--                                             % 10612 RGTR--
+*L 404      200304012 500000033  01710  01816               % 10612 RGTR--
+*R 2 500000033 200304012 500000033  01710  01816            % 10612 RGTR--
+*G 050 200304012 500000033  01710  01816                    % 10612 RGTR--
+*A VE 200304012 500000033 000034  01710  01816              % 10612 RGTR--
+*I FD 200304012 500000033        0001993  01710  01816      % 10612 RGTR--
+200304012 Howald, P&R Howald Q         01710                % 10612 RGTR--
+200412021 Gasperich, Gerhard M  01710  01710                % 10612 RGTR--
+200412023 Gasperich, Leonardo   01711  01711                % 10612 RGTR--
+200412004 Gasperich, Émile Bia  01712  01712                % 10612 RGTR--
+200412006 Gasperich, Cloche d'  01714  01714                % 10612 RGTR--
+500000113 Merzig, Hilbringer B  01810 -01810                % 10612 RGTR--
+500000034 Merzig, Stadthalle    01814 -01814                % 10612 RGTR--
+500000033 Merzig, Bahnhof       01816                       % 10612 RGTR--
+*Z 10613 RGTR--                                             % 10613 RGTR--
+*L 404      200304012 500000033  01810  01916               % 10613 RGTR--
+*R 2 500000033 200304012 500000033  01810  01916            % 10613 RGTR--
+*G 050 200304012 500000033  01810  01916                    % 10613 RGTR--
+*A VE 200304012 500000033 000034  01810  01916              % 10613 RGTR--
+*I FD 200304012 500000033        0001996  01810  01916      % 10613 RGTR--
+200304012 Howald, P&R Howald Q         01810                % 10613 RGTR--
+200412021 Gasperich, Gerhard M  01810  01810                % 10613 RGTR--
+200412023 Gasperich, Leonardo   01811  01811                % 10613 RGTR--
+200412004 Gasperich, Émile Bia  01812  01812                % 10613 RGTR--
+200412006 Gasperich, Cloche d'  01814  01814                % 10613 RGTR--
+500000113 Merzig, Hilbringer B  01910 -01910                % 10613 RGTR--
+500000034 Merzig, Stadthalle    01914 -01914                % 10613 RGTR--
+500000033 Merzig, Bahnhof       01916                       % 10613 RGTR--
+*Z 10614 RGTR--                                             % 10614 RGTR--
+*L 404      200304012 500000033  01010  01110               % 10614 RGTR--
+*R 2 500000033 200304012 500000033  01010  01110            % 10614 RGTR--
+*G 050 200304012 500000033  01010  01110                    % 10614 RGTR--
+*A VE 200304012 500000033 000034  01010  01110              % 10614 RGTR--
+*I FD 200304012 500000033        0001986  01010  01110      % 10614 RGTR--
+200304012 Howald, P&R Howald Q         01010                % 10614 RGTR--
+200412021 Gasperich, Gerhard M  01010  01010                % 10614 RGTR--
+200412023 Gasperich, Leonardo   01011  01011                % 10614 RGTR--
+200412004 Gasperich, Émile Bia  01012  01012                % 10614 RGTR--
+200412006 Gasperich, Cloche d'  01013  01013                % 10614 RGTR--
+500000113 Merzig, Hilbringer B  01105 -01105                % 10614 RGTR--
+500000034 Merzig, Stadthalle    01108 -01108                % 10614 RGTR--
+500000033 Merzig, Bahnhof       01110                       % 10614 RGTR--
+*Z 10615 RGTR--                                             % 10615 RGTR--
+*L 404      200304012 500000033  01110  01210               % 10615 RGTR--
+*R 2 500000033 200304012 500000033  01110  01210            % 10615 RGTR--
+*G 050 200304012 500000033  01110  01210                    % 10615 RGTR--
+*A VE 200304012 500000033 000034  01110  01210              % 10615 RGTR--
+*I FD 200304012 500000033        0001063  01110  01210      % 10615 RGTR--
+200304012 Howald, P&R Howald Q         01110                % 10615 RGTR--
+200412021 Gasperich, Gerhard M  01110  01110                % 10615 RGTR--
+200412023 Gasperich, Leonardo   01111  01111                % 10615 RGTR--
+200412004 Gasperich, Émile Bia  01112  01112                % 10615 RGTR--
+200412006 Gasperich, Cloche d'  01113  01113                % 10615 RGTR--
+500000113 Merzig, Hilbringer B  01205 -01205                % 10615 RGTR--
+500000034 Merzig, Stadthalle    01208 -01208                % 10615 RGTR--
+500000033 Merzig, Bahnhof       01210                       % 10615 RGTR--
+*Z 10616 RGTR--                                             % 10616 RGTR--
+*L 404      200304012 500000033  01210  01310               % 10616 RGTR--
+*R 2 500000033 200304012 500000033  01210  01310            % 10616 RGTR--
+*G 050 200304012 500000033  01210  01310                    % 10616 RGTR--
+*A VE 200304012 500000033 000034  01210  01310              % 10616 RGTR--
+*I FD 200304012 500000033        0001981  01210  01310      % 10616 RGTR--
+200304012 Howald, P&R Howald Q         01210                % 10616 RGTR--
+200412021 Gasperich, Gerhard M  01210  01210                % 10616 RGTR--
+200412023 Gasperich, Leonardo   01211  01211                % 10616 RGTR--
+200412004 Gasperich, Émile Bia  01212  01212                % 10616 RGTR--
+200412006 Gasperich, Cloche d'  01213  01213                % 10616 RGTR--
+500000113 Merzig, Hilbringer B  01305 -01305                % 10616 RGTR--
+500000034 Merzig, Stadthalle    01308 -01308                % 10616 RGTR--
+500000033 Merzig, Bahnhof       01310                       % 10616 RGTR--
+*Z 10617 RGTR--                                             % 10617 RGTR--
+*L 404      200304012 500000033  01310  01410               % 10617 RGTR--
+*R 2 500000033 200304012 500000033  01310  01410            % 10617 RGTR--
+*G 050 200304012 500000033  01310  01410                    % 10617 RGTR--
+*A VE 200304012 500000033 000034  01310  01410              % 10617 RGTR--
+*I FD 200304012 500000033        0001987  01310  01410      % 10617 RGTR--
+200304012 Howald, P&R Howald Q         01310                % 10617 RGTR--
+200412021 Gasperich, Gerhard M  01310  01310                % 10617 RGTR--
+200412023 Gasperich, Leonardo   01311  01311                % 10617 RGTR--
+200412004 Gasperich, Émile Bia  01312  01312                % 10617 RGTR--
+200412006 Gasperich, Cloche d'  01313  01313                % 10617 RGTR--
+500000113 Merzig, Hilbringer B  01405 -01405                % 10617 RGTR--
+500000034 Merzig, Stadthalle    01408 -01408                % 10617 RGTR--
+500000033 Merzig, Bahnhof       01410                       % 10617 RGTR--
+*Z 10618 RGTR--                                             % 10618 RGTR--
+*L 404      200304012 500000033  01410  01510               % 10618 RGTR--
+*R 2 500000033 200304012 500000033  01410  01510            % 10618 RGTR--
+*G 050 200304012 500000033  01410  01510                    % 10618 RGTR--
+*A VE 200304012 500000033 000034  01410  01510              % 10618 RGTR--
+*I FD 200304012 500000033        0001988  01410  01510      % 10618 RGTR--
+200304012 Howald, P&R Howald Q         01410                % 10618 RGTR--
+200412021 Gasperich, Gerhard M  01410  01410                % 10618 RGTR--
+200412023 Gasperich, Leonardo   01411  01411                % 10618 RGTR--
+200412004 Gasperich, Émile Bia  01412  01412                % 10618 RGTR--
+200412006 Gasperich, Cloche d'  01413  01413                % 10618 RGTR--
+500000113 Merzig, Hilbringer B  01505 -01505                % 10618 RGTR--
+500000034 Merzig, Stadthalle    01508 -01508                % 10618 RGTR--
+500000033 Merzig, Bahnhof       01510                       % 10618 RGTR--
+*Z 10619 RGTR--                                             % 10619 RGTR--
+*L 404      200304012 500000033  01510  01610               % 10619 RGTR--
+*R 2 500000033 200304012 500000033  01510  01610            % 10619 RGTR--
+*G 050 200304012 500000033  01510  01610                    % 10619 RGTR--
+*A VE 200304012 500000033 000034  01510  01610              % 10619 RGTR--
+*I FD 200304012 500000033        0001982  01510  01610      % 10619 RGTR--
+200304012 Howald, P&R Howald Q         01510                % 10619 RGTR--
+200412021 Gasperich, Gerhard M  01510  01510                % 10619 RGTR--
+200412023 Gasperich, Leonardo   01511  01511                % 10619 RGTR--
+200412004 Gasperich, Émile Bia  01512  01512                % 10619 RGTR--
+200412006 Gasperich, Cloche d'  01513  01513                % 10619 RGTR--
+500000113 Merzig, Hilbringer B  01605 -01605                % 10619 RGTR--
+500000034 Merzig, Stadthalle    01608 -01608                % 10619 RGTR--
+500000033 Merzig, Bahnhof       01610                       % 10619 RGTR--
+*Z 10620 RGTR--                                             % 10620 RGTR--
+*L 404      200304012 500000033  01910  02010               % 10620 RGTR--
+*R 2 500000033 200304012 500000033  01910  02010            % 10620 RGTR--
+*G 050 200304012 500000033  01910  02010                    % 10620 RGTR--
+*A VE 200304012 500000033 000034  01910  02010              % 10620 RGTR--
+*I FD 200304012 500000033        0001989  01910  02010      % 10620 RGTR--
+200304012 Howald, P&R Howald Q         01910                % 10620 RGTR--
+200412021 Gasperich, Gerhard M  01910  01910                % 10620 RGTR--
+200412023 Gasperich, Leonardo   01911  01911                % 10620 RGTR--
+200412004 Gasperich, Émile Bia  01912  01912                % 10620 RGTR--
+200412006 Gasperich, Cloche d'  01913  01913                % 10620 RGTR--
+500000113 Merzig, Hilbringer B  02005 -02005                % 10620 RGTR--
+500000034 Merzig, Stadthalle    02008 -02008                % 10620 RGTR--
+500000033 Merzig, Bahnhof       02010                       % 10620 RGTR--
+*Z 10621 RGTR--                                             % 10621 RGTR--
+*L 404      200304012 500000033  02010  02110               % 10621 RGTR--
+*R 2 500000033 200304012 500000033  02010  02110            % 10621 RGTR--
+*G 050 200304012 500000033  02010  02110                    % 10621 RGTR--
+*A VE 200304012 500000033 000034  02010  02110              % 10621 RGTR--
+*I FD 200304012 500000033        0001990  02010  02110      % 10621 RGTR--
+200304012 Howald, P&R Howald Q         02010                % 10621 RGTR--
+200412021 Gasperich, Gerhard M  02010  02010                % 10621 RGTR--
+200412023 Gasperich, Leonardo   02011  02011                % 10621 RGTR--
+200412004 Gasperich, Émile Bia  02012  02012                % 10621 RGTR--
+200412006 Gasperich, Cloche d'  02013  02013                % 10621 RGTR--
+500000113 Merzig, Hilbringer B  02105 -02105                % 10621 RGTR--
+500000034 Merzig, Stadthalle    02108 -02108                % 10621 RGTR--
+500000033 Merzig, Bahnhof       02110                       % 10621 RGTR--

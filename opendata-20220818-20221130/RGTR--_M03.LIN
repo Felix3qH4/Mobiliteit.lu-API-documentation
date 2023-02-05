@@ -1,0 +1,85 @@
+*F 03 2
+*Z 18845 RGTR--                                             % 18845 RGTR--
+*L M03      120506001 150606005  00703  00742               % 18845 RGTR--
+*A cj 120506001 150606005 000042  00703  00742              % 18845 RGTR--
+*A ad 120506001 150606005 000042  00703  00742              % 18845 RGTR--
+*R 1 150606005 120506001 150606005  00703  00742            % 18845 RGTR--
+*G 050 120506001 150606005  00703  00742                    % 18845 RGTR--
+*A VE 120506001 150606005 000042  00703  00742              % 18845 RGTR--
+*I FD 120506001 150606005        0002107  00703  00742      % 18845 RGTR--
+120506001 Ringel                       00703                % 18845 RGTR--
+120507002 Tadler, Kierfecht     00706  00706                % 18845 RGTR--
+120507001 Tadler                00706  00706                % 18845 RGTR--
+120502002 Heiderscheid          00712  00712                % 18845 RGTR--
+120505001 Merscheid/Heidersche  00718  00718                % 18845 RGTR--
+141101004 Mertzig, Internat     00725  00725                % 18845 RGTR--
+141101005 Mertzig, Gemeng       00725  00725                % 18845 RGTR--
+141101003 Mertzig, Eglise       00726  00726                % 18845 RGTR--
+141101006 Mertzig, Wéchen       00726  00726                % 18845 RGTR--
+150402005 Grosbous, Police      00729  00729                % 18845 RGTR--
+150402004 Grosbous, Op der Baa  00730  00730                % 18845 RGTR--
+150402002 Grosbous, Kiirchepla  00730  00730                % 18845 RGTR--
+150203002 Pratz, Bousserpad     00733  00733                % 18845 RGTR--
+150203005 Pratz, Haaptstrooss   00734  00734                % 18845 RGTR--
+150203001 Pratz, Biebergriesch  00734  00734                % 18845 RGTR--
+150206001 Bettborn, Gemenge Pl  00735  00735                % 18845 RGTR--
+150202001 Platen, Kinnebësch    00736  00736                % 18845 RGTR--
+150202002 Platen                00737  00737                % 18845 RGTR--
+150607001 Reichlange, Hostelle  00739  00739                % 18845 RGTR--
+150606005 Redange/Attert, Lycé  00742                       % 18845 RGTR--
+*Z 18846 RGTR--                                             % 18846 RGTR--
+*L M03      150606005 120506001  01225  01302               % 18846 RGTR--
+*A cj 150606005 120506001 000007  01225  01302              % 18846 RGTR--
+*A ad 150606005 120506001 000007  01225  01302              % 18846 RGTR--
+*R 2 120506001 150606005 120506001  01225  01302            % 18846 RGTR--
+*G 050 150606005 120506001  01225  01302                    % 18846 RGTR--
+*A VE 150606005 120506001 000007  01225  01302              % 18846 RGTR--
+*I FD 150606005 120506001        0002422  01225  01302      % 18846 RGTR--
+150606005 Redange/Attert, Lycé         01225                % 18846 RGTR--
+150607001 Reichlange, Hostelle  01229  01229                % 18846 RGTR--
+150202002 Platen                01230  01230                % 18846 RGTR--
+150202001 Platen, Kinnebësch    01231  01231                % 18846 RGTR--
+150206001 Bettborn, Gemenge Pl  01231  01231                % 18846 RGTR--
+150203001 Pratz, Biebergriesch  01232  01232                % 18846 RGTR--
+150203005 Pratz, Haaptstrooss   01233  01233                % 18846 RGTR--
+150203002 Pratz, Bousserpad     01233  01233                % 18846 RGTR--
+150402002 Grosbous, Kiirchepla  01236  01236                % 18846 RGTR--
+150402004 Grosbous, Op der Baa  01237  01237                % 18846 RGTR--
+150402005 Grosbous, Police      01237  01237                % 18846 RGTR--
+141101006 Mertzig, Wéchen       01239  01239                % 18846 RGTR--
+141101003 Mertzig, Eglise       01240  01240                % 18846 RGTR--
+141101005 Mertzig, Gemeng       01241  01241                % 18846 RGTR--
+141101004 Mertzig, Internat     01241  01241                % 18846 RGTR--
+120505001 Merscheid/Heidersche  01248  01248                % 18846 RGTR--
+120502002 Heiderscheid          01254  01254                % 18846 RGTR--
+120507001 Tadler                01259  01259                % 18846 RGTR--
+120507002 Tadler, Kierfecht     01259  01259                % 18846 RGTR--
+120506001 Ringel                01302                       % 18846 RGTR--
+*Z 18847 RGTR--                                             % 18847 RGTR--
+*L M03      150606005 120506001  01540  01617               % 18847 RGTR--
+*A cj 150606005 120506001 000312  01540  01617              % 18847 RGTR--
+*A ad 150606005 120506001 000312  01540  01617              % 18847 RGTR--
+*R 2 120506001 150606005 120506001  01540  01617            % 18847 RGTR--
+*G 050 150606005 120506001  01540  01617                    % 18847 RGTR--
+*A VE 150606005 120506001 000312  01540  01617              % 18847 RGTR--
+*I FD 150606005 120506001        0002323  01540  01617      % 18847 RGTR--
+150606005 Redange/Attert, Lycé         01540                % 18847 RGTR--
+150607001 Reichlange, Hostelle  01544  01544                % 18847 RGTR--
+150202002 Platen                01545  01545                % 18847 RGTR--
+150202001 Platen, Kinnebësch    01546  01546                % 18847 RGTR--
+150206001 Bettborn, Gemenge Pl  01546  01546                % 18847 RGTR--
+150203001 Pratz, Biebergriesch  01547  01547                % 18847 RGTR--
+150203005 Pratz, Haaptstrooss   01548  01548                % 18847 RGTR--
+150203002 Pratz, Bousserpad     01548  01548                % 18847 RGTR--
+150402002 Grosbous, Kiirchepla  01551  01551                % 18847 RGTR--
+150402004 Grosbous, Op der Baa  01552  01552                % 18847 RGTR--
+150402005 Grosbous, Police      01552  01552                % 18847 RGTR--
+141101006 Mertzig, Wéchen       01554  01554                % 18847 RGTR--
+141101003 Mertzig, Eglise       01555  01555                % 18847 RGTR--
+141101005 Mertzig, Gemeng       01556  01556                % 18847 RGTR--
+141101004 Mertzig, Internat     01556  01556                % 18847 RGTR--
+120505001 Merscheid/Heidersche  01603  01603                % 18847 RGTR--
+120502002 Heiderscheid          01609  01609                % 18847 RGTR--
+120507001 Tadler                01614  01614                % 18847 RGTR--
+120507002 Tadler, Kierfecht     01614  01614                % 18847 RGTR--
+120506001 Ringel                01617                       % 18847 RGTR--

@@ -1,0 +1,86 @@
+*F 03 2
+*Z 18247 RGTR--                                             % 18247 RGTR--
+*L D10      200420006 210302002  01250  01329               % 18247 RGTR--
+*A cj 200420006 210302002 000046  01250  01329              % 18247 RGTR--
+*A ad 200420006 210302002 000046  01250  01329              % 18247 RGTR--
+*R 1 210302002 200420006 210302002  01250  01329            % 18247 RGTR--
+*G 063 200420006 210302002  01250  01329                    % 18247 RGTR--
+*A VE 200420006 210302002 000046  01250  01329              % 18247 RGTR--
+*I FD 200420006 210302002        0002070  01250  01329      % 18247 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 18247 RGTR--
+200303001 Hesperange, Am Kelle  01305  01305                % 18247 RGTR--
+200303006 Hesperange, Urbengss  01306  01306                % 18247 RGTR--
+200301001 Alzingen, Gässel      01308  01308                % 18247 RGTR--
+201102003 Syren, Troudelermill  01313  01313                % 18247 RGTR--
+201102002 Syren, Nidderbaach    01314  01314                % 18247 RGTR--
+201102001 Syren, Klappsbréck    01314  01314                % 18247 RGTR--
+210301003 Dalheim, Waasserklap  01318  01318                % 18247 RGTR--
+210301002 Dalheim, Poste        01319  01319                % 18247 RGTR--
+210301004 Dalheim, Gemeng       01320  01320                % 18247 RGTR--
+210301001 Dalheim, Hossegaass   01322  01322                % 18247 RGTR--
+210303001 Welfrange, Op der Pl  01324  01324                % 18247 RGTR--
+210302002 Filsdorf, Wäschbour   01329                       % 18247 RGTR--
+*Z 18248 RGTR--                                             % 18248 RGTR--
+*L D10      200420006 210302002  01425  01504               % 18248 RGTR--
+*A cj 200420006 210302002 000042  01425  01504              % 18248 RGTR--
+*A ad 200420006 210302002 000042  01425  01504              % 18248 RGTR--
+*R 1 210302002 200420006 210302002  01425  01504            % 18248 RGTR--
+*G 063 200420006 210302002  01425  01504                    % 18248 RGTR--
+*A VE 200420006 210302002 000042  01425  01504              % 18248 RGTR--
+*I FD 200420006 210302002        0002197  01425  01504      % 18248 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 18248 RGTR--
+200303001 Hesperange, Am Kelle  01440  01440                % 18248 RGTR--
+200303006 Hesperange, Urbengss  01441  01441                % 18248 RGTR--
+200301001 Alzingen, Gässel      01443  01443                % 18248 RGTR--
+201102003 Syren, Troudelermill  01448  01448                % 18248 RGTR--
+201102002 Syren, Nidderbaach    01449  01449                % 18248 RGTR--
+201102001 Syren, Klappsbréck    01449  01449                % 18248 RGTR--
+210301003 Dalheim, Waasserklap  01453  01453                % 18248 RGTR--
+210301002 Dalheim, Poste        01454  01454                % 18248 RGTR--
+210301004 Dalheim, Gemeng       01455  01455                % 18248 RGTR--
+210301001 Dalheim, Hossegaass   01457  01457                % 18248 RGTR--
+210303001 Welfrange, Op der Pl  01459  01459                % 18248 RGTR--
+210302002 Filsdorf, Wäschbour   01504                       % 18248 RGTR--
+*Z 18249 RGTR--                                             % 18249 RGTR--
+*L D10      200420006 210302002  01550  01629               % 18249 RGTR--
+*A cj 200420006 210302002 000047  01550  01629              % 18249 RGTR--
+*A ad 200420006 210302002 000047  01550  01629              % 18249 RGTR--
+*R 1 210302002 200420006 210302002  01550  01629            % 18249 RGTR--
+*G 063 200420006 210302002  01550  01629                    % 18249 RGTR--
+*A VE 200420006 210302002 000047  01550  01629              % 18249 RGTR--
+*I FD 200420006 210302002        0002073  01550  01629      % 18249 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 18249 RGTR--
+200303001 Hesperange, Am Kelle  01605  01605                % 18249 RGTR--
+200303006 Hesperange, Urbengss  01606  01606                % 18249 RGTR--
+200301001 Alzingen, Gässel      01608  01608                % 18249 RGTR--
+201102003 Syren, Troudelermill  01613  01613                % 18249 RGTR--
+201102002 Syren, Nidderbaach    01614  01614                % 18249 RGTR--
+201102001 Syren, Klappsbréck    01614  01614                % 18249 RGTR--
+210301003 Dalheim, Waasserklap  01618  01618                % 18249 RGTR--
+210301002 Dalheim, Poste        01619  01619                % 18249 RGTR--
+210301004 Dalheim, Gemeng       01620  01620                % 18249 RGTR--
+210301001 Dalheim, Hossegaass   01622  01622                % 18249 RGTR--
+210303001 Welfrange, Op der Pl  01624  01624                % 18249 RGTR--
+210302002 Filsdorf, Wäschbour   01629                       % 18249 RGTR--
+*Z 18250 RGTR--                                             % 18250 RGTR--
+*L D10      210302002 200420006  00700  00741               % 18250 RGTR--
+*A cj 210302002 200420006 000042  00700  00741              % 18250 RGTR--
+*A ad 210302002 200420006 000042  00700  00741              % 18250 RGTR--
+*R 2 200420006 210302002 200420006  00700  00741            % 18250 RGTR--
+*G 063 210302002 200420006  00700  00741                    % 18250 RGTR--
+*A VE 210302002 200420006 000042  00700  00741              % 18250 RGTR--
+*I FD 210302002 200420006        0001948  00700  00741      % 18250 RGTR--
+210302002 Filsdorf, Wäschbour          00700                % 18250 RGTR--
+210302001 Filsdorf, Op der Pla  00701  00701                % 18250 RGTR--
+210303001 Welfrange, Op der Pl  00704  00704                % 18250 RGTR--
+210301001 Dalheim, Hossegaass   00707  00707                % 18250 RGTR--
+210301004 Dalheim, Gemeng       00709  00709                % 18250 RGTR--
+210301002 Dalheim, Poste        00710  00710                % 18250 RGTR--
+210301003 Dalheim, Waasserklap  00712  00712                % 18250 RGTR--
+201102001 Syren, Klappsbréck    00716  00716                % 18250 RGTR--
+201102002 Syren, Nidderbaach    00717  00717                % 18250 RGTR--
+201102003 Syren, Troudelermill  00717  00717                % 18250 RGTR--
+200301001 Alzingen, Gässel      00722  00722                % 18250 RGTR--
+200303006 Hesperange, Urbengss  00723  00723                % 18250 RGTR--
+200303001 Hesperange, Am Kelle  00725  00725                % 18250 RGTR--
+200420006 Merl, Geesseknäppche  00741                       % 18250 RGTR--

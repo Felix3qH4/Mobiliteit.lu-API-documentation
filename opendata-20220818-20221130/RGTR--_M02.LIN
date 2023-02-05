@@ -1,0 +1,89 @@
+*F 03 2
+*Z 18841 RGTR--                                             % 18841 RGTR--
+*L M02      140701016 150107001  00717  00759               % 18841 RGTR--
+*A cj 140701016 150107001 000042  00717  00759              % 18841 RGTR--
+*A ad 140701016 150107001 000042  00717  00759              % 18841 RGTR--
+*R 1 150107001 140701016 150107001  00717  00759            % 18841 RGTR--
+*G 070 140701016 150107001  00717  00759                    % 18841 RGTR--
+*A VE 140701016 150107001 000042  00717  00759              % 18841 RGTR--
+*I FD 140701016 150107001        0002837  00717  00759      % 18841 RGTR--
+140701016 Ettelbruck, Gare             00717                % 18841 RGTR--
+140701025 Ettelbruck, Place du  00720  00720                % 18841 RGTR--
+140701009 Ettelbruck, Cité Pat  00721  00721                % 18841 RGTR--
+140701008 Ettelbruck, Cité Lop  00722  00722                % 18841 RGTR--
+140801002 Niederfeulen, Faubou  00724  00724                % 18841 RGTR--
+140801003 Niederfeulen, Mairie  00725  00725                % 18841 RGTR--
+140801004 Niederfeulen, route   00726  00726                % 18841 RGTR--
+140802003 Oberfeulen, Op Hoper  00727  00727                % 18841 RGTR--
+140802001 Oberfeulen, Place de  00728  00728                % 18841 RGTR--
+140802002 Oberfeulen, route d'  00729  00729                % 18841 RGTR--
+141101004 Mertzig, Internat     00731  00731                % 18841 RGTR--
+141101005 Mertzig, Gemeng       00732  00732                % 18841 RGTR--
+141101003 Mertzig, Eglise       00732  00732                % 18841 RGTR--
+141101006 Mertzig, Wéchen       00733  00733                % 18841 RGTR--
+150402005 Grosbous, Police      00735  00735                % 18841 RGTR--
+150402004 Grosbous, Op der Baa  00736  00736                % 18841 RGTR--
+150402002 Grosbous, Kiirchepla  00736  00736                % 18841 RGTR--
+150203002 Pratz, Bousserpad     00739  00739                % 18841 RGTR--
+150203005 Pratz, Haaptstrooss   00740  00740                % 18841 RGTR--
+150203001 Pratz, Biebergriesch  00741  00741                % 18841 RGTR--
+150206001 Bettborn, Gemenge Pl  00742  00742                % 18841 RGTR--
+150202001 Platen, Kinnebësch    00742  00742                % 18841 RGTR--
+150202002 Platen                00743  00743                % 18841 RGTR--
+150607001 Reichlange, Hostelle  00745  00745                % 18841 RGTR--
+150606005 Redange/Attert, Lycé  00748  00748                % 18841 RGTR--
+150606009 Redange/Attert, Scho  00749  00749                % 18841 RGTR--
+150606007 Redange/Attert, Ospe  00750  00750                % 18841 RGTR--
+150606003 Redange, Gare         00752  00752                % 18841 RGTR--
+150303003 Ell, Beim Schreider   00754  00754                % 18841 RGTR--
+150303001 Ell, Arelerstrooss    00754  00754                % 18841 RGTR--
+150105001 Levelange, Ellerstro  00757  00757                % 18841 RGTR--
+150107001 Oberpallen, Bréck     00759                       % 18841 RGTR--
+*Z 18842 RGTR--                                             % 18842 RGTR--
+*L M02      150606005 150107001  01225  01238               % 18842 RGTR--
+*A cj 150606005 150107001 000007  01225  01238              % 18842 RGTR--
+*A ad 150606005 150107001 000007  01225  01238              % 18842 RGTR--
+*R 1 150107001 150606005 150107001  01225  01238            % 18842 RGTR--
+*G 050 150606005 150107001  01225  01238                    % 18842 RGTR--
+*A VE 150606005 150107001 000007  01225  01238              % 18842 RGTR--
+*I FD 150606005 150107001        0002196  01225  01238      % 18842 RGTR--
+150606005 Redange/Attert, Lycé         01225                % 18842 RGTR--
+150606009 Redange/Attert, Scho  01226  01226                % 18842 RGTR--
+150606007 Redange/Attert, Ospe  01227  01227                % 18842 RGTR--
+150606003 Redange, Gare         01228  01228                % 18842 RGTR--
+150303003 Ell, Beim Schreider   01230  01230                % 18842 RGTR--
+150303002 Ell, Beim Musikssaul  01231  01231                % 18842 RGTR--
+150301001 Colpach-Bas, Schlass  01233  01233                % 18842 RGTR--
+150107001 Oberpallen, Bréck     01238                       % 18842 RGTR--
+*Z 18843 RGTR--                                             % 18843 RGTR--
+*L M02      150606005 150107001  01540  01553               % 18843 RGTR--
+*A cj 150606005 150107001 000312  01540  01553              % 18843 RGTR--
+*A ad 150606005 150107001 000312  01540  01553              % 18843 RGTR--
+*R 1 150107001 150606005 150107001  01540  01553            % 18843 RGTR--
+*G 050 150606005 150107001  01540  01553                    % 18843 RGTR--
+*A VE 150606005 150107001 000312  01540  01553              % 18843 RGTR--
+*I FD 150606005 150107001        0002569  01540  01553      % 18843 RGTR--
+150606005 Redange/Attert, Lycé         01540                % 18843 RGTR--
+150606009 Redange/Attert, Scho  01541  01541                % 18843 RGTR--
+150606007 Redange/Attert, Ospe  01542  01542                % 18843 RGTR--
+150606003 Redange, Gare         01543  01543                % 18843 RGTR--
+150303003 Ell, Beim Schreider   01545  01545                % 18843 RGTR--
+150303002 Ell, Beim Musikssaul  01546  01546                % 18843 RGTR--
+150301001 Colpach-Bas, Schlass  01548  01548                % 18843 RGTR--
+150107001 Oberpallen, Bréck     01553                       % 18843 RGTR--
+*Z 18844 RGTR--                                             % 18844 RGTR--
+*L M02      150107001 150606005  00731  00744               % 18844 RGTR--
+*A cj 150107001 150606005 000042  00731  00744              % 18844 RGTR--
+*A ad 150107001 150606005 000042  00731  00744              % 18844 RGTR--
+*R 2 150606005 150107001 150606005  00731  00744            % 18844 RGTR--
+*G 050 150107001 150606005  00731  00744                    % 18844 RGTR--
+*A VE 150107001 150606005 000042  00731  00744              % 18844 RGTR--
+*I FD 150107001 150606005        0003234  00731  00744      % 18844 RGTR--
+150107001 Oberpallen, Bréck            00731                % 18844 RGTR--
+150301001 Colpach-Bas, Schlass  00735  00735                % 18844 RGTR--
+150303002 Ell, Beim Musikssaul  00738  00738                % 18844 RGTR--
+150303003 Ell, Beim Schreider   00739  00739                % 18844 RGTR--
+150606003 Redange, Gare         00741  00741                % 18844 RGTR--
+150606001 Redange/Attert, Bian  00742  00742                % 18844 RGTR--
+150606009 Redange/Attert, Scho  00743  00743                % 18844 RGTR--
+150606005 Redange/Attert, Lycé  00744                       % 18844 RGTR--

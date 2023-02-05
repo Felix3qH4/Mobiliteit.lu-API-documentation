@@ -1,0 +1,21 @@
+*F 03 2
+*Z 05858 TIC---                                             % 05858 TIC---
+*L 813      220601011 220402060  00723  00749               % 05858 TIC---
+*R 1 220402060 220601011 220402060  00723  00749            % 05858 TIC---
+*G GB1 220601011 220402060  00723  00749                    % 05858 TIC---
+*A VE 220601011 220402060 000290  00723  00749              % 05858 TIC---
+*I FD 220601011 220402060        0001671  00723  00749      % 05858 TIC---
+220601011 Kayl, Broucherbierg          00723                % 05858 TIC---
+220601009 Kayl, Stellwierk      00723  00723                % 05858 TIC---
+221401008 Schifflange, Poto     00726  00726                % 05858 TIC---
+221401004 Schifflange, Gringe   00727  00727                % 05858 TIC---
+221401007 Schifflange, Niddesc  00728  00728                % 05858 TIC---
+221401003 Schifflange, Stadhau  00729  00729                % 05858 TIC---
+221401005 Schifflange, Huele W  00730  00730                % 05858 TIC---
+221401006 Schifflange, Millche  00731  00731                % 05858 TIC---
+220402054 Esch-sur-Alzette, Le  00732  00732                % 05858 TIC---
+220402086 Esch-sur-Alzette, Ru  00733  00733                % 05858 TIC---
+220402097 Esch-sur-Alzette, Bd  00736  00736                % 05858 TIC---
+220402027 Esch-sur-Alzette, De  00740  00740                % 05858 TIC---
+220402059 Esch-sur-Alzette, Ly  00742  00742                % 05858 TIC---
+220402060 Esch-sur-Alzette, Ly  00749                       % 05858 TIC---

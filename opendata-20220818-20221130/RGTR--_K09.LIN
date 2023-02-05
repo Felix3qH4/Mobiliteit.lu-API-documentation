@@ -1,0 +1,741 @@
+*F 03 2
+*Z 00429 RGTR--                                             % 00429 RGTR--
+*L K09      140401009 161103002  01158  01255               % 00429 RGTR--
+*A cj 140401009 161103002 000015  01158  01255              % 00429 RGTR--
+*A ED 140401009 161103002 000015  01158  01255              % 00429 RGTR--
+*A ad 140401009 161103002 000015  01158  01255              % 00429 RGTR--
+*R 1 161103002 140401009 161103002  01158  01255            % 00429 RGTR--
+*G 050 140401009 161103002  01158  01255                    % 00429 RGTR--
+*A VE 140401009 161103002 000015  01158  01255              % 00429 RGTR--
+*I FD 140401009 161103002        0003415  01158  01255      % 00429 RGTR--
+140401009 Diekirch, Neie Kolle         01158                % 00429 RGTR--
+140401011 Diekirch, Alexis Hec  01201  01201                % 00429 RGTR--
+140401006 Diekirch, Kluuster    01202  01202                % 00429 RGTR--
+140401004 Diekirch, Gare routi  01204  01204                % 00429 RGTR--
+140401008 Diekirch, Lorentzwue  01206  01206                % 00429 RGTR--
+140603002 Ingeldorf, Café de l  01207  01207                % 00429 RGTR--
+140602008 Erpeldange-sur-Sûre,  01209  01209                % 00429 RGTR--
+140701016 Ettelbruck, Gare      01211  01215                % 00429 RGTR--
+140701026 Ettelbruck, Rond Poi  01216  01216                % 00429 RGTR--
+140701018 Ettelbruck, H.v.Land  01217  01217                % 00429 RGTR--
+160301002 Colmar-Berg, Centre   01221  01221                % 00429 RGTR--
+160301007 Colmar-Berg, Usines   01223  01223                % 00429 RGTR--
+160101005 Bissen, Op der Mille  01225  01225                % 00429 RGTR--
+160101003 Bissen, Geiwels       01226  01226                % 00429 RGTR--
+160101006 Bissen, Henckels      01227  01227                % 00429 RGTR--
+160101002 Bissen, Kräizung      01227  01227                % 00429 RGTR--
+160201004 Boevange, Helpert     01232  01232                % 00429 RGTR--
+160201005 Boevange, Lëtschert   01233  01233                % 00429 RGTR--
+160201007 Boevange, Beim Wald   01234  01234                % 00429 RGTR--
+160205003 Grevenknapp, Um ënns  01235  01235                % 00429 RGTR--
+160205002 Grevenknapp, Riesenh  01235  01235                % 00429 RGTR--
+160204001 Openthalt, Finsterth  01236  01236                % 00429 RGTR--
+160206001 Openthalt             01237  01237                % 00429 RGTR--
+160203002 Buschdorf, Helpërtwe  01239  01239                % 00429 RGTR--
+160203003 Buschdorf, Määschhaf  01240  01240                % 00429 RGTR--
+160203001 Buschdorf, Belle Vue  01241  01241                % 00429 RGTR--
+160202003 Brouch/Mersch, Knepp  01242  01242                % 00429 RGTR--
+160202001 Brouch/Mersch, Kierc  01243  01243                % 00429 RGTR--
+150704002 Saeul, Kiëm           01247  01247                % 00429 RGTR--
+161106004 Tuntange, Sëllerstro  01250  01250                % 00429 RGTR--
+161106002 Tuntange, Kiirch      01251  01251                % 00429 RGTR--
+161106003 Tuntange, Knupp       01252  01252                % 00429 RGTR--
+161103001 Hollenfels, Schoul    01254  01254                % 00429 RGTR--
+161103002 Hollenfels, Vereinsb  01255                       % 00429 RGTR--
+*Z 00427 RGTR--                                             % 00427 RGTR--
+*L K09      140401009 161103002  01442  01539               % 00427 RGTR--
+*A cj 140401009 161103002 000015  01442  01539              % 00427 RGTR--
+*A ED 140401009 161103002 000015  01442  01539              % 00427 RGTR--
+*A ad 140401009 161103002 000015  01442  01539              % 00427 RGTR--
+*R 1 161103002 140401009 161103002  01442  01539            % 00427 RGTR--
+*G 050 140401009 161103002  01442  01539                    % 00427 RGTR--
+*A VE 140401009 161103002 000015  01442  01539              % 00427 RGTR--
+*I FD 140401009 161103002        0002999  01442  01539      % 00427 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00427 RGTR--
+140401011 Diekirch, Alexis Hec  01445  01445                % 00427 RGTR--
+140401006 Diekirch, Kluuster    01446  01446                % 00427 RGTR--
+140401004 Diekirch, Gare routi  01448  01448                % 00427 RGTR--
+140401008 Diekirch, Lorentzwue  01450  01450                % 00427 RGTR--
+140603002 Ingeldorf, Café de l  01451  01451                % 00427 RGTR--
+140602008 Erpeldange-sur-Sûre,  01453  01453                % 00427 RGTR--
+140701016 Ettelbruck, Gare      01455  01459                % 00427 RGTR--
+140701026 Ettelbruck, Rond Poi  01500  01500                % 00427 RGTR--
+140701018 Ettelbruck, H.v.Land  01501  01501                % 00427 RGTR--
+160301002 Colmar-Berg, Centre   01505  01505                % 00427 RGTR--
+160301007 Colmar-Berg, Usines   01507  01507                % 00427 RGTR--
+160101005 Bissen, Op der Mille  01509  01509                % 00427 RGTR--
+160101003 Bissen, Geiwels       01510  01510                % 00427 RGTR--
+160101006 Bissen, Henckels      01511  01511                % 00427 RGTR--
+160101002 Bissen, Kräizung      01511  01511                % 00427 RGTR--
+160201004 Boevange, Helpert     01516  01516                % 00427 RGTR--
+160201005 Boevange, Lëtschert   01517  01517                % 00427 RGTR--
+160201007 Boevange, Beim Wald   01518  01518                % 00427 RGTR--
+160205003 Grevenknapp, Um ënns  01519  01519                % 00427 RGTR--
+160205002 Grevenknapp, Riesenh  01519  01519                % 00427 RGTR--
+160204001 Openthalt, Finsterth  01520  01520                % 00427 RGTR--
+160206001 Openthalt             01521  01521                % 00427 RGTR--
+160203002 Buschdorf, Helpërtwe  01523  01523                % 00427 RGTR--
+160203003 Buschdorf, Määschhaf  01524  01524                % 00427 RGTR--
+160203001 Buschdorf, Belle Vue  01525  01525                % 00427 RGTR--
+160202003 Brouch/Mersch, Knepp  01526  01526                % 00427 RGTR--
+160202001 Brouch/Mersch, Kierc  01527  01527                % 00427 RGTR--
+150704002 Saeul, Kiëm           01531  01531                % 00427 RGTR--
+161106004 Tuntange, Sëllerstro  01534  01534                % 00427 RGTR--
+161106002 Tuntange, Kiirch      01535  01535                % 00427 RGTR--
+161106003 Tuntange, Knupp       01536  01536                % 00427 RGTR--
+161103001 Hollenfels, Schoul    01538  01538                % 00427 RGTR--
+161103002 Hollenfels, Vereinsb  01539                       % 00427 RGTR--
+*Z 00425 RGTR--                                             % 00425 RGTR--
+*L K09      140401009 161103002  01442  01539               % 00425 RGTR--
+*A cj 140401009 161103002 000009  01442  01539              % 00425 RGTR--
+*A ED 140401009 161103002 000009  01442  01539              % 00425 RGTR--
+*A ad 140401009 161103002 000009  01442  01539              % 00425 RGTR--
+*R 1 161103002 140401009 161103002  01442  01539            % 00425 RGTR--
+*G 050 140401009 161103002  01442  01539                    % 00425 RGTR--
+*A VE 140401009 161103002 000009  01442  01539              % 00425 RGTR--
+*I FD 140401009 161103002        0002999  01442  01539      % 00425 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00425 RGTR--
+140401011 Diekirch, Alexis Hec  01445  01445                % 00425 RGTR--
+140401006 Diekirch, Kluuster    01446  01446                % 00425 RGTR--
+140401004 Diekirch, Gare routi  01448  01448                % 00425 RGTR--
+140401008 Diekirch, Lorentzwue  01450  01450                % 00425 RGTR--
+140603002 Ingeldorf, Café de l  01451  01451                % 00425 RGTR--
+140602008 Erpeldange-sur-Sûre,  01453  01453                % 00425 RGTR--
+140701016 Ettelbruck, Gare      01455  01459                % 00425 RGTR--
+140701026 Ettelbruck, Rond Poi  01500  01500                % 00425 RGTR--
+140701018 Ettelbruck, H.v.Land  01501  01501                % 00425 RGTR--
+160301002 Colmar-Berg, Centre   01505  01505                % 00425 RGTR--
+160301007 Colmar-Berg, Usines   01507  01507                % 00425 RGTR--
+160101005 Bissen, Op der Mille  01509  01509                % 00425 RGTR--
+160101003 Bissen, Geiwels       01510  01510                % 00425 RGTR--
+160101006 Bissen, Henckels      01511  01511                % 00425 RGTR--
+160101002 Bissen, Kräizung      01511  01511                % 00425 RGTR--
+160201004 Boevange, Helpert     01516  01516                % 00425 RGTR--
+160201005 Boevange, Lëtschert   01517  01517                % 00425 RGTR--
+160201007 Boevange, Beim Wald   01518  01518                % 00425 RGTR--
+160205003 Grevenknapp, Um ënns  01519  01519                % 00425 RGTR--
+160205002 Grevenknapp, Riesenh  01519  01519                % 00425 RGTR--
+160204001 Openthalt, Finsterth  01520  01520                % 00425 RGTR--
+160206001 Openthalt             01521  01521                % 00425 RGTR--
+160203002 Buschdorf, Helpërtwe  01523  01523                % 00425 RGTR--
+160203003 Buschdorf, Määschhaf  01524  01524                % 00425 RGTR--
+160203001 Buschdorf, Belle Vue  01525  01525                % 00425 RGTR--
+160202003 Brouch/Mersch, Knepp  01526  01526                % 00425 RGTR--
+160202001 Brouch/Mersch, Kierc  01527  01527                % 00425 RGTR--
+150704002 Saeul, Kiëm           01531  01531                % 00425 RGTR--
+161106004 Tuntange, Sëllerstro  01534  01534                % 00425 RGTR--
+161106002 Tuntange, Kiirch      01535  01535                % 00425 RGTR--
+161106003 Tuntange, Knupp       01536  01536                % 00425 RGTR--
+161103001 Hollenfels, Schoul    01538  01538                % 00425 RGTR--
+161103002 Hollenfels, Vereinsb  01539                       % 00425 RGTR--
+*Z 00423 RGTR--                                             % 00423 RGTR--
+*L K09      140401009 161103002  01158  01255               % 00423 RGTR--
+*A cj 140401009 161103002 000013  01158  01255              % 00423 RGTR--
+*A ED 140401009 161103002 000013  01158  01255              % 00423 RGTR--
+*A ad 140401009 161103002 000013  01158  01255              % 00423 RGTR--
+*R 1 161103002 140401009 161103002  01158  01255            % 00423 RGTR--
+*G 050 140401009 161103002  01158  01255                    % 00423 RGTR--
+*A VE 140401009 161103002 000013  01158  01255              % 00423 RGTR--
+*I FD 140401009 161103002        0003415  01158  01255      % 00423 RGTR--
+140401009 Diekirch, Neie Kolle         01158                % 00423 RGTR--
+140401011 Diekirch, Alexis Hec  01201  01201                % 00423 RGTR--
+140401006 Diekirch, Kluuster    01202  01202                % 00423 RGTR--
+140401004 Diekirch, Gare routi  01204  01204                % 00423 RGTR--
+140401008 Diekirch, Lorentzwue  01206  01206                % 00423 RGTR--
+140603002 Ingeldorf, Café de l  01207  01207                % 00423 RGTR--
+140602008 Erpeldange-sur-Sûre,  01209  01209                % 00423 RGTR--
+140701016 Ettelbruck, Gare      01211  01215                % 00423 RGTR--
+140701026 Ettelbruck, Rond Poi  01216  01216                % 00423 RGTR--
+140701018 Ettelbruck, H.v.Land  01217  01217                % 00423 RGTR--
+160301002 Colmar-Berg, Centre   01221  01221                % 00423 RGTR--
+160301007 Colmar-Berg, Usines   01223  01223                % 00423 RGTR--
+160101005 Bissen, Op der Mille  01225  01225                % 00423 RGTR--
+160101003 Bissen, Geiwels       01226  01226                % 00423 RGTR--
+160101006 Bissen, Henckels      01227  01227                % 00423 RGTR--
+160101002 Bissen, Kräizung      01227  01227                % 00423 RGTR--
+160201004 Boevange, Helpert     01232  01232                % 00423 RGTR--
+160201005 Boevange, Lëtschert   01233  01233                % 00423 RGTR--
+160201007 Boevange, Beim Wald   01234  01234                % 00423 RGTR--
+160205003 Grevenknapp, Um ënns  01235  01235                % 00423 RGTR--
+160205002 Grevenknapp, Riesenh  01235  01235                % 00423 RGTR--
+160204001 Openthalt, Finsterth  01236  01236                % 00423 RGTR--
+160206001 Openthalt             01237  01237                % 00423 RGTR--
+160203002 Buschdorf, Helpërtwe  01239  01239                % 00423 RGTR--
+160203003 Buschdorf, Määschhaf  01240  01240                % 00423 RGTR--
+160203001 Buschdorf, Belle Vue  01241  01241                % 00423 RGTR--
+160202003 Brouch/Mersch, Knepp  01242  01242                % 00423 RGTR--
+160202001 Brouch/Mersch, Kierc  01243  01243                % 00423 RGTR--
+150704002 Saeul, Kiëm           01247  01247                % 00423 RGTR--
+161106004 Tuntange, Sëllerstro  01250  01250                % 00423 RGTR--
+161106002 Tuntange, Kiirch      01251  01251                % 00423 RGTR--
+161106003 Tuntange, Knupp       01252  01252                % 00423 RGTR--
+161103001 Hollenfels, Schoul    01254  01254                % 00423 RGTR--
+161103002 Hollenfels, Vereinsb  01255                       % 00423 RGTR--
+*Z 00421 RGTR--                                             % 00421 RGTR--
+*L K09      140401009 161103002  01442  01539               % 00421 RGTR--
+*A cj 140401009 161103002 000013  01442  01539              % 00421 RGTR--
+*A ED 140401009 161103002 000013  01442  01539              % 00421 RGTR--
+*A ad 140401009 161103002 000013  01442  01539              % 00421 RGTR--
+*R 1 161103002 140401009 161103002  01442  01539            % 00421 RGTR--
+*G 050 140401009 161103002  01442  01539                    % 00421 RGTR--
+*A VE 140401009 161103002 000013  01442  01539              % 00421 RGTR--
+*I FD 140401009 161103002        0002999  01442  01539      % 00421 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00421 RGTR--
+140401011 Diekirch, Alexis Hec  01445  01445                % 00421 RGTR--
+140401006 Diekirch, Kluuster    01446  01446                % 00421 RGTR--
+140401004 Diekirch, Gare routi  01448  01448                % 00421 RGTR--
+140401008 Diekirch, Lorentzwue  01450  01450                % 00421 RGTR--
+140603002 Ingeldorf, Café de l  01451  01451                % 00421 RGTR--
+140602008 Erpeldange-sur-Sûre,  01453  01453                % 00421 RGTR--
+140701016 Ettelbruck, Gare      01455  01459                % 00421 RGTR--
+140701026 Ettelbruck, Rond Poi  01500  01500                % 00421 RGTR--
+140701018 Ettelbruck, H.v.Land  01501  01501                % 00421 RGTR--
+160301002 Colmar-Berg, Centre   01505  01505                % 00421 RGTR--
+160301007 Colmar-Berg, Usines   01507  01507                % 00421 RGTR--
+160101005 Bissen, Op der Mille  01509  01509                % 00421 RGTR--
+160101003 Bissen, Geiwels       01510  01510                % 00421 RGTR--
+160101006 Bissen, Henckels      01511  01511                % 00421 RGTR--
+160101002 Bissen, Kräizung      01511  01511                % 00421 RGTR--
+160201004 Boevange, Helpert     01516  01516                % 00421 RGTR--
+160201005 Boevange, Lëtschert   01517  01517                % 00421 RGTR--
+160201007 Boevange, Beim Wald   01518  01518                % 00421 RGTR--
+160205003 Grevenknapp, Um ënns  01519  01519                % 00421 RGTR--
+160205002 Grevenknapp, Riesenh  01519  01519                % 00421 RGTR--
+160204001 Openthalt, Finsterth  01520  01520                % 00421 RGTR--
+160206001 Openthalt             01521  01521                % 00421 RGTR--
+160203002 Buschdorf, Helpërtwe  01523  01523                % 00421 RGTR--
+160203003 Buschdorf, Määschhaf  01524  01524                % 00421 RGTR--
+160203001 Buschdorf, Belle Vue  01525  01525                % 00421 RGTR--
+160202003 Brouch/Mersch, Knepp  01526  01526                % 00421 RGTR--
+160202001 Brouch/Mersch, Kierc  01527  01527                % 00421 RGTR--
+150704002 Saeul, Kiëm           01531  01531                % 00421 RGTR--
+161106004 Tuntange, Sëllerstro  01534  01534                % 00421 RGTR--
+161106002 Tuntange, Kiirch      01535  01535                % 00421 RGTR--
+161106003 Tuntange, Knupp       01536  01536                % 00421 RGTR--
+161103001 Hollenfels, Schoul    01538  01538                % 00421 RGTR--
+161103002 Hollenfels, Vereinsb  01539                       % 00421 RGTR--
+*Z 00419 RGTR--                                             % 00419 RGTR--
+*L K09      140401009 161103002  01442  01539               % 00419 RGTR--
+*A cj 140401009 161103002 000007  01442  01539              % 00419 RGTR--
+*A ED 140401009 161103002 000007  01442  01539              % 00419 RGTR--
+*A ad 140401009 161103002 000007  01442  01539              % 00419 RGTR--
+*R 1 161103002 140401009 161103002  01442  01539            % 00419 RGTR--
+*G 050 140401009 161103002  01442  01539                    % 00419 RGTR--
+*A VE 140401009 161103002 000007  01442  01539              % 00419 RGTR--
+*I FD 140401009 161103002        0002999  01442  01539      % 00419 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00419 RGTR--
+140401011 Diekirch, Alexis Hec  01445  01445                % 00419 RGTR--
+140401006 Diekirch, Kluuster    01446  01446                % 00419 RGTR--
+140401004 Diekirch, Gare routi  01448  01448                % 00419 RGTR--
+140401008 Diekirch, Lorentzwue  01450  01450                % 00419 RGTR--
+140603002 Ingeldorf, Café de l  01451  01451                % 00419 RGTR--
+140602008 Erpeldange-sur-Sûre,  01453  01453                % 00419 RGTR--
+140701016 Ettelbruck, Gare      01455  01459                % 00419 RGTR--
+140701026 Ettelbruck, Rond Poi  01500  01500                % 00419 RGTR--
+140701018 Ettelbruck, H.v.Land  01501  01501                % 00419 RGTR--
+160301002 Colmar-Berg, Centre   01505  01505                % 00419 RGTR--
+160301007 Colmar-Berg, Usines   01507  01507                % 00419 RGTR--
+160101005 Bissen, Op der Mille  01509  01509                % 00419 RGTR--
+160101003 Bissen, Geiwels       01510  01510                % 00419 RGTR--
+160101006 Bissen, Henckels      01511  01511                % 00419 RGTR--
+160101002 Bissen, Kräizung      01511  01511                % 00419 RGTR--
+160201004 Boevange, Helpert     01516  01516                % 00419 RGTR--
+160201005 Boevange, Lëtschert   01517  01517                % 00419 RGTR--
+160201007 Boevange, Beim Wald   01518  01518                % 00419 RGTR--
+160205003 Grevenknapp, Um ënns  01519  01519                % 00419 RGTR--
+160205002 Grevenknapp, Riesenh  01519  01519                % 00419 RGTR--
+160204001 Openthalt, Finsterth  01520  01520                % 00419 RGTR--
+160206001 Openthalt             01521  01521                % 00419 RGTR--
+160203002 Buschdorf, Helpërtwe  01523  01523                % 00419 RGTR--
+160203003 Buschdorf, Määschhaf  01524  01524                % 00419 RGTR--
+160203001 Buschdorf, Belle Vue  01525  01525                % 00419 RGTR--
+160202003 Brouch/Mersch, Knepp  01526  01526                % 00419 RGTR--
+160202001 Brouch/Mersch, Kierc  01527  01527                % 00419 RGTR--
+150704002 Saeul, Kiëm           01531  01531                % 00419 RGTR--
+161106004 Tuntange, Sëllerstro  01534  01534                % 00419 RGTR--
+161106002 Tuntange, Kiirch      01535  01535                % 00419 RGTR--
+161106003 Tuntange, Knupp       01536  01536                % 00419 RGTR--
+161103001 Hollenfels, Schoul    01538  01538                % 00419 RGTR--
+161103002 Hollenfels, Vereinsb  01539                       % 00419 RGTR--
+*Z 18619 RGTR--                                             % 18619 RGTR--
+*L K09      140401009 161103002  01158  01255               % 18619 RGTR--
+*A cj 140401009 161103002 000047  01158  01255              % 18619 RGTR--
+*A ED 140401009 161103002 000047  01158  01255              % 18619 RGTR--
+*A ad 140401009 161103002 000047  01158  01255              % 18619 RGTR--
+*R 1 161103002 140401009 161103002  01158  01255            % 18619 RGTR--
+*G 050 140401009 161103002  01158  01255                    % 18619 RGTR--
+*A VE 140401009 161103002 000047  01158  01255              % 18619 RGTR--
+*I FD 140401009 161103002        0003415  01158  01255      % 18619 RGTR--
+140401009 Diekirch, Neie Kolle         01158                % 18619 RGTR--
+140401011 Diekirch, Alexis Hec  01201  01201                % 18619 RGTR--
+140401006 Diekirch, Kluuster    01202  01202                % 18619 RGTR--
+140401004 Diekirch, Gare routi  01204  01204                % 18619 RGTR--
+140401008 Diekirch, Lorentzwue  01206  01206                % 18619 RGTR--
+140603002 Ingeldorf, Café de l  01207  01207                % 18619 RGTR--
+140602008 Erpeldange-sur-Sûre,  01209  01209                % 18619 RGTR--
+140701016 Ettelbruck, Gare      01211  01215                % 18619 RGTR--
+140701026 Ettelbruck, Rond Poi  01216  01216                % 18619 RGTR--
+140701018 Ettelbruck, H.v.Land  01217  01217                % 18619 RGTR--
+160301002 Colmar-Berg, Centre   01221  01221                % 18619 RGTR--
+160301007 Colmar-Berg, Usines   01223  01223                % 18619 RGTR--
+160101005 Bissen, Op der Mille  01225  01225                % 18619 RGTR--
+160101003 Bissen, Geiwels       01226  01226                % 18619 RGTR--
+160101006 Bissen, Henckels      01227  01227                % 18619 RGTR--
+160101002 Bissen, Kräizung      01227  01227                % 18619 RGTR--
+160201004 Boevange, Helpert     01232  01232                % 18619 RGTR--
+160201005 Boevange, Lëtschert   01233  01233                % 18619 RGTR--
+160201007 Boevange, Beim Wald   01234  01234                % 18619 RGTR--
+160205003 Grevenknapp, Um ënns  01235  01235                % 18619 RGTR--
+160205002 Grevenknapp, Riesenh  01235  01235                % 18619 RGTR--
+160204001 Openthalt, Finsterth  01236  01236                % 18619 RGTR--
+160206001 Openthalt             01237  01237                % 18619 RGTR--
+160203002 Buschdorf, Helpërtwe  01239  01239                % 18619 RGTR--
+160203003 Buschdorf, Määschhaf  01240  01240                % 18619 RGTR--
+160203001 Buschdorf, Belle Vue  01241  01241                % 18619 RGTR--
+160202003 Brouch/Mersch, Knepp  01242  01242                % 18619 RGTR--
+160202001 Brouch/Mersch, Kierc  01243  01243                % 18619 RGTR--
+150704002 Saeul, Kiëm           01247  01247                % 18619 RGTR--
+161106004 Tuntange, Sëllerstro  01250  01250                % 18619 RGTR--
+161106002 Tuntange, Kiirch      01251  01251                % 18619 RGTR--
+161106003 Tuntange, Knupp       01252  01252                % 18619 RGTR--
+161103001 Hollenfels, Schoul    01254  01254                % 18619 RGTR--
+161103002 Hollenfels, Vereinsb  01255                       % 18619 RGTR--
+*Z 00431 RGTR--                                             % 00431 RGTR--
+*L K09      140401009 161103002  01442  01539               % 00431 RGTR--
+*A cj 140401009 161103002 000011  01442  01539              % 00431 RGTR--
+*A ED 140401009 161103002 000011  01442  01539              % 00431 RGTR--
+*A ad 140401009 161103002 000011  01442  01539              % 00431 RGTR--
+*R 1 161103002 140401009 161103002  01442  01539            % 00431 RGTR--
+*G 050 140401009 161103002  01442  01539                    % 00431 RGTR--
+*A VE 140401009 161103002 000011  01442  01539              % 00431 RGTR--
+*I FD 140401009 161103002        0002999  01442  01539      % 00431 RGTR--
+140401009 Diekirch, Neie Kolle         01442                % 00431 RGTR--
+140401011 Diekirch, Alexis Hec  01445  01445                % 00431 RGTR--
+140401006 Diekirch, Kluuster    01446  01446                % 00431 RGTR--
+140401004 Diekirch, Gare routi  01448  01448                % 00431 RGTR--
+140401008 Diekirch, Lorentzwue  01450  01450                % 00431 RGTR--
+140603002 Ingeldorf, Café de l  01451  01451                % 00431 RGTR--
+140602008 Erpeldange-sur-Sûre,  01453  01453                % 00431 RGTR--
+140701016 Ettelbruck, Gare      01455  01459                % 00431 RGTR--
+140701026 Ettelbruck, Rond Poi  01500  01500                % 00431 RGTR--
+140701018 Ettelbruck, H.v.Land  01501  01501                % 00431 RGTR--
+160301002 Colmar-Berg, Centre   01505  01505                % 00431 RGTR--
+160301007 Colmar-Berg, Usines   01507  01507                % 00431 RGTR--
+160101005 Bissen, Op der Mille  01509  01509                % 00431 RGTR--
+160101003 Bissen, Geiwels       01510  01510                % 00431 RGTR--
+160101006 Bissen, Henckels      01511  01511                % 00431 RGTR--
+160101002 Bissen, Kräizung      01511  01511                % 00431 RGTR--
+160201004 Boevange, Helpert     01516  01516                % 00431 RGTR--
+160201005 Boevange, Lëtschert   01517  01517                % 00431 RGTR--
+160201007 Boevange, Beim Wald   01518  01518                % 00431 RGTR--
+160205003 Grevenknapp, Um ënns  01519  01519                % 00431 RGTR--
+160205002 Grevenknapp, Riesenh  01519  01519                % 00431 RGTR--
+160204001 Openthalt, Finsterth  01520  01520                % 00431 RGTR--
+160206001 Openthalt             01521  01521                % 00431 RGTR--
+160203002 Buschdorf, Helpërtwe  01523  01523                % 00431 RGTR--
+160203003 Buschdorf, Määschhaf  01524  01524                % 00431 RGTR--
+160203001 Buschdorf, Belle Vue  01525  01525                % 00431 RGTR--
+160202003 Brouch/Mersch, Knepp  01526  01526                % 00431 RGTR--
+160202001 Brouch/Mersch, Kierc  01527  01527                % 00431 RGTR--
+150704002 Saeul, Kiëm           01531  01531                % 00431 RGTR--
+161106004 Tuntange, Sëllerstro  01534  01534                % 00431 RGTR--
+161106002 Tuntange, Kiirch      01535  01535                % 00431 RGTR--
+161106003 Tuntange, Knupp       01536  01536                % 00431 RGTR--
+161103001 Hollenfels, Schoul    01538  01538                % 00431 RGTR--
+161103002 Hollenfels, Vereinsb  01539                       % 00431 RGTR--
+*Z 00415 RGTR--                                             % 00415 RGTR--
+*L K09      140401009 161103002  01558  01700               % 00415 RGTR--
+*A cj 140401009 161103002 000009  01558  01700              % 00415 RGTR--
+*A ED 140401009 161103002 000009  01558  01700              % 00415 RGTR--
+*A ad 140401009 161103002 000009  01558  01700              % 00415 RGTR--
+*R 1 161103002 140401009 161103002  01558  01700            % 00415 RGTR--
+*G 050 140401009 161103002  01558  01700                    % 00415 RGTR--
+*A VE 140401009 161103002 000009  01558  01700              % 00415 RGTR--
+*I FD 140401009 161103002        0002691  01558  01700      % 00415 RGTR--
+140401009 Diekirch, Neie Kolle         01558                % 00415 RGTR--
+140401011 Diekirch, Alexis Hec  01602  01602                % 00415 RGTR--
+140401006 Diekirch, Kluuster    01603  01603                % 00415 RGTR--
+140401004 Diekirch, Gare routi  01605  01605                % 00415 RGTR--
+140401008 Diekirch, Lorentzwue  01607  01607                % 00415 RGTR--
+140603002 Ingeldorf, Café de l  01609  01609                % 00415 RGTR--
+140602008 Erpeldange-sur-Sûre,  01610  01610                % 00415 RGTR--
+140701016 Ettelbruck, Gare      01613  01617                % 00415 RGTR--
+140701026 Ettelbruck, Rond Poi  01619  01619                % 00415 RGTR--
+140701018 Ettelbruck, H.v.Land  01620  01620                % 00415 RGTR--
+160301002 Colmar-Berg, Centre   01623  01623                % 00415 RGTR--
+160301007 Colmar-Berg, Usines   01625  01625                % 00415 RGTR--
+160101005 Bissen, Op der Mille  01628  01628                % 00415 RGTR--
+160101003 Bissen, Geiwels       01629  01629                % 00415 RGTR--
+160101006 Bissen, Henckels      01630  01630                % 00415 RGTR--
+160101002 Bissen, Kräizung      01630  01630                % 00415 RGTR--
+160201004 Boevange, Helpert     01635  01635                % 00415 RGTR--
+160201005 Boevange, Lëtschert   01636  01636                % 00415 RGTR--
+160201007 Boevange, Beim Wald   01637  01637                % 00415 RGTR--
+160205003 Grevenknapp, Um ënns  01638  01638                % 00415 RGTR--
+160205002 Grevenknapp, Riesenh  01638  01638                % 00415 RGTR--
+160204001 Openthalt, Finsterth  01640  01640                % 00415 RGTR--
+160206001 Openthalt             01640  01640                % 00415 RGTR--
+160203002 Buschdorf, Helpërtwe  01643  01643                % 00415 RGTR--
+160203003 Buschdorf, Määschhaf  01643  01643                % 00415 RGTR--
+160203001 Buschdorf, Belle Vue  01644  01644                % 00415 RGTR--
+160202003 Brouch/Mersch, Knepp  01645  01645                % 00415 RGTR--
+160202001 Brouch/Mersch, Kierc  01647  01647                % 00415 RGTR--
+150704002 Saeul, Kiëm           01651  01651                % 00415 RGTR--
+161106004 Tuntange, Sëllerstro  01654  01654                % 00415 RGTR--
+161106002 Tuntange, Kiirch      01655  01655                % 00415 RGTR--
+161106003 Tuntange, Knupp       01656  01656                % 00415 RGTR--
+161103001 Hollenfels, Schoul    01659  01659                % 00415 RGTR--
+161103002 Hollenfels, Vereinsb  01700                       % 00415 RGTR--
+*Z 00413 RGTR--                                             % 00413 RGTR--
+*L K09      140401009 161103002  01558  01700               % 00413 RGTR--
+*A cj 140401009 161103002 000007  01558  01700              % 00413 RGTR--
+*A ED 140401009 161103002 000007  01558  01700              % 00413 RGTR--
+*A ad 140401009 161103002 000007  01558  01700              % 00413 RGTR--
+*R 1 161103002 140401009 161103002  01558  01700            % 00413 RGTR--
+*G 050 140401009 161103002  01558  01700                    % 00413 RGTR--
+*A VE 140401009 161103002 000007  01558  01700              % 00413 RGTR--
+*I FD 140401009 161103002        0002691  01558  01700      % 00413 RGTR--
+140401009 Diekirch, Neie Kolle         01558                % 00413 RGTR--
+140401011 Diekirch, Alexis Hec  01602  01602                % 00413 RGTR--
+140401006 Diekirch, Kluuster    01603  01603                % 00413 RGTR--
+140401004 Diekirch, Gare routi  01605  01605                % 00413 RGTR--
+140401008 Diekirch, Lorentzwue  01607  01607                % 00413 RGTR--
+140603002 Ingeldorf, Café de l  01609  01609                % 00413 RGTR--
+140602008 Erpeldange-sur-Sûre,  01610  01610                % 00413 RGTR--
+140701016 Ettelbruck, Gare      01613  01617                % 00413 RGTR--
+140701026 Ettelbruck, Rond Poi  01619  01619                % 00413 RGTR--
+140701018 Ettelbruck, H.v.Land  01620  01620                % 00413 RGTR--
+160301002 Colmar-Berg, Centre   01623  01623                % 00413 RGTR--
+160301007 Colmar-Berg, Usines   01625  01625                % 00413 RGTR--
+160101005 Bissen, Op der Mille  01628  01628                % 00413 RGTR--
+160101003 Bissen, Geiwels       01629  01629                % 00413 RGTR--
+160101006 Bissen, Henckels      01630  01630                % 00413 RGTR--
+160101002 Bissen, Kräizung      01630  01630                % 00413 RGTR--
+160201004 Boevange, Helpert     01635  01635                % 00413 RGTR--
+160201005 Boevange, Lëtschert   01636  01636                % 00413 RGTR--
+160201007 Boevange, Beim Wald   01637  01637                % 00413 RGTR--
+160205003 Grevenknapp, Um ënns  01638  01638                % 00413 RGTR--
+160205002 Grevenknapp, Riesenh  01638  01638                % 00413 RGTR--
+160204001 Openthalt, Finsterth  01640  01640                % 00413 RGTR--
+160206001 Openthalt             01640  01640                % 00413 RGTR--
+160203002 Buschdorf, Helpërtwe  01643  01643                % 00413 RGTR--
+160203003 Buschdorf, Määschhaf  01643  01643                % 00413 RGTR--
+160203001 Buschdorf, Belle Vue  01644  01644                % 00413 RGTR--
+160202003 Brouch/Mersch, Knepp  01645  01645                % 00413 RGTR--
+160202001 Brouch/Mersch, Kierc  01647  01647                % 00413 RGTR--
+150704002 Saeul, Kiëm           01651  01651                % 00413 RGTR--
+161106004 Tuntange, Sëllerstro  01654  01654                % 00413 RGTR--
+161106002 Tuntange, Kiirch      01655  01655                % 00413 RGTR--
+161106003 Tuntange, Knupp       01656  01656                % 00413 RGTR--
+161103001 Hollenfels, Schoul    01659  01659                % 00413 RGTR--
+161103002 Hollenfels, Vereinsb  01700                       % 00413 RGTR--
+*Z 00417 RGTR--                                             % 00417 RGTR--
+*L K09      140401009 161103002  01558  01700               % 00417 RGTR--
+*A cj 140401009 161103002 000011  01558  01700              % 00417 RGTR--
+*A ED 140401009 161103002 000011  01558  01700              % 00417 RGTR--
+*A ad 140401009 161103002 000011  01558  01700              % 00417 RGTR--
+*R 1 161103002 140401009 161103002  01558  01700            % 00417 RGTR--
+*G 050 140401009 161103002  01558  01700                    % 00417 RGTR--
+*A VE 140401009 161103002 000011  01558  01700              % 00417 RGTR--
+*I FD 140401009 161103002        0002691  01558  01700      % 00417 RGTR--
+140401009 Diekirch, Neie Kolle         01558                % 00417 RGTR--
+140401011 Diekirch, Alexis Hec  01602  01602                % 00417 RGTR--
+140401006 Diekirch, Kluuster    01603  01603                % 00417 RGTR--
+140401004 Diekirch, Gare routi  01605  01605                % 00417 RGTR--
+140401008 Diekirch, Lorentzwue  01607  01607                % 00417 RGTR--
+140603002 Ingeldorf, Café de l  01609  01609                % 00417 RGTR--
+140602008 Erpeldange-sur-Sûre,  01610  01610                % 00417 RGTR--
+140701016 Ettelbruck, Gare      01613  01617                % 00417 RGTR--
+140701026 Ettelbruck, Rond Poi  01619  01619                % 00417 RGTR--
+140701018 Ettelbruck, H.v.Land  01620  01620                % 00417 RGTR--
+160301002 Colmar-Berg, Centre   01623  01623                % 00417 RGTR--
+160301007 Colmar-Berg, Usines   01625  01625                % 00417 RGTR--
+160101005 Bissen, Op der Mille  01628  01628                % 00417 RGTR--
+160101003 Bissen, Geiwels       01629  01629                % 00417 RGTR--
+160101006 Bissen, Henckels      01630  01630                % 00417 RGTR--
+160101002 Bissen, Kräizung      01630  01630                % 00417 RGTR--
+160201004 Boevange, Helpert     01635  01635                % 00417 RGTR--
+160201005 Boevange, Lëtschert   01636  01636                % 00417 RGTR--
+160201007 Boevange, Beim Wald   01637  01637                % 00417 RGTR--
+160205003 Grevenknapp, Um ënns  01638  01638                % 00417 RGTR--
+160205002 Grevenknapp, Riesenh  01638  01638                % 00417 RGTR--
+160204001 Openthalt, Finsterth  01640  01640                % 00417 RGTR--
+160206001 Openthalt             01640  01640                % 00417 RGTR--
+160203002 Buschdorf, Helpërtwe  01643  01643                % 00417 RGTR--
+160203003 Buschdorf, Määschhaf  01643  01643                % 00417 RGTR--
+160203001 Buschdorf, Belle Vue  01644  01644                % 00417 RGTR--
+160202003 Brouch/Mersch, Knepp  01645  01645                % 00417 RGTR--
+160202001 Brouch/Mersch, Kierc  01647  01647                % 00417 RGTR--
+150704002 Saeul, Kiëm           01651  01651                % 00417 RGTR--
+161106004 Tuntange, Sëllerstro  01654  01654                % 00417 RGTR--
+161106002 Tuntange, Kiirch      01655  01655                % 00417 RGTR--
+161106003 Tuntange, Knupp       01656  01656                % 00417 RGTR--
+161103001 Hollenfels, Schoul    01659  01659                % 00417 RGTR--
+161103002 Hollenfels, Vereinsb  01700                       % 00417 RGTR--
+*Z 00410 RGTR--                                             % 00410 RGTR--
+*L K09      161103002 140203012  00650  00753               % 00410 RGTR--
+*A cj 161103002 140203012 000015  00650  00753              % 00410 RGTR--
+*A EG 161103002 140203012 000015  00650  00753              % 00410 RGTR--
+*A ad 161103002 140203012 000015  00650  00753              % 00410 RGTR--
+*R 2 140203012 161103002 140203012  00650  00753            % 00410 RGTR--
+*G 050 161103002 140203012  00650  00753                    % 00410 RGTR--
+*A VE 161103002 140203012 000015  00650  00753              % 00410 RGTR--
+*I FD 161103002 140203012        0001907  00650  00753      % 00410 RGTR--
+161103002 Hollenfels, Vereinsb         00650                % 00410 RGTR--
+161103001 Hollenfels, Schoul    00651  00651                % 00410 RGTR--
+161106003 Tuntange, Knupp       00654  00654                % 00410 RGTR--
+161106002 Tuntange, Kiirch      00655  00655                % 00410 RGTR--
+161106004 Tuntange, Sëllerstro  00656  00656                % 00410 RGTR--
+150704002 Saeul, Kiëm           00658  00658                % 00410 RGTR--
+160202001 Brouch/Mersch, Kierc  00701  00701                % 00410 RGTR--
+160202003 Brouch/Mersch, Knepp  00703  00703                % 00410 RGTR--
+160203001 Buschdorf, Belle Vue  00704  00704                % 00410 RGTR--
+160203003 Buschdorf, Määschhaf  00705  00705                % 00410 RGTR--
+160203002 Buschdorf, Helpërtwe  00706  00706                % 00410 RGTR--
+160206001 Openthalt             00708  00708                % 00410 RGTR--
+160204001 Openthalt, Finsterth  00709  00709                % 00410 RGTR--
+160205002 Grevenknapp, Riesenh  00710  00710                % 00410 RGTR--
+160205003 Grevenknapp, Um ënns  00711  00711                % 00410 RGTR--
+160201007 Boevange, Beim Wald   00711  00711                % 00410 RGTR--
+160201005 Boevange, Lëtschert   00712  00712                % 00410 RGTR--
+160201004 Boevange, Helpert     00713  00713                % 00410 RGTR--
+160101008 Bissen, Um Sand       00719  00719                % 00410 RGTR--
+160101002 Bissen, Kräizung      00720  00720                % 00410 RGTR--
+160101006 Bissen, Henckels      00720  00720                % 00410 RGTR--
+160101003 Bissen, Geiwels       00721  00721                % 00410 RGTR--
+160101005 Bissen, Op der Mille  00722  00722                % 00410 RGTR--
+160301007 Colmar-Berg, Usines   00725  00725                % 00410 RGTR--
+160301002 Colmar-Berg, Centre   00726  00726                % 00410 RGTR--
+140701018 Ettelbruck, H.v.Land  00730  00730                % 00410 RGTR--
+140701026 Ettelbruck, Rond Poi  00732  00732                % 00410 RGTR--
+140701015 Ettelbruck, Ecole Pr  00733  00733                % 00410 RGTR--
+140701016 Ettelbruck, Gare      00735  00737                % 00410 RGTR--
+140602008 Erpeldange-sur-Sûre,  00739  00739                % 00410 RGTR--
+140603002 Ingeldorf, Café de l  00741  00741                % 00410 RGTR--
+140401008 Diekirch, Lorentzwue  00742  00742                % 00410 RGTR--
+140401004 Diekirch, Gare routi  00744  00744                % 00410 RGTR--
+140401001 Diekirch, Altersheem  00746  00746                % 00410 RGTR--
+140401009 Diekirch, Neie Kolle  00749  00749                % 00410 RGTR--
+140401012 Diekirch, Fielserstr  00751  00751                % 00410 RGTR--
+140203012 Gilsdorf, Ackerbausc  00753                       % 00410 RGTR--
+*Z 00408 RGTR--                                             % 00408 RGTR--
+*L K09      161103002 140203012  00650  00753               % 00408 RGTR--
+*A cj 161103002 140203012 000009  00650  00753              % 00408 RGTR--
+*A EG 161103002 140203012 000009  00650  00753              % 00408 RGTR--
+*A ad 161103002 140203012 000009  00650  00753              % 00408 RGTR--
+*R 2 140203012 161103002 140203012  00650  00753            % 00408 RGTR--
+*G 050 161103002 140203012  00650  00753                    % 00408 RGTR--
+*A VE 161103002 140203012 000009  00650  00753              % 00408 RGTR--
+*I FD 161103002 140203012        0001907  00650  00753      % 00408 RGTR--
+161103002 Hollenfels, Vereinsb         00650                % 00408 RGTR--
+161103001 Hollenfels, Schoul    00651  00651                % 00408 RGTR--
+161106003 Tuntange, Knupp       00654  00654                % 00408 RGTR--
+161106002 Tuntange, Kiirch      00655  00655                % 00408 RGTR--
+161106004 Tuntange, Sëllerstro  00656  00656                % 00408 RGTR--
+150704002 Saeul, Kiëm           00658  00658                % 00408 RGTR--
+160202001 Brouch/Mersch, Kierc  00701  00701                % 00408 RGTR--
+160202003 Brouch/Mersch, Knepp  00703  00703                % 00408 RGTR--
+160203001 Buschdorf, Belle Vue  00704  00704                % 00408 RGTR--
+160203003 Buschdorf, Määschhaf  00705  00705                % 00408 RGTR--
+160203002 Buschdorf, Helpërtwe  00706  00706                % 00408 RGTR--
+160206001 Openthalt             00708  00708                % 00408 RGTR--
+160204001 Openthalt, Finsterth  00709  00709                % 00408 RGTR--
+160205002 Grevenknapp, Riesenh  00710  00710                % 00408 RGTR--
+160205003 Grevenknapp, Um ënns  00711  00711                % 00408 RGTR--
+160201007 Boevange, Beim Wald   00711  00711                % 00408 RGTR--
+160201005 Boevange, Lëtschert   00712  00712                % 00408 RGTR--
+160201004 Boevange, Helpert     00713  00713                % 00408 RGTR--
+160101008 Bissen, Um Sand       00719  00719                % 00408 RGTR--
+160101002 Bissen, Kräizung      00720  00720                % 00408 RGTR--
+160101006 Bissen, Henckels      00720  00720                % 00408 RGTR--
+160101003 Bissen, Geiwels       00721  00721                % 00408 RGTR--
+160101005 Bissen, Op der Mille  00722  00722                % 00408 RGTR--
+160301007 Colmar-Berg, Usines   00725  00725                % 00408 RGTR--
+160301002 Colmar-Berg, Centre   00726  00726                % 00408 RGTR--
+140701018 Ettelbruck, H.v.Land  00730  00730                % 00408 RGTR--
+140701026 Ettelbruck, Rond Poi  00732  00732                % 00408 RGTR--
+140701015 Ettelbruck, Ecole Pr  00733  00733                % 00408 RGTR--
+140701016 Ettelbruck, Gare      00735  00737                % 00408 RGTR--
+140602008 Erpeldange-sur-Sûre,  00739  00739                % 00408 RGTR--
+140603002 Ingeldorf, Café de l  00741  00741                % 00408 RGTR--
+140401008 Diekirch, Lorentzwue  00742  00742                % 00408 RGTR--
+140401004 Diekirch, Gare routi  00744  00744                % 00408 RGTR--
+140401001 Diekirch, Altersheem  00746  00746                % 00408 RGTR--
+140401009 Diekirch, Neie Kolle  00749  00749                % 00408 RGTR--
+140401012 Diekirch, Fielserstr  00751  00751                % 00408 RGTR--
+140203012 Gilsdorf, Ackerbausc  00753                       % 00408 RGTR--
+*Z 00406 RGTR--                                             % 00406 RGTR--
+*L K09      161103002 140203012  00650  00753               % 00406 RGTR--
+*A cj 161103002 140203012 000013  00650  00753              % 00406 RGTR--
+*A EG 161103002 140203012 000013  00650  00753              % 00406 RGTR--
+*A ad 161103002 140203012 000013  00650  00753              % 00406 RGTR--
+*R 2 140203012 161103002 140203012  00650  00753            % 00406 RGTR--
+*G 050 161103002 140203012  00650  00753                    % 00406 RGTR--
+*A VE 161103002 140203012 000013  00650  00753              % 00406 RGTR--
+*I FD 161103002 140203012        0001907  00650  00753      % 00406 RGTR--
+161103002 Hollenfels, Vereinsb         00650                % 00406 RGTR--
+161103001 Hollenfels, Schoul    00651  00651                % 00406 RGTR--
+161106003 Tuntange, Knupp       00654  00654                % 00406 RGTR--
+161106002 Tuntange, Kiirch      00655  00655                % 00406 RGTR--
+161106004 Tuntange, Sëllerstro  00656  00656                % 00406 RGTR--
+150704002 Saeul, Kiëm           00658  00658                % 00406 RGTR--
+160202001 Brouch/Mersch, Kierc  00701  00701                % 00406 RGTR--
+160202003 Brouch/Mersch, Knepp  00703  00703                % 00406 RGTR--
+160203001 Buschdorf, Belle Vue  00704  00704                % 00406 RGTR--
+160203003 Buschdorf, Määschhaf  00705  00705                % 00406 RGTR--
+160203002 Buschdorf, Helpërtwe  00706  00706                % 00406 RGTR--
+160206001 Openthalt             00708  00708                % 00406 RGTR--
+160204001 Openthalt, Finsterth  00709  00709                % 00406 RGTR--
+160205002 Grevenknapp, Riesenh  00710  00710                % 00406 RGTR--
+160205003 Grevenknapp, Um ënns  00711  00711                % 00406 RGTR--
+160201007 Boevange, Beim Wald   00711  00711                % 00406 RGTR--
+160201005 Boevange, Lëtschert   00712  00712                % 00406 RGTR--
+160201004 Boevange, Helpert     00713  00713                % 00406 RGTR--
+160101008 Bissen, Um Sand       00719  00719                % 00406 RGTR--
+160101002 Bissen, Kräizung      00720  00720                % 00406 RGTR--
+160101006 Bissen, Henckels      00720  00720                % 00406 RGTR--
+160101003 Bissen, Geiwels       00721  00721                % 00406 RGTR--
+160101005 Bissen, Op der Mille  00722  00722                % 00406 RGTR--
+160301007 Colmar-Berg, Usines   00725  00725                % 00406 RGTR--
+160301002 Colmar-Berg, Centre   00726  00726                % 00406 RGTR--
+140701018 Ettelbruck, H.v.Land  00730  00730                % 00406 RGTR--
+140701026 Ettelbruck, Rond Poi  00732  00732                % 00406 RGTR--
+140701015 Ettelbruck, Ecole Pr  00733  00733                % 00406 RGTR--
+140701016 Ettelbruck, Gare      00735  00737                % 00406 RGTR--
+140602008 Erpeldange-sur-Sûre,  00739  00739                % 00406 RGTR--
+140603002 Ingeldorf, Café de l  00741  00741                % 00406 RGTR--
+140401008 Diekirch, Lorentzwue  00742  00742                % 00406 RGTR--
+140401004 Diekirch, Gare routi  00744  00744                % 00406 RGTR--
+140401001 Diekirch, Altersheem  00746  00746                % 00406 RGTR--
+140401009 Diekirch, Neie Kolle  00749  00749                % 00406 RGTR--
+140401012 Diekirch, Fielserstr  00751  00751                % 00406 RGTR--
+140203012 Gilsdorf, Ackerbausc  00753                       % 00406 RGTR--
+*Z 00404 RGTR--                                             % 00404 RGTR--
+*L K09      161103002 140203012  00650  00753               % 00404 RGTR--
+*A cj 161103002 140203012 000007  00650  00753              % 00404 RGTR--
+*A EG 161103002 140203012 000007  00650  00753              % 00404 RGTR--
+*A ad 161103002 140203012 000007  00650  00753              % 00404 RGTR--
+*R 2 140203012 161103002 140203012  00650  00753            % 00404 RGTR--
+*G 050 161103002 140203012  00650  00753                    % 00404 RGTR--
+*A VE 161103002 140203012 000007  00650  00753              % 00404 RGTR--
+*I FD 161103002 140203012        0001907  00650  00753      % 00404 RGTR--
+161103002 Hollenfels, Vereinsb         00650                % 00404 RGTR--
+161103001 Hollenfels, Schoul    00651  00651                % 00404 RGTR--
+161106003 Tuntange, Knupp       00654  00654                % 00404 RGTR--
+161106002 Tuntange, Kiirch      00655  00655                % 00404 RGTR--
+161106004 Tuntange, Sëllerstro  00656  00656                % 00404 RGTR--
+150704002 Saeul, Kiëm           00658  00658                % 00404 RGTR--
+160202001 Brouch/Mersch, Kierc  00701  00701                % 00404 RGTR--
+160202003 Brouch/Mersch, Knepp  00703  00703                % 00404 RGTR--
+160203001 Buschdorf, Belle Vue  00704  00704                % 00404 RGTR--
+160203003 Buschdorf, Määschhaf  00705  00705                % 00404 RGTR--
+160203002 Buschdorf, Helpërtwe  00706  00706                % 00404 RGTR--
+160206001 Openthalt             00708  00708                % 00404 RGTR--
+160204001 Openthalt, Finsterth  00709  00709                % 00404 RGTR--
+160205002 Grevenknapp, Riesenh  00710  00710                % 00404 RGTR--
+160205003 Grevenknapp, Um ënns  00711  00711                % 00404 RGTR--
+160201007 Boevange, Beim Wald   00711  00711                % 00404 RGTR--
+160201005 Boevange, Lëtschert   00712  00712                % 00404 RGTR--
+160201004 Boevange, Helpert     00713  00713                % 00404 RGTR--
+160101008 Bissen, Um Sand       00719  00719                % 00404 RGTR--
+160101002 Bissen, Kräizung      00720  00720                % 00404 RGTR--
+160101006 Bissen, Henckels      00720  00720                % 00404 RGTR--
+160101003 Bissen, Geiwels       00721  00721                % 00404 RGTR--
+160101005 Bissen, Op der Mille  00722  00722                % 00404 RGTR--
+160301007 Colmar-Berg, Usines   00725  00725                % 00404 RGTR--
+160301002 Colmar-Berg, Centre   00726  00726                % 00404 RGTR--
+140701018 Ettelbruck, H.v.Land  00730  00730                % 00404 RGTR--
+140701026 Ettelbruck, Rond Poi  00732  00732                % 00404 RGTR--
+140701015 Ettelbruck, Ecole Pr  00733  00733                % 00404 RGTR--
+140701016 Ettelbruck, Gare      00735  00737                % 00404 RGTR--
+140602008 Erpeldange-sur-Sûre,  00739  00739                % 00404 RGTR--
+140603002 Ingeldorf, Café de l  00741  00741                % 00404 RGTR--
+140401008 Diekirch, Lorentzwue  00742  00742                % 00404 RGTR--
+140401004 Diekirch, Gare routi  00744  00744                % 00404 RGTR--
+140401001 Diekirch, Altersheem  00746  00746                % 00404 RGTR--
+140401009 Diekirch, Neie Kolle  00749  00749                % 00404 RGTR--
+140401012 Diekirch, Fielserstr  00751  00751                % 00404 RGTR--
+140203012 Gilsdorf, Ackerbausc  00753                       % 00404 RGTR--
+*Z 00412 RGTR--                                             % 00412 RGTR--
+*L K09      161103002 140203012  00650  00753               % 00412 RGTR--
+*A cj 161103002 140203012 000011  00650  00753              % 00412 RGTR--
+*A EG 161103002 140203012 000011  00650  00753              % 00412 RGTR--
+*A ad 161103002 140203012 000011  00650  00753              % 00412 RGTR--
+*R 2 140203012 161103002 140203012  00650  00753            % 00412 RGTR--
+*G 050 161103002 140203012  00650  00753                    % 00412 RGTR--
+*A VE 161103002 140203012 000011  00650  00753              % 00412 RGTR--
+*I FD 161103002 140203012        0001907  00650  00753      % 00412 RGTR--
+161103002 Hollenfels, Vereinsb         00650                % 00412 RGTR--
+161103001 Hollenfels, Schoul    00651  00651                % 00412 RGTR--
+161106003 Tuntange, Knupp       00654  00654                % 00412 RGTR--
+161106002 Tuntange, Kiirch      00655  00655                % 00412 RGTR--
+161106004 Tuntange, Sëllerstro  00656  00656                % 00412 RGTR--
+150704002 Saeul, Kiëm           00658  00658                % 00412 RGTR--
+160202001 Brouch/Mersch, Kierc  00701  00701                % 00412 RGTR--
+160202003 Brouch/Mersch, Knepp  00703  00703                % 00412 RGTR--
+160203001 Buschdorf, Belle Vue  00704  00704                % 00412 RGTR--
+160203003 Buschdorf, Määschhaf  00705  00705                % 00412 RGTR--
+160203002 Buschdorf, Helpërtwe  00706  00706                % 00412 RGTR--
+160206001 Openthalt             00708  00708                % 00412 RGTR--
+160204001 Openthalt, Finsterth  00709  00709                % 00412 RGTR--
+160205002 Grevenknapp, Riesenh  00710  00710                % 00412 RGTR--
+160205003 Grevenknapp, Um ënns  00711  00711                % 00412 RGTR--
+160201007 Boevange, Beim Wald   00711  00711                % 00412 RGTR--
+160201005 Boevange, Lëtschert   00712  00712                % 00412 RGTR--
+160201004 Boevange, Helpert     00713  00713                % 00412 RGTR--
+160101008 Bissen, Um Sand       00719  00719                % 00412 RGTR--
+160101002 Bissen, Kräizung      00720  00720                % 00412 RGTR--
+160101006 Bissen, Henckels      00720  00720                % 00412 RGTR--
+160101003 Bissen, Geiwels       00721  00721                % 00412 RGTR--
+160101005 Bissen, Op der Mille  00722  00722                % 00412 RGTR--
+160301007 Colmar-Berg, Usines   00725  00725                % 00412 RGTR--
+160301002 Colmar-Berg, Centre   00726  00726                % 00412 RGTR--
+140701018 Ettelbruck, H.v.Land  00730  00730                % 00412 RGTR--
+140701026 Ettelbruck, Rond Poi  00732  00732                % 00412 RGTR--
+140701015 Ettelbruck, Ecole Pr  00733  00733                % 00412 RGTR--
+140701016 Ettelbruck, Gare      00735  00737                % 00412 RGTR--
+140602008 Erpeldange-sur-Sûre,  00739  00739                % 00412 RGTR--
+140603002 Ingeldorf, Café de l  00741  00741                % 00412 RGTR--
+140401008 Diekirch, Lorentzwue  00742  00742                % 00412 RGTR--
+140401004 Diekirch, Gare routi  00744  00744                % 00412 RGTR--
+140401001 Diekirch, Altersheem  00746  00746                % 00412 RGTR--
+140401009 Diekirch, Neie Kolle  00749  00749                % 00412 RGTR--
+140401012 Diekirch, Fielserstr  00751  00751                % 00412 RGTR--
+140203012 Gilsdorf, Ackerbausc  00753                       % 00412 RGTR--
+*Z 18620 RGTR--                                             % 18620 RGTR--
+*L K09      161103002 140701016  01305  01347               % 18620 RGTR--
+*A cj 161103002 140701016 000047  01305  01347              % 18620 RGTR--
+*A ad 161103002 140701016 000047  01305  01347              % 18620 RGTR--
+*R 2 140701016 161103002 140701016  01305  01347            % 18620 RGTR--
+*G 050 161103002 140701016  01305  01347                    % 18620 RGTR--
+*A VE 161103002 140701016 000047  01305  01347              % 18620 RGTR--
+*I FD 161103002 140701016        0001804  01305  01347      % 18620 RGTR--
+161103002 Hollenfels, Vereinsb         01305                % 18620 RGTR--
+161103001 Hollenfels, Schoul    01306  01306                % 18620 RGTR--
+161106003 Tuntange, Knupp       01309  01309                % 18620 RGTR--
+161106002 Tuntange, Kiirch      01310  01310                % 18620 RGTR--
+161106004 Tuntange, Sëllerstro  01311  01311                % 18620 RGTR--
+150704002 Saeul, Kiëm           01313  01313                % 18620 RGTR--
+160202001 Brouch/Mersch, Kierc  01316  01316                % 18620 RGTR--
+160202003 Brouch/Mersch, Knepp  01317  01317                % 18620 RGTR--
+160203001 Buschdorf, Belle Vue  01318  01318                % 18620 RGTR--
+160203003 Buschdorf, Määschhaf  01319  01319                % 18620 RGTR--
+160203002 Buschdorf, Helpërtwe  01320  01320                % 18620 RGTR--
+160206001 Openthalt             01322  01322                % 18620 RGTR--
+160204001 Openthalt, Finsterth  01322  01322                % 18620 RGTR--
+160205002 Grevenknapp, Riesenh  01324  01324                % 18620 RGTR--
+160205003 Grevenknapp, Um ënns  01324  01324                % 18620 RGTR--
+160201007 Boevange, Beim Wald   01325  01325                % 18620 RGTR--
+160201005 Boevange, Lëtschert   01326  01326                % 18620 RGTR--
+160201004 Boevange, Helpert     01327  01327                % 18620 RGTR--
+160101008 Bissen, Um Sand       01333  01333                % 18620 RGTR--
+160101002 Bissen, Kräizung      01334  01334                % 18620 RGTR--
+160101006 Bissen, Henckels      01334  01334                % 18620 RGTR--
+160101003 Bissen, Geiwels       01335  01335                % 18620 RGTR--
+160101005 Bissen, Op der Mille  01336  01336                % 18620 RGTR--
+160301007 Colmar-Berg, Usines   01338  01338                % 18620 RGTR--
+160301002 Colmar-Berg, Centre   01340  01340                % 18620 RGTR--
+140701018 Ettelbruck, H.v.Land  01344  01344                % 18620 RGTR--
+140701026 Ettelbruck, Rond Poi  01345  01345                % 18620 RGTR--
+140701015 Ettelbruck, Ecole Pr  01346  01346                % 18620 RGTR--
+140701016 Ettelbruck, Gare      01347                       % 18620 RGTR--

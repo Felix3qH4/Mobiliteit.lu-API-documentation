@@ -1,0 +1,705 @@
+*F 03 2
+*Z 03042 AVL---       001 015                               % 03042 AVL---
+*L 22       200405046 200901024  00517  00532               % 03042 AVL---
+*A BE 200405046 200901024 000034  00517  00532              % 03042 AVL---
+*R 1 200901024 200405046 200901024  00517  00532            % 03042 AVL---
+*G GE  200405046 200901024  00517  00532                    % 03042 AVL---
+*A VE 200405046 200901024 000034  00517  00532              % 03042 AVL---
+200405046 Luxembourg, Gare Roc         00517                % 03042 AVL---
+200405039 Luxembourg, Wallis    00518  00518                % 03042 AVL---
+200405013 Centre, F.D. Rooseve  00521  00521                % 03042 AVL---
+200405020 Hamilius (Bus)        00524  00524                % 03042 AVL---
+200405045 Centre, Stäreplaz /   00526  00526                % 03042 AVL---
+200403017 Belair, Nicolas Simm  00527  00527                % 03042 AVL---
+200403018 Belair, Rue d'Ostend  00528  00528                % 03042 AVL---
+200403021 Belair, Wandmillen    00529  00529                % 03042 AVL---
+200403009 Belair, Kannerklinic  00530  00530                % 03042 AVL---
+200901024 Strassen, Primeurs    00532                       % 03042 AVL---
+*Z 03043 AVL---       001 853                               % 03043 AVL---
+*L 22       200412031 200901024  00537  00602               % 03043 AVL---
+*A BE 200412031 200901024 000034  00537  00602              % 03043 AVL---
+*R 1 200901024 200412031 200901024  00537  00602            % 03043 AVL---
+*G GE  200412031 200901024  00537  00602                    % 03043 AVL---
+*A VE 200412031 200901024 000034  00537  00602              % 03043 AVL---
+200412031 Gasperich, Stade de          00537                % 03043 AVL---
+200412018 Gasperich, Schaarfen  00538  00538                % 03043 AVL---
+200412004 Gasperich, Émile Bia  00539  00539                % 03043 AVL---
+200412023 Gasperich, Leonardo   00540  00540                % 03043 AVL---
+200412024 Gasperich, Hildegard  00540  00540                % 03043 AVL---
+200412025 Gasperich, Francopho  00542  00542                % 03043 AVL---
+200405046 Luxembourg, Gare Roc  00547  00547                % 03043 AVL---
+200405039 Luxembourg, Wallis    00548  00548                % 03043 AVL---
+200405013 Centre, F.D. Rooseve  00551  00551                % 03043 AVL---
+200405020 Hamilius (Bus)        00554  00554                % 03043 AVL---
+200405045 Centre, Stäreplaz /   00556  00556                % 03043 AVL---
+200403017 Belair, Nicolas Simm  00557  00557                % 03043 AVL---
+200403018 Belair, Rue d'Ostend  00558  00558                % 03043 AVL---
+200403021 Belair, Wandmillen    00559  00559                % 03043 AVL---
+200403009 Belair, Kannerklinic  00600  00600                % 03043 AVL---
+200901024 Strassen, Primeurs    00602                       % 03043 AVL---
+*Z 03044 AVL---       016 010                               % 03044 AVL---
+*L 22       200412031 200901024  00548  00620               % 03044 AVL---
+*A BE 200412031 200901024 000034  00548  00620              % 03044 AVL---
+*R 1 200901024 200412031 200901024  00548  00620            % 03044 AVL---
+*G GE  200412031 200901024  00548  00620                    % 03044 AVL---
+*A VE 200412031 200901024 000034  00548  00620              % 03044 AVL---
+200412031 Gasperich, Stade de          00548                % 03044 AVL---
+200412018 Gasperich, Schaarfen  00549  00549                % 03044 AVL---
+200412004 Gasperich, Émile Bia  00550  00550                % 03044 AVL---
+200412023 Gasperich, Leonardo   00551  00551                % 03044 AVL---
+200412024 Gasperich, Hildegard  00552  00552                % 03044 AVL---
+200412025 Gasperich, Francopho  00554  00554                % 03044 AVL---
+200405046 Luxembourg, Gare Roc  00600  00600                % 03044 AVL---
+200405039 Luxembourg, Wallis    00602  00602                % 03044 AVL---
+200405013 Centre, F.D. Rooseve  00606  00606                % 03044 AVL---
+200405020 Hamilius (Bus)        00609  00609                % 03044 AVL---
+200405045 Centre, Stäreplaz /   00612  00612                % 03044 AVL---
+200403017 Belair, Nicolas Simm  00614  00614                % 03044 AVL---
+200403018 Belair, Rue d'Ostend  00615  00615                % 03044 AVL---
+200403021 Belair, Wandmillen    00616  00616                % 03044 AVL---
+200403009 Belair, Kannerklinic  00618  00618                % 03044 AVL---
+200901024 Strassen, Primeurs    00620                       % 03044 AVL---
+*Z 03045 AVL---       026 015                               % 03045 AVL---
+*L 22       200412031 200901024  00844  00916               % 03045 AVL---
+*A BE 200412031 200901024 000034  00844  00916              % 03045 AVL---
+*R 1 200901024 200412031 200901024  00844  00916            % 03045 AVL---
+*G GE  200412031 200901024  00844  00916                    % 03045 AVL---
+*A VE 200412031 200901024 000034  00844  00916              % 03045 AVL---
+200412031 Gasperich, Stade de          00844                % 03045 AVL---
+200412018 Gasperich, Schaarfen  00845  00845                % 03045 AVL---
+200412004 Gasperich, Émile Bia  00846  00846                % 03045 AVL---
+200412023 Gasperich, Leonardo   00847  00847                % 03045 AVL---
+200412024 Gasperich, Hildegard  00848  00848                % 03045 AVL---
+200412025 Gasperich, Francopho  00850  00850                % 03045 AVL---
+200405046 Luxembourg, Gare Roc  00856  00856                % 03045 AVL---
+200405039 Luxembourg, Wallis    00858  00858                % 03045 AVL---
+200405013 Centre, F.D. Rooseve  00902  00902                % 03045 AVL---
+200405020 Hamilius (Bus)        00905  00905                % 03045 AVL---
+200405045 Centre, Stäreplaz /   00908  00908                % 03045 AVL---
+200403017 Belair, Nicolas Simm  00910  00910                % 03045 AVL---
+200403018 Belair, Rue d'Ostend  00911  00911                % 03045 AVL---
+200403021 Belair, Wandmillen    00912  00912                % 03045 AVL---
+200403009 Belair, Kannerklinic  00914  00914                % 03045 AVL---
+200901024 Strassen, Primeurs    00916                       % 03045 AVL---
+*Z 03046 AVL---       017 010                               % 03046 AVL---
+*L 22       200412031 200901024  01528  01600               % 03046 AVL---
+*A BE 200412031 200901024 000034  01528  01600              % 03046 AVL---
+*R 1 200901024 200412031 200901024  01528  01600            % 03046 AVL---
+*G GE  200412031 200901024  01528  01600                    % 03046 AVL---
+*A VE 200412031 200901024 000034  01528  01600              % 03046 AVL---
+200412031 Gasperich, Stade de          01528                % 03046 AVL---
+200412018 Gasperich, Schaarfen  01529  01529                % 03046 AVL---
+200412004 Gasperich, Émile Bia  01530  01530                % 03046 AVL---
+200412023 Gasperich, Leonardo   01531  01531                % 03046 AVL---
+200412024 Gasperich, Hildegard  01532  01532                % 03046 AVL---
+200412025 Gasperich, Francopho  01534  01534                % 03046 AVL---
+200405046 Luxembourg, Gare Roc  01540  01540                % 03046 AVL---
+200405039 Luxembourg, Wallis    01542  01542                % 03046 AVL---
+200405013 Centre, F.D. Rooseve  01546  01546                % 03046 AVL---
+200405020 Hamilius (Bus)        01549  01549                % 03046 AVL---
+200405045 Centre, Stäreplaz /   01552  01552                % 03046 AVL---
+200403017 Belair, Nicolas Simm  01554  01554                % 03046 AVL---
+200403018 Belair, Rue d'Ostend  01555  01555                % 03046 AVL---
+200403021 Belair, Wandmillen    01556  01556                % 03046 AVL---
+200403009 Belair, Kannerklinic  01558  01558                % 03046 AVL---
+200901024 Strassen, Primeurs    01600                       % 03046 AVL---
+*Z 03047 AVL---       004 015                               % 03047 AVL---
+*L 22       200412031 200901024  01829  01901               % 03047 AVL---
+*A BE 200412031 200901024 000034  01829  01901              % 03047 AVL---
+*R 1 200901024 200412031 200901024  01829  01901            % 03047 AVL---
+*G GE  200412031 200901024  01829  01901                    % 03047 AVL---
+*A VE 200412031 200901024 000034  01829  01901              % 03047 AVL---
+200412031 Gasperich, Stade de          01829                % 03047 AVL---
+200412018 Gasperich, Schaarfen  01830  01830                % 03047 AVL---
+200412004 Gasperich, Émile Bia  01831  01831                % 03047 AVL---
+200412023 Gasperich, Leonardo   01832  01832                % 03047 AVL---
+200412024 Gasperich, Hildegard  01833  01833                % 03047 AVL---
+200412025 Gasperich, Francopho  01835  01835                % 03047 AVL---
+200405046 Luxembourg, Gare Roc  01841  01841                % 03047 AVL---
+200405039 Luxembourg, Wallis    01843  01843                % 03047 AVL---
+200405013 Centre, F.D. Rooseve  01847  01847                % 03047 AVL---
+200405020 Hamilius (Bus)        01850  01850                % 03047 AVL---
+200405045 Centre, Stäreplaz /   01853  01853                % 03047 AVL---
+200403017 Belair, Nicolas Simm  01855  01855                % 03047 AVL---
+200403018 Belair, Rue d'Ostend  01856  01856                % 03047 AVL---
+200403021 Belair, Wandmillen    01857  01857                % 03047 AVL---
+200403009 Belair, Kannerklinic  01859  01859                % 03047 AVL---
+200901024 Strassen, Primeurs    01901                       % 03047 AVL---
+*Z 03048 AVL---       003 015                               % 03048 AVL---
+*L 22       200412031 200405045  02007  02026               % 03048 AVL---
+*A BE 200412031 200405045 000034  02007  02026              % 03048 AVL---
+*R 1 200405045 200412031 200405045  02007  02026            % 03048 AVL---
+*G GE  200412031 200405045  02007  02026                    % 03048 AVL---
+*A VE 200412031 200405045 000034  02007  02026              % 03048 AVL---
+200412031 Gasperich, Stade de          02007                % 03048 AVL---
+200412018 Gasperich, Schaarfen  02008  02008                % 03048 AVL---
+200412004 Gasperich, Émile Bia  02009  02009                % 03048 AVL---
+200412023 Gasperich, Leonardo   02010  02010                % 03048 AVL---
+200412024 Gasperich, Hildegard  02010  02010                % 03048 AVL---
+200412025 Gasperich, Francopho  02012  02012                % 03048 AVL---
+200405046 Luxembourg, Gare Roc  02017  02017                % 03048 AVL---
+200405039 Luxembourg, Wallis    02018  02018                % 03048 AVL---
+200405013 Centre, F.D. Rooseve  02021  02021                % 03048 AVL---
+200405020 Hamilius (Bus)        02024  02024                % 03048 AVL---
+200405045 Centre, Stäreplaz /   02026                       % 03048 AVL---
+*Z 03049 AVL---                                             % 03049 AVL---
+*L 22       200412031 200405045  02112  02131               % 03049 AVL---
+*A BE 200412031 200405045 000034  02112  02131              % 03049 AVL---
+*R 1 200405045 200412031 200405045  02112  02131            % 03049 AVL---
+*G GE  200412031 200405045  02112  02131                    % 03049 AVL---
+*A VE 200412031 200405045 000034  02112  02131              % 03049 AVL---
+200412031 Gasperich, Stade de          02112                % 03049 AVL---
+200412018 Gasperich, Schaarfen  02113  02113                % 03049 AVL---
+200412004 Gasperich, Émile Bia  02114  02114                % 03049 AVL---
+200412023 Gasperich, Leonardo   02115  02115                % 03049 AVL---
+200412024 Gasperich, Hildegard  02115  02115                % 03049 AVL---
+200412025 Gasperich, Francopho  02117  02117                % 03049 AVL---
+200405046 Luxembourg, Gare Roc  02122  02122                % 03049 AVL---
+200405039 Luxembourg, Wallis    02123  02123                % 03049 AVL---
+200405013 Centre, F.D. Rooseve  02126  02126                % 03049 AVL---
+200405020 Hamilius (Bus)        02129  02129                % 03049 AVL---
+200405045 Centre, Stäreplaz /   02131                       % 03049 AVL---
+*Z 03050 AVL---                                             % 03050 AVL---
+*L 22       200405046 200412031  00518  00527               % 03050 AVL---
+*A BE 200405046 200412031 000034  00518  00527              % 03050 AVL---
+*R 2 200412031 200405046 200412031  00518  00527            % 03050 AVL---
+*G GE  200405046 200412031  00518  00527                    % 03050 AVL---
+*A VE 200405046 200412031 000034  00518  00527              % 03050 AVL---
+200405046 Luxembourg, Gare Roc         00518                % 03050 AVL---
+200412025 Gasperich, Francopho  00521  00521                % 03050 AVL---
+200412024 Gasperich, Hildegard  00523  00523                % 03050 AVL---
+200412023 Gasperich, Leonardo   00524  00524                % 03050 AVL---
+200412004 Gasperich, Émile Bia  00525  00525                % 03050 AVL---
+200412018 Gasperich, Schaarfen  00526  00526                % 03050 AVL---
+200412031 Gasperich, Stade de   00527                       % 03050 AVL---
+*Z 03051 AVL---       001 015                               % 03051 AVL---
+*L 22       200405045 200412031  00522  00542               % 03051 AVL---
+*A BE 200405045 200412031 000034  00522  00542              % 03051 AVL---
+*R 2 200412031 200405045 200412031  00522  00542            % 03051 AVL---
+*G GE  200405045 200412031  00522  00542                    % 03051 AVL---
+*A VE 200405045 200412031 000034  00522  00542              % 03051 AVL---
+200405045 Centre, Stäreplaz /          00522                % 03051 AVL---
+200403020 Belair, Wampach       00524  00524                % 03051 AVL---
+200405025 Luxembourg/Centre, M  00526  00526                % 03051 AVL---
+200405054 Centre, F.D. Rooseve  00528  00528                % 03051 AVL---
+200405039 Luxembourg, Wallis    00531  00531                % 03051 AVL---
+200405046 Luxembourg, Gare Roc  00533  00533                % 03051 AVL---
+200412025 Gasperich, Francopho  00536  00536                % 03051 AVL---
+200412024 Gasperich, Hildegard  00538  00538                % 03051 AVL---
+200412023 Gasperich, Leonardo   00539  00539                % 03051 AVL---
+200412004 Gasperich, Émile Bia  00540  00540                % 03051 AVL---
+200412018 Gasperich, Schaarfen  00541  00541                % 03051 AVL---
+200412031 Gasperich, Stade de   00542                       % 03051 AVL---
+*Z 03052 AVL---                                             % 03052 AVL---
+*L 22       200901024 200412031  00547  00612               % 03052 AVL---
+*A BE 200901024 200412031 000034  00547  00612              % 03052 AVL---
+*R 2 200412031 200901024 200412031  00547  00612            % 03052 AVL---
+*G GE  200901024 200412031  00547  00612                    % 03052 AVL---
+*A VE 200901024 200412031 000034  00547  00612              % 03052 AVL---
+200901024 Strassen, Primeurs           00547                % 03052 AVL---
+200403009 Belair, Kannerklinic  00548  00548                % 03052 AVL---
+200403021 Belair, Wandmillen    00549  00549                % 03052 AVL---
+200403018 Belair, Rue d'Ostend  00550  00550                % 03052 AVL---
+200403017 Belair, Nicolas Simm  00551  00551                % 03052 AVL---
+200405045 Centre, Stäreplaz /   00552  00552                % 03052 AVL---
+200403020 Belair, Wampach       00554  00554                % 03052 AVL---
+200405025 Luxembourg/Centre, M  00556  00556                % 03052 AVL---
+200405054 Centre, F.D. Rooseve  00558  00558                % 03052 AVL---
+200405039 Luxembourg, Wallis    00601  00601                % 03052 AVL---
+200405046 Luxembourg, Gare Roc  00603  00603                % 03052 AVL---
+200412025 Gasperich, Francopho  00606  00606                % 03052 AVL---
+200412024 Gasperich, Hildegard  00608  00608                % 03052 AVL---
+200412023 Gasperich, Leonardo   00609  00609                % 03052 AVL---
+200412004 Gasperich, Émile Bia  00610  00610                % 03052 AVL---
+200412018 Gasperich, Schaarfen  00611  00611                % 03052 AVL---
+200412031 Gasperich, Stade de   00612                       % 03052 AVL---
+*Z 03053 AVL---                                             % 03053 AVL---
+*L 22       200901024 200412031  01957  02022               % 03053 AVL---
+*A BE 200901024 200412031 000034  01957  02022              % 03053 AVL---
+*R 2 200412031 200901024 200412031  01957  02022            % 03053 AVL---
+*G GE  200901024 200412031  01957  02022                    % 03053 AVL---
+*A VE 200901024 200412031 000034  01957  02022              % 03053 AVL---
+200901024 Strassen, Primeurs           01957                % 03053 AVL---
+200403009 Belair, Kannerklinic  01958  01958                % 03053 AVL---
+200403021 Belair, Wandmillen    01959  01959                % 03053 AVL---
+200403018 Belair, Rue d'Ostend  02000  02000                % 03053 AVL---
+200403017 Belair, Nicolas Simm  02001  02001                % 03053 AVL---
+200405045 Centre, Stäreplaz /   02003  02003                % 03053 AVL---
+200403020 Belair, Wampach       02005  02005                % 03053 AVL---
+200405025 Luxembourg/Centre, M  02006  02006                % 03053 AVL---
+200405054 Centre, F.D. Rooseve  02009  02009                % 03053 AVL---
+200405039 Luxembourg, Wallis    02012  02012                % 03053 AVL---
+200405046 Luxembourg, Gare Roc  02013  02013                % 03053 AVL---
+200412025 Gasperich, Francopho  02017  02017                % 03053 AVL---
+200412024 Gasperich, Hildegard  02019  02019                % 03053 AVL---
+200412023 Gasperich, Leonardo   02019  02019                % 03053 AVL---
+200412004 Gasperich, Émile Bia  02020  02020                % 03053 AVL---
+200412018 Gasperich, Schaarfen  02022  02022                % 03053 AVL---
+200412031 Gasperich, Stade de   02022                       % 03053 AVL---
+*Z 03054 AVL---       001 020                               % 03054 AVL---
+*L 22       200901024 200412031  02009  02034               % 03054 AVL---
+*A BE 200901024 200412031 000034  02009  02034              % 03054 AVL---
+*R 2 200412031 200901024 200412031  02009  02034            % 03054 AVL---
+*G GE  200901024 200412031  02009  02034                    % 03054 AVL---
+*A VE 200901024 200412031 000034  02009  02034              % 03054 AVL---
+200901024 Strassen, Primeurs           02009                % 03054 AVL---
+200403009 Belair, Kannerklinic  02010  02010                % 03054 AVL---
+200403021 Belair, Wandmillen    02011  02011                % 03054 AVL---
+200403018 Belair, Rue d'Ostend  02012  02012                % 03054 AVL---
+200403017 Belair, Nicolas Simm  02013  02013                % 03054 AVL---
+200405045 Centre, Stäreplaz /   02014  02014                % 03054 AVL---
+200403020 Belair, Wampach       02016  02016                % 03054 AVL---
+200405025 Luxembourg/Centre, M  02018  02018                % 03054 AVL---
+200405054 Centre, F.D. Rooseve  02020  02020                % 03054 AVL---
+200405039 Luxembourg, Wallis    02023  02023                % 03054 AVL---
+200405046 Luxembourg, Gare Roc  02025  02025                % 03054 AVL---
+200412025 Gasperich, Francopho  02028  02028                % 03054 AVL---
+200412024 Gasperich, Hildegard  02030  02030                % 03054 AVL---
+200412023 Gasperich, Leonardo   02031  02031                % 03054 AVL---
+200412004 Gasperich, Émile Bia  02032  02032                % 03054 AVL---
+200412018 Gasperich, Schaarfen  02033  02033                % 03054 AVL---
+200412031 Gasperich, Stade de   02034                       % 03054 AVL---
+*Z 03055 AVL---       016 010                               % 03055 AVL---
+*L 22       200901024 200412031  00600  00632               % 03055 AVL---
+*A BE 200901024 200412031 000034  00600  00632              % 03055 AVL---
+*R 2 200412031 200901024 200412031  00600  00632            % 03055 AVL---
+*G GE  200901024 200412031  00600  00632                    % 03055 AVL---
+*A VE 200901024 200412031 000034  00600  00632              % 03055 AVL---
+200901024 Strassen, Primeurs           00600                % 03055 AVL---
+200403009 Belair, Kannerklinic  00601  00601                % 03055 AVL---
+200403021 Belair, Wandmillen    00603  00603                % 03055 AVL---
+200403018 Belair, Rue d'Ostend  00604  00604                % 03055 AVL---
+200403017 Belair, Nicolas Simm  00605  00605                % 03055 AVL---
+200405045 Centre, Stäreplaz /   00608  00608                % 03055 AVL---
+200403020 Belair, Wampach       00610  00610                % 03055 AVL---
+200405025 Luxembourg/Centre, M  00612  00612                % 03055 AVL---
+200405054 Centre, F.D. Rooseve  00615  00615                % 03055 AVL---
+200405039 Luxembourg, Wallis    00619  00619                % 03055 AVL---
+200405046 Luxembourg, Gare Roc  00621  00621                % 03055 AVL---
+200412025 Gasperich, Francopho  00625  00625                % 03055 AVL---
+200412024 Gasperich, Hildegard  00628  00628                % 03055 AVL---
+200412023 Gasperich, Leonardo   00628  00628                % 03055 AVL---
+200412004 Gasperich, Émile Bia  00630  00630                % 03055 AVL---
+200412018 Gasperich, Schaarfen  00631  00631                % 03055 AVL---
+200412031 Gasperich, Stade de   00632                       % 03055 AVL---
+*Z 03056 AVL---       026 015                               % 03056 AVL---
+*L 22       200901024 200412031  00854  00926               % 03056 AVL---
+*A BE 200901024 200412031 000034  00854  00926              % 03056 AVL---
+*R 2 200412031 200901024 200412031  00854  00926            % 03056 AVL---
+*G GE  200901024 200412031  00854  00926                    % 03056 AVL---
+*A VE 200901024 200412031 000034  00854  00926              % 03056 AVL---
+200901024 Strassen, Primeurs           00854                % 03056 AVL---
+200403009 Belair, Kannerklinic  00856  00856                % 03056 AVL---
+200403021 Belair, Wandmillen    00858  00858                % 03056 AVL---
+200403018 Belair, Rue d'Ostend  00859  00859                % 03056 AVL---
+200403017 Belair, Nicolas Simm  00900  00900                % 03056 AVL---
+200405045 Centre, Stäreplaz /   00902  00902                % 03056 AVL---
+200403020 Belair, Wampach       00904  00904                % 03056 AVL---
+200405025 Luxembourg/Centre, M  00906  00906                % 03056 AVL---
+200405054 Centre, F.D. Rooseve  00909  00909                % 03056 AVL---
+200405039 Luxembourg, Wallis    00913  00913                % 03056 AVL---
+200405046 Luxembourg, Gare Roc  00915  00915                % 03056 AVL---
+200412025 Gasperich, Francopho  00920  00920                % 03056 AVL---
+200412024 Gasperich, Hildegard  00922  00922                % 03056 AVL---
+200412023 Gasperich, Leonardo   00923  00923                % 03056 AVL---
+200412004 Gasperich, Émile Bia  00924  00924                % 03056 AVL---
+200412018 Gasperich, Schaarfen  00926  00926                % 03056 AVL---
+200412031 Gasperich, Stade de   00926                       % 03056 AVL---
+*Z 03057 AVL---       018 010                               % 03057 AVL---
+*L 22       200901024 200412031  01540  01612               % 03057 AVL---
+*A BE 200901024 200412031 000034  01540  01612              % 03057 AVL---
+*R 2 200412031 200901024 200412031  01540  01612            % 03057 AVL---
+*G GE  200901024 200412031  01540  01612                    % 03057 AVL---
+*A VE 200901024 200412031 000034  01540  01612              % 03057 AVL---
+200901024 Strassen, Primeurs           01540                % 03057 AVL---
+200403009 Belair, Kannerklinic  01541  01541                % 03057 AVL---
+200403021 Belair, Wandmillen    01543  01543                % 03057 AVL---
+200403018 Belair, Rue d'Ostend  01544  01544                % 03057 AVL---
+200403017 Belair, Nicolas Simm  01545  01545                % 03057 AVL---
+200405045 Centre, Stäreplaz /   01548  01548                % 03057 AVL---
+200403020 Belair, Wampach       01550  01550                % 03057 AVL---
+200405025 Luxembourg/Centre, M  01552  01552                % 03057 AVL---
+200405054 Centre, F.D. Rooseve  01555  01555                % 03057 AVL---
+200405039 Luxembourg, Wallis    01559  01559                % 03057 AVL---
+200405046 Luxembourg, Gare Roc  01601  01601                % 03057 AVL---
+200412025 Gasperich, Francopho  01605  01605                % 03057 AVL---
+200412024 Gasperich, Hildegard  01608  01608                % 03057 AVL---
+200412023 Gasperich, Leonardo   01608  01608                % 03057 AVL---
+200412004 Gasperich, Émile Bia  01610  01610                % 03057 AVL---
+200412018 Gasperich, Schaarfen  01611  01611                % 03057 AVL---
+200412031 Gasperich, Stade de   01612                       % 03057 AVL---
+*Z 03058 AVL---       003 015                               % 03058 AVL---
+*L 22       200901024 200412031  01854  01926               % 03058 AVL---
+*A BE 200901024 200412031 000034  01854  01926              % 03058 AVL---
+*R 2 200412031 200901024 200412031  01854  01926            % 03058 AVL---
+*G GE  200901024 200412031  01854  01926                    % 03058 AVL---
+*A VE 200901024 200412031 000034  01854  01926              % 03058 AVL---
+200901024 Strassen, Primeurs           01854                % 03058 AVL---
+200403009 Belair, Kannerklinic  01856  01856                % 03058 AVL---
+200403021 Belair, Wandmillen    01858  01858                % 03058 AVL---
+200403018 Belair, Rue d'Ostend  01859  01859                % 03058 AVL---
+200403017 Belair, Nicolas Simm  01900  01900                % 03058 AVL---
+200405045 Centre, Stäreplaz /   01902  01902                % 03058 AVL---
+200403020 Belair, Wampach       01904  01904                % 03058 AVL---
+200405025 Luxembourg/Centre, M  01906  01906                % 03058 AVL---
+200405054 Centre, F.D. Rooseve  01909  01909                % 03058 AVL---
+200405039 Luxembourg, Wallis    01913  01913                % 03058 AVL---
+200405046 Luxembourg, Gare Roc  01915  01915                % 03058 AVL---
+200412025 Gasperich, Francopho  01920  01920                % 03058 AVL---
+200412024 Gasperich, Hildegard  01922  01922                % 03058 AVL---
+200412023 Gasperich, Leonardo   01923  01923                % 03058 AVL---
+200412004 Gasperich, Émile Bia  01924  01924                % 03058 AVL---
+200412018 Gasperich, Schaarfen  01926  01926                % 03058 AVL---
+200412031 Gasperich, Stade de   01926                       % 03058 AVL---
+*Z 03059 AVL---       001 015                               % 03059 AVL---
+*L 22       200405046 200901024  00517  00532               % 03059 AVL---
+*A BE 200405046 200901024 000033  00517  00532              % 03059 AVL---
+*R 1 200901024 200405046 200901024  00517  00532            % 03059 AVL---
+*G GE  200405046 200901024  00517  00532                    % 03059 AVL---
+*A VE 200405046 200901024 000033  00517  00532              % 03059 AVL---
+200405046 Luxembourg, Gare Roc         00517                % 03059 AVL---
+200405039 Luxembourg, Wallis    00518  00518                % 03059 AVL---
+200405013 Centre, F.D. Rooseve  00521  00521                % 03059 AVL---
+200405020 Hamilius (Bus)        00524  00524                % 03059 AVL---
+200405045 Centre, Stäreplaz /   00526  00526                % 03059 AVL---
+200403017 Belair, Nicolas Simm  00527  00527                % 03059 AVL---
+200403018 Belair, Rue d'Ostend  00528  00528                % 03059 AVL---
+200403021 Belair, Wandmillen    00529  00529                % 03059 AVL---
+200403009 Belair, Kannerklinic  00530  00530                % 03059 AVL---
+200901024 Strassen, Primeurs    00532                       % 03059 AVL---
+*Z 03060 AVL---       001 853                               % 03060 AVL---
+*L 22       200412031 200901024  00537  00602               % 03060 AVL---
+*A BE 200412031 200901024 000033  00537  00602              % 03060 AVL---
+*R 1 200901024 200412031 200901024  00537  00602            % 03060 AVL---
+*G GE  200412031 200901024  00537  00602                    % 03060 AVL---
+*A VE 200412031 200901024 000033  00537  00602              % 03060 AVL---
+200412031 Gasperich, Stade de          00537                % 03060 AVL---
+200412018 Gasperich, Schaarfen  00538  00538                % 03060 AVL---
+200412004 Gasperich, Émile Bia  00539  00539                % 03060 AVL---
+200412023 Gasperich, Leonardo   00540  00540                % 03060 AVL---
+200412024 Gasperich, Hildegard  00540  00540                % 03060 AVL---
+200412025 Gasperich, Francopho  00542  00542                % 03060 AVL---
+200405046 Luxembourg, Gare Roc  00547  00547                % 03060 AVL---
+200405039 Luxembourg, Wallis    00548  00548                % 03060 AVL---
+200405013 Centre, F.D. Rooseve  00551  00551                % 03060 AVL---
+200405020 Hamilius (Bus)        00554  00554                % 03060 AVL---
+200405045 Centre, Stäreplaz /   00556  00556                % 03060 AVL---
+200403017 Belair, Nicolas Simm  00557  00557                % 03060 AVL---
+200403018 Belair, Rue d'Ostend  00558  00558                % 03060 AVL---
+200403021 Belair, Wandmillen    00559  00559                % 03060 AVL---
+200403009 Belair, Kannerklinic  00600  00600                % 03060 AVL---
+200901024 Strassen, Primeurs    00602                       % 03060 AVL---
+*Z 03061 AVL---       016 010                               % 03061 AVL---
+*L 22       200412031 200901024  00548  00620               % 03061 AVL---
+*A BE 200412031 200901024 000033  00548  00620              % 03061 AVL---
+*R 1 200901024 200412031 200901024  00548  00620            % 03061 AVL---
+*G GE  200412031 200901024  00548  00620                    % 03061 AVL---
+*A VE 200412031 200901024 000033  00548  00620              % 03061 AVL---
+200412031 Gasperich, Stade de          00548                % 03061 AVL---
+200412018 Gasperich, Schaarfen  00549  00549                % 03061 AVL---
+200412004 Gasperich, Émile Bia  00550  00550                % 03061 AVL---
+200412023 Gasperich, Leonardo   00551  00551                % 03061 AVL---
+200412024 Gasperich, Hildegard  00552  00552                % 03061 AVL---
+200412025 Gasperich, Francopho  00554  00554                % 03061 AVL---
+200405046 Luxembourg, Gare Roc  00600  00600                % 03061 AVL---
+200405039 Luxembourg, Wallis    00602  00602                % 03061 AVL---
+200405013 Centre, F.D. Rooseve  00606  00606                % 03061 AVL---
+200405020 Hamilius (Bus)        00609  00609                % 03061 AVL---
+200405045 Centre, Stäreplaz /   00612  00612                % 03061 AVL---
+200403017 Belair, Nicolas Simm  00614  00614                % 03061 AVL---
+200403018 Belair, Rue d'Ostend  00615  00615                % 03061 AVL---
+200403021 Belair, Wandmillen    00616  00616                % 03061 AVL---
+200403009 Belair, Kannerklinic  00618  00618                % 03061 AVL---
+200901024 Strassen, Primeurs    00620                       % 03061 AVL---
+*Z 03062 AVL---       026 015                               % 03062 AVL---
+*L 22       200412031 200901024  00844  00916               % 03062 AVL---
+*A BE 200412031 200901024 000033  00844  00916              % 03062 AVL---
+*R 1 200901024 200412031 200901024  00844  00916            % 03062 AVL---
+*G GE  200412031 200901024  00844  00916                    % 03062 AVL---
+*A VE 200412031 200901024 000033  00844  00916              % 03062 AVL---
+200412031 Gasperich, Stade de          00844                % 03062 AVL---
+200412018 Gasperich, Schaarfen  00845  00845                % 03062 AVL---
+200412004 Gasperich, Émile Bia  00846  00846                % 03062 AVL---
+200412023 Gasperich, Leonardo   00847  00847                % 03062 AVL---
+200412024 Gasperich, Hildegard  00848  00848                % 03062 AVL---
+200412025 Gasperich, Francopho  00850  00850                % 03062 AVL---
+200405046 Luxembourg, Gare Roc  00856  00856                % 03062 AVL---
+200405039 Luxembourg, Wallis    00858  00858                % 03062 AVL---
+200405013 Centre, F.D. Rooseve  00902  00902                % 03062 AVL---
+200405020 Hamilius (Bus)        00905  00905                % 03062 AVL---
+200405045 Centre, Stäreplaz /   00908  00908                % 03062 AVL---
+200403017 Belair, Nicolas Simm  00910  00910                % 03062 AVL---
+200403018 Belair, Rue d'Ostend  00911  00911                % 03062 AVL---
+200403021 Belair, Wandmillen    00912  00912                % 03062 AVL---
+200403009 Belair, Kannerklinic  00914  00914                % 03062 AVL---
+200901024 Strassen, Primeurs    00916                       % 03062 AVL---
+*Z 03063 AVL---       017 010                               % 03063 AVL---
+*L 22       200412031 200901024  01528  01600               % 03063 AVL---
+*A BE 200412031 200901024 000033  01528  01600              % 03063 AVL---
+*R 1 200901024 200412031 200901024  01528  01600            % 03063 AVL---
+*G GE  200412031 200901024  01528  01600                    % 03063 AVL---
+*A VE 200412031 200901024 000033  01528  01600              % 03063 AVL---
+200412031 Gasperich, Stade de          01528                % 03063 AVL---
+200412018 Gasperich, Schaarfen  01529  01529                % 03063 AVL---
+200412004 Gasperich, Émile Bia  01530  01530                % 03063 AVL---
+200412023 Gasperich, Leonardo   01531  01531                % 03063 AVL---
+200412024 Gasperich, Hildegard  01532  01532                % 03063 AVL---
+200412025 Gasperich, Francopho  01534  01534                % 03063 AVL---
+200405046 Luxembourg, Gare Roc  01540  01540                % 03063 AVL---
+200405039 Luxembourg, Wallis    01542  01542                % 03063 AVL---
+200405013 Centre, F.D. Rooseve  01546  01546                % 03063 AVL---
+200405020 Hamilius (Bus)        01549  01549                % 03063 AVL---
+200405045 Centre, Stäreplaz /   01552  01552                % 03063 AVL---
+200403017 Belair, Nicolas Simm  01554  01554                % 03063 AVL---
+200403018 Belair, Rue d'Ostend  01555  01555                % 03063 AVL---
+200403021 Belair, Wandmillen    01556  01556                % 03063 AVL---
+200403009 Belair, Kannerklinic  01558  01558                % 03063 AVL---
+200901024 Strassen, Primeurs    01600                       % 03063 AVL---
+*Z 03064 AVL---       004 015                               % 03064 AVL---
+*L 22       200412031 200901024  01829  01901               % 03064 AVL---
+*A BE 200412031 200901024 000033  01829  01901              % 03064 AVL---
+*R 1 200901024 200412031 200901024  01829  01901            % 03064 AVL---
+*G GE  200412031 200901024  01829  01901                    % 03064 AVL---
+*A VE 200412031 200901024 000033  01829  01901              % 03064 AVL---
+200412031 Gasperich, Stade de          01829                % 03064 AVL---
+200412018 Gasperich, Schaarfen  01830  01830                % 03064 AVL---
+200412004 Gasperich, Émile Bia  01831  01831                % 03064 AVL---
+200412023 Gasperich, Leonardo   01832  01832                % 03064 AVL---
+200412024 Gasperich, Hildegard  01833  01833                % 03064 AVL---
+200412025 Gasperich, Francopho  01835  01835                % 03064 AVL---
+200405046 Luxembourg, Gare Roc  01841  01841                % 03064 AVL---
+200405039 Luxembourg, Wallis    01843  01843                % 03064 AVL---
+200405013 Centre, F.D. Rooseve  01847  01847                % 03064 AVL---
+200405020 Hamilius (Bus)        01850  01850                % 03064 AVL---
+200405045 Centre, Stäreplaz /   01853  01853                % 03064 AVL---
+200403017 Belair, Nicolas Simm  01855  01855                % 03064 AVL---
+200403018 Belair, Rue d'Ostend  01856  01856                % 03064 AVL---
+200403021 Belair, Wandmillen    01857  01857                % 03064 AVL---
+200403009 Belair, Kannerklinic  01859  01859                % 03064 AVL---
+200901024 Strassen, Primeurs    01901                       % 03064 AVL---
+*Z 03065 AVL---       003 015                               % 03065 AVL---
+*L 22       200412031 200405045  02007  02026               % 03065 AVL---
+*A BE 200412031 200405045 000033  02007  02026              % 03065 AVL---
+*R 1 200405045 200412031 200405045  02007  02026            % 03065 AVL---
+*G GE  200412031 200405045  02007  02026                    % 03065 AVL---
+*A VE 200412031 200405045 000033  02007  02026              % 03065 AVL---
+200412031 Gasperich, Stade de          02007                % 03065 AVL---
+200412018 Gasperich, Schaarfen  02008  02008                % 03065 AVL---
+200412004 Gasperich, Émile Bia  02009  02009                % 03065 AVL---
+200412023 Gasperich, Leonardo   02010  02010                % 03065 AVL---
+200412024 Gasperich, Hildegard  02010  02010                % 03065 AVL---
+200412025 Gasperich, Francopho  02012  02012                % 03065 AVL---
+200405046 Luxembourg, Gare Roc  02017  02017                % 03065 AVL---
+200405039 Luxembourg, Wallis    02018  02018                % 03065 AVL---
+200405013 Centre, F.D. Rooseve  02021  02021                % 03065 AVL---
+200405020 Hamilius (Bus)        02024  02024                % 03065 AVL---
+200405045 Centre, Stäreplaz /   02026                       % 03065 AVL---
+*Z 03066 AVL---                                             % 03066 AVL---
+*L 22       200412031 200405045  02112  02131               % 03066 AVL---
+*A BE 200412031 200405045 000033  02112  02131              % 03066 AVL---
+*R 1 200405045 200412031 200405045  02112  02131            % 03066 AVL---
+*G GE  200412031 200405045  02112  02131                    % 03066 AVL---
+*A VE 200412031 200405045 000033  02112  02131              % 03066 AVL---
+200412031 Gasperich, Stade de          02112                % 03066 AVL---
+200412018 Gasperich, Schaarfen  02113  02113                % 03066 AVL---
+200412004 Gasperich, Émile Bia  02114  02114                % 03066 AVL---
+200412023 Gasperich, Leonardo   02115  02115                % 03066 AVL---
+200412024 Gasperich, Hildegard  02115  02115                % 03066 AVL---
+200412025 Gasperich, Francopho  02117  02117                % 03066 AVL---
+200405046 Luxembourg, Gare Roc  02122  02122                % 03066 AVL---
+200405039 Luxembourg, Wallis    02123  02123                % 03066 AVL---
+200405013 Centre, F.D. Rooseve  02126  02126                % 03066 AVL---
+200405020 Hamilius (Bus)        02129  02129                % 03066 AVL---
+200405045 Centre, Stäreplaz /   02131                       % 03066 AVL---
+*Z 03067 AVL---                                             % 03067 AVL---
+*L 22       200405046 200412031  00518  00527               % 03067 AVL---
+*A BE 200405046 200412031 000033  00518  00527              % 03067 AVL---
+*R 2 200412031 200405046 200412031  00518  00527            % 03067 AVL---
+*G GE  200405046 200412031  00518  00527                    % 03067 AVL---
+*A VE 200405046 200412031 000033  00518  00527              % 03067 AVL---
+200405046 Luxembourg, Gare Roc         00518                % 03067 AVL---
+200412025 Gasperich, Francopho  00521  00521                % 03067 AVL---
+200412024 Gasperich, Hildegard  00523  00523                % 03067 AVL---
+200412023 Gasperich, Leonardo   00524  00524                % 03067 AVL---
+200412004 Gasperich, Émile Bia  00525  00525                % 03067 AVL---
+200412018 Gasperich, Schaarfen  00526  00526                % 03067 AVL---
+200412031 Gasperich, Stade de   00527                       % 03067 AVL---
+*Z 03068 AVL---       001 015                               % 03068 AVL---
+*L 22       200405045 200412031  00522  00542               % 03068 AVL---
+*A BE 200405045 200412031 000033  00522  00542              % 03068 AVL---
+*R 2 200412031 200405045 200412031  00522  00542            % 03068 AVL---
+*G GE  200405045 200412031  00522  00542                    % 03068 AVL---
+*A VE 200405045 200412031 000033  00522  00542              % 03068 AVL---
+200405045 Centre, Stäreplaz /          00522                % 03068 AVL---
+200403020 Belair, Wampach       00524  00524                % 03068 AVL---
+200405025 Luxembourg/Centre, M  00526  00526                % 03068 AVL---
+200405054 Centre, F.D. Rooseve  00528  00528                % 03068 AVL---
+200405039 Luxembourg, Wallis    00531  00531                % 03068 AVL---
+200405046 Luxembourg, Gare Roc  00533  00533                % 03068 AVL---
+200412025 Gasperich, Francopho  00536  00536                % 03068 AVL---
+200412024 Gasperich, Hildegard  00538  00538                % 03068 AVL---
+200412023 Gasperich, Leonardo   00539  00539                % 03068 AVL---
+200412004 Gasperich, Émile Bia  00540  00540                % 03068 AVL---
+200412018 Gasperich, Schaarfen  00541  00541                % 03068 AVL---
+200412031 Gasperich, Stade de   00542                       % 03068 AVL---
+*Z 03069 AVL---                                             % 03069 AVL---
+*L 22       200901024 200412031  00547  00612               % 03069 AVL---
+*A BE 200901024 200412031 000033  00547  00612              % 03069 AVL---
+*R 2 200412031 200901024 200412031  00547  00612            % 03069 AVL---
+*G GE  200901024 200412031  00547  00612                    % 03069 AVL---
+*A VE 200901024 200412031 000033  00547  00612              % 03069 AVL---
+200901024 Strassen, Primeurs           00547                % 03069 AVL---
+200403009 Belair, Kannerklinic  00548  00548                % 03069 AVL---
+200403021 Belair, Wandmillen    00549  00549                % 03069 AVL---
+200403018 Belair, Rue d'Ostend  00550  00550                % 03069 AVL---
+200403017 Belair, Nicolas Simm  00551  00551                % 03069 AVL---
+200405045 Centre, Stäreplaz /   00552  00552                % 03069 AVL---
+200403020 Belair, Wampach       00554  00554                % 03069 AVL---
+200405025 Luxembourg/Centre, M  00556  00556                % 03069 AVL---
+200405054 Centre, F.D. Rooseve  00558  00558                % 03069 AVL---
+200405039 Luxembourg, Wallis    00601  00601                % 03069 AVL---
+200405046 Luxembourg, Gare Roc  00603  00603                % 03069 AVL---
+200412025 Gasperich, Francopho  00606  00606                % 03069 AVL---
+200412024 Gasperich, Hildegard  00608  00608                % 03069 AVL---
+200412023 Gasperich, Leonardo   00609  00609                % 03069 AVL---
+200412004 Gasperich, Émile Bia  00610  00610                % 03069 AVL---
+200412018 Gasperich, Schaarfen  00611  00611                % 03069 AVL---
+200412031 Gasperich, Stade de   00612                       % 03069 AVL---
+*Z 03070 AVL---                                             % 03070 AVL---
+*L 22       200901024 200412031  01957  02022               % 03070 AVL---
+*A BE 200901024 200412031 000033  01957  02022              % 03070 AVL---
+*R 2 200412031 200901024 200412031  01957  02022            % 03070 AVL---
+*G GE  200901024 200412031  01957  02022                    % 03070 AVL---
+*A VE 200901024 200412031 000033  01957  02022              % 03070 AVL---
+200901024 Strassen, Primeurs           01957                % 03070 AVL---
+200403009 Belair, Kannerklinic  01958  01958                % 03070 AVL---
+200403021 Belair, Wandmillen    01959  01959                % 03070 AVL---
+200403018 Belair, Rue d'Ostend  02000  02000                % 03070 AVL---
+200403017 Belair, Nicolas Simm  02001  02001                % 03070 AVL---
+200405045 Centre, Stäreplaz /   02003  02003                % 03070 AVL---
+200403020 Belair, Wampach       02005  02005                % 03070 AVL---
+200405025 Luxembourg/Centre, M  02006  02006                % 03070 AVL---
+200405054 Centre, F.D. Rooseve  02009  02009                % 03070 AVL---
+200405039 Luxembourg, Wallis    02012  02012                % 03070 AVL---
+200405046 Luxembourg, Gare Roc  02013  02013                % 03070 AVL---
+200412025 Gasperich, Francopho  02017  02017                % 03070 AVL---
+200412024 Gasperich, Hildegard  02019  02019                % 03070 AVL---
+200412023 Gasperich, Leonardo   02019  02019                % 03070 AVL---
+200412004 Gasperich, Émile Bia  02020  02020                % 03070 AVL---
+200412018 Gasperich, Schaarfen  02022  02022                % 03070 AVL---
+200412031 Gasperich, Stade de   02022                       % 03070 AVL---
+*Z 03071 AVL---       001 020                               % 03071 AVL---
+*L 22       200901024 200412031  02009  02034               % 03071 AVL---
+*A BE 200901024 200412031 000033  02009  02034              % 03071 AVL---
+*R 2 200412031 200901024 200412031  02009  02034            % 03071 AVL---
+*G GE  200901024 200412031  02009  02034                    % 03071 AVL---
+*A VE 200901024 200412031 000033  02009  02034              % 03071 AVL---
+200901024 Strassen, Primeurs           02009                % 03071 AVL---
+200403009 Belair, Kannerklinic  02010  02010                % 03071 AVL---
+200403021 Belair, Wandmillen    02011  02011                % 03071 AVL---
+200403018 Belair, Rue d'Ostend  02012  02012                % 03071 AVL---
+200403017 Belair, Nicolas Simm  02013  02013                % 03071 AVL---
+200405045 Centre, Stäreplaz /   02014  02014                % 03071 AVL---
+200403020 Belair, Wampach       02016  02016                % 03071 AVL---
+200405025 Luxembourg/Centre, M  02018  02018                % 03071 AVL---
+200405054 Centre, F.D. Rooseve  02020  02020                % 03071 AVL---
+200405039 Luxembourg, Wallis    02023  02023                % 03071 AVL---
+200405046 Luxembourg, Gare Roc  02025  02025                % 03071 AVL---
+200412025 Gasperich, Francopho  02028  02028                % 03071 AVL---
+200412024 Gasperich, Hildegard  02030  02030                % 03071 AVL---
+200412023 Gasperich, Leonardo   02031  02031                % 03071 AVL---
+200412004 Gasperich, Émile Bia  02032  02032                % 03071 AVL---
+200412018 Gasperich, Schaarfen  02033  02033                % 03071 AVL---
+200412031 Gasperich, Stade de   02034                       % 03071 AVL---
+*Z 03072 AVL---       016 010                               % 03072 AVL---
+*L 22       200901024 200412031  00600  00632               % 03072 AVL---
+*A BE 200901024 200412031 000033  00600  00632              % 03072 AVL---
+*R 2 200412031 200901024 200412031  00600  00632            % 03072 AVL---
+*G GE  200901024 200412031  00600  00632                    % 03072 AVL---
+*A VE 200901024 200412031 000033  00600  00632              % 03072 AVL---
+200901024 Strassen, Primeurs           00600                % 03072 AVL---
+200403009 Belair, Kannerklinic  00601  00601                % 03072 AVL---
+200403021 Belair, Wandmillen    00603  00603                % 03072 AVL---
+200403018 Belair, Rue d'Ostend  00604  00604                % 03072 AVL---
+200403017 Belair, Nicolas Simm  00605  00605                % 03072 AVL---
+200405045 Centre, Stäreplaz /   00608  00608                % 03072 AVL---
+200403020 Belair, Wampach       00610  00610                % 03072 AVL---
+200405025 Luxembourg/Centre, M  00612  00612                % 03072 AVL---
+200405054 Centre, F.D. Rooseve  00615  00615                % 03072 AVL---
+200405039 Luxembourg, Wallis    00619  00619                % 03072 AVL---
+200405046 Luxembourg, Gare Roc  00621  00621                % 03072 AVL---
+200412025 Gasperich, Francopho  00625  00625                % 03072 AVL---
+200412024 Gasperich, Hildegard  00628  00628                % 03072 AVL---
+200412023 Gasperich, Leonardo   00628  00628                % 03072 AVL---
+200412004 Gasperich, Émile Bia  00630  00630                % 03072 AVL---
+200412018 Gasperich, Schaarfen  00631  00631                % 03072 AVL---
+200412031 Gasperich, Stade de   00632                       % 03072 AVL---
+*Z 03073 AVL---       026 015                               % 03073 AVL---
+*L 22       200901024 200412031  00854  00926               % 03073 AVL---
+*A BE 200901024 200412031 000033  00854  00926              % 03073 AVL---
+*R 2 200412031 200901024 200412031  00854  00926            % 03073 AVL---
+*G GE  200901024 200412031  00854  00926                    % 03073 AVL---
+*A VE 200901024 200412031 000033  00854  00926              % 03073 AVL---
+200901024 Strassen, Primeurs           00854                % 03073 AVL---
+200403009 Belair, Kannerklinic  00856  00856                % 03073 AVL---
+200403021 Belair, Wandmillen    00858  00858                % 03073 AVL---
+200403018 Belair, Rue d'Ostend  00859  00859                % 03073 AVL---
+200403017 Belair, Nicolas Simm  00900  00900                % 03073 AVL---
+200405045 Centre, Stäreplaz /   00902  00902                % 03073 AVL---
+200403020 Belair, Wampach       00904  00904                % 03073 AVL---
+200405025 Luxembourg/Centre, M  00906  00906                % 03073 AVL---
+200405054 Centre, F.D. Rooseve  00909  00909                % 03073 AVL---
+200405039 Luxembourg, Wallis    00913  00913                % 03073 AVL---
+200405046 Luxembourg, Gare Roc  00915  00915                % 03073 AVL---
+200412025 Gasperich, Francopho  00920  00920                % 03073 AVL---
+200412024 Gasperich, Hildegard  00922  00922                % 03073 AVL---
+200412023 Gasperich, Leonardo   00923  00923                % 03073 AVL---
+200412004 Gasperich, Émile Bia  00924  00924                % 03073 AVL---
+200412018 Gasperich, Schaarfen  00926  00926                % 03073 AVL---
+200412031 Gasperich, Stade de   00926                       % 03073 AVL---
+*Z 03074 AVL---       018 010                               % 03074 AVL---
+*L 22       200901024 200412031  01540  01612               % 03074 AVL---
+*A BE 200901024 200412031 000033  01540  01612              % 03074 AVL---
+*R 2 200412031 200901024 200412031  01540  01612            % 03074 AVL---
+*G GE  200901024 200412031  01540  01612                    % 03074 AVL---
+*A VE 200901024 200412031 000033  01540  01612              % 03074 AVL---
+200901024 Strassen, Primeurs           01540                % 03074 AVL---
+200403009 Belair, Kannerklinic  01541  01541                % 03074 AVL---
+200403021 Belair, Wandmillen    01543  01543                % 03074 AVL---
+200403018 Belair, Rue d'Ostend  01544  01544                % 03074 AVL---
+200403017 Belair, Nicolas Simm  01545  01545                % 03074 AVL---
+200405045 Centre, Stäreplaz /   01548  01548                % 03074 AVL---
+200403020 Belair, Wampach       01550  01550                % 03074 AVL---
+200405025 Luxembourg/Centre, M  01552  01552                % 03074 AVL---
+200405054 Centre, F.D. Rooseve  01555  01555                % 03074 AVL---
+200405039 Luxembourg, Wallis    01559  01559                % 03074 AVL---
+200405046 Luxembourg, Gare Roc  01601  01601                % 03074 AVL---
+200412025 Gasperich, Francopho  01605  01605                % 03074 AVL---
+200412024 Gasperich, Hildegard  01608  01608                % 03074 AVL---
+200412023 Gasperich, Leonardo   01608  01608                % 03074 AVL---
+200412004 Gasperich, Émile Bia  01610  01610                % 03074 AVL---
+200412018 Gasperich, Schaarfen  01611  01611                % 03074 AVL---
+200412031 Gasperich, Stade de   01612                       % 03074 AVL---
+*Z 03075 AVL---       003 015                               % 03075 AVL---
+*L 22       200901024 200412031  01854  01926               % 03075 AVL---
+*A BE 200901024 200412031 000033  01854  01926              % 03075 AVL---
+*R 2 200412031 200901024 200412031  01854  01926            % 03075 AVL---
+*G GE  200901024 200412031  01854  01926                    % 03075 AVL---
+*A VE 200901024 200412031 000033  01854  01926              % 03075 AVL---
+200901024 Strassen, Primeurs           01854                % 03075 AVL---
+200403009 Belair, Kannerklinic  01856  01856                % 03075 AVL---
+200403021 Belair, Wandmillen    01858  01858                % 03075 AVL---
+200403018 Belair, Rue d'Ostend  01859  01859                % 03075 AVL---
+200403017 Belair, Nicolas Simm  01900  01900                % 03075 AVL---
+200405045 Centre, Stäreplaz /   01902  01902                % 03075 AVL---
+200403020 Belair, Wampach       01904  01904                % 03075 AVL---
+200405025 Luxembourg/Centre, M  01906  01906                % 03075 AVL---
+200405054 Centre, F.D. Rooseve  01909  01909                % 03075 AVL---
+200405039 Luxembourg, Wallis    01913  01913                % 03075 AVL---
+200405046 Luxembourg, Gare Roc  01915  01915                % 03075 AVL---
+200412025 Gasperich, Francopho  01920  01920                % 03075 AVL---
+200412024 Gasperich, Hildegard  01922  01922                % 03075 AVL---
+200412023 Gasperich, Leonardo   01923  01923                % 03075 AVL---
+200412004 Gasperich, Émile Bia  01924  01924                % 03075 AVL---
+200412018 Gasperich, Schaarfen  01926  01926                % 03075 AVL---
+200412031 Gasperich, Stade de   01926                       % 03075 AVL---

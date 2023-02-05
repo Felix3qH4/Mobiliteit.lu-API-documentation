@@ -1,0 +1,161 @@
+*F 03 2
+*Z 10868 RGTR--                                             % 10868 RGTR--
+*L 10U      180106006 140401006  01420  01508               % 10868 RGTR--
+*R 1 140401006 180106006 140401006  01420  01508            % 10868 RGTR--
+*G 063 180106006 140401006  01420  01508                    % 10868 RGTR--
+*A VE 180106006 140401006 000036  01420  01508              % 10868 RGTR--
+*I FD 180106006 140401006        0002599  01420  01508      % 10868 RGTR--
+180106006 Roodt-sur-Syre, Z.I.         01420                % 10868 RGTR--
+180106003 Roodt-sur-Syre, Gare  01422  01422                % 10868 RGTR--
+180105003 Olingen, Rue de Rode  01425  01425                % 10868 RGTR--
+180105002 Olingen, Beim lescht  01426  01426                % 10868 RGTR--
+180512002 Rodenbourg, An der S  01428  01428                % 10868 RGTR--
+180512001 Rodenbourg, Am Duerf  01428  01428                % 10868 RGTR--
+180511002 Junglinster, Op der   01434  01434                % 10868 RGTR--
+160501002 Heffingen, Centre     01446  01446                % 10868 RGTR--
+160601001 Larochette, Bleech    01449  01449                % 10868 RGTR--
+141001003 Medernach, Op der Ga  01452  01452                % 10868 RGTR--
+140401016 Diekirch, Beim Waass  01502  01502                % 10868 RGTR--
+140203002 Gilsdorf, Bei der Sc  01505  01505                % 10868 RGTR--
+140401005 Diekirch, An der Klé  01506  01506                % 10868 RGTR--
+140401006 Diekirch, Kluuster    01508                       % 10868 RGTR--
+*Z 10869 RGTR--                                             % 10869 RGTR--
+*L 10U      180106006 140401006  02230  02318               % 10869 RGTR--
+*R 1 140401006 180106006 140401006  02230  02318            % 10869 RGTR--
+*G 063 180106006 140401006  02230  02318                    % 10869 RGTR--
+*A VE 180106006 140401006 000036  02230  02318              % 10869 RGTR--
+*I FD 180106006 140401006        0001972  02230  02318      % 10869 RGTR--
+180106006 Roodt-sur-Syre, Z.I.         02230                % 10869 RGTR--
+180106003 Roodt-sur-Syre, Gare  02232  02232                % 10869 RGTR--
+180105003 Olingen, Rue de Rode  02235  02235                % 10869 RGTR--
+180105002 Olingen, Beim lescht  02236  02236                % 10869 RGTR--
+180512002 Rodenbourg, An der S  02238  02238                % 10869 RGTR--
+180512001 Rodenbourg, Am Duerf  02238  02238                % 10869 RGTR--
+180511002 Junglinster, Op der   02244  02244                % 10869 RGTR--
+160501002 Heffingen, Centre     02256  02256                % 10869 RGTR--
+160601001 Larochette, Bleech    02259  02259                % 10869 RGTR--
+141001003 Medernach, Op der Ga  02302  02302                % 10869 RGTR--
+140401016 Diekirch, Beim Waass  02312  02312                % 10869 RGTR--
+140203002 Gilsdorf, Bei der Sc  02315  02315                % 10869 RGTR--
+140401005 Diekirch, An der Klé  02316  02316                % 10869 RGTR--
+140401006 Diekirch, Kluuster    02318                       % 10869 RGTR--
+*Z 10870 RGTR--                                             % 10870 RGTR--
+*L 10U      140203002 180106006  00442  00530               % 10870 RGTR--
+*R 2 180106006 140203002 180106006  00442  00530            % 10870 RGTR--
+*G 063 140203002 180106006  00442  00530                    % 10870 RGTR--
+*A VE 140203002 180106006 000036  00442  00530              % 10870 RGTR--
+*I FD 140203002 180106006        0003052  00442  00530      % 10870 RGTR--
+140203002 Gilsdorf, Bei der Sc         00442                % 10870 RGTR--
+140401005 Diekirch, An der Klé  00443  00443                % 10870 RGTR--
+140401006 Diekirch, Kluuster    00445  00445                % 10870 RGTR--
+140401016 Diekirch, Beim Waass  00447  00447                % 10870 RGTR--
+141001003 Medernach, Op der Ga  00457  00457                % 10870 RGTR--
+160601001 Larochette, Bleech    00500  00500                % 10870 RGTR--
+160501002 Heffingen, Centre     00503  00503                % 10870 RGTR--
+180511002 Junglinster, Op der   00515  00515                % 10870 RGTR--
+180512001 Rodenbourg, Am Duerf  00520  00520                % 10870 RGTR--
+180512002 Rodenbourg, An der S  00521  00521                % 10870 RGTR--
+180105002 Olingen, Beim lescht  00523  00523                % 10870 RGTR--
+180105003 Olingen, Rue de Rode  00524  00524                % 10870 RGTR--
+180106007 Roodt-sur-Syre, Bowe  00527  00527                % 10870 RGTR--
+180106006 Roodt-sur-Syre, Z.I.  00530                       % 10870 RGTR--
+*Z 10871 RGTR--                                             % 10871 RGTR--
+*L 10U      140203002 180106006  01257  01346               % 10871 RGTR--
+*R 2 180106006 140203002 180106006  01257  01346            % 10871 RGTR--
+*G 063 140203002 180106006  01257  01346                    % 10871 RGTR--
+*A VE 140203002 180106006 000036  01257  01346              % 10871 RGTR--
+*I FD 140203002 180106006        0001940  01257  01346      % 10871 RGTR--
+140203002 Gilsdorf, Bei der Sc         01257                % 10871 RGTR--
+140401005 Diekirch, An der Klé  01258  01258                % 10871 RGTR--
+140401006 Diekirch, Kluuster    01300  01300                % 10871 RGTR--
+140401016 Diekirch, Beim Waass  01302  01302                % 10871 RGTR--
+141001003 Medernach, Op der Ga  01312  01312                % 10871 RGTR--
+160601001 Larochette, Bleech    01315  01315                % 10871 RGTR--
+160501002 Heffingen, Centre     01318  01318                % 10871 RGTR--
+180511002 Junglinster, Op der   01330  01330                % 10871 RGTR--
+180512001 Rodenbourg, Am Duerf  01336  01336                % 10871 RGTR--
+180512002 Rodenbourg, An der S  01337  01337                % 10871 RGTR--
+180105002 Olingen, Beim lescht  01339  01339                % 10871 RGTR--
+180105003 Olingen, Rue de Rode  01339  01339                % 10871 RGTR--
+180106007 Roodt-sur-Syre, Bowe  01342  01342                % 10871 RGTR--
+180106006 Roodt-sur-Syre, Z.I.  01346                       % 10871 RGTR--
+*Z 10872 RGTR--                                             % 10872 RGTR--
+*L 10U      180106006 140401006  01420  01512               % 10872 RGTR--
+*R 1 140401006 180106006 140401006  01420  01512            % 10872 RGTR--
+*G 063 180106006 140401006  01420  01512                    % 10872 RGTR--
+*A VE 180106006 140401006 000038  01420  01512              % 10872 RGTR--
+*I FD 180106006 140401006        0002599  01420  01512      % 10872 RGTR--
+180106006 Roodt-sur-Syre, Z.I.         01420                % 10872 RGTR--
+180106003 Roodt-sur-Syre, Gare  01422  01422                % 10872 RGTR--
+180105003 Olingen, Rue de Rode  01425  01425                % 10872 RGTR--
+180105002 Olingen, Beim lescht  01426  01426                % 10872 RGTR--
+180512002 Rodenbourg, An der S  01428  01428                % 10872 RGTR--
+180512001 Rodenbourg, Am Duerf  01428  01428                % 10872 RGTR--
+180511002 Junglinster, Op der   01438  01438                % 10872 RGTR--
+160501002 Heffingen, Centre     01450  01450                % 10872 RGTR--
+160601001 Larochette, Bleech    01453  01453                % 10872 RGTR--
+141001003 Medernach, Op der Ga  01456  01456                % 10872 RGTR--
+140401016 Diekirch, Beim Waass  01506  01506                % 10872 RGTR--
+140203002 Gilsdorf, Bei der Sc  01509  01509                % 10872 RGTR--
+140401005 Diekirch, An der Klé  01510  01510                % 10872 RGTR--
+140401006 Diekirch, Kluuster    01512                       % 10872 RGTR--
+*Z 10873 RGTR--                                             % 10873 RGTR--
+*L 10U      180106006 140401006  02230  02322               % 10873 RGTR--
+*R 1 140401006 180106006 140401006  02230  02322            % 10873 RGTR--
+*G 063 180106006 140401006  02230  02322                    % 10873 RGTR--
+*A VE 180106006 140401006 000038  02230  02322              % 10873 RGTR--
+*I FD 180106006 140401006        0001972  02230  02322      % 10873 RGTR--
+180106006 Roodt-sur-Syre, Z.I.         02230                % 10873 RGTR--
+180106003 Roodt-sur-Syre, Gare  02232  02232                % 10873 RGTR--
+180105003 Olingen, Rue de Rode  02235  02235                % 10873 RGTR--
+180105002 Olingen, Beim lescht  02236  02236                % 10873 RGTR--
+180512002 Rodenbourg, An der S  02238  02238                % 10873 RGTR--
+180512001 Rodenbourg, Am Duerf  02238  02238                % 10873 RGTR--
+180511002 Junglinster, Op der   02248  02248                % 10873 RGTR--
+160501002 Heffingen, Centre     02300  02300                % 10873 RGTR--
+160601001 Larochette, Bleech    02303  02303                % 10873 RGTR--
+141001003 Medernach, Op der Ga  02306  02306                % 10873 RGTR--
+140401016 Diekirch, Beim Waass  02316  02316                % 10873 RGTR--
+140203002 Gilsdorf, Bei der Sc  02319  02319                % 10873 RGTR--
+140401005 Diekirch, An der Klé  02320  02320                % 10873 RGTR--
+140401006 Diekirch, Kluuster    02322                       % 10873 RGTR--
+*Z 10874 RGTR--                                             % 10874 RGTR--
+*L 10U      140203002 180106006  00442  00530               % 10874 RGTR--
+*R 2 180106006 140203002 180106006  00442  00530            % 10874 RGTR--
+*G 063 140203002 180106006  00442  00530                    % 10874 RGTR--
+*A VE 140203002 180106006 000038  00442  00530              % 10874 RGTR--
+*I FD 140203002 180106006        0003052  00442  00530      % 10874 RGTR--
+140203002 Gilsdorf, Bei der Sc         00442                % 10874 RGTR--
+140401005 Diekirch, An der Klé  00443  00443                % 10874 RGTR--
+140401006 Diekirch, Kluuster    00445  00445                % 10874 RGTR--
+140401016 Diekirch, Beim Waass  00447  00447                % 10874 RGTR--
+141001003 Medernach, Op der Ga  00457  00457                % 10874 RGTR--
+160601001 Larochette, Bleech    00500  00500                % 10874 RGTR--
+160501002 Heffingen, Centre     00503  00503                % 10874 RGTR--
+180511002 Junglinster, Op der   00515  00515                % 10874 RGTR--
+180512001 Rodenbourg, Am Duerf  00520  00520                % 10874 RGTR--
+180512002 Rodenbourg, An der S  00521  00521                % 10874 RGTR--
+180105002 Olingen, Beim lescht  00523  00523                % 10874 RGTR--
+180105003 Olingen, Rue de Rode  00524  00524                % 10874 RGTR--
+180106007 Roodt-sur-Syre, Bowe  00527  00527                % 10874 RGTR--
+180106006 Roodt-sur-Syre, Z.I.  00530                       % 10874 RGTR--
+*Z 10875 RGTR--                                             % 10875 RGTR--
+*L 10U      140203002 180106006  01257  01346               % 10875 RGTR--
+*R 2 180106006 140203002 180106006  01257  01346            % 10875 RGTR--
+*G 063 140203002 180106006  01257  01346                    % 10875 RGTR--
+*A VE 140203002 180106006 000038  01257  01346              % 10875 RGTR--
+*I FD 140203002 180106006        0001940  01257  01346      % 10875 RGTR--
+140203002 Gilsdorf, Bei der Sc         01257                % 10875 RGTR--
+140401005 Diekirch, An der Klé  01258  01258                % 10875 RGTR--
+140401006 Diekirch, Kluuster    01300  01300                % 10875 RGTR--
+140401016 Diekirch, Beim Waass  01302  01302                % 10875 RGTR--
+141001003 Medernach, Op der Ga  01312  01312                % 10875 RGTR--
+160601001 Larochette, Bleech    01315  01315                % 10875 RGTR--
+160501002 Heffingen, Centre     01318  01318                % 10875 RGTR--
+180511002 Junglinster, Op der   01330  01330                % 10875 RGTR--
+180512001 Rodenbourg, Am Duerf  01336  01336                % 10875 RGTR--
+180512002 Rodenbourg, An der S  01337  01337                % 10875 RGTR--
+180105002 Olingen, Beim lescht  01339  01339                % 10875 RGTR--
+180105003 Olingen, Rue de Rode  01339  01339                % 10875 RGTR--
+180106007 Roodt-sur-Syre, Bowe  01342  01342                % 10875 RGTR--
+180106006 Roodt-sur-Syre, Z.I.  01346                       % 10875 RGTR--

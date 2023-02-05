@@ -1,0 +1,735 @@
+*F 09 2
+BE 0 350 50 accessible pour les personnes à mobilité réduite#
+ab 0 600 50 Fahrtart A#
+ac 0 600 50 Fahrtart B#
+ae 0 600 50 Fahrtart C#
+af 0 600 50 Fahrtart CITY#
+aa 0 600 50 Fahrtart F#
+ag 0 600 50 Fahrtart LNB#
+FA 0 600 50 Fahrtart N#
+cb 0 600 50 Fahrtart NS#
+ck 0 600 50 Fahrtart S#
+df 0 350 50 Soustraitant ASTOURS SCHEMEL (Colmar-Berg)#
+bd 0 350 50 Soustraitant Autobus STEPHANY (Troivierges)#
+az 0 350 50 Soustraitant Autocars	MEYERS (Flébour)#
+dg 0 350 50 Soustraitant Autocars	SCHNEIDER (Kehmen)#
+cc 0 350 50 Soustraitant Autocars	SIEDLER-THILL (Tuntange)#
+bk 0 350 50 Soustraitant Autocars Emile FRISCH (Bettembourg)#
+ch 0 350 50 Soustraitant Demy Sch. - Rapide des Ardennes (Perlé)#
+cd 0 350 50 Soustraitant Demy Sch. - Voy.Schmit (Schieren)#
+cz 0 350 50 Soustraitant Demy Sch.- Voy.KOOB (Erpeldange)#
+cf 0 350 50 Soustraitant Demy Sch.- Voy.KOOB (Perlé)#
+ci 0 350 50 Soustraitant Demy Sch.- Voy.Schmit (Keispelt)#
+as 0 350 50 Soustraitant Demy Schandler (Eischen)#
+bm 0 350 50 Soustraitant Demy Schandler (Keispelt)#
+bl 0 350 50 Soustraitant Demy Schandler (Steinfort (B))#
+cp 0 350 50 Soustraitant FELLER Losch (Cruchten)#
+cs 0 350 50 Soustraitant Groupe Vandivinit - Altmann (Weiler-la-Tour)#
+am 0 350 50 Soustraitant Groupe Vandivinit - Vandivinit (Ellange)#
+cu 0 350 50 Soustraitant Groupe Weber - Voyages Unsen (Eschette)#
+bn 0 350 50 Soustraitant Régime Général des Transports Routiers#
+bw 0 350 50 Soustraitant Sales - Bartholmé (Hosingen)#
+ah 0 350 50 Soustraitant Sales - Frisch Rambrouch (Koetschette)#
+br 0 350 50 Soustraitant Sales - Huberty (Aubange)#
+ay 0 350 50 Soustraitant Sales - Lentz (Bascharage)#
+an 0 350 50 Soustraitant Sales - Lentz (Esch-sur-Alzette)#
+aw 0 350 50 Soustraitant Sales - Lentz (Junglinster)#
+bq 0 350 50 Soustraitant Sales - Lentz (Kirchberg)#
+au 0 350 50 Soustraitant Sales - Lentz (Mersch)#
+aj 0 350 50 Soustraitant Sales - Lentz (Troisvierges)#
+FR 0 350 50 Soustraitant Sales - Ross Troine (Allerborn)#
+di 0 350 50 Soustraitant Société nationale des chemins de fer luxembourgeois#
+bi 0 350 50 Soustraitant Voyages	MÜLLER-NIES (Perl)#
+dh 0 350 50 Soustraitant Voyages	SCHILTZ (Büderscheid)#
+dm 0 350 50 Soustraitant Voyages Emile Weber#
+bu 0 350 50 Soustraitant Voyages Erny WEWER (Eschweiler)#
+av 0 350 50 Soustraitant Voyages Josy Clement SA (Junglinster)#
+cg 0 350 50 Soustraitant Voyages Josy Clement SA (Mersch)#
+bj 0 350 50 Soustraitant Weber - Autocars Zenners (Remerschen)#
+ao 0 350 50 Soustraitant Weber - Pletschette (Bettembourg)#
+ct 0 350 50 Soustraitant Weber - Simon Tours (Pétange)#
+ai 0 350 50 Soustraitant Weber - Voyages Ecker (Bissen)#
+cv 0 350 50 Soustraitant Weber - Voyages Ecker (Steinsel)#
+bh 0 350 50 Soustraitant Weber - Voyages Emile Weber (Bitburg)#
+al 0 350 50 Soustraitant Weber - Voyages Emile Weber (Canach)#
+ak 0 350 50 Soustraitant Weber - Voyages Emile Weber (Perl)#
+ba 0 350 50 Soustraitant Weber - Voyages Emile Weber (Trier)#
+ax 0 350 50 Soustraitant Weber Mobility N. - Bollig (Echternach)#
+be 0 350 50 Soustraitant Weber Mobility N. - Simon D (Ingeldorf/Diekirch)#
+bv 0 350 50 Soustraitant Weber Mobility N. - Wagener (Mertzig)#
+BH 0 350 50 Bedarfshalt#
+RP 0 350 50 Reservierungspflicht#
+HS 0 900 50 Rollstuhlgerecht#
+dj 0 100 50 à Altrier correspondance avec la ligne 108 de Grundhof#
+KU 0 100 50 à Altrier correspondance avec la ligne 108 vers Grundhof#
+AJ 0 100 50 à Roodt/Syre correspondance avec le train de Luxembourg#
+CH 0 100 50 à Mersch correspondance avec le train de voyageurs vers Luxembourg#
+CF 0 100 50 à Mersch correspondance avec le train de voyageurs de Luxembourg#
+CN 0 100 50 à Kleinbettingen correspondance avec le train de voyageurs vers Luxembourg#
+CM 0 100 50 à Kleinbettingen correspondance avec le train de voyageurs de Luxembourg#
+GA 0 100 50 à Kautenbach correspondance avec le train de voyageurs vers Luxembourg#
+GB 0 100 50 à Kautenbach correspondance avec le train de voyageurs de Luxembourg#
+GC 0 100 50 à Kautenbach correspondance avec le train de voyageurs de Ettelbruck#
+GN 0 100 50 donne à Clervaux-Gare la correspondance vers Luxembourg (rail 10)#
+GQ 0 100 50 relève à Clervaux/Gare la correspondance de Luxembourg (rail 10)#
+GT 0 100 50 donne à Troisvierges/Gare la correspondance vers Luxembourg (rail 10)#
+GS 0 100 50 relève à Troisvierges/Gare la correspondance de Luxembourg (rail 10)#
+DM 0 100 10 à Manternach/Gare correspondance vers Luxembourg (rail 30)#
+KO 0 100 10 à Wecker-Gare correspondance vers Luxembourg (rail 30)#
+LJ 0 100 10 à Bettembourg-Gare correspondance avec les trains de Luxembourg et de Dudelange#
+LL 0 100 10 à Bettembourg-Gare correspondance avec les trains vers Luxembourg et Dudelange#
+LN 0 100 10 à Manternach/Gare correspondance de Luxembourg (rail 30)#
+EH 0 350 50 Einstiegshilfe#
+KL 0 350 50 Klimaanlage#
+LS 0 350 50 Laptop-Steckplatz#
+bz 0 350 50 à Eisenborn correspondance avec la ligne 100 vers Luxembourg#
+MM 0 350 50 Horaires susceptibles de modifications lors des congés aux usines Goodyear.#
+NR 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne 665 vers Dorscheid#
+MY 0 350 50 à Mersch/Gare liaison possible par rail vers Luxembourg.#
+OV 0 350 50 relève à Ettelbruck la correspondance des voyageurs de train en provenance de Luxembourg#
+by 0 350 50 à Eisenborn correspondance avec la ligne 100 de Luxembourg#
+MX 0 350 50 Les courses de la ligne 437 relèvent à Mersch/Gare la correspondance des trains de voyageurs en provenance de Luxembourg.#
+bb 0 350 50 donne à Ettelbruck la correspondance aux voyageurs de train en destination vers Luxembourg#
+ND 0 350 50 donne à Sandweiler/Gare la correspondance vers Luxembourg (rail 30)#
+NE 0 350 50 relève à Sandweiler/Gare la correspondance de Luxembourg (rail 30)#
+MJ 0 350 50 Horaires susceptibles de modifications lors des congés à l'entreprise CEBI Luxembourg.#
+NF 0 350 50 à Bettembourg-Gare correspondance avec les trains de voyageurs de la ligne 60#
+sb 0 350 50 Sur la route: funiculaire (gratuit) Durée: 1min.#
+QP 0 350 50 donne à Sandweiler/Gare la correspondance vers Wasserbillig (rail 30)#
+QR 0 350 50 relève à Sandweiler/Gare la correspondance de Wasserbillig (rail 30)#
+RY 0 350 50 à Kautenbach correspondance avec le train de voyageurs vers Gouvy#
+ad 0 350 50 Schülerfahrt#
+cj 0 350 50 Linienzusatztext course scolaire / Schulbus#
+VH 0 350 50 à Wasserbillig, Gare, liaison possible par rail 30 entre Luxembourg - Trèves - Luxembourg#
+VI 0 350 50 à Wecker, Gare, liaison possible par rail 30 entre Luxembourg - Trèves - Luxembourg#
+VJ 0 350 50 à Bettembourg-Gare correspondance avec les trains de voyageurs vers la ligne 60#
+dk 0 350 50 à Junglinster, Op der Gare correspodance avec la ligne 105 en provenance d'Ettelbruck/Diekirch#
+bf 0 350 50 à Ettelbruck-Gare, liaisions possibles par rail 10 en provenance de Luxembourg#
+CT 0 350 50 à Ettelbruck-Gare, liaisions possibles par rail 10 en direction de Luxembourg#
+WI 0 350 50 à Mersch, Gare correspondance avec train#
+IU 0 350 50 à Wilwerwiltz correspondance avec le trains des voyageurs vers Luxembourg#
+IW 0 350 50 à Wilwerwiltz correspondance avec le trains des voyageurs de Luxembourg#
+71 0 001 10 bicycle transport / service pour bicyclettes / Fahrradmitnahme#
+bc 0 350 50 correspondance à Bleesbréck avec la ligne K04 vers Echternach#
+TJ 0 350 50 à Rambrouch-Gare correspondance avec la ligne K15 vers Diekirch#
+GF 0 350 50 à Rambrouch-Gare correspondance avec la ligne K15 de Diekirch#
+PJ 0 350 50 à Rambrouch-Gare correspondance avec la ligne 902 vers Luxembourg#
+IM 0 350 50 à Ospern-Wäschbur correspondance avec la ligne K11 de Diekirch#
+PT 0 350 50 à Rambrouch-Gare correspondance avec la ligne 902 de Luxembourg#
+HA 0 350 50 à Colmar-Usines correspondance avec la ligne 90U vers Martelange#
+GG 0 350 50 à Esch-Sûre, An de Gäert correspondance avec la ligne 133 de Eschdorf#
+GE 0 350 50 à Esch-Sûre, An de Gäert correspondance avec la ligne 133 vers Eschdorf#
+PU 0 350 50 à Esch-Sûre, An den Gäert correspondance avec la ligne 131 vers Arsdorf#
+PK 0 350 50 à Esch-Sûre, An den Gäert correspondance avec la ligne 131 de Arsdorf#
+EX 0 350 50 à Ettelbruck-Gare correspondance avec ligne 16U de Colmar-Usines#
+EY 0 350 50 à Ettelbruck-Gare correspondance avec ligne 16U vers Colmar-Usines#
+HB 0 350 50 à Colmar-Usines correspondance avec la ligne 15U vers Bissen#
+HC 0 350 50 à Colmar-Usines correspondance avec la ligne 15U de Bissen#
+UU 0 350 50 à Colmar-Berg, Usines correspondance avec la ligne 15U en provenance de Troine#
+UM 0 350 50 à Colmar-Usines correspondance avec les lignes 94U, 95U, 13U, 14U, 21U#
+LU 0 350 50 à Wincrange Haapstrooss avec la ligne 176 vers Troine#
+JJ 0 350 50 relève à Clervaux/Gare la correspondance de la ligne K20 de Diekirch#
+LV 0 350 50 à Wincrange Haapstrooss avec la ligne 176 de Troine#
+JK 0 350 50 à Clervaux/Gare correspondance avec la ligne K20 vers Diekirch#
+FO 0 350 50 à Heinerscheid correspondance avec la ligne 170 de Ettelbruck#
+MO 0 350 50 à Ettelbruck-Gare correspondance avec la ligne 134#
+RR 0 350 50 à Colmar-Usines correspondance avec la igne 91U d'Arlon (B)#
+RQ 0 350 50 à Colmar-Usines correspondance avec la igne 91U vers Arlon (B)#
+FF 0 350 50 à Heinerscheid correspondance avec la ligne 163 vers Lieler#
+OA 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne P19 vers Rodershausen#
+LE 0 350 50 à Heinerscheid-Geméin correspondance avec la ligne 163 de Lieler#
+FJ 0 350 50 à Weiswampach correspondance avec la ligne P13 de Leithum#
+FK 0 350 50 à Heinerscheid correspondance avec les lignes 163 de Lieler#
+FL 0 350 50 à Marnach Geschäftszenter correspondance avec la ligne P19 de Roder#
+GL 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne P19 de Neidhausen#
+MT 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne K31 de Bockholtz#
+CI 0 350 50 à Wincrange-Haaptstrooss correspondance avec la ligne 161 vers Clervaux#
+CK 0 350 50 à Wincrange-Haaptstrooss correspondance avec la ligne 161 de Clervaux#
+bs 0 350 50 à Vianden-Gare correspondance avec la ligne de K28 de Vianden-Scheierhaff#
+IT 0 350 50 à Heffingen-Centre correpondance avec la ligne E01 vers Reuland#
+DK 0 350 50 à Junglinster, Op der Gare correspondance avec la ligne 221 en provenance de Luxembourg#
+DJ 0 350 50 à Junglinster, Op der Gare correspondance avec la ligne 221 en direction vers Luxembourg#
+ca 0 350 50 à Echternach/Gare correspondance avec la ligne K04 vers Ettelbruck#
+NT 0 350 50 à Wecker-Gare, correspondance avec la ligne B12 de Breinert et B14 de Junglinster#
+ON 0 350 50 à Grevenmacher-Gare correspondance avec la ligne 332 vers Nittel#
+OO 0 350 50 à Grevenmacher-Gare correspondance avec la ligne 331 vers Konz#
+KT 0 350 50 à Grevenmacher/Gare correspondance avec la ligne 332 de Nittel#
+bo 0 350 50 à Grevenmacher/Gare correspondance avec la ligne 331 de Konz#
+JV 0 350 50 à Grevenmacher/Gare correspondance avec la ligne 271 d'Echternach#
+bp 0 350 50 à Roodt/Syre-Barriär correspodance avec la ligne H05 vers Mersch#
+DS 0 350 50 à Grevenmacher/Gare correspondance avec la ligne B08 de Schengen#
+LB 0 350 50 à Roodt/Syre-Barriär correspondance avec la ligne B01 vers Echternach#
+KV 0 350 50 à Grevenmacher/Gare correspondance avec la ligne 311 vers Luxembourg#
+KS 0 350 50 à Grevenmacher/Gare correspondance avec la ligne 311 de Luxembourg#
+MF 0 350 50 à Remich-Gare correspondance avec la ligne 550 vers Bettembourg#
+PF 0 350 50 à Remich-Gare correspondance avec la ligne L04 vers Perl (D)#
+ME 0 350 50 à Remich-Gare correspondance avec la ligne 550 de Bettembourg#
+JO 0 350 50 à Remich-Gare correspondance avec la ligne L04 de Perl (D)#
+UR 0 350 50 à Remich-Gare correspondance avec la ligne L05 de Perl (D)#
+AO 0 350 50 à Ehnen-Puddel correspondance avec la ligne 421 de Luxembourg#
+AQ 0 350 50 à Ehnen-Puddel correspondance avec la ligne E07 de Limpertsberg-LTC#
+U  0 350 50 à Ehnen-Puddel correspodance avec la ligne D06 du Geesseknäppchen#
+AR 0 350 50 à Ehnen-Ieselsbréck correspondance avec la ligne 421 vers Luxembourg#
+OY 0 350 50 à Remich-Gare routière corresp. avec la ligne 432 de Schengen#
+OZ 0 350 50 à Remich-Gare routière corresp. avec la ligne 432 vers Schengen#
+OD 0 350 50 à Stadtbredimus-Vinsmoselle correspondance avec la ligne B09 vers Grevenmacher#
+AS 0 350 50 à Stadtbredimus-Vinsmoselle correspondance avec la ligne B08 de Grevenmacher#
+AW 0 350 50 à Mondorf-Christophorus corresp. avec la ligne 432 vers Schengen#
+VO 0 350 50 à Mondorf-Christophorus correspondance avec la ligne 432 vers Schengen#
+VP 0 350 50 à Mondorf-Christophorus correspondance avec la ligne 432 de Schengen#
+AM 0 350 50 à Ehnen correspondance avec la ligne 362 vers Wormeldange/Haut#
+AN 0 350 50 à Ehnen correspondance avec la ligne 362 de Wormeldange/Haut#
+PO 0 350 50 à Remich-Gare corresp. avec la ligne 406 vers Kirchberg#
+VK 0 350 50 à Mondorf-Christophorus correspondance avec la ligne 412 de Luxembourg#
+VL 0 350 50 à Mondorf-Christophorus correspondance avec la ligne 413 de Luxembourg#
+bt 0 350 50 à Mondorf-Christophorus correspondance avec la ligne 413 vers Luxembourg#
+PP 0 350 50 à Remich-Gare corresp. avec la ligne 406 de Kirchberg#
+JU 0 350 50 à Remich-Gare correspondance avec la ligne 341 vers Grevenmacher#
+JN 0 350 50 à Remich-Gare correspondance avec la ligne 341 de Grevenmacher#
+RO 0 350 50 à Rodange-Gare correspondance avec la ligne 732 de (F) Saint Charles#
+UT 0 350 50 à Bettembourg-Rousegärtchen correspondance vers la ligne N01 en direction du Lycée Bel-Val#
+SK 0 350 50 à Bettembourg-Rousegärtchen correspondance avec la ligne N02 vers Dudelange LNB#
+SG 0 350 50 à Bettembourg-Rousegärtchen correspondance avec la ligne D15 vers Abweiler#
+RN 0 350 50 à Rodange-Gare correspondance avec la ligne 609 vers Luxembourg#
+CL 0 350 50 à Hivange-Areler Strooss correspondance avec les lignes D24 et E18 de Luxembourg#
+MG 0 350 50 à Hobscheid correspondance avec la ligne M10 vers Hagen#
+IH 0 350 50 à Hobscheid-Schoul correspondance avec la ligne G02 vers Mamer, Lycée#
+AU 0 350 50 à Rédange, Gare correspondance avec la ligne 961 vers Pratz#
+AV 0 350 50 à Rédange, Gare correspondance avec la ligne 961 de Pratz#
+TM 0 350 50 à Rambrouch-Gare correspondance avec la ligne 121 en direction de Wiltz#
+TL 0 350 50 à Rambrouch-Gare correspondance avec la ligne 121 en provenance de Wiltz#
+GW 0 350 50 à Colmar-Usines correspondance avec la ligne 12U de Colmar-Usine Hyosung#
+ce 0 350 50 à Colmar-Usines correspondance avec la igne 16U vers Roost-Mold Plant#
+RS 0 350 50 à Colmar-Usines correspondance avec la igne 16U de Roost-Mold Plant#
+WM 0 350 50 à Ell-Musikssaul correspondance avec la ligne M11 vers Martelange#
+FW 0 350 50 à Redange, Gare correspondance avec la ligne 901 vers Luxembourg#
+EL 0 350 50 à Redange, Gare correspondance avec la ligne 901 de Luxembourg#
+MU 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne A07 de Bockholtz#
+VB 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne A07 vers Bockholtz#
+GH 0 350 50 à Heinerscheid correspondance avec la ligne 170 d'Ettelbruck#
+TB 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne A01 vers Clervaux/Lycée#
+cl 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne K20 de Diekirch#
+TC 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne A01 de Clervaux/Lycée#
+GJ 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne 170 de Ettelbruck#
+N  0 350 50 à Hosingen-Eesberwee correspondance avec la ligne K21 de Diekirch#
+AI 0 350 50 à Roodt/Syre correspondance avec la ligne 326 de Grevenmacher#
+cm 0 350 50 à Roodt/Syre-Barriär correspondance avec la ligne B11 de Gostingen#
+AG 0 350 50 à Junglinster-Gare correspondance avec la ligne 261 vers Echternach#
+JG 0 350 50 à Ehnen-Ieselsbréck correspondance avec la ligne B08 vers Grevenmacher#
+TY 0 350 50 à Ehnen-Ieselsbréck correspondance avec la ligne D06 vers Geesseknäppchen#
+IR 0 350 50 relève à Heffingen-Centre la correspondance de la ligne E01 de Reuland#
+co 0 350 50 à Christnach-Schoulstrooss correspondance avec la ligne B06 de Savelborn#
+cq 0 350 50 à Christnach-Schoulstrooss correspondance avec la ligne B05 vers Echternach#
+RH 0 350 50 à Christnach-Schoulstrooss correspondance avec la ligne B07 d'Echternach#
+NB 0 350 50 les courses de la ligne B07 donnent à Mersch/Gare la correspondance aux trains de voyageurs à destination de Luxembourg et d'Ettelbruck.#
+QD 0 350 50 à Larochette Pompjeesbau correspondance avec la ligne K01 de Diekirch#
+TD 0 350 50 donne à Christnach-Schoulstrooss correspondance avec la ligne B06 vers Savelborn#
+DA 0 350 50 à Grevenmacher/Gare routière correspondance avec la ligne B18 vers Echternach#
+cn 0 350 50 à Ehnen-Puddel correspondance avec la ligne B03 vers Wormeldange-Haut#
+DC 0 350 50 à Stadtbredimus-Vinsmoselle correspondance avec la ligne 411 vers Luxembourg#
+DD 0 350 50 à Remich-Gare correspondance avec la ligne B04 vers Ersange#
+OR 0 350 50 à Stadtbredimus-Vinsmoselle correspondance avec la ligne 411 de Luxembourg#
+DL 0 350 50 à Wecker/Gare correspondance avec la ligne 274 vers Echternach#
+OX 0 350 50 à Brouch (Wecker) correspondance avec la ligne B26 de Berdorf#
+UE 0 350 50 à Manternach correspondance avec la ligne B17 vers Echternach#
+QH 0 350 50 à Manternach-Gare correspondance avec la ligne B17 d'Echternach#
+KK 0 350 50 à Manternach/Gare correspondance avec les lignes B14 et B21 de Grevenmacher#
+MC 0 350 50 à Bech, Beiwerwiss correspondance avec la ligne E02 vers Luxembourg#
+UK 0 350 50 à Grevenmacher, Gare correspondance avec la ligne B08 de Mondorf#
+SO 0 350 50 à Grevenmacher-Gare correspondance avec la ligne B10 d'Ersange#
+IE 0 350 50 à Echternach/Gare correspondance avec la ligne K04 de Ettelbruck#
+JT 0 350 50 à Echternach/Gare correspondance avec la ligne 190 vers Ettelbruck#
+SQ 0 350 50 à Manternach-Gare correspondance avec la ligne B17 de Bech#
+SP 0 350 50 à Manternach-Gare correspondance avec la ligne B17 vers Bech#
+DF 0 350 50 à Brouch correspondance avec la ligne B12 vers Grevenmacher#
+SX 0 350 50 à Dickweiler-Duerfplaz correspondance avec la ligne C16 de Girst#
+SY 0 350 50 à Dickweiler-Duerfplaz correspondance avec la ligne C16 vers Girst#
+SZ 0 350 50 à Dickweiler-Duerfplaz correspondance avec la ligne C14 du Lënster-Lycée#
+cr 0 350 50 à Dickweiler-Duerfplaz correspondance avec la ligne C14 vers Lënster-Lycée#
+TZ 0 350 50 à Ehnen-Ieselsbréck/Puddel correspondance avec la ligne B03 de Wormeldange#
+AE 0 350 50 à Mondorf-Christophorus correspondance avec la ligne E11 en provenance de Limpertsberg-LTC#
+VW 0 350 50 à Mondorf-Christophorus correspondance avec la ligne E11 vers Luxembourg#
+WA 0 350 50 à Hesperange, Uerbengsschlass correspondance avec la ligne E11 en provenance de Limpertsberg#
+SE 0 350 50 à Bettembourg-Rousegärtchen correspondance avec la ligne N02 de Dudelange#
+UA 0 350 50 à Bettembourg, Rousegäetchen correspondance avec la ligne 641 venant d'Esch/Alzette#
+BZ 0 350 50 à Hivange-Arelerstrooss correspondance avec la ligne 831 vers Steinfort#
+QE 0 350 50 à Ell-Beim Musikssaul correspondance avec la ligne M11 en provenance de Martelange#
+KE 0 350 50 à Bour correspondance avec la ligne E24 vers Hollenfels#
+IS 0 350 50 à Heffingen-Centre correpondance avec la ligne B05 vers Echternach#
+DR 0 350 50 à Medernach/Lann correspondance avec la ligne K02 vers Müllerthal#
+EE 0 350 50 à Heffingen-Centre correspondance avec la ligne B05 d'Echternach et 234 de Mersch#
+IG 0 350 50 à Echternach-Gare correspondance avec la ligne 271 de Grevenmacher#
+MD 0 350 50 à Bech, Beiwerwiss correspondance avec la ligne B17 d'Echternach#
+DP 0 350 50 à Echternach/Gare correspondance avec la ligne K04 d'Ettelbruck#
+cw 0 350 50 à Hesperange, Uerbengsschlass correspondance avec la ligne D13 vers Hassel#
+KR 0 350 50 à Bour correspondance avec la ligne D29 de Luxembourg-Geesseknäppchen#
+IK 0 350 50 à Hobscheid-Schoul correspondance avec la ligne 832 en provenance de Redange/Attert#
+CP 0 350 50 à Tuntange-Duerf correspondance avec la ligne K09 de Diekirch#
+CQ 0 350 50 à Tuntange-Kiirch correspondance avec la ligne K09 vers Diekirch#
+cx 0 350 50 les courses de la ligne H02 relèvent à Mersch/Gare la correspondance des trains de voyageurs en provenance de Luxembourg et d'Ettelbruck#
+LX 0 350 50 les courses de la ligne H02 donnent à Mersch/Gare la correspondance aux trains de voyageurs à destination de Luxembourg et d'Ettelbruck#
+KG 0 350 50 à Roodt/Syre-Barriär correspondance avec la ligne 311 de Machtum#
+M  0 350 50 à Medernach/Lann correspondance avec la ligne K02 de Müllerthal#
+Q  0 350 50 à Larochette Pompjeesbau correspondance avec la ligne B07 de Mersch#
+QC 0 350 50 à Larochette Pompjeesbau correspondance avec la ligne B07 vers Mersch#
+GD 0 350 50 à Medernach/Lann correspondance avec la ligne K01 de Diekirch#
+FQ 0 350 50 à Medernach/Lann correspondance avec la ligne E01 de Ettelbruck/LT#
+BT 0 350 50 à Medernach/Lann correspondance avec la ligne K01 de Ettelbruck-LT#
+EW 0 350 50 à Medernach/Lann correspondance avec la ligne K01 vers Ettelbruck/LT#
+UW 0 350 50 à Ettelbruck, Lycée Technique Agricole correspondance avec la ligne K33 de Warken L.T.P.S (Annexe)#
+ED 0 350 50 à Tuntange-Duerf correspondance avec la ligne G04 vers Goetzingen#
+EG 0 350 50 à Tuntange-Duerf correspondance avec la ligne G04 de Goetzingen#
+cy 0 350 50 à Ospern/Wäschbur correspondance avec la ligne 121 vers Redange#
+RV 0 350 50 à Rambrouch-Gare correspondance avec les lignes 120 vers Bavigne#
+PY 0 350 50 à Rambrouch-Gare correspondance avec 120 de Bavigne#
+da 0 350 50 à Rambrouch, Gare correspondance avec la ligne 121 de Wiltz#
+PN 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne 17U vers Untereisenbach#
+LF 0 350 50 à Heinerscheid-Geméin correspondance avec la ligne K37 vers Grindhausen#
+KQ 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne 17U de Untereisenbach#
+HN 0 350 50 à Brandenbourg-Kapell correspondance avec la ligne K26#
+UX 0 350 50 à Fouhren, Halt correspondance avec la ligne 181 vers Ettelbruck.#
+HR 0 350 50 correspondance à Fouhren avec la ligne K27 vers Ettelbruck#
+db 0 350 50 correspondance à Fouhren avec la ligne K27 de Ettelbruck#
+NV 0 350 50 à Brandenbourg-Kapell correspondance avec la ligne K24 vers Lanscheid#
+dc 0 350 50 à Fouhren-Halt corresp. avec la ligne K25 vers Walsdorf#
+KA 0 350 50 à Fouhren/Halt correspondance avec la ligne K25 de Walsdorf#
+PZ 0 350 50 à Vianden-Gare correspondance avec la ligne 181 vers Ettelbruck#
+de 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne 170 vers Ettelbruck#
+LC 0 350 50 à Wilwerwiltz-Gare correspondance avec la ligne A04 vers Siebenaler#
+KJ 0 350 50 à Wilwerwiltz-Gare correspondance avec la ligne A04 de Siebenaler#
+UV 0 350 50 à Ettelbruck, Lycée Technique Agricole correspondance avec les lignes K04 et K06#
+LD 0 350 50 à Heinerscheid-Geméin correspondance avec la ligne 170 vers Ettelbruck#
+MZ 0 350 50 à Heinerscheid correspondance avec la ligne K21 de Diekirch#
+KP 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne K21 vers Diekirch#
+PH 0 350 50 à Remich-Gare correspondance avec la ligne 411 vers Luxembourg#
+JD 0 350 50 à Hobscheid-Laiterie correspondance avec la ligne 832 de Redange#
+QB 0 350 50 à Ell-Beim Musikssaul correspondance avec la ligne D26 vers Geesseknäppchen#
+WL 0 350 50 à Ell-Musikssaul correspondance avec la ligne 950 en provenance d'Ettelbruck#
+TV 0 350 50 à Rambrouch-Gare correspodance avec la ligne M18 vers Esch-Sûre#
+UB 0 350 50 à Rambrouch-Gare correspondance avec la ligne M13 de Rédange-Lycée#
+TH 0 350 50 à Rambrouch-Gare correspondance avec la ligne M13 vers Lycée-Rédange#
+SJ 0 350 50 à Bettembourg-Rousegärtchen correspondance avec la ligne 632 de Leudelange/Abweiler#
+BD 0 350 50 à Dudelange, LNB correspondance avec la ligne N03 vers Dudelange, LNB Annexe Alliance#
+CB 0 350 50 à Dudelange, LNB correspondance avec la ligne N03 de Dudelange, LNB Annexe Alliance#
+BX 0 350 50 à Dudelange, LNB correspondance avec la ligne N02 de Noertzange#
+BY 0 350 50 à Dudelange, LNB correspondance avec la ligne N02 vers Noertzange#
+KI 0 350 50 à Kautenbach correspondance avec la ligne P02 de Wiltz#
+KH 0 350 50 à Kautenbach correspodance avec la ligne P01 vers Wilwerwiltz#
+IA 0 350 50 à Weiswampach-Kiämmel correspondance avec la 170 vers Ettelbruck#
+HK 0 350 50 à Marnach-Geschäftszenter correspondance avec la ligne 170 vers Ettelbruck#
+GI 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne 144 vers Wiltz#
+DN 0 350 50 à Echternach/Gare Centre  correspondance avec la ligne 201 vers Luxembourg#
+LH 0 350 50 à Echternach/Gare correspondance avec la ligne B19 de Grevenmacher#
+DQ 0 350 50 à Echternach/Gare Centre, correspondance avec la ligne 201 de Luxembourg#
+I  0 350 50 à Echternach/Gare correspondance avec la ligne 190 de Ettelbruck#
+UY 0 350 50 à Consdorf/Gare correspondance avec ligne 261 de Echternach#
+LQ 0 350 50 à Consdorf/Post correspondance avec ligne 261 de Echternach#
+A  0 350 50 à Eisenborn correspondance avec la ligne 235 vers Lorentzweiler#
+DI 0 350 50 à Junglinster, Op der Gare correspondance avec la ligne 250 en direction vers Diekirch/Ettelbruck#
+AH 0 350 50 à Eisenborn correspondance avec la ligne 235 de Lorentzweiler#
+LR 0 350 50 à Junglinster-Gare correspondance avec la ligne 211 de Luxembourg#
+AA 0 350 50 à Junglinster-Gare correspondance avec la ligne E02 de Limpertsberg/LTC#
+AC 0 350 50 à Junglinster-Gare correspondance avec la ligne 223 de Luxembourg#
+AD 0 350 50 à Junglinster-Gare correspondance avec la ligne B01 de Echternach#
+UL 0 350 50 à Consdorf-Gare correspondance avec la ligne 211 vers Luxembourg#
+AF 0 350 50 à Consdorf/Post correspondance avec la ligne 211 vers Luxembourg#
+OC 0 350 50 à Echternach correspondance avec la ligne E02 vers Limpertsberg#
+DO 0 350 50 à Echternach/Gare correspondance avec la ligne K04 vers Diekirch#
+VV 0 350 50 à Mondorf-Christophorus correspondance avec la ligne D11 en provenance de Remerschen#
+HU 0 350 50 relève à Bleesbréck la correspondance de la ligne 116 en provenance de Warken#
+VF 0 350 50 à Reisdorf-Gare correspondance avec la ligne K29 de Bigelbach#
+DV 0 350 50 à Echternach/Gare correspondance avec la ligne E02 vers Consdorf#
+DW 0 350 50 à Echternach/Gare correspondance avec la ligne 271 vers Grevenmacher#
+DX 0 350 50 à Echternach/Gare correspondance avec la ligne E02 de Consdorf#
+DY 0 350 50 à Echternach/Gare corresp. avec les lignes 274 de Wecker#
+dn 0 350 50 Matrix: TGV METZ#
+do 0 350 50 Matrix: TGV THIONVILLE#
+dq 0 350 50 Matrix: TGV LUXEMBOURG#
+bg 0 350 50 à Heinerscheid-Geméin correspondance avec la ligne A06 vers Clervaux#
+LO 0 350 50 à Heinerscheid-Geméin correspondance avec la ligne K37 de Grindhausen#
+L9 0 350 50 Matrix: L90 BETTEMBOURG#
+HQ 0 350 50 correspondance à Bleesbréck avec la ligne B23 vers Echternach#
+AY 0 350 50 à Heinerscheid-Geméin correspondance avec la ligne P17 vers Wiltz#
+AX 0 350 50 à Heinerscheid-Geméin correspondance avec la ligne P17 vers Clervaux#
+LT 0 350 50 à Wilwerwiltz-Gare correspondance avec la ligne P20 de Wiltz-Lycée du Nord#
+LG 0 350 50 à Wilwerwiltz-Gare correspondance avec la ligne P20 vers Wiltz-Lycée du Nord#
+AP 0 350 50 à Ehnen-Puddel correspondance avec la ligne B04 de Grevenmacher#
+AT 0 350 50 à Remich-Gare correspondance avec la ligne B04 de Grevenmacher#
+KF 0 350 50 à Manternach/Gare correspondance avec les lignes B14 et B21 vers Grevenmacher#
+AB 0 350 50 à Mondorf-Christophorus correspondance avec la ligne E11 en direction de Schwebsange#
+NY 0 350 50 à Hosingen-Eesberwee correspondance avec la ligne A19 vers Neidhausen#
+NZ 0 350 50 à Heinerscheid correspondance avec la ligne K41 vers Lieler#
+dd 0 350 50 à Reisdorf-Gare correspondance avec la ligne B23 vers Echternach#
+dl 0 350 50 à Heinerscheid correspondance avec la ligne 163 de Lieler#
+Fo 0 350 50 extra Fouer#
+DU 0 350 50 à Junglinster, Op der Gare correspodance avec la ligne 250 en provenance d'Ettelbruck#
+OI 0 350 50 à Eisenborn correspondance avec la ligne 221 de Luxembourg#
+bx 0 350 50 à Eisenborn correspondance avec la ligne 221 vers Luxembourg#
+dp 0 350 50 Matrix: TGV BETTEMBOURG#
+# BE BE BE
+# ab ab ab
+# ac ac ac
+# ae ae ae
+# af af af
+# aa aa aa
+# ag ag ag
+# FA FA FA
+# cb cb cb
+# ck ck ck
+# df df df
+# bd bd bd
+# az az az
+# dg dg dg
+# cc cc cc
+# bk bk bk
+# ch ch ch
+# cd cd cd
+# cz cz cz
+# cf cf cf
+# ci ci ci
+# as as as
+# bm bm bm
+# bl bl bl
+# cp cp cp
+# cs cs cs
+# am am am
+# cu cu cu
+# bn bn bn
+# bw bw bw
+# ah ah ah
+# br br br
+# ay ay ay
+# an an an
+# aw aw aw
+# bq bq bq
+# au au au
+# aj aj aj
+# FR FR FR
+# di di di
+# bi bi bi
+# dh dh dh
+# dm dm dm
+# bu bu bu
+# av av av
+# cg cg cg
+# bj bj bj
+# ao ao ao
+# ct ct ct
+# ai ai ai
+# cv cv cv
+# bh bh bh
+# al al al
+# ak ak ak
+# ba ba ba
+# ax ax ax
+# be be be
+# bv bv bv
+# BH BH BH
+# RP RP RP
+# HS HS HS
+# dj dj dj
+# KU KU KU
+# AJ AJ AJ
+# CH CH CH
+# CF CF CF
+# CN CN CN
+# CM CM CM
+# GA GA GA
+# GB GB GB
+# GC GC GC
+# GN GN GN
+# GQ GQ GQ
+# GT GT GT
+# GS GS GS
+# DM DM DM
+# KO KO KO
+# LJ LJ LJ
+# LL LL LL
+# LN LN LN
+# EH EH EH
+# KL KL KL
+# LS LS LS
+# bz bz bz
+# MM MM MM
+# NR NR NR
+# MY MY MY
+# OV OV OV
+# by by by
+# MX MX MX
+# bb bb bb
+# ND ND ND
+# NE NE NE
+# MJ MJ MJ
+# NF NF NF
+# sb sb sb
+# QP QP QP
+# QR QR QR
+# RY RY RY
+# ad -- --
+# cj cj cj
+# VH VH VH
+# VI VI VI
+# VJ VJ VJ
+# dk dk dk
+# bf bf bf
+# CT CT CT
+# WI WI WI
+# IU IU IU
+# IW IW IW
+# 71 71 71
+# bc bc bc
+# TJ TJ TJ
+# GF GF GF
+# PJ PJ PJ
+# IM IM IM
+# PT PT PT
+# HA HA HA
+# GG GG GG
+# GE GE GE
+# PU PU PU
+# PK PK PK
+# EX EX EX
+# EY EY EY
+# HB HB HB
+# HC HC HC
+# UU UU UU
+# UM UM UM
+# LU LU LU
+# JJ JJ JJ
+# LV LV LV
+# JK JK JK
+# FO FO FO
+# MO MO MO
+# RR RR RR
+# RQ RQ RQ
+# FF FF FF
+# OA OA OA
+# LE LE LE
+# FJ FJ FJ
+# FK FK FK
+# FL FL FL
+# GL GL GL
+# MT MT MT
+# CI CI CI
+# CK CK CK
+# bs bs bs
+# IT IT IT
+# DK DK DK
+# DJ DJ DJ
+# ca ca ca
+# NT NT NT
+# ON ON ON
+# OO OO OO
+# KT KT KT
+# bo bo bo
+# JV JV JV
+# bp bp bp
+# DS DS DS
+# LB LB LB
+# KV KV KV
+# KS KS KS
+# MF MF MF
+# PF PF PF
+# ME ME ME
+# JO JO JO
+# UR UR UR
+# AO AO AO
+# AQ AQ AQ
+# U  U  U 
+# AR AR AR
+# OY OY OY
+# OZ OZ OZ
+# OD OD OD
+# AS AS AS
+# AW AW AW
+# VO VO VO
+# VP VP VP
+# AM AM AM
+# AN AN AN
+# PO PO PO
+# VK VK VK
+# VL VL VL
+# bt bt bt
+# PP PP PP
+# JU JU JU
+# JN JN JN
+# RO RO RO
+# UT UT UT
+# SK SK SK
+# SG SG SG
+# RN RN RN
+# CL CL CL
+# MG MG MG
+# IH IH IH
+# AU AU AU
+# AV AV AV
+# TM TM TM
+# TL TL TL
+# GW GW GW
+# ce ce ce
+# RS RS RS
+# WM WM WM
+# FW FW FW
+# EL EL EL
+# MU MU MU
+# VB VB VB
+# GH GH GH
+# TB TB TB
+# cl cl cl
+# TC TC TC
+# GJ GJ GJ
+# N  N  N 
+# AI AI AI
+# cm cm cm
+# AG AG AG
+# JG JG JG
+# TY TY TY
+# IR IR IR
+# co co co
+# cq cq cq
+# RH RH RH
+# NB NB NB
+# QD QD QD
+# TD TD TD
+# DA DA DA
+# cn cn cn
+# DC DC DC
+# DD DD DD
+# OR OR OR
+# DL DL DL
+# OX OX OX
+# UE UE UE
+# QH QH QH
+# KK KK KK
+# MC MC MC
+# UK UK UK
+# SO SO SO
+# IE IE IE
+# JT JT JT
+# SQ SQ SQ
+# SP SP SP
+# DF DF DF
+# SX SX SX
+# SY SY SY
+# SZ SZ SZ
+# cr cr cr
+# TZ TZ TZ
+# AE AE AE
+# VW VW VW
+# WA WA WA
+# SE SE SE
+# UA UA UA
+# BZ BZ BZ
+# QE QE QE
+# KE KE KE
+# IS IS IS
+# DR DR DR
+# EE EE EE
+# IG IG IG
+# MD MD MD
+# DP DP DP
+# cw cw cw
+# KR KR KR
+# IK IK IK
+# CP CP CP
+# CQ CQ CQ
+# cx cx cx
+# LX LX LX
+# KG KG KG
+# M  M  M 
+# Q  Q  Q 
+# QC QC QC
+# GD GD GD
+# FQ FQ FQ
+# BT BT BT
+# EW EW EW
+# UW UW UW
+# ED ED ED
+# EG EG EG
+# cy cy cy
+# RV RV RV
+# PY PY PY
+# da da da
+# PN PN PN
+# LF LF LF
+# KQ KQ KQ
+# HN HN HN
+# UX UX UX
+# HR HR HR
+# db db db
+# NV NV NV
+# dc dc dc
+# KA KA KA
+# PZ PZ PZ
+# de de de
+# LC LC LC
+# KJ KJ KJ
+# UV UV UV
+# LD LD LD
+# MZ MZ MZ
+# KP KP KP
+# PH PH PH
+# JD JD JD
+# QB QB QB
+# WL WL WL
+# TV TV TV
+# UB UB UB
+# TH TH TH
+# SJ SJ SJ
+# BD BD BD
+# CB CB CB
+# BX BX BX
+# BY BY BY
+# KI KI KI
+# KH KH KH
+# IA IA IA
+# HK HK HK
+# GI GI GI
+# DN DN DN
+# LH LH LH
+# DQ DQ DQ
+# I  I  I 
+# UY UY UY
+# LQ LQ LQ
+# A  A  A 
+# DI DI DI
+# AH AH AH
+# LR LR LR
+# AA AA AA
+# AC AC AC
+# AD AD AD
+# UL UL UL
+# AF AF AF
+# OC OC OC
+# DO DO DO
+# VV VV VV
+# HU HU HU
+# VF VF VF
+# DV DV DV
+# DW DW DW
+# DX DX DX
+# DY DY DY
+# dn dn dn
+# do do do
+# dq dq dq
+# bg bg bg
+# LO LO LO
+# L9 L9 L9
+# HQ HQ HQ
+# AY AY AY
+# AX AX AX
+# LT LT LT
+# LG LG LG
+# AP AP AP
+# AT AT AT
+# KF KF KF
+# AB AB AB
+# NY NY NY
+# NZ NZ NZ
+# dd dd dd
+# dl dl dl
+# Fo Fo Fo
+# DU DU DU
+# OI OI OI
+# bx bx bx
+# dp dp dp

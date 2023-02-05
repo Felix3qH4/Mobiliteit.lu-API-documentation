@@ -1,0 +1,1377 @@
+*F 03 2
+*Z 02227 AVL---       003 030                               % 02227 AVL---
+*L 12       200420003 200417012  00559  00632               % 02227 AVL---
+*A BE 200420003 200417012 000017  00559  00632              % 02227 AVL---
+*R 1 200417012 200420003 200417012  00559  00632            % 02227 AVL---
+*G ST  200420003 200417012  00559  00632                    % 02227 AVL---
+*A VE 200420003 200417012 000017  00559  00632              % 02227 AVL---
+200420003 Merl, Celtes                 00559                % 02227 AVL---
+200420002 Merl, Barrière        00559  00559                % 02227 AVL---
+200420009 Merl, Marcel Cahen    00600  00600                % 02227 AVL---
+200420004 Merl, Conservatoire   00602  00602                % 02227 AVL---
+200420001 Merl, Athénée         00604  00604                % 02227 AVL---
+200403014 Belair, Place de Liè  00605  00605                % 02227 AVL---
+200403010 Belair, Kierch        00606  00606                % 02227 AVL---
+200403001 Belair, Amsterdam     00607  00607                % 02227 AVL---
+200403002 Belair, Archiducs     00608  00608                % 02227 AVL---
+200403022 Luxembourg, Square N  00608  00608                % 02227 AVL---
+200405045 Centre, Stäreplaz /   00610  00610                % 02227 AVL---
+200403020 Belair, Wampach       00612  00612                % 02227 AVL---
+200405025 Luxembourg/Centre, M  00613  00613                % 02227 AVL---
+200405049 Luxembourg, Amélie    00614  00614                % 02227 AVL---
+200405014 Centre, Fondation Pe  00616  00616                % 02227 AVL---
+200417047 Kirchberg, Rout Bréc  00618  00618                % 02227 AVL---
+200417061 Kirchberg, Philharmo  00620  00620                % 02227 AVL---
+200417049 Kirchberg, Niedergrü  00620  00620                % 02227 AVL---
+200417021 Kirchberg, Léon Heng  00621  00621                % 02227 AVL---
+200426001 Weimershof, Bleuets   00623  00623                % 02227 AVL---
+200426003 Weimershof, Pâqueret  00624  00624                % 02227 AVL---
+200417024 Kirchberg, Marguerit  00625  00625                % 02227 AVL---
+200417026 Kirchberg, Muguets    00626  00626                % 02227 AVL---
+200417020 Kirchberg, Labours    00626  00626                % 02227 AVL---
+200417034 Kirchberg, Rehazente  00628  00628                % 02227 AVL---
+200417032 Kirchberg, Pierre We  00628  00628                % 02227 AVL---
+200417015 Kirchberg, Hôpital    00629  00629                % 02227 AVL---
+200417004 Kirchberg, Alphonse   00631  00631                % 02227 AVL---
+200417012 Kirchberg, Chambre d  00632                       % 02227 AVL---
+*Z 02228 AVL---                                             % 02228 AVL---
+*L 12       200420003 200417012  01946  02019               % 02228 AVL---
+*A BE 200420003 200417012 000034  01946  02019              % 02228 AVL---
+*R 1 200417012 200420003 200417012  01946  02019            % 02228 AVL---
+*G ST  200420003 200417012  01946  02019                    % 02228 AVL---
+*A VE 200420003 200417012 000034  01946  02019              % 02228 AVL---
+200420003 Merl, Celtes                 01946                % 02228 AVL---
+200420002 Merl, Barrière        01946  01946                % 02228 AVL---
+200420009 Merl, Marcel Cahen    01947  01947                % 02228 AVL---
+200420004 Merl, Conservatoire   01949  01949                % 02228 AVL---
+200420001 Merl, Athénée         01951  01951                % 02228 AVL---
+200403014 Belair, Place de Liè  01952  01952                % 02228 AVL---
+200403010 Belair, Kierch        01953  01953                % 02228 AVL---
+200403001 Belair, Amsterdam     01954  01954                % 02228 AVL---
+200403002 Belair, Archiducs     01955  01955                % 02228 AVL---
+200403022 Luxembourg, Square N  01955  01955                % 02228 AVL---
+200405045 Centre, Stäreplaz /   01957  01957                % 02228 AVL---
+200403020 Belair, Wampach       01959  01959                % 02228 AVL---
+200405025 Luxembourg/Centre, M  02000  02000                % 02228 AVL---
+200405049 Luxembourg, Amélie    02001  02001                % 02228 AVL---
+200405014 Centre, Fondation Pe  02003  02003                % 02228 AVL---
+200417047 Kirchberg, Rout Bréc  02005  02005                % 02228 AVL---
+200417061 Kirchberg, Philharmo  02007  02007                % 02228 AVL---
+200417049 Kirchberg, Niedergrü  02007  02007                % 02228 AVL---
+200417021 Kirchberg, Léon Heng  02008  02008                % 02228 AVL---
+200426001 Weimershof, Bleuets   02010  02010                % 02228 AVL---
+200426003 Weimershof, Pâqueret  02011  02011                % 02228 AVL---
+200417024 Kirchberg, Marguerit  02012  02012                % 02228 AVL---
+200417026 Kirchberg, Muguets    02013  02013                % 02228 AVL---
+200417020 Kirchberg, Labours    02013  02013                % 02228 AVL---
+200417034 Kirchberg, Rehazente  02015  02015                % 02228 AVL---
+200417032 Kirchberg, Pierre We  02015  02015                % 02228 AVL---
+200417015 Kirchberg, Hôpital    02016  02016                % 02228 AVL---
+200417004 Kirchberg, Alphonse   02018  02018                % 02228 AVL---
+200417012 Kirchberg, Chambre d  02019                       % 02228 AVL---
+*Z 02229 AVL---       001 870                               % 02229 AVL---
+*L 12       200420003 200417012  00529  00602               % 02229 AVL---
+*A BE 200420003 200417012 000038  00529  00602              % 02229 AVL---
+*R 1 200417012 200420003 200417012  00529  00602            % 02229 AVL---
+*G ST  200420003 200417012  00529  00602                    % 02229 AVL---
+*A VE 200420003 200417012 000038  00529  00602              % 02229 AVL---
+200420003 Merl, Celtes                 00529                % 02229 AVL---
+200420002 Merl, Barrière        00529  00529                % 02229 AVL---
+200420009 Merl, Marcel Cahen    00530  00530                % 02229 AVL---
+200420004 Merl, Conservatoire   00532  00532                % 02229 AVL---
+200420001 Merl, Athénée         00534  00534                % 02229 AVL---
+200403014 Belair, Place de Liè  00535  00535                % 02229 AVL---
+200403010 Belair, Kierch        00536  00536                % 02229 AVL---
+200403001 Belair, Amsterdam     00537  00537                % 02229 AVL---
+200403002 Belair, Archiducs     00538  00538                % 02229 AVL---
+200403022 Luxembourg, Square N  00538  00538                % 02229 AVL---
+200405045 Centre, Stäreplaz /   00540  00540                % 02229 AVL---
+200403020 Belair, Wampach       00542  00542                % 02229 AVL---
+200405025 Luxembourg/Centre, M  00543  00543                % 02229 AVL---
+200405049 Luxembourg, Amélie    00544  00544                % 02229 AVL---
+200405014 Centre, Fondation Pe  00546  00546                % 02229 AVL---
+200417047 Kirchberg, Rout Bréc  00548  00548                % 02229 AVL---
+200417061 Kirchberg, Philharmo  00550  00550                % 02229 AVL---
+200417049 Kirchberg, Niedergrü  00550  00550                % 02229 AVL---
+200417021 Kirchberg, Léon Heng  00551  00551                % 02229 AVL---
+200426001 Weimershof, Bleuets   00553  00553                % 02229 AVL---
+200426003 Weimershof, Pâqueret  00554  00554                % 02229 AVL---
+200417024 Kirchberg, Marguerit  00555  00555                % 02229 AVL---
+200417026 Kirchberg, Muguets    00556  00556                % 02229 AVL---
+200417020 Kirchberg, Labours    00556  00556                % 02229 AVL---
+200417034 Kirchberg, Rehazente  00558  00558                % 02229 AVL---
+200417032 Kirchberg, Pierre We  00558  00558                % 02229 AVL---
+200417015 Kirchberg, Hôpital    00559  00559                % 02229 AVL---
+200417004 Kirchberg, Alphonse   00601  00601                % 02229 AVL---
+200417012 Kirchberg, Chambre d  00602                       % 02229 AVL---
+*Z 02230 AVL---       003 030                               % 02230 AVL---
+*L 12       200420003 200417012  02029  02102               % 02230 AVL---
+*A BE 200420003 200417012 000038  02029  02102              % 02230 AVL---
+*R 1 200417012 200420003 200417012  02029  02102            % 02230 AVL---
+*G ST  200420003 200417012  02029  02102                    % 02230 AVL---
+*A VE 200420003 200417012 000038  02029  02102              % 02230 AVL---
+200420003 Merl, Celtes                 02029                % 02230 AVL---
+200420002 Merl, Barrière        02029  02029                % 02230 AVL---
+200420009 Merl, Marcel Cahen    02030  02030                % 02230 AVL---
+200420004 Merl, Conservatoire   02032  02032                % 02230 AVL---
+200420001 Merl, Athénée         02034  02034                % 02230 AVL---
+200403014 Belair, Place de Liè  02035  02035                % 02230 AVL---
+200403010 Belair, Kierch        02036  02036                % 02230 AVL---
+200403001 Belair, Amsterdam     02037  02037                % 02230 AVL---
+200403002 Belair, Archiducs     02038  02038                % 02230 AVL---
+200403022 Luxembourg, Square N  02038  02038                % 02230 AVL---
+200405045 Centre, Stäreplaz /   02040  02040                % 02230 AVL---
+200403020 Belair, Wampach       02042  02042                % 02230 AVL---
+200405025 Luxembourg/Centre, M  02043  02043                % 02230 AVL---
+200405049 Luxembourg, Amélie    02044  02044                % 02230 AVL---
+200405014 Centre, Fondation Pe  02046  02046                % 02230 AVL---
+200417047 Kirchberg, Rout Bréc  02048  02048                % 02230 AVL---
+200417061 Kirchberg, Philharmo  02050  02050                % 02230 AVL---
+200417049 Kirchberg, Niedergrü  02050  02050                % 02230 AVL---
+200417021 Kirchberg, Léon Heng  02051  02051                % 02230 AVL---
+200426001 Weimershof, Bleuets   02053  02053                % 02230 AVL---
+200426003 Weimershof, Pâqueret  02054  02054                % 02230 AVL---
+200417024 Kirchberg, Marguerit  02055  02055                % 02230 AVL---
+200417026 Kirchberg, Muguets    02056  02056                % 02230 AVL---
+200417020 Kirchberg, Labours    02056  02056                % 02230 AVL---
+200417034 Kirchberg, Rehazente  02058  02058                % 02230 AVL---
+200417032 Kirchberg, Pierre We  02058  02058                % 02230 AVL---
+200417015 Kirchberg, Hôpital    02059  02059                % 02230 AVL---
+200417004 Kirchberg, Alphonse   02101  02101                % 02230 AVL---
+200417012 Kirchberg, Chambre d  02102                       % 02230 AVL---
+*Z 02231 AVL---       005 030                               % 02231 AVL---
+*L 12       200420003 200417012  00829  00902               % 02231 AVL---
+*A BE 200420003 200417012 000016  00829  00902              % 02231 AVL---
+*R 1 200417012 200420003 200417012  00829  00902            % 02231 AVL---
+*G ST  200420003 200417012  00829  00902                    % 02231 AVL---
+*A VE 200420003 200417012 000016  00829  00902              % 02231 AVL---
+200420003 Merl, Celtes                 00829                % 02231 AVL---
+200420002 Merl, Barrière        00829  00829                % 02231 AVL---
+200420009 Merl, Marcel Cahen    00830  00830                % 02231 AVL---
+200420004 Merl, Conservatoire   00832  00832                % 02231 AVL---
+200420001 Merl, Athénée         00834  00834                % 02231 AVL---
+200403014 Belair, Place de Liè  00835  00835                % 02231 AVL---
+200403010 Belair, Kierch        00836  00836                % 02231 AVL---
+200403001 Belair, Amsterdam     00837  00837                % 02231 AVL---
+200403002 Belair, Archiducs     00838  00838                % 02231 AVL---
+200403022 Luxembourg, Square N  00838  00838                % 02231 AVL---
+200405045 Centre, Stäreplaz /   00840  00840                % 02231 AVL---
+200403020 Belair, Wampach       00842  00842                % 02231 AVL---
+200405025 Luxembourg/Centre, M  00843  00843                % 02231 AVL---
+200405049 Luxembourg, Amélie    00844  00844                % 02231 AVL---
+200405014 Centre, Fondation Pe  00846  00846                % 02231 AVL---
+200417047 Kirchberg, Rout Bréc  00848  00848                % 02231 AVL---
+200417061 Kirchberg, Philharmo  00850  00850                % 02231 AVL---
+200417049 Kirchberg, Niedergrü  00850  00850                % 02231 AVL---
+200417021 Kirchberg, Léon Heng  00851  00851                % 02231 AVL---
+200426001 Weimershof, Bleuets   00853  00853                % 02231 AVL---
+200426003 Weimershof, Pâqueret  00854  00854                % 02231 AVL---
+200417024 Kirchberg, Marguerit  00855  00855                % 02231 AVL---
+200417026 Kirchberg, Muguets    00856  00856                % 02231 AVL---
+200417020 Kirchberg, Labours    00856  00856                % 02231 AVL---
+200417034 Kirchberg, Rehazente  00858  00858                % 02231 AVL---
+200417032 Kirchberg, Pierre We  00858  00858                % 02231 AVL---
+200417015 Kirchberg, Hôpital    00859  00859                % 02231 AVL---
+200417004 Kirchberg, Alphonse   00901  00901                % 02231 AVL---
+200417012 Kirchberg, Chambre d  00902                       % 02231 AVL---
+*Z 02232 AVL---       041 020                               % 02232 AVL---
+*L 12       200420003 200417012  00542  00623               % 02232 AVL---
+*A BE 200420003 200417012 000034  00542  00623              % 02232 AVL---
+*R 1 200417012 200420003 200417012  00542  00623            % 02232 AVL---
+*G ST  200420003 200417012  00542  00623                    % 02232 AVL---
+*A VE 200420003 200417012 000034  00542  00623              % 02232 AVL---
+200420003 Merl, Celtes                 00542                % 02232 AVL---
+200420002 Merl, Barrière        00543  00543                % 02232 AVL---
+200420009 Merl, Marcel Cahen    00544  00544                % 02232 AVL---
+200420004 Merl, Conservatoire   00546  00546                % 02232 AVL---
+200420001 Merl, Athénée         00548  00548                % 02232 AVL---
+200403014 Belair, Place de Liè  00550  00550                % 02232 AVL---
+200403010 Belair, Kierch        00551  00551                % 02232 AVL---
+200403001 Belair, Amsterdam     00552  00552                % 02232 AVL---
+200403002 Belair, Archiducs     00553  00553                % 02232 AVL---
+200403022 Luxembourg, Square N  00554  00554                % 02232 AVL---
+200405045 Centre, Stäreplaz /   00556  00556                % 02232 AVL---
+200403020 Belair, Wampach       00558  00558                % 02232 AVL---
+200405025 Luxembourg/Centre, M  00600  00600                % 02232 AVL---
+200405049 Luxembourg, Amélie    00602  00602                % 02232 AVL---
+200405014 Centre, Fondation Pe  00604  00604                % 02232 AVL---
+200417047 Kirchberg, Rout Bréc  00606  00606                % 02232 AVL---
+200417061 Kirchberg, Philharmo  00608  00608                % 02232 AVL---
+200417049 Kirchberg, Niedergrü  00609  00609                % 02232 AVL---
+200417021 Kirchberg, Léon Heng  00610  00610                % 02232 AVL---
+200426001 Weimershof, Bleuets   00612  00612                % 02232 AVL---
+200426003 Weimershof, Pâqueret  00613  00613                % 02232 AVL---
+200417024 Kirchberg, Marguerit  00614  00614                % 02232 AVL---
+200417026 Kirchberg, Muguets    00615  00615                % 02232 AVL---
+200417020 Kirchberg, Labours    00616  00616                % 02232 AVL---
+200417034 Kirchberg, Rehazente  00618  00618                % 02232 AVL---
+200417032 Kirchberg, Pierre We  00618  00618                % 02232 AVL---
+200417015 Kirchberg, Hôpital    00620  00620                % 02232 AVL---
+200417004 Kirchberg, Alphonse   00622  00622                % 02232 AVL---
+200417012 Kirchberg, Chambre d  00623                       % 02232 AVL---
+*Z 02233 AVL---       006 030                               % 02233 AVL---
+*L 12       200420003 200417012  00758  00832               % 02233 AVL---
+*A BE 200420003 200417012 000017  00758  00832              % 02233 AVL---
+*R 1 200417012 200420003 200417012  00758  00832            % 02233 AVL---
+*G ST  200420003 200417012  00758  00832                    % 02233 AVL---
+*A VE 200420003 200417012 000017  00758  00832              % 02233 AVL---
+200420003 Merl, Celtes                 00758                % 02233 AVL---
+200420002 Merl, Barrière        00759  00759                % 02233 AVL---
+200420009 Merl, Marcel Cahen    00800  00800                % 02233 AVL---
+200420004 Merl, Conservatoire   00802  00802                % 02233 AVL---
+200420001 Merl, Athénée         00804  00804                % 02233 AVL---
+200403014 Belair, Place de Liè  00805  00805                % 02233 AVL---
+200403010 Belair, Kierch        00806  00806                % 02233 AVL---
+200403001 Belair, Amsterdam     00807  00807                % 02233 AVL---
+200403002 Belair, Archiducs     00807  00807                % 02233 AVL---
+200403022 Luxembourg, Square N  00808  00808                % 02233 AVL---
+200405045 Centre, Stäreplaz /   00810  00810                % 02233 AVL---
+200403020 Belair, Wampach       00812  00812                % 02233 AVL---
+200405025 Luxembourg/Centre, M  00813  00813                % 02233 AVL---
+200405049 Luxembourg, Amélie    00814  00814                % 02233 AVL---
+200405014 Centre, Fondation Pe  00816  00816                % 02233 AVL---
+200417047 Kirchberg, Rout Bréc  00818  00818                % 02233 AVL---
+200417061 Kirchberg, Philharmo  00820  00820                % 02233 AVL---
+200417049 Kirchberg, Niedergrü  00821  00821                % 02233 AVL---
+200417021 Kirchberg, Léon Heng  00821  00821                % 02233 AVL---
+200426001 Weimershof, Bleuets   00823  00823                % 02233 AVL---
+200426003 Weimershof, Pâqueret  00824  00824                % 02233 AVL---
+200417024 Kirchberg, Marguerit  00825  00825                % 02233 AVL---
+200417026 Kirchberg, Muguets    00826  00826                % 02233 AVL---
+200417020 Kirchberg, Labours    00827  00827                % 02233 AVL---
+200417034 Kirchberg, Rehazente  00828  00828                % 02233 AVL---
+200417032 Kirchberg, Pierre We  00828  00828                % 02233 AVL---
+200417015 Kirchberg, Hôpital    00830  00830                % 02233 AVL---
+200417004 Kirchberg, Alphonse   00831  00831                % 02233 AVL---
+200417012 Kirchberg, Chambre d  00832                       % 02233 AVL---
+*Z 02234 AVL---       016 030                               % 02234 AVL---
+*L 12       200420003 200417012  01128  01202               % 02234 AVL---
+*A BE 200420003 200417012 000037  01128  01202              % 02234 AVL---
+*R 1 200417012 200420003 200417012  01128  01202            % 02234 AVL---
+*G ST  200420003 200417012  01128  01202                    % 02234 AVL---
+*A VE 200420003 200417012 000037  01128  01202              % 02234 AVL---
+200420003 Merl, Celtes                 01128                % 02234 AVL---
+200420002 Merl, Barrière        01129  01129                % 02234 AVL---
+200420009 Merl, Marcel Cahen    01130  01130                % 02234 AVL---
+200420004 Merl, Conservatoire   01132  01132                % 02234 AVL---
+200420001 Merl, Athénée         01134  01134                % 02234 AVL---
+200403014 Belair, Place de Liè  01135  01135                % 02234 AVL---
+200403010 Belair, Kierch        01136  01136                % 02234 AVL---
+200403001 Belair, Amsterdam     01137  01137                % 02234 AVL---
+200403002 Belair, Archiducs     01137  01137                % 02234 AVL---
+200403022 Luxembourg, Square N  01138  01138                % 02234 AVL---
+200405045 Centre, Stäreplaz /   01140  01140                % 02234 AVL---
+200403020 Belair, Wampach       01142  01142                % 02234 AVL---
+200405025 Luxembourg/Centre, M  01143  01143                % 02234 AVL---
+200405049 Luxembourg, Amélie    01144  01144                % 02234 AVL---
+200405014 Centre, Fondation Pe  01146  01146                % 02234 AVL---
+200417047 Kirchberg, Rout Bréc  01148  01148                % 02234 AVL---
+200417061 Kirchberg, Philharmo  01150  01150                % 02234 AVL---
+200417049 Kirchberg, Niedergrü  01151  01151                % 02234 AVL---
+200417021 Kirchberg, Léon Heng  01151  01151                % 02234 AVL---
+200426001 Weimershof, Bleuets   01153  01153                % 02234 AVL---
+200426003 Weimershof, Pâqueret  01154  01154                % 02234 AVL---
+200417024 Kirchberg, Marguerit  01155  01155                % 02234 AVL---
+200417026 Kirchberg, Muguets    01156  01156                % 02234 AVL---
+200417020 Kirchberg, Labours    01157  01157                % 02234 AVL---
+200417034 Kirchberg, Rehazente  01158  01158                % 02234 AVL---
+200417032 Kirchberg, Pierre We  01158  01158                % 02234 AVL---
+200417015 Kirchberg, Hôpital    01200  01200                % 02234 AVL---
+200417004 Kirchberg, Alphonse   01201  01201                % 02234 AVL---
+200417012 Kirchberg, Chambre d  01202                       % 02234 AVL---
+*Z 02235 AVL---       002 030                               % 02235 AVL---
+*L 12       200417012 200420003  00612  00649               % 02235 AVL---
+*A BE 200417012 200420003 000017  00612  00649              % 02235 AVL---
+*R 2 200420003 200417012 200420003  00612  00649            % 02235 AVL---
+*G ST  200417012 200420003  00612  00649                    % 02235 AVL---
+*A VE 200417012 200420003 000017  00612  00649              % 02235 AVL---
+200417012 Kirchberg, Chambre d         00612                % 02235 AVL---
+200417004 Kirchberg, Alphonse   00612  00612                % 02235 AVL---
+200417015 Kirchberg, Hôpital    00614  00614                % 02235 AVL---
+200417032 Kirchberg, Pierre We  00615  00615                % 02235 AVL---
+200417034 Kirchberg, Rehazente  00616  00616                % 02235 AVL---
+200417020 Kirchberg, Labours    00617  00617                % 02235 AVL---
+200417026 Kirchberg, Muguets    00618  00618                % 02235 AVL---
+200417024 Kirchberg, Marguerit  00619  00619                % 02235 AVL---
+200426003 Weimershof, Pâqueret  00619  00619                % 02235 AVL---
+200426001 Weimershof, Bleuets   00620  00620                % 02235 AVL---
+200417021 Kirchberg, Léon Heng  00622  00622                % 02235 AVL---
+200417049 Kirchberg, Niedergrü  00623  00623                % 02235 AVL---
+200417061 Kirchberg, Philharmo  00624  00624                % 02235 AVL---
+200417047 Kirchberg, Rout Bréc  00625  00625                % 02235 AVL---
+200405014 Centre, Fondation Pe  00628  00628                % 02235 AVL---
+200405020 Hamilius (Bus)        00631  00635                % 02235 AVL---
+200405045 Centre, Stäreplaz /   00639  00639                % 02235 AVL---
+200403022 Luxembourg, Square N  00641  00641                % 02235 AVL---
+200403002 Belair, Archiducs     00641  00641                % 02235 AVL---
+200403001 Belair, Amsterdam     00642  00642                % 02235 AVL---
+200403010 Belair, Kierch        00643  00643                % 02235 AVL---
+200403014 Belair, Place de Liè  00644  00644                % 02235 AVL---
+200420001 Merl, Athénée         00645  00645                % 02235 AVL---
+200420004 Merl, Conservatoire   00646  00646                % 02235 AVL---
+200420009 Merl, Marcel Cahen    00647  00647                % 02235 AVL---
+200420002 Merl, Barrière        00648  00648                % 02235 AVL---
+200420015 Merl, St. Gengoul     00648  00648                % 02235 AVL---
+200420003 Merl, Celtes          00649                       % 02235 AVL---
+*Z 02236 AVL---                                             % 02236 AVL---
+*L 12       200417012 200420003  02012  02049               % 02236 AVL---
+*A BE 200417012 200420003 000040  02012  02049              % 02236 AVL---
+*R 2 200420003 200417012 200420003  02012  02049            % 02236 AVL---
+*G ST  200417012 200420003  02012  02049                    % 02236 AVL---
+*A VE 200417012 200420003 000040  02012  02049              % 02236 AVL---
+200417012 Kirchberg, Chambre d         02012                % 02236 AVL---
+200417004 Kirchberg, Alphonse   02012  02012                % 02236 AVL---
+200417015 Kirchberg, Hôpital    02014  02014                % 02236 AVL---
+200417032 Kirchberg, Pierre We  02015  02015                % 02236 AVL---
+200417034 Kirchberg, Rehazente  02016  02016                % 02236 AVL---
+200417020 Kirchberg, Labours    02017  02017                % 02236 AVL---
+200417026 Kirchberg, Muguets    02018  02018                % 02236 AVL---
+200417024 Kirchberg, Marguerit  02019  02019                % 02236 AVL---
+200426003 Weimershof, Pâqueret  02019  02019                % 02236 AVL---
+200426001 Weimershof, Bleuets   02020  02020                % 02236 AVL---
+200417021 Kirchberg, Léon Heng  02022  02022                % 02236 AVL---
+200417049 Kirchberg, Niedergrü  02023  02023                % 02236 AVL---
+200417061 Kirchberg, Philharmo  02024  02024                % 02236 AVL---
+200417047 Kirchberg, Rout Bréc  02025  02025                % 02236 AVL---
+200405014 Centre, Fondation Pe  02028  02028                % 02236 AVL---
+200405020 Hamilius (Bus)        02031  02035                % 02236 AVL---
+200405045 Centre, Stäreplaz /   02039  02039                % 02236 AVL---
+200403022 Luxembourg, Square N  02041  02041                % 02236 AVL---
+200403002 Belair, Archiducs     02041  02041                % 02236 AVL---
+200403001 Belair, Amsterdam     02042  02042                % 02236 AVL---
+200403010 Belair, Kierch        02043  02043                % 02236 AVL---
+200403014 Belair, Place de Liè  02044  02044                % 02236 AVL---
+200420001 Merl, Athénée         02045  02045                % 02236 AVL---
+200420004 Merl, Conservatoire   02046  02046                % 02236 AVL---
+200420009 Merl, Marcel Cahen    02047  02047                % 02236 AVL---
+200420002 Merl, Barrière        02048  02048                % 02236 AVL---
+200420015 Merl, St. Gengoul     02048  02048                % 02236 AVL---
+200420003 Merl, Celtes          02049                       % 02236 AVL---
+*Z 02237 AVL---                                             % 02237 AVL---
+*L 12       200417012 200420003  00542  00619               % 02237 AVL---
+*A BE 200417012 200420003 000034  00542  00619              % 02237 AVL---
+*R 2 200420003 200417012 200420003  00542  00619            % 02237 AVL---
+*G ST  200417012 200420003  00542  00619                    % 02237 AVL---
+*A VE 200417012 200420003 000034  00542  00619              % 02237 AVL---
+200417012 Kirchberg, Chambre d         00542                % 02237 AVL---
+200417004 Kirchberg, Alphonse   00542  00542                % 02237 AVL---
+200417015 Kirchberg, Hôpital    00544  00544                % 02237 AVL---
+200417032 Kirchberg, Pierre We  00545  00545                % 02237 AVL---
+200417034 Kirchberg, Rehazente  00546  00546                % 02237 AVL---
+200417020 Kirchberg, Labours    00547  00547                % 02237 AVL---
+200417026 Kirchberg, Muguets    00548  00548                % 02237 AVL---
+200417024 Kirchberg, Marguerit  00549  00549                % 02237 AVL---
+200426003 Weimershof, Pâqueret  00549  00549                % 02237 AVL---
+200426001 Weimershof, Bleuets   00550  00550                % 02237 AVL---
+200417021 Kirchberg, Léon Heng  00552  00552                % 02237 AVL---
+200417049 Kirchberg, Niedergrü  00553  00553                % 02237 AVL---
+200417061 Kirchberg, Philharmo  00554  00554                % 02237 AVL---
+200417047 Kirchberg, Rout Bréc  00555  00555                % 02237 AVL---
+200405014 Centre, Fondation Pe  00558  00558                % 02237 AVL---
+200405020 Hamilius (Bus)        00601  00605                % 02237 AVL---
+200405045 Centre, Stäreplaz /   00609  00609                % 02237 AVL---
+200403022 Luxembourg, Square N  00611  00611                % 02237 AVL---
+200403002 Belair, Archiducs     00611  00611                % 02237 AVL---
+200403001 Belair, Amsterdam     00612  00612                % 02237 AVL---
+200403010 Belair, Kierch        00613  00613                % 02237 AVL---
+200403014 Belair, Place de Liè  00614  00614                % 02237 AVL---
+200420001 Merl, Athénée         00615  00615                % 02237 AVL---
+200420004 Merl, Conservatoire   00616  00616                % 02237 AVL---
+200420009 Merl, Marcel Cahen    00617  00617                % 02237 AVL---
+200420002 Merl, Barrière        00618  00618                % 02237 AVL---
+200420015 Merl, St. Gengoul     00618  00618                % 02237 AVL---
+200420003 Merl, Celtes          00619                       % 02237 AVL---
+*Z 02238 AVL---       004 030                               % 02238 AVL---
+*L 12       200417012 200420003  02042  02119               % 02238 AVL---
+*A BE 200417012 200420003 000038  02042  02119              % 02238 AVL---
+*R 2 200420003 200417012 200420003  02042  02119            % 02238 AVL---
+*G ST  200417012 200420003  02042  02119                    % 02238 AVL---
+*A VE 200417012 200420003 000038  02042  02119              % 02238 AVL---
+200417012 Kirchberg, Chambre d         02042                % 02238 AVL---
+200417004 Kirchberg, Alphonse   02042  02042                % 02238 AVL---
+200417015 Kirchberg, Hôpital    02044  02044                % 02238 AVL---
+200417032 Kirchberg, Pierre We  02045  02045                % 02238 AVL---
+200417034 Kirchberg, Rehazente  02046  02046                % 02238 AVL---
+200417020 Kirchberg, Labours    02047  02047                % 02238 AVL---
+200417026 Kirchberg, Muguets    02048  02048                % 02238 AVL---
+200417024 Kirchberg, Marguerit  02049  02049                % 02238 AVL---
+200426003 Weimershof, Pâqueret  02049  02049                % 02238 AVL---
+200426001 Weimershof, Bleuets   02050  02050                % 02238 AVL---
+200417021 Kirchberg, Léon Heng  02052  02052                % 02238 AVL---
+200417049 Kirchberg, Niedergrü  02053  02053                % 02238 AVL---
+200417061 Kirchberg, Philharmo  02054  02054                % 02238 AVL---
+200417047 Kirchberg, Rout Bréc  02055  02055                % 02238 AVL---
+200405014 Centre, Fondation Pe  02058  02058                % 02238 AVL---
+200405020 Hamilius (Bus)        02101  02105                % 02238 AVL---
+200405045 Centre, Stäreplaz /   02109  02109                % 02238 AVL---
+200403022 Luxembourg, Square N  02111  02111                % 02238 AVL---
+200403002 Belair, Archiducs     02111  02111                % 02238 AVL---
+200403001 Belair, Amsterdam     02112  02112                % 02238 AVL---
+200403010 Belair, Kierch        02113  02113                % 02238 AVL---
+200403014 Belair, Place de Liè  02114  02114                % 02238 AVL---
+200420001 Merl, Athénée         02115  02115                % 02238 AVL---
+200420004 Merl, Conservatoire   02116  02116                % 02238 AVL---
+200420009 Merl, Marcel Cahen    02117  02117                % 02238 AVL---
+200420002 Merl, Barrière        02118  02118                % 02238 AVL---
+200420015 Merl, St. Gengoul     02118  02118                % 02238 AVL---
+200420003 Merl, Celtes          02119                       % 02238 AVL---
+*Z 02239 AVL---       003 030                               % 02239 AVL---
+*L 12       200417012 200420003  00912  00949               % 02239 AVL---
+*A BE 200417012 200420003 000016  00912  00949              % 02239 AVL---
+*R 2 200420003 200417012 200420003  00912  00949            % 02239 AVL---
+*G ST  200417012 200420003  00912  00949                    % 02239 AVL---
+*A VE 200417012 200420003 000016  00912  00949              % 02239 AVL---
+200417012 Kirchberg, Chambre d         00912                % 02239 AVL---
+200417004 Kirchberg, Alphonse   00912  00912                % 02239 AVL---
+200417015 Kirchberg, Hôpital    00914  00914                % 02239 AVL---
+200417032 Kirchberg, Pierre We  00915  00915                % 02239 AVL---
+200417034 Kirchberg, Rehazente  00916  00916                % 02239 AVL---
+200417020 Kirchberg, Labours    00917  00917                % 02239 AVL---
+200417026 Kirchberg, Muguets    00918  00918                % 02239 AVL---
+200417024 Kirchberg, Marguerit  00919  00919                % 02239 AVL---
+200426003 Weimershof, Pâqueret  00919  00919                % 02239 AVL---
+200426001 Weimershof, Bleuets   00920  00920                % 02239 AVL---
+200417021 Kirchberg, Léon Heng  00922  00922                % 02239 AVL---
+200417049 Kirchberg, Niedergrü  00923  00923                % 02239 AVL---
+200417061 Kirchberg, Philharmo  00924  00924                % 02239 AVL---
+200417047 Kirchberg, Rout Bréc  00925  00925                % 02239 AVL---
+200405014 Centre, Fondation Pe  00928  00928                % 02239 AVL---
+200405020 Hamilius (Bus)        00931  00935                % 02239 AVL---
+200405045 Centre, Stäreplaz /   00939  00939                % 02239 AVL---
+200403022 Luxembourg, Square N  00941  00941                % 02239 AVL---
+200403002 Belair, Archiducs     00941  00941                % 02239 AVL---
+200403001 Belair, Amsterdam     00942  00942                % 02239 AVL---
+200403010 Belair, Kierch        00943  00943                % 02239 AVL---
+200403014 Belair, Place de Liè  00944  00944                % 02239 AVL---
+200420001 Merl, Athénée         00945  00945                % 02239 AVL---
+200420004 Merl, Conservatoire   00946  00946                % 02239 AVL---
+200420009 Merl, Marcel Cahen    00947  00947                % 02239 AVL---
+200420002 Merl, Barrière        00948  00948                % 02239 AVL---
+200420015 Merl, St. Gengoul     00948  00948                % 02239 AVL---
+200420003 Merl, Celtes          00949                       % 02239 AVL---
+*Z 02240 AVL---                                             % 02240 AVL---
+*L 12       200417012 200420003  01942  02019               % 02240 AVL---
+*A BE 200417012 200420003 000016  01942  02019              % 02240 AVL---
+*R 2 200420003 200417012 200420003  01942  02019            % 02240 AVL---
+*G ST  200417012 200420003  01942  02019                    % 02240 AVL---
+*A VE 200417012 200420003 000016  01942  02019              % 02240 AVL---
+200417012 Kirchberg, Chambre d         01942                % 02240 AVL---
+200417004 Kirchberg, Alphonse   01942  01942                % 02240 AVL---
+200417015 Kirchberg, Hôpital    01944  01944                % 02240 AVL---
+200417032 Kirchberg, Pierre We  01945  01945                % 02240 AVL---
+200417034 Kirchberg, Rehazente  01946  01946                % 02240 AVL---
+200417020 Kirchberg, Labours    01947  01947                % 02240 AVL---
+200417026 Kirchberg, Muguets    01948  01948                % 02240 AVL---
+200417024 Kirchberg, Marguerit  01949  01949                % 02240 AVL---
+200426003 Weimershof, Pâqueret  01949  01949                % 02240 AVL---
+200426001 Weimershof, Bleuets   01950  01950                % 02240 AVL---
+200417021 Kirchberg, Léon Heng  01952  01952                % 02240 AVL---
+200417049 Kirchberg, Niedergrü  01953  01953                % 02240 AVL---
+200417061 Kirchberg, Philharmo  01954  01954                % 02240 AVL---
+200417047 Kirchberg, Rout Bréc  01955  01955                % 02240 AVL---
+200405014 Centre, Fondation Pe  01958  01958                % 02240 AVL---
+200405020 Hamilius (Bus)        02001  02005                % 02240 AVL---
+200405045 Centre, Stäreplaz /   02009  02009                % 02240 AVL---
+200403022 Luxembourg, Square N  02011  02011                % 02240 AVL---
+200403002 Belair, Archiducs     02011  02011                % 02240 AVL---
+200403001 Belair, Amsterdam     02012  02012                % 02240 AVL---
+200403010 Belair, Kierch        02013  02013                % 02240 AVL---
+200403014 Belair, Place de Liè  02014  02014                % 02240 AVL---
+200420001 Merl, Athénée         02015  02015                % 02240 AVL---
+200420004 Merl, Conservatoire   02016  02016                % 02240 AVL---
+200420009 Merl, Marcel Cahen    02017  02017                % 02240 AVL---
+200420002 Merl, Barrière        02018  02018                % 02240 AVL---
+200420015 Merl, St. Gengoul     02018  02018                % 02240 AVL---
+200420003 Merl, Celtes          02019                       % 02240 AVL---
+*Z 02241 AVL---       040 020                               % 02241 AVL---
+*L 12       200417012 200420003  00602  00642               % 02241 AVL---
+*A BE 200417012 200420003 000034  00602  00642              % 02241 AVL---
+*R 2 200420003 200417012 200420003  00602  00642            % 02241 AVL---
+*G ST  200417012 200420003  00602  00642                    % 02241 AVL---
+*A VE 200417012 200420003 000034  00602  00642              % 02241 AVL---
+200417012 Kirchberg, Chambre d         00602                % 02241 AVL---
+200417004 Kirchberg, Alphonse   00603  00603                % 02241 AVL---
+200417015 Kirchberg, Hôpital    00606  00606                % 02241 AVL---
+200417032 Kirchberg, Pierre We  00607  00607                % 02241 AVL---
+200417034 Kirchberg, Rehazente  00607  00607                % 02241 AVL---
+200417020 Kirchberg, Labours    00609  00609                % 02241 AVL---
+200417026 Kirchberg, Muguets    00610  00610                % 02241 AVL---
+200417024 Kirchberg, Marguerit  00611  00611                % 02241 AVL---
+200426003 Weimershof, Pâqueret  00612  00612                % 02241 AVL---
+200426001 Weimershof, Bleuets   00613  00613                % 02241 AVL---
+200417021 Kirchberg, Léon Heng  00615  00615                % 02241 AVL---
+200417049 Kirchberg, Niedergrü  00616  00616                % 02241 AVL---
+200417061 Kirchberg, Philharmo  00617  00617                % 02241 AVL---
+200417047 Kirchberg, Rout Bréc  00619  00619                % 02241 AVL---
+200405014 Centre, Fondation Pe  00621  00621                % 02241 AVL---
+200405020 Hamilius (Bus)        00626  00626                % 02241 AVL---
+200405045 Centre, Stäreplaz /   00630  00630                % 02241 AVL---
+200403022 Luxembourg, Square N  00633  00633                % 02241 AVL---
+200403002 Belair, Archiducs     00633  00633                % 02241 AVL---
+200403001 Belair, Amsterdam     00634  00634                % 02241 AVL---
+200403010 Belair, Kierch        00635  00635                % 02241 AVL---
+200403014 Belair, Place de Liè  00636  00636                % 02241 AVL---
+200420001 Merl, Athénée         00638  00638                % 02241 AVL---
+200420004 Merl, Conservatoire   00639  00639                % 02241 AVL---
+200420009 Merl, Marcel Cahen    00641  00641                % 02241 AVL---
+200420002 Merl, Barrière        00641  00641                % 02241 AVL---
+200420015 Merl, St. Gengoul     00642  00642                % 02241 AVL---
+200420003 Merl, Celtes          00642                       % 02241 AVL---
+*Z 02242 AVL---                                             % 02242 AVL---
+*L 12       200417012 200420003  01941  02014               % 02242 AVL---
+*A BE 200417012 200420003 000017  01941  02014              % 02242 AVL---
+*R 2 200420003 200417012 200420003  01941  02014            % 02242 AVL---
+*G ST  200417012 200420003  01941  02014                    % 02242 AVL---
+*A VE 200417012 200420003 000017  01941  02014              % 02242 AVL---
+200417012 Kirchberg, Chambre d         01941                % 02242 AVL---
+200417004 Kirchberg, Alphonse   01941  01941                % 02242 AVL---
+200417015 Kirchberg, Hôpital    01943  01943                % 02242 AVL---
+200417032 Kirchberg, Pierre We  01944  01944                % 02242 AVL---
+200417034 Kirchberg, Rehazente  01945  01945                % 02242 AVL---
+200417020 Kirchberg, Labours    01946  01946                % 02242 AVL---
+200417026 Kirchberg, Muguets    01947  01947                % 02242 AVL---
+200417024 Kirchberg, Marguerit  01948  01948                % 02242 AVL---
+200426003 Weimershof, Pâqueret  01948  01948                % 02242 AVL---
+200426001 Weimershof, Bleuets   01949  01949                % 02242 AVL---
+200417021 Kirchberg, Léon Heng  01951  01951                % 02242 AVL---
+200417049 Kirchberg, Niedergrü  01952  01952                % 02242 AVL---
+200417061 Kirchberg, Philharmo  01953  01953                % 02242 AVL---
+200417047 Kirchberg, Rout Bréc  01954  01954                % 02242 AVL---
+200405014 Centre, Fondation Pe  01957  01957                % 02242 AVL---
+200405020 Hamilius (Bus)        02000  02000                % 02242 AVL---
+200405045 Centre, Stäreplaz /   02004  02004                % 02242 AVL---
+200403022 Luxembourg, Square N  02006  02006                % 02242 AVL---
+200403002 Belair, Archiducs     02006  02006                % 02242 AVL---
+200403001 Belair, Amsterdam     02007  02007                % 02242 AVL---
+200403010 Belair, Kierch        02008  02008                % 02242 AVL---
+200403014 Belair, Place de Liè  02009  02009                % 02242 AVL---
+200420001 Merl, Athénée         02010  02010                % 02242 AVL---
+200420004 Merl, Conservatoire   02011  02011                % 02242 AVL---
+200420009 Merl, Marcel Cahen    02012  02012                % 02242 AVL---
+200420002 Merl, Barrière        02013  02013                % 02242 AVL---
+200420015 Merl, St. Gengoul     02013  02013                % 02242 AVL---
+200420003 Merl, Celtes          02014                       % 02242 AVL---
+*Z 02243 AVL---                                             % 02243 AVL---
+*L 12       200417012 200420003  01947  02020               % 02243 AVL---
+*A BE 200417012 200420003 000034  01947  02020              % 02243 AVL---
+*R 2 200420003 200417012 200420003  01947  02020            % 02243 AVL---
+*G ST  200417012 200420003  01947  02020                    % 02243 AVL---
+*A VE 200417012 200420003 000034  01947  02020              % 02243 AVL---
+200417012 Kirchberg, Chambre d         01947                % 02243 AVL---
+200417004 Kirchberg, Alphonse   01947  01947                % 02243 AVL---
+200417015 Kirchberg, Hôpital    01949  01949                % 02243 AVL---
+200417032 Kirchberg, Pierre We  01950  01950                % 02243 AVL---
+200417034 Kirchberg, Rehazente  01951  01951                % 02243 AVL---
+200417020 Kirchberg, Labours    01952  01952                % 02243 AVL---
+200417026 Kirchberg, Muguets    01953  01953                % 02243 AVL---
+200417024 Kirchberg, Marguerit  01954  01954                % 02243 AVL---
+200426003 Weimershof, Pâqueret  01954  01954                % 02243 AVL---
+200426001 Weimershof, Bleuets   01955  01955                % 02243 AVL---
+200417021 Kirchberg, Léon Heng  01957  01957                % 02243 AVL---
+200417049 Kirchberg, Niedergrü  01958  01958                % 02243 AVL---
+200417061 Kirchberg, Philharmo  01959  01959                % 02243 AVL---
+200417047 Kirchberg, Rout Bréc  02000  02000                % 02243 AVL---
+200405014 Centre, Fondation Pe  02003  02003                % 02243 AVL---
+200405020 Hamilius (Bus)        02006  02006                % 02243 AVL---
+200405045 Centre, Stäreplaz /   02010  02010                % 02243 AVL---
+200403022 Luxembourg, Square N  02012  02012                % 02243 AVL---
+200403002 Belair, Archiducs     02012  02012                % 02243 AVL---
+200403001 Belair, Amsterdam     02013  02013                % 02243 AVL---
+200403010 Belair, Kierch        02014  02014                % 02243 AVL---
+200403014 Belair, Place de Liè  02015  02015                % 02243 AVL---
+200420001 Merl, Athénée         02016  02016                % 02243 AVL---
+200420004 Merl, Conservatoire   02017  02017                % 02243 AVL---
+200420009 Merl, Marcel Cahen    02018  02018                % 02243 AVL---
+200420002 Merl, Barrière        02019  02019                % 02243 AVL---
+200420015 Merl, St. Gengoul     02019  02019                % 02243 AVL---
+200420003 Merl, Celtes          02020                       % 02243 AVL---
+*Z 02244 AVL---       001 029                               % 02244 AVL---
+*L 12       200417012 200420003  00740  00816               % 02244 AVL---
+*A BE 200417012 200420003 000017  00740  00816              % 02244 AVL---
+*R 2 200420003 200417012 200420003  00740  00816            % 02244 AVL---
+*G ST  200417012 200420003  00740  00816                    % 02244 AVL---
+*A VE 200417012 200420003 000017  00740  00816              % 02244 AVL---
+200417012 Kirchberg, Chambre d         00740                % 02244 AVL---
+200417004 Kirchberg, Alphonse   00741  00741                % 02244 AVL---
+200417015 Kirchberg, Hôpital    00743  00743                % 02244 AVL---
+200417032 Kirchberg, Pierre We  00744  00744                % 02244 AVL---
+200417034 Kirchberg, Rehazente  00744  00744                % 02244 AVL---
+200417020 Kirchberg, Labours    00746  00746                % 02244 AVL---
+200417026 Kirchberg, Muguets    00747  00747                % 02244 AVL---
+200417024 Kirchberg, Marguerit  00747  00747                % 02244 AVL---
+200426003 Weimershof, Pâqueret  00748  00748                % 02244 AVL---
+200426001 Weimershof, Bleuets   00749  00749                % 02244 AVL---
+200417021 Kirchberg, Léon Heng  00751  00751                % 02244 AVL---
+200417049 Kirchberg, Niedergrü  00752  00752                % 02244 AVL---
+200417061 Kirchberg, Philharmo  00753  00753                % 02244 AVL---
+200417047 Kirchberg, Rout Bréc  00754  00754                % 02244 AVL---
+200405014 Centre, Fondation Pe  00757  00757                % 02244 AVL---
+200405020 Hamilius (Bus)        00801  00801                % 02244 AVL---
+200405045 Centre, Stäreplaz /   00805  00805                % 02244 AVL---
+200403022 Luxembourg, Square N  00807  00807                % 02244 AVL---
+200403002 Belair, Archiducs     00808  00808                % 02244 AVL---
+200403001 Belair, Amsterdam     00808  00808                % 02244 AVL---
+200403010 Belair, Kierch        00809  00809                % 02244 AVL---
+200403014 Belair, Place de Liè  00810  00810                % 02244 AVL---
+200420001 Merl, Athénée         00811  00811                % 02244 AVL---
+200420004 Merl, Conservatoire   00813  00813                % 02244 AVL---
+200420009 Merl, Marcel Cahen    00814  00814                % 02244 AVL---
+200420002 Merl, Barrière        00815  00815                % 02244 AVL---
+200420015 Merl, St. Gengoul     00815  00815                % 02244 AVL---
+200420003 Merl, Celtes          00816                       % 02244 AVL---
+*Z 02245 AVL---       021 030                               % 02245 AVL---
+*L 12       200417012 200420003  00839  00915               % 02245 AVL---
+*A BE 200417012 200420003 000017  00839  00915              % 02245 AVL---
+*R 2 200420003 200417012 200420003  00839  00915            % 02245 AVL---
+*G ST  200417012 200420003  00839  00915                    % 02245 AVL---
+*A VE 200417012 200420003 000017  00839  00915              % 02245 AVL---
+200417012 Kirchberg, Chambre d         00839                % 02245 AVL---
+200417004 Kirchberg, Alphonse   00840  00840                % 02245 AVL---
+200417015 Kirchberg, Hôpital    00842  00842                % 02245 AVL---
+200417032 Kirchberg, Pierre We  00843  00843                % 02245 AVL---
+200417034 Kirchberg, Rehazente  00843  00843                % 02245 AVL---
+200417020 Kirchberg, Labours    00845  00845                % 02245 AVL---
+200417026 Kirchberg, Muguets    00846  00846                % 02245 AVL---
+200417024 Kirchberg, Marguerit  00846  00846                % 02245 AVL---
+200426003 Weimershof, Pâqueret  00847  00847                % 02245 AVL---
+200426001 Weimershof, Bleuets   00848  00848                % 02245 AVL---
+200417021 Kirchberg, Léon Heng  00850  00850                % 02245 AVL---
+200417049 Kirchberg, Niedergrü  00851  00851                % 02245 AVL---
+200417061 Kirchberg, Philharmo  00852  00852                % 02245 AVL---
+200417047 Kirchberg, Rout Bréc  00853  00853                % 02245 AVL---
+200405014 Centre, Fondation Pe  00856  00856                % 02245 AVL---
+200405020 Hamilius (Bus)        00900  00900                % 02245 AVL---
+200405045 Centre, Stäreplaz /   00904  00904                % 02245 AVL---
+200403022 Luxembourg, Square N  00906  00906                % 02245 AVL---
+200403002 Belair, Archiducs     00907  00907                % 02245 AVL---
+200403001 Belair, Amsterdam     00907  00907                % 02245 AVL---
+200403010 Belair, Kierch        00908  00908                % 02245 AVL---
+200403014 Belair, Place de Liè  00909  00909                % 02245 AVL---
+200420001 Merl, Athénée         00910  00910                % 02245 AVL---
+200420004 Merl, Conservatoire   00912  00912                % 02245 AVL---
+200420009 Merl, Marcel Cahen    00913  00913                % 02245 AVL---
+200420002 Merl, Barrière        00914  00914                % 02245 AVL---
+200420015 Merl, St. Gengoul     00914  00914                % 02245 AVL---
+200420003 Merl, Celtes          00915                       % 02245 AVL---
+*Z 02246 AVL---       016 030                               % 02246 AVL---
+*L 12       200417012 200420003  01110  01150               % 02246 AVL---
+*A BE 200417012 200420003 000016  01110  01150              % 02246 AVL---
+*R 2 200420003 200417012 200420003  01110  01150            % 02246 AVL---
+*G ST  200417012 200420003  01110  01150                    % 02246 AVL---
+*A VE 200417012 200420003 000016  01110  01150              % 02246 AVL---
+200417012 Kirchberg, Chambre d         01110                % 02246 AVL---
+200417004 Kirchberg, Alphonse   01111  01111                % 02246 AVL---
+200417015 Kirchberg, Hôpital    01113  01113                % 02246 AVL---
+200417032 Kirchberg, Pierre We  01114  01114                % 02246 AVL---
+200417034 Kirchberg, Rehazente  01114  01114                % 02246 AVL---
+200417020 Kirchberg, Labours    01116  01116                % 02246 AVL---
+200417026 Kirchberg, Muguets    01117  01117                % 02246 AVL---
+200417024 Kirchberg, Marguerit  01117  01117                % 02246 AVL---
+200426003 Weimershof, Pâqueret  01118  01118                % 02246 AVL---
+200426001 Weimershof, Bleuets   01119  01119                % 02246 AVL---
+200417021 Kirchberg, Léon Heng  01121  01121                % 02246 AVL---
+200417049 Kirchberg, Niedergrü  01122  01122                % 02246 AVL---
+200417061 Kirchberg, Philharmo  01123  01123                % 02246 AVL---
+200417047 Kirchberg, Rout Bréc  01124  01124                % 02246 AVL---
+200405014 Centre, Fondation Pe  01127  01127                % 02246 AVL---
+200405020 Hamilius (Bus)        01131  01135                % 02246 AVL---
+200405045 Centre, Stäreplaz /   01139  01139                % 02246 AVL---
+200403022 Luxembourg, Square N  01141  01141                % 02246 AVL---
+200403002 Belair, Archiducs     01142  01142                % 02246 AVL---
+200403001 Belair, Amsterdam     01142  01142                % 02246 AVL---
+200403010 Belair, Kierch        01143  01143                % 02246 AVL---
+200403014 Belair, Place de Liè  01144  01144                % 02246 AVL---
+200420001 Merl, Athénée         01145  01145                % 02246 AVL---
+200420004 Merl, Conservatoire   01147  01147                % 02246 AVL---
+200420009 Merl, Marcel Cahen    01148  01148                % 02246 AVL---
+200420002 Merl, Barrière        01149  01149                % 02246 AVL---
+200420015 Merl, St. Gengoul     01149  01149                % 02246 AVL---
+200420003 Merl, Celtes          01150                       % 02246 AVL---
+*Z 02247 AVL---       003 030                               % 02247 AVL---
+*L 12       200420003 200417012  00559  00632               % 02247 AVL---
+*A BE 200420003 200417012 000025  00559  00632              % 02247 AVL---
+*R 1 200417012 200420003 200417012  00559  00632            % 02247 AVL---
+*G ST  200420003 200417012  00559  00632                    % 02247 AVL---
+*A VE 200420003 200417012 000025  00559  00632              % 02247 AVL---
+200420003 Merl, Celtes                 00559                % 02247 AVL---
+200420002 Merl, Barrière        00559  00559                % 02247 AVL---
+200420009 Merl, Marcel Cahen    00600  00600                % 02247 AVL---
+200420004 Merl, Conservatoire   00602  00602                % 02247 AVL---
+200420001 Merl, Athénée         00604  00604                % 02247 AVL---
+200403014 Belair, Place de Liè  00605  00605                % 02247 AVL---
+200403010 Belair, Kierch        00606  00606                % 02247 AVL---
+200403001 Belair, Amsterdam     00607  00607                % 02247 AVL---
+200403002 Belair, Archiducs     00608  00608                % 02247 AVL---
+200403022 Luxembourg, Square N  00608  00608                % 02247 AVL---
+200405045 Centre, Stäreplaz /   00610  00610                % 02247 AVL---
+200403020 Belair, Wampach       00612  00612                % 02247 AVL---
+200405025 Luxembourg/Centre, M  00613  00613                % 02247 AVL---
+200405049 Luxembourg, Amélie    00614  00614                % 02247 AVL---
+200405014 Centre, Fondation Pe  00616  00616                % 02247 AVL---
+200417047 Kirchberg, Rout Bréc  00618  00618                % 02247 AVL---
+200417061 Kirchberg, Philharmo  00620  00620                % 02247 AVL---
+200417049 Kirchberg, Niedergrü  00620  00620                % 02247 AVL---
+200417021 Kirchberg, Léon Heng  00621  00621                % 02247 AVL---
+200426001 Weimershof, Bleuets   00623  00623                % 02247 AVL---
+200426003 Weimershof, Pâqueret  00624  00624                % 02247 AVL---
+200417024 Kirchberg, Marguerit  00625  00625                % 02247 AVL---
+200417026 Kirchberg, Muguets    00626  00626                % 02247 AVL---
+200417020 Kirchberg, Labours    00626  00626                % 02247 AVL---
+200417034 Kirchberg, Rehazente  00628  00628                % 02247 AVL---
+200417032 Kirchberg, Pierre We  00628  00628                % 02247 AVL---
+200417015 Kirchberg, Hôpital    00629  00629                % 02247 AVL---
+200417004 Kirchberg, Alphonse   00631  00631                % 02247 AVL---
+200417012 Kirchberg, Chambre d  00632                       % 02247 AVL---
+*Z 02248 AVL---       001 870                               % 02248 AVL---
+*L 12       200420003 200417012  00529  00602               % 02248 AVL---
+*A BE 200420003 200417012 000036  00529  00602              % 02248 AVL---
+*R 1 200417012 200420003 200417012  00529  00602            % 02248 AVL---
+*G ST  200420003 200417012  00529  00602                    % 02248 AVL---
+*A VE 200420003 200417012 000036  00529  00602              % 02248 AVL---
+200420003 Merl, Celtes                 00529                % 02248 AVL---
+200420002 Merl, Barrière        00529  00529                % 02248 AVL---
+200420009 Merl, Marcel Cahen    00530  00530                % 02248 AVL---
+200420004 Merl, Conservatoire   00532  00532                % 02248 AVL---
+200420001 Merl, Athénée         00534  00534                % 02248 AVL---
+200403014 Belair, Place de Liè  00535  00535                % 02248 AVL---
+200403010 Belair, Kierch        00536  00536                % 02248 AVL---
+200403001 Belair, Amsterdam     00537  00537                % 02248 AVL---
+200403002 Belair, Archiducs     00538  00538                % 02248 AVL---
+200403022 Luxembourg, Square N  00538  00538                % 02248 AVL---
+200405045 Centre, Stäreplaz /   00540  00540                % 02248 AVL---
+200403020 Belair, Wampach       00542  00542                % 02248 AVL---
+200405025 Luxembourg/Centre, M  00543  00543                % 02248 AVL---
+200405049 Luxembourg, Amélie    00544  00544                % 02248 AVL---
+200405014 Centre, Fondation Pe  00546  00546                % 02248 AVL---
+200417047 Kirchberg, Rout Bréc  00548  00548                % 02248 AVL---
+200417061 Kirchberg, Philharmo  00550  00550                % 02248 AVL---
+200417049 Kirchberg, Niedergrü  00550  00550                % 02248 AVL---
+200417021 Kirchberg, Léon Heng  00551  00551                % 02248 AVL---
+200426001 Weimershof, Bleuets   00553  00553                % 02248 AVL---
+200426003 Weimershof, Pâqueret  00554  00554                % 02248 AVL---
+200417024 Kirchberg, Marguerit  00555  00555                % 02248 AVL---
+200417026 Kirchberg, Muguets    00556  00556                % 02248 AVL---
+200417020 Kirchberg, Labours    00556  00556                % 02248 AVL---
+200417034 Kirchberg, Rehazente  00558  00558                % 02248 AVL---
+200417032 Kirchberg, Pierre We  00558  00558                % 02248 AVL---
+200417015 Kirchberg, Hôpital    00559  00559                % 02248 AVL---
+200417004 Kirchberg, Alphonse   00601  00601                % 02248 AVL---
+200417012 Kirchberg, Chambre d  00602                       % 02248 AVL---
+*Z 02249 AVL---       003 030                               % 02249 AVL---
+*L 12       200420003 200417012  02029  02102               % 02249 AVL---
+*A BE 200420003 200417012 000036  02029  02102              % 02249 AVL---
+*R 1 200417012 200420003 200417012  02029  02102            % 02249 AVL---
+*G ST  200420003 200417012  02029  02102                    % 02249 AVL---
+*A VE 200420003 200417012 000036  02029  02102              % 02249 AVL---
+200420003 Merl, Celtes                 02029                % 02249 AVL---
+200420002 Merl, Barrière        02029  02029                % 02249 AVL---
+200420009 Merl, Marcel Cahen    02030  02030                % 02249 AVL---
+200420004 Merl, Conservatoire   02032  02032                % 02249 AVL---
+200420001 Merl, Athénée         02034  02034                % 02249 AVL---
+200403014 Belair, Place de Liè  02035  02035                % 02249 AVL---
+200403010 Belair, Kierch        02036  02036                % 02249 AVL---
+200403001 Belair, Amsterdam     02037  02037                % 02249 AVL---
+200403002 Belair, Archiducs     02038  02038                % 02249 AVL---
+200403022 Luxembourg, Square N  02038  02038                % 02249 AVL---
+200405045 Centre, Stäreplaz /   02040  02040                % 02249 AVL---
+200403020 Belair, Wampach       02042  02042                % 02249 AVL---
+200405025 Luxembourg/Centre, M  02043  02043                % 02249 AVL---
+200405049 Luxembourg, Amélie    02044  02044                % 02249 AVL---
+200405014 Centre, Fondation Pe  02046  02046                % 02249 AVL---
+200417047 Kirchberg, Rout Bréc  02048  02048                % 02249 AVL---
+200417061 Kirchberg, Philharmo  02050  02050                % 02249 AVL---
+200417049 Kirchberg, Niedergrü  02050  02050                % 02249 AVL---
+200417021 Kirchberg, Léon Heng  02051  02051                % 02249 AVL---
+200426001 Weimershof, Bleuets   02053  02053                % 02249 AVL---
+200426003 Weimershof, Pâqueret  02054  02054                % 02249 AVL---
+200417024 Kirchberg, Marguerit  02055  02055                % 02249 AVL---
+200417026 Kirchberg, Muguets    02056  02056                % 02249 AVL---
+200417020 Kirchberg, Labours    02056  02056                % 02249 AVL---
+200417034 Kirchberg, Rehazente  02058  02058                % 02249 AVL---
+200417032 Kirchberg, Pierre We  02058  02058                % 02249 AVL---
+200417015 Kirchberg, Hôpital    02059  02059                % 02249 AVL---
+200417004 Kirchberg, Alphonse   02101  02101                % 02249 AVL---
+200417012 Kirchberg, Chambre d  02102                       % 02249 AVL---
+*Z 02250 AVL---                                             % 02250 AVL---
+*L 12       200420003 200417012  01946  02019               % 02250 AVL---
+*A BE 200420003 200417012 000033  01946  02019              % 02250 AVL---
+*R 1 200417012 200420003 200417012  01946  02019            % 02250 AVL---
+*G ST  200420003 200417012  01946  02019                    % 02250 AVL---
+*A VE 200420003 200417012 000033  01946  02019              % 02250 AVL---
+200420003 Merl, Celtes                 01946                % 02250 AVL---
+200420002 Merl, Barrière        01946  01946                % 02250 AVL---
+200420009 Merl, Marcel Cahen    01947  01947                % 02250 AVL---
+200420004 Merl, Conservatoire   01949  01949                % 02250 AVL---
+200420001 Merl, Athénée         01951  01951                % 02250 AVL---
+200403014 Belair, Place de Liè  01952  01952                % 02250 AVL---
+200403010 Belair, Kierch        01953  01953                % 02250 AVL---
+200403001 Belair, Amsterdam     01954  01954                % 02250 AVL---
+200403002 Belair, Archiducs     01955  01955                % 02250 AVL---
+200403022 Luxembourg, Square N  01955  01955                % 02250 AVL---
+200405045 Centre, Stäreplaz /   01957  01957                % 02250 AVL---
+200403020 Belair, Wampach       01959  01959                % 02250 AVL---
+200405025 Luxembourg/Centre, M  02000  02000                % 02250 AVL---
+200405049 Luxembourg, Amélie    02001  02001                % 02250 AVL---
+200405014 Centre, Fondation Pe  02003  02003                % 02250 AVL---
+200417047 Kirchberg, Rout Bréc  02005  02005                % 02250 AVL---
+200417061 Kirchberg, Philharmo  02007  02007                % 02250 AVL---
+200417049 Kirchberg, Niedergrü  02007  02007                % 02250 AVL---
+200417021 Kirchberg, Léon Heng  02008  02008                % 02250 AVL---
+200426001 Weimershof, Bleuets   02010  02010                % 02250 AVL---
+200426003 Weimershof, Pâqueret  02011  02011                % 02250 AVL---
+200417024 Kirchberg, Marguerit  02012  02012                % 02250 AVL---
+200417026 Kirchberg, Muguets    02013  02013                % 02250 AVL---
+200417020 Kirchberg, Labours    02013  02013                % 02250 AVL---
+200417034 Kirchberg, Rehazente  02015  02015                % 02250 AVL---
+200417032 Kirchberg, Pierre We  02015  02015                % 02250 AVL---
+200417015 Kirchberg, Hôpital    02016  02016                % 02250 AVL---
+200417004 Kirchberg, Alphonse   02018  02018                % 02250 AVL---
+200417012 Kirchberg, Chambre d  02019                       % 02250 AVL---
+*Z 02251 AVL---       005 030                               % 02251 AVL---
+*L 12       200420003 200417012  00829  00902               % 02251 AVL---
+*A BE 200420003 200417012 000018  00829  00902              % 02251 AVL---
+*R 1 200417012 200420003 200417012  00829  00902            % 02251 AVL---
+*G ST  200420003 200417012  00829  00902                    % 02251 AVL---
+*A VE 200420003 200417012 000018  00829  00902              % 02251 AVL---
+200420003 Merl, Celtes                 00829                % 02251 AVL---
+200420002 Merl, Barrière        00829  00829                % 02251 AVL---
+200420009 Merl, Marcel Cahen    00830  00830                % 02251 AVL---
+200420004 Merl, Conservatoire   00832  00832                % 02251 AVL---
+200420001 Merl, Athénée         00834  00834                % 02251 AVL---
+200403014 Belair, Place de Liè  00835  00835                % 02251 AVL---
+200403010 Belair, Kierch        00836  00836                % 02251 AVL---
+200403001 Belair, Amsterdam     00837  00837                % 02251 AVL---
+200403002 Belair, Archiducs     00838  00838                % 02251 AVL---
+200403022 Luxembourg, Square N  00838  00838                % 02251 AVL---
+200405045 Centre, Stäreplaz /   00840  00840                % 02251 AVL---
+200403020 Belair, Wampach       00842  00842                % 02251 AVL---
+200405025 Luxembourg/Centre, M  00843  00843                % 02251 AVL---
+200405049 Luxembourg, Amélie    00844  00844                % 02251 AVL---
+200405014 Centre, Fondation Pe  00846  00846                % 02251 AVL---
+200417047 Kirchberg, Rout Bréc  00848  00848                % 02251 AVL---
+200417061 Kirchberg, Philharmo  00850  00850                % 02251 AVL---
+200417049 Kirchberg, Niedergrü  00850  00850                % 02251 AVL---
+200417021 Kirchberg, Léon Heng  00851  00851                % 02251 AVL---
+200426001 Weimershof, Bleuets   00853  00853                % 02251 AVL---
+200426003 Weimershof, Pâqueret  00854  00854                % 02251 AVL---
+200417024 Kirchberg, Marguerit  00855  00855                % 02251 AVL---
+200417026 Kirchberg, Muguets    00856  00856                % 02251 AVL---
+200417020 Kirchberg, Labours    00856  00856                % 02251 AVL---
+200417034 Kirchberg, Rehazente  00858  00858                % 02251 AVL---
+200417032 Kirchberg, Pierre We  00858  00858                % 02251 AVL---
+200417015 Kirchberg, Hôpital    00859  00859                % 02251 AVL---
+200417004 Kirchberg, Alphonse   00901  00901                % 02251 AVL---
+200417012 Kirchberg, Chambre d  00902                       % 02251 AVL---
+*Z 02252 AVL---       006 030                               % 02252 AVL---
+*L 12       200420003 200417012  00758  00832               % 02252 AVL---
+*A BE 200420003 200417012 000025  00758  00832              % 02252 AVL---
+*R 1 200417012 200420003 200417012  00758  00832            % 02252 AVL---
+*G ST  200420003 200417012  00758  00832                    % 02252 AVL---
+*A VE 200420003 200417012 000025  00758  00832              % 02252 AVL---
+200420003 Merl, Celtes                 00758                % 02252 AVL---
+200420002 Merl, Barrière        00759  00759                % 02252 AVL---
+200420009 Merl, Marcel Cahen    00800  00800                % 02252 AVL---
+200420004 Merl, Conservatoire   00802  00802                % 02252 AVL---
+200420001 Merl, Athénée         00804  00804                % 02252 AVL---
+200403014 Belair, Place de Liè  00805  00805                % 02252 AVL---
+200403010 Belair, Kierch        00806  00806                % 02252 AVL---
+200403001 Belair, Amsterdam     00807  00807                % 02252 AVL---
+200403002 Belair, Archiducs     00807  00807                % 02252 AVL---
+200403022 Luxembourg, Square N  00808  00808                % 02252 AVL---
+200405045 Centre, Stäreplaz /   00810  00810                % 02252 AVL---
+200403020 Belair, Wampach       00812  00812                % 02252 AVL---
+200405025 Luxembourg/Centre, M  00813  00813                % 02252 AVL---
+200405049 Luxembourg, Amélie    00814  00814                % 02252 AVL---
+200405014 Centre, Fondation Pe  00816  00816                % 02252 AVL---
+200417047 Kirchberg, Rout Bréc  00818  00818                % 02252 AVL---
+200417061 Kirchberg, Philharmo  00820  00820                % 02252 AVL---
+200417049 Kirchberg, Niedergrü  00821  00821                % 02252 AVL---
+200417021 Kirchberg, Léon Heng  00821  00821                % 02252 AVL---
+200426001 Weimershof, Bleuets   00823  00823                % 02252 AVL---
+200426003 Weimershof, Pâqueret  00824  00824                % 02252 AVL---
+200417024 Kirchberg, Marguerit  00825  00825                % 02252 AVL---
+200417026 Kirchberg, Muguets    00826  00826                % 02252 AVL---
+200417020 Kirchberg, Labours    00827  00827                % 02252 AVL---
+200417034 Kirchberg, Rehazente  00828  00828                % 02252 AVL---
+200417032 Kirchberg, Pierre We  00828  00828                % 02252 AVL---
+200417015 Kirchberg, Hôpital    00830  00830                % 02252 AVL---
+200417004 Kirchberg, Alphonse   00831  00831                % 02252 AVL---
+200417012 Kirchberg, Chambre d  00832                       % 02252 AVL---
+*Z 02253 AVL---       016 030                               % 02253 AVL---
+*L 12       200420003 200417012  01128  01202               % 02253 AVL---
+*A BE 200420003 200417012 000035  01128  01202              % 02253 AVL---
+*R 1 200417012 200420003 200417012  01128  01202            % 02253 AVL---
+*G ST  200420003 200417012  01128  01202                    % 02253 AVL---
+*A VE 200420003 200417012 000035  01128  01202              % 02253 AVL---
+200420003 Merl, Celtes                 01128                % 02253 AVL---
+200420002 Merl, Barrière        01129  01129                % 02253 AVL---
+200420009 Merl, Marcel Cahen    01130  01130                % 02253 AVL---
+200420004 Merl, Conservatoire   01132  01132                % 02253 AVL---
+200420001 Merl, Athénée         01134  01134                % 02253 AVL---
+200403014 Belair, Place de Liè  01135  01135                % 02253 AVL---
+200403010 Belair, Kierch        01136  01136                % 02253 AVL---
+200403001 Belair, Amsterdam     01137  01137                % 02253 AVL---
+200403002 Belair, Archiducs     01137  01137                % 02253 AVL---
+200403022 Luxembourg, Square N  01138  01138                % 02253 AVL---
+200405045 Centre, Stäreplaz /   01140  01140                % 02253 AVL---
+200403020 Belair, Wampach       01142  01142                % 02253 AVL---
+200405025 Luxembourg/Centre, M  01143  01143                % 02253 AVL---
+200405049 Luxembourg, Amélie    01144  01144                % 02253 AVL---
+200405014 Centre, Fondation Pe  01146  01146                % 02253 AVL---
+200417047 Kirchberg, Rout Bréc  01148  01148                % 02253 AVL---
+200417061 Kirchberg, Philharmo  01150  01150                % 02253 AVL---
+200417049 Kirchberg, Niedergrü  01151  01151                % 02253 AVL---
+200417021 Kirchberg, Léon Heng  01151  01151                % 02253 AVL---
+200426001 Weimershof, Bleuets   01153  01153                % 02253 AVL---
+200426003 Weimershof, Pâqueret  01154  01154                % 02253 AVL---
+200417024 Kirchberg, Marguerit  01155  01155                % 02253 AVL---
+200417026 Kirchberg, Muguets    01156  01156                % 02253 AVL---
+200417020 Kirchberg, Labours    01157  01157                % 02253 AVL---
+200417034 Kirchberg, Rehazente  01158  01158                % 02253 AVL---
+200417032 Kirchberg, Pierre We  01158  01158                % 02253 AVL---
+200417015 Kirchberg, Hôpital    01200  01200                % 02253 AVL---
+200417004 Kirchberg, Alphonse   01201  01201                % 02253 AVL---
+200417012 Kirchberg, Chambre d  01202                       % 02253 AVL---
+*Z 02254 AVL---       041 020                               % 02254 AVL---
+*L 12       200420003 200417012  00542  00623               % 02254 AVL---
+*A BE 200420003 200417012 000033  00542  00623              % 02254 AVL---
+*R 1 200417012 200420003 200417012  00542  00623            % 02254 AVL---
+*G ST  200420003 200417012  00542  00623                    % 02254 AVL---
+*A VE 200420003 200417012 000033  00542  00623              % 02254 AVL---
+200420003 Merl, Celtes                 00542                % 02254 AVL---
+200420002 Merl, Barrière        00543  00543                % 02254 AVL---
+200420009 Merl, Marcel Cahen    00544  00544                % 02254 AVL---
+200420004 Merl, Conservatoire   00546  00546                % 02254 AVL---
+200420001 Merl, Athénée         00548  00548                % 02254 AVL---
+200403014 Belair, Place de Liè  00550  00550                % 02254 AVL---
+200403010 Belair, Kierch        00551  00551                % 02254 AVL---
+200403001 Belair, Amsterdam     00552  00552                % 02254 AVL---
+200403002 Belair, Archiducs     00553  00553                % 02254 AVL---
+200403022 Luxembourg, Square N  00554  00554                % 02254 AVL---
+200405045 Centre, Stäreplaz /   00556  00556                % 02254 AVL---
+200403020 Belair, Wampach       00558  00558                % 02254 AVL---
+200405025 Luxembourg/Centre, M  00600  00600                % 02254 AVL---
+200405049 Luxembourg, Amélie    00602  00602                % 02254 AVL---
+200405014 Centre, Fondation Pe  00604  00604                % 02254 AVL---
+200417047 Kirchberg, Rout Bréc  00606  00606                % 02254 AVL---
+200417061 Kirchberg, Philharmo  00608  00608                % 02254 AVL---
+200417049 Kirchberg, Niedergrü  00609  00609                % 02254 AVL---
+200417021 Kirchberg, Léon Heng  00610  00610                % 02254 AVL---
+200426001 Weimershof, Bleuets   00612  00612                % 02254 AVL---
+200426003 Weimershof, Pâqueret  00613  00613                % 02254 AVL---
+200417024 Kirchberg, Marguerit  00614  00614                % 02254 AVL---
+200417026 Kirchberg, Muguets    00615  00615                % 02254 AVL---
+200417020 Kirchberg, Labours    00616  00616                % 02254 AVL---
+200417034 Kirchberg, Rehazente  00618  00618                % 02254 AVL---
+200417032 Kirchberg, Pierre We  00618  00618                % 02254 AVL---
+200417015 Kirchberg, Hôpital    00620  00620                % 02254 AVL---
+200417004 Kirchberg, Alphonse   00622  00622                % 02254 AVL---
+200417012 Kirchberg, Chambre d  00623                       % 02254 AVL---
+*Z 02255 AVL---                                             % 02255 AVL---
+*L 12       200417012 200420003  02012  02049               % 02255 AVL---
+*A BE 200417012 200420003 000039  02012  02049              % 02255 AVL---
+*R 2 200420003 200417012 200420003  02012  02049            % 02255 AVL---
+*G ST  200417012 200420003  02012  02049                    % 02255 AVL---
+*A VE 200417012 200420003 000039  02012  02049              % 02255 AVL---
+200417012 Kirchberg, Chambre d         02012                % 02255 AVL---
+200417004 Kirchberg, Alphonse   02012  02012                % 02255 AVL---
+200417015 Kirchberg, Hôpital    02014  02014                % 02255 AVL---
+200417032 Kirchberg, Pierre We  02015  02015                % 02255 AVL---
+200417034 Kirchberg, Rehazente  02016  02016                % 02255 AVL---
+200417020 Kirchberg, Labours    02017  02017                % 02255 AVL---
+200417026 Kirchberg, Muguets    02018  02018                % 02255 AVL---
+200417024 Kirchberg, Marguerit  02019  02019                % 02255 AVL---
+200426003 Weimershof, Pâqueret  02019  02019                % 02255 AVL---
+200426001 Weimershof, Bleuets   02020  02020                % 02255 AVL---
+200417021 Kirchberg, Léon Heng  02022  02022                % 02255 AVL---
+200417049 Kirchberg, Niedergrü  02023  02023                % 02255 AVL---
+200417061 Kirchberg, Philharmo  02024  02024                % 02255 AVL---
+200417047 Kirchberg, Rout Bréc  02025  02025                % 02255 AVL---
+200405014 Centre, Fondation Pe  02028  02028                % 02255 AVL---
+200405020 Hamilius (Bus)        02031  02035                % 02255 AVL---
+200405045 Centre, Stäreplaz /   02039  02039                % 02255 AVL---
+200403022 Luxembourg, Square N  02041  02041                % 02255 AVL---
+200403002 Belair, Archiducs     02041  02041                % 02255 AVL---
+200403001 Belair, Amsterdam     02042  02042                % 02255 AVL---
+200403010 Belair, Kierch        02043  02043                % 02255 AVL---
+200403014 Belair, Place de Liè  02044  02044                % 02255 AVL---
+200420001 Merl, Athénée         02045  02045                % 02255 AVL---
+200420004 Merl, Conservatoire   02046  02046                % 02255 AVL---
+200420009 Merl, Marcel Cahen    02047  02047                % 02255 AVL---
+200420002 Merl, Barrière        02048  02048                % 02255 AVL---
+200420015 Merl, St. Gengoul     02048  02048                % 02255 AVL---
+200420003 Merl, Celtes          02049                       % 02255 AVL---
+*Z 02256 AVL---       002 030                               % 02256 AVL---
+*L 12       200417012 200420003  00612  00649               % 02256 AVL---
+*A BE 200417012 200420003 000025  00612  00649              % 02256 AVL---
+*R 2 200420003 200417012 200420003  00612  00649            % 02256 AVL---
+*G ST  200417012 200420003  00612  00649                    % 02256 AVL---
+*A VE 200417012 200420003 000025  00612  00649              % 02256 AVL---
+200417012 Kirchberg, Chambre d         00612                % 02256 AVL---
+200417004 Kirchberg, Alphonse   00612  00612                % 02256 AVL---
+200417015 Kirchberg, Hôpital    00614  00614                % 02256 AVL---
+200417032 Kirchberg, Pierre We  00615  00615                % 02256 AVL---
+200417034 Kirchberg, Rehazente  00616  00616                % 02256 AVL---
+200417020 Kirchberg, Labours    00617  00617                % 02256 AVL---
+200417026 Kirchberg, Muguets    00618  00618                % 02256 AVL---
+200417024 Kirchberg, Marguerit  00619  00619                % 02256 AVL---
+200426003 Weimershof, Pâqueret  00619  00619                % 02256 AVL---
+200426001 Weimershof, Bleuets   00620  00620                % 02256 AVL---
+200417021 Kirchberg, Léon Heng  00622  00622                % 02256 AVL---
+200417049 Kirchberg, Niedergrü  00623  00623                % 02256 AVL---
+200417061 Kirchberg, Philharmo  00624  00624                % 02256 AVL---
+200417047 Kirchberg, Rout Bréc  00625  00625                % 02256 AVL---
+200405014 Centre, Fondation Pe  00628  00628                % 02256 AVL---
+200405020 Hamilius (Bus)        00631  00635                % 02256 AVL---
+200405045 Centre, Stäreplaz /   00639  00639                % 02256 AVL---
+200403022 Luxembourg, Square N  00641  00641                % 02256 AVL---
+200403002 Belair, Archiducs     00641  00641                % 02256 AVL---
+200403001 Belair, Amsterdam     00642  00642                % 02256 AVL---
+200403010 Belair, Kierch        00643  00643                % 02256 AVL---
+200403014 Belair, Place de Liè  00644  00644                % 02256 AVL---
+200420001 Merl, Athénée         00645  00645                % 02256 AVL---
+200420004 Merl, Conservatoire   00646  00646                % 02256 AVL---
+200420009 Merl, Marcel Cahen    00647  00647                % 02256 AVL---
+200420002 Merl, Barrière        00648  00648                % 02256 AVL---
+200420015 Merl, St. Gengoul     00648  00648                % 02256 AVL---
+200420003 Merl, Celtes          00649                       % 02256 AVL---
+*Z 02257 AVL---       004 030                               % 02257 AVL---
+*L 12       200417012 200420003  02042  02119               % 02257 AVL---
+*A BE 200417012 200420003 000036  02042  02119              % 02257 AVL---
+*R 2 200420003 200417012 200420003  02042  02119            % 02257 AVL---
+*G ST  200417012 200420003  02042  02119                    % 02257 AVL---
+*A VE 200417012 200420003 000036  02042  02119              % 02257 AVL---
+200417012 Kirchberg, Chambre d         02042                % 02257 AVL---
+200417004 Kirchberg, Alphonse   02042  02042                % 02257 AVL---
+200417015 Kirchberg, Hôpital    02044  02044                % 02257 AVL---
+200417032 Kirchberg, Pierre We  02045  02045                % 02257 AVL---
+200417034 Kirchberg, Rehazente  02046  02046                % 02257 AVL---
+200417020 Kirchberg, Labours    02047  02047                % 02257 AVL---
+200417026 Kirchberg, Muguets    02048  02048                % 02257 AVL---
+200417024 Kirchberg, Marguerit  02049  02049                % 02257 AVL---
+200426003 Weimershof, Pâqueret  02049  02049                % 02257 AVL---
+200426001 Weimershof, Bleuets   02050  02050                % 02257 AVL---
+200417021 Kirchberg, Léon Heng  02052  02052                % 02257 AVL---
+200417049 Kirchberg, Niedergrü  02053  02053                % 02257 AVL---
+200417061 Kirchberg, Philharmo  02054  02054                % 02257 AVL---
+200417047 Kirchberg, Rout Bréc  02055  02055                % 02257 AVL---
+200405014 Centre, Fondation Pe  02058  02058                % 02257 AVL---
+200405020 Hamilius (Bus)        02101  02105                % 02257 AVL---
+200405045 Centre, Stäreplaz /   02109  02109                % 02257 AVL---
+200403022 Luxembourg, Square N  02111  02111                % 02257 AVL---
+200403002 Belair, Archiducs     02111  02111                % 02257 AVL---
+200403001 Belair, Amsterdam     02112  02112                % 02257 AVL---
+200403010 Belair, Kierch        02113  02113                % 02257 AVL---
+200403014 Belair, Place de Liè  02114  02114                % 02257 AVL---
+200420001 Merl, Athénée         02115  02115                % 02257 AVL---
+200420004 Merl, Conservatoire   02116  02116                % 02257 AVL---
+200420009 Merl, Marcel Cahen    02117  02117                % 02257 AVL---
+200420002 Merl, Barrière        02118  02118                % 02257 AVL---
+200420015 Merl, St. Gengoul     02118  02118                % 02257 AVL---
+200420003 Merl, Celtes          02119                       % 02257 AVL---
+*Z 02258 AVL---                                             % 02258 AVL---
+*L 12       200417012 200420003  00542  00619               % 02258 AVL---
+*A BE 200417012 200420003 000033  00542  00619              % 02258 AVL---
+*R 2 200420003 200417012 200420003  00542  00619            % 02258 AVL---
+*G ST  200417012 200420003  00542  00619                    % 02258 AVL---
+*A VE 200417012 200420003 000033  00542  00619              % 02258 AVL---
+200417012 Kirchberg, Chambre d         00542                % 02258 AVL---
+200417004 Kirchberg, Alphonse   00542  00542                % 02258 AVL---
+200417015 Kirchberg, Hôpital    00544  00544                % 02258 AVL---
+200417032 Kirchberg, Pierre We  00545  00545                % 02258 AVL---
+200417034 Kirchberg, Rehazente  00546  00546                % 02258 AVL---
+200417020 Kirchberg, Labours    00547  00547                % 02258 AVL---
+200417026 Kirchberg, Muguets    00548  00548                % 02258 AVL---
+200417024 Kirchberg, Marguerit  00549  00549                % 02258 AVL---
+200426003 Weimershof, Pâqueret  00549  00549                % 02258 AVL---
+200426001 Weimershof, Bleuets   00550  00550                % 02258 AVL---
+200417021 Kirchberg, Léon Heng  00552  00552                % 02258 AVL---
+200417049 Kirchberg, Niedergrü  00553  00553                % 02258 AVL---
+200417061 Kirchberg, Philharmo  00554  00554                % 02258 AVL---
+200417047 Kirchberg, Rout Bréc  00555  00555                % 02258 AVL---
+200405014 Centre, Fondation Pe  00558  00558                % 02258 AVL---
+200405020 Hamilius (Bus)        00601  00605                % 02258 AVL---
+200405045 Centre, Stäreplaz /   00609  00609                % 02258 AVL---
+200403022 Luxembourg, Square N  00611  00611                % 02258 AVL---
+200403002 Belair, Archiducs     00611  00611                % 02258 AVL---
+200403001 Belair, Amsterdam     00612  00612                % 02258 AVL---
+200403010 Belair, Kierch        00613  00613                % 02258 AVL---
+200403014 Belair, Place de Liè  00614  00614                % 02258 AVL---
+200420001 Merl, Athénée         00615  00615                % 02258 AVL---
+200420004 Merl, Conservatoire   00616  00616                % 02258 AVL---
+200420009 Merl, Marcel Cahen    00617  00617                % 02258 AVL---
+200420002 Merl, Barrière        00618  00618                % 02258 AVL---
+200420015 Merl, St. Gengoul     00618  00618                % 02258 AVL---
+200420003 Merl, Celtes          00619                       % 02258 AVL---
+*Z 02259 AVL---       003 030                               % 02259 AVL---
+*L 12       200417012 200420003  00912  00949               % 02259 AVL---
+*A BE 200417012 200420003 000018  00912  00949              % 02259 AVL---
+*R 2 200420003 200417012 200420003  00912  00949            % 02259 AVL---
+*G ST  200417012 200420003  00912  00949                    % 02259 AVL---
+*A VE 200417012 200420003 000018  00912  00949              % 02259 AVL---
+200417012 Kirchberg, Chambre d         00912                % 02259 AVL---
+200417004 Kirchberg, Alphonse   00912  00912                % 02259 AVL---
+200417015 Kirchberg, Hôpital    00914  00914                % 02259 AVL---
+200417032 Kirchberg, Pierre We  00915  00915                % 02259 AVL---
+200417034 Kirchberg, Rehazente  00916  00916                % 02259 AVL---
+200417020 Kirchberg, Labours    00917  00917                % 02259 AVL---
+200417026 Kirchberg, Muguets    00918  00918                % 02259 AVL---
+200417024 Kirchberg, Marguerit  00919  00919                % 02259 AVL---
+200426003 Weimershof, Pâqueret  00919  00919                % 02259 AVL---
+200426001 Weimershof, Bleuets   00920  00920                % 02259 AVL---
+200417021 Kirchberg, Léon Heng  00922  00922                % 02259 AVL---
+200417049 Kirchberg, Niedergrü  00923  00923                % 02259 AVL---
+200417061 Kirchberg, Philharmo  00924  00924                % 02259 AVL---
+200417047 Kirchberg, Rout Bréc  00925  00925                % 02259 AVL---
+200405014 Centre, Fondation Pe  00928  00928                % 02259 AVL---
+200405020 Hamilius (Bus)        00931  00935                % 02259 AVL---
+200405045 Centre, Stäreplaz /   00939  00939                % 02259 AVL---
+200403022 Luxembourg, Square N  00941  00941                % 02259 AVL---
+200403002 Belair, Archiducs     00941  00941                % 02259 AVL---
+200403001 Belair, Amsterdam     00942  00942                % 02259 AVL---
+200403010 Belair, Kierch        00943  00943                % 02259 AVL---
+200403014 Belair, Place de Liè  00944  00944                % 02259 AVL---
+200420001 Merl, Athénée         00945  00945                % 02259 AVL---
+200420004 Merl, Conservatoire   00946  00946                % 02259 AVL---
+200420009 Merl, Marcel Cahen    00947  00947                % 02259 AVL---
+200420002 Merl, Barrière        00948  00948                % 02259 AVL---
+200420015 Merl, St. Gengoul     00948  00948                % 02259 AVL---
+200420003 Merl, Celtes          00949                       % 02259 AVL---
+*Z 02260 AVL---                                             % 02260 AVL---
+*L 12       200417012 200420003  01942  02019               % 02260 AVL---
+*A BE 200417012 200420003 000018  01942  02019              % 02260 AVL---
+*R 2 200420003 200417012 200420003  01942  02019            % 02260 AVL---
+*G ST  200417012 200420003  01942  02019                    % 02260 AVL---
+*A VE 200417012 200420003 000018  01942  02019              % 02260 AVL---
+200417012 Kirchberg, Chambre d         01942                % 02260 AVL---
+200417004 Kirchberg, Alphonse   01942  01942                % 02260 AVL---
+200417015 Kirchberg, Hôpital    01944  01944                % 02260 AVL---
+200417032 Kirchberg, Pierre We  01945  01945                % 02260 AVL---
+200417034 Kirchberg, Rehazente  01946  01946                % 02260 AVL---
+200417020 Kirchberg, Labours    01947  01947                % 02260 AVL---
+200417026 Kirchberg, Muguets    01948  01948                % 02260 AVL---
+200417024 Kirchberg, Marguerit  01949  01949                % 02260 AVL---
+200426003 Weimershof, Pâqueret  01949  01949                % 02260 AVL---
+200426001 Weimershof, Bleuets   01950  01950                % 02260 AVL---
+200417021 Kirchberg, Léon Heng  01952  01952                % 02260 AVL---
+200417049 Kirchberg, Niedergrü  01953  01953                % 02260 AVL---
+200417061 Kirchberg, Philharmo  01954  01954                % 02260 AVL---
+200417047 Kirchberg, Rout Bréc  01955  01955                % 02260 AVL---
+200405014 Centre, Fondation Pe  01958  01958                % 02260 AVL---
+200405020 Hamilius (Bus)        02001  02005                % 02260 AVL---
+200405045 Centre, Stäreplaz /   02009  02009                % 02260 AVL---
+200403022 Luxembourg, Square N  02011  02011                % 02260 AVL---
+200403002 Belair, Archiducs     02011  02011                % 02260 AVL---
+200403001 Belair, Amsterdam     02012  02012                % 02260 AVL---
+200403010 Belair, Kierch        02013  02013                % 02260 AVL---
+200403014 Belair, Place de Liè  02014  02014                % 02260 AVL---
+200420001 Merl, Athénée         02015  02015                % 02260 AVL---
+200420004 Merl, Conservatoire   02016  02016                % 02260 AVL---
+200420009 Merl, Marcel Cahen    02017  02017                % 02260 AVL---
+200420002 Merl, Barrière        02018  02018                % 02260 AVL---
+200420015 Merl, St. Gengoul     02018  02018                % 02260 AVL---
+200420003 Merl, Celtes          02019                       % 02260 AVL---
+*Z 02261 AVL---       001 029                               % 02261 AVL---
+*L 12       200417012 200420003  00740  00816               % 02261 AVL---
+*A BE 200417012 200420003 000025  00740  00816              % 02261 AVL---
+*R 2 200420003 200417012 200420003  00740  00816            % 02261 AVL---
+*G ST  200417012 200420003  00740  00816                    % 02261 AVL---
+*A VE 200417012 200420003 000025  00740  00816              % 02261 AVL---
+200417012 Kirchberg, Chambre d         00740                % 02261 AVL---
+200417004 Kirchberg, Alphonse   00741  00741                % 02261 AVL---
+200417015 Kirchberg, Hôpital    00743  00743                % 02261 AVL---
+200417032 Kirchberg, Pierre We  00744  00744                % 02261 AVL---
+200417034 Kirchberg, Rehazente  00744  00744                % 02261 AVL---
+200417020 Kirchberg, Labours    00746  00746                % 02261 AVL---
+200417026 Kirchberg, Muguets    00747  00747                % 02261 AVL---
+200417024 Kirchberg, Marguerit  00747  00747                % 02261 AVL---
+200426003 Weimershof, Pâqueret  00748  00748                % 02261 AVL---
+200426001 Weimershof, Bleuets   00749  00749                % 02261 AVL---
+200417021 Kirchberg, Léon Heng  00751  00751                % 02261 AVL---
+200417049 Kirchberg, Niedergrü  00752  00752                % 02261 AVL---
+200417061 Kirchberg, Philharmo  00753  00753                % 02261 AVL---
+200417047 Kirchberg, Rout Bréc  00754  00754                % 02261 AVL---
+200405014 Centre, Fondation Pe  00757  00757                % 02261 AVL---
+200405020 Hamilius (Bus)        00801  00801                % 02261 AVL---
+200405045 Centre, Stäreplaz /   00805  00805                % 02261 AVL---
+200403022 Luxembourg, Square N  00807  00807                % 02261 AVL---
+200403002 Belair, Archiducs     00808  00808                % 02261 AVL---
+200403001 Belair, Amsterdam     00808  00808                % 02261 AVL---
+200403010 Belair, Kierch        00809  00809                % 02261 AVL---
+200403014 Belair, Place de Liè  00810  00810                % 02261 AVL---
+200420001 Merl, Athénée         00811  00811                % 02261 AVL---
+200420004 Merl, Conservatoire   00813  00813                % 02261 AVL---
+200420009 Merl, Marcel Cahen    00814  00814                % 02261 AVL---
+200420002 Merl, Barrière        00815  00815                % 02261 AVL---
+200420015 Merl, St. Gengoul     00815  00815                % 02261 AVL---
+200420003 Merl, Celtes          00816                       % 02261 AVL---
+*Z 02262 AVL---       021 030                               % 02262 AVL---
+*L 12       200417012 200420003  00839  00915               % 02262 AVL---
+*A BE 200417012 200420003 000025  00839  00915              % 02262 AVL---
+*R 2 200420003 200417012 200420003  00839  00915            % 02262 AVL---
+*G ST  200417012 200420003  00839  00915                    % 02262 AVL---
+*A VE 200417012 200420003 000025  00839  00915              % 02262 AVL---
+200417012 Kirchberg, Chambre d         00839                % 02262 AVL---
+200417004 Kirchberg, Alphonse   00840  00840                % 02262 AVL---
+200417015 Kirchberg, Hôpital    00842  00842                % 02262 AVL---
+200417032 Kirchberg, Pierre We  00843  00843                % 02262 AVL---
+200417034 Kirchberg, Rehazente  00843  00843                % 02262 AVL---
+200417020 Kirchberg, Labours    00845  00845                % 02262 AVL---
+200417026 Kirchberg, Muguets    00846  00846                % 02262 AVL---
+200417024 Kirchberg, Marguerit  00846  00846                % 02262 AVL---
+200426003 Weimershof, Pâqueret  00847  00847                % 02262 AVL---
+200426001 Weimershof, Bleuets   00848  00848                % 02262 AVL---
+200417021 Kirchberg, Léon Heng  00850  00850                % 02262 AVL---
+200417049 Kirchberg, Niedergrü  00851  00851                % 02262 AVL---
+200417061 Kirchberg, Philharmo  00852  00852                % 02262 AVL---
+200417047 Kirchberg, Rout Bréc  00853  00853                % 02262 AVL---
+200405014 Centre, Fondation Pe  00856  00856                % 02262 AVL---
+200405020 Hamilius (Bus)        00900  00900                % 02262 AVL---
+200405045 Centre, Stäreplaz /   00904  00904                % 02262 AVL---
+200403022 Luxembourg, Square N  00906  00906                % 02262 AVL---
+200403002 Belair, Archiducs     00907  00907                % 02262 AVL---
+200403001 Belair, Amsterdam     00907  00907                % 02262 AVL---
+200403010 Belair, Kierch        00908  00908                % 02262 AVL---
+200403014 Belair, Place de Liè  00909  00909                % 02262 AVL---
+200420001 Merl, Athénée         00910  00910                % 02262 AVL---
+200420004 Merl, Conservatoire   00912  00912                % 02262 AVL---
+200420009 Merl, Marcel Cahen    00913  00913                % 02262 AVL---
+200420002 Merl, Barrière        00914  00914                % 02262 AVL---
+200420015 Merl, St. Gengoul     00914  00914                % 02262 AVL---
+200420003 Merl, Celtes          00915                       % 02262 AVL---
+*Z 02263 AVL---                                             % 02263 AVL---
+*L 12       200417012 200420003  01941  02014               % 02263 AVL---
+*A BE 200417012 200420003 000025  01941  02014              % 02263 AVL---
+*R 2 200420003 200417012 200420003  01941  02014            % 02263 AVL---
+*G ST  200417012 200420003  01941  02014                    % 02263 AVL---
+*A VE 200417012 200420003 000025  01941  02014              % 02263 AVL---
+200417012 Kirchberg, Chambre d         01941                % 02263 AVL---
+200417004 Kirchberg, Alphonse   01941  01941                % 02263 AVL---
+200417015 Kirchberg, Hôpital    01943  01943                % 02263 AVL---
+200417032 Kirchberg, Pierre We  01944  01944                % 02263 AVL---
+200417034 Kirchberg, Rehazente  01945  01945                % 02263 AVL---
+200417020 Kirchberg, Labours    01946  01946                % 02263 AVL---
+200417026 Kirchberg, Muguets    01947  01947                % 02263 AVL---
+200417024 Kirchberg, Marguerit  01948  01948                % 02263 AVL---
+200426003 Weimershof, Pâqueret  01948  01948                % 02263 AVL---
+200426001 Weimershof, Bleuets   01949  01949                % 02263 AVL---
+200417021 Kirchberg, Léon Heng  01951  01951                % 02263 AVL---
+200417049 Kirchberg, Niedergrü  01952  01952                % 02263 AVL---
+200417061 Kirchberg, Philharmo  01953  01953                % 02263 AVL---
+200417047 Kirchberg, Rout Bréc  01954  01954                % 02263 AVL---
+200405014 Centre, Fondation Pe  01957  01957                % 02263 AVL---
+200405020 Hamilius (Bus)        02000  02000                % 02263 AVL---
+200405045 Centre, Stäreplaz /   02004  02004                % 02263 AVL---
+200403022 Luxembourg, Square N  02006  02006                % 02263 AVL---
+200403002 Belair, Archiducs     02006  02006                % 02263 AVL---
+200403001 Belair, Amsterdam     02007  02007                % 02263 AVL---
+200403010 Belair, Kierch        02008  02008                % 02263 AVL---
+200403014 Belair, Place de Liè  02009  02009                % 02263 AVL---
+200420001 Merl, Athénée         02010  02010                % 02263 AVL---
+200420004 Merl, Conservatoire   02011  02011                % 02263 AVL---
+200420009 Merl, Marcel Cahen    02012  02012                % 02263 AVL---
+200420002 Merl, Barrière        02013  02013                % 02263 AVL---
+200420015 Merl, St. Gengoul     02013  02013                % 02263 AVL---
+200420003 Merl, Celtes          02014                       % 02263 AVL---
+*Z 02264 AVL---                                             % 02264 AVL---
+*L 12       200417012 200420003  01947  02020               % 02264 AVL---
+*A BE 200417012 200420003 000033  01947  02020              % 02264 AVL---
+*R 2 200420003 200417012 200420003  01947  02020            % 02264 AVL---
+*G ST  200417012 200420003  01947  02020                    % 02264 AVL---
+*A VE 200417012 200420003 000033  01947  02020              % 02264 AVL---
+200417012 Kirchberg, Chambre d         01947                % 02264 AVL---
+200417004 Kirchberg, Alphonse   01947  01947                % 02264 AVL---
+200417015 Kirchberg, Hôpital    01949  01949                % 02264 AVL---
+200417032 Kirchberg, Pierre We  01950  01950                % 02264 AVL---
+200417034 Kirchberg, Rehazente  01951  01951                % 02264 AVL---
+200417020 Kirchberg, Labours    01952  01952                % 02264 AVL---
+200417026 Kirchberg, Muguets    01953  01953                % 02264 AVL---
+200417024 Kirchberg, Marguerit  01954  01954                % 02264 AVL---
+200426003 Weimershof, Pâqueret  01954  01954                % 02264 AVL---
+200426001 Weimershof, Bleuets   01955  01955                % 02264 AVL---
+200417021 Kirchberg, Léon Heng  01957  01957                % 02264 AVL---
+200417049 Kirchberg, Niedergrü  01958  01958                % 02264 AVL---
+200417061 Kirchberg, Philharmo  01959  01959                % 02264 AVL---
+200417047 Kirchberg, Rout Bréc  02000  02000                % 02264 AVL---
+200405014 Centre, Fondation Pe  02003  02003                % 02264 AVL---
+200405020 Hamilius (Bus)        02006  02006                % 02264 AVL---
+200405045 Centre, Stäreplaz /   02010  02010                % 02264 AVL---
+200403022 Luxembourg, Square N  02012  02012                % 02264 AVL---
+200403002 Belair, Archiducs     02012  02012                % 02264 AVL---
+200403001 Belair, Amsterdam     02013  02013                % 02264 AVL---
+200403010 Belair, Kierch        02014  02014                % 02264 AVL---
+200403014 Belair, Place de Liè  02015  02015                % 02264 AVL---
+200420001 Merl, Athénée         02016  02016                % 02264 AVL---
+200420004 Merl, Conservatoire   02017  02017                % 02264 AVL---
+200420009 Merl, Marcel Cahen    02018  02018                % 02264 AVL---
+200420002 Merl, Barrière        02019  02019                % 02264 AVL---
+200420015 Merl, St. Gengoul     02019  02019                % 02264 AVL---
+200420003 Merl, Celtes          02020                       % 02264 AVL---
+*Z 02265 AVL---       016 030                               % 02265 AVL---
+*L 12       200417012 200420003  01110  01150               % 02265 AVL---
+*A BE 200417012 200420003 000018  01110  01150              % 02265 AVL---
+*R 2 200420003 200417012 200420003  01110  01150            % 02265 AVL---
+*G ST  200417012 200420003  01110  01150                    % 02265 AVL---
+*A VE 200417012 200420003 000018  01110  01150              % 02265 AVL---
+200417012 Kirchberg, Chambre d         01110                % 02265 AVL---
+200417004 Kirchberg, Alphonse   01111  01111                % 02265 AVL---
+200417015 Kirchberg, Hôpital    01113  01113                % 02265 AVL---
+200417032 Kirchberg, Pierre We  01114  01114                % 02265 AVL---
+200417034 Kirchberg, Rehazente  01114  01114                % 02265 AVL---
+200417020 Kirchberg, Labours    01116  01116                % 02265 AVL---
+200417026 Kirchberg, Muguets    01117  01117                % 02265 AVL---
+200417024 Kirchberg, Marguerit  01117  01117                % 02265 AVL---
+200426003 Weimershof, Pâqueret  01118  01118                % 02265 AVL---
+200426001 Weimershof, Bleuets   01119  01119                % 02265 AVL---
+200417021 Kirchberg, Léon Heng  01121  01121                % 02265 AVL---
+200417049 Kirchberg, Niedergrü  01122  01122                % 02265 AVL---
+200417061 Kirchberg, Philharmo  01123  01123                % 02265 AVL---
+200417047 Kirchberg, Rout Bréc  01124  01124                % 02265 AVL---
+200405014 Centre, Fondation Pe  01127  01127                % 02265 AVL---
+200405020 Hamilius (Bus)        01131  01135                % 02265 AVL---
+200405045 Centre, Stäreplaz /   01139  01139                % 02265 AVL---
+200403022 Luxembourg, Square N  01141  01141                % 02265 AVL---
+200403002 Belair, Archiducs     01142  01142                % 02265 AVL---
+200403001 Belair, Amsterdam     01142  01142                % 02265 AVL---
+200403010 Belair, Kierch        01143  01143                % 02265 AVL---
+200403014 Belair, Place de Liè  01144  01144                % 02265 AVL---
+200420001 Merl, Athénée         01145  01145                % 02265 AVL---
+200420004 Merl, Conservatoire   01147  01147                % 02265 AVL---
+200420009 Merl, Marcel Cahen    01148  01148                % 02265 AVL---
+200420002 Merl, Barrière        01149  01149                % 02265 AVL---
+200420015 Merl, St. Gengoul     01149  01149                % 02265 AVL---
+200420003 Merl, Celtes          01150                       % 02265 AVL---
+*Z 02266 AVL---       040 020                               % 02266 AVL---
+*L 12       200417012 200420003  00602  00642               % 02266 AVL---
+*A BE 200417012 200420003 000033  00602  00642              % 02266 AVL---
+*R 2 200420003 200417012 200420003  00602  00642            % 02266 AVL---
+*G ST  200417012 200420003  00602  00642                    % 02266 AVL---
+*A VE 200417012 200420003 000033  00602  00642              % 02266 AVL---
+200417012 Kirchberg, Chambre d         00602                % 02266 AVL---
+200417004 Kirchberg, Alphonse   00603  00603                % 02266 AVL---
+200417015 Kirchberg, Hôpital    00606  00606                % 02266 AVL---
+200417032 Kirchberg, Pierre We  00607  00607                % 02266 AVL---
+200417034 Kirchberg, Rehazente  00607  00607                % 02266 AVL---
+200417020 Kirchberg, Labours    00609  00609                % 02266 AVL---
+200417026 Kirchberg, Muguets    00610  00610                % 02266 AVL---
+200417024 Kirchberg, Marguerit  00611  00611                % 02266 AVL---
+200426003 Weimershof, Pâqueret  00612  00612                % 02266 AVL---
+200426001 Weimershof, Bleuets   00613  00613                % 02266 AVL---
+200417021 Kirchberg, Léon Heng  00615  00615                % 02266 AVL---
+200417049 Kirchberg, Niedergrü  00616  00616                % 02266 AVL---
+200417061 Kirchberg, Philharmo  00617  00617                % 02266 AVL---
+200417047 Kirchberg, Rout Bréc  00619  00619                % 02266 AVL---
+200405014 Centre, Fondation Pe  00621  00621                % 02266 AVL---
+200405020 Hamilius (Bus)        00626  00626                % 02266 AVL---
+200405045 Centre, Stäreplaz /   00630  00630                % 02266 AVL---
+200403022 Luxembourg, Square N  00633  00633                % 02266 AVL---
+200403002 Belair, Archiducs     00633  00633                % 02266 AVL---
+200403001 Belair, Amsterdam     00634  00634                % 02266 AVL---
+200403010 Belair, Kierch        00635  00635                % 02266 AVL---
+200403014 Belair, Place de Liè  00636  00636                % 02266 AVL---
+200420001 Merl, Athénée         00638  00638                % 02266 AVL---
+200420004 Merl, Conservatoire   00639  00639                % 02266 AVL---
+200420009 Merl, Marcel Cahen    00641  00641                % 02266 AVL---
+200420002 Merl, Barrière        00641  00641                % 02266 AVL---
+200420015 Merl, St. Gengoul     00642  00642                % 02266 AVL---
+200420003 Merl, Celtes          00642                       % 02266 AVL---

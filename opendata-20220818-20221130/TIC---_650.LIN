@@ -1,0 +1,51 @@
+*F 03 2
+*Z 05819 TIC---                                             % 05819 TIC---
+*L 650      220903021 220402060  00633  00730               % 05819 TIC---
+*R 1 220402060 220903021 220402060  00633  00730            % 05819 TIC---
+*G GB1 220903021 220402060  00633  00730                    % 05819 TIC---
+*A VE 220903021 220402060 000290  00633  00730              % 05819 TIC---
+*I FD 220903021 220402060        0001632  00633  00730      % 05819 TIC---
+220903021 Rodange, Schwemm             00633                % 05819 TIC---
+220903015 Rodange, Niederredin  00634  00634                % 05819 TIC---
+220903017 Rodange, rue Philipp  00635  00635                % 05819 TIC---
+220903007 Rodange, Klopp        00636  00636                % 05819 TIC---
+220903025 Rodange, Waeschbur    00637  00637                % 05819 TIC---
+220903003 Rodange, Croix St. P  00637  00637                % 05819 TIC---
+220903022 Rodange, Siole        00638  00638                % 05819 TIC---
+220903005 Rodange, Fontaine d'  00638  00638                % 05819 TIC---
+220903004 Rodange, Fonderie     00639  00639                % 05819 TIC---
+220903002 Rodange, Cité à la W  00640  00640                % 05819 TIC---
+220903020 Rodange, Schlaakemil  00641  00641                % 05819 TIC---
+220903009 Rodange, Gendarmerie  00642  00642                % 05819 TIC---
+220903008 Rodange, Gare routiè  00643  00643                % 05819 TIC---
+220901001 Lamadelaine, Avenue   00644  00644                % 05819 TIC---
+220901009 Lamadelaine, Spuerke  00645  00645                % 05819 TIC---
+220901006 Lamadelaine, Op Gehr  00646  00646                % 05819 TIC---
+220901003 Lamadelaine, Kierch   00647  00647                % 05819 TIC---
+220901008 Lamadelaine, Schoul   00648  00648                % 05819 TIC---
+220901013 Lamadelaine, Wisestr  00648  00648                % 05819 TIC---
+220901012 Lamadelaine, Bei der  00650  00650                % 05819 TIC---
+220901002 Lamadelaine, Gare ro  00650  00650                % 05819 TIC---
+220902019 Pétange, Porte Lamad  00651  00651                % 05819 TIC---
+220902004 Pétange, Cactus       00652  00652                % 05819 TIC---
+220902013 Pétange, Maartplaz    00654  00654                % 05819 TIC---
+220902011 Pétange, Lëtzebuerge  00655  00655                % 05819 TIC---
+220902005 Pétange, Cité CFL     00656  00656                % 05819 TIC---
+190101003 Bascharage, Bomecht   00657  00657                % 05819 TIC---
+190101018 Bascharage, R.P. And  00658  00658                % 05819 TIC---
+221303007 Sanem, Schlass        00705  00705                % 05819 TIC---
+221304013 Soleuvre, Reitschoul  00706  00706                % 05819 TIC---
+221304001 Soleuvre, Aessen      00708  00708                % 05819 TIC---
+221302002 Ehlerange, Dennebësc  00709  00709                % 05819 TIC---
+221302007 Ehlerange, Rousebësc  00710  00710                % 05819 TIC---
+221302005 Ehlerange, Keupewee   00710  00710                % 05819 TIC---
+221302001 Ehlerange, Centre     00712  00712                % 05819 TIC---
+221302003 Ehlerange, Escherstr  00713  00713                % 05819 TIC---
+221302009 Ehlerange, ZARE oues  00714  00714                % 05819 TIC---
+220402022 Esch-sur-Alzette, Ci  00715  00715                % 05819 TIC---
+220402067 Esch-sur-Alzette, Op  00715  00715                % 05819 TIC---
+220402071 Esch-sur-Alzette, Pl  00716  00716                % 05819 TIC---
+220402059 Esch-sur-Alzette, Ly  00718  00718                % 05819 TIC---
+220402027 Esch-sur-Alzette, De  00720  00720                % 05819 TIC---
+220402037 Esch-sur Alzette, E.  00725  00725                % 05819 TIC---
+220402060 Esch-sur-Alzette, Ly  00730                       % 05819 TIC---

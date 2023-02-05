@@ -1,0 +1,33 @@
+*F 03 2
+*Z 05873 TIC---                                             % 05873 TIC---
+*L 882      220301034 220402034  01437  01508               % 05873 TIC---
+*R 1 220402034 220301034 220402034  01437  01508            % 05873 TIC---
+*G TRB 220301034 220402034  01437  01508                    % 05873 TIC---
+*A VE 220301034 220402034 000290  01437  01508              % 05873 TIC---
+*I FD 220301034 220402034        0001686  01437  01508      % 05873 TIC---
+220301034 Dudelange, Lycée Nic         01437                % 05873 TIC---
+220301022 Dudelange, Gare       01440 -01440                % 05873 TIC---
+220301030 Dudelange, Kierfecht  01442 -01442                % 05873 TIC---
+220301031 Dudelange, rue Aloys  01443 -01443                % 05873 TIC---
+220301019 Dudelange, Route de   01443 -01443                % 05873 TIC---
+220301002 Dudelange, Rue Angel  01444 -01444                % 05873 TIC---
+220301013 Dudelange, Butschebu  01445 -01445                % 05873 TIC---
+220301048 Dudelange, Scherr     01446 -01446                % 05873 TIC---
+220601013 Kayl, Diddelengerstr  01447 -01447                % 05873 TIC---
+220601021 Kayl, Brill           01448 -01448                % 05873 TIC---
+220601007 Kayl, Post            01450 -01450                % 05873 TIC---
+220601017 Kayl, Police          01451 -01451                % 05873 TIC---
+220601002 Kayl, Am Pull         01452 -01452                % 05873 TIC---
+220601005 Kayl, Barrière        01453 -01453                % 05873 TIC---
+220601011 Kayl, Broucherbierg   01453 -01453                % 05873 TIC---
+220601009 Kayl, Stellwierk      01453 -01453                % 05873 TIC---
+221401008 Schifflange, Poto     01456 -01456                % 05873 TIC---
+221401004 Schifflange, Gringe   01457 -01457                % 05873 TIC---
+221401007 Schifflange, Niddesc  01458 -01458                % 05873 TIC---
+221401003 Schifflange, Stadhau  01459 -01459                % 05873 TIC---
+221401005 Schifflange, Huele W  01500 -01500                % 05873 TIC---
+221401006 Schifflange, Millche  01501 -01501                % 05873 TIC---
+220402054 Esch-sur-Alzette, Le  01502 -01502                % 05873 TIC---
+220402086 Esch-sur-Alzette, Ru  01503 -01503                % 05873 TIC---
+220402072 Esch-sur-Alzette, Pl  01506 -01506                % 05873 TIC---
+220402034 Esch-sur-Alzette, Ga  01508                       % 05873 TIC---

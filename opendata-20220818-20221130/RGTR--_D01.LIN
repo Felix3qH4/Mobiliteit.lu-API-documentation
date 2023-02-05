@@ -1,0 +1,93 @@
+*F 03 2
+*Z 18199 RGTR--                                             % 18199 RGTR--
+*L D01      200420006 180511002  01250  01328               % 18199 RGTR--
+*A cj 200420006 180511002 000046  01250  01328              % 18199 RGTR--
+*A ad 200420006 180511002 000046  01250  01328              % 18199 RGTR--
+*R 1 180511002 200420006 180511002  01250  01328            % 18199 RGTR--
+*G 072 200420006 180511002  01250  01328                    % 18199 RGTR--
+*A VE 200420006 180511002 000046  01250  01328              % 18199 RGTR--
+*I FD 200420006 180511002        0002070  01250  01328      % 18199 RGTR--
+200420006 Merl, Geesseknäppche         01250                % 18199 RGTR--
+200508011 Senningerberg, Rue d  01311  01311                % 18199 RGTR--
+200508003 Senningerberg, Charl  01312  01312                % 18199 RGTR--
+200508002 Senningerberg, Breed  01312  01312                % 18199 RGTR--
+200503001 Hostert, Charlys Gar  01315  01315                % 18199 RGTR--
+200506006 Rameldange, Op der B  01316  01316                % 18199 RGTR--
+200506001 Rameldange, Am Duerf  01316  01316                % 18199 RGTR--
+200506004 Rameldange, Beim Bës  01317  01317                % 18199 RGTR--
+200506003 Rameldange, Beiebier  01318  01318                % 18199 RGTR--
+200502002 Ernster, Engelshaff   01319  01319                % 18199 RGTR--
+200502001 Ernster, Duerfplaz    01320  01320                % 18199 RGTR--
+200502003 Ernster, Naasswiss    01322  01322                % 18199 RGTR--
+180508005 Gonderange, Schoul    01323  01323                % 18199 RGTR--
+180508007 Gonderange, Op der G  01324  01324                % 18199 RGTR--
+180511002 Junglinster, Op der   01328                       % 18199 RGTR--
+*Z 18200 RGTR--                                             % 18200 RGTR--
+*L D01      200420006 180511002  01425  01503               % 18200 RGTR--
+*A cj 200420006 180511002 000042  01425  01503              % 18200 RGTR--
+*A ad 200420006 180511002 000042  01425  01503              % 18200 RGTR--
+*R 1 180511002 200420006 180511002  01425  01503            % 18200 RGTR--
+*G 072 200420006 180511002  01425  01503                    % 18200 RGTR--
+*A VE 200420006 180511002 000042  01425  01503              % 18200 RGTR--
+*I FD 200420006 180511002        0002197  01425  01503      % 18200 RGTR--
+200420006 Merl, Geesseknäppche         01425                % 18200 RGTR--
+200508011 Senningerberg, Rue d  01446  01446                % 18200 RGTR--
+200508003 Senningerberg, Charl  01447  01447                % 18200 RGTR--
+200508002 Senningerberg, Breed  01447  01447                % 18200 RGTR--
+200503001 Hostert, Charlys Gar  01450  01450                % 18200 RGTR--
+200506006 Rameldange, Op der B  01451  01451                % 18200 RGTR--
+200506001 Rameldange, Am Duerf  01451  01451                % 18200 RGTR--
+200506004 Rameldange, Beim Bës  01452  01452                % 18200 RGTR--
+200506003 Rameldange, Beiebier  01453  01453                % 18200 RGTR--
+200502002 Ernster, Engelshaff   01454  01454                % 18200 RGTR--
+200502001 Ernster, Duerfplaz    01455  01455                % 18200 RGTR--
+200502003 Ernster, Naasswiss    01457  01457                % 18200 RGTR--
+180508005 Gonderange, Schoul    01458  01458                % 18200 RGTR--
+180508007 Gonderange, Op der G  01459  01459                % 18200 RGTR--
+180511002 Junglinster, Op der   01503                       % 18200 RGTR--
+*Z 18201 RGTR--                                             % 18201 RGTR--
+*L D01      200420006 180511002  01550  01629               % 18201 RGTR--
+*A cj 200420006 180511002 000047  01550  01629              % 18201 RGTR--
+*A ad 200420006 180511002 000047  01550  01629              % 18201 RGTR--
+*R 1 180511002 200420006 180511002  01550  01629            % 18201 RGTR--
+*G 072 200420006 180511002  01550  01629                    % 18201 RGTR--
+*A VE 200420006 180511002 000047  01550  01629              % 18201 RGTR--
+*I FD 200420006 180511002        0002073  01550  01629      % 18201 RGTR--
+200420006 Merl, Geesseknäppche         01550                % 18201 RGTR--
+200508011 Senningerberg, Rue d  01611  01611                % 18201 RGTR--
+200508003 Senningerberg, Charl  01612  01612                % 18201 RGTR--
+200508002 Senningerberg, Breed  01613  01613                % 18201 RGTR--
+200503001 Hostert, Charlys Gar  01615  01615                % 18201 RGTR--
+200506006 Rameldange, Op der B  01616  01616                % 18201 RGTR--
+200506001 Rameldange, Am Duerf  01616  01616                % 18201 RGTR--
+200506004 Rameldange, Beim Bës  01617  01617                % 18201 RGTR--
+200506003 Rameldange, Beiebier  01618  01618                % 18201 RGTR--
+200502002 Ernster, Engelshaff   01619  01619                % 18201 RGTR--
+200502001 Ernster, Duerfplaz    01621  01621                % 18201 RGTR--
+200502003 Ernster, Naasswiss    01623  01623                % 18201 RGTR--
+180508005 Gonderange, Schoul    01624  01624                % 18201 RGTR--
+180508007 Gonderange, Op der G  01625  01625                % 18201 RGTR--
+180511002 Junglinster, Op der   01629                       % 18201 RGTR--
+*Z 18202 RGTR--                                             % 18202 RGTR--
+*L D01      180511002 200420006  00707  00746               % 18202 RGTR--
+*A cj 180511002 200420006 000042  00707  00746              % 18202 RGTR--
+*A ad 180511002 200420006 000042  00707  00746              % 18202 RGTR--
+*R 2 200420006 180511002 200420006  00707  00746            % 18202 RGTR--
+*G 072 180511002 200420006  00707  00746                    % 18202 RGTR--
+*A VE 180511002 200420006 000042  00707  00746              % 18202 RGTR--
+*I FD 180511002 200420006        0003047  00707  00746      % 18202 RGTR--
+180511002 Junglinster, Op der          00707                % 18202 RGTR--
+180508002 Gonderange, Eeschële  00710  00710                % 18202 RGTR--
+180508005 Gonderange, Schoul    00712  00712                % 18202 RGTR--
+200502003 Ernster, Naasswiss    00713  00713                % 18202 RGTR--
+200502001 Ernster, Duerfplaz    00714  00714                % 18202 RGTR--
+200502002 Ernster, Engelshaff   00715  00715                % 18202 RGTR--
+200506003 Rameldange, Beiebier  00716  00716                % 18202 RGTR--
+200506004 Rameldange, Beim Bës  00717  00717                % 18202 RGTR--
+200506001 Rameldange, Am Duerf  00718  00718                % 18202 RGTR--
+200506006 Rameldange, Op der B  00719  00719                % 18202 RGTR--
+200503001 Hostert, Charlys Gar  00720  00720                % 18202 RGTR--
+200508002 Senningerberg, Breed  00722  00722                % 18202 RGTR--
+200508003 Senningerberg, Charl  00724  00724                % 18202 RGTR--
+200508011 Senningerberg, Rue d  00725  00725                % 18202 RGTR--
+200420006 Merl, Geesseknäppche  00746                       % 18202 RGTR--

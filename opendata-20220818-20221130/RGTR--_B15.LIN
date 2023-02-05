@@ -1,0 +1,55 @@
+*F 03 2
+*Z 18094 RGTR--                                             % 18094 RGTR--
+*L B15      180401003 170501009  00703  00740               % 18094 RGTR--
+*A cj 180401003 170501009 000042  00703  00740              % 18094 RGTR--
+*A ad 180401003 170501009 000042  00703  00740              % 18094 RGTR--
+*R 1 170501009 180401003 170501009  00703  00740            % 18094 RGTR--
+*G 050 180401003 170501009  00703  00740                    % 18094 RGTR--
+*A VE 180401003 170501009 000042  00703  00740              % 18094 RGTR--
+*I FD 180401003 170501009        0002107  00703  00740      % 18094 RGTR--
+180401003 Grevenmacher, Gare r         00703                % 18094 RGTR--
+180401008 Grevenmacher, Tanneu  00704  00704                % 18094 RGTR--
+180401001 Grevenmacher, Copal   00706  00706                % 18094 RGTR--
+180401007 Grevenmacher, Seiden  00707  00707                % 18094 RGTR--
+180402001 Potaschbierg          00709  00709                % 18094 RGTR--
+180402002 Potaschbierg, Z.I.    00709  00709                % 18094 RGTR--
+180207002 Wecker, Coboulux      00712  00712                % 18094 RGTR--
+180207003 Wecker, Eglise        00713  00713                % 18094 RGTR--
+180207004 Wecker, Gare routièr  00714  00714                % 18094 RGTR--
+180207001 Wecker, An der Schmë  00715  00715                % 18094 RGTR--
+180601002 Berbourg, Kiirch      00720  00720                % 18094 RGTR--
+180601001 Berbourg, Schoulstro  00721  00721                % 18094 RGTR--
+170604001 Herborn, Kiercheplaz  00725  00725                % 18094 RGTR--
+170706001 Osweiler, Duerfplaz   00731  00731                % 18094 RGTR--
+170706002 Osweiler, Haaptstroo  00731  00731                % 18094 RGTR--
+170501010 Echternach, Manertch  00735  00735                % 18094 RGTR--
+170501014 Echternach, Route d'  00737  00737                % 18094 RGTR--
+170501015 Echternach, Ste Croi  00738  00738                % 18094 RGTR--
+170501009 Echternach, Lycée     00740                       % 18094 RGTR--
+*Z 18095 RGTR--                                             % 18095 RGTR--
+*L B15      170501009 180401003  01435  01510               % 18095 RGTR--
+*A cj 170501009 180401003 000042  01435  01510              % 18095 RGTR--
+*A ad 170501009 180401003 000042  01435  01510              % 18095 RGTR--
+*R 2 180401003 170501009 180401003  01435  01510            % 18095 RGTR--
+*G 050 170501009 180401003  01435  01510                    % 18095 RGTR--
+*A VE 170501009 180401003 000042  01435  01510              % 18095 RGTR--
+*I FD 170501009 180401003        0002734  01435  01510      % 18095 RGTR--
+170501009 Echternach, Lycée            01435                % 18095 RGTR--
+170501015 Echternach, Ste Croi  01438  01438                % 18095 RGTR--
+170501014 Echternach, Route d'  01439  01439                % 18095 RGTR--
+170501010 Echternach, Manertch  01441  01441                % 18095 RGTR--
+170706002 Osweiler, Haaptstroo  01444  01444                % 18095 RGTR--
+170706001 Osweiler, Duerfplaz   01445  01445                % 18095 RGTR--
+170604001 Herborn, Kiercheplaz  01450  01450                % 18095 RGTR--
+180601001 Berbourg, Schoulstro  01454  01454                % 18095 RGTR--
+180601002 Berbourg, Kiirch      01455  01455                % 18095 RGTR--
+180207001 Wecker, An der Schmë  01459  01459                % 18095 RGTR--
+180207004 Wecker, Gare routièr  01500  01500                % 18095 RGTR--
+180207003 Wecker, Eglise        01501  01501                % 18095 RGTR--
+180207002 Wecker, Coboulux      01501  01501                % 18095 RGTR--
+180402002 Potaschbierg, Z.I.    01504  01504                % 18095 RGTR--
+180402001 Potaschbierg          01505  01505                % 18095 RGTR--
+180401007 Grevenmacher, Seiden  01506  01506                % 18095 RGTR--
+180401001 Grevenmacher, Copal   01507  01507                % 18095 RGTR--
+180401008 Grevenmacher, Tanneu  01508  01508                % 18095 RGTR--
+180401003 Grevenmacher, Gare r  01510                       % 18095 RGTR--

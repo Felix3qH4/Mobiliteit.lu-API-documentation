@@ -1,0 +1,1677 @@
+*F 03 2
+*Z 03935 AVL---       001 060                               % 03935 AVL---
+*L 26       200801011 200417035  00553  00629               % 03935 AVL---
+*A BE 200801011 200417035 000017  00553  00629              % 03935 AVL---
+*R 1 200417035 200801011 200417035  00553  00629            % 03935 AVL---
+*G STE 200801011 200417035  00553  00629                    % 03935 AVL---
+*A VE 200801011 200417035 000017  00553  00629              % 03935 AVL---
+200801011 Steinsel, Kennedy            00553                % 03935 AVL---
+200801003 Steinsel, Gonneschha  00555  00555                % 03935 AVL---
+200801008 Steinsel, Um Gruef    00556  00556                % 03935 AVL---
+200801005 Steinsel, Michel Rod  00556  00556                % 03935 AVL---
+200801001 Müllendorf/Mëlleref   00558  00558                % 03935 AVL---
+200802001 Heisdorf, Altersheem  00559  00559                % 03935 AVL---
+200802004 Heisdorf, Klouster    00600  00600                % 03935 AVL---
+200802002 Heisdorf, Bei der Pa  00600  00600                % 03935 AVL---
+201003003 Heisdorf, Millewee    00601  00601                % 03935 AVL---
+201003002 Helmsange, Mercatori  00601  00601                % 03935 AVL---
+201003004 Helmsange, Tricenten  00602  00602                % 03935 AVL---
+201004002 Walferdange, Gemenge  00603  00603                % 03935 AVL---
+201001002 Bereldange, Police    00604  00604                % 03935 AVL---
+201001003 Bereldange, Schoul    00606  00606                % 03935 AVL---
+200402007 Beggen, Rue du Pont   00607  00607                % 03935 AVL---
+200402001 Beggen, Bastogne      00608  00608                % 03935 AVL---
+200402006 Beggen, Kierch        00609  00609                % 03935 AVL---
+200402002 Beggen, Binnchen      00609  00609                % 03935 AVL---
+200402005 Beggen, Henri Heyman  00610  00610                % 03935 AVL---
+200409007 Dommeldange, Emile M  00611  00611                % 03935 AVL---
+200410004 Eich, Eecher Klinick  00612  00612                % 03935 AVL---
+200410003 Eich, Eecher Plaz     00614  00614                % 03935 AVL---
+200423002 Pfaffenthal, Stade G  00615  00615                % 03935 AVL---
+200423001 Pfaffenthal, Sichenh  00616  00616                % 03935 AVL---
+200423007 Pfaffenthal, Halte C  00616  00616                % 03935 AVL---
+200423003 Pfaffenthal, Théiwes  00617  00617                % 03935 AVL---
+200423005 Pfaffenthal, Vauban   00618  00618                % 03935 AVL---
+200408007 Clausen, Ste Cunégon  00619  00619                % 03935 AVL---
+200408003 Clausen, Malakoff     00620  00620                % 03935 AVL---
+200422005 Neudorf/Weimershof,   00621  00621                % 03935 AVL---
+200408002 Neudorf, Fixmer       00622  00622                % 03935 AVL---
+200422009 Neudorf, Kierch       00623  00623                % 03935 AVL---
+200422006 Neudorf, Huesegrënnc  00624  00624                % 03935 AVL---
+200422002 Neudorf, Carrières    00624  00624                % 03935 AVL---
+200417008 Kirchberg, Bricher G  00625  00625                % 03935 AVL---
+200417020 Kirchberg, Labours    00625  00625                % 03935 AVL---
+200426002 Weimershof, Joseph H  00626  00626                % 03935 AVL---
+200417015 Kirchberg, Hôpital    00627  00627                % 03935 AVL---
+200417032 Kirchberg, Pierre We  00628  00628                % 03935 AVL---
+200417034 Kirchberg, Rehazente  00628  00628                % 03935 AVL---
+200417035 Kirchberg, Rehazente  00629                       % 03935 AVL---
+*Z 03936 AVL---                                             % 03936 AVL---
+*L 26       200801011 200417035  00717  00753               % 03936 AVL---
+*A BE 200801011 200417035 000017  00717  00753              % 03936 AVL---
+*R 1 200417035 200801011 200417035  00717  00753            % 03936 AVL---
+*G STE 200801011 200417035  00717  00753                    % 03936 AVL---
+*A VE 200801011 200417035 000017  00717  00753              % 03936 AVL---
+200801011 Steinsel, Kennedy            00717                % 03936 AVL---
+200801003 Steinsel, Gonneschha  00719  00719                % 03936 AVL---
+200801008 Steinsel, Um Gruef    00720  00720                % 03936 AVL---
+200801005 Steinsel, Michel Rod  00720  00720                % 03936 AVL---
+200801001 Müllendorf/Mëlleref   00722  00722                % 03936 AVL---
+200802001 Heisdorf, Altersheem  00723  00723                % 03936 AVL---
+200802004 Heisdorf, Klouster    00724  00724                % 03936 AVL---
+200802002 Heisdorf, Bei der Pa  00724  00724                % 03936 AVL---
+201003003 Heisdorf, Millewee    00725  00725                % 03936 AVL---
+201003002 Helmsange, Mercatori  00725  00725                % 03936 AVL---
+201003004 Helmsange, Tricenten  00726  00726                % 03936 AVL---
+201004002 Walferdange, Gemenge  00727  00727                % 03936 AVL---
+201001002 Bereldange, Police    00728  00728                % 03936 AVL---
+201001003 Bereldange, Schoul    00730  00730                % 03936 AVL---
+200402007 Beggen, Rue du Pont   00731  00731                % 03936 AVL---
+200402001 Beggen, Bastogne      00732  00732                % 03936 AVL---
+200402006 Beggen, Kierch        00733  00733                % 03936 AVL---
+200402002 Beggen, Binnchen      00733  00733                % 03936 AVL---
+200402005 Beggen, Henri Heyman  00734  00734                % 03936 AVL---
+200409007 Dommeldange, Emile M  00735  00735                % 03936 AVL---
+200410004 Eich, Eecher Klinick  00736  00736                % 03936 AVL---
+200410003 Eich, Eecher Plaz     00738  00738                % 03936 AVL---
+200423002 Pfaffenthal, Stade G  00739  00739                % 03936 AVL---
+200423001 Pfaffenthal, Sichenh  00740  00740                % 03936 AVL---
+200423007 Pfaffenthal, Halte C  00740  00740                % 03936 AVL---
+200423003 Pfaffenthal, Théiwes  00741  00741                % 03936 AVL---
+200423005 Pfaffenthal, Vauban   00742  00742                % 03936 AVL---
+200408007 Clausen, Ste Cunégon  00743  00743                % 03936 AVL---
+200408003 Clausen, Malakoff     00744  00744                % 03936 AVL---
+200422005 Neudorf/Weimershof,   00745  00745                % 03936 AVL---
+200408002 Neudorf, Fixmer       00746  00746                % 03936 AVL---
+200422009 Neudorf, Kierch       00747  00747                % 03936 AVL---
+200422006 Neudorf, Huesegrënnc  00748  00748                % 03936 AVL---
+200422002 Neudorf, Carrières    00748  00748                % 03936 AVL---
+200417008 Kirchberg, Bricher G  00749  00749                % 03936 AVL---
+200417020 Kirchberg, Labours    00749  00749                % 03936 AVL---
+200426002 Weimershof, Joseph H  00750  00750                % 03936 AVL---
+200417015 Kirchberg, Hôpital    00751  00751                % 03936 AVL---
+200417032 Kirchberg, Pierre We  00752  00752                % 03936 AVL---
+200417034 Kirchberg, Rehazente  00752  00752                % 03936 AVL---
+200417035 Kirchberg, Rehazente  00753                       % 03936 AVL---
+*Z 03937 AVL---       001 030                               % 03937 AVL---
+*L 26       200801011 200417035  00453  00529               % 03937 AVL---
+*A BE 200801011 200417035 000034  00453  00529              % 03937 AVL---
+*R 1 200417035 200801011 200417035  00453  00529            % 03937 AVL---
+*G STE 200801011 200417035  00453  00529                    % 03937 AVL---
+*A VE 200801011 200417035 000034  00453  00529              % 03937 AVL---
+200801011 Steinsel, Kennedy            00453                % 03937 AVL---
+200801003 Steinsel, Gonneschha  00455  00455                % 03937 AVL---
+200801008 Steinsel, Um Gruef    00456  00456                % 03937 AVL---
+200801005 Steinsel, Michel Rod  00456  00456                % 03937 AVL---
+200801001 Müllendorf/Mëlleref   00458  00458                % 03937 AVL---
+200802001 Heisdorf, Altersheem  00459  00459                % 03937 AVL---
+200802004 Heisdorf, Klouster    00500  00500                % 03937 AVL---
+200802002 Heisdorf, Bei der Pa  00500  00500                % 03937 AVL---
+201003003 Heisdorf, Millewee    00501  00501                % 03937 AVL---
+201003002 Helmsange, Mercatori  00501  00501                % 03937 AVL---
+201003004 Helmsange, Tricenten  00502  00502                % 03937 AVL---
+201004002 Walferdange, Gemenge  00503  00503                % 03937 AVL---
+201001002 Bereldange, Police    00504  00504                % 03937 AVL---
+201001003 Bereldange, Schoul    00506  00506                % 03937 AVL---
+200402007 Beggen, Rue du Pont   00507  00507                % 03937 AVL---
+200402001 Beggen, Bastogne      00508  00508                % 03937 AVL---
+200402006 Beggen, Kierch        00509  00509                % 03937 AVL---
+200402002 Beggen, Binnchen      00509  00509                % 03937 AVL---
+200402005 Beggen, Henri Heyman  00510  00510                % 03937 AVL---
+200409007 Dommeldange, Emile M  00511  00511                % 03937 AVL---
+200410004 Eich, Eecher Klinick  00512  00512                % 03937 AVL---
+200410003 Eich, Eecher Plaz     00514  00514                % 03937 AVL---
+200423002 Pfaffenthal, Stade G  00515  00515                % 03937 AVL---
+200423001 Pfaffenthal, Sichenh  00516  00516                % 03937 AVL---
+200423007 Pfaffenthal, Halte C  00516  00516                % 03937 AVL---
+200423003 Pfaffenthal, Théiwes  00517  00517                % 03937 AVL---
+200423005 Pfaffenthal, Vauban   00518  00518                % 03937 AVL---
+200408007 Clausen, Ste Cunégon  00519  00519                % 03937 AVL---
+200408003 Clausen, Malakoff     00520  00520                % 03937 AVL---
+200422005 Neudorf/Weimershof,   00521  00521                % 03937 AVL---
+200408002 Neudorf, Fixmer       00522  00522                % 03937 AVL---
+200422009 Neudorf, Kierch       00523  00523                % 03937 AVL---
+200422006 Neudorf, Huesegrënnc  00524  00524                % 03937 AVL---
+200422002 Neudorf, Carrières    00524  00524                % 03937 AVL---
+200417008 Kirchberg, Bricher G  00525  00525                % 03937 AVL---
+200417020 Kirchberg, Labours    00525  00525                % 03937 AVL---
+200426002 Weimershof, Joseph H  00526  00526                % 03937 AVL---
+200417015 Kirchberg, Hôpital    00527  00527                % 03937 AVL---
+200417032 Kirchberg, Pierre We  00528  00528                % 03937 AVL---
+200417034 Kirchberg, Rehazente  00528  00528                % 03937 AVL---
+200417035 Kirchberg, Rehazente  00529                       % 03937 AVL---
+*Z 03938 AVL---                                             % 03938 AVL---
+*L 26       200801011 200417035  00557  00633               % 03938 AVL---
+*A BE 200801011 200417035 000034  00557  00633              % 03938 AVL---
+*R 1 200417035 200801011 200417035  00557  00633            % 03938 AVL---
+*G STE 200801011 200417035  00557  00633                    % 03938 AVL---
+*A VE 200801011 200417035 000034  00557  00633              % 03938 AVL---
+200801011 Steinsel, Kennedy            00557                % 03938 AVL---
+200801003 Steinsel, Gonneschha  00558  00558                % 03938 AVL---
+200801008 Steinsel, Um Gruef    00559  00559                % 03938 AVL---
+200801005 Steinsel, Michel Rod  00600  00600                % 03938 AVL---
+200801001 Müllendorf/Mëlleref   00601  00601                % 03938 AVL---
+200802001 Heisdorf, Altersheem  00602  00602                % 03938 AVL---
+200802004 Heisdorf, Klouster    00603  00603                % 03938 AVL---
+200802002 Heisdorf, Bei der Pa  00604  00604                % 03938 AVL---
+201003003 Heisdorf, Millewee    00604  00604                % 03938 AVL---
+201003002 Helmsange, Mercatori  00605  00605                % 03938 AVL---
+201003004 Helmsange, Tricenten  00606  00606                % 03938 AVL---
+201004002 Walferdange, Gemenge  00607  00607                % 03938 AVL---
+201001002 Bereldange, Police    00608  00608                % 03938 AVL---
+201001003 Bereldange, Schoul    00609  00609                % 03938 AVL---
+200402007 Beggen, Rue du Pont   00610  00610                % 03938 AVL---
+200402001 Beggen, Bastogne      00611  00611                % 03938 AVL---
+200402006 Beggen, Kierch        00612  00612                % 03938 AVL---
+200402002 Beggen, Binnchen      00613  00613                % 03938 AVL---
+200402005 Beggen, Henri Heyman  00613  00613                % 03938 AVL---
+200409007 Dommeldange, Emile M  00614  00614                % 03938 AVL---
+200410004 Eich, Eecher Klinick  00615  00615                % 03938 AVL---
+200410003 Eich, Eecher Plaz     00617  00617                % 03938 AVL---
+200423002 Pfaffenthal, Stade G  00618  00618                % 03938 AVL---
+200423001 Pfaffenthal, Sichenh  00619  00619                % 03938 AVL---
+200423007 Pfaffenthal, Halte C  00619  00619                % 03938 AVL---
+200423003 Pfaffenthal, Théiwes  00620  00620                % 03938 AVL---
+200423005 Pfaffenthal, Vauban   00621  00621                % 03938 AVL---
+200408007 Clausen, Ste Cunégon  00622  00622                % 03938 AVL---
+200408003 Clausen, Malakoff     00623  00623                % 03938 AVL---
+200422005 Neudorf/Weimershof,   00624  00624                % 03938 AVL---
+200408002 Neudorf, Fixmer       00625  00625                % 03938 AVL---
+200422009 Neudorf, Kierch       00626  00626                % 03938 AVL---
+200422006 Neudorf, Huesegrënnc  00627  00627                % 03938 AVL---
+200422002 Neudorf, Carrières    00628  00628                % 03938 AVL---
+200417008 Kirchberg, Bricher G  00628  00628                % 03938 AVL---
+200417020 Kirchberg, Labours    00628  00628                % 03938 AVL---
+200426002 Weimershof, Joseph H  00629  00629                % 03938 AVL---
+200417015 Kirchberg, Hôpital    00630  00630                % 03938 AVL---
+200417032 Kirchberg, Pierre We  00631  00631                % 03938 AVL---
+200417034 Kirchberg, Rehazente  00632  00632                % 03938 AVL---
+200417035 Kirchberg, Rehazente  00633                       % 03938 AVL---
+*Z 03939 AVL---       002 060                               % 03939 AVL---
+*L 26       200801011 200417035  01953  02029               % 03939 AVL---
+*A BE 200801011 200417035 000034  01953  02029              % 03939 AVL---
+*R 1 200417035 200801011 200417035  01953  02029            % 03939 AVL---
+*G STE 200801011 200417035  01953  02029                    % 03939 AVL---
+*A VE 200801011 200417035 000034  01953  02029              % 03939 AVL---
+200801011 Steinsel, Kennedy            01953                % 03939 AVL---
+200801003 Steinsel, Gonneschha  01955  01955                % 03939 AVL---
+200801008 Steinsel, Um Gruef    01956  01956                % 03939 AVL---
+200801005 Steinsel, Michel Rod  01956  01956                % 03939 AVL---
+200801001 Müllendorf/Mëlleref   01958  01958                % 03939 AVL---
+200802001 Heisdorf, Altersheem  01959  01959                % 03939 AVL---
+200802004 Heisdorf, Klouster    02000  02000                % 03939 AVL---
+200802002 Heisdorf, Bei der Pa  02000  02000                % 03939 AVL---
+201003003 Heisdorf, Millewee    02001  02001                % 03939 AVL---
+201003002 Helmsange, Mercatori  02001  02001                % 03939 AVL---
+201003004 Helmsange, Tricenten  02002  02002                % 03939 AVL---
+201004002 Walferdange, Gemenge  02003  02003                % 03939 AVL---
+201001002 Bereldange, Police    02004  02004                % 03939 AVL---
+201001003 Bereldange, Schoul    02006  02006                % 03939 AVL---
+200402007 Beggen, Rue du Pont   02007  02007                % 03939 AVL---
+200402001 Beggen, Bastogne      02008  02008                % 03939 AVL---
+200402006 Beggen, Kierch        02009  02009                % 03939 AVL---
+200402002 Beggen, Binnchen      02009  02009                % 03939 AVL---
+200402005 Beggen, Henri Heyman  02010  02010                % 03939 AVL---
+200409007 Dommeldange, Emile M  02011  02011                % 03939 AVL---
+200410004 Eich, Eecher Klinick  02012  02012                % 03939 AVL---
+200410003 Eich, Eecher Plaz     02014  02014                % 03939 AVL---
+200423002 Pfaffenthal, Stade G  02015  02015                % 03939 AVL---
+200423001 Pfaffenthal, Sichenh  02016  02016                % 03939 AVL---
+200423007 Pfaffenthal, Halte C  02016  02016                % 03939 AVL---
+200423003 Pfaffenthal, Théiwes  02017  02017                % 03939 AVL---
+200423005 Pfaffenthal, Vauban   02018  02018                % 03939 AVL---
+200408007 Clausen, Ste Cunégon  02019  02019                % 03939 AVL---
+200408003 Clausen, Malakoff     02020  02020                % 03939 AVL---
+200422005 Neudorf/Weimershof,   02021  02021                % 03939 AVL---
+200408002 Neudorf, Fixmer       02022  02022                % 03939 AVL---
+200422009 Neudorf, Kierch       02023  02023                % 03939 AVL---
+200422006 Neudorf, Huesegrënnc  02024  02024                % 03939 AVL---
+200422002 Neudorf, Carrières    02024  02024                % 03939 AVL---
+200417008 Kirchberg, Bricher G  02025  02025                % 03939 AVL---
+200417020 Kirchberg, Labours    02025  02025                % 03939 AVL---
+200426002 Weimershof, Joseph H  02026  02026                % 03939 AVL---
+200417015 Kirchberg, Hôpital    02027  02027                % 03939 AVL---
+200417032 Kirchberg, Pierre We  02028  02028                % 03939 AVL---
+200417034 Kirchberg, Rehazente  02028  02028                % 03939 AVL---
+200417035 Kirchberg, Rehazente  02029                       % 03939 AVL---
+*Z 03940 AVL---       002 060                               % 03940 AVL---
+*L 26       200801011 200417035  02023  02059               % 03940 AVL---
+*A BE 200801011 200417035 000038  02023  02059              % 03940 AVL---
+*R 1 200417035 200801011 200417035  02023  02059            % 03940 AVL---
+*G STE 200801011 200417035  02023  02059                    % 03940 AVL---
+*A VE 200801011 200417035 000038  02023  02059              % 03940 AVL---
+200801011 Steinsel, Kennedy            02023                % 03940 AVL---
+200801003 Steinsel, Gonneschha  02025  02025                % 03940 AVL---
+200801008 Steinsel, Um Gruef    02026  02026                % 03940 AVL---
+200801005 Steinsel, Michel Rod  02026  02026                % 03940 AVL---
+200801001 Müllendorf/Mëlleref   02028  02028                % 03940 AVL---
+200802001 Heisdorf, Altersheem  02029  02029                % 03940 AVL---
+200802004 Heisdorf, Klouster    02030  02030                % 03940 AVL---
+200802002 Heisdorf, Bei der Pa  02030  02030                % 03940 AVL---
+201003003 Heisdorf, Millewee    02031  02031                % 03940 AVL---
+201003002 Helmsange, Mercatori  02031  02031                % 03940 AVL---
+201003004 Helmsange, Tricenten  02032  02032                % 03940 AVL---
+201004002 Walferdange, Gemenge  02033  02033                % 03940 AVL---
+201001002 Bereldange, Police    02034  02034                % 03940 AVL---
+201001003 Bereldange, Schoul    02036  02036                % 03940 AVL---
+200402007 Beggen, Rue du Pont   02037  02037                % 03940 AVL---
+200402001 Beggen, Bastogne      02038  02038                % 03940 AVL---
+200402006 Beggen, Kierch        02039  02039                % 03940 AVL---
+200402002 Beggen, Binnchen      02039  02039                % 03940 AVL---
+200402005 Beggen, Henri Heyman  02040  02040                % 03940 AVL---
+200409007 Dommeldange, Emile M  02041  02041                % 03940 AVL---
+200410004 Eich, Eecher Klinick  02042  02042                % 03940 AVL---
+200410003 Eich, Eecher Plaz     02044  02044                % 03940 AVL---
+200423002 Pfaffenthal, Stade G  02045  02045                % 03940 AVL---
+200423001 Pfaffenthal, Sichenh  02046  02046                % 03940 AVL---
+200423007 Pfaffenthal, Halte C  02046  02046                % 03940 AVL---
+200423003 Pfaffenthal, Théiwes  02047  02047                % 03940 AVL---
+200423005 Pfaffenthal, Vauban   02048  02048                % 03940 AVL---
+200408007 Clausen, Ste Cunégon  02049  02049                % 03940 AVL---
+200408003 Clausen, Malakoff     02050  02050                % 03940 AVL---
+200422005 Neudorf/Weimershof,   02051  02051                % 03940 AVL---
+200408002 Neudorf, Fixmer       02052  02052                % 03940 AVL---
+200422009 Neudorf, Kierch       02053  02053                % 03940 AVL---
+200422006 Neudorf, Huesegrënnc  02054  02054                % 03940 AVL---
+200422002 Neudorf, Carrières    02054  02054                % 03940 AVL---
+200417008 Kirchberg, Bricher G  02055  02055                % 03940 AVL---
+200417020 Kirchberg, Labours    02055  02055                % 03940 AVL---
+200426002 Weimershof, Joseph H  02056  02056                % 03940 AVL---
+200417015 Kirchberg, Hôpital    02057  02057                % 03940 AVL---
+200417032 Kirchberg, Pierre We  02058  02058                % 03940 AVL---
+200417034 Kirchberg, Rehazente  02058  02058                % 03940 AVL---
+200417035 Kirchberg, Rehazente  02059                       % 03940 AVL---
+*Z 03941 AVL---       040 020                               % 03941 AVL---
+*L 26       200801011 200417035  00613  00656               % 03941 AVL---
+*A BE 200801011 200417035 000034  00613  00656              % 03941 AVL---
+*R 1 200417035 200801011 200417035  00613  00656            % 03941 AVL---
+*G STE 200801011 200417035  00613  00656                    % 03941 AVL---
+*A VE 200801011 200417035 000034  00613  00656              % 03941 AVL---
+200801011 Steinsel, Kennedy            00613                % 03941 AVL---
+200801003 Steinsel, Gonneschha  00615  00615                % 03941 AVL---
+200801008 Steinsel, Um Gruef    00616  00616                % 03941 AVL---
+200801005 Steinsel, Michel Rod  00617  00617                % 03941 AVL---
+200801001 Müllendorf/Mëlleref   00618  00618                % 03941 AVL---
+200802001 Heisdorf, Altersheem  00619  00619                % 03941 AVL---
+200802004 Heisdorf, Klouster    00620  00620                % 03941 AVL---
+200802002 Heisdorf, Bei der Pa  00621  00621                % 03941 AVL---
+201003003 Heisdorf, Millewee    00622  00622                % 03941 AVL---
+201003002 Helmsange, Mercatori  00622  00622                % 03941 AVL---
+201003004 Helmsange, Tricenten  00623  00623                % 03941 AVL---
+201004002 Walferdange, Gemenge  00625  00625                % 03941 AVL---
+201001002 Bereldange, Police    00626  00626                % 03941 AVL---
+201001003 Bereldange, Schoul    00627  00627                % 03941 AVL---
+200402007 Beggen, Rue du Pont   00629  00629                % 03941 AVL---
+200402001 Beggen, Bastogne      00630  00630                % 03941 AVL---
+200402006 Beggen, Kierch        00631  00631                % 03941 AVL---
+200402002 Beggen, Binnchen      00632  00632                % 03941 AVL---
+200402005 Beggen, Henri Heyman  00633  00633                % 03941 AVL---
+200409007 Dommeldange, Emile M  00634  00634                % 03941 AVL---
+200410004 Eich, Eecher Klinick  00635  00635                % 03941 AVL---
+200410003 Eich, Eecher Plaz     00637  00637                % 03941 AVL---
+200423002 Pfaffenthal, Stade G  00639  00639                % 03941 AVL---
+200423001 Pfaffenthal, Sichenh  00640  00640                % 03941 AVL---
+200423007 Pfaffenthal, Halte C  00640  00640                % 03941 AVL---
+200423003 Pfaffenthal, Théiwes  00641  00641                % 03941 AVL---
+200423005 Pfaffenthal, Vauban   00642  00642                % 03941 AVL---
+200408007 Clausen, Ste Cunégon  00643  00643                % 03941 AVL---
+200408003 Clausen, Malakoff     00645  00645                % 03941 AVL---
+200422005 Neudorf/Weimershof,   00645  00645                % 03941 AVL---
+200408002 Neudorf, Fixmer       00647  00647                % 03941 AVL---
+200422009 Neudorf, Kierch       00648  00648                % 03941 AVL---
+200422006 Neudorf, Huesegrënnc  00649  00649                % 03941 AVL---
+200422002 Neudorf, Carrières    00650  00650                % 03941 AVL---
+200417008 Kirchberg, Bricher G  00650  00650                % 03941 AVL---
+200417020 Kirchberg, Labours    00651  00651                % 03941 AVL---
+200426002 Weimershof, Joseph H  00652  00652                % 03941 AVL---
+200417015 Kirchberg, Hôpital    00653  00653                % 03941 AVL---
+200417032 Kirchberg, Pierre We  00654  00654                % 03941 AVL---
+200417034 Kirchberg, Rehazente  00655  00655                % 03941 AVL---
+200417035 Kirchberg, Rehazente  00656                       % 03941 AVL---
+*Z 03942 AVL---       022 030                               % 03942 AVL---
+*L 26       200801011 200417035  00746  00823               % 03942 AVL---
+*A BE 200801011 200417035 000017  00746  00823              % 03942 AVL---
+*R 1 200417035 200801011 200417035  00746  00823            % 03942 AVL---
+*G STE 200801011 200417035  00746  00823                    % 03942 AVL---
+*A VE 200801011 200417035 000017  00746  00823              % 03942 AVL---
+200801011 Steinsel, Kennedy            00746                % 03942 AVL---
+200801003 Steinsel, Gonneschha  00748  00748                % 03942 AVL---
+200801008 Steinsel, Um Gruef    00748  00748                % 03942 AVL---
+200801005 Steinsel, Michel Rod  00749  00749                % 03942 AVL---
+200801001 Müllendorf/Mëlleref   00751  00751                % 03942 AVL---
+200802001 Heisdorf, Altersheem  00752  00752                % 03942 AVL---
+200802004 Heisdorf, Klouster    00753  00753                % 03942 AVL---
+200802002 Heisdorf, Bei der Pa  00753  00753                % 03942 AVL---
+201003003 Heisdorf, Millewee    00754  00754                % 03942 AVL---
+201003002 Helmsange, Mercatori  00755  00755                % 03942 AVL---
+201003004 Helmsange, Tricenten  00756  00756                % 03942 AVL---
+201004002 Walferdange, Gemenge  00757  00757                % 03942 AVL---
+201001002 Bereldange, Police    00758  00758                % 03942 AVL---
+201001003 Bereldange, Schoul    00759  00759                % 03942 AVL---
+200402007 Beggen, Rue du Pont   00801  00801                % 03942 AVL---
+200402001 Beggen, Bastogne      00802  00802                % 03942 AVL---
+200402006 Beggen, Kierch        00803  00803                % 03942 AVL---
+200402002 Beggen, Binnchen      00803  00803                % 03942 AVL---
+200402005 Beggen, Henri Heyman  00804  00804                % 03942 AVL---
+200409007 Dommeldange, Emile M  00805  00805                % 03942 AVL---
+200410004 Eich, Eecher Klinick  00806  00806                % 03942 AVL---
+200410003 Eich, Eecher Plaz     00808  00808                % 03942 AVL---
+200423002 Pfaffenthal, Stade G  00809  00809                % 03942 AVL---
+200423001 Pfaffenthal, Sichenh  00810  00810                % 03942 AVL---
+200423007 Pfaffenthal, Halte C  00810  00810                % 03942 AVL---
+200423003 Pfaffenthal, Théiwes  00811  00811                % 03942 AVL---
+200423005 Pfaffenthal, Vauban   00812  00812                % 03942 AVL---
+200408007 Clausen, Ste Cunégon  00813  00813                % 03942 AVL---
+200408003 Clausen, Malakoff     00814  00814                % 03942 AVL---
+200422005 Neudorf/Weimershof,   00815  00815                % 03942 AVL---
+200408002 Neudorf, Fixmer       00816  00816                % 03942 AVL---
+200422009 Neudorf, Kierch       00817  00817                % 03942 AVL---
+200422006 Neudorf, Huesegrënnc  00818  00818                % 03942 AVL---
+200422002 Neudorf, Carrières    00818  00818                % 03942 AVL---
+200417008 Kirchberg, Bricher G  00819  00819                % 03942 AVL---
+200417020 Kirchberg, Labours    00819  00819                % 03942 AVL---
+200426002 Weimershof, Joseph H  00820  00820                % 03942 AVL---
+200417015 Kirchberg, Hôpital    00821  00821                % 03942 AVL---
+200417032 Kirchberg, Pierre We  00822  00822                % 03942 AVL---
+200417034 Kirchberg, Rehazente  00822  00822                % 03942 AVL---
+200417035 Kirchberg, Rehazente  00823                       % 03942 AVL---
+*Z 03943 AVL---                                             % 03943 AVL---
+*L 26       200801011 200417035  01922  01959               % 03943 AVL---
+*A BE 200801011 200417035 000017  01922  01959              % 03943 AVL---
+*R 1 200417035 200801011 200417035  01922  01959            % 03943 AVL---
+*G STE 200801011 200417035  01922  01959                    % 03943 AVL---
+*A VE 200801011 200417035 000017  01922  01959              % 03943 AVL---
+200801011 Steinsel, Kennedy            01922                % 03943 AVL---
+200801003 Steinsel, Gonneschha  01924  01924                % 03943 AVL---
+200801008 Steinsel, Um Gruef    01924  01924                % 03943 AVL---
+200801005 Steinsel, Michel Rod  01925  01925                % 03943 AVL---
+200801001 Müllendorf/Mëlleref   01927  01927                % 03943 AVL---
+200802001 Heisdorf, Altersheem  01928  01928                % 03943 AVL---
+200802004 Heisdorf, Klouster    01929  01929                % 03943 AVL---
+200802002 Heisdorf, Bei der Pa  01929  01929                % 03943 AVL---
+201003003 Heisdorf, Millewee    01930  01930                % 03943 AVL---
+201003002 Helmsange, Mercatori  01931  01931                % 03943 AVL---
+201003004 Helmsange, Tricenten  01932  01932                % 03943 AVL---
+201004002 Walferdange, Gemenge  01933  01933                % 03943 AVL---
+201001002 Bereldange, Police    01934  01934                % 03943 AVL---
+201001003 Bereldange, Schoul    01935  01935                % 03943 AVL---
+200402007 Beggen, Rue du Pont   01937  01937                % 03943 AVL---
+200402001 Beggen, Bastogne      01938  01938                % 03943 AVL---
+200402006 Beggen, Kierch        01939  01939                % 03943 AVL---
+200402002 Beggen, Binnchen      01939  01939                % 03943 AVL---
+200402005 Beggen, Henri Heyman  01940  01940                % 03943 AVL---
+200409007 Dommeldange, Emile M  01941  01941                % 03943 AVL---
+200410004 Eich, Eecher Klinick  01942  01942                % 03943 AVL---
+200410003 Eich, Eecher Plaz     01944  01944                % 03943 AVL---
+200423002 Pfaffenthal, Stade G  01945  01945                % 03943 AVL---
+200423001 Pfaffenthal, Sichenh  01946  01946                % 03943 AVL---
+200423007 Pfaffenthal, Halte C  01946  01946                % 03943 AVL---
+200423003 Pfaffenthal, Théiwes  01947  01947                % 03943 AVL---
+200423005 Pfaffenthal, Vauban   01948  01948                % 03943 AVL---
+200408007 Clausen, Ste Cunégon  01949  01949                % 03943 AVL---
+200408003 Clausen, Malakoff     01950  01950                % 03943 AVL---
+200422005 Neudorf/Weimershof,   01951  01951                % 03943 AVL---
+200408002 Neudorf, Fixmer       01952  01952                % 03943 AVL---
+200422009 Neudorf, Kierch       01953  01953                % 03943 AVL---
+200422006 Neudorf, Huesegrënnc  01954  01954                % 03943 AVL---
+200422002 Neudorf, Carrières    01954  01954                % 03943 AVL---
+200417008 Kirchberg, Bricher G  01955  01955                % 03943 AVL---
+200417020 Kirchberg, Labours    01955  01955                % 03943 AVL---
+200426002 Weimershof, Joseph H  01956  01956                % 03943 AVL---
+200417015 Kirchberg, Hôpital    01957  01957                % 03943 AVL---
+200417032 Kirchberg, Pierre We  01958  01958                % 03943 AVL---
+200417034 Kirchberg, Rehazente  01958  01958                % 03943 AVL---
+200417035 Kirchberg, Rehazente  01959                       % 03943 AVL---
+*Z 03944 AVL---       007 060                               % 03944 AVL---
+*L 26       200801011 200417035  01155  01232               % 03944 AVL---
+*A BE 200801011 200417035 000016  01155  01232              % 03944 AVL---
+*R 1 200417035 200801011 200417035  01155  01232            % 03944 AVL---
+*G STE 200801011 200417035  01155  01232                    % 03944 AVL---
+*A VE 200801011 200417035 000016  01155  01232              % 03944 AVL---
+200801011 Steinsel, Kennedy            01155                % 03944 AVL---
+200801003 Steinsel, Gonneschha  01157  01157                % 03944 AVL---
+200801008 Steinsel, Um Gruef    01157  01157                % 03944 AVL---
+200801005 Steinsel, Michel Rod  01158  01158                % 03944 AVL---
+200801001 Müllendorf/Mëlleref   01200  01200                % 03944 AVL---
+200802001 Heisdorf, Altersheem  01201  01201                % 03944 AVL---
+200802004 Heisdorf, Klouster    01202  01202                % 03944 AVL---
+200802002 Heisdorf, Bei der Pa  01202  01202                % 03944 AVL---
+201003003 Heisdorf, Millewee    01203  01203                % 03944 AVL---
+201003002 Helmsange, Mercatori  01204  01204                % 03944 AVL---
+201003004 Helmsange, Tricenten  01205  01205                % 03944 AVL---
+201004002 Walferdange, Gemenge  01206  01206                % 03944 AVL---
+201001002 Bereldange, Police    01207  01207                % 03944 AVL---
+201001003 Bereldange, Schoul    01208  01208                % 03944 AVL---
+200402007 Beggen, Rue du Pont   01210  01210                % 03944 AVL---
+200402001 Beggen, Bastogne      01211  01211                % 03944 AVL---
+200402006 Beggen, Kierch        01212  01212                % 03944 AVL---
+200402002 Beggen, Binnchen      01212  01212                % 03944 AVL---
+200402005 Beggen, Henri Heyman  01213  01213                % 03944 AVL---
+200409007 Dommeldange, Emile M  01214  01214                % 03944 AVL---
+200410004 Eich, Eecher Klinick  01215  01215                % 03944 AVL---
+200410003 Eich, Eecher Plaz     01217  01217                % 03944 AVL---
+200423002 Pfaffenthal, Stade G  01218  01218                % 03944 AVL---
+200423001 Pfaffenthal, Sichenh  01219  01219                % 03944 AVL---
+200423007 Pfaffenthal, Halte C  01219  01219                % 03944 AVL---
+200423003 Pfaffenthal, Théiwes  01220  01220                % 03944 AVL---
+200423005 Pfaffenthal, Vauban   01221  01221                % 03944 AVL---
+200408007 Clausen, Ste Cunégon  01222  01222                % 03944 AVL---
+200408003 Clausen, Malakoff     01223  01223                % 03944 AVL---
+200422005 Neudorf/Weimershof,   01224  01224                % 03944 AVL---
+200408002 Neudorf, Fixmer       01225  01225                % 03944 AVL---
+200422009 Neudorf, Kierch       01226  01226                % 03944 AVL---
+200422006 Neudorf, Huesegrënnc  01227  01227                % 03944 AVL---
+200422002 Neudorf, Carrières    01227  01227                % 03944 AVL---
+200417008 Kirchberg, Bricher G  01228  01228                % 03944 AVL---
+200417020 Kirchberg, Labours    01228  01228                % 03944 AVL---
+200426002 Weimershof, Joseph H  01229  01229                % 03944 AVL---
+200417015 Kirchberg, Hôpital    01230  01230                % 03944 AVL---
+200417032 Kirchberg, Pierre We  01231  01231                % 03944 AVL---
+200417034 Kirchberg, Rehazente  01231  01231                % 03944 AVL---
+200417035 Kirchberg, Rehazente  01232                       % 03944 AVL---
+*Z 03945 AVL---       001 030                               % 03945 AVL---
+*L 26       200417035 200801011  00704  00740               % 03945 AVL---
+*A BE 200417035 200801011 000017  00704  00740              % 03945 AVL---
+*R 2 200801011 200417035 200801011  00704  00740            % 03945 AVL---
+*G STE 200417035 200801011  00704  00740                    % 03945 AVL---
+*A VE 200417035 200801011 000017  00704  00740              % 03945 AVL---
+200417035 Kirchberg, Rehazente         00704                % 03945 AVL---
+200417034 Kirchberg, Rehazente  00705  00705                % 03945 AVL---
+200417032 Kirchberg, Pierre We  00706  00706                % 03945 AVL---
+200417015 Kirchberg, Hôpital    00707  00707                % 03945 AVL---
+200426002 Weimershof, Joseph H  00708  00708                % 03945 AVL---
+200417020 Kirchberg, Labours    00708  00708                % 03945 AVL---
+200417008 Kirchberg, Bricher G  00709  00709                % 03945 AVL---
+200422002 Neudorf, Carrières    00710  00710                % 03945 AVL---
+200422006 Neudorf, Huesegrënnc  00710  00710                % 03945 AVL---
+200422009 Neudorf, Kierch       00711  00711                % 03945 AVL---
+200408002 Neudorf, Fixmer       00712  00712                % 03945 AVL---
+200422005 Neudorf/Weimershof,   00713  00713                % 03945 AVL---
+200408003 Clausen, Malakoff     00714  00714                % 03945 AVL---
+200408007 Clausen, Ste Cunégon  00715  00715                % 03945 AVL---
+200423005 Pfaffenthal, Vauban   00716  00716                % 03945 AVL---
+200423003 Pfaffenthal, Théiwes  00717  00717                % 03945 AVL---
+200423007 Pfaffenthal, Halte C  00718  00718                % 03945 AVL---
+200423001 Pfaffenthal, Sichenh  00718  00718                % 03945 AVL---
+200423002 Pfaffenthal, Stade G  00719  00719                % 03945 AVL---
+200410003 Eich, Eecher Plaz     00721  00721                % 03945 AVL---
+200410004 Eich, Eecher Klinick  00722  00722                % 03945 AVL---
+200409007 Dommeldange, Emile M  00723  00723                % 03945 AVL---
+200402005 Beggen, Henri Heyman  00724  00724                % 03945 AVL---
+200402002 Beggen, Binnchen      00724  00724                % 03945 AVL---
+200402006 Beggen, Kierch        00725  00725                % 03945 AVL---
+200402001 Beggen, Bastogne      00726  00726                % 03945 AVL---
+201001004 Bereldange, Rue du P  00727  00727                % 03945 AVL---
+201001003 Bereldange, Schoul    00727  00727                % 03945 AVL---
+201001002 Bereldange, Police    00728  00728                % 03945 AVL---
+201004002 Walferdange, Gemenge  00729  00729                % 03945 AVL---
+201003004 Helmsange, Tricenten  00730  00730                % 03945 AVL---
+201003002 Helmsange, Mercatori  00731  00731                % 03945 AVL---
+201003003 Heisdorf, Millewee    00732  00732                % 03945 AVL---
+200802002 Heisdorf, Bei der Pa  00732  00732                % 03945 AVL---
+200802004 Heisdorf, Klouster    00733  00733                % 03945 AVL---
+200802001 Heisdorf, Altersheem  00734  00734                % 03945 AVL---
+200801001 Müllendorf/Mëlleref   00735  00735                % 03945 AVL---
+200801005 Steinsel, Michel Rod  00736  00736                % 03945 AVL---
+200801003 Steinsel, Gonneschha  00738  00738                % 03945 AVL---
+200801011 Steinsel, Kennedy     00740                       % 03945 AVL---
+*Z 03946 AVL---                                             % 03946 AVL---
+*L 26       200417035 200801011  02004  02040               % 03946 AVL---
+*A BE 200417035 200801011 000040  02004  02040              % 03946 AVL---
+*R 2 200801011 200417035 200801011  02004  02040            % 03946 AVL---
+*G STE 200417035 200801011  02004  02040                    % 03946 AVL---
+*A VE 200417035 200801011 000040  02004  02040              % 03946 AVL---
+200417035 Kirchberg, Rehazente         02004                % 03946 AVL---
+200417034 Kirchberg, Rehazente  02005  02005                % 03946 AVL---
+200417032 Kirchberg, Pierre We  02006  02006                % 03946 AVL---
+200417015 Kirchberg, Hôpital    02007  02007                % 03946 AVL---
+200426002 Weimershof, Joseph H  02008  02008                % 03946 AVL---
+200417020 Kirchberg, Labours    02008  02008                % 03946 AVL---
+200417008 Kirchberg, Bricher G  02009  02009                % 03946 AVL---
+200422002 Neudorf, Carrières    02010  02010                % 03946 AVL---
+200422006 Neudorf, Huesegrënnc  02010  02010                % 03946 AVL---
+200422009 Neudorf, Kierch       02011  02011                % 03946 AVL---
+200408002 Neudorf, Fixmer       02012  02012                % 03946 AVL---
+200422005 Neudorf/Weimershof,   02013  02013                % 03946 AVL---
+200408003 Clausen, Malakoff     02014  02014                % 03946 AVL---
+200408007 Clausen, Ste Cunégon  02015  02015                % 03946 AVL---
+200423005 Pfaffenthal, Vauban   02016  02016                % 03946 AVL---
+200423003 Pfaffenthal, Théiwes  02017  02017                % 03946 AVL---
+200423007 Pfaffenthal, Halte C  02018  02018                % 03946 AVL---
+200423001 Pfaffenthal, Sichenh  02018  02018                % 03946 AVL---
+200423002 Pfaffenthal, Stade G  02019  02019                % 03946 AVL---
+200410003 Eich, Eecher Plaz     02021  02021                % 03946 AVL---
+200410004 Eich, Eecher Klinick  02022  02022                % 03946 AVL---
+200409007 Dommeldange, Emile M  02023  02023                % 03946 AVL---
+200402005 Beggen, Henri Heyman  02024  02024                % 03946 AVL---
+200402002 Beggen, Binnchen      02024  02024                % 03946 AVL---
+200402006 Beggen, Kierch        02025  02025                % 03946 AVL---
+200402001 Beggen, Bastogne      02026  02026                % 03946 AVL---
+201001004 Bereldange, Rue du P  02027  02027                % 03946 AVL---
+201001003 Bereldange, Schoul    02027  02027                % 03946 AVL---
+201001002 Bereldange, Police    02028  02028                % 03946 AVL---
+201004002 Walferdange, Gemenge  02029  02029                % 03946 AVL---
+201003004 Helmsange, Tricenten  02030  02030                % 03946 AVL---
+201003002 Helmsange, Mercatori  02031  02031                % 03946 AVL---
+201003003 Heisdorf, Millewee    02032  02032                % 03946 AVL---
+200802002 Heisdorf, Bei der Pa  02032  02032                % 03946 AVL---
+200802004 Heisdorf, Klouster    02033  02033                % 03946 AVL---
+200802001 Heisdorf, Altersheem  02034  02034                % 03946 AVL---
+200801001 Müllendorf/Mëlleref   02035  02035                % 03946 AVL---
+200801005 Steinsel, Michel Rod  02036  02036                % 03946 AVL---
+200801003 Steinsel, Gonneschha  02038  02038                % 03946 AVL---
+200801011 Steinsel, Kennedy     02040                       % 03946 AVL---
+*Z 03947 AVL---                                             % 03947 AVL---
+*L 26       200417035 200801011  00600  00636               % 03947 AVL---
+*A BE 200417035 200801011 000034  00600  00636              % 03947 AVL---
+*R 2 200801011 200417035 200801011  00600  00636            % 03947 AVL---
+*G STE 200417035 200801011  00600  00636                    % 03947 AVL---
+*A VE 200417035 200801011 000034  00600  00636              % 03947 AVL---
+200417035 Kirchberg, Rehazente         00600                % 03947 AVL---
+200417034 Kirchberg, Rehazente  00601  00601                % 03947 AVL---
+200417032 Kirchberg, Pierre We  00601  00601                % 03947 AVL---
+200417015 Kirchberg, Hôpital    00603  00603                % 03947 AVL---
+200426002 Weimershof, Joseph H  00603  00603                % 03947 AVL---
+200417020 Kirchberg, Labours    00604  00604                % 03947 AVL---
+200417008 Kirchberg, Bricher G  00605  00605                % 03947 AVL---
+200422002 Neudorf, Carrières    00605  00605                % 03947 AVL---
+200422006 Neudorf, Huesegrënnc  00606  00606                % 03947 AVL---
+200422009 Neudorf, Kierch       00607  00607                % 03947 AVL---
+200408002 Neudorf, Fixmer       00608  00608                % 03947 AVL---
+200422005 Neudorf/Weimershof,   00609  00609                % 03947 AVL---
+200408003 Clausen, Malakoff     00610  00610                % 03947 AVL---
+200408007 Clausen, Ste Cunégon  00611  00611                % 03947 AVL---
+200423005 Pfaffenthal, Vauban   00612  00612                % 03947 AVL---
+200423003 Pfaffenthal, Théiwes  00613  00613                % 03947 AVL---
+200423007 Pfaffenthal, Halte C  00614  00614                % 03947 AVL---
+200423001 Pfaffenthal, Sichenh  00614  00614                % 03947 AVL---
+200423002 Pfaffenthal, Stade G  00615  00615                % 03947 AVL---
+200410003 Eich, Eecher Plaz     00616  00616                % 03947 AVL---
+200410004 Eich, Eecher Klinick  00618  00618                % 03947 AVL---
+200409007 Dommeldange, Emile M  00619  00619                % 03947 AVL---
+200402005 Beggen, Henri Heyman  00619  00619                % 03947 AVL---
+200402002 Beggen, Binnchen      00620  00620                % 03947 AVL---
+200402006 Beggen, Kierch        00620  00620                % 03947 AVL---
+200402001 Beggen, Bastogne      00621  00621                % 03947 AVL---
+201001004 Bereldange, Rue du P  00622  00622                % 03947 AVL---
+201001003 Bereldange, Schoul    00623  00623                % 03947 AVL---
+201001002 Bereldange, Police    00624  00624                % 03947 AVL---
+201004002 Walferdange, Gemenge  00625  00625                % 03947 AVL---
+201003004 Helmsange, Tricenten  00626  00626                % 03947 AVL---
+201003002 Helmsange, Mercatori  00627  00627                % 03947 AVL---
+201003003 Heisdorf, Millewee    00628  00628                % 03947 AVL---
+200802002 Heisdorf, Bei der Pa  00628  00628                % 03947 AVL---
+200802004 Heisdorf, Klouster    00629  00629                % 03947 AVL---
+200802001 Heisdorf, Altersheem  00630  00630                % 03947 AVL---
+200801001 Müllendorf/Mëlleref   00631  00631                % 03947 AVL---
+200801005 Steinsel, Michel Rod  00632  00632                % 03947 AVL---
+200801003 Steinsel, Gonneschha  00633  00633                % 03947 AVL---
+200801011 Steinsel, Kennedy     00636                       % 03947 AVL---
+*Z 03948 AVL---       002 060                               % 03948 AVL---
+*L 26       200417035 200801011  02034  02110               % 03948 AVL---
+*A BE 200417035 200801011 000034  02034  02110              % 03948 AVL---
+*R 2 200801011 200417035 200801011  02034  02110            % 03948 AVL---
+*G STE 200417035 200801011  02034  02110                    % 03948 AVL---
+*A VE 200417035 200801011 000034  02034  02110              % 03948 AVL---
+200417035 Kirchberg, Rehazente         02034                % 03948 AVL---
+200417034 Kirchberg, Rehazente  02035  02035                % 03948 AVL---
+200417032 Kirchberg, Pierre We  02036  02036                % 03948 AVL---
+200417015 Kirchberg, Hôpital    02037  02037                % 03948 AVL---
+200426002 Weimershof, Joseph H  02038  02038                % 03948 AVL---
+200417020 Kirchberg, Labours    02038  02038                % 03948 AVL---
+200417008 Kirchberg, Bricher G  02039  02039                % 03948 AVL---
+200422002 Neudorf, Carrières    02040  02040                % 03948 AVL---
+200422006 Neudorf, Huesegrënnc  02040  02040                % 03948 AVL---
+200422009 Neudorf, Kierch       02041  02041                % 03948 AVL---
+200408002 Neudorf, Fixmer       02042  02042                % 03948 AVL---
+200422005 Neudorf/Weimershof,   02043  02043                % 03948 AVL---
+200408003 Clausen, Malakoff     02044  02044                % 03948 AVL---
+200408007 Clausen, Ste Cunégon  02045  02045                % 03948 AVL---
+200423005 Pfaffenthal, Vauban   02046  02046                % 03948 AVL---
+200423003 Pfaffenthal, Théiwes  02047  02047                % 03948 AVL---
+200423007 Pfaffenthal, Halte C  02048  02048                % 03948 AVL---
+200423001 Pfaffenthal, Sichenh  02048  02048                % 03948 AVL---
+200423002 Pfaffenthal, Stade G  02049  02049                % 03948 AVL---
+200410003 Eich, Eecher Plaz     02051  02051                % 03948 AVL---
+200410004 Eich, Eecher Klinick  02052  02052                % 03948 AVL---
+200409007 Dommeldange, Emile M  02053  02053                % 03948 AVL---
+200402005 Beggen, Henri Heyman  02054  02054                % 03948 AVL---
+200402002 Beggen, Binnchen      02054  02054                % 03948 AVL---
+200402006 Beggen, Kierch        02055  02055                % 03948 AVL---
+200402001 Beggen, Bastogne      02056  02056                % 03948 AVL---
+201001004 Bereldange, Rue du P  02057  02057                % 03948 AVL---
+201001003 Bereldange, Schoul    02057  02057                % 03948 AVL---
+201001002 Bereldange, Police    02058  02058                % 03948 AVL---
+201004002 Walferdange, Gemenge  02059  02059                % 03948 AVL---
+201003004 Helmsange, Tricenten  02100  02100                % 03948 AVL---
+201003002 Helmsange, Mercatori  02101  02101                % 03948 AVL---
+201003003 Heisdorf, Millewee    02102  02102                % 03948 AVL---
+200802002 Heisdorf, Bei der Pa  02102  02102                % 03948 AVL---
+200802004 Heisdorf, Klouster    02103  02103                % 03948 AVL---
+200802001 Heisdorf, Altersheem  02104  02104                % 03948 AVL---
+200801001 Müllendorf/Mëlleref   02105  02105                % 03948 AVL---
+200801005 Steinsel, Michel Rod  02106  02106                % 03948 AVL---
+200801003 Steinsel, Gonneschha  02108  02108                % 03948 AVL---
+200801011 Steinsel, Kennedy     02110                       % 03948 AVL---
+*Z 03949 AVL---       002 060                               % 03949 AVL---
+*L 26       200417035 200801011  02104  02140               % 03949 AVL---
+*A BE 200417035 200801011 000038  02104  02140              % 03949 AVL---
+*R 2 200801011 200417035 200801011  02104  02140            % 03949 AVL---
+*G STE 200417035 200801011  02104  02140                    % 03949 AVL---
+*A VE 200417035 200801011 000038  02104  02140              % 03949 AVL---
+200417035 Kirchberg, Rehazente         02104                % 03949 AVL---
+200417034 Kirchberg, Rehazente  02105  02105                % 03949 AVL---
+200417032 Kirchberg, Pierre We  02106  02106                % 03949 AVL---
+200417015 Kirchberg, Hôpital    02107  02107                % 03949 AVL---
+200426002 Weimershof, Joseph H  02108  02108                % 03949 AVL---
+200417020 Kirchberg, Labours    02108  02108                % 03949 AVL---
+200417008 Kirchberg, Bricher G  02109  02109                % 03949 AVL---
+200422002 Neudorf, Carrières    02110  02110                % 03949 AVL---
+200422006 Neudorf, Huesegrënnc  02110  02110                % 03949 AVL---
+200422009 Neudorf, Kierch       02111  02111                % 03949 AVL---
+200408002 Neudorf, Fixmer       02112  02112                % 03949 AVL---
+200422005 Neudorf/Weimershof,   02113  02113                % 03949 AVL---
+200408003 Clausen, Malakoff     02114  02114                % 03949 AVL---
+200408007 Clausen, Ste Cunégon  02115  02115                % 03949 AVL---
+200423005 Pfaffenthal, Vauban   02116  02116                % 03949 AVL---
+200423003 Pfaffenthal, Théiwes  02117  02117                % 03949 AVL---
+200423007 Pfaffenthal, Halte C  02118  02118                % 03949 AVL---
+200423001 Pfaffenthal, Sichenh  02118  02118                % 03949 AVL---
+200423002 Pfaffenthal, Stade G  02119  02119                % 03949 AVL---
+200410003 Eich, Eecher Plaz     02121  02121                % 03949 AVL---
+200410004 Eich, Eecher Klinick  02122  02122                % 03949 AVL---
+200409007 Dommeldange, Emile M  02123  02123                % 03949 AVL---
+200402005 Beggen, Henri Heyman  02124  02124                % 03949 AVL---
+200402002 Beggen, Binnchen      02124  02124                % 03949 AVL---
+200402006 Beggen, Kierch        02125  02125                % 03949 AVL---
+200402001 Beggen, Bastogne      02126  02126                % 03949 AVL---
+201001004 Bereldange, Rue du P  02127  02127                % 03949 AVL---
+201001003 Bereldange, Schoul    02127  02127                % 03949 AVL---
+201001002 Bereldange, Police    02128  02128                % 03949 AVL---
+201004002 Walferdange, Gemenge  02129  02129                % 03949 AVL---
+201003004 Helmsange, Tricenten  02130  02130                % 03949 AVL---
+201003002 Helmsange, Mercatori  02131  02131                % 03949 AVL---
+201003003 Heisdorf, Millewee    02132  02132                % 03949 AVL---
+200802002 Heisdorf, Bei der Pa  02132  02132                % 03949 AVL---
+200802004 Heisdorf, Klouster    02133  02133                % 03949 AVL---
+200802001 Heisdorf, Altersheem  02134  02134                % 03949 AVL---
+200801001 Müllendorf/Mëlleref   02135  02135                % 03949 AVL---
+200801005 Steinsel, Michel Rod  02136  02136                % 03949 AVL---
+200801003 Steinsel, Gonneschha  02138  02138                % 03949 AVL---
+200801011 Steinsel, Kennedy     02140                       % 03949 AVL---
+*Z 03950 AVL---       040 020                               % 03950 AVL---
+*L 26       200417035 200801011  00614  00656               % 03950 AVL---
+*A BE 200417035 200801011 000034  00614  00656              % 03950 AVL---
+*R 2 200801011 200417035 200801011  00614  00656            % 03950 AVL---
+*G STE 200417035 200801011  00614  00656                    % 03950 AVL---
+*A VE 200417035 200801011 000034  00614  00656              % 03950 AVL---
+200417035 Kirchberg, Rehazente         00614                % 03950 AVL---
+200417034 Kirchberg, Rehazente  00614  00614                % 03950 AVL---
+200417032 Kirchberg, Pierre We  00615  00615                % 03950 AVL---
+200417015 Kirchberg, Hôpital    00617  00617                % 03950 AVL---
+200426002 Weimershof, Joseph H  00618  00618                % 03950 AVL---
+200417020 Kirchberg, Labours    00619  00619                % 03950 AVL---
+200417008 Kirchberg, Bricher G  00620  00620                % 03950 AVL---
+200422002 Neudorf, Carrières    00620  00620                % 03950 AVL---
+200422006 Neudorf, Huesegrënnc  00621  00621                % 03950 AVL---
+200422009 Neudorf, Kierch       00622  00622                % 03950 AVL---
+200408002 Neudorf, Fixmer       00623  00623                % 03950 AVL---
+200422005 Neudorf/Weimershof,   00624  00624                % 03950 AVL---
+200408003 Clausen, Malakoff     00625  00625                % 03950 AVL---
+200408007 Clausen, Ste Cunégon  00627  00627                % 03950 AVL---
+200423005 Pfaffenthal, Vauban   00628  00628                % 03950 AVL---
+200423003 Pfaffenthal, Théiwes  00629  00629                % 03950 AVL---
+200423007 Pfaffenthal, Halte C  00630  00630                % 03950 AVL---
+200423001 Pfaffenthal, Sichenh  00630  00630                % 03950 AVL---
+200423002 Pfaffenthal, Stade G  00631  00631                % 03950 AVL---
+200410003 Eich, Eecher Plaz     00633  00633                % 03950 AVL---
+200410004 Eich, Eecher Klinick  00635  00635                % 03950 AVL---
+200409007 Dommeldange, Emile M  00636  00636                % 03950 AVL---
+200402005 Beggen, Henri Heyman  00637  00637                % 03950 AVL---
+200402002 Beggen, Binnchen      00638  00638                % 03950 AVL---
+200402006 Beggen, Kierch        00639  00639                % 03950 AVL---
+200402001 Beggen, Bastogne      00640  00640                % 03950 AVL---
+201001004 Bereldange, Rue du P  00641  00641                % 03950 AVL---
+201001003 Bereldange, Schoul    00642  00642                % 03950 AVL---
+201001002 Bereldange, Police    00644  00644                % 03950 AVL---
+201004002 Walferdange, Gemenge  00645  00645                % 03950 AVL---
+201003004 Helmsange, Tricenten  00646  00646                % 03950 AVL---
+201003002 Helmsange, Mercatori  00647  00647                % 03950 AVL---
+201003003 Heisdorf, Millewee    00648  00648                % 03950 AVL---
+200802002 Heisdorf, Bei der Pa  00649  00649                % 03950 AVL---
+200802004 Heisdorf, Klouster    00649  00649                % 03950 AVL---
+200802001 Heisdorf, Altersheem  00650  00650                % 03950 AVL---
+200801001 Müllendorf/Mëlleref   00651  00651                % 03950 AVL---
+200801005 Steinsel, Michel Rod  00653  00653                % 03950 AVL---
+200801003 Steinsel, Gonneschha  00654  00654                % 03950 AVL---
+200801011 Steinsel, Kennedy     00656                       % 03950 AVL---
+*Z 03951 AVL---       023 030                               % 03951 AVL---
+*L 26       200417035 200801011  00805  00842               % 03951 AVL---
+*A BE 200417035 200801011 000017  00805  00842              % 03951 AVL---
+*R 2 200801011 200417035 200801011  00805  00842            % 03951 AVL---
+*G STE 200417035 200801011  00805  00842                    % 03951 AVL---
+*A VE 200417035 200801011 000017  00805  00842              % 03951 AVL---
+200417035 Kirchberg, Rehazente         00805                % 03951 AVL---
+200417034 Kirchberg, Rehazente  00806  00806                % 03951 AVL---
+200417032 Kirchberg, Pierre We  00807  00807                % 03951 AVL---
+200417015 Kirchberg, Hôpital    00808  00808                % 03951 AVL---
+200426002 Weimershof, Joseph H  00808  00808                % 03951 AVL---
+200417020 Kirchberg, Labours    00809  00809                % 03951 AVL---
+200417008 Kirchberg, Bricher G  00810  00810                % 03951 AVL---
+200422002 Neudorf, Carrières    00811  00811                % 03951 AVL---
+200422006 Neudorf, Huesegrënnc  00811  00811                % 03951 AVL---
+200422009 Neudorf, Kierch       00812  00812                % 03951 AVL---
+200408002 Neudorf, Fixmer       00813  00813                % 03951 AVL---
+200422005 Neudorf/Weimershof,   00814  00814                % 03951 AVL---
+200408003 Clausen, Malakoff     00815  00815                % 03951 AVL---
+200408007 Clausen, Ste Cunégon  00816  00816                % 03951 AVL---
+200423005 Pfaffenthal, Vauban   00817  00817                % 03951 AVL---
+200423003 Pfaffenthal, Théiwes  00818  00818                % 03951 AVL---
+200423007 Pfaffenthal, Halte C  00819  00819                % 03951 AVL---
+200423001 Pfaffenthal, Sichenh  00819  00819                % 03951 AVL---
+200423002 Pfaffenthal, Stade G  00820  00820                % 03951 AVL---
+200410003 Eich, Eecher Plaz     00822  00822                % 03951 AVL---
+200410004 Eich, Eecher Klinick  00823  00823                % 03951 AVL---
+200409007 Dommeldange, Emile M  00824  00824                % 03951 AVL---
+200402005 Beggen, Henri Heyman  00825  00825                % 03951 AVL---
+200402002 Beggen, Binnchen      00826  00826                % 03951 AVL---
+200402006 Beggen, Kierch        00826  00826                % 03951 AVL---
+200402001 Beggen, Bastogne      00827  00827                % 03951 AVL---
+201001004 Bereldange, Rue du P  00828  00828                % 03951 AVL---
+201001003 Bereldange, Schoul    00829  00829                % 03951 AVL---
+201001002 Bereldange, Police    00831  00831                % 03951 AVL---
+201004002 Walferdange, Gemenge  00832  00832                % 03951 AVL---
+201003004 Helmsange, Tricenten  00833  00833                % 03951 AVL---
+201003002 Helmsange, Mercatori  00833  00833                % 03951 AVL---
+201003003 Heisdorf, Millewee    00834  00834                % 03951 AVL---
+200802002 Heisdorf, Bei der Pa  00835  00835                % 03951 AVL---
+200802004 Heisdorf, Klouster    00835  00835                % 03951 AVL---
+200802001 Heisdorf, Altersheem  00836  00836                % 03951 AVL---
+200801001 Müllendorf/Mëlleref   00837  00837                % 03951 AVL---
+200801005 Steinsel, Michel Rod  00838  00838                % 03951 AVL---
+200801003 Steinsel, Gonneschha  00840  00840                % 03951 AVL---
+200801011 Steinsel, Kennedy     00842                       % 03951 AVL---
+*Z 03952 AVL---       006 060                               % 03952 AVL---
+*L 26       200417035 200801011  01304  01341               % 03952 AVL---
+*A BE 200417035 200801011 000016  01304  01341              % 03952 AVL---
+*R 2 200801011 200417035 200801011  01304  01341            % 03952 AVL---
+*G STE 200417035 200801011  01304  01341                    % 03952 AVL---
+*A VE 200417035 200801011 000016  01304  01341              % 03952 AVL---
+200417035 Kirchberg, Rehazente         01304                % 03952 AVL---
+200417034 Kirchberg, Rehazente  01305  01305                % 03952 AVL---
+200417032 Kirchberg, Pierre We  01306  01306                % 03952 AVL---
+200417015 Kirchberg, Hôpital    01307  01307                % 03952 AVL---
+200426002 Weimershof, Joseph H  01307  01307                % 03952 AVL---
+200417020 Kirchberg, Labours    01308  01308                % 03952 AVL---
+200417008 Kirchberg, Bricher G  01309  01309                % 03952 AVL---
+200422002 Neudorf, Carrières    01310  01310                % 03952 AVL---
+200422006 Neudorf, Huesegrënnc  01310  01310                % 03952 AVL---
+200422009 Neudorf, Kierch       01311  01311                % 03952 AVL---
+200408002 Neudorf, Fixmer       01312  01312                % 03952 AVL---
+200422005 Neudorf/Weimershof,   01313  01313                % 03952 AVL---
+200408003 Clausen, Malakoff     01314  01314                % 03952 AVL---
+200408007 Clausen, Ste Cunégon  01315  01315                % 03952 AVL---
+200423005 Pfaffenthal, Vauban   01316  01316                % 03952 AVL---
+200423003 Pfaffenthal, Théiwes  01317  01317                % 03952 AVL---
+200423007 Pfaffenthal, Halte C  01318  01318                % 03952 AVL---
+200423001 Pfaffenthal, Sichenh  01318  01318                % 03952 AVL---
+200423002 Pfaffenthal, Stade G  01319  01319                % 03952 AVL---
+200410003 Eich, Eecher Plaz     01321  01321                % 03952 AVL---
+200410004 Eich, Eecher Klinick  01322  01322                % 03952 AVL---
+200409007 Dommeldange, Emile M  01323  01323                % 03952 AVL---
+200402005 Beggen, Henri Heyman  01324  01324                % 03952 AVL---
+200402002 Beggen, Binnchen      01325  01325                % 03952 AVL---
+200402006 Beggen, Kierch        01325  01325                % 03952 AVL---
+200402001 Beggen, Bastogne      01326  01326                % 03952 AVL---
+201001004 Bereldange, Rue du P  01327  01327                % 03952 AVL---
+201001003 Bereldange, Schoul    01328  01328                % 03952 AVL---
+201001002 Bereldange, Police    01330  01330                % 03952 AVL---
+201004002 Walferdange, Gemenge  01331  01331                % 03952 AVL---
+201003004 Helmsange, Tricenten  01332  01332                % 03952 AVL---
+201003002 Helmsange, Mercatori  01332  01332                % 03952 AVL---
+201003003 Heisdorf, Millewee    01333  01333                % 03952 AVL---
+200802002 Heisdorf, Bei der Pa  01334  01334                % 03952 AVL---
+200802004 Heisdorf, Klouster    01334  01334                % 03952 AVL---
+200802001 Heisdorf, Altersheem  01335  01335                % 03952 AVL---
+200801001 Müllendorf/Mëlleref   01336  01336                % 03952 AVL---
+200801005 Steinsel, Michel Rod  01337  01337                % 03952 AVL---
+200801003 Steinsel, Gonneschha  01339  01339                % 03952 AVL---
+200801011 Steinsel, Kennedy     01341                       % 03952 AVL---
+*Z 03953 AVL---       001 060                               % 03953 AVL---
+*L 26       200801011 200417035  00553  00629               % 03953 AVL---
+*A BE 200801011 200417035 000025  00553  00629              % 03953 AVL---
+*R 1 200417035 200801011 200417035  00553  00629            % 03953 AVL---
+*G STE 200801011 200417035  00553  00629                    % 03953 AVL---
+*A VE 200801011 200417035 000025  00553  00629              % 03953 AVL---
+200801011 Steinsel, Kennedy            00553                % 03953 AVL---
+200801003 Steinsel, Gonneschha  00555  00555                % 03953 AVL---
+200801008 Steinsel, Um Gruef    00556  00556                % 03953 AVL---
+200801005 Steinsel, Michel Rod  00556  00556                % 03953 AVL---
+200801001 Müllendorf/Mëlleref   00558  00558                % 03953 AVL---
+200802001 Heisdorf, Altersheem  00559  00559                % 03953 AVL---
+200802004 Heisdorf, Klouster    00600  00600                % 03953 AVL---
+200802002 Heisdorf, Bei der Pa  00600  00600                % 03953 AVL---
+201003003 Heisdorf, Millewee    00601  00601                % 03953 AVL---
+201003002 Helmsange, Mercatori  00601  00601                % 03953 AVL---
+201003004 Helmsange, Tricenten  00602  00602                % 03953 AVL---
+201004002 Walferdange, Gemenge  00603  00603                % 03953 AVL---
+201001002 Bereldange, Police    00604  00604                % 03953 AVL---
+201001003 Bereldange, Schoul    00606  00606                % 03953 AVL---
+200402007 Beggen, Rue du Pont   00607  00607                % 03953 AVL---
+200402001 Beggen, Bastogne      00608  00608                % 03953 AVL---
+200402006 Beggen, Kierch        00609  00609                % 03953 AVL---
+200402002 Beggen, Binnchen      00609  00609                % 03953 AVL---
+200402005 Beggen, Henri Heyman  00610  00610                % 03953 AVL---
+200409007 Dommeldange, Emile M  00611  00611                % 03953 AVL---
+200410004 Eich, Eecher Klinick  00612  00612                % 03953 AVL---
+200410003 Eich, Eecher Plaz     00614  00614                % 03953 AVL---
+200423002 Pfaffenthal, Stade G  00615  00615                % 03953 AVL---
+200423001 Pfaffenthal, Sichenh  00616  00616                % 03953 AVL---
+200423007 Pfaffenthal, Halte C  00616  00616                % 03953 AVL---
+200423003 Pfaffenthal, Théiwes  00617  00617                % 03953 AVL---
+200423005 Pfaffenthal, Vauban   00618  00618                % 03953 AVL---
+200408007 Clausen, Ste Cunégon  00619  00619                % 03953 AVL---
+200408003 Clausen, Malakoff     00620  00620                % 03953 AVL---
+200422005 Neudorf/Weimershof,   00621  00621                % 03953 AVL---
+200408002 Neudorf, Fixmer       00622  00622                % 03953 AVL---
+200422009 Neudorf, Kierch       00623  00623                % 03953 AVL---
+200422006 Neudorf, Huesegrënnc  00624  00624                % 03953 AVL---
+200422002 Neudorf, Carrières    00624  00624                % 03953 AVL---
+200417008 Kirchberg, Bricher G  00625  00625                % 03953 AVL---
+200417020 Kirchberg, Labours    00625  00625                % 03953 AVL---
+200426002 Weimershof, Joseph H  00626  00626                % 03953 AVL---
+200417015 Kirchberg, Hôpital    00627  00627                % 03953 AVL---
+200417032 Kirchberg, Pierre We  00628  00628                % 03953 AVL---
+200417034 Kirchberg, Rehazente  00628  00628                % 03953 AVL---
+200417035 Kirchberg, Rehazente  00629                       % 03953 AVL---
+*Z 03954 AVL---                                             % 03954 AVL---
+*L 26       200801011 200417035  00717  00753               % 03954 AVL---
+*A BE 200801011 200417035 000025  00717  00753              % 03954 AVL---
+*R 1 200417035 200801011 200417035  00717  00753            % 03954 AVL---
+*G STE 200801011 200417035  00717  00753                    % 03954 AVL---
+*A VE 200801011 200417035 000025  00717  00753              % 03954 AVL---
+200801011 Steinsel, Kennedy            00717                % 03954 AVL---
+200801003 Steinsel, Gonneschha  00719  00719                % 03954 AVL---
+200801008 Steinsel, Um Gruef    00720  00720                % 03954 AVL---
+200801005 Steinsel, Michel Rod  00720  00720                % 03954 AVL---
+200801001 Müllendorf/Mëlleref   00722  00722                % 03954 AVL---
+200802001 Heisdorf, Altersheem  00723  00723                % 03954 AVL---
+200802004 Heisdorf, Klouster    00724  00724                % 03954 AVL---
+200802002 Heisdorf, Bei der Pa  00724  00724                % 03954 AVL---
+201003003 Heisdorf, Millewee    00725  00725                % 03954 AVL---
+201003002 Helmsange, Mercatori  00725  00725                % 03954 AVL---
+201003004 Helmsange, Tricenten  00726  00726                % 03954 AVL---
+201004002 Walferdange, Gemenge  00727  00727                % 03954 AVL---
+201001002 Bereldange, Police    00728  00728                % 03954 AVL---
+201001003 Bereldange, Schoul    00730  00730                % 03954 AVL---
+200402007 Beggen, Rue du Pont   00731  00731                % 03954 AVL---
+200402001 Beggen, Bastogne      00732  00732                % 03954 AVL---
+200402006 Beggen, Kierch        00733  00733                % 03954 AVL---
+200402002 Beggen, Binnchen      00733  00733                % 03954 AVL---
+200402005 Beggen, Henri Heyman  00734  00734                % 03954 AVL---
+200409007 Dommeldange, Emile M  00735  00735                % 03954 AVL---
+200410004 Eich, Eecher Klinick  00736  00736                % 03954 AVL---
+200410003 Eich, Eecher Plaz     00738  00738                % 03954 AVL---
+200423002 Pfaffenthal, Stade G  00739  00739                % 03954 AVL---
+200423001 Pfaffenthal, Sichenh  00740  00740                % 03954 AVL---
+200423007 Pfaffenthal, Halte C  00740  00740                % 03954 AVL---
+200423003 Pfaffenthal, Théiwes  00741  00741                % 03954 AVL---
+200423005 Pfaffenthal, Vauban   00742  00742                % 03954 AVL---
+200408007 Clausen, Ste Cunégon  00743  00743                % 03954 AVL---
+200408003 Clausen, Malakoff     00744  00744                % 03954 AVL---
+200422005 Neudorf/Weimershof,   00745  00745                % 03954 AVL---
+200408002 Neudorf, Fixmer       00746  00746                % 03954 AVL---
+200422009 Neudorf, Kierch       00747  00747                % 03954 AVL---
+200422006 Neudorf, Huesegrënnc  00748  00748                % 03954 AVL---
+200422002 Neudorf, Carrières    00748  00748                % 03954 AVL---
+200417008 Kirchberg, Bricher G  00749  00749                % 03954 AVL---
+200417020 Kirchberg, Labours    00749  00749                % 03954 AVL---
+200426002 Weimershof, Joseph H  00750  00750                % 03954 AVL---
+200417015 Kirchberg, Hôpital    00751  00751                % 03954 AVL---
+200417032 Kirchberg, Pierre We  00752  00752                % 03954 AVL---
+200417034 Kirchberg, Rehazente  00752  00752                % 03954 AVL---
+200417035 Kirchberg, Rehazente  00753                       % 03954 AVL---
+*Z 03955 AVL---       002 060                               % 03955 AVL---
+*L 26       200801011 200417035  02023  02059               % 03955 AVL---
+*A BE 200801011 200417035 000036  02023  02059              % 03955 AVL---
+*R 1 200417035 200801011 200417035  02023  02059            % 03955 AVL---
+*G STE 200801011 200417035  02023  02059                    % 03955 AVL---
+*A VE 200801011 200417035 000036  02023  02059              % 03955 AVL---
+200801011 Steinsel, Kennedy            02023                % 03955 AVL---
+200801003 Steinsel, Gonneschha  02025  02025                % 03955 AVL---
+200801008 Steinsel, Um Gruef    02026  02026                % 03955 AVL---
+200801005 Steinsel, Michel Rod  02026  02026                % 03955 AVL---
+200801001 Müllendorf/Mëlleref   02028  02028                % 03955 AVL---
+200802001 Heisdorf, Altersheem  02029  02029                % 03955 AVL---
+200802004 Heisdorf, Klouster    02030  02030                % 03955 AVL---
+200802002 Heisdorf, Bei der Pa  02030  02030                % 03955 AVL---
+201003003 Heisdorf, Millewee    02031  02031                % 03955 AVL---
+201003002 Helmsange, Mercatori  02031  02031                % 03955 AVL---
+201003004 Helmsange, Tricenten  02032  02032                % 03955 AVL---
+201004002 Walferdange, Gemenge  02033  02033                % 03955 AVL---
+201001002 Bereldange, Police    02034  02034                % 03955 AVL---
+201001003 Bereldange, Schoul    02036  02036                % 03955 AVL---
+200402007 Beggen, Rue du Pont   02037  02037                % 03955 AVL---
+200402001 Beggen, Bastogne      02038  02038                % 03955 AVL---
+200402006 Beggen, Kierch        02039  02039                % 03955 AVL---
+200402002 Beggen, Binnchen      02039  02039                % 03955 AVL---
+200402005 Beggen, Henri Heyman  02040  02040                % 03955 AVL---
+200409007 Dommeldange, Emile M  02041  02041                % 03955 AVL---
+200410004 Eich, Eecher Klinick  02042  02042                % 03955 AVL---
+200410003 Eich, Eecher Plaz     02044  02044                % 03955 AVL---
+200423002 Pfaffenthal, Stade G  02045  02045                % 03955 AVL---
+200423001 Pfaffenthal, Sichenh  02046  02046                % 03955 AVL---
+200423007 Pfaffenthal, Halte C  02046  02046                % 03955 AVL---
+200423003 Pfaffenthal, Théiwes  02047  02047                % 03955 AVL---
+200423005 Pfaffenthal, Vauban   02048  02048                % 03955 AVL---
+200408007 Clausen, Ste Cunégon  02049  02049                % 03955 AVL---
+200408003 Clausen, Malakoff     02050  02050                % 03955 AVL---
+200422005 Neudorf/Weimershof,   02051  02051                % 03955 AVL---
+200408002 Neudorf, Fixmer       02052  02052                % 03955 AVL---
+200422009 Neudorf, Kierch       02053  02053                % 03955 AVL---
+200422006 Neudorf, Huesegrënnc  02054  02054                % 03955 AVL---
+200422002 Neudorf, Carrières    02054  02054                % 03955 AVL---
+200417008 Kirchberg, Bricher G  02055  02055                % 03955 AVL---
+200417020 Kirchberg, Labours    02055  02055                % 03955 AVL---
+200426002 Weimershof, Joseph H  02056  02056                % 03955 AVL---
+200417015 Kirchberg, Hôpital    02057  02057                % 03955 AVL---
+200417032 Kirchberg, Pierre We  02058  02058                % 03955 AVL---
+200417034 Kirchberg, Rehazente  02058  02058                % 03955 AVL---
+200417035 Kirchberg, Rehazente  02059                       % 03955 AVL---
+*Z 03956 AVL---       001 030                               % 03956 AVL---
+*L 26       200801011 200417035  00453  00529               % 03956 AVL---
+*A BE 200801011 200417035 000033  00453  00529              % 03956 AVL---
+*R 1 200417035 200801011 200417035  00453  00529            % 03956 AVL---
+*G STE 200801011 200417035  00453  00529                    % 03956 AVL---
+*A VE 200801011 200417035 000033  00453  00529              % 03956 AVL---
+200801011 Steinsel, Kennedy            00453                % 03956 AVL---
+200801003 Steinsel, Gonneschha  00455  00455                % 03956 AVL---
+200801008 Steinsel, Um Gruef    00456  00456                % 03956 AVL---
+200801005 Steinsel, Michel Rod  00456  00456                % 03956 AVL---
+200801001 Müllendorf/Mëlleref   00458  00458                % 03956 AVL---
+200802001 Heisdorf, Altersheem  00459  00459                % 03956 AVL---
+200802004 Heisdorf, Klouster    00500  00500                % 03956 AVL---
+200802002 Heisdorf, Bei der Pa  00500  00500                % 03956 AVL---
+201003003 Heisdorf, Millewee    00501  00501                % 03956 AVL---
+201003002 Helmsange, Mercatori  00501  00501                % 03956 AVL---
+201003004 Helmsange, Tricenten  00502  00502                % 03956 AVL---
+201004002 Walferdange, Gemenge  00503  00503                % 03956 AVL---
+201001002 Bereldange, Police    00504  00504                % 03956 AVL---
+201001003 Bereldange, Schoul    00506  00506                % 03956 AVL---
+200402007 Beggen, Rue du Pont   00507  00507                % 03956 AVL---
+200402001 Beggen, Bastogne      00508  00508                % 03956 AVL---
+200402006 Beggen, Kierch        00509  00509                % 03956 AVL---
+200402002 Beggen, Binnchen      00509  00509                % 03956 AVL---
+200402005 Beggen, Henri Heyman  00510  00510                % 03956 AVL---
+200409007 Dommeldange, Emile M  00511  00511                % 03956 AVL---
+200410004 Eich, Eecher Klinick  00512  00512                % 03956 AVL---
+200410003 Eich, Eecher Plaz     00514  00514                % 03956 AVL---
+200423002 Pfaffenthal, Stade G  00515  00515                % 03956 AVL---
+200423001 Pfaffenthal, Sichenh  00516  00516                % 03956 AVL---
+200423007 Pfaffenthal, Halte C  00516  00516                % 03956 AVL---
+200423003 Pfaffenthal, Théiwes  00517  00517                % 03956 AVL---
+200423005 Pfaffenthal, Vauban   00518  00518                % 03956 AVL---
+200408007 Clausen, Ste Cunégon  00519  00519                % 03956 AVL---
+200408003 Clausen, Malakoff     00520  00520                % 03956 AVL---
+200422005 Neudorf/Weimershof,   00521  00521                % 03956 AVL---
+200408002 Neudorf, Fixmer       00522  00522                % 03956 AVL---
+200422009 Neudorf, Kierch       00523  00523                % 03956 AVL---
+200422006 Neudorf, Huesegrënnc  00524  00524                % 03956 AVL---
+200422002 Neudorf, Carrières    00524  00524                % 03956 AVL---
+200417008 Kirchberg, Bricher G  00525  00525                % 03956 AVL---
+200417020 Kirchberg, Labours    00525  00525                % 03956 AVL---
+200426002 Weimershof, Joseph H  00526  00526                % 03956 AVL---
+200417015 Kirchberg, Hôpital    00527  00527                % 03956 AVL---
+200417032 Kirchberg, Pierre We  00528  00528                % 03956 AVL---
+200417034 Kirchberg, Rehazente  00528  00528                % 03956 AVL---
+200417035 Kirchberg, Rehazente  00529                       % 03956 AVL---
+*Z 03957 AVL---                                             % 03957 AVL---
+*L 26       200801011 200417035  00557  00633               % 03957 AVL---
+*A BE 200801011 200417035 000033  00557  00633              % 03957 AVL---
+*R 1 200417035 200801011 200417035  00557  00633            % 03957 AVL---
+*G STE 200801011 200417035  00557  00633                    % 03957 AVL---
+*A VE 200801011 200417035 000033  00557  00633              % 03957 AVL---
+200801011 Steinsel, Kennedy            00557                % 03957 AVL---
+200801003 Steinsel, Gonneschha  00558  00558                % 03957 AVL---
+200801008 Steinsel, Um Gruef    00559  00559                % 03957 AVL---
+200801005 Steinsel, Michel Rod  00600  00600                % 03957 AVL---
+200801001 Müllendorf/Mëlleref   00601  00601                % 03957 AVL---
+200802001 Heisdorf, Altersheem  00602  00602                % 03957 AVL---
+200802004 Heisdorf, Klouster    00603  00603                % 03957 AVL---
+200802002 Heisdorf, Bei der Pa  00604  00604                % 03957 AVL---
+201003003 Heisdorf, Millewee    00604  00604                % 03957 AVL---
+201003002 Helmsange, Mercatori  00605  00605                % 03957 AVL---
+201003004 Helmsange, Tricenten  00606  00606                % 03957 AVL---
+201004002 Walferdange, Gemenge  00607  00607                % 03957 AVL---
+201001002 Bereldange, Police    00608  00608                % 03957 AVL---
+201001003 Bereldange, Schoul    00609  00609                % 03957 AVL---
+200402007 Beggen, Rue du Pont   00610  00610                % 03957 AVL---
+200402001 Beggen, Bastogne      00611  00611                % 03957 AVL---
+200402006 Beggen, Kierch        00612  00612                % 03957 AVL---
+200402002 Beggen, Binnchen      00613  00613                % 03957 AVL---
+200402005 Beggen, Henri Heyman  00613  00613                % 03957 AVL---
+200409007 Dommeldange, Emile M  00614  00614                % 03957 AVL---
+200410004 Eich, Eecher Klinick  00615  00615                % 03957 AVL---
+200410003 Eich, Eecher Plaz     00617  00617                % 03957 AVL---
+200423002 Pfaffenthal, Stade G  00618  00618                % 03957 AVL---
+200423001 Pfaffenthal, Sichenh  00619  00619                % 03957 AVL---
+200423007 Pfaffenthal, Halte C  00619  00619                % 03957 AVL---
+200423003 Pfaffenthal, Théiwes  00620  00620                % 03957 AVL---
+200423005 Pfaffenthal, Vauban   00621  00621                % 03957 AVL---
+200408007 Clausen, Ste Cunégon  00622  00622                % 03957 AVL---
+200408003 Clausen, Malakoff     00623  00623                % 03957 AVL---
+200422005 Neudorf/Weimershof,   00624  00624                % 03957 AVL---
+200408002 Neudorf, Fixmer       00625  00625                % 03957 AVL---
+200422009 Neudorf, Kierch       00626  00626                % 03957 AVL---
+200422006 Neudorf, Huesegrënnc  00627  00627                % 03957 AVL---
+200422002 Neudorf, Carrières    00628  00628                % 03957 AVL---
+200417008 Kirchberg, Bricher G  00628  00628                % 03957 AVL---
+200417020 Kirchberg, Labours    00628  00628                % 03957 AVL---
+200426002 Weimershof, Joseph H  00629  00629                % 03957 AVL---
+200417015 Kirchberg, Hôpital    00630  00630                % 03957 AVL---
+200417032 Kirchberg, Pierre We  00631  00631                % 03957 AVL---
+200417034 Kirchberg, Rehazente  00632  00632                % 03957 AVL---
+200417035 Kirchberg, Rehazente  00633                       % 03957 AVL---
+*Z 03958 AVL---       002 060                               % 03958 AVL---
+*L 26       200801011 200417035  01953  02029               % 03958 AVL---
+*A BE 200801011 200417035 000033  01953  02029              % 03958 AVL---
+*R 1 200417035 200801011 200417035  01953  02029            % 03958 AVL---
+*G STE 200801011 200417035  01953  02029                    % 03958 AVL---
+*A VE 200801011 200417035 000033  01953  02029              % 03958 AVL---
+200801011 Steinsel, Kennedy            01953                % 03958 AVL---
+200801003 Steinsel, Gonneschha  01955  01955                % 03958 AVL---
+200801008 Steinsel, Um Gruef    01956  01956                % 03958 AVL---
+200801005 Steinsel, Michel Rod  01956  01956                % 03958 AVL---
+200801001 Müllendorf/Mëlleref   01958  01958                % 03958 AVL---
+200802001 Heisdorf, Altersheem  01959  01959                % 03958 AVL---
+200802004 Heisdorf, Klouster    02000  02000                % 03958 AVL---
+200802002 Heisdorf, Bei der Pa  02000  02000                % 03958 AVL---
+201003003 Heisdorf, Millewee    02001  02001                % 03958 AVL---
+201003002 Helmsange, Mercatori  02001  02001                % 03958 AVL---
+201003004 Helmsange, Tricenten  02002  02002                % 03958 AVL---
+201004002 Walferdange, Gemenge  02003  02003                % 03958 AVL---
+201001002 Bereldange, Police    02004  02004                % 03958 AVL---
+201001003 Bereldange, Schoul    02006  02006                % 03958 AVL---
+200402007 Beggen, Rue du Pont   02007  02007                % 03958 AVL---
+200402001 Beggen, Bastogne      02008  02008                % 03958 AVL---
+200402006 Beggen, Kierch        02009  02009                % 03958 AVL---
+200402002 Beggen, Binnchen      02009  02009                % 03958 AVL---
+200402005 Beggen, Henri Heyman  02010  02010                % 03958 AVL---
+200409007 Dommeldange, Emile M  02011  02011                % 03958 AVL---
+200410004 Eich, Eecher Klinick  02012  02012                % 03958 AVL---
+200410003 Eich, Eecher Plaz     02014  02014                % 03958 AVL---
+200423002 Pfaffenthal, Stade G  02015  02015                % 03958 AVL---
+200423001 Pfaffenthal, Sichenh  02016  02016                % 03958 AVL---
+200423007 Pfaffenthal, Halte C  02016  02016                % 03958 AVL---
+200423003 Pfaffenthal, Théiwes  02017  02017                % 03958 AVL---
+200423005 Pfaffenthal, Vauban   02018  02018                % 03958 AVL---
+200408007 Clausen, Ste Cunégon  02019  02019                % 03958 AVL---
+200408003 Clausen, Malakoff     02020  02020                % 03958 AVL---
+200422005 Neudorf/Weimershof,   02021  02021                % 03958 AVL---
+200408002 Neudorf, Fixmer       02022  02022                % 03958 AVL---
+200422009 Neudorf, Kierch       02023  02023                % 03958 AVL---
+200422006 Neudorf, Huesegrënnc  02024  02024                % 03958 AVL---
+200422002 Neudorf, Carrières    02024  02024                % 03958 AVL---
+200417008 Kirchberg, Bricher G  02025  02025                % 03958 AVL---
+200417020 Kirchberg, Labours    02025  02025                % 03958 AVL---
+200426002 Weimershof, Joseph H  02026  02026                % 03958 AVL---
+200417015 Kirchberg, Hôpital    02027  02027                % 03958 AVL---
+200417032 Kirchberg, Pierre We  02028  02028                % 03958 AVL---
+200417034 Kirchberg, Rehazente  02028  02028                % 03958 AVL---
+200417035 Kirchberg, Rehazente  02029                       % 03958 AVL---
+*Z 03959 AVL---       022 030                               % 03959 AVL---
+*L 26       200801011 200417035  00746  00823               % 03959 AVL---
+*A BE 200801011 200417035 000025  00746  00823              % 03959 AVL---
+*R 1 200417035 200801011 200417035  00746  00823            % 03959 AVL---
+*G STE 200801011 200417035  00746  00823                    % 03959 AVL---
+*A VE 200801011 200417035 000025  00746  00823              % 03959 AVL---
+200801011 Steinsel, Kennedy            00746                % 03959 AVL---
+200801003 Steinsel, Gonneschha  00748  00748                % 03959 AVL---
+200801008 Steinsel, Um Gruef    00748  00748                % 03959 AVL---
+200801005 Steinsel, Michel Rod  00749  00749                % 03959 AVL---
+200801001 Müllendorf/Mëlleref   00751  00751                % 03959 AVL---
+200802001 Heisdorf, Altersheem  00752  00752                % 03959 AVL---
+200802004 Heisdorf, Klouster    00753  00753                % 03959 AVL---
+200802002 Heisdorf, Bei der Pa  00753  00753                % 03959 AVL---
+201003003 Heisdorf, Millewee    00754  00754                % 03959 AVL---
+201003002 Helmsange, Mercatori  00755  00755                % 03959 AVL---
+201003004 Helmsange, Tricenten  00756  00756                % 03959 AVL---
+201004002 Walferdange, Gemenge  00757  00757                % 03959 AVL---
+201001002 Bereldange, Police    00758  00758                % 03959 AVL---
+201001003 Bereldange, Schoul    00759  00759                % 03959 AVL---
+200402007 Beggen, Rue du Pont   00801  00801                % 03959 AVL---
+200402001 Beggen, Bastogne      00802  00802                % 03959 AVL---
+200402006 Beggen, Kierch        00803  00803                % 03959 AVL---
+200402002 Beggen, Binnchen      00803  00803                % 03959 AVL---
+200402005 Beggen, Henri Heyman  00804  00804                % 03959 AVL---
+200409007 Dommeldange, Emile M  00805  00805                % 03959 AVL---
+200410004 Eich, Eecher Klinick  00806  00806                % 03959 AVL---
+200410003 Eich, Eecher Plaz     00808  00808                % 03959 AVL---
+200423002 Pfaffenthal, Stade G  00809  00809                % 03959 AVL---
+200423001 Pfaffenthal, Sichenh  00810  00810                % 03959 AVL---
+200423007 Pfaffenthal, Halte C  00810  00810                % 03959 AVL---
+200423003 Pfaffenthal, Théiwes  00811  00811                % 03959 AVL---
+200423005 Pfaffenthal, Vauban   00812  00812                % 03959 AVL---
+200408007 Clausen, Ste Cunégon  00813  00813                % 03959 AVL---
+200408003 Clausen, Malakoff     00814  00814                % 03959 AVL---
+200422005 Neudorf/Weimershof,   00815  00815                % 03959 AVL---
+200408002 Neudorf, Fixmer       00816  00816                % 03959 AVL---
+200422009 Neudorf, Kierch       00817  00817                % 03959 AVL---
+200422006 Neudorf, Huesegrënnc  00818  00818                % 03959 AVL---
+200422002 Neudorf, Carrières    00818  00818                % 03959 AVL---
+200417008 Kirchberg, Bricher G  00819  00819                % 03959 AVL---
+200417020 Kirchberg, Labours    00819  00819                % 03959 AVL---
+200426002 Weimershof, Joseph H  00820  00820                % 03959 AVL---
+200417015 Kirchberg, Hôpital    00821  00821                % 03959 AVL---
+200417032 Kirchberg, Pierre We  00822  00822                % 03959 AVL---
+200417034 Kirchberg, Rehazente  00822  00822                % 03959 AVL---
+200417035 Kirchberg, Rehazente  00823                       % 03959 AVL---
+*Z 03960 AVL---                                             % 03960 AVL---
+*L 26       200801011 200417035  01922  01959               % 03960 AVL---
+*A BE 200801011 200417035 000025  01922  01959              % 03960 AVL---
+*R 1 200417035 200801011 200417035  01922  01959            % 03960 AVL---
+*G STE 200801011 200417035  01922  01959                    % 03960 AVL---
+*A VE 200801011 200417035 000025  01922  01959              % 03960 AVL---
+200801011 Steinsel, Kennedy            01922                % 03960 AVL---
+200801003 Steinsel, Gonneschha  01924  01924                % 03960 AVL---
+200801008 Steinsel, Um Gruef    01924  01924                % 03960 AVL---
+200801005 Steinsel, Michel Rod  01925  01925                % 03960 AVL---
+200801001 Müllendorf/Mëlleref   01927  01927                % 03960 AVL---
+200802001 Heisdorf, Altersheem  01928  01928                % 03960 AVL---
+200802004 Heisdorf, Klouster    01929  01929                % 03960 AVL---
+200802002 Heisdorf, Bei der Pa  01929  01929                % 03960 AVL---
+201003003 Heisdorf, Millewee    01930  01930                % 03960 AVL---
+201003002 Helmsange, Mercatori  01931  01931                % 03960 AVL---
+201003004 Helmsange, Tricenten  01932  01932                % 03960 AVL---
+201004002 Walferdange, Gemenge  01933  01933                % 03960 AVL---
+201001002 Bereldange, Police    01934  01934                % 03960 AVL---
+201001003 Bereldange, Schoul    01935  01935                % 03960 AVL---
+200402007 Beggen, Rue du Pont   01937  01937                % 03960 AVL---
+200402001 Beggen, Bastogne      01938  01938                % 03960 AVL---
+200402006 Beggen, Kierch        01939  01939                % 03960 AVL---
+200402002 Beggen, Binnchen      01939  01939                % 03960 AVL---
+200402005 Beggen, Henri Heyman  01940  01940                % 03960 AVL---
+200409007 Dommeldange, Emile M  01941  01941                % 03960 AVL---
+200410004 Eich, Eecher Klinick  01942  01942                % 03960 AVL---
+200410003 Eich, Eecher Plaz     01944  01944                % 03960 AVL---
+200423002 Pfaffenthal, Stade G  01945  01945                % 03960 AVL---
+200423001 Pfaffenthal, Sichenh  01946  01946                % 03960 AVL---
+200423007 Pfaffenthal, Halte C  01946  01946                % 03960 AVL---
+200423003 Pfaffenthal, Théiwes  01947  01947                % 03960 AVL---
+200423005 Pfaffenthal, Vauban   01948  01948                % 03960 AVL---
+200408007 Clausen, Ste Cunégon  01949  01949                % 03960 AVL---
+200408003 Clausen, Malakoff     01950  01950                % 03960 AVL---
+200422005 Neudorf/Weimershof,   01951  01951                % 03960 AVL---
+200408002 Neudorf, Fixmer       01952  01952                % 03960 AVL---
+200422009 Neudorf, Kierch       01953  01953                % 03960 AVL---
+200422006 Neudorf, Huesegrënnc  01954  01954                % 03960 AVL---
+200422002 Neudorf, Carrières    01954  01954                % 03960 AVL---
+200417008 Kirchberg, Bricher G  01955  01955                % 03960 AVL---
+200417020 Kirchberg, Labours    01955  01955                % 03960 AVL---
+200426002 Weimershof, Joseph H  01956  01956                % 03960 AVL---
+200417015 Kirchberg, Hôpital    01957  01957                % 03960 AVL---
+200417032 Kirchberg, Pierre We  01958  01958                % 03960 AVL---
+200417034 Kirchberg, Rehazente  01958  01958                % 03960 AVL---
+200417035 Kirchberg, Rehazente  01959                       % 03960 AVL---
+*Z 03961 AVL---       007 060                               % 03961 AVL---
+*L 26       200801011 200417035  01155  01232               % 03961 AVL---
+*A BE 200801011 200417035 000018  01155  01232              % 03961 AVL---
+*R 1 200417035 200801011 200417035  01155  01232            % 03961 AVL---
+*G STE 200801011 200417035  01155  01232                    % 03961 AVL---
+*A VE 200801011 200417035 000018  01155  01232              % 03961 AVL---
+200801011 Steinsel, Kennedy            01155                % 03961 AVL---
+200801003 Steinsel, Gonneschha  01157  01157                % 03961 AVL---
+200801008 Steinsel, Um Gruef    01157  01157                % 03961 AVL---
+200801005 Steinsel, Michel Rod  01158  01158                % 03961 AVL---
+200801001 Müllendorf/Mëlleref   01200  01200                % 03961 AVL---
+200802001 Heisdorf, Altersheem  01201  01201                % 03961 AVL---
+200802004 Heisdorf, Klouster    01202  01202                % 03961 AVL---
+200802002 Heisdorf, Bei der Pa  01202  01202                % 03961 AVL---
+201003003 Heisdorf, Millewee    01203  01203                % 03961 AVL---
+201003002 Helmsange, Mercatori  01204  01204                % 03961 AVL---
+201003004 Helmsange, Tricenten  01205  01205                % 03961 AVL---
+201004002 Walferdange, Gemenge  01206  01206                % 03961 AVL---
+201001002 Bereldange, Police    01207  01207                % 03961 AVL---
+201001003 Bereldange, Schoul    01208  01208                % 03961 AVL---
+200402007 Beggen, Rue du Pont   01210  01210                % 03961 AVL---
+200402001 Beggen, Bastogne      01211  01211                % 03961 AVL---
+200402006 Beggen, Kierch        01212  01212                % 03961 AVL---
+200402002 Beggen, Binnchen      01212  01212                % 03961 AVL---
+200402005 Beggen, Henri Heyman  01213  01213                % 03961 AVL---
+200409007 Dommeldange, Emile M  01214  01214                % 03961 AVL---
+200410004 Eich, Eecher Klinick  01215  01215                % 03961 AVL---
+200410003 Eich, Eecher Plaz     01217  01217                % 03961 AVL---
+200423002 Pfaffenthal, Stade G  01218  01218                % 03961 AVL---
+200423001 Pfaffenthal, Sichenh  01219  01219                % 03961 AVL---
+200423007 Pfaffenthal, Halte C  01219  01219                % 03961 AVL---
+200423003 Pfaffenthal, Théiwes  01220  01220                % 03961 AVL---
+200423005 Pfaffenthal, Vauban   01221  01221                % 03961 AVL---
+200408007 Clausen, Ste Cunégon  01222  01222                % 03961 AVL---
+200408003 Clausen, Malakoff     01223  01223                % 03961 AVL---
+200422005 Neudorf/Weimershof,   01224  01224                % 03961 AVL---
+200408002 Neudorf, Fixmer       01225  01225                % 03961 AVL---
+200422009 Neudorf, Kierch       01226  01226                % 03961 AVL---
+200422006 Neudorf, Huesegrënnc  01227  01227                % 03961 AVL---
+200422002 Neudorf, Carrières    01227  01227                % 03961 AVL---
+200417008 Kirchberg, Bricher G  01228  01228                % 03961 AVL---
+200417020 Kirchberg, Labours    01228  01228                % 03961 AVL---
+200426002 Weimershof, Joseph H  01229  01229                % 03961 AVL---
+200417015 Kirchberg, Hôpital    01230  01230                % 03961 AVL---
+200417032 Kirchberg, Pierre We  01231  01231                % 03961 AVL---
+200417034 Kirchberg, Rehazente  01231  01231                % 03961 AVL---
+200417035 Kirchberg, Rehazente  01232                       % 03961 AVL---
+*Z 03962 AVL---       040 020                               % 03962 AVL---
+*L 26       200801011 200417035  00613  00656               % 03962 AVL---
+*A BE 200801011 200417035 000033  00613  00656              % 03962 AVL---
+*R 1 200417035 200801011 200417035  00613  00656            % 03962 AVL---
+*G STE 200801011 200417035  00613  00656                    % 03962 AVL---
+*A VE 200801011 200417035 000033  00613  00656              % 03962 AVL---
+200801011 Steinsel, Kennedy            00613                % 03962 AVL---
+200801003 Steinsel, Gonneschha  00615  00615                % 03962 AVL---
+200801008 Steinsel, Um Gruef    00616  00616                % 03962 AVL---
+200801005 Steinsel, Michel Rod  00617  00617                % 03962 AVL---
+200801001 Müllendorf/Mëlleref   00618  00618                % 03962 AVL---
+200802001 Heisdorf, Altersheem  00619  00619                % 03962 AVL---
+200802004 Heisdorf, Klouster    00620  00620                % 03962 AVL---
+200802002 Heisdorf, Bei der Pa  00621  00621                % 03962 AVL---
+201003003 Heisdorf, Millewee    00622  00622                % 03962 AVL---
+201003002 Helmsange, Mercatori  00622  00622                % 03962 AVL---
+201003004 Helmsange, Tricenten  00623  00623                % 03962 AVL---
+201004002 Walferdange, Gemenge  00625  00625                % 03962 AVL---
+201001002 Bereldange, Police    00626  00626                % 03962 AVL---
+201001003 Bereldange, Schoul    00627  00627                % 03962 AVL---
+200402007 Beggen, Rue du Pont   00629  00629                % 03962 AVL---
+200402001 Beggen, Bastogne      00630  00630                % 03962 AVL---
+200402006 Beggen, Kierch        00631  00631                % 03962 AVL---
+200402002 Beggen, Binnchen      00632  00632                % 03962 AVL---
+200402005 Beggen, Henri Heyman  00633  00633                % 03962 AVL---
+200409007 Dommeldange, Emile M  00634  00634                % 03962 AVL---
+200410004 Eich, Eecher Klinick  00635  00635                % 03962 AVL---
+200410003 Eich, Eecher Plaz     00637  00637                % 03962 AVL---
+200423002 Pfaffenthal, Stade G  00639  00639                % 03962 AVL---
+200423001 Pfaffenthal, Sichenh  00640  00640                % 03962 AVL---
+200423007 Pfaffenthal, Halte C  00640  00640                % 03962 AVL---
+200423003 Pfaffenthal, Théiwes  00641  00641                % 03962 AVL---
+200423005 Pfaffenthal, Vauban   00642  00642                % 03962 AVL---
+200408007 Clausen, Ste Cunégon  00643  00643                % 03962 AVL---
+200408003 Clausen, Malakoff     00645  00645                % 03962 AVL---
+200422005 Neudorf/Weimershof,   00645  00645                % 03962 AVL---
+200408002 Neudorf, Fixmer       00647  00647                % 03962 AVL---
+200422009 Neudorf, Kierch       00648  00648                % 03962 AVL---
+200422006 Neudorf, Huesegrënnc  00649  00649                % 03962 AVL---
+200422002 Neudorf, Carrières    00650  00650                % 03962 AVL---
+200417008 Kirchberg, Bricher G  00650  00650                % 03962 AVL---
+200417020 Kirchberg, Labours    00651  00651                % 03962 AVL---
+200426002 Weimershof, Joseph H  00652  00652                % 03962 AVL---
+200417015 Kirchberg, Hôpital    00653  00653                % 03962 AVL---
+200417032 Kirchberg, Pierre We  00654  00654                % 03962 AVL---
+200417034 Kirchberg, Rehazente  00655  00655                % 03962 AVL---
+200417035 Kirchberg, Rehazente  00656                       % 03962 AVL---
+*Z 03963 AVL---                                             % 03963 AVL---
+*L 26       200417035 200801011  02004  02040               % 03963 AVL---
+*A BE 200417035 200801011 000039  02004  02040              % 03963 AVL---
+*R 2 200801011 200417035 200801011  02004  02040            % 03963 AVL---
+*G STE 200417035 200801011  02004  02040                    % 03963 AVL---
+*A VE 200417035 200801011 000039  02004  02040              % 03963 AVL---
+200417035 Kirchberg, Rehazente         02004                % 03963 AVL---
+200417034 Kirchberg, Rehazente  02005  02005                % 03963 AVL---
+200417032 Kirchberg, Pierre We  02006  02006                % 03963 AVL---
+200417015 Kirchberg, Hôpital    02007  02007                % 03963 AVL---
+200426002 Weimershof, Joseph H  02008  02008                % 03963 AVL---
+200417020 Kirchberg, Labours    02008  02008                % 03963 AVL---
+200417008 Kirchberg, Bricher G  02009  02009                % 03963 AVL---
+200422002 Neudorf, Carrières    02010  02010                % 03963 AVL---
+200422006 Neudorf, Huesegrënnc  02010  02010                % 03963 AVL---
+200422009 Neudorf, Kierch       02011  02011                % 03963 AVL---
+200408002 Neudorf, Fixmer       02012  02012                % 03963 AVL---
+200422005 Neudorf/Weimershof,   02013  02013                % 03963 AVL---
+200408003 Clausen, Malakoff     02014  02014                % 03963 AVL---
+200408007 Clausen, Ste Cunégon  02015  02015                % 03963 AVL---
+200423005 Pfaffenthal, Vauban   02016  02016                % 03963 AVL---
+200423003 Pfaffenthal, Théiwes  02017  02017                % 03963 AVL---
+200423007 Pfaffenthal, Halte C  02018  02018                % 03963 AVL---
+200423001 Pfaffenthal, Sichenh  02018  02018                % 03963 AVL---
+200423002 Pfaffenthal, Stade G  02019  02019                % 03963 AVL---
+200410003 Eich, Eecher Plaz     02021  02021                % 03963 AVL---
+200410004 Eich, Eecher Klinick  02022  02022                % 03963 AVL---
+200409007 Dommeldange, Emile M  02023  02023                % 03963 AVL---
+200402005 Beggen, Henri Heyman  02024  02024                % 03963 AVL---
+200402002 Beggen, Binnchen      02024  02024                % 03963 AVL---
+200402006 Beggen, Kierch        02025  02025                % 03963 AVL---
+200402001 Beggen, Bastogne      02026  02026                % 03963 AVL---
+201001004 Bereldange, Rue du P  02027  02027                % 03963 AVL---
+201001003 Bereldange, Schoul    02027  02027                % 03963 AVL---
+201001002 Bereldange, Police    02028  02028                % 03963 AVL---
+201004002 Walferdange, Gemenge  02029  02029                % 03963 AVL---
+201003004 Helmsange, Tricenten  02030  02030                % 03963 AVL---
+201003002 Helmsange, Mercatori  02031  02031                % 03963 AVL---
+201003003 Heisdorf, Millewee    02032  02032                % 03963 AVL---
+200802002 Heisdorf, Bei der Pa  02032  02032                % 03963 AVL---
+200802004 Heisdorf, Klouster    02033  02033                % 03963 AVL---
+200802001 Heisdorf, Altersheem  02034  02034                % 03963 AVL---
+200801001 Müllendorf/Mëlleref   02035  02035                % 03963 AVL---
+200801005 Steinsel, Michel Rod  02036  02036                % 03963 AVL---
+200801003 Steinsel, Gonneschha  02038  02038                % 03963 AVL---
+200801011 Steinsel, Kennedy     02040                       % 03963 AVL---
+*Z 03964 AVL---       001 030                               % 03964 AVL---
+*L 26       200417035 200801011  00704  00740               % 03964 AVL---
+*A BE 200417035 200801011 000025  00704  00740              % 03964 AVL---
+*R 2 200801011 200417035 200801011  00704  00740            % 03964 AVL---
+*G STE 200417035 200801011  00704  00740                    % 03964 AVL---
+*A VE 200417035 200801011 000025  00704  00740              % 03964 AVL---
+200417035 Kirchberg, Rehazente         00704                % 03964 AVL---
+200417034 Kirchberg, Rehazente  00705  00705                % 03964 AVL---
+200417032 Kirchberg, Pierre We  00706  00706                % 03964 AVL---
+200417015 Kirchberg, Hôpital    00707  00707                % 03964 AVL---
+200426002 Weimershof, Joseph H  00708  00708                % 03964 AVL---
+200417020 Kirchberg, Labours    00708  00708                % 03964 AVL---
+200417008 Kirchberg, Bricher G  00709  00709                % 03964 AVL---
+200422002 Neudorf, Carrières    00710  00710                % 03964 AVL---
+200422006 Neudorf, Huesegrënnc  00710  00710                % 03964 AVL---
+200422009 Neudorf, Kierch       00711  00711                % 03964 AVL---
+200408002 Neudorf, Fixmer       00712  00712                % 03964 AVL---
+200422005 Neudorf/Weimershof,   00713  00713                % 03964 AVL---
+200408003 Clausen, Malakoff     00714  00714                % 03964 AVL---
+200408007 Clausen, Ste Cunégon  00715  00715                % 03964 AVL---
+200423005 Pfaffenthal, Vauban   00716  00716                % 03964 AVL---
+200423003 Pfaffenthal, Théiwes  00717  00717                % 03964 AVL---
+200423007 Pfaffenthal, Halte C  00718  00718                % 03964 AVL---
+200423001 Pfaffenthal, Sichenh  00718  00718                % 03964 AVL---
+200423002 Pfaffenthal, Stade G  00719  00719                % 03964 AVL---
+200410003 Eich, Eecher Plaz     00721  00721                % 03964 AVL---
+200410004 Eich, Eecher Klinick  00722  00722                % 03964 AVL---
+200409007 Dommeldange, Emile M  00723  00723                % 03964 AVL---
+200402005 Beggen, Henri Heyman  00724  00724                % 03964 AVL---
+200402002 Beggen, Binnchen      00724  00724                % 03964 AVL---
+200402006 Beggen, Kierch        00725  00725                % 03964 AVL---
+200402001 Beggen, Bastogne      00726  00726                % 03964 AVL---
+201001004 Bereldange, Rue du P  00727  00727                % 03964 AVL---
+201001003 Bereldange, Schoul    00727  00727                % 03964 AVL---
+201001002 Bereldange, Police    00728  00728                % 03964 AVL---
+201004002 Walferdange, Gemenge  00729  00729                % 03964 AVL---
+201003004 Helmsange, Tricenten  00730  00730                % 03964 AVL---
+201003002 Helmsange, Mercatori  00731  00731                % 03964 AVL---
+201003003 Heisdorf, Millewee    00732  00732                % 03964 AVL---
+200802002 Heisdorf, Bei der Pa  00732  00732                % 03964 AVL---
+200802004 Heisdorf, Klouster    00733  00733                % 03964 AVL---
+200802001 Heisdorf, Altersheem  00734  00734                % 03964 AVL---
+200801001 Müllendorf/Mëlleref   00735  00735                % 03964 AVL---
+200801005 Steinsel, Michel Rod  00736  00736                % 03964 AVL---
+200801003 Steinsel, Gonneschha  00738  00738                % 03964 AVL---
+200801011 Steinsel, Kennedy     00740                       % 03964 AVL---
+*Z 03965 AVL---       002 060                               % 03965 AVL---
+*L 26       200417035 200801011  02104  02140               % 03965 AVL---
+*A BE 200417035 200801011 000036  02104  02140              % 03965 AVL---
+*R 2 200801011 200417035 200801011  02104  02140            % 03965 AVL---
+*G STE 200417035 200801011  02104  02140                    % 03965 AVL---
+*A VE 200417035 200801011 000036  02104  02140              % 03965 AVL---
+200417035 Kirchberg, Rehazente         02104                % 03965 AVL---
+200417034 Kirchberg, Rehazente  02105  02105                % 03965 AVL---
+200417032 Kirchberg, Pierre We  02106  02106                % 03965 AVL---
+200417015 Kirchberg, Hôpital    02107  02107                % 03965 AVL---
+200426002 Weimershof, Joseph H  02108  02108                % 03965 AVL---
+200417020 Kirchberg, Labours    02108  02108                % 03965 AVL---
+200417008 Kirchberg, Bricher G  02109  02109                % 03965 AVL---
+200422002 Neudorf, Carrières    02110  02110                % 03965 AVL---
+200422006 Neudorf, Huesegrënnc  02110  02110                % 03965 AVL---
+200422009 Neudorf, Kierch       02111  02111                % 03965 AVL---
+200408002 Neudorf, Fixmer       02112  02112                % 03965 AVL---
+200422005 Neudorf/Weimershof,   02113  02113                % 03965 AVL---
+200408003 Clausen, Malakoff     02114  02114                % 03965 AVL---
+200408007 Clausen, Ste Cunégon  02115  02115                % 03965 AVL---
+200423005 Pfaffenthal, Vauban   02116  02116                % 03965 AVL---
+200423003 Pfaffenthal, Théiwes  02117  02117                % 03965 AVL---
+200423007 Pfaffenthal, Halte C  02118  02118                % 03965 AVL---
+200423001 Pfaffenthal, Sichenh  02118  02118                % 03965 AVL---
+200423002 Pfaffenthal, Stade G  02119  02119                % 03965 AVL---
+200410003 Eich, Eecher Plaz     02121  02121                % 03965 AVL---
+200410004 Eich, Eecher Klinick  02122  02122                % 03965 AVL---
+200409007 Dommeldange, Emile M  02123  02123                % 03965 AVL---
+200402005 Beggen, Henri Heyman  02124  02124                % 03965 AVL---
+200402002 Beggen, Binnchen      02124  02124                % 03965 AVL---
+200402006 Beggen, Kierch        02125  02125                % 03965 AVL---
+200402001 Beggen, Bastogne      02126  02126                % 03965 AVL---
+201001004 Bereldange, Rue du P  02127  02127                % 03965 AVL---
+201001003 Bereldange, Schoul    02127  02127                % 03965 AVL---
+201001002 Bereldange, Police    02128  02128                % 03965 AVL---
+201004002 Walferdange, Gemenge  02129  02129                % 03965 AVL---
+201003004 Helmsange, Tricenten  02130  02130                % 03965 AVL---
+201003002 Helmsange, Mercatori  02131  02131                % 03965 AVL---
+201003003 Heisdorf, Millewee    02132  02132                % 03965 AVL---
+200802002 Heisdorf, Bei der Pa  02132  02132                % 03965 AVL---
+200802004 Heisdorf, Klouster    02133  02133                % 03965 AVL---
+200802001 Heisdorf, Altersheem  02134  02134                % 03965 AVL---
+200801001 Müllendorf/Mëlleref   02135  02135                % 03965 AVL---
+200801005 Steinsel, Michel Rod  02136  02136                % 03965 AVL---
+200801003 Steinsel, Gonneschha  02138  02138                % 03965 AVL---
+200801011 Steinsel, Kennedy     02140                       % 03965 AVL---
+*Z 03966 AVL---                                             % 03966 AVL---
+*L 26       200417035 200801011  00600  00636               % 03966 AVL---
+*A BE 200417035 200801011 000033  00600  00636              % 03966 AVL---
+*R 2 200801011 200417035 200801011  00600  00636            % 03966 AVL---
+*G STE 200417035 200801011  00600  00636                    % 03966 AVL---
+*A VE 200417035 200801011 000033  00600  00636              % 03966 AVL---
+200417035 Kirchberg, Rehazente         00600                % 03966 AVL---
+200417034 Kirchberg, Rehazente  00601  00601                % 03966 AVL---
+200417032 Kirchberg, Pierre We  00601  00601                % 03966 AVL---
+200417015 Kirchberg, Hôpital    00603  00603                % 03966 AVL---
+200426002 Weimershof, Joseph H  00603  00603                % 03966 AVL---
+200417020 Kirchberg, Labours    00604  00604                % 03966 AVL---
+200417008 Kirchberg, Bricher G  00605  00605                % 03966 AVL---
+200422002 Neudorf, Carrières    00605  00605                % 03966 AVL---
+200422006 Neudorf, Huesegrënnc  00606  00606                % 03966 AVL---
+200422009 Neudorf, Kierch       00607  00607                % 03966 AVL---
+200408002 Neudorf, Fixmer       00608  00608                % 03966 AVL---
+200422005 Neudorf/Weimershof,   00609  00609                % 03966 AVL---
+200408003 Clausen, Malakoff     00610  00610                % 03966 AVL---
+200408007 Clausen, Ste Cunégon  00611  00611                % 03966 AVL---
+200423005 Pfaffenthal, Vauban   00612  00612                % 03966 AVL---
+200423003 Pfaffenthal, Théiwes  00613  00613                % 03966 AVL---
+200423007 Pfaffenthal, Halte C  00614  00614                % 03966 AVL---
+200423001 Pfaffenthal, Sichenh  00614  00614                % 03966 AVL---
+200423002 Pfaffenthal, Stade G  00615  00615                % 03966 AVL---
+200410003 Eich, Eecher Plaz     00616  00616                % 03966 AVL---
+200410004 Eich, Eecher Klinick  00618  00618                % 03966 AVL---
+200409007 Dommeldange, Emile M  00619  00619                % 03966 AVL---
+200402005 Beggen, Henri Heyman  00619  00619                % 03966 AVL---
+200402002 Beggen, Binnchen      00620  00620                % 03966 AVL---
+200402006 Beggen, Kierch        00620  00620                % 03966 AVL---
+200402001 Beggen, Bastogne      00621  00621                % 03966 AVL---
+201001004 Bereldange, Rue du P  00622  00622                % 03966 AVL---
+201001003 Bereldange, Schoul    00623  00623                % 03966 AVL---
+201001002 Bereldange, Police    00624  00624                % 03966 AVL---
+201004002 Walferdange, Gemenge  00625  00625                % 03966 AVL---
+201003004 Helmsange, Tricenten  00626  00626                % 03966 AVL---
+201003002 Helmsange, Mercatori  00627  00627                % 03966 AVL---
+201003003 Heisdorf, Millewee    00628  00628                % 03966 AVL---
+200802002 Heisdorf, Bei der Pa  00628  00628                % 03966 AVL---
+200802004 Heisdorf, Klouster    00629  00629                % 03966 AVL---
+200802001 Heisdorf, Altersheem  00630  00630                % 03966 AVL---
+200801001 Müllendorf/Mëlleref   00631  00631                % 03966 AVL---
+200801005 Steinsel, Michel Rod  00632  00632                % 03966 AVL---
+200801003 Steinsel, Gonneschha  00633  00633                % 03966 AVL---
+200801011 Steinsel, Kennedy     00636                       % 03966 AVL---
+*Z 03967 AVL---       002 060                               % 03967 AVL---
+*L 26       200417035 200801011  02034  02110               % 03967 AVL---
+*A BE 200417035 200801011 000033  02034  02110              % 03967 AVL---
+*R 2 200801011 200417035 200801011  02034  02110            % 03967 AVL---
+*G STE 200417035 200801011  02034  02110                    % 03967 AVL---
+*A VE 200417035 200801011 000033  02034  02110              % 03967 AVL---
+200417035 Kirchberg, Rehazente         02034                % 03967 AVL---
+200417034 Kirchberg, Rehazente  02035  02035                % 03967 AVL---
+200417032 Kirchberg, Pierre We  02036  02036                % 03967 AVL---
+200417015 Kirchberg, Hôpital    02037  02037                % 03967 AVL---
+200426002 Weimershof, Joseph H  02038  02038                % 03967 AVL---
+200417020 Kirchberg, Labours    02038  02038                % 03967 AVL---
+200417008 Kirchberg, Bricher G  02039  02039                % 03967 AVL---
+200422002 Neudorf, Carrières    02040  02040                % 03967 AVL---
+200422006 Neudorf, Huesegrënnc  02040  02040                % 03967 AVL---
+200422009 Neudorf, Kierch       02041  02041                % 03967 AVL---
+200408002 Neudorf, Fixmer       02042  02042                % 03967 AVL---
+200422005 Neudorf/Weimershof,   02043  02043                % 03967 AVL---
+200408003 Clausen, Malakoff     02044  02044                % 03967 AVL---
+200408007 Clausen, Ste Cunégon  02045  02045                % 03967 AVL---
+200423005 Pfaffenthal, Vauban   02046  02046                % 03967 AVL---
+200423003 Pfaffenthal, Théiwes  02047  02047                % 03967 AVL---
+200423007 Pfaffenthal, Halte C  02048  02048                % 03967 AVL---
+200423001 Pfaffenthal, Sichenh  02048  02048                % 03967 AVL---
+200423002 Pfaffenthal, Stade G  02049  02049                % 03967 AVL---
+200410003 Eich, Eecher Plaz     02051  02051                % 03967 AVL---
+200410004 Eich, Eecher Klinick  02052  02052                % 03967 AVL---
+200409007 Dommeldange, Emile M  02053  02053                % 03967 AVL---
+200402005 Beggen, Henri Heyman  02054  02054                % 03967 AVL---
+200402002 Beggen, Binnchen      02054  02054                % 03967 AVL---
+200402006 Beggen, Kierch        02055  02055                % 03967 AVL---
+200402001 Beggen, Bastogne      02056  02056                % 03967 AVL---
+201001004 Bereldange, Rue du P  02057  02057                % 03967 AVL---
+201001003 Bereldange, Schoul    02057  02057                % 03967 AVL---
+201001002 Bereldange, Police    02058  02058                % 03967 AVL---
+201004002 Walferdange, Gemenge  02059  02059                % 03967 AVL---
+201003004 Helmsange, Tricenten  02100  02100                % 03967 AVL---
+201003002 Helmsange, Mercatori  02101  02101                % 03967 AVL---
+201003003 Heisdorf, Millewee    02102  02102                % 03967 AVL---
+200802002 Heisdorf, Bei der Pa  02102  02102                % 03967 AVL---
+200802004 Heisdorf, Klouster    02103  02103                % 03967 AVL---
+200802001 Heisdorf, Altersheem  02104  02104                % 03967 AVL---
+200801001 Müllendorf/Mëlleref   02105  02105                % 03967 AVL---
+200801005 Steinsel, Michel Rod  02106  02106                % 03967 AVL---
+200801003 Steinsel, Gonneschha  02108  02108                % 03967 AVL---
+200801011 Steinsel, Kennedy     02110                       % 03967 AVL---
+*Z 03968 AVL---       023 030                               % 03968 AVL---
+*L 26       200417035 200801011  00805  00842               % 03968 AVL---
+*A BE 200417035 200801011 000025  00805  00842              % 03968 AVL---
+*R 2 200801011 200417035 200801011  00805  00842            % 03968 AVL---
+*G STE 200417035 200801011  00805  00842                    % 03968 AVL---
+*A VE 200417035 200801011 000025  00805  00842              % 03968 AVL---
+200417035 Kirchberg, Rehazente         00805                % 03968 AVL---
+200417034 Kirchberg, Rehazente  00806  00806                % 03968 AVL---
+200417032 Kirchberg, Pierre We  00807  00807                % 03968 AVL---
+200417015 Kirchberg, Hôpital    00808  00808                % 03968 AVL---
+200426002 Weimershof, Joseph H  00808  00808                % 03968 AVL---
+200417020 Kirchberg, Labours    00809  00809                % 03968 AVL---
+200417008 Kirchberg, Bricher G  00810  00810                % 03968 AVL---
+200422002 Neudorf, Carrières    00811  00811                % 03968 AVL---
+200422006 Neudorf, Huesegrënnc  00811  00811                % 03968 AVL---
+200422009 Neudorf, Kierch       00812  00812                % 03968 AVL---
+200408002 Neudorf, Fixmer       00813  00813                % 03968 AVL---
+200422005 Neudorf/Weimershof,   00814  00814                % 03968 AVL---
+200408003 Clausen, Malakoff     00815  00815                % 03968 AVL---
+200408007 Clausen, Ste Cunégon  00816  00816                % 03968 AVL---
+200423005 Pfaffenthal, Vauban   00817  00817                % 03968 AVL---
+200423003 Pfaffenthal, Théiwes  00818  00818                % 03968 AVL---
+200423007 Pfaffenthal, Halte C  00819  00819                % 03968 AVL---
+200423001 Pfaffenthal, Sichenh  00819  00819                % 03968 AVL---
+200423002 Pfaffenthal, Stade G  00820  00820                % 03968 AVL---
+200410003 Eich, Eecher Plaz     00822  00822                % 03968 AVL---
+200410004 Eich, Eecher Klinick  00823  00823                % 03968 AVL---
+200409007 Dommeldange, Emile M  00824  00824                % 03968 AVL---
+200402005 Beggen, Henri Heyman  00825  00825                % 03968 AVL---
+200402002 Beggen, Binnchen      00826  00826                % 03968 AVL---
+200402006 Beggen, Kierch        00826  00826                % 03968 AVL---
+200402001 Beggen, Bastogne      00827  00827                % 03968 AVL---
+201001004 Bereldange, Rue du P  00828  00828                % 03968 AVL---
+201001003 Bereldange, Schoul    00829  00829                % 03968 AVL---
+201001002 Bereldange, Police    00831  00831                % 03968 AVL---
+201004002 Walferdange, Gemenge  00832  00832                % 03968 AVL---
+201003004 Helmsange, Tricenten  00833  00833                % 03968 AVL---
+201003002 Helmsange, Mercatori  00833  00833                % 03968 AVL---
+201003003 Heisdorf, Millewee    00834  00834                % 03968 AVL---
+200802002 Heisdorf, Bei der Pa  00835  00835                % 03968 AVL---
+200802004 Heisdorf, Klouster    00835  00835                % 03968 AVL---
+200802001 Heisdorf, Altersheem  00836  00836                % 03968 AVL---
+200801001 Müllendorf/Mëlleref   00837  00837                % 03968 AVL---
+200801005 Steinsel, Michel Rod  00838  00838                % 03968 AVL---
+200801003 Steinsel, Gonneschha  00840  00840                % 03968 AVL---
+200801011 Steinsel, Kennedy     00842                       % 03968 AVL---
+*Z 03969 AVL---       006 060                               % 03969 AVL---
+*L 26       200417035 200801011  01304  01341               % 03969 AVL---
+*A BE 200417035 200801011 000018  01304  01341              % 03969 AVL---
+*R 2 200801011 200417035 200801011  01304  01341            % 03969 AVL---
+*G STE 200417035 200801011  01304  01341                    % 03969 AVL---
+*A VE 200417035 200801011 000018  01304  01341              % 03969 AVL---
+200417035 Kirchberg, Rehazente         01304                % 03969 AVL---
+200417034 Kirchberg, Rehazente  01305  01305                % 03969 AVL---
+200417032 Kirchberg, Pierre We  01306  01306                % 03969 AVL---
+200417015 Kirchberg, Hôpital    01307  01307                % 03969 AVL---
+200426002 Weimershof, Joseph H  01307  01307                % 03969 AVL---
+200417020 Kirchberg, Labours    01308  01308                % 03969 AVL---
+200417008 Kirchberg, Bricher G  01309  01309                % 03969 AVL---
+200422002 Neudorf, Carrières    01310  01310                % 03969 AVL---
+200422006 Neudorf, Huesegrënnc  01310  01310                % 03969 AVL---
+200422009 Neudorf, Kierch       01311  01311                % 03969 AVL---
+200408002 Neudorf, Fixmer       01312  01312                % 03969 AVL---
+200422005 Neudorf/Weimershof,   01313  01313                % 03969 AVL---
+200408003 Clausen, Malakoff     01314  01314                % 03969 AVL---
+200408007 Clausen, Ste Cunégon  01315  01315                % 03969 AVL---
+200423005 Pfaffenthal, Vauban   01316  01316                % 03969 AVL---
+200423003 Pfaffenthal, Théiwes  01317  01317                % 03969 AVL---
+200423007 Pfaffenthal, Halte C  01318  01318                % 03969 AVL---
+200423001 Pfaffenthal, Sichenh  01318  01318                % 03969 AVL---
+200423002 Pfaffenthal, Stade G  01319  01319                % 03969 AVL---
+200410003 Eich, Eecher Plaz     01321  01321                % 03969 AVL---
+200410004 Eich, Eecher Klinick  01322  01322                % 03969 AVL---
+200409007 Dommeldange, Emile M  01323  01323                % 03969 AVL---
+200402005 Beggen, Henri Heyman  01324  01324                % 03969 AVL---
+200402002 Beggen, Binnchen      01325  01325                % 03969 AVL---
+200402006 Beggen, Kierch        01325  01325                % 03969 AVL---
+200402001 Beggen, Bastogne      01326  01326                % 03969 AVL---
+201001004 Bereldange, Rue du P  01327  01327                % 03969 AVL---
+201001003 Bereldange, Schoul    01328  01328                % 03969 AVL---
+201001002 Bereldange, Police    01330  01330                % 03969 AVL---
+201004002 Walferdange, Gemenge  01331  01331                % 03969 AVL---
+201003004 Helmsange, Tricenten  01332  01332                % 03969 AVL---
+201003002 Helmsange, Mercatori  01332  01332                % 03969 AVL---
+201003003 Heisdorf, Millewee    01333  01333                % 03969 AVL---
+200802002 Heisdorf, Bei der Pa  01334  01334                % 03969 AVL---
+200802004 Heisdorf, Klouster    01334  01334                % 03969 AVL---
+200802001 Heisdorf, Altersheem  01335  01335                % 03969 AVL---
+200801001 Müllendorf/Mëlleref   01336  01336                % 03969 AVL---
+200801005 Steinsel, Michel Rod  01337  01337                % 03969 AVL---
+200801003 Steinsel, Gonneschha  01339  01339                % 03969 AVL---
+200801011 Steinsel, Kennedy     01341                       % 03969 AVL---
+*Z 03970 AVL---       040 020                               % 03970 AVL---
+*L 26       200417035 200801011  00614  00656               % 03970 AVL---
+*A BE 200417035 200801011 000033  00614  00656              % 03970 AVL---
+*R 2 200801011 200417035 200801011  00614  00656            % 03970 AVL---
+*G STE 200417035 200801011  00614  00656                    % 03970 AVL---
+*A VE 200417035 200801011 000033  00614  00656              % 03970 AVL---
+200417035 Kirchberg, Rehazente         00614                % 03970 AVL---
+200417034 Kirchberg, Rehazente  00614  00614                % 03970 AVL---
+200417032 Kirchberg, Pierre We  00615  00615                % 03970 AVL---
+200417015 Kirchberg, Hôpital    00617  00617                % 03970 AVL---
+200426002 Weimershof, Joseph H  00618  00618                % 03970 AVL---
+200417020 Kirchberg, Labours    00619  00619                % 03970 AVL---
+200417008 Kirchberg, Bricher G  00620  00620                % 03970 AVL---
+200422002 Neudorf, Carrières    00620  00620                % 03970 AVL---
+200422006 Neudorf, Huesegrënnc  00621  00621                % 03970 AVL---
+200422009 Neudorf, Kierch       00622  00622                % 03970 AVL---
+200408002 Neudorf, Fixmer       00623  00623                % 03970 AVL---
+200422005 Neudorf/Weimershof,   00624  00624                % 03970 AVL---
+200408003 Clausen, Malakoff     00625  00625                % 03970 AVL---
+200408007 Clausen, Ste Cunégon  00627  00627                % 03970 AVL---
+200423005 Pfaffenthal, Vauban   00628  00628                % 03970 AVL---
+200423003 Pfaffenthal, Théiwes  00629  00629                % 03970 AVL---
+200423007 Pfaffenthal, Halte C  00630  00630                % 03970 AVL---
+200423001 Pfaffenthal, Sichenh  00630  00630                % 03970 AVL---
+200423002 Pfaffenthal, Stade G  00631  00631                % 03970 AVL---
+200410003 Eich, Eecher Plaz     00633  00633                % 03970 AVL---
+200410004 Eich, Eecher Klinick  00635  00635                % 03970 AVL---
+200409007 Dommeldange, Emile M  00636  00636                % 03970 AVL---
+200402005 Beggen, Henri Heyman  00637  00637                % 03970 AVL---
+200402002 Beggen, Binnchen      00638  00638                % 03970 AVL---
+200402006 Beggen, Kierch        00639  00639                % 03970 AVL---
+200402001 Beggen, Bastogne      00640  00640                % 03970 AVL---
+201001004 Bereldange, Rue du P  00641  00641                % 03970 AVL---
+201001003 Bereldange, Schoul    00642  00642                % 03970 AVL---
+201001002 Bereldange, Police    00644  00644                % 03970 AVL---
+201004002 Walferdange, Gemenge  00645  00645                % 03970 AVL---
+201003004 Helmsange, Tricenten  00646  00646                % 03970 AVL---
+201003002 Helmsange, Mercatori  00647  00647                % 03970 AVL---
+201003003 Heisdorf, Millewee    00648  00648                % 03970 AVL---
+200802002 Heisdorf, Bei der Pa  00649  00649                % 03970 AVL---
+200802004 Heisdorf, Klouster    00649  00649                % 03970 AVL---
+200802001 Heisdorf, Altersheem  00650  00650                % 03970 AVL---
+200801001 Müllendorf/Mëlleref   00651  00651                % 03970 AVL---
+200801005 Steinsel, Michel Rod  00653  00653                % 03970 AVL---
+200801003 Steinsel, Gonneschha  00654  00654                % 03970 AVL---
+200801011 Steinsel, Kennedy     00656                       % 03970 AVL---

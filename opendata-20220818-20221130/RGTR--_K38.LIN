@@ -1,0 +1,85 @@
+*F 03 2
+*Z 18784 RGTR--                                             % 18784 RGTR--
+*L K38      110705002 110606001  00636  00658               % 18784 RGTR--
+*A cj 110705002 110606001 000042  00636  00658              % 18784 RGTR--
+*A ad 110705002 110606001 000042  00636  00658              % 18784 RGTR--
+*R 1 110606001 110705002 110606001  00636  00658            % 18784 RGTR--
+*G 050 110705002 110606001  00636  00658                    % 18784 RGTR--
+*A VE 110705002 110606001 000042  00636  00658              % 18784 RGTR--
+*I FD 110705002 110606001        0003430  00636  00658      % 18784 RGTR--
+110705002 Leithum, Bei der Kir         00636                % 18784 RGTR--
+110705001 Leithum, Bei der ale  00636  00636                % 18784 RGTR--
+110701003 Beiler, Beim Krécks   00638  00638                % 18784 RGTR--
+110701002 Beiler, Bei der aler  00638  00638                % 18784 RGTR--
+110701001 Beiler, Op der Halt   00639  00639                % 18784 RGTR--
+110701004 Beiler, Kaesfurt      00640  00640                % 18784 RGTR--
+110706002 Weiswampach, Beelers  00642  00642                % 18784 RGTR--
+110706008 Weiswampach, Iäwwisc  00643  00643                % 18784 RGTR--
+110706007 Weiswampach, Post     00643  00643                % 18784 RGTR--
+110706005 Weiswampach, Ennisch  00644  00644                % 18784 RGTR--
+110706006 Weiswampach, Duarref  00645  00645                % 18784 RGTR--
+110703001 Breidfeld             00647  00647                % 18784 RGTR--
+110704001 Holler                00649  00649                % 18784 RGTR--
+110702001 Binsfeld, Om Béchel   00650  00650                % 18784 RGTR--
+110702002 Binsfeld, Beim alen   00650  00650                % 18784 RGTR--
+110702003 Binsfeld, Beim Musée  00651  00651                % 18784 RGTR--
+110606007 Troisvierges, Bënzel  00654  00654                % 18784 RGTR--
+110606002 Troisvierges, Mairie  00655  00655                % 18784 RGTR--
+110606003 Troisvierges, Milleb  00657  00657                % 18784 RGTR--
+110606001 Troisvierges, Gare r  00658                       % 18784 RGTR--
+*Z 18785 RGTR--                                             % 18785 RGTR--
+*L K38      110606001 110705002  01459  01520               % 18785 RGTR--
+*A cj 110606001 110705002 000042  01459  01520              % 18785 RGTR--
+*A ad 110606001 110705002 000042  01459  01520              % 18785 RGTR--
+*R 2 110705002 110606001 110705002  01459  01520            % 18785 RGTR--
+*G 050 110606001 110705002  01459  01520                    % 18785 RGTR--
+*A VE 110606001 110705002 000042  01459  01520              % 18785 RGTR--
+*I FD 110606001 110705002        0002546  01459  01520      % 18785 RGTR--
+110606001 Troisvierges, Gare r         01459                % 18785 RGTR--
+110606003 Troisvierges, Milleb  01459  01459                % 18785 RGTR--
+110606002 Troisvierges, Mairie  01501  01501                % 18785 RGTR--
+110606007 Troisvierges, Bënzel  01502  01502                % 18785 RGTR--
+110702003 Binsfeld, Beim Musée  01505  01505                % 18785 RGTR--
+110702002 Binsfeld, Beim alen   01505  01505                % 18785 RGTR--
+110702001 Binsfeld, Om Béchel   01506  01506                % 18785 RGTR--
+110704001 Holler                01506  01506                % 18785 RGTR--
+110703001 Breidfeld             01509  01509                % 18785 RGTR--
+110706006 Weiswampach, Duarref  01511  01511                % 18785 RGTR--
+110706012 Weiswampach, Grait    01511  01511                % 18785 RGTR--
+110706007 Weiswampach, Post     01512  01512                % 18785 RGTR--
+110706008 Weiswampach, Iäwwisc  01513  01513                % 18785 RGTR--
+110706002 Weiswampach, Beelers  01514  01514                % 18785 RGTR--
+110701004 Beiler, Kaesfurt      01515  01515                % 18785 RGTR--
+110701001 Beiler, Op der Halt   01517  01517                % 18785 RGTR--
+110701002 Beiler, Bei der aler  01517  01517                % 18785 RGTR--
+110701003 Beiler, Beim Krécks   01518  01518                % 18785 RGTR--
+110705001 Leithum, Bei der ale  01520  01520                % 18785 RGTR--
+110705002 Leithum, Bei der Kir  01520                       % 18785 RGTR--
+*Z 18786 RGTR--                                             % 18786 RGTR--
+*L K38      110606001 110705002  01659  01721               % 18786 RGTR--
+*A cj 110606001 110705002 000047  01659  01721              % 18786 RGTR--
+*A ad 110606001 110705002 000047  01659  01721              % 18786 RGTR--
+*R 2 110705002 110606001 110705002  01659  01721            % 18786 RGTR--
+*G 050 110606001 110705002  01659  01721                    % 18786 RGTR--
+*A VE 110606001 110705002 000047  01659  01721              % 18786 RGTR--
+*I FD 110606001 110705002        0002558  01659  01721      % 18786 RGTR--
+110606001 Troisvierges, Gare r         01659                % 18786 RGTR--
+110606003 Troisvierges, Milleb  01700  01700                % 18786 RGTR--
+110606002 Troisvierges, Mairie  01701  01701                % 18786 RGTR--
+110606007 Troisvierges, Bënzel  01702  01702                % 18786 RGTR--
+110702003 Binsfeld, Beim Musée  01705  01705                % 18786 RGTR--
+110702002 Binsfeld, Beim alen   01706  01706                % 18786 RGTR--
+110702001 Binsfeld, Om Béchel   01706  01706                % 18786 RGTR--
+110704001 Holler                01707  01707                % 18786 RGTR--
+110703001 Breidfeld             01709  01709                % 18786 RGTR--
+110706006 Weiswampach, Duarref  01711  01711                % 18786 RGTR--
+110706012 Weiswampach, Grait    01712  01712                % 18786 RGTR--
+110706007 Weiswampach, Post     01713  01713                % 18786 RGTR--
+110706008 Weiswampach, Iäwwisc  01713  01713                % 18786 RGTR--
+110706002 Weiswampach, Beelers  01714  01714                % 18786 RGTR--
+110701004 Beiler, Kaesfurt      01716  01716                % 18786 RGTR--
+110701001 Beiler, Op der Halt   01717  01717                % 18786 RGTR--
+110701002 Beiler, Bei der aler  01718  01718                % 18786 RGTR--
+110701003 Beiler, Beim Krécks   01719  01719                % 18786 RGTR--
+110705001 Leithum, Bei der ale  01720  01720                % 18786 RGTR--
+110705002 Leithum, Bei der Kir  01721                       % 18786 RGTR--

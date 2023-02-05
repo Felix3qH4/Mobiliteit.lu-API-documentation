@@ -1,0 +1,137 @@
+*F 03 2
+*Z 18180 RGTR--                                             % 18180 RGTR--
+*L C15      170706001 180511008  00705  00745               % 18180 RGTR--
+*A cj 170706001 180511008 000042  00705  00745              % 18180 RGTR--
+*A ad 170706001 180511008 000042  00705  00745              % 18180 RGTR--
+*R 1 180511008 170706001 180511008  00705  00745            % 18180 RGTR--
+*G 063 170706001 180511008  00705  00745                    % 18180 RGTR--
+*A VE 170706001 180511008 000042  00705  00745              % 18180 RGTR--
+*I FD 170706001 180511008        0002027  00705  00745      % 18180 RGTR--
+170706001 Osweiler, Duerfplaz          00705                % 18180 RGTR--
+170706002 Osweiler, Haaptstroo  00705  00705                % 18180 RGTR--
+170501014 Echternach, Route d'  00711  00711                % 18180 RGTR--
+170501011 Echternach, Morgenst  00712  00712                % 18180 RGTR--
+170501016 Echternach, Gare Cen  00713  00713                % 18180 RGTR--
+170501004 Echternach, Centre d  00715  00715                % 18180 RGTR--
+170501012 Echternach, Nonnenmi  00716  00716                % 18180 RGTR--
+170503001 Specksmillen          00717  00717                % 18180 RGTR--
+170502001 Lauterborn            00717  00717                % 18180 RGTR--
+170403001 Scheidgen, Biweschla  00720  00720                % 18180 RGTR--
+170403003 Scheidgen, Veräinsba  00721  00721                % 18180 RGTR--
+170403002 Scheidgen, Hotschent  00721  00721                % 18180 RGTR--
+170402003 Consdorf, Kraizstroo  00722  00722                % 18180 RGTR--
+170402002 Consdorf, Haenricht   00723  00723                % 18180 RGTR--
+170402004 Consdorf, Melickshec  00725  00725                % 18180 RGTR--
+170402001 Consdorf, Gare        00727  00727                % 18180 RGTR--
+170201001 Altrier, Bildchen     00730  00730                % 18180 RGTR--
+170201005 Altrier, Kreizenhéic  00731  00731                % 18180 RGTR--
+170205001 Rippig, Rippigerkopp  00732  00732                % 18180 RGTR--
+180509002 Graulinster, Haaptst  00734  00734                % 18180 RGTR--
+180511007 Junglinster, Um Reil  00738  00738                % 18180 RGTR--
+180511002 Junglinster, Op der   00740  00740                % 18180 RGTR--
+180511005 Junglinster, Um Lei   00741  00741                % 18180 RGTR--
+180511009 Junglinster, Op der   00742  00742                % 18180 RGTR--
+180508003 Gonderange, Mierchen  00743  00743                % 18180 RGTR--
+180511008 Junglinster, Lënster  00745                       % 18180 RGTR--
+*Z 18181 RGTR--                                             % 18181 RGTR--
+*L C15      180511008 170706001  01610  01653               % 18181 RGTR--
+*A cj 180511008 170706001 000334  01610  01653              % 18181 RGTR--
+*A ad 180511008 170706001 000334  01610  01653              % 18181 RGTR--
+*R 2 170706001 180511008 170706001  01610  01653            % 18181 RGTR--
+*G 063 180511008 170706001  01610  01653                    % 18181 RGTR--
+*A VE 180511008 170706001 000334  01610  01653              % 18181 RGTR--
+*I FD 180511008 170706001        0001997  01610  01653      % 18181 RGTR--
+180511008 Junglinster, Lënster         01610                % 18181 RGTR--
+180508003 Gonderange, Mierchen  01612  01612                % 18181 RGTR--
+180511009 Junglinster, Op der   01613  01613                % 18181 RGTR--
+180511005 Junglinster, Um Lei   01614  01614                % 18181 RGTR--
+180511002 Junglinster, Op der   01615  01615                % 18181 RGTR--
+180511007 Junglinster, Um Reil  01617  01617                % 18181 RGTR--
+180509002 Graulinster, Haaptst  01621  01621                % 18181 RGTR--
+170205001 Rippig, Rippigerkopp  01623  01623                % 18181 RGTR--
+170201005 Altrier, Kreizenhéic  01624  01624                % 18181 RGTR--
+170201002 Altrier, Heeschbrege  01625  01625                % 18181 RGTR--
+170402001 Consdorf, Gare        01628  01628                % 18181 RGTR--
+170402003 Consdorf, Kraizstroo  01630  01630                % 18181 RGTR--
+170402002 Consdorf, Haenricht   01631  01631                % 18181 RGTR--
+170402004 Consdorf, Melickshec  01633  01633                % 18181 RGTR--
+170403002 Scheidgen, Hotschent  01634  01634                % 18181 RGTR--
+170403003 Scheidgen, Veräinsba  01635  01635                % 18181 RGTR--
+170403001 Scheidgen, Biweschla  01636  01636                % 18181 RGTR--
+170502001 Lauterborn            01640  01640                % 18181 RGTR--
+170503001 Specksmillen          01641  01641                % 18181 RGTR--
+170501012 Echternach, Nonnenmi  01641  01641                % 18181 RGTR--
+170501004 Echternach, Centre d  01642  01642                % 18181 RGTR--
+170501016 Echternach, Gare Cen  01644  01644                % 18181 RGTR--
+170501011 Echternach, Morgenst  01645  01645                % 18181 RGTR--
+170501014 Echternach, Route d'  01646  01646                % 18181 RGTR--
+170706002 Osweiler, Haaptstroo  01652  01652                % 18181 RGTR--
+170706001 Osweiler, Duerfplaz   01653                       % 18181 RGTR--
+*Z 18182 RGTR--                                             % 18182 RGTR--
+*L C15      180511008 170706001  01220  01259               % 18182 RGTR--
+*A cj 180511008 170706001 000007  01220  01259              % 18182 RGTR--
+*A ad 180511008 170706001 000007  01220  01259              % 18182 RGTR--
+*R 2 170706001 180511008 170706001  01220  01259            % 18182 RGTR--
+*G 063 180511008 170706001  01220  01259                    % 18182 RGTR--
+*A VE 180511008 170706001 000007  01220  01259              % 18182 RGTR--
+*I FD 180511008 170706001        0002085  01220  01259      % 18182 RGTR--
+180511008 Junglinster, Lënster         01220                % 18182 RGTR--
+180508003 Gonderange, Mierchen  01222  01222                % 18182 RGTR--
+180511009 Junglinster, Op der   01223  01223                % 18182 RGTR--
+180511005 Junglinster, Um Lei   01223  01223                % 18182 RGTR--
+180511002 Junglinster, Op der   01224  01224                % 18182 RGTR--
+180511007 Junglinster, Um Reil  01226  01226                % 18182 RGTR--
+180509002 Graulinster, Haaptst  01230  01230                % 18182 RGTR--
+170205001 Rippig, Rippigerkopp  01232  01232                % 18182 RGTR--
+170201005 Altrier, Kreizenhéic  01233  01233                % 18182 RGTR--
+170201002 Altrier, Heeschbrege  01234  01234                % 18182 RGTR--
+170402001 Consdorf, Gare        01237  01237                % 18182 RGTR--
+170402003 Consdorf, Kraizstroo  01238  01238                % 18182 RGTR--
+170402002 Consdorf, Haenricht   01239  01239                % 18182 RGTR--
+170402004 Consdorf, Melickshec  01241  01241                % 18182 RGTR--
+170403002 Scheidgen, Hotschent  01242  01242                % 18182 RGTR--
+170403003 Scheidgen, Veräinsba  01243  01243                % 18182 RGTR--
+170403001 Scheidgen, Biweschla  01244  01244                % 18182 RGTR--
+170502001 Lauterborn            01247  01247                % 18182 RGTR--
+170503001 Specksmillen          01247  01247                % 18182 RGTR--
+170501012 Echternach, Nonnenmi  01248  01248                % 18182 RGTR--
+170501004 Echternach, Centre d  01249  01249                % 18182 RGTR--
+170501016 Echternach, Gare Cen  01250  01250                % 18182 RGTR--
+170501011 Echternach, Morgenst  01251  01251                % 18182 RGTR--
+170501014 Echternach, Route d'  01252  01252                % 18182 RGTR--
+170706002 Osweiler, Haaptstroo  01258  01258                % 18182 RGTR--
+170706001 Osweiler, Duerfplaz   01259                       % 18182 RGTR--
+*Z 18183 RGTR--                                             % 18183 RGTR--
+*L C15      180511008 170706001  01415  01454               % 18183 RGTR--
+*A cj 180511008 170706001 000046  01415  01454              % 18183 RGTR--
+*A ad 180511008 170706001 000046  01415  01454              % 18183 RGTR--
+*R 2 170706001 180511008 170706001  01415  01454            % 18183 RGTR--
+*G 063 180511008 170706001  01415  01454                    % 18183 RGTR--
+*A VE 180511008 170706001 000046  01415  01454              % 18183 RGTR--
+*I FD 180511008 170706001        0002055  01415  01454      % 18183 RGTR--
+180511008 Junglinster, Lënster         01415                % 18183 RGTR--
+180508003 Gonderange, Mierchen  01417  01417                % 18183 RGTR--
+180511009 Junglinster, Op der   01418  01418                % 18183 RGTR--
+180511005 Junglinster, Um Lei   01418  01418                % 18183 RGTR--
+180511002 Junglinster, Op der   01419  01419                % 18183 RGTR--
+180511007 Junglinster, Um Reil  01421  01421                % 18183 RGTR--
+180509002 Graulinster, Haaptst  01425  01425                % 18183 RGTR--
+170205001 Rippig, Rippigerkopp  01427  01427                % 18183 RGTR--
+170201005 Altrier, Kreizenhéic  01428  01428                % 18183 RGTR--
+170201002 Altrier, Heeschbrege  01429  01429                % 18183 RGTR--
+170402001 Consdorf, Gare        01432  01432                % 18183 RGTR--
+170402003 Consdorf, Kraizstroo  01433  01433                % 18183 RGTR--
+170402002 Consdorf, Haenricht   01434  01434                % 18183 RGTR--
+170402004 Consdorf, Melickshec  01436  01436                % 18183 RGTR--
+170403002 Scheidgen, Hotschent  01437  01437                % 18183 RGTR--
+170403003 Scheidgen, Veräinsba  01438  01438                % 18183 RGTR--
+170403001 Scheidgen, Biweschla  01439  01439                % 18183 RGTR--
+170502001 Lauterborn            01442  01442                % 18183 RGTR--
+170503001 Specksmillen          01442  01442                % 18183 RGTR--
+170501012 Echternach, Nonnenmi  01443  01443                % 18183 RGTR--
+170501004 Echternach, Centre d  01444  01444                % 18183 RGTR--
+170501016 Echternach, Gare Cen  01445  01445                % 18183 RGTR--
+170501011 Echternach, Morgenst  01446  01446                % 18183 RGTR--
+170501014 Echternach, Route d'  01447  01447                % 18183 RGTR--
+170706002 Osweiler, Haaptstroo  01453  01453                % 18183 RGTR--
+170706001 Osweiler, Duerfplaz   01454                       % 18183 RGTR--

@@ -1,0 +1,2551 @@
+*F 03 2
+*Z 03977 AVL---       003 030                               % 03977 AVL---
+*L 28       200303002 200304018  00602  00621               % 03977 AVL---
+*A BE 200303002 200304018 000017  00602  00621              % 03977 AVL---
+*R 1 200304018 200303002 200304018  00602  00621            % 03977 AVL---
+*G GMB 200303002 200304018  00602  00621                    % 03977 AVL---
+*A VE 200303002 200304018 000017  00602  00621              % 03977 AVL---
+200303002 Hesperange, Cité Um          00602                % 03977 AVL---
+200304007 Howald, Op der Stirz  00603  00603                % 03977 AVL---
+200304011 Howald, Ronneboesch   00604  00604                % 03977 AVL---
+200304006 Howald, Moureschanz   00605  00605                % 03977 AVL---
+200405036 Luxembourg, Gare Cen  00610  00610                % 03977 AVL---
+200405039 Luxembourg, Wallis    00612  00612                % 03977 AVL---
+200405046 Luxembourg, Gare Roc  00613  00613                % 03977 AVL---
+200412025 Gasperich, Francopho  00617  00617                % 03977 AVL---
+200412021 Gasperich, Gerhard M  00619  00619                % 03977 AVL---
+200304017 Howald, P&R Howald Q  00620  00620                % 03977 AVL---
+200304018 Howald, P&R Howald Q  00621                       % 03977 AVL---
+*Z 03978 AVL---                                             % 03978 AVL---
+*L 28       200303002 200304018  02002  02021               % 03978 AVL---
+*A BE 200303002 200304018 000017  02002  02021              % 03978 AVL---
+*R 1 200304018 200303002 200304018  02002  02021            % 03978 AVL---
+*G GMB 200303002 200304018  02002  02021                    % 03978 AVL---
+*A VE 200303002 200304018 000017  02002  02021              % 03978 AVL---
+200303002 Hesperange, Cité Um          02002                % 03978 AVL---
+200304007 Howald, Op der Stirz  02003  02003                % 03978 AVL---
+200304011 Howald, Ronneboesch   02004  02004                % 03978 AVL---
+200304006 Howald, Moureschanz   02005  02005                % 03978 AVL---
+200405036 Luxembourg, Gare Cen  02010  02010                % 03978 AVL---
+200405039 Luxembourg, Wallis    02012  02012                % 03978 AVL---
+200405046 Luxembourg, Gare Roc  02013  02013                % 03978 AVL---
+200412025 Gasperich, Francopho  02017  02017                % 03978 AVL---
+200412021 Gasperich, Gerhard M  02019  02019                % 03978 AVL---
+200304017 Howald, P&R Howald Q  02020  02020                % 03978 AVL---
+200304018 Howald, P&R Howald Q  02021                       % 03978 AVL---
+*Z 03979 AVL---       002 015                               % 03979 AVL---
+*L 28       200303002 200304018  00532  00551               % 03979 AVL---
+*A BE 200303002 200304018 000034  00532  00551              % 03979 AVL---
+*R 1 200304018 200303002 200304018  00532  00551            % 03979 AVL---
+*G GER 200303002 200304018  00532  00551                    % 03979 AVL---
+*A VE 200303002 200304018 000034  00532  00551              % 03979 AVL---
+200303002 Hesperange, Cité Um          00532                % 03979 AVL---
+200304007 Howald, Op der Stirz  00533  00533                % 03979 AVL---
+200304011 Howald, Ronneboesch   00534  00534                % 03979 AVL---
+200304006 Howald, Moureschanz   00535  00535                % 03979 AVL---
+200405036 Luxembourg, Gare Cen  00540  00540                % 03979 AVL---
+200405039 Luxembourg, Wallis    00542  00542                % 03979 AVL---
+200405046 Luxembourg, Gare Roc  00543  00543                % 03979 AVL---
+200412025 Gasperich, Francopho  00547  00547                % 03979 AVL---
+200412021 Gasperich, Gerhard M  00549  00549                % 03979 AVL---
+200304017 Howald, P&R Howald Q  00550  00550                % 03979 AVL---
+200304018 Howald, P&R Howald Q  00551                       % 03979 AVL---
+*Z 03980 AVL---                                             % 03980 AVL---
+*L 28       200303002 200304018  02012  02031               % 03980 AVL---
+*A BE 200303002 200304018 000034  02012  02031              % 03980 AVL---
+*R 1 200304018 200303002 200304018  02012  02031            % 03980 AVL---
+*G GER 200303002 200304018  02012  02031                    % 03980 AVL---
+*A VE 200303002 200304018 000034  02012  02031              % 03980 AVL---
+200303002 Hesperange, Cité Um          02012                % 03980 AVL---
+200304007 Howald, Op der Stirz  02013  02013                % 03980 AVL---
+200304011 Howald, Ronneboesch   02014  02014                % 03980 AVL---
+200304006 Howald, Moureschanz   02015  02015                % 03980 AVL---
+200405036 Luxembourg, Gare Cen  02020  02020                % 03980 AVL---
+200405039 Luxembourg, Wallis    02022  02022                % 03980 AVL---
+200405046 Luxembourg, Gare Roc  02023  02023                % 03980 AVL---
+200412025 Gasperich, Francopho  02027  02027                % 03980 AVL---
+200412021 Gasperich, Gerhard M  02029  02029                % 03980 AVL---
+200304017 Howald, P&R Howald Q  02030  02030                % 03980 AVL---
+200304018 Howald, P&R Howald Q  02031                       % 03980 AVL---
+*Z 03981 AVL---                                             % 03981 AVL---
+*L 28       200303002 200304018  01955  02014               % 03981 AVL---
+*A BE 200303002 200304018 000034  01955  02014              % 03981 AVL---
+*R 1 200304018 200303002 200304018  01955  02014            % 03981 AVL---
+*G GMB 200303002 200304018  01955  02014                    % 03981 AVL---
+*A VE 200303002 200304018 000034  01955  02014              % 03981 AVL---
+200303002 Hesperange, Cité Um          01955                % 03981 AVL---
+200304007 Howald, Op der Stirz  01956  01956                % 03981 AVL---
+200304011 Howald, Ronneboesch   01957  01957                % 03981 AVL---
+200304006 Howald, Moureschanz   01958  01958                % 03981 AVL---
+200405036 Luxembourg, Gare Cen  02003  02003                % 03981 AVL---
+200405039 Luxembourg, Wallis    02005  02005                % 03981 AVL---
+200405046 Luxembourg, Gare Roc  02006  02006                % 03981 AVL---
+200412025 Gasperich, Francopho  02010  02010                % 03981 AVL---
+200412021 Gasperich, Gerhard M  02012  02012                % 03981 AVL---
+200304017 Howald, P&R Howald Q  02013  02013                % 03981 AVL---
+200304018 Howald, P&R Howald Q  02014                       % 03981 AVL---
+*Z 03982 AVL---       006 030                               % 03982 AVL---
+*L 28       200303002 200304018  02032  02051               % 03982 AVL---
+*A BE 200303002 200304018 000038  02032  02051              % 03982 AVL---
+*R 1 200304018 200303002 200304018  02032  02051            % 03982 AVL---
+*G GMB 200303002 200304018  02032  02051                    % 03982 AVL---
+*A VE 200303002 200304018 000038  02032  02051              % 03982 AVL---
+200303002 Hesperange, Cité Um          02032                % 03982 AVL---
+200304007 Howald, Op der Stirz  02033  02033                % 03982 AVL---
+200304011 Howald, Ronneboesch   02034  02034                % 03982 AVL---
+200304006 Howald, Moureschanz   02035  02035                % 03982 AVL---
+200405036 Luxembourg, Gare Cen  02040  02040                % 03982 AVL---
+200405039 Luxembourg, Wallis    02042  02042                % 03982 AVL---
+200405046 Luxembourg, Gare Roc  02043  02043                % 03982 AVL---
+200412025 Gasperich, Francopho  02047  02047                % 03982 AVL---
+200412021 Gasperich, Gerhard M  02049  02049                % 03982 AVL---
+200304017 Howald, P&R Howald Q  02050  02050                % 03982 AVL---
+200304018 Howald, P&R Howald Q  02051                       % 03982 AVL---
+*Z 03983 AVL---       010 030                               % 03983 AVL---
+*L 28       200303002 200304018  00602  00621               % 03983 AVL---
+*A BE 200303002 200304018 000016  00602  00621              % 03983 AVL---
+*R 1 200304018 200303002 200304018  00602  00621            % 03983 AVL---
+*G GEH 200303002 200304018  00602  00621                    % 03983 AVL---
+*A VE 200303002 200304018 000016  00602  00621              % 03983 AVL---
+200303002 Hesperange, Cité Um          00602                % 03983 AVL---
+200304007 Howald, Op der Stirz  00603  00603                % 03983 AVL---
+200304011 Howald, Ronneboesch   00604  00604                % 03983 AVL---
+200304006 Howald, Moureschanz   00605  00605                % 03983 AVL---
+200405036 Luxembourg, Gare Cen  00610  00610                % 03983 AVL---
+200405039 Luxembourg, Wallis    00612  00612                % 03983 AVL---
+200405046 Luxembourg, Gare Roc  00613  00613                % 03983 AVL---
+200412025 Gasperich, Francopho  00617  00617                % 03983 AVL---
+200412021 Gasperich, Gerhard M  00619  00619                % 03983 AVL---
+200304017 Howald, P&R Howald Q  00620  00620                % 03983 AVL---
+200304018 Howald, P&R Howald Q  00621                       % 03983 AVL---
+*Z 03984 AVL---       007 030                               % 03984 AVL---
+*L 28       200303002 200304018  02002  02021               % 03984 AVL---
+*A BE 200303002 200304018 000016  02002  02021              % 03984 AVL---
+*R 1 200304018 200303002 200304018  02002  02021            % 03984 AVL---
+*G GEH 200303002 200304018  02002  02021                    % 03984 AVL---
+*A VE 200303002 200304018 000016  02002  02021              % 03984 AVL---
+200303002 Hesperange, Cité Um          02002                % 03984 AVL---
+200304007 Howald, Op der Stirz  02003  02003                % 03984 AVL---
+200304011 Howald, Ronneboesch   02004  02004                % 03984 AVL---
+200304006 Howald, Moureschanz   02005  02005                % 03984 AVL---
+200405036 Luxembourg, Gare Cen  02010  02010                % 03984 AVL---
+200405039 Luxembourg, Wallis    02012  02012                % 03984 AVL---
+200405046 Luxembourg, Gare Roc  02013  02013                % 03984 AVL---
+200412025 Gasperich, Francopho  02017  02017                % 03984 AVL---
+200412021 Gasperich, Gerhard M  02019  02019                % 03984 AVL---
+200304017 Howald, P&R Howald Q  02020  02020                % 03984 AVL---
+200304018 Howald, P&R Howald Q  02021                       % 03984 AVL---
+*Z 03985 AVL---       002 010                               % 03985 AVL---
+*L 28       200303002 200304018  00620  00645               % 03985 AVL---
+*A BE 200303002 200304018 000034  00620  00645              % 03985 AVL---
+*R 1 200304018 200303002 200304018  00620  00645            % 03985 AVL---
+*G GER 200303002 200304018  00620  00645                    % 03985 AVL---
+*A VE 200303002 200304018 000034  00620  00645              % 03985 AVL---
+200303002 Hesperange, Cité Um          00620                % 03985 AVL---
+200304007 Howald, Op der Stirz  00621  00621                % 03985 AVL---
+200304011 Howald, Ronneboesch   00622  00622                % 03985 AVL---
+200304006 Howald, Moureschanz   00624  00624                % 03985 AVL---
+200405036 Luxembourg, Gare Cen  00630  00630                % 03985 AVL---
+200405039 Luxembourg, Wallis    00634  00634                % 03985 AVL---
+200405046 Luxembourg, Gare Roc  00636  00636                % 03985 AVL---
+200412025 Gasperich, Francopho  00640  00640                % 03985 AVL---
+200412021 Gasperich, Gerhard M  00643  00643                % 03985 AVL---
+200304017 Howald, P&R Howald Q  00644  00644                % 03985 AVL---
+200304018 Howald, P&R Howald Q  00645                       % 03985 AVL---
+*Z 03986 AVL---       001 010                               % 03986 AVL---
+*L 28       200303002 200304018  00700  00725               % 03986 AVL---
+*A BE 200303002 200304018 000034  00700  00725              % 03986 AVL---
+*R 1 200304018 200303002 200304018  00700  00725            % 03986 AVL---
+*G GER 200303002 200304018  00700  00725                    % 03986 AVL---
+*A VE 200303002 200304018 000034  00700  00725              % 03986 AVL---
+200303002 Hesperange, Cité Um          00700                % 03986 AVL---
+200304007 Howald, Op der Stirz  00701  00701                % 03986 AVL---
+200304011 Howald, Ronneboesch   00702  00702                % 03986 AVL---
+200304006 Howald, Moureschanz   00704  00704                % 03986 AVL---
+200405036 Luxembourg, Gare Cen  00710  00710                % 03986 AVL---
+200405039 Luxembourg, Wallis    00714  00714                % 03986 AVL---
+200405046 Luxembourg, Gare Roc  00716  00716                % 03986 AVL---
+200412025 Gasperich, Francopho  00720  00720                % 03986 AVL---
+200412021 Gasperich, Gerhard M  00723  00723                % 03986 AVL---
+200304017 Howald, P&R Howald Q  00724  00724                % 03986 AVL---
+200304018 Howald, P&R Howald Q  00725                       % 03986 AVL---
+*Z 03987 AVL---       002 010                               % 03987 AVL---
+*L 28       200303002 200304018  00730  00755               % 03987 AVL---
+*A BE 200303002 200304018 000034  00730  00755              % 03987 AVL---
+*R 1 200304018 200303002 200304018  00730  00755            % 03987 AVL---
+*G GER 200303002 200304018  00730  00755                    % 03987 AVL---
+*A VE 200303002 200304018 000034  00730  00755              % 03987 AVL---
+200303002 Hesperange, Cité Um          00730                % 03987 AVL---
+200304007 Howald, Op der Stirz  00731  00731                % 03987 AVL---
+200304011 Howald, Ronneboesch   00732  00732                % 03987 AVL---
+200304006 Howald, Moureschanz   00734  00734                % 03987 AVL---
+200405036 Luxembourg, Gare Cen  00740  00740                % 03987 AVL---
+200405039 Luxembourg, Wallis    00744  00744                % 03987 AVL---
+200405046 Luxembourg, Gare Roc  00746  00746                % 03987 AVL---
+200412025 Gasperich, Francopho  00750  00750                % 03987 AVL---
+200412021 Gasperich, Gerhard M  00753  00753                % 03987 AVL---
+200304017 Howald, P&R Howald Q  00754  00754                % 03987 AVL---
+200304018 Howald, P&R Howald Q  00755                       % 03987 AVL---
+*Z 03988 AVL---       001 010                               % 03988 AVL---
+*L 28       200303002 200304018  00810  00835               % 03988 AVL---
+*A BE 200303002 200304018 000034  00810  00835              % 03988 AVL---
+*R 1 200304018 200303002 200304018  00810  00835            % 03988 AVL---
+*G GER 200303002 200304018  00810  00835                    % 03988 AVL---
+*A VE 200303002 200304018 000034  00810  00835              % 03988 AVL---
+200303002 Hesperange, Cité Um          00810                % 03988 AVL---
+200304007 Howald, Op der Stirz  00811  00811                % 03988 AVL---
+200304011 Howald, Ronneboesch   00812  00812                % 03988 AVL---
+200304006 Howald, Moureschanz   00814  00814                % 03988 AVL---
+200405036 Luxembourg, Gare Cen  00820  00820                % 03988 AVL---
+200405039 Luxembourg, Wallis    00824  00824                % 03988 AVL---
+200405046 Luxembourg, Gare Roc  00826  00826                % 03988 AVL---
+200412025 Gasperich, Francopho  00830  00830                % 03988 AVL---
+200412021 Gasperich, Gerhard M  00833  00833                % 03988 AVL---
+200304017 Howald, P&R Howald Q  00834  00834                % 03988 AVL---
+200304018 Howald, P&R Howald Q  00835                       % 03988 AVL---
+*Z 03989 AVL---                                             % 03989 AVL---
+*L 28       200303002 200304018  00840  00905               % 03989 AVL---
+*A BE 200303002 200304018 000034  00840  00905              % 03989 AVL---
+*R 1 200304018 200303002 200304018  00840  00905            % 03989 AVL---
+*G GER 200303002 200304018  00840  00905                    % 03989 AVL---
+*A VE 200303002 200304018 000034  00840  00905              % 03989 AVL---
+200303002 Hesperange, Cité Um          00840                % 03989 AVL---
+200304007 Howald, Op der Stirz  00841  00841                % 03989 AVL---
+200304011 Howald, Ronneboesch   00842  00842                % 03989 AVL---
+200304006 Howald, Moureschanz   00844  00844                % 03989 AVL---
+200405036 Luxembourg, Gare Cen  00850  00850                % 03989 AVL---
+200405039 Luxembourg, Wallis    00854  00854                % 03989 AVL---
+200405046 Luxembourg, Gare Roc  00856  00856                % 03989 AVL---
+200412025 Gasperich, Francopho  00900  00900                % 03989 AVL---
+200412021 Gasperich, Gerhard M  00903  00903                % 03989 AVL---
+200304017 Howald, P&R Howald Q  00904  00904                % 03989 AVL---
+200304018 Howald, P&R Howald Q  00905                       % 03989 AVL---
+*Z 03990 AVL---       001 015                               % 03990 AVL---
+*L 28       200303002 200304018  00852  00918               % 03990 AVL---
+*A BE 200303002 200304018 000034  00852  00918              % 03990 AVL---
+*R 1 200304018 200303002 200304018  00852  00918            % 03990 AVL---
+*G GER 200303002 200304018  00852  00918                    % 03990 AVL---
+*A VE 200303002 200304018 000034  00852  00918              % 03990 AVL---
+200303002 Hesperange, Cité Um          00852                % 03990 AVL---
+200304007 Howald, Op der Stirz  00854  00854                % 03990 AVL---
+200304011 Howald, Ronneboesch   00855  00855                % 03990 AVL---
+200304006 Howald, Moureschanz   00856  00856                % 03990 AVL---
+200405036 Luxembourg, Gare Cen  00903  00903                % 03990 AVL---
+200405039 Luxembourg, Wallis    00906  00906                % 03990 AVL---
+200405046 Luxembourg, Gare Roc  00908  00908                % 03990 AVL---
+200412025 Gasperich, Francopho  00913  00913                % 03990 AVL---
+200412021 Gasperich, Gerhard M  00915  00915                % 03990 AVL---
+200304017 Howald, P&R Howald Q  00916  00916                % 03990 AVL---
+200304018 Howald, P&R Howald Q  00918                       % 03990 AVL---
+*Z 03991 AVL---       004 015                               % 03991 AVL---
+*L 28       200303002 200304018  00937  01003               % 03991 AVL---
+*A BE 200303002 200304018 000034  00937  01003              % 03991 AVL---
+*R 1 200304018 200303002 200304018  00937  01003            % 03991 AVL---
+*G GER 200303002 200304018  00937  01003                    % 03991 AVL---
+*A VE 200303002 200304018 000034  00937  01003              % 03991 AVL---
+200303002 Hesperange, Cité Um          00937                % 03991 AVL---
+200304007 Howald, Op der Stirz  00939  00939                % 03991 AVL---
+200304011 Howald, Ronneboesch   00940  00940                % 03991 AVL---
+200304006 Howald, Moureschanz   00941  00941                % 03991 AVL---
+200405036 Luxembourg, Gare Cen  00948  00948                % 03991 AVL---
+200405039 Luxembourg, Wallis    00951  00951                % 03991 AVL---
+200405046 Luxembourg, Gare Roc  00953  00953                % 03991 AVL---
+200412025 Gasperich, Francopho  00958  00958                % 03991 AVL---
+200412021 Gasperich, Gerhard M  01000  01000                % 03991 AVL---
+200304017 Howald, P&R Howald Q  01001  01001                % 03991 AVL---
+200304018 Howald, P&R Howald Q  01003                       % 03991 AVL---
+*Z 03992 AVL---       003 015                               % 03992 AVL---
+*L 28       200303002 200304018  01107  01133               % 03992 AVL---
+*A BE 200303002 200304018 000034  01107  01133              % 03992 AVL---
+*R 1 200304018 200303002 200304018  01107  01133            % 03992 AVL---
+*G GER 200303002 200304018  01107  01133                    % 03992 AVL---
+*A VE 200303002 200304018 000034  01107  01133              % 03992 AVL---
+200303002 Hesperange, Cité Um          01107                % 03992 AVL---
+200304007 Howald, Op der Stirz  01109  01109                % 03992 AVL---
+200304011 Howald, Ronneboesch   01110  01110                % 03992 AVL---
+200304006 Howald, Moureschanz   01111  01111                % 03992 AVL---
+200405036 Luxembourg, Gare Cen  01118  01118                % 03992 AVL---
+200405039 Luxembourg, Wallis    01121  01121                % 03992 AVL---
+200405046 Luxembourg, Gare Roc  01123  01123                % 03992 AVL---
+200412025 Gasperich, Francopho  01128  01128                % 03992 AVL---
+200412021 Gasperich, Gerhard M  01130  01130                % 03992 AVL---
+200304017 Howald, P&R Howald Q  01131  01131                % 03992 AVL---
+200304018 Howald, P&R Howald Q  01133                       % 03992 AVL---
+*Z 03993 AVL---       003 015                               % 03993 AVL---
+*L 28       200303002 200304018  01222  01248               % 03993 AVL---
+*A BE 200303002 200304018 000034  01222  01248              % 03993 AVL---
+*R 1 200304018 200303002 200304018  01222  01248            % 03993 AVL---
+*G GER 200303002 200304018  01222  01248                    % 03993 AVL---
+*A VE 200303002 200304018 000034  01222  01248              % 03993 AVL---
+200303002 Hesperange, Cité Um          01222                % 03993 AVL---
+200304007 Howald, Op der Stirz  01224  01224                % 03993 AVL---
+200304011 Howald, Ronneboesch   01225  01225                % 03993 AVL---
+200304006 Howald, Moureschanz   01226  01226                % 03993 AVL---
+200405036 Luxembourg, Gare Cen  01233  01233                % 03993 AVL---
+200405039 Luxembourg, Wallis    01236  01236                % 03993 AVL---
+200405046 Luxembourg, Gare Roc  01238  01238                % 03993 AVL---
+200412025 Gasperich, Francopho  01243  01243                % 03993 AVL---
+200412021 Gasperich, Gerhard M  01245  01245                % 03993 AVL---
+200304017 Howald, P&R Howald Q  01246  01246                % 03993 AVL---
+200304018 Howald, P&R Howald Q  01248                       % 03993 AVL---
+*Z 03994 AVL---       003 015                               % 03994 AVL---
+*L 28       200303002 200304018  01337  01403               % 03994 AVL---
+*A BE 200303002 200304018 000034  01337  01403              % 03994 AVL---
+*R 1 200304018 200303002 200304018  01337  01403            % 03994 AVL---
+*G GER 200303002 200304018  01337  01403                    % 03994 AVL---
+*A VE 200303002 200304018 000034  01337  01403              % 03994 AVL---
+200303002 Hesperange, Cité Um          01337                % 03994 AVL---
+200304007 Howald, Op der Stirz  01339  01339                % 03994 AVL---
+200304011 Howald, Ronneboesch   01340  01340                % 03994 AVL---
+200304006 Howald, Moureschanz   01341  01341                % 03994 AVL---
+200405036 Luxembourg, Gare Cen  01348  01348                % 03994 AVL---
+200405039 Luxembourg, Wallis    01351  01351                % 03994 AVL---
+200405046 Luxembourg, Gare Roc  01353  01353                % 03994 AVL---
+200412025 Gasperich, Francopho  01358  01358                % 03994 AVL---
+200412021 Gasperich, Gerhard M  01400  01400                % 03994 AVL---
+200304017 Howald, P&R Howald Q  01401  01401                % 03994 AVL---
+200304018 Howald, P&R Howald Q  01403                       % 03994 AVL---
+*Z 03995 AVL---       003 015                               % 03995 AVL---
+*L 28       200303002 200304018  01452  01518               % 03995 AVL---
+*A BE 200303002 200304018 000034  01452  01518              % 03995 AVL---
+*R 1 200304018 200303002 200304018  01452  01518            % 03995 AVL---
+*G GER 200303002 200304018  01452  01518                    % 03995 AVL---
+*A VE 200303002 200304018 000034  01452  01518              % 03995 AVL---
+200303002 Hesperange, Cité Um          01452                % 03995 AVL---
+200304007 Howald, Op der Stirz  01454  01454                % 03995 AVL---
+200304011 Howald, Ronneboesch   01455  01455                % 03995 AVL---
+200304006 Howald, Moureschanz   01456  01456                % 03995 AVL---
+200405036 Luxembourg, Gare Cen  01503  01503                % 03995 AVL---
+200405039 Luxembourg, Wallis    01506  01506                % 03995 AVL---
+200405046 Luxembourg, Gare Roc  01508  01508                % 03995 AVL---
+200412025 Gasperich, Francopho  01513  01513                % 03995 AVL---
+200412021 Gasperich, Gerhard M  01515  01515                % 03995 AVL---
+200304017 Howald, P&R Howald Q  01516  01516                % 03995 AVL---
+200304018 Howald, P&R Howald Q  01518                       % 03995 AVL---
+*Z 03996 AVL---       001 020                               % 03996 AVL---
+*L 28       200303002 200304018  01550  01615               % 03996 AVL---
+*A BE 200303002 200304018 000034  01550  01615              % 03996 AVL---
+*R 1 200304018 200303002 200304018  01550  01615            % 03996 AVL---
+*G GER 200303002 200304018  01550  01615                    % 03996 AVL---
+*A VE 200303002 200304018 000034  01550  01615              % 03996 AVL---
+200303002 Hesperange, Cité Um          01550                % 03996 AVL---
+200304007 Howald, Op der Stirz  01551  01551                % 03996 AVL---
+200304011 Howald, Ronneboesch   01552  01552                % 03996 AVL---
+200304006 Howald, Moureschanz   01554  01554                % 03996 AVL---
+200405036 Luxembourg, Gare Cen  01600  01600                % 03996 AVL---
+200405039 Luxembourg, Wallis    01604  01604                % 03996 AVL---
+200405046 Luxembourg, Gare Roc  01606  01606                % 03996 AVL---
+200412025 Gasperich, Francopho  01610  01610                % 03996 AVL---
+200412021 Gasperich, Gerhard M  01613  01613                % 03996 AVL---
+200304017 Howald, P&R Howald Q  01614  01614                % 03996 AVL---
+200304018 Howald, P&R Howald Q  01615                       % 03996 AVL---
+*Z 03997 AVL---       001 020                               % 03997 AVL---
+*L 28       200303002 200304018  01620  01645               % 03997 AVL---
+*A BE 200303002 200304018 000034  01620  01645              % 03997 AVL---
+*R 1 200304018 200303002 200304018  01620  01645            % 03997 AVL---
+*G GER 200303002 200304018  01620  01645                    % 03997 AVL---
+*A VE 200303002 200304018 000034  01620  01645              % 03997 AVL---
+200303002 Hesperange, Cité Um          01620                % 03997 AVL---
+200304007 Howald, Op der Stirz  01621  01621                % 03997 AVL---
+200304011 Howald, Ronneboesch   01622  01622                % 03997 AVL---
+200304006 Howald, Moureschanz   01624  01624                % 03997 AVL---
+200405036 Luxembourg, Gare Cen  01630  01630                % 03997 AVL---
+200405039 Luxembourg, Wallis    01634  01634                % 03997 AVL---
+200405046 Luxembourg, Gare Roc  01636  01636                % 03997 AVL---
+200412025 Gasperich, Francopho  01640  01640                % 03997 AVL---
+200412021 Gasperich, Gerhard M  01643  01643                % 03997 AVL---
+200304017 Howald, P&R Howald Q  01644  01644                % 03997 AVL---
+200304018 Howald, P&R Howald Q  01645                       % 03997 AVL---
+*Z 03998 AVL---       001 010                               % 03998 AVL---
+*L 28       200303002 200304018  01650  01715               % 03998 AVL---
+*A BE 200303002 200304018 000034  01650  01715              % 03998 AVL---
+*R 1 200304018 200303002 200304018  01650  01715            % 03998 AVL---
+*G GER 200303002 200304018  01650  01715                    % 03998 AVL---
+*A VE 200303002 200304018 000034  01650  01715              % 03998 AVL---
+200303002 Hesperange, Cité Um          01650                % 03998 AVL---
+200304007 Howald, Op der Stirz  01651  01651                % 03998 AVL---
+200304011 Howald, Ronneboesch   01652  01652                % 03998 AVL---
+200304006 Howald, Moureschanz   01654  01654                % 03998 AVL---
+200405036 Luxembourg, Gare Cen  01700  01700                % 03998 AVL---
+200405039 Luxembourg, Wallis    01704  01704                % 03998 AVL---
+200405046 Luxembourg, Gare Roc  01706  01706                % 03998 AVL---
+200412025 Gasperich, Francopho  01710  01710                % 03998 AVL---
+200412021 Gasperich, Gerhard M  01713  01713                % 03998 AVL---
+200304017 Howald, P&R Howald Q  01714  01714                % 03998 AVL---
+200304018 Howald, P&R Howald Q  01715                       % 03998 AVL---
+*Z 03999 AVL---       001 010                               % 03999 AVL---
+*L 28       200303002 200304018  01720  01745               % 03999 AVL---
+*A BE 200303002 200304018 000034  01720  01745              % 03999 AVL---
+*R 1 200304018 200303002 200304018  01720  01745            % 03999 AVL---
+*G GER 200303002 200304018  01720  01745                    % 03999 AVL---
+*A VE 200303002 200304018 000034  01720  01745              % 03999 AVL---
+200303002 Hesperange, Cité Um          01720                % 03999 AVL---
+200304007 Howald, Op der Stirz  01721  01721                % 03999 AVL---
+200304011 Howald, Ronneboesch   01722  01722                % 03999 AVL---
+200304006 Howald, Moureschanz   01724  01724                % 03999 AVL---
+200405036 Luxembourg, Gare Cen  01730  01730                % 03999 AVL---
+200405039 Luxembourg, Wallis    01734  01734                % 03999 AVL---
+200405046 Luxembourg, Gare Roc  01736  01736                % 03999 AVL---
+200412025 Gasperich, Francopho  01740  01740                % 03999 AVL---
+200412021 Gasperich, Gerhard M  01743  01743                % 03999 AVL---
+200304017 Howald, P&R Howald Q  01744  01744                % 03999 AVL---
+200304018 Howald, P&R Howald Q  01745                       % 03999 AVL---
+*Z 04000 AVL---       002 010                               % 04000 AVL---
+*L 28       200303002 200304018  01750  01815               % 04000 AVL---
+*A BE 200303002 200304018 000034  01750  01815              % 04000 AVL---
+*R 1 200304018 200303002 200304018  01750  01815            % 04000 AVL---
+*G GER 200303002 200304018  01750  01815                    % 04000 AVL---
+*A VE 200303002 200304018 000034  01750  01815              % 04000 AVL---
+200303002 Hesperange, Cité Um          01750                % 04000 AVL---
+200304007 Howald, Op der Stirz  01751  01751                % 04000 AVL---
+200304011 Howald, Ronneboesch   01752  01752                % 04000 AVL---
+200304006 Howald, Moureschanz   01754  01754                % 04000 AVL---
+200405036 Luxembourg, Gare Cen  01800  01800                % 04000 AVL---
+200405039 Luxembourg, Wallis    01804  01804                % 04000 AVL---
+200405046 Luxembourg, Gare Roc  01806  01806                % 04000 AVL---
+200412025 Gasperich, Francopho  01810  01810                % 04000 AVL---
+200412021 Gasperich, Gerhard M  01813  01813                % 04000 AVL---
+200304017 Howald, P&R Howald Q  01814  01814                % 04000 AVL---
+200304018 Howald, P&R Howald Q  01815                       % 04000 AVL---
+*Z 04001 AVL---       001 010                               % 04001 AVL---
+*L 28       200303002 200304018  01830  01855               % 04001 AVL---
+*A BE 200303002 200304018 000034  01830  01855              % 04001 AVL---
+*R 1 200304018 200303002 200304018  01830  01855            % 04001 AVL---
+*G GER 200303002 200304018  01830  01855                    % 04001 AVL---
+*A VE 200303002 200304018 000034  01830  01855              % 04001 AVL---
+200303002 Hesperange, Cité Um          01830                % 04001 AVL---
+200304007 Howald, Op der Stirz  01831  01831                % 04001 AVL---
+200304011 Howald, Ronneboesch   01832  01832                % 04001 AVL---
+200304006 Howald, Moureschanz   01834  01834                % 04001 AVL---
+200405036 Luxembourg, Gare Cen  01840  01840                % 04001 AVL---
+200405039 Luxembourg, Wallis    01844  01844                % 04001 AVL---
+200405046 Luxembourg, Gare Roc  01846  01846                % 04001 AVL---
+200412025 Gasperich, Francopho  01850  01850                % 04001 AVL---
+200412021 Gasperich, Gerhard M  01853  01853                % 04001 AVL---
+200304017 Howald, P&R Howald Q  01854  01854                % 04001 AVL---
+200304018 Howald, P&R Howald Q  01855                       % 04001 AVL---
+*Z 04002 AVL---       001 030                               % 04002 AVL---
+*L 28       200303002 200304018  01907  01933               % 04002 AVL---
+*A BE 200303002 200304018 000034  01907  01933              % 04002 AVL---
+*R 1 200304018 200303002 200304018  01907  01933            % 04002 AVL---
+*G GER 200303002 200304018  01907  01933                    % 04002 AVL---
+*A VE 200303002 200304018 000034  01907  01933              % 04002 AVL---
+200303002 Hesperange, Cité Um          01907                % 04002 AVL---
+200304007 Howald, Op der Stirz  01909  01909                % 04002 AVL---
+200304011 Howald, Ronneboesch   01910  01910                % 04002 AVL---
+200304006 Howald, Moureschanz   01911  01911                % 04002 AVL---
+200405036 Luxembourg, Gare Cen  01918  01918                % 04002 AVL---
+200405039 Luxembourg, Wallis    01921  01921                % 04002 AVL---
+200405046 Luxembourg, Gare Roc  01923  01923                % 04002 AVL---
+200412025 Gasperich, Francopho  01928  01928                % 04002 AVL---
+200412021 Gasperich, Gerhard M  01930  01930                % 04002 AVL---
+200304017 Howald, P&R Howald Q  01931  01931                % 04002 AVL---
+200304018 Howald, P&R Howald Q  01933                       % 04002 AVL---
+*Z 04003 AVL---       001 040                               % 04003 AVL---
+*L 28       200303002 200304018  00610  00635               % 04003 AVL---
+*A BE 200303002 200304018 000034  00610  00635              % 04003 AVL---
+*R 1 200304018 200303002 200304018  00610  00635            % 04003 AVL---
+*G GMB 200303002 200304018  00610  00635                    % 04003 AVL---
+*A VE 200303002 200304018 000034  00610  00635              % 04003 AVL---
+200303002 Hesperange, Cité Um          00610                % 04003 AVL---
+200304007 Howald, Op der Stirz  00611  00611                % 04003 AVL---
+200304011 Howald, Ronneboesch   00612  00612                % 04003 AVL---
+200304006 Howald, Moureschanz   00614  00614                % 04003 AVL---
+200405036 Luxembourg, Gare Cen  00620  00620                % 04003 AVL---
+200405039 Luxembourg, Wallis    00624  00624                % 04003 AVL---
+200405046 Luxembourg, Gare Roc  00626  00626                % 04003 AVL---
+200412025 Gasperich, Francopho  00630  00630                % 04003 AVL---
+200412021 Gasperich, Gerhard M  00633  00633                % 04003 AVL---
+200304017 Howald, P&R Howald Q  00634  00634                % 04003 AVL---
+200304018 Howald, P&R Howald Q  00635                       % 04003 AVL---
+*Z 04004 AVL---       001 040                               % 04004 AVL---
+*L 28       200303002 200304018  00720  00745               % 04004 AVL---
+*A BE 200303002 200304018 000034  00720  00745              % 04004 AVL---
+*R 1 200304018 200303002 200304018  00720  00745            % 04004 AVL---
+*G GMB 200303002 200304018  00720  00745                    % 04004 AVL---
+*A VE 200303002 200304018 000034  00720  00745              % 04004 AVL---
+200303002 Hesperange, Cité Um          00720                % 04004 AVL---
+200304007 Howald, Op der Stirz  00721  00721                % 04004 AVL---
+200304011 Howald, Ronneboesch   00722  00722                % 04004 AVL---
+200304006 Howald, Moureschanz   00724  00724                % 04004 AVL---
+200405036 Luxembourg, Gare Cen  00730  00730                % 04004 AVL---
+200405039 Luxembourg, Wallis    00734  00734                % 04004 AVL---
+200405046 Luxembourg, Gare Roc  00736  00736                % 04004 AVL---
+200412025 Gasperich, Francopho  00740  00740                % 04004 AVL---
+200412021 Gasperich, Gerhard M  00743  00743                % 04004 AVL---
+200304017 Howald, P&R Howald Q  00744  00744                % 04004 AVL---
+200304018 Howald, P&R Howald Q  00745                       % 04004 AVL---
+*Z 04005 AVL---                                             % 04005 AVL---
+*L 28       200303002 200304018  00830  00855               % 04005 AVL---
+*A BE 200303002 200304018 000034  00830  00855              % 04005 AVL---
+*R 1 200304018 200303002 200304018  00830  00855            % 04005 AVL---
+*G GMB 200303002 200304018  00830  00855                    % 04005 AVL---
+*A VE 200303002 200304018 000034  00830  00855              % 04005 AVL---
+200303002 Hesperange, Cité Um          00830                % 04005 AVL---
+200304007 Howald, Op der Stirz  00831  00831                % 04005 AVL---
+200304011 Howald, Ronneboesch   00832  00832                % 04005 AVL---
+200304006 Howald, Moureschanz   00834  00834                % 04005 AVL---
+200405036 Luxembourg, Gare Cen  00840  00840                % 04005 AVL---
+200405039 Luxembourg, Wallis    00844  00844                % 04005 AVL---
+200405046 Luxembourg, Gare Roc  00846  00846                % 04005 AVL---
+200412025 Gasperich, Francopho  00850  00850                % 04005 AVL---
+200412021 Gasperich, Gerhard M  00853  00853                % 04005 AVL---
+200304017 Howald, P&R Howald Q  00854  00854                % 04005 AVL---
+200304018 Howald, P&R Howald Q  00855                       % 04005 AVL---
+*Z 04006 AVL---       001 090                               % 04006 AVL---
+*L 28       200303002 200304018  00922  00948               % 04006 AVL---
+*A BE 200303002 200304018 000034  00922  00948              % 04006 AVL---
+*R 1 200304018 200303002 200304018  00922  00948            % 04006 AVL---
+*G GMB 200303002 200304018  00922  00948                    % 04006 AVL---
+*A VE 200303002 200304018 000034  00922  00948              % 04006 AVL---
+200303002 Hesperange, Cité Um          00922                % 04006 AVL---
+200304007 Howald, Op der Stirz  00924  00924                % 04006 AVL---
+200304011 Howald, Ronneboesch   00925  00925                % 04006 AVL---
+200304006 Howald, Moureschanz   00926  00926                % 04006 AVL---
+200405036 Luxembourg, Gare Cen  00933  00933                % 04006 AVL---
+200405039 Luxembourg, Wallis    00936  00936                % 04006 AVL---
+200405046 Luxembourg, Gare Roc  00938  00938                % 04006 AVL---
+200412025 Gasperich, Francopho  00943  00943                % 04006 AVL---
+200412021 Gasperich, Gerhard M  00945  00945                % 04006 AVL---
+200304017 Howald, P&R Howald Q  00946  00946                % 04006 AVL---
+200304018 Howald, P&R Howald Q  00948                       % 04006 AVL---
+*Z 04007 AVL---       002 075                               % 04007 AVL---
+*L 28       200303002 200304018  01207  01233               % 04007 AVL---
+*A BE 200303002 200304018 000034  01207  01233              % 04007 AVL---
+*R 1 200304018 200303002 200304018  01207  01233            % 04007 AVL---
+*G GMB 200303002 200304018  01207  01233                    % 04007 AVL---
+*A VE 200303002 200304018 000034  01207  01233              % 04007 AVL---
+200303002 Hesperange, Cité Um          01207                % 04007 AVL---
+200304007 Howald, Op der Stirz  01209  01209                % 04007 AVL---
+200304011 Howald, Ronneboesch   01210  01210                % 04007 AVL---
+200304006 Howald, Moureschanz   01211  01211                % 04007 AVL---
+200405036 Luxembourg, Gare Cen  01218  01218                % 04007 AVL---
+200405039 Luxembourg, Wallis    01221  01221                % 04007 AVL---
+200405046 Luxembourg, Gare Roc  01223  01223                % 04007 AVL---
+200412025 Gasperich, Francopho  01228  01228                % 04007 AVL---
+200412021 Gasperich, Gerhard M  01230  01230                % 04007 AVL---
+200304017 Howald, P&R Howald Q  01231  01231                % 04007 AVL---
+200304018 Howald, P&R Howald Q  01233                       % 04007 AVL---
+*Z 04008 AVL---       001 030                               % 04008 AVL---
+*L 28       200303002 200304018  01600  01625               % 04008 AVL---
+*A BE 200303002 200304018 000034  01600  01625              % 04008 AVL---
+*R 1 200304018 200303002 200304018  01600  01625            % 04008 AVL---
+*G GMB 200303002 200304018  01600  01625                    % 04008 AVL---
+*A VE 200303002 200304018 000034  01600  01625              % 04008 AVL---
+200303002 Hesperange, Cité Um          01600                % 04008 AVL---
+200304007 Howald, Op der Stirz  01601  01601                % 04008 AVL---
+200304011 Howald, Ronneboesch   01602  01602                % 04008 AVL---
+200304006 Howald, Moureschanz   01604  01604                % 04008 AVL---
+200405036 Luxembourg, Gare Cen  01610  01610                % 04008 AVL---
+200405039 Luxembourg, Wallis    01614  01614                % 04008 AVL---
+200405046 Luxembourg, Gare Roc  01616  01616                % 04008 AVL---
+200412025 Gasperich, Francopho  01620  01620                % 04008 AVL---
+200412021 Gasperich, Gerhard M  01623  01623                % 04008 AVL---
+200304017 Howald, P&R Howald Q  01624  01624                % 04008 AVL---
+200304018 Howald, P&R Howald Q  01625                       % 04008 AVL---
+*Z 04009 AVL---       001 030                               % 04009 AVL---
+*L 28       200303002 200304018  01710  01735               % 04009 AVL---
+*A BE 200303002 200304018 000034  01710  01735              % 04009 AVL---
+*R 1 200304018 200303002 200304018  01710  01735            % 04009 AVL---
+*G GMB 200303002 200304018  01710  01735                    % 04009 AVL---
+*A VE 200303002 200304018 000034  01710  01735              % 04009 AVL---
+200303002 Hesperange, Cité Um          01710                % 04009 AVL---
+200304007 Howald, Op der Stirz  01711  01711                % 04009 AVL---
+200304011 Howald, Ronneboesch   01712  01712                % 04009 AVL---
+200304006 Howald, Moureschanz   01714  01714                % 04009 AVL---
+200405036 Luxembourg, Gare Cen  01720  01720                % 04009 AVL---
+200405039 Luxembourg, Wallis    01724  01724                % 04009 AVL---
+200405046 Luxembourg, Gare Roc  01726  01726                % 04009 AVL---
+200412025 Gasperich, Francopho  01730  01730                % 04009 AVL---
+200412021 Gasperich, Gerhard M  01733  01733                % 04009 AVL---
+200304017 Howald, P&R Howald Q  01734  01734                % 04009 AVL---
+200304018 Howald, P&R Howald Q  01735                       % 04009 AVL---
+*Z 04010 AVL---                                             % 04010 AVL---
+*L 28       200303002 200304018  01820  01845               % 04010 AVL---
+*A BE 200303002 200304018 000034  01820  01845              % 04010 AVL---
+*R 1 200304018 200303002 200304018  01820  01845            % 04010 AVL---
+*G GMB 200303002 200304018  01820  01845                    % 04010 AVL---
+*A VE 200303002 200304018 000034  01820  01845              % 04010 AVL---
+200303002 Hesperange, Cité Um          01820                % 04010 AVL---
+200304007 Howald, Op der Stirz  01821  01821                % 04010 AVL---
+200304011 Howald, Ronneboesch   01822  01822                % 04010 AVL---
+200304006 Howald, Moureschanz   01824  01824                % 04010 AVL---
+200405036 Luxembourg, Gare Cen  01830  01830                % 04010 AVL---
+200405039 Luxembourg, Wallis    01834  01834                % 04010 AVL---
+200405046 Luxembourg, Gare Roc  01836  01836                % 04010 AVL---
+200412025 Gasperich, Francopho  01840  01840                % 04010 AVL---
+200412021 Gasperich, Gerhard M  01843  01843                % 04010 AVL---
+200304017 Howald, P&R Howald Q  01844  01844                % 04010 AVL---
+200304018 Howald, P&R Howald Q  01845                       % 04010 AVL---
+*Z 04011 AVL---       001 030                               % 04011 AVL---
+*L 28       200303002 200304018  01852  01918               % 04011 AVL---
+*A BE 200303002 200304018 000034  01852  01918              % 04011 AVL---
+*R 1 200304018 200303002 200304018  01852  01918            % 04011 AVL---
+*G GMB 200303002 200304018  01852  01918                    % 04011 AVL---
+*A VE 200303002 200304018 000034  01852  01918              % 04011 AVL---
+200303002 Hesperange, Cité Um          01852                % 04011 AVL---
+200304007 Howald, Op der Stirz  01854  01854                % 04011 AVL---
+200304011 Howald, Ronneboesch   01855  01855                % 04011 AVL---
+200304006 Howald, Moureschanz   01856  01856                % 04011 AVL---
+200405036 Luxembourg, Gare Cen  01903  01903                % 04011 AVL---
+200405039 Luxembourg, Wallis    01906  01906                % 04011 AVL---
+200405046 Luxembourg, Gare Roc  01908  01908                % 04011 AVL---
+200412025 Gasperich, Francopho  01913  01913                % 04011 AVL---
+200412021 Gasperich, Gerhard M  01915  01915                % 04011 AVL---
+200304017 Howald, P&R Howald Q  01916  01916                % 04011 AVL---
+200304018 Howald, P&R Howald Q  01918                       % 04011 AVL---
+*Z 04012 AVL---       024 015                               % 04012 AVL---
+*L 28       200303002 200304018  00756  00816               % 04012 AVL---
+*A BE 200303002 200304018 000017  00756  00816              % 04012 AVL---
+*R 1 200304018 200303002 200304018  00756  00816            % 04012 AVL---
+*G GMB 200303002 200304018  00756  00816                    % 04012 AVL---
+*A VE 200303002 200304018 000017  00756  00816              % 04012 AVL---
+200303002 Hesperange, Cité Um          00756                % 04012 AVL---
+200304007 Howald, Op der Stirz  00757  00757                % 04012 AVL---
+200304011 Howald, Ronneboesch   00758  00758                % 04012 AVL---
+200304006 Howald, Moureschanz   00759  00759                % 04012 AVL---
+200405036 Luxembourg, Gare Cen  00804  00804                % 04012 AVL---
+200405039 Luxembourg, Wallis    00806  00806                % 04012 AVL---
+200405046 Luxembourg, Gare Roc  00808  00808                % 04012 AVL---
+200412025 Gasperich, Francopho  00812  00812                % 04012 AVL---
+200412021 Gasperich, Gerhard M  00813  00813                % 04012 AVL---
+200304017 Howald, P&R Howald Q  00814  00814                % 04012 AVL---
+200304018 Howald, P&R Howald Q  00816                       % 04012 AVL---
+*Z 04013 AVL---       026 010                               % 04013 AVL---
+*L 28       200303002 200304018  01408  01428               % 04013 AVL---
+*A BE 200303002 200304018 000017  01408  01428              % 04013 AVL---
+*R 1 200304018 200303002 200304018  01408  01428            % 04013 AVL---
+*G GMB 200303002 200304018  01408  01428                    % 04013 AVL---
+*A VE 200303002 200304018 000017  01408  01428              % 04013 AVL---
+200303002 Hesperange, Cité Um          01408                % 04013 AVL---
+200304007 Howald, Op der Stirz  01409  01409                % 04013 AVL---
+200304011 Howald, Ronneboesch   01410  01410                % 04013 AVL---
+200304006 Howald, Moureschanz   01411  01411                % 04013 AVL---
+200405036 Luxembourg, Gare Cen  01416  01416                % 04013 AVL---
+200405039 Luxembourg, Wallis    01418  01418                % 04013 AVL---
+200405046 Luxembourg, Gare Roc  01420  01420                % 04013 AVL---
+200412025 Gasperich, Francopho  01424  01424                % 04013 AVL---
+200412021 Gasperich, Gerhard M  01425  01425                % 04013 AVL---
+200304017 Howald, P&R Howald Q  01426  01426                % 04013 AVL---
+200304018 Howald, P&R Howald Q  01428                       % 04013 AVL---
+*Z 04014 AVL---       004 015                               % 04014 AVL---
+*L 28       200303002 200304018  01841  01901               % 04014 AVL---
+*A BE 200303002 200304018 000017  01841  01901              % 04014 AVL---
+*R 1 200304018 200303002 200304018  01841  01901            % 04014 AVL---
+*G GMB 200303002 200304018  01841  01901                    % 04014 AVL---
+*A VE 200303002 200304018 000017  01841  01901              % 04014 AVL---
+200303002 Hesperange, Cité Um          01841                % 04014 AVL---
+200304007 Howald, Op der Stirz  01842  01842                % 04014 AVL---
+200304011 Howald, Ronneboesch   01843  01843                % 04014 AVL---
+200304006 Howald, Moureschanz   01844  01844                % 04014 AVL---
+200405036 Luxembourg, Gare Cen  01849  01849                % 04014 AVL---
+200405039 Luxembourg, Wallis    01851  01851                % 04014 AVL---
+200405046 Luxembourg, Gare Roc  01853  01853                % 04014 AVL---
+200412025 Gasperich, Francopho  01857  01857                % 04014 AVL---
+200412021 Gasperich, Gerhard M  01858  01858                % 04014 AVL---
+200304017 Howald, P&R Howald Q  01859  01859                % 04014 AVL---
+200304018 Howald, P&R Howald Q  01901                       % 04014 AVL---
+*Z 04015 AVL---       016 030                               % 04015 AVL---
+*L 28       200303002 200304018  01132  01152               % 04015 AVL---
+*A BE 200303002 200304018 000016  01132  01152              % 04015 AVL---
+*R 1 200304018 200303002 200304018  01132  01152            % 04015 AVL---
+*G GEH 200303002 200304018  01132  01152                    % 04015 AVL---
+*A VE 200303002 200304018 000016  01132  01152              % 04015 AVL---
+200303002 Hesperange, Cité Um          01132                % 04015 AVL---
+200304007 Howald, Op der Stirz  01133  01133                % 04015 AVL---
+200304011 Howald, Ronneboesch   01134  01134                % 04015 AVL---
+200304006 Howald, Moureschanz   01135  01135                % 04015 AVL---
+200405036 Luxembourg, Gare Cen  01140  01140                % 04015 AVL---
+200405039 Luxembourg, Wallis    01142  01142                % 04015 AVL---
+200405046 Luxembourg, Gare Roc  01144  01144                % 04015 AVL---
+200412025 Gasperich, Francopho  01148  01148                % 04015 AVL---
+200412021 Gasperich, Gerhard M  01149  01149                % 04015 AVL---
+200304017 Howald, P&R Howald Q  01150  01150                % 04015 AVL---
+200304018 Howald, P&R Howald Q  01152                       % 04015 AVL---
+*Z 04016 AVL---       003 030                               % 04016 AVL---
+*L 28       200304018 200303002  00557  00617               % 04016 AVL---
+*A BE 200304018 200303002 000017  00557  00617              % 04016 AVL---
+*R 2 200303002 200304018 200303002  00557  00617            % 04016 AVL---
+*G GMB 200304018 200303002  00557  00617                    % 04016 AVL---
+*A VE 200304018 200303002 000017  00557  00617              % 04016 AVL---
+200304018 Howald, P&R Howald Q         00557                % 04016 AVL---
+200304012 Howald, P&R Howald Q  00559  00559                % 04016 AVL---
+200412021 Gasperich, Gerhard M  00559  00559                % 04016 AVL---
+200412025 Gasperich, Francopho  00600  00600                % 04016 AVL---
+200405046 Luxembourg, Gare Roc  00605  00605                % 04016 AVL---
+200405039 Luxembourg, Wallis    00607  00607                % 04016 AVL---
+200405032 Luxembourg, Gare Cen  00609  00609                % 04016 AVL---
+200304006 Howald, Moureschanz   00613  00613                % 04016 AVL---
+200304011 Howald, Ronneboesch   00613  00613                % 04016 AVL---
+200304007 Howald, Op der Stirz  00614  00614                % 04016 AVL---
+200303002 Hesperange, Cité Um   00617                       % 04016 AVL---
+*Z 04017 AVL---       003 015                               % 04017 AVL---
+*L 28       200304018 200303002  00512  00532               % 04017 AVL---
+*A BE 200304018 200303002 000034  00512  00532              % 04017 AVL---
+*R 2 200303002 200304018 200303002  00512  00532            % 04017 AVL---
+*G GER 200304018 200303002  00512  00532                    % 04017 AVL---
+*A VE 200304018 200303002 000034  00512  00532              % 04017 AVL---
+200304018 Howald, P&R Howald Q         00512                % 04017 AVL---
+200304012 Howald, P&R Howald Q  00514  00514                % 04017 AVL---
+200412021 Gasperich, Gerhard M  00514  00514                % 04017 AVL---
+200412025 Gasperich, Francopho  00515  00515                % 04017 AVL---
+200405046 Luxembourg, Gare Roc  00520  00520                % 04017 AVL---
+200405039 Luxembourg, Wallis    00522  00522                % 04017 AVL---
+200405032 Luxembourg, Gare Cen  00524  00524                % 04017 AVL---
+200304006 Howald, Moureschanz   00528  00528                % 04017 AVL---
+200304011 Howald, Ronneboesch   00528  00528                % 04017 AVL---
+200304007 Howald, Op der Stirz  00529  00529                % 04017 AVL---
+200303002 Hesperange, Cité Um   00532                       % 04017 AVL---
+*Z 04018 AVL---       007 030                               % 04018 AVL---
+*L 28       200304018 200303002  01957  02017               % 04018 AVL---
+*A BE 200304018 200303002 000038  01957  02017              % 04018 AVL---
+*R 2 200303002 200304018 200303002  01957  02017            % 04018 AVL---
+*G GMB 200304018 200303002  01957  02017                    % 04018 AVL---
+*A VE 200304018 200303002 000038  01957  02017              % 04018 AVL---
+200304018 Howald, P&R Howald Q         01957                % 04018 AVL---
+200304012 Howald, P&R Howald Q  01959  01959                % 04018 AVL---
+200412021 Gasperich, Gerhard M  01959  01959                % 04018 AVL---
+200412025 Gasperich, Francopho  02000  02000                % 04018 AVL---
+200405046 Luxembourg, Gare Roc  02005  02005                % 04018 AVL---
+200405039 Luxembourg, Wallis    02007  02007                % 04018 AVL---
+200405032 Luxembourg, Gare Cen  02009  02009                % 04018 AVL---
+200304006 Howald, Moureschanz   02013  02013                % 04018 AVL---
+200304011 Howald, Ronneboesch   02013  02013                % 04018 AVL---
+200304007 Howald, Op der Stirz  02014  02014                % 04018 AVL---
+200303002 Hesperange, Cité Um   02017                       % 04018 AVL---
+*Z 04019 AVL---       010 030                               % 04019 AVL---
+*L 28       200304018 200303002  00557  00617               % 04019 AVL---
+*A BE 200304018 200303002 000016  00557  00617              % 04019 AVL---
+*R 2 200303002 200304018 200303002  00557  00617            % 04019 AVL---
+*G GEH 200304018 200303002  00557  00617                    % 04019 AVL---
+*A VE 200304018 200303002 000016  00557  00617              % 04019 AVL---
+200304018 Howald, P&R Howald Q         00557                % 04019 AVL---
+200304012 Howald, P&R Howald Q  00559  00559                % 04019 AVL---
+200412021 Gasperich, Gerhard M  00559  00559                % 04019 AVL---
+200412025 Gasperich, Francopho  00600  00600                % 04019 AVL---
+200405046 Luxembourg, Gare Roc  00605  00605                % 04019 AVL---
+200405039 Luxembourg, Wallis    00607  00607                % 04019 AVL---
+200405032 Luxembourg, Gare Cen  00609  00609                % 04019 AVL---
+200304006 Howald, Moureschanz   00613  00613                % 04019 AVL---
+200304011 Howald, Ronneboesch   00613  00613                % 04019 AVL---
+200304007 Howald, Op der Stirz  00614  00614                % 04019 AVL---
+200303002 Hesperange, Cité Um   00617                       % 04019 AVL---
+*Z 04020 AVL---       007 030                               % 04020 AVL---
+*L 28       200304018 200303002  01957  02017               % 04020 AVL---
+*A BE 200304018 200303002 000016  01957  02017              % 04020 AVL---
+*R 2 200303002 200304018 200303002  01957  02017            % 04020 AVL---
+*G GEH 200304018 200303002  01957  02017                    % 04020 AVL---
+*A VE 200304018 200303002 000016  01957  02017              % 04020 AVL---
+200304018 Howald, P&R Howald Q         01957                % 04020 AVL---
+200304012 Howald, P&R Howald Q  01959  01959                % 04020 AVL---
+200412021 Gasperich, Gerhard M  01959  01959                % 04020 AVL---
+200412025 Gasperich, Francopho  02000  02000                % 04020 AVL---
+200405046 Luxembourg, Gare Roc  02005  02005                % 04020 AVL---
+200405039 Luxembourg, Wallis    02007  02007                % 04020 AVL---
+200405032 Luxembourg, Gare Cen  02009  02009                % 04020 AVL---
+200304006 Howald, Moureschanz   02013  02013                % 04020 AVL---
+200304011 Howald, Ronneboesch   02013  02013                % 04020 AVL---
+200304007 Howald, Op der Stirz  02014  02014                % 04020 AVL---
+200303002 Hesperange, Cité Um   02017                       % 04020 AVL---
+*Z 04021 AVL---                                             % 04021 AVL---
+*L 28       200304018 200303002  00623  00648               % 04021 AVL---
+*A BE 200304018 200303002 000034  00623  00648              % 04021 AVL---
+*R 2 200303002 200304018 200303002  00623  00648            % 04021 AVL---
+*G GER 200304018 200303002  00623  00648                    % 04021 AVL---
+*A VE 200304018 200303002 000034  00623  00648              % 04021 AVL---
+200304018 Howald, P&R Howald Q         00623                % 04021 AVL---
+200304012 Howald, P&R Howald Q  00625  00625                % 04021 AVL---
+200412021 Gasperich, Gerhard M  00626  00626                % 04021 AVL---
+200412025 Gasperich, Francopho  00628  00628                % 04021 AVL---
+200405046 Luxembourg, Gare Roc  00634  00634                % 04021 AVL---
+200405039 Luxembourg, Wallis    00636  00636                % 04021 AVL---
+200405032 Luxembourg, Gare Cen  00639  00639                % 04021 AVL---
+200304006 Howald, Moureschanz   00643  00643                % 04021 AVL---
+200304011 Howald, Ronneboesch   00644  00644                % 04021 AVL---
+200304007 Howald, Op der Stirz  00645  00645                % 04021 AVL---
+200303002 Hesperange, Cité Um   00648                       % 04021 AVL---
+*Z 04022 AVL---       001 020                               % 04022 AVL---
+*L 28       200304018 200303002  00635  00659               % 04022 AVL---
+*A BE 200304018 200303002 000034  00635  00659              % 04022 AVL---
+*R 2 200303002 200304018 200303002  00635  00659            % 04022 AVL---
+*G GER 200304018 200303002  00635  00659                    % 04022 AVL---
+*A VE 200304018 200303002 000034  00635  00659              % 04022 AVL---
+200304018 Howald, P&R Howald Q         00635                % 04022 AVL---
+200304012 Howald, P&R Howald Q  00637  00637                % 04022 AVL---
+200412021 Gasperich, Gerhard M  00638  00638                % 04022 AVL---
+200412025 Gasperich, Francopho  00639  00639                % 04022 AVL---
+200405046 Luxembourg, Gare Roc  00645  00645                % 04022 AVL---
+200405039 Luxembourg, Wallis    00647  00647                % 04022 AVL---
+200405032 Luxembourg, Gare Cen  00650  00650                % 04022 AVL---
+200304006 Howald, Moureschanz   00654  00654                % 04022 AVL---
+200304011 Howald, Ronneboesch   00655  00655                % 04022 AVL---
+200304007 Howald, Op der Stirz  00656  00656                % 04022 AVL---
+200303002 Hesperange, Cité Um   00659                       % 04022 AVL---
+*Z 04023 AVL---       001 010                               % 04023 AVL---
+*L 28       200304018 200303002  00705  00729               % 04023 AVL---
+*A BE 200304018 200303002 000034  00705  00729              % 04023 AVL---
+*R 2 200303002 200304018 200303002  00705  00729            % 04023 AVL---
+*G GER 200304018 200303002  00705  00729                    % 04023 AVL---
+*A VE 200304018 200303002 000034  00705  00729              % 04023 AVL---
+200304018 Howald, P&R Howald Q         00705                % 04023 AVL---
+200304012 Howald, P&R Howald Q  00707  00707                % 04023 AVL---
+200412021 Gasperich, Gerhard M  00708  00708                % 04023 AVL---
+200412025 Gasperich, Francopho  00709  00709                % 04023 AVL---
+200405046 Luxembourg, Gare Roc  00715  00715                % 04023 AVL---
+200405039 Luxembourg, Wallis    00717  00717                % 04023 AVL---
+200405032 Luxembourg, Gare Cen  00720  00720                % 04023 AVL---
+200304006 Howald, Moureschanz   00724  00724                % 04023 AVL---
+200304011 Howald, Ronneboesch   00725  00725                % 04023 AVL---
+200304007 Howald, Op der Stirz  00726  00726                % 04023 AVL---
+200303002 Hesperange, Cité Um   00729                       % 04023 AVL---
+*Z 04024 AVL---       001 010                               % 04024 AVL---
+*L 28       200304018 200303002  00735  00759               % 04024 AVL---
+*A BE 200304018 200303002 000034  00735  00759              % 04024 AVL---
+*R 2 200303002 200304018 200303002  00735  00759            % 04024 AVL---
+*G GER 200304018 200303002  00735  00759                    % 04024 AVL---
+*A VE 200304018 200303002 000034  00735  00759              % 04024 AVL---
+200304018 Howald, P&R Howald Q         00735                % 04024 AVL---
+200304012 Howald, P&R Howald Q  00737  00737                % 04024 AVL---
+200412021 Gasperich, Gerhard M  00738  00738                % 04024 AVL---
+200412025 Gasperich, Francopho  00739  00739                % 04024 AVL---
+200405046 Luxembourg, Gare Roc  00745  00745                % 04024 AVL---
+200405039 Luxembourg, Wallis    00747  00747                % 04024 AVL---
+200405032 Luxembourg, Gare Cen  00750  00750                % 04024 AVL---
+200304006 Howald, Moureschanz   00754  00754                % 04024 AVL---
+200304011 Howald, Ronneboesch   00755  00755                % 04024 AVL---
+200304007 Howald, Op der Stirz  00756  00756                % 04024 AVL---
+200303002 Hesperange, Cité Um   00759                       % 04024 AVL---
+*Z 04025 AVL---       002 010                               % 04025 AVL---
+*L 28       200304018 200303002  00805  00829               % 04025 AVL---
+*A BE 200304018 200303002 000034  00805  00829              % 04025 AVL---
+*R 2 200303002 200304018 200303002  00805  00829            % 04025 AVL---
+*G GER 200304018 200303002  00805  00829                    % 04025 AVL---
+*A VE 200304018 200303002 000034  00805  00829              % 04025 AVL---
+200304018 Howald, P&R Howald Q         00805                % 04025 AVL---
+200304012 Howald, P&R Howald Q  00807  00807                % 04025 AVL---
+200412021 Gasperich, Gerhard M  00808  00808                % 04025 AVL---
+200412025 Gasperich, Francopho  00809  00809                % 04025 AVL---
+200405046 Luxembourg, Gare Roc  00815  00815                % 04025 AVL---
+200405039 Luxembourg, Wallis    00817  00817                % 04025 AVL---
+200405032 Luxembourg, Gare Cen  00820  00820                % 04025 AVL---
+200304006 Howald, Moureschanz   00824  00824                % 04025 AVL---
+200304011 Howald, Ronneboesch   00825  00825                % 04025 AVL---
+200304007 Howald, Op der Stirz  00826  00826                % 04025 AVL---
+200303002 Hesperange, Cité Um   00829                       % 04025 AVL---
+*Z 04026 AVL---       004 015                               % 04026 AVL---
+*L 28       200304018 200303002  00853  00918               % 04026 AVL---
+*A BE 200304018 200303002 000034  00853  00918              % 04026 AVL---
+*R 2 200303002 200304018 200303002  00853  00918            % 04026 AVL---
+*G GER 200304018 200303002  00853  00918                    % 04026 AVL---
+*A VE 200304018 200303002 000034  00853  00918              % 04026 AVL---
+200304018 Howald, P&R Howald Q         00853                % 04026 AVL---
+200304012 Howald, P&R Howald Q  00855  00855                % 04026 AVL---
+200412021 Gasperich, Gerhard M  00856  00856                % 04026 AVL---
+200412025 Gasperich, Francopho  00858  00858                % 04026 AVL---
+200405046 Luxembourg, Gare Roc  00904  00904                % 04026 AVL---
+200405039 Luxembourg, Wallis    00906  00906                % 04026 AVL---
+200405032 Luxembourg, Gare Cen  00909  00909                % 04026 AVL---
+200304006 Howald, Moureschanz   00913  00913                % 04026 AVL---
+200304011 Howald, Ronneboesch   00914  00914                % 04026 AVL---
+200304007 Howald, Op der Stirz  00915  00915                % 04026 AVL---
+200303002 Hesperange, Cité Um   00918                       % 04026 AVL---
+*Z 04027 AVL---       003 015                               % 04027 AVL---
+*L 28       200304018 200303002  01023  01048               % 04027 AVL---
+*A BE 200304018 200303002 000034  01023  01048              % 04027 AVL---
+*R 2 200303002 200304018 200303002  01023  01048            % 04027 AVL---
+*G GER 200304018 200303002  01023  01048                    % 04027 AVL---
+*A VE 200304018 200303002 000034  01023  01048              % 04027 AVL---
+200304018 Howald, P&R Howald Q         01023                % 04027 AVL---
+200304012 Howald, P&R Howald Q  01025  01025                % 04027 AVL---
+200412021 Gasperich, Gerhard M  01026  01026                % 04027 AVL---
+200412025 Gasperich, Francopho  01028  01028                % 04027 AVL---
+200405046 Luxembourg, Gare Roc  01034  01034                % 04027 AVL---
+200405039 Luxembourg, Wallis    01036  01036                % 04027 AVL---
+200405032 Luxembourg, Gare Cen  01039  01039                % 04027 AVL---
+200304006 Howald, Moureschanz   01043  01043                % 04027 AVL---
+200304011 Howald, Ronneboesch   01044  01044                % 04027 AVL---
+200304007 Howald, Op der Stirz  01045  01045                % 04027 AVL---
+200303002 Hesperange, Cité Um   01048                       % 04027 AVL---
+*Z 04028 AVL---       003 015                               % 04028 AVL---
+*L 28       200304018 200303002  01138  01203               % 04028 AVL---
+*A BE 200304018 200303002 000034  01138  01203              % 04028 AVL---
+*R 2 200303002 200304018 200303002  01138  01203            % 04028 AVL---
+*G GER 200304018 200303002  01138  01203                    % 04028 AVL---
+*A VE 200304018 200303002 000034  01138  01203              % 04028 AVL---
+200304018 Howald, P&R Howald Q         01138                % 04028 AVL---
+200304012 Howald, P&R Howald Q  01140  01140                % 04028 AVL---
+200412021 Gasperich, Gerhard M  01141  01141                % 04028 AVL---
+200412025 Gasperich, Francopho  01143  01143                % 04028 AVL---
+200405046 Luxembourg, Gare Roc  01149  01149                % 04028 AVL---
+200405039 Luxembourg, Wallis    01151  01151                % 04028 AVL---
+200405032 Luxembourg, Gare Cen  01154  01154                % 04028 AVL---
+200304006 Howald, Moureschanz   01158  01158                % 04028 AVL---
+200304011 Howald, Ronneboesch   01159  01159                % 04028 AVL---
+200304007 Howald, Op der Stirz  01200  01200                % 04028 AVL---
+200303002 Hesperange, Cité Um   01203                       % 04028 AVL---
+*Z 04029 AVL---       003 015                               % 04029 AVL---
+*L 28       200304018 200303002  01253  01318               % 04029 AVL---
+*A BE 200304018 200303002 000034  01253  01318              % 04029 AVL---
+*R 2 200303002 200304018 200303002  01253  01318            % 04029 AVL---
+*G GER 200304018 200303002  01253  01318                    % 04029 AVL---
+*A VE 200304018 200303002 000034  01253  01318              % 04029 AVL---
+200304018 Howald, P&R Howald Q         01253                % 04029 AVL---
+200304012 Howald, P&R Howald Q  01255  01255                % 04029 AVL---
+200412021 Gasperich, Gerhard M  01256  01256                % 04029 AVL---
+200412025 Gasperich, Francopho  01258  01258                % 04029 AVL---
+200405046 Luxembourg, Gare Roc  01304  01304                % 04029 AVL---
+200405039 Luxembourg, Wallis    01306  01306                % 04029 AVL---
+200405032 Luxembourg, Gare Cen  01309  01309                % 04029 AVL---
+200304006 Howald, Moureschanz   01313  01313                % 04029 AVL---
+200304011 Howald, Ronneboesch   01314  01314                % 04029 AVL---
+200304007 Howald, Op der Stirz  01315  01315                % 04029 AVL---
+200303002 Hesperange, Cité Um   01318                       % 04029 AVL---
+*Z 04030 AVL---       004 015                               % 04030 AVL---
+*L 28       200304018 200303002  01408  01433               % 04030 AVL---
+*A BE 200304018 200303002 000034  01408  01433              % 04030 AVL---
+*R 2 200303002 200304018 200303002  01408  01433            % 04030 AVL---
+*G GER 200304018 200303002  01408  01433                    % 04030 AVL---
+*A VE 200304018 200303002 000034  01408  01433              % 04030 AVL---
+200304018 Howald, P&R Howald Q         01408                % 04030 AVL---
+200304012 Howald, P&R Howald Q  01410  01410                % 04030 AVL---
+200412021 Gasperich, Gerhard M  01411  01411                % 04030 AVL---
+200412025 Gasperich, Francopho  01413  01413                % 04030 AVL---
+200405046 Luxembourg, Gare Roc  01419  01419                % 04030 AVL---
+200405039 Luxembourg, Wallis    01421  01421                % 04030 AVL---
+200405032 Luxembourg, Gare Cen  01424  01424                % 04030 AVL---
+200304006 Howald, Moureschanz   01428  01428                % 04030 AVL---
+200304011 Howald, Ronneboesch   01429  01429                % 04030 AVL---
+200304007 Howald, Op der Stirz  01430  01430                % 04030 AVL---
+200303002 Hesperange, Cité Um   01433                       % 04030 AVL---
+*Z 04031 AVL---       001 010                               % 04031 AVL---
+*L 28       200304018 200303002  01535  01559               % 04031 AVL---
+*A BE 200304018 200303002 000034  01535  01559              % 04031 AVL---
+*R 2 200303002 200304018 200303002  01535  01559            % 04031 AVL---
+*G GER 200304018 200303002  01535  01559                    % 04031 AVL---
+*A VE 200304018 200303002 000034  01535  01559              % 04031 AVL---
+200304018 Howald, P&R Howald Q         01535                % 04031 AVL---
+200304012 Howald, P&R Howald Q  01537  01537                % 04031 AVL---
+200412021 Gasperich, Gerhard M  01538  01538                % 04031 AVL---
+200412025 Gasperich, Francopho  01539  01539                % 04031 AVL---
+200405046 Luxembourg, Gare Roc  01545  01545                % 04031 AVL---
+200405039 Luxembourg, Wallis    01547  01547                % 04031 AVL---
+200405032 Luxembourg, Gare Cen  01550  01550                % 04031 AVL---
+200304006 Howald, Moureschanz   01554  01554                % 04031 AVL---
+200304011 Howald, Ronneboesch   01555  01555                % 04031 AVL---
+200304007 Howald, Op der Stirz  01556  01556                % 04031 AVL---
+200303002 Hesperange, Cité Um   01559                       % 04031 AVL---
+*Z 04032 AVL---       002 010                               % 04032 AVL---
+*L 28       200304018 200303002  01605  01629               % 04032 AVL---
+*A BE 200304018 200303002 000034  01605  01629              % 04032 AVL---
+*R 2 200303002 200304018 200303002  01605  01629            % 04032 AVL---
+*G GER 200304018 200303002  01605  01629                    % 04032 AVL---
+*A VE 200304018 200303002 000034  01605  01629              % 04032 AVL---
+200304018 Howald, P&R Howald Q         01605                % 04032 AVL---
+200304012 Howald, P&R Howald Q  01607  01607                % 04032 AVL---
+200412021 Gasperich, Gerhard M  01608  01608                % 04032 AVL---
+200412025 Gasperich, Francopho  01609  01609                % 04032 AVL---
+200405046 Luxembourg, Gare Roc  01615  01615                % 04032 AVL---
+200405039 Luxembourg, Wallis    01617  01617                % 04032 AVL---
+200405032 Luxembourg, Gare Cen  01620  01620                % 04032 AVL---
+200304006 Howald, Moureschanz   01624  01624                % 04032 AVL---
+200304011 Howald, Ronneboesch   01625  01625                % 04032 AVL---
+200304007 Howald, Op der Stirz  01626  01626                % 04032 AVL---
+200303002 Hesperange, Cité Um   01629                       % 04032 AVL---
+*Z 04033 AVL---       001 010                               % 04033 AVL---
+*L 28       200304018 200303002  01645  01709               % 04033 AVL---
+*A BE 200304018 200303002 000034  01645  01709              % 04033 AVL---
+*R 2 200303002 200304018 200303002  01645  01709            % 04033 AVL---
+*G GER 200304018 200303002  01645  01709                    % 04033 AVL---
+*A VE 200304018 200303002 000034  01645  01709              % 04033 AVL---
+200304018 Howald, P&R Howald Q         01645                % 04033 AVL---
+200304012 Howald, P&R Howald Q  01647  01647                % 04033 AVL---
+200412021 Gasperich, Gerhard M  01648  01648                % 04033 AVL---
+200412025 Gasperich, Francopho  01649  01649                % 04033 AVL---
+200405046 Luxembourg, Gare Roc  01655  01655                % 04033 AVL---
+200405039 Luxembourg, Wallis    01657  01657                % 04033 AVL---
+200405032 Luxembourg, Gare Cen  01700  01700                % 04033 AVL---
+200304006 Howald, Moureschanz   01704  01704                % 04033 AVL---
+200304011 Howald, Ronneboesch   01705  01705                % 04033 AVL---
+200304007 Howald, Op der Stirz  01706  01706                % 04033 AVL---
+200303002 Hesperange, Cité Um   01709                       % 04033 AVL---
+*Z 04034 AVL---       002 010                               % 04034 AVL---
+*L 28       200304018 200303002  01715  01739               % 04034 AVL---
+*A BE 200304018 200303002 000034  01715  01739              % 04034 AVL---
+*R 2 200303002 200304018 200303002  01715  01739            % 04034 AVL---
+*G GER 200304018 200303002  01715  01739                    % 04034 AVL---
+*A VE 200304018 200303002 000034  01715  01739              % 04034 AVL---
+200304018 Howald, P&R Howald Q         01715                % 04034 AVL---
+200304012 Howald, P&R Howald Q  01717  01717                % 04034 AVL---
+200412021 Gasperich, Gerhard M  01718  01718                % 04034 AVL---
+200412025 Gasperich, Francopho  01719  01719                % 04034 AVL---
+200405046 Luxembourg, Gare Roc  01725  01725                % 04034 AVL---
+200405039 Luxembourg, Wallis    01727  01727                % 04034 AVL---
+200405032 Luxembourg, Gare Cen  01730  01730                % 04034 AVL---
+200304006 Howald, Moureschanz   01734  01734                % 04034 AVL---
+200304011 Howald, Ronneboesch   01735  01735                % 04034 AVL---
+200304007 Howald, Op der Stirz  01736  01736                % 04034 AVL---
+200303002 Hesperange, Cité Um   01739                       % 04034 AVL---
+*Z 04035 AVL---       001 010                               % 04035 AVL---
+*L 28       200304018 200303002  01755  01819               % 04035 AVL---
+*A BE 200304018 200303002 000034  01755  01819              % 04035 AVL---
+*R 2 200303002 200304018 200303002  01755  01819            % 04035 AVL---
+*G GER 200304018 200303002  01755  01819                    % 04035 AVL---
+*A VE 200304018 200303002 000034  01755  01819              % 04035 AVL---
+200304018 Howald, P&R Howald Q         01755                % 04035 AVL---
+200304012 Howald, P&R Howald Q  01757  01757                % 04035 AVL---
+200412021 Gasperich, Gerhard M  01758  01758                % 04035 AVL---
+200412025 Gasperich, Francopho  01759  01759                % 04035 AVL---
+200405046 Luxembourg, Gare Roc  01805  01805                % 04035 AVL---
+200405039 Luxembourg, Wallis    01807  01807                % 04035 AVL---
+200405032 Luxembourg, Gare Cen  01810  01810                % 04035 AVL---
+200304006 Howald, Moureschanz   01814  01814                % 04035 AVL---
+200304011 Howald, Ronneboesch   01815  01815                % 04035 AVL---
+200304007 Howald, Op der Stirz  01816  01816                % 04035 AVL---
+200303002 Hesperange, Cité Um   01819                       % 04035 AVL---
+*Z 04036 AVL---       001 015                               % 04036 AVL---
+*L 28       200304018 200303002  01823  01848               % 04036 AVL---
+*A BE 200304018 200303002 000034  01823  01848              % 04036 AVL---
+*R 2 200303002 200304018 200303002  01823  01848            % 04036 AVL---
+*G GER 200304018 200303002  01823  01848                    % 04036 AVL---
+*A VE 200304018 200303002 000034  01823  01848              % 04036 AVL---
+200304018 Howald, P&R Howald Q         01823                % 04036 AVL---
+200304012 Howald, P&R Howald Q  01825  01825                % 04036 AVL---
+200412021 Gasperich, Gerhard M  01826  01826                % 04036 AVL---
+200412025 Gasperich, Francopho  01828  01828                % 04036 AVL---
+200405046 Luxembourg, Gare Roc  01834  01834                % 04036 AVL---
+200405039 Luxembourg, Wallis    01836  01836                % 04036 AVL---
+200405032 Luxembourg, Gare Cen  01839  01839                % 04036 AVL---
+200304006 Howald, Moureschanz   01843  01843                % 04036 AVL---
+200304011 Howald, Ronneboesch   01844  01844                % 04036 AVL---
+200304007 Howald, Op der Stirz  01845  01845                % 04036 AVL---
+200303002 Hesperange, Cité Um   01848                       % 04036 AVL---
+*Z 04037 AVL---       001 030                               % 04037 AVL---
+*L 28       200304018 200303002  01908  01933               % 04037 AVL---
+*A BE 200304018 200303002 000034  01908  01933              % 04037 AVL---
+*R 2 200303002 200304018 200303002  01908  01933            % 04037 AVL---
+*G GER 200304018 200303002  01908  01933                    % 04037 AVL---
+*A VE 200304018 200303002 000034  01908  01933              % 04037 AVL---
+200304018 Howald, P&R Howald Q         01908                % 04037 AVL---
+200304012 Howald, P&R Howald Q  01910  01910                % 04037 AVL---
+200412021 Gasperich, Gerhard M  01911  01911                % 04037 AVL---
+200412025 Gasperich, Francopho  01913  01913                % 04037 AVL---
+200405046 Luxembourg, Gare Roc  01919  01919                % 04037 AVL---
+200405039 Luxembourg, Wallis    01921  01921                % 04037 AVL---
+200405032 Luxembourg, Gare Cen  01924  01924                % 04037 AVL---
+200304006 Howald, Moureschanz   01928  01928                % 04037 AVL---
+200304011 Howald, Ronneboesch   01929  01929                % 04037 AVL---
+200304007 Howald, Op der Stirz  01930  01930                % 04037 AVL---
+200303002 Hesperange, Cité Um   01933                       % 04037 AVL---
+*Z 04038 AVL---                                             % 04038 AVL---
+*L 28       200304018 200303002  00608  00633               % 04038 AVL---
+*A BE 200304018 200303002 000034  00608  00633              % 04038 AVL---
+*R 2 200303002 200304018 200303002  00608  00633            % 04038 AVL---
+*G GMB 200304018 200303002  00608  00633                    % 04038 AVL---
+*A VE 200304018 200303002 000034  00608  00633              % 04038 AVL---
+200304018 Howald, P&R Howald Q         00608                % 04038 AVL---
+200304012 Howald, P&R Howald Q  00610  00610                % 04038 AVL---
+200412021 Gasperich, Gerhard M  00611  00611                % 04038 AVL---
+200412025 Gasperich, Francopho  00613  00613                % 04038 AVL---
+200405046 Luxembourg, Gare Roc  00619  00619                % 04038 AVL---
+200405039 Luxembourg, Wallis    00621  00621                % 04038 AVL---
+200405032 Luxembourg, Gare Cen  00624  00624                % 04038 AVL---
+200304006 Howald, Moureschanz   00628  00628                % 04038 AVL---
+200304011 Howald, Ronneboesch   00629  00629                % 04038 AVL---
+200304007 Howald, Op der Stirz  00630  00630                % 04038 AVL---
+200303002 Hesperange, Cité Um   00633                       % 04038 AVL---
+*Z 04039 AVL---       001 040                               % 04039 AVL---
+*L 28       200304018 200303002  00645  00709               % 04039 AVL---
+*A BE 200304018 200303002 000034  00645  00709              % 04039 AVL---
+*R 2 200303002 200304018 200303002  00645  00709            % 04039 AVL---
+*G GMB 200304018 200303002  00645  00709                    % 04039 AVL---
+*A VE 200304018 200303002 000034  00645  00709              % 04039 AVL---
+200304018 Howald, P&R Howald Q         00645                % 04039 AVL---
+200304012 Howald, P&R Howald Q  00647  00647                % 04039 AVL---
+200412021 Gasperich, Gerhard M  00648  00648                % 04039 AVL---
+200412025 Gasperich, Francopho  00649  00649                % 04039 AVL---
+200405046 Luxembourg, Gare Roc  00655  00655                % 04039 AVL---
+200405039 Luxembourg, Wallis    00657  00657                % 04039 AVL---
+200405032 Luxembourg, Gare Cen  00700  00700                % 04039 AVL---
+200304006 Howald, Moureschanz   00704  00704                % 04039 AVL---
+200304011 Howald, Ronneboesch   00705  00705                % 04039 AVL---
+200304007 Howald, Op der Stirz  00706  00706                % 04039 AVL---
+200303002 Hesperange, Cité Um   00709                       % 04039 AVL---
+*Z 04040 AVL---                                             % 04040 AVL---
+*L 28       200304018 200303002  00755  00819               % 04040 AVL---
+*A BE 200304018 200303002 000034  00755  00819              % 04040 AVL---
+*R 2 200303002 200304018 200303002  00755  00819            % 04040 AVL---
+*G GMB 200304018 200303002  00755  00819                    % 04040 AVL---
+*A VE 200304018 200303002 000034  00755  00819              % 04040 AVL---
+200304018 Howald, P&R Howald Q         00755                % 04040 AVL---
+200304012 Howald, P&R Howald Q  00757  00757                % 04040 AVL---
+200412021 Gasperich, Gerhard M  00758  00758                % 04040 AVL---
+200412025 Gasperich, Francopho  00759  00759                % 04040 AVL---
+200405046 Luxembourg, Gare Roc  00805  00805                % 04040 AVL---
+200405039 Luxembourg, Wallis    00807  00807                % 04040 AVL---
+200405032 Luxembourg, Gare Cen  00810  00810                % 04040 AVL---
+200304006 Howald, Moureschanz   00814  00814                % 04040 AVL---
+200304011 Howald, Ronneboesch   00815  00815                % 04040 AVL---
+200304007 Howald, Op der Stirz  00816  00816                % 04040 AVL---
+200303002 Hesperange, Cité Um   00819                       % 04040 AVL---
+*Z 04041 AVL---       001 090                               % 04041 AVL---
+*L 28       200304018 200303002  00838  00903               % 04041 AVL---
+*A BE 200304018 200303002 000034  00838  00903              % 04041 AVL---
+*R 2 200303002 200304018 200303002  00838  00903            % 04041 AVL---
+*G GMB 200304018 200303002  00838  00903                    % 04041 AVL---
+*A VE 200304018 200303002 000034  00838  00903              % 04041 AVL---
+200304018 Howald, P&R Howald Q         00838                % 04041 AVL---
+200304012 Howald, P&R Howald Q  00840  00840                % 04041 AVL---
+200412021 Gasperich, Gerhard M  00841  00841                % 04041 AVL---
+200412025 Gasperich, Francopho  00843  00843                % 04041 AVL---
+200405046 Luxembourg, Gare Roc  00849  00849                % 04041 AVL---
+200405039 Luxembourg, Wallis    00851  00851                % 04041 AVL---
+200405032 Luxembourg, Gare Cen  00854  00854                % 04041 AVL---
+200304006 Howald, Moureschanz   00858  00858                % 04041 AVL---
+200304011 Howald, Ronneboesch   00859  00859                % 04041 AVL---
+200304007 Howald, Op der Stirz  00900  00900                % 04041 AVL---
+200303002 Hesperange, Cité Um   00903                       % 04041 AVL---
+*Z 04042 AVL---       002 075                               % 04042 AVL---
+*L 28       200304018 200303002  01123  01148               % 04042 AVL---
+*A BE 200304018 200303002 000034  01123  01148              % 04042 AVL---
+*R 2 200303002 200304018 200303002  01123  01148            % 04042 AVL---
+*G GMB 200304018 200303002  01123  01148                    % 04042 AVL---
+*A VE 200304018 200303002 000034  01123  01148              % 04042 AVL---
+200304018 Howald, P&R Howald Q         01123                % 04042 AVL---
+200304012 Howald, P&R Howald Q  01125  01125                % 04042 AVL---
+200412021 Gasperich, Gerhard M  01126  01126                % 04042 AVL---
+200412025 Gasperich, Francopho  01128  01128                % 04042 AVL---
+200405046 Luxembourg, Gare Roc  01134  01134                % 04042 AVL---
+200405039 Luxembourg, Wallis    01136  01136                % 04042 AVL---
+200405032 Luxembourg, Gare Cen  01139  01139                % 04042 AVL---
+200304006 Howald, Moureschanz   01143  01143                % 04042 AVL---
+200304011 Howald, Ronneboesch   01144  01144                % 04042 AVL---
+200304007 Howald, Op der Stirz  01145  01145                % 04042 AVL---
+200303002 Hesperange, Cité Um   01148                       % 04042 AVL---
+*Z 04043 AVL---                                             % 04043 AVL---
+*L 28       200304018 200303002  01523  01548               % 04043 AVL---
+*A BE 200304018 200303002 000034  01523  01548              % 04043 AVL---
+*R 2 200303002 200304018 200303002  01523  01548            % 04043 AVL---
+*G GMB 200304018 200303002  01523  01548                    % 04043 AVL---
+*A VE 200304018 200303002 000034  01523  01548              % 04043 AVL---
+200304018 Howald, P&R Howald Q         01523                % 04043 AVL---
+200304012 Howald, P&R Howald Q  01525  01525                % 04043 AVL---
+200412021 Gasperich, Gerhard M  01526  01526                % 04043 AVL---
+200412025 Gasperich, Francopho  01528  01528                % 04043 AVL---
+200405046 Luxembourg, Gare Roc  01534  01534                % 04043 AVL---
+200405039 Luxembourg, Wallis    01536  01536                % 04043 AVL---
+200405032 Luxembourg, Gare Cen  01539  01539                % 04043 AVL---
+200304006 Howald, Moureschanz   01543  01543                % 04043 AVL---
+200304011 Howald, Ronneboesch   01544  01544                % 04043 AVL---
+200304007 Howald, Op der Stirz  01545  01545                % 04043 AVL---
+200303002 Hesperange, Cité Um   01548                       % 04043 AVL---
+*Z 04044 AVL---       001 040                               % 04044 AVL---
+*L 28       200304018 200303002  01555  01619               % 04044 AVL---
+*A BE 200304018 200303002 000034  01555  01619              % 04044 AVL---
+*R 2 200303002 200304018 200303002  01555  01619            % 04044 AVL---
+*G GMB 200304018 200303002  01555  01619                    % 04044 AVL---
+*A VE 200304018 200303002 000034  01555  01619              % 04044 AVL---
+200304018 Howald, P&R Howald Q         01555                % 04044 AVL---
+200304012 Howald, P&R Howald Q  01557  01557                % 04044 AVL---
+200412021 Gasperich, Gerhard M  01558  01558                % 04044 AVL---
+200412025 Gasperich, Francopho  01559  01559                % 04044 AVL---
+200405046 Luxembourg, Gare Roc  01605  01605                % 04044 AVL---
+200405039 Luxembourg, Wallis    01607  01607                % 04044 AVL---
+200405032 Luxembourg, Gare Cen  01610  01610                % 04044 AVL---
+200304006 Howald, Moureschanz   01614  01614                % 04044 AVL---
+200304011 Howald, Ronneboesch   01615  01615                % 04044 AVL---
+200304007 Howald, Op der Stirz  01616  01616                % 04044 AVL---
+200303002 Hesperange, Cité Um   01619                       % 04044 AVL---
+*Z 04045 AVL---       001 040                               % 04045 AVL---
+*L 28       200304018 200303002  01705  01729               % 04045 AVL---
+*A BE 200304018 200303002 000034  01705  01729              % 04045 AVL---
+*R 2 200303002 200304018 200303002  01705  01729            % 04045 AVL---
+*G GMB 200304018 200303002  01705  01729                    % 04045 AVL---
+*A VE 200304018 200303002 000034  01705  01729              % 04045 AVL---
+200304018 Howald, P&R Howald Q         01705                % 04045 AVL---
+200304012 Howald, P&R Howald Q  01707  01707                % 04045 AVL---
+200412021 Gasperich, Gerhard M  01708  01708                % 04045 AVL---
+200412025 Gasperich, Francopho  01709  01709                % 04045 AVL---
+200405046 Luxembourg, Gare Roc  01715  01715                % 04045 AVL---
+200405039 Luxembourg, Wallis    01717  01717                % 04045 AVL---
+200405032 Luxembourg, Gare Cen  01720  01720                % 04045 AVL---
+200304006 Howald, Moureschanz   01724  01724                % 04045 AVL---
+200304011 Howald, Ronneboesch   01725  01725                % 04045 AVL---
+200304007 Howald, Op der Stirz  01726  01726                % 04045 AVL---
+200303002 Hesperange, Cité Um   01729                       % 04045 AVL---
+*Z 04046 AVL---                                             % 04046 AVL---
+*L 28       200304018 200303002  01815  01839               % 04046 AVL---
+*A BE 200304018 200303002 000034  01815  01839              % 04046 AVL---
+*R 2 200303002 200304018 200303002  01815  01839            % 04046 AVL---
+*G GMB 200304018 200303002  01815  01839                    % 04046 AVL---
+*A VE 200304018 200303002 000034  01815  01839              % 04046 AVL---
+200304018 Howald, P&R Howald Q         01815                % 04046 AVL---
+200304012 Howald, P&R Howald Q  01817  01817                % 04046 AVL---
+200412021 Gasperich, Gerhard M  01818  01818                % 04046 AVL---
+200412025 Gasperich, Francopho  01819  01819                % 04046 AVL---
+200405046 Luxembourg, Gare Roc  01825  01825                % 04046 AVL---
+200405039 Luxembourg, Wallis    01827  01827                % 04046 AVL---
+200405032 Luxembourg, Gare Cen  01830  01830                % 04046 AVL---
+200304006 Howald, Moureschanz   01834  01834                % 04046 AVL---
+200304011 Howald, Ronneboesch   01835  01835                % 04046 AVL---
+200304007 Howald, Op der Stirz  01836  01836                % 04046 AVL---
+200303002 Hesperange, Cité Um   01839                       % 04046 AVL---
+*Z 04047 AVL---       001 030                               % 04047 AVL---
+*L 28       200304018 200303002  01853  01918               % 04047 AVL---
+*A BE 200304018 200303002 000034  01853  01918              % 04047 AVL---
+*R 2 200303002 200304018 200303002  01853  01918            % 04047 AVL---
+*G GMB 200304018 200303002  01853  01918                    % 04047 AVL---
+*A VE 200304018 200303002 000034  01853  01918              % 04047 AVL---
+200304018 Howald, P&R Howald Q         01853                % 04047 AVL---
+200304012 Howald, P&R Howald Q  01855  01855                % 04047 AVL---
+200412021 Gasperich, Gerhard M  01856  01856                % 04047 AVL---
+200412025 Gasperich, Francopho  01858  01858                % 04047 AVL---
+200405046 Luxembourg, Gare Roc  01904  01904                % 04047 AVL---
+200405039 Luxembourg, Wallis    01906  01906                % 04047 AVL---
+200405032 Luxembourg, Gare Cen  01909  01909                % 04047 AVL---
+200304006 Howald, Moureschanz   01913  01913                % 04047 AVL---
+200304011 Howald, Ronneboesch   01914  01914                % 04047 AVL---
+200304007 Howald, Op der Stirz  01915  01915                % 04047 AVL---
+200303002 Hesperange, Cité Um   01918                       % 04047 AVL---
+*Z 04048 AVL---       026 015                               % 04048 AVL---
+*L 28       200304018 200303002  00756  00817               % 04048 AVL---
+*A BE 200304018 200303002 000017  00756  00817              % 04048 AVL---
+*R 2 200303002 200304018 200303002  00756  00817            % 04048 AVL---
+*G GMB 200304018 200303002  00756  00817                    % 04048 AVL---
+*A VE 200304018 200303002 000017  00756  00817              % 04048 AVL---
+200304018 Howald, P&R Howald Q         00756                % 04048 AVL---
+200304012 Howald, P&R Howald Q  00758  00758                % 04048 AVL---
+200412021 Gasperich, Gerhard M  00759  00759                % 04048 AVL---
+200412025 Gasperich, Francopho  00800  00800                % 04048 AVL---
+200405046 Luxembourg, Gare Roc  00805  00805                % 04048 AVL---
+200405039 Luxembourg, Wallis    00807  00807                % 04048 AVL---
+200405032 Luxembourg, Gare Cen  00809  00809                % 04048 AVL---
+200304006 Howald, Moureschanz   00813  00813                % 04048 AVL---
+200304011 Howald, Ronneboesch   00814  00814                % 04048 AVL---
+200304007 Howald, Op der Stirz  00815  00815                % 04048 AVL---
+200303002 Hesperange, Cité Um   00817                       % 04048 AVL---
+*Z 04049 AVL---       026 010                               % 04049 AVL---
+*L 28       200304018 200303002  01436  01457               % 04049 AVL---
+*A BE 200304018 200303002 000017  01436  01457              % 04049 AVL---
+*R 2 200303002 200304018 200303002  01436  01457            % 04049 AVL---
+*G GMB 200304018 200303002  01436  01457                    % 04049 AVL---
+*A VE 200304018 200303002 000017  01436  01457              % 04049 AVL---
+200304018 Howald, P&R Howald Q         01436                % 04049 AVL---
+200304012 Howald, P&R Howald Q  01438  01438                % 04049 AVL---
+200412021 Gasperich, Gerhard M  01439  01439                % 04049 AVL---
+200412025 Gasperich, Francopho  01440  01440                % 04049 AVL---
+200405046 Luxembourg, Gare Roc  01445  01445                % 04049 AVL---
+200405039 Luxembourg, Wallis    01447  01447                % 04049 AVL---
+200405032 Luxembourg, Gare Cen  01449  01449                % 04049 AVL---
+200304006 Howald, Moureschanz   01453  01453                % 04049 AVL---
+200304011 Howald, Ronneboesch   01454  01454                % 04049 AVL---
+200304007 Howald, Op der Stirz  01455  01455                % 04049 AVL---
+200303002 Hesperange, Cité Um   01457                       % 04049 AVL---
+*Z 04050 AVL---       002 015                               % 04050 AVL---
+*L 28       200304018 200303002  01911  01932               % 04050 AVL---
+*A BE 200304018 200303002 000017  01911  01932              % 04050 AVL---
+*R 2 200303002 200304018 200303002  01911  01932            % 04050 AVL---
+*G GMB 200304018 200303002  01911  01932                    % 04050 AVL---
+*A VE 200304018 200303002 000017  01911  01932              % 04050 AVL---
+200304018 Howald, P&R Howald Q         01911                % 04050 AVL---
+200304012 Howald, P&R Howald Q  01913  01913                % 04050 AVL---
+200412021 Gasperich, Gerhard M  01914  01914                % 04050 AVL---
+200412025 Gasperich, Francopho  01915  01915                % 04050 AVL---
+200405046 Luxembourg, Gare Roc  01920  01920                % 04050 AVL---
+200405039 Luxembourg, Wallis    01922  01922                % 04050 AVL---
+200405032 Luxembourg, Gare Cen  01924  01924                % 04050 AVL---
+200304006 Howald, Moureschanz   01928  01928                % 04050 AVL---
+200304011 Howald, Ronneboesch   01929  01929                % 04050 AVL---
+200304007 Howald, Op der Stirz  01930  01930                % 04050 AVL---
+200303002 Hesperange, Cité Um   01932                       % 04050 AVL---
+*Z 04051 AVL---       016 030                               % 04051 AVL---
+*L 28       200304018 200303002  01126  01147               % 04051 AVL---
+*A BE 200304018 200303002 000016  01126  01147              % 04051 AVL---
+*R 2 200303002 200304018 200303002  01126  01147            % 04051 AVL---
+*G GEH 200304018 200303002  01126  01147                    % 04051 AVL---
+*A VE 200304018 200303002 000016  01126  01147              % 04051 AVL---
+200304018 Howald, P&R Howald Q         01126                % 04051 AVL---
+200304012 Howald, P&R Howald Q  01128  01128                % 04051 AVL---
+200412021 Gasperich, Gerhard M  01129  01129                % 04051 AVL---
+200412025 Gasperich, Francopho  01130  01130                % 04051 AVL---
+200405046 Luxembourg, Gare Roc  01135  01135                % 04051 AVL---
+200405039 Luxembourg, Wallis    01137  01137                % 04051 AVL---
+200405032 Luxembourg, Gare Cen  01139  01139                % 04051 AVL---
+200304006 Howald, Moureschanz   01143  01143                % 04051 AVL---
+200304011 Howald, Ronneboesch   01144  01144                % 04051 AVL---
+200304007 Howald, Op der Stirz  01145  01145                % 04051 AVL---
+200303002 Hesperange, Cité Um   01147                       % 04051 AVL---
+*Z 04052 AVL---       003 030                               % 04052 AVL---
+*L 28       200303002 200304018  00602  00621               % 04052 AVL---
+*A BE 200303002 200304018 000025  00602  00621              % 04052 AVL---
+*R 1 200304018 200303002 200304018  00602  00621            % 04052 AVL---
+*G GMB 200303002 200304018  00602  00621                    % 04052 AVL---
+*A VE 200303002 200304018 000025  00602  00621              % 04052 AVL---
+200303002 Hesperange, Cité Um          00602                % 04052 AVL---
+200304007 Howald, Op der Stirz  00603  00603                % 04052 AVL---
+200304011 Howald, Ronneboesch   00604  00604                % 04052 AVL---
+200304006 Howald, Moureschanz   00605  00605                % 04052 AVL---
+200405036 Luxembourg, Gare Cen  00610  00610                % 04052 AVL---
+200405039 Luxembourg, Wallis    00612  00612                % 04052 AVL---
+200405046 Luxembourg, Gare Roc  00613  00613                % 04052 AVL---
+200412025 Gasperich, Francopho  00617  00617                % 04052 AVL---
+200412021 Gasperich, Gerhard M  00619  00619                % 04052 AVL---
+200304017 Howald, P&R Howald Q  00620  00620                % 04052 AVL---
+200304018 Howald, P&R Howald Q  00621                       % 04052 AVL---
+*Z 04053 AVL---                                             % 04053 AVL---
+*L 28       200303002 200304018  02002  02021               % 04053 AVL---
+*A BE 200303002 200304018 000025  02002  02021              % 04053 AVL---
+*R 1 200304018 200303002 200304018  02002  02021            % 04053 AVL---
+*G GMB 200303002 200304018  02002  02021                    % 04053 AVL---
+*A VE 200303002 200304018 000025  02002  02021              % 04053 AVL---
+200303002 Hesperange, Cité Um          02002                % 04053 AVL---
+200304007 Howald, Op der Stirz  02003  02003                % 04053 AVL---
+200304011 Howald, Ronneboesch   02004  02004                % 04053 AVL---
+200304006 Howald, Moureschanz   02005  02005                % 04053 AVL---
+200405036 Luxembourg, Gare Cen  02010  02010                % 04053 AVL---
+200405039 Luxembourg, Wallis    02012  02012                % 04053 AVL---
+200405046 Luxembourg, Gare Roc  02013  02013                % 04053 AVL---
+200412025 Gasperich, Francopho  02017  02017                % 04053 AVL---
+200412021 Gasperich, Gerhard M  02019  02019                % 04053 AVL---
+200304017 Howald, P&R Howald Q  02020  02020                % 04053 AVL---
+200304018 Howald, P&R Howald Q  02021                       % 04053 AVL---
+*Z 04054 AVL---       006 030                               % 04054 AVL---
+*L 28       200303002 200304018  02032  02051               % 04054 AVL---
+*A BE 200303002 200304018 000036  02032  02051              % 04054 AVL---
+*R 1 200304018 200303002 200304018  02032  02051            % 04054 AVL---
+*G GMB 200303002 200304018  02032  02051                    % 04054 AVL---
+*A VE 200303002 200304018 000036  02032  02051              % 04054 AVL---
+200303002 Hesperange, Cité Um          02032                % 04054 AVL---
+200304007 Howald, Op der Stirz  02033  02033                % 04054 AVL---
+200304011 Howald, Ronneboesch   02034  02034                % 04054 AVL---
+200304006 Howald, Moureschanz   02035  02035                % 04054 AVL---
+200405036 Luxembourg, Gare Cen  02040  02040                % 04054 AVL---
+200405039 Luxembourg, Wallis    02042  02042                % 04054 AVL---
+200405046 Luxembourg, Gare Roc  02043  02043                % 04054 AVL---
+200412025 Gasperich, Francopho  02047  02047                % 04054 AVL---
+200412021 Gasperich, Gerhard M  02049  02049                % 04054 AVL---
+200304017 Howald, P&R Howald Q  02050  02050                % 04054 AVL---
+200304018 Howald, P&R Howald Q  02051                       % 04054 AVL---
+*Z 04055 AVL---       002 015                               % 04055 AVL---
+*L 28       200303002 200304018  00532  00551               % 04055 AVL---
+*A BE 200303002 200304018 000033  00532  00551              % 04055 AVL---
+*R 1 200304018 200303002 200304018  00532  00551            % 04055 AVL---
+*G GER 200303002 200304018  00532  00551                    % 04055 AVL---
+*A VE 200303002 200304018 000033  00532  00551              % 04055 AVL---
+200303002 Hesperange, Cité Um          00532                % 04055 AVL---
+200304007 Howald, Op der Stirz  00533  00533                % 04055 AVL---
+200304011 Howald, Ronneboesch   00534  00534                % 04055 AVL---
+200304006 Howald, Moureschanz   00535  00535                % 04055 AVL---
+200405036 Luxembourg, Gare Cen  00540  00540                % 04055 AVL---
+200405039 Luxembourg, Wallis    00542  00542                % 04055 AVL---
+200405046 Luxembourg, Gare Roc  00543  00543                % 04055 AVL---
+200412025 Gasperich, Francopho  00547  00547                % 04055 AVL---
+200412021 Gasperich, Gerhard M  00549  00549                % 04055 AVL---
+200304017 Howald, P&R Howald Q  00550  00550                % 04055 AVL---
+200304018 Howald, P&R Howald Q  00551                       % 04055 AVL---
+*Z 04056 AVL---                                             % 04056 AVL---
+*L 28       200303002 200304018  02012  02031               % 04056 AVL---
+*A BE 200303002 200304018 000033  02012  02031              % 04056 AVL---
+*R 1 200304018 200303002 200304018  02012  02031            % 04056 AVL---
+*G GER 200303002 200304018  02012  02031                    % 04056 AVL---
+*A VE 200303002 200304018 000033  02012  02031              % 04056 AVL---
+200303002 Hesperange, Cité Um          02012                % 04056 AVL---
+200304007 Howald, Op der Stirz  02013  02013                % 04056 AVL---
+200304011 Howald, Ronneboesch   02014  02014                % 04056 AVL---
+200304006 Howald, Moureschanz   02015  02015                % 04056 AVL---
+200405036 Luxembourg, Gare Cen  02020  02020                % 04056 AVL---
+200405039 Luxembourg, Wallis    02022  02022                % 04056 AVL---
+200405046 Luxembourg, Gare Roc  02023  02023                % 04056 AVL---
+200412025 Gasperich, Francopho  02027  02027                % 04056 AVL---
+200412021 Gasperich, Gerhard M  02029  02029                % 04056 AVL---
+200304017 Howald, P&R Howald Q  02030  02030                % 04056 AVL---
+200304018 Howald, P&R Howald Q  02031                       % 04056 AVL---
+*Z 04057 AVL---                                             % 04057 AVL---
+*L 28       200303002 200304018  01955  02014               % 04057 AVL---
+*A BE 200303002 200304018 000033  01955  02014              % 04057 AVL---
+*R 1 200304018 200303002 200304018  01955  02014            % 04057 AVL---
+*G GMB 200303002 200304018  01955  02014                    % 04057 AVL---
+*A VE 200303002 200304018 000033  01955  02014              % 04057 AVL---
+200303002 Hesperange, Cité Um          01955                % 04057 AVL---
+200304007 Howald, Op der Stirz  01956  01956                % 04057 AVL---
+200304011 Howald, Ronneboesch   01957  01957                % 04057 AVL---
+200304006 Howald, Moureschanz   01958  01958                % 04057 AVL---
+200405036 Luxembourg, Gare Cen  02003  02003                % 04057 AVL---
+200405039 Luxembourg, Wallis    02005  02005                % 04057 AVL---
+200405046 Luxembourg, Gare Roc  02006  02006                % 04057 AVL---
+200412025 Gasperich, Francopho  02010  02010                % 04057 AVL---
+200412021 Gasperich, Gerhard M  02012  02012                % 04057 AVL---
+200304017 Howald, P&R Howald Q  02013  02013                % 04057 AVL---
+200304018 Howald, P&R Howald Q  02014                       % 04057 AVL---
+*Z 04058 AVL---       010 030                               % 04058 AVL---
+*L 28       200303002 200304018  00602  00621               % 04058 AVL---
+*A BE 200303002 200304018 000018  00602  00621              % 04058 AVL---
+*R 1 200304018 200303002 200304018  00602  00621            % 04058 AVL---
+*G GEH 200303002 200304018  00602  00621                    % 04058 AVL---
+*A VE 200303002 200304018 000018  00602  00621              % 04058 AVL---
+200303002 Hesperange, Cité Um          00602                % 04058 AVL---
+200304007 Howald, Op der Stirz  00603  00603                % 04058 AVL---
+200304011 Howald, Ronneboesch   00604  00604                % 04058 AVL---
+200304006 Howald, Moureschanz   00605  00605                % 04058 AVL---
+200405036 Luxembourg, Gare Cen  00610  00610                % 04058 AVL---
+200405039 Luxembourg, Wallis    00612  00612                % 04058 AVL---
+200405046 Luxembourg, Gare Roc  00613  00613                % 04058 AVL---
+200412025 Gasperich, Francopho  00617  00617                % 04058 AVL---
+200412021 Gasperich, Gerhard M  00619  00619                % 04058 AVL---
+200304017 Howald, P&R Howald Q  00620  00620                % 04058 AVL---
+200304018 Howald, P&R Howald Q  00621                       % 04058 AVL---
+*Z 04059 AVL---       007 030                               % 04059 AVL---
+*L 28       200303002 200304018  02002  02021               % 04059 AVL---
+*A BE 200303002 200304018 000018  02002  02021              % 04059 AVL---
+*R 1 200304018 200303002 200304018  02002  02021            % 04059 AVL---
+*G GEH 200303002 200304018  02002  02021                    % 04059 AVL---
+*A VE 200303002 200304018 000018  02002  02021              % 04059 AVL---
+200303002 Hesperange, Cité Um          02002                % 04059 AVL---
+200304007 Howald, Op der Stirz  02003  02003                % 04059 AVL---
+200304011 Howald, Ronneboesch   02004  02004                % 04059 AVL---
+200304006 Howald, Moureschanz   02005  02005                % 04059 AVL---
+200405036 Luxembourg, Gare Cen  02010  02010                % 04059 AVL---
+200405039 Luxembourg, Wallis    02012  02012                % 04059 AVL---
+200405046 Luxembourg, Gare Roc  02013  02013                % 04059 AVL---
+200412025 Gasperich, Francopho  02017  02017                % 04059 AVL---
+200412021 Gasperich, Gerhard M  02019  02019                % 04059 AVL---
+200304017 Howald, P&R Howald Q  02020  02020                % 04059 AVL---
+200304018 Howald, P&R Howald Q  02021                       % 04059 AVL---
+*Z 04060 AVL---       024 015                               % 04060 AVL---
+*L 28       200303002 200304018  00756  00816               % 04060 AVL---
+*A BE 200303002 200304018 000025  00756  00816              % 04060 AVL---
+*R 1 200304018 200303002 200304018  00756  00816            % 04060 AVL---
+*G GMB 200303002 200304018  00756  00816                    % 04060 AVL---
+*A VE 200303002 200304018 000025  00756  00816              % 04060 AVL---
+200303002 Hesperange, Cité Um          00756                % 04060 AVL---
+200304007 Howald, Op der Stirz  00757  00757                % 04060 AVL---
+200304011 Howald, Ronneboesch   00758  00758                % 04060 AVL---
+200304006 Howald, Moureschanz   00759  00759                % 04060 AVL---
+200405036 Luxembourg, Gare Cen  00804  00804                % 04060 AVL---
+200405039 Luxembourg, Wallis    00806  00806                % 04060 AVL---
+200405046 Luxembourg, Gare Roc  00808  00808                % 04060 AVL---
+200412025 Gasperich, Francopho  00812  00812                % 04060 AVL---
+200412021 Gasperich, Gerhard M  00813  00813                % 04060 AVL---
+200304017 Howald, P&R Howald Q  00814  00814                % 04060 AVL---
+200304018 Howald, P&R Howald Q  00816                       % 04060 AVL---
+*Z 04061 AVL---       026 010                               % 04061 AVL---
+*L 28       200303002 200304018  01408  01428               % 04061 AVL---
+*A BE 200303002 200304018 000025  01408  01428              % 04061 AVL---
+*R 1 200304018 200303002 200304018  01408  01428            % 04061 AVL---
+*G GMB 200303002 200304018  01408  01428                    % 04061 AVL---
+*A VE 200303002 200304018 000025  01408  01428              % 04061 AVL---
+200303002 Hesperange, Cité Um          01408                % 04061 AVL---
+200304007 Howald, Op der Stirz  01409  01409                % 04061 AVL---
+200304011 Howald, Ronneboesch   01410  01410                % 04061 AVL---
+200304006 Howald, Moureschanz   01411  01411                % 04061 AVL---
+200405036 Luxembourg, Gare Cen  01416  01416                % 04061 AVL---
+200405039 Luxembourg, Wallis    01418  01418                % 04061 AVL---
+200405046 Luxembourg, Gare Roc  01420  01420                % 04061 AVL---
+200412025 Gasperich, Francopho  01424  01424                % 04061 AVL---
+200412021 Gasperich, Gerhard M  01425  01425                % 04061 AVL---
+200304017 Howald, P&R Howald Q  01426  01426                % 04061 AVL---
+200304018 Howald, P&R Howald Q  01428                       % 04061 AVL---
+*Z 04062 AVL---       004 015                               % 04062 AVL---
+*L 28       200303002 200304018  01841  01901               % 04062 AVL---
+*A BE 200303002 200304018 000025  01841  01901              % 04062 AVL---
+*R 1 200304018 200303002 200304018  01841  01901            % 04062 AVL---
+*G GMB 200303002 200304018  01841  01901                    % 04062 AVL---
+*A VE 200303002 200304018 000025  01841  01901              % 04062 AVL---
+200303002 Hesperange, Cité Um          01841                % 04062 AVL---
+200304007 Howald, Op der Stirz  01842  01842                % 04062 AVL---
+200304011 Howald, Ronneboesch   01843  01843                % 04062 AVL---
+200304006 Howald, Moureschanz   01844  01844                % 04062 AVL---
+200405036 Luxembourg, Gare Cen  01849  01849                % 04062 AVL---
+200405039 Luxembourg, Wallis    01851  01851                % 04062 AVL---
+200405046 Luxembourg, Gare Roc  01853  01853                % 04062 AVL---
+200412025 Gasperich, Francopho  01857  01857                % 04062 AVL---
+200412021 Gasperich, Gerhard M  01858  01858                % 04062 AVL---
+200304017 Howald, P&R Howald Q  01859  01859                % 04062 AVL---
+200304018 Howald, P&R Howald Q  01901                       % 04062 AVL---
+*Z 04063 AVL---       016 030                               % 04063 AVL---
+*L 28       200303002 200304018  01132  01152               % 04063 AVL---
+*A BE 200303002 200304018 000018  01132  01152              % 04063 AVL---
+*R 1 200304018 200303002 200304018  01132  01152            % 04063 AVL---
+*G GEH 200303002 200304018  01132  01152                    % 04063 AVL---
+*A VE 200303002 200304018 000018  01132  01152              % 04063 AVL---
+200303002 Hesperange, Cité Um          01132                % 04063 AVL---
+200304007 Howald, Op der Stirz  01133  01133                % 04063 AVL---
+200304011 Howald, Ronneboesch   01134  01134                % 04063 AVL---
+200304006 Howald, Moureschanz   01135  01135                % 04063 AVL---
+200405036 Luxembourg, Gare Cen  01140  01140                % 04063 AVL---
+200405039 Luxembourg, Wallis    01142  01142                % 04063 AVL---
+200405046 Luxembourg, Gare Roc  01144  01144                % 04063 AVL---
+200412025 Gasperich, Francopho  01148  01148                % 04063 AVL---
+200412021 Gasperich, Gerhard M  01149  01149                % 04063 AVL---
+200304017 Howald, P&R Howald Q  01150  01150                % 04063 AVL---
+200304018 Howald, P&R Howald Q  01152                       % 04063 AVL---
+*Z 04064 AVL---       002 010                               % 04064 AVL---
+*L 28       200303002 200304018  00620  00645               % 04064 AVL---
+*A BE 200303002 200304018 000033  00620  00645              % 04064 AVL---
+*R 1 200304018 200303002 200304018  00620  00645            % 04064 AVL---
+*G GER 200303002 200304018  00620  00645                    % 04064 AVL---
+*A VE 200303002 200304018 000033  00620  00645              % 04064 AVL---
+200303002 Hesperange, Cité Um          00620                % 04064 AVL---
+200304007 Howald, Op der Stirz  00621  00621                % 04064 AVL---
+200304011 Howald, Ronneboesch   00622  00622                % 04064 AVL---
+200304006 Howald, Moureschanz   00624  00624                % 04064 AVL---
+200405036 Luxembourg, Gare Cen  00630  00630                % 04064 AVL---
+200405039 Luxembourg, Wallis    00634  00634                % 04064 AVL---
+200405046 Luxembourg, Gare Roc  00636  00636                % 04064 AVL---
+200412025 Gasperich, Francopho  00640  00640                % 04064 AVL---
+200412021 Gasperich, Gerhard M  00643  00643                % 04064 AVL---
+200304017 Howald, P&R Howald Q  00644  00644                % 04064 AVL---
+200304018 Howald, P&R Howald Q  00645                       % 04064 AVL---
+*Z 04065 AVL---       001 010                               % 04065 AVL---
+*L 28       200303002 200304018  00700  00725               % 04065 AVL---
+*A BE 200303002 200304018 000033  00700  00725              % 04065 AVL---
+*R 1 200304018 200303002 200304018  00700  00725            % 04065 AVL---
+*G GER 200303002 200304018  00700  00725                    % 04065 AVL---
+*A VE 200303002 200304018 000033  00700  00725              % 04065 AVL---
+200303002 Hesperange, Cité Um          00700                % 04065 AVL---
+200304007 Howald, Op der Stirz  00701  00701                % 04065 AVL---
+200304011 Howald, Ronneboesch   00702  00702                % 04065 AVL---
+200304006 Howald, Moureschanz   00704  00704                % 04065 AVL---
+200405036 Luxembourg, Gare Cen  00710  00710                % 04065 AVL---
+200405039 Luxembourg, Wallis    00714  00714                % 04065 AVL---
+200405046 Luxembourg, Gare Roc  00716  00716                % 04065 AVL---
+200412025 Gasperich, Francopho  00720  00720                % 04065 AVL---
+200412021 Gasperich, Gerhard M  00723  00723                % 04065 AVL---
+200304017 Howald, P&R Howald Q  00724  00724                % 04065 AVL---
+200304018 Howald, P&R Howald Q  00725                       % 04065 AVL---
+*Z 04066 AVL---       002 010                               % 04066 AVL---
+*L 28       200303002 200304018  00730  00755               % 04066 AVL---
+*A BE 200303002 200304018 000033  00730  00755              % 04066 AVL---
+*R 1 200304018 200303002 200304018  00730  00755            % 04066 AVL---
+*G GER 200303002 200304018  00730  00755                    % 04066 AVL---
+*A VE 200303002 200304018 000033  00730  00755              % 04066 AVL---
+200303002 Hesperange, Cité Um          00730                % 04066 AVL---
+200304007 Howald, Op der Stirz  00731  00731                % 04066 AVL---
+200304011 Howald, Ronneboesch   00732  00732                % 04066 AVL---
+200304006 Howald, Moureschanz   00734  00734                % 04066 AVL---
+200405036 Luxembourg, Gare Cen  00740  00740                % 04066 AVL---
+200405039 Luxembourg, Wallis    00744  00744                % 04066 AVL---
+200405046 Luxembourg, Gare Roc  00746  00746                % 04066 AVL---
+200412025 Gasperich, Francopho  00750  00750                % 04066 AVL---
+200412021 Gasperich, Gerhard M  00753  00753                % 04066 AVL---
+200304017 Howald, P&R Howald Q  00754  00754                % 04066 AVL---
+200304018 Howald, P&R Howald Q  00755                       % 04066 AVL---
+*Z 04067 AVL---       001 010                               % 04067 AVL---
+*L 28       200303002 200304018  00810  00835               % 04067 AVL---
+*A BE 200303002 200304018 000033  00810  00835              % 04067 AVL---
+*R 1 200304018 200303002 200304018  00810  00835            % 04067 AVL---
+*G GER 200303002 200304018  00810  00835                    % 04067 AVL---
+*A VE 200303002 200304018 000033  00810  00835              % 04067 AVL---
+200303002 Hesperange, Cité Um          00810                % 04067 AVL---
+200304007 Howald, Op der Stirz  00811  00811                % 04067 AVL---
+200304011 Howald, Ronneboesch   00812  00812                % 04067 AVL---
+200304006 Howald, Moureschanz   00814  00814                % 04067 AVL---
+200405036 Luxembourg, Gare Cen  00820  00820                % 04067 AVL---
+200405039 Luxembourg, Wallis    00824  00824                % 04067 AVL---
+200405046 Luxembourg, Gare Roc  00826  00826                % 04067 AVL---
+200412025 Gasperich, Francopho  00830  00830                % 04067 AVL---
+200412021 Gasperich, Gerhard M  00833  00833                % 04067 AVL---
+200304017 Howald, P&R Howald Q  00834  00834                % 04067 AVL---
+200304018 Howald, P&R Howald Q  00835                       % 04067 AVL---
+*Z 04068 AVL---                                             % 04068 AVL---
+*L 28       200303002 200304018  00840  00905               % 04068 AVL---
+*A BE 200303002 200304018 000033  00840  00905              % 04068 AVL---
+*R 1 200304018 200303002 200304018  00840  00905            % 04068 AVL---
+*G GER 200303002 200304018  00840  00905                    % 04068 AVL---
+*A VE 200303002 200304018 000033  00840  00905              % 04068 AVL---
+200303002 Hesperange, Cité Um          00840                % 04068 AVL---
+200304007 Howald, Op der Stirz  00841  00841                % 04068 AVL---
+200304011 Howald, Ronneboesch   00842  00842                % 04068 AVL---
+200304006 Howald, Moureschanz   00844  00844                % 04068 AVL---
+200405036 Luxembourg, Gare Cen  00850  00850                % 04068 AVL---
+200405039 Luxembourg, Wallis    00854  00854                % 04068 AVL---
+200405046 Luxembourg, Gare Roc  00856  00856                % 04068 AVL---
+200412025 Gasperich, Francopho  00900  00900                % 04068 AVL---
+200412021 Gasperich, Gerhard M  00903  00903                % 04068 AVL---
+200304017 Howald, P&R Howald Q  00904  00904                % 04068 AVL---
+200304018 Howald, P&R Howald Q  00905                       % 04068 AVL---
+*Z 04069 AVL---       001 015                               % 04069 AVL---
+*L 28       200303002 200304018  00852  00918               % 04069 AVL---
+*A BE 200303002 200304018 000033  00852  00918              % 04069 AVL---
+*R 1 200304018 200303002 200304018  00852  00918            % 04069 AVL---
+*G GER 200303002 200304018  00852  00918                    % 04069 AVL---
+*A VE 200303002 200304018 000033  00852  00918              % 04069 AVL---
+200303002 Hesperange, Cité Um          00852                % 04069 AVL---
+200304007 Howald, Op der Stirz  00854  00854                % 04069 AVL---
+200304011 Howald, Ronneboesch   00855  00855                % 04069 AVL---
+200304006 Howald, Moureschanz   00856  00856                % 04069 AVL---
+200405036 Luxembourg, Gare Cen  00903  00903                % 04069 AVL---
+200405039 Luxembourg, Wallis    00906  00906                % 04069 AVL---
+200405046 Luxembourg, Gare Roc  00908  00908                % 04069 AVL---
+200412025 Gasperich, Francopho  00913  00913                % 04069 AVL---
+200412021 Gasperich, Gerhard M  00915  00915                % 04069 AVL---
+200304017 Howald, P&R Howald Q  00916  00916                % 04069 AVL---
+200304018 Howald, P&R Howald Q  00918                       % 04069 AVL---
+*Z 04070 AVL---       004 015                               % 04070 AVL---
+*L 28       200303002 200304018  00937  01003               % 04070 AVL---
+*A BE 200303002 200304018 000033  00937  01003              % 04070 AVL---
+*R 1 200304018 200303002 200304018  00937  01003            % 04070 AVL---
+*G GER 200303002 200304018  00937  01003                    % 04070 AVL---
+*A VE 200303002 200304018 000033  00937  01003              % 04070 AVL---
+200303002 Hesperange, Cité Um          00937                % 04070 AVL---
+200304007 Howald, Op der Stirz  00939  00939                % 04070 AVL---
+200304011 Howald, Ronneboesch   00940  00940                % 04070 AVL---
+200304006 Howald, Moureschanz   00941  00941                % 04070 AVL---
+200405036 Luxembourg, Gare Cen  00948  00948                % 04070 AVL---
+200405039 Luxembourg, Wallis    00951  00951                % 04070 AVL---
+200405046 Luxembourg, Gare Roc  00953  00953                % 04070 AVL---
+200412025 Gasperich, Francopho  00958  00958                % 04070 AVL---
+200412021 Gasperich, Gerhard M  01000  01000                % 04070 AVL---
+200304017 Howald, P&R Howald Q  01001  01001                % 04070 AVL---
+200304018 Howald, P&R Howald Q  01003                       % 04070 AVL---
+*Z 04071 AVL---       003 015                               % 04071 AVL---
+*L 28       200303002 200304018  01107  01133               % 04071 AVL---
+*A BE 200303002 200304018 000033  01107  01133              % 04071 AVL---
+*R 1 200304018 200303002 200304018  01107  01133            % 04071 AVL---
+*G GER 200303002 200304018  01107  01133                    % 04071 AVL---
+*A VE 200303002 200304018 000033  01107  01133              % 04071 AVL---
+200303002 Hesperange, Cité Um          01107                % 04071 AVL---
+200304007 Howald, Op der Stirz  01109  01109                % 04071 AVL---
+200304011 Howald, Ronneboesch   01110  01110                % 04071 AVL---
+200304006 Howald, Moureschanz   01111  01111                % 04071 AVL---
+200405036 Luxembourg, Gare Cen  01118  01118                % 04071 AVL---
+200405039 Luxembourg, Wallis    01121  01121                % 04071 AVL---
+200405046 Luxembourg, Gare Roc  01123  01123                % 04071 AVL---
+200412025 Gasperich, Francopho  01128  01128                % 04071 AVL---
+200412021 Gasperich, Gerhard M  01130  01130                % 04071 AVL---
+200304017 Howald, P&R Howald Q  01131  01131                % 04071 AVL---
+200304018 Howald, P&R Howald Q  01133                       % 04071 AVL---
+*Z 04072 AVL---       003 015                               % 04072 AVL---
+*L 28       200303002 200304018  01222  01248               % 04072 AVL---
+*A BE 200303002 200304018 000033  01222  01248              % 04072 AVL---
+*R 1 200304018 200303002 200304018  01222  01248            % 04072 AVL---
+*G GER 200303002 200304018  01222  01248                    % 04072 AVL---
+*A VE 200303002 200304018 000033  01222  01248              % 04072 AVL---
+200303002 Hesperange, Cité Um          01222                % 04072 AVL---
+200304007 Howald, Op der Stirz  01224  01224                % 04072 AVL---
+200304011 Howald, Ronneboesch   01225  01225                % 04072 AVL---
+200304006 Howald, Moureschanz   01226  01226                % 04072 AVL---
+200405036 Luxembourg, Gare Cen  01233  01233                % 04072 AVL---
+200405039 Luxembourg, Wallis    01236  01236                % 04072 AVL---
+200405046 Luxembourg, Gare Roc  01238  01238                % 04072 AVL---
+200412025 Gasperich, Francopho  01243  01243                % 04072 AVL---
+200412021 Gasperich, Gerhard M  01245  01245                % 04072 AVL---
+200304017 Howald, P&R Howald Q  01246  01246                % 04072 AVL---
+200304018 Howald, P&R Howald Q  01248                       % 04072 AVL---
+*Z 04073 AVL---       003 015                               % 04073 AVL---
+*L 28       200303002 200304018  01337  01403               % 04073 AVL---
+*A BE 200303002 200304018 000033  01337  01403              % 04073 AVL---
+*R 1 200304018 200303002 200304018  01337  01403            % 04073 AVL---
+*G GER 200303002 200304018  01337  01403                    % 04073 AVL---
+*A VE 200303002 200304018 000033  01337  01403              % 04073 AVL---
+200303002 Hesperange, Cité Um          01337                % 04073 AVL---
+200304007 Howald, Op der Stirz  01339  01339                % 04073 AVL---
+200304011 Howald, Ronneboesch   01340  01340                % 04073 AVL---
+200304006 Howald, Moureschanz   01341  01341                % 04073 AVL---
+200405036 Luxembourg, Gare Cen  01348  01348                % 04073 AVL---
+200405039 Luxembourg, Wallis    01351  01351                % 04073 AVL---
+200405046 Luxembourg, Gare Roc  01353  01353                % 04073 AVL---
+200412025 Gasperich, Francopho  01358  01358                % 04073 AVL---
+200412021 Gasperich, Gerhard M  01400  01400                % 04073 AVL---
+200304017 Howald, P&R Howald Q  01401  01401                % 04073 AVL---
+200304018 Howald, P&R Howald Q  01403                       % 04073 AVL---
+*Z 04074 AVL---       003 015                               % 04074 AVL---
+*L 28       200303002 200304018  01452  01518               % 04074 AVL---
+*A BE 200303002 200304018 000033  01452  01518              % 04074 AVL---
+*R 1 200304018 200303002 200304018  01452  01518            % 04074 AVL---
+*G GER 200303002 200304018  01452  01518                    % 04074 AVL---
+*A VE 200303002 200304018 000033  01452  01518              % 04074 AVL---
+200303002 Hesperange, Cité Um          01452                % 04074 AVL---
+200304007 Howald, Op der Stirz  01454  01454                % 04074 AVL---
+200304011 Howald, Ronneboesch   01455  01455                % 04074 AVL---
+200304006 Howald, Moureschanz   01456  01456                % 04074 AVL---
+200405036 Luxembourg, Gare Cen  01503  01503                % 04074 AVL---
+200405039 Luxembourg, Wallis    01506  01506                % 04074 AVL---
+200405046 Luxembourg, Gare Roc  01508  01508                % 04074 AVL---
+200412025 Gasperich, Francopho  01513  01513                % 04074 AVL---
+200412021 Gasperich, Gerhard M  01515  01515                % 04074 AVL---
+200304017 Howald, P&R Howald Q  01516  01516                % 04074 AVL---
+200304018 Howald, P&R Howald Q  01518                       % 04074 AVL---
+*Z 04075 AVL---       001 020                               % 04075 AVL---
+*L 28       200303002 200304018  01550  01615               % 04075 AVL---
+*A BE 200303002 200304018 000033  01550  01615              % 04075 AVL---
+*R 1 200304018 200303002 200304018  01550  01615            % 04075 AVL---
+*G GER 200303002 200304018  01550  01615                    % 04075 AVL---
+*A VE 200303002 200304018 000033  01550  01615              % 04075 AVL---
+200303002 Hesperange, Cité Um          01550                % 04075 AVL---
+200304007 Howald, Op der Stirz  01551  01551                % 04075 AVL---
+200304011 Howald, Ronneboesch   01552  01552                % 04075 AVL---
+200304006 Howald, Moureschanz   01554  01554                % 04075 AVL---
+200405036 Luxembourg, Gare Cen  01600  01600                % 04075 AVL---
+200405039 Luxembourg, Wallis    01604  01604                % 04075 AVL---
+200405046 Luxembourg, Gare Roc  01606  01606                % 04075 AVL---
+200412025 Gasperich, Francopho  01610  01610                % 04075 AVL---
+200412021 Gasperich, Gerhard M  01613  01613                % 04075 AVL---
+200304017 Howald, P&R Howald Q  01614  01614                % 04075 AVL---
+200304018 Howald, P&R Howald Q  01615                       % 04075 AVL---
+*Z 04076 AVL---       001 020                               % 04076 AVL---
+*L 28       200303002 200304018  01620  01645               % 04076 AVL---
+*A BE 200303002 200304018 000033  01620  01645              % 04076 AVL---
+*R 1 200304018 200303002 200304018  01620  01645            % 04076 AVL---
+*G GER 200303002 200304018  01620  01645                    % 04076 AVL---
+*A VE 200303002 200304018 000033  01620  01645              % 04076 AVL---
+200303002 Hesperange, Cité Um          01620                % 04076 AVL---
+200304007 Howald, Op der Stirz  01621  01621                % 04076 AVL---
+200304011 Howald, Ronneboesch   01622  01622                % 04076 AVL---
+200304006 Howald, Moureschanz   01624  01624                % 04076 AVL---
+200405036 Luxembourg, Gare Cen  01630  01630                % 04076 AVL---
+200405039 Luxembourg, Wallis    01634  01634                % 04076 AVL---
+200405046 Luxembourg, Gare Roc  01636  01636                % 04076 AVL---
+200412025 Gasperich, Francopho  01640  01640                % 04076 AVL---
+200412021 Gasperich, Gerhard M  01643  01643                % 04076 AVL---
+200304017 Howald, P&R Howald Q  01644  01644                % 04076 AVL---
+200304018 Howald, P&R Howald Q  01645                       % 04076 AVL---
+*Z 04077 AVL---       001 010                               % 04077 AVL---
+*L 28       200303002 200304018  01650  01715               % 04077 AVL---
+*A BE 200303002 200304018 000033  01650  01715              % 04077 AVL---
+*R 1 200304018 200303002 200304018  01650  01715            % 04077 AVL---
+*G GER 200303002 200304018  01650  01715                    % 04077 AVL---
+*A VE 200303002 200304018 000033  01650  01715              % 04077 AVL---
+200303002 Hesperange, Cité Um          01650                % 04077 AVL---
+200304007 Howald, Op der Stirz  01651  01651                % 04077 AVL---
+200304011 Howald, Ronneboesch   01652  01652                % 04077 AVL---
+200304006 Howald, Moureschanz   01654  01654                % 04077 AVL---
+200405036 Luxembourg, Gare Cen  01700  01700                % 04077 AVL---
+200405039 Luxembourg, Wallis    01704  01704                % 04077 AVL---
+200405046 Luxembourg, Gare Roc  01706  01706                % 04077 AVL---
+200412025 Gasperich, Francopho  01710  01710                % 04077 AVL---
+200412021 Gasperich, Gerhard M  01713  01713                % 04077 AVL---
+200304017 Howald, P&R Howald Q  01714  01714                % 04077 AVL---
+200304018 Howald, P&R Howald Q  01715                       % 04077 AVL---
+*Z 04078 AVL---       001 010                               % 04078 AVL---
+*L 28       200303002 200304018  01720  01745               % 04078 AVL---
+*A BE 200303002 200304018 000033  01720  01745              % 04078 AVL---
+*R 1 200304018 200303002 200304018  01720  01745            % 04078 AVL---
+*G GER 200303002 200304018  01720  01745                    % 04078 AVL---
+*A VE 200303002 200304018 000033  01720  01745              % 04078 AVL---
+200303002 Hesperange, Cité Um          01720                % 04078 AVL---
+200304007 Howald, Op der Stirz  01721  01721                % 04078 AVL---
+200304011 Howald, Ronneboesch   01722  01722                % 04078 AVL---
+200304006 Howald, Moureschanz   01724  01724                % 04078 AVL---
+200405036 Luxembourg, Gare Cen  01730  01730                % 04078 AVL---
+200405039 Luxembourg, Wallis    01734  01734                % 04078 AVL---
+200405046 Luxembourg, Gare Roc  01736  01736                % 04078 AVL---
+200412025 Gasperich, Francopho  01740  01740                % 04078 AVL---
+200412021 Gasperich, Gerhard M  01743  01743                % 04078 AVL---
+200304017 Howald, P&R Howald Q  01744  01744                % 04078 AVL---
+200304018 Howald, P&R Howald Q  01745                       % 04078 AVL---
+*Z 04079 AVL---       002 010                               % 04079 AVL---
+*L 28       200303002 200304018  01750  01815               % 04079 AVL---
+*A BE 200303002 200304018 000033  01750  01815              % 04079 AVL---
+*R 1 200304018 200303002 200304018  01750  01815            % 04079 AVL---
+*G GER 200303002 200304018  01750  01815                    % 04079 AVL---
+*A VE 200303002 200304018 000033  01750  01815              % 04079 AVL---
+200303002 Hesperange, Cité Um          01750                % 04079 AVL---
+200304007 Howald, Op der Stirz  01751  01751                % 04079 AVL---
+200304011 Howald, Ronneboesch   01752  01752                % 04079 AVL---
+200304006 Howald, Moureschanz   01754  01754                % 04079 AVL---
+200405036 Luxembourg, Gare Cen  01800  01800                % 04079 AVL---
+200405039 Luxembourg, Wallis    01804  01804                % 04079 AVL---
+200405046 Luxembourg, Gare Roc  01806  01806                % 04079 AVL---
+200412025 Gasperich, Francopho  01810  01810                % 04079 AVL---
+200412021 Gasperich, Gerhard M  01813  01813                % 04079 AVL---
+200304017 Howald, P&R Howald Q  01814  01814                % 04079 AVL---
+200304018 Howald, P&R Howald Q  01815                       % 04079 AVL---
+*Z 04080 AVL---       001 010                               % 04080 AVL---
+*L 28       200303002 200304018  01830  01855               % 04080 AVL---
+*A BE 200303002 200304018 000033  01830  01855              % 04080 AVL---
+*R 1 200304018 200303002 200304018  01830  01855            % 04080 AVL---
+*G GER 200303002 200304018  01830  01855                    % 04080 AVL---
+*A VE 200303002 200304018 000033  01830  01855              % 04080 AVL---
+200303002 Hesperange, Cité Um          01830                % 04080 AVL---
+200304007 Howald, Op der Stirz  01831  01831                % 04080 AVL---
+200304011 Howald, Ronneboesch   01832  01832                % 04080 AVL---
+200304006 Howald, Moureschanz   01834  01834                % 04080 AVL---
+200405036 Luxembourg, Gare Cen  01840  01840                % 04080 AVL---
+200405039 Luxembourg, Wallis    01844  01844                % 04080 AVL---
+200405046 Luxembourg, Gare Roc  01846  01846                % 04080 AVL---
+200412025 Gasperich, Francopho  01850  01850                % 04080 AVL---
+200412021 Gasperich, Gerhard M  01853  01853                % 04080 AVL---
+200304017 Howald, P&R Howald Q  01854  01854                % 04080 AVL---
+200304018 Howald, P&R Howald Q  01855                       % 04080 AVL---
+*Z 04081 AVL---       001 030                               % 04081 AVL---
+*L 28       200303002 200304018  01907  01933               % 04081 AVL---
+*A BE 200303002 200304018 000033  01907  01933              % 04081 AVL---
+*R 1 200304018 200303002 200304018  01907  01933            % 04081 AVL---
+*G GER 200303002 200304018  01907  01933                    % 04081 AVL---
+*A VE 200303002 200304018 000033  01907  01933              % 04081 AVL---
+200303002 Hesperange, Cité Um          01907                % 04081 AVL---
+200304007 Howald, Op der Stirz  01909  01909                % 04081 AVL---
+200304011 Howald, Ronneboesch   01910  01910                % 04081 AVL---
+200304006 Howald, Moureschanz   01911  01911                % 04081 AVL---
+200405036 Luxembourg, Gare Cen  01918  01918                % 04081 AVL---
+200405039 Luxembourg, Wallis    01921  01921                % 04081 AVL---
+200405046 Luxembourg, Gare Roc  01923  01923                % 04081 AVL---
+200412025 Gasperich, Francopho  01928  01928                % 04081 AVL---
+200412021 Gasperich, Gerhard M  01930  01930                % 04081 AVL---
+200304017 Howald, P&R Howald Q  01931  01931                % 04081 AVL---
+200304018 Howald, P&R Howald Q  01933                       % 04081 AVL---
+*Z 04082 AVL---       001 040                               % 04082 AVL---
+*L 28       200303002 200304018  00610  00635               % 04082 AVL---
+*A BE 200303002 200304018 000033  00610  00635              % 04082 AVL---
+*R 1 200304018 200303002 200304018  00610  00635            % 04082 AVL---
+*G GMB 200303002 200304018  00610  00635                    % 04082 AVL---
+*A VE 200303002 200304018 000033  00610  00635              % 04082 AVL---
+200303002 Hesperange, Cité Um          00610                % 04082 AVL---
+200304007 Howald, Op der Stirz  00611  00611                % 04082 AVL---
+200304011 Howald, Ronneboesch   00612  00612                % 04082 AVL---
+200304006 Howald, Moureschanz   00614  00614                % 04082 AVL---
+200405036 Luxembourg, Gare Cen  00620  00620                % 04082 AVL---
+200405039 Luxembourg, Wallis    00624  00624                % 04082 AVL---
+200405046 Luxembourg, Gare Roc  00626  00626                % 04082 AVL---
+200412025 Gasperich, Francopho  00630  00630                % 04082 AVL---
+200412021 Gasperich, Gerhard M  00633  00633                % 04082 AVL---
+200304017 Howald, P&R Howald Q  00634  00634                % 04082 AVL---
+200304018 Howald, P&R Howald Q  00635                       % 04082 AVL---
+*Z 04083 AVL---       001 040                               % 04083 AVL---
+*L 28       200303002 200304018  00720  00745               % 04083 AVL---
+*A BE 200303002 200304018 000033  00720  00745              % 04083 AVL---
+*R 1 200304018 200303002 200304018  00720  00745            % 04083 AVL---
+*G GMB 200303002 200304018  00720  00745                    % 04083 AVL---
+*A VE 200303002 200304018 000033  00720  00745              % 04083 AVL---
+200303002 Hesperange, Cité Um          00720                % 04083 AVL---
+200304007 Howald, Op der Stirz  00721  00721                % 04083 AVL---
+200304011 Howald, Ronneboesch   00722  00722                % 04083 AVL---
+200304006 Howald, Moureschanz   00724  00724                % 04083 AVL---
+200405036 Luxembourg, Gare Cen  00730  00730                % 04083 AVL---
+200405039 Luxembourg, Wallis    00734  00734                % 04083 AVL---
+200405046 Luxembourg, Gare Roc  00736  00736                % 04083 AVL---
+200412025 Gasperich, Francopho  00740  00740                % 04083 AVL---
+200412021 Gasperich, Gerhard M  00743  00743                % 04083 AVL---
+200304017 Howald, P&R Howald Q  00744  00744                % 04083 AVL---
+200304018 Howald, P&R Howald Q  00745                       % 04083 AVL---
+*Z 04084 AVL---                                             % 04084 AVL---
+*L 28       200303002 200304018  00830  00855               % 04084 AVL---
+*A BE 200303002 200304018 000033  00830  00855              % 04084 AVL---
+*R 1 200304018 200303002 200304018  00830  00855            % 04084 AVL---
+*G GMB 200303002 200304018  00830  00855                    % 04084 AVL---
+*A VE 200303002 200304018 000033  00830  00855              % 04084 AVL---
+200303002 Hesperange, Cité Um          00830                % 04084 AVL---
+200304007 Howald, Op der Stirz  00831  00831                % 04084 AVL---
+200304011 Howald, Ronneboesch   00832  00832                % 04084 AVL---
+200304006 Howald, Moureschanz   00834  00834                % 04084 AVL---
+200405036 Luxembourg, Gare Cen  00840  00840                % 04084 AVL---
+200405039 Luxembourg, Wallis    00844  00844                % 04084 AVL---
+200405046 Luxembourg, Gare Roc  00846  00846                % 04084 AVL---
+200412025 Gasperich, Francopho  00850  00850                % 04084 AVL---
+200412021 Gasperich, Gerhard M  00853  00853                % 04084 AVL---
+200304017 Howald, P&R Howald Q  00854  00854                % 04084 AVL---
+200304018 Howald, P&R Howald Q  00855                       % 04084 AVL---
+*Z 04085 AVL---       001 090                               % 04085 AVL---
+*L 28       200303002 200304018  00922  00948               % 04085 AVL---
+*A BE 200303002 200304018 000033  00922  00948              % 04085 AVL---
+*R 1 200304018 200303002 200304018  00922  00948            % 04085 AVL---
+*G GMB 200303002 200304018  00922  00948                    % 04085 AVL---
+*A VE 200303002 200304018 000033  00922  00948              % 04085 AVL---
+200303002 Hesperange, Cité Um          00922                % 04085 AVL---
+200304007 Howald, Op der Stirz  00924  00924                % 04085 AVL---
+200304011 Howald, Ronneboesch   00925  00925                % 04085 AVL---
+200304006 Howald, Moureschanz   00926  00926                % 04085 AVL---
+200405036 Luxembourg, Gare Cen  00933  00933                % 04085 AVL---
+200405039 Luxembourg, Wallis    00936  00936                % 04085 AVL---
+200405046 Luxembourg, Gare Roc  00938  00938                % 04085 AVL---
+200412025 Gasperich, Francopho  00943  00943                % 04085 AVL---
+200412021 Gasperich, Gerhard M  00945  00945                % 04085 AVL---
+200304017 Howald, P&R Howald Q  00946  00946                % 04085 AVL---
+200304018 Howald, P&R Howald Q  00948                       % 04085 AVL---
+*Z 04086 AVL---       002 075                               % 04086 AVL---
+*L 28       200303002 200304018  01207  01233               % 04086 AVL---
+*A BE 200303002 200304018 000033  01207  01233              % 04086 AVL---
+*R 1 200304018 200303002 200304018  01207  01233            % 04086 AVL---
+*G GMB 200303002 200304018  01207  01233                    % 04086 AVL---
+*A VE 200303002 200304018 000033  01207  01233              % 04086 AVL---
+200303002 Hesperange, Cité Um          01207                % 04086 AVL---
+200304007 Howald, Op der Stirz  01209  01209                % 04086 AVL---
+200304011 Howald, Ronneboesch   01210  01210                % 04086 AVL---
+200304006 Howald, Moureschanz   01211  01211                % 04086 AVL---
+200405036 Luxembourg, Gare Cen  01218  01218                % 04086 AVL---
+200405039 Luxembourg, Wallis    01221  01221                % 04086 AVL---
+200405046 Luxembourg, Gare Roc  01223  01223                % 04086 AVL---
+200412025 Gasperich, Francopho  01228  01228                % 04086 AVL---
+200412021 Gasperich, Gerhard M  01230  01230                % 04086 AVL---
+200304017 Howald, P&R Howald Q  01231  01231                % 04086 AVL---
+200304018 Howald, P&R Howald Q  01233                       % 04086 AVL---
+*Z 04087 AVL---       001 030                               % 04087 AVL---
+*L 28       200303002 200304018  01600  01625               % 04087 AVL---
+*A BE 200303002 200304018 000033  01600  01625              % 04087 AVL---
+*R 1 200304018 200303002 200304018  01600  01625            % 04087 AVL---
+*G GMB 200303002 200304018  01600  01625                    % 04087 AVL---
+*A VE 200303002 200304018 000033  01600  01625              % 04087 AVL---
+200303002 Hesperange, Cité Um          01600                % 04087 AVL---
+200304007 Howald, Op der Stirz  01601  01601                % 04087 AVL---
+200304011 Howald, Ronneboesch   01602  01602                % 04087 AVL---
+200304006 Howald, Moureschanz   01604  01604                % 04087 AVL---
+200405036 Luxembourg, Gare Cen  01610  01610                % 04087 AVL---
+200405039 Luxembourg, Wallis    01614  01614                % 04087 AVL---
+200405046 Luxembourg, Gare Roc  01616  01616                % 04087 AVL---
+200412025 Gasperich, Francopho  01620  01620                % 04087 AVL---
+200412021 Gasperich, Gerhard M  01623  01623                % 04087 AVL---
+200304017 Howald, P&R Howald Q  01624  01624                % 04087 AVL---
+200304018 Howald, P&R Howald Q  01625                       % 04087 AVL---
+*Z 04088 AVL---       001 030                               % 04088 AVL---
+*L 28       200303002 200304018  01710  01735               % 04088 AVL---
+*A BE 200303002 200304018 000033  01710  01735              % 04088 AVL---
+*R 1 200304018 200303002 200304018  01710  01735            % 04088 AVL---
+*G GMB 200303002 200304018  01710  01735                    % 04088 AVL---
+*A VE 200303002 200304018 000033  01710  01735              % 04088 AVL---
+200303002 Hesperange, Cité Um          01710                % 04088 AVL---
+200304007 Howald, Op der Stirz  01711  01711                % 04088 AVL---
+200304011 Howald, Ronneboesch   01712  01712                % 04088 AVL---
+200304006 Howald, Moureschanz   01714  01714                % 04088 AVL---
+200405036 Luxembourg, Gare Cen  01720  01720                % 04088 AVL---
+200405039 Luxembourg, Wallis    01724  01724                % 04088 AVL---
+200405046 Luxembourg, Gare Roc  01726  01726                % 04088 AVL---
+200412025 Gasperich, Francopho  01730  01730                % 04088 AVL---
+200412021 Gasperich, Gerhard M  01733  01733                % 04088 AVL---
+200304017 Howald, P&R Howald Q  01734  01734                % 04088 AVL---
+200304018 Howald, P&R Howald Q  01735                       % 04088 AVL---
+*Z 04089 AVL---                                             % 04089 AVL---
+*L 28       200303002 200304018  01820  01845               % 04089 AVL---
+*A BE 200303002 200304018 000033  01820  01845              % 04089 AVL---
+*R 1 200304018 200303002 200304018  01820  01845            % 04089 AVL---
+*G GMB 200303002 200304018  01820  01845                    % 04089 AVL---
+*A VE 200303002 200304018 000033  01820  01845              % 04089 AVL---
+200303002 Hesperange, Cité Um          01820                % 04089 AVL---
+200304007 Howald, Op der Stirz  01821  01821                % 04089 AVL---
+200304011 Howald, Ronneboesch   01822  01822                % 04089 AVL---
+200304006 Howald, Moureschanz   01824  01824                % 04089 AVL---
+200405036 Luxembourg, Gare Cen  01830  01830                % 04089 AVL---
+200405039 Luxembourg, Wallis    01834  01834                % 04089 AVL---
+200405046 Luxembourg, Gare Roc  01836  01836                % 04089 AVL---
+200412025 Gasperich, Francopho  01840  01840                % 04089 AVL---
+200412021 Gasperich, Gerhard M  01843  01843                % 04089 AVL---
+200304017 Howald, P&R Howald Q  01844  01844                % 04089 AVL---
+200304018 Howald, P&R Howald Q  01845                       % 04089 AVL---
+*Z 04090 AVL---       001 030                               % 04090 AVL---
+*L 28       200303002 200304018  01852  01918               % 04090 AVL---
+*A BE 200303002 200304018 000033  01852  01918              % 04090 AVL---
+*R 1 200304018 200303002 200304018  01852  01918            % 04090 AVL---
+*G GMB 200303002 200304018  01852  01918                    % 04090 AVL---
+*A VE 200303002 200304018 000033  01852  01918              % 04090 AVL---
+200303002 Hesperange, Cité Um          01852                % 04090 AVL---
+200304007 Howald, Op der Stirz  01854  01854                % 04090 AVL---
+200304011 Howald, Ronneboesch   01855  01855                % 04090 AVL---
+200304006 Howald, Moureschanz   01856  01856                % 04090 AVL---
+200405036 Luxembourg, Gare Cen  01903  01903                % 04090 AVL---
+200405039 Luxembourg, Wallis    01906  01906                % 04090 AVL---
+200405046 Luxembourg, Gare Roc  01908  01908                % 04090 AVL---
+200412025 Gasperich, Francopho  01913  01913                % 04090 AVL---
+200412021 Gasperich, Gerhard M  01915  01915                % 04090 AVL---
+200304017 Howald, P&R Howald Q  01916  01916                % 04090 AVL---
+200304018 Howald, P&R Howald Q  01918                       % 04090 AVL---
+*Z 04091 AVL---       003 030                               % 04091 AVL---
+*L 28       200304018 200303002  00557  00617               % 04091 AVL---
+*A BE 200304018 200303002 000025  00557  00617              % 04091 AVL---
+*R 2 200303002 200304018 200303002  00557  00617            % 04091 AVL---
+*G GMB 200304018 200303002  00557  00617                    % 04091 AVL---
+*A VE 200304018 200303002 000025  00557  00617              % 04091 AVL---
+200304018 Howald, P&R Howald Q         00557                % 04091 AVL---
+200304012 Howald, P&R Howald Q  00559  00559                % 04091 AVL---
+200412021 Gasperich, Gerhard M  00559  00559                % 04091 AVL---
+200412025 Gasperich, Francopho  00600  00600                % 04091 AVL---
+200405046 Luxembourg, Gare Roc  00605  00605                % 04091 AVL---
+200405039 Luxembourg, Wallis    00607  00607                % 04091 AVL---
+200405032 Luxembourg, Gare Cen  00609  00609                % 04091 AVL---
+200304006 Howald, Moureschanz   00613  00613                % 04091 AVL---
+200304011 Howald, Ronneboesch   00613  00613                % 04091 AVL---
+200304007 Howald, Op der Stirz  00614  00614                % 04091 AVL---
+200303002 Hesperange, Cité Um   00617                       % 04091 AVL---
+*Z 04092 AVL---       007 030                               % 04092 AVL---
+*L 28       200304018 200303002  01957  02017               % 04092 AVL---
+*A BE 200304018 200303002 000036  01957  02017              % 04092 AVL---
+*R 2 200303002 200304018 200303002  01957  02017            % 04092 AVL---
+*G GMB 200304018 200303002  01957  02017                    % 04092 AVL---
+*A VE 200304018 200303002 000036  01957  02017              % 04092 AVL---
+200304018 Howald, P&R Howald Q         01957                % 04092 AVL---
+200304012 Howald, P&R Howald Q  01959  01959                % 04092 AVL---
+200412021 Gasperich, Gerhard M  01959  01959                % 04092 AVL---
+200412025 Gasperich, Francopho  02000  02000                % 04092 AVL---
+200405046 Luxembourg, Gare Roc  02005  02005                % 04092 AVL---
+200405039 Luxembourg, Wallis    02007  02007                % 04092 AVL---
+200405032 Luxembourg, Gare Cen  02009  02009                % 04092 AVL---
+200304006 Howald, Moureschanz   02013  02013                % 04092 AVL---
+200304011 Howald, Ronneboesch   02013  02013                % 04092 AVL---
+200304007 Howald, Op der Stirz  02014  02014                % 04092 AVL---
+200303002 Hesperange, Cité Um   02017                       % 04092 AVL---
+*Z 04093 AVL---       003 015                               % 04093 AVL---
+*L 28       200304018 200303002  00512  00532               % 04093 AVL---
+*A BE 200304018 200303002 000033  00512  00532              % 04093 AVL---
+*R 2 200303002 200304018 200303002  00512  00532            % 04093 AVL---
+*G GER 200304018 200303002  00512  00532                    % 04093 AVL---
+*A VE 200304018 200303002 000033  00512  00532              % 04093 AVL---
+200304018 Howald, P&R Howald Q         00512                % 04093 AVL---
+200304012 Howald, P&R Howald Q  00514  00514                % 04093 AVL---
+200412021 Gasperich, Gerhard M  00514  00514                % 04093 AVL---
+200412025 Gasperich, Francopho  00515  00515                % 04093 AVL---
+200405046 Luxembourg, Gare Roc  00520  00520                % 04093 AVL---
+200405039 Luxembourg, Wallis    00522  00522                % 04093 AVL---
+200405032 Luxembourg, Gare Cen  00524  00524                % 04093 AVL---
+200304006 Howald, Moureschanz   00528  00528                % 04093 AVL---
+200304011 Howald, Ronneboesch   00528  00528                % 04093 AVL---
+200304007 Howald, Op der Stirz  00529  00529                % 04093 AVL---
+200303002 Hesperange, Cité Um   00532                       % 04093 AVL---
+*Z 04094 AVL---       010 030                               % 04094 AVL---
+*L 28       200304018 200303002  00557  00617               % 04094 AVL---
+*A BE 200304018 200303002 000018  00557  00617              % 04094 AVL---
+*R 2 200303002 200304018 200303002  00557  00617            % 04094 AVL---
+*G GEH 200304018 200303002  00557  00617                    % 04094 AVL---
+*A VE 200304018 200303002 000018  00557  00617              % 04094 AVL---
+200304018 Howald, P&R Howald Q         00557                % 04094 AVL---
+200304012 Howald, P&R Howald Q  00559  00559                % 04094 AVL---
+200412021 Gasperich, Gerhard M  00559  00559                % 04094 AVL---
+200412025 Gasperich, Francopho  00600  00600                % 04094 AVL---
+200405046 Luxembourg, Gare Roc  00605  00605                % 04094 AVL---
+200405039 Luxembourg, Wallis    00607  00607                % 04094 AVL---
+200405032 Luxembourg, Gare Cen  00609  00609                % 04094 AVL---
+200304006 Howald, Moureschanz   00613  00613                % 04094 AVL---
+200304011 Howald, Ronneboesch   00613  00613                % 04094 AVL---
+200304007 Howald, Op der Stirz  00614  00614                % 04094 AVL---
+200303002 Hesperange, Cité Um   00617                       % 04094 AVL---
+*Z 04095 AVL---       007 030                               % 04095 AVL---
+*L 28       200304018 200303002  01957  02017               % 04095 AVL---
+*A BE 200304018 200303002 000018  01957  02017              % 04095 AVL---
+*R 2 200303002 200304018 200303002  01957  02017            % 04095 AVL---
+*G GEH 200304018 200303002  01957  02017                    % 04095 AVL---
+*A VE 200304018 200303002 000018  01957  02017              % 04095 AVL---
+200304018 Howald, P&R Howald Q         01957                % 04095 AVL---
+200304012 Howald, P&R Howald Q  01959  01959                % 04095 AVL---
+200412021 Gasperich, Gerhard M  01959  01959                % 04095 AVL---
+200412025 Gasperich, Francopho  02000  02000                % 04095 AVL---
+200405046 Luxembourg, Gare Roc  02005  02005                % 04095 AVL---
+200405039 Luxembourg, Wallis    02007  02007                % 04095 AVL---
+200405032 Luxembourg, Gare Cen  02009  02009                % 04095 AVL---
+200304006 Howald, Moureschanz   02013  02013                % 04095 AVL---
+200304011 Howald, Ronneboesch   02013  02013                % 04095 AVL---
+200304007 Howald, Op der Stirz  02014  02014                % 04095 AVL---
+200303002 Hesperange, Cité Um   02017                       % 04095 AVL---
+*Z 04096 AVL---       026 015                               % 04096 AVL---
+*L 28       200304018 200303002  00756  00817               % 04096 AVL---
+*A BE 200304018 200303002 000025  00756  00817              % 04096 AVL---
+*R 2 200303002 200304018 200303002  00756  00817            % 04096 AVL---
+*G GMB 200304018 200303002  00756  00817                    % 04096 AVL---
+*A VE 200304018 200303002 000025  00756  00817              % 04096 AVL---
+200304018 Howald, P&R Howald Q         00756                % 04096 AVL---
+200304012 Howald, P&R Howald Q  00758  00758                % 04096 AVL---
+200412021 Gasperich, Gerhard M  00759  00759                % 04096 AVL---
+200412025 Gasperich, Francopho  00800  00800                % 04096 AVL---
+200405046 Luxembourg, Gare Roc  00805  00805                % 04096 AVL---
+200405039 Luxembourg, Wallis    00807  00807                % 04096 AVL---
+200405032 Luxembourg, Gare Cen  00809  00809                % 04096 AVL---
+200304006 Howald, Moureschanz   00813  00813                % 04096 AVL---
+200304011 Howald, Ronneboesch   00814  00814                % 04096 AVL---
+200304007 Howald, Op der Stirz  00815  00815                % 04096 AVL---
+200303002 Hesperange, Cité Um   00817                       % 04096 AVL---
+*Z 04097 AVL---       026 010                               % 04097 AVL---
+*L 28       200304018 200303002  01436  01457               % 04097 AVL---
+*A BE 200304018 200303002 000025  01436  01457              % 04097 AVL---
+*R 2 200303002 200304018 200303002  01436  01457            % 04097 AVL---
+*G GMB 200304018 200303002  01436  01457                    % 04097 AVL---
+*A VE 200304018 200303002 000025  01436  01457              % 04097 AVL---
+200304018 Howald, P&R Howald Q         01436                % 04097 AVL---
+200304012 Howald, P&R Howald Q  01438  01438                % 04097 AVL---
+200412021 Gasperich, Gerhard M  01439  01439                % 04097 AVL---
+200412025 Gasperich, Francopho  01440  01440                % 04097 AVL---
+200405046 Luxembourg, Gare Roc  01445  01445                % 04097 AVL---
+200405039 Luxembourg, Wallis    01447  01447                % 04097 AVL---
+200405032 Luxembourg, Gare Cen  01449  01449                % 04097 AVL---
+200304006 Howald, Moureschanz   01453  01453                % 04097 AVL---
+200304011 Howald, Ronneboesch   01454  01454                % 04097 AVL---
+200304007 Howald, Op der Stirz  01455  01455                % 04097 AVL---
+200303002 Hesperange, Cité Um   01457                       % 04097 AVL---
+*Z 04098 AVL---       002 015                               % 04098 AVL---
+*L 28       200304018 200303002  01911  01932               % 04098 AVL---
+*A BE 200304018 200303002 000025  01911  01932              % 04098 AVL---
+*R 2 200303002 200304018 200303002  01911  01932            % 04098 AVL---
+*G GMB 200304018 200303002  01911  01932                    % 04098 AVL---
+*A VE 200304018 200303002 000025  01911  01932              % 04098 AVL---
+200304018 Howald, P&R Howald Q         01911                % 04098 AVL---
+200304012 Howald, P&R Howald Q  01913  01913                % 04098 AVL---
+200412021 Gasperich, Gerhard M  01914  01914                % 04098 AVL---
+200412025 Gasperich, Francopho  01915  01915                % 04098 AVL---
+200405046 Luxembourg, Gare Roc  01920  01920                % 04098 AVL---
+200405039 Luxembourg, Wallis    01922  01922                % 04098 AVL---
+200405032 Luxembourg, Gare Cen  01924  01924                % 04098 AVL---
+200304006 Howald, Moureschanz   01928  01928                % 04098 AVL---
+200304011 Howald, Ronneboesch   01929  01929                % 04098 AVL---
+200304007 Howald, Op der Stirz  01930  01930                % 04098 AVL---
+200303002 Hesperange, Cité Um   01932                       % 04098 AVL---
+*Z 04099 AVL---       016 030                               % 04099 AVL---
+*L 28       200304018 200303002  01126  01147               % 04099 AVL---
+*A BE 200304018 200303002 000018  01126  01147              % 04099 AVL---
+*R 2 200303002 200304018 200303002  01126  01147            % 04099 AVL---
+*G GEH 200304018 200303002  01126  01147                    % 04099 AVL---
+*A VE 200304018 200303002 000018  01126  01147              % 04099 AVL---
+200304018 Howald, P&R Howald Q         01126                % 04099 AVL---
+200304012 Howald, P&R Howald Q  01128  01128                % 04099 AVL---
+200412021 Gasperich, Gerhard M  01129  01129                % 04099 AVL---
+200412025 Gasperich, Francopho  01130  01130                % 04099 AVL---
+200405046 Luxembourg, Gare Roc  01135  01135                % 04099 AVL---
+200405039 Luxembourg, Wallis    01137  01137                % 04099 AVL---
+200405032 Luxembourg, Gare Cen  01139  01139                % 04099 AVL---
+200304006 Howald, Moureschanz   01143  01143                % 04099 AVL---
+200304011 Howald, Ronneboesch   01144  01144                % 04099 AVL---
+200304007 Howald, Op der Stirz  01145  01145                % 04099 AVL---
+200303002 Hesperange, Cité Um   01147                       % 04099 AVL---
+*Z 04100 AVL---                                             % 04100 AVL---
+*L 28       200304018 200303002  00623  00648               % 04100 AVL---
+*A BE 200304018 200303002 000033  00623  00648              % 04100 AVL---
+*R 2 200303002 200304018 200303002  00623  00648            % 04100 AVL---
+*G GER 200304018 200303002  00623  00648                    % 04100 AVL---
+*A VE 200304018 200303002 000033  00623  00648              % 04100 AVL---
+200304018 Howald, P&R Howald Q         00623                % 04100 AVL---
+200304012 Howald, P&R Howald Q  00625  00625                % 04100 AVL---
+200412021 Gasperich, Gerhard M  00626  00626                % 04100 AVL---
+200412025 Gasperich, Francopho  00628  00628                % 04100 AVL---
+200405046 Luxembourg, Gare Roc  00634  00634                % 04100 AVL---
+200405039 Luxembourg, Wallis    00636  00636                % 04100 AVL---
+200405032 Luxembourg, Gare Cen  00639  00639                % 04100 AVL---
+200304006 Howald, Moureschanz   00643  00643                % 04100 AVL---
+200304011 Howald, Ronneboesch   00644  00644                % 04100 AVL---
+200304007 Howald, Op der Stirz  00645  00645                % 04100 AVL---
+200303002 Hesperange, Cité Um   00648                       % 04100 AVL---
+*Z 04101 AVL---       001 020                               % 04101 AVL---
+*L 28       200304018 200303002  00635  00659               % 04101 AVL---
+*A BE 200304018 200303002 000033  00635  00659              % 04101 AVL---
+*R 2 200303002 200304018 200303002  00635  00659            % 04101 AVL---
+*G GER 200304018 200303002  00635  00659                    % 04101 AVL---
+*A VE 200304018 200303002 000033  00635  00659              % 04101 AVL---
+200304018 Howald, P&R Howald Q         00635                % 04101 AVL---
+200304012 Howald, P&R Howald Q  00637  00637                % 04101 AVL---
+200412021 Gasperich, Gerhard M  00638  00638                % 04101 AVL---
+200412025 Gasperich, Francopho  00639  00639                % 04101 AVL---
+200405046 Luxembourg, Gare Roc  00645  00645                % 04101 AVL---
+200405039 Luxembourg, Wallis    00647  00647                % 04101 AVL---
+200405032 Luxembourg, Gare Cen  00650  00650                % 04101 AVL---
+200304006 Howald, Moureschanz   00654  00654                % 04101 AVL---
+200304011 Howald, Ronneboesch   00655  00655                % 04101 AVL---
+200304007 Howald, Op der Stirz  00656  00656                % 04101 AVL---
+200303002 Hesperange, Cité Um   00659                       % 04101 AVL---
+*Z 04102 AVL---       001 010                               % 04102 AVL---
+*L 28       200304018 200303002  00705  00729               % 04102 AVL---
+*A BE 200304018 200303002 000033  00705  00729              % 04102 AVL---
+*R 2 200303002 200304018 200303002  00705  00729            % 04102 AVL---
+*G GER 200304018 200303002  00705  00729                    % 04102 AVL---
+*A VE 200304018 200303002 000033  00705  00729              % 04102 AVL---
+200304018 Howald, P&R Howald Q         00705                % 04102 AVL---
+200304012 Howald, P&R Howald Q  00707  00707                % 04102 AVL---
+200412021 Gasperich, Gerhard M  00708  00708                % 04102 AVL---
+200412025 Gasperich, Francopho  00709  00709                % 04102 AVL---
+200405046 Luxembourg, Gare Roc  00715  00715                % 04102 AVL---
+200405039 Luxembourg, Wallis    00717  00717                % 04102 AVL---
+200405032 Luxembourg, Gare Cen  00720  00720                % 04102 AVL---
+200304006 Howald, Moureschanz   00724  00724                % 04102 AVL---
+200304011 Howald, Ronneboesch   00725  00725                % 04102 AVL---
+200304007 Howald, Op der Stirz  00726  00726                % 04102 AVL---
+200303002 Hesperange, Cité Um   00729                       % 04102 AVL---
+*Z 04103 AVL---       001 010                               % 04103 AVL---
+*L 28       200304018 200303002  00735  00759               % 04103 AVL---
+*A BE 200304018 200303002 000033  00735  00759              % 04103 AVL---
+*R 2 200303002 200304018 200303002  00735  00759            % 04103 AVL---
+*G GER 200304018 200303002  00735  00759                    % 04103 AVL---
+*A VE 200304018 200303002 000033  00735  00759              % 04103 AVL---
+200304018 Howald, P&R Howald Q         00735                % 04103 AVL---
+200304012 Howald, P&R Howald Q  00737  00737                % 04103 AVL---
+200412021 Gasperich, Gerhard M  00738  00738                % 04103 AVL---
+200412025 Gasperich, Francopho  00739  00739                % 04103 AVL---
+200405046 Luxembourg, Gare Roc  00745  00745                % 04103 AVL---
+200405039 Luxembourg, Wallis    00747  00747                % 04103 AVL---
+200405032 Luxembourg, Gare Cen  00750  00750                % 04103 AVL---
+200304006 Howald, Moureschanz   00754  00754                % 04103 AVL---
+200304011 Howald, Ronneboesch   00755  00755                % 04103 AVL---
+200304007 Howald, Op der Stirz  00756  00756                % 04103 AVL---
+200303002 Hesperange, Cité Um   00759                       % 04103 AVL---
+*Z 04104 AVL---       002 010                               % 04104 AVL---
+*L 28       200304018 200303002  00805  00829               % 04104 AVL---
+*A BE 200304018 200303002 000033  00805  00829              % 04104 AVL---
+*R 2 200303002 200304018 200303002  00805  00829            % 04104 AVL---
+*G GER 200304018 200303002  00805  00829                    % 04104 AVL---
+*A VE 200304018 200303002 000033  00805  00829              % 04104 AVL---
+200304018 Howald, P&R Howald Q         00805                % 04104 AVL---
+200304012 Howald, P&R Howald Q  00807  00807                % 04104 AVL---
+200412021 Gasperich, Gerhard M  00808  00808                % 04104 AVL---
+200412025 Gasperich, Francopho  00809  00809                % 04104 AVL---
+200405046 Luxembourg, Gare Roc  00815  00815                % 04104 AVL---
+200405039 Luxembourg, Wallis    00817  00817                % 04104 AVL---
+200405032 Luxembourg, Gare Cen  00820  00820                % 04104 AVL---
+200304006 Howald, Moureschanz   00824  00824                % 04104 AVL---
+200304011 Howald, Ronneboesch   00825  00825                % 04104 AVL---
+200304007 Howald, Op der Stirz  00826  00826                % 04104 AVL---
+200303002 Hesperange, Cité Um   00829                       % 04104 AVL---
+*Z 04105 AVL---       004 015                               % 04105 AVL---
+*L 28       200304018 200303002  00853  00918               % 04105 AVL---
+*A BE 200304018 200303002 000033  00853  00918              % 04105 AVL---
+*R 2 200303002 200304018 200303002  00853  00918            % 04105 AVL---
+*G GER 200304018 200303002  00853  00918                    % 04105 AVL---
+*A VE 200304018 200303002 000033  00853  00918              % 04105 AVL---
+200304018 Howald, P&R Howald Q         00853                % 04105 AVL---
+200304012 Howald, P&R Howald Q  00855  00855                % 04105 AVL---
+200412021 Gasperich, Gerhard M  00856  00856                % 04105 AVL---
+200412025 Gasperich, Francopho  00858  00858                % 04105 AVL---
+200405046 Luxembourg, Gare Roc  00904  00904                % 04105 AVL---
+200405039 Luxembourg, Wallis    00906  00906                % 04105 AVL---
+200405032 Luxembourg, Gare Cen  00909  00909                % 04105 AVL---
+200304006 Howald, Moureschanz   00913  00913                % 04105 AVL---
+200304011 Howald, Ronneboesch   00914  00914                % 04105 AVL---
+200304007 Howald, Op der Stirz  00915  00915                % 04105 AVL---
+200303002 Hesperange, Cité Um   00918                       % 04105 AVL---
+*Z 04106 AVL---       003 015                               % 04106 AVL---
+*L 28       200304018 200303002  01023  01048               % 04106 AVL---
+*A BE 200304018 200303002 000033  01023  01048              % 04106 AVL---
+*R 2 200303002 200304018 200303002  01023  01048            % 04106 AVL---
+*G GER 200304018 200303002  01023  01048                    % 04106 AVL---
+*A VE 200304018 200303002 000033  01023  01048              % 04106 AVL---
+200304018 Howald, P&R Howald Q         01023                % 04106 AVL---
+200304012 Howald, P&R Howald Q  01025  01025                % 04106 AVL---
+200412021 Gasperich, Gerhard M  01026  01026                % 04106 AVL---
+200412025 Gasperich, Francopho  01028  01028                % 04106 AVL---
+200405046 Luxembourg, Gare Roc  01034  01034                % 04106 AVL---
+200405039 Luxembourg, Wallis    01036  01036                % 04106 AVL---
+200405032 Luxembourg, Gare Cen  01039  01039                % 04106 AVL---
+200304006 Howald, Moureschanz   01043  01043                % 04106 AVL---
+200304011 Howald, Ronneboesch   01044  01044                % 04106 AVL---
+200304007 Howald, Op der Stirz  01045  01045                % 04106 AVL---
+200303002 Hesperange, Cité Um   01048                       % 04106 AVL---
+*Z 04107 AVL---       003 015                               % 04107 AVL---
+*L 28       200304018 200303002  01138  01203               % 04107 AVL---
+*A BE 200304018 200303002 000033  01138  01203              % 04107 AVL---
+*R 2 200303002 200304018 200303002  01138  01203            % 04107 AVL---
+*G GER 200304018 200303002  01138  01203                    % 04107 AVL---
+*A VE 200304018 200303002 000033  01138  01203              % 04107 AVL---
+200304018 Howald, P&R Howald Q         01138                % 04107 AVL---
+200304012 Howald, P&R Howald Q  01140  01140                % 04107 AVL---
+200412021 Gasperich, Gerhard M  01141  01141                % 04107 AVL---
+200412025 Gasperich, Francopho  01143  01143                % 04107 AVL---
+200405046 Luxembourg, Gare Roc  01149  01149                % 04107 AVL---
+200405039 Luxembourg, Wallis    01151  01151                % 04107 AVL---
+200405032 Luxembourg, Gare Cen  01154  01154                % 04107 AVL---
+200304006 Howald, Moureschanz   01158  01158                % 04107 AVL---
+200304011 Howald, Ronneboesch   01159  01159                % 04107 AVL---
+200304007 Howald, Op der Stirz  01200  01200                % 04107 AVL---
+200303002 Hesperange, Cité Um   01203                       % 04107 AVL---
+*Z 04108 AVL---       003 015                               % 04108 AVL---
+*L 28       200304018 200303002  01253  01318               % 04108 AVL---
+*A BE 200304018 200303002 000033  01253  01318              % 04108 AVL---
+*R 2 200303002 200304018 200303002  01253  01318            % 04108 AVL---
+*G GER 200304018 200303002  01253  01318                    % 04108 AVL---
+*A VE 200304018 200303002 000033  01253  01318              % 04108 AVL---
+200304018 Howald, P&R Howald Q         01253                % 04108 AVL---
+200304012 Howald, P&R Howald Q  01255  01255                % 04108 AVL---
+200412021 Gasperich, Gerhard M  01256  01256                % 04108 AVL---
+200412025 Gasperich, Francopho  01258  01258                % 04108 AVL---
+200405046 Luxembourg, Gare Roc  01304  01304                % 04108 AVL---
+200405039 Luxembourg, Wallis    01306  01306                % 04108 AVL---
+200405032 Luxembourg, Gare Cen  01309  01309                % 04108 AVL---
+200304006 Howald, Moureschanz   01313  01313                % 04108 AVL---
+200304011 Howald, Ronneboesch   01314  01314                % 04108 AVL---
+200304007 Howald, Op der Stirz  01315  01315                % 04108 AVL---
+200303002 Hesperange, Cité Um   01318                       % 04108 AVL---
+*Z 04109 AVL---       004 015                               % 04109 AVL---
+*L 28       200304018 200303002  01408  01433               % 04109 AVL---
+*A BE 200304018 200303002 000033  01408  01433              % 04109 AVL---
+*R 2 200303002 200304018 200303002  01408  01433            % 04109 AVL---
+*G GER 200304018 200303002  01408  01433                    % 04109 AVL---
+*A VE 200304018 200303002 000033  01408  01433              % 04109 AVL---
+200304018 Howald, P&R Howald Q         01408                % 04109 AVL---
+200304012 Howald, P&R Howald Q  01410  01410                % 04109 AVL---
+200412021 Gasperich, Gerhard M  01411  01411                % 04109 AVL---
+200412025 Gasperich, Francopho  01413  01413                % 04109 AVL---
+200405046 Luxembourg, Gare Roc  01419  01419                % 04109 AVL---
+200405039 Luxembourg, Wallis    01421  01421                % 04109 AVL---
+200405032 Luxembourg, Gare Cen  01424  01424                % 04109 AVL---
+200304006 Howald, Moureschanz   01428  01428                % 04109 AVL---
+200304011 Howald, Ronneboesch   01429  01429                % 04109 AVL---
+200304007 Howald, Op der Stirz  01430  01430                % 04109 AVL---
+200303002 Hesperange, Cité Um   01433                       % 04109 AVL---
+*Z 04110 AVL---       001 010                               % 04110 AVL---
+*L 28       200304018 200303002  01535  01559               % 04110 AVL---
+*A BE 200304018 200303002 000033  01535  01559              % 04110 AVL---
+*R 2 200303002 200304018 200303002  01535  01559            % 04110 AVL---
+*G GER 200304018 200303002  01535  01559                    % 04110 AVL---
+*A VE 200304018 200303002 000033  01535  01559              % 04110 AVL---
+200304018 Howald, P&R Howald Q         01535                % 04110 AVL---
+200304012 Howald, P&R Howald Q  01537  01537                % 04110 AVL---
+200412021 Gasperich, Gerhard M  01538  01538                % 04110 AVL---
+200412025 Gasperich, Francopho  01539  01539                % 04110 AVL---
+200405046 Luxembourg, Gare Roc  01545  01545                % 04110 AVL---
+200405039 Luxembourg, Wallis    01547  01547                % 04110 AVL---
+200405032 Luxembourg, Gare Cen  01550  01550                % 04110 AVL---
+200304006 Howald, Moureschanz   01554  01554                % 04110 AVL---
+200304011 Howald, Ronneboesch   01555  01555                % 04110 AVL---
+200304007 Howald, Op der Stirz  01556  01556                % 04110 AVL---
+200303002 Hesperange, Cité Um   01559                       % 04110 AVL---
+*Z 04111 AVL---       002 010                               % 04111 AVL---
+*L 28       200304018 200303002  01605  01629               % 04111 AVL---
+*A BE 200304018 200303002 000033  01605  01629              % 04111 AVL---
+*R 2 200303002 200304018 200303002  01605  01629            % 04111 AVL---
+*G GER 200304018 200303002  01605  01629                    % 04111 AVL---
+*A VE 200304018 200303002 000033  01605  01629              % 04111 AVL---
+200304018 Howald, P&R Howald Q         01605                % 04111 AVL---
+200304012 Howald, P&R Howald Q  01607  01607                % 04111 AVL---
+200412021 Gasperich, Gerhard M  01608  01608                % 04111 AVL---
+200412025 Gasperich, Francopho  01609  01609                % 04111 AVL---
+200405046 Luxembourg, Gare Roc  01615  01615                % 04111 AVL---
+200405039 Luxembourg, Wallis    01617  01617                % 04111 AVL---
+200405032 Luxembourg, Gare Cen  01620  01620                % 04111 AVL---
+200304006 Howald, Moureschanz   01624  01624                % 04111 AVL---
+200304011 Howald, Ronneboesch   01625  01625                % 04111 AVL---
+200304007 Howald, Op der Stirz  01626  01626                % 04111 AVL---
+200303002 Hesperange, Cité Um   01629                       % 04111 AVL---
+*Z 04112 AVL---       001 010                               % 04112 AVL---
+*L 28       200304018 200303002  01645  01709               % 04112 AVL---
+*A BE 200304018 200303002 000033  01645  01709              % 04112 AVL---
+*R 2 200303002 200304018 200303002  01645  01709            % 04112 AVL---
+*G GER 200304018 200303002  01645  01709                    % 04112 AVL---
+*A VE 200304018 200303002 000033  01645  01709              % 04112 AVL---
+200304018 Howald, P&R Howald Q         01645                % 04112 AVL---
+200304012 Howald, P&R Howald Q  01647  01647                % 04112 AVL---
+200412021 Gasperich, Gerhard M  01648  01648                % 04112 AVL---
+200412025 Gasperich, Francopho  01649  01649                % 04112 AVL---
+200405046 Luxembourg, Gare Roc  01655  01655                % 04112 AVL---
+200405039 Luxembourg, Wallis    01657  01657                % 04112 AVL---
+200405032 Luxembourg, Gare Cen  01700  01700                % 04112 AVL---
+200304006 Howald, Moureschanz   01704  01704                % 04112 AVL---
+200304011 Howald, Ronneboesch   01705  01705                % 04112 AVL---
+200304007 Howald, Op der Stirz  01706  01706                % 04112 AVL---
+200303002 Hesperange, Cité Um   01709                       % 04112 AVL---
+*Z 04113 AVL---       002 010                               % 04113 AVL---
+*L 28       200304018 200303002  01715  01739               % 04113 AVL---
+*A BE 200304018 200303002 000033  01715  01739              % 04113 AVL---
+*R 2 200303002 200304018 200303002  01715  01739            % 04113 AVL---
+*G GER 200304018 200303002  01715  01739                    % 04113 AVL---
+*A VE 200304018 200303002 000033  01715  01739              % 04113 AVL---
+200304018 Howald, P&R Howald Q         01715                % 04113 AVL---
+200304012 Howald, P&R Howald Q  01717  01717                % 04113 AVL---
+200412021 Gasperich, Gerhard M  01718  01718                % 04113 AVL---
+200412025 Gasperich, Francopho  01719  01719                % 04113 AVL---
+200405046 Luxembourg, Gare Roc  01725  01725                % 04113 AVL---
+200405039 Luxembourg, Wallis    01727  01727                % 04113 AVL---
+200405032 Luxembourg, Gare Cen  01730  01730                % 04113 AVL---
+200304006 Howald, Moureschanz   01734  01734                % 04113 AVL---
+200304011 Howald, Ronneboesch   01735  01735                % 04113 AVL---
+200304007 Howald, Op der Stirz  01736  01736                % 04113 AVL---
+200303002 Hesperange, Cité Um   01739                       % 04113 AVL---
+*Z 04114 AVL---       001 010                               % 04114 AVL---
+*L 28       200304018 200303002  01755  01819               % 04114 AVL---
+*A BE 200304018 200303002 000033  01755  01819              % 04114 AVL---
+*R 2 200303002 200304018 200303002  01755  01819            % 04114 AVL---
+*G GER 200304018 200303002  01755  01819                    % 04114 AVL---
+*A VE 200304018 200303002 000033  01755  01819              % 04114 AVL---
+200304018 Howald, P&R Howald Q         01755                % 04114 AVL---
+200304012 Howald, P&R Howald Q  01757  01757                % 04114 AVL---
+200412021 Gasperich, Gerhard M  01758  01758                % 04114 AVL---
+200412025 Gasperich, Francopho  01759  01759                % 04114 AVL---
+200405046 Luxembourg, Gare Roc  01805  01805                % 04114 AVL---
+200405039 Luxembourg, Wallis    01807  01807                % 04114 AVL---
+200405032 Luxembourg, Gare Cen  01810  01810                % 04114 AVL---
+200304006 Howald, Moureschanz   01814  01814                % 04114 AVL---
+200304011 Howald, Ronneboesch   01815  01815                % 04114 AVL---
+200304007 Howald, Op der Stirz  01816  01816                % 04114 AVL---
+200303002 Hesperange, Cité Um   01819                       % 04114 AVL---
+*Z 04115 AVL---       001 015                               % 04115 AVL---
+*L 28       200304018 200303002  01823  01848               % 04115 AVL---
+*A BE 200304018 200303002 000033  01823  01848              % 04115 AVL---
+*R 2 200303002 200304018 200303002  01823  01848            % 04115 AVL---
+*G GER 200304018 200303002  01823  01848                    % 04115 AVL---
+*A VE 200304018 200303002 000033  01823  01848              % 04115 AVL---
+200304018 Howald, P&R Howald Q         01823                % 04115 AVL---
+200304012 Howald, P&R Howald Q  01825  01825                % 04115 AVL---
+200412021 Gasperich, Gerhard M  01826  01826                % 04115 AVL---
+200412025 Gasperich, Francopho  01828  01828                % 04115 AVL---
+200405046 Luxembourg, Gare Roc  01834  01834                % 04115 AVL---
+200405039 Luxembourg, Wallis    01836  01836                % 04115 AVL---
+200405032 Luxembourg, Gare Cen  01839  01839                % 04115 AVL---
+200304006 Howald, Moureschanz   01843  01843                % 04115 AVL---
+200304011 Howald, Ronneboesch   01844  01844                % 04115 AVL---
+200304007 Howald, Op der Stirz  01845  01845                % 04115 AVL---
+200303002 Hesperange, Cité Um   01848                       % 04115 AVL---
+*Z 04116 AVL---       001 030                               % 04116 AVL---
+*L 28       200304018 200303002  01908  01933               % 04116 AVL---
+*A BE 200304018 200303002 000033  01908  01933              % 04116 AVL---
+*R 2 200303002 200304018 200303002  01908  01933            % 04116 AVL---
+*G GER 200304018 200303002  01908  01933                    % 04116 AVL---
+*A VE 200304018 200303002 000033  01908  01933              % 04116 AVL---
+200304018 Howald, P&R Howald Q         01908                % 04116 AVL---
+200304012 Howald, P&R Howald Q  01910  01910                % 04116 AVL---
+200412021 Gasperich, Gerhard M  01911  01911                % 04116 AVL---
+200412025 Gasperich, Francopho  01913  01913                % 04116 AVL---
+200405046 Luxembourg, Gare Roc  01919  01919                % 04116 AVL---
+200405039 Luxembourg, Wallis    01921  01921                % 04116 AVL---
+200405032 Luxembourg, Gare Cen  01924  01924                % 04116 AVL---
+200304006 Howald, Moureschanz   01928  01928                % 04116 AVL---
+200304011 Howald, Ronneboesch   01929  01929                % 04116 AVL---
+200304007 Howald, Op der Stirz  01930  01930                % 04116 AVL---
+200303002 Hesperange, Cité Um   01933                       % 04116 AVL---
+*Z 04117 AVL---                                             % 04117 AVL---
+*L 28       200304018 200303002  00608  00633               % 04117 AVL---
+*A BE 200304018 200303002 000033  00608  00633              % 04117 AVL---
+*R 2 200303002 200304018 200303002  00608  00633            % 04117 AVL---
+*G GMB 200304018 200303002  00608  00633                    % 04117 AVL---
+*A VE 200304018 200303002 000033  00608  00633              % 04117 AVL---
+200304018 Howald, P&R Howald Q         00608                % 04117 AVL---
+200304012 Howald, P&R Howald Q  00610  00610                % 04117 AVL---
+200412021 Gasperich, Gerhard M  00611  00611                % 04117 AVL---
+200412025 Gasperich, Francopho  00613  00613                % 04117 AVL---
+200405046 Luxembourg, Gare Roc  00619  00619                % 04117 AVL---
+200405039 Luxembourg, Wallis    00621  00621                % 04117 AVL---
+200405032 Luxembourg, Gare Cen  00624  00624                % 04117 AVL---
+200304006 Howald, Moureschanz   00628  00628                % 04117 AVL---
+200304011 Howald, Ronneboesch   00629  00629                % 04117 AVL---
+200304007 Howald, Op der Stirz  00630  00630                % 04117 AVL---
+200303002 Hesperange, Cité Um   00633                       % 04117 AVL---
+*Z 04118 AVL---       001 040                               % 04118 AVL---
+*L 28       200304018 200303002  00645  00709               % 04118 AVL---
+*A BE 200304018 200303002 000033  00645  00709              % 04118 AVL---
+*R 2 200303002 200304018 200303002  00645  00709            % 04118 AVL---
+*G GMB 200304018 200303002  00645  00709                    % 04118 AVL---
+*A VE 200304018 200303002 000033  00645  00709              % 04118 AVL---
+200304018 Howald, P&R Howald Q         00645                % 04118 AVL---
+200304012 Howald, P&R Howald Q  00647  00647                % 04118 AVL---
+200412021 Gasperich, Gerhard M  00648  00648                % 04118 AVL---
+200412025 Gasperich, Francopho  00649  00649                % 04118 AVL---
+200405046 Luxembourg, Gare Roc  00655  00655                % 04118 AVL---
+200405039 Luxembourg, Wallis    00657  00657                % 04118 AVL---
+200405032 Luxembourg, Gare Cen  00700  00700                % 04118 AVL---
+200304006 Howald, Moureschanz   00704  00704                % 04118 AVL---
+200304011 Howald, Ronneboesch   00705  00705                % 04118 AVL---
+200304007 Howald, Op der Stirz  00706  00706                % 04118 AVL---
+200303002 Hesperange, Cité Um   00709                       % 04118 AVL---
+*Z 04119 AVL---                                             % 04119 AVL---
+*L 28       200304018 200303002  00755  00819               % 04119 AVL---
+*A BE 200304018 200303002 000033  00755  00819              % 04119 AVL---
+*R 2 200303002 200304018 200303002  00755  00819            % 04119 AVL---
+*G GMB 200304018 200303002  00755  00819                    % 04119 AVL---
+*A VE 200304018 200303002 000033  00755  00819              % 04119 AVL---
+200304018 Howald, P&R Howald Q         00755                % 04119 AVL---
+200304012 Howald, P&R Howald Q  00757  00757                % 04119 AVL---
+200412021 Gasperich, Gerhard M  00758  00758                % 04119 AVL---
+200412025 Gasperich, Francopho  00759  00759                % 04119 AVL---
+200405046 Luxembourg, Gare Roc  00805  00805                % 04119 AVL---
+200405039 Luxembourg, Wallis    00807  00807                % 04119 AVL---
+200405032 Luxembourg, Gare Cen  00810  00810                % 04119 AVL---
+200304006 Howald, Moureschanz   00814  00814                % 04119 AVL---
+200304011 Howald, Ronneboesch   00815  00815                % 04119 AVL---
+200304007 Howald, Op der Stirz  00816  00816                % 04119 AVL---
+200303002 Hesperange, Cité Um   00819                       % 04119 AVL---
+*Z 04120 AVL---       001 090                               % 04120 AVL---
+*L 28       200304018 200303002  00838  00903               % 04120 AVL---
+*A BE 200304018 200303002 000033  00838  00903              % 04120 AVL---
+*R 2 200303002 200304018 200303002  00838  00903            % 04120 AVL---
+*G GMB 200304018 200303002  00838  00903                    % 04120 AVL---
+*A VE 200304018 200303002 000033  00838  00903              % 04120 AVL---
+200304018 Howald, P&R Howald Q         00838                % 04120 AVL---
+200304012 Howald, P&R Howald Q  00840  00840                % 04120 AVL---
+200412021 Gasperich, Gerhard M  00841  00841                % 04120 AVL---
+200412025 Gasperich, Francopho  00843  00843                % 04120 AVL---
+200405046 Luxembourg, Gare Roc  00849  00849                % 04120 AVL---
+200405039 Luxembourg, Wallis    00851  00851                % 04120 AVL---
+200405032 Luxembourg, Gare Cen  00854  00854                % 04120 AVL---
+200304006 Howald, Moureschanz   00858  00858                % 04120 AVL---
+200304011 Howald, Ronneboesch   00859  00859                % 04120 AVL---
+200304007 Howald, Op der Stirz  00900  00900                % 04120 AVL---
+200303002 Hesperange, Cité Um   00903                       % 04120 AVL---
+*Z 04121 AVL---       002 075                               % 04121 AVL---
+*L 28       200304018 200303002  01123  01148               % 04121 AVL---
+*A BE 200304018 200303002 000033  01123  01148              % 04121 AVL---
+*R 2 200303002 200304018 200303002  01123  01148            % 04121 AVL---
+*G GMB 200304018 200303002  01123  01148                    % 04121 AVL---
+*A VE 200304018 200303002 000033  01123  01148              % 04121 AVL---
+200304018 Howald, P&R Howald Q         01123                % 04121 AVL---
+200304012 Howald, P&R Howald Q  01125  01125                % 04121 AVL---
+200412021 Gasperich, Gerhard M  01126  01126                % 04121 AVL---
+200412025 Gasperich, Francopho  01128  01128                % 04121 AVL---
+200405046 Luxembourg, Gare Roc  01134  01134                % 04121 AVL---
+200405039 Luxembourg, Wallis    01136  01136                % 04121 AVL---
+200405032 Luxembourg, Gare Cen  01139  01139                % 04121 AVL---
+200304006 Howald, Moureschanz   01143  01143                % 04121 AVL---
+200304011 Howald, Ronneboesch   01144  01144                % 04121 AVL---
+200304007 Howald, Op der Stirz  01145  01145                % 04121 AVL---
+200303002 Hesperange, Cité Um   01148                       % 04121 AVL---
+*Z 04122 AVL---                                             % 04122 AVL---
+*L 28       200304018 200303002  01523  01548               % 04122 AVL---
+*A BE 200304018 200303002 000033  01523  01548              % 04122 AVL---
+*R 2 200303002 200304018 200303002  01523  01548            % 04122 AVL---
+*G GMB 200304018 200303002  01523  01548                    % 04122 AVL---
+*A VE 200304018 200303002 000033  01523  01548              % 04122 AVL---
+200304018 Howald, P&R Howald Q         01523                % 04122 AVL---
+200304012 Howald, P&R Howald Q  01525  01525                % 04122 AVL---
+200412021 Gasperich, Gerhard M  01526  01526                % 04122 AVL---
+200412025 Gasperich, Francopho  01528  01528                % 04122 AVL---
+200405046 Luxembourg, Gare Roc  01534  01534                % 04122 AVL---
+200405039 Luxembourg, Wallis    01536  01536                % 04122 AVL---
+200405032 Luxembourg, Gare Cen  01539  01539                % 04122 AVL---
+200304006 Howald, Moureschanz   01543  01543                % 04122 AVL---
+200304011 Howald, Ronneboesch   01544  01544                % 04122 AVL---
+200304007 Howald, Op der Stirz  01545  01545                % 04122 AVL---
+200303002 Hesperange, Cité Um   01548                       % 04122 AVL---
+*Z 04123 AVL---       001 040                               % 04123 AVL---
+*L 28       200304018 200303002  01555  01619               % 04123 AVL---
+*A BE 200304018 200303002 000033  01555  01619              % 04123 AVL---
+*R 2 200303002 200304018 200303002  01555  01619            % 04123 AVL---
+*G GMB 200304018 200303002  01555  01619                    % 04123 AVL---
+*A VE 200304018 200303002 000033  01555  01619              % 04123 AVL---
+200304018 Howald, P&R Howald Q         01555                % 04123 AVL---
+200304012 Howald, P&R Howald Q  01557  01557                % 04123 AVL---
+200412021 Gasperich, Gerhard M  01558  01558                % 04123 AVL---
+200412025 Gasperich, Francopho  01559  01559                % 04123 AVL---
+200405046 Luxembourg, Gare Roc  01605  01605                % 04123 AVL---
+200405039 Luxembourg, Wallis    01607  01607                % 04123 AVL---
+200405032 Luxembourg, Gare Cen  01610  01610                % 04123 AVL---
+200304006 Howald, Moureschanz   01614  01614                % 04123 AVL---
+200304011 Howald, Ronneboesch   01615  01615                % 04123 AVL---
+200304007 Howald, Op der Stirz  01616  01616                % 04123 AVL---
+200303002 Hesperange, Cité Um   01619                       % 04123 AVL---
+*Z 04124 AVL---       001 040                               % 04124 AVL---
+*L 28       200304018 200303002  01705  01729               % 04124 AVL---
+*A BE 200304018 200303002 000033  01705  01729              % 04124 AVL---
+*R 2 200303002 200304018 200303002  01705  01729            % 04124 AVL---
+*G GMB 200304018 200303002  01705  01729                    % 04124 AVL---
+*A VE 200304018 200303002 000033  01705  01729              % 04124 AVL---
+200304018 Howald, P&R Howald Q         01705                % 04124 AVL---
+200304012 Howald, P&R Howald Q  01707  01707                % 04124 AVL---
+200412021 Gasperich, Gerhard M  01708  01708                % 04124 AVL---
+200412025 Gasperich, Francopho  01709  01709                % 04124 AVL---
+200405046 Luxembourg, Gare Roc  01715  01715                % 04124 AVL---
+200405039 Luxembourg, Wallis    01717  01717                % 04124 AVL---
+200405032 Luxembourg, Gare Cen  01720  01720                % 04124 AVL---
+200304006 Howald, Moureschanz   01724  01724                % 04124 AVL---
+200304011 Howald, Ronneboesch   01725  01725                % 04124 AVL---
+200304007 Howald, Op der Stirz  01726  01726                % 04124 AVL---
+200303002 Hesperange, Cité Um   01729                       % 04124 AVL---
+*Z 04125 AVL---                                             % 04125 AVL---
+*L 28       200304018 200303002  01815  01839               % 04125 AVL---
+*A BE 200304018 200303002 000033  01815  01839              % 04125 AVL---
+*R 2 200303002 200304018 200303002  01815  01839            % 04125 AVL---
+*G GMB 200304018 200303002  01815  01839                    % 04125 AVL---
+*A VE 200304018 200303002 000033  01815  01839              % 04125 AVL---
+200304018 Howald, P&R Howald Q         01815                % 04125 AVL---
+200304012 Howald, P&R Howald Q  01817  01817                % 04125 AVL---
+200412021 Gasperich, Gerhard M  01818  01818                % 04125 AVL---
+200412025 Gasperich, Francopho  01819  01819                % 04125 AVL---
+200405046 Luxembourg, Gare Roc  01825  01825                % 04125 AVL---
+200405039 Luxembourg, Wallis    01827  01827                % 04125 AVL---
+200405032 Luxembourg, Gare Cen  01830  01830                % 04125 AVL---
+200304006 Howald, Moureschanz   01834  01834                % 04125 AVL---
+200304011 Howald, Ronneboesch   01835  01835                % 04125 AVL---
+200304007 Howald, Op der Stirz  01836  01836                % 04125 AVL---
+200303002 Hesperange, Cité Um   01839                       % 04125 AVL---
+*Z 04126 AVL---       001 030                               % 04126 AVL---
+*L 28       200304018 200303002  01853  01918               % 04126 AVL---
+*A BE 200304018 200303002 000033  01853  01918              % 04126 AVL---
+*R 2 200303002 200304018 200303002  01853  01918            % 04126 AVL---
+*G GMB 200304018 200303002  01853  01918                    % 04126 AVL---
+*A VE 200304018 200303002 000033  01853  01918              % 04126 AVL---
+200304018 Howald, P&R Howald Q         01853                % 04126 AVL---
+200304012 Howald, P&R Howald Q  01855  01855                % 04126 AVL---
+200412021 Gasperich, Gerhard M  01856  01856                % 04126 AVL---
+200412025 Gasperich, Francopho  01858  01858                % 04126 AVL---
+200405046 Luxembourg, Gare Roc  01904  01904                % 04126 AVL---
+200405039 Luxembourg, Wallis    01906  01906                % 04126 AVL---
+200405032 Luxembourg, Gare Cen  01909  01909                % 04126 AVL---
+200304006 Howald, Moureschanz   01913  01913                % 04126 AVL---
+200304011 Howald, Ronneboesch   01914  01914                % 04126 AVL---
+200304007 Howald, Op der Stirz  01915  01915                % 04126 AVL---
+200303002 Hesperange, Cité Um   01918                       % 04126 AVL---

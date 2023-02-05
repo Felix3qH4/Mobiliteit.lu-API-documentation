@@ -1,0 +1,297 @@
+*F 03 2
+*Z 18822 RGTR--                                             % 18822 RGTR--
+*L L05      200204006 500000065  00649  00735               % 18822 RGTR--
+*A cj 200204006 500000065 000343  00649  00735              % 18822 RGTR--
+*A ad 200204006 500000065 000343  00649  00735              % 18822 RGTR--
+*R 1 500000065 200204006 500000065  00649  00735            % 18822 RGTR--
+*G 063 200204006 500000065  00649  00735                    % 18822 RGTR--
+*A VE 200204006 500000065 000343  00649  00735              % 18822 RGTR--
+*I FD 200204006 500000065        0003363  00649  00735      % 18822 RGTR--
+200204006 Oetrange, Trengen Kn         00649                % 18822 RGTR--
+200204003 Oetrange, Éiter       00652  00652                % 18822 RGTR--
+200204005 Oetrange, Staefeld    00652  00652                % 18822 RGTR--
+210402003 Lenningen, Hakenhaff  00653  00653                % 18822 RGTR--
+210401002 Canach, Huehlgaass    00657  00657                % 18822 RGTR--
+210401006 Canach, Weber         00658  00658                % 18822 RGTR--
+210401004 Canach, Post          00658  00658                % 18822 RGTR--
+210402002 Lenningen, Basilika   00703  00703                % 18822 RGTR--
+180802001 Ehnen, An den Aessen  00705  00705                % 18822 RGTR--
+210802001 Hëttermillen          00708  00708                % 18822 RGTR--
+210801001 Greiveldange, Keller  00708  00708                % 18822 RGTR--
+210801003 Greiveldange, Neie W  00709  00709                % 18822 RGTR--
+210801002 Greiveldange, Gemeng  00709  00709                % 18822 RGTR--
+210803003 Stadtbredimus, Schle  00713  00713                % 18822 RGTR--
+210803005 Stadtbredimus, Vinsm  00714  00714                % 18822 RGTR--
+210803006 Stadtbredimus, Wandm  00715  00715                % 18822 RGTR--
+210701003 Remich, Caves St. Ma  00716  00716                % 18822 RGTR--
+210701015 Remich, rue de la Co  00718  00718                % 18822 RGTR--
+210701001 Remich, Belvédère     00719  00719                % 18822 RGTR--
+210701008 Remich, Maatebierg    00720  00720                % 18822 RGTR--
+210701006 Remich, Gare routièr  00722  00722                % 18822 RGTR--
+210701011 Remich, Piscine       00723  00723                % 18822 RGTR--
+500000065 Perl, Schengen Lyzeu  00735                       % 18822 RGTR--
+*Z 18823 RGTR--                                             % 18823 RGTR--
+*L L05      200204006 500000065  00649  00735               % 18823 RGTR--
+*A cj 200204006 500000065 000344  00649  00735              % 18823 RGTR--
+*A ad 200204006 500000065 000344  00649  00735              % 18823 RGTR--
+*R 1 500000065 200204006 500000065  00649  00735            % 18823 RGTR--
+*G 050 200204006 500000065  00649  00735                    % 18823 RGTR--
+*A VE 200204006 500000065 000344  00649  00735              % 18823 RGTR--
+*I FD 200204006 500000065        0003363  00649  00735      % 18823 RGTR--
+200204006 Oetrange, Trengen Kn         00649                % 18823 RGTR--
+200204003 Oetrange, Éiter       00652  00652                % 18823 RGTR--
+200204005 Oetrange, Staefeld    00652  00652                % 18823 RGTR--
+210402003 Lenningen, Hakenhaff  00653  00653                % 18823 RGTR--
+210401002 Canach, Huehlgaass    00657  00657                % 18823 RGTR--
+210401006 Canach, Weber         00658  00658                % 18823 RGTR--
+210401004 Canach, Post          00658  00658                % 18823 RGTR--
+210402002 Lenningen, Basilika   00703  00703                % 18823 RGTR--
+180802001 Ehnen, An den Aessen  00705  00705                % 18823 RGTR--
+210802001 Hëttermillen          00708  00708                % 18823 RGTR--
+210801001 Greiveldange, Keller  00708  00708                % 18823 RGTR--
+210801003 Greiveldange, Neie W  00709  00709                % 18823 RGTR--
+210801002 Greiveldange, Gemeng  00709  00709                % 18823 RGTR--
+210803003 Stadtbredimus, Schle  00713  00713                % 18823 RGTR--
+210803005 Stadtbredimus, Vinsm  00714  00714                % 18823 RGTR--
+210803006 Stadtbredimus, Wandm  00715  00715                % 18823 RGTR--
+210701003 Remich, Caves St. Ma  00716  00716                % 18823 RGTR--
+210701015 Remich, rue de la Co  00718  00718                % 18823 RGTR--
+210701001 Remich, Belvédère     00719  00719                % 18823 RGTR--
+210701008 Remich, Maatebierg    00720  00720                % 18823 RGTR--
+210701006 Remich, Gare routièr  00722  00722                % 18823 RGTR--
+210701011 Remich, Piscine       00723  00723                % 18823 RGTR--
+500000065 Perl, Schengen Lyzeu  00735                       % 18823 RGTR--
+*Z 18824 RGTR--                                             % 18824 RGTR--
+*L L05      500000065 200204006  01600  01646               % 18824 RGTR--
+*A cj 500000065 200204006 000343  01600  01646              % 18824 RGTR--
+*A JU 500000065 200204006 000343  01600  01646              % 18824 RGTR--
+*A ad 500000065 200204006 000343  01600  01646              % 18824 RGTR--
+*R 2 200204006 500000065 200204006  01600  01646            % 18824 RGTR--
+*G 063 500000065 200204006  01600  01646                    % 18824 RGTR--
+*A VE 500000065 200204006 000343  01600  01646              % 18824 RGTR--
+*I FD 500000065 200204006        0001945  01600  01646      % 18824 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18824 RGTR--
+210701011 Remich, Piscine       01610  01610                % 18824 RGTR--
+210701006 Remich, Gare routièr  01611  01611                % 18824 RGTR--
+210701008 Remich, Maatebierg    01612  01612                % 18824 RGTR--
+210701001 Remich, Belvédère     01613  01613                % 18824 RGTR--
+210701015 Remich, rue de la Co  01615  01615                % 18824 RGTR--
+210701003 Remich, Caves St. Ma  01617  01617                % 18824 RGTR--
+210803006 Stadtbredimus, Wandm  01618  01618                % 18824 RGTR--
+210803005 Stadtbredimus, Vinsm  01619  01619                % 18824 RGTR--
+210803003 Stadtbredimus, Schle  01620  01620                % 18824 RGTR--
+210801002 Greiveldange, Gemeng  01624  01624                % 18824 RGTR--
+210801003 Greiveldange, Neie W  01625  01625                % 18824 RGTR--
+210801001 Greiveldange, Keller  01625  01625                % 18824 RGTR--
+210802001 Hëttermillen          01626  01626                % 18824 RGTR--
+180802001 Ehnen, An den Aessen  01629  01629                % 18824 RGTR--
+210402002 Lenningen, Basilika   01631  01631                % 18824 RGTR--
+210401004 Canach, Post          01636  01636                % 18824 RGTR--
+210401006 Canach, Weber         01636  01636                % 18824 RGTR--
+210401002 Canach, Huehlgaass    01638  01638                % 18824 RGTR--
+210402003 Lenningen, Hakenhaff  01642  01642                % 18824 RGTR--
+200204005 Oetrange, Staefeld    01643  01643                % 18824 RGTR--
+200204003 Oetrange, Éiter       01644  01644                % 18824 RGTR--
+200204006 Oetrange, Trengen Kn  01646                       % 18824 RGTR--
+*Z 18825 RGTR--                                             % 18825 RGTR--
+*L L05      500000065 200204006  01600  01646               % 18825 RGTR--
+*A cj 500000065 200204006 000344  01600  01646              % 18825 RGTR--
+*A JU 500000065 200204006 000344  01600  01646              % 18825 RGTR--
+*A ad 500000065 200204006 000344  01600  01646              % 18825 RGTR--
+*R 2 200204006 500000065 200204006  01600  01646            % 18825 RGTR--
+*G 050 500000065 200204006  01600  01646                    % 18825 RGTR--
+*A VE 500000065 200204006 000344  01600  01646              % 18825 RGTR--
+*I FD 500000065 200204006        0001945  01600  01646      % 18825 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18825 RGTR--
+210701011 Remich, Piscine       01610  01610                % 18825 RGTR--
+210701006 Remich, Gare routièr  01611  01611                % 18825 RGTR--
+210701008 Remich, Maatebierg    01612  01612                % 18825 RGTR--
+210701001 Remich, Belvédère     01613  01613                % 18825 RGTR--
+210701015 Remich, rue de la Co  01615  01615                % 18825 RGTR--
+210701003 Remich, Caves St. Ma  01617  01617                % 18825 RGTR--
+210803006 Stadtbredimus, Wandm  01618  01618                % 18825 RGTR--
+210803005 Stadtbredimus, Vinsm  01619  01619                % 18825 RGTR--
+210803003 Stadtbredimus, Schle  01620  01620                % 18825 RGTR--
+210801002 Greiveldange, Gemeng  01624  01624                % 18825 RGTR--
+210801003 Greiveldange, Neie W  01625  01625                % 18825 RGTR--
+210801001 Greiveldange, Keller  01625  01625                % 18825 RGTR--
+210802001 Hëttermillen          01626  01626                % 18825 RGTR--
+180802001 Ehnen, An den Aessen  01629  01629                % 18825 RGTR--
+210402002 Lenningen, Basilika   01631  01631                % 18825 RGTR--
+210401004 Canach, Post          01636  01636                % 18825 RGTR--
+210401006 Canach, Weber         01636  01636                % 18825 RGTR--
+210401002 Canach, Huehlgaass    01638  01638                % 18825 RGTR--
+210402003 Lenningen, Hakenhaff  01642  01642                % 18825 RGTR--
+200204005 Oetrange, Staefeld    01643  01643                % 18825 RGTR--
+200204003 Oetrange, Éiter       01644  01644                % 18825 RGTR--
+200204006 Oetrange, Trengen Kn  01646                       % 18825 RGTR--
+*Z 18826 RGTR--                                             % 18826 RGTR--
+*L L05      500000065 200204006  01310  01352               % 18826 RGTR--
+*A cj 500000065 200204006 000339  01310  01352              % 18826 RGTR--
+*A JU 500000065 200204006 000339  01310  01352              % 18826 RGTR--
+*A ad 500000065 200204006 000339  01310  01352              % 18826 RGTR--
+*R 2 200204006 500000065 200204006  01310  01352            % 18826 RGTR--
+*G 050 500000065 200204006  01310  01352                    % 18826 RGTR--
+*A VE 500000065 200204006 000339  01310  01352              % 18826 RGTR--
+*I FD 500000065 200204006        0001987  01310  01352      % 18826 RGTR--
+500000065 Perl, Schengen Lyzeu         01310                % 18826 RGTR--
+210701011 Remich, Piscine       01320  01320                % 18826 RGTR--
+210701006 Remich, Gare routièr  01320  01320                % 18826 RGTR--
+210701008 Remich, Maatebierg    01321  01321                % 18826 RGTR--
+210701001 Remich, Belvédère     01322  01322                % 18826 RGTR--
+210701015 Remich, rue de la Co  01324  01324                % 18826 RGTR--
+210701003 Remich, Caves St. Ma  01326  01326                % 18826 RGTR--
+210803006 Stadtbredimus, Wandm  01327  01327                % 18826 RGTR--
+210803005 Stadtbredimus, Vinsm  01328  01328                % 18826 RGTR--
+210803003 Stadtbredimus, Schle  01329  01329                % 18826 RGTR--
+210801002 Greiveldange, Gemeng  01333  01333                % 18826 RGTR--
+210801003 Greiveldange, Neie W  01334  01334                % 18826 RGTR--
+210801001 Greiveldange, Keller  01334  01334                % 18826 RGTR--
+210802001 Hëttermillen          01335  01335                % 18826 RGTR--
+180802001 Ehnen, An den Aessen  01338  01338                % 18826 RGTR--
+210402002 Lenningen, Basilika   01340  01340                % 18826 RGTR--
+210401004 Canach, Post          01345  01345                % 18826 RGTR--
+210401006 Canach, Weber         01345  01345                % 18826 RGTR--
+210401002 Canach, Huehlgaass    01346  01346                % 18826 RGTR--
+210402003 Lenningen, Hakenhaff  01350  01350                % 18826 RGTR--
+200204005 Oetrange, Staefeld    01351  01351                % 18826 RGTR--
+200204003 Oetrange, Éiter       01352  01352                % 18826 RGTR--
+200204006 Oetrange, Trengen Kn  01352                       % 18826 RGTR--
+*Z 18827 RGTR--                                             % 18827 RGTR--
+*L L05      210401002 500000065  00657  00735               % 18827 RGTR--
+*A cj 210401002 500000065 000342  00657  00735              % 18827 RGTR--
+*A ad 210401002 500000065 000342  00657  00735              % 18827 RGTR--
+*R 1 500000065 210401002 500000065  00657  00735            % 18827 RGTR--
+*G 063 210401002 500000065  00657  00735                    % 18827 RGTR--
+*A VE 210401002 500000065 000342  00657  00735              % 18827 RGTR--
+*I FD 210401002 500000065        0003292  00657  00735      % 18827 RGTR--
+210401002 Canach, Huehlgaass           00657                % 18827 RGTR--
+210401006 Canach, Weber         00658  00658                % 18827 RGTR--
+210401004 Canach, Post          00658  00658                % 18827 RGTR--
+210402002 Lenningen, Basilika   00702  00702                % 18827 RGTR--
+180802001 Ehnen, An den Aessen  00704  00704                % 18827 RGTR--
+210802001 Hëttermillen          00707  00707                % 18827 RGTR--
+210801001 Greiveldange, Keller  00708  00708                % 18827 RGTR--
+210801003 Greiveldange, Neie W  00708  00708                % 18827 RGTR--
+210801002 Greiveldange, Gemeng  00709  00709                % 18827 RGTR--
+210803003 Stadtbredimus, Schle  00713  00713                % 18827 RGTR--
+210803005 Stadtbredimus, Vinsm  00714  00714                % 18827 RGTR--
+210803006 Stadtbredimus, Wandm  00714  00714                % 18827 RGTR--
+210701003 Remich, Caves St. Ma  00715  00715                % 18827 RGTR--
+210701015 Remich, rue de la Co  00718  00718                % 18827 RGTR--
+210701001 Remich, Belvédère     00719  00719                % 18827 RGTR--
+210701008 Remich, Maatebierg    00720  00720                % 18827 RGTR--
+210701006 Remich, Gare routièr  00722  00722                % 18827 RGTR--
+210701011 Remich, Piscine       00723  00723                % 18827 RGTR--
+500000065 Perl, Schengen Lyzeu  00735                       % 18827 RGTR--
+*Z 18828 RGTR--                                             % 18828 RGTR--
+*L L05      210401002 500000065  00657  00735               % 18828 RGTR--
+*A cj 210401002 500000065 000341  00657  00735              % 18828 RGTR--
+*A ad 210401002 500000065 000341  00657  00735              % 18828 RGTR--
+*R 1 500000065 210401002 500000065  00657  00735            % 18828 RGTR--
+*G 050 210401002 500000065  00657  00735                    % 18828 RGTR--
+*A VE 210401002 500000065 000341  00657  00735              % 18828 RGTR--
+*I FD 210401002 500000065        0003292  00657  00735      % 18828 RGTR--
+210401002 Canach, Huehlgaass           00657                % 18828 RGTR--
+210401006 Canach, Weber         00658  00658                % 18828 RGTR--
+210401004 Canach, Post          00658  00658                % 18828 RGTR--
+210402002 Lenningen, Basilika   00702  00702                % 18828 RGTR--
+180802001 Ehnen, An den Aessen  00704  00704                % 18828 RGTR--
+210802001 Hëttermillen          00707  00707                % 18828 RGTR--
+210801001 Greiveldange, Keller  00708  00708                % 18828 RGTR--
+210801003 Greiveldange, Neie W  00708  00708                % 18828 RGTR--
+210801002 Greiveldange, Gemeng  00709  00709                % 18828 RGTR--
+210803003 Stadtbredimus, Schle  00713  00713                % 18828 RGTR--
+210803005 Stadtbredimus, Vinsm  00714  00714                % 18828 RGTR--
+210803006 Stadtbredimus, Wandm  00714  00714                % 18828 RGTR--
+210701003 Remich, Caves St. Ma  00715  00715                % 18828 RGTR--
+210701015 Remich, rue de la Co  00718  00718                % 18828 RGTR--
+210701001 Remich, Belvédère     00719  00719                % 18828 RGTR--
+210701008 Remich, Maatebierg    00720  00720                % 18828 RGTR--
+210701006 Remich, Gare routièr  00722  00722                % 18828 RGTR--
+210701011 Remich, Piscine       00723  00723                % 18828 RGTR--
+500000065 Perl, Schengen Lyzeu  00735                       % 18828 RGTR--
+*Z 18829 RGTR--                                             % 18829 RGTR--
+*L L05      500000065 210401002  01600  01638               % 18829 RGTR--
+*A cj 500000065 210401002 000342  01600  01638              % 18829 RGTR--
+*A JU 500000065 210401002 000342  01600  01638              % 18829 RGTR--
+*A ad 500000065 210401002 000342  01600  01638              % 18829 RGTR--
+*R 2 210401002 500000065 210401002  01600  01638            % 18829 RGTR--
+*G 063 500000065 210401002  01600  01638                    % 18829 RGTR--
+*A VE 500000065 210401002 000342  01600  01638              % 18829 RGTR--
+*I FD 500000065 210401002        0001945  01600  01638      % 18829 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18829 RGTR--
+210701011 Remich, Piscine       01610  01610                % 18829 RGTR--
+210701006 Remich, Gare routièr  01611  01611                % 18829 RGTR--
+210701008 Remich, Maatebierg    01612  01612                % 18829 RGTR--
+210701001 Remich, Belvédère     01613  01613                % 18829 RGTR--
+210701015 Remich, rue de la Co  01615  01615                % 18829 RGTR--
+210701003 Remich, Caves St. Ma  01617  01617                % 18829 RGTR--
+210803006 Stadtbredimus, Wandm  01618  01618                % 18829 RGTR--
+210803005 Stadtbredimus, Vinsm  01619  01619                % 18829 RGTR--
+210803003 Stadtbredimus, Schle  01620  01620                % 18829 RGTR--
+210801002 Greiveldange, Gemeng  01624  01624                % 18829 RGTR--
+210801003 Greiveldange, Neie W  01625  01625                % 18829 RGTR--
+210801001 Greiveldange, Keller  01625  01625                % 18829 RGTR--
+210802001 Hëttermillen          01626  01626                % 18829 RGTR--
+180802001 Ehnen, An den Aessen  01629  01629                % 18829 RGTR--
+210402002 Lenningen, Basilika   01631  01631                % 18829 RGTR--
+210401004 Canach, Post          01636  01636                % 18829 RGTR--
+210401006 Canach, Weber         01636  01636                % 18829 RGTR--
+210401002 Canach, Huehlgaass    01638                       % 18829 RGTR--
+*Z 18830 RGTR--                                             % 18830 RGTR--
+*L L05      500000065 210401002  01600  01638               % 18830 RGTR--
+*A cj 500000065 210401002 000341  01600  01638              % 18830 RGTR--
+*A JU 500000065 210401002 000341  01600  01638              % 18830 RGTR--
+*A ad 500000065 210401002 000341  01600  01638              % 18830 RGTR--
+*R 2 210401002 500000065 210401002  01600  01638            % 18830 RGTR--
+*G 050 500000065 210401002  01600  01638                    % 18830 RGTR--
+*A VE 500000065 210401002 000341  01600  01638              % 18830 RGTR--
+*I FD 500000065 210401002        0001945  01600  01638      % 18830 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18830 RGTR--
+210701011 Remich, Piscine       01610  01610                % 18830 RGTR--
+210701006 Remich, Gare routièr  01611  01611                % 18830 RGTR--
+210701008 Remich, Maatebierg    01612  01612                % 18830 RGTR--
+210701001 Remich, Belvédère     01613  01613                % 18830 RGTR--
+210701015 Remich, rue de la Co  01615  01615                % 18830 RGTR--
+210701003 Remich, Caves St. Ma  01617  01617                % 18830 RGTR--
+210803006 Stadtbredimus, Wandm  01618  01618                % 18830 RGTR--
+210803005 Stadtbredimus, Vinsm  01619  01619                % 18830 RGTR--
+210803003 Stadtbredimus, Schle  01620  01620                % 18830 RGTR--
+210801002 Greiveldange, Gemeng  01624  01624                % 18830 RGTR--
+210801003 Greiveldange, Neie W  01625  01625                % 18830 RGTR--
+210801001 Greiveldange, Keller  01625  01625                % 18830 RGTR--
+210802001 Hëttermillen          01626  01626                % 18830 RGTR--
+180802001 Ehnen, An den Aessen  01629  01629                % 18830 RGTR--
+210402002 Lenningen, Basilika   01631  01631                % 18830 RGTR--
+210401004 Canach, Post          01636  01636                % 18830 RGTR--
+210401006 Canach, Weber         01636  01636                % 18830 RGTR--
+210401002 Canach, Huehlgaass    01638                       % 18830 RGTR--
+*Z 18831 RGTR--                                             % 18831 RGTR--
+*L L05      500000065 210401002  01310  01346               % 18831 RGTR--
+*A cj 500000065 210401002 000341  01310  01346              % 18831 RGTR--
+*A JU 500000065 210401002 000341  01310  01346              % 18831 RGTR--
+*A ad 500000065 210401002 000341  01310  01346              % 18831 RGTR--
+*R 2 210401002 500000065 210401002  01310  01346            % 18831 RGTR--
+*G 050 500000065 210401002  01310  01346                    % 18831 RGTR--
+*A VE 500000065 210401002 000341  01310  01346              % 18831 RGTR--
+*I FD 500000065 210401002        0001987  01310  01346      % 18831 RGTR--
+500000065 Perl, Schengen Lyzeu         01310                % 18831 RGTR--
+210701011 Remich, Piscine       01320  01320                % 18831 RGTR--
+210701006 Remich, Gare routièr  01320  01320                % 18831 RGTR--
+210701008 Remich, Maatebierg    01321  01321                % 18831 RGTR--
+210701001 Remich, Belvédère     01322  01322                % 18831 RGTR--
+210701015 Remich, rue de la Co  01324  01324                % 18831 RGTR--
+210701003 Remich, Caves St. Ma  01326  01326                % 18831 RGTR--
+210803006 Stadtbredimus, Wandm  01327  01327                % 18831 RGTR--
+210803005 Stadtbredimus, Vinsm  01328  01328                % 18831 RGTR--
+210803003 Stadtbredimus, Schle  01329  01329                % 18831 RGTR--
+210801002 Greiveldange, Gemeng  01333  01333                % 18831 RGTR--
+210801003 Greiveldange, Neie W  01334  01334                % 18831 RGTR--
+210801001 Greiveldange, Keller  01334  01334                % 18831 RGTR--
+210802001 Hëttermillen          01335  01335                % 18831 RGTR--
+180802001 Ehnen, An den Aessen  01338  01338                % 18831 RGTR--
+210402002 Lenningen, Basilika   01340  01340                % 18831 RGTR--
+210401004 Canach, Post          01345  01345                % 18831 RGTR--
+210401006 Canach, Weber         01345  01345                % 18831 RGTR--
+210401002 Canach, Huehlgaass    01346                       % 18831 RGTR--

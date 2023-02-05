@@ -1,0 +1,769 @@
+*F 03 2
+*Z 09223 RGTR--                                             % 09223 RGTR--
+*L 302      500000083 200304011  00515  00617               % 09223 RGTR--
+*R 1 200304011 500000083 200304011  00515  00617            % 09223 RGTR--
+*G 070 500000083 200304011  00515  00617                    % 09223 RGTR--
+*A VE 500000083 200304011 000033  00515  00617              % 09223 RGTR--
+*I FD 500000083 200304011        0001886  00515  00617      % 09223 RGTR--
+500000083 Trier, Theodor-Heuss         00515                % 09223 RGTR--
+500000080 Trier, Nordallee     -00516  00516                % 09223 RGTR--
+500000096 Trier, Zurlaubener U -00517  00517                % 09223 RGTR--
+500000095 Trier, Hochschule    -00519  00519                % 09223 RGTR--
+180703008 Wasserbillig, Meseni  00533  00533                % 09223 RGTR--
+200701005 Munsbach, Parc d'Act  00549  00549                % 09223 RGTR--
+200508001 Senningerberg, Autob  00555  00555                % 09223 RGTR--
+200501001 Aéroport Luxembourg/  00557  00557                % 09223 RGTR--
+200508012 Senningerberg, Lou H  00558  00558                % 09223 RGTR--
+200501004 Findel                00559  00559                % 09223 RGTR--
+200416001 Findel, Cité Aéropor  00600  00600                % 09223 RGTR--
+200411001 Findel, Business Cen  00601  00601                % 09223 RGTR--
+200412021 Gasperich, Gerhard M  00610  00610                % 09223 RGTR--
+200412023 Gasperich, Leonardo   00611  00611                % 09223 RGTR--
+200412004 Gasperich, Émile Bia  00612  00612                % 09223 RGTR--
+200412006 Gasperich, Cloche d'  00613  00613                % 09223 RGTR--
+200304017 Howald, P&R Howald Q  00616  00616                % 09223 RGTR--
+200304011 Howald, Ronneboesch   00617                       % 09223 RGTR--
+*Z 09224 RGTR--                                             % 09224 RGTR--
+*L 302      500000083 200304011  00615  00732               % 09224 RGTR--
+*R 1 200304011 500000083 200304011  00615  00732            % 09224 RGTR--
+*G 070 500000083 200304011  00615  00732                    % 09224 RGTR--
+*A VE 500000083 200304011 000033  00615  00732              % 09224 RGTR--
+*I FD 500000083 200304011        0001887  00615  00732      % 09224 RGTR--
+500000083 Trier, Theodor-Heuss         00615                % 09224 RGTR--
+500000080 Trier, Nordallee     -00616  00616                % 09224 RGTR--
+500000096 Trier, Zurlaubener U -00619  00619                % 09224 RGTR--
+500000095 Trier, Hochschule    -00622  00622                % 09224 RGTR--
+180703008 Wasserbillig, Meseni  00637  00637                % 09224 RGTR--
+200701005 Munsbach, Parc d'Act  00659  00659                % 09224 RGTR--
+200508001 Senningerberg, Autob  00706  00706                % 09224 RGTR--
+200501001 Aéroport Luxembourg/  00709  00709                % 09224 RGTR--
+200508012 Senningerberg, Lou H  00711  00711                % 09224 RGTR--
+200501004 Findel                00712  00712                % 09224 RGTR--
+200416001 Findel, Cité Aéropor  00713  00713                % 09224 RGTR--
+200411001 Findel, Business Cen  00714  00714                % 09224 RGTR--
+200412021 Gasperich, Gerhard M  00724  00724                % 09224 RGTR--
+200412023 Gasperich, Leonardo   00725  00725                % 09224 RGTR--
+200412004 Gasperich, Émile Bia  00726  00726                % 09224 RGTR--
+200412006 Gasperich, Cloche d'  00727  00727                % 09224 RGTR--
+200304017 Howald, P&R Howald Q  00731  00731                % 09224 RGTR--
+200304011 Howald, Ronneboesch   00732                       % 09224 RGTR--
+*Z 09225 RGTR--                                             % 09225 RGTR--
+*L 302      500000083 200304011  00645  00802               % 09225 RGTR--
+*R 1 200304011 500000083 200304011  00645  00802            % 09225 RGTR--
+*G 070 500000083 200304011  00645  00802                    % 09225 RGTR--
+*A VE 500000083 200304011 000033  00645  00802              % 09225 RGTR--
+*I FD 500000083 200304011        0001964  00645  00802      % 09225 RGTR--
+500000083 Trier, Theodor-Heuss         00645                % 09225 RGTR--
+500000080 Trier, Nordallee     -00646  00646                % 09225 RGTR--
+500000096 Trier, Zurlaubener U -00649  00649                % 09225 RGTR--
+500000095 Trier, Hochschule    -00652  00652                % 09225 RGTR--
+180703008 Wasserbillig, Meseni  00707  00707                % 09225 RGTR--
+200701005 Munsbach, Parc d'Act  00729  00729                % 09225 RGTR--
+200508001 Senningerberg, Autob  00736  00736                % 09225 RGTR--
+200501001 Aéroport Luxembourg/  00739  00739                % 09225 RGTR--
+200508012 Senningerberg, Lou H  00741  00741                % 09225 RGTR--
+200501004 Findel                00742  00742                % 09225 RGTR--
+200416001 Findel, Cité Aéropor  00743  00743                % 09225 RGTR--
+200411001 Findel, Business Cen  00744  00744                % 09225 RGTR--
+200412021 Gasperich, Gerhard M  00754  00754                % 09225 RGTR--
+200412023 Gasperich, Leonardo   00755  00755                % 09225 RGTR--
+200412004 Gasperich, Émile Bia  00756  00756                % 09225 RGTR--
+200412006 Gasperich, Cloche d'  00757  00757                % 09225 RGTR--
+200304017 Howald, P&R Howald Q  00801  00801                % 09225 RGTR--
+200304011 Howald, Ronneboesch   00802                       % 09225 RGTR--
+*Z 09226 RGTR--                                             % 09226 RGTR--
+*L 302      500000083 200304011  00715  00832               % 09226 RGTR--
+*R 1 200304011 500000083 200304011  00715  00832            % 09226 RGTR--
+*G 070 500000083 200304011  00715  00832                    % 09226 RGTR--
+*A VE 500000083 200304011 000033  00715  00832              % 09226 RGTR--
+*I FD 500000083 200304011        0001898  00715  00832      % 09226 RGTR--
+500000083 Trier, Theodor-Heuss         00715                % 09226 RGTR--
+500000080 Trier, Nordallee     -00716  00716                % 09226 RGTR--
+500000096 Trier, Zurlaubener U -00719  00719                % 09226 RGTR--
+500000095 Trier, Hochschule    -00722  00722                % 09226 RGTR--
+180703008 Wasserbillig, Meseni  00737  00737                % 09226 RGTR--
+200701005 Munsbach, Parc d'Act  00759  00759                % 09226 RGTR--
+200508001 Senningerberg, Autob  00806  00806                % 09226 RGTR--
+200501001 Aéroport Luxembourg/  00809  00809                % 09226 RGTR--
+200508012 Senningerberg, Lou H  00811  00811                % 09226 RGTR--
+200501004 Findel                00812  00812                % 09226 RGTR--
+200416001 Findel, Cité Aéropor  00813  00813                % 09226 RGTR--
+200411001 Findel, Business Cen  00814  00814                % 09226 RGTR--
+200412021 Gasperich, Gerhard M  00824  00824                % 09226 RGTR--
+200412023 Gasperich, Leonardo   00825  00825                % 09226 RGTR--
+200412004 Gasperich, Émile Bia  00826  00826                % 09226 RGTR--
+200412006 Gasperich, Cloche d'  00827  00827                % 09226 RGTR--
+200304017 Howald, P&R Howald Q  00831  00831                % 09226 RGTR--
+200304011 Howald, Ronneboesch   00832                       % 09226 RGTR--
+*Z 09227 RGTR--                                             % 09227 RGTR--
+*L 302      500000083 200304011  00745  00902               % 09227 RGTR--
+*R 1 200304011 500000083 200304011  00745  00902            % 09227 RGTR--
+*G 070 500000083 200304011  00745  00902                    % 09227 RGTR--
+*A VE 500000083 200304011 000033  00745  00902              % 09227 RGTR--
+*I FD 500000083 200304011        0001965  00745  00902      % 09227 RGTR--
+500000083 Trier, Theodor-Heuss         00745                % 09227 RGTR--
+500000080 Trier, Nordallee     -00746  00746                % 09227 RGTR--
+500000096 Trier, Zurlaubener U -00749  00749                % 09227 RGTR--
+500000095 Trier, Hochschule    -00752  00752                % 09227 RGTR--
+180703008 Wasserbillig, Meseni  00807  00807                % 09227 RGTR--
+200701005 Munsbach, Parc d'Act  00829  00829                % 09227 RGTR--
+200508001 Senningerberg, Autob  00836  00836                % 09227 RGTR--
+200501001 Aéroport Luxembourg/  00839  00839                % 09227 RGTR--
+200508012 Senningerberg, Lou H  00841  00841                % 09227 RGTR--
+200501004 Findel                00842  00842                % 09227 RGTR--
+200416001 Findel, Cité Aéropor  00843  00843                % 09227 RGTR--
+200411001 Findel, Business Cen  00844  00844                % 09227 RGTR--
+200412021 Gasperich, Gerhard M  00854  00854                % 09227 RGTR--
+200412023 Gasperich, Leonardo   00855  00855                % 09227 RGTR--
+200412004 Gasperich, Émile Bia  00856  00856                % 09227 RGTR--
+200412006 Gasperich, Cloche d'  00857  00857                % 09227 RGTR--
+200304017 Howald, P&R Howald Q  00901  00901                % 09227 RGTR--
+200304011 Howald, Ronneboesch   00902                       % 09227 RGTR--
+*Z 09228 RGTR--                                             % 09228 RGTR--
+*L 302      500000083 200304011  00815  00932               % 09228 RGTR--
+*R 1 200304011 500000083 200304011  00815  00932            % 09228 RGTR--
+*G 070 500000083 200304011  00815  00932                    % 09228 RGTR--
+*A VE 500000083 200304011 000033  00815  00932              % 09228 RGTR--
+*I FD 500000083 200304011        0001882  00815  00932      % 09228 RGTR--
+500000083 Trier, Theodor-Heuss         00815                % 09228 RGTR--
+500000080 Trier, Nordallee     -00816  00816                % 09228 RGTR--
+500000096 Trier, Zurlaubener U -00819  00819                % 09228 RGTR--
+500000095 Trier, Hochschule    -00822  00822                % 09228 RGTR--
+180703008 Wasserbillig, Meseni  00837  00837                % 09228 RGTR--
+200701005 Munsbach, Parc d'Act  00859  00859                % 09228 RGTR--
+200508001 Senningerberg, Autob  00906  00906                % 09228 RGTR--
+200501001 Aéroport Luxembourg/  00909  00909                % 09228 RGTR--
+200508012 Senningerberg, Lou H  00911  00911                % 09228 RGTR--
+200501004 Findel                00912  00912                % 09228 RGTR--
+200416001 Findel, Cité Aéropor  00913  00913                % 09228 RGTR--
+200411001 Findel, Business Cen  00914  00914                % 09228 RGTR--
+200412021 Gasperich, Gerhard M  00924  00924                % 09228 RGTR--
+200412023 Gasperich, Leonardo   00925  00925                % 09228 RGTR--
+200412004 Gasperich, Émile Bia  00926  00926                % 09228 RGTR--
+200412006 Gasperich, Cloche d'  00927  00927                % 09228 RGTR--
+200304017 Howald, P&R Howald Q  00931  00931                % 09228 RGTR--
+200304011 Howald, Ronneboesch   00932                       % 09228 RGTR--
+*Z 09229 RGTR--                                             % 09229 RGTR--
+*L 302      500000083 200304011  00845  01002               % 09229 RGTR--
+*R 1 200304011 500000083 200304011  00845  01002            % 09229 RGTR--
+*G 070 500000083 200304011  00845  01002                    % 09229 RGTR--
+*A VE 500000083 200304011 000033  00845  01002              % 09229 RGTR--
+*I FD 500000083 200304011        0001966  00845  01002      % 09229 RGTR--
+500000083 Trier, Theodor-Heuss         00845                % 09229 RGTR--
+500000080 Trier, Nordallee     -00846  00846                % 09229 RGTR--
+500000096 Trier, Zurlaubener U -00849  00849                % 09229 RGTR--
+500000095 Trier, Hochschule    -00852  00852                % 09229 RGTR--
+180703008 Wasserbillig, Meseni  00907  00907                % 09229 RGTR--
+200701005 Munsbach, Parc d'Act  00929  00929                % 09229 RGTR--
+200508001 Senningerberg, Autob  00936  00936                % 09229 RGTR--
+200501001 Aéroport Luxembourg/  00939  00939                % 09229 RGTR--
+200508012 Senningerberg, Lou H  00941  00941                % 09229 RGTR--
+200501004 Findel                00942  00942                % 09229 RGTR--
+200416001 Findel, Cité Aéropor  00943  00943                % 09229 RGTR--
+200411001 Findel, Business Cen  00944  00944                % 09229 RGTR--
+200412021 Gasperich, Gerhard M  00954  00954                % 09229 RGTR--
+200412023 Gasperich, Leonardo   00955  00955                % 09229 RGTR--
+200412004 Gasperich, Émile Bia  00956  00956                % 09229 RGTR--
+200412006 Gasperich, Cloche d'  00957  00957                % 09229 RGTR--
+200304017 Howald, P&R Howald Q  01001  01001                % 09229 RGTR--
+200304011 Howald, Ronneboesch   01002                       % 09229 RGTR--
+*Z 09230 RGTR--                                             % 09230 RGTR--
+*L 302      500000083 200304011  00915  01032               % 09230 RGTR--
+*R 1 200304011 500000083 200304011  00915  01032            % 09230 RGTR--
+*G 070 500000083 200304011  00915  01032                    % 09230 RGTR--
+*A VE 500000083 200304011 000033  00915  01032              % 09230 RGTR--
+*I FD 500000083 200304011        0001888  00915  01032      % 09230 RGTR--
+500000083 Trier, Theodor-Heuss         00915                % 09230 RGTR--
+500000080 Trier, Nordallee     -00916  00916                % 09230 RGTR--
+500000096 Trier, Zurlaubener U -00919  00919                % 09230 RGTR--
+500000095 Trier, Hochschule    -00922  00922                % 09230 RGTR--
+180703008 Wasserbillig, Meseni  00937  00937                % 09230 RGTR--
+200701005 Munsbach, Parc d'Act  00959  00959                % 09230 RGTR--
+200508001 Senningerberg, Autob  01006  01006                % 09230 RGTR--
+200501001 Aéroport Luxembourg/  01009  01009                % 09230 RGTR--
+200508012 Senningerberg, Lou H  01011  01011                % 09230 RGTR--
+200501004 Findel                01012  01012                % 09230 RGTR--
+200416001 Findel, Cité Aéropor  01013  01013                % 09230 RGTR--
+200411001 Findel, Business Cen  01014  01014                % 09230 RGTR--
+200412021 Gasperich, Gerhard M  01024  01024                % 09230 RGTR--
+200412023 Gasperich, Leonardo   01025  01025                % 09230 RGTR--
+200412004 Gasperich, Émile Bia  01026  01026                % 09230 RGTR--
+200412006 Gasperich, Cloche d'  01027  01027                % 09230 RGTR--
+200304017 Howald, P&R Howald Q  01031  01031                % 09230 RGTR--
+200304011 Howald, Ronneboesch   01032                       % 09230 RGTR--
+*Z 09231 RGTR--                                             % 09231 RGTR--
+*L 302      200304011 500000078  01615  01723               % 09231 RGTR--
+*R 2 500000078 200304011 500000078  01615  01723            % 09231 RGTR--
+*G 070 200304011 500000078  01615  01723                    % 09231 RGTR--
+*A VE 200304011 500000078 000033  01615  01723              % 09231 RGTR--
+*I FD 200304011 500000078        0002060  01615  01723      % 09231 RGTR--
+200304011 Howald, Ronneboesch          01615                % 09231 RGTR--
+200304012 Howald, P&R Howald Q  01616  01616                % 09231 RGTR--
+200412021 Gasperich, Gerhard M  01616  01616                % 09231 RGTR--
+200412023 Gasperich, Leonardo   01617  01617                % 09231 RGTR--
+200412004 Gasperich, Émile Bia  01618  01618                % 09231 RGTR--
+200412006 Gasperich, Cloche d'  01620  01620                % 09231 RGTR--
+200411001 Findel, Business Cen  01632  01632                % 09231 RGTR--
+200416001 Findel, Cité Aéropor  01632  01632                % 09231 RGTR--
+200501004 Findel                01633  01633                % 09231 RGTR--
+200508012 Senningerberg, Lou H  01634  01634                % 09231 RGTR--
+200501001 Aéroport Luxembourg/  01637  01637                % 09231 RGTR--
+200508001 Senningerberg, Autob  01639  01639                % 09231 RGTR--
+200701005 Munsbach, Parc d'Act  01645  01645                % 09231 RGTR--
+180703008 Wasserbillig, Meseni  01700  01700                % 09231 RGTR--
+500000095 Trier, Hochschule     01714 -01714                % 09231 RGTR--
+500000096 Trier, Zurlaubener U  01718 -01718                % 09231 RGTR--
+500000080 Trier, Nordallee      01721 -01721                % 09231 RGTR--
+500000078 Trier, Christophstr.  01723                       % 09231 RGTR--
+*Z 09232 RGTR--                                             % 09232 RGTR--
+*L 302      200304011 500000078  01645  01753               % 09232 RGTR--
+*R 2 500000078 200304011 500000078  01645  01753            % 09232 RGTR--
+*G 070 200304011 500000078  01645  01753                    % 09232 RGTR--
+*A VE 200304011 500000078 000033  01645  01753              % 09232 RGTR--
+*I FD 200304011 500000078        0001236  01645  01753      % 09232 RGTR--
+200304011 Howald, Ronneboesch          01645                % 09232 RGTR--
+200304012 Howald, P&R Howald Q  01646  01646                % 09232 RGTR--
+200412021 Gasperich, Gerhard M  01646  01646                % 09232 RGTR--
+200412023 Gasperich, Leonardo   01647  01647                % 09232 RGTR--
+200412004 Gasperich, Émile Bia  01648  01648                % 09232 RGTR--
+200412006 Gasperich, Cloche d'  01650  01650                % 09232 RGTR--
+200411001 Findel, Business Cen  01702  01702                % 09232 RGTR--
+200416001 Findel, Cité Aéropor  01702  01702                % 09232 RGTR--
+200501004 Findel                01703  01703                % 09232 RGTR--
+200508012 Senningerberg, Lou H  01704  01704                % 09232 RGTR--
+200501001 Aéroport Luxembourg/  01707  01707                % 09232 RGTR--
+200508001 Senningerberg, Autob  01709  01709                % 09232 RGTR--
+200701005 Munsbach, Parc d'Act  01715  01715                % 09232 RGTR--
+180703008 Wasserbillig, Meseni  01730  01730                % 09232 RGTR--
+500000095 Trier, Hochschule     01744 -01744                % 09232 RGTR--
+500000096 Trier, Zurlaubener U  01748 -01748                % 09232 RGTR--
+500000080 Trier, Nordallee      01751 -01751                % 09232 RGTR--
+500000078 Trier, Christophstr.  01753                       % 09232 RGTR--
+*Z 09233 RGTR--                                             % 09233 RGTR--
+*L 302      200304011 500000078  01715  01823               % 09233 RGTR--
+*R 2 500000078 200304011 500000078  01715  01823            % 09233 RGTR--
+*G 070 200304011 500000078  01715  01823                    % 09233 RGTR--
+*A VE 200304011 500000078 000033  01715  01823              % 09233 RGTR--
+*I FD 200304011 500000078        0002061  01715  01823      % 09233 RGTR--
+200304011 Howald, Ronneboesch          01715                % 09233 RGTR--
+200304012 Howald, P&R Howald Q  01716  01716                % 09233 RGTR--
+200412021 Gasperich, Gerhard M  01716  01716                % 09233 RGTR--
+200412023 Gasperich, Leonardo   01717  01717                % 09233 RGTR--
+200412004 Gasperich, Émile Bia  01718  01718                % 09233 RGTR--
+200412006 Gasperich, Cloche d'  01720  01720                % 09233 RGTR--
+200411001 Findel, Business Cen  01732  01732                % 09233 RGTR--
+200416001 Findel, Cité Aéropor  01732  01732                % 09233 RGTR--
+200501004 Findel                01733  01733                % 09233 RGTR--
+200508012 Senningerberg, Lou H  01734  01734                % 09233 RGTR--
+200501001 Aéroport Luxembourg/  01737  01737                % 09233 RGTR--
+200508001 Senningerberg, Autob  01739  01739                % 09233 RGTR--
+200701005 Munsbach, Parc d'Act  01745  01745                % 09233 RGTR--
+180703008 Wasserbillig, Meseni  01800  01800                % 09233 RGTR--
+500000095 Trier, Hochschule     01814 -01814                % 09233 RGTR--
+500000096 Trier, Zurlaubener U  01818 -01818                % 09233 RGTR--
+500000080 Trier, Nordallee      01821 -01821                % 09233 RGTR--
+500000078 Trier, Christophstr.  01823                       % 09233 RGTR--
+*Z 09234 RGTR--                                             % 09234 RGTR--
+*L 302      200304011 500000078  01745  01853               % 09234 RGTR--
+*R 2 500000078 200304011 500000078  01745  01853            % 09234 RGTR--
+*G 070 200304011 500000078  01745  01853                    % 09234 RGTR--
+*A VE 200304011 500000078 000033  01745  01853              % 09234 RGTR--
+*I FD 200304011 500000078        0002063  01745  01853      % 09234 RGTR--
+200304011 Howald, Ronneboesch          01745                % 09234 RGTR--
+200304012 Howald, P&R Howald Q  01746  01746                % 09234 RGTR--
+200412021 Gasperich, Gerhard M  01746  01746                % 09234 RGTR--
+200412023 Gasperich, Leonardo   01747  01747                % 09234 RGTR--
+200412004 Gasperich, Émile Bia  01748  01748                % 09234 RGTR--
+200412006 Gasperich, Cloche d'  01750  01750                % 09234 RGTR--
+200411001 Findel, Business Cen  01802  01802                % 09234 RGTR--
+200416001 Findel, Cité Aéropor  01802  01802                % 09234 RGTR--
+200501004 Findel                01803  01803                % 09234 RGTR--
+200508012 Senningerberg, Lou H  01804  01804                % 09234 RGTR--
+200501001 Aéroport Luxembourg/  01807  01807                % 09234 RGTR--
+200508001 Senningerberg, Autob  01809  01809                % 09234 RGTR--
+200701005 Munsbach, Parc d'Act  01815  01815                % 09234 RGTR--
+180703008 Wasserbillig, Meseni  01830  01830                % 09234 RGTR--
+500000095 Trier, Hochschule     01844 -01844                % 09234 RGTR--
+500000096 Trier, Zurlaubener U  01848 -01848                % 09234 RGTR--
+500000080 Trier, Nordallee      01851 -01851                % 09234 RGTR--
+500000078 Trier, Christophstr.  01853                       % 09234 RGTR--
+*Z 09235 RGTR--                                             % 09235 RGTR--
+*L 302      200304011 500000078  01815  01923               % 09235 RGTR--
+*R 2 500000078 200304011 500000078  01815  01923            % 09235 RGTR--
+*G 070 200304011 500000078  01815  01923                    % 09235 RGTR--
+*A VE 200304011 500000078 000033  01815  01923              % 09235 RGTR--
+*I FD 200304011 500000078        0002064  01815  01923      % 09235 RGTR--
+200304011 Howald, Ronneboesch          01815                % 09235 RGTR--
+200304012 Howald, P&R Howald Q  01816  01816                % 09235 RGTR--
+200412021 Gasperich, Gerhard M  01816  01816                % 09235 RGTR--
+200412023 Gasperich, Leonardo   01817  01817                % 09235 RGTR--
+200412004 Gasperich, Émile Bia  01818  01818                % 09235 RGTR--
+200412006 Gasperich, Cloche d'  01820  01820                % 09235 RGTR--
+200411001 Findel, Business Cen  01832  01832                % 09235 RGTR--
+200416001 Findel, Cité Aéropor  01832  01832                % 09235 RGTR--
+200501004 Findel                01833  01833                % 09235 RGTR--
+200508012 Senningerberg, Lou H  01834  01834                % 09235 RGTR--
+200501001 Aéroport Luxembourg/  01837  01837                % 09235 RGTR--
+200508001 Senningerberg, Autob  01839  01839                % 09235 RGTR--
+200701005 Munsbach, Parc d'Act  01845  01845                % 09235 RGTR--
+180703008 Wasserbillig, Meseni  01900  01900                % 09235 RGTR--
+500000095 Trier, Hochschule     01914 -01914                % 09235 RGTR--
+500000096 Trier, Zurlaubener U  01918 -01918                % 09235 RGTR--
+500000080 Trier, Nordallee      01921 -01921                % 09235 RGTR--
+500000078 Trier, Christophstr.  01923                       % 09235 RGTR--
+*Z 09236 RGTR--                                             % 09236 RGTR--
+*L 302      200304011 500000078  01845  01953               % 09236 RGTR--
+*R 2 500000078 200304011 500000078  01845  01953            % 09236 RGTR--
+*G 070 200304011 500000078  01845  01953                    % 09236 RGTR--
+*A VE 200304011 500000078 000033  01845  01953              % 09236 RGTR--
+*I FD 200304011 500000078        0001339  01845  01953      % 09236 RGTR--
+200304011 Howald, Ronneboesch          01845                % 09236 RGTR--
+200304012 Howald, P&R Howald Q  01846  01846                % 09236 RGTR--
+200412021 Gasperich, Gerhard M  01846  01846                % 09236 RGTR--
+200412023 Gasperich, Leonardo   01847  01847                % 09236 RGTR--
+200412004 Gasperich, Émile Bia  01848  01848                % 09236 RGTR--
+200412006 Gasperich, Cloche d'  01850  01850                % 09236 RGTR--
+200411001 Findel, Business Cen  01902  01902                % 09236 RGTR--
+200416001 Findel, Cité Aéropor  01902  01902                % 09236 RGTR--
+200501004 Findel                01903  01903                % 09236 RGTR--
+200508012 Senningerberg, Lou H  01904  01904                % 09236 RGTR--
+200501001 Aéroport Luxembourg/  01907  01907                % 09236 RGTR--
+200508001 Senningerberg, Autob  01909  01909                % 09236 RGTR--
+200701005 Munsbach, Parc d'Act  01915  01915                % 09236 RGTR--
+180703008 Wasserbillig, Meseni  01930  01930                % 09236 RGTR--
+500000095 Trier, Hochschule     01944 -01944                % 09236 RGTR--
+500000096 Trier, Zurlaubener U  01948 -01948                % 09236 RGTR--
+500000080 Trier, Nordallee      01951 -01951                % 09236 RGTR--
+500000078 Trier, Christophstr.  01953                       % 09236 RGTR--
+*Z 09237 RGTR--                                             % 09237 RGTR--
+*L 302      200304011 500000078  01915  02013               % 09237 RGTR--
+*R 2 500000078 200304011 500000078  01915  02013            % 09237 RGTR--
+*G 070 200304011 500000078  01915  02013                    % 09237 RGTR--
+*A VE 200304011 500000078 000033  01915  02013              % 09237 RGTR--
+*I FD 200304011 500000078        0002057  01915  02013      % 09237 RGTR--
+200304011 Howald, Ronneboesch          01915                % 09237 RGTR--
+200304012 Howald, P&R Howald Q  01916  01916                % 09237 RGTR--
+200412021 Gasperich, Gerhard M  01916  01916                % 09237 RGTR--
+200412023 Gasperich, Leonardo   01917  01917                % 09237 RGTR--
+200412004 Gasperich, Émile Bia  01918  01918                % 09237 RGTR--
+200412006 Gasperich, Cloche d'  01919  01919                % 09237 RGTR--
+200411001 Findel, Business Cen  01929  01929                % 09237 RGTR--
+200416001 Findel, Cité Aéropor  01930  01930                % 09237 RGTR--
+200501004 Findel                01931  01931                % 09237 RGTR--
+200508012 Senningerberg, Lou H  01932  01932                % 09237 RGTR--
+200501001 Aéroport Luxembourg/  01934  01934                % 09237 RGTR--
+200508001 Senningerberg, Autob  01935  01935                % 09237 RGTR--
+200701005 Munsbach, Parc d'Act  01940  01940                % 09237 RGTR--
+180703008 Wasserbillig, Meseni  01955  01955                % 09237 RGTR--
+500000095 Trier, Hochschule     02008 -02008                % 09237 RGTR--
+500000096 Trier, Zurlaubener U  02010 -02010                % 09237 RGTR--
+500000080 Trier, Nordallee      02011 -02011                % 09237 RGTR--
+500000078 Trier, Christophstr.  02013                       % 09237 RGTR--
+*Z 09238 RGTR--                                             % 09238 RGTR--
+*L 302      200304011 500000078  02015  02113               % 09238 RGTR--
+*R 2 500000078 200304011 500000078  02015  02113            % 09238 RGTR--
+*G 070 200304011 500000078  02015  02113                    % 09238 RGTR--
+*A VE 200304011 500000078 000033  02015  02113              % 09238 RGTR--
+*I FD 200304011 500000078        0002058  02015  02113      % 09238 RGTR--
+200304011 Howald, Ronneboesch          02015                % 09238 RGTR--
+200304012 Howald, P&R Howald Q  02016  02016                % 09238 RGTR--
+200412021 Gasperich, Gerhard M  02016  02016                % 09238 RGTR--
+200412023 Gasperich, Leonardo   02017  02017                % 09238 RGTR--
+200412004 Gasperich, Émile Bia  02018  02018                % 09238 RGTR--
+200412006 Gasperich, Cloche d'  02019  02019                % 09238 RGTR--
+200411001 Findel, Business Cen  02029  02029                % 09238 RGTR--
+200416001 Findel, Cité Aéropor  02030  02030                % 09238 RGTR--
+200501004 Findel                02031  02031                % 09238 RGTR--
+200508012 Senningerberg, Lou H  02032  02032                % 09238 RGTR--
+200501001 Aéroport Luxembourg/  02034  02034                % 09238 RGTR--
+200508001 Senningerberg, Autob  02035  02035                % 09238 RGTR--
+200701005 Munsbach, Parc d'Act  02040  02040                % 09238 RGTR--
+180703008 Wasserbillig, Meseni  02055  02055                % 09238 RGTR--
+500000095 Trier, Hochschule     02108 -02108                % 09238 RGTR--
+500000096 Trier, Zurlaubener U  02110 -02110                % 09238 RGTR--
+500000080 Trier, Nordallee      02111 -02111                % 09238 RGTR--
+500000078 Trier, Christophstr.  02113                       % 09238 RGTR--
+*Z 09239 RGTR--                                             % 09239 RGTR--
+*L 302      500000083 200304011  00515  00617               % 09239 RGTR--
+*R 1 200304011 500000083 200304011  00515  00617            % 09239 RGTR--
+*G 070 500000083 200304011  00515  00617                    % 09239 RGTR--
+*A VE 500000083 200304011 000034  00515  00617              % 09239 RGTR--
+*I FD 500000083 200304011        0001886  00515  00617      % 09239 RGTR--
+500000083 Trier, Theodor-Heuss         00515                % 09239 RGTR--
+500000080 Trier, Nordallee     -00516  00516                % 09239 RGTR--
+500000096 Trier, Zurlaubener U -00517  00517                % 09239 RGTR--
+500000095 Trier, Hochschule    -00519  00519                % 09239 RGTR--
+180703008 Wasserbillig, Meseni  00533  00533                % 09239 RGTR--
+200701005 Munsbach, Parc d'Act  00549  00549                % 09239 RGTR--
+200508001 Senningerberg, Autob  00555  00555                % 09239 RGTR--
+200501001 Aéroport Luxembourg/  00557  00557                % 09239 RGTR--
+200508012 Senningerberg, Lou H  00558  00558                % 09239 RGTR--
+200501004 Findel                00559  00559                % 09239 RGTR--
+200416001 Findel, Cité Aéropor  00600  00600                % 09239 RGTR--
+200411001 Findel, Business Cen  00601  00601                % 09239 RGTR--
+200412021 Gasperich, Gerhard M  00610  00610                % 09239 RGTR--
+200412023 Gasperich, Leonardo   00611  00611                % 09239 RGTR--
+200412004 Gasperich, Émile Bia  00612  00612                % 09239 RGTR--
+200412006 Gasperich, Cloche d'  00613  00613                % 09239 RGTR--
+200304017 Howald, P&R Howald Q  00616  00616                % 09239 RGTR--
+200304011 Howald, Ronneboesch   00617                       % 09239 RGTR--
+*Z 09240 RGTR--                                             % 09240 RGTR--
+*L 302      500000083 200304011  00615  00732               % 09240 RGTR--
+*R 1 200304011 500000083 200304011  00615  00732            % 09240 RGTR--
+*G 070 500000083 200304011  00615  00732                    % 09240 RGTR--
+*A VE 500000083 200304011 000034  00615  00732              % 09240 RGTR--
+*I FD 500000083 200304011        0001887  00615  00732      % 09240 RGTR--
+500000083 Trier, Theodor-Heuss         00615                % 09240 RGTR--
+500000080 Trier, Nordallee     -00616  00616                % 09240 RGTR--
+500000096 Trier, Zurlaubener U -00619  00619                % 09240 RGTR--
+500000095 Trier, Hochschule    -00622  00622                % 09240 RGTR--
+180703008 Wasserbillig, Meseni  00637  00637                % 09240 RGTR--
+200701005 Munsbach, Parc d'Act  00659  00659                % 09240 RGTR--
+200508001 Senningerberg, Autob  00706  00706                % 09240 RGTR--
+200501001 Aéroport Luxembourg/  00709  00709                % 09240 RGTR--
+200508012 Senningerberg, Lou H  00711  00711                % 09240 RGTR--
+200501004 Findel                00712  00712                % 09240 RGTR--
+200416001 Findel, Cité Aéropor  00713  00713                % 09240 RGTR--
+200411001 Findel, Business Cen  00714  00714                % 09240 RGTR--
+200412021 Gasperich, Gerhard M  00724  00724                % 09240 RGTR--
+200412023 Gasperich, Leonardo   00725  00725                % 09240 RGTR--
+200412004 Gasperich, Émile Bia  00726  00726                % 09240 RGTR--
+200412006 Gasperich, Cloche d'  00727  00727                % 09240 RGTR--
+200304017 Howald, P&R Howald Q  00731  00731                % 09240 RGTR--
+200304011 Howald, Ronneboesch   00732                       % 09240 RGTR--
+*Z 09241 RGTR--                                             % 09241 RGTR--
+*L 302      500000083 200304011  00645  00802               % 09241 RGTR--
+*R 1 200304011 500000083 200304011  00645  00802            % 09241 RGTR--
+*G 070 500000083 200304011  00645  00802                    % 09241 RGTR--
+*A VE 500000083 200304011 000034  00645  00802              % 09241 RGTR--
+*I FD 500000083 200304011        0001964  00645  00802      % 09241 RGTR--
+500000083 Trier, Theodor-Heuss         00645                % 09241 RGTR--
+500000080 Trier, Nordallee     -00646  00646                % 09241 RGTR--
+500000096 Trier, Zurlaubener U -00649  00649                % 09241 RGTR--
+500000095 Trier, Hochschule    -00652  00652                % 09241 RGTR--
+180703008 Wasserbillig, Meseni  00707  00707                % 09241 RGTR--
+200701005 Munsbach, Parc d'Act  00729  00729                % 09241 RGTR--
+200508001 Senningerberg, Autob  00736  00736                % 09241 RGTR--
+200501001 Aéroport Luxembourg/  00739  00739                % 09241 RGTR--
+200508012 Senningerberg, Lou H  00741  00741                % 09241 RGTR--
+200501004 Findel                00742  00742                % 09241 RGTR--
+200416001 Findel, Cité Aéropor  00743  00743                % 09241 RGTR--
+200411001 Findel, Business Cen  00744  00744                % 09241 RGTR--
+200412021 Gasperich, Gerhard M  00754  00754                % 09241 RGTR--
+200412023 Gasperich, Leonardo   00755  00755                % 09241 RGTR--
+200412004 Gasperich, Émile Bia  00756  00756                % 09241 RGTR--
+200412006 Gasperich, Cloche d'  00757  00757                % 09241 RGTR--
+200304017 Howald, P&R Howald Q  00801  00801                % 09241 RGTR--
+200304011 Howald, Ronneboesch   00802                       % 09241 RGTR--
+*Z 09242 RGTR--                                             % 09242 RGTR--
+*L 302      500000083 200304011  00715  00832               % 09242 RGTR--
+*R 1 200304011 500000083 200304011  00715  00832            % 09242 RGTR--
+*G 070 500000083 200304011  00715  00832                    % 09242 RGTR--
+*A VE 500000083 200304011 000034  00715  00832              % 09242 RGTR--
+*I FD 500000083 200304011        0001898  00715  00832      % 09242 RGTR--
+500000083 Trier, Theodor-Heuss         00715                % 09242 RGTR--
+500000080 Trier, Nordallee     -00716  00716                % 09242 RGTR--
+500000096 Trier, Zurlaubener U -00719  00719                % 09242 RGTR--
+500000095 Trier, Hochschule    -00722  00722                % 09242 RGTR--
+180703008 Wasserbillig, Meseni  00737  00737                % 09242 RGTR--
+200701005 Munsbach, Parc d'Act  00759  00759                % 09242 RGTR--
+200508001 Senningerberg, Autob  00806  00806                % 09242 RGTR--
+200501001 Aéroport Luxembourg/  00809  00809                % 09242 RGTR--
+200508012 Senningerberg, Lou H  00811  00811                % 09242 RGTR--
+200501004 Findel                00812  00812                % 09242 RGTR--
+200416001 Findel, Cité Aéropor  00813  00813                % 09242 RGTR--
+200411001 Findel, Business Cen  00814  00814                % 09242 RGTR--
+200412021 Gasperich, Gerhard M  00824  00824                % 09242 RGTR--
+200412023 Gasperich, Leonardo   00825  00825                % 09242 RGTR--
+200412004 Gasperich, Émile Bia  00826  00826                % 09242 RGTR--
+200412006 Gasperich, Cloche d'  00827  00827                % 09242 RGTR--
+200304017 Howald, P&R Howald Q  00831  00831                % 09242 RGTR--
+200304011 Howald, Ronneboesch   00832                       % 09242 RGTR--
+*Z 09243 RGTR--                                             % 09243 RGTR--
+*L 302      500000083 200304011  00745  00902               % 09243 RGTR--
+*R 1 200304011 500000083 200304011  00745  00902            % 09243 RGTR--
+*G 070 500000083 200304011  00745  00902                    % 09243 RGTR--
+*A VE 500000083 200304011 000034  00745  00902              % 09243 RGTR--
+*I FD 500000083 200304011        0001965  00745  00902      % 09243 RGTR--
+500000083 Trier, Theodor-Heuss         00745                % 09243 RGTR--
+500000080 Trier, Nordallee     -00746  00746                % 09243 RGTR--
+500000096 Trier, Zurlaubener U -00749  00749                % 09243 RGTR--
+500000095 Trier, Hochschule    -00752  00752                % 09243 RGTR--
+180703008 Wasserbillig, Meseni  00807  00807                % 09243 RGTR--
+200701005 Munsbach, Parc d'Act  00829  00829                % 09243 RGTR--
+200508001 Senningerberg, Autob  00836  00836                % 09243 RGTR--
+200501001 Aéroport Luxembourg/  00839  00839                % 09243 RGTR--
+200508012 Senningerberg, Lou H  00841  00841                % 09243 RGTR--
+200501004 Findel                00842  00842                % 09243 RGTR--
+200416001 Findel, Cité Aéropor  00843  00843                % 09243 RGTR--
+200411001 Findel, Business Cen  00844  00844                % 09243 RGTR--
+200412021 Gasperich, Gerhard M  00854  00854                % 09243 RGTR--
+200412023 Gasperich, Leonardo   00855  00855                % 09243 RGTR--
+200412004 Gasperich, Émile Bia  00856  00856                % 09243 RGTR--
+200412006 Gasperich, Cloche d'  00857  00857                % 09243 RGTR--
+200304017 Howald, P&R Howald Q  00901  00901                % 09243 RGTR--
+200304011 Howald, Ronneboesch   00902                       % 09243 RGTR--
+*Z 09244 RGTR--                                             % 09244 RGTR--
+*L 302      500000083 200304011  00815  00932               % 09244 RGTR--
+*R 1 200304011 500000083 200304011  00815  00932            % 09244 RGTR--
+*G 070 500000083 200304011  00815  00932                    % 09244 RGTR--
+*A VE 500000083 200304011 000034  00815  00932              % 09244 RGTR--
+*I FD 500000083 200304011        0001882  00815  00932      % 09244 RGTR--
+500000083 Trier, Theodor-Heuss         00815                % 09244 RGTR--
+500000080 Trier, Nordallee     -00816  00816                % 09244 RGTR--
+500000096 Trier, Zurlaubener U -00819  00819                % 09244 RGTR--
+500000095 Trier, Hochschule    -00822  00822                % 09244 RGTR--
+180703008 Wasserbillig, Meseni  00837  00837                % 09244 RGTR--
+200701005 Munsbach, Parc d'Act  00859  00859                % 09244 RGTR--
+200508001 Senningerberg, Autob  00906  00906                % 09244 RGTR--
+200501001 Aéroport Luxembourg/  00909  00909                % 09244 RGTR--
+200508012 Senningerberg, Lou H  00911  00911                % 09244 RGTR--
+200501004 Findel                00912  00912                % 09244 RGTR--
+200416001 Findel, Cité Aéropor  00913  00913                % 09244 RGTR--
+200411001 Findel, Business Cen  00914  00914                % 09244 RGTR--
+200412021 Gasperich, Gerhard M  00924  00924                % 09244 RGTR--
+200412023 Gasperich, Leonardo   00925  00925                % 09244 RGTR--
+200412004 Gasperich, Émile Bia  00926  00926                % 09244 RGTR--
+200412006 Gasperich, Cloche d'  00927  00927                % 09244 RGTR--
+200304017 Howald, P&R Howald Q  00931  00931                % 09244 RGTR--
+200304011 Howald, Ronneboesch   00932                       % 09244 RGTR--
+*Z 09245 RGTR--                                             % 09245 RGTR--
+*L 302      500000083 200304011  00845  01002               % 09245 RGTR--
+*R 1 200304011 500000083 200304011  00845  01002            % 09245 RGTR--
+*G 070 500000083 200304011  00845  01002                    % 09245 RGTR--
+*A VE 500000083 200304011 000034  00845  01002              % 09245 RGTR--
+*I FD 500000083 200304011        0001966  00845  01002      % 09245 RGTR--
+500000083 Trier, Theodor-Heuss         00845                % 09245 RGTR--
+500000080 Trier, Nordallee     -00846  00846                % 09245 RGTR--
+500000096 Trier, Zurlaubener U -00849  00849                % 09245 RGTR--
+500000095 Trier, Hochschule    -00852  00852                % 09245 RGTR--
+180703008 Wasserbillig, Meseni  00907  00907                % 09245 RGTR--
+200701005 Munsbach, Parc d'Act  00929  00929                % 09245 RGTR--
+200508001 Senningerberg, Autob  00936  00936                % 09245 RGTR--
+200501001 Aéroport Luxembourg/  00939  00939                % 09245 RGTR--
+200508012 Senningerberg, Lou H  00941  00941                % 09245 RGTR--
+200501004 Findel                00942  00942                % 09245 RGTR--
+200416001 Findel, Cité Aéropor  00943  00943                % 09245 RGTR--
+200411001 Findel, Business Cen  00944  00944                % 09245 RGTR--
+200412021 Gasperich, Gerhard M  00954  00954                % 09245 RGTR--
+200412023 Gasperich, Leonardo   00955  00955                % 09245 RGTR--
+200412004 Gasperich, Émile Bia  00956  00956                % 09245 RGTR--
+200412006 Gasperich, Cloche d'  00957  00957                % 09245 RGTR--
+200304017 Howald, P&R Howald Q  01001  01001                % 09245 RGTR--
+200304011 Howald, Ronneboesch   01002                       % 09245 RGTR--
+*Z 09246 RGTR--                                             % 09246 RGTR--
+*L 302      500000083 200304011  00915  01032               % 09246 RGTR--
+*R 1 200304011 500000083 200304011  00915  01032            % 09246 RGTR--
+*G 070 500000083 200304011  00915  01032                    % 09246 RGTR--
+*A VE 500000083 200304011 000034  00915  01032              % 09246 RGTR--
+*I FD 500000083 200304011        0001888  00915  01032      % 09246 RGTR--
+500000083 Trier, Theodor-Heuss         00915                % 09246 RGTR--
+500000080 Trier, Nordallee     -00916  00916                % 09246 RGTR--
+500000096 Trier, Zurlaubener U -00919  00919                % 09246 RGTR--
+500000095 Trier, Hochschule    -00922  00922                % 09246 RGTR--
+180703008 Wasserbillig, Meseni  00937  00937                % 09246 RGTR--
+200701005 Munsbach, Parc d'Act  00959  00959                % 09246 RGTR--
+200508001 Senningerberg, Autob  01006  01006                % 09246 RGTR--
+200501001 Aéroport Luxembourg/  01009  01009                % 09246 RGTR--
+200508012 Senningerberg, Lou H  01011  01011                % 09246 RGTR--
+200501004 Findel                01012  01012                % 09246 RGTR--
+200416001 Findel, Cité Aéropor  01013  01013                % 09246 RGTR--
+200411001 Findel, Business Cen  01014  01014                % 09246 RGTR--
+200412021 Gasperich, Gerhard M  01024  01024                % 09246 RGTR--
+200412023 Gasperich, Leonardo   01025  01025                % 09246 RGTR--
+200412004 Gasperich, Émile Bia  01026  01026                % 09246 RGTR--
+200412006 Gasperich, Cloche d'  01027  01027                % 09246 RGTR--
+200304017 Howald, P&R Howald Q  01031  01031                % 09246 RGTR--
+200304011 Howald, Ronneboesch   01032                       % 09246 RGTR--
+*Z 09247 RGTR--                                             % 09247 RGTR--
+*L 302      200304011 500000078  01615  01723               % 09247 RGTR--
+*R 2 500000078 200304011 500000078  01615  01723            % 09247 RGTR--
+*G 070 200304011 500000078  01615  01723                    % 09247 RGTR--
+*A VE 200304011 500000078 000034  01615  01723              % 09247 RGTR--
+*I FD 200304011 500000078        0002060  01615  01723      % 09247 RGTR--
+200304011 Howald, Ronneboesch          01615                % 09247 RGTR--
+200304012 Howald, P&R Howald Q  01616  01616                % 09247 RGTR--
+200412021 Gasperich, Gerhard M  01616  01616                % 09247 RGTR--
+200412023 Gasperich, Leonardo   01617  01617                % 09247 RGTR--
+200412004 Gasperich, Émile Bia  01618  01618                % 09247 RGTR--
+200412006 Gasperich, Cloche d'  01620  01620                % 09247 RGTR--
+200411001 Findel, Business Cen  01632  01632                % 09247 RGTR--
+200416001 Findel, Cité Aéropor  01632  01632                % 09247 RGTR--
+200501004 Findel                01633  01633                % 09247 RGTR--
+200508012 Senningerberg, Lou H  01634  01634                % 09247 RGTR--
+200501001 Aéroport Luxembourg/  01637  01637                % 09247 RGTR--
+200508001 Senningerberg, Autob  01639  01639                % 09247 RGTR--
+200701005 Munsbach, Parc d'Act  01645  01645                % 09247 RGTR--
+180703008 Wasserbillig, Meseni  01700  01700                % 09247 RGTR--
+500000095 Trier, Hochschule     01714 -01714                % 09247 RGTR--
+500000096 Trier, Zurlaubener U  01718 -01718                % 09247 RGTR--
+500000080 Trier, Nordallee      01721 -01721                % 09247 RGTR--
+500000078 Trier, Christophstr.  01723                       % 09247 RGTR--
+*Z 09248 RGTR--                                             % 09248 RGTR--
+*L 302      200304011 500000078  01645  01753               % 09248 RGTR--
+*R 2 500000078 200304011 500000078  01645  01753            % 09248 RGTR--
+*G 070 200304011 500000078  01645  01753                    % 09248 RGTR--
+*A VE 200304011 500000078 000034  01645  01753              % 09248 RGTR--
+*I FD 200304011 500000078        0001236  01645  01753      % 09248 RGTR--
+200304011 Howald, Ronneboesch          01645                % 09248 RGTR--
+200304012 Howald, P&R Howald Q  01646  01646                % 09248 RGTR--
+200412021 Gasperich, Gerhard M  01646  01646                % 09248 RGTR--
+200412023 Gasperich, Leonardo   01647  01647                % 09248 RGTR--
+200412004 Gasperich, Émile Bia  01648  01648                % 09248 RGTR--
+200412006 Gasperich, Cloche d'  01650  01650                % 09248 RGTR--
+200411001 Findel, Business Cen  01702  01702                % 09248 RGTR--
+200416001 Findel, Cité Aéropor  01702  01702                % 09248 RGTR--
+200501004 Findel                01703  01703                % 09248 RGTR--
+200508012 Senningerberg, Lou H  01704  01704                % 09248 RGTR--
+200501001 Aéroport Luxembourg/  01707  01707                % 09248 RGTR--
+200508001 Senningerberg, Autob  01709  01709                % 09248 RGTR--
+200701005 Munsbach, Parc d'Act  01715  01715                % 09248 RGTR--
+180703008 Wasserbillig, Meseni  01730  01730                % 09248 RGTR--
+500000095 Trier, Hochschule     01744 -01744                % 09248 RGTR--
+500000096 Trier, Zurlaubener U  01748 -01748                % 09248 RGTR--
+500000080 Trier, Nordallee      01751 -01751                % 09248 RGTR--
+500000078 Trier, Christophstr.  01753                       % 09248 RGTR--
+*Z 09249 RGTR--                                             % 09249 RGTR--
+*L 302      200304011 500000078  01715  01823               % 09249 RGTR--
+*R 2 500000078 200304011 500000078  01715  01823            % 09249 RGTR--
+*G 070 200304011 500000078  01715  01823                    % 09249 RGTR--
+*A VE 200304011 500000078 000034  01715  01823              % 09249 RGTR--
+*I FD 200304011 500000078        0002061  01715  01823      % 09249 RGTR--
+200304011 Howald, Ronneboesch          01715                % 09249 RGTR--
+200304012 Howald, P&R Howald Q  01716  01716                % 09249 RGTR--
+200412021 Gasperich, Gerhard M  01716  01716                % 09249 RGTR--
+200412023 Gasperich, Leonardo   01717  01717                % 09249 RGTR--
+200412004 Gasperich, Émile Bia  01718  01718                % 09249 RGTR--
+200412006 Gasperich, Cloche d'  01720  01720                % 09249 RGTR--
+200411001 Findel, Business Cen  01732  01732                % 09249 RGTR--
+200416001 Findel, Cité Aéropor  01732  01732                % 09249 RGTR--
+200501004 Findel                01733  01733                % 09249 RGTR--
+200508012 Senningerberg, Lou H  01734  01734                % 09249 RGTR--
+200501001 Aéroport Luxembourg/  01737  01737                % 09249 RGTR--
+200508001 Senningerberg, Autob  01739  01739                % 09249 RGTR--
+200701005 Munsbach, Parc d'Act  01745  01745                % 09249 RGTR--
+180703008 Wasserbillig, Meseni  01800  01800                % 09249 RGTR--
+500000095 Trier, Hochschule     01814 -01814                % 09249 RGTR--
+500000096 Trier, Zurlaubener U  01818 -01818                % 09249 RGTR--
+500000080 Trier, Nordallee      01821 -01821                % 09249 RGTR--
+500000078 Trier, Christophstr.  01823                       % 09249 RGTR--
+*Z 09250 RGTR--                                             % 09250 RGTR--
+*L 302      200304011 500000078  01745  01853               % 09250 RGTR--
+*R 2 500000078 200304011 500000078  01745  01853            % 09250 RGTR--
+*G 070 200304011 500000078  01745  01853                    % 09250 RGTR--
+*A VE 200304011 500000078 000034  01745  01853              % 09250 RGTR--
+*I FD 200304011 500000078        0002063  01745  01853      % 09250 RGTR--
+200304011 Howald, Ronneboesch          01745                % 09250 RGTR--
+200304012 Howald, P&R Howald Q  01746  01746                % 09250 RGTR--
+200412021 Gasperich, Gerhard M  01746  01746                % 09250 RGTR--
+200412023 Gasperich, Leonardo   01747  01747                % 09250 RGTR--
+200412004 Gasperich, Émile Bia  01748  01748                % 09250 RGTR--
+200412006 Gasperich, Cloche d'  01750  01750                % 09250 RGTR--
+200411001 Findel, Business Cen  01802  01802                % 09250 RGTR--
+200416001 Findel, Cité Aéropor  01802  01802                % 09250 RGTR--
+200501004 Findel                01803  01803                % 09250 RGTR--
+200508012 Senningerberg, Lou H  01804  01804                % 09250 RGTR--
+200501001 Aéroport Luxembourg/  01807  01807                % 09250 RGTR--
+200508001 Senningerberg, Autob  01809  01809                % 09250 RGTR--
+200701005 Munsbach, Parc d'Act  01815  01815                % 09250 RGTR--
+180703008 Wasserbillig, Meseni  01830  01830                % 09250 RGTR--
+500000095 Trier, Hochschule     01844 -01844                % 09250 RGTR--
+500000096 Trier, Zurlaubener U  01848 -01848                % 09250 RGTR--
+500000080 Trier, Nordallee      01851 -01851                % 09250 RGTR--
+500000078 Trier, Christophstr.  01853                       % 09250 RGTR--
+*Z 09251 RGTR--                                             % 09251 RGTR--
+*L 302      200304011 500000078  01815  01923               % 09251 RGTR--
+*R 2 500000078 200304011 500000078  01815  01923            % 09251 RGTR--
+*G 070 200304011 500000078  01815  01923                    % 09251 RGTR--
+*A VE 200304011 500000078 000034  01815  01923              % 09251 RGTR--
+*I FD 200304011 500000078        0002064  01815  01923      % 09251 RGTR--
+200304011 Howald, Ronneboesch          01815                % 09251 RGTR--
+200304012 Howald, P&R Howald Q  01816  01816                % 09251 RGTR--
+200412021 Gasperich, Gerhard M  01816  01816                % 09251 RGTR--
+200412023 Gasperich, Leonardo   01817  01817                % 09251 RGTR--
+200412004 Gasperich, Émile Bia  01818  01818                % 09251 RGTR--
+200412006 Gasperich, Cloche d'  01820  01820                % 09251 RGTR--
+200411001 Findel, Business Cen  01832  01832                % 09251 RGTR--
+200416001 Findel, Cité Aéropor  01832  01832                % 09251 RGTR--
+200501004 Findel                01833  01833                % 09251 RGTR--
+200508012 Senningerberg, Lou H  01834  01834                % 09251 RGTR--
+200501001 Aéroport Luxembourg/  01837  01837                % 09251 RGTR--
+200508001 Senningerberg, Autob  01839  01839                % 09251 RGTR--
+200701005 Munsbach, Parc d'Act  01845  01845                % 09251 RGTR--
+180703008 Wasserbillig, Meseni  01900  01900                % 09251 RGTR--
+500000095 Trier, Hochschule     01914 -01914                % 09251 RGTR--
+500000096 Trier, Zurlaubener U  01918 -01918                % 09251 RGTR--
+500000080 Trier, Nordallee      01921 -01921                % 09251 RGTR--
+500000078 Trier, Christophstr.  01923                       % 09251 RGTR--
+*Z 09252 RGTR--                                             % 09252 RGTR--
+*L 302      200304011 500000078  01845  01953               % 09252 RGTR--
+*R 2 500000078 200304011 500000078  01845  01953            % 09252 RGTR--
+*G 070 200304011 500000078  01845  01953                    % 09252 RGTR--
+*A VE 200304011 500000078 000034  01845  01953              % 09252 RGTR--
+*I FD 200304011 500000078        0001339  01845  01953      % 09252 RGTR--
+200304011 Howald, Ronneboesch          01845                % 09252 RGTR--
+200304012 Howald, P&R Howald Q  01846  01846                % 09252 RGTR--
+200412021 Gasperich, Gerhard M  01846  01846                % 09252 RGTR--
+200412023 Gasperich, Leonardo   01847  01847                % 09252 RGTR--
+200412004 Gasperich, Émile Bia  01848  01848                % 09252 RGTR--
+200412006 Gasperich, Cloche d'  01850  01850                % 09252 RGTR--
+200411001 Findel, Business Cen  01902  01902                % 09252 RGTR--
+200416001 Findel, Cité Aéropor  01902  01902                % 09252 RGTR--
+200501004 Findel                01903  01903                % 09252 RGTR--
+200508012 Senningerberg, Lou H  01904  01904                % 09252 RGTR--
+200501001 Aéroport Luxembourg/  01907  01907                % 09252 RGTR--
+200508001 Senningerberg, Autob  01909  01909                % 09252 RGTR--
+200701005 Munsbach, Parc d'Act  01915  01915                % 09252 RGTR--
+180703008 Wasserbillig, Meseni  01930  01930                % 09252 RGTR--
+500000095 Trier, Hochschule     01944 -01944                % 09252 RGTR--
+500000096 Trier, Zurlaubener U  01948 -01948                % 09252 RGTR--
+500000080 Trier, Nordallee      01951 -01951                % 09252 RGTR--
+500000078 Trier, Christophstr.  01953                       % 09252 RGTR--
+*Z 09253 RGTR--                                             % 09253 RGTR--
+*L 302      200304011 500000078  01915  02013               % 09253 RGTR--
+*R 2 500000078 200304011 500000078  01915  02013            % 09253 RGTR--
+*G 070 200304011 500000078  01915  02013                    % 09253 RGTR--
+*A VE 200304011 500000078 000034  01915  02013              % 09253 RGTR--
+*I FD 200304011 500000078        0002057  01915  02013      % 09253 RGTR--
+200304011 Howald, Ronneboesch          01915                % 09253 RGTR--
+200304012 Howald, P&R Howald Q  01916  01916                % 09253 RGTR--
+200412021 Gasperich, Gerhard M  01916  01916                % 09253 RGTR--
+200412023 Gasperich, Leonardo   01917  01917                % 09253 RGTR--
+200412004 Gasperich, Émile Bia  01918  01918                % 09253 RGTR--
+200412006 Gasperich, Cloche d'  01919  01919                % 09253 RGTR--
+200411001 Findel, Business Cen  01929  01929                % 09253 RGTR--
+200416001 Findel, Cité Aéropor  01930  01930                % 09253 RGTR--
+200501004 Findel                01931  01931                % 09253 RGTR--
+200508012 Senningerberg, Lou H  01932  01932                % 09253 RGTR--
+200501001 Aéroport Luxembourg/  01934  01934                % 09253 RGTR--
+200508001 Senningerberg, Autob  01935  01935                % 09253 RGTR--
+200701005 Munsbach, Parc d'Act  01940  01940                % 09253 RGTR--
+180703008 Wasserbillig, Meseni  01955  01955                % 09253 RGTR--
+500000095 Trier, Hochschule     02008 -02008                % 09253 RGTR--
+500000096 Trier, Zurlaubener U  02010 -02010                % 09253 RGTR--
+500000080 Trier, Nordallee      02011 -02011                % 09253 RGTR--
+500000078 Trier, Christophstr.  02013                       % 09253 RGTR--
+*Z 09254 RGTR--                                             % 09254 RGTR--
+*L 302      200304011 500000078  02015  02113               % 09254 RGTR--
+*R 2 500000078 200304011 500000078  02015  02113            % 09254 RGTR--
+*G 070 200304011 500000078  02015  02113                    % 09254 RGTR--
+*A VE 200304011 500000078 000034  02015  02113              % 09254 RGTR--
+*I FD 200304011 500000078        0002058  02015  02113      % 09254 RGTR--
+200304011 Howald, Ronneboesch          02015                % 09254 RGTR--
+200304012 Howald, P&R Howald Q  02016  02016                % 09254 RGTR--
+200412021 Gasperich, Gerhard M  02016  02016                % 09254 RGTR--
+200412023 Gasperich, Leonardo   02017  02017                % 09254 RGTR--
+200412004 Gasperich, Émile Bia  02018  02018                % 09254 RGTR--
+200412006 Gasperich, Cloche d'  02019  02019                % 09254 RGTR--
+200411001 Findel, Business Cen  02029  02029                % 09254 RGTR--
+200416001 Findel, Cité Aéropor  02030  02030                % 09254 RGTR--
+200501004 Findel                02031  02031                % 09254 RGTR--
+200508012 Senningerberg, Lou H  02032  02032                % 09254 RGTR--
+200501001 Aéroport Luxembourg/  02034  02034                % 09254 RGTR--
+200508001 Senningerberg, Autob  02035  02035                % 09254 RGTR--
+200701005 Munsbach, Parc d'Act  02040  02040                % 09254 RGTR--
+180703008 Wasserbillig, Meseni  02055  02055                % 09254 RGTR--
+500000095 Trier, Hochschule     02108 -02108                % 09254 RGTR--
+500000096 Trier, Zurlaubener U  02110 -02110                % 09254 RGTR--
+500000080 Trier, Nordallee      02111 -02111                % 09254 RGTR--
+500000078 Trier, Christophstr.  02113                       % 09254 RGTR--

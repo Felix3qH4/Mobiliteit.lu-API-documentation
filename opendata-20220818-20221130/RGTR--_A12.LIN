@@ -1,0 +1,91 @@
+*F 03 2
+*Z 18042 RGTR--                                             % 18042 RGTR--
+*L A12      110805001 110101002  00744  00815               % 18042 RGTR--
+*A cj 110805001 110101002 000042  00744  00815              % 18042 RGTR--
+*A ad 110805001 110101002 000042  00744  00815              % 18042 RGTR--
+*R 1 110101002 110805001 110101002  00744  00815            % 18042 RGTR--
+*G 050 110805001 110101002  00744  00815                    % 18042 RGTR--
+*A VE 110805001 110101002 000042  00744  00815              % 18042 RGTR--
+*I FD 110805001 110101002        0002401  00744  00815      % 18042 RGTR--
+110805001 Crendal, Duerefstroo         00744                % 18042 RGTR--
+110820002 Troine, Duarrefstroo  00746  00746                % 18042 RGTR--
+110820001 Troine, Bréck         00747  00747                % 18042 RGTR--
+110820004 Troine-Route, Op der  00749  00749                % 18042 RGTR--
+110820003 Troine-Route, Op der  00750  00750                % 18042 RGTR--
+110801003 Allerborn, Bläiminne  00752  00752                % 18042 RGTR--
+110801001 Allerborn, Kräizung   00752  00752                % 18042 RGTR--
+110801002 Allerborn, Duerefstr  00753  00753                % 18042 RGTR--
+110810001 Hamiville, Beim Tout  00757  00757                % 18042 RGTR--
+110810002 Hamiville, Haaptstro  00757  00757                % 18042 RGTR--
+110821005 Wincrange, Béigener   00759  00759                % 18042 RGTR--
+110821001 Wincrange, Bei der K  00759  00759                % 18042 RGTR--
+110824001 Boevange, Wëntgerdal  00800  00800                % 18042 RGTR--
+110813001 Lullange, Haaptstroo  00802  00802                % 18042 RGTR--
+110808001 Doennange, Haaptstro  00804  00804                % 18042 RGTR--
+110806001 Deiffelt, Haaptstroo  00805  00805                % 18042 RGTR--
+110812001 Lentzweiler, Haaptst  00807  00807                % 18042 RGTR--
+110102003 Lentzweiler, Op der   00809  00809                % 18042 RGTR--
+110102001 Eselborn, Dueref      00811  00811                % 18042 RGTR--
+110102002 Eselborn, Neidierfch  00812  00812                % 18042 RGTR--
+110101015 Clervaux, Hall Polyv  00813  00813                % 18042 RGTR--
+110101002 Clervaux, Gare routi  00815                       % 18042 RGTR--
+*Z 18043 RGTR--                                             % 18043 RGTR--
+*L A12      110101002 110805001  01455  01524               % 18043 RGTR--
+*A cj 110101002 110805001 000042  01455  01524              % 18043 RGTR--
+*A ad 110101002 110805001 000042  01455  01524              % 18043 RGTR--
+*R 2 110805001 110101002 110805001  01455  01524            % 18043 RGTR--
+*G 050 110101002 110805001  01455  01524                    % 18043 RGTR--
+*A VE 110101002 110805001 000042  01455  01524              % 18043 RGTR--
+*I FD 110101002 110805001        0002537  01455  01524      % 18043 RGTR--
+110101002 Clervaux, Gare routi         01455                % 18043 RGTR--
+110101015 Clervaux, Hall Polyv  01456  01456                % 18043 RGTR--
+110102002 Eselborn, Neidierfch  01458  01458                % 18043 RGTR--
+110102001 Eselborn, Dueref      01458  01458                % 18043 RGTR--
+110102003 Lentzweiler, Op der   01501  01501                % 18043 RGTR--
+110812001 Lentzweiler, Haaptst  01502  01502                % 18043 RGTR--
+110806001 Deiffelt, Haaptstroo  01503  01503                % 18043 RGTR--
+110808001 Doennange, Haaptstro  01504  01504                % 18043 RGTR--
+110813001 Lullange, Haaptstroo  01506  01506                % 18043 RGTR--
+110824001 Boevange, Wëntgerdal  01508  01508                % 18043 RGTR--
+110821001 Wincrange, Bei der K  01509  01509                % 18043 RGTR--
+110821005 Wincrange, Béigener   01510  01510                % 18043 RGTR--
+110810002 Hamiville, Haaptstro  01512  01512                % 18043 RGTR--
+110810001 Hamiville, Beim Tout  01512  01512                % 18043 RGTR--
+110801003 Allerborn, Bläiminne  01514  01514                % 18043 RGTR--
+110801002 Allerborn, Duerefstr  01515  01515                % 18043 RGTR--
+110801001 Allerborn, Kräizung   01516  01516                % 18043 RGTR--
+110820003 Troine-Route, Op der  01518  01518                % 18043 RGTR--
+110820004 Troine-Route, Op der  01519  01519                % 18043 RGTR--
+110820001 Troine, Bréck         01521  01521                % 18043 RGTR--
+110820002 Troine, Duarrefstroo  01522  01522                % 18043 RGTR--
+110805001 Crendal, Duerefstroo  01524                       % 18043 RGTR--
+*Z 18044 RGTR--                                             % 18044 RGTR--
+*L A12      110101002 110805001  01637  01708               % 18044 RGTR--
+*A cj 110101002 110805001 000042  01637  01708              % 18044 RGTR--
+*A ad 110101002 110805001 000042  01637  01708              % 18044 RGTR--
+*R 2 110805001 110101002 110805001  01637  01708            % 18044 RGTR--
+*G 050 110101002 110805001  01637  01708                    % 18044 RGTR--
+*A VE 110101002 110805001 000042  01637  01708              % 18044 RGTR--
+*I FD 110101002 110805001        0003044  01637  01708      % 18044 RGTR--
+110101002 Clervaux, Gare routi         01637                % 18044 RGTR--
+110101015 Clervaux, Hall Polyv  01638  01638                % 18044 RGTR--
+110102002 Eselborn, Neidierfch  01640  01640                % 18044 RGTR--
+110102001 Eselborn, Dueref      01641  01641                % 18044 RGTR--
+110102003 Lentzweiler, Op der   01644  01644                % 18044 RGTR--
+110812001 Lentzweiler, Haaptst  01645  01645                % 18044 RGTR--
+110806001 Deiffelt, Haaptstroo  01647  01647                % 18044 RGTR--
+110808001 Doennange, Haaptstro  01648  01648                % 18044 RGTR--
+110813001 Lullange, Haaptstroo  01650  01650                % 18044 RGTR--
+110824001 Boevange, Wëntgerdal  01651  01651                % 18044 RGTR--
+110821001 Wincrange, Bei der K  01653  01653                % 18044 RGTR--
+110821005 Wincrange, Béigener   01653  01653                % 18044 RGTR--
+110810002 Hamiville, Haaptstro  01655  01655                % 18044 RGTR--
+110810001 Hamiville, Beim Tout  01656  01656                % 18044 RGTR--
+110801003 Allerborn, Bläiminne  01657  01657                % 18044 RGTR--
+110801002 Allerborn, Duerefstr  01658  01658                % 18044 RGTR--
+110801001 Allerborn, Kräizung   01659  01659                % 18044 RGTR--
+110820003 Troine-Route, Op der  01701  01701                % 18044 RGTR--
+110820004 Troine-Route, Op der  01702  01702                % 18044 RGTR--
+110820001 Troine, Bréck         01704  01704                % 18044 RGTR--
+110820002 Troine, Duarrefstroo  01705  01705                % 18044 RGTR--
+110805001 Crendal, Duerefstroo  01708                       % 18044 RGTR--

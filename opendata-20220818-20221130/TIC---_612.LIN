@@ -1,0 +1,26 @@
+*F 03 2
+*Z 05812 TIC---                                             % 05812 TIC---
+*L 612      220201054 220402034  00716  00740               % 05812 TIC---
+*R 1 220402034 220201054 220402034  00716  00740            % 05812 TIC---
+*G GB1 220201054 220402034  00716  00740                    % 05812 TIC---
+*A VE 220201054 220402034 000290  00716  00740              % 05812 TIC---
+*I FD 220201054 220402034        0001625  00716  00740      % 05812 TIC---
+220201054 Differdange, Seelebu         00716                % 05812 TIC---
+220204006 Oberkorn, Rousegaert  00717  00717                % 05812 TIC---
+220204005 Oberkorn, Post        00718  00718                % 05812 TIC---
+220204003 Oberkorn, Neiduerf    00719  00719                % 05812 TIC---
+221301022 Belvaux, Uewerkuerer  00721  00721                % 05812 TIC---
+221301006 Belvaux-Soleuvre, Ga  00721  00721                % 05812 TIC---
+221301007 Belvaux, Gemeng       00722  00722                % 05812 TIC---
+221301009 Belvaux, Henri Tudor  00723  00723                % 05812 TIC---
+221301016 Belvaux, Roudewee     00725  00725                % 05812 TIC---
+221301005 Belvaux, Brill        00727  00727                % 05812 TIC---
+220402079 Esch-sur-Alzette, Ra  00728  00728                % 05812 TIC---
+220402062 Esch-sur-Alzette, Ly  00732  00732                % 05812 TIC---
+220402022 Esch-sur-Alzette, Ci  00733  00733                % 05812 TIC---
+220402067 Esch-sur-Alzette, Op  00733  00733                % 05812 TIC---
+220402071 Esch-sur-Alzette, Pl  00734  00734                % 05812 TIC---
+220402100 Esch-sur-Alzette, Pi  00735  00735                % 05812 TIC---
+220402021 Esch-sur-Alzette, ru  00737  00737                % 05812 TIC---
+220402036 Esch-sur-Alzette, Pl  00738  00738                % 05812 TIC---
+220402034 Esch-sur-Alzette, Ga  00740                       % 05812 TIC---

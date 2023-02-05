@@ -1,0 +1,88 @@
+*F 03 2
+*Z 18544 RGTR--                                             % 18544 RGTR--
+*L H01      150901001 160904001  00719  00751               % 18544 RGTR--
+*A cj 150901001 160904001 000042  00719  00751              % 18544 RGTR--
+*A ad 150901001 160904001 000042  00719  00751              % 18544 RGTR--
+*R 1 160904001 150901001 160904001  00719  00751            % 18544 RGTR--
+*G 063 150901001 160904001  00719  00751                    % 18544 RGTR--
+*A VE 150901001 160904001 000042  00719  00751              % 18544 RGTR--
+*I FD 150901001 160904001        0003386  00719  00751      % 18544 RGTR--
+150901001 Michelbouch                  00719                % 18544 RGTR--
+141101002 Mertzig, Butzebierg   00720  00720                % 18544 RGTR--
+141101005 Mertzig, Gemeng       00723  00723                % 18544 RGTR--
+141101003 Mertzig, Eglise       00723  00723                % 18544 RGTR--
+141101006 Mertzig, Wéchen       00724  00724                % 18544 RGTR--
+150402005 Grosbous, Police      00726  00726                % 18544 RGTR--
+150402004 Grosbous, Op der Baa  00727  00727                % 18544 RGTR--
+150402006 Grosbous, Sprëtzenha  00727  00727                % 18544 RGTR--
+150402003 Grosbous, Kiirfënt    00728  00728                % 18544 RGTR--
+150902004 Vichten, Gemeng       00733  00733                % 18544 RGTR--
+150902007 Vichten, Schoul       00733  00733                % 18544 RGTR--
+150902006 Vichten, Ohligsfeld   00734  00734                % 18544 RGTR--
+150902005 Vichten, Hemeschbaac  00735  00735                % 18544 RGTR--
+160101002 Bissen, Kräizung      00739  00739                % 18544 RGTR--
+160101004 Bissen, Kiirch        00741  00741                % 18544 RGTR--
+160101007 Bissen, Steekräiz     00742  00742                % 18544 RGTR--
+160102002 Rouscht               00744  00744                % 18544 RGTR--
+160904008 Mersch, Mierscherbie  00748  00748                % 18544 RGTR--
+160904009 Mersch, Beim Klousch  00749  00749                % 18544 RGTR--
+160904005 Mersch, Stäereplaz    00750  00750                % 18544 RGTR--
+160904001 Mersch, Gare routièr  00751                       % 18544 RGTR--
+*Z 18545 RGTR--                                             % 18545 RGTR--
+*L H01      160904001 150901001  01630  01700               % 18545 RGTR--
+*A cj 160904001 150901001 000335  01630  01700              % 18545 RGTR--
+*A ad 160904001 150901001 000335  01630  01700              % 18545 RGTR--
+*R 2 150901001 160904001 150901001  01630  01700            % 18545 RGTR--
+*G 063 160904001 150901001  01630  01700                    % 18545 RGTR--
+*A VE 160904001 150901001 000335  01630  01700              % 18545 RGTR--
+*I FD 160904001 150901001        0002059  01630  01700      % 18545 RGTR--
+160904001 Mersch, Gare routièr         01630                % 18545 RGTR--
+160904005 Mersch, Stäereplaz    01631  01631                % 18545 RGTR--
+160904009 Mersch, Beim Klousch  01632  01632                % 18545 RGTR--
+160904008 Mersch, Mierscherbie  01632  01632                % 18545 RGTR--
+160102002 Rouscht               01637  01637                % 18545 RGTR--
+160101007 Bissen, Steekräiz     01638  01638                % 18545 RGTR--
+160101004 Bissen, Kiirch        01639  01639                % 18545 RGTR--
+160101002 Bissen, Kräizung      01640  01640                % 18545 RGTR--
+150902005 Vichten, Hemeschbaac  01645  01645                % 18545 RGTR--
+150902006 Vichten, Ohligsfeld   01646  01646                % 18545 RGTR--
+150902007 Vichten, Schoul       01646  01646                % 18545 RGTR--
+150902004 Vichten, Gemeng       01647  01647                % 18545 RGTR--
+150402003 Grosbous, Kiirfënt    01652  01652                % 18545 RGTR--
+150402006 Grosbous, Sprëtzenha  01652  01652                % 18545 RGTR--
+150402004 Grosbous, Op der Baa  01653  01653                % 18545 RGTR--
+150402005 Grosbous, Police      01653  01653                % 18545 RGTR--
+141101006 Mertzig, Wéchen       01655  01655                % 18545 RGTR--
+141101003 Mertzig, Eglise       01656  01656                % 18545 RGTR--
+141101005 Mertzig, Gemeng       01656  01656                % 18545 RGTR--
+141101002 Mertzig, Butzebierg   01658  01658                % 18545 RGTR--
+150901001 Michelbouch           01700                       % 18545 RGTR--
+*Z 18546 RGTR--                                             % 18546 RGTR--
+*L H01      160904001 150901001  01410  01440               % 18546 RGTR--
+*A cj 160904001 150901001 000011  01410  01440              % 18546 RGTR--
+*A ad 160904001 150901001 000011  01410  01440              % 18546 RGTR--
+*R 2 150901001 160904001 150901001  01410  01440            % 18546 RGTR--
+*G 063 160904001 150901001  01410  01440                    % 18546 RGTR--
+*A VE 160904001 150901001 000011  01410  01440              % 18546 RGTR--
+*I FD 160904001 150901001        0001988  01410  01440      % 18546 RGTR--
+160904001 Mersch, Gare routièr         01410                % 18546 RGTR--
+160904005 Mersch, Stäereplaz    01411  01411                % 18546 RGTR--
+160904009 Mersch, Beim Klousch  01412  01412                % 18546 RGTR--
+160904008 Mersch, Mierscherbie  01412  01412                % 18546 RGTR--
+160102002 Rouscht               01417  01417                % 18546 RGTR--
+160101007 Bissen, Steekräiz     01418  01418                % 18546 RGTR--
+160101004 Bissen, Kiirch        01419  01419                % 18546 RGTR--
+160101002 Bissen, Kräizung      01420  01420                % 18546 RGTR--
+150902005 Vichten, Hemeschbaac  01425  01425                % 18546 RGTR--
+150902006 Vichten, Ohligsfeld   01426  01426                % 18546 RGTR--
+150902007 Vichten, Schoul       01426  01426                % 18546 RGTR--
+150902004 Vichten, Gemeng       01427  01427                % 18546 RGTR--
+150402003 Grosbous, Kiirfënt    01432  01432                % 18546 RGTR--
+150402006 Grosbous, Sprëtzenha  01432  01432                % 18546 RGTR--
+150402004 Grosbous, Op der Baa  01433  01433                % 18546 RGTR--
+150402005 Grosbous, Police      01433  01433                % 18546 RGTR--
+141101006 Mertzig, Wéchen       01435  01435                % 18546 RGTR--
+141101003 Mertzig, Eglise       01436  01436                % 18546 RGTR--
+141101005 Mertzig, Gemeng       01436  01436                % 18546 RGTR--
+141101002 Mertzig, Butzebierg   01438  01438                % 18546 RGTR--
+150901001 Michelbouch           01440                       % 18546 RGTR--

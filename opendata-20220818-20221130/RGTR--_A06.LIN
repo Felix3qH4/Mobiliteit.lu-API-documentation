@@ -1,0 +1,110 @@
+*F 03 2
+*Z 18022 RGTR--                                             % 18022 RGTR--
+*L A06      120903023 110101008  01208  01306               % 18022 RGTR--
+*A cj 120903023 110101008 000042  01208  01306              % 18022 RGTR--
+*A GH 120903023 110101008 000042  01208  01306              % 18022 RGTR--
+*A ad 120903023 110101008 000042  01208  01306              % 18022 RGTR--
+*R 1 110101008 120903023 110101008  01208  01306            % 18022 RGTR--
+*G 050 120903023 110101008  01208  01306                    % 18022 RGTR--
+*A VE 120903023 110101008 000042  01208  01306              % 18022 RGTR--
+*I FD 120903023 110101008        0002467  01208  01306      % 18022 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 18022 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 18022 RGTR--
+120903041 Wiltz, Wéinebeerig    01211  01211                % 18022 RGTR--
+120903040 Weidingen, Wegdicher  01212  01212                % 18022 RGTR--
+120902001 Weidingen, Erpeldang  01213  01213                % 18022 RGTR--
+120903007 Weidingen, Erpeldang  01213  01213                % 18022 RGTR--
+120301002 Erpeldange/Wiltz      01214  01214                % 18022 RGTR--
+110501003 Drauffelt, Op der Lé  01221  01221                % 18022 RGTR--
+110501002 Drauffelt, Gare rout  01222  01222                % 18022 RGTR--
+110101010 Clervaux, Police      01231  01231                % 18022 RGTR--
+110101001 Clervaux, Clinique    01232  01232                % 18022 RGTR--
+110103003 Reuler, Hôh           01233  01233                % 18022 RGTR--
+110502006 Marnach, Bei der Kie  01236  01236                % 18022 RGTR--
+110502008 Marnach, Op der Bréc  01237  01237                % 18022 RGTR--
+110502005 Marnach, Geschäftsze  01238  01238                % 18022 RGTR--
+110502009 Marnach, Pënnik       01240  01240                % 18022 RGTR--
+110502004 Marnach, Fëschberstr  01240  01240                % 18022 RGTR--
+110301001 Fischbach/Heinersche  01241  01241                % 18022 RGTR--
+110303001 Heinerscheid, Bei Di  01244  01244                % 18022 RGTR--
+110303003 Heinerscheid, Geméin  01244  01249                % 18022 RGTR--
+110304002 Hupperdange, Schull   01252  01252                % 18022 RGTR--
+110304004 Hupperdange, Knupp    01253  01253                % 18022 RGTR--
+110104001 Urspelt, Knupp        01255  01255                % 18022 RGTR--
+110104002 Urspelt, Schlass      01256  01256                % 18022 RGTR--
+110101002 Clervaux, Gare routi  01300  01300                % 18022 RGTR--
+110101004 Clervaux, Maison de   01302  01302                % 18022 RGTR--
+110101009 Clervaux, Place Bene  01303  01303                % 18022 RGTR--
+110101008 Clervaux, Pl. de la   01306                       % 18022 RGTR--
+*Z 18023 RGTR--                                             % 18023 RGTR--
+*L A06      120903023 110101008  01615  01711               % 18023 RGTR--
+*A cj 120903023 110101008 000042  01615  01711              % 18023 RGTR--
+*A ad 120903023 110101008 000042  01615  01711              % 18023 RGTR--
+*R 1 110101008 120903023 110101008  01615  01711            % 18023 RGTR--
+*G 050 120903023 110101008  01615  01711                    % 18023 RGTR--
+*A VE 120903023 110101008 000042  01615  01711              % 18023 RGTR--
+*I FD 120903023 110101008        0001895  01615  01711      % 18023 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 18023 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 18023 RGTR--
+120903041 Wiltz, Wéinebeerig    01619  01619                % 18023 RGTR--
+120903040 Weidingen, Wegdicher  01620  01620                % 18023 RGTR--
+120902001 Weidingen, Erpeldang  01621  01621                % 18023 RGTR--
+120903007 Weidingen, Erpeldang  01621  01621                % 18023 RGTR--
+120301002 Erpeldange/Wiltz      01622  01622                % 18023 RGTR--
+110501003 Drauffelt, Op der Lé  01629  01629                % 18023 RGTR--
+110501002 Drauffelt, Gare rout  01631  01631                % 18023 RGTR--
+110101010 Clervaux, Police      01641  01641                % 18023 RGTR--
+110101001 Clervaux, Clinique    01642  01642                % 18023 RGTR--
+110103003 Reuler, Hôh           01643  01643                % 18023 RGTR--
+110502006 Marnach, Bei der Kie  01646  01646                % 18023 RGTR--
+110502008 Marnach, Op der Bréc  01646  01646                % 18023 RGTR--
+110502005 Marnach, Geschäftsze  01647  01647                % 18023 RGTR--
+110502009 Marnach, Pënnik       01649  01649                % 18023 RGTR--
+110502004 Marnach, Fëschberstr  01650  01650                % 18023 RGTR--
+110301001 Fischbach/Heinersche  01651  01651                % 18023 RGTR--
+110303001 Heinerscheid, Bei Di  01653  01653                % 18023 RGTR--
+110303003 Heinerscheid, Geméin  01654  01654                % 18023 RGTR--
+110304002 Hupperdange, Schull   01657  01657                % 18023 RGTR--
+110304004 Hupperdange, Knupp    01658  01658                % 18023 RGTR--
+110104001 Urspelt, Knupp        01700  01700                % 18023 RGTR--
+110104002 Urspelt, Schlass      01701  01701                % 18023 RGTR--
+110101002 Clervaux, Gare routi  01705  01705                % 18023 RGTR--
+110101004 Clervaux, Maison de   01707  01707                % 18023 RGTR--
+110101009 Clervaux, Place Bene  01708  01708                % 18023 RGTR--
+110101008 Clervaux, Pl. de la   01711                       % 18023 RGTR--
+*Z 18024 RGTR--                                             % 18024 RGTR--
+*L A06      110101008 120903023  00647  00744               % 18024 RGTR--
+*A cj 110101008 120903023 000042  00647  00744              % 18024 RGTR--
+*A FK 110101008 120903023 000042  00647  00744              % 18024 RGTR--
+*A ad 110101008 120903023 000042  00647  00744              % 18024 RGTR--
+*R 2 120903023 110101008 120903023  00647  00744            % 18024 RGTR--
+*G 050 110101008 120903023  00647  00744                    % 18024 RGTR--
+*A VE 110101008 120903023 000042  00647  00744              % 18024 RGTR--
+*I FD 110101008 120903023        0002527  00647  00744      % 18024 RGTR--
+110101008 Clervaux, Pl. de la          00647                % 18024 RGTR--
+110101011 Clervaux, Postes      00648  00648                % 18024 RGTR--
+110101004 Clervaux, Maison de   00648  00648                % 18024 RGTR--
+110101002 Clervaux, Gare routi  00649  00649                % 18024 RGTR--
+110104002 Urspelt, Schlass      00655  00655                % 18024 RGTR--
+110104001 Urspelt, Knupp        00656  00656                % 18024 RGTR--
+110304004 Hupperdange, Knupp    00659  00659                % 18024 RGTR--
+110304002 Hupperdange, Schull   00659  00659                % 18024 RGTR--
+110303003 Heinerscheid, Geméin  00707  00707                % 18024 RGTR--
+110303001 Heinerscheid, Bei Di  00707  00707                % 18024 RGTR--
+110301001 Fischbach/Heinersche  00710  00710                % 18024 RGTR--
+110502004 Marnach, Fëschberstr  00711  00711                % 18024 RGTR--
+110502009 Marnach, Pënnik       00712  00712                % 18024 RGTR--
+110502005 Marnach, Geschäftsze  00714  00714                % 18024 RGTR--
+110502008 Marnach, Op der Bréc  00715  00715                % 18024 RGTR--
+110502006 Marnach, Bei der Kie  00716  00716                % 18024 RGTR--
+110103003 Reuler, Hôh           00719  00719                % 18024 RGTR--
+110101001 Clervaux, Clinique    00720  00720                % 18024 RGTR--
+110501002 Drauffelt, Gare rout  00728  00728                % 18024 RGTR--
+110501003 Drauffelt, Op der Lé  00729  00729                % 18024 RGTR--
+120301002 Erpeldange/Wiltz      00738  00738                % 18024 RGTR--
+120903007 Weidingen, Erpeldang  00738  00738                % 18024 RGTR--
+120902001 Weidingen, Erpeldang  00739  00739                % 18024 RGTR--
+120903040 Weidingen, Wegdicher  00739  00739                % 18024 RGTR--
+120903041 Wiltz, Wéinebeerig    00740  00740                % 18024 RGTR--
+120903021 Wiltz, Lann           00741  00741                % 18024 RGTR--
+120903023 Wiltz, Lycée du Nord  00744                       % 18024 RGTR--

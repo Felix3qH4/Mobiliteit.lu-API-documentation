@@ -1,0 +1,53 @@
+*F 03 2
+*Z 18459 RGTR--                                             % 18459 RGTR--
+*L E17      200419021 200901015  01403  01430               % 18459 RGTR--
+*A cj 200419021 200901015 000042  01403  01430              % 18459 RGTR--
+*A ad 200419021 200901015 000042  01403  01430              % 18459 RGTR--
+*R 1 200901015 200419021 200901015  01403  01430            % 18459 RGTR--
+*G 060 200419021 200901015  01403  01430                    % 18459 RGTR--
+*A VE 200419021 200901015 000042  01403  01430              % 18459 RGTR--
+*I FD 200419021 200901015        0002093  01403  01430      % 18459 RGTR--
+200419021 Limpertsberg, L.T.C.         01403                % 18459 RGTR--
+200419025 Limpertsberg, Lycée   01407  01407                % 18459 RGTR--
+200901019 Strassen, Les Aubépi  01416  01416                % 18459 RGTR--
+200901022 Strassen, Michel Ang  01416  01416                % 18459 RGTR--
+200901025 Strassen, Réimerwee   01417  01417                % 18459 RGTR--
+200901018 Strassen, Kiem        01418  01418                % 18459 RGTR--
+200901013 Strassen, Grande-Duc  01419  01419                % 18459 RGTR--
+200901004 Strassen, Barblé      01420  01420                % 18459 RGTR--
+200901008 Strassen, Chapelle    01422  01422                % 18459 RGTR--
+200901010 Strassen, Follereau   01423  01423                % 18459 RGTR--
+200901029 Strassen, Terminus    01424  01424                % 18459 RGTR--
+200901016 Strassen, Geesseneck  01425  01425                % 18459 RGTR--
+200901017 Strassen, Kesseler    01425  01425                % 18459 RGTR--
+200901004 Strassen, Barblé      01426  01426                % 18459 RGTR--
+200901020 Strassen, Benelux     01427  01427                % 18459 RGTR--
+200901003 Strassen, Aurélia     01428  01428                % 18459 RGTR--
+200901014 Strassen, Hondseck    01429  01429                % 18459 RGTR--
+200901015 Strassen, Huorgarten  01430                       % 18459 RGTR--
+*Z 18460 RGTR--                                             % 18460 RGTR--
+*L E17      200901019 200419021  00710  00744               % 18460 RGTR--
+*A cj 200901019 200419021 000042  00710  00744              % 18460 RGTR--
+*A ad 200901019 200419021 000042  00710  00744              % 18460 RGTR--
+*R 2 200419021 200901019 200419021  00710  00744            % 18460 RGTR--
+*G 060 200901019 200419021  00710  00744                    % 18460 RGTR--
+*A VE 200901019 200419021 000042  00710  00744              % 18460 RGTR--
+*I FD 200901019 200419021        0001984  00710  00744      % 18460 RGTR--
+200901019 Strassen, Les Aubépi         00710                % 18460 RGTR--
+200901022 Strassen, Michel Ang  00710  00710                % 18460 RGTR--
+200901025 Strassen, Réimerwee   00711  00711                % 18460 RGTR--
+200901018 Strassen, Kiem        00712  00712                % 18460 RGTR--
+200901013 Strassen, Grande-Duc  00713  00713                % 18460 RGTR--
+200901008 Strassen, Chapelle    00716  00716                % 18460 RGTR--
+200901010 Strassen, Follereau   00717  00717                % 18460 RGTR--
+200901029 Strassen, Terminus    00718  00718                % 18460 RGTR--
+200901016 Strassen, Geesseneck  00719  00719                % 18460 RGTR--
+200901017 Strassen, Kesseler    00720  00720                % 18460 RGTR--
+200901004 Strassen, Barblé      00721  00721                % 18460 RGTR--
+200901020 Strassen, Benelux     00722  00722                % 18460 RGTR--
+200901003 Strassen, Aurélia     00724  00724                % 18460 RGTR--
+200901014 Strassen, Hondseck    00725  00725                % 18460 RGTR--
+200901015 Strassen, Huorgarten  00726  00726                % 18460 RGTR--
+200419026 Limpertsberg, Theate  00738  00738                % 18460 RGTR--
+200419025 Limpertsberg, Lycée   00740  00740                % 18460 RGTR--
+200419021 Limpertsberg, L.T.C.  00744                       % 18460 RGTR--

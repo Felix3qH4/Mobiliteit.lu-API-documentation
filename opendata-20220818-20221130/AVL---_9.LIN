@@ -1,0 +1,1541 @@
+*F 03 2
+*Z 03820 AVL---       001 900                               % 03820 AVL---
+*L 9        200414006 200406019  00530  00604               % 03820 AVL---
+*A BE 200414006 200406019 000040  00530  00604              % 03820 AVL---
+*R 1 200406019 200414006 200406019  00530  00604            % 03820 AVL---
+*G STE 200414006 200406019  00530  00604                    % 03820 AVL---
+*A VE 200414006 200406019 000040  00530  00604              % 03820 AVL---
+200414006 Hamm, Rue de Bitbour         00530                % 03820 AVL---
+200414003 Hamm, Käschtewee      00531  00531                % 03820 AVL---
+200414007 Hamm, Rue Haute       00532  00532                % 03820 AVL---
+200414004 Hamm, Kierch          00532  00532                % 03820 AVL---
+200414008 Hamm, Schoul          00533  00533                % 03820 AVL---
+200414001 Hamm, Colonie         00534  00534                % 03820 AVL---
+200414002 Hamm, Englebert Neve  00535  00535                % 03820 AVL---
+200414005 Hamm, Montmédy        00535  00535                % 03820 AVL---
+200404023 Bonnevoie, Kofferfab  00536  00536                % 03820 AVL---
+200404014 Bonnevoie, Gabriel L  00537  00537                % 03820 AVL---
+200404034 Bonnevoie, Rotonde    00538  00538                % 03820 AVL---
+200405046 Luxembourg, Gare Roc  00539  00539                % 03820 AVL---
+200405039 Luxembourg, Wallis    00540  00540                % 03820 AVL---
+200405013 Centre, F.D. Rooseve  00543  00543                % 03820 AVL---
+200405020 Hamilius (Bus)        00546  00550                % 03820 AVL---
+200405005 Centre, Badanstalt    00552  00552                % 03820 AVL---
+200423004 Pfaffenthal, Um Bock  00554  00554                % 03820 AVL---
+200408005 Clausen, Plateau Alt  00554  00554                % 03820 AVL---
+200408001 Clausen, Clausener B  00555  00555                % 03820 AVL---
+200408003 Clausen, Malakoff     00556  00556                % 03820 AVL---
+200422005 Neudorf/Weimershof,   00557  00557                % 03820 AVL---
+200408002 Neudorf, Fixmer       00558  00558                % 03820 AVL---
+200422009 Neudorf, Kierch       00559  00559                % 03820 AVL---
+200422001 Neiduerf, Brasserie   00559  00559                % 03820 AVL---
+200422008 Neiduerf, Kapell      00600  00600                % 03820 AVL---
+200422011 Neudorf, Laangegronn  00601  00601                % 03820 AVL---
+200422003 Neudorf/Weimershof,   00601  00601                % 03820 AVL---
+200422007 Neudorf, Kalchesbruc  00602  00602                % 03820 AVL---
+200406019 Cents, Waassertuerm   00604                       % 03820 AVL---
+*Z 03821 AVL---       005 030                               % 03821 AVL---
+*L 9        200414006 200406019  02100  02134               % 03821 AVL---
+*A BE 200414006 200406019 000040  02100  02134              % 03821 AVL---
+*R 1 200406019 200414006 200406019  02100  02134            % 03821 AVL---
+*G STE 200414006 200406019  02100  02134                    % 03821 AVL---
+*A VE 200414006 200406019 000040  02100  02134              % 03821 AVL---
+200414006 Hamm, Rue de Bitbour         02100                % 03821 AVL---
+200414003 Hamm, Käschtewee      02101  02101                % 03821 AVL---
+200414007 Hamm, Rue Haute       02102  02102                % 03821 AVL---
+200414004 Hamm, Kierch          02102  02102                % 03821 AVL---
+200414008 Hamm, Schoul          02103  02103                % 03821 AVL---
+200414001 Hamm, Colonie         02104  02104                % 03821 AVL---
+200414002 Hamm, Englebert Neve  02105  02105                % 03821 AVL---
+200414005 Hamm, Montmédy        02105  02105                % 03821 AVL---
+200404023 Bonnevoie, Kofferfab  02106  02106                % 03821 AVL---
+200404014 Bonnevoie, Gabriel L  02107  02107                % 03821 AVL---
+200404034 Bonnevoie, Rotonde    02108  02108                % 03821 AVL---
+200405046 Luxembourg, Gare Roc  02109  02109                % 03821 AVL---
+200405039 Luxembourg, Wallis    02110  02110                % 03821 AVL---
+200405013 Centre, F.D. Rooseve  02113  02113                % 03821 AVL---
+200405020 Hamilius (Bus)        02116  02120                % 03821 AVL---
+200405005 Centre, Badanstalt    02122  02122                % 03821 AVL---
+200423004 Pfaffenthal, Um Bock  02124  02124                % 03821 AVL---
+200408005 Clausen, Plateau Alt  02124  02124                % 03821 AVL---
+200408001 Clausen, Clausener B  02125  02125                % 03821 AVL---
+200408003 Clausen, Malakoff     02126  02126                % 03821 AVL---
+200422005 Neudorf/Weimershof,   02127  02127                % 03821 AVL---
+200408002 Neudorf, Fixmer       02128  02128                % 03821 AVL---
+200422009 Neudorf, Kierch       02129  02129                % 03821 AVL---
+200422001 Neiduerf, Brasserie   02129  02129                % 03821 AVL---
+200422008 Neiduerf, Kapell      02130  02130                % 03821 AVL---
+200422011 Neudorf, Laangegronn  02131  02131                % 03821 AVL---
+200422003 Neudorf/Weimershof,   02131  02131                % 03821 AVL---
+200422007 Neudorf, Kalchesbruc  02132  02132                % 03821 AVL---
+200406019 Cents, Waassertuerm   02134                       % 03821 AVL---
+*Z 03822 AVL---                                             % 03822 AVL---
+*L 9        200414006 200406019  00500  00534               % 03822 AVL---
+*A BE 200414006 200406019 000034  00500  00534              % 03822 AVL---
+*R 1 200406019 200414006 200406019  00500  00534            % 03822 AVL---
+*G STE 200414006 200406019  00500  00534                    % 03822 AVL---
+*A VE 200414006 200406019 000034  00500  00534              % 03822 AVL---
+200414006 Hamm, Rue de Bitbour         00500                % 03822 AVL---
+200414003 Hamm, Käschtewee      00501  00501                % 03822 AVL---
+200414007 Hamm, Rue Haute       00502  00502                % 03822 AVL---
+200414004 Hamm, Kierch          00502  00502                % 03822 AVL---
+200414008 Hamm, Schoul          00503  00503                % 03822 AVL---
+200414001 Hamm, Colonie         00504  00504                % 03822 AVL---
+200414002 Hamm, Englebert Neve  00505  00505                % 03822 AVL---
+200414005 Hamm, Montmédy        00505  00505                % 03822 AVL---
+200404023 Bonnevoie, Kofferfab  00506  00506                % 03822 AVL---
+200404014 Bonnevoie, Gabriel L  00507  00507                % 03822 AVL---
+200404034 Bonnevoie, Rotonde    00508  00508                % 03822 AVL---
+200405046 Luxembourg, Gare Roc  00509  00509                % 03822 AVL---
+200405039 Luxembourg, Wallis    00510  00510                % 03822 AVL---
+200405013 Centre, F.D. Rooseve  00513  00513                % 03822 AVL---
+200405020 Hamilius (Bus)        00516  00520                % 03822 AVL---
+200405005 Centre, Badanstalt    00522  00522                % 03822 AVL---
+200423004 Pfaffenthal, Um Bock  00524  00524                % 03822 AVL---
+200408005 Clausen, Plateau Alt  00524  00524                % 03822 AVL---
+200408001 Clausen, Clausener B  00525  00525                % 03822 AVL---
+200408003 Clausen, Malakoff     00526  00526                % 03822 AVL---
+200422005 Neudorf/Weimershof,   00527  00527                % 03822 AVL---
+200408002 Neudorf, Fixmer       00528  00528                % 03822 AVL---
+200422009 Neudorf, Kierch       00529  00529                % 03822 AVL---
+200422001 Neiduerf, Brasserie   00529  00529                % 03822 AVL---
+200422008 Neiduerf, Kapell      00530  00530                % 03822 AVL---
+200422011 Neudorf, Laangegronn  00531  00531                % 03822 AVL---
+200422003 Neudorf/Weimershof,   00531  00531                % 03822 AVL---
+200422007 Neudorf, Kalchesbruc  00532  00532                % 03822 AVL---
+200406019 Cents, Waassertuerm   00534                       % 03822 AVL---
+*Z 03823 AVL---       006 030                               % 03823 AVL---
+*L 9        200414006 200406019  00800  00834               % 03823 AVL---
+*A BE 200414006 200406019 000016  00800  00834              % 03823 AVL---
+*R 1 200406019 200414006 200406019  00800  00834            % 03823 AVL---
+*G STE 200414006 200406019  00800  00834                    % 03823 AVL---
+*A VE 200414006 200406019 000016  00800  00834              % 03823 AVL---
+200414006 Hamm, Rue de Bitbour         00800                % 03823 AVL---
+200414003 Hamm, Käschtewee      00801  00801                % 03823 AVL---
+200414007 Hamm, Rue Haute       00802  00802                % 03823 AVL---
+200414004 Hamm, Kierch          00802  00802                % 03823 AVL---
+200414008 Hamm, Schoul          00803  00803                % 03823 AVL---
+200414001 Hamm, Colonie         00804  00804                % 03823 AVL---
+200414002 Hamm, Englebert Neve  00805  00805                % 03823 AVL---
+200414005 Hamm, Montmédy        00805  00805                % 03823 AVL---
+200404023 Bonnevoie, Kofferfab  00806  00806                % 03823 AVL---
+200404014 Bonnevoie, Gabriel L  00807  00807                % 03823 AVL---
+200404034 Bonnevoie, Rotonde    00808  00808                % 03823 AVL---
+200405046 Luxembourg, Gare Roc  00809  00809                % 03823 AVL---
+200405039 Luxembourg, Wallis    00810  00810                % 03823 AVL---
+200405013 Centre, F.D. Rooseve  00813  00813                % 03823 AVL---
+200405020 Hamilius (Bus)        00816  00820                % 03823 AVL---
+200405005 Centre, Badanstalt    00822  00822                % 03823 AVL---
+200423004 Pfaffenthal, Um Bock  00824  00824                % 03823 AVL---
+200408005 Clausen, Plateau Alt  00824  00824                % 03823 AVL---
+200408001 Clausen, Clausener B  00825  00825                % 03823 AVL---
+200408003 Clausen, Malakoff     00826  00826                % 03823 AVL---
+200422005 Neudorf/Weimershof,   00827  00827                % 03823 AVL---
+200408002 Neudorf, Fixmer       00828  00828                % 03823 AVL---
+200422009 Neudorf, Kierch       00829  00829                % 03823 AVL---
+200422001 Neiduerf, Brasserie   00829  00829                % 03823 AVL---
+200422008 Neiduerf, Kapell      00830  00830                % 03823 AVL---
+200422011 Neudorf, Laangegronn  00831  00831                % 03823 AVL---
+200422003 Neudorf/Weimershof,   00831  00831                % 03823 AVL---
+200422007 Neudorf, Kalchesbruc  00832  00832                % 03823 AVL---
+200406019 Cents, Waassertuerm   00834                       % 03823 AVL---
+*Z 03824 AVL---                                             % 03824 AVL---
+*L 9        200414006 200406019  02000  02034               % 03824 AVL---
+*A BE 200414006 200406019 000016  02000  02034              % 03824 AVL---
+*R 1 200406019 200414006 200406019  02000  02034            % 03824 AVL---
+*G STE 200414006 200406019  02000  02034                    % 03824 AVL---
+*A VE 200414006 200406019 000016  02000  02034              % 03824 AVL---
+200414006 Hamm, Rue de Bitbour         02000                % 03824 AVL---
+200414003 Hamm, Käschtewee      02001  02001                % 03824 AVL---
+200414007 Hamm, Rue Haute       02002  02002                % 03824 AVL---
+200414004 Hamm, Kierch          02002  02002                % 03824 AVL---
+200414008 Hamm, Schoul          02003  02003                % 03824 AVL---
+200414001 Hamm, Colonie         02004  02004                % 03824 AVL---
+200414002 Hamm, Englebert Neve  02005  02005                % 03824 AVL---
+200414005 Hamm, Montmédy        02005  02005                % 03824 AVL---
+200404023 Bonnevoie, Kofferfab  02006  02006                % 03824 AVL---
+200404014 Bonnevoie, Gabriel L  02007  02007                % 03824 AVL---
+200404034 Bonnevoie, Rotonde    02008  02008                % 03824 AVL---
+200405046 Luxembourg, Gare Roc  02009  02009                % 03824 AVL---
+200405039 Luxembourg, Wallis    02010  02010                % 03824 AVL---
+200405013 Centre, F.D. Rooseve  02013  02013                % 03824 AVL---
+200405020 Hamilius (Bus)        02016  02020                % 03824 AVL---
+200405005 Centre, Badanstalt    02022  02022                % 03824 AVL---
+200423004 Pfaffenthal, Um Bock  02024  02024                % 03824 AVL---
+200408005 Clausen, Plateau Alt  02024  02024                % 03824 AVL---
+200408001 Clausen, Clausener B  02025  02025                % 03824 AVL---
+200408003 Clausen, Malakoff     02026  02026                % 03824 AVL---
+200422005 Neudorf/Weimershof,   02027  02027                % 03824 AVL---
+200408002 Neudorf, Fixmer       02028  02028                % 03824 AVL---
+200422009 Neudorf, Kierch       02029  02029                % 03824 AVL---
+200422001 Neiduerf, Brasserie   02029  02029                % 03824 AVL---
+200422008 Neiduerf, Kapell      02030  02030                % 03824 AVL---
+200422011 Neudorf, Laangegronn  02031  02031                % 03824 AVL---
+200422003 Neudorf/Weimershof,   02031  02031                % 03824 AVL---
+200422007 Neudorf, Kalchesbruc  02032  02032                % 03824 AVL---
+200406019 Cents, Waassertuerm   02034                       % 03824 AVL---
+*Z 03825 AVL---       003 030                               % 03825 AVL---
+*L 9        200414006 200406019  00600  00634               % 03825 AVL---
+*A BE 200414006 200406019 000037  00600  00634              % 03825 AVL---
+*R 1 200406019 200414006 200406019  00600  00634            % 03825 AVL---
+*G STE 200414006 200406019  00600  00634                    % 03825 AVL---
+*A VE 200414006 200406019 000037  00600  00634              % 03825 AVL---
+200414006 Hamm, Rue de Bitbour         00600                % 03825 AVL---
+200414003 Hamm, Käschtewee      00601  00601                % 03825 AVL---
+200414007 Hamm, Rue Haute       00602  00602                % 03825 AVL---
+200414004 Hamm, Kierch          00602  00602                % 03825 AVL---
+200414008 Hamm, Schoul          00603  00603                % 03825 AVL---
+200414001 Hamm, Colonie         00604  00604                % 03825 AVL---
+200414002 Hamm, Englebert Neve  00605  00605                % 03825 AVL---
+200414005 Hamm, Montmédy        00605  00605                % 03825 AVL---
+200404023 Bonnevoie, Kofferfab  00606  00606                % 03825 AVL---
+200404014 Bonnevoie, Gabriel L  00607  00607                % 03825 AVL---
+200404034 Bonnevoie, Rotonde    00608  00608                % 03825 AVL---
+200405046 Luxembourg, Gare Roc  00609  00609                % 03825 AVL---
+200405039 Luxembourg, Wallis    00610  00610                % 03825 AVL---
+200405013 Centre, F.D. Rooseve  00613  00613                % 03825 AVL---
+200405020 Hamilius (Bus)        00616  00620                % 03825 AVL---
+200405005 Centre, Badanstalt    00622  00622                % 03825 AVL---
+200423004 Pfaffenthal, Um Bock  00624  00624                % 03825 AVL---
+200408005 Clausen, Plateau Alt  00624  00624                % 03825 AVL---
+200408001 Clausen, Clausener B  00625  00625                % 03825 AVL---
+200408003 Clausen, Malakoff     00626  00626                % 03825 AVL---
+200422005 Neudorf/Weimershof,   00627  00627                % 03825 AVL---
+200408002 Neudorf, Fixmer       00628  00628                % 03825 AVL---
+200422009 Neudorf, Kierch       00629  00629                % 03825 AVL---
+200422001 Neiduerf, Brasserie   00629  00629                % 03825 AVL---
+200422008 Neiduerf, Kapell      00630  00630                % 03825 AVL---
+200422011 Neudorf, Laangegronn  00631  00631                % 03825 AVL---
+200422003 Neudorf/Weimershof,   00631  00631                % 03825 AVL---
+200422007 Neudorf, Kalchesbruc  00632  00632                % 03825 AVL---
+200406019 Cents, Waassertuerm   00634                       % 03825 AVL---
+*Z 03826 AVL---       055 015                               % 03826 AVL---
+*L 9        200414006 200406019  00547  00623               % 03826 AVL---
+*A BE 200414006 200406019 000034  00547  00623              % 03826 AVL---
+*R 1 200406019 200414006 200406019  00547  00623            % 03826 AVL---
+*G STE 200414006 200406019  00547  00623                    % 03826 AVL---
+*A VE 200414006 200406019 000034  00547  00623              % 03826 AVL---
+200414006 Hamm, Rue de Bitbour         00547                % 03826 AVL---
+200414003 Hamm, Käschtewee      00548  00548                % 03826 AVL---
+200414007 Hamm, Rue Haute       00549  00549                % 03826 AVL---
+200414004 Hamm, Kierch          00549  00549                % 03826 AVL---
+200414008 Hamm, Schoul          00550  00550                % 03826 AVL---
+200414001 Hamm, Colonie         00551  00551                % 03826 AVL---
+200414002 Hamm, Englebert Neve  00552  00552                % 03826 AVL---
+200414005 Hamm, Montmédy        00553  00553                % 03826 AVL---
+200404023 Bonnevoie, Kofferfab  00554  00554                % 03826 AVL---
+200404014 Bonnevoie, Gabriel L  00555  00555                % 03826 AVL---
+200404034 Bonnevoie, Rotonde    00557  00557                % 03826 AVL---
+200405046 Luxembourg, Gare Roc  00558  00558                % 03826 AVL---
+200405039 Luxembourg, Wallis    00600  00600                % 03826 AVL---
+200405013 Centre, F.D. Rooseve  00604  00604                % 03826 AVL---
+200405020 Hamilius (Bus)        00607  00607                % 03826 AVL---
+200405005 Centre, Badanstalt    00610  00610                % 03826 AVL---
+200423004 Pfaffenthal, Um Bock  00611  00611                % 03826 AVL---
+200408005 Clausen, Plateau Alt  00612  00612                % 03826 AVL---
+200408001 Clausen, Clausener B  00613  00613                % 03826 AVL---
+200408003 Clausen, Malakoff     00614  00614                % 03826 AVL---
+200422005 Neudorf/Weimershof,   00615  00615                % 03826 AVL---
+200408002 Neudorf, Fixmer       00616  00616                % 03826 AVL---
+200422009 Neudorf, Kierch       00617  00617                % 03826 AVL---
+200422001 Neiduerf, Brasserie   00618  00618                % 03826 AVL---
+200422008 Neiduerf, Kapell      00619  00619                % 03826 AVL---
+200422011 Neudorf, Laangegronn  00619  00619                % 03826 AVL---
+200422003 Neudorf/Weimershof,   00620  00620                % 03826 AVL---
+200422007 Neudorf, Kalchesbruc  00621  00621                % 03826 AVL---
+200406019 Cents, Waassertuerm   00623                       % 03826 AVL---
+*Z 03827 AVL---                                             % 03827 AVL---
+*L 9        200414006 200406019  02000  02030               % 03827 AVL---
+*A BE 200414006 200406019 000017  02000  02030              % 03827 AVL---
+*R 1 200406019 200414006 200406019  02000  02030            % 03827 AVL---
+*G STE 200414006 200406019  02000  02030                    % 03827 AVL---
+*A VE 200414006 200406019 000017  02000  02030              % 03827 AVL---
+200414006 Hamm, Rue de Bitbour         02000                % 03827 AVL---
+200414003 Hamm, Käschtewee      02001  02001                % 03827 AVL---
+200414007 Hamm, Rue Haute       02002  02002                % 03827 AVL---
+200414004 Hamm, Kierch          02002  02002                % 03827 AVL---
+200414008 Hamm, Schoul          02003  02003                % 03827 AVL---
+200414001 Hamm, Colonie         02004  02004                % 03827 AVL---
+200414002 Hamm, Englebert Neve  02005  02005                % 03827 AVL---
+200414005 Hamm, Montmédy        02005  02005                % 03827 AVL---
+200404023 Bonnevoie, Kofferfab  02006  02006                % 03827 AVL---
+200404014 Bonnevoie, Gabriel L  02007  02007                % 03827 AVL---
+200404034 Bonnevoie, Rotonde    02008  02008                % 03827 AVL---
+200405046 Luxembourg, Gare Roc  02009  02009                % 03827 AVL---
+200405039 Luxembourg, Wallis    02010  02010                % 03827 AVL---
+200405013 Centre, F.D. Rooseve  02013  02013                % 03827 AVL---
+200405020 Hamilius (Bus)        02016  02016                % 03827 AVL---
+200405005 Centre, Badanstalt    02018  02018                % 03827 AVL---
+200423004 Pfaffenthal, Um Bock  02020  02020                % 03827 AVL---
+200408005 Clausen, Plateau Alt  02020  02020                % 03827 AVL---
+200408001 Clausen, Clausener B  02021  02021                % 03827 AVL---
+200408003 Clausen, Malakoff     02022  02022                % 03827 AVL---
+200422005 Neudorf/Weimershof,   02023  02023                % 03827 AVL---
+200408002 Neudorf, Fixmer       02024  02024                % 03827 AVL---
+200422009 Neudorf, Kierch       02025  02025                % 03827 AVL---
+200422001 Neiduerf, Brasserie   02025  02025                % 03827 AVL---
+200422008 Neiduerf, Kapell      02026  02026                % 03827 AVL---
+200422011 Neudorf, Laangegronn  02027  02027                % 03827 AVL---
+200422003 Neudorf/Weimershof,   02027  02027                % 03827 AVL---
+200422007 Neudorf, Kalchesbruc  02028  02028                % 03827 AVL---
+200406019 Cents, Waassertuerm   02030                       % 03827 AVL---
+*Z 03828 AVL---       001 015                               % 03828 AVL---
+*L 9        200414006 200406019  01951  02021               % 03828 AVL---
+*A BE 200414006 200406019 000034  01951  02021              % 03828 AVL---
+*R 1 200406019 200414006 200406019  01951  02021            % 03828 AVL---
+*G STE 200414006 200406019  01951  02021                    % 03828 AVL---
+*A VE 200414006 200406019 000034  01951  02021              % 03828 AVL---
+200414006 Hamm, Rue de Bitbour         01951                % 03828 AVL---
+200414003 Hamm, Käschtewee      01952  01952                % 03828 AVL---
+200414007 Hamm, Rue Haute       01953  01953                % 03828 AVL---
+200414004 Hamm, Kierch          01953  01953                % 03828 AVL---
+200414008 Hamm, Schoul          01954  01954                % 03828 AVL---
+200414001 Hamm, Colonie         01955  01955                % 03828 AVL---
+200414002 Hamm, Englebert Neve  01956  01956                % 03828 AVL---
+200414005 Hamm, Montmédy        01956  01956                % 03828 AVL---
+200404023 Bonnevoie, Kofferfab  01957  01957                % 03828 AVL---
+200404014 Bonnevoie, Gabriel L  01958  01958                % 03828 AVL---
+200404034 Bonnevoie, Rotonde    01959  01959                % 03828 AVL---
+200405046 Luxembourg, Gare Roc  02000  02000                % 03828 AVL---
+200405039 Luxembourg, Wallis    02001  02001                % 03828 AVL---
+200405013 Centre, F.D. Rooseve  02004  02004                % 03828 AVL---
+200405020 Hamilius (Bus)        02007  02007                % 03828 AVL---
+200405005 Centre, Badanstalt    02009  02009                % 03828 AVL---
+200423004 Pfaffenthal, Um Bock  02011  02011                % 03828 AVL---
+200408005 Clausen, Plateau Alt  02011  02011                % 03828 AVL---
+200408001 Clausen, Clausener B  02012  02012                % 03828 AVL---
+200408003 Clausen, Malakoff     02013  02013                % 03828 AVL---
+200422005 Neudorf/Weimershof,   02014  02014                % 03828 AVL---
+200408002 Neudorf, Fixmer       02015  02015                % 03828 AVL---
+200422009 Neudorf, Kierch       02016  02016                % 03828 AVL---
+200422001 Neiduerf, Brasserie   02016  02016                % 03828 AVL---
+200422008 Neiduerf, Kapell      02017  02017                % 03828 AVL---
+200422011 Neudorf, Laangegronn  02018  02018                % 03828 AVL---
+200422003 Neudorf/Weimershof,   02018  02018                % 03828 AVL---
+200422007 Neudorf, Kalchesbruc  02019  02019                % 03828 AVL---
+200406019 Cents, Waassertuerm   02021                       % 03828 AVL---
+*Z 03829 AVL---       047 015                               % 03829 AVL---
+*L 9        200414006 200406019  00751  00822               % 03829 AVL---
+*A BE 200414006 200406019 000017  00751  00822              % 03829 AVL---
+*R 1 200406019 200414006 200406019  00751  00822            % 03829 AVL---
+*G STE 200414006 200406019  00751  00822                    % 03829 AVL---
+*A VE 200414006 200406019 000017  00751  00822              % 03829 AVL---
+200414006 Hamm, Rue de Bitbour         00751                % 03829 AVL---
+200414003 Hamm, Käschtewee      00752  00752                % 03829 AVL---
+200414007 Hamm, Rue Haute       00753  00753                % 03829 AVL---
+200414004 Hamm, Kierch          00753  00753                % 03829 AVL---
+200414008 Hamm, Schoul          00754  00754                % 03829 AVL---
+200414001 Hamm, Colonie         00755  00755                % 03829 AVL---
+200414002 Hamm, Englebert Neve  00756  00756                % 03829 AVL---
+200414005 Hamm, Montmédy        00756  00756                % 03829 AVL---
+200404023 Bonnevoie, Kofferfab  00757  00757                % 03829 AVL---
+200404014 Bonnevoie, Gabriel L  00758  00758                % 03829 AVL---
+200404034 Bonnevoie, Rotonde    00759  00759                % 03829 AVL---
+200405046 Luxembourg, Gare Roc  00800  00800                % 03829 AVL---
+200405039 Luxembourg, Wallis    00802  00802                % 03829 AVL---
+200405013 Centre, F.D. Rooseve  00805  00805                % 03829 AVL---
+200405020 Hamilius (Bus)        00808  00808                % 03829 AVL---
+200405005 Centre, Badanstalt    00810  00810                % 03829 AVL---
+200423004 Pfaffenthal, Um Bock  00812  00812                % 03829 AVL---
+200408005 Clausen, Plateau Alt  00813  00813                % 03829 AVL---
+200408001 Clausen, Clausener B  00814  00814                % 03829 AVL---
+200408003 Clausen, Malakoff     00814  00814                % 03829 AVL---
+200422005 Neudorf/Weimershof,   00815  00815                % 03829 AVL---
+200408002 Neudorf, Fixmer       00816  00816                % 03829 AVL---
+200422009 Neudorf, Kierch       00817  00817                % 03829 AVL---
+200422001 Neiduerf, Brasserie   00818  00818                % 03829 AVL---
+200422008 Neiduerf, Kapell      00818  00818                % 03829 AVL---
+200422011 Neudorf, Laangegronn  00819  00819                % 03829 AVL---
+200422003 Neudorf/Weimershof,   00820  00820                % 03829 AVL---
+200422007 Neudorf, Kalchesbruc  00821  00821                % 03829 AVL---
+200406019 Cents, Waassertuerm   00822                       % 03829 AVL---
+*Z 03830 AVL---       016 030                               % 03830 AVL---
+*L 9        200414006 200406019  01129  01204               % 03830 AVL---
+*A BE 200414006 200406019 000016  01129  01204              % 03830 AVL---
+*R 1 200406019 200414006 200406019  01129  01204            % 03830 AVL---
+*G STE 200414006 200406019  01129  01204                    % 03830 AVL---
+*A VE 200414006 200406019 000016  01129  01204              % 03830 AVL---
+200414006 Hamm, Rue de Bitbour         01129                % 03830 AVL---
+200414003 Hamm, Käschtewee      01130  01130                % 03830 AVL---
+200414007 Hamm, Rue Haute       01131  01131                % 03830 AVL---
+200414004 Hamm, Kierch          01131  01131                % 03830 AVL---
+200414008 Hamm, Schoul          01132  01132                % 03830 AVL---
+200414001 Hamm, Colonie         01133  01133                % 03830 AVL---
+200414002 Hamm, Englebert Neve  01134  01134                % 03830 AVL---
+200414005 Hamm, Montmédy        01134  01134                % 03830 AVL---
+200404023 Bonnevoie, Kofferfab  01135  01135                % 03830 AVL---
+200404014 Bonnevoie, Gabriel L  01136  01136                % 03830 AVL---
+200404034 Bonnevoie, Rotonde    01137  01137                % 03830 AVL---
+200405046 Luxembourg, Gare Roc  01138  01138                % 03830 AVL---
+200405039 Luxembourg, Wallis    01140  01140                % 03830 AVL---
+200405013 Centre, F.D. Rooseve  01143  01143                % 03830 AVL---
+200405020 Hamilius (Bus)        01146  01150                % 03830 AVL---
+200405005 Centre, Badanstalt    01152  01152                % 03830 AVL---
+200423004 Pfaffenthal, Um Bock  01154  01154                % 03830 AVL---
+200408005 Clausen, Plateau Alt  01155  01155                % 03830 AVL---
+200408001 Clausen, Clausener B  01156  01156                % 03830 AVL---
+200408003 Clausen, Malakoff     01156  01156                % 03830 AVL---
+200422005 Neudorf/Weimershof,   01157  01157                % 03830 AVL---
+200408002 Neudorf, Fixmer       01158  01158                % 03830 AVL---
+200422009 Neudorf, Kierch       01159  01159                % 03830 AVL---
+200422001 Neiduerf, Brasserie   01200  01200                % 03830 AVL---
+200422008 Neiduerf, Kapell      01200  01200                % 03830 AVL---
+200422011 Neudorf, Laangegronn  01201  01201                % 03830 AVL---
+200422003 Neudorf/Weimershof,   01202  01202                % 03830 AVL---
+200422007 Neudorf, Kalchesbruc  01203  01203                % 03830 AVL---
+200406019 Cents, Waassertuerm   01204                       % 03830 AVL---
+*Z 03831 AVL---       001 900                               % 03831 AVL---
+*L 9        200406019 200414006  00529  00606               % 03831 AVL---
+*A BE 200406019 200414006 000040  00529  00606              % 03831 AVL---
+*R 2 200414006 200406019 200414006  00529  00606            % 03831 AVL---
+*G STE 200406019 200414006  00529  00606                    % 03831 AVL---
+*A VE 200406019 200414006 000040  00529  00606              % 03831 AVL---
+200406019 Cents, Waassertuerm          00529                % 03831 AVL---
+200422007 Neudorf, Kalchesbruc  00532  00532                % 03831 AVL---
+200422003 Neudorf/Weimershof,   00533  00533                % 03831 AVL---
+200422011 Neudorf, Laangegronn  00534  00534                % 03831 AVL---
+200422008 Neiduerf, Kapell      00534  00534                % 03831 AVL---
+200422001 Neiduerf, Brasserie   00535  00535                % 03831 AVL---
+200422009 Neudorf, Kierch       00536  00536                % 03831 AVL---
+200408002 Neudorf, Fixmer       00537  00537                % 03831 AVL---
+200422005 Neudorf/Weimershof,   00538  00538                % 03831 AVL---
+200408003 Clausen, Malakoff     00539  00539                % 03831 AVL---
+200408001 Clausen, Clausener B  00540  00540                % 03831 AVL---
+200408005 Clausen, Plateau Alt  00540  00540                % 03831 AVL---
+200423004 Pfaffenthal, Um Bock  00541  00541                % 03831 AVL---
+200405005 Centre, Badanstalt    00543  00543                % 03831 AVL---
+200405020 Hamilius (Bus)        00546  00550                % 03831 AVL---
+200405054 Centre, F.D. Rooseve  00552  00552                % 03831 AVL---
+200405039 Luxembourg, Wallis    00555  00555                % 03831 AVL---
+200405046 Luxembourg, Gare Roc  00556  00556                % 03831 AVL---
+200404034 Bonnevoie, Rotonde    00557  00557                % 03831 AVL---
+200404014 Bonnevoie, Gabriel L  00559  00559                % 03831 AVL---
+200404023 Bonnevoie, Kofferfab  00559  00559                % 03831 AVL---
+200414005 Hamm, Montmédy        00600  00600                % 03831 AVL---
+200414002 Hamm, Englebert Neve  00601  00601                % 03831 AVL---
+200414001 Hamm, Colonie         00601  00601                % 03831 AVL---
+200414008 Hamm, Schoul          00602  00602                % 03831 AVL---
+200414004 Hamm, Kierch          00603  00603                % 03831 AVL---
+200414007 Hamm, Rue Haute       00604  00604                % 03831 AVL---
+200414003 Hamm, Käschtewee      00604  00604                % 03831 AVL---
+200414006 Hamm, Rue de Bitbour  00606                       % 03831 AVL---
+*Z 03832 AVL---       005 030                               % 03832 AVL---
+*L 9        200406019 200414006  02059  02136               % 03832 AVL---
+*A BE 200406019 200414006 000040  02059  02136              % 03832 AVL---
+*R 2 200414006 200406019 200414006  02059  02136            % 03832 AVL---
+*G STE 200406019 200414006  02059  02136                    % 03832 AVL---
+*A VE 200406019 200414006 000040  02059  02136              % 03832 AVL---
+200406019 Cents, Waassertuerm          02059                % 03832 AVL---
+200422007 Neudorf, Kalchesbruc  02102  02102                % 03832 AVL---
+200422003 Neudorf/Weimershof,   02103  02103                % 03832 AVL---
+200422011 Neudorf, Laangegronn  02104  02104                % 03832 AVL---
+200422008 Neiduerf, Kapell      02104  02104                % 03832 AVL---
+200422001 Neiduerf, Brasserie   02105  02105                % 03832 AVL---
+200422009 Neudorf, Kierch       02106  02106                % 03832 AVL---
+200408002 Neudorf, Fixmer       02107  02107                % 03832 AVL---
+200422005 Neudorf/Weimershof,   02108  02108                % 03832 AVL---
+200408003 Clausen, Malakoff     02109  02109                % 03832 AVL---
+200408001 Clausen, Clausener B  02110  02110                % 03832 AVL---
+200408005 Clausen, Plateau Alt  02110  02110                % 03832 AVL---
+200423004 Pfaffenthal, Um Bock  02111  02111                % 03832 AVL---
+200405005 Centre, Badanstalt    02113  02113                % 03832 AVL---
+200405020 Hamilius (Bus)        02116  02120                % 03832 AVL---
+200405054 Centre, F.D. Rooseve  02122  02122                % 03832 AVL---
+200405039 Luxembourg, Wallis    02125  02125                % 03832 AVL---
+200405046 Luxembourg, Gare Roc  02126  02126                % 03832 AVL---
+200404034 Bonnevoie, Rotonde    02127  02127                % 03832 AVL---
+200404014 Bonnevoie, Gabriel L  02129  02129                % 03832 AVL---
+200404023 Bonnevoie, Kofferfab  02129  02129                % 03832 AVL---
+200414005 Hamm, Montmédy        02130  02130                % 03832 AVL---
+200414002 Hamm, Englebert Neve  02131  02131                % 03832 AVL---
+200414001 Hamm, Colonie         02131  02131                % 03832 AVL---
+200414008 Hamm, Schoul          02132  02132                % 03832 AVL---
+200414004 Hamm, Kierch          02133  02133                % 03832 AVL---
+200414007 Hamm, Rue Haute       02134  02134                % 03832 AVL---
+200414003 Hamm, Käschtewee      02134  02134                % 03832 AVL---
+200414006 Hamm, Rue de Bitbour  02136                       % 03832 AVL---
+*Z 03833 AVL---                                             % 03833 AVL---
+*L 9        200406019 200414006  00459  00536               % 03833 AVL---
+*A BE 200406019 200414006 000034  00459  00536              % 03833 AVL---
+*R 2 200414006 200406019 200414006  00459  00536            % 03833 AVL---
+*G STE 200406019 200414006  00459  00536                    % 03833 AVL---
+*A VE 200406019 200414006 000034  00459  00536              % 03833 AVL---
+200406019 Cents, Waassertuerm          00459                % 03833 AVL---
+200422007 Neudorf, Kalchesbruc  00502  00502                % 03833 AVL---
+200422003 Neudorf/Weimershof,   00503  00503                % 03833 AVL---
+200422011 Neudorf, Laangegronn  00504  00504                % 03833 AVL---
+200422008 Neiduerf, Kapell      00504  00504                % 03833 AVL---
+200422001 Neiduerf, Brasserie   00505  00505                % 03833 AVL---
+200422009 Neudorf, Kierch       00506  00506                % 03833 AVL---
+200408002 Neudorf, Fixmer       00507  00507                % 03833 AVL---
+200422005 Neudorf/Weimershof,   00508  00508                % 03833 AVL---
+200408003 Clausen, Malakoff     00509  00509                % 03833 AVL---
+200408001 Clausen, Clausener B  00510  00510                % 03833 AVL---
+200408005 Clausen, Plateau Alt  00510  00510                % 03833 AVL---
+200423004 Pfaffenthal, Um Bock  00511  00511                % 03833 AVL---
+200405005 Centre, Badanstalt    00513  00513                % 03833 AVL---
+200405020 Hamilius (Bus)        00516  00520                % 03833 AVL---
+200405054 Centre, F.D. Rooseve  00522  00522                % 03833 AVL---
+200405039 Luxembourg, Wallis    00525  00525                % 03833 AVL---
+200405046 Luxembourg, Gare Roc  00526  00526                % 03833 AVL---
+200404034 Bonnevoie, Rotonde    00527  00527                % 03833 AVL---
+200404014 Bonnevoie, Gabriel L  00529  00529                % 03833 AVL---
+200404023 Bonnevoie, Kofferfab  00529  00529                % 03833 AVL---
+200414005 Hamm, Montmédy        00530  00530                % 03833 AVL---
+200414002 Hamm, Englebert Neve  00531  00531                % 03833 AVL---
+200414001 Hamm, Colonie         00531  00531                % 03833 AVL---
+200414008 Hamm, Schoul          00532  00532                % 03833 AVL---
+200414004 Hamm, Kierch          00533  00533                % 03833 AVL---
+200414007 Hamm, Rue Haute       00534  00534                % 03833 AVL---
+200414003 Hamm, Käschtewee      00534  00534                % 03833 AVL---
+200414006 Hamm, Rue de Bitbour  00536                       % 03833 AVL---
+*Z 03834 AVL---       006 030                               % 03834 AVL---
+*L 9        200406019 200414006  00759  00836               % 03834 AVL---
+*A BE 200406019 200414006 000016  00759  00836              % 03834 AVL---
+*R 2 200414006 200406019 200414006  00759  00836            % 03834 AVL---
+*G STE 200406019 200414006  00759  00836                    % 03834 AVL---
+*A VE 200406019 200414006 000016  00759  00836              % 03834 AVL---
+200406019 Cents, Waassertuerm          00759                % 03834 AVL---
+200422007 Neudorf, Kalchesbruc  00802  00802                % 03834 AVL---
+200422003 Neudorf/Weimershof,   00803  00803                % 03834 AVL---
+200422011 Neudorf, Laangegronn  00804  00804                % 03834 AVL---
+200422008 Neiduerf, Kapell      00804  00804                % 03834 AVL---
+200422001 Neiduerf, Brasserie   00805  00805                % 03834 AVL---
+200422009 Neudorf, Kierch       00806  00806                % 03834 AVL---
+200408002 Neudorf, Fixmer       00807  00807                % 03834 AVL---
+200422005 Neudorf/Weimershof,   00808  00808                % 03834 AVL---
+200408003 Clausen, Malakoff     00809  00809                % 03834 AVL---
+200408001 Clausen, Clausener B  00810  00810                % 03834 AVL---
+200408005 Clausen, Plateau Alt  00810  00810                % 03834 AVL---
+200423004 Pfaffenthal, Um Bock  00811  00811                % 03834 AVL---
+200405005 Centre, Badanstalt    00813  00813                % 03834 AVL---
+200405020 Hamilius (Bus)        00816  00820                % 03834 AVL---
+200405054 Centre, F.D. Rooseve  00822  00822                % 03834 AVL---
+200405039 Luxembourg, Wallis    00825  00825                % 03834 AVL---
+200405046 Luxembourg, Gare Roc  00826  00826                % 03834 AVL---
+200404034 Bonnevoie, Rotonde    00827  00827                % 03834 AVL---
+200404014 Bonnevoie, Gabriel L  00829  00829                % 03834 AVL---
+200404023 Bonnevoie, Kofferfab  00829  00829                % 03834 AVL---
+200414005 Hamm, Montmédy        00830  00830                % 03834 AVL---
+200414002 Hamm, Englebert Neve  00831  00831                % 03834 AVL---
+200414001 Hamm, Colonie         00831  00831                % 03834 AVL---
+200414008 Hamm, Schoul          00832  00832                % 03834 AVL---
+200414004 Hamm, Kierch          00833  00833                % 03834 AVL---
+200414007 Hamm, Rue Haute       00834  00834                % 03834 AVL---
+200414003 Hamm, Käschtewee      00834  00834                % 03834 AVL---
+200414006 Hamm, Rue de Bitbour  00836                       % 03834 AVL---
+*Z 03835 AVL---                                             % 03835 AVL---
+*L 9        200406019 200414006  01959  02036               % 03835 AVL---
+*A BE 200406019 200414006 000016  01959  02036              % 03835 AVL---
+*R 2 200414006 200406019 200414006  01959  02036            % 03835 AVL---
+*G STE 200406019 200414006  01959  02036                    % 03835 AVL---
+*A VE 200406019 200414006 000016  01959  02036              % 03835 AVL---
+200406019 Cents, Waassertuerm          01959                % 03835 AVL---
+200422007 Neudorf, Kalchesbruc  02002  02002                % 03835 AVL---
+200422003 Neudorf/Weimershof,   02003  02003                % 03835 AVL---
+200422011 Neudorf, Laangegronn  02004  02004                % 03835 AVL---
+200422008 Neiduerf, Kapell      02004  02004                % 03835 AVL---
+200422001 Neiduerf, Brasserie   02005  02005                % 03835 AVL---
+200422009 Neudorf, Kierch       02006  02006                % 03835 AVL---
+200408002 Neudorf, Fixmer       02007  02007                % 03835 AVL---
+200422005 Neudorf/Weimershof,   02008  02008                % 03835 AVL---
+200408003 Clausen, Malakoff     02009  02009                % 03835 AVL---
+200408001 Clausen, Clausener B  02010  02010                % 03835 AVL---
+200408005 Clausen, Plateau Alt  02010  02010                % 03835 AVL---
+200423004 Pfaffenthal, Um Bock  02011  02011                % 03835 AVL---
+200405005 Centre, Badanstalt    02013  02013                % 03835 AVL---
+200405020 Hamilius (Bus)        02016  02020                % 03835 AVL---
+200405054 Centre, F.D. Rooseve  02022  02022                % 03835 AVL---
+200405039 Luxembourg, Wallis    02025  02025                % 03835 AVL---
+200405046 Luxembourg, Gare Roc  02026  02026                % 03835 AVL---
+200404034 Bonnevoie, Rotonde    02027  02027                % 03835 AVL---
+200404014 Bonnevoie, Gabriel L  02029  02029                % 03835 AVL---
+200404023 Bonnevoie, Kofferfab  02029  02029                % 03835 AVL---
+200414005 Hamm, Montmédy        02030  02030                % 03835 AVL---
+200414002 Hamm, Englebert Neve  02031  02031                % 03835 AVL---
+200414001 Hamm, Colonie         02031  02031                % 03835 AVL---
+200414008 Hamm, Schoul          02032  02032                % 03835 AVL---
+200414004 Hamm, Kierch          02033  02033                % 03835 AVL---
+200414007 Hamm, Rue Haute       02034  02034                % 03835 AVL---
+200414003 Hamm, Käschtewee      02034  02034                % 03835 AVL---
+200414006 Hamm, Rue de Bitbour  02036                       % 03835 AVL---
+*Z 03836 AVL---       003 030                               % 03836 AVL---
+*L 9        200406019 200414006  00559  00636               % 03836 AVL---
+*A BE 200406019 200414006 000037  00559  00636              % 03836 AVL---
+*R 2 200414006 200406019 200414006  00559  00636            % 03836 AVL---
+*G STE 200406019 200414006  00559  00636                    % 03836 AVL---
+*A VE 200406019 200414006 000037  00559  00636              % 03836 AVL---
+200406019 Cents, Waassertuerm          00559                % 03836 AVL---
+200422007 Neudorf, Kalchesbruc  00602  00602                % 03836 AVL---
+200422003 Neudorf/Weimershof,   00603  00603                % 03836 AVL---
+200422011 Neudorf, Laangegronn  00604  00604                % 03836 AVL---
+200422008 Neiduerf, Kapell      00604  00604                % 03836 AVL---
+200422001 Neiduerf, Brasserie   00605  00605                % 03836 AVL---
+200422009 Neudorf, Kierch       00606  00606                % 03836 AVL---
+200408002 Neudorf, Fixmer       00607  00607                % 03836 AVL---
+200422005 Neudorf/Weimershof,   00608  00608                % 03836 AVL---
+200408003 Clausen, Malakoff     00609  00609                % 03836 AVL---
+200408001 Clausen, Clausener B  00610  00610                % 03836 AVL---
+200408005 Clausen, Plateau Alt  00610  00610                % 03836 AVL---
+200423004 Pfaffenthal, Um Bock  00611  00611                % 03836 AVL---
+200405005 Centre, Badanstalt    00613  00613                % 03836 AVL---
+200405020 Hamilius (Bus)        00616  00620                % 03836 AVL---
+200405054 Centre, F.D. Rooseve  00622  00622                % 03836 AVL---
+200405039 Luxembourg, Wallis    00625  00625                % 03836 AVL---
+200405046 Luxembourg, Gare Roc  00626  00626                % 03836 AVL---
+200404034 Bonnevoie, Rotonde    00627  00627                % 03836 AVL---
+200404014 Bonnevoie, Gabriel L  00629  00629                % 03836 AVL---
+200404023 Bonnevoie, Kofferfab  00629  00629                % 03836 AVL---
+200414005 Hamm, Montmédy        00630  00630                % 03836 AVL---
+200414002 Hamm, Englebert Neve  00631  00631                % 03836 AVL---
+200414001 Hamm, Colonie         00631  00631                % 03836 AVL---
+200414008 Hamm, Schoul          00632  00632                % 03836 AVL---
+200414004 Hamm, Kierch          00633  00633                % 03836 AVL---
+200414007 Hamm, Rue Haute       00634  00634                % 03836 AVL---
+200414003 Hamm, Käschtewee      00634  00634                % 03836 AVL---
+200414006 Hamm, Rue de Bitbour  00636                       % 03836 AVL---
+*Z 03837 AVL---       055 015                               % 03837 AVL---
+*L 9        200406019 200414006  00548  00628               % 03837 AVL---
+*A BE 200406019 200414006 000034  00548  00628              % 03837 AVL---
+*R 2 200414006 200406019 200414006  00548  00628            % 03837 AVL---
+*G STE 200406019 200414006  00548  00628                    % 03837 AVL---
+*A VE 200406019 200414006 000034  00548  00628              % 03837 AVL---
+200406019 Cents, Waassertuerm          00548                % 03837 AVL---
+200422007 Neudorf, Kalchesbruc  00550  00550                % 03837 AVL---
+200422003 Neudorf/Weimershof,   00552  00552                % 03837 AVL---
+200422011 Neudorf, Laangegronn  00553  00553                % 03837 AVL---
+200422008 Neiduerf, Kapell      00554  00554                % 03837 AVL---
+200422001 Neiduerf, Brasserie   00555  00555                % 03837 AVL---
+200422009 Neudorf, Kierch       00556  00556                % 03837 AVL---
+200408002 Neudorf, Fixmer       00557  00557                % 03837 AVL---
+200422005 Neudorf/Weimershof,   00558  00558                % 03837 AVL---
+200408003 Clausen, Malakoff     00559  00559                % 03837 AVL---
+200408001 Clausen, Clausener B  00600  00600                % 03837 AVL---
+200408005 Clausen, Plateau Alt  00601  00601                % 03837 AVL---
+200423004 Pfaffenthal, Um Bock  00602  00602                % 03837 AVL---
+200405005 Centre, Badanstalt    00604  00604                % 03837 AVL---
+200405020 Hamilius (Bus)        00608  00608                % 03837 AVL---
+200405054 Centre, F.D. Rooseve  00611  00611                % 03837 AVL---
+200405039 Luxembourg, Wallis    00615  00615                % 03837 AVL---
+200405046 Luxembourg, Gare Roc  00616  00616                % 03837 AVL---
+200404034 Bonnevoie, Rotonde    00618  00618                % 03837 AVL---
+200404014 Bonnevoie, Gabriel L  00619  00619                % 03837 AVL---
+200404023 Bonnevoie, Kofferfab  00620  00620                % 03837 AVL---
+200414005 Hamm, Montmédy        00621  00621                % 03837 AVL---
+200414002 Hamm, Englebert Neve  00622  00622                % 03837 AVL---
+200414001 Hamm, Colonie         00623  00623                % 03837 AVL---
+200414008 Hamm, Schoul          00624  00624                % 03837 AVL---
+200414004 Hamm, Kierch          00625  00625                % 03837 AVL---
+200414007 Hamm, Rue Haute       00626  00626                % 03837 AVL---
+200414003 Hamm, Käschtewee      00626  00626                % 03837 AVL---
+200414006 Hamm, Rue de Bitbour  00628                       % 03837 AVL---
+*Z 03838 AVL---       001 015                               % 03838 AVL---
+*L 9        200406019 200414006  01947  02020               % 03838 AVL---
+*A BE 200406019 200414006 000017  01947  02020              % 03838 AVL---
+*R 2 200414006 200406019 200414006  01947  02020            % 03838 AVL---
+*G STE 200406019 200414006  01947  02020                    % 03838 AVL---
+*A VE 200406019 200414006 000017  01947  02020              % 03838 AVL---
+200406019 Cents, Waassertuerm          01947                % 03838 AVL---
+200422007 Neudorf, Kalchesbruc  01950  01950                % 03838 AVL---
+200422003 Neudorf/Weimershof,   01951  01951                % 03838 AVL---
+200422011 Neudorf, Laangegronn  01952  01952                % 03838 AVL---
+200422008 Neiduerf, Kapell      01952  01952                % 03838 AVL---
+200422001 Neiduerf, Brasserie   01953  01953                % 03838 AVL---
+200422009 Neudorf, Kierch       01954  01954                % 03838 AVL---
+200408002 Neudorf, Fixmer       01955  01955                % 03838 AVL---
+200422005 Neudorf/Weimershof,   01956  01956                % 03838 AVL---
+200408003 Clausen, Malakoff     01957  01957                % 03838 AVL---
+200408001 Clausen, Clausener B  01958  01958                % 03838 AVL---
+200408005 Clausen, Plateau Alt  01958  01958                % 03838 AVL---
+200423004 Pfaffenthal, Um Bock  01959  01959                % 03838 AVL---
+200405005 Centre, Badanstalt    02001  02001                % 03838 AVL---
+200405020 Hamilius (Bus)        02004  02004                % 03838 AVL---
+200405054 Centre, F.D. Rooseve  02006  02006                % 03838 AVL---
+200405039 Luxembourg, Wallis    02009  02009                % 03838 AVL---
+200405046 Luxembourg, Gare Roc  02010  02010                % 03838 AVL---
+200404034 Bonnevoie, Rotonde    02011  02011                % 03838 AVL---
+200404014 Bonnevoie, Gabriel L  02013  02013                % 03838 AVL---
+200404023 Bonnevoie, Kofferfab  02013  02013                % 03838 AVL---
+200414005 Hamm, Montmédy        02014  02014                % 03838 AVL---
+200414002 Hamm, Englebert Neve  02015  02015                % 03838 AVL---
+200414001 Hamm, Colonie         02015  02015                % 03838 AVL---
+200414008 Hamm, Schoul          02016  02016                % 03838 AVL---
+200414004 Hamm, Kierch          02017  02017                % 03838 AVL---
+200414007 Hamm, Rue Haute       02018  02018                % 03838 AVL---
+200414003 Hamm, Käschtewee      02018  02018                % 03838 AVL---
+200414006 Hamm, Rue de Bitbour  02020                       % 03838 AVL---
+*Z 03839 AVL---       001 015                               % 03839 AVL---
+*L 9        200406019 200414006  01951  02024               % 03839 AVL---
+*A BE 200406019 200414006 000034  01951  02024              % 03839 AVL---
+*R 2 200414006 200406019 200414006  01951  02024            % 03839 AVL---
+*G STE 200406019 200414006  01951  02024                    % 03839 AVL---
+*A VE 200406019 200414006 000034  01951  02024              % 03839 AVL---
+200406019 Cents, Waassertuerm          01951                % 03839 AVL---
+200422007 Neudorf, Kalchesbruc  01954  01954                % 03839 AVL---
+200422003 Neudorf/Weimershof,   01955  01955                % 03839 AVL---
+200422011 Neudorf, Laangegronn  01956  01956                % 03839 AVL---
+200422008 Neiduerf, Kapell      01956  01956                % 03839 AVL---
+200422001 Neiduerf, Brasserie   01957  01957                % 03839 AVL---
+200422009 Neudorf, Kierch       01958  01958                % 03839 AVL---
+200408002 Neudorf, Fixmer       01959  01959                % 03839 AVL---
+200422005 Neudorf/Weimershof,   02000  02000                % 03839 AVL---
+200408003 Clausen, Malakoff     02001  02001                % 03839 AVL---
+200408001 Clausen, Clausener B  02002  02002                % 03839 AVL---
+200408005 Clausen, Plateau Alt  02002  02002                % 03839 AVL---
+200423004 Pfaffenthal, Um Bock  02003  02003                % 03839 AVL---
+200405005 Centre, Badanstalt    02005  02005                % 03839 AVL---
+200405020 Hamilius (Bus)        02008  02008                % 03839 AVL---
+200405054 Centre, F.D. Rooseve  02010  02010                % 03839 AVL---
+200405039 Luxembourg, Wallis    02013  02013                % 03839 AVL---
+200405046 Luxembourg, Gare Roc  02014  02014                % 03839 AVL---
+200404034 Bonnevoie, Rotonde    02015  02015                % 03839 AVL---
+200404014 Bonnevoie, Gabriel L  02017  02017                % 03839 AVL---
+200404023 Bonnevoie, Kofferfab  02017  02017                % 03839 AVL---
+200414005 Hamm, Montmédy        02018  02018                % 03839 AVL---
+200414002 Hamm, Englebert Neve  02019  02019                % 03839 AVL---
+200414001 Hamm, Colonie         02019  02019                % 03839 AVL---
+200414008 Hamm, Schoul          02020  02020                % 03839 AVL---
+200414004 Hamm, Kierch          02021  02021                % 03839 AVL---
+200414007 Hamm, Rue Haute       02022  02022                % 03839 AVL---
+200414003 Hamm, Käschtewee      02022  02022                % 03839 AVL---
+200414006 Hamm, Rue de Bitbour  02024                       % 03839 AVL---
+*Z 03840 AVL---       047 015                               % 03840 AVL---
+*L 9        200406019 200414006  00746  00821               % 03840 AVL---
+*A BE 200406019 200414006 000017  00746  00821              % 03840 AVL---
+*R 2 200414006 200406019 200414006  00746  00821            % 03840 AVL---
+*G STE 200406019 200414006  00746  00821                    % 03840 AVL---
+*A VE 200406019 200414006 000017  00746  00821              % 03840 AVL---
+200406019 Cents, Waassertuerm          00746                % 03840 AVL---
+200422007 Neudorf, Kalchesbruc  00749  00749                % 03840 AVL---
+200422003 Neudorf/Weimershof,   00750  00750                % 03840 AVL---
+200422011 Neudorf, Laangegronn  00751  00751                % 03840 AVL---
+200422008 Neiduerf, Kapell      00752  00752                % 03840 AVL---
+200422001 Neiduerf, Brasserie   00752  00752                % 03840 AVL---
+200422009 Neudorf, Kierch       00753  00753                % 03840 AVL---
+200408002 Neudorf, Fixmer       00754  00754                % 03840 AVL---
+200422005 Neudorf/Weimershof,   00755  00755                % 03840 AVL---
+200408003 Clausen, Malakoff     00756  00756                % 03840 AVL---
+200408001 Clausen, Clausener B  00757  00757                % 03840 AVL---
+200408005 Clausen, Plateau Alt  00758  00758                % 03840 AVL---
+200423004 Pfaffenthal, Um Bock  00759  00759                % 03840 AVL---
+200405005 Centre, Badanstalt    00801  00801                % 03840 AVL---
+200405020 Hamilius (Bus)        00804  00804                % 03840 AVL---
+200405054 Centre, F.D. Rooseve  00807  00807                % 03840 AVL---
+200405039 Luxembourg, Wallis    00810  00810                % 03840 AVL---
+200405046 Luxembourg, Gare Roc  00811  00811                % 03840 AVL---
+200404034 Bonnevoie, Rotonde    00812  00812                % 03840 AVL---
+200404014 Bonnevoie, Gabriel L  00814  00814                % 03840 AVL---
+200404023 Bonnevoie, Kofferfab  00814  00814                % 03840 AVL---
+200414005 Hamm, Montmédy        00815  00815                % 03840 AVL---
+200414002 Hamm, Englebert Neve  00816  00816                % 03840 AVL---
+200414001 Hamm, Colonie         00816  00816                % 03840 AVL---
+200414008 Hamm, Schoul          00817  00817                % 03840 AVL---
+200414004 Hamm, Kierch          00818  00818                % 03840 AVL---
+200414007 Hamm, Rue Haute       00819  00819                % 03840 AVL---
+200414003 Hamm, Käschtewee      00819  00819                % 03840 AVL---
+200414006 Hamm, Rue de Bitbour  00821                       % 03840 AVL---
+*Z 03841 AVL---       016 030                               % 03841 AVL---
+*L 9        200406019 200414006  01128  01207               % 03841 AVL---
+*A BE 200406019 200414006 000016  01128  01207              % 03841 AVL---
+*R 2 200414006 200406019 200414006  01128  01207            % 03841 AVL---
+*G STE 200406019 200414006  01128  01207                    % 03841 AVL---
+*A VE 200406019 200414006 000016  01128  01207              % 03841 AVL---
+200406019 Cents, Waassertuerm          01128                % 03841 AVL---
+200422007 Neudorf, Kalchesbruc  01131  01131                % 03841 AVL---
+200422003 Neudorf/Weimershof,   01132  01132                % 03841 AVL---
+200422011 Neudorf, Laangegronn  01133  01133                % 03841 AVL---
+200422008 Neiduerf, Kapell      01134  01134                % 03841 AVL---
+200422001 Neiduerf, Brasserie   01134  01134                % 03841 AVL---
+200422009 Neudorf, Kierch       01135  01135                % 03841 AVL---
+200408002 Neudorf, Fixmer       01136  01136                % 03841 AVL---
+200422005 Neudorf/Weimershof,   01137  01137                % 03841 AVL---
+200408003 Clausen, Malakoff     01138  01138                % 03841 AVL---
+200408001 Clausen, Clausener B  01139  01139                % 03841 AVL---
+200408005 Clausen, Plateau Alt  01140  01140                % 03841 AVL---
+200423004 Pfaffenthal, Um Bock  01141  01141                % 03841 AVL---
+200405005 Centre, Badanstalt    01143  01143                % 03841 AVL---
+200405020 Hamilius (Bus)        01146  01150                % 03841 AVL---
+200405054 Centre, F.D. Rooseve  01153  01153                % 03841 AVL---
+200405039 Luxembourg, Wallis    01156  01156                % 03841 AVL---
+200405046 Luxembourg, Gare Roc  01157  01157                % 03841 AVL---
+200404034 Bonnevoie, Rotonde    01158  01158                % 03841 AVL---
+200404014 Bonnevoie, Gabriel L  01200  01200                % 03841 AVL---
+200404023 Bonnevoie, Kofferfab  01200  01200                % 03841 AVL---
+200414005 Hamm, Montmédy        01201  01201                % 03841 AVL---
+200414002 Hamm, Englebert Neve  01202  01202                % 03841 AVL---
+200414001 Hamm, Colonie         01202  01202                % 03841 AVL---
+200414008 Hamm, Schoul          01203  01203                % 03841 AVL---
+200414004 Hamm, Kierch          01204  01204                % 03841 AVL---
+200414007 Hamm, Rue Haute       01205  01205                % 03841 AVL---
+200414003 Hamm, Käschtewee      01205  01205                % 03841 AVL---
+200414006 Hamm, Rue de Bitbour  01207                       % 03841 AVL---
+*Z 03842 AVL---       001 900                               % 03842 AVL---
+*L 9        200414006 200406019  00530  00604               % 03842 AVL---
+*A BE 200414006 200406019 000039  00530  00604              % 03842 AVL---
+*R 1 200406019 200414006 200406019  00530  00604            % 03842 AVL---
+*G STE 200414006 200406019  00530  00604                    % 03842 AVL---
+*A VE 200414006 200406019 000039  00530  00604              % 03842 AVL---
+200414006 Hamm, Rue de Bitbour         00530                % 03842 AVL---
+200414003 Hamm, Käschtewee      00531  00531                % 03842 AVL---
+200414007 Hamm, Rue Haute       00532  00532                % 03842 AVL---
+200414004 Hamm, Kierch          00532  00532                % 03842 AVL---
+200414008 Hamm, Schoul          00533  00533                % 03842 AVL---
+200414001 Hamm, Colonie         00534  00534                % 03842 AVL---
+200414002 Hamm, Englebert Neve  00535  00535                % 03842 AVL---
+200414005 Hamm, Montmédy        00535  00535                % 03842 AVL---
+200404023 Bonnevoie, Kofferfab  00536  00536                % 03842 AVL---
+200404014 Bonnevoie, Gabriel L  00537  00537                % 03842 AVL---
+200404034 Bonnevoie, Rotonde    00538  00538                % 03842 AVL---
+200405046 Luxembourg, Gare Roc  00539  00539                % 03842 AVL---
+200405039 Luxembourg, Wallis    00540  00540                % 03842 AVL---
+200405013 Centre, F.D. Rooseve  00543  00543                % 03842 AVL---
+200405020 Hamilius (Bus)        00546  00550                % 03842 AVL---
+200405005 Centre, Badanstalt    00552  00552                % 03842 AVL---
+200423004 Pfaffenthal, Um Bock  00554  00554                % 03842 AVL---
+200408005 Clausen, Plateau Alt  00554  00554                % 03842 AVL---
+200408001 Clausen, Clausener B  00555  00555                % 03842 AVL---
+200408003 Clausen, Malakoff     00556  00556                % 03842 AVL---
+200422005 Neudorf/Weimershof,   00557  00557                % 03842 AVL---
+200408002 Neudorf, Fixmer       00558  00558                % 03842 AVL---
+200422009 Neudorf, Kierch       00559  00559                % 03842 AVL---
+200422001 Neiduerf, Brasserie   00559  00559                % 03842 AVL---
+200422008 Neiduerf, Kapell      00600  00600                % 03842 AVL---
+200422011 Neudorf, Laangegronn  00601  00601                % 03842 AVL---
+200422003 Neudorf/Weimershof,   00601  00601                % 03842 AVL---
+200422007 Neudorf, Kalchesbruc  00602  00602                % 03842 AVL---
+200406019 Cents, Waassertuerm   00604                       % 03842 AVL---
+*Z 03843 AVL---       005 030                               % 03843 AVL---
+*L 9        200414006 200406019  02100  02134               % 03843 AVL---
+*A BE 200414006 200406019 000039  02100  02134              % 03843 AVL---
+*R 1 200406019 200414006 200406019  02100  02134            % 03843 AVL---
+*G STE 200414006 200406019  02100  02134                    % 03843 AVL---
+*A VE 200414006 200406019 000039  02100  02134              % 03843 AVL---
+200414006 Hamm, Rue de Bitbour         02100                % 03843 AVL---
+200414003 Hamm, Käschtewee      02101  02101                % 03843 AVL---
+200414007 Hamm, Rue Haute       02102  02102                % 03843 AVL---
+200414004 Hamm, Kierch          02102  02102                % 03843 AVL---
+200414008 Hamm, Schoul          02103  02103                % 03843 AVL---
+200414001 Hamm, Colonie         02104  02104                % 03843 AVL---
+200414002 Hamm, Englebert Neve  02105  02105                % 03843 AVL---
+200414005 Hamm, Montmédy        02105  02105                % 03843 AVL---
+200404023 Bonnevoie, Kofferfab  02106  02106                % 03843 AVL---
+200404014 Bonnevoie, Gabriel L  02107  02107                % 03843 AVL---
+200404034 Bonnevoie, Rotonde    02108  02108                % 03843 AVL---
+200405046 Luxembourg, Gare Roc  02109  02109                % 03843 AVL---
+200405039 Luxembourg, Wallis    02110  02110                % 03843 AVL---
+200405013 Centre, F.D. Rooseve  02113  02113                % 03843 AVL---
+200405020 Hamilius (Bus)        02116  02120                % 03843 AVL---
+200405005 Centre, Badanstalt    02122  02122                % 03843 AVL---
+200423004 Pfaffenthal, Um Bock  02124  02124                % 03843 AVL---
+200408005 Clausen, Plateau Alt  02124  02124                % 03843 AVL---
+200408001 Clausen, Clausener B  02125  02125                % 03843 AVL---
+200408003 Clausen, Malakoff     02126  02126                % 03843 AVL---
+200422005 Neudorf/Weimershof,   02127  02127                % 03843 AVL---
+200408002 Neudorf, Fixmer       02128  02128                % 03843 AVL---
+200422009 Neudorf, Kierch       02129  02129                % 03843 AVL---
+200422001 Neiduerf, Brasserie   02129  02129                % 03843 AVL---
+200422008 Neiduerf, Kapell      02130  02130                % 03843 AVL---
+200422011 Neudorf, Laangegronn  02131  02131                % 03843 AVL---
+200422003 Neudorf/Weimershof,   02131  02131                % 03843 AVL---
+200422007 Neudorf, Kalchesbruc  02132  02132                % 03843 AVL---
+200406019 Cents, Waassertuerm   02134                       % 03843 AVL---
+*Z 03844 AVL---                                             % 03844 AVL---
+*L 9        200414006 200406019  00500  00534               % 03844 AVL---
+*A BE 200414006 200406019 000033  00500  00534              % 03844 AVL---
+*R 1 200406019 200414006 200406019  00500  00534            % 03844 AVL---
+*G STE 200414006 200406019  00500  00534                    % 03844 AVL---
+*A VE 200414006 200406019 000033  00500  00534              % 03844 AVL---
+200414006 Hamm, Rue de Bitbour         00500                % 03844 AVL---
+200414003 Hamm, Käschtewee      00501  00501                % 03844 AVL---
+200414007 Hamm, Rue Haute       00502  00502                % 03844 AVL---
+200414004 Hamm, Kierch          00502  00502                % 03844 AVL---
+200414008 Hamm, Schoul          00503  00503                % 03844 AVL---
+200414001 Hamm, Colonie         00504  00504                % 03844 AVL---
+200414002 Hamm, Englebert Neve  00505  00505                % 03844 AVL---
+200414005 Hamm, Montmédy        00505  00505                % 03844 AVL---
+200404023 Bonnevoie, Kofferfab  00506  00506                % 03844 AVL---
+200404014 Bonnevoie, Gabriel L  00507  00507                % 03844 AVL---
+200404034 Bonnevoie, Rotonde    00508  00508                % 03844 AVL---
+200405046 Luxembourg, Gare Roc  00509  00509                % 03844 AVL---
+200405039 Luxembourg, Wallis    00510  00510                % 03844 AVL---
+200405013 Centre, F.D. Rooseve  00513  00513                % 03844 AVL---
+200405020 Hamilius (Bus)        00516  00520                % 03844 AVL---
+200405005 Centre, Badanstalt    00522  00522                % 03844 AVL---
+200423004 Pfaffenthal, Um Bock  00524  00524                % 03844 AVL---
+200408005 Clausen, Plateau Alt  00524  00524                % 03844 AVL---
+200408001 Clausen, Clausener B  00525  00525                % 03844 AVL---
+200408003 Clausen, Malakoff     00526  00526                % 03844 AVL---
+200422005 Neudorf/Weimershof,   00527  00527                % 03844 AVL---
+200408002 Neudorf, Fixmer       00528  00528                % 03844 AVL---
+200422009 Neudorf, Kierch       00529  00529                % 03844 AVL---
+200422001 Neiduerf, Brasserie   00529  00529                % 03844 AVL---
+200422008 Neiduerf, Kapell      00530  00530                % 03844 AVL---
+200422011 Neudorf, Laangegronn  00531  00531                % 03844 AVL---
+200422003 Neudorf/Weimershof,   00531  00531                % 03844 AVL---
+200422007 Neudorf, Kalchesbruc  00532  00532                % 03844 AVL---
+200406019 Cents, Waassertuerm   00534                       % 03844 AVL---
+*Z 03845 AVL---       006 030                               % 03845 AVL---
+*L 9        200414006 200406019  00800  00834               % 03845 AVL---
+*A BE 200414006 200406019 000018  00800  00834              % 03845 AVL---
+*R 1 200406019 200414006 200406019  00800  00834            % 03845 AVL---
+*G STE 200414006 200406019  00800  00834                    % 03845 AVL---
+*A VE 200414006 200406019 000018  00800  00834              % 03845 AVL---
+200414006 Hamm, Rue de Bitbour         00800                % 03845 AVL---
+200414003 Hamm, Käschtewee      00801  00801                % 03845 AVL---
+200414007 Hamm, Rue Haute       00802  00802                % 03845 AVL---
+200414004 Hamm, Kierch          00802  00802                % 03845 AVL---
+200414008 Hamm, Schoul          00803  00803                % 03845 AVL---
+200414001 Hamm, Colonie         00804  00804                % 03845 AVL---
+200414002 Hamm, Englebert Neve  00805  00805                % 03845 AVL---
+200414005 Hamm, Montmédy        00805  00805                % 03845 AVL---
+200404023 Bonnevoie, Kofferfab  00806  00806                % 03845 AVL---
+200404014 Bonnevoie, Gabriel L  00807  00807                % 03845 AVL---
+200404034 Bonnevoie, Rotonde    00808  00808                % 03845 AVL---
+200405046 Luxembourg, Gare Roc  00809  00809                % 03845 AVL---
+200405039 Luxembourg, Wallis    00810  00810                % 03845 AVL---
+200405013 Centre, F.D. Rooseve  00813  00813                % 03845 AVL---
+200405020 Hamilius (Bus)        00816  00820                % 03845 AVL---
+200405005 Centre, Badanstalt    00822  00822                % 03845 AVL---
+200423004 Pfaffenthal, Um Bock  00824  00824                % 03845 AVL---
+200408005 Clausen, Plateau Alt  00824  00824                % 03845 AVL---
+200408001 Clausen, Clausener B  00825  00825                % 03845 AVL---
+200408003 Clausen, Malakoff     00826  00826                % 03845 AVL---
+200422005 Neudorf/Weimershof,   00827  00827                % 03845 AVL---
+200408002 Neudorf, Fixmer       00828  00828                % 03845 AVL---
+200422009 Neudorf, Kierch       00829  00829                % 03845 AVL---
+200422001 Neiduerf, Brasserie   00829  00829                % 03845 AVL---
+200422008 Neiduerf, Kapell      00830  00830                % 03845 AVL---
+200422011 Neudorf, Laangegronn  00831  00831                % 03845 AVL---
+200422003 Neudorf/Weimershof,   00831  00831                % 03845 AVL---
+200422007 Neudorf, Kalchesbruc  00832  00832                % 03845 AVL---
+200406019 Cents, Waassertuerm   00834                       % 03845 AVL---
+*Z 03846 AVL---                                             % 03846 AVL---
+*L 9        200414006 200406019  02000  02034               % 03846 AVL---
+*A BE 200414006 200406019 000018  02000  02034              % 03846 AVL---
+*R 1 200406019 200414006 200406019  02000  02034            % 03846 AVL---
+*G STE 200414006 200406019  02000  02034                    % 03846 AVL---
+*A VE 200414006 200406019 000018  02000  02034              % 03846 AVL---
+200414006 Hamm, Rue de Bitbour         02000                % 03846 AVL---
+200414003 Hamm, Käschtewee      02001  02001                % 03846 AVL---
+200414007 Hamm, Rue Haute       02002  02002                % 03846 AVL---
+200414004 Hamm, Kierch          02002  02002                % 03846 AVL---
+200414008 Hamm, Schoul          02003  02003                % 03846 AVL---
+200414001 Hamm, Colonie         02004  02004                % 03846 AVL---
+200414002 Hamm, Englebert Neve  02005  02005                % 03846 AVL---
+200414005 Hamm, Montmédy        02005  02005                % 03846 AVL---
+200404023 Bonnevoie, Kofferfab  02006  02006                % 03846 AVL---
+200404014 Bonnevoie, Gabriel L  02007  02007                % 03846 AVL---
+200404034 Bonnevoie, Rotonde    02008  02008                % 03846 AVL---
+200405046 Luxembourg, Gare Roc  02009  02009                % 03846 AVL---
+200405039 Luxembourg, Wallis    02010  02010                % 03846 AVL---
+200405013 Centre, F.D. Rooseve  02013  02013                % 03846 AVL---
+200405020 Hamilius (Bus)        02016  02020                % 03846 AVL---
+200405005 Centre, Badanstalt    02022  02022                % 03846 AVL---
+200423004 Pfaffenthal, Um Bock  02024  02024                % 03846 AVL---
+200408005 Clausen, Plateau Alt  02024  02024                % 03846 AVL---
+200408001 Clausen, Clausener B  02025  02025                % 03846 AVL---
+200408003 Clausen, Malakoff     02026  02026                % 03846 AVL---
+200422005 Neudorf/Weimershof,   02027  02027                % 03846 AVL---
+200408002 Neudorf, Fixmer       02028  02028                % 03846 AVL---
+200422009 Neudorf, Kierch       02029  02029                % 03846 AVL---
+200422001 Neiduerf, Brasserie   02029  02029                % 03846 AVL---
+200422008 Neiduerf, Kapell      02030  02030                % 03846 AVL---
+200422011 Neudorf, Laangegronn  02031  02031                % 03846 AVL---
+200422003 Neudorf/Weimershof,   02031  02031                % 03846 AVL---
+200422007 Neudorf, Kalchesbruc  02032  02032                % 03846 AVL---
+200406019 Cents, Waassertuerm   02034                       % 03846 AVL---
+*Z 03847 AVL---       003 030                               % 03847 AVL---
+*L 9        200414006 200406019  00600  00634               % 03847 AVL---
+*A BE 200414006 200406019 000035  00600  00634              % 03847 AVL---
+*R 1 200406019 200414006 200406019  00600  00634            % 03847 AVL---
+*G STE 200414006 200406019  00600  00634                    % 03847 AVL---
+*A VE 200414006 200406019 000035  00600  00634              % 03847 AVL---
+200414006 Hamm, Rue de Bitbour         00600                % 03847 AVL---
+200414003 Hamm, Käschtewee      00601  00601                % 03847 AVL---
+200414007 Hamm, Rue Haute       00602  00602                % 03847 AVL---
+200414004 Hamm, Kierch          00602  00602                % 03847 AVL---
+200414008 Hamm, Schoul          00603  00603                % 03847 AVL---
+200414001 Hamm, Colonie         00604  00604                % 03847 AVL---
+200414002 Hamm, Englebert Neve  00605  00605                % 03847 AVL---
+200414005 Hamm, Montmédy        00605  00605                % 03847 AVL---
+200404023 Bonnevoie, Kofferfab  00606  00606                % 03847 AVL---
+200404014 Bonnevoie, Gabriel L  00607  00607                % 03847 AVL---
+200404034 Bonnevoie, Rotonde    00608  00608                % 03847 AVL---
+200405046 Luxembourg, Gare Roc  00609  00609                % 03847 AVL---
+200405039 Luxembourg, Wallis    00610  00610                % 03847 AVL---
+200405013 Centre, F.D. Rooseve  00613  00613                % 03847 AVL---
+200405020 Hamilius (Bus)        00616  00620                % 03847 AVL---
+200405005 Centre, Badanstalt    00622  00622                % 03847 AVL---
+200423004 Pfaffenthal, Um Bock  00624  00624                % 03847 AVL---
+200408005 Clausen, Plateau Alt  00624  00624                % 03847 AVL---
+200408001 Clausen, Clausener B  00625  00625                % 03847 AVL---
+200408003 Clausen, Malakoff     00626  00626                % 03847 AVL---
+200422005 Neudorf/Weimershof,   00627  00627                % 03847 AVL---
+200408002 Neudorf, Fixmer       00628  00628                % 03847 AVL---
+200422009 Neudorf, Kierch       00629  00629                % 03847 AVL---
+200422001 Neiduerf, Brasserie   00629  00629                % 03847 AVL---
+200422008 Neiduerf, Kapell      00630  00630                % 03847 AVL---
+200422011 Neudorf, Laangegronn  00631  00631                % 03847 AVL---
+200422003 Neudorf/Weimershof,   00631  00631                % 03847 AVL---
+200422007 Neudorf, Kalchesbruc  00632  00632                % 03847 AVL---
+200406019 Cents, Waassertuerm   00634                       % 03847 AVL---
+*Z 03848 AVL---       047 015                               % 03848 AVL---
+*L 9        200414006 200406019  00751  00822               % 03848 AVL---
+*A BE 200414006 200406019 000025  00751  00822              % 03848 AVL---
+*R 1 200406019 200414006 200406019  00751  00822            % 03848 AVL---
+*G STE 200414006 200406019  00751  00822                    % 03848 AVL---
+*A VE 200414006 200406019 000025  00751  00822              % 03848 AVL---
+200414006 Hamm, Rue de Bitbour         00751                % 03848 AVL---
+200414003 Hamm, Käschtewee      00752  00752                % 03848 AVL---
+200414007 Hamm, Rue Haute       00753  00753                % 03848 AVL---
+200414004 Hamm, Kierch          00753  00753                % 03848 AVL---
+200414008 Hamm, Schoul          00754  00754                % 03848 AVL---
+200414001 Hamm, Colonie         00755  00755                % 03848 AVL---
+200414002 Hamm, Englebert Neve  00756  00756                % 03848 AVL---
+200414005 Hamm, Montmédy        00756  00756                % 03848 AVL---
+200404023 Bonnevoie, Kofferfab  00757  00757                % 03848 AVL---
+200404014 Bonnevoie, Gabriel L  00758  00758                % 03848 AVL---
+200404034 Bonnevoie, Rotonde    00759  00759                % 03848 AVL---
+200405046 Luxembourg, Gare Roc  00800  00800                % 03848 AVL---
+200405039 Luxembourg, Wallis    00802  00802                % 03848 AVL---
+200405013 Centre, F.D. Rooseve  00805  00805                % 03848 AVL---
+200405020 Hamilius (Bus)        00808  00808                % 03848 AVL---
+200405005 Centre, Badanstalt    00810  00810                % 03848 AVL---
+200423004 Pfaffenthal, Um Bock  00812  00812                % 03848 AVL---
+200408005 Clausen, Plateau Alt  00813  00813                % 03848 AVL---
+200408001 Clausen, Clausener B  00814  00814                % 03848 AVL---
+200408003 Clausen, Malakoff     00814  00814                % 03848 AVL---
+200422005 Neudorf/Weimershof,   00815  00815                % 03848 AVL---
+200408002 Neudorf, Fixmer       00816  00816                % 03848 AVL---
+200422009 Neudorf, Kierch       00817  00817                % 03848 AVL---
+200422001 Neiduerf, Brasserie   00818  00818                % 03848 AVL---
+200422008 Neiduerf, Kapell      00818  00818                % 03848 AVL---
+200422011 Neudorf, Laangegronn  00819  00819                % 03848 AVL---
+200422003 Neudorf/Weimershof,   00820  00820                % 03848 AVL---
+200422007 Neudorf, Kalchesbruc  00821  00821                % 03848 AVL---
+200406019 Cents, Waassertuerm   00822                       % 03848 AVL---
+*Z 03849 AVL---                                             % 03849 AVL---
+*L 9        200414006 200406019  02000  02030               % 03849 AVL---
+*A BE 200414006 200406019 000025  02000  02030              % 03849 AVL---
+*R 1 200406019 200414006 200406019  02000  02030            % 03849 AVL---
+*G STE 200414006 200406019  02000  02030                    % 03849 AVL---
+*A VE 200414006 200406019 000025  02000  02030              % 03849 AVL---
+200414006 Hamm, Rue de Bitbour         02000                % 03849 AVL---
+200414003 Hamm, Käschtewee      02001  02001                % 03849 AVL---
+200414007 Hamm, Rue Haute       02002  02002                % 03849 AVL---
+200414004 Hamm, Kierch          02002  02002                % 03849 AVL---
+200414008 Hamm, Schoul          02003  02003                % 03849 AVL---
+200414001 Hamm, Colonie         02004  02004                % 03849 AVL---
+200414002 Hamm, Englebert Neve  02005  02005                % 03849 AVL---
+200414005 Hamm, Montmédy        02005  02005                % 03849 AVL---
+200404023 Bonnevoie, Kofferfab  02006  02006                % 03849 AVL---
+200404014 Bonnevoie, Gabriel L  02007  02007                % 03849 AVL---
+200404034 Bonnevoie, Rotonde    02008  02008                % 03849 AVL---
+200405046 Luxembourg, Gare Roc  02009  02009                % 03849 AVL---
+200405039 Luxembourg, Wallis    02010  02010                % 03849 AVL---
+200405013 Centre, F.D. Rooseve  02013  02013                % 03849 AVL---
+200405020 Hamilius (Bus)        02016  02016                % 03849 AVL---
+200405005 Centre, Badanstalt    02018  02018                % 03849 AVL---
+200423004 Pfaffenthal, Um Bock  02020  02020                % 03849 AVL---
+200408005 Clausen, Plateau Alt  02020  02020                % 03849 AVL---
+200408001 Clausen, Clausener B  02021  02021                % 03849 AVL---
+200408003 Clausen, Malakoff     02022  02022                % 03849 AVL---
+200422005 Neudorf/Weimershof,   02023  02023                % 03849 AVL---
+200408002 Neudorf, Fixmer       02024  02024                % 03849 AVL---
+200422009 Neudorf, Kierch       02025  02025                % 03849 AVL---
+200422001 Neiduerf, Brasserie   02025  02025                % 03849 AVL---
+200422008 Neiduerf, Kapell      02026  02026                % 03849 AVL---
+200422011 Neudorf, Laangegronn  02027  02027                % 03849 AVL---
+200422003 Neudorf/Weimershof,   02027  02027                % 03849 AVL---
+200422007 Neudorf, Kalchesbruc  02028  02028                % 03849 AVL---
+200406019 Cents, Waassertuerm   02030                       % 03849 AVL---
+*Z 03850 AVL---       001 015                               % 03850 AVL---
+*L 9        200414006 200406019  01951  02021               % 03850 AVL---
+*A BE 200414006 200406019 000033  01951  02021              % 03850 AVL---
+*R 1 200406019 200414006 200406019  01951  02021            % 03850 AVL---
+*G STE 200414006 200406019  01951  02021                    % 03850 AVL---
+*A VE 200414006 200406019 000033  01951  02021              % 03850 AVL---
+200414006 Hamm, Rue de Bitbour         01951                % 03850 AVL---
+200414003 Hamm, Käschtewee      01952  01952                % 03850 AVL---
+200414007 Hamm, Rue Haute       01953  01953                % 03850 AVL---
+200414004 Hamm, Kierch          01953  01953                % 03850 AVL---
+200414008 Hamm, Schoul          01954  01954                % 03850 AVL---
+200414001 Hamm, Colonie         01955  01955                % 03850 AVL---
+200414002 Hamm, Englebert Neve  01956  01956                % 03850 AVL---
+200414005 Hamm, Montmédy        01956  01956                % 03850 AVL---
+200404023 Bonnevoie, Kofferfab  01957  01957                % 03850 AVL---
+200404014 Bonnevoie, Gabriel L  01958  01958                % 03850 AVL---
+200404034 Bonnevoie, Rotonde    01959  01959                % 03850 AVL---
+200405046 Luxembourg, Gare Roc  02000  02000                % 03850 AVL---
+200405039 Luxembourg, Wallis    02001  02001                % 03850 AVL---
+200405013 Centre, F.D. Rooseve  02004  02004                % 03850 AVL---
+200405020 Hamilius (Bus)        02007  02007                % 03850 AVL---
+200405005 Centre, Badanstalt    02009  02009                % 03850 AVL---
+200423004 Pfaffenthal, Um Bock  02011  02011                % 03850 AVL---
+200408005 Clausen, Plateau Alt  02011  02011                % 03850 AVL---
+200408001 Clausen, Clausener B  02012  02012                % 03850 AVL---
+200408003 Clausen, Malakoff     02013  02013                % 03850 AVL---
+200422005 Neudorf/Weimershof,   02014  02014                % 03850 AVL---
+200408002 Neudorf, Fixmer       02015  02015                % 03850 AVL---
+200422009 Neudorf, Kierch       02016  02016                % 03850 AVL---
+200422001 Neiduerf, Brasserie   02016  02016                % 03850 AVL---
+200422008 Neiduerf, Kapell      02017  02017                % 03850 AVL---
+200422011 Neudorf, Laangegronn  02018  02018                % 03850 AVL---
+200422003 Neudorf/Weimershof,   02018  02018                % 03850 AVL---
+200422007 Neudorf, Kalchesbruc  02019  02019                % 03850 AVL---
+200406019 Cents, Waassertuerm   02021                       % 03850 AVL---
+*Z 03851 AVL---       016 030                               % 03851 AVL---
+*L 9        200414006 200406019  01129  01204               % 03851 AVL---
+*A BE 200414006 200406019 000018  01129  01204              % 03851 AVL---
+*R 1 200406019 200414006 200406019  01129  01204            % 03851 AVL---
+*G STE 200414006 200406019  01129  01204                    % 03851 AVL---
+*A VE 200414006 200406019 000018  01129  01204              % 03851 AVL---
+200414006 Hamm, Rue de Bitbour         01129                % 03851 AVL---
+200414003 Hamm, Käschtewee      01130  01130                % 03851 AVL---
+200414007 Hamm, Rue Haute       01131  01131                % 03851 AVL---
+200414004 Hamm, Kierch          01131  01131                % 03851 AVL---
+200414008 Hamm, Schoul          01132  01132                % 03851 AVL---
+200414001 Hamm, Colonie         01133  01133                % 03851 AVL---
+200414002 Hamm, Englebert Neve  01134  01134                % 03851 AVL---
+200414005 Hamm, Montmédy        01134  01134                % 03851 AVL---
+200404023 Bonnevoie, Kofferfab  01135  01135                % 03851 AVL---
+200404014 Bonnevoie, Gabriel L  01136  01136                % 03851 AVL---
+200404034 Bonnevoie, Rotonde    01137  01137                % 03851 AVL---
+200405046 Luxembourg, Gare Roc  01138  01138                % 03851 AVL---
+200405039 Luxembourg, Wallis    01140  01140                % 03851 AVL---
+200405013 Centre, F.D. Rooseve  01143  01143                % 03851 AVL---
+200405020 Hamilius (Bus)        01146  01150                % 03851 AVL---
+200405005 Centre, Badanstalt    01152  01152                % 03851 AVL---
+200423004 Pfaffenthal, Um Bock  01154  01154                % 03851 AVL---
+200408005 Clausen, Plateau Alt  01155  01155                % 03851 AVL---
+200408001 Clausen, Clausener B  01156  01156                % 03851 AVL---
+200408003 Clausen, Malakoff     01156  01156                % 03851 AVL---
+200422005 Neudorf/Weimershof,   01157  01157                % 03851 AVL---
+200408002 Neudorf, Fixmer       01158  01158                % 03851 AVL---
+200422009 Neudorf, Kierch       01159  01159                % 03851 AVL---
+200422001 Neiduerf, Brasserie   01200  01200                % 03851 AVL---
+200422008 Neiduerf, Kapell      01200  01200                % 03851 AVL---
+200422011 Neudorf, Laangegronn  01201  01201                % 03851 AVL---
+200422003 Neudorf/Weimershof,   01202  01202                % 03851 AVL---
+200422007 Neudorf, Kalchesbruc  01203  01203                % 03851 AVL---
+200406019 Cents, Waassertuerm   01204                       % 03851 AVL---
+*Z 03852 AVL---       055 015                               % 03852 AVL---
+*L 9        200414006 200406019  00547  00623               % 03852 AVL---
+*A BE 200414006 200406019 000033  00547  00623              % 03852 AVL---
+*R 1 200406019 200414006 200406019  00547  00623            % 03852 AVL---
+*G STE 200414006 200406019  00547  00623                    % 03852 AVL---
+*A VE 200414006 200406019 000033  00547  00623              % 03852 AVL---
+200414006 Hamm, Rue de Bitbour         00547                % 03852 AVL---
+200414003 Hamm, Käschtewee      00548  00548                % 03852 AVL---
+200414007 Hamm, Rue Haute       00549  00549                % 03852 AVL---
+200414004 Hamm, Kierch          00549  00549                % 03852 AVL---
+200414008 Hamm, Schoul          00550  00550                % 03852 AVL---
+200414001 Hamm, Colonie         00551  00551                % 03852 AVL---
+200414002 Hamm, Englebert Neve  00552  00552                % 03852 AVL---
+200414005 Hamm, Montmédy        00553  00553                % 03852 AVL---
+200404023 Bonnevoie, Kofferfab  00554  00554                % 03852 AVL---
+200404014 Bonnevoie, Gabriel L  00555  00555                % 03852 AVL---
+200404034 Bonnevoie, Rotonde    00557  00557                % 03852 AVL---
+200405046 Luxembourg, Gare Roc  00558  00558                % 03852 AVL---
+200405039 Luxembourg, Wallis    00600  00600                % 03852 AVL---
+200405013 Centre, F.D. Rooseve  00604  00604                % 03852 AVL---
+200405020 Hamilius (Bus)        00607  00607                % 03852 AVL---
+200405005 Centre, Badanstalt    00610  00610                % 03852 AVL---
+200423004 Pfaffenthal, Um Bock  00611  00611                % 03852 AVL---
+200408005 Clausen, Plateau Alt  00612  00612                % 03852 AVL---
+200408001 Clausen, Clausener B  00613  00613                % 03852 AVL---
+200408003 Clausen, Malakoff     00614  00614                % 03852 AVL---
+200422005 Neudorf/Weimershof,   00615  00615                % 03852 AVL---
+200408002 Neudorf, Fixmer       00616  00616                % 03852 AVL---
+200422009 Neudorf, Kierch       00617  00617                % 03852 AVL---
+200422001 Neiduerf, Brasserie   00618  00618                % 03852 AVL---
+200422008 Neiduerf, Kapell      00619  00619                % 03852 AVL---
+200422011 Neudorf, Laangegronn  00619  00619                % 03852 AVL---
+200422003 Neudorf/Weimershof,   00620  00620                % 03852 AVL---
+200422007 Neudorf, Kalchesbruc  00621  00621                % 03852 AVL---
+200406019 Cents, Waassertuerm   00623                       % 03852 AVL---
+*Z 03853 AVL---       001 900                               % 03853 AVL---
+*L 9        200406019 200414006  00529  00606               % 03853 AVL---
+*A BE 200406019 200414006 000039  00529  00606              % 03853 AVL---
+*R 2 200414006 200406019 200414006  00529  00606            % 03853 AVL---
+*G STE 200406019 200414006  00529  00606                    % 03853 AVL---
+*A VE 200406019 200414006 000039  00529  00606              % 03853 AVL---
+200406019 Cents, Waassertuerm          00529                % 03853 AVL---
+200422007 Neudorf, Kalchesbruc  00532  00532                % 03853 AVL---
+200422003 Neudorf/Weimershof,   00533  00533                % 03853 AVL---
+200422011 Neudorf, Laangegronn  00534  00534                % 03853 AVL---
+200422008 Neiduerf, Kapell      00534  00534                % 03853 AVL---
+200422001 Neiduerf, Brasserie   00535  00535                % 03853 AVL---
+200422009 Neudorf, Kierch       00536  00536                % 03853 AVL---
+200408002 Neudorf, Fixmer       00537  00537                % 03853 AVL---
+200422005 Neudorf/Weimershof,   00538  00538                % 03853 AVL---
+200408003 Clausen, Malakoff     00539  00539                % 03853 AVL---
+200408001 Clausen, Clausener B  00540  00540                % 03853 AVL---
+200408005 Clausen, Plateau Alt  00540  00540                % 03853 AVL---
+200423004 Pfaffenthal, Um Bock  00541  00541                % 03853 AVL---
+200405005 Centre, Badanstalt    00543  00543                % 03853 AVL---
+200405020 Hamilius (Bus)        00546  00550                % 03853 AVL---
+200405054 Centre, F.D. Rooseve  00552  00552                % 03853 AVL---
+200405039 Luxembourg, Wallis    00555  00555                % 03853 AVL---
+200405046 Luxembourg, Gare Roc  00556  00556                % 03853 AVL---
+200404034 Bonnevoie, Rotonde    00557  00557                % 03853 AVL---
+200404014 Bonnevoie, Gabriel L  00559  00559                % 03853 AVL---
+200404023 Bonnevoie, Kofferfab  00559  00559                % 03853 AVL---
+200414005 Hamm, Montmédy        00600  00600                % 03853 AVL---
+200414002 Hamm, Englebert Neve  00601  00601                % 03853 AVL---
+200414001 Hamm, Colonie         00601  00601                % 03853 AVL---
+200414008 Hamm, Schoul          00602  00602                % 03853 AVL---
+200414004 Hamm, Kierch          00603  00603                % 03853 AVL---
+200414007 Hamm, Rue Haute       00604  00604                % 03853 AVL---
+200414003 Hamm, Käschtewee      00604  00604                % 03853 AVL---
+200414006 Hamm, Rue de Bitbour  00606                       % 03853 AVL---
+*Z 03854 AVL---       005 030                               % 03854 AVL---
+*L 9        200406019 200414006  02059  02136               % 03854 AVL---
+*A BE 200406019 200414006 000039  02059  02136              % 03854 AVL---
+*R 2 200414006 200406019 200414006  02059  02136            % 03854 AVL---
+*G STE 200406019 200414006  02059  02136                    % 03854 AVL---
+*A VE 200406019 200414006 000039  02059  02136              % 03854 AVL---
+200406019 Cents, Waassertuerm          02059                % 03854 AVL---
+200422007 Neudorf, Kalchesbruc  02102  02102                % 03854 AVL---
+200422003 Neudorf/Weimershof,   02103  02103                % 03854 AVL---
+200422011 Neudorf, Laangegronn  02104  02104                % 03854 AVL---
+200422008 Neiduerf, Kapell      02104  02104                % 03854 AVL---
+200422001 Neiduerf, Brasserie   02105  02105                % 03854 AVL---
+200422009 Neudorf, Kierch       02106  02106                % 03854 AVL---
+200408002 Neudorf, Fixmer       02107  02107                % 03854 AVL---
+200422005 Neudorf/Weimershof,   02108  02108                % 03854 AVL---
+200408003 Clausen, Malakoff     02109  02109                % 03854 AVL---
+200408001 Clausen, Clausener B  02110  02110                % 03854 AVL---
+200408005 Clausen, Plateau Alt  02110  02110                % 03854 AVL---
+200423004 Pfaffenthal, Um Bock  02111  02111                % 03854 AVL---
+200405005 Centre, Badanstalt    02113  02113                % 03854 AVL---
+200405020 Hamilius (Bus)        02116  02120                % 03854 AVL---
+200405054 Centre, F.D. Rooseve  02122  02122                % 03854 AVL---
+200405039 Luxembourg, Wallis    02125  02125                % 03854 AVL---
+200405046 Luxembourg, Gare Roc  02126  02126                % 03854 AVL---
+200404034 Bonnevoie, Rotonde    02127  02127                % 03854 AVL---
+200404014 Bonnevoie, Gabriel L  02129  02129                % 03854 AVL---
+200404023 Bonnevoie, Kofferfab  02129  02129                % 03854 AVL---
+200414005 Hamm, Montmédy        02130  02130                % 03854 AVL---
+200414002 Hamm, Englebert Neve  02131  02131                % 03854 AVL---
+200414001 Hamm, Colonie         02131  02131                % 03854 AVL---
+200414008 Hamm, Schoul          02132  02132                % 03854 AVL---
+200414004 Hamm, Kierch          02133  02133                % 03854 AVL---
+200414007 Hamm, Rue Haute       02134  02134                % 03854 AVL---
+200414003 Hamm, Käschtewee      02134  02134                % 03854 AVL---
+200414006 Hamm, Rue de Bitbour  02136                       % 03854 AVL---
+*Z 03855 AVL---                                             % 03855 AVL---
+*L 9        200406019 200414006  00459  00536               % 03855 AVL---
+*A BE 200406019 200414006 000033  00459  00536              % 03855 AVL---
+*R 2 200414006 200406019 200414006  00459  00536            % 03855 AVL---
+*G STE 200406019 200414006  00459  00536                    % 03855 AVL---
+*A VE 200406019 200414006 000033  00459  00536              % 03855 AVL---
+200406019 Cents, Waassertuerm          00459                % 03855 AVL---
+200422007 Neudorf, Kalchesbruc  00502  00502                % 03855 AVL---
+200422003 Neudorf/Weimershof,   00503  00503                % 03855 AVL---
+200422011 Neudorf, Laangegronn  00504  00504                % 03855 AVL---
+200422008 Neiduerf, Kapell      00504  00504                % 03855 AVL---
+200422001 Neiduerf, Brasserie   00505  00505                % 03855 AVL---
+200422009 Neudorf, Kierch       00506  00506                % 03855 AVL---
+200408002 Neudorf, Fixmer       00507  00507                % 03855 AVL---
+200422005 Neudorf/Weimershof,   00508  00508                % 03855 AVL---
+200408003 Clausen, Malakoff     00509  00509                % 03855 AVL---
+200408001 Clausen, Clausener B  00510  00510                % 03855 AVL---
+200408005 Clausen, Plateau Alt  00510  00510                % 03855 AVL---
+200423004 Pfaffenthal, Um Bock  00511  00511                % 03855 AVL---
+200405005 Centre, Badanstalt    00513  00513                % 03855 AVL---
+200405020 Hamilius (Bus)        00516  00520                % 03855 AVL---
+200405054 Centre, F.D. Rooseve  00522  00522                % 03855 AVL---
+200405039 Luxembourg, Wallis    00525  00525                % 03855 AVL---
+200405046 Luxembourg, Gare Roc  00526  00526                % 03855 AVL---
+200404034 Bonnevoie, Rotonde    00527  00527                % 03855 AVL---
+200404014 Bonnevoie, Gabriel L  00529  00529                % 03855 AVL---
+200404023 Bonnevoie, Kofferfab  00529  00529                % 03855 AVL---
+200414005 Hamm, Montmédy        00530  00530                % 03855 AVL---
+200414002 Hamm, Englebert Neve  00531  00531                % 03855 AVL---
+200414001 Hamm, Colonie         00531  00531                % 03855 AVL---
+200414008 Hamm, Schoul          00532  00532                % 03855 AVL---
+200414004 Hamm, Kierch          00533  00533                % 03855 AVL---
+200414007 Hamm, Rue Haute       00534  00534                % 03855 AVL---
+200414003 Hamm, Käschtewee      00534  00534                % 03855 AVL---
+200414006 Hamm, Rue de Bitbour  00536                       % 03855 AVL---
+*Z 03856 AVL---       006 030                               % 03856 AVL---
+*L 9        200406019 200414006  00759  00836               % 03856 AVL---
+*A BE 200406019 200414006 000018  00759  00836              % 03856 AVL---
+*R 2 200414006 200406019 200414006  00759  00836            % 03856 AVL---
+*G STE 200406019 200414006  00759  00836                    % 03856 AVL---
+*A VE 200406019 200414006 000018  00759  00836              % 03856 AVL---
+200406019 Cents, Waassertuerm          00759                % 03856 AVL---
+200422007 Neudorf, Kalchesbruc  00802  00802                % 03856 AVL---
+200422003 Neudorf/Weimershof,   00803  00803                % 03856 AVL---
+200422011 Neudorf, Laangegronn  00804  00804                % 03856 AVL---
+200422008 Neiduerf, Kapell      00804  00804                % 03856 AVL---
+200422001 Neiduerf, Brasserie   00805  00805                % 03856 AVL---
+200422009 Neudorf, Kierch       00806  00806                % 03856 AVL---
+200408002 Neudorf, Fixmer       00807  00807                % 03856 AVL---
+200422005 Neudorf/Weimershof,   00808  00808                % 03856 AVL---
+200408003 Clausen, Malakoff     00809  00809                % 03856 AVL---
+200408001 Clausen, Clausener B  00810  00810                % 03856 AVL---
+200408005 Clausen, Plateau Alt  00810  00810                % 03856 AVL---
+200423004 Pfaffenthal, Um Bock  00811  00811                % 03856 AVL---
+200405005 Centre, Badanstalt    00813  00813                % 03856 AVL---
+200405020 Hamilius (Bus)        00816  00820                % 03856 AVL---
+200405054 Centre, F.D. Rooseve  00822  00822                % 03856 AVL---
+200405039 Luxembourg, Wallis    00825  00825                % 03856 AVL---
+200405046 Luxembourg, Gare Roc  00826  00826                % 03856 AVL---
+200404034 Bonnevoie, Rotonde    00827  00827                % 03856 AVL---
+200404014 Bonnevoie, Gabriel L  00829  00829                % 03856 AVL---
+200404023 Bonnevoie, Kofferfab  00829  00829                % 03856 AVL---
+200414005 Hamm, Montmédy        00830  00830                % 03856 AVL---
+200414002 Hamm, Englebert Neve  00831  00831                % 03856 AVL---
+200414001 Hamm, Colonie         00831  00831                % 03856 AVL---
+200414008 Hamm, Schoul          00832  00832                % 03856 AVL---
+200414004 Hamm, Kierch          00833  00833                % 03856 AVL---
+200414007 Hamm, Rue Haute       00834  00834                % 03856 AVL---
+200414003 Hamm, Käschtewee      00834  00834                % 03856 AVL---
+200414006 Hamm, Rue de Bitbour  00836                       % 03856 AVL---
+*Z 03857 AVL---                                             % 03857 AVL---
+*L 9        200406019 200414006  01959  02036               % 03857 AVL---
+*A BE 200406019 200414006 000018  01959  02036              % 03857 AVL---
+*R 2 200414006 200406019 200414006  01959  02036            % 03857 AVL---
+*G STE 200406019 200414006  01959  02036                    % 03857 AVL---
+*A VE 200406019 200414006 000018  01959  02036              % 03857 AVL---
+200406019 Cents, Waassertuerm          01959                % 03857 AVL---
+200422007 Neudorf, Kalchesbruc  02002  02002                % 03857 AVL---
+200422003 Neudorf/Weimershof,   02003  02003                % 03857 AVL---
+200422011 Neudorf, Laangegronn  02004  02004                % 03857 AVL---
+200422008 Neiduerf, Kapell      02004  02004                % 03857 AVL---
+200422001 Neiduerf, Brasserie   02005  02005                % 03857 AVL---
+200422009 Neudorf, Kierch       02006  02006                % 03857 AVL---
+200408002 Neudorf, Fixmer       02007  02007                % 03857 AVL---
+200422005 Neudorf/Weimershof,   02008  02008                % 03857 AVL---
+200408003 Clausen, Malakoff     02009  02009                % 03857 AVL---
+200408001 Clausen, Clausener B  02010  02010                % 03857 AVL---
+200408005 Clausen, Plateau Alt  02010  02010                % 03857 AVL---
+200423004 Pfaffenthal, Um Bock  02011  02011                % 03857 AVL---
+200405005 Centre, Badanstalt    02013  02013                % 03857 AVL---
+200405020 Hamilius (Bus)        02016  02020                % 03857 AVL---
+200405054 Centre, F.D. Rooseve  02022  02022                % 03857 AVL---
+200405039 Luxembourg, Wallis    02025  02025                % 03857 AVL---
+200405046 Luxembourg, Gare Roc  02026  02026                % 03857 AVL---
+200404034 Bonnevoie, Rotonde    02027  02027                % 03857 AVL---
+200404014 Bonnevoie, Gabriel L  02029  02029                % 03857 AVL---
+200404023 Bonnevoie, Kofferfab  02029  02029                % 03857 AVL---
+200414005 Hamm, Montmédy        02030  02030                % 03857 AVL---
+200414002 Hamm, Englebert Neve  02031  02031                % 03857 AVL---
+200414001 Hamm, Colonie         02031  02031                % 03857 AVL---
+200414008 Hamm, Schoul          02032  02032                % 03857 AVL---
+200414004 Hamm, Kierch          02033  02033                % 03857 AVL---
+200414007 Hamm, Rue Haute       02034  02034                % 03857 AVL---
+200414003 Hamm, Käschtewee      02034  02034                % 03857 AVL---
+200414006 Hamm, Rue de Bitbour  02036                       % 03857 AVL---
+*Z 03858 AVL---       003 030                               % 03858 AVL---
+*L 9        200406019 200414006  00559  00636               % 03858 AVL---
+*A BE 200406019 200414006 000035  00559  00636              % 03858 AVL---
+*R 2 200414006 200406019 200414006  00559  00636            % 03858 AVL---
+*G STE 200406019 200414006  00559  00636                    % 03858 AVL---
+*A VE 200406019 200414006 000035  00559  00636              % 03858 AVL---
+200406019 Cents, Waassertuerm          00559                % 03858 AVL---
+200422007 Neudorf, Kalchesbruc  00602  00602                % 03858 AVL---
+200422003 Neudorf/Weimershof,   00603  00603                % 03858 AVL---
+200422011 Neudorf, Laangegronn  00604  00604                % 03858 AVL---
+200422008 Neiduerf, Kapell      00604  00604                % 03858 AVL---
+200422001 Neiduerf, Brasserie   00605  00605                % 03858 AVL---
+200422009 Neudorf, Kierch       00606  00606                % 03858 AVL---
+200408002 Neudorf, Fixmer       00607  00607                % 03858 AVL---
+200422005 Neudorf/Weimershof,   00608  00608                % 03858 AVL---
+200408003 Clausen, Malakoff     00609  00609                % 03858 AVL---
+200408001 Clausen, Clausener B  00610  00610                % 03858 AVL---
+200408005 Clausen, Plateau Alt  00610  00610                % 03858 AVL---
+200423004 Pfaffenthal, Um Bock  00611  00611                % 03858 AVL---
+200405005 Centre, Badanstalt    00613  00613                % 03858 AVL---
+200405020 Hamilius (Bus)        00616  00620                % 03858 AVL---
+200405054 Centre, F.D. Rooseve  00622  00622                % 03858 AVL---
+200405039 Luxembourg, Wallis    00625  00625                % 03858 AVL---
+200405046 Luxembourg, Gare Roc  00626  00626                % 03858 AVL---
+200404034 Bonnevoie, Rotonde    00627  00627                % 03858 AVL---
+200404014 Bonnevoie, Gabriel L  00629  00629                % 03858 AVL---
+200404023 Bonnevoie, Kofferfab  00629  00629                % 03858 AVL---
+200414005 Hamm, Montmédy        00630  00630                % 03858 AVL---
+200414002 Hamm, Englebert Neve  00631  00631                % 03858 AVL---
+200414001 Hamm, Colonie         00631  00631                % 03858 AVL---
+200414008 Hamm, Schoul          00632  00632                % 03858 AVL---
+200414004 Hamm, Kierch          00633  00633                % 03858 AVL---
+200414007 Hamm, Rue Haute       00634  00634                % 03858 AVL---
+200414003 Hamm, Käschtewee      00634  00634                % 03858 AVL---
+200414006 Hamm, Rue de Bitbour  00636                       % 03858 AVL---
+*Z 03859 AVL---       047 015                               % 03859 AVL---
+*L 9        200406019 200414006  00746  00821               % 03859 AVL---
+*A BE 200406019 200414006 000025  00746  00821              % 03859 AVL---
+*R 2 200414006 200406019 200414006  00746  00821            % 03859 AVL---
+*G STE 200406019 200414006  00746  00821                    % 03859 AVL---
+*A VE 200406019 200414006 000025  00746  00821              % 03859 AVL---
+200406019 Cents, Waassertuerm          00746                % 03859 AVL---
+200422007 Neudorf, Kalchesbruc  00749  00749                % 03859 AVL---
+200422003 Neudorf/Weimershof,   00750  00750                % 03859 AVL---
+200422011 Neudorf, Laangegronn  00751  00751                % 03859 AVL---
+200422008 Neiduerf, Kapell      00752  00752                % 03859 AVL---
+200422001 Neiduerf, Brasserie   00752  00752                % 03859 AVL---
+200422009 Neudorf, Kierch       00753  00753                % 03859 AVL---
+200408002 Neudorf, Fixmer       00754  00754                % 03859 AVL---
+200422005 Neudorf/Weimershof,   00755  00755                % 03859 AVL---
+200408003 Clausen, Malakoff     00756  00756                % 03859 AVL---
+200408001 Clausen, Clausener B  00757  00757                % 03859 AVL---
+200408005 Clausen, Plateau Alt  00758  00758                % 03859 AVL---
+200423004 Pfaffenthal, Um Bock  00759  00759                % 03859 AVL---
+200405005 Centre, Badanstalt    00801  00801                % 03859 AVL---
+200405020 Hamilius (Bus)        00804  00804                % 03859 AVL---
+200405054 Centre, F.D. Rooseve  00807  00807                % 03859 AVL---
+200405039 Luxembourg, Wallis    00810  00810                % 03859 AVL---
+200405046 Luxembourg, Gare Roc  00811  00811                % 03859 AVL---
+200404034 Bonnevoie, Rotonde    00812  00812                % 03859 AVL---
+200404014 Bonnevoie, Gabriel L  00814  00814                % 03859 AVL---
+200404023 Bonnevoie, Kofferfab  00814  00814                % 03859 AVL---
+200414005 Hamm, Montmédy        00815  00815                % 03859 AVL---
+200414002 Hamm, Englebert Neve  00816  00816                % 03859 AVL---
+200414001 Hamm, Colonie         00816  00816                % 03859 AVL---
+200414008 Hamm, Schoul          00817  00817                % 03859 AVL---
+200414004 Hamm, Kierch          00818  00818                % 03859 AVL---
+200414007 Hamm, Rue Haute       00819  00819                % 03859 AVL---
+200414003 Hamm, Käschtewee      00819  00819                % 03859 AVL---
+200414006 Hamm, Rue de Bitbour  00821                       % 03859 AVL---
+*Z 03860 AVL---       001 015                               % 03860 AVL---
+*L 9        200406019 200414006  01947  02020               % 03860 AVL---
+*A BE 200406019 200414006 000025  01947  02020              % 03860 AVL---
+*R 2 200414006 200406019 200414006  01947  02020            % 03860 AVL---
+*G STE 200406019 200414006  01947  02020                    % 03860 AVL---
+*A VE 200406019 200414006 000025  01947  02020              % 03860 AVL---
+200406019 Cents, Waassertuerm          01947                % 03860 AVL---
+200422007 Neudorf, Kalchesbruc  01950  01950                % 03860 AVL---
+200422003 Neudorf/Weimershof,   01951  01951                % 03860 AVL---
+200422011 Neudorf, Laangegronn  01952  01952                % 03860 AVL---
+200422008 Neiduerf, Kapell      01952  01952                % 03860 AVL---
+200422001 Neiduerf, Brasserie   01953  01953                % 03860 AVL---
+200422009 Neudorf, Kierch       01954  01954                % 03860 AVL---
+200408002 Neudorf, Fixmer       01955  01955                % 03860 AVL---
+200422005 Neudorf/Weimershof,   01956  01956                % 03860 AVL---
+200408003 Clausen, Malakoff     01957  01957                % 03860 AVL---
+200408001 Clausen, Clausener B  01958  01958                % 03860 AVL---
+200408005 Clausen, Plateau Alt  01958  01958                % 03860 AVL---
+200423004 Pfaffenthal, Um Bock  01959  01959                % 03860 AVL---
+200405005 Centre, Badanstalt    02001  02001                % 03860 AVL---
+200405020 Hamilius (Bus)        02004  02004                % 03860 AVL---
+200405054 Centre, F.D. Rooseve  02006  02006                % 03860 AVL---
+200405039 Luxembourg, Wallis    02009  02009                % 03860 AVL---
+200405046 Luxembourg, Gare Roc  02010  02010                % 03860 AVL---
+200404034 Bonnevoie, Rotonde    02011  02011                % 03860 AVL---
+200404014 Bonnevoie, Gabriel L  02013  02013                % 03860 AVL---
+200404023 Bonnevoie, Kofferfab  02013  02013                % 03860 AVL---
+200414005 Hamm, Montmédy        02014  02014                % 03860 AVL---
+200414002 Hamm, Englebert Neve  02015  02015                % 03860 AVL---
+200414001 Hamm, Colonie         02015  02015                % 03860 AVL---
+200414008 Hamm, Schoul          02016  02016                % 03860 AVL---
+200414004 Hamm, Kierch          02017  02017                % 03860 AVL---
+200414007 Hamm, Rue Haute       02018  02018                % 03860 AVL---
+200414003 Hamm, Käschtewee      02018  02018                % 03860 AVL---
+200414006 Hamm, Rue de Bitbour  02020                       % 03860 AVL---
+*Z 03861 AVL---       001 015                               % 03861 AVL---
+*L 9        200406019 200414006  01951  02024               % 03861 AVL---
+*A BE 200406019 200414006 000033  01951  02024              % 03861 AVL---
+*R 2 200414006 200406019 200414006  01951  02024            % 03861 AVL---
+*G STE 200406019 200414006  01951  02024                    % 03861 AVL---
+*A VE 200406019 200414006 000033  01951  02024              % 03861 AVL---
+200406019 Cents, Waassertuerm          01951                % 03861 AVL---
+200422007 Neudorf, Kalchesbruc  01954  01954                % 03861 AVL---
+200422003 Neudorf/Weimershof,   01955  01955                % 03861 AVL---
+200422011 Neudorf, Laangegronn  01956  01956                % 03861 AVL---
+200422008 Neiduerf, Kapell      01956  01956                % 03861 AVL---
+200422001 Neiduerf, Brasserie   01957  01957                % 03861 AVL---
+200422009 Neudorf, Kierch       01958  01958                % 03861 AVL---
+200408002 Neudorf, Fixmer       01959  01959                % 03861 AVL---
+200422005 Neudorf/Weimershof,   02000  02000                % 03861 AVL---
+200408003 Clausen, Malakoff     02001  02001                % 03861 AVL---
+200408001 Clausen, Clausener B  02002  02002                % 03861 AVL---
+200408005 Clausen, Plateau Alt  02002  02002                % 03861 AVL---
+200423004 Pfaffenthal, Um Bock  02003  02003                % 03861 AVL---
+200405005 Centre, Badanstalt    02005  02005                % 03861 AVL---
+200405020 Hamilius (Bus)        02008  02008                % 03861 AVL---
+200405054 Centre, F.D. Rooseve  02010  02010                % 03861 AVL---
+200405039 Luxembourg, Wallis    02013  02013                % 03861 AVL---
+200405046 Luxembourg, Gare Roc  02014  02014                % 03861 AVL---
+200404034 Bonnevoie, Rotonde    02015  02015                % 03861 AVL---
+200404014 Bonnevoie, Gabriel L  02017  02017                % 03861 AVL---
+200404023 Bonnevoie, Kofferfab  02017  02017                % 03861 AVL---
+200414005 Hamm, Montmédy        02018  02018                % 03861 AVL---
+200414002 Hamm, Englebert Neve  02019  02019                % 03861 AVL---
+200414001 Hamm, Colonie         02019  02019                % 03861 AVL---
+200414008 Hamm, Schoul          02020  02020                % 03861 AVL---
+200414004 Hamm, Kierch          02021  02021                % 03861 AVL---
+200414007 Hamm, Rue Haute       02022  02022                % 03861 AVL---
+200414003 Hamm, Käschtewee      02022  02022                % 03861 AVL---
+200414006 Hamm, Rue de Bitbour  02024                       % 03861 AVL---
+*Z 03862 AVL---       016 030                               % 03862 AVL---
+*L 9        200406019 200414006  01128  01207               % 03862 AVL---
+*A BE 200406019 200414006 000018  01128  01207              % 03862 AVL---
+*R 2 200414006 200406019 200414006  01128  01207            % 03862 AVL---
+*G STE 200406019 200414006  01128  01207                    % 03862 AVL---
+*A VE 200406019 200414006 000018  01128  01207              % 03862 AVL---
+200406019 Cents, Waassertuerm          01128                % 03862 AVL---
+200422007 Neudorf, Kalchesbruc  01131  01131                % 03862 AVL---
+200422003 Neudorf/Weimershof,   01132  01132                % 03862 AVL---
+200422011 Neudorf, Laangegronn  01133  01133                % 03862 AVL---
+200422008 Neiduerf, Kapell      01134  01134                % 03862 AVL---
+200422001 Neiduerf, Brasserie   01134  01134                % 03862 AVL---
+200422009 Neudorf, Kierch       01135  01135                % 03862 AVL---
+200408002 Neudorf, Fixmer       01136  01136                % 03862 AVL---
+200422005 Neudorf/Weimershof,   01137  01137                % 03862 AVL---
+200408003 Clausen, Malakoff     01138  01138                % 03862 AVL---
+200408001 Clausen, Clausener B  01139  01139                % 03862 AVL---
+200408005 Clausen, Plateau Alt  01140  01140                % 03862 AVL---
+200423004 Pfaffenthal, Um Bock  01141  01141                % 03862 AVL---
+200405005 Centre, Badanstalt    01143  01143                % 03862 AVL---
+200405020 Hamilius (Bus)        01146  01150                % 03862 AVL---
+200405054 Centre, F.D. Rooseve  01153  01153                % 03862 AVL---
+200405039 Luxembourg, Wallis    01156  01156                % 03862 AVL---
+200405046 Luxembourg, Gare Roc  01157  01157                % 03862 AVL---
+200404034 Bonnevoie, Rotonde    01158  01158                % 03862 AVL---
+200404014 Bonnevoie, Gabriel L  01200  01200                % 03862 AVL---
+200404023 Bonnevoie, Kofferfab  01200  01200                % 03862 AVL---
+200414005 Hamm, Montmédy        01201  01201                % 03862 AVL---
+200414002 Hamm, Englebert Neve  01202  01202                % 03862 AVL---
+200414001 Hamm, Colonie         01202  01202                % 03862 AVL---
+200414008 Hamm, Schoul          01203  01203                % 03862 AVL---
+200414004 Hamm, Kierch          01204  01204                % 03862 AVL---
+200414007 Hamm, Rue Haute       01205  01205                % 03862 AVL---
+200414003 Hamm, Käschtewee      01205  01205                % 03862 AVL---
+200414006 Hamm, Rue de Bitbour  01207                       % 03862 AVL---
+*Z 03863 AVL---       055 015                               % 03863 AVL---
+*L 9        200406019 200414006  00548  00628               % 03863 AVL---
+*A BE 200406019 200414006 000033  00548  00628              % 03863 AVL---
+*R 2 200414006 200406019 200414006  00548  00628            % 03863 AVL---
+*G STE 200406019 200414006  00548  00628                    % 03863 AVL---
+*A VE 200406019 200414006 000033  00548  00628              % 03863 AVL---
+200406019 Cents, Waassertuerm          00548                % 03863 AVL---
+200422007 Neudorf, Kalchesbruc  00550  00550                % 03863 AVL---
+200422003 Neudorf/Weimershof,   00552  00552                % 03863 AVL---
+200422011 Neudorf, Laangegronn  00553  00553                % 03863 AVL---
+200422008 Neiduerf, Kapell      00554  00554                % 03863 AVL---
+200422001 Neiduerf, Brasserie   00555  00555                % 03863 AVL---
+200422009 Neudorf, Kierch       00556  00556                % 03863 AVL---
+200408002 Neudorf, Fixmer       00557  00557                % 03863 AVL---
+200422005 Neudorf/Weimershof,   00558  00558                % 03863 AVL---
+200408003 Clausen, Malakoff     00559  00559                % 03863 AVL---
+200408001 Clausen, Clausener B  00600  00600                % 03863 AVL---
+200408005 Clausen, Plateau Alt  00601  00601                % 03863 AVL---
+200423004 Pfaffenthal, Um Bock  00602  00602                % 03863 AVL---
+200405005 Centre, Badanstalt    00604  00604                % 03863 AVL---
+200405020 Hamilius (Bus)        00608  00608                % 03863 AVL---
+200405054 Centre, F.D. Rooseve  00611  00611                % 03863 AVL---
+200405039 Luxembourg, Wallis    00615  00615                % 03863 AVL---
+200405046 Luxembourg, Gare Roc  00616  00616                % 03863 AVL---
+200404034 Bonnevoie, Rotonde    00618  00618                % 03863 AVL---
+200404014 Bonnevoie, Gabriel L  00619  00619                % 03863 AVL---
+200404023 Bonnevoie, Kofferfab  00620  00620                % 03863 AVL---
+200414005 Hamm, Montmédy        00621  00621                % 03863 AVL---
+200414002 Hamm, Englebert Neve  00622  00622                % 03863 AVL---
+200414001 Hamm, Colonie         00623  00623                % 03863 AVL---
+200414008 Hamm, Schoul          00624  00624                % 03863 AVL---
+200414004 Hamm, Kierch          00625  00625                % 03863 AVL---
+200414007 Hamm, Rue Haute       00626  00626                % 03863 AVL---
+200414003 Hamm, Käschtewee      00626  00626                % 03863 AVL---
+200414006 Hamm, Rue de Bitbour  00628                       % 03863 AVL---

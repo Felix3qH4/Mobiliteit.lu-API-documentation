@@ -1,0 +1,91 @@
+*F 03 2
+*Z 18887 RGTR--                                             % 18887 RGTR--
+*L M13      120701001 150606005  00655  00741               % 18887 RGTR--
+*A cj 120701001 150606005 000042  00655  00741              % 18887 RGTR--
+*A ad 120701001 150606005 000042  00655  00741              % 18887 RGTR--
+*R 1 150606005 120701001 150606005  00655  00741            % 18887 RGTR--
+*G 063 120701001 150606005  00655  00741                    % 18887 RGTR--
+*A VE 120701001 150606005 000042  00655  00741              % 18887 RGTR--
+*I FD 120701001 150606005        0001920  00655  00741      % 18887 RGTR--
+120701001 Bavigne, Gemeng              00655                % 18887 RGTR--
+120102002 Surré, Gënzebierg     00701  00701                % 18887 RGTR--
+120102001 Surré, Bei der Bréck  00702  00702                % 18887 RGTR--
+120101005 Surré, Montée St. Hu  00703  00703                % 18887 RGTR--
+120103002 Hareler Poteau        00707  00707                % 18887 RGTR--
+120101002 Baschleiden, Kiirch   00709  00709                % 18887 RGTR--
+120101001 Baschleiden, Elber    00710  00710                % 18887 RGTR--
+120101003 Boulaide, Camping     00711  00711                % 18887 RGTR--
+120101004 Boulaide, Post        00711  00711                % 18887 RGTR--
+150501005 Arsdorf, Misärshaff   00716  00716                % 18887 RGTR--
+150501004 Arsdorf, Um Knupp     00718  00718                % 18887 RGTR--
+150501001 Arsdorf, Am Duerf     00720  00720                % 18887 RGTR--
+150501003 Arsdorf, An der Gaas  00720  00720                % 18887 RGTR--
+150509001 Koetschette, Rond-Po  00724  00724                % 18887 RGTR--
+150512005 Rambrouch, Schlass    00725  00725                % 18887 RGTR--
+150512006 Rambrouch, Gare       00726  00726                % 18887 RGTR--
+150512004 Rambrouch, Riesenknä  00727  00727                % 18887 RGTR--
+150508002 Hostert, Wäschbur     00730  00730                % 18887 RGTR--
+150506007 Brisenhaff            00732  00732                % 18887 RGTR--
+150605002 Ospern, Wäschbur      00735  00735                % 18887 RGTR--
+150605001 Ospern, Kiirch        00736  00736                % 18887 RGTR--
+150606005 Redange/Attert, Lycé  00741                       % 18887 RGTR--
+*Z 18888 RGTR--                                             % 18888 RGTR--
+*L M13      150606005 120701001  01540  01626               % 18888 RGTR--
+*A cj 150606005 120701001 000312  01540  01626              % 18888 RGTR--
+*A TV 150606005 120701001 000312  01540  01626              % 18888 RGTR--
+*A ad 150606005 120701001 000312  01540  01626              % 18888 RGTR--
+*R 2 120701001 150606005 120701001  01540  01626            % 18888 RGTR--
+*G 072 150606005 120701001  01540  01626                    % 18888 RGTR--
+*A VE 150606005 120701001 000312  01540  01626              % 18888 RGTR--
+*I FD 150606005 120701001        0002323  01540  01626      % 18888 RGTR--
+150606005 Redange/Attert, Lycé         01540                % 18888 RGTR--
+150605001 Ospern, Kiirch        01545  01545                % 18888 RGTR--
+150605002 Ospern, Wäschbur      01546  01546                % 18888 RGTR--
+150508002 Hostert, Wäschbur     01550  01550                % 18888 RGTR--
+150512004 Rambrouch, Riesenknä  01553  01553                % 18888 RGTR--
+150512006 Rambrouch, Gare       01554  01554                % 18888 RGTR--
+150512005 Rambrouch, Schlass    01555  01555                % 18888 RGTR--
+150509001 Koetschette, Rond-Po  01557  01557                % 18888 RGTR--
+150501003 Arsdorf, An der Gaas  01600  01600                % 18888 RGTR--
+150501001 Arsdorf, Am Duerf     01600  01600                % 18888 RGTR--
+150501004 Arsdorf, Um Knupp     01601  01601                % 18888 RGTR--
+150501005 Arsdorf, Misärshaff   01604  01604                % 18888 RGTR--
+120101004 Boulaide, Post        01609  01609                % 18888 RGTR--
+120101003 Boulaide, Camping     01610  01610                % 18888 RGTR--
+120101001 Baschleiden, Elber    01610  01610                % 18888 RGTR--
+120101002 Baschleiden, Kiirch   01611  01611                % 18888 RGTR--
+120103002 Hareler Poteau        01614  01614                % 18888 RGTR--
+120102002 Surré, Gënzebierg     01616  01616                % 18888 RGTR--
+120102001 Surré, Bei der Bréck  01617  01617                % 18888 RGTR--
+120101005 Surré, Montée St. Hu  01618  01618                % 18888 RGTR--
+120701001 Bavigne, Gemeng       01626                       % 18888 RGTR--
+*Z 18889 RGTR--                                             % 18889 RGTR--
+*L M13      150606005 120701001  01225  01310               % 18889 RGTR--
+*A cj 150606005 120701001 000007  01225  01310              % 18889 RGTR--
+*A TV 150606005 120701001 000007  01225  01310              % 18889 RGTR--
+*A ad 150606005 120701001 000007  01225  01310              % 18889 RGTR--
+*R 2 120701001 150606005 120701001  01225  01310            % 18889 RGTR--
+*G 072 150606005 120701001  01225  01310                    % 18889 RGTR--
+*A VE 150606005 120701001 000007  01225  01310              % 18889 RGTR--
+*I FD 150606005 120701001        0002422  01225  01310      % 18889 RGTR--
+150606005 Redange/Attert, Lycé         01225                % 18889 RGTR--
+150605001 Ospern, Kiirch        01230  01230                % 18889 RGTR--
+150605002 Ospern, Wäschbur      01231  01231                % 18889 RGTR--
+150508002 Hostert, Wäschbur     01235  01235                % 18889 RGTR--
+150512004 Rambrouch, Riesenknä  01238  01238                % 18889 RGTR--
+150512006 Rambrouch, Gare       01239  01239                % 18889 RGTR--
+150512005 Rambrouch, Schlass    01240  01240                % 18889 RGTR--
+150509001 Koetschette, Rond-Po  01241  01241                % 18889 RGTR--
+150501003 Arsdorf, An der Gaas  01244  01244                % 18889 RGTR--
+150501001 Arsdorf, Am Duerf     01245  01245                % 18889 RGTR--
+150501004 Arsdorf, Um Knupp     01246  01246                % 18889 RGTR--
+150501005 Arsdorf, Misärshaff   01248  01248                % 18889 RGTR--
+120101004 Boulaide, Post        01253  01253                % 18889 RGTR--
+120101003 Boulaide, Camping     01254  01254                % 18889 RGTR--
+120101001 Baschleiden, Elber    01254  01254                % 18889 RGTR--
+120101002 Baschleiden, Kiirch   01255  01255                % 18889 RGTR--
+120103002 Hareler Poteau        01258  01258                % 18889 RGTR--
+120102002 Surré, Gënzebierg     01300  01300                % 18889 RGTR--
+120102001 Surré, Bei der Bréck  01301  01301                % 18889 RGTR--
+120101005 Surré, Montée St. Hu  01302  01302                % 18889 RGTR--
+120701001 Bavigne, Gemeng       01310                       % 18889 RGTR--

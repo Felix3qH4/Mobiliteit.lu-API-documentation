@@ -1,0 +1,158 @@
+*F 03 2
+*Z 19038 RGTR--                                             % 19038 RGTR--
+*L R06      220804007 210503012  00645  00744               % 19038 RGTR--
+*A cj 220804007 210503012 000042  00645  00744              % 19038 RGTR--
+*A ad 220804007 210503012 000042  00645  00744              % 19038 RGTR--
+*R 1 210503012 220804007 210503012  00645  00744            % 19038 RGTR--
+*G 060 220804007 210503012  00645  00744                    % 19038 RGTR--
+*A VE 220804007 210503012 000042  00645  00744              % 19038 RGTR--
+*I FD 220804007 210503012        0001964  00645  00744      % 19038 RGTR--
+220804007 Pontpierre, Bei der          00645                % 19038 RGTR--
+220804014 Pontpierre, Steewee   00645  00645                % 19038 RGTR--
+220801009 Bergem, Steebréckerw  00646  00646                % 19038 RGTR--
+220801004 Bergem, Centre        00647  00647                % 19038 RGTR--
+220801010 Bergem, Am Haff       00647  00647                % 19038 RGTR--
+220801007 Bergem, Naerzengerst  00648  00648                % 19038 RGTR--
+220105004 Noertzange, Lohrwies  00649  00649                % 19038 RGTR--
+220105001 Noertzange, Am Duerf  00650  00650                % 19038 RGTR--
+220105003 Noertzange, Route de  00651  00651                % 19038 RGTR--
+220301019 Dudelange, Route de   00655  00655                % 19038 RGTR--
+220301030 Dudelange, Kierfecht  00657  00657                % 19038 RGTR--
+220301024 Dudelange, Gemeng     00701  00701                % 19038 RGTR--
+220301029 Dudelange, Kiirch     00703  00703                % 19038 RGTR--
+220301042 Dudelange, Route de   00707  00707                % 19038 RGTR--
+220102006 Bettembourg, Kiirche  00716  00716                % 19038 RGTR--
+220102005 Bettembourg, Gare ro  00719  00719                % 19038 RGTR--
+220102004 Bettembourg, Café du  00721  00721                % 19038 RGTR--
+220102008 Bettembourg, Parc Me  00723  00723                % 19038 RGTR--
+220503003 Hellange, Kiirch      00728  00728                % 19038 RGTR--
+220503002 Hellange, Hoëner Hal  00729  00729                % 19038 RGTR--
+220502004 Frisange, Op der Krä  00732  00732                % 19038 RGTR--
+220502002 Frisange, Ennescht D  00733  00733                % 19038 RGTR--
+220501002 Aspelt, Gare          00735  00735                % 19038 RGTR--
+220501001 Aspelt, Am Grëndchen  00736  00736                % 19038 RGTR--
+210501002 Altwies, Beckeschmil  00738  00738                % 19038 RGTR--
+210501001 Altwies, An der Kaz   00739  00739                % 19038 RGTR--
+210501004 Altwies, Millbaach    00739  00739                % 19038 RGTR--
+210503005 Mondorf-les-Bains, K  00740  00740                % 19038 RGTR--
+210503001 Mondorf-les-Bains, B  00741  00741                % 19038 RGTR--
+210503003 Mondorf-les-Bains, C  00742  00742                % 19038 RGTR--
+210503002 Mondorf-les-Bains, C  00743  00743                % 19038 RGTR--
+210503012 Mondorf-les-Bains, E  00744                       % 19038 RGTR--
+*Z 19039 RGTR--                                             % 19039 RGTR--
+*L R06      210503012 220804007  01610  01708               % 19039 RGTR--
+*A cj 210503012 220804007 000347  01610  01708              % 19039 RGTR--
+*A ad 210503012 220804007 000347  01610  01708              % 19039 RGTR--
+*R 2 220804007 210503012 220804007  01610  01708            % 19039 RGTR--
+*G 060 210503012 220804007  01610  01708                    % 19039 RGTR--
+*A VE 210503012 220804007 000347  01610  01708              % 19039 RGTR--
+*I FD 210503012 220804007        0001997  01610  01708      % 19039 RGTR--
+210503012 Mondorf-les-Bains, E         01610                % 19039 RGTR--
+210503002 Mondorf-les-Bains, C  01612  01612                % 19039 RGTR--
+210503003 Mondorf-les-Bains, C  01613  01613                % 19039 RGTR--
+210503001 Mondorf-les-Bains, B  01613  01613                % 19039 RGTR--
+210503005 Mondorf-les-Bains, K  01614  01614                % 19039 RGTR--
+210501004 Altwies, Millbaach    01615  01615                % 19039 RGTR--
+210501003 Altwies, Bourgässel   01616  01616                % 19039 RGTR--
+210501002 Altwies, Beckeschmil  01616  01616                % 19039 RGTR--
+220501001 Aspelt, Am Grëndchen  01618  01618                % 19039 RGTR--
+220501002 Aspelt, Gare          01619  01619                % 19039 RGTR--
+220502002 Frisange, Ennescht D  01622  01622                % 19039 RGTR--
+220502004 Frisange, Op der Krä  01623  01623                % 19039 RGTR--
+220503002 Hellange, Hoëner Hal  01626  01626                % 19039 RGTR--
+220503003 Hellange, Kiirch      01627  01627                % 19039 RGTR--
+220102008 Bettembourg, Parc Me  01632  01632                % 19039 RGTR--
+220102004 Bettembourg, Café du  01633  01633                % 19039 RGTR--
+220102005 Bettembourg, Gare ro  01635  01635                % 19039 RGTR--
+220102006 Bettembourg, Kiirche  01638  01638                % 19039 RGTR--
+220301042 Dudelange, Route de   01646  01646                % 19039 RGTR--
+220301030 Dudelange, Kierfecht  01648  01648                % 19039 RGTR--
+220301024 Dudelange, Gemeng     01652  01652                % 19039 RGTR--
+220301019 Dudelange, Route de   01657  01657                % 19039 RGTR--
+220105003 Noertzange, Route de  01701  01701                % 19039 RGTR--
+220105001 Noertzange, Am Duerf  01702  01702                % 19039 RGTR--
+220105004 Noertzange, Lohrwies  01703  01703                % 19039 RGTR--
+220801007 Bergem, Naerzengerst  01704  01704                % 19039 RGTR--
+220801010 Bergem, Am Haff       01705  01705                % 19039 RGTR--
+220801004 Bergem, Centre        01706  01706                % 19039 RGTR--
+220801009 Bergem, Steebréckerw  01707  01707                % 19039 RGTR--
+220804014 Pontpierre, Steewee   01708  01708                % 19039 RGTR--
+220804007 Pontpierre, Bei der   01708                       % 19039 RGTR--
+*Z 19040 RGTR--                                             % 19040 RGTR--
+*L R06      210503012 220804007  01225  01320               % 19040 RGTR--
+*A cj 210503012 220804007 000046  01225  01320              % 19040 RGTR--
+*A ad 210503012 220804007 000046  01225  01320              % 19040 RGTR--
+*R 2 220804007 210503012 220804007  01225  01320            % 19040 RGTR--
+*G 060 210503012 220804007  01225  01320                    % 19040 RGTR--
+*A VE 210503012 220804007 000046  01225  01320              % 19040 RGTR--
+*I FD 210503012 220804007        0002422  01225  01320      % 19040 RGTR--
+210503012 Mondorf-les-Bains, E         01225                % 19040 RGTR--
+210503002 Mondorf-les-Bains, C  01226  01226                % 19040 RGTR--
+210503003 Mondorf-les-Bains, C  01227  01227                % 19040 RGTR--
+210503001 Mondorf-les-Bains, B  01228  01228                % 19040 RGTR--
+210503005 Mondorf-les-Bains, K  01229  01229                % 19040 RGTR--
+210501004 Altwies, Millbaach    01230  01230                % 19040 RGTR--
+210501003 Altwies, Bourgässel   01230  01230                % 19040 RGTR--
+210501002 Altwies, Beckeschmil  01231  01231                % 19040 RGTR--
+220501001 Aspelt, Am Grëndchen  01233  01233                % 19040 RGTR--
+220501002 Aspelt, Gare          01234  01234                % 19040 RGTR--
+220502002 Frisange, Ennescht D  01237  01237                % 19040 RGTR--
+220502004 Frisange, Op der Krä  01238  01238                % 19040 RGTR--
+220503002 Hellange, Hoëner Hal  01240  01240                % 19040 RGTR--
+220503003 Hellange, Kiirch      01242  01242                % 19040 RGTR--
+220102008 Bettembourg, Parc Me  01247  01247                % 19040 RGTR--
+220102004 Bettembourg, Café du  01248  01248                % 19040 RGTR--
+220102005 Bettembourg, Gare ro  01249  01249                % 19040 RGTR--
+220102006 Bettembourg, Kiirche  01252  01252                % 19040 RGTR--
+220301042 Dudelange, Route de   01300  01300                % 19040 RGTR--
+220301030 Dudelange, Kierfecht  01301  01301                % 19040 RGTR--
+220301024 Dudelange, Gemeng     01305  01305                % 19040 RGTR--
+220301019 Dudelange, Route de   01310  01310                % 19040 RGTR--
+220105003 Noertzange, Route de  01314  01314                % 19040 RGTR--
+220105001 Noertzange, Am Duerf  01314  01314                % 19040 RGTR--
+220105004 Noertzange, Lohrwies  01315  01315                % 19040 RGTR--
+220801007 Bergem, Naerzengerst  01316  01316                % 19040 RGTR--
+220801010 Bergem, Am Haff       01317  01317                % 19040 RGTR--
+220801004 Bergem, Centre        01318  01318                % 19040 RGTR--
+220801009 Bergem, Steebréckerw  01319  01319                % 19040 RGTR--
+220804014 Pontpierre, Steewee   01320  01320                % 19040 RGTR--
+220804007 Pontpierre, Bei der   01320                       % 19040 RGTR--
+*Z 19041 RGTR--                                             % 19041 RGTR--
+*L R06      210503012 220804007  01310  01405               % 19041 RGTR--
+*A cj 210503012 220804007 000348  01310  01405              % 19041 RGTR--
+*A ad 210503012 220804007 000348  01310  01405              % 19041 RGTR--
+*R 2 220804007 210503012 220804007  01310  01405            % 19041 RGTR--
+*G 060 210503012 220804007  01310  01405                    % 19041 RGTR--
+*A VE 210503012 220804007 000348  01310  01405              % 19041 RGTR--
+*I FD 210503012 220804007        0001987  01310  01405      % 19041 RGTR--
+210503012 Mondorf-les-Bains, E         01310                % 19041 RGTR--
+210503002 Mondorf-les-Bains, C  01311  01311                % 19041 RGTR--
+210503003 Mondorf-les-Bains, C  01312  01312                % 19041 RGTR--
+210503001 Mondorf-les-Bains, B  01313  01313                % 19041 RGTR--
+210503005 Mondorf-les-Bains, K  01314  01314                % 19041 RGTR--
+210501004 Altwies, Millbaach    01315  01315                % 19041 RGTR--
+210501003 Altwies, Bourgässel   01315  01315                % 19041 RGTR--
+210501002 Altwies, Beckeschmil  01316  01316                % 19041 RGTR--
+220501001 Aspelt, Am Grëndchen  01318  01318                % 19041 RGTR--
+220501002 Aspelt, Gare          01319  01319                % 19041 RGTR--
+220502002 Frisange, Ennescht D  01322  01322                % 19041 RGTR--
+220502004 Frisange, Op der Krä  01323  01323                % 19041 RGTR--
+220503002 Hellange, Hoëner Hal  01325  01325                % 19041 RGTR--
+220503003 Hellange, Kiirch      01327  01327                % 19041 RGTR--
+220102008 Bettembourg, Parc Me  01332  01332                % 19041 RGTR--
+220102004 Bettembourg, Café du  01333  01333                % 19041 RGTR--
+220102005 Bettembourg, Gare ro  01334  01334                % 19041 RGTR--
+220102006 Bettembourg, Kiirche  01337  01337                % 19041 RGTR--
+220301042 Dudelange, Route de   01345  01345                % 19041 RGTR--
+220301030 Dudelange, Kierfecht  01346  01346                % 19041 RGTR--
+220301024 Dudelange, Gemeng     01350  01350                % 19041 RGTR--
+220301019 Dudelange, Route de   01355  01355                % 19041 RGTR--
+220105003 Noertzange, Route de  01359  01359                % 19041 RGTR--
+220105001 Noertzange, Am Duerf  01359  01359                % 19041 RGTR--
+220105004 Noertzange, Lohrwies  01400  01400                % 19041 RGTR--
+220801007 Bergem, Naerzengerst  01401  01401                % 19041 RGTR--
+220801010 Bergem, Am Haff       01402  01402                % 19041 RGTR--
+220801004 Bergem, Centre        01403  01403                % 19041 RGTR--
+220801009 Bergem, Steebréckerw  01404  01404                % 19041 RGTR--
+220804014 Pontpierre, Steewee   01405  01405                % 19041 RGTR--
+220804007 Pontpierre, Bei der   01405                       % 19041 RGTR--

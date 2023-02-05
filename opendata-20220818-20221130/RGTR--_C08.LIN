@@ -1,0 +1,116 @@
+*F 03 2
+*Z 18155 RGTR--                                             % 18155 RGTR--
+*L C08      170405005 180511008  00713  00750               % 18155 RGTR--
+*A cj 170405005 180511008 000042  00713  00750              % 18155 RGTR--
+*A ad 170405005 180511008 000042  00713  00750              % 18155 RGTR--
+*R 1 180511008 170405005 180511008  00713  00750            % 18155 RGTR--
+*G 063 170405005 180511008  00713  00750                    % 18155 RGTR--
+*A VE 170405005 180511008 000042  00713  00750              % 18155 RGTR--
+*I FD 170405005 180511008        0003345  00713  00750      % 18155 RGTR--
+170405005 Colbette                     00713                % 18155 RGTR--
+170207001 Kobenbour             00716  00716                % 18155 RGTR--
+170201005 Altrier, Kreizenhéic  00717  00717                % 18155 RGTR--
+170201004 Altrier, Op der Scha  00719  00719                % 18155 RGTR--
+170204001 Hersberg/Heeschbreg   00721  00721                % 18155 RGTR--
+170202005 Bech, Um Faubourg     00725  00725                % 18155 RGTR--
+170202002 Bech, Beim Weiher     00725  00725                % 18155 RGTR--
+170202001 Bech, Bei der Gemeng  00726  00726                % 18155 RGTR--
+170202003 Bech, Béiwerwiss      00726  00726                % 18155 RGTR--
+180205002 Brouch/Wecker, Gaerl  00729  00729                % 18155 RGTR--
+170206002 Zittig, Moulin        00730  00730                % 18155 RGTR--
+170206001 Zittig, Kapell        00732  00732                % 18155 RGTR--
+170203001 Hemstal, Am Iewescht  00732  00732                % 18155 RGTR--
+170203002 Hemstal, Kiirch       00733  00733                % 18155 RGTR--
+170205002 Rippig                00734  00734                % 18155 RGTR--
+180502002 Beidweiler, Op der G  00736  00736                % 18155 RGTR--
+180502001 Beidweiler, Am Duerf  00737  00737                % 18155 RGTR--
+180506001 Eschweiler/Junglinst  00740  00740                % 18155 RGTR--
+180508002 Gonderange, Eeschële  00746  00746                % 18155 RGTR--
+180511008 Junglinster, Lënster  00750                       % 18155 RGTR--
+*Z 18156 RGTR--                                             % 18156 RGTR--
+*L C08      180511008 170405005  01610  01650               % 18156 RGTR--
+*A cj 180511008 170405005 000312  01610  01650              % 18156 RGTR--
+*A ad 180511008 170405005 000312  01610  01650              % 18156 RGTR--
+*R 2 170405005 180511008 170405005  01610  01650            % 18156 RGTR--
+*G 063 180511008 170405005  01610  01650                    % 18156 RGTR--
+*A VE 180511008 170405005 000312  01610  01650              % 18156 RGTR--
+*I FD 180511008 170405005        0001997  01610  01650      % 18156 RGTR--
+180511008 Junglinster, Lënster         01610                % 18156 RGTR--
+180508004 Gonderange, Op der B  01612  01612                % 18156 RGTR--
+180508007 Gonderange, Op der G  01615  01615                % 18156 RGTR--
+180506001 Eschweiler/Junglinst  01620  01620                % 18156 RGTR--
+180502001 Beidweiler, Am Duerf  01624  01624                % 18156 RGTR--
+180502002 Beidweiler, Op der G  01625  01625                % 18156 RGTR--
+170205002 Rippig                01627  01627                % 18156 RGTR--
+170203002 Hemstal, Kiirch       01629  01629                % 18156 RGTR--
+170203001 Hemstal, Am Iewescht  01630  01630                % 18156 RGTR--
+170206001 Zittig, Kapell        01631  01631                % 18156 RGTR--
+170206002 Zittig, Moulin        01633  01633                % 18156 RGTR--
+180205002 Brouch/Wecker, Gaerl  01635  01635                % 18156 RGTR--
+170202003 Bech, Béiwerwiss      01638  01638                % 18156 RGTR--
+170202001 Bech, Bei der Gemeng  01638  01638                % 18156 RGTR--
+170202002 Bech, Beim Weiher     01638  01638                % 18156 RGTR--
+170202005 Bech, Um Faubourg     01639  01639                % 18156 RGTR--
+170204001 Hersberg/Heeschbreg   01643  01643                % 18156 RGTR--
+170201004 Altrier, Op der Scha  01644  01644                % 18156 RGTR--
+170201005 Altrier, Kreizenhéic  01646  01646                % 18156 RGTR--
+170207001 Kobenbour             01647  01647                % 18156 RGTR--
+170405005 Colbette              01650                       % 18156 RGTR--
+*Z 18157 RGTR--                                             % 18157 RGTR--
+*L C08      180511008 170405005  01145  01222               % 18157 RGTR--
+*A cj 180511008 170405005 000007  01145  01222              % 18157 RGTR--
+*A ad 180511008 170405005 000007  01145  01222              % 18157 RGTR--
+*R 2 170405005 180511008 170405005  01145  01222            % 18157 RGTR--
+*G 063 180511008 170405005  01145  01222                    % 18157 RGTR--
+*A VE 180511008 170405005 000007  01145  01222              % 18157 RGTR--
+*I FD 180511008 170405005        0002343  01145  01222      % 18157 RGTR--
+180511008 Junglinster, Lënster         01145                % 18157 RGTR--
+180508004 Gonderange, Op der B  01147  01147                % 18157 RGTR--
+180508007 Gonderange, Op der G  01149  01149                % 18157 RGTR--
+180506001 Eschweiler/Junglinst  01154  01154                % 18157 RGTR--
+180502001 Beidweiler, Am Duerf  01158  01158                % 18157 RGTR--
+180502002 Beidweiler, Op der G  01159  01159                % 18157 RGTR--
+170205002 Rippig                01201  01201                % 18157 RGTR--
+170203002 Hemstal, Kiirch       01203  01203                % 18157 RGTR--
+170203001 Hemstal, Am Iewescht  01203  01203                % 18157 RGTR--
+170206001 Zittig, Kapell        01205  01205                % 18157 RGTR--
+170206002 Zittig, Moulin        01207  01207                % 18157 RGTR--
+180205002 Brouch/Wecker, Gaerl  01208  01208                % 18157 RGTR--
+170202003 Bech, Béiwerwiss      01211  01211                % 18157 RGTR--
+170202001 Bech, Bei der Gemeng  01212  01212                % 18157 RGTR--
+170202002 Bech, Beim Weiher     01212  01212                % 18157 RGTR--
+170202005 Bech, Um Faubourg     01213  01213                % 18157 RGTR--
+170204001 Hersberg/Heeschbreg   01216  01216                % 18157 RGTR--
+170201004 Altrier, Op der Scha  01218  01218                % 18157 RGTR--
+170201005 Altrier, Kreizenhéic  01219  01219                % 18157 RGTR--
+170207001 Kobenbour             01220  01220                % 18157 RGTR--
+170405005 Colbette              01222                       % 18157 RGTR--
+*Z 18158 RGTR--                                             % 18158 RGTR--
+*L C08      180511008 170405005  01415  01452               % 18158 RGTR--
+*A cj 180511008 170405005 000046  01415  01452              % 18158 RGTR--
+*A ad 180511008 170405005 000046  01415  01452              % 18158 RGTR--
+*R 2 170405005 180511008 170405005  01415  01452            % 18158 RGTR--
+*G 063 180511008 170405005  01415  01452                    % 18158 RGTR--
+*A VE 180511008 170405005 000046  01415  01452              % 18158 RGTR--
+*I FD 180511008 170405005        0002055  01415  01452      % 18158 RGTR--
+180511008 Junglinster, Lënster         01415                % 18158 RGTR--
+180508004 Gonderange, Op der B  01417  01417                % 18158 RGTR--
+180508007 Gonderange, Op der G  01419  01419                % 18158 RGTR--
+180506001 Eschweiler/Junglinst  01424  01424                % 18158 RGTR--
+180502001 Beidweiler, Am Duerf  01428  01428                % 18158 RGTR--
+180502002 Beidweiler, Op der G  01429  01429                % 18158 RGTR--
+170205002 Rippig                01431  01431                % 18158 RGTR--
+170203002 Hemstal, Kiirch       01433  01433                % 18158 RGTR--
+170203001 Hemstal, Am Iewescht  01433  01433                % 18158 RGTR--
+170206001 Zittig, Kapell        01435  01435                % 18158 RGTR--
+170206002 Zittig, Moulin        01437  01437                % 18158 RGTR--
+180205002 Brouch/Wecker, Gaerl  01438  01438                % 18158 RGTR--
+170202003 Bech, Béiwerwiss      01441  01441                % 18158 RGTR--
+170202001 Bech, Bei der Gemeng  01442  01442                % 18158 RGTR--
+170202002 Bech, Beim Weiher     01442  01442                % 18158 RGTR--
+170202005 Bech, Um Faubourg     01443  01443                % 18158 RGTR--
+170204001 Hersberg/Heeschbreg   01446  01446                % 18158 RGTR--
+170201004 Altrier, Op der Scha  01448  01448                % 18158 RGTR--
+170201005 Altrier, Kreizenhéic  01449  01449                % 18158 RGTR--
+170207001 Kobenbour             01450  01450                % 18158 RGTR--
+170405005 Colbette              01452                       % 18158 RGTR--

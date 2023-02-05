@@ -1,0 +1,25 @@
+*F 03 2
+*Z 05850 TIC---                                             % 05850 TIC---
+*L 783      220901004 220201053  01453  01524               % 05850 TIC---
+*R 1 220201053 220901004 220201053  01453  01524            % 05850 TIC---
+*G SB  220901004 220201053  01453  01524                    % 05850 TIC---
+*A VE 220901004 220201053 000290  01453  01524              % 05850 TIC---
+*I FD 220901004 220201053        0001663  01453  01524      % 05850 TIC---
+220901004 Lamadelaine, Lycée T         01453                % 05850 TIC---
+220902009 Pétange, Kierfecht    01458 -01458                % 05850 TIC---
+220902015 Pétange, Oberst Däss  01458 -01458                % 05850 TIC---
+220902018 Pétange, Prënzebierg  01459 -01459                % 05850 TIC---
+220203002 Niederkorn, Altershe  01500 -01500                % 05850 TIC---
+220203004 Niederkorn, Cité de   01501 -01501                % 05850 TIC---
+220203008 Niederkorn, Péitenge  01502 -01502                % 05850 TIC---
+220201041 Differdange, Roudenh  01509 -01509                % 05850 TIC---
+220202001 Lasauvage, Kajibi     01510 -01510                % 05850 TIC---
+220202003 Lasauvage, Schoul     01511 -01511                % 05850 TIC---
+220202002 Lasauvage, Kierch     01512 -01512                % 05850 TIC---
+220201025 Differdange, Grillpl  01517 -01517                % 05850 TIC---
+220201012 Differdange, Douane   01518 -01518                % 05850 TIC---
+220201004 Differdange, Becklec  01519 -01519                % 05850 TIC---
+220201044 Differdange, Rue de   01521 -01521                % 05850 TIC---
+220201036 Differdange, Place d  01522 -01522                % 05850 TIC---
+220201066 Differdange, Maartpl  01523 -01523                % 05850 TIC---
+220201053 Differdange, Schoul   01524                       % 05850 TIC---

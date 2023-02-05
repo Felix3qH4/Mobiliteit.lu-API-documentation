@@ -1,0 +1,98 @@
+*F 03 2
+*Z 18030 RGTR--                                             % 18030 RGTR--
+*L A09      110101014 110101002  00748  00818               % 18030 RGTR--
+*A cj 110101014 110101002 000042  00748  00818              % 18030 RGTR--
+*A ad 110101014 110101002 000042  00748  00818              % 18030 RGTR--
+*R 1 110101002 110101014 110101002  00748  00818            % 18030 RGTR--
+*G 050 110101014 110101002  00748  00818                    % 18030 RGTR--
+*A VE 110101014 110101002 000042  00748  00818              % 18030 RGTR--
+*I FD 110101014 110101002        0002229  00748  00818      % 18030 RGTR--
+110101014 Clervaux, Kalborn/Ka         00748                % 18030 RGTR--
+110307002 Heinerscheid, Burega  00750  00750                % 18030 RGTR--
+110303003 Heinerscheid, Geméin  00750  00750                % 18030 RGTR--
+110303001 Heinerscheid, Bei Di  00751  00751                % 18030 RGTR--
+110305001 Kaesfurt              00753  00753                % 18030 RGTR--
+110304003 Hupperdange, Hualewe  00754  00754                % 18030 RGTR--
+110304002 Hupperdange, Schull   00755  00755                % 18030 RGTR--
+110304004 Hupperdange, Knupp    00755  00755                % 18030 RGTR--
+110104001 Urspelt, Knupp        00758  00758                % 18030 RGTR--
+110104002 Urspelt, Schlass      00758  00758                % 18030 RGTR--
+110301001 Fischbach/Heinersche  00802  00802                % 18030 RGTR--
+110502004 Marnach, Fëschberstr  00804  00804                % 18030 RGTR--
+110502009 Marnach, Pënnik       00804  00804                % 18030 RGTR--
+110502011 Marnach, Bombatsch    00805  00805                % 18030 RGTR--
+110502008 Marnach, Op der Bréc  00806  00806                % 18030 RGTR--
+110502006 Marnach, Bei der Kie  00807  00807                % 18030 RGTR--
+110103003 Reuler, Hôh           00810  00810                % 18030 RGTR--
+110103002 Reuler, Duerf         00811  00811                % 18030 RGTR--
+110103001 Reuler, Centre Scola  00812  00812                % 18030 RGTR--
+110101001 Clervaux, Clinique    00814  00814                % 18030 RGTR--
+110101010 Clervaux, Police      00815  00815                % 18030 RGTR--
+110101008 Clervaux, Pl. de la   00815  00815                % 18030 RGTR--
+110101011 Clervaux, Postes      00816  00816                % 18030 RGTR--
+110101004 Clervaux, Maison de   00817  00817                % 18030 RGTR--
+110101002 Clervaux, Gare routi  00818                       % 18030 RGTR--
+*Z 18031 RGTR--                                             % 18031 RGTR--
+*L A09      110101002 110101014  01455  01526               % 18031 RGTR--
+*A cj 110101002 110101014 000042  01455  01526              % 18031 RGTR--
+*A ad 110101002 110101014 000042  01455  01526              % 18031 RGTR--
+*R 2 110101014 110101002 110101014  01455  01526            % 18031 RGTR--
+*G 050 110101002 110101014  01455  01526                    % 18031 RGTR--
+*A VE 110101002 110101014 000042  01455  01526              % 18031 RGTR--
+*I FD 110101002 110101014        0002537  01455  01526      % 18031 RGTR--
+110101002 Clervaux, Gare routi         01455                % 18031 RGTR--
+110101004 Clervaux, Maison de   01456  01456                % 18031 RGTR--
+110101009 Clervaux, Place Bene  01457  01457                % 18031 RGTR--
+110101010 Clervaux, Police      01458  01458                % 18031 RGTR--
+110101001 Clervaux, Clinique    01459  01459                % 18031 RGTR--
+110103003 Reuler, Hôh           01500  01500                % 18031 RGTR--
+110103002 Reuler, Duerf         01501  01501                % 18031 RGTR--
+110103001 Reuler, Centre Scola  01502  01502                % 18031 RGTR--
+110502006 Marnach, Bei der Kie  01506  01506                % 18031 RGTR--
+110502008 Marnach, Op der Bréc  01507  01507                % 18031 RGTR--
+110502011 Marnach, Bombatsch    01508  01508                % 18031 RGTR--
+110502009 Marnach, Pënnik       01509  01509                % 18031 RGTR--
+110502004 Marnach, Fëschberstr  01509  01509                % 18031 RGTR--
+110301001 Fischbach/Heinersche  01510  01510                % 18031 RGTR--
+110104001 Urspelt, Knupp        01514  01514                % 18031 RGTR--
+110104002 Urspelt, Schlass      01514  01514                % 18031 RGTR--
+110304004 Hupperdange, Knupp    01517  01517                % 18031 RGTR--
+110304002 Hupperdange, Schull   01518  01518                % 18031 RGTR--
+110304003 Hupperdange, Hualewe  01519  01519                % 18031 RGTR--
+110305001 Kaesfurt              01520  01520                % 18031 RGTR--
+110303001 Heinerscheid, Bei Di  01522  01522                % 18031 RGTR--
+110303003 Heinerscheid, Geméin  01523  01523                % 18031 RGTR--
+110307002 Heinerscheid, Burega  01523  01523                % 18031 RGTR--
+110101014 Clervaux, Kalborn/Ka  01526                       % 18031 RGTR--
+*Z 18032 RGTR--                                             % 18032 RGTR--
+*L A09      110101002 110101014  01637  01709               % 18032 RGTR--
+*A cj 110101002 110101014 000042  01637  01709              % 18032 RGTR--
+*A ad 110101002 110101014 000042  01637  01709              % 18032 RGTR--
+*R 2 110101014 110101002 110101014  01637  01709            % 18032 RGTR--
+*G 050 110101002 110101014  01637  01709                    % 18032 RGTR--
+*A VE 110101002 110101014 000042  01637  01709              % 18032 RGTR--
+*I FD 110101002 110101014        0003044  01637  01709      % 18032 RGTR--
+110101002 Clervaux, Gare routi         01637                % 18032 RGTR--
+110101004 Clervaux, Maison de   01638  01638                % 18032 RGTR--
+110101009 Clervaux, Place Bene  01639  01639                % 18032 RGTR--
+110101010 Clervaux, Police      01640  01640                % 18032 RGTR--
+110101001 Clervaux, Clinique    01641  01641                % 18032 RGTR--
+110103003 Reuler, Hôh           01642  01642                % 18032 RGTR--
+110103002 Reuler, Duerf         01643  01643                % 18032 RGTR--
+110103001 Reuler, Centre Scola  01644  01644                % 18032 RGTR--
+110502006 Marnach, Bei der Kie  01648  01648                % 18032 RGTR--
+110502008 Marnach, Op der Bréc  01649  01649                % 18032 RGTR--
+110502011 Marnach, Bombatsch    01650  01650                % 18032 RGTR--
+110502009 Marnach, Pënnik       01651  01651                % 18032 RGTR--
+110502004 Marnach, Fëschberstr  01652  01652                % 18032 RGTR--
+110301001 Fischbach/Heinersche  01653  01653                % 18032 RGTR--
+110104001 Urspelt, Knupp        01656  01656                % 18032 RGTR--
+110104002 Urspelt, Schlass      01657  01657                % 18032 RGTR--
+110304004 Hupperdange, Knupp    01700  01700                % 18032 RGTR--
+110304002 Hupperdange, Schull   01700  01700                % 18032 RGTR--
+110304003 Hupperdange, Hualewe  01702  01702                % 18032 RGTR--
+110305001 Kaesfurt              01703  01703                % 18032 RGTR--
+110303001 Heinerscheid, Bei Di  01705  01705                % 18032 RGTR--
+110303003 Heinerscheid, Geméin  01706  01706                % 18032 RGTR--
+110307002 Heinerscheid, Burega  01706  01706                % 18032 RGTR--
+110101014 Clervaux, Kalborn/Ka  01709                       % 18032 RGTR--

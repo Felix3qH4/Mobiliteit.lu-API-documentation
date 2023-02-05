@@ -1,0 +1,514 @@
+*F 03 2
+*Z 19002 RGTR--                                             % 19002 RGTR--
+*L P19      110504001 110502005  00644  00645               % 19002 RGTR--
+*A cj 110504001 110502005 000042  00644  00645              % 19002 RGTR--
+*A HK 110504001 110502005 000042  00644  00645              % 19002 RGTR--
+*A ad 110504001 110502005 000042  00644  00645              % 19002 RGTR--
+*R 1 110502005 110504001 110502005  00644  00645            % 19002 RGTR--
+*G 050 110504001 110502005  00644  00645                    % 19002 RGTR--
+*A VE 110504001 110502005 000042  00644  00645              % 19002 RGTR--
+*I FD 110504001 110502005        0002400  00644  00645      % 19002 RGTR--
+110504001 Roder                        00644                % 19002 RGTR--
+110502005 Marnach, Geschäftsze  00645                       % 19002 RGTR--
+*Z 00514 RGTR--                                             % 00514 RGTR--
+*L P19      110405001 110403001  00645  00653               % 00514 RGTR--
+*A cj 110405001 110403001 000015  00645  00653              % 00514 RGTR--
+*A de 110405001 110403001 000015  00645  00653              % 00514 RGTR--
+*A GI 110405001 110403001 000015  00645  00653              % 00514 RGTR--
+*A ad 110405001 110403001 000015  00645  00653              % 00514 RGTR--
+*R 1 110403001 110405001 110403001  00645  00653            % 00514 RGTR--
+*G 050 110405001 110403001  00645  00653                    % 00514 RGTR--
+*A VE 110405001 110403001 000015  00645  00653              % 00514 RGTR--
+*I FD 110405001 110403001        0001964  00645  00653      % 00514 RGTR--
+110405001 Neidhausen, Kiirch           00645                % 00514 RGTR--
+110401001 Dorscheid, Am Duerf   00647  00647                % 00514 RGTR--
+110401002 Dorscheid, Am Poul    00648  00648                % 00514 RGTR--
+110403006 Hosingen, Bayrischt   00652  00652                % 00514 RGTR--
+110403005 Hosingen, Bei der Ki  00652  00652                % 00514 RGTR--
+110403001 Hosingen, Eesberwee   00653                       % 00514 RGTR--
+*Z 00512 RGTR--                                             % 00512 RGTR--
+*L P19      110405001 110403001  00645  00653               % 00512 RGTR--
+*A cj 110405001 110403001 000009  00645  00653              % 00512 RGTR--
+*A de 110405001 110403001 000009  00645  00653              % 00512 RGTR--
+*A GI 110405001 110403001 000009  00645  00653              % 00512 RGTR--
+*A ad 110405001 110403001 000009  00645  00653              % 00512 RGTR--
+*R 1 110403001 110405001 110403001  00645  00653            % 00512 RGTR--
+*G 050 110405001 110403001  00645  00653                    % 00512 RGTR--
+*A VE 110405001 110403001 000009  00645  00653              % 00512 RGTR--
+*I FD 110405001 110403001        0001964  00645  00653      % 00512 RGTR--
+110405001 Neidhausen, Kiirch           00645                % 00512 RGTR--
+110401001 Dorscheid, Am Duerf   00647  00647                % 00512 RGTR--
+110401002 Dorscheid, Am Poul    00648  00648                % 00512 RGTR--
+110403006 Hosingen, Bayrischt   00652  00652                % 00512 RGTR--
+110403005 Hosingen, Bei der Ki  00652  00652                % 00512 RGTR--
+110403001 Hosingen, Eesberwee   00653                       % 00512 RGTR--
+*Z 00510 RGTR--                                             % 00510 RGTR--
+*L P19      110405001 110403001  00645  00653               % 00510 RGTR--
+*A cj 110405001 110403001 000013  00645  00653              % 00510 RGTR--
+*A de 110405001 110403001 000013  00645  00653              % 00510 RGTR--
+*A GI 110405001 110403001 000013  00645  00653              % 00510 RGTR--
+*A ad 110405001 110403001 000013  00645  00653              % 00510 RGTR--
+*R 1 110403001 110405001 110403001  00645  00653            % 00510 RGTR--
+*G 050 110405001 110403001  00645  00653                    % 00510 RGTR--
+*A VE 110405001 110403001 000013  00645  00653              % 00510 RGTR--
+*I FD 110405001 110403001        0001964  00645  00653      % 00510 RGTR--
+110405001 Neidhausen, Kiirch           00645                % 00510 RGTR--
+110401001 Dorscheid, Am Duerf   00647  00647                % 00510 RGTR--
+110401002 Dorscheid, Am Poul    00648  00648                % 00510 RGTR--
+110403006 Hosingen, Bayrischt   00652  00652                % 00510 RGTR--
+110403005 Hosingen, Bei der Ki  00652  00652                % 00510 RGTR--
+110403001 Hosingen, Eesberwee   00653                       % 00510 RGTR--
+*Z 00508 RGTR--                                             % 00508 RGTR--
+*L P19      110405001 110403001  00645  00653               % 00508 RGTR--
+*A cj 110405001 110403001 000007  00645  00653              % 00508 RGTR--
+*A de 110405001 110403001 000007  00645  00653              % 00508 RGTR--
+*A GI 110405001 110403001 000007  00645  00653              % 00508 RGTR--
+*A ad 110405001 110403001 000007  00645  00653              % 00508 RGTR--
+*R 1 110403001 110405001 110403001  00645  00653            % 00508 RGTR--
+*G 050 110405001 110403001  00645  00653                    % 00508 RGTR--
+*A VE 110405001 110403001 000007  00645  00653              % 00508 RGTR--
+*I FD 110405001 110403001        0001964  00645  00653      % 00508 RGTR--
+110405001 Neidhausen, Kiirch           00645                % 00508 RGTR--
+110401001 Dorscheid, Am Duerf   00647  00647                % 00508 RGTR--
+110401002 Dorscheid, Am Poul    00648  00648                % 00508 RGTR--
+110403006 Hosingen, Bayrischt   00652  00652                % 00508 RGTR--
+110403005 Hosingen, Bei der Ki  00652  00652                % 00508 RGTR--
+110403001 Hosingen, Eesberwee   00653                       % 00508 RGTR--
+*Z 00516 RGTR--                                             % 00516 RGTR--
+*L P19      110405001 110403001  00645  00653               % 00516 RGTR--
+*A cj 110405001 110403001 000011  00645  00653              % 00516 RGTR--
+*A de 110405001 110403001 000011  00645  00653              % 00516 RGTR--
+*A GI 110405001 110403001 000011  00645  00653              % 00516 RGTR--
+*A ad 110405001 110403001 000011  00645  00653              % 00516 RGTR--
+*R 1 110403001 110405001 110403001  00645  00653            % 00516 RGTR--
+*G 050 110405001 110403001  00645  00653                    % 00516 RGTR--
+*A VE 110405001 110403001 000011  00645  00653              % 00516 RGTR--
+*I FD 110405001 110403001        0001964  00645  00653      % 00516 RGTR--
+110405001 Neidhausen, Kiirch           00645                % 00516 RGTR--
+110401001 Dorscheid, Am Duerf   00647  00647                % 00516 RGTR--
+110401002 Dorscheid, Am Poul    00648  00648                % 00516 RGTR--
+110403006 Hosingen, Bayrischt   00652  00652                % 00516 RGTR--
+110403005 Hosingen, Bei der Ki  00652  00652                % 00516 RGTR--
+110403001 Hosingen, Eesberwee   00653                       % 00516 RGTR--
+*Z 00019 RGTR--                                             % 00019 RGTR--
+*L P19      120903023 110407002  01615  01715               % 00019 RGTR--
+*A cj 120903023 110407002 000009  01615  01715              % 00019 RGTR--
+*A GJ 120903023 110407002 000009  01615  01715              % 00019 RGTR--
+*A ad 120903023 110407002 000009  01615  01715              % 00019 RGTR--
+*R 1 110407002 120903023 110407002  01615  01715            % 00019 RGTR--
+*G 050 120903023 110407002  01615  01715                    % 00019 RGTR--
+*A VE 120903023 110407002 000009  01615  01715              % 00019 RGTR--
+*I FD 120903023 110407002        0001895  01615  01715      % 00019 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 00019 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 00019 RGTR--
+120903041 Wiltz, Wéinebeerig    01619  01619                % 00019 RGTR--
+120903040 Weidingen, Wegdicher  01620  01620                % 00019 RGTR--
+120902001 Weidingen, Erpeldang  01621  01621                % 00019 RGTR--
+120903007 Weidingen, Erpeldang  01621  01621                % 00019 RGTR--
+120301002 Erpeldange/Wiltz      01622  01622                % 00019 RGTR--
+110501003 Drauffelt, Op der Lé  01629  01629                % 00019 RGTR--
+110501002 Drauffelt, Gare rout  01631  01631                % 00019 RGTR--
+110503002 Munshausen, bei der   01635  01635                % 00019 RGTR--
+110503001 Munshausen, Iewescht  01636  01636                % 00019 RGTR--
+110502007 Marnach, Munzerstroo  01638  01638                % 00019 RGTR--
+110502006 Marnach, Bei der Kie  01639  01639                % 00019 RGTR--
+110502008 Marnach, Op der Bréc  01640  01640                % 00019 RGTR--
+110504001 Roder                 01642  01642                % 00019 RGTR--
+110502005 Marnach, Geschäftsze  01644  01644                % 00019 RGTR--
+110502003 Marnach, Dosberstroo  01645  01645                % 00019 RGTR--
+110502010 Marnach, Schwaarzenh  01645  01645                % 00019 RGTR--
+110502002 Marnach, Beim Sender  01646  01646                % 00019 RGTR--
+110401004 Dorscheid, Lehmkaul   01646  01646                % 00019 RGTR--
+110405001 Neidhausen, Kiirch    01649  01649                % 00019 RGTR--
+110401001 Dorscheid, Am Duerf   01652  01652                % 00019 RGTR--
+110401002 Dorscheid, Am Poul    01653  01653                % 00019 RGTR--
+110403006 Hosingen, Bayrischt   01657  01657                % 00019 RGTR--
+110403005 Hosingen, Bei der Ki  01657  01657                % 00019 RGTR--
+110403001 Hosingen, Eesberwee   01658  01658                % 00019 RGTR--
+110406002 Obereisenbach, Bonge  01703  01703                % 00019 RGTR--
+110406001 Obereisenbach, Bei d  01705  01705                % 00019 RGTR--
+110408001 Untereisenbach, Bréc  01706  01706                % 00019 RGTR--
+110406001 Obereisenbach, Bei d  01707  01707                % 00019 RGTR--
+110404001 Kounenhaff            01710  01710                % 00019 RGTR--
+110407003 Rodershausen, Millew  01713  01713                % 00019 RGTR--
+110407001 Rodershausen, Kiirch  01714  01714                % 00019 RGTR--
+110407002 Rodershausen, Um Wei  01715                       % 00019 RGTR--
+*Z 00017 RGTR--                                             % 00017 RGTR--
+*L P19      120903023 110407002  01615  01715               % 00017 RGTR--
+*A cj 120903023 110407002 000007  01615  01715              % 00017 RGTR--
+*A GJ 120903023 110407002 000007  01615  01715              % 00017 RGTR--
+*A ad 120903023 110407002 000007  01615  01715              % 00017 RGTR--
+*R 1 110407002 120903023 110407002  01615  01715            % 00017 RGTR--
+*G 050 120903023 110407002  01615  01715                    % 00017 RGTR--
+*A VE 120903023 110407002 000007  01615  01715              % 00017 RGTR--
+*I FD 120903023 110407002        0001895  01615  01715      % 00017 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 00017 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 00017 RGTR--
+120903041 Wiltz, Wéinebeerig    01619  01619                % 00017 RGTR--
+120903040 Weidingen, Wegdicher  01620  01620                % 00017 RGTR--
+120902001 Weidingen, Erpeldang  01621  01621                % 00017 RGTR--
+120903007 Weidingen, Erpeldang  01621  01621                % 00017 RGTR--
+120301002 Erpeldange/Wiltz      01622  01622                % 00017 RGTR--
+110501003 Drauffelt, Op der Lé  01629  01629                % 00017 RGTR--
+110501002 Drauffelt, Gare rout  01631  01631                % 00017 RGTR--
+110503002 Munshausen, bei der   01635  01635                % 00017 RGTR--
+110503001 Munshausen, Iewescht  01636  01636                % 00017 RGTR--
+110502007 Marnach, Munzerstroo  01638  01638                % 00017 RGTR--
+110502006 Marnach, Bei der Kie  01639  01639                % 00017 RGTR--
+110502008 Marnach, Op der Bréc  01640  01640                % 00017 RGTR--
+110504001 Roder                 01642  01642                % 00017 RGTR--
+110502005 Marnach, Geschäftsze  01644  01644                % 00017 RGTR--
+110502003 Marnach, Dosberstroo  01645  01645                % 00017 RGTR--
+110502010 Marnach, Schwaarzenh  01645  01645                % 00017 RGTR--
+110502002 Marnach, Beim Sender  01646  01646                % 00017 RGTR--
+110401004 Dorscheid, Lehmkaul   01646  01646                % 00017 RGTR--
+110405001 Neidhausen, Kiirch    01649  01649                % 00017 RGTR--
+110401001 Dorscheid, Am Duerf   01652  01652                % 00017 RGTR--
+110401002 Dorscheid, Am Poul    01653  01653                % 00017 RGTR--
+110403006 Hosingen, Bayrischt   01657  01657                % 00017 RGTR--
+110403005 Hosingen, Bei der Ki  01657  01657                % 00017 RGTR--
+110403001 Hosingen, Eesberwee   01658  01658                % 00017 RGTR--
+110406002 Obereisenbach, Bonge  01703  01703                % 00017 RGTR--
+110406001 Obereisenbach, Bei d  01705  01705                % 00017 RGTR--
+110408001 Untereisenbach, Bréc  01706  01706                % 00017 RGTR--
+110406001 Obereisenbach, Bei d  01707  01707                % 00017 RGTR--
+110404001 Kounenhaff            01710  01710                % 00017 RGTR--
+110407003 Rodershausen, Millew  01713  01713                % 00017 RGTR--
+110407001 Rodershausen, Kiirch  01714  01714                % 00017 RGTR--
+110407002 Rodershausen, Um Wei  01715                       % 00017 RGTR--
+*Z 00021 RGTR--                                             % 00021 RGTR--
+*L P19      120903023 110407002  01615  01715               % 00021 RGTR--
+*A cj 120903023 110407002 000011  01615  01715              % 00021 RGTR--
+*A GJ 120903023 110407002 000011  01615  01715              % 00021 RGTR--
+*A ad 120903023 110407002 000011  01615  01715              % 00021 RGTR--
+*R 1 110407002 120903023 110407002  01615  01715            % 00021 RGTR--
+*G 050 120903023 110407002  01615  01715                    % 00021 RGTR--
+*A VE 120903023 110407002 000011  01615  01715              % 00021 RGTR--
+*I FD 120903023 110407002        0001895  01615  01715      % 00021 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 00021 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 00021 RGTR--
+120903041 Wiltz, Wéinebeerig    01619  01619                % 00021 RGTR--
+120903040 Weidingen, Wegdicher  01620  01620                % 00021 RGTR--
+120902001 Weidingen, Erpeldang  01621  01621                % 00021 RGTR--
+120903007 Weidingen, Erpeldang  01621  01621                % 00021 RGTR--
+120301002 Erpeldange/Wiltz      01622  01622                % 00021 RGTR--
+110501003 Drauffelt, Op der Lé  01629  01629                % 00021 RGTR--
+110501002 Drauffelt, Gare rout  01631  01631                % 00021 RGTR--
+110503002 Munshausen, bei der   01635  01635                % 00021 RGTR--
+110503001 Munshausen, Iewescht  01636  01636                % 00021 RGTR--
+110502007 Marnach, Munzerstroo  01638  01638                % 00021 RGTR--
+110502006 Marnach, Bei der Kie  01639  01639                % 00021 RGTR--
+110502008 Marnach, Op der Bréc  01640  01640                % 00021 RGTR--
+110504001 Roder                 01642  01642                % 00021 RGTR--
+110502005 Marnach, Geschäftsze  01644  01644                % 00021 RGTR--
+110502003 Marnach, Dosberstroo  01645  01645                % 00021 RGTR--
+110502010 Marnach, Schwaarzenh  01645  01645                % 00021 RGTR--
+110502002 Marnach, Beim Sender  01646  01646                % 00021 RGTR--
+110401004 Dorscheid, Lehmkaul   01646  01646                % 00021 RGTR--
+110405001 Neidhausen, Kiirch    01649  01649                % 00021 RGTR--
+110401001 Dorscheid, Am Duerf   01652  01652                % 00021 RGTR--
+110401002 Dorscheid, Am Poul    01653  01653                % 00021 RGTR--
+110403006 Hosingen, Bayrischt   01657  01657                % 00021 RGTR--
+110403005 Hosingen, Bei der Ki  01657  01657                % 00021 RGTR--
+110403001 Hosingen, Eesberwee   01658  01658                % 00021 RGTR--
+110406002 Obereisenbach, Bonge  01703  01703                % 00021 RGTR--
+110406001 Obereisenbach, Bei d  01705  01705                % 00021 RGTR--
+110408001 Untereisenbach, Bréc  01706  01706                % 00021 RGTR--
+110406001 Obereisenbach, Bei d  01707  01707                % 00021 RGTR--
+110404001 Kounenhaff            01710  01710                % 00021 RGTR--
+110407003 Rodershausen, Millew  01713  01713                % 00021 RGTR--
+110407001 Rodershausen, Kiirch  01714  01714                % 00021 RGTR--
+110407002 Rodershausen, Um Wei  01715                       % 00021 RGTR--
+*Z 19003 RGTR--                                             % 19003 RGTR--
+*L P19      120903023 110407002  01207  01304               % 19003 RGTR--
+*A cj 120903023 110407002 000046  01207  01304              % 19003 RGTR--
+*A ad 120903023 110407002 000046  01207  01304              % 19003 RGTR--
+*R 1 110407002 120903023 110407002  01207  01304            % 19003 RGTR--
+*G 050 120903023 110407002  01207  01304                    % 19003 RGTR--
+*A VE 120903023 110407002 000046  01207  01304              % 19003 RGTR--
+*I FD 120903023 110407002        0002654  01207  01304      % 19003 RGTR--
+120903023 Wiltz, Lycée du Nord         01207                % 19003 RGTR--
+120903021 Wiltz, Lann           01209  01209                % 19003 RGTR--
+120903041 Wiltz, Wéinebeerig    01210  01210                % 19003 RGTR--
+120903040 Weidingen, Wegdicher  01211  01211                % 19003 RGTR--
+120902001 Weidingen, Erpeldang  01212  01212                % 19003 RGTR--
+120903007 Weidingen, Erpeldang  01212  01212                % 19003 RGTR--
+120301002 Erpeldange/Wiltz      01213  01213                % 19003 RGTR--
+110501003 Drauffelt, Op der Lé  01220  01220                % 19003 RGTR--
+110501002 Drauffelt, Gare rout  01221  01221                % 19003 RGTR--
+110503002 Munshausen, bei der   01225  01225                % 19003 RGTR--
+110503001 Munshausen, Iewescht  01226  01226                % 19003 RGTR--
+110502007 Marnach, Munzerstroo  01228  01228                % 19003 RGTR--
+110502006 Marnach, Bei der Kie  01229  01229                % 19003 RGTR--
+110502008 Marnach, Op der Bréc  01230  01230                % 19003 RGTR--
+110504001 Roder                 01232  01232                % 19003 RGTR--
+110502005 Marnach, Geschäftsze  01234  01234                % 19003 RGTR--
+110502003 Marnach, Dosberstroo  01234  01234                % 19003 RGTR--
+110502010 Marnach, Schwaarzenh  01235  01235                % 19003 RGTR--
+110502002 Marnach, Beim Sender  01235  01235                % 19003 RGTR--
+110401004 Dorscheid, Lehmkaul   01236  01236                % 19003 RGTR--
+110405001 Neidhausen, Kiirch    01239  01239                % 19003 RGTR--
+110401001 Dorscheid, Am Duerf   01242  01242                % 19003 RGTR--
+110401002 Dorscheid, Am Poul    01243  01243                % 19003 RGTR--
+110403006 Hosingen, Bayrischt   01246  01246                % 19003 RGTR--
+110403005 Hosingen, Bei der Ki  01247  01247                % 19003 RGTR--
+110403001 Hosingen, Eesberwee   01247  01247                % 19003 RGTR--
+110406002 Obereisenbach, Bonge  01252  01252                % 19003 RGTR--
+110406001 Obereisenbach, Bei d  01254  01254                % 19003 RGTR--
+110408001 Untereisenbach, Bréc  01255  01255                % 19003 RGTR--
+110406001 Obereisenbach, Bei d  01256  01256                % 19003 RGTR--
+110404001 Kounenhaff            01300  01300                % 19003 RGTR--
+110407003 Rodershausen, Millew  01302  01302                % 19003 RGTR--
+110407001 Rodershausen, Kiirch  01303  01303                % 19003 RGTR--
+110407002 Rodershausen, Um Wei  01304                       % 19003 RGTR--
+*Z 19004 RGTR--                                             % 19004 RGTR--
+*L P19      110402001 110403001  00525  00544               % 19004 RGTR--
+*A cj 110402001 110403001 000036  00525  00544              % 19004 RGTR--
+*A ad 110402001 110403001 000036  00525  00544              % 19004 RGTR--
+*R 2 110403001 110402001 110403001  00525  00544            % 19004 RGTR--
+*G 050 110402001 110403001  00525  00544                    % 19004 RGTR--
+*A VE 110402001 110403001 000036  00525  00544              % 19004 RGTR--
+*I FD 110402001 110403001        0002428  00525  00544      % 19004 RGTR--
+110402001 Dosberbréck                  00525                % 19004 RGTR--
+110407002 Rodershausen, Um Wei  00527  00527                % 19004 RGTR--
+110407001 Rodershausen, Kiirch  00528  00528                % 19004 RGTR--
+110407003 Rodershausen, Millew  00528  00528                % 19004 RGTR--
+110404001 Kounenhaff            00531  00531                % 19004 RGTR--
+110406001 Obereisenbach, Bei d  00534  00534                % 19004 RGTR--
+110408001 Untereisenbach, Bréc  00535  00535                % 19004 RGTR--
+110406001 Obereisenbach, Bei d  00536  00536                % 19004 RGTR--
+110406002 Obereisenbach, Bonge  00538  00538                % 19004 RGTR--
+110403001 Hosingen, Eesberwee   00544                       % 19004 RGTR--
+*Z 00506 RGTR--                                             % 00506 RGTR--
+*L P19      110402001 120903023  00634  00730               % 00506 RGTR--
+*A cj 110402001 120903023 000015  00634  00730              % 00506 RGTR--
+*A de 110402001 120903023 000015  00634  00730              % 00506 RGTR--
+*A ad 110402001 120903023 000015  00634  00730              % 00506 RGTR--
+*R 2 120903023 110402001 120903023  00634  00730            % 00506 RGTR--
+*G 050 110402001 120903023  00634  00730                    % 00506 RGTR--
+*A VE 110402001 120903023 000015  00634  00730              % 00506 RGTR--
+*I FD 110402001 120903023        0002262  00634  00730      % 00506 RGTR--
+110402001 Dosberbréck                  00634                % 00506 RGTR--
+110407002 Rodershausen, Um Wei  00636  00636                % 00506 RGTR--
+110407001 Rodershausen, Kiirch  00637  00637                % 00506 RGTR--
+110407003 Rodershausen, Millew  00637  00637                % 00506 RGTR--
+110406001 Obereisenbach, Bei d  00644  00644                % 00506 RGTR--
+110408001 Untereisenbach, Bréc  00645  00645                % 00506 RGTR--
+110406001 Obereisenbach, Bei d  00646  00646                % 00506 RGTR--
+110406002 Obereisenbach, Bonge  00648  00648                % 00506 RGTR--
+110403001 Hosingen, Eesberwee   00654  00654                % 00506 RGTR--
+110403002 Hosingen, Ewescht Du  00655  00655                % 00506 RGTR--
+110403006 Hosingen, Bayrischt   00655  00655                % 00506 RGTR--
+110401002 Dorscheid, Am Poul    00657  00657                % 00506 RGTR--
+110401004 Dorscheid, Lehmkaul   00658  00658                % 00506 RGTR--
+110502002 Marnach, Beim Sender  00659  00659                % 00506 RGTR--
+110502010 Marnach, Schwaarzenh  00700  00700                % 00506 RGTR--
+110502003 Marnach, Dosberstroo  00700  00700                % 00506 RGTR--
+110502005 Marnach, Geschäftsze  00701  00701                % 00506 RGTR--
+110504001 Roder                 00703  00703                % 00506 RGTR--
+110502008 Marnach, Op der Bréc  00705  00705                % 00506 RGTR--
+110502006 Marnach, Bei der Kie  00706  00706                % 00506 RGTR--
+110502007 Marnach, Munzerstroo  00706  00706                % 00506 RGTR--
+110503001 Munshausen, Iewescht  00709  00709                % 00506 RGTR--
+110503002 Munshausen, bei der   00710  00710                % 00506 RGTR--
+110501002 Drauffelt, Gare rout  00714  00714                % 00506 RGTR--
+110501003 Drauffelt, Op der Lé  00715  00715                % 00506 RGTR--
+120301002 Erpeldange/Wiltz      00723  00723                % 00506 RGTR--
+120903007 Weidingen, Erpeldang  00724  00724                % 00506 RGTR--
+120902001 Weidingen, Erpeldang  00725  00725                % 00506 RGTR--
+120903040 Weidingen, Wegdicher  00725  00725                % 00506 RGTR--
+120903041 Wiltz, Wéinebeerig    00726  00726                % 00506 RGTR--
+120903021 Wiltz, Lann           00727  00727                % 00506 RGTR--
+120903023 Wiltz, Lycée du Nord  00730                       % 00506 RGTR--
+*Z 00505 RGTR--                                             % 00505 RGTR--
+*L P19      110402001 120903023  00634  00730               % 00505 RGTR--
+*A cj 110402001 120903023 000009  00634  00730              % 00505 RGTR--
+*A de 110402001 120903023 000009  00634  00730              % 00505 RGTR--
+*A ad 110402001 120903023 000009  00634  00730              % 00505 RGTR--
+*R 2 120903023 110402001 120903023  00634  00730            % 00505 RGTR--
+*G 050 110402001 120903023  00634  00730                    % 00505 RGTR--
+*A VE 110402001 120903023 000009  00634  00730              % 00505 RGTR--
+*I FD 110402001 120903023        0002262  00634  00730      % 00505 RGTR--
+110402001 Dosberbréck                  00634                % 00505 RGTR--
+110407002 Rodershausen, Um Wei  00636  00636                % 00505 RGTR--
+110407001 Rodershausen, Kiirch  00637  00637                % 00505 RGTR--
+110407003 Rodershausen, Millew  00637  00637                % 00505 RGTR--
+110406001 Obereisenbach, Bei d  00644  00644                % 00505 RGTR--
+110408001 Untereisenbach, Bréc  00645  00645                % 00505 RGTR--
+110406001 Obereisenbach, Bei d  00646  00646                % 00505 RGTR--
+110406002 Obereisenbach, Bonge  00648  00648                % 00505 RGTR--
+110403001 Hosingen, Eesberwee   00654  00654                % 00505 RGTR--
+110403002 Hosingen, Ewescht Du  00655  00655                % 00505 RGTR--
+110403006 Hosingen, Bayrischt   00655  00655                % 00505 RGTR--
+110401002 Dorscheid, Am Poul    00657  00657                % 00505 RGTR--
+110401004 Dorscheid, Lehmkaul   00658  00658                % 00505 RGTR--
+110502002 Marnach, Beim Sender  00659  00659                % 00505 RGTR--
+110502010 Marnach, Schwaarzenh  00700  00700                % 00505 RGTR--
+110502003 Marnach, Dosberstroo  00700  00700                % 00505 RGTR--
+110502005 Marnach, Geschäftsze  00701  00701                % 00505 RGTR--
+110504001 Roder                 00703  00703                % 00505 RGTR--
+110502008 Marnach, Op der Bréc  00705  00705                % 00505 RGTR--
+110502006 Marnach, Bei der Kie  00706  00706                % 00505 RGTR--
+110502007 Marnach, Munzerstroo  00706  00706                % 00505 RGTR--
+110503001 Munshausen, Iewescht  00709  00709                % 00505 RGTR--
+110503002 Munshausen, bei der   00710  00710                % 00505 RGTR--
+110501002 Drauffelt, Gare rout  00714  00714                % 00505 RGTR--
+110501003 Drauffelt, Op der Lé  00715  00715                % 00505 RGTR--
+120301002 Erpeldange/Wiltz      00723  00723                % 00505 RGTR--
+120903007 Weidingen, Erpeldang  00724  00724                % 00505 RGTR--
+120902001 Weidingen, Erpeldang  00725  00725                % 00505 RGTR--
+120903040 Weidingen, Wegdicher  00725  00725                % 00505 RGTR--
+120903041 Wiltz, Wéinebeerig    00726  00726                % 00505 RGTR--
+120903021 Wiltz, Lann           00727  00727                % 00505 RGTR--
+120903023 Wiltz, Lycée du Nord  00730                       % 00505 RGTR--
+*Z 00504 RGTR--                                             % 00504 RGTR--
+*L P19      110402001 120903023  00634  00730               % 00504 RGTR--
+*A cj 110402001 120903023 000013  00634  00730              % 00504 RGTR--
+*A de 110402001 120903023 000013  00634  00730              % 00504 RGTR--
+*A ad 110402001 120903023 000013  00634  00730              % 00504 RGTR--
+*R 2 120903023 110402001 120903023  00634  00730            % 00504 RGTR--
+*G 050 110402001 120903023  00634  00730                    % 00504 RGTR--
+*A VE 110402001 120903023 000013  00634  00730              % 00504 RGTR--
+*I FD 110402001 120903023        0002262  00634  00730      % 00504 RGTR--
+110402001 Dosberbréck                  00634                % 00504 RGTR--
+110407002 Rodershausen, Um Wei  00636  00636                % 00504 RGTR--
+110407001 Rodershausen, Kiirch  00637  00637                % 00504 RGTR--
+110407003 Rodershausen, Millew  00637  00637                % 00504 RGTR--
+110406001 Obereisenbach, Bei d  00644  00644                % 00504 RGTR--
+110408001 Untereisenbach, Bréc  00645  00645                % 00504 RGTR--
+110406001 Obereisenbach, Bei d  00646  00646                % 00504 RGTR--
+110406002 Obereisenbach, Bonge  00648  00648                % 00504 RGTR--
+110403001 Hosingen, Eesberwee   00654  00654                % 00504 RGTR--
+110403002 Hosingen, Ewescht Du  00655  00655                % 00504 RGTR--
+110403006 Hosingen, Bayrischt   00655  00655                % 00504 RGTR--
+110401002 Dorscheid, Am Poul    00657  00657                % 00504 RGTR--
+110401004 Dorscheid, Lehmkaul   00658  00658                % 00504 RGTR--
+110502002 Marnach, Beim Sender  00659  00659                % 00504 RGTR--
+110502010 Marnach, Schwaarzenh  00700  00700                % 00504 RGTR--
+110502003 Marnach, Dosberstroo  00700  00700                % 00504 RGTR--
+110502005 Marnach, Geschäftsze  00701  00701                % 00504 RGTR--
+110504001 Roder                 00703  00703                % 00504 RGTR--
+110502008 Marnach, Op der Bréc  00705  00705                % 00504 RGTR--
+110502006 Marnach, Bei der Kie  00706  00706                % 00504 RGTR--
+110502007 Marnach, Munzerstroo  00706  00706                % 00504 RGTR--
+110503001 Munshausen, Iewescht  00709  00709                % 00504 RGTR--
+110503002 Munshausen, bei der   00710  00710                % 00504 RGTR--
+110501002 Drauffelt, Gare rout  00714  00714                % 00504 RGTR--
+110501003 Drauffelt, Op der Lé  00715  00715                % 00504 RGTR--
+120301002 Erpeldange/Wiltz      00723  00723                % 00504 RGTR--
+120903007 Weidingen, Erpeldang  00724  00724                % 00504 RGTR--
+120902001 Weidingen, Erpeldang  00725  00725                % 00504 RGTR--
+120903040 Weidingen, Wegdicher  00725  00725                % 00504 RGTR--
+120903041 Wiltz, Wéinebeerig    00726  00726                % 00504 RGTR--
+120903021 Wiltz, Lann           00727  00727                % 00504 RGTR--
+120903023 Wiltz, Lycée du Nord  00730                       % 00504 RGTR--
+*Z 00503 RGTR--                                             % 00503 RGTR--
+*L P19      110402001 120903023  00634  00730               % 00503 RGTR--
+*A cj 110402001 120903023 000007  00634  00730              % 00503 RGTR--
+*A de 110402001 120903023 000007  00634  00730              % 00503 RGTR--
+*A ad 110402001 120903023 000007  00634  00730              % 00503 RGTR--
+*R 2 120903023 110402001 120903023  00634  00730            % 00503 RGTR--
+*G 050 110402001 120903023  00634  00730                    % 00503 RGTR--
+*A VE 110402001 120903023 000007  00634  00730              % 00503 RGTR--
+*I FD 110402001 120903023        0002262  00634  00730      % 00503 RGTR--
+110402001 Dosberbréck                  00634                % 00503 RGTR--
+110407002 Rodershausen, Um Wei  00636  00636                % 00503 RGTR--
+110407001 Rodershausen, Kiirch  00637  00637                % 00503 RGTR--
+110407003 Rodershausen, Millew  00637  00637                % 00503 RGTR--
+110406001 Obereisenbach, Bei d  00644  00644                % 00503 RGTR--
+110408001 Untereisenbach, Bréc  00645  00645                % 00503 RGTR--
+110406001 Obereisenbach, Bei d  00646  00646                % 00503 RGTR--
+110406002 Obereisenbach, Bonge  00648  00648                % 00503 RGTR--
+110403001 Hosingen, Eesberwee   00654  00654                % 00503 RGTR--
+110403002 Hosingen, Ewescht Du  00655  00655                % 00503 RGTR--
+110403006 Hosingen, Bayrischt   00655  00655                % 00503 RGTR--
+110401002 Dorscheid, Am Poul    00657  00657                % 00503 RGTR--
+110401004 Dorscheid, Lehmkaul   00658  00658                % 00503 RGTR--
+110502002 Marnach, Beim Sender  00659  00659                % 00503 RGTR--
+110502010 Marnach, Schwaarzenh  00700  00700                % 00503 RGTR--
+110502003 Marnach, Dosberstroo  00700  00700                % 00503 RGTR--
+110502005 Marnach, Geschäftsze  00701  00701                % 00503 RGTR--
+110504001 Roder                 00703  00703                % 00503 RGTR--
+110502008 Marnach, Op der Bréc  00705  00705                % 00503 RGTR--
+110502006 Marnach, Bei der Kie  00706  00706                % 00503 RGTR--
+110502007 Marnach, Munzerstroo  00706  00706                % 00503 RGTR--
+110503001 Munshausen, Iewescht  00709  00709                % 00503 RGTR--
+110503002 Munshausen, bei der   00710  00710                % 00503 RGTR--
+110501002 Drauffelt, Gare rout  00714  00714                % 00503 RGTR--
+110501003 Drauffelt, Op der Lé  00715  00715                % 00503 RGTR--
+120301002 Erpeldange/Wiltz      00723  00723                % 00503 RGTR--
+120903007 Weidingen, Erpeldang  00724  00724                % 00503 RGTR--
+120902001 Weidingen, Erpeldang  00725  00725                % 00503 RGTR--
+120903040 Weidingen, Wegdicher  00725  00725                % 00503 RGTR--
+120903041 Wiltz, Wéinebeerig    00726  00726                % 00503 RGTR--
+120903021 Wiltz, Lann           00727  00727                % 00503 RGTR--
+120903023 Wiltz, Lycée du Nord  00730                       % 00503 RGTR--
+*Z 00507 RGTR--                                             % 00507 RGTR--
+*L P19      110402001 120903023  00634  00730               % 00507 RGTR--
+*A cj 110402001 120903023 000011  00634  00730              % 00507 RGTR--
+*A de 110402001 120903023 000011  00634  00730              % 00507 RGTR--
+*A ad 110402001 120903023 000011  00634  00730              % 00507 RGTR--
+*R 2 120903023 110402001 120903023  00634  00730            % 00507 RGTR--
+*G 050 110402001 120903023  00634  00730                    % 00507 RGTR--
+*A VE 110402001 120903023 000011  00634  00730              % 00507 RGTR--
+*I FD 110402001 120903023        0002262  00634  00730      % 00507 RGTR--
+110402001 Dosberbréck                  00634                % 00507 RGTR--
+110407002 Rodershausen, Um Wei  00636  00636                % 00507 RGTR--
+110407001 Rodershausen, Kiirch  00637  00637                % 00507 RGTR--
+110407003 Rodershausen, Millew  00637  00637                % 00507 RGTR--
+110406001 Obereisenbach, Bei d  00644  00644                % 00507 RGTR--
+110408001 Untereisenbach, Bréc  00645  00645                % 00507 RGTR--
+110406001 Obereisenbach, Bei d  00646  00646                % 00507 RGTR--
+110406002 Obereisenbach, Bonge  00648  00648                % 00507 RGTR--
+110403001 Hosingen, Eesberwee   00654  00654                % 00507 RGTR--
+110403002 Hosingen, Ewescht Du  00655  00655                % 00507 RGTR--
+110403006 Hosingen, Bayrischt   00655  00655                % 00507 RGTR--
+110401002 Dorscheid, Am Poul    00657  00657                % 00507 RGTR--
+110401004 Dorscheid, Lehmkaul   00658  00658                % 00507 RGTR--
+110502002 Marnach, Beim Sender  00659  00659                % 00507 RGTR--
+110502010 Marnach, Schwaarzenh  00700  00700                % 00507 RGTR--
+110502003 Marnach, Dosberstroo  00700  00700                % 00507 RGTR--
+110502005 Marnach, Geschäftsze  00701  00701                % 00507 RGTR--
+110504001 Roder                 00703  00703                % 00507 RGTR--
+110502008 Marnach, Op der Bréc  00705  00705                % 00507 RGTR--
+110502006 Marnach, Bei der Kie  00706  00706                % 00507 RGTR--
+110502007 Marnach, Munzerstroo  00706  00706                % 00507 RGTR--
+110503001 Munshausen, Iewescht  00709  00709                % 00507 RGTR--
+110503002 Munshausen, bei der   00710  00710                % 00507 RGTR--
+110501002 Drauffelt, Gare rout  00714  00714                % 00507 RGTR--
+110501003 Drauffelt, Op der Lé  00715  00715                % 00507 RGTR--
+120301002 Erpeldange/Wiltz      00723  00723                % 00507 RGTR--
+120903007 Weidingen, Erpeldang  00724  00724                % 00507 RGTR--
+120902001 Weidingen, Erpeldang  00725  00725                % 00507 RGTR--
+120903040 Weidingen, Wegdicher  00725  00725                % 00507 RGTR--
+120903041 Wiltz, Wéinebeerig    00726  00726                % 00507 RGTR--
+120903021 Wiltz, Lann           00727  00727                % 00507 RGTR--
+120903023 Wiltz, Lycée du Nord  00730                       % 00507 RGTR--
+*Z 19005 RGTR--                                             % 19005 RGTR--
+*L P19      110502005 110504001  01506  01508               % 19005 RGTR--
+*A cj 110502005 110504001 000042  01506  01508              % 19005 RGTR--
+*A ad 110502005 110504001 000042  01506  01508              % 19005 RGTR--
+*R 2 110504001 110502005 110504001  01506  01508            % 19005 RGTR--
+*G 050 110502005 110504001  01506  01508                    % 19005 RGTR--
+*A VE 110502005 110504001 000042  01506  01508              % 19005 RGTR--
+*I FD 110502005 110504001        0002905  01506  01508      % 19005 RGTR--
+110502005 Marnach, Geschäftsze         01506                % 19005 RGTR--
+110504001 Roder                 01508                       % 19005 RGTR--
+*Z 19006 RGTR--                                             % 19006 RGTR--
+*L P19      110402001 110403001  00525  00544               % 19006 RGTR--
+*A cj 110402001 110403001 000038  00525  00544              % 19006 RGTR--
+*A ad 110402001 110403001 000038  00525  00544              % 19006 RGTR--
+*R 2 110403001 110402001 110403001  00525  00544            % 19006 RGTR--
+*G 050 110402001 110403001  00525  00544                    % 19006 RGTR--
+*A VE 110402001 110403001 000038  00525  00544              % 19006 RGTR--
+*I FD 110402001 110403001        0002428  00525  00544      % 19006 RGTR--
+110402001 Dosberbréck                  00525                % 19006 RGTR--
+110407002 Rodershausen, Um Wei  00527  00527                % 19006 RGTR--
+110407001 Rodershausen, Kiirch  00528  00528                % 19006 RGTR--
+110407003 Rodershausen, Millew  00528  00528                % 19006 RGTR--
+110404001 Kounenhaff            00531  00531                % 19006 RGTR--
+110406001 Obereisenbach, Bei d  00534  00534                % 19006 RGTR--
+110408001 Untereisenbach, Bréc  00535  00535                % 19006 RGTR--
+110406001 Obereisenbach, Bei d  00536  00536                % 19006 RGTR--
+110406002 Obereisenbach, Bonge  00538  00538                % 19006 RGTR--
+110403001 Hosingen, Eesberwee   00544                       % 19006 RGTR--

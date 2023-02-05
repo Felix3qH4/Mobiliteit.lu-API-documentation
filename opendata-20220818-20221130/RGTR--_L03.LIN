@@ -1,0 +1,137 @@
+*F 03 2
+*Z 18805 RGTR--                                             % 18805 RGTR--
+*L L03      220502003 500000065  00706  00736               % 18805 RGTR--
+*A cj 220502003 500000065 000338  00706  00736              % 18805 RGTR--
+*A ad 220502003 500000065 000338  00706  00736              % 18805 RGTR--
+*R 1 500000065 220502003 500000065  00706  00736            % 18805 RGTR--
+*G 050 220502003 500000065  00706  00736                    % 18805 RGTR--
+*A VE 220502003 500000065 000338  00706  00736              % 18805 RGTR--
+*I FD 220502003 500000065        0003374  00706  00736      % 18805 RGTR--
+220502003 Frisange, Hau                00706                % 18805 RGTR--
+220502004 Frisange, Op der Krä  00707  00707                % 18805 RGTR--
+220502002 Frisange, Ennescht D  00708  00708                % 18805 RGTR--
+210302002 Filsdorf, Wäschbour   00713  00713                % 18805 RGTR--
+220501002 Aspelt, Gare          00716  00716                % 18805 RGTR--
+220501001 Aspelt, Am Grëndchen  00716  00716                % 18805 RGTR--
+210501002 Altwies, Beckeschmil  00718  00718                % 18805 RGTR--
+210501001 Altwies, An der Kaz   00719  00719                % 18805 RGTR--
+210501004 Altwies, Millbaach    00720  00720                % 18805 RGTR--
+210503005 Mondorf-les-Bains, K  00721  00721                % 18805 RGTR--
+210503001 Mondorf-les-Bains, B  00721  00721                % 18805 RGTR--
+210503003 Mondorf-les-Bains, C  00722  00722                % 18805 RGTR--
+210503002 Mondorf-les-Bains, C  00723  00723                % 18805 RGTR--
+500000065 Perl, Schengen Lyzeu  00736                       % 18805 RGTR--
+*Z 18806 RGTR--                                             % 18806 RGTR--
+*L L03      500000065 220502003  01600  01631               % 18806 RGTR--
+*A cj 500000065 220502003 000338  01600  01631              % 18806 RGTR--
+*A ad 500000065 220502003 000338  01600  01631              % 18806 RGTR--
+*R 2 220502003 500000065 220502003  01600  01631            % 18806 RGTR--
+*G 050 500000065 220502003  01600  01631                    % 18806 RGTR--
+*A VE 500000065 220502003 000338  01600  01631              % 18806 RGTR--
+*I FD 500000065 220502003        0003413  01600  01631      % 18806 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18806 RGTR--
+210503006 Mondorf-les-Bains, R  01613  01613                % 18806 RGTR--
+210503002 Mondorf-les-Bains, C  01613  01613                % 18806 RGTR--
+210503003 Mondorf-les-Bains, C  01615  01615                % 18806 RGTR--
+210503001 Mondorf-les-Bains, B  01615  01615                % 18806 RGTR--
+210503005 Mondorf-les-Bains, K  01616  01616                % 18806 RGTR--
+210501004 Altwies, Millbaach    01617  01617                % 18806 RGTR--
+210501003 Altwies, Bourgässel   01618  01618                % 18806 RGTR--
+210501002 Altwies, Beckeschmil  01618  01618                % 18806 RGTR--
+220501001 Aspelt, Am Grëndchen  01620  01620                % 18806 RGTR--
+220501002 Aspelt, Gare          01621  01621                % 18806 RGTR--
+210302002 Filsdorf, Wäschbour   01624  01624                % 18806 RGTR--
+220502002 Frisange, Ennescht D  01628  01628                % 18806 RGTR--
+220502004 Frisange, Op der Krä  01629  01629                % 18806 RGTR--
+220502003 Frisange, Hau         01631                       % 18806 RGTR--
+*Z 18807 RGTR--                                             % 18807 RGTR--
+*L L03      500000065 220502003  01310  01340               % 18807 RGTR--
+*A cj 500000065 220502003 000339  01310  01340              % 18807 RGTR--
+*A ad 500000065 220502003 000339  01310  01340              % 18807 RGTR--
+*R 2 220502003 500000065 220502003  01310  01340            % 18807 RGTR--
+*G 050 500000065 220502003  01310  01340                    % 18807 RGTR--
+*A VE 500000065 220502003 000339  01310  01340              % 18807 RGTR--
+*I FD 500000065 220502003        0003431  01310  01340      % 18807 RGTR--
+500000065 Perl, Schengen Lyzeu         01310                % 18807 RGTR--
+210503006 Mondorf-les-Bains, R  01322  01322                % 18807 RGTR--
+210503002 Mondorf-les-Bains, C  01323  01323                % 18807 RGTR--
+210503003 Mondorf-les-Bains, C  01324  01324                % 18807 RGTR--
+210503001 Mondorf-les-Bains, B  01324  01324                % 18807 RGTR--
+210503005 Mondorf-les-Bains, K  01325  01325                % 18807 RGTR--
+210501004 Altwies, Millbaach    01326  01326                % 18807 RGTR--
+210501003 Altwies, Bourgässel   01327  01327                % 18807 RGTR--
+210501002 Altwies, Beckeschmil  01327  01327                % 18807 RGTR--
+220501001 Aspelt, Am Grëndchen  01330  01330                % 18807 RGTR--
+220501002 Aspelt, Gare          01330  01330                % 18807 RGTR--
+210302002 Filsdorf, Wäschbour   01333  01333                % 18807 RGTR--
+220502002 Frisange, Ennescht D  01337  01337                % 18807 RGTR--
+220502004 Frisange, Op der Krä  01339  01339                % 18807 RGTR--
+220502003 Frisange, Hau         01340                       % 18807 RGTR--
+*Z 18808 RGTR--                                             % 18808 RGTR--
+*L L03      220502003 500000065  00706  00736               % 18808 RGTR--
+*A cj 220502003 500000065 000340  00706  00736              % 18808 RGTR--
+*A ad 220502003 500000065 000340  00706  00736              % 18808 RGTR--
+*R 1 500000065 220502003 500000065  00706  00736            % 18808 RGTR--
+*G 050 220502003 500000065  00706  00736                    % 18808 RGTR--
+*A VE 220502003 500000065 000340  00706  00736              % 18808 RGTR--
+*I FD 220502003 500000065        0003374  00706  00736      % 18808 RGTR--
+220502003 Frisange, Hau                00706                % 18808 RGTR--
+220502004 Frisange, Op der Krä  00707  00707                % 18808 RGTR--
+220502002 Frisange, Ennescht D  00708  00708                % 18808 RGTR--
+210302002 Filsdorf, Wäschbour   00713  00713                % 18808 RGTR--
+220501002 Aspelt, Gare          00716  00716                % 18808 RGTR--
+220501001 Aspelt, Am Grëndchen  00716  00716                % 18808 RGTR--
+210501002 Altwies, Beckeschmil  00718  00718                % 18808 RGTR--
+210501001 Altwies, An der Kaz   00719  00719                % 18808 RGTR--
+210501004 Altwies, Millbaach    00720  00720                % 18808 RGTR--
+210503005 Mondorf-les-Bains, K  00721  00721                % 18808 RGTR--
+210503001 Mondorf-les-Bains, B  00721  00721                % 18808 RGTR--
+210503003 Mondorf-les-Bains, C  00722  00722                % 18808 RGTR--
+210503002 Mondorf-les-Bains, C  00723  00723                % 18808 RGTR--
+500000065 Perl, Schengen Lyzeu  00736                       % 18808 RGTR--
+*Z 18809 RGTR--                                             % 18809 RGTR--
+*L L03      500000065 220502003  01600  01631               % 18809 RGTR--
+*A cj 500000065 220502003 000340  01600  01631              % 18809 RGTR--
+*A ad 500000065 220502003 000340  01600  01631              % 18809 RGTR--
+*R 2 220502003 500000065 220502003  01600  01631            % 18809 RGTR--
+*G 050 500000065 220502003  01600  01631                    % 18809 RGTR--
+*A VE 500000065 220502003 000340  01600  01631              % 18809 RGTR--
+*I FD 500000065 220502003        0003413  01600  01631      % 18809 RGTR--
+500000065 Perl, Schengen Lyzeu         01600                % 18809 RGTR--
+210503006 Mondorf-les-Bains, R  01613  01613                % 18809 RGTR--
+210503002 Mondorf-les-Bains, C  01613  01613                % 18809 RGTR--
+210503003 Mondorf-les-Bains, C  01615  01615                % 18809 RGTR--
+210503001 Mondorf-les-Bains, B  01615  01615                % 18809 RGTR--
+210503005 Mondorf-les-Bains, K  01616  01616                % 18809 RGTR--
+210501004 Altwies, Millbaach    01617  01617                % 18809 RGTR--
+210501003 Altwies, Bourgässel   01618  01618                % 18809 RGTR--
+210501002 Altwies, Beckeschmil  01618  01618                % 18809 RGTR--
+220501001 Aspelt, Am Grëndchen  01620  01620                % 18809 RGTR--
+220501002 Aspelt, Gare          01621  01621                % 18809 RGTR--
+210302002 Filsdorf, Wäschbour   01624  01624                % 18809 RGTR--
+220502002 Frisange, Ennescht D  01628  01628                % 18809 RGTR--
+220502004 Frisange, Op der Krä  01629  01629                % 18809 RGTR--
+220502003 Frisange, Hau         01631                       % 18809 RGTR--
+*Z 18810 RGTR--                                             % 18810 RGTR--
+*L L03      500000065 220502003  01310  01340               % 18810 RGTR--
+*A cj 500000065 220502003 000341  01310  01340              % 18810 RGTR--
+*A ad 500000065 220502003 000341  01310  01340              % 18810 RGTR--
+*R 2 220502003 500000065 220502003  01310  01340            % 18810 RGTR--
+*G 050 500000065 220502003  01310  01340                    % 18810 RGTR--
+*A VE 500000065 220502003 000341  01310  01340              % 18810 RGTR--
+*I FD 500000065 220502003        0003431  01310  01340      % 18810 RGTR--
+500000065 Perl, Schengen Lyzeu         01310                % 18810 RGTR--
+210503006 Mondorf-les-Bains, R  01322  01322                % 18810 RGTR--
+210503002 Mondorf-les-Bains, C  01323  01323                % 18810 RGTR--
+210503003 Mondorf-les-Bains, C  01324  01324                % 18810 RGTR--
+210503001 Mondorf-les-Bains, B  01324  01324                % 18810 RGTR--
+210503005 Mondorf-les-Bains, K  01325  01325                % 18810 RGTR--
+210501004 Altwies, Millbaach    01326  01326                % 18810 RGTR--
+210501003 Altwies, Bourgässel   01327  01327                % 18810 RGTR--
+210501002 Altwies, Beckeschmil  01327  01327                % 18810 RGTR--
+220501001 Aspelt, Am Grëndchen  01330  01330                % 18810 RGTR--
+220501002 Aspelt, Gare          01330  01330                % 18810 RGTR--
+210302002 Filsdorf, Wäschbour   01333  01333                % 18810 RGTR--
+220502002 Frisange, Ennescht D  01337  01337                % 18810 RGTR--
+220502004 Frisange, Op der Krä  01339  01339                % 18810 RGTR--
+220502003 Frisange, Hau         01340                       % 18810 RGTR--

@@ -1,0 +1,79 @@
+*F 03 2
+*Z 18967 RGTR--                                             % 18967 RGTR--
+*L P09      130107002 120903023  00705  00740               % 18967 RGTR--
+*A cj 130107002 120903023 000042  00705  00740              % 18967 RGTR--
+*A ad 130107002 120903023 000042  00705  00740              % 18967 RGTR--
+*R 1 120903023 130107002 120903023  00705  00740            % 18967 RGTR--
+*G 063 130107002 120903023  00705  00740                    % 18967 RGTR--
+*A VE 130107002 120903023 000042  00705  00740              % 18967 RGTR--
+*I FD 130107002 120903023        0002027  00705  00740      % 18967 RGTR--
+130107002 Weiler/Wincrange, Du         00705                % 18967 RGTR--
+110809001 Hachiville, Duärrefs  00708  00708                % 18967 RGTR--
+110809002 Hachiville, Kräizung  00709  00709                % 18967 RGTR--
+110811002 Hoffelt, Bei der Kir  00710  00710                % 18967 RGTR--
+110811001 Hoffelt, Driicht      00711  00711                % 18967 RGTR--
+110820002 Troine, Duarrefstroo  00716  00716                % 18967 RGTR--
+110820001 Troine, Bréck         00717  00717                % 18967 RGTR--
+110820004 Troine-Route, Op der  00719  00719                % 18967 RGTR--
+110820003 Troine-Route, Op der  00720  00720                % 18967 RGTR--
+110801003 Allerborn, Bläiminne  00722  00722                % 18967 RGTR--
+110801002 Allerborn, Duerefstr  00723  00723                % 18967 RGTR--
+110801001 Allerborn, Kräizung   00724  00724                % 18967 RGTR--
+110822002 Féitsch               00726  00726                % 18967 RGTR--
+110807001 Derenbach, Kapell     00728  00728                % 18967 RGTR--
+110807002 Derenbach, Groësteen  00728  00728                % 18967 RGTR--
+110807004 Derenbach, Weischent  00729  00729                % 18967 RGTR--
+120903021 Wiltz, Lann           00737  00737                % 18967 RGTR--
+120903023 Wiltz, Lycée du Nord  00740                       % 18967 RGTR--
+*Z 18968 RGTR--                                             % 18968 RGTR--
+*L P09      120903023 130107002  01615  01649               % 18968 RGTR--
+*A cj 120903023 130107002 000047  01615  01649              % 18968 RGTR--
+*A ad 120903023 130107002 000047  01615  01649              % 18968 RGTR--
+*R 2 130107002 120903023 130107002  01615  01649            % 18968 RGTR--
+*G 063 120903023 130107002  01615  01649                    % 18968 RGTR--
+*A VE 120903023 130107002 000047  01615  01649              % 18968 RGTR--
+*I FD 120903023 130107002        0002060  01615  01649      % 18968 RGTR--
+120903023 Wiltz, Lycée du Nord         01615                % 18968 RGTR--
+120903021 Wiltz, Lann           01618  01618                % 18968 RGTR--
+110807004 Derenbach, Weischent  01626  01626                % 18968 RGTR--
+110807002 Derenbach, Groësteen  01626  01626                % 18968 RGTR--
+110807001 Derenbach, Kapell     01627  01627                % 18968 RGTR--
+110822002 Féitsch               01630  01630                % 18968 RGTR--
+110801003 Allerborn, Bläiminne  01631  01631                % 18968 RGTR--
+110801002 Allerborn, Duerefstr  01632  01632                % 18968 RGTR--
+110801001 Allerborn, Kräizung   01633  01633                % 18968 RGTR--
+110820003 Troine-Route, Op der  01635  01635                % 18968 RGTR--
+110820004 Troine-Route, Op der  01636  01636                % 18968 RGTR--
+110820001 Troine, Bréck         01638  01638                % 18968 RGTR--
+110820002 Troine, Duarrefstroo  01639  01639                % 18968 RGTR--
+110811001 Hoffelt, Driicht      01643  01643                % 18968 RGTR--
+110811002 Hoffelt, Bei der Kir  01644  01644                % 18968 RGTR--
+110809002 Hachiville, Kräizung  01645  01645                % 18968 RGTR--
+110809001 Hachiville, Duärrefs  01646  01646                % 18968 RGTR--
+130107002 Weiler/Wincrange, Du  01649                       % 18968 RGTR--
+*Z 18969 RGTR--                                             % 18969 RGTR--
+*L P09      120903023 130107002  01208  01241               % 18969 RGTR--
+*A cj 120903023 130107002 000046  01208  01241              % 18969 RGTR--
+*A ad 120903023 130107002 000046  01208  01241              % 18969 RGTR--
+*R 2 130107002 120903023 130107002  01208  01241            % 18969 RGTR--
+*G 063 120903023 130107002  01208  01241                    % 18969 RGTR--
+*A VE 120903023 130107002 000046  01208  01241              % 18969 RGTR--
+*I FD 120903023 130107002        0001866  01208  01241      % 18969 RGTR--
+120903023 Wiltz, Lycée du Nord         01208                % 18969 RGTR--
+120903021 Wiltz, Lann           01210  01210                % 18969 RGTR--
+110807004 Derenbach, Weischent  01218  01218                % 18969 RGTR--
+110807002 Derenbach, Groësteen  01219  01219                % 18969 RGTR--
+110807001 Derenbach, Kapell     01219  01219                % 18969 RGTR--
+110822002 Féitsch               01222  01222                % 18969 RGTR--
+110801003 Allerborn, Bläiminne  01223  01223                % 18969 RGTR--
+110801002 Allerborn, Duerefstr  01224  01224                % 18969 RGTR--
+110801001 Allerborn, Kräizung   01225  01225                % 18969 RGTR--
+110820003 Troine-Route, Op der  01227  01227                % 18969 RGTR--
+110820004 Troine-Route, Op der  01228  01228                % 18969 RGTR--
+110820001 Troine, Bréck         01230  01230                % 18969 RGTR--
+110820002 Troine, Duarrefstroo  01231  01231                % 18969 RGTR--
+110811001 Hoffelt, Driicht      01235  01235                % 18969 RGTR--
+110811002 Hoffelt, Bei der Kir  01236  01236                % 18969 RGTR--
+110809002 Hachiville, Kräizung  01237  01237                % 18969 RGTR--
+110809001 Hachiville, Duärrefs  01238  01238                % 18969 RGTR--
+130107002 Weiler/Wincrange, Du  01241                       % 18969 RGTR--

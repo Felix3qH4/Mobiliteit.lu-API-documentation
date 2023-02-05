@@ -1,0 +1,646 @@
+*F 03 2
+*Z 18076 RGTR--                                             % 18076 RGTR--
+*L B08      210202003 180401003  00615  00712               % 18076 RGTR--
+*A cj 210202003 180401003 000042  00615  00712              % 18076 RGTR--
+*A KV 210202003 180401003 000042  00615  00712              % 18076 RGTR--
+*A DA 210202003 180401003 000042  00615  00712              % 18076 RGTR--
+*A ad 210202003 180401003 000042  00615  00712              % 18076 RGTR--
+*R 1 180401003 210202003 180401003  00615  00712            % 18076 RGTR--
+*G 070 210202003 180401003  00615  00712                    % 18076 RGTR--
+*A VE 210202003 180401003 000042  00615  00712              % 18076 RGTR--
+*I FD 210202003 180401003        0000797  00615  00712      % 18076 RGTR--
+210202003 Elvange/Mondorf, Vil         00615                % 18076 RGTR--
+210202001 Elvange/Mondorf, Bei  00616  00616                % 18076 RGTR--
+210202002 Elvange/Mondorf, Kal  00617  00617                % 18076 RGTR--
+210201003 Burmerange, Um Schot  00619  00619                % 18076 RGTR--
+210201001 Burmerange, Bei der   00620  00620                % 18076 RGTR--
+210201002 Burmerange, Résidenc  00621  00621                % 18076 RGTR--
+210602005 Schengen, Um Haff     00627  00627                % 18076 RGTR--
+210602003 Schengen, Schoul      00627  00627                % 18076 RGTR--
+210602002 Schengen, Koerech     00628  00628                % 18076 RGTR--
+210602001 Schengen, Ennen am D  00629  00629                % 18076 RGTR--
+210602004 Schengen, Séckerbaac  00629  00629                % 18076 RGTR--
+210601002 Remerschen, Ennen am  00632  00632                % 18076 RGTR--
+210601003 Remerschen, Kiosk     00632  00632                % 18076 RGTR--
+210601001 Remerschen, Al Schou  00633  00633                % 18076 RGTR--
+210603001 Wintrange, Dorefplaz  00635  00635                % 18076 RGTR--
+211002002 Schwebsingen, Op der  00636  00636                % 18076 RGTR--
+211002001 Schwebsingen, Centre  00637  00637                % 18076 RGTR--
+211001003 Bech-Kleinmacher, Fu  00639  00639                % 18076 RGTR--
+210701011 Remich, Piscine       00641  00641                % 18076 RGTR--
+210701006 Remich, Gare routièr  00642  00642                % 18076 RGTR--
+210701008 Remich, Maatebierg    00643  00643                % 18076 RGTR--
+210701003 Remich, Caves St. Ma  00645  00645                % 18076 RGTR--
+210803006 Stadtbredimus, Wandm  00646  00646                % 18076 RGTR--
+210803005 Stadtbredimus, Vinsm  00647  00647                % 18076 RGTR--
+210803003 Stadtbredimus, Schle  00647  00647                % 18076 RGTR--
+180802002 Ehnen, Bromelt        00653  00653                % 18076 RGTR--
+180802007 Ehnen, Puddel         00654  00654                % 18076 RGTR--
+180804003 Wormeldange, Gewân    00656  00656                % 18076 RGTR--
+180804002 Wormeldange, Geméen   00657  00657                % 18076 RGTR--
+180804005 Wormeldange, Op der   00658  00658                % 18076 RGTR--
+180804004 Wormeldange, Kellere  00658  00658                % 18076 RGTR--
+180801003 Ahn, Op der Musel     00700  00700                % 18076 RGTR--
+180801001 Ahn, Alphonse Steinè  00700  00700                % 18076 RGTR--
+180803004 Machtum, Ongkaf       00705  00705                % 18076 RGTR--
+180803003 Machtum, Gellebur     00705  00705                % 18076 RGTR--
+180803002 Machtum, Deisermille  00706  00706                % 18076 RGTR--
+180401005 Grevenmacher, Route   00707  00707                % 18076 RGTR--
+180401002 Grevenmacher, Enner   00708  00708                % 18076 RGTR--
+180401006 Grevenmacher, Schoul  00710  00710                % 18076 RGTR--
+180401003 Grevenmacher, Gare r  00712                       % 18076 RGTR--
+*Z 00310 RGTR--                                             % 00310 RGTR--
+*L B08      210503003 180401006  00625  00713               % 00310 RGTR--
+*A cj 210503003 180401006 000015  00625  00713              % 00310 RGTR--
+*A KV 210503003 180401006 000015  00625  00713              % 00310 RGTR--
+*A DA 210503003 180401006 000015  00625  00713              % 00310 RGTR--
+*A ad 210503003 180401006 000015  00625  00713              % 00310 RGTR--
+*R 1 180401006 210503003 180401006  00625  00713            % 00310 RGTR--
+*G 072 210503003 180401006  00625  00713                    % 00310 RGTR--
+*A VE 210503003 180401006 000015  00625  00713              % 00310 RGTR--
+*I FD 210503003 180401006        0002665  00625  00713      % 00310 RGTR--
+210503003 Mondorf-les-Bains, C         00625                % 00310 RGTR--
+210503002 Mondorf-les-Bains, C  00626  00626                % 00310 RGTR--
+210503009 Mondorf-les-Bains, V  00627  00627                % 00310 RGTR--
+210503011 Mondorf-les-Bains, R  00628  00628                % 00310 RGTR--
+210502002 Ellange, Martialis    00632  00632                % 00310 RGTR--
+211003002 Wellenstein, rte de   00636  00636                % 00310 RGTR--
+211003001 Wellenstein, Centre   00637  00637                % 00310 RGTR--
+211003003 Wellenstein, Caves c  00638  00638                % 00310 RGTR--
+211001002 Bech-Kleinmacher, Ce  00639  00639                % 00310 RGTR--
+210701011 Remich, Piscine       00641  00641                % 00310 RGTR--
+210701006 Remich, Gare routièr  00642  00642                % 00310 RGTR--
+210701008 Remich, Maatebierg    00643  00643                % 00310 RGTR--
+210701003 Remich, Caves St. Ma  00644  00644                % 00310 RGTR--
+210803006 Stadtbredimus, Wandm  00645  00645                % 00310 RGTR--
+210803005 Stadtbredimus, Vinsm  00646  00646                % 00310 RGTR--
+210803003 Stadtbredimus, Schle  00647  00647                % 00310 RGTR--
+210801002 Greiveldange, Gemeng  00651  00651                % 00310 RGTR--
+210801003 Greiveldange, Neie W  00652  00652                % 00310 RGTR--
+210801001 Greiveldange, Keller  00652  00652                % 00310 RGTR--
+210802001 Hëttermillen          00653  00653                % 00310 RGTR--
+180802002 Ehnen, Bromelt        00654  00654                % 00310 RGTR--
+180802007 Ehnen, Puddel         00656  00656                % 00310 RGTR--
+180804003 Wormeldange, Gewân    00657  00657                % 00310 RGTR--
+180804002 Wormeldange, Geméen   00658  00658                % 00310 RGTR--
+180804005 Wormeldange, Op der   00659  00659                % 00310 RGTR--
+180804004 Wormeldange, Kellere  00700  00700                % 00310 RGTR--
+180801003 Ahn, Op der Musel     00702  00702                % 00310 RGTR--
+180801001 Ahn, Alphonse Steinè  00702  00702                % 00310 RGTR--
+180803004 Machtum, Ongkaf       00706  00706                % 00310 RGTR--
+180803003 Machtum, Gellebur     00707  00707                % 00310 RGTR--
+180803002 Machtum, Deisermille  00707  00707                % 00310 RGTR--
+180401005 Grevenmacher, Route   00708  00708                % 00310 RGTR--
+180401002 Grevenmacher, Enner   00710  00710                % 00310 RGTR--
+180401003 Grevenmacher, Gare r  00711  00711                % 00310 RGTR--
+180401006 Grevenmacher, Schoul  00713                       % 00310 RGTR--
+*Z 00308 RGTR--                                             % 00308 RGTR--
+*L B08      210503003 180401006  00625  00713               % 00308 RGTR--
+*A cj 210503003 180401006 000009  00625  00713              % 00308 RGTR--
+*A KV 210503003 180401006 000009  00625  00713              % 00308 RGTR--
+*A DA 210503003 180401006 000009  00625  00713              % 00308 RGTR--
+*A ad 210503003 180401006 000009  00625  00713              % 00308 RGTR--
+*R 1 180401006 210503003 180401006  00625  00713            % 00308 RGTR--
+*G 072 210503003 180401006  00625  00713                    % 00308 RGTR--
+*A VE 210503003 180401006 000009  00625  00713              % 00308 RGTR--
+*I FD 210503003 180401006        0002665  00625  00713      % 00308 RGTR--
+210503003 Mondorf-les-Bains, C         00625                % 00308 RGTR--
+210503002 Mondorf-les-Bains, C  00626  00626                % 00308 RGTR--
+210503009 Mondorf-les-Bains, V  00627  00627                % 00308 RGTR--
+210503011 Mondorf-les-Bains, R  00628  00628                % 00308 RGTR--
+210502002 Ellange, Martialis    00632  00632                % 00308 RGTR--
+211003002 Wellenstein, rte de   00636  00636                % 00308 RGTR--
+211003001 Wellenstein, Centre   00637  00637                % 00308 RGTR--
+211003003 Wellenstein, Caves c  00638  00638                % 00308 RGTR--
+211001002 Bech-Kleinmacher, Ce  00639  00639                % 00308 RGTR--
+210701011 Remich, Piscine       00641  00641                % 00308 RGTR--
+210701006 Remich, Gare routièr  00642  00642                % 00308 RGTR--
+210701008 Remich, Maatebierg    00643  00643                % 00308 RGTR--
+210701003 Remich, Caves St. Ma  00644  00644                % 00308 RGTR--
+210803006 Stadtbredimus, Wandm  00645  00645                % 00308 RGTR--
+210803005 Stadtbredimus, Vinsm  00646  00646                % 00308 RGTR--
+210803003 Stadtbredimus, Schle  00647  00647                % 00308 RGTR--
+210801002 Greiveldange, Gemeng  00651  00651                % 00308 RGTR--
+210801003 Greiveldange, Neie W  00652  00652                % 00308 RGTR--
+210801001 Greiveldange, Keller  00652  00652                % 00308 RGTR--
+210802001 Hëttermillen          00653  00653                % 00308 RGTR--
+180802002 Ehnen, Bromelt        00654  00654                % 00308 RGTR--
+180802007 Ehnen, Puddel         00656  00656                % 00308 RGTR--
+180804003 Wormeldange, Gewân    00657  00657                % 00308 RGTR--
+180804002 Wormeldange, Geméen   00658  00658                % 00308 RGTR--
+180804005 Wormeldange, Op der   00659  00659                % 00308 RGTR--
+180804004 Wormeldange, Kellere  00700  00700                % 00308 RGTR--
+180801003 Ahn, Op der Musel     00702  00702                % 00308 RGTR--
+180801001 Ahn, Alphonse Steinè  00702  00702                % 00308 RGTR--
+180803004 Machtum, Ongkaf       00706  00706                % 00308 RGTR--
+180803003 Machtum, Gellebur     00707  00707                % 00308 RGTR--
+180803002 Machtum, Deisermille  00707  00707                % 00308 RGTR--
+180401005 Grevenmacher, Route   00708  00708                % 00308 RGTR--
+180401002 Grevenmacher, Enner   00710  00710                % 00308 RGTR--
+180401003 Grevenmacher, Gare r  00711  00711                % 00308 RGTR--
+180401006 Grevenmacher, Schoul  00713                       % 00308 RGTR--
+*Z 00306 RGTR--                                             % 00306 RGTR--
+*L B08      210503003 180401006  00625  00713               % 00306 RGTR--
+*A cj 210503003 180401006 000013  00625  00713              % 00306 RGTR--
+*A KV 210503003 180401006 000013  00625  00713              % 00306 RGTR--
+*A DA 210503003 180401006 000013  00625  00713              % 00306 RGTR--
+*A ad 210503003 180401006 000013  00625  00713              % 00306 RGTR--
+*R 1 180401006 210503003 180401006  00625  00713            % 00306 RGTR--
+*G 072 210503003 180401006  00625  00713                    % 00306 RGTR--
+*A VE 210503003 180401006 000013  00625  00713              % 00306 RGTR--
+*I FD 210503003 180401006        0002665  00625  00713      % 00306 RGTR--
+210503003 Mondorf-les-Bains, C         00625                % 00306 RGTR--
+210503002 Mondorf-les-Bains, C  00626  00626                % 00306 RGTR--
+210503009 Mondorf-les-Bains, V  00627  00627                % 00306 RGTR--
+210503011 Mondorf-les-Bains, R  00628  00628                % 00306 RGTR--
+210502002 Ellange, Martialis    00632  00632                % 00306 RGTR--
+211003002 Wellenstein, rte de   00636  00636                % 00306 RGTR--
+211003001 Wellenstein, Centre   00637  00637                % 00306 RGTR--
+211003003 Wellenstein, Caves c  00638  00638                % 00306 RGTR--
+211001002 Bech-Kleinmacher, Ce  00639  00639                % 00306 RGTR--
+210701011 Remich, Piscine       00641  00641                % 00306 RGTR--
+210701006 Remich, Gare routièr  00642  00642                % 00306 RGTR--
+210701008 Remich, Maatebierg    00643  00643                % 00306 RGTR--
+210701003 Remich, Caves St. Ma  00644  00644                % 00306 RGTR--
+210803006 Stadtbredimus, Wandm  00645  00645                % 00306 RGTR--
+210803005 Stadtbredimus, Vinsm  00646  00646                % 00306 RGTR--
+210803003 Stadtbredimus, Schle  00647  00647                % 00306 RGTR--
+210801002 Greiveldange, Gemeng  00651  00651                % 00306 RGTR--
+210801003 Greiveldange, Neie W  00652  00652                % 00306 RGTR--
+210801001 Greiveldange, Keller  00652  00652                % 00306 RGTR--
+210802001 Hëttermillen          00653  00653                % 00306 RGTR--
+180802002 Ehnen, Bromelt        00654  00654                % 00306 RGTR--
+180802007 Ehnen, Puddel         00656  00656                % 00306 RGTR--
+180804003 Wormeldange, Gewân    00657  00657                % 00306 RGTR--
+180804002 Wormeldange, Geméen   00658  00658                % 00306 RGTR--
+180804005 Wormeldange, Op der   00659  00659                % 00306 RGTR--
+180804004 Wormeldange, Kellere  00700  00700                % 00306 RGTR--
+180801003 Ahn, Op der Musel     00702  00702                % 00306 RGTR--
+180801001 Ahn, Alphonse Steinè  00702  00702                % 00306 RGTR--
+180803004 Machtum, Ongkaf       00706  00706                % 00306 RGTR--
+180803003 Machtum, Gellebur     00707  00707                % 00306 RGTR--
+180803002 Machtum, Deisermille  00707  00707                % 00306 RGTR--
+180401005 Grevenmacher, Route   00708  00708                % 00306 RGTR--
+180401002 Grevenmacher, Enner   00710  00710                % 00306 RGTR--
+180401003 Grevenmacher, Gare r  00711  00711                % 00306 RGTR--
+180401006 Grevenmacher, Schoul  00713                       % 00306 RGTR--
+*Z 00304 RGTR--                                             % 00304 RGTR--
+*L B08      210503003 180401006  00625  00713               % 00304 RGTR--
+*A cj 210503003 180401006 000007  00625  00713              % 00304 RGTR--
+*A KV 210503003 180401006 000007  00625  00713              % 00304 RGTR--
+*A DA 210503003 180401006 000007  00625  00713              % 00304 RGTR--
+*A ad 210503003 180401006 000007  00625  00713              % 00304 RGTR--
+*R 1 180401006 210503003 180401006  00625  00713            % 00304 RGTR--
+*G 072 210503003 180401006  00625  00713                    % 00304 RGTR--
+*A VE 210503003 180401006 000007  00625  00713              % 00304 RGTR--
+*I FD 210503003 180401006        0002665  00625  00713      % 00304 RGTR--
+210503003 Mondorf-les-Bains, C         00625                % 00304 RGTR--
+210503002 Mondorf-les-Bains, C  00626  00626                % 00304 RGTR--
+210503009 Mondorf-les-Bains, V  00627  00627                % 00304 RGTR--
+210503011 Mondorf-les-Bains, R  00628  00628                % 00304 RGTR--
+210502002 Ellange, Martialis    00632  00632                % 00304 RGTR--
+211003002 Wellenstein, rte de   00636  00636                % 00304 RGTR--
+211003001 Wellenstein, Centre   00637  00637                % 00304 RGTR--
+211003003 Wellenstein, Caves c  00638  00638                % 00304 RGTR--
+211001002 Bech-Kleinmacher, Ce  00639  00639                % 00304 RGTR--
+210701011 Remich, Piscine       00641  00641                % 00304 RGTR--
+210701006 Remich, Gare routièr  00642  00642                % 00304 RGTR--
+210701008 Remich, Maatebierg    00643  00643                % 00304 RGTR--
+210701003 Remich, Caves St. Ma  00644  00644                % 00304 RGTR--
+210803006 Stadtbredimus, Wandm  00645  00645                % 00304 RGTR--
+210803005 Stadtbredimus, Vinsm  00646  00646                % 00304 RGTR--
+210803003 Stadtbredimus, Schle  00647  00647                % 00304 RGTR--
+210801002 Greiveldange, Gemeng  00651  00651                % 00304 RGTR--
+210801003 Greiveldange, Neie W  00652  00652                % 00304 RGTR--
+210801001 Greiveldange, Keller  00652  00652                % 00304 RGTR--
+210802001 Hëttermillen          00653  00653                % 00304 RGTR--
+180802002 Ehnen, Bromelt        00654  00654                % 00304 RGTR--
+180802007 Ehnen, Puddel         00656  00656                % 00304 RGTR--
+180804003 Wormeldange, Gewân    00657  00657                % 00304 RGTR--
+180804002 Wormeldange, Geméen   00658  00658                % 00304 RGTR--
+180804005 Wormeldange, Op der   00659  00659                % 00304 RGTR--
+180804004 Wormeldange, Kellere  00700  00700                % 00304 RGTR--
+180801003 Ahn, Op der Musel     00702  00702                % 00304 RGTR--
+180801001 Ahn, Alphonse Steinè  00702  00702                % 00304 RGTR--
+180803004 Machtum, Ongkaf       00706  00706                % 00304 RGTR--
+180803003 Machtum, Gellebur     00707  00707                % 00304 RGTR--
+180803002 Machtum, Deisermille  00707  00707                % 00304 RGTR--
+180401005 Grevenmacher, Route   00708  00708                % 00304 RGTR--
+180401002 Grevenmacher, Enner   00710  00710                % 00304 RGTR--
+180401003 Grevenmacher, Gare r  00711  00711                % 00304 RGTR--
+180401006 Grevenmacher, Schoul  00713                       % 00304 RGTR--
+*Z 00312 RGTR--                                             % 00312 RGTR--
+*L B08      210503003 180401006  00625  00713               % 00312 RGTR--
+*A cj 210503003 180401006 000011  00625  00713              % 00312 RGTR--
+*A KV 210503003 180401006 000011  00625  00713              % 00312 RGTR--
+*A DA 210503003 180401006 000011  00625  00713              % 00312 RGTR--
+*A ad 210503003 180401006 000011  00625  00713              % 00312 RGTR--
+*R 1 180401006 210503003 180401006  00625  00713            % 00312 RGTR--
+*G 072 210503003 180401006  00625  00713                    % 00312 RGTR--
+*A VE 210503003 180401006 000011  00625  00713              % 00312 RGTR--
+*I FD 210503003 180401006        0002665  00625  00713      % 00312 RGTR--
+210503003 Mondorf-les-Bains, C         00625                % 00312 RGTR--
+210503002 Mondorf-les-Bains, C  00626  00626                % 00312 RGTR--
+210503009 Mondorf-les-Bains, V  00627  00627                % 00312 RGTR--
+210503011 Mondorf-les-Bains, R  00628  00628                % 00312 RGTR--
+210502002 Ellange, Martialis    00632  00632                % 00312 RGTR--
+211003002 Wellenstein, rte de   00636  00636                % 00312 RGTR--
+211003001 Wellenstein, Centre   00637  00637                % 00312 RGTR--
+211003003 Wellenstein, Caves c  00638  00638                % 00312 RGTR--
+211001002 Bech-Kleinmacher, Ce  00639  00639                % 00312 RGTR--
+210701011 Remich, Piscine       00641  00641                % 00312 RGTR--
+210701006 Remich, Gare routièr  00642  00642                % 00312 RGTR--
+210701008 Remich, Maatebierg    00643  00643                % 00312 RGTR--
+210701003 Remich, Caves St. Ma  00644  00644                % 00312 RGTR--
+210803006 Stadtbredimus, Wandm  00645  00645                % 00312 RGTR--
+210803005 Stadtbredimus, Vinsm  00646  00646                % 00312 RGTR--
+210803003 Stadtbredimus, Schle  00647  00647                % 00312 RGTR--
+210801002 Greiveldange, Gemeng  00651  00651                % 00312 RGTR--
+210801003 Greiveldange, Neie W  00652  00652                % 00312 RGTR--
+210801001 Greiveldange, Keller  00652  00652                % 00312 RGTR--
+210802001 Hëttermillen          00653  00653                % 00312 RGTR--
+180802002 Ehnen, Bromelt        00654  00654                % 00312 RGTR--
+180802007 Ehnen, Puddel         00656  00656                % 00312 RGTR--
+180804003 Wormeldange, Gewân    00657  00657                % 00312 RGTR--
+180804002 Wormeldange, Geméen   00658  00658                % 00312 RGTR--
+180804005 Wormeldange, Op der   00659  00659                % 00312 RGTR--
+180804004 Wormeldange, Kellere  00700  00700                % 00312 RGTR--
+180801003 Ahn, Op der Musel     00702  00702                % 00312 RGTR--
+180801001 Ahn, Alphonse Steinè  00702  00702                % 00312 RGTR--
+180803004 Machtum, Ongkaf       00706  00706                % 00312 RGTR--
+180803003 Machtum, Gellebur     00707  00707                % 00312 RGTR--
+180803002 Machtum, Deisermille  00707  00707                % 00312 RGTR--
+180401005 Grevenmacher, Route   00708  00708                % 00312 RGTR--
+180401002 Grevenmacher, Enner   00710  00710                % 00312 RGTR--
+180401003 Grevenmacher, Gare r  00711  00711                % 00312 RGTR--
+180401006 Grevenmacher, Schoul  00713                       % 00312 RGTR--
+*Z 00359 RGTR--                                             % 00359 RGTR--
+*L B08      180401006 210202003  01405  01501               % 00359 RGTR--
+*A cj 180401006 210202003 000015  01405  01501              % 00359 RGTR--
+*A cn 180401006 210202003 000015  01405  01501              % 00359 RGTR--
+*A DC 180401006 210202003 000015  01405  01501              % 00359 RGTR--
+*A ad 180401006 210202003 000015  01405  01501              % 00359 RGTR--
+*R 2 210202003 180401006 210202003  01405  01501            % 00359 RGTR--
+*G 050 180401006 210202003  01405  01501                    % 00359 RGTR--
+*A VE 180401006 210202003 000015  01405  01501              % 00359 RGTR--
+*I FD 180401006 210202003        0001812  01405  01501      % 00359 RGTR--
+180401006 Grevenmacher, Schoul         01405                % 00359 RGTR--
+180401003 Grevenmacher, Gare r  01406  01406                % 00359 RGTR--
+180401002 Grevenmacher, Enner   01407  01407                % 00359 RGTR--
+180401005 Grevenmacher, Route   01408  01408                % 00359 RGTR--
+180803002 Machtum, Deisermille  01410  01410                % 00359 RGTR--
+180803003 Machtum, Gellebur     01410  01410                % 00359 RGTR--
+180803001 Machtum, Bei Kallek'  01411  01411                % 00359 RGTR--
+180801001 Ahn, Alphonse Steinè  01415  01415                % 00359 RGTR--
+180801003 Ahn, Op der Musel     01415  01415                % 00359 RGTR--
+180804004 Wormeldange, Kellere  01417  01417                % 00359 RGTR--
+180804001 Wormeldange, Erdkaul  01418  01418                % 00359 RGTR--
+180804002 Wormeldange, Geméen   01419  01419                % 00359 RGTR--
+180804003 Wormeldange, Gewân    01420  01420                % 00359 RGTR--
+180802003 Ehnen, Ieselsbreck    01421  01421                % 00359 RGTR--
+180802002 Ehnen, Bromelt        01422  01422                % 00359 RGTR--
+210802001 Hëttermillen          01423  01423                % 00359 RGTR--
+210801001 Greiveldange, Keller  01424  01424                % 00359 RGTR--
+210801003 Greiveldange, Neie W  01424  01424                % 00359 RGTR--
+210801002 Greiveldange, Gemeng  01425  01425                % 00359 RGTR--
+210803003 Stadtbredimus, Schle  01429  01429                % 00359 RGTR--
+210803005 Stadtbredimus, Vinsm  01430  01430                % 00359 RGTR--
+210803006 Stadtbredimus, Wandm  01430  01430                % 00359 RGTR--
+210701003 Remich, Caves St. Ma  01431  01431                % 00359 RGTR--
+210701008 Remich, Maatebierg    01432  01432                % 00359 RGTR--
+210701006 Remich, Gare routièr  01434  01434                % 00359 RGTR--
+210701011 Remich, Piscine       01435  01435                % 00359 RGTR--
+211001005 Bech-Kleinmacher, Es  01438  01438                % 00359 RGTR--
+211001003 Bech-Kleinmacher, Fu  01439  01439                % 00359 RGTR--
+211002001 Schwebsingen, Centre  01441  01441                % 00359 RGTR--
+211002002 Schwebsingen, Op der  01441  01441                % 00359 RGTR--
+210603001 Wintrange, Dorefplaz  01443  01443                % 00359 RGTR--
+210601001 Remerschen, Al Schou  01444  01444                % 00359 RGTR--
+210601003 Remerschen, Kiosk     01445  01445                % 00359 RGTR--
+210601002 Remerschen, Ennen am  01446  01446                % 00359 RGTR--
+210602004 Schengen, Séckerbaac  01448  01448                % 00359 RGTR--
+210602001 Schengen, Ennen am D  01449  01449                % 00359 RGTR--
+210602002 Schengen, Koerech     01449  01449                % 00359 RGTR--
+210602003 Schengen, Schoul      01450  01450                % 00359 RGTR--
+210602005 Schengen, Um Haff     01451  01451                % 00359 RGTR--
+210201002 Burmerange, Résidenc  01455  01455                % 00359 RGTR--
+210201001 Burmerange, Bei der   01456  01456                % 00359 RGTR--
+210201003 Burmerange, Um Schot  01456  01456                % 00359 RGTR--
+210202002 Elvange/Mondorf, Kal  01459  01459                % 00359 RGTR--
+210202001 Elvange/Mondorf, Bei  01500  01500                % 00359 RGTR--
+210202003 Elvange/Mondorf, Vil  01501                       % 00359 RGTR--
+*Z 00357 RGTR--                                             % 00357 RGTR--
+*L B08      180401006 210202003  01405  01501               % 00357 RGTR--
+*A cj 180401006 210202003 000009  01405  01501              % 00357 RGTR--
+*A cn 180401006 210202003 000009  01405  01501              % 00357 RGTR--
+*A DC 180401006 210202003 000009  01405  01501              % 00357 RGTR--
+*A ad 180401006 210202003 000009  01405  01501              % 00357 RGTR--
+*R 2 210202003 180401006 210202003  01405  01501            % 00357 RGTR--
+*G 050 180401006 210202003  01405  01501                    % 00357 RGTR--
+*A VE 180401006 210202003 000009  01405  01501              % 00357 RGTR--
+*I FD 180401006 210202003        0001812  01405  01501      % 00357 RGTR--
+180401006 Grevenmacher, Schoul         01405                % 00357 RGTR--
+180401003 Grevenmacher, Gare r  01406  01406                % 00357 RGTR--
+180401002 Grevenmacher, Enner   01407  01407                % 00357 RGTR--
+180401005 Grevenmacher, Route   01408  01408                % 00357 RGTR--
+180803002 Machtum, Deisermille  01410  01410                % 00357 RGTR--
+180803003 Machtum, Gellebur     01410  01410                % 00357 RGTR--
+180803001 Machtum, Bei Kallek'  01411  01411                % 00357 RGTR--
+180801001 Ahn, Alphonse Steinè  01415  01415                % 00357 RGTR--
+180801003 Ahn, Op der Musel     01415  01415                % 00357 RGTR--
+180804004 Wormeldange, Kellere  01417  01417                % 00357 RGTR--
+180804001 Wormeldange, Erdkaul  01418  01418                % 00357 RGTR--
+180804002 Wormeldange, Geméen   01419  01419                % 00357 RGTR--
+180804003 Wormeldange, Gewân    01420  01420                % 00357 RGTR--
+180802003 Ehnen, Ieselsbreck    01421  01421                % 00357 RGTR--
+180802002 Ehnen, Bromelt        01422  01422                % 00357 RGTR--
+210802001 Hëttermillen          01423  01423                % 00357 RGTR--
+210801001 Greiveldange, Keller  01424  01424                % 00357 RGTR--
+210801003 Greiveldange, Neie W  01424  01424                % 00357 RGTR--
+210801002 Greiveldange, Gemeng  01425  01425                % 00357 RGTR--
+210803003 Stadtbredimus, Schle  01429  01429                % 00357 RGTR--
+210803005 Stadtbredimus, Vinsm  01430  01430                % 00357 RGTR--
+210803006 Stadtbredimus, Wandm  01430  01430                % 00357 RGTR--
+210701003 Remich, Caves St. Ma  01431  01431                % 00357 RGTR--
+210701008 Remich, Maatebierg    01432  01432                % 00357 RGTR--
+210701006 Remich, Gare routièr  01434  01434                % 00357 RGTR--
+210701011 Remich, Piscine       01435  01435                % 00357 RGTR--
+211001005 Bech-Kleinmacher, Es  01438  01438                % 00357 RGTR--
+211001003 Bech-Kleinmacher, Fu  01439  01439                % 00357 RGTR--
+211002001 Schwebsingen, Centre  01441  01441                % 00357 RGTR--
+211002002 Schwebsingen, Op der  01441  01441                % 00357 RGTR--
+210603001 Wintrange, Dorefplaz  01443  01443                % 00357 RGTR--
+210601001 Remerschen, Al Schou  01444  01444                % 00357 RGTR--
+210601003 Remerschen, Kiosk     01445  01445                % 00357 RGTR--
+210601002 Remerschen, Ennen am  01446  01446                % 00357 RGTR--
+210602004 Schengen, Séckerbaac  01448  01448                % 00357 RGTR--
+210602001 Schengen, Ennen am D  01449  01449                % 00357 RGTR--
+210602002 Schengen, Koerech     01449  01449                % 00357 RGTR--
+210602003 Schengen, Schoul      01450  01450                % 00357 RGTR--
+210602005 Schengen, Um Haff     01451  01451                % 00357 RGTR--
+210201002 Burmerange, Résidenc  01455  01455                % 00357 RGTR--
+210201001 Burmerange, Bei der   01456  01456                % 00357 RGTR--
+210201003 Burmerange, Um Schot  01456  01456                % 00357 RGTR--
+210202002 Elvange/Mondorf, Kal  01459  01459                % 00357 RGTR--
+210202001 Elvange/Mondorf, Bei  01500  01500                % 00357 RGTR--
+210202003 Elvange/Mondorf, Vil  01501                       % 00357 RGTR--
+*Z 00355 RGTR--                                             % 00355 RGTR--
+*L B08      180401006 210202003  01405  01501               % 00355 RGTR--
+*A cj 180401006 210202003 000013  01405  01501              % 00355 RGTR--
+*A cn 180401006 210202003 000013  01405  01501              % 00355 RGTR--
+*A DC 180401006 210202003 000013  01405  01501              % 00355 RGTR--
+*A ad 180401006 210202003 000013  01405  01501              % 00355 RGTR--
+*R 2 210202003 180401006 210202003  01405  01501            % 00355 RGTR--
+*G 050 180401006 210202003  01405  01501                    % 00355 RGTR--
+*A VE 180401006 210202003 000013  01405  01501              % 00355 RGTR--
+*I FD 180401006 210202003        0001812  01405  01501      % 00355 RGTR--
+180401006 Grevenmacher, Schoul         01405                % 00355 RGTR--
+180401003 Grevenmacher, Gare r  01406  01406                % 00355 RGTR--
+180401002 Grevenmacher, Enner   01407  01407                % 00355 RGTR--
+180401005 Grevenmacher, Route   01408  01408                % 00355 RGTR--
+180803002 Machtum, Deisermille  01410  01410                % 00355 RGTR--
+180803003 Machtum, Gellebur     01410  01410                % 00355 RGTR--
+180803001 Machtum, Bei Kallek'  01411  01411                % 00355 RGTR--
+180801001 Ahn, Alphonse Steinè  01415  01415                % 00355 RGTR--
+180801003 Ahn, Op der Musel     01415  01415                % 00355 RGTR--
+180804004 Wormeldange, Kellere  01417  01417                % 00355 RGTR--
+180804001 Wormeldange, Erdkaul  01418  01418                % 00355 RGTR--
+180804002 Wormeldange, Geméen   01419  01419                % 00355 RGTR--
+180804003 Wormeldange, Gewân    01420  01420                % 00355 RGTR--
+180802003 Ehnen, Ieselsbreck    01421  01421                % 00355 RGTR--
+180802002 Ehnen, Bromelt        01422  01422                % 00355 RGTR--
+210802001 Hëttermillen          01423  01423                % 00355 RGTR--
+210801001 Greiveldange, Keller  01424  01424                % 00355 RGTR--
+210801003 Greiveldange, Neie W  01424  01424                % 00355 RGTR--
+210801002 Greiveldange, Gemeng  01425  01425                % 00355 RGTR--
+210803003 Stadtbredimus, Schle  01429  01429                % 00355 RGTR--
+210803005 Stadtbredimus, Vinsm  01430  01430                % 00355 RGTR--
+210803006 Stadtbredimus, Wandm  01430  01430                % 00355 RGTR--
+210701003 Remich, Caves St. Ma  01431  01431                % 00355 RGTR--
+210701008 Remich, Maatebierg    01432  01432                % 00355 RGTR--
+210701006 Remich, Gare routièr  01434  01434                % 00355 RGTR--
+210701011 Remich, Piscine       01435  01435                % 00355 RGTR--
+211001005 Bech-Kleinmacher, Es  01438  01438                % 00355 RGTR--
+211001003 Bech-Kleinmacher, Fu  01439  01439                % 00355 RGTR--
+211002001 Schwebsingen, Centre  01441  01441                % 00355 RGTR--
+211002002 Schwebsingen, Op der  01441  01441                % 00355 RGTR--
+210603001 Wintrange, Dorefplaz  01443  01443                % 00355 RGTR--
+210601001 Remerschen, Al Schou  01444  01444                % 00355 RGTR--
+210601003 Remerschen, Kiosk     01445  01445                % 00355 RGTR--
+210601002 Remerschen, Ennen am  01446  01446                % 00355 RGTR--
+210602004 Schengen, Séckerbaac  01448  01448                % 00355 RGTR--
+210602001 Schengen, Ennen am D  01449  01449                % 00355 RGTR--
+210602002 Schengen, Koerech     01449  01449                % 00355 RGTR--
+210602003 Schengen, Schoul      01450  01450                % 00355 RGTR--
+210602005 Schengen, Um Haff     01451  01451                % 00355 RGTR--
+210201002 Burmerange, Résidenc  01455  01455                % 00355 RGTR--
+210201001 Burmerange, Bei der   01456  01456                % 00355 RGTR--
+210201003 Burmerange, Um Schot  01456  01456                % 00355 RGTR--
+210202002 Elvange/Mondorf, Kal  01459  01459                % 00355 RGTR--
+210202001 Elvange/Mondorf, Bei  01500  01500                % 00355 RGTR--
+210202003 Elvange/Mondorf, Vil  01501                       % 00355 RGTR--
+*Z 00353 RGTR--                                             % 00353 RGTR--
+*L B08      180401006 210202003  01405  01501               % 00353 RGTR--
+*A cj 180401006 210202003 000007  01405  01501              % 00353 RGTR--
+*A cn 180401006 210202003 000007  01405  01501              % 00353 RGTR--
+*A DC 180401006 210202003 000007  01405  01501              % 00353 RGTR--
+*A ad 180401006 210202003 000007  01405  01501              % 00353 RGTR--
+*R 2 210202003 180401006 210202003  01405  01501            % 00353 RGTR--
+*G 050 180401006 210202003  01405  01501                    % 00353 RGTR--
+*A VE 180401006 210202003 000007  01405  01501              % 00353 RGTR--
+*I FD 180401006 210202003        0001812  01405  01501      % 00353 RGTR--
+180401006 Grevenmacher, Schoul         01405                % 00353 RGTR--
+180401003 Grevenmacher, Gare r  01406  01406                % 00353 RGTR--
+180401002 Grevenmacher, Enner   01407  01407                % 00353 RGTR--
+180401005 Grevenmacher, Route   01408  01408                % 00353 RGTR--
+180803002 Machtum, Deisermille  01410  01410                % 00353 RGTR--
+180803003 Machtum, Gellebur     01410  01410                % 00353 RGTR--
+180803001 Machtum, Bei Kallek'  01411  01411                % 00353 RGTR--
+180801001 Ahn, Alphonse Steinè  01415  01415                % 00353 RGTR--
+180801003 Ahn, Op der Musel     01415  01415                % 00353 RGTR--
+180804004 Wormeldange, Kellere  01417  01417                % 00353 RGTR--
+180804001 Wormeldange, Erdkaul  01418  01418                % 00353 RGTR--
+180804002 Wormeldange, Geméen   01419  01419                % 00353 RGTR--
+180804003 Wormeldange, Gewân    01420  01420                % 00353 RGTR--
+180802003 Ehnen, Ieselsbreck    01421  01421                % 00353 RGTR--
+180802002 Ehnen, Bromelt        01422  01422                % 00353 RGTR--
+210802001 Hëttermillen          01423  01423                % 00353 RGTR--
+210801001 Greiveldange, Keller  01424  01424                % 00353 RGTR--
+210801003 Greiveldange, Neie W  01424  01424                % 00353 RGTR--
+210801002 Greiveldange, Gemeng  01425  01425                % 00353 RGTR--
+210803003 Stadtbredimus, Schle  01429  01429                % 00353 RGTR--
+210803005 Stadtbredimus, Vinsm  01430  01430                % 00353 RGTR--
+210803006 Stadtbredimus, Wandm  01430  01430                % 00353 RGTR--
+210701003 Remich, Caves St. Ma  01431  01431                % 00353 RGTR--
+210701008 Remich, Maatebierg    01432  01432                % 00353 RGTR--
+210701006 Remich, Gare routièr  01434  01434                % 00353 RGTR--
+210701011 Remich, Piscine       01435  01435                % 00353 RGTR--
+211001005 Bech-Kleinmacher, Es  01438  01438                % 00353 RGTR--
+211001003 Bech-Kleinmacher, Fu  01439  01439                % 00353 RGTR--
+211002001 Schwebsingen, Centre  01441  01441                % 00353 RGTR--
+211002002 Schwebsingen, Op der  01441  01441                % 00353 RGTR--
+210603001 Wintrange, Dorefplaz  01443  01443                % 00353 RGTR--
+210601001 Remerschen, Al Schou  01444  01444                % 00353 RGTR--
+210601003 Remerschen, Kiosk     01445  01445                % 00353 RGTR--
+210601002 Remerschen, Ennen am  01446  01446                % 00353 RGTR--
+210602004 Schengen, Séckerbaac  01448  01448                % 00353 RGTR--
+210602001 Schengen, Ennen am D  01449  01449                % 00353 RGTR--
+210602002 Schengen, Koerech     01449  01449                % 00353 RGTR--
+210602003 Schengen, Schoul      01450  01450                % 00353 RGTR--
+210602005 Schengen, Um Haff     01451  01451                % 00353 RGTR--
+210201002 Burmerange, Résidenc  01455  01455                % 00353 RGTR--
+210201001 Burmerange, Bei der   01456  01456                % 00353 RGTR--
+210201003 Burmerange, Um Schot  01456  01456                % 00353 RGTR--
+210202002 Elvange/Mondorf, Kal  01459  01459                % 00353 RGTR--
+210202001 Elvange/Mondorf, Bei  01500  01500                % 00353 RGTR--
+210202003 Elvange/Mondorf, Vil  01501                       % 00353 RGTR--
+*Z 00361 RGTR--                                             % 00361 RGTR--
+*L B08      180401006 210202003  01405  01501               % 00361 RGTR--
+*A cj 180401006 210202003 000011  01405  01501              % 00361 RGTR--
+*A cn 180401006 210202003 000011  01405  01501              % 00361 RGTR--
+*A DC 180401006 210202003 000011  01405  01501              % 00361 RGTR--
+*A ad 180401006 210202003 000011  01405  01501              % 00361 RGTR--
+*R 2 210202003 180401006 210202003  01405  01501            % 00361 RGTR--
+*G 050 180401006 210202003  01405  01501                    % 00361 RGTR--
+*A VE 180401006 210202003 000011  01405  01501              % 00361 RGTR--
+*I FD 180401006 210202003        0001812  01405  01501      % 00361 RGTR--
+180401006 Grevenmacher, Schoul         01405                % 00361 RGTR--
+180401003 Grevenmacher, Gare r  01406  01406                % 00361 RGTR--
+180401002 Grevenmacher, Enner   01407  01407                % 00361 RGTR--
+180401005 Grevenmacher, Route   01408  01408                % 00361 RGTR--
+180803002 Machtum, Deisermille  01410  01410                % 00361 RGTR--
+180803003 Machtum, Gellebur     01410  01410                % 00361 RGTR--
+180803001 Machtum, Bei Kallek'  01411  01411                % 00361 RGTR--
+180801001 Ahn, Alphonse Steinè  01415  01415                % 00361 RGTR--
+180801003 Ahn, Op der Musel     01415  01415                % 00361 RGTR--
+180804004 Wormeldange, Kellere  01417  01417                % 00361 RGTR--
+180804001 Wormeldange, Erdkaul  01418  01418                % 00361 RGTR--
+180804002 Wormeldange, Geméen   01419  01419                % 00361 RGTR--
+180804003 Wormeldange, Gewân    01420  01420                % 00361 RGTR--
+180802003 Ehnen, Ieselsbreck    01421  01421                % 00361 RGTR--
+180802002 Ehnen, Bromelt        01422  01422                % 00361 RGTR--
+210802001 Hëttermillen          01423  01423                % 00361 RGTR--
+210801001 Greiveldange, Keller  01424  01424                % 00361 RGTR--
+210801003 Greiveldange, Neie W  01424  01424                % 00361 RGTR--
+210801002 Greiveldange, Gemeng  01425  01425                % 00361 RGTR--
+210803003 Stadtbredimus, Schle  01429  01429                % 00361 RGTR--
+210803005 Stadtbredimus, Vinsm  01430  01430                % 00361 RGTR--
+210803006 Stadtbredimus, Wandm  01430  01430                % 00361 RGTR--
+210701003 Remich, Caves St. Ma  01431  01431                % 00361 RGTR--
+210701008 Remich, Maatebierg    01432  01432                % 00361 RGTR--
+210701006 Remich, Gare routièr  01434  01434                % 00361 RGTR--
+210701011 Remich, Piscine       01435  01435                % 00361 RGTR--
+211001005 Bech-Kleinmacher, Es  01438  01438                % 00361 RGTR--
+211001003 Bech-Kleinmacher, Fu  01439  01439                % 00361 RGTR--
+211002001 Schwebsingen, Centre  01441  01441                % 00361 RGTR--
+211002002 Schwebsingen, Op der  01441  01441                % 00361 RGTR--
+210603001 Wintrange, Dorefplaz  01443  01443                % 00361 RGTR--
+210601001 Remerschen, Al Schou  01444  01444                % 00361 RGTR--
+210601003 Remerschen, Kiosk     01445  01445                % 00361 RGTR--
+210601002 Remerschen, Ennen am  01446  01446                % 00361 RGTR--
+210602004 Schengen, Séckerbaac  01448  01448                % 00361 RGTR--
+210602001 Schengen, Ennen am D  01449  01449                % 00361 RGTR--
+210602002 Schengen, Koerech     01449  01449                % 00361 RGTR--
+210602003 Schengen, Schoul      01450  01450                % 00361 RGTR--
+210602005 Schengen, Um Haff     01451  01451                % 00361 RGTR--
+210201002 Burmerange, Résidenc  01455  01455                % 00361 RGTR--
+210201001 Burmerange, Bei der   01456  01456                % 00361 RGTR--
+210201003 Burmerange, Um Schot  01456  01456                % 00361 RGTR--
+210202002 Elvange/Mondorf, Kal  01459  01459                % 00361 RGTR--
+210202001 Elvange/Mondorf, Bei  01500  01500                % 00361 RGTR--
+210202003 Elvange/Mondorf, Vil  01501                       % 00361 RGTR--
+*Z 18077 RGTR--                                             % 18077 RGTR--
+*L B08      180401006 210202003  01550  01647               % 18077 RGTR--
+*A cj 180401006 210202003 000042  01550  01647              % 18077 RGTR--
+*A ad 180401006 210202003 000042  01550  01647              % 18077 RGTR--
+*R 2 210202003 180401006 210202003  01550  01647            % 18077 RGTR--
+*G 063 180401006 210202003  01550  01647                    % 18077 RGTR--
+*A VE 180401006 210202003 000042  01550  01647              % 18077 RGTR--
+*I FD 180401006 210202003        0001175  01550  01647      % 18077 RGTR--
+180401006 Grevenmacher, Schoul         01550                % 18077 RGTR--
+180401003 Grevenmacher, Gare r  01551  01551                % 18077 RGTR--
+180401002 Grevenmacher, Enner   01553  01553                % 18077 RGTR--
+180401005 Grevenmacher, Route   01554  01554                % 18077 RGTR--
+180803002 Machtum, Deisermille  01555  01555                % 18077 RGTR--
+180803003 Machtum, Gellebur     01556  01556                % 18077 RGTR--
+180803001 Machtum, Bei Kallek'  01556  01556                % 18077 RGTR--
+180801001 Ahn, Alphonse Steinè  01601  01601                % 18077 RGTR--
+180801003 Ahn, Op der Musel     01601  01601                % 18077 RGTR--
+180804004 Wormeldange, Kellere  01603  01603                % 18077 RGTR--
+180804001 Wormeldange, Erdkaul  01603  01603                % 18077 RGTR--
+180804002 Wormeldange, Geméen   01605  01605                % 18077 RGTR--
+180804003 Wormeldange, Gewân    01605  01605                % 18077 RGTR--
+180802003 Ehnen, Ieselsbreck    01607  01607                % 18077 RGTR--
+180802002 Ehnen, Bromelt        01607  01607                % 18077 RGTR--
+210802001 Hëttermillen          01609  01609                % 18077 RGTR--
+210801001 Greiveldange, Keller  01610  01610                % 18077 RGTR--
+210801003 Greiveldange, Neie W  01610  01610                % 18077 RGTR--
+210801002 Greiveldange, Gemeng  01610  01610                % 18077 RGTR--
+210803003 Stadtbredimus, Schle  01614  01614                % 18077 RGTR--
+210803005 Stadtbredimus, Vinsm  01615  01615                % 18077 RGTR--
+210803006 Stadtbredimus, Wandm  01616  01616                % 18077 RGTR--
+210701003 Remich, Caves St. Ma  01617  01617                % 18077 RGTR--
+210701008 Remich, Maatebierg    01618  01618                % 18077 RGTR--
+210701006 Remich, Gare routièr  01620  01620                % 18077 RGTR--
+210701011 Remich, Piscine       01621  01621                % 18077 RGTR--
+211001005 Bech-Kleinmacher, Es  01623  01623                % 18077 RGTR--
+211001003 Bech-Kleinmacher, Fu  01624  01624                % 18077 RGTR--
+211002001 Schwebsingen, Centre  01626  01626                % 18077 RGTR--
+211002002 Schwebsingen, Op der  01627  01627                % 18077 RGTR--
+210603001 Wintrange, Dorefplaz  01628  01628                % 18077 RGTR--
+210601001 Remerschen, Al Schou  01630  01630                % 18077 RGTR--
+210601003 Remerschen, Kiosk     01631  01631                % 18077 RGTR--
+210601002 Remerschen, Ennen am  01631  01631                % 18077 RGTR--
+210602004 Schengen, Séckerbaac  01633  01633                % 18077 RGTR--
+210602001 Schengen, Ennen am D  01634  01634                % 18077 RGTR--
+210602002 Schengen, Koerech     01635  01635                % 18077 RGTR--
+210602003 Schengen, Schoul      01636  01636                % 18077 RGTR--
+210602005 Schengen, Um Haff     01636  01636                % 18077 RGTR--
+210201002 Burmerange, Résidenc  01641  01641                % 18077 RGTR--
+210201001 Burmerange, Bei der   01642  01642                % 18077 RGTR--
+210201003 Burmerange, Um Schot  01643  01643                % 18077 RGTR--
+210202002 Elvange/Mondorf, Kal  01645  01645                % 18077 RGTR--
+210202001 Elvange/Mondorf, Bei  01646  01646                % 18077 RGTR--
+210202003 Elvange/Mondorf, Vil  01647                       % 18077 RGTR--
+*Z 18078 RGTR--                                             % 18078 RGTR--
+*L B08      180401003 210503003  01519  01603               % 18078 RGTR--
+*A cj 180401003 210503003 000042  01519  01603              % 18078 RGTR--
+*A ad 180401003 210503003 000042  01519  01603              % 18078 RGTR--
+*R 2 210503003 180401003 210503003  01519  01603            % 18078 RGTR--
+*G 072 180401003 210503003  01519  01603                    % 18078 RGTR--
+*A VE 180401003 210503003 000042  01519  01603              % 18078 RGTR--
+*I FD 180401003 210503003        0003385  01519  01603      % 18078 RGTR--
+180401003 Grevenmacher, Gare r         01519                % 18078 RGTR--
+180401002 Grevenmacher, Enner   01520  01520                % 18078 RGTR--
+180401005 Grevenmacher, Route   01521  01521                % 18078 RGTR--
+180803002 Machtum, Deisermille  01522  01522                % 18078 RGTR--
+180803003 Machtum, Gellebur     01523  01523                % 18078 RGTR--
+180803001 Machtum, Bei Kallek'  01523  01523                % 18078 RGTR--
+180801001 Ahn, Alphonse Steinè  01528  01528                % 18078 RGTR--
+180801003 Ahn, Op der Musel     01528  01528                % 18078 RGTR--
+180804004 Wormeldange, Kellere  01530  01530                % 18078 RGTR--
+180804001 Wormeldange, Erdkaul  01530  01530                % 18078 RGTR--
+180804002 Wormeldange, Geméen   01532  01532                % 18078 RGTR--
+180804003 Wormeldange, Gewân    01532  01532                % 18078 RGTR--
+180802003 Ehnen, Ieselsbreck    01534  01534                % 18078 RGTR--
+180802002 Ehnen, Bromelt        01534  01534                % 18078 RGTR--
+210802001 Hëttermillen          01536  01536                % 18078 RGTR--
+210801001 Greiveldange, Keller  01537  01537                % 18078 RGTR--
+210801003 Greiveldange, Neie W  01537  01537                % 18078 RGTR--
+210801002 Greiveldange, Gemeng  01537  01537                % 18078 RGTR--
+210803003 Stadtbredimus, Schle  01541  01541                % 18078 RGTR--
+210803005 Stadtbredimus, Vinsm  01542  01542                % 18078 RGTR--
+210803006 Stadtbredimus, Wandm  01543  01543                % 18078 RGTR--
+210701003 Remich, Caves St. Ma  01544  01544                % 18078 RGTR--
+210701008 Remich, Maatebierg    01545  01545                % 18078 RGTR--
+210701006 Remich, Gare routièr  01547  01547                % 18078 RGTR--
+210701011 Remich, Piscine       01548  01548                % 18078 RGTR--
+211001005 Bech-Kleinmacher, Es  01550  01550                % 18078 RGTR--
+211003003 Wellenstein, Caves c  01551  01551                % 18078 RGTR--
+211003001 Wellenstein, Centre   01553  01553                % 18078 RGTR--
+211003002 Wellenstein, rte de   01553  01553                % 18078 RGTR--
+210502002 Ellange, Martialis    01558  01558                % 18078 RGTR--
+210503011 Mondorf-les-Bains, R  01559  01559                % 18078 RGTR--
+210503009 Mondorf-les-Bains, V  01600  01600                % 18078 RGTR--
+210503002 Mondorf-les-Bains, C  01602  01602                % 18078 RGTR--
+210503003 Mondorf-les-Bains, C  01603                       % 18078 RGTR--

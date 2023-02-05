@@ -1,0 +1,70 @@
+*F 03 2
+*Z 18116 RGTR--                                             % 18116 RGTR--
+*L B20      170501016 180401003  01435  01536               % 18116 RGTR--
+*A cj 170501016 180401003 000042  01435  01536              % 18116 RGTR--
+*A ad 170501016 180401003 000042  01435  01536              % 18116 RGTR--
+*R 1 180401003 170501016 180401003  01435  01536            % 18116 RGTR--
+*G 050 170501016 180401003  01435  01536                    % 18116 RGTR--
+*A VE 170501016 180401003 000042  01435  01536              % 18116 RGTR--
+*I FD 170501016 180401003        0002009  01435  01536      % 18116 RGTR--
+170501016 Echternach, Gare Cen         01435                % 18116 RGTR--
+170501011 Echternach, Morgenst  01436  01436                % 18116 RGTR--
+170501015 Echternach, Ste Croi  01436  01436                % 18116 RGTR--
+170705001 Steinheim, An der Ue  01441  01441                % 18116 RGTR--
+170705002 Steinheim, Maeleck    01441  01441                % 18116 RGTR--
+170704005 Rosport, Source       01443  01443                % 18116 RGTR--
+170704001 Rosport, Camping      01444  01444                % 18116 RGTR--
+170704003 Rosport, Lokal        01444  01444                % 18116 RGTR--
+170704002 Rosport, Centr.Elect  01446  01446                % 18116 RGTR--
+170703003 Hinkel, Schiltzhaus   01447  01447                % 18116 RGTR--
+170703002 Hinkel                01448  01448                % 18116 RGTR--
+170702001 Girst                 01451  01451                % 18116 RGTR--
+170702002 Girst 2               01451  01451                % 18116 RGTR--
+170701001 Dickweiler, Duerfpla  01454  01454                % 18116 RGTR--
+170607003 Pafebierg             01458  01458                % 18116 RGTR--
+170607004 Mompach, Kléngelbaac  01501  01501                % 18116 RGTR--
+170606001 Mompach, Ieweschtstr  01501  01501                % 18116 RGTR--
+170603001 Givenich, Am Duerf    01503  01503                % 18116 RGTR--
+170602001 Boursdorf, Am Duerf   01507  01507                % 18116 RGTR--
+170607005 Mompach, Buerschdrëf  01510  01510                % 18116 RGTR--
+170604001 Herborn, Kiercheplaz  01514  01514                % 18116 RGTR--
+170607002 Hierber Millen        01515  01515                % 18116 RGTR--
+180602001 Lellig                01519  01519                % 18116 RGTR--
+180603001 Manternach, Gare rou  01522  01527                % 18116 RGTR--
+180604001 Manternach, Munschec  01531  01531                % 18116 RGTR--
+180401006 Grevenmacher, Schoul  01535  01535                % 18116 RGTR--
+180401003 Grevenmacher, Gare r  01536                       % 18116 RGTR--
+*Z 18117 RGTR--                                             % 18117 RGTR--
+*L B20      180401003 170501016  00647  00745               % 18117 RGTR--
+*A cj 180401003 170501016 000042  00647  00745              % 18117 RGTR--
+*A ad 180401003 170501016 000042  00647  00745              % 18117 RGTR--
+*R 2 170501016 180401003 170501016  00647  00745            % 18117 RGTR--
+*G 063 180401003 170501016  00647  00745                    % 18117 RGTR--
+*A VE 180401003 170501016 000042  00647  00745              % 18117 RGTR--
+*I FD 180401003 170501016        0003390  00647  00745      % 18117 RGTR--
+180401003 Grevenmacher, Gare r         00647                % 18117 RGTR--
+180401010 Grevenmacher, Schoul  00649  00649                % 18117 RGTR--
+180604001 Manternach, Munschec  00652  00652                % 18117 RGTR--
+180603001 Manternach, Gare rou  00656  00656                % 18117 RGTR--
+180602001 Lellig                00700  00700                % 18117 RGTR--
+170607002 Hierber Millen        00704  00704                % 18117 RGTR--
+170604001 Herborn, Kiercheplaz  00705  00705                % 18117 RGTR--
+170606001 Mompach, Ieweschtstr  00710  00710                % 18117 RGTR--
+170603001 Givenich, Am Duerf    00711  00711                % 18117 RGTR--
+170602001 Boursdorf, Am Duerf   00715  00715                % 18117 RGTR--
+170607005 Mompach, Buerschdrëf  00716  00716                % 18117 RGTR--
+170607003 Pafebierg             00719  00719                % 18117 RGTR--
+170701001 Dickweiler, Duerfpla  00723  00723                % 18117 RGTR--
+170702002 Girst 2               00726  00726                % 18117 RGTR--
+170702001 Girst                 00727  00727                % 18117 RGTR--
+170703002 Hinkel                00731  00731                % 18117 RGTR--
+170703003 Hinkel, Schiltzhaus   00732  00732                % 18117 RGTR--
+170704002 Rosport, Centr.Elect  00732  00732                % 18117 RGTR--
+170704003 Rosport, Lokal        00734  00734                % 18117 RGTR--
+170704001 Rosport, Camping      00735  00735                % 18117 RGTR--
+170704005 Rosport, Source       00736  00736                % 18117 RGTR--
+170705002 Steinheim, Maeleck    00737  00737                % 18117 RGTR--
+170705003 Steinheim, Spillscho  00738  00738                % 18117 RGTR--
+170501015 Echternach, Ste Croi  00743  00743                % 18117 RGTR--
+170501011 Echternach, Morgenst  00744  00744                % 18117 RGTR--
+170501016 Echternach, Gare Cen  00745                       % 18117 RGTR--

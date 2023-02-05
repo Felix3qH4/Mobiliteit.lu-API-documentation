@@ -1,0 +1,63 @@
+*F 03 2
+*Z 20108 RGTR--                                             % 20108 RGTR--
+*L K39      110605006 110606001  00644  00700               % 20108 RGTR--
+*A ad 110605006 110606001 000042  00644  00700              % 20108 RGTR--
+*R 1 110606001 110605006 110606001  00644  00700            % 20108 RGTR--
+*G 050 110605006 110606001  00644  00700                    % 20108 RGTR--
+*A VE 110605006 110606001 000042  00644  00700              % 20108 RGTR--
+*I FD 110605006 110606001        0002400  00644  00700      % 20108 RGTR--
+110605006 Huldange, Schmëtt            00644                % 20108 RGTR--
+110605007 Huldange, Scierie     00646  00646                % 20108 RGTR--
+110605003 Huldange, Groussefel  00647  00647                % 20108 RGTR--
+110605001 Huldange, Eglise      00648  00648                % 20108 RGTR--
+110605002 Huldange, Grotte      00648  00648                % 20108 RGTR--
+110603001 Goedange              00650  00650                % 20108 RGTR--
+110607003 Wilwerdange, Station  00652  00652                % 20108 RGTR--
+110607001 Wilwerdange, Kiirch   00654  00654                % 20108 RGTR--
+110607002 Wilwerdange, Schoul   00654  00654                % 20108 RGTR--
+110602001 Drinklange            00655  00655                % 20108 RGTR--
+110606004 Troisvierges, Paster  00656  00656                % 20108 RGTR--
+110606006 Troisvierges, Tomm    00657  00657                % 20108 RGTR--
+110606002 Troisvierges, Mairie  00658  00658                % 20108 RGTR--
+110606003 Troisvierges, Milleb  00659  00659                % 20108 RGTR--
+110606001 Troisvierges, Gare r  00700                       % 20108 RGTR--
+*Z 20109 RGTR--                                             % 20109 RGTR--
+*L K39      110606002 110605006  01202  01214               % 20109 RGTR--
+*A ad 110606002 110605006 000042  01202  01214              % 20109 RGTR--
+*R 2 110605006 110606002 110605006  01202  01214            % 20109 RGTR--
+*G 050 110606002 110605006  01202  01214                    % 20109 RGTR--
+*A VE 110606002 110605006 000042  01202  01214              % 20109 RGTR--
+*I FD 110606002 110605006        0003463  01202  01214      % 20109 RGTR--
+110606002 Troisvierges, Mairie         01202                % 20109 RGTR--
+110606006 Troisvierges, Tomm    01202  01202                % 20109 RGTR--
+110606004 Troisvierges, Paster  01203  01203                % 20109 RGTR--
+110602001 Drinklange            01204  01204                % 20109 RGTR--
+110607002 Wilwerdange, Schoul   01205  01205                % 20109 RGTR--
+110607001 Wilwerdange, Kiirch   01205  01205                % 20109 RGTR--
+110607003 Wilwerdange, Station  01207  01207                % 20109 RGTR--
+110603001 Goedange              01208  01208                % 20109 RGTR--
+110605002 Huldange, Grotte      01210  01210                % 20109 RGTR--
+110605001 Huldange, Eglise      01211  01211                % 20109 RGTR--
+110605003 Huldange, Groussefel  01211  01211                % 20109 RGTR--
+110605007 Huldange, Scierie     01212  01212                % 20109 RGTR--
+110605006 Huldange, Schmëtt     01214                       % 20109 RGTR--
+*Z 20110 RGTR--                                             % 20110 RGTR--
+*L K39      110606002 110605006  01610  01623               % 20110 RGTR--
+*A ad 110606002 110605006 000047  01610  01623              % 20110 RGTR--
+*R 2 110605006 110606002 110605006  01610  01623            % 20110 RGTR--
+*G 050 110606002 110605006  01610  01623                    % 20110 RGTR--
+*A VE 110606002 110605006 000047  01610  01623              % 20110 RGTR--
+*I FD 110606002 110605006        0002674  01610  01623      % 20110 RGTR--
+110606002 Troisvierges, Mairie         01610                % 20110 RGTR--
+110606006 Troisvierges, Tomm    01611  01611                % 20110 RGTR--
+110606004 Troisvierges, Paster  01611  01611                % 20110 RGTR--
+110602001 Drinklange            01613  01613                % 20110 RGTR--
+110607002 Wilwerdange, Schoul   01613  01613                % 20110 RGTR--
+110607001 Wilwerdange, Kiirch   01614  01614                % 20110 RGTR--
+110607003 Wilwerdange, Station  01616  01616                % 20110 RGTR--
+110603001 Goedange              01617  01617                % 20110 RGTR--
+110605002 Huldange, Grotte      01619  01619                % 20110 RGTR--
+110605001 Huldange, Eglise      01620  01620                % 20110 RGTR--
+110605003 Huldange, Groussefel  01620  01620                % 20110 RGTR--
+110605007 Huldange, Scierie     01621  01621                % 20110 RGTR--
+110605006 Huldange, Schmëtt     01623                       % 20110 RGTR--

@@ -1,0 +1,1463 @@
+*F 03 2
+*Z 03185 RGTR--                                             % 03185 RGTR--
+*L 176      110820003 110606001  00654  00722               % 03185 RGTR--
+*A CI 110820003 110606001 000039  00654  00722              % 03185 RGTR--
+*R 1 110606001 110820003 110606001  00654  00722            % 03185 RGTR--
+*G 010 110820003 110606001  00654  00722                    % 03185 RGTR--
+*A VE 110820003 110606001 000039  00654  00722              % 03185 RGTR--
+*I FD 110820003 110606001        0001771  00654  00722      % 03185 RGTR--
+110820003 Troine-Route, Op der         00654                % 03185 RGTR--
+110820004 Troine-Route, Op der  00655  00655                % 03185 RGTR--
+110820002 Troine, Duarrefstroo  00657  00657                % 03185 RGTR--
+110820001 Troine, Bréck         00658  00658                % 03185 RGTR--
+110805001 Crendal, Duerefstroo  00659  00659                % 03185 RGTR--
+110821002 Wincrange, Haaptstro  00701  00701                % 03185 RGTR--
+110821006 Wincrange, Centre Mé  00703  00703                % 03185 RGTR--
+110811002 Hoffelt, Bei der Kir  00711  00711                % 03185 RGTR--
+110809002 Hachiville, Kräizung  00712  00712                % 03185 RGTR--
+110809001 Hachiville, Duärrefs  00713  00713                % 03185 RGTR--
+130107002 Weiler/Wincrange, Du  00716  00716                % 03185 RGTR--
+110802005 Asselborn, Legaye     00719  00719                % 03185 RGTR--
+110606005 Troisvierges, Police  00720  00720                % 03185 RGTR--
+110606003 Troisvierges, Milleb  00721  00721                % 03185 RGTR--
+110606001 Troisvierges, Gare r  00722                       % 03185 RGTR--
+*Z 03186 RGTR--                                             % 03186 RGTR--
+*L 176      110820003 110606001  00854  00922               % 03186 RGTR--
+*A CI 110820003 110606001 000039  00854  00922              % 03186 RGTR--
+*R 1 110606001 110820003 110606001  00854  00922            % 03186 RGTR--
+*G 010 110820003 110606001  00854  00922                    % 03186 RGTR--
+*A VE 110820003 110606001 000039  00854  00922              % 03186 RGTR--
+*I FD 110820003 110606001        0001763  00854  00922      % 03186 RGTR--
+110820003 Troine-Route, Op der         00854                % 03186 RGTR--
+110820004 Troine-Route, Op der  00855  00855                % 03186 RGTR--
+110820002 Troine, Duarrefstroo  00857  00857                % 03186 RGTR--
+110820001 Troine, Bréck         00858  00858                % 03186 RGTR--
+110805001 Crendal, Duerefstroo  00859  00859                % 03186 RGTR--
+110821002 Wincrange, Haaptstro  00901  00901                % 03186 RGTR--
+110821006 Wincrange, Centre Mé  00903  00903                % 03186 RGTR--
+110811002 Hoffelt, Bei der Kir  00911  00911                % 03186 RGTR--
+110809002 Hachiville, Kräizung  00912  00912                % 03186 RGTR--
+110809001 Hachiville, Duärrefs  00913  00913                % 03186 RGTR--
+130107002 Weiler/Wincrange, Du  00916  00916                % 03186 RGTR--
+110802005 Asselborn, Legaye     00919  00919                % 03186 RGTR--
+110606005 Troisvierges, Police  00920  00920                % 03186 RGTR--
+110606003 Troisvierges, Milleb  00921  00921                % 03186 RGTR--
+110606001 Troisvierges, Gare r  00922                       % 03186 RGTR--
+*Z 03187 RGTR--                                             % 03187 RGTR--
+*L 176      110820003 110606001  01054  01122               % 03187 RGTR--
+*A CI 110820003 110606001 000039  01054  01122              % 03187 RGTR--
+*R 1 110606001 110820003 110606001  01054  01122            % 03187 RGTR--
+*G 010 110820003 110606001  01054  01122                    % 03187 RGTR--
+*A VE 110820003 110606001 000039  01054  01122              % 03187 RGTR--
+*I FD 110820003 110606001        0001764  01054  01122      % 03187 RGTR--
+110820003 Troine-Route, Op der         01054                % 03187 RGTR--
+110820004 Troine-Route, Op der  01055  01055                % 03187 RGTR--
+110820002 Troine, Duarrefstroo  01057  01057                % 03187 RGTR--
+110820001 Troine, Bréck         01058  01058                % 03187 RGTR--
+110805001 Crendal, Duerefstroo  01059  01059                % 03187 RGTR--
+110821002 Wincrange, Haaptstro  01101  01101                % 03187 RGTR--
+110821006 Wincrange, Centre Mé  01103  01103                % 03187 RGTR--
+110811002 Hoffelt, Bei der Kir  01111  01111                % 03187 RGTR--
+110809002 Hachiville, Kräizung  01112  01112                % 03187 RGTR--
+110809001 Hachiville, Duärrefs  01113  01113                % 03187 RGTR--
+130107002 Weiler/Wincrange, Du  01116  01116                % 03187 RGTR--
+110802005 Asselborn, Legaye     01119  01119                % 03187 RGTR--
+110606005 Troisvierges, Police  01120  01120                % 03187 RGTR--
+110606003 Troisvierges, Milleb  01121  01121                % 03187 RGTR--
+110606001 Troisvierges, Gare r  01122                       % 03187 RGTR--
+*Z 03188 RGTR--                                             % 03188 RGTR--
+*L 176      110820003 110606001  01254  01322               % 03188 RGTR--
+*A CI 110820003 110606001 000039  01254  01322              % 03188 RGTR--
+*R 1 110606001 110820003 110606001  01254  01322            % 03188 RGTR--
+*G 010 110820003 110606001  01254  01322                    % 03188 RGTR--
+*A VE 110820003 110606001 000039  01254  01322              % 03188 RGTR--
+*I FD 110820003 110606001        0001765  01254  01322      % 03188 RGTR--
+110820003 Troine-Route, Op der         01254                % 03188 RGTR--
+110820004 Troine-Route, Op der  01255  01255                % 03188 RGTR--
+110820002 Troine, Duarrefstroo  01257  01257                % 03188 RGTR--
+110820001 Troine, Bréck         01258  01258                % 03188 RGTR--
+110805001 Crendal, Duerefstroo  01259  01259                % 03188 RGTR--
+110821002 Wincrange, Haaptstro  01301  01301                % 03188 RGTR--
+110821006 Wincrange, Centre Mé  01303  01303                % 03188 RGTR--
+110811002 Hoffelt, Bei der Kir  01311  01311                % 03188 RGTR--
+110809002 Hachiville, Kräizung  01312  01312                % 03188 RGTR--
+110809001 Hachiville, Duärrefs  01313  01313                % 03188 RGTR--
+130107002 Weiler/Wincrange, Du  01316  01316                % 03188 RGTR--
+110802005 Asselborn, Legaye     01319  01319                % 03188 RGTR--
+110606005 Troisvierges, Police  01320  01320                % 03188 RGTR--
+110606003 Troisvierges, Milleb  01321  01321                % 03188 RGTR--
+110606001 Troisvierges, Gare r  01322                       % 03188 RGTR--
+*Z 03189 RGTR--                                             % 03189 RGTR--
+*L 176      110820003 110606001  01454  01522               % 03189 RGTR--
+*A CI 110820003 110606001 000039  01454  01522              % 03189 RGTR--
+*R 1 110606001 110820003 110606001  01454  01522            % 03189 RGTR--
+*G 010 110820003 110606001  01454  01522                    % 03189 RGTR--
+*A VE 110820003 110606001 000039  01454  01522              % 03189 RGTR--
+*I FD 110820003 110606001        0001766  01454  01522      % 03189 RGTR--
+110820003 Troine-Route, Op der         01454                % 03189 RGTR--
+110820004 Troine-Route, Op der  01455  01455                % 03189 RGTR--
+110820002 Troine, Duarrefstroo  01457  01457                % 03189 RGTR--
+110820001 Troine, Bréck         01458  01458                % 03189 RGTR--
+110805001 Crendal, Duerefstroo  01459  01459                % 03189 RGTR--
+110821002 Wincrange, Haaptstro  01501  01501                % 03189 RGTR--
+110821006 Wincrange, Centre Mé  01503  01503                % 03189 RGTR--
+110811002 Hoffelt, Bei der Kir  01511  01511                % 03189 RGTR--
+110809002 Hachiville, Kräizung  01512  01512                % 03189 RGTR--
+110809001 Hachiville, Duärrefs  01513  01513                % 03189 RGTR--
+130107002 Weiler/Wincrange, Du  01516  01516                % 03189 RGTR--
+110802005 Asselborn, Legaye     01519  01519                % 03189 RGTR--
+110606005 Troisvierges, Police  01520  01520                % 03189 RGTR--
+110606003 Troisvierges, Milleb  01521  01521                % 03189 RGTR--
+110606001 Troisvierges, Gare r  01522                       % 03189 RGTR--
+*Z 03190 RGTR--                                             % 03190 RGTR--
+*L 176      110820003 110606001  01654  01722               % 03190 RGTR--
+*A CI 110820003 110606001 000039  01654  01722              % 03190 RGTR--
+*R 1 110606001 110820003 110606001  01654  01722            % 03190 RGTR--
+*G 010 110820003 110606001  01654  01722                    % 03190 RGTR--
+*A VE 110820003 110606001 000039  01654  01722              % 03190 RGTR--
+*I FD 110820003 110606001        0001772  01654  01722      % 03190 RGTR--
+110820003 Troine-Route, Op der         01654                % 03190 RGTR--
+110820004 Troine-Route, Op der  01655  01655                % 03190 RGTR--
+110820002 Troine, Duarrefstroo  01657  01657                % 03190 RGTR--
+110820001 Troine, Bréck         01658  01658                % 03190 RGTR--
+110805001 Crendal, Duerefstroo  01659  01659                % 03190 RGTR--
+110821002 Wincrange, Haaptstro  01701  01701                % 03190 RGTR--
+110821006 Wincrange, Centre Mé  01703  01703                % 03190 RGTR--
+110811002 Hoffelt, Bei der Kir  01711  01711                % 03190 RGTR--
+110809002 Hachiville, Kräizung  01712  01712                % 03190 RGTR--
+110809001 Hachiville, Duärrefs  01713  01713                % 03190 RGTR--
+130107002 Weiler/Wincrange, Du  01716  01716                % 03190 RGTR--
+110802005 Asselborn, Legaye     01719  01719                % 03190 RGTR--
+110606005 Troisvierges, Police  01720  01720                % 03190 RGTR--
+110606003 Troisvierges, Milleb  01721  01721                % 03190 RGTR--
+110606001 Troisvierges, Gare r  01722                       % 03190 RGTR--
+*Z 03191 RGTR--                                             % 03191 RGTR--
+*L 176      110820003 110606001  01854  01922               % 03191 RGTR--
+*A CI 110820003 110606001 000039  01854  01922              % 03191 RGTR--
+*R 1 110606001 110820003 110606001  01854  01922            % 03191 RGTR--
+*G 010 110820003 110606001  01854  01922                    % 03191 RGTR--
+*A VE 110820003 110606001 000039  01854  01922              % 03191 RGTR--
+*I FD 110820003 110606001        0001225  01854  01922      % 03191 RGTR--
+110820003 Troine-Route, Op der         01854                % 03191 RGTR--
+110820004 Troine-Route, Op der  01855  01855                % 03191 RGTR--
+110820002 Troine, Duarrefstroo  01857  01857                % 03191 RGTR--
+110820001 Troine, Bréck         01858  01858                % 03191 RGTR--
+110805001 Crendal, Duerefstroo  01859  01859                % 03191 RGTR--
+110821002 Wincrange, Haaptstro  01901  01901                % 03191 RGTR--
+110821006 Wincrange, Centre Mé  01903  01903                % 03191 RGTR--
+110811002 Hoffelt, Bei der Kir  01911  01911                % 03191 RGTR--
+110809002 Hachiville, Kräizung  01912  01912                % 03191 RGTR--
+110809001 Hachiville, Duärrefs  01913  01913                % 03191 RGTR--
+130107002 Weiler/Wincrange, Du  01916  01916                % 03191 RGTR--
+110802005 Asselborn, Legaye     01919  01919                % 03191 RGTR--
+110606005 Troisvierges, Police  01920  01920                % 03191 RGTR--
+110606003 Troisvierges, Milleb  01921  01921                % 03191 RGTR--
+110606001 Troisvierges, Gare r  01922                       % 03191 RGTR--
+*Z 03192 RGTR--                                             % 03192 RGTR--
+*L 176      110820003 110606001  02054  02122               % 03192 RGTR--
+*A CI 110820003 110606001 000039  02054  02122              % 03192 RGTR--
+*R 1 110606001 110820003 110606001  02054  02122            % 03192 RGTR--
+*G 010 110820003 110606001  02054  02122                    % 03192 RGTR--
+*A VE 110820003 110606001 000039  02054  02122              % 03192 RGTR--
+*I FD 110820003 110606001        0001767  02054  02122      % 03192 RGTR--
+110820003 Troine-Route, Op der         02054                % 03192 RGTR--
+110820004 Troine-Route, Op der  02055  02055                % 03192 RGTR--
+110820002 Troine, Duarrefstroo  02057  02057                % 03192 RGTR--
+110820001 Troine, Bréck         02058  02058                % 03192 RGTR--
+110805001 Crendal, Duerefstroo  02059  02059                % 03192 RGTR--
+110821002 Wincrange, Haaptstro  02101  02101                % 03192 RGTR--
+110821006 Wincrange, Centre Mé  02103  02103                % 03192 RGTR--
+110811002 Hoffelt, Bei der Kir  02111  02111                % 03192 RGTR--
+110809002 Hachiville, Kräizung  02112  02112                % 03192 RGTR--
+110809001 Hachiville, Duärrefs  02113  02113                % 03192 RGTR--
+130107002 Weiler/Wincrange, Du  02116  02116                % 03192 RGTR--
+110802005 Asselborn, Legaye     02119  02119                % 03192 RGTR--
+110606005 Troisvierges, Police  02120  02120                % 03192 RGTR--
+110606003 Troisvierges, Milleb  02121  02121                % 03192 RGTR--
+110606001 Troisvierges, Gare r  02122                       % 03192 RGTR--
+*Z 03193 RGTR--                                             % 03193 RGTR--
+*L 176      110820003 110606001  00454  00522               % 03193 RGTR--
+*A CI 110820003 110606001 000036  00454  00522              % 03193 RGTR--
+*R 1 110606001 110820003 110606001  00454  00522            % 03193 RGTR--
+*G 010 110820003 110606001  00454  00522                    % 03193 RGTR--
+*A VE 110820003 110606001 000036  00454  00522              % 03193 RGTR--
+*I FD 110820003 110606001        0002333  00454  00522      % 03193 RGTR--
+110820003 Troine-Route, Op der         00454                % 03193 RGTR--
+110820004 Troine-Route, Op der  00455  00455                % 03193 RGTR--
+110820002 Troine, Duarrefstroo  00457  00457                % 03193 RGTR--
+110820001 Troine, Bréck         00458  00458                % 03193 RGTR--
+110805001 Crendal, Duerefstroo  00459  00459                % 03193 RGTR--
+110821002 Wincrange, Haaptstro  00501  00501                % 03193 RGTR--
+110821006 Wincrange, Centre Mé  00503  00503                % 03193 RGTR--
+110811002 Hoffelt, Bei der Kir  00511  00511                % 03193 RGTR--
+110809002 Hachiville, Kräizung  00512  00512                % 03193 RGTR--
+110809001 Hachiville, Duärrefs  00513  00513                % 03193 RGTR--
+130107002 Weiler/Wincrange, Du  00516  00516                % 03193 RGTR--
+110802005 Asselborn, Legaye     00519  00519                % 03193 RGTR--
+110606005 Troisvierges, Police  00520  00520                % 03193 RGTR--
+110606003 Troisvierges, Milleb  00521  00521                % 03193 RGTR--
+110606001 Troisvierges, Gare r  00522                       % 03193 RGTR--
+*Z 03194 RGTR--                                             % 03194 RGTR--
+*L 176      110820003 110606001  00554  00622               % 03194 RGTR--
+*A CI 110820003 110606001 000036  00554  00622              % 03194 RGTR--
+*R 1 110606001 110820003 110606001  00554  00622            % 03194 RGTR--
+*G 010 110820003 110606001  00554  00622                    % 03194 RGTR--
+*A VE 110820003 110606001 000036  00554  00622              % 03194 RGTR--
+*I FD 110820003 110606001        0001762  00554  00622      % 03194 RGTR--
+110820003 Troine-Route, Op der         00554                % 03194 RGTR--
+110820004 Troine-Route, Op der  00555  00555                % 03194 RGTR--
+110820002 Troine, Duarrefstroo  00557  00557                % 03194 RGTR--
+110820001 Troine, Bréck         00558  00558                % 03194 RGTR--
+110805001 Crendal, Duerefstroo  00559  00559                % 03194 RGTR--
+110821002 Wincrange, Haaptstro  00601  00601                % 03194 RGTR--
+110821006 Wincrange, Centre Mé  00603  00603                % 03194 RGTR--
+110811002 Hoffelt, Bei der Kir  00611  00611                % 03194 RGTR--
+110809002 Hachiville, Kräizung  00612  00612                % 03194 RGTR--
+110809001 Hachiville, Duärrefs  00613  00613                % 03194 RGTR--
+130107002 Weiler/Wincrange, Du  00616  00616                % 03194 RGTR--
+110802005 Asselborn, Legaye     00619  00619                % 03194 RGTR--
+110606005 Troisvierges, Police  00620  00620                % 03194 RGTR--
+110606003 Troisvierges, Milleb  00621  00621                % 03194 RGTR--
+110606001 Troisvierges, Gare r  00622                       % 03194 RGTR--
+*Z 03195 RGTR--                                             % 03195 RGTR--
+*L 176      110820003 110606001  00754  00822               % 03195 RGTR--
+*A CI 110820003 110606001 000036  00754  00822              % 03195 RGTR--
+*R 1 110606001 110820003 110606001  00754  00822            % 03195 RGTR--
+*G 010 110820003 110606001  00754  00822                    % 03195 RGTR--
+*A VE 110820003 110606001 000036  00754  00822              % 03195 RGTR--
+*I FD 110820003 110606001        0001769  00754  00822      % 03195 RGTR--
+110820003 Troine-Route, Op der         00754                % 03195 RGTR--
+110820004 Troine-Route, Op der  00755  00755                % 03195 RGTR--
+110820002 Troine, Duarrefstroo  00757  00757                % 03195 RGTR--
+110820001 Troine, Bréck         00758  00758                % 03195 RGTR--
+110805001 Crendal, Duerefstroo  00759  00759                % 03195 RGTR--
+110821002 Wincrange, Haaptstro  00801  00801                % 03195 RGTR--
+110821006 Wincrange, Centre Mé  00803  00803                % 03195 RGTR--
+110811002 Hoffelt, Bei der Kir  00811  00811                % 03195 RGTR--
+110809002 Hachiville, Kräizung  00812  00812                % 03195 RGTR--
+110809001 Hachiville, Duärrefs  00813  00813                % 03195 RGTR--
+130107002 Weiler/Wincrange, Du  00816  00816                % 03195 RGTR--
+110802005 Asselborn, Legaye     00819  00819                % 03195 RGTR--
+110606005 Troisvierges, Police  00820  00820                % 03195 RGTR--
+110606003 Troisvierges, Milleb  00821  00821                % 03195 RGTR--
+110606001 Troisvierges, Gare r  00822                       % 03195 RGTR--
+*Z 03196 RGTR--                                             % 03196 RGTR--
+*L 176      110820003 110606001  00954  01022               % 03196 RGTR--
+*A CI 110820003 110606001 000036  00954  01022              % 03196 RGTR--
+*R 1 110606001 110820003 110606001  00954  01022            % 03196 RGTR--
+*G 010 110820003 110606001  00954  01022                    % 03196 RGTR--
+*A VE 110820003 110606001 000036  00954  01022              % 03196 RGTR--
+*I FD 110820003 110606001        0001757  00954  01022      % 03196 RGTR--
+110820003 Troine-Route, Op der         00954                % 03196 RGTR--
+110820004 Troine-Route, Op der  00955  00955                % 03196 RGTR--
+110820002 Troine, Duarrefstroo  00957  00957                % 03196 RGTR--
+110820001 Troine, Bréck         00958  00958                % 03196 RGTR--
+110805001 Crendal, Duerefstroo  00959  00959                % 03196 RGTR--
+110821002 Wincrange, Haaptstro  01001  01001                % 03196 RGTR--
+110821006 Wincrange, Centre Mé  01003  01003                % 03196 RGTR--
+110811002 Hoffelt, Bei der Kir  01011  01011                % 03196 RGTR--
+110809002 Hachiville, Kräizung  01012  01012                % 03196 RGTR--
+110809001 Hachiville, Duärrefs  01013  01013                % 03196 RGTR--
+130107002 Weiler/Wincrange, Du  01016  01016                % 03196 RGTR--
+110802005 Asselborn, Legaye     01019  01019                % 03196 RGTR--
+110606005 Troisvierges, Police  01020  01020                % 03196 RGTR--
+110606003 Troisvierges, Milleb  01021  01021                % 03196 RGTR--
+110606001 Troisvierges, Gare r  01022                       % 03196 RGTR--
+*Z 03197 RGTR--                                             % 03197 RGTR--
+*L 176      110820003 110606001  01154  01222               % 03197 RGTR--
+*A CI 110820003 110606001 000036  01154  01222              % 03197 RGTR--
+*R 1 110606001 110820003 110606001  01154  01222            % 03197 RGTR--
+*G 010 110820003 110606001  01154  01222                    % 03197 RGTR--
+*A VE 110820003 110606001 000036  01154  01222              % 03197 RGTR--
+*I FD 110820003 110606001        0001758  01154  01222      % 03197 RGTR--
+110820003 Troine-Route, Op der         01154                % 03197 RGTR--
+110820004 Troine-Route, Op der  01155  01155                % 03197 RGTR--
+110820002 Troine, Duarrefstroo  01157  01157                % 03197 RGTR--
+110820001 Troine, Bréck         01158  01158                % 03197 RGTR--
+110805001 Crendal, Duerefstroo  01159  01159                % 03197 RGTR--
+110821002 Wincrange, Haaptstro  01201  01201                % 03197 RGTR--
+110821006 Wincrange, Centre Mé  01203  01203                % 03197 RGTR--
+110811002 Hoffelt, Bei der Kir  01211  01211                % 03197 RGTR--
+110809002 Hachiville, Kräizung  01212  01212                % 03197 RGTR--
+110809001 Hachiville, Duärrefs  01213  01213                % 03197 RGTR--
+130107002 Weiler/Wincrange, Du  01216  01216                % 03197 RGTR--
+110802005 Asselborn, Legaye     01219  01219                % 03197 RGTR--
+110606005 Troisvierges, Police  01220  01220                % 03197 RGTR--
+110606003 Troisvierges, Milleb  01221  01221                % 03197 RGTR--
+110606001 Troisvierges, Gare r  01222                       % 03197 RGTR--
+*Z 03198 RGTR--                                             % 03198 RGTR--
+*L 176      110820003 110606001  01354  01422               % 03198 RGTR--
+*A CI 110820003 110606001 000036  01354  01422              % 03198 RGTR--
+*R 1 110606001 110820003 110606001  01354  01422            % 03198 RGTR--
+*G 010 110820003 110606001  01354  01422                    % 03198 RGTR--
+*A VE 110820003 110606001 000036  01354  01422              % 03198 RGTR--
+*I FD 110820003 110606001        0001165  01354  01422      % 03198 RGTR--
+110820003 Troine-Route, Op der         01354                % 03198 RGTR--
+110820004 Troine-Route, Op der  01355  01355                % 03198 RGTR--
+110820002 Troine, Duarrefstroo  01357  01357                % 03198 RGTR--
+110820001 Troine, Bréck         01358  01358                % 03198 RGTR--
+110805001 Crendal, Duerefstroo  01359  01359                % 03198 RGTR--
+110821002 Wincrange, Haaptstro  01401  01401                % 03198 RGTR--
+110821006 Wincrange, Centre Mé  01403  01403                % 03198 RGTR--
+110811002 Hoffelt, Bei der Kir  01411  01411                % 03198 RGTR--
+110809002 Hachiville, Kräizung  01412  01412                % 03198 RGTR--
+110809001 Hachiville, Duärrefs  01413  01413                % 03198 RGTR--
+130107002 Weiler/Wincrange, Du  01416  01416                % 03198 RGTR--
+110802005 Asselborn, Legaye     01419  01419                % 03198 RGTR--
+110606005 Troisvierges, Police  01420  01420                % 03198 RGTR--
+110606003 Troisvierges, Milleb  01421  01421                % 03198 RGTR--
+110606001 Troisvierges, Gare r  01422                       % 03198 RGTR--
+*Z 03199 RGTR--                                             % 03199 RGTR--
+*L 176      110820003 110606001  01554  01622               % 03199 RGTR--
+*A CI 110820003 110606001 000036  01554  01622              % 03199 RGTR--
+*R 1 110606001 110820003 110606001  01554  01622            % 03199 RGTR--
+*G 010 110820003 110606001  01554  01622                    % 03199 RGTR--
+*A VE 110820003 110606001 000036  01554  01622              % 03199 RGTR--
+*I FD 110820003 110606001        0001759  01554  01622      % 03199 RGTR--
+110820003 Troine-Route, Op der         01554                % 03199 RGTR--
+110820004 Troine-Route, Op der  01555  01555                % 03199 RGTR--
+110820002 Troine, Duarrefstroo  01557  01557                % 03199 RGTR--
+110820001 Troine, Bréck         01558  01558                % 03199 RGTR--
+110805001 Crendal, Duerefstroo  01559  01559                % 03199 RGTR--
+110821002 Wincrange, Haaptstro  01601  01601                % 03199 RGTR--
+110821006 Wincrange, Centre Mé  01603  01603                % 03199 RGTR--
+110811002 Hoffelt, Bei der Kir  01611  01611                % 03199 RGTR--
+110809002 Hachiville, Kräizung  01612  01612                % 03199 RGTR--
+110809001 Hachiville, Duärrefs  01613  01613                % 03199 RGTR--
+130107002 Weiler/Wincrange, Du  01616  01616                % 03199 RGTR--
+110802005 Asselborn, Legaye     01619  01619                % 03199 RGTR--
+110606005 Troisvierges, Police  01620  01620                % 03199 RGTR--
+110606003 Troisvierges, Milleb  01621  01621                % 03199 RGTR--
+110606001 Troisvierges, Gare r  01622                       % 03199 RGTR--
+*Z 03200 RGTR--                                             % 03200 RGTR--
+*L 176      110820003 110606001  01754  01822               % 03200 RGTR--
+*A CI 110820003 110606001 000036  01754  01822              % 03200 RGTR--
+*R 1 110606001 110820003 110606001  01754  01822            % 03200 RGTR--
+*G 010 110820003 110606001  01754  01822                    % 03200 RGTR--
+*A VE 110820003 110606001 000036  01754  01822              % 03200 RGTR--
+*I FD 110820003 110606001        0001770  01754  01822      % 03200 RGTR--
+110820003 Troine-Route, Op der         01754                % 03200 RGTR--
+110820004 Troine-Route, Op der  01755  01755                % 03200 RGTR--
+110820002 Troine, Duarrefstroo  01757  01757                % 03200 RGTR--
+110820001 Troine, Bréck         01758  01758                % 03200 RGTR--
+110805001 Crendal, Duerefstroo  01759  01759                % 03200 RGTR--
+110821002 Wincrange, Haaptstro  01801  01801                % 03200 RGTR--
+110821006 Wincrange, Centre Mé  01803  01803                % 03200 RGTR--
+110811002 Hoffelt, Bei der Kir  01811  01811                % 03200 RGTR--
+110809002 Hachiville, Kräizung  01812  01812                % 03200 RGTR--
+110809001 Hachiville, Duärrefs  01813  01813                % 03200 RGTR--
+130107002 Weiler/Wincrange, Du  01816  01816                % 03200 RGTR--
+110802005 Asselborn, Legaye     01819  01819                % 03200 RGTR--
+110606005 Troisvierges, Police  01820  01820                % 03200 RGTR--
+110606003 Troisvierges, Milleb  01821  01821                % 03200 RGTR--
+110606001 Troisvierges, Gare r  01822                       % 03200 RGTR--
+*Z 03201 RGTR--                                             % 03201 RGTR--
+*L 176      110820003 110606001  01954  02022               % 03201 RGTR--
+*A CI 110820003 110606001 000036  01954  02022              % 03201 RGTR--
+*R 1 110606001 110820003 110606001  01954  02022            % 03201 RGTR--
+*G 010 110820003 110606001  01954  02022                    % 03201 RGTR--
+*A VE 110820003 110606001 000036  01954  02022              % 03201 RGTR--
+*I FD 110820003 110606001        0001760  01954  02022      % 03201 RGTR--
+110820003 Troine-Route, Op der         01954                % 03201 RGTR--
+110820004 Troine-Route, Op der  01955  01955                % 03201 RGTR--
+110820002 Troine, Duarrefstroo  01957  01957                % 03201 RGTR--
+110820001 Troine, Bréck         01958  01958                % 03201 RGTR--
+110805001 Crendal, Duerefstroo  01959  01959                % 03201 RGTR--
+110821002 Wincrange, Haaptstro  02001  02001                % 03201 RGTR--
+110821006 Wincrange, Centre Mé  02003  02003                % 03201 RGTR--
+110811002 Hoffelt, Bei der Kir  02011  02011                % 03201 RGTR--
+110809002 Hachiville, Kräizung  02012  02012                % 03201 RGTR--
+110809001 Hachiville, Duärrefs  02013  02013                % 03201 RGTR--
+130107002 Weiler/Wincrange, Du  02016  02016                % 03201 RGTR--
+110802005 Asselborn, Legaye     02019  02019                % 03201 RGTR--
+110606005 Troisvierges, Police  02020  02020                % 03201 RGTR--
+110606003 Troisvierges, Milleb  02021  02021                % 03201 RGTR--
+110606001 Troisvierges, Gare r  02022                       % 03201 RGTR--
+*Z 03202 RGTR--                                             % 03202 RGTR--
+*L 176      110606001 110820003  00734  00802               % 03202 RGTR--
+*A CK 110606001 110820003 000039  00734  00802              % 03202 RGTR--
+*R 2 110820003 110606001 110820003  00734  00802            % 03202 RGTR--
+*G 010 110606001 110820003  00734  00802                    % 03202 RGTR--
+*A VE 110606001 110820003 000039  00734  00802              % 03202 RGTR--
+*I FD 110606001 110820003        0002263  00734  00802      % 03202 RGTR--
+110606001 Troisvierges, Gare r         00734                % 03202 RGTR--
+110606003 Troisvierges, Milleb  00734  00734                % 03202 RGTR--
+110606005 Troisvierges, Police  00735  00735                % 03202 RGTR--
+110802005 Asselborn, Legaye     00736  00736                % 03202 RGTR--
+130107002 Weiler/Wincrange, Du  00739  00739                % 03202 RGTR--
+110809001 Hachiville, Duärrefs  00742  00742                % 03202 RGTR--
+110809002 Hachiville, Kräizung  00743  00743                % 03202 RGTR--
+110811002 Hoffelt, Bei der Kir  00744  00744                % 03202 RGTR--
+110821006 Wincrange, Centre Mé  00753  00753                % 03202 RGTR--
+110821002 Wincrange, Haaptstro  00754  00754                % 03202 RGTR--
+110805001 Crendal, Duerefstroo  00756  00756                % 03202 RGTR--
+110820002 Troine, Duarrefstroo  00758  00758                % 03202 RGTR--
+110820001 Troine, Bréck         00759  00759                % 03202 RGTR--
+110820004 Troine-Route, Op der  00801  00801                % 03202 RGTR--
+110820003 Troine-Route, Op der  00802                       % 03202 RGTR--
+*Z 03203 RGTR--                                             % 03203 RGTR--
+*L 176      110606001 110820003  00934  01002               % 03203 RGTR--
+*A CK 110606001 110820003 000039  00934  01002              % 03203 RGTR--
+*R 2 110820003 110606001 110820003  00934  01002            % 03203 RGTR--
+*G 010 110606001 110820003  00934  01002                    % 03203 RGTR--
+*A VE 110606001 110820003 000039  00934  01002              % 03203 RGTR--
+*I FD 110606001 110820003        0000928  00934  01002      % 03203 RGTR--
+110606001 Troisvierges, Gare r         00934                % 03203 RGTR--
+110606003 Troisvierges, Milleb  00934  00934                % 03203 RGTR--
+110606005 Troisvierges, Police  00935  00935                % 03203 RGTR--
+110802005 Asselborn, Legaye     00936  00936                % 03203 RGTR--
+130107002 Weiler/Wincrange, Du  00939  00939                % 03203 RGTR--
+110809001 Hachiville, Duärrefs  00942  00942                % 03203 RGTR--
+110809002 Hachiville, Kräizung  00943  00943                % 03203 RGTR--
+110811002 Hoffelt, Bei der Kir  00944  00944                % 03203 RGTR--
+110821006 Wincrange, Centre Mé  00953  00953                % 03203 RGTR--
+110821002 Wincrange, Haaptstro  00954  00954                % 03203 RGTR--
+110805001 Crendal, Duerefstroo  00956  00956                % 03203 RGTR--
+110820002 Troine, Duarrefstroo  00958  00958                % 03203 RGTR--
+110820001 Troine, Bréck         00959  00959                % 03203 RGTR--
+110820004 Troine-Route, Op der  01001  01001                % 03203 RGTR--
+110820003 Troine-Route, Op der  01002                       % 03203 RGTR--
+*Z 03204 RGTR--                                             % 03204 RGTR--
+*L 176      110606001 110820003  01134  01202               % 03204 RGTR--
+*A CK 110606001 110820003 000039  01134  01202              % 03204 RGTR--
+*R 2 110820003 110606001 110820003  01134  01202            % 03204 RGTR--
+*G 010 110606001 110820003  01134  01202                    % 03204 RGTR--
+*A VE 110606001 110820003 000039  01134  01202              % 03204 RGTR--
+*I FD 110606001 110820003        0002255  01134  01202      % 03204 RGTR--
+110606001 Troisvierges, Gare r         01134                % 03204 RGTR--
+110606003 Troisvierges, Milleb  01134  01134                % 03204 RGTR--
+110606005 Troisvierges, Police  01135  01135                % 03204 RGTR--
+110802005 Asselborn, Legaye     01136  01136                % 03204 RGTR--
+130107002 Weiler/Wincrange, Du  01139  01139                % 03204 RGTR--
+110809001 Hachiville, Duärrefs  01142  01142                % 03204 RGTR--
+110809002 Hachiville, Kräizung  01143  01143                % 03204 RGTR--
+110811002 Hoffelt, Bei der Kir  01144  01144                % 03204 RGTR--
+110821006 Wincrange, Centre Mé  01153  01153                % 03204 RGTR--
+110821002 Wincrange, Haaptstro  01154  01154                % 03204 RGTR--
+110805001 Crendal, Duerefstroo  01156  01156                % 03204 RGTR--
+110820002 Troine, Duarrefstroo  01158  01158                % 03204 RGTR--
+110820001 Troine, Bréck         01159  01159                % 03204 RGTR--
+110820004 Troine-Route, Op der  01201  01201                % 03204 RGTR--
+110820003 Troine-Route, Op der  01202                       % 03204 RGTR--
+*Z 03205 RGTR--                                             % 03205 RGTR--
+*L 176      110606001 110820003  01334  01402               % 03205 RGTR--
+*A CK 110606001 110820003 000039  01334  01402              % 03205 RGTR--
+*R 2 110820003 110606001 110820003  01334  01402            % 03205 RGTR--
+*G 010 110606001 110820003  01334  01402                    % 03205 RGTR--
+*A VE 110606001 110820003 000039  01334  01402              % 03205 RGTR--
+*I FD 110606001 110820003        0002256  01334  01402      % 03205 RGTR--
+110606001 Troisvierges, Gare r         01334                % 03205 RGTR--
+110606003 Troisvierges, Milleb  01334  01334                % 03205 RGTR--
+110606005 Troisvierges, Police  01335  01335                % 03205 RGTR--
+110802005 Asselborn, Legaye     01336  01336                % 03205 RGTR--
+130107002 Weiler/Wincrange, Du  01339  01339                % 03205 RGTR--
+110809001 Hachiville, Duärrefs  01342  01342                % 03205 RGTR--
+110809002 Hachiville, Kräizung  01343  01343                % 03205 RGTR--
+110811002 Hoffelt, Bei der Kir  01344  01344                % 03205 RGTR--
+110821006 Wincrange, Centre Mé  01353  01353                % 03205 RGTR--
+110821002 Wincrange, Haaptstro  01354  01354                % 03205 RGTR--
+110805001 Crendal, Duerefstroo  01356  01356                % 03205 RGTR--
+110820002 Troine, Duarrefstroo  01358  01358                % 03205 RGTR--
+110820001 Troine, Bréck         01359  01359                % 03205 RGTR--
+110820004 Troine-Route, Op der  01401  01401                % 03205 RGTR--
+110820003 Troine-Route, Op der  01402                       % 03205 RGTR--
+*Z 03206 RGTR--                                             % 03206 RGTR--
+*L 176      110606001 110820003  01534  01602               % 03206 RGTR--
+*A CK 110606001 110820003 000039  01534  01602              % 03206 RGTR--
+*R 2 110820003 110606001 110820003  01534  01602            % 03206 RGTR--
+*G 010 110606001 110820003  01534  01602                    % 03206 RGTR--
+*A VE 110606001 110820003 000039  01534  01602              % 03206 RGTR--
+*I FD 110606001 110820003        0001188  01534  01602      % 03206 RGTR--
+110606001 Troisvierges, Gare r         01534                % 03206 RGTR--
+110606003 Troisvierges, Milleb  01534  01534                % 03206 RGTR--
+110606005 Troisvierges, Police  01535  01535                % 03206 RGTR--
+110802005 Asselborn, Legaye     01536  01536                % 03206 RGTR--
+130107002 Weiler/Wincrange, Du  01539  01539                % 03206 RGTR--
+110809001 Hachiville, Duärrefs  01542  01542                % 03206 RGTR--
+110809002 Hachiville, Kräizung  01543  01543                % 03206 RGTR--
+110811002 Hoffelt, Bei der Kir  01544  01544                % 03206 RGTR--
+110821006 Wincrange, Centre Mé  01553  01553                % 03206 RGTR--
+110821002 Wincrange, Haaptstro  01554  01554                % 03206 RGTR--
+110805001 Crendal, Duerefstroo  01556  01556                % 03206 RGTR--
+110820002 Troine, Duarrefstroo  01558  01558                % 03206 RGTR--
+110820001 Troine, Bréck         01559  01559                % 03206 RGTR--
+110820004 Troine-Route, Op der  01601  01601                % 03206 RGTR--
+110820003 Troine-Route, Op der  01602                       % 03206 RGTR--
+*Z 03207 RGTR--                                             % 03207 RGTR--
+*L 176      110606001 110820003  01734  01802               % 03207 RGTR--
+*A CK 110606001 110820003 000039  01734  01802              % 03207 RGTR--
+*R 2 110820003 110606001 110820003  01734  01802            % 03207 RGTR--
+*G 010 110606001 110820003  01734  01802                    % 03207 RGTR--
+*A VE 110606001 110820003 000039  01734  01802              % 03207 RGTR--
+*I FD 110606001 110820003        0002264  01734  01802      % 03207 RGTR--
+110606001 Troisvierges, Gare r         01734                % 03207 RGTR--
+110606003 Troisvierges, Milleb  01734  01734                % 03207 RGTR--
+110606005 Troisvierges, Police  01735  01735                % 03207 RGTR--
+110802005 Asselborn, Legaye     01736  01736                % 03207 RGTR--
+130107002 Weiler/Wincrange, Du  01739  01739                % 03207 RGTR--
+110809001 Hachiville, Duärrefs  01742  01742                % 03207 RGTR--
+110809002 Hachiville, Kräizung  01743  01743                % 03207 RGTR--
+110811002 Hoffelt, Bei der Kir  01744  01744                % 03207 RGTR--
+110821006 Wincrange, Centre Mé  01753  01753                % 03207 RGTR--
+110821002 Wincrange, Haaptstro  01754  01754                % 03207 RGTR--
+110805001 Crendal, Duerefstroo  01756  01756                % 03207 RGTR--
+110820002 Troine, Duarrefstroo  01758  01758                % 03207 RGTR--
+110820001 Troine, Bréck         01759  01759                % 03207 RGTR--
+110820004 Troine-Route, Op der  01801  01801                % 03207 RGTR--
+110820003 Troine-Route, Op der  01802                       % 03207 RGTR--
+*Z 03208 RGTR--                                             % 03208 RGTR--
+*L 176      110606001 110820003  01934  02002               % 03208 RGTR--
+*A CK 110606001 110820003 000039  01934  02002              % 03208 RGTR--
+*R 2 110820003 110606001 110820003  01934  02002            % 03208 RGTR--
+*G 010 110606001 110820003  01934  02002                    % 03208 RGTR--
+*A VE 110606001 110820003 000039  01934  02002              % 03208 RGTR--
+*I FD 110606001 110820003        0002257  01934  02002      % 03208 RGTR--
+110606001 Troisvierges, Gare r         01934                % 03208 RGTR--
+110606003 Troisvierges, Milleb  01934  01934                % 03208 RGTR--
+110606005 Troisvierges, Police  01935  01935                % 03208 RGTR--
+110802005 Asselborn, Legaye     01936  01936                % 03208 RGTR--
+130107002 Weiler/Wincrange, Du  01939  01939                % 03208 RGTR--
+110809001 Hachiville, Duärrefs  01942  01942                % 03208 RGTR--
+110809002 Hachiville, Kräizung  01943  01943                % 03208 RGTR--
+110811002 Hoffelt, Bei der Kir  01944  01944                % 03208 RGTR--
+110821006 Wincrange, Centre Mé  01953  01953                % 03208 RGTR--
+110821002 Wincrange, Haaptstro  01954  01954                % 03208 RGTR--
+110805001 Crendal, Duerefstroo  01956  01956                % 03208 RGTR--
+110820002 Troine, Duarrefstroo  01958  01958                % 03208 RGTR--
+110820001 Troine, Bréck         01959  01959                % 03208 RGTR--
+110820004 Troine-Route, Op der  02001  02001                % 03208 RGTR--
+110820003 Troine-Route, Op der  02002                       % 03208 RGTR--
+*Z 03209 RGTR--                                             % 03209 RGTR--
+*L 176      110606001 110820003  02134  02202               % 03209 RGTR--
+*A CK 110606001 110820003 000039  02134  02202              % 03209 RGTR--
+*R 2 110820003 110606001 110820003  02134  02202            % 03209 RGTR--
+*G 010 110606001 110820003  02134  02202                    % 03209 RGTR--
+*A VE 110606001 110820003 000039  02134  02202              % 03209 RGTR--
+*I FD 110606001 110820003        0002334  02134  02202      % 03209 RGTR--
+110606001 Troisvierges, Gare r         02134                % 03209 RGTR--
+110606003 Troisvierges, Milleb  02134  02134                % 03209 RGTR--
+110606005 Troisvierges, Police  02135  02135                % 03209 RGTR--
+110802005 Asselborn, Legaye     02136  02136                % 03209 RGTR--
+130107002 Weiler/Wincrange, Du  02139  02139                % 03209 RGTR--
+110809001 Hachiville, Duärrefs  02142  02142                % 03209 RGTR--
+110809002 Hachiville, Kräizung  02143  02143                % 03209 RGTR--
+110811002 Hoffelt, Bei der Kir  02144  02144                % 03209 RGTR--
+110821006 Wincrange, Centre Mé  02153  02153                % 03209 RGTR--
+110821002 Wincrange, Haaptstro  02154  02154                % 03209 RGTR--
+110805001 Crendal, Duerefstroo  02156  02156                % 03209 RGTR--
+110820002 Troine, Duarrefstroo  02158  02158                % 03209 RGTR--
+110820001 Troine, Bréck         02159  02159                % 03209 RGTR--
+110820004 Troine-Route, Op der  02201  02201                % 03209 RGTR--
+110820003 Troine-Route, Op der  02202                       % 03209 RGTR--
+*Z 03210 RGTR--                                             % 03210 RGTR--
+*L 176      110606001 110820003  00534  00602               % 03210 RGTR--
+*A CK 110606001 110820003 000036  00534  00602              % 03210 RGTR--
+*R 2 110820003 110606001 110820003  00534  00602            % 03210 RGTR--
+*G 010 110606001 110820003  00534  00602                    % 03210 RGTR--
+*A VE 110606001 110820003 000036  00534  00602              % 03210 RGTR--
+*I FD 110606001 110820003        0000732  00534  00602      % 03210 RGTR--
+110606001 Troisvierges, Gare r         00534                % 03210 RGTR--
+110606003 Troisvierges, Milleb  00534  00534                % 03210 RGTR--
+110606005 Troisvierges, Police  00535  00535                % 03210 RGTR--
+110802005 Asselborn, Legaye     00536  00536                % 03210 RGTR--
+130107002 Weiler/Wincrange, Du  00539  00539                % 03210 RGTR--
+110809001 Hachiville, Duärrefs  00542  00542                % 03210 RGTR--
+110809002 Hachiville, Kräizung  00543  00543                % 03210 RGTR--
+110811002 Hoffelt, Bei der Kir  00544  00544                % 03210 RGTR--
+110821006 Wincrange, Centre Mé  00553  00553                % 03210 RGTR--
+110821002 Wincrange, Haaptstro  00554  00554                % 03210 RGTR--
+110805001 Crendal, Duerefstroo  00556  00556                % 03210 RGTR--
+110820002 Troine, Duarrefstroo  00558  00558                % 03210 RGTR--
+110820001 Troine, Bréck         00559  00559                % 03210 RGTR--
+110820004 Troine-Route, Op der  00601  00601                % 03210 RGTR--
+110820003 Troine-Route, Op der  00602                       % 03210 RGTR--
+*Z 03211 RGTR--                                             % 03211 RGTR--
+*L 176      110606001 110820003  00634  00702               % 03211 RGTR--
+*A CK 110606001 110820003 000036  00634  00702              % 03211 RGTR--
+*R 2 110820003 110606001 110820003  00634  00702            % 03211 RGTR--
+*G 010 110606001 110820003  00634  00702                    % 03211 RGTR--
+*A VE 110606001 110820003 000036  00634  00702              % 03211 RGTR--
+*I FD 110606001 110820003        0002262  00634  00702      % 03211 RGTR--
+110606001 Troisvierges, Gare r         00634                % 03211 RGTR--
+110606003 Troisvierges, Milleb  00634  00634                % 03211 RGTR--
+110606005 Troisvierges, Police  00635  00635                % 03211 RGTR--
+110802005 Asselborn, Legaye     00636  00636                % 03211 RGTR--
+130107002 Weiler/Wincrange, Du  00639  00639                % 03211 RGTR--
+110809001 Hachiville, Duärrefs  00642  00642                % 03211 RGTR--
+110809002 Hachiville, Kräizung  00643  00643                % 03211 RGTR--
+110811002 Hoffelt, Bei der Kir  00644  00644                % 03211 RGTR--
+110821006 Wincrange, Centre Mé  00653  00653                % 03211 RGTR--
+110821002 Wincrange, Haaptstro  00654  00654                % 03211 RGTR--
+110805001 Crendal, Duerefstroo  00656  00656                % 03211 RGTR--
+110820002 Troine, Duarrefstroo  00658  00658                % 03211 RGTR--
+110820001 Troine, Bréck         00659  00659                % 03211 RGTR--
+110820004 Troine-Route, Op der  00701  00701                % 03211 RGTR--
+110820003 Troine-Route, Op der  00702                       % 03211 RGTR--
+*Z 03212 RGTR--                                             % 03212 RGTR--
+*L 176      110606001 110820003  00834  00902               % 03212 RGTR--
+*A CK 110606001 110820003 000036  00834  00902              % 03212 RGTR--
+*R 2 110820003 110606001 110820003  00834  00902            % 03212 RGTR--
+*G 010 110606001 110820003  00834  00902                    % 03212 RGTR--
+*A VE 110606001 110820003 000036  00834  00902              % 03212 RGTR--
+*I FD 110606001 110820003        0002259  00834  00902      % 03212 RGTR--
+110606001 Troisvierges, Gare r         00834                % 03212 RGTR--
+110606003 Troisvierges, Milleb  00834  00834                % 03212 RGTR--
+110606005 Troisvierges, Police  00835  00835                % 03212 RGTR--
+110802005 Asselborn, Legaye     00836  00836                % 03212 RGTR--
+130107002 Weiler/Wincrange, Du  00839  00839                % 03212 RGTR--
+110809001 Hachiville, Duärrefs  00842  00842                % 03212 RGTR--
+110809002 Hachiville, Kräizung  00843  00843                % 03212 RGTR--
+110811002 Hoffelt, Bei der Kir  00844  00844                % 03212 RGTR--
+110821006 Wincrange, Centre Mé  00853  00853                % 03212 RGTR--
+110821002 Wincrange, Haaptstro  00854  00854                % 03212 RGTR--
+110805001 Crendal, Duerefstroo  00856  00856                % 03212 RGTR--
+110820002 Troine, Duarrefstroo  00858  00858                % 03212 RGTR--
+110820001 Troine, Bréck         00859  00859                % 03212 RGTR--
+110820004 Troine-Route, Op der  00901  00901                % 03212 RGTR--
+110820003 Troine-Route, Op der  00902                       % 03212 RGTR--
+*Z 03213 RGTR--                                             % 03213 RGTR--
+*L 176      110606001 110820003  01034  01102               % 03213 RGTR--
+*A CK 110606001 110820003 000036  01034  01102              % 03213 RGTR--
+*R 2 110820003 110606001 110820003  01034  01102            % 03213 RGTR--
+*G 010 110606001 110820003  01034  01102                    % 03213 RGTR--
+*A VE 110606001 110820003 000036  01034  01102              % 03213 RGTR--
+*I FD 110606001 110820003        0002251  01034  01102      % 03213 RGTR--
+110606001 Troisvierges, Gare r         01034                % 03213 RGTR--
+110606003 Troisvierges, Milleb  01034  01034                % 03213 RGTR--
+110606005 Troisvierges, Police  01035  01035                % 03213 RGTR--
+110802005 Asselborn, Legaye     01036  01036                % 03213 RGTR--
+130107002 Weiler/Wincrange, Du  01039  01039                % 03213 RGTR--
+110809001 Hachiville, Duärrefs  01042  01042                % 03213 RGTR--
+110809002 Hachiville, Kräizung  01043  01043                % 03213 RGTR--
+110811002 Hoffelt, Bei der Kir  01044  01044                % 03213 RGTR--
+110821006 Wincrange, Centre Mé  01053  01053                % 03213 RGTR--
+110821002 Wincrange, Haaptstro  01054  01054                % 03213 RGTR--
+110805001 Crendal, Duerefstroo  01056  01056                % 03213 RGTR--
+110820002 Troine, Duarrefstroo  01058  01058                % 03213 RGTR--
+110820001 Troine, Bréck         01059  01059                % 03213 RGTR--
+110820004 Troine-Route, Op der  01101  01101                % 03213 RGTR--
+110820003 Troine-Route, Op der  01102                       % 03213 RGTR--
+*Z 03214 RGTR--                                             % 03214 RGTR--
+*L 176      110606001 110820003  01234  01302               % 03214 RGTR--
+*A CK 110606001 110820003 000036  01234  01302              % 03214 RGTR--
+*R 2 110820003 110606001 110820003  01234  01302            % 03214 RGTR--
+*G 010 110606001 110820003  01234  01302                    % 03214 RGTR--
+*A VE 110606001 110820003 000036  01234  01302              % 03214 RGTR--
+*I FD 110606001 110820003        0001147  01234  01302      % 03214 RGTR--
+110606001 Troisvierges, Gare r         01234                % 03214 RGTR--
+110606003 Troisvierges, Milleb  01234  01234                % 03214 RGTR--
+110606005 Troisvierges, Police  01235  01235                % 03214 RGTR--
+110802005 Asselborn, Legaye     01236  01236                % 03214 RGTR--
+130107002 Weiler/Wincrange, Du  01239  01239                % 03214 RGTR--
+110809001 Hachiville, Duärrefs  01242  01242                % 03214 RGTR--
+110809002 Hachiville, Kräizung  01243  01243                % 03214 RGTR--
+110811002 Hoffelt, Bei der Kir  01244  01244                % 03214 RGTR--
+110821006 Wincrange, Centre Mé  01253  01253                % 03214 RGTR--
+110821002 Wincrange, Haaptstro  01254  01254                % 03214 RGTR--
+110805001 Crendal, Duerefstroo  01256  01256                % 03214 RGTR--
+110820002 Troine, Duarrefstroo  01258  01258                % 03214 RGTR--
+110820001 Troine, Bréck         01259  01259                % 03214 RGTR--
+110820004 Troine-Route, Op der  01301  01301                % 03214 RGTR--
+110820003 Troine-Route, Op der  01302                       % 03214 RGTR--
+*Z 03215 RGTR--                                             % 03215 RGTR--
+*L 176      110606001 110820003  01434  01502               % 03215 RGTR--
+*A CK 110606001 110820003 000036  01434  01502              % 03215 RGTR--
+*R 2 110820003 110606001 110820003  01434  01502            % 03215 RGTR--
+*G 010 110606001 110820003  01434  01502                    % 03215 RGTR--
+*A VE 110606001 110820003 000036  01434  01502              % 03215 RGTR--
+*I FD 110606001 110820003        0002252  01434  01502      % 03215 RGTR--
+110606001 Troisvierges, Gare r         01434                % 03215 RGTR--
+110606003 Troisvierges, Milleb  01434  01434                % 03215 RGTR--
+110606005 Troisvierges, Police  01435  01435                % 03215 RGTR--
+110802005 Asselborn, Legaye     01436  01436                % 03215 RGTR--
+130107002 Weiler/Wincrange, Du  01439  01439                % 03215 RGTR--
+110809001 Hachiville, Duärrefs  01442  01442                % 03215 RGTR--
+110809002 Hachiville, Kräizung  01443  01443                % 03215 RGTR--
+110811002 Hoffelt, Bei der Kir  01444  01444                % 03215 RGTR--
+110821006 Wincrange, Centre Mé  01453  01453                % 03215 RGTR--
+110821002 Wincrange, Haaptstro  01454  01454                % 03215 RGTR--
+110805001 Crendal, Duerefstroo  01456  01456                % 03215 RGTR--
+110820002 Troine, Duarrefstroo  01458  01458                % 03215 RGTR--
+110820001 Troine, Bréck         01459  01459                % 03215 RGTR--
+110820004 Troine-Route, Op der  01501  01501                % 03215 RGTR--
+110820003 Troine-Route, Op der  01502                       % 03215 RGTR--
+*Z 03216 RGTR--                                             % 03216 RGTR--
+*L 176      110606001 110820003  01634  01702               % 03216 RGTR--
+*A CK 110606001 110820003 000036  01634  01702              % 03216 RGTR--
+*R 2 110820003 110606001 110820003  01634  01702            % 03216 RGTR--
+*G 010 110606001 110820003  01634  01702                    % 03216 RGTR--
+*A VE 110606001 110820003 000036  01634  01702              % 03216 RGTR--
+*I FD 110606001 110820003        0002260  01634  01702      % 03216 RGTR--
+110606001 Troisvierges, Gare r         01634                % 03216 RGTR--
+110606003 Troisvierges, Milleb  01634  01634                % 03216 RGTR--
+110606005 Troisvierges, Police  01635  01635                % 03216 RGTR--
+110802005 Asselborn, Legaye     01636  01636                % 03216 RGTR--
+130107002 Weiler/Wincrange, Du  01639  01639                % 03216 RGTR--
+110809001 Hachiville, Duärrefs  01642  01642                % 03216 RGTR--
+110809002 Hachiville, Kräizung  01643  01643                % 03216 RGTR--
+110811002 Hoffelt, Bei der Kir  01644  01644                % 03216 RGTR--
+110821006 Wincrange, Centre Mé  01653  01653                % 03216 RGTR--
+110821002 Wincrange, Haaptstro  01654  01654                % 03216 RGTR--
+110805001 Crendal, Duerefstroo  01656  01656                % 03216 RGTR--
+110820002 Troine, Duarrefstroo  01658  01658                % 03216 RGTR--
+110820001 Troine, Bréck         01659  01659                % 03216 RGTR--
+110820004 Troine-Route, Op der  01701  01701                % 03216 RGTR--
+110820003 Troine-Route, Op der  01702                       % 03216 RGTR--
+*Z 03217 RGTR--                                             % 03217 RGTR--
+*L 176      110606001 110820003  01834  01902               % 03217 RGTR--
+*A CK 110606001 110820003 000036  01834  01902              % 03217 RGTR--
+*R 2 110820003 110606001 110820003  01834  01902            % 03217 RGTR--
+*G 010 110606001 110820003  01834  01902                    % 03217 RGTR--
+*A VE 110606001 110820003 000036  01834  01902              % 03217 RGTR--
+*I FD 110606001 110820003        0002261  01834  01902      % 03217 RGTR--
+110606001 Troisvierges, Gare r         01834                % 03217 RGTR--
+110606003 Troisvierges, Milleb  01834  01834                % 03217 RGTR--
+110606005 Troisvierges, Police  01835  01835                % 03217 RGTR--
+110802005 Asselborn, Legaye     01836  01836                % 03217 RGTR--
+130107002 Weiler/Wincrange, Du  01839  01839                % 03217 RGTR--
+110809001 Hachiville, Duärrefs  01842  01842                % 03217 RGTR--
+110809002 Hachiville, Kräizung  01843  01843                % 03217 RGTR--
+110811002 Hoffelt, Bei der Kir  01844  01844                % 03217 RGTR--
+110821006 Wincrange, Centre Mé  01853  01853                % 03217 RGTR--
+110821002 Wincrange, Haaptstro  01854  01854                % 03217 RGTR--
+110805001 Crendal, Duerefstroo  01856  01856                % 03217 RGTR--
+110820002 Troine, Duarrefstroo  01858  01858                % 03217 RGTR--
+110820001 Troine, Bréck         01859  01859                % 03217 RGTR--
+110820004 Troine-Route, Op der  01901  01901                % 03217 RGTR--
+110820003 Troine-Route, Op der  01902                       % 03217 RGTR--
+*Z 03218 RGTR--                                             % 03218 RGTR--
+*L 176      110606001 110820003  02034  02102               % 03218 RGTR--
+*A CK 110606001 110820003 000036  02034  02102              % 03218 RGTR--
+*R 2 110820003 110606001 110820003  02034  02102            % 03218 RGTR--
+*G 010 110606001 110820003  02034  02102                    % 03218 RGTR--
+*A VE 110606001 110820003 000036  02034  02102              % 03218 RGTR--
+*I FD 110606001 110820003        0002253  02034  02102      % 03218 RGTR--
+110606001 Troisvierges, Gare r         02034                % 03218 RGTR--
+110606003 Troisvierges, Milleb  02034  02034                % 03218 RGTR--
+110606005 Troisvierges, Police  02035  02035                % 03218 RGTR--
+110802005 Asselborn, Legaye     02036  02036                % 03218 RGTR--
+130107002 Weiler/Wincrange, Du  02039  02039                % 03218 RGTR--
+110809001 Hachiville, Duärrefs  02042  02042                % 03218 RGTR--
+110809002 Hachiville, Kräizung  02043  02043                % 03218 RGTR--
+110811002 Hoffelt, Bei der Kir  02044  02044                % 03218 RGTR--
+110821006 Wincrange, Centre Mé  02053  02053                % 03218 RGTR--
+110821002 Wincrange, Haaptstro  02054  02054                % 03218 RGTR--
+110805001 Crendal, Duerefstroo  02056  02056                % 03218 RGTR--
+110820002 Troine, Duarrefstroo  02058  02058                % 03218 RGTR--
+110820001 Troine, Bréck         02059  02059                % 03218 RGTR--
+110820004 Troine-Route, Op der  02101  02101                % 03218 RGTR--
+110820003 Troine-Route, Op der  02102                       % 03218 RGTR--
+*Z 03219 RGTR--                                             % 03219 RGTR--
+*L 176      110820003 110606001  00654  00722               % 03219 RGTR--
+*A CI 110820003 110606001 000040  00654  00722              % 03219 RGTR--
+*R 1 110606001 110820003 110606001  00654  00722            % 03219 RGTR--
+*G 010 110820003 110606001  00654  00722                    % 03219 RGTR--
+*A VE 110820003 110606001 000040  00654  00722              % 03219 RGTR--
+*I FD 110820003 110606001        0001771  00654  00722      % 03219 RGTR--
+110820003 Troine-Route, Op der         00654                % 03219 RGTR--
+110820004 Troine-Route, Op der  00655  00655                % 03219 RGTR--
+110820002 Troine, Duarrefstroo  00657  00657                % 03219 RGTR--
+110820001 Troine, Bréck         00658  00658                % 03219 RGTR--
+110805001 Crendal, Duerefstroo  00659  00659                % 03219 RGTR--
+110821002 Wincrange, Haaptstro  00701  00701                % 03219 RGTR--
+110821006 Wincrange, Centre Mé  00703  00703                % 03219 RGTR--
+110811002 Hoffelt, Bei der Kir  00711  00711                % 03219 RGTR--
+110809002 Hachiville, Kräizung  00712  00712                % 03219 RGTR--
+110809001 Hachiville, Duärrefs  00713  00713                % 03219 RGTR--
+130107002 Weiler/Wincrange, Du  00716  00716                % 03219 RGTR--
+110606005 Troisvierges, Police  00720  00720                % 03219 RGTR--
+110606003 Troisvierges, Milleb  00721  00721                % 03219 RGTR--
+110606001 Troisvierges, Gare r  00722                       % 03219 RGTR--
+*Z 03220 RGTR--                                             % 03220 RGTR--
+*L 176      110820003 110606001  00854  00922               % 03220 RGTR--
+*A CI 110820003 110606001 000040  00854  00922              % 03220 RGTR--
+*R 1 110606001 110820003 110606001  00854  00922            % 03220 RGTR--
+*G 010 110820003 110606001  00854  00922                    % 03220 RGTR--
+*A VE 110820003 110606001 000040  00854  00922              % 03220 RGTR--
+*I FD 110820003 110606001        0001763  00854  00922      % 03220 RGTR--
+110820003 Troine-Route, Op der         00854                % 03220 RGTR--
+110820004 Troine-Route, Op der  00855  00855                % 03220 RGTR--
+110820002 Troine, Duarrefstroo  00857  00857                % 03220 RGTR--
+110820001 Troine, Bréck         00858  00858                % 03220 RGTR--
+110805001 Crendal, Duerefstroo  00859  00859                % 03220 RGTR--
+110821002 Wincrange, Haaptstro  00901  00901                % 03220 RGTR--
+110821006 Wincrange, Centre Mé  00903  00903                % 03220 RGTR--
+110811002 Hoffelt, Bei der Kir  00911  00911                % 03220 RGTR--
+110809002 Hachiville, Kräizung  00912  00912                % 03220 RGTR--
+110809001 Hachiville, Duärrefs  00913  00913                % 03220 RGTR--
+130107002 Weiler/Wincrange, Du  00916  00916                % 03220 RGTR--
+110606005 Troisvierges, Police  00920  00920                % 03220 RGTR--
+110606003 Troisvierges, Milleb  00921  00921                % 03220 RGTR--
+110606001 Troisvierges, Gare r  00922                       % 03220 RGTR--
+*Z 03221 RGTR--                                             % 03221 RGTR--
+*L 176      110820003 110606001  01054  01122               % 03221 RGTR--
+*A CI 110820003 110606001 000040  01054  01122              % 03221 RGTR--
+*R 1 110606001 110820003 110606001  01054  01122            % 03221 RGTR--
+*G 010 110820003 110606001  01054  01122                    % 03221 RGTR--
+*A VE 110820003 110606001 000040  01054  01122              % 03221 RGTR--
+*I FD 110820003 110606001        0001764  01054  01122      % 03221 RGTR--
+110820003 Troine-Route, Op der         01054                % 03221 RGTR--
+110820004 Troine-Route, Op der  01055  01055                % 03221 RGTR--
+110820002 Troine, Duarrefstroo  01057  01057                % 03221 RGTR--
+110820001 Troine, Bréck         01058  01058                % 03221 RGTR--
+110805001 Crendal, Duerefstroo  01059  01059                % 03221 RGTR--
+110821002 Wincrange, Haaptstro  01101  01101                % 03221 RGTR--
+110821006 Wincrange, Centre Mé  01103  01103                % 03221 RGTR--
+110811002 Hoffelt, Bei der Kir  01111  01111                % 03221 RGTR--
+110809002 Hachiville, Kräizung  01112  01112                % 03221 RGTR--
+110809001 Hachiville, Duärrefs  01113  01113                % 03221 RGTR--
+130107002 Weiler/Wincrange, Du  01116  01116                % 03221 RGTR--
+110606005 Troisvierges, Police  01120  01120                % 03221 RGTR--
+110606003 Troisvierges, Milleb  01121  01121                % 03221 RGTR--
+110606001 Troisvierges, Gare r  01122                       % 03221 RGTR--
+*Z 03222 RGTR--                                             % 03222 RGTR--
+*L 176      110820003 110606001  01254  01322               % 03222 RGTR--
+*A CI 110820003 110606001 000040  01254  01322              % 03222 RGTR--
+*R 1 110606001 110820003 110606001  01254  01322            % 03222 RGTR--
+*G 010 110820003 110606001  01254  01322                    % 03222 RGTR--
+*A VE 110820003 110606001 000040  01254  01322              % 03222 RGTR--
+*I FD 110820003 110606001        0001765  01254  01322      % 03222 RGTR--
+110820003 Troine-Route, Op der         01254                % 03222 RGTR--
+110820004 Troine-Route, Op der  01255  01255                % 03222 RGTR--
+110820002 Troine, Duarrefstroo  01257  01257                % 03222 RGTR--
+110820001 Troine, Bréck         01258  01258                % 03222 RGTR--
+110805001 Crendal, Duerefstroo  01259  01259                % 03222 RGTR--
+110821002 Wincrange, Haaptstro  01301  01301                % 03222 RGTR--
+110821006 Wincrange, Centre Mé  01303  01303                % 03222 RGTR--
+110811002 Hoffelt, Bei der Kir  01311  01311                % 03222 RGTR--
+110809002 Hachiville, Kräizung  01312  01312                % 03222 RGTR--
+110809001 Hachiville, Duärrefs  01313  01313                % 03222 RGTR--
+130107002 Weiler/Wincrange, Du  01316  01316                % 03222 RGTR--
+110606005 Troisvierges, Police  01320  01320                % 03222 RGTR--
+110606003 Troisvierges, Milleb  01321  01321                % 03222 RGTR--
+110606001 Troisvierges, Gare r  01322                       % 03222 RGTR--
+*Z 03223 RGTR--                                             % 03223 RGTR--
+*L 176      110820003 110606001  01454  01522               % 03223 RGTR--
+*A CI 110820003 110606001 000040  01454  01522              % 03223 RGTR--
+*R 1 110606001 110820003 110606001  01454  01522            % 03223 RGTR--
+*G 010 110820003 110606001  01454  01522                    % 03223 RGTR--
+*A VE 110820003 110606001 000040  01454  01522              % 03223 RGTR--
+*I FD 110820003 110606001        0001766  01454  01522      % 03223 RGTR--
+110820003 Troine-Route, Op der         01454                % 03223 RGTR--
+110820004 Troine-Route, Op der  01455  01455                % 03223 RGTR--
+110820002 Troine, Duarrefstroo  01457  01457                % 03223 RGTR--
+110820001 Troine, Bréck         01458  01458                % 03223 RGTR--
+110805001 Crendal, Duerefstroo  01459  01459                % 03223 RGTR--
+110821002 Wincrange, Haaptstro  01501  01501                % 03223 RGTR--
+110821006 Wincrange, Centre Mé  01503  01503                % 03223 RGTR--
+110811002 Hoffelt, Bei der Kir  01511  01511                % 03223 RGTR--
+110809002 Hachiville, Kräizung  01512  01512                % 03223 RGTR--
+110809001 Hachiville, Duärrefs  01513  01513                % 03223 RGTR--
+130107002 Weiler/Wincrange, Du  01516  01516                % 03223 RGTR--
+110606005 Troisvierges, Police  01520  01520                % 03223 RGTR--
+110606003 Troisvierges, Milleb  01521  01521                % 03223 RGTR--
+110606001 Troisvierges, Gare r  01522                       % 03223 RGTR--
+*Z 03224 RGTR--                                             % 03224 RGTR--
+*L 176      110820003 110606001  01654  01722               % 03224 RGTR--
+*A CI 110820003 110606001 000040  01654  01722              % 03224 RGTR--
+*R 1 110606001 110820003 110606001  01654  01722            % 03224 RGTR--
+*G 010 110820003 110606001  01654  01722                    % 03224 RGTR--
+*A VE 110820003 110606001 000040  01654  01722              % 03224 RGTR--
+*I FD 110820003 110606001        0001772  01654  01722      % 03224 RGTR--
+110820003 Troine-Route, Op der         01654                % 03224 RGTR--
+110820004 Troine-Route, Op der  01655  01655                % 03224 RGTR--
+110820002 Troine, Duarrefstroo  01657  01657                % 03224 RGTR--
+110820001 Troine, Bréck         01658  01658                % 03224 RGTR--
+110805001 Crendal, Duerefstroo  01659  01659                % 03224 RGTR--
+110821002 Wincrange, Haaptstro  01701  01701                % 03224 RGTR--
+110821006 Wincrange, Centre Mé  01703  01703                % 03224 RGTR--
+110811002 Hoffelt, Bei der Kir  01711  01711                % 03224 RGTR--
+110809002 Hachiville, Kräizung  01712  01712                % 03224 RGTR--
+110809001 Hachiville, Duärrefs  01713  01713                % 03224 RGTR--
+130107002 Weiler/Wincrange, Du  01716  01716                % 03224 RGTR--
+110606005 Troisvierges, Police  01720  01720                % 03224 RGTR--
+110606003 Troisvierges, Milleb  01721  01721                % 03224 RGTR--
+110606001 Troisvierges, Gare r  01722                       % 03224 RGTR--
+*Z 03225 RGTR--                                             % 03225 RGTR--
+*L 176      110820003 110606001  01854  01922               % 03225 RGTR--
+*A CI 110820003 110606001 000040  01854  01922              % 03225 RGTR--
+*R 1 110606001 110820003 110606001  01854  01922            % 03225 RGTR--
+*G 010 110820003 110606001  01854  01922                    % 03225 RGTR--
+*A VE 110820003 110606001 000040  01854  01922              % 03225 RGTR--
+*I FD 110820003 110606001        0001225  01854  01922      % 03225 RGTR--
+110820003 Troine-Route, Op der         01854                % 03225 RGTR--
+110820004 Troine-Route, Op der  01855  01855                % 03225 RGTR--
+110820002 Troine, Duarrefstroo  01857  01857                % 03225 RGTR--
+110820001 Troine, Bréck         01858  01858                % 03225 RGTR--
+110805001 Crendal, Duerefstroo  01859  01859                % 03225 RGTR--
+110821002 Wincrange, Haaptstro  01901  01901                % 03225 RGTR--
+110821006 Wincrange, Centre Mé  01903  01903                % 03225 RGTR--
+110811002 Hoffelt, Bei der Kir  01911  01911                % 03225 RGTR--
+110809002 Hachiville, Kräizung  01912  01912                % 03225 RGTR--
+110809001 Hachiville, Duärrefs  01913  01913                % 03225 RGTR--
+130107002 Weiler/Wincrange, Du  01916  01916                % 03225 RGTR--
+110606005 Troisvierges, Police  01920  01920                % 03225 RGTR--
+110606003 Troisvierges, Milleb  01921  01921                % 03225 RGTR--
+110606001 Troisvierges, Gare r  01922                       % 03225 RGTR--
+*Z 03226 RGTR--                                             % 03226 RGTR--
+*L 176      110820003 110606001  02054  02122               % 03226 RGTR--
+*A CI 110820003 110606001 000040  02054  02122              % 03226 RGTR--
+*R 1 110606001 110820003 110606001  02054  02122            % 03226 RGTR--
+*G 010 110820003 110606001  02054  02122                    % 03226 RGTR--
+*A VE 110820003 110606001 000040  02054  02122              % 03226 RGTR--
+*I FD 110820003 110606001        0001767  02054  02122      % 03226 RGTR--
+110820003 Troine-Route, Op der         02054                % 03226 RGTR--
+110820004 Troine-Route, Op der  02055  02055                % 03226 RGTR--
+110820002 Troine, Duarrefstroo  02057  02057                % 03226 RGTR--
+110820001 Troine, Bréck         02058  02058                % 03226 RGTR--
+110805001 Crendal, Duerefstroo  02059  02059                % 03226 RGTR--
+110821002 Wincrange, Haaptstro  02101  02101                % 03226 RGTR--
+110821006 Wincrange, Centre Mé  02103  02103                % 03226 RGTR--
+110811002 Hoffelt, Bei der Kir  02111  02111                % 03226 RGTR--
+110809002 Hachiville, Kräizung  02112  02112                % 03226 RGTR--
+110809001 Hachiville, Duärrefs  02113  02113                % 03226 RGTR--
+130107002 Weiler/Wincrange, Du  02116  02116                % 03226 RGTR--
+110606005 Troisvierges, Police  02120  02120                % 03226 RGTR--
+110606003 Troisvierges, Milleb  02121  02121                % 03226 RGTR--
+110606001 Troisvierges, Gare r  02122                       % 03226 RGTR--
+*Z 03227 RGTR--                                             % 03227 RGTR--
+*L 176      110820003 110606001  00454  00522               % 03227 RGTR--
+*A CI 110820003 110606001 000038  00454  00522              % 03227 RGTR--
+*R 1 110606001 110820003 110606001  00454  00522            % 03227 RGTR--
+*G 010 110820003 110606001  00454  00522                    % 03227 RGTR--
+*A VE 110820003 110606001 000038  00454  00522              % 03227 RGTR--
+*I FD 110820003 110606001        0002333  00454  00522      % 03227 RGTR--
+110820003 Troine-Route, Op der         00454                % 03227 RGTR--
+110820004 Troine-Route, Op der  00455  00455                % 03227 RGTR--
+110820002 Troine, Duarrefstroo  00457  00457                % 03227 RGTR--
+110820001 Troine, Bréck         00458  00458                % 03227 RGTR--
+110805001 Crendal, Duerefstroo  00459  00459                % 03227 RGTR--
+110821002 Wincrange, Haaptstro  00501  00501                % 03227 RGTR--
+110821006 Wincrange, Centre Mé  00503  00503                % 03227 RGTR--
+110811002 Hoffelt, Bei der Kir  00511  00511                % 03227 RGTR--
+110809002 Hachiville, Kräizung  00512  00512                % 03227 RGTR--
+110809001 Hachiville, Duärrefs  00513  00513                % 03227 RGTR--
+130107002 Weiler/Wincrange, Du  00516  00516                % 03227 RGTR--
+110606005 Troisvierges, Police  00520  00520                % 03227 RGTR--
+110606003 Troisvierges, Milleb  00521  00521                % 03227 RGTR--
+110606001 Troisvierges, Gare r  00522                       % 03227 RGTR--
+*Z 03228 RGTR--                                             % 03228 RGTR--
+*L 176      110820003 110606001  00554  00622               % 03228 RGTR--
+*A CI 110820003 110606001 000038  00554  00622              % 03228 RGTR--
+*R 1 110606001 110820003 110606001  00554  00622            % 03228 RGTR--
+*G 010 110820003 110606001  00554  00622                    % 03228 RGTR--
+*A VE 110820003 110606001 000038  00554  00622              % 03228 RGTR--
+*I FD 110820003 110606001        0001762  00554  00622      % 03228 RGTR--
+110820003 Troine-Route, Op der         00554                % 03228 RGTR--
+110820004 Troine-Route, Op der  00555  00555                % 03228 RGTR--
+110820002 Troine, Duarrefstroo  00557  00557                % 03228 RGTR--
+110820001 Troine, Bréck         00558  00558                % 03228 RGTR--
+110805001 Crendal, Duerefstroo  00559  00559                % 03228 RGTR--
+110821002 Wincrange, Haaptstro  00601  00601                % 03228 RGTR--
+110821006 Wincrange, Centre Mé  00603  00603                % 03228 RGTR--
+110811002 Hoffelt, Bei der Kir  00611  00611                % 03228 RGTR--
+110809002 Hachiville, Kräizung  00612  00612                % 03228 RGTR--
+110809001 Hachiville, Duärrefs  00613  00613                % 03228 RGTR--
+130107002 Weiler/Wincrange, Du  00616  00616                % 03228 RGTR--
+110606005 Troisvierges, Police  00620  00620                % 03228 RGTR--
+110606003 Troisvierges, Milleb  00621  00621                % 03228 RGTR--
+110606001 Troisvierges, Gare r  00622                       % 03228 RGTR--
+*Z 03229 RGTR--                                             % 03229 RGTR--
+*L 176      110820003 110606001  00754  00822               % 03229 RGTR--
+*A CI 110820003 110606001 000038  00754  00822              % 03229 RGTR--
+*R 1 110606001 110820003 110606001  00754  00822            % 03229 RGTR--
+*G 010 110820003 110606001  00754  00822                    % 03229 RGTR--
+*A VE 110820003 110606001 000038  00754  00822              % 03229 RGTR--
+*I FD 110820003 110606001        0001769  00754  00822      % 03229 RGTR--
+110820003 Troine-Route, Op der         00754                % 03229 RGTR--
+110820004 Troine-Route, Op der  00755  00755                % 03229 RGTR--
+110820002 Troine, Duarrefstroo  00757  00757                % 03229 RGTR--
+110820001 Troine, Bréck         00758  00758                % 03229 RGTR--
+110805001 Crendal, Duerefstroo  00759  00759                % 03229 RGTR--
+110821002 Wincrange, Haaptstro  00801  00801                % 03229 RGTR--
+110821006 Wincrange, Centre Mé  00803  00803                % 03229 RGTR--
+110811002 Hoffelt, Bei der Kir  00811  00811                % 03229 RGTR--
+110809002 Hachiville, Kräizung  00812  00812                % 03229 RGTR--
+110809001 Hachiville, Duärrefs  00813  00813                % 03229 RGTR--
+130107002 Weiler/Wincrange, Du  00816  00816                % 03229 RGTR--
+110606005 Troisvierges, Police  00820  00820                % 03229 RGTR--
+110606003 Troisvierges, Milleb  00821  00821                % 03229 RGTR--
+110606001 Troisvierges, Gare r  00822                       % 03229 RGTR--
+*Z 03230 RGTR--                                             % 03230 RGTR--
+*L 176      110820003 110606001  00954  01022               % 03230 RGTR--
+*A CI 110820003 110606001 000038  00954  01022              % 03230 RGTR--
+*R 1 110606001 110820003 110606001  00954  01022            % 03230 RGTR--
+*G 010 110820003 110606001  00954  01022                    % 03230 RGTR--
+*A VE 110820003 110606001 000038  00954  01022              % 03230 RGTR--
+*I FD 110820003 110606001        0001757  00954  01022      % 03230 RGTR--
+110820003 Troine-Route, Op der         00954                % 03230 RGTR--
+110820004 Troine-Route, Op der  00955  00955                % 03230 RGTR--
+110820002 Troine, Duarrefstroo  00957  00957                % 03230 RGTR--
+110820001 Troine, Bréck         00958  00958                % 03230 RGTR--
+110805001 Crendal, Duerefstroo  00959  00959                % 03230 RGTR--
+110821002 Wincrange, Haaptstro  01001  01001                % 03230 RGTR--
+110821006 Wincrange, Centre Mé  01003  01003                % 03230 RGTR--
+110811002 Hoffelt, Bei der Kir  01011  01011                % 03230 RGTR--
+110809002 Hachiville, Kräizung  01012  01012                % 03230 RGTR--
+110809001 Hachiville, Duärrefs  01013  01013                % 03230 RGTR--
+130107002 Weiler/Wincrange, Du  01016  01016                % 03230 RGTR--
+110606005 Troisvierges, Police  01020  01020                % 03230 RGTR--
+110606003 Troisvierges, Milleb  01021  01021                % 03230 RGTR--
+110606001 Troisvierges, Gare r  01022                       % 03230 RGTR--
+*Z 03231 RGTR--                                             % 03231 RGTR--
+*L 176      110820003 110606001  01154  01222               % 03231 RGTR--
+*A CI 110820003 110606001 000038  01154  01222              % 03231 RGTR--
+*R 1 110606001 110820003 110606001  01154  01222            % 03231 RGTR--
+*G 010 110820003 110606001  01154  01222                    % 03231 RGTR--
+*A VE 110820003 110606001 000038  01154  01222              % 03231 RGTR--
+*I FD 110820003 110606001        0001758  01154  01222      % 03231 RGTR--
+110820003 Troine-Route, Op der         01154                % 03231 RGTR--
+110820004 Troine-Route, Op der  01155  01155                % 03231 RGTR--
+110820002 Troine, Duarrefstroo  01157  01157                % 03231 RGTR--
+110820001 Troine, Bréck         01158  01158                % 03231 RGTR--
+110805001 Crendal, Duerefstroo  01159  01159                % 03231 RGTR--
+110821002 Wincrange, Haaptstro  01201  01201                % 03231 RGTR--
+110821006 Wincrange, Centre Mé  01203  01203                % 03231 RGTR--
+110811002 Hoffelt, Bei der Kir  01211  01211                % 03231 RGTR--
+110809002 Hachiville, Kräizung  01212  01212                % 03231 RGTR--
+110809001 Hachiville, Duärrefs  01213  01213                % 03231 RGTR--
+130107002 Weiler/Wincrange, Du  01216  01216                % 03231 RGTR--
+110606005 Troisvierges, Police  01220  01220                % 03231 RGTR--
+110606003 Troisvierges, Milleb  01221  01221                % 03231 RGTR--
+110606001 Troisvierges, Gare r  01222                       % 03231 RGTR--
+*Z 03232 RGTR--                                             % 03232 RGTR--
+*L 176      110820003 110606001  01354  01422               % 03232 RGTR--
+*A CI 110820003 110606001 000038  01354  01422              % 03232 RGTR--
+*R 1 110606001 110820003 110606001  01354  01422            % 03232 RGTR--
+*G 010 110820003 110606001  01354  01422                    % 03232 RGTR--
+*A VE 110820003 110606001 000038  01354  01422              % 03232 RGTR--
+*I FD 110820003 110606001        0001165  01354  01422      % 03232 RGTR--
+110820003 Troine-Route, Op der         01354                % 03232 RGTR--
+110820004 Troine-Route, Op der  01355  01355                % 03232 RGTR--
+110820002 Troine, Duarrefstroo  01357  01357                % 03232 RGTR--
+110820001 Troine, Bréck         01358  01358                % 03232 RGTR--
+110805001 Crendal, Duerefstroo  01359  01359                % 03232 RGTR--
+110821002 Wincrange, Haaptstro  01401  01401                % 03232 RGTR--
+110821006 Wincrange, Centre Mé  01403  01403                % 03232 RGTR--
+110811002 Hoffelt, Bei der Kir  01411  01411                % 03232 RGTR--
+110809002 Hachiville, Kräizung  01412  01412                % 03232 RGTR--
+110809001 Hachiville, Duärrefs  01413  01413                % 03232 RGTR--
+130107002 Weiler/Wincrange, Du  01416  01416                % 03232 RGTR--
+110606005 Troisvierges, Police  01420  01420                % 03232 RGTR--
+110606003 Troisvierges, Milleb  01421  01421                % 03232 RGTR--
+110606001 Troisvierges, Gare r  01422                       % 03232 RGTR--
+*Z 03233 RGTR--                                             % 03233 RGTR--
+*L 176      110820003 110606001  01554  01622               % 03233 RGTR--
+*A CI 110820003 110606001 000038  01554  01622              % 03233 RGTR--
+*R 1 110606001 110820003 110606001  01554  01622            % 03233 RGTR--
+*G 010 110820003 110606001  01554  01622                    % 03233 RGTR--
+*A VE 110820003 110606001 000038  01554  01622              % 03233 RGTR--
+*I FD 110820003 110606001        0001759  01554  01622      % 03233 RGTR--
+110820003 Troine-Route, Op der         01554                % 03233 RGTR--
+110820004 Troine-Route, Op der  01555  01555                % 03233 RGTR--
+110820002 Troine, Duarrefstroo  01557  01557                % 03233 RGTR--
+110820001 Troine, Bréck         01558  01558                % 03233 RGTR--
+110805001 Crendal, Duerefstroo  01559  01559                % 03233 RGTR--
+110821002 Wincrange, Haaptstro  01601  01601                % 03233 RGTR--
+110821006 Wincrange, Centre Mé  01603  01603                % 03233 RGTR--
+110811002 Hoffelt, Bei der Kir  01611  01611                % 03233 RGTR--
+110809002 Hachiville, Kräizung  01612  01612                % 03233 RGTR--
+110809001 Hachiville, Duärrefs  01613  01613                % 03233 RGTR--
+130107002 Weiler/Wincrange, Du  01616  01616                % 03233 RGTR--
+110606005 Troisvierges, Police  01620  01620                % 03233 RGTR--
+110606003 Troisvierges, Milleb  01621  01621                % 03233 RGTR--
+110606001 Troisvierges, Gare r  01622                       % 03233 RGTR--
+*Z 03234 RGTR--                                             % 03234 RGTR--
+*L 176      110820003 110606001  01754  01822               % 03234 RGTR--
+*A CI 110820003 110606001 000038  01754  01822              % 03234 RGTR--
+*R 1 110606001 110820003 110606001  01754  01822            % 03234 RGTR--
+*G 010 110820003 110606001  01754  01822                    % 03234 RGTR--
+*A VE 110820003 110606001 000038  01754  01822              % 03234 RGTR--
+*I FD 110820003 110606001        0001770  01754  01822      % 03234 RGTR--
+110820003 Troine-Route, Op der         01754                % 03234 RGTR--
+110820004 Troine-Route, Op der  01755  01755                % 03234 RGTR--
+110820002 Troine, Duarrefstroo  01757  01757                % 03234 RGTR--
+110820001 Troine, Bréck         01758  01758                % 03234 RGTR--
+110805001 Crendal, Duerefstroo  01759  01759                % 03234 RGTR--
+110821002 Wincrange, Haaptstro  01801  01801                % 03234 RGTR--
+110821006 Wincrange, Centre Mé  01803  01803                % 03234 RGTR--
+110811002 Hoffelt, Bei der Kir  01811  01811                % 03234 RGTR--
+110809002 Hachiville, Kräizung  01812  01812                % 03234 RGTR--
+110809001 Hachiville, Duärrefs  01813  01813                % 03234 RGTR--
+130107002 Weiler/Wincrange, Du  01816  01816                % 03234 RGTR--
+110606005 Troisvierges, Police  01820  01820                % 03234 RGTR--
+110606003 Troisvierges, Milleb  01821  01821                % 03234 RGTR--
+110606001 Troisvierges, Gare r  01822                       % 03234 RGTR--
+*Z 03235 RGTR--                                             % 03235 RGTR--
+*L 176      110820003 110606001  01954  02022               % 03235 RGTR--
+*A CI 110820003 110606001 000038  01954  02022              % 03235 RGTR--
+*R 1 110606001 110820003 110606001  01954  02022            % 03235 RGTR--
+*G 010 110820003 110606001  01954  02022                    % 03235 RGTR--
+*A VE 110820003 110606001 000038  01954  02022              % 03235 RGTR--
+*I FD 110820003 110606001        0001760  01954  02022      % 03235 RGTR--
+110820003 Troine-Route, Op der         01954                % 03235 RGTR--
+110820004 Troine-Route, Op der  01955  01955                % 03235 RGTR--
+110820002 Troine, Duarrefstroo  01957  01957                % 03235 RGTR--
+110820001 Troine, Bréck         01958  01958                % 03235 RGTR--
+110805001 Crendal, Duerefstroo  01959  01959                % 03235 RGTR--
+110821002 Wincrange, Haaptstro  02001  02001                % 03235 RGTR--
+110821006 Wincrange, Centre Mé  02003  02003                % 03235 RGTR--
+110811002 Hoffelt, Bei der Kir  02011  02011                % 03235 RGTR--
+110809002 Hachiville, Kräizung  02012  02012                % 03235 RGTR--
+110809001 Hachiville, Duärrefs  02013  02013                % 03235 RGTR--
+130107002 Weiler/Wincrange, Du  02016  02016                % 03235 RGTR--
+110606005 Troisvierges, Police  02020  02020                % 03235 RGTR--
+110606003 Troisvierges, Milleb  02021  02021                % 03235 RGTR--
+110606001 Troisvierges, Gare r  02022                       % 03235 RGTR--
+*Z 03236 RGTR--                                             % 03236 RGTR--
+*L 176      110606001 110820003  00734  00802               % 03236 RGTR--
+*A CK 110606001 110820003 000040  00734  00802              % 03236 RGTR--
+*R 2 110820003 110606001 110820003  00734  00802            % 03236 RGTR--
+*G 010 110606001 110820003  00734  00802                    % 03236 RGTR--
+*A VE 110606001 110820003 000040  00734  00802              % 03236 RGTR--
+*I FD 110606001 110820003        0002263  00734  00802      % 03236 RGTR--
+110606001 Troisvierges, Gare r         00734                % 03236 RGTR--
+110606003 Troisvierges, Milleb  00734  00734                % 03236 RGTR--
+110606005 Troisvierges, Police  00735  00735                % 03236 RGTR--
+130107002 Weiler/Wincrange, Du  00739  00739                % 03236 RGTR--
+110809001 Hachiville, Duärrefs  00742  00742                % 03236 RGTR--
+110809002 Hachiville, Kräizung  00743  00743                % 03236 RGTR--
+110811002 Hoffelt, Bei der Kir  00744  00744                % 03236 RGTR--
+110821006 Wincrange, Centre Mé  00753  00753                % 03236 RGTR--
+110821002 Wincrange, Haaptstro  00754  00754                % 03236 RGTR--
+110805001 Crendal, Duerefstroo  00756  00756                % 03236 RGTR--
+110820002 Troine, Duarrefstroo  00758  00758                % 03236 RGTR--
+110820001 Troine, Bréck         00759  00759                % 03236 RGTR--
+110820004 Troine-Route, Op der  00801  00801                % 03236 RGTR--
+110820003 Troine-Route, Op der  00802                       % 03236 RGTR--
+*Z 03237 RGTR--                                             % 03237 RGTR--
+*L 176      110606001 110820003  00934  01002               % 03237 RGTR--
+*A CK 110606001 110820003 000040  00934  01002              % 03237 RGTR--
+*R 2 110820003 110606001 110820003  00934  01002            % 03237 RGTR--
+*G 010 110606001 110820003  00934  01002                    % 03237 RGTR--
+*A VE 110606001 110820003 000040  00934  01002              % 03237 RGTR--
+*I FD 110606001 110820003        0000928  00934  01002      % 03237 RGTR--
+110606001 Troisvierges, Gare r         00934                % 03237 RGTR--
+110606003 Troisvierges, Milleb  00934  00934                % 03237 RGTR--
+110606005 Troisvierges, Police  00935  00935                % 03237 RGTR--
+130107002 Weiler/Wincrange, Du  00939  00939                % 03237 RGTR--
+110809001 Hachiville, Duärrefs  00942  00942                % 03237 RGTR--
+110809002 Hachiville, Kräizung  00943  00943                % 03237 RGTR--
+110811002 Hoffelt, Bei der Kir  00944  00944                % 03237 RGTR--
+110821006 Wincrange, Centre Mé  00953  00953                % 03237 RGTR--
+110821002 Wincrange, Haaptstro  00954  00954                % 03237 RGTR--
+110805001 Crendal, Duerefstroo  00956  00956                % 03237 RGTR--
+110820002 Troine, Duarrefstroo  00958  00958                % 03237 RGTR--
+110820001 Troine, Bréck         00959  00959                % 03237 RGTR--
+110820004 Troine-Route, Op der  01001  01001                % 03237 RGTR--
+110820003 Troine-Route, Op der  01002                       % 03237 RGTR--
+*Z 03238 RGTR--                                             % 03238 RGTR--
+*L 176      110606001 110820003  01134  01202               % 03238 RGTR--
+*A CK 110606001 110820003 000040  01134  01202              % 03238 RGTR--
+*R 2 110820003 110606001 110820003  01134  01202            % 03238 RGTR--
+*G 010 110606001 110820003  01134  01202                    % 03238 RGTR--
+*A VE 110606001 110820003 000040  01134  01202              % 03238 RGTR--
+*I FD 110606001 110820003        0002255  01134  01202      % 03238 RGTR--
+110606001 Troisvierges, Gare r         01134                % 03238 RGTR--
+110606003 Troisvierges, Milleb  01134  01134                % 03238 RGTR--
+110606005 Troisvierges, Police  01135  01135                % 03238 RGTR--
+130107002 Weiler/Wincrange, Du  01139  01139                % 03238 RGTR--
+110809001 Hachiville, Duärrefs  01142  01142                % 03238 RGTR--
+110809002 Hachiville, Kräizung  01143  01143                % 03238 RGTR--
+110811002 Hoffelt, Bei der Kir  01144  01144                % 03238 RGTR--
+110821006 Wincrange, Centre Mé  01153  01153                % 03238 RGTR--
+110821002 Wincrange, Haaptstro  01154  01154                % 03238 RGTR--
+110805001 Crendal, Duerefstroo  01156  01156                % 03238 RGTR--
+110820002 Troine, Duarrefstroo  01158  01158                % 03238 RGTR--
+110820001 Troine, Bréck         01159  01159                % 03238 RGTR--
+110820004 Troine-Route, Op der  01201  01201                % 03238 RGTR--
+110820003 Troine-Route, Op der  01202                       % 03238 RGTR--
+*Z 03239 RGTR--                                             % 03239 RGTR--
+*L 176      110606001 110820003  01334  01402               % 03239 RGTR--
+*A CK 110606001 110820003 000040  01334  01402              % 03239 RGTR--
+*R 2 110820003 110606001 110820003  01334  01402            % 03239 RGTR--
+*G 010 110606001 110820003  01334  01402                    % 03239 RGTR--
+*A VE 110606001 110820003 000040  01334  01402              % 03239 RGTR--
+*I FD 110606001 110820003        0002256  01334  01402      % 03239 RGTR--
+110606001 Troisvierges, Gare r         01334                % 03239 RGTR--
+110606003 Troisvierges, Milleb  01334  01334                % 03239 RGTR--
+110606005 Troisvierges, Police  01335  01335                % 03239 RGTR--
+130107002 Weiler/Wincrange, Du  01339  01339                % 03239 RGTR--
+110809001 Hachiville, Duärrefs  01342  01342                % 03239 RGTR--
+110809002 Hachiville, Kräizung  01343  01343                % 03239 RGTR--
+110811002 Hoffelt, Bei der Kir  01344  01344                % 03239 RGTR--
+110821006 Wincrange, Centre Mé  01353  01353                % 03239 RGTR--
+110821002 Wincrange, Haaptstro  01354  01354                % 03239 RGTR--
+110805001 Crendal, Duerefstroo  01356  01356                % 03239 RGTR--
+110820002 Troine, Duarrefstroo  01358  01358                % 03239 RGTR--
+110820001 Troine, Bréck         01359  01359                % 03239 RGTR--
+110820004 Troine-Route, Op der  01401  01401                % 03239 RGTR--
+110820003 Troine-Route, Op der  01402                       % 03239 RGTR--
+*Z 03240 RGTR--                                             % 03240 RGTR--
+*L 176      110606001 110820003  01534  01602               % 03240 RGTR--
+*A CK 110606001 110820003 000040  01534  01602              % 03240 RGTR--
+*R 2 110820003 110606001 110820003  01534  01602            % 03240 RGTR--
+*G 010 110606001 110820003  01534  01602                    % 03240 RGTR--
+*A VE 110606001 110820003 000040  01534  01602              % 03240 RGTR--
+*I FD 110606001 110820003        0001188  01534  01602      % 03240 RGTR--
+110606001 Troisvierges, Gare r         01534                % 03240 RGTR--
+110606003 Troisvierges, Milleb  01534  01534                % 03240 RGTR--
+110606005 Troisvierges, Police  01535  01535                % 03240 RGTR--
+130107002 Weiler/Wincrange, Du  01539  01539                % 03240 RGTR--
+110809001 Hachiville, Duärrefs  01542  01542                % 03240 RGTR--
+110809002 Hachiville, Kräizung  01543  01543                % 03240 RGTR--
+110811002 Hoffelt, Bei der Kir  01544  01544                % 03240 RGTR--
+110821006 Wincrange, Centre Mé  01553  01553                % 03240 RGTR--
+110821002 Wincrange, Haaptstro  01554  01554                % 03240 RGTR--
+110805001 Crendal, Duerefstroo  01556  01556                % 03240 RGTR--
+110820002 Troine, Duarrefstroo  01558  01558                % 03240 RGTR--
+110820001 Troine, Bréck         01559  01559                % 03240 RGTR--
+110820004 Troine-Route, Op der  01601  01601                % 03240 RGTR--
+110820003 Troine-Route, Op der  01602                       % 03240 RGTR--
+*Z 03241 RGTR--                                             % 03241 RGTR--
+*L 176      110606001 110820003  01734  01802               % 03241 RGTR--
+*A CK 110606001 110820003 000040  01734  01802              % 03241 RGTR--
+*R 2 110820003 110606001 110820003  01734  01802            % 03241 RGTR--
+*G 010 110606001 110820003  01734  01802                    % 03241 RGTR--
+*A VE 110606001 110820003 000040  01734  01802              % 03241 RGTR--
+*I FD 110606001 110820003        0002264  01734  01802      % 03241 RGTR--
+110606001 Troisvierges, Gare r         01734                % 03241 RGTR--
+110606003 Troisvierges, Milleb  01734  01734                % 03241 RGTR--
+110606005 Troisvierges, Police  01735  01735                % 03241 RGTR--
+130107002 Weiler/Wincrange, Du  01739  01739                % 03241 RGTR--
+110809001 Hachiville, Duärrefs  01742  01742                % 03241 RGTR--
+110809002 Hachiville, Kräizung  01743  01743                % 03241 RGTR--
+110811002 Hoffelt, Bei der Kir  01744  01744                % 03241 RGTR--
+110821006 Wincrange, Centre Mé  01753  01753                % 03241 RGTR--
+110821002 Wincrange, Haaptstro  01754  01754                % 03241 RGTR--
+110805001 Crendal, Duerefstroo  01756  01756                % 03241 RGTR--
+110820002 Troine, Duarrefstroo  01758  01758                % 03241 RGTR--
+110820001 Troine, Bréck         01759  01759                % 03241 RGTR--
+110820004 Troine-Route, Op der  01801  01801                % 03241 RGTR--
+110820003 Troine-Route, Op der  01802                       % 03241 RGTR--
+*Z 03242 RGTR--                                             % 03242 RGTR--
+*L 176      110606001 110820003  01934  02002               % 03242 RGTR--
+*A CK 110606001 110820003 000040  01934  02002              % 03242 RGTR--
+*R 2 110820003 110606001 110820003  01934  02002            % 03242 RGTR--
+*G 010 110606001 110820003  01934  02002                    % 03242 RGTR--
+*A VE 110606001 110820003 000040  01934  02002              % 03242 RGTR--
+*I FD 110606001 110820003        0002257  01934  02002      % 03242 RGTR--
+110606001 Troisvierges, Gare r         01934                % 03242 RGTR--
+110606003 Troisvierges, Milleb  01934  01934                % 03242 RGTR--
+110606005 Troisvierges, Police  01935  01935                % 03242 RGTR--
+130107002 Weiler/Wincrange, Du  01939  01939                % 03242 RGTR--
+110809001 Hachiville, Duärrefs  01942  01942                % 03242 RGTR--
+110809002 Hachiville, Kräizung  01943  01943                % 03242 RGTR--
+110811002 Hoffelt, Bei der Kir  01944  01944                % 03242 RGTR--
+110821006 Wincrange, Centre Mé  01953  01953                % 03242 RGTR--
+110821002 Wincrange, Haaptstro  01954  01954                % 03242 RGTR--
+110805001 Crendal, Duerefstroo  01956  01956                % 03242 RGTR--
+110820002 Troine, Duarrefstroo  01958  01958                % 03242 RGTR--
+110820001 Troine, Bréck         01959  01959                % 03242 RGTR--
+110820004 Troine-Route, Op der  02001  02001                % 03242 RGTR--
+110820003 Troine-Route, Op der  02002                       % 03242 RGTR--
+*Z 03243 RGTR--                                             % 03243 RGTR--
+*L 176      110606001 110820003  02134  02202               % 03243 RGTR--
+*A CK 110606001 110820003 000040  02134  02202              % 03243 RGTR--
+*R 2 110820003 110606001 110820003  02134  02202            % 03243 RGTR--
+*G 010 110606001 110820003  02134  02202                    % 03243 RGTR--
+*A VE 110606001 110820003 000040  02134  02202              % 03243 RGTR--
+*I FD 110606001 110820003        0002334  02134  02202      % 03243 RGTR--
+110606001 Troisvierges, Gare r         02134                % 03243 RGTR--
+110606003 Troisvierges, Milleb  02134  02134                % 03243 RGTR--
+110606005 Troisvierges, Police  02135  02135                % 03243 RGTR--
+130107002 Weiler/Wincrange, Du  02139  02139                % 03243 RGTR--
+110809001 Hachiville, Duärrefs  02142  02142                % 03243 RGTR--
+110809002 Hachiville, Kräizung  02143  02143                % 03243 RGTR--
+110811002 Hoffelt, Bei der Kir  02144  02144                % 03243 RGTR--
+110821006 Wincrange, Centre Mé  02153  02153                % 03243 RGTR--
+110821002 Wincrange, Haaptstro  02154  02154                % 03243 RGTR--
+110805001 Crendal, Duerefstroo  02156  02156                % 03243 RGTR--
+110820002 Troine, Duarrefstroo  02158  02158                % 03243 RGTR--
+110820001 Troine, Bréck         02159  02159                % 03243 RGTR--
+110820004 Troine-Route, Op der  02201  02201                % 03243 RGTR--
+110820003 Troine-Route, Op der  02202                       % 03243 RGTR--
+*Z 03244 RGTR--                                             % 03244 RGTR--
+*L 176      110606001 110820003  00534  00602               % 03244 RGTR--
+*A CK 110606001 110820003 000038  00534  00602              % 03244 RGTR--
+*R 2 110820003 110606001 110820003  00534  00602            % 03244 RGTR--
+*G 010 110606001 110820003  00534  00602                    % 03244 RGTR--
+*A VE 110606001 110820003 000038  00534  00602              % 03244 RGTR--
+*I FD 110606001 110820003        0000732  00534  00602      % 03244 RGTR--
+110606001 Troisvierges, Gare r         00534                % 03244 RGTR--
+110606003 Troisvierges, Milleb  00534  00534                % 03244 RGTR--
+110606005 Troisvierges, Police  00535  00535                % 03244 RGTR--
+130107002 Weiler/Wincrange, Du  00539  00539                % 03244 RGTR--
+110809001 Hachiville, Duärrefs  00542  00542                % 03244 RGTR--
+110809002 Hachiville, Kräizung  00543  00543                % 03244 RGTR--
+110811002 Hoffelt, Bei der Kir  00544  00544                % 03244 RGTR--
+110821006 Wincrange, Centre Mé  00553  00553                % 03244 RGTR--
+110821002 Wincrange, Haaptstro  00554  00554                % 03244 RGTR--
+110805001 Crendal, Duerefstroo  00556  00556                % 03244 RGTR--
+110820002 Troine, Duarrefstroo  00558  00558                % 03244 RGTR--
+110820001 Troine, Bréck         00559  00559                % 03244 RGTR--
+110820004 Troine-Route, Op der  00601  00601                % 03244 RGTR--
+110820003 Troine-Route, Op der  00602                       % 03244 RGTR--
+*Z 03245 RGTR--                                             % 03245 RGTR--
+*L 176      110606001 110820003  00634  00702               % 03245 RGTR--
+*A CK 110606001 110820003 000038  00634  00702              % 03245 RGTR--
+*R 2 110820003 110606001 110820003  00634  00702            % 03245 RGTR--
+*G 010 110606001 110820003  00634  00702                    % 03245 RGTR--
+*A VE 110606001 110820003 000038  00634  00702              % 03245 RGTR--
+*I FD 110606001 110820003        0002262  00634  00702      % 03245 RGTR--
+110606001 Troisvierges, Gare r         00634                % 03245 RGTR--
+110606003 Troisvierges, Milleb  00634  00634                % 03245 RGTR--
+110606005 Troisvierges, Police  00635  00635                % 03245 RGTR--
+130107002 Weiler/Wincrange, Du  00639  00639                % 03245 RGTR--
+110809001 Hachiville, Duärrefs  00642  00642                % 03245 RGTR--
+110809002 Hachiville, Kräizung  00643  00643                % 03245 RGTR--
+110811002 Hoffelt, Bei der Kir  00644  00644                % 03245 RGTR--
+110821006 Wincrange, Centre Mé  00653  00653                % 03245 RGTR--
+110821002 Wincrange, Haaptstro  00654  00654                % 03245 RGTR--
+110805001 Crendal, Duerefstroo  00656  00656                % 03245 RGTR--
+110820002 Troine, Duarrefstroo  00658  00658                % 03245 RGTR--
+110820001 Troine, Bréck         00659  00659                % 03245 RGTR--
+110820004 Troine-Route, Op der  00701  00701                % 03245 RGTR--
+110820003 Troine-Route, Op der  00702                       % 03245 RGTR--
+*Z 03246 RGTR--                                             % 03246 RGTR--
+*L 176      110606001 110820003  00834  00902               % 03246 RGTR--
+*A CK 110606001 110820003 000038  00834  00902              % 03246 RGTR--
+*R 2 110820003 110606001 110820003  00834  00902            % 03246 RGTR--
+*G 010 110606001 110820003  00834  00902                    % 03246 RGTR--
+*A VE 110606001 110820003 000038  00834  00902              % 03246 RGTR--
+*I FD 110606001 110820003        0002259  00834  00902      % 03246 RGTR--
+110606001 Troisvierges, Gare r         00834                % 03246 RGTR--
+110606003 Troisvierges, Milleb  00834  00834                % 03246 RGTR--
+110606005 Troisvierges, Police  00835  00835                % 03246 RGTR--
+130107002 Weiler/Wincrange, Du  00839  00839                % 03246 RGTR--
+110809001 Hachiville, Duärrefs  00842  00842                % 03246 RGTR--
+110809002 Hachiville, Kräizung  00843  00843                % 03246 RGTR--
+110811002 Hoffelt, Bei der Kir  00844  00844                % 03246 RGTR--
+110821006 Wincrange, Centre Mé  00853  00853                % 03246 RGTR--
+110821002 Wincrange, Haaptstro  00854  00854                % 03246 RGTR--
+110805001 Crendal, Duerefstroo  00856  00856                % 03246 RGTR--
+110820002 Troine, Duarrefstroo  00858  00858                % 03246 RGTR--
+110820001 Troine, Bréck         00859  00859                % 03246 RGTR--
+110820004 Troine-Route, Op der  00901  00901                % 03246 RGTR--
+110820003 Troine-Route, Op der  00902                       % 03246 RGTR--
+*Z 03247 RGTR--                                             % 03247 RGTR--
+*L 176      110606001 110820003  01034  01102               % 03247 RGTR--
+*A CK 110606001 110820003 000038  01034  01102              % 03247 RGTR--
+*R 2 110820003 110606001 110820003  01034  01102            % 03247 RGTR--
+*G 010 110606001 110820003  01034  01102                    % 03247 RGTR--
+*A VE 110606001 110820003 000038  01034  01102              % 03247 RGTR--
+*I FD 110606001 110820003        0002251  01034  01102      % 03247 RGTR--
+110606001 Troisvierges, Gare r         01034                % 03247 RGTR--
+110606003 Troisvierges, Milleb  01034  01034                % 03247 RGTR--
+110606005 Troisvierges, Police  01035  01035                % 03247 RGTR--
+130107002 Weiler/Wincrange, Du  01039  01039                % 03247 RGTR--
+110809001 Hachiville, Duärrefs  01042  01042                % 03247 RGTR--
+110809002 Hachiville, Kräizung  01043  01043                % 03247 RGTR--
+110811002 Hoffelt, Bei der Kir  01044  01044                % 03247 RGTR--
+110821006 Wincrange, Centre Mé  01053  01053                % 03247 RGTR--
+110821002 Wincrange, Haaptstro  01054  01054                % 03247 RGTR--
+110805001 Crendal, Duerefstroo  01056  01056                % 03247 RGTR--
+110820002 Troine, Duarrefstroo  01058  01058                % 03247 RGTR--
+110820001 Troine, Bréck         01059  01059                % 03247 RGTR--
+110820004 Troine-Route, Op der  01101  01101                % 03247 RGTR--
+110820003 Troine-Route, Op der  01102                       % 03247 RGTR--
+*Z 03248 RGTR--                                             % 03248 RGTR--
+*L 176      110606001 110820003  01234  01302               % 03248 RGTR--
+*A CK 110606001 110820003 000038  01234  01302              % 03248 RGTR--
+*R 2 110820003 110606001 110820003  01234  01302            % 03248 RGTR--
+*G 010 110606001 110820003  01234  01302                    % 03248 RGTR--
+*A VE 110606001 110820003 000038  01234  01302              % 03248 RGTR--
+*I FD 110606001 110820003        0001147  01234  01302      % 03248 RGTR--
+110606001 Troisvierges, Gare r         01234                % 03248 RGTR--
+110606003 Troisvierges, Milleb  01234  01234                % 03248 RGTR--
+110606005 Troisvierges, Police  01235  01235                % 03248 RGTR--
+130107002 Weiler/Wincrange, Du  01239  01239                % 03248 RGTR--
+110809001 Hachiville, Duärrefs  01242  01242                % 03248 RGTR--
+110809002 Hachiville, Kräizung  01243  01243                % 03248 RGTR--
+110811002 Hoffelt, Bei der Kir  01244  01244                % 03248 RGTR--
+110821006 Wincrange, Centre Mé  01253  01253                % 03248 RGTR--
+110821002 Wincrange, Haaptstro  01254  01254                % 03248 RGTR--
+110805001 Crendal, Duerefstroo  01256  01256                % 03248 RGTR--
+110820002 Troine, Duarrefstroo  01258  01258                % 03248 RGTR--
+110820001 Troine, Bréck         01259  01259                % 03248 RGTR--
+110820004 Troine-Route, Op der  01301  01301                % 03248 RGTR--
+110820003 Troine-Route, Op der  01302                       % 03248 RGTR--
+*Z 03249 RGTR--                                             % 03249 RGTR--
+*L 176      110606001 110820003  01434  01502               % 03249 RGTR--
+*A CK 110606001 110820003 000038  01434  01502              % 03249 RGTR--
+*R 2 110820003 110606001 110820003  01434  01502            % 03249 RGTR--
+*G 010 110606001 110820003  01434  01502                    % 03249 RGTR--
+*A VE 110606001 110820003 000038  01434  01502              % 03249 RGTR--
+*I FD 110606001 110820003        0002252  01434  01502      % 03249 RGTR--
+110606001 Troisvierges, Gare r         01434                % 03249 RGTR--
+110606003 Troisvierges, Milleb  01434  01434                % 03249 RGTR--
+110606005 Troisvierges, Police  01435  01435                % 03249 RGTR--
+130107002 Weiler/Wincrange, Du  01439  01439                % 03249 RGTR--
+110809001 Hachiville, Duärrefs  01442  01442                % 03249 RGTR--
+110809002 Hachiville, Kräizung  01443  01443                % 03249 RGTR--
+110811002 Hoffelt, Bei der Kir  01444  01444                % 03249 RGTR--
+110821006 Wincrange, Centre Mé  01453  01453                % 03249 RGTR--
+110821002 Wincrange, Haaptstro  01454  01454                % 03249 RGTR--
+110805001 Crendal, Duerefstroo  01456  01456                % 03249 RGTR--
+110820002 Troine, Duarrefstroo  01458  01458                % 03249 RGTR--
+110820001 Troine, Bréck         01459  01459                % 03249 RGTR--
+110820004 Troine-Route, Op der  01501  01501                % 03249 RGTR--
+110820003 Troine-Route, Op der  01502                       % 03249 RGTR--
+*Z 03250 RGTR--                                             % 03250 RGTR--
+*L 176      110606001 110820003  01634  01702               % 03250 RGTR--
+*A CK 110606001 110820003 000038  01634  01702              % 03250 RGTR--
+*R 2 110820003 110606001 110820003  01634  01702            % 03250 RGTR--
+*G 010 110606001 110820003  01634  01702                    % 03250 RGTR--
+*A VE 110606001 110820003 000038  01634  01702              % 03250 RGTR--
+*I FD 110606001 110820003        0002260  01634  01702      % 03250 RGTR--
+110606001 Troisvierges, Gare r         01634                % 03250 RGTR--
+110606003 Troisvierges, Milleb  01634  01634                % 03250 RGTR--
+110606005 Troisvierges, Police  01635  01635                % 03250 RGTR--
+130107002 Weiler/Wincrange, Du  01639  01639                % 03250 RGTR--
+110809001 Hachiville, Duärrefs  01642  01642                % 03250 RGTR--
+110809002 Hachiville, Kräizung  01643  01643                % 03250 RGTR--
+110811002 Hoffelt, Bei der Kir  01644  01644                % 03250 RGTR--
+110821006 Wincrange, Centre Mé  01653  01653                % 03250 RGTR--
+110821002 Wincrange, Haaptstro  01654  01654                % 03250 RGTR--
+110805001 Crendal, Duerefstroo  01656  01656                % 03250 RGTR--
+110820002 Troine, Duarrefstroo  01658  01658                % 03250 RGTR--
+110820001 Troine, Bréck         01659  01659                % 03250 RGTR--
+110820004 Troine-Route, Op der  01701  01701                % 03250 RGTR--
+110820003 Troine-Route, Op der  01702                       % 03250 RGTR--
+*Z 03251 RGTR--                                             % 03251 RGTR--
+*L 176      110606001 110820003  01834  01902               % 03251 RGTR--
+*A CK 110606001 110820003 000038  01834  01902              % 03251 RGTR--
+*R 2 110820003 110606001 110820003  01834  01902            % 03251 RGTR--
+*G 010 110606001 110820003  01834  01902                    % 03251 RGTR--
+*A VE 110606001 110820003 000038  01834  01902              % 03251 RGTR--
+*I FD 110606001 110820003        0002261  01834  01902      % 03251 RGTR--
+110606001 Troisvierges, Gare r         01834                % 03251 RGTR--
+110606003 Troisvierges, Milleb  01834  01834                % 03251 RGTR--
+110606005 Troisvierges, Police  01835  01835                % 03251 RGTR--
+130107002 Weiler/Wincrange, Du  01839  01839                % 03251 RGTR--
+110809001 Hachiville, Duärrefs  01842  01842                % 03251 RGTR--
+110809002 Hachiville, Kräizung  01843  01843                % 03251 RGTR--
+110811002 Hoffelt, Bei der Kir  01844  01844                % 03251 RGTR--
+110821006 Wincrange, Centre Mé  01853  01853                % 03251 RGTR--
+110821002 Wincrange, Haaptstro  01854  01854                % 03251 RGTR--
+110805001 Crendal, Duerefstroo  01856  01856                % 03251 RGTR--
+110820002 Troine, Duarrefstroo  01858  01858                % 03251 RGTR--
+110820001 Troine, Bréck         01859  01859                % 03251 RGTR--
+110820004 Troine-Route, Op der  01901  01901                % 03251 RGTR--
+110820003 Troine-Route, Op der  01902                       % 03251 RGTR--
+*Z 03252 RGTR--                                             % 03252 RGTR--
+*L 176      110606001 110820003  02034  02102               % 03252 RGTR--
+*A CK 110606001 110820003 000038  02034  02102              % 03252 RGTR--
+*R 2 110820003 110606001 110820003  02034  02102            % 03252 RGTR--
+*G 010 110606001 110820003  02034  02102                    % 03252 RGTR--
+*A VE 110606001 110820003 000038  02034  02102              % 03252 RGTR--
+*I FD 110606001 110820003        0002253  02034  02102      % 03252 RGTR--
+110606001 Troisvierges, Gare r         02034                % 03252 RGTR--
+110606003 Troisvierges, Milleb  02034  02034                % 03252 RGTR--
+110606005 Troisvierges, Police  02035  02035                % 03252 RGTR--
+130107002 Weiler/Wincrange, Du  02039  02039                % 03252 RGTR--
+110809001 Hachiville, Duärrefs  02042  02042                % 03252 RGTR--
+110809002 Hachiville, Kräizung  02043  02043                % 03252 RGTR--
+110811002 Hoffelt, Bei der Kir  02044  02044                % 03252 RGTR--
+110821006 Wincrange, Centre Mé  02053  02053                % 03252 RGTR--
+110821002 Wincrange, Haaptstro  02054  02054                % 03252 RGTR--
+110805001 Crendal, Duerefstroo  02056  02056                % 03252 RGTR--
+110820002 Troine, Duarrefstroo  02058  02058                % 03252 RGTR--
+110820001 Troine, Bréck         02059  02059                % 03252 RGTR--
+110820004 Troine-Route, Op der  02101  02101                % 03252 RGTR--
+110820003 Troine-Route, Op der  02102                       % 03252 RGTR--

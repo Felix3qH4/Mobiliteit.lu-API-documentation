@@ -1,0 +1,693 @@
+*F 03 2
+*Z 17273 RGTR--                                             % 17273 RGTR--
+*L 92U      150502004 160301007  00429  00525               % 17273 RGTR--
+*A MM 150502004 160301007 000036  00429  00525              % 17273 RGTR--
+*R 1 160301007 150502004 160301007  00429  00525            % 17273 RGTR--
+*G 063 150502004 160301007  00429  00525                    % 17273 RGTR--
+*A VE 150502004 160301007 000036  00429  00525              % 17273 RGTR--
+*I FD 150502004 160301007        0003329  00429  00525      % 17273 RGTR--
+150502004 Bigonville, Knupp            00429                % 17273 RGTR--
+150502007 Bigonville, Haaptstr  00429  00429                % 17273 RGTR--
+150502002 Bigonville, Kéismaar  00430  00430                % 17273 RGTR--
+150502005 Bigonville, Réimerwe  00431  00431                % 17273 RGTR--
+150502003 Bigonville, Kimm      00432  00432                % 17273 RGTR--
+150505001 Flatzbour             00433  00433                % 17273 RGTR--
+150515004 Wolwëner Halt         00435  00435                % 17273 RGTR--
+150511002 Perlé, Gare           00436  00436                % 17273 RGTR--
+150511006 Perlé, Kuelewee       00437  00437                % 17273 RGTR--
+150511001 Perlé, An der Huel    00438  00438                % 17273 RGTR--
+150511005 Perlé, Schoul         00439  00439                % 17273 RGTR--
+150511003 Perlé, Héiltzerwee    00440  00440                % 17273 RGTR--
+150516002 Héiltzerstee          00442  00442                % 17273 RGTR--
+150507001 Holtz, Molkerei       00444  00444                % 17273 RGTR--
+150304001 Petit-Nobressart, Am  00449  00449                % 17273 RGTR--
+150302001 Colpach-Haut, Pompje  00451  00451                % 17273 RGTR--
+150301001 Colpach-Bas, Schlass  00453  00453                % 17273 RGTR--
+150303002 Ell, Beim Musikssaul  00456  00456                % 17273 RGTR--
+150303003 Ell, Beim Schreider   00457  00457                % 17273 RGTR--
+150606003 Redange, Gare         00459  00459                % 17273 RGTR--
+150606001 Redange/Attert, Bian  00500  00500                % 17273 RGTR--
+150606009 Redange/Attert, Scho  00501  00501                % 17273 RGTR--
+150607001 Reichlange, Hostelle  00504  00504                % 17273 RGTR--
+150205001 Platen, Roudbach      00505  00505                % 17273 RGTR--
+150805002 Everlange, Everlénge  00505  00505                % 17273 RGTR--
+150801001 Everlange, Beim Enge  00507  00507                % 17273 RGTR--
+150804003 Useldange, Spuerkees  00510  00510                % 17273 RGTR--
+160201003 Boevange, Gare        00513  00513                % 17273 RGTR--
+160201002 Boevange-sur-Attert,  00514  00514                % 17273 RGTR--
+160101008 Bissen, Um Sand       00519  00519                % 17273 RGTR--
+160101002 Bissen, Kräizung      00520  00520                % 17273 RGTR--
+160101006 Bissen, Henckels      00521  00521                % 17273 RGTR--
+160101003 Bissen, Geiwels       00521  00521                % 17273 RGTR--
+160101005 Bissen, Op der Mille  00522  00522                % 17273 RGTR--
+160301007 Colmar-Berg, Usines   00525                       % 17273 RGTR--
+*Z 17274 RGTR--                                             % 17274 RGTR--
+*L 92U      150502004 160301007  01229  01325               % 17274 RGTR--
+*A MM 150502004 160301007 000036  01229  01325              % 17274 RGTR--
+*R 1 160301007 150502004 160301007  01229  01325            % 17274 RGTR--
+*G 063 150502004 160301007  01229  01325                    % 17274 RGTR--
+*A VE 150502004 160301007 000036  01229  01325              % 17274 RGTR--
+*I FD 150502004 160301007        0003330  01229  01325      % 17274 RGTR--
+150502004 Bigonville, Knupp            01229                % 17274 RGTR--
+150502007 Bigonville, Haaptstr  01229  01229                % 17274 RGTR--
+150502002 Bigonville, Kéismaar  01230  01230                % 17274 RGTR--
+150502005 Bigonville, Réimerwe  01231  01231                % 17274 RGTR--
+150502003 Bigonville, Kimm      01232  01232                % 17274 RGTR--
+150505001 Flatzbour             01233  01233                % 17274 RGTR--
+150515004 Wolwëner Halt         01235  01235                % 17274 RGTR--
+150511002 Perlé, Gare           01236  01236                % 17274 RGTR--
+150511006 Perlé, Kuelewee       01237  01237                % 17274 RGTR--
+150511001 Perlé, An der Huel    01238  01238                % 17274 RGTR--
+150511005 Perlé, Schoul         01239  01239                % 17274 RGTR--
+150511003 Perlé, Héiltzerwee    01240  01240                % 17274 RGTR--
+150516002 Héiltzerstee          01242  01242                % 17274 RGTR--
+150507001 Holtz, Molkerei       01244  01244                % 17274 RGTR--
+150304001 Petit-Nobressart, Am  01249  01249                % 17274 RGTR--
+150302001 Colpach-Haut, Pompje  01251  01251                % 17274 RGTR--
+150301001 Colpach-Bas, Schlass  01253  01253                % 17274 RGTR--
+150303002 Ell, Beim Musikssaul  01256  01256                % 17274 RGTR--
+150303003 Ell, Beim Schreider   01257  01257                % 17274 RGTR--
+150606003 Redange, Gare         01259  01259                % 17274 RGTR--
+150606001 Redange/Attert, Bian  01300  01300                % 17274 RGTR--
+150606009 Redange/Attert, Scho  01301  01301                % 17274 RGTR--
+150607001 Reichlange, Hostelle  01304  01304                % 17274 RGTR--
+150205001 Platen, Roudbach      01305  01305                % 17274 RGTR--
+150805002 Everlange, Everlénge  01305  01305                % 17274 RGTR--
+150801001 Everlange, Beim Enge  01307  01307                % 17274 RGTR--
+150804003 Useldange, Spuerkees  01310  01310                % 17274 RGTR--
+160201003 Boevange, Gare        01313  01313                % 17274 RGTR--
+160201002 Boevange-sur-Attert,  01314  01314                % 17274 RGTR--
+160101008 Bissen, Um Sand       01319  01319                % 17274 RGTR--
+160101002 Bissen, Kräizung      01320  01320                % 17274 RGTR--
+160101006 Bissen, Henckels      01321  01321                % 17274 RGTR--
+160101003 Bissen, Geiwels       01321  01321                % 17274 RGTR--
+160101005 Bissen, Op der Mille  01322  01322                % 17274 RGTR--
+160301007 Colmar-Berg, Usines   01325                       % 17274 RGTR--
+*Z 17275 RGTR--                                             % 17275 RGTR--
+*L 92U      150502004 160301007  02029  02125               % 17275 RGTR--
+*A MM 150502004 160301007 000036  02029  02125              % 17275 RGTR--
+*R 1 160301007 150502004 160301007  02029  02125            % 17275 RGTR--
+*G 063 150502004 160301007  02029  02125                    % 17275 RGTR--
+*A VE 150502004 160301007 000036  02029  02125              % 17275 RGTR--
+*I FD 150502004 160301007        0003331  02029  02125      % 17275 RGTR--
+150502004 Bigonville, Knupp            02029                % 17275 RGTR--
+150502007 Bigonville, Haaptstr  02029  02029                % 17275 RGTR--
+150502002 Bigonville, Kéismaar  02030  02030                % 17275 RGTR--
+150502005 Bigonville, Réimerwe  02031  02031                % 17275 RGTR--
+150502003 Bigonville, Kimm      02032  02032                % 17275 RGTR--
+150505001 Flatzbour             02033  02033                % 17275 RGTR--
+150515004 Wolwëner Halt         02035  02035                % 17275 RGTR--
+150511002 Perlé, Gare           02036  02036                % 17275 RGTR--
+150511006 Perlé, Kuelewee       02037  02037                % 17275 RGTR--
+150511001 Perlé, An der Huel    02038  02038                % 17275 RGTR--
+150511005 Perlé, Schoul         02039  02039                % 17275 RGTR--
+150511003 Perlé, Héiltzerwee    02040  02040                % 17275 RGTR--
+150516002 Héiltzerstee          02042  02042                % 17275 RGTR--
+150507001 Holtz, Molkerei       02044  02044                % 17275 RGTR--
+150304001 Petit-Nobressart, Am  02049  02049                % 17275 RGTR--
+150302001 Colpach-Haut, Pompje  02051  02051                % 17275 RGTR--
+150301001 Colpach-Bas, Schlass  02053  02053                % 17275 RGTR--
+150303002 Ell, Beim Musikssaul  02056  02056                % 17275 RGTR--
+150303003 Ell, Beim Schreider   02057  02057                % 17275 RGTR--
+150606003 Redange, Gare         02059  02059                % 17275 RGTR--
+150606001 Redange/Attert, Bian  02100  02100                % 17275 RGTR--
+150606009 Redange/Attert, Scho  02101  02101                % 17275 RGTR--
+150607001 Reichlange, Hostelle  02104  02104                % 17275 RGTR--
+150205001 Platen, Roudbach      02105  02105                % 17275 RGTR--
+150805002 Everlange, Everlénge  02105  02105                % 17275 RGTR--
+150801001 Everlange, Beim Enge  02107  02107                % 17275 RGTR--
+150804003 Useldange, Spuerkees  02110  02110                % 17275 RGTR--
+160201003 Boevange, Gare        02113  02113                % 17275 RGTR--
+160201002 Boevange-sur-Attert,  02114  02114                % 17275 RGTR--
+160101008 Bissen, Um Sand       02119  02119                % 17275 RGTR--
+160101002 Bissen, Kräizung      02120  02120                % 17275 RGTR--
+160101006 Bissen, Henckels      02121  02121                % 17275 RGTR--
+160101003 Bissen, Geiwels       02121  02121                % 17275 RGTR--
+160101005 Bissen, Op der Mille  02122  02122                % 17275 RGTR--
+160301007 Colmar-Berg, Usines   02125                       % 17275 RGTR--
+*Z 17276 RGTR--                                             % 17276 RGTR--
+*L 92U      160301007 150502004  01415  01509               % 17276 RGTR--
+*A MM 160301007 150502004 000036  01415  01509              % 17276 RGTR--
+*R 2 150502004 160301007 150502004  01415  01509            % 17276 RGTR--
+*G 063 160301007 150502004  01415  01509                    % 17276 RGTR--
+*A VE 160301007 150502004 000036  01415  01509              % 17276 RGTR--
+*I FD 160301007 150502004        0002055  01415  01509      % 17276 RGTR--
+160301007 Colmar-Berg, Usines          01415                % 17276 RGTR--
+160101005 Bissen, Op der Mille  01417  01417                % 17276 RGTR--
+160101003 Bissen, Geiwels       01418  01418                % 17276 RGTR--
+160101006 Bissen, Henckels      01418  01418                % 17276 RGTR--
+160101002 Bissen, Kräizung      01419  01419                % 17276 RGTR--
+160101008 Bissen, Um Sand       01420  01420                % 17276 RGTR--
+160201002 Boevange-sur-Attert,  01424  01424                % 17276 RGTR--
+160201003 Boevange, Gare        01425  01425                % 17276 RGTR--
+150804002 Useldange, Raiffeise  01428  01428                % 17276 RGTR--
+150804003 Useldange, Spuerkees  01428  01428                % 17276 RGTR--
+150801001 Everlange, Beim Enge  01431  01431                % 17276 RGTR--
+150805002 Everlange, Everlénge  01432  01432                % 17276 RGTR--
+150205001 Platen, Roudbach      01433  01433                % 17276 RGTR--
+150607001 Reichlange, Hostelle  01434  01434                % 17276 RGTR--
+150606009 Redange/Attert, Scho  01437  01437                % 17276 RGTR--
+150606007 Redange/Attert, Ospe  01438  01438                % 17276 RGTR--
+150606003 Redange, Gare         01439  01439                % 17276 RGTR--
+150303003 Ell, Beim Schreider   01441  01441                % 17276 RGTR--
+150303002 Ell, Beim Musikssaul  01442  01442                % 17276 RGTR--
+150301001 Colpach-Bas, Schlass  01444  01444                % 17276 RGTR--
+150302001 Colpach-Haut, Pompje  01446  01446                % 17276 RGTR--
+150304001 Petit-Nobressart, Am  01448  01448                % 17276 RGTR--
+150507001 Holtz, Molkerei       01453  01453                % 17276 RGTR--
+150507002 Holtz, Um Bur         01454  01454                % 17276 RGTR--
+150516002 Héiltzerstee          01456  01456                % 17276 RGTR--
+150511003 Perlé, Héiltzerwee    01458  01458                % 17276 RGTR--
+150511005 Perlé, Schoul         01459  01459                % 17276 RGTR--
+150511001 Perlé, An der Huel    01500  01500                % 17276 RGTR--
+150511006 Perlé, Kuelewee       01501  01501                % 17276 RGTR--
+150511002 Perlé, Gare           01501  01501                % 17276 RGTR--
+150515004 Wolwëner Halt         01503  01503                % 17276 RGTR--
+150505001 Flatzbour             01505  01505                % 17276 RGTR--
+150502003 Bigonville, Kimm      01506  01506                % 17276 RGTR--
+150502005 Bigonville, Réimerwe  01507  01507                % 17276 RGTR--
+150502006 Bigonville, Am Duerf  01508  01508                % 17276 RGTR--
+150502001 Bigonville, Huelgaas  01509  01509                % 17276 RGTR--
+150502004 Bigonville, Knupp     01509                       % 17276 RGTR--
+*Z 17277 RGTR--                                             % 17277 RGTR--
+*L 92U      160301007 150502004  02215  02309               % 17277 RGTR--
+*A MM 160301007 150502004 000036  02215  02309              % 17277 RGTR--
+*R 2 150502004 160301007 150502004  02215  02309            % 17277 RGTR--
+*G 063 160301007 150502004  02215  02309                    % 17277 RGTR--
+*A VE 160301007 150502004 000036  02215  02309              % 17277 RGTR--
+*I FD 160301007 150502004        0001439  02215  02309      % 17277 RGTR--
+160301007 Colmar-Berg, Usines          02215                % 17277 RGTR--
+160101005 Bissen, Op der Mille  02217  02217                % 17277 RGTR--
+160101003 Bissen, Geiwels       02218  02218                % 17277 RGTR--
+160101006 Bissen, Henckels      02218  02218                % 17277 RGTR--
+160101002 Bissen, Kräizung      02219  02219                % 17277 RGTR--
+160101008 Bissen, Um Sand       02220  02220                % 17277 RGTR--
+160201002 Boevange-sur-Attert,  02224  02224                % 17277 RGTR--
+160201003 Boevange, Gare        02225  02225                % 17277 RGTR--
+150804002 Useldange, Raiffeise  02228  02228                % 17277 RGTR--
+150804003 Useldange, Spuerkees  02228  02228                % 17277 RGTR--
+150801001 Everlange, Beim Enge  02231  02231                % 17277 RGTR--
+150805002 Everlange, Everlénge  02232  02232                % 17277 RGTR--
+150205001 Platen, Roudbach      02233  02233                % 17277 RGTR--
+150607001 Reichlange, Hostelle  02234  02234                % 17277 RGTR--
+150606009 Redange/Attert, Scho  02237  02237                % 17277 RGTR--
+150606007 Redange/Attert, Ospe  02238  02238                % 17277 RGTR--
+150606003 Redange, Gare         02239  02239                % 17277 RGTR--
+150303003 Ell, Beim Schreider   02241  02241                % 17277 RGTR--
+150303002 Ell, Beim Musikssaul  02242  02242                % 17277 RGTR--
+150301001 Colpach-Bas, Schlass  02244  02244                % 17277 RGTR--
+150302001 Colpach-Haut, Pompje  02246  02246                % 17277 RGTR--
+150304001 Petit-Nobressart, Am  02248  02248                % 17277 RGTR--
+150507001 Holtz, Molkerei       02253  02253                % 17277 RGTR--
+150507002 Holtz, Um Bur         02254  02254                % 17277 RGTR--
+150516002 Héiltzerstee          02256  02256                % 17277 RGTR--
+150511003 Perlé, Héiltzerwee    02258  02258                % 17277 RGTR--
+150511005 Perlé, Schoul         02259  02259                % 17277 RGTR--
+150511001 Perlé, An der Huel    02300  02300                % 17277 RGTR--
+150511006 Perlé, Kuelewee       02301  02301                % 17277 RGTR--
+150511002 Perlé, Gare           02301  02301                % 17277 RGTR--
+150515004 Wolwëner Halt         02303  02303                % 17277 RGTR--
+150505001 Flatzbour             02305  02305                % 17277 RGTR--
+150502003 Bigonville, Kimm      02306  02306                % 17277 RGTR--
+150502005 Bigonville, Réimerwe  02307  02307                % 17277 RGTR--
+150502006 Bigonville, Am Duerf  02308  02308                % 17277 RGTR--
+150502001 Bigonville, Huelgaas  02309  02309                % 17277 RGTR--
+150502004 Bigonville, Knupp     02309                       % 17277 RGTR--
+*Z 17278 RGTR--                                             % 17278 RGTR--
+*L 92U      160301007 150502004  00615  00709               % 17278 RGTR--
+*A MM 160301007 150502004 000018  00615  00709              % 17278 RGTR--
+*R 2 150502004 160301007 150502004  00615  00709            % 17278 RGTR--
+*G 072 160301007 150502004  00615  00709                    % 17278 RGTR--
+*A VE 160301007 150502004 000018  00615  00709              % 17278 RGTR--
+*I FD 160301007 150502004        0002051  00615  00709      % 17278 RGTR--
+160301007 Colmar-Berg, Usines          00615                % 17278 RGTR--
+160101005 Bissen, Op der Mille  00617  00617                % 17278 RGTR--
+160101003 Bissen, Geiwels       00618  00618                % 17278 RGTR--
+160101006 Bissen, Henckels      00618  00618                % 17278 RGTR--
+160101002 Bissen, Kräizung      00619  00619                % 17278 RGTR--
+160101008 Bissen, Um Sand       00620  00620                % 17278 RGTR--
+160201002 Boevange-sur-Attert,  00624  00624                % 17278 RGTR--
+160201003 Boevange, Gare        00625  00625                % 17278 RGTR--
+150804002 Useldange, Raiffeise  00628  00628                % 17278 RGTR--
+150804003 Useldange, Spuerkees  00628  00628                % 17278 RGTR--
+150801001 Everlange, Beim Enge  00631  00631                % 17278 RGTR--
+150805002 Everlange, Everlénge  00632  00632                % 17278 RGTR--
+150205001 Platen, Roudbach      00633  00633                % 17278 RGTR--
+150607001 Reichlange, Hostelle  00634  00634                % 17278 RGTR--
+150606009 Redange/Attert, Scho  00637  00637                % 17278 RGTR--
+150606007 Redange/Attert, Ospe  00638  00638                % 17278 RGTR--
+150606003 Redange, Gare         00639  00639                % 17278 RGTR--
+150303003 Ell, Beim Schreider   00641  00641                % 17278 RGTR--
+150303002 Ell, Beim Musikssaul  00642  00642                % 17278 RGTR--
+150301001 Colpach-Bas, Schlass  00644  00644                % 17278 RGTR--
+150302001 Colpach-Haut, Pompje  00646  00646                % 17278 RGTR--
+150304001 Petit-Nobressart, Am  00648  00648                % 17278 RGTR--
+150507001 Holtz, Molkerei       00653  00653                % 17278 RGTR--
+150507002 Holtz, Um Bur         00654  00654                % 17278 RGTR--
+150516002 Héiltzerstee          00656  00656                % 17278 RGTR--
+150511003 Perlé, Héiltzerwee    00658  00658                % 17278 RGTR--
+150511005 Perlé, Schoul         00659  00659                % 17278 RGTR--
+150511001 Perlé, An der Huel    00700  00700                % 17278 RGTR--
+150511006 Perlé, Kuelewee       00701  00701                % 17278 RGTR--
+150511002 Perlé, Gare           00701  00701                % 17278 RGTR--
+150515004 Wolwëner Halt         00703  00703                % 17278 RGTR--
+150505001 Flatzbour             00705  00705                % 17278 RGTR--
+150502003 Bigonville, Kimm      00706  00706                % 17278 RGTR--
+150502005 Bigonville, Réimerwe  00707  00707                % 17278 RGTR--
+150502006 Bigonville, Am Duerf  00708  00708                % 17278 RGTR--
+150502001 Bigonville, Huelgaas  00709  00709                % 17278 RGTR--
+150502004 Bigonville, Knupp     00709                       % 17278 RGTR--
+*Z 17279 RGTR--                                             % 17279 RGTR--
+*L 92U      160301007 150502004  00615  00709               % 17279 RGTR--
+*A MM 160301007 150502004 000025  00615  00709              % 17279 RGTR--
+*R 2 150502004 160301007 150502004  00615  00709            % 17279 RGTR--
+*G 063 160301007 150502004  00615  00709                    % 17279 RGTR--
+*A VE 160301007 150502004 000025  00615  00709              % 17279 RGTR--
+*I FD 160301007 150502004        0002051  00615  00709      % 17279 RGTR--
+160301007 Colmar-Berg, Usines          00615                % 17279 RGTR--
+160101005 Bissen, Op der Mille  00617  00617                % 17279 RGTR--
+160101003 Bissen, Geiwels       00618  00618                % 17279 RGTR--
+160101006 Bissen, Henckels      00618  00618                % 17279 RGTR--
+160101002 Bissen, Kräizung      00619  00619                % 17279 RGTR--
+160101008 Bissen, Um Sand       00620  00620                % 17279 RGTR--
+160201002 Boevange-sur-Attert,  00624  00624                % 17279 RGTR--
+160201003 Boevange, Gare        00625  00625                % 17279 RGTR--
+150804002 Useldange, Raiffeise  00628  00628                % 17279 RGTR--
+150804003 Useldange, Spuerkees  00628  00628                % 17279 RGTR--
+150801001 Everlange, Beim Enge  00631  00631                % 17279 RGTR--
+150805002 Everlange, Everlénge  00632  00632                % 17279 RGTR--
+150205001 Platen, Roudbach      00633  00633                % 17279 RGTR--
+150607001 Reichlange, Hostelle  00634  00634                % 17279 RGTR--
+150606009 Redange/Attert, Scho  00637  00637                % 17279 RGTR--
+150606007 Redange/Attert, Ospe  00638  00638                % 17279 RGTR--
+150606003 Redange, Gare         00639  00639                % 17279 RGTR--
+150303003 Ell, Beim Schreider   00641  00641                % 17279 RGTR--
+150303002 Ell, Beim Musikssaul  00642  00642                % 17279 RGTR--
+150301001 Colpach-Bas, Schlass  00644  00644                % 17279 RGTR--
+150302001 Colpach-Haut, Pompje  00646  00646                % 17279 RGTR--
+150304001 Petit-Nobressart, Am  00648  00648                % 17279 RGTR--
+150507001 Holtz, Molkerei       00653  00653                % 17279 RGTR--
+150507002 Holtz, Um Bur         00654  00654                % 17279 RGTR--
+150516002 Héiltzerstee          00656  00656                % 17279 RGTR--
+150511003 Perlé, Héiltzerwee    00658  00658                % 17279 RGTR--
+150511005 Perlé, Schoul         00659  00659                % 17279 RGTR--
+150511001 Perlé, An der Huel    00700  00700                % 17279 RGTR--
+150511006 Perlé, Kuelewee       00701  00701                % 17279 RGTR--
+150511002 Perlé, Gare           00701  00701                % 17279 RGTR--
+150515004 Wolwëner Halt         00703  00703                % 17279 RGTR--
+150505001 Flatzbour             00705  00705                % 17279 RGTR--
+150502003 Bigonville, Kimm      00706  00706                % 17279 RGTR--
+150502005 Bigonville, Réimerwe  00707  00707                % 17279 RGTR--
+150502006 Bigonville, Am Duerf  00708  00708                % 17279 RGTR--
+150502001 Bigonville, Huelgaas  00709  00709                % 17279 RGTR--
+150502004 Bigonville, Knupp     00709                       % 17279 RGTR--
+*Z 17280 RGTR--                                             % 17280 RGTR--
+*L 92U      160301007 150502004  00615  00711               % 17280 RGTR--
+*A MM 160301007 150502004 000332  00615  00711              % 17280 RGTR--
+*R 2 150502004 160301007 150502004  00615  00711            % 17280 RGTR--
+*G 063 160301007 150502004  00615  00711                    % 17280 RGTR--
+*A VE 160301007 150502004 000332  00615  00711              % 17280 RGTR--
+*I FD 160301007 150502004        0002051  00615  00711      % 17280 RGTR--
+160301007 Colmar-Berg, Usines          00615                % 17280 RGTR--
+160101005 Bissen, Op der Mille  00617  00617                % 17280 RGTR--
+160101003 Bissen, Geiwels       00618  00618                % 17280 RGTR--
+160101006 Bissen, Henckels      00619  00619                % 17280 RGTR--
+160101002 Bissen, Kräizung      00619  00619                % 17280 RGTR--
+160101008 Bissen, Um Sand       00620  00620                % 17280 RGTR--
+160201002 Boevange-sur-Attert,  00624  00624                % 17280 RGTR--
+160201003 Boevange, Gare        00625  00625                % 17280 RGTR--
+150804002 Useldange, Raiffeise  00628  00628                % 17280 RGTR--
+150804003 Useldange, Spuerkees  00629  00629                % 17280 RGTR--
+150801001 Everlange, Beim Enge  00632  00632                % 17280 RGTR--
+150805002 Everlange, Everlénge  00633  00633                % 17280 RGTR--
+150205001 Platen, Roudbach      00634  00634                % 17280 RGTR--
+150607001 Reichlange, Hostelle  00635  00635                % 17280 RGTR--
+150606009 Redange/Attert, Scho  00637  00637                % 17280 RGTR--
+150606007 Redange/Attert, Ospe  00638  00638                % 17280 RGTR--
+150606003 Redange, Gare         00640  00640                % 17280 RGTR--
+150303003 Ell, Beim Schreider   00642  00642                % 17280 RGTR--
+150303002 Ell, Beim Musikssaul  00642  00642                % 17280 RGTR--
+150301001 Colpach-Bas, Schlass  00645  00645                % 17280 RGTR--
+150302001 Colpach-Haut, Pompje  00647  00647                % 17280 RGTR--
+150304001 Petit-Nobressart, Am  00649  00649                % 17280 RGTR--
+150507001 Holtz, Molkerei       00655  00655                % 17280 RGTR--
+150507002 Holtz, Um Bur         00656  00656                % 17280 RGTR--
+150516002 Héiltzerstee          00657  00657                % 17280 RGTR--
+150511003 Perlé, Héiltzerwee    00659  00659                % 17280 RGTR--
+150511005 Perlé, Schoul         00700  00700                % 17280 RGTR--
+150511001 Perlé, An der Huel    00701  00701                % 17280 RGTR--
+150511006 Perlé, Kuelewee       00702  00702                % 17280 RGTR--
+150511002 Perlé, Gare           00703  00703                % 17280 RGTR--
+150515004 Wolwëner Halt         00705  00705                % 17280 RGTR--
+150505001 Flatzbour             00707  00707                % 17280 RGTR--
+150502003 Bigonville, Kimm      00707  00707                % 17280 RGTR--
+150502005 Bigonville, Réimerwe  00709  00709                % 17280 RGTR--
+150502006 Bigonville, Am Duerf  00710  00710                % 17280 RGTR--
+150502001 Bigonville, Huelgaas  00710  00710                % 17280 RGTR--
+150502004 Bigonville, Knupp     00711                       % 17280 RGTR--
+*Z 17281 RGTR--                                             % 17281 RGTR--
+*L 92U      150502004 160301007  00429  00525               % 17281 RGTR--
+*A MM 150502004 160301007 000038  00429  00525              % 17281 RGTR--
+*R 1 160301007 150502004 160301007  00429  00525            % 17281 RGTR--
+*G 063 150502004 160301007  00429  00525                    % 17281 RGTR--
+*A VE 150502004 160301007 000038  00429  00525              % 17281 RGTR--
+*I FD 150502004 160301007        0003329  00429  00525      % 17281 RGTR--
+150502004 Bigonville, Knupp            00429                % 17281 RGTR--
+150502007 Bigonville, Haaptstr  00429  00429                % 17281 RGTR--
+150502002 Bigonville, Kéismaar  00430  00430                % 17281 RGTR--
+150502005 Bigonville, Réimerwe  00431  00431                % 17281 RGTR--
+150502003 Bigonville, Kimm      00432  00432                % 17281 RGTR--
+150505001 Flatzbour             00433  00433                % 17281 RGTR--
+150515004 Wolwëner Halt         00435  00435                % 17281 RGTR--
+150511002 Perlé, Gare           00436  00436                % 17281 RGTR--
+150511006 Perlé, Kuelewee       00437  00437                % 17281 RGTR--
+150511001 Perlé, An der Huel    00438  00438                % 17281 RGTR--
+150511005 Perlé, Schoul         00439  00439                % 17281 RGTR--
+150511003 Perlé, Héiltzerwee    00440  00440                % 17281 RGTR--
+150516002 Héiltzerstee          00442  00442                % 17281 RGTR--
+150507001 Holtz, Molkerei       00444  00444                % 17281 RGTR--
+150304001 Petit-Nobressart, Am  00449  00449                % 17281 RGTR--
+150302001 Colpach-Haut, Pompje  00451  00451                % 17281 RGTR--
+150301001 Colpach-Bas, Schlass  00453  00453                % 17281 RGTR--
+150303002 Ell, Beim Musikssaul  00456  00456                % 17281 RGTR--
+150303003 Ell, Beim Schreider   00457  00457                % 17281 RGTR--
+150606003 Redange, Gare         00459  00459                % 17281 RGTR--
+150606001 Redange/Attert, Bian  00500  00500                % 17281 RGTR--
+150606009 Redange/Attert, Scho  00501  00501                % 17281 RGTR--
+150607001 Reichlange, Hostelle  00504  00504                % 17281 RGTR--
+150205001 Platen, Roudbach      00505  00505                % 17281 RGTR--
+150805002 Everlange, Everlénge  00505  00505                % 17281 RGTR--
+150801001 Everlange, Beim Enge  00507  00507                % 17281 RGTR--
+150804003 Useldange, Spuerkees  00510  00510                % 17281 RGTR--
+160201003 Boevange, Gare        00513  00513                % 17281 RGTR--
+160201002 Boevange-sur-Attert,  00514  00514                % 17281 RGTR--
+160101008 Bissen, Um Sand       00519  00519                % 17281 RGTR--
+160101002 Bissen, Kräizung      00520  00520                % 17281 RGTR--
+160101006 Bissen, Henckels      00521  00521                % 17281 RGTR--
+160101003 Bissen, Geiwels       00521  00521                % 17281 RGTR--
+160101005 Bissen, Op der Mille  00522  00522                % 17281 RGTR--
+160301007 Colmar-Berg, Usines   00525                       % 17281 RGTR--
+*Z 17282 RGTR--                                             % 17282 RGTR--
+*L 92U      150502004 160301007  01229  01325               % 17282 RGTR--
+*A MM 150502004 160301007 000038  01229  01325              % 17282 RGTR--
+*R 1 160301007 150502004 160301007  01229  01325            % 17282 RGTR--
+*G 063 150502004 160301007  01229  01325                    % 17282 RGTR--
+*A VE 150502004 160301007 000038  01229  01325              % 17282 RGTR--
+*I FD 150502004 160301007        0003330  01229  01325      % 17282 RGTR--
+150502004 Bigonville, Knupp            01229                % 17282 RGTR--
+150502007 Bigonville, Haaptstr  01229  01229                % 17282 RGTR--
+150502002 Bigonville, Kéismaar  01230  01230                % 17282 RGTR--
+150502005 Bigonville, Réimerwe  01231  01231                % 17282 RGTR--
+150502003 Bigonville, Kimm      01232  01232                % 17282 RGTR--
+150505001 Flatzbour             01233  01233                % 17282 RGTR--
+150515004 Wolwëner Halt         01235  01235                % 17282 RGTR--
+150511002 Perlé, Gare           01236  01236                % 17282 RGTR--
+150511006 Perlé, Kuelewee       01237  01237                % 17282 RGTR--
+150511001 Perlé, An der Huel    01238  01238                % 17282 RGTR--
+150511005 Perlé, Schoul         01239  01239                % 17282 RGTR--
+150511003 Perlé, Héiltzerwee    01240  01240                % 17282 RGTR--
+150516002 Héiltzerstee          01242  01242                % 17282 RGTR--
+150507001 Holtz, Molkerei       01244  01244                % 17282 RGTR--
+150304001 Petit-Nobressart, Am  01249  01249                % 17282 RGTR--
+150302001 Colpach-Haut, Pompje  01251  01251                % 17282 RGTR--
+150301001 Colpach-Bas, Schlass  01253  01253                % 17282 RGTR--
+150303002 Ell, Beim Musikssaul  01256  01256                % 17282 RGTR--
+150303003 Ell, Beim Schreider   01257  01257                % 17282 RGTR--
+150606003 Redange, Gare         01259  01259                % 17282 RGTR--
+150606001 Redange/Attert, Bian  01300  01300                % 17282 RGTR--
+150606009 Redange/Attert, Scho  01301  01301                % 17282 RGTR--
+150607001 Reichlange, Hostelle  01304  01304                % 17282 RGTR--
+150205001 Platen, Roudbach      01305  01305                % 17282 RGTR--
+150805002 Everlange, Everlénge  01305  01305                % 17282 RGTR--
+150801001 Everlange, Beim Enge  01307  01307                % 17282 RGTR--
+150804003 Useldange, Spuerkees  01310  01310                % 17282 RGTR--
+160201003 Boevange, Gare        01313  01313                % 17282 RGTR--
+160201002 Boevange-sur-Attert,  01314  01314                % 17282 RGTR--
+160101008 Bissen, Um Sand       01319  01319                % 17282 RGTR--
+160101002 Bissen, Kräizung      01320  01320                % 17282 RGTR--
+160101006 Bissen, Henckels      01321  01321                % 17282 RGTR--
+160101003 Bissen, Geiwels       01321  01321                % 17282 RGTR--
+160101005 Bissen, Op der Mille  01322  01322                % 17282 RGTR--
+160301007 Colmar-Berg, Usines   01325                       % 17282 RGTR--
+*Z 17283 RGTR--                                             % 17283 RGTR--
+*L 92U      150502004 160301007  02029  02125               % 17283 RGTR--
+*A MM 150502004 160301007 000038  02029  02125              % 17283 RGTR--
+*R 1 160301007 150502004 160301007  02029  02125            % 17283 RGTR--
+*G 063 150502004 160301007  02029  02125                    % 17283 RGTR--
+*A VE 150502004 160301007 000038  02029  02125              % 17283 RGTR--
+*I FD 150502004 160301007        0003331  02029  02125      % 17283 RGTR--
+150502004 Bigonville, Knupp            02029                % 17283 RGTR--
+150502007 Bigonville, Haaptstr  02029  02029                % 17283 RGTR--
+150502002 Bigonville, Kéismaar  02030  02030                % 17283 RGTR--
+150502005 Bigonville, Réimerwe  02031  02031                % 17283 RGTR--
+150502003 Bigonville, Kimm      02032  02032                % 17283 RGTR--
+150505001 Flatzbour             02033  02033                % 17283 RGTR--
+150515004 Wolwëner Halt         02035  02035                % 17283 RGTR--
+150511002 Perlé, Gare           02036  02036                % 17283 RGTR--
+150511006 Perlé, Kuelewee       02037  02037                % 17283 RGTR--
+150511001 Perlé, An der Huel    02038  02038                % 17283 RGTR--
+150511005 Perlé, Schoul         02039  02039                % 17283 RGTR--
+150511003 Perlé, Héiltzerwee    02040  02040                % 17283 RGTR--
+150516002 Héiltzerstee          02042  02042                % 17283 RGTR--
+150507001 Holtz, Molkerei       02044  02044                % 17283 RGTR--
+150304001 Petit-Nobressart, Am  02049  02049                % 17283 RGTR--
+150302001 Colpach-Haut, Pompje  02051  02051                % 17283 RGTR--
+150301001 Colpach-Bas, Schlass  02053  02053                % 17283 RGTR--
+150303002 Ell, Beim Musikssaul  02056  02056                % 17283 RGTR--
+150303003 Ell, Beim Schreider   02057  02057                % 17283 RGTR--
+150606003 Redange, Gare         02059  02059                % 17283 RGTR--
+150606001 Redange/Attert, Bian  02100  02100                % 17283 RGTR--
+150606009 Redange/Attert, Scho  02101  02101                % 17283 RGTR--
+150607001 Reichlange, Hostelle  02104  02104                % 17283 RGTR--
+150205001 Platen, Roudbach      02105  02105                % 17283 RGTR--
+150805002 Everlange, Everlénge  02105  02105                % 17283 RGTR--
+150801001 Everlange, Beim Enge  02107  02107                % 17283 RGTR--
+150804003 Useldange, Spuerkees  02110  02110                % 17283 RGTR--
+160201003 Boevange, Gare        02113  02113                % 17283 RGTR--
+160201002 Boevange-sur-Attert,  02114  02114                % 17283 RGTR--
+160101008 Bissen, Um Sand       02119  02119                % 17283 RGTR--
+160101002 Bissen, Kräizung      02120  02120                % 17283 RGTR--
+160101006 Bissen, Henckels      02121  02121                % 17283 RGTR--
+160101003 Bissen, Geiwels       02121  02121                % 17283 RGTR--
+160101005 Bissen, Op der Mille  02122  02122                % 17283 RGTR--
+160301007 Colmar-Berg, Usines   02125                       % 17283 RGTR--
+*Z 17284 RGTR--                                             % 17284 RGTR--
+*L 92U      160301007 150502004  00615  00709               % 17284 RGTR--
+*A MM 160301007 150502004 000017  00615  00709              % 17284 RGTR--
+*R 2 150502004 160301007 150502004  00615  00709            % 17284 RGTR--
+*G 063 160301007 150502004  00615  00709                    % 17284 RGTR--
+*A VE 160301007 150502004 000017  00615  00709              % 17284 RGTR--
+*I FD 160301007 150502004        0002051  00615  00709      % 17284 RGTR--
+160301007 Colmar-Berg, Usines          00615                % 17284 RGTR--
+160101005 Bissen, Op der Mille  00617  00617                % 17284 RGTR--
+160101003 Bissen, Geiwels       00618  00618                % 17284 RGTR--
+160101006 Bissen, Henckels      00618  00618                % 17284 RGTR--
+160101002 Bissen, Kräizung      00619  00619                % 17284 RGTR--
+160101008 Bissen, Um Sand       00620  00620                % 17284 RGTR--
+160201002 Boevange-sur-Attert,  00624  00624                % 17284 RGTR--
+160201003 Boevange, Gare        00625  00625                % 17284 RGTR--
+150804002 Useldange, Raiffeise  00628  00628                % 17284 RGTR--
+150804003 Useldange, Spuerkees  00628  00628                % 17284 RGTR--
+150801001 Everlange, Beim Enge  00631  00631                % 17284 RGTR--
+150805002 Everlange, Everlénge  00632  00632                % 17284 RGTR--
+150205001 Platen, Roudbach      00633  00633                % 17284 RGTR--
+150607001 Reichlange, Hostelle  00634  00634                % 17284 RGTR--
+150606009 Redange/Attert, Scho  00637  00637                % 17284 RGTR--
+150606007 Redange/Attert, Ospe  00638  00638                % 17284 RGTR--
+150606003 Redange, Gare         00639  00639                % 17284 RGTR--
+150303003 Ell, Beim Schreider   00641  00641                % 17284 RGTR--
+150303002 Ell, Beim Musikssaul  00642  00642                % 17284 RGTR--
+150301001 Colpach-Bas, Schlass  00644  00644                % 17284 RGTR--
+150302001 Colpach-Haut, Pompje  00646  00646                % 17284 RGTR--
+150304001 Petit-Nobressart, Am  00648  00648                % 17284 RGTR--
+150507001 Holtz, Molkerei       00653  00653                % 17284 RGTR--
+150507002 Holtz, Um Bur         00654  00654                % 17284 RGTR--
+150516002 Héiltzerstee          00656  00656                % 17284 RGTR--
+150511003 Perlé, Héiltzerwee    00658  00658                % 17284 RGTR--
+150511005 Perlé, Schoul         00659  00659                % 17284 RGTR--
+150511001 Perlé, An der Huel    00700  00700                % 17284 RGTR--
+150511006 Perlé, Kuelewee       00701  00701                % 17284 RGTR--
+150511002 Perlé, Gare           00701  00701                % 17284 RGTR--
+150515004 Wolwëner Halt         00703  00703                % 17284 RGTR--
+150505001 Flatzbour             00705  00705                % 17284 RGTR--
+150502003 Bigonville, Kimm      00706  00706                % 17284 RGTR--
+150502005 Bigonville, Réimerwe  00707  00707                % 17284 RGTR--
+150502006 Bigonville, Am Duerf  00708  00708                % 17284 RGTR--
+150502001 Bigonville, Huelgaas  00709  00709                % 17284 RGTR--
+150502004 Bigonville, Knupp     00709                       % 17284 RGTR--
+*Z 17285 RGTR--                                             % 17285 RGTR--
+*L 92U      160301007 150502004  01415  01509               % 17285 RGTR--
+*A MM 160301007 150502004 000038  01415  01509              % 17285 RGTR--
+*R 2 150502004 160301007 150502004  01415  01509            % 17285 RGTR--
+*G 063 160301007 150502004  01415  01509                    % 17285 RGTR--
+*A VE 160301007 150502004 000038  01415  01509              % 17285 RGTR--
+*I FD 160301007 150502004        0002055  01415  01509      % 17285 RGTR--
+160301007 Colmar-Berg, Usines          01415                % 17285 RGTR--
+160101005 Bissen, Op der Mille  01417  01417                % 17285 RGTR--
+160101003 Bissen, Geiwels       01418  01418                % 17285 RGTR--
+160101006 Bissen, Henckels      01418  01418                % 17285 RGTR--
+160101002 Bissen, Kräizung      01419  01419                % 17285 RGTR--
+160101008 Bissen, Um Sand       01420  01420                % 17285 RGTR--
+160201002 Boevange-sur-Attert,  01424  01424                % 17285 RGTR--
+160201003 Boevange, Gare        01425  01425                % 17285 RGTR--
+150804002 Useldange, Raiffeise  01428  01428                % 17285 RGTR--
+150804003 Useldange, Spuerkees  01428  01428                % 17285 RGTR--
+150801001 Everlange, Beim Enge  01431  01431                % 17285 RGTR--
+150805002 Everlange, Everlénge  01432  01432                % 17285 RGTR--
+150205001 Platen, Roudbach      01433  01433                % 17285 RGTR--
+150607001 Reichlange, Hostelle  01434  01434                % 17285 RGTR--
+150606009 Redange/Attert, Scho  01437  01437                % 17285 RGTR--
+150606007 Redange/Attert, Ospe  01438  01438                % 17285 RGTR--
+150606003 Redange, Gare         01439  01439                % 17285 RGTR--
+150303003 Ell, Beim Schreider   01441  01441                % 17285 RGTR--
+150303002 Ell, Beim Musikssaul  01442  01442                % 17285 RGTR--
+150301001 Colpach-Bas, Schlass  01444  01444                % 17285 RGTR--
+150302001 Colpach-Haut, Pompje  01446  01446                % 17285 RGTR--
+150304001 Petit-Nobressart, Am  01448  01448                % 17285 RGTR--
+150507001 Holtz, Molkerei       01453  01453                % 17285 RGTR--
+150507002 Holtz, Um Bur         01454  01454                % 17285 RGTR--
+150516002 Héiltzerstee          01456  01456                % 17285 RGTR--
+150511003 Perlé, Héiltzerwee    01458  01458                % 17285 RGTR--
+150511005 Perlé, Schoul         01459  01459                % 17285 RGTR--
+150511001 Perlé, An der Huel    01500  01500                % 17285 RGTR--
+150511006 Perlé, Kuelewee       01501  01501                % 17285 RGTR--
+150511002 Perlé, Gare           01501  01501                % 17285 RGTR--
+150515004 Wolwëner Halt         01503  01503                % 17285 RGTR--
+150505001 Flatzbour             01505  01505                % 17285 RGTR--
+150502003 Bigonville, Kimm      01506  01506                % 17285 RGTR--
+150502005 Bigonville, Réimerwe  01507  01507                % 17285 RGTR--
+150502006 Bigonville, Am Duerf  01508  01508                % 17285 RGTR--
+150502001 Bigonville, Huelgaas  01509  01509                % 17285 RGTR--
+150502004 Bigonville, Knupp     01509                       % 17285 RGTR--
+*Z 17286 RGTR--                                             % 17286 RGTR--
+*L 92U      160301007 150502004  02215  02309               % 17286 RGTR--
+*A MM 160301007 150502004 000038  02215  02309              % 17286 RGTR--
+*R 2 150502004 160301007 150502004  02215  02309            % 17286 RGTR--
+*G 063 160301007 150502004  02215  02309                    % 17286 RGTR--
+*A VE 160301007 150502004 000038  02215  02309              % 17286 RGTR--
+*I FD 160301007 150502004        0001439  02215  02309      % 17286 RGTR--
+160301007 Colmar-Berg, Usines          02215                % 17286 RGTR--
+160101005 Bissen, Op der Mille  02217  02217                % 17286 RGTR--
+160101003 Bissen, Geiwels       02218  02218                % 17286 RGTR--
+160101006 Bissen, Henckels      02218  02218                % 17286 RGTR--
+160101002 Bissen, Kräizung      02219  02219                % 17286 RGTR--
+160101008 Bissen, Um Sand       02220  02220                % 17286 RGTR--
+160201002 Boevange-sur-Attert,  02224  02224                % 17286 RGTR--
+160201003 Boevange, Gare        02225  02225                % 17286 RGTR--
+150804002 Useldange, Raiffeise  02228  02228                % 17286 RGTR--
+150804003 Useldange, Spuerkees  02228  02228                % 17286 RGTR--
+150801001 Everlange, Beim Enge  02231  02231                % 17286 RGTR--
+150805002 Everlange, Everlénge  02232  02232                % 17286 RGTR--
+150205001 Platen, Roudbach      02233  02233                % 17286 RGTR--
+150607001 Reichlange, Hostelle  02234  02234                % 17286 RGTR--
+150606009 Redange/Attert, Scho  02237  02237                % 17286 RGTR--
+150606007 Redange/Attert, Ospe  02238  02238                % 17286 RGTR--
+150606003 Redange, Gare         02239  02239                % 17286 RGTR--
+150303003 Ell, Beim Schreider   02241  02241                % 17286 RGTR--
+150303002 Ell, Beim Musikssaul  02242  02242                % 17286 RGTR--
+150301001 Colpach-Bas, Schlass  02244  02244                % 17286 RGTR--
+150302001 Colpach-Haut, Pompje  02246  02246                % 17286 RGTR--
+150304001 Petit-Nobressart, Am  02248  02248                % 17286 RGTR--
+150507001 Holtz, Molkerei       02253  02253                % 17286 RGTR--
+150507002 Holtz, Um Bur         02254  02254                % 17286 RGTR--
+150516002 Héiltzerstee          02256  02256                % 17286 RGTR--
+150511003 Perlé, Héiltzerwee    02258  02258                % 17286 RGTR--
+150511005 Perlé, Schoul         02259  02259                % 17286 RGTR--
+150511001 Perlé, An der Huel    02300  02300                % 17286 RGTR--
+150511006 Perlé, Kuelewee       02301  02301                % 17286 RGTR--
+150511002 Perlé, Gare           02301  02301                % 17286 RGTR--
+150515004 Wolwëner Halt         02303  02303                % 17286 RGTR--
+150505001 Flatzbour             02305  02305                % 17286 RGTR--
+150502003 Bigonville, Kimm      02306  02306                % 17286 RGTR--
+150502005 Bigonville, Réimerwe  02307  02307                % 17286 RGTR--
+150502006 Bigonville, Am Duerf  02308  02308                % 17286 RGTR--
+150502001 Bigonville, Huelgaas  02309  02309                % 17286 RGTR--
+150502004 Bigonville, Knupp     02309                       % 17286 RGTR--
+*Z 17287 RGTR--                                             % 17287 RGTR--
+*L 92U      160301007 150502004  00615  00709               % 17287 RGTR--
+*A MM 160301007 150502004 000016  00615  00709              % 17287 RGTR--
+*R 2 150502004 160301007 150502004  00615  00709            % 17287 RGTR--
+*G 072 160301007 150502004  00615  00709                    % 17287 RGTR--
+*A VE 160301007 150502004 000016  00615  00709              % 17287 RGTR--
+*I FD 160301007 150502004        0002051  00615  00709      % 17287 RGTR--
+160301007 Colmar-Berg, Usines          00615                % 17287 RGTR--
+160101005 Bissen, Op der Mille  00617  00617                % 17287 RGTR--
+160101003 Bissen, Geiwels       00618  00618                % 17287 RGTR--
+160101006 Bissen, Henckels      00618  00618                % 17287 RGTR--
+160101002 Bissen, Kräizung      00619  00619                % 17287 RGTR--
+160101008 Bissen, Um Sand       00620  00620                % 17287 RGTR--
+160201002 Boevange-sur-Attert,  00624  00624                % 17287 RGTR--
+160201003 Boevange, Gare        00625  00625                % 17287 RGTR--
+150804002 Useldange, Raiffeise  00628  00628                % 17287 RGTR--
+150804003 Useldange, Spuerkees  00628  00628                % 17287 RGTR--
+150801001 Everlange, Beim Enge  00631  00631                % 17287 RGTR--
+150805002 Everlange, Everlénge  00632  00632                % 17287 RGTR--
+150205001 Platen, Roudbach      00633  00633                % 17287 RGTR--
+150607001 Reichlange, Hostelle  00634  00634                % 17287 RGTR--
+150606009 Redange/Attert, Scho  00637  00637                % 17287 RGTR--
+150606007 Redange/Attert, Ospe  00638  00638                % 17287 RGTR--
+150606003 Redange, Gare         00639  00639                % 17287 RGTR--
+150303003 Ell, Beim Schreider   00641  00641                % 17287 RGTR--
+150303002 Ell, Beim Musikssaul  00642  00642                % 17287 RGTR--
+150301001 Colpach-Bas, Schlass  00644  00644                % 17287 RGTR--
+150302001 Colpach-Haut, Pompje  00646  00646                % 17287 RGTR--
+150304001 Petit-Nobressart, Am  00648  00648                % 17287 RGTR--
+150507001 Holtz, Molkerei       00653  00653                % 17287 RGTR--
+150507002 Holtz, Um Bur         00654  00654                % 17287 RGTR--
+150516002 Héiltzerstee          00656  00656                % 17287 RGTR--
+150511003 Perlé, Héiltzerwee    00658  00658                % 17287 RGTR--
+150511005 Perlé, Schoul         00659  00659                % 17287 RGTR--
+150511001 Perlé, An der Huel    00700  00700                % 17287 RGTR--
+150511006 Perlé, Kuelewee       00701  00701                % 17287 RGTR--
+150511002 Perlé, Gare           00701  00701                % 17287 RGTR--
+150515004 Wolwëner Halt         00703  00703                % 17287 RGTR--
+150505001 Flatzbour             00705  00705                % 17287 RGTR--
+150502003 Bigonville, Kimm      00706  00706                % 17287 RGTR--
+150502005 Bigonville, Réimerwe  00707  00707                % 17287 RGTR--
+150502006 Bigonville, Am Duerf  00708  00708                % 17287 RGTR--
+150502001 Bigonville, Huelgaas  00709  00709                % 17287 RGTR--
+150502004 Bigonville, Knupp     00709                       % 17287 RGTR--
+*Z 17288 RGTR--                                             % 17288 RGTR--
+*L 92U      160301007 150502004  00615  00711               % 17288 RGTR--
+*A MM 160301007 150502004 000333  00615  00711              % 17288 RGTR--
+*R 2 150502004 160301007 150502004  00615  00711            % 17288 RGTR--
+*G 063 160301007 150502004  00615  00711                    % 17288 RGTR--
+*A VE 160301007 150502004 000333  00615  00711              % 17288 RGTR--
+*I FD 160301007 150502004        0002051  00615  00711      % 17288 RGTR--
+160301007 Colmar-Berg, Usines          00615                % 17288 RGTR--
+160101005 Bissen, Op der Mille  00617  00617                % 17288 RGTR--
+160101003 Bissen, Geiwels       00618  00618                % 17288 RGTR--
+160101006 Bissen, Henckels      00619  00619                % 17288 RGTR--
+160101002 Bissen, Kräizung      00619  00619                % 17288 RGTR--
+160101008 Bissen, Um Sand       00620  00620                % 17288 RGTR--
+160201002 Boevange-sur-Attert,  00624  00624                % 17288 RGTR--
+160201003 Boevange, Gare        00625  00625                % 17288 RGTR--
+150804002 Useldange, Raiffeise  00628  00628                % 17288 RGTR--
+150804003 Useldange, Spuerkees  00629  00629                % 17288 RGTR--
+150801001 Everlange, Beim Enge  00632  00632                % 17288 RGTR--
+150805002 Everlange, Everlénge  00633  00633                % 17288 RGTR--
+150205001 Platen, Roudbach      00634  00634                % 17288 RGTR--
+150607001 Reichlange, Hostelle  00635  00635                % 17288 RGTR--
+150606009 Redange/Attert, Scho  00637  00637                % 17288 RGTR--
+150606007 Redange/Attert, Ospe  00638  00638                % 17288 RGTR--
+150606003 Redange, Gare         00640  00640                % 17288 RGTR--
+150303003 Ell, Beim Schreider   00642  00642                % 17288 RGTR--
+150303002 Ell, Beim Musikssaul  00642  00642                % 17288 RGTR--
+150301001 Colpach-Bas, Schlass  00645  00645                % 17288 RGTR--
+150302001 Colpach-Haut, Pompje  00647  00647                % 17288 RGTR--
+150304001 Petit-Nobressart, Am  00649  00649                % 17288 RGTR--
+150507001 Holtz, Molkerei       00655  00655                % 17288 RGTR--
+150507002 Holtz, Um Bur         00656  00656                % 17288 RGTR--
+150516002 Héiltzerstee          00657  00657                % 17288 RGTR--
+150511003 Perlé, Héiltzerwee    00659  00659                % 17288 RGTR--
+150511005 Perlé, Schoul         00700  00700                % 17288 RGTR--
+150511001 Perlé, An der Huel    00701  00701                % 17288 RGTR--
+150511006 Perlé, Kuelewee       00702  00702                % 17288 RGTR--
+150511002 Perlé, Gare           00703  00703                % 17288 RGTR--
+150515004 Wolwëner Halt         00705  00705                % 17288 RGTR--
+150505001 Flatzbour             00707  00707                % 17288 RGTR--
+150502003 Bigonville, Kimm      00707  00707                % 17288 RGTR--
+150502005 Bigonville, Réimerwe  00709  00709                % 17288 RGTR--
+150502006 Bigonville, Am Duerf  00710  00710                % 17288 RGTR--
+150502001 Bigonville, Huelgaas  00710  00710                % 17288 RGTR--
+150502004 Bigonville, Knupp     00711                       % 17288 RGTR--

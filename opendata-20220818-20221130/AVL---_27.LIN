@@ -1,0 +1,219 @@
+*F 03 2
+*Z 03971 AVL---       027 030                               % 03971 AVL---
+*L 27       200418003 200414006  00610  00654               % 03971 AVL---
+*A BE 200418003 200414006 000034  00610  00654              % 03971 AVL---
+*R 1 200414006 200418003 200414006  00610  00654            % 03971 AVL---
+*G ST  200418003 200414006  00610  00654                    % 03971 AVL---
+*A VE 200418003 200414006 000034  00610  00654              % 03971 AVL---
+200418003 Kockelscheuer, Patin         00610                % 03971 AVL---
+200418001 Kockelscheuer, Campi  00612  00612                % 03971 AVL---
+200412023 Gasperich, Leonardo   00615  00615                % 03971 AVL---
+200412024 Gasperich, Hildegard  00616  00616                % 03971 AVL---
+200412026 Gasperich, Charles D  00619  00619                % 03971 AVL---
+200412008 Gasperich, François   00620  00620                % 03971 AVL---
+200412002 Gasperich, Beethoven  00621  00621                % 03971 AVL---
+200407011 Cessange, Rue Verte   00622  00622                % 03971 AVL---
+200407009 Cessange, Kuelebierg  00623  00623                % 03971 AVL---
+200407012 Cessange, Tubishaff   00624  00624                % 03971 AVL---
+200407002 Cessange, Antoine     00625  00625                % 03971 AVL---
+200407010 Cessange, Rue de Leu  00626  00626                % 03971 AVL---
+200407001 Cessange, Am Eck      00627  00627                % 03971 AVL---
+200407006 Cessange, Duerf       00628  00628                % 03971 AVL---
+200407008 Cessange, Kierch      00629  00629                % 03971 AVL---
+200407007 Cessange, Fischerhaf  00630  00630                % 03971 AVL---
+200407003 Cessange, Artisans    00631  00631                % 03971 AVL---
+200407004 Cessange, Barrès      00632  00632                % 03971 AVL---
+200415002 Hollerich, Assurance  00633  00633                % 03971 AVL---
+200415019 Hollerich, Jean-Bapt  00634  00634                % 03971 AVL---
+200415003 Hollerich, Fonderie   00636  00636                % 03971 AVL---
+200405036 Luxembourg, Gare Cen  00639  00639                % 03971 AVL---
+200405039 Luxembourg, Wallis    00643  00643                % 03971 AVL---
+200404024 Verlorenkost, Labora  00644  00644                % 03971 AVL---
+200404025 Verlorenkost, Lavois  00644  00644                % 03971 AVL---
+200404030 Verlorenkost, Généra  00646  00646                % 03971 AVL---
+200424001 Pulvermuhl, Hammer D  00648  00648                % 03971 AVL---
+200414011 Hamm, Peupliers       00650  00650                % 03971 AVL---
+200414007 Hamm, Rue Haute       00652  00652                % 03971 AVL---
+200414003 Hamm, Käschtewee      00652  00652                % 03971 AVL---
+200414006 Hamm, Rue de Bitbour  00654                       % 03971 AVL---
+*Z 03972 AVL---       025 030                               % 03972 AVL---
+*L 27       200414006 200418003  00702  00745               % 03972 AVL---
+*A BE 200414006 200418003 000034  00702  00745              % 03972 AVL---
+*R 2 200418003 200414006 200418003  00702  00745            % 03972 AVL---
+*G ST  200414006 200418003  00702  00745                    % 03972 AVL---
+*A VE 200414006 200418003 000034  00702  00745              % 03972 AVL---
+200414006 Hamm, Rue de Bitbour         00702                % 03972 AVL---
+200414003 Hamm, Käschtewee      00703  00703                % 03972 AVL---
+200414007 Hamm, Rue Haute       00704  00704                % 03972 AVL---
+200414011 Hamm, Peupliers       00705  00705                % 03972 AVL---
+200424001 Pulvermuhl, Hammer D  00708  00708                % 03972 AVL---
+200404030 Verlorenkost, Généra  00710  00710                % 03972 AVL---
+200404025 Verlorenkost, Lavois  00711  00711                % 03972 AVL---
+200404024 Verlorenkost, Labora  00712  00712                % 03972 AVL---
+200405039 Luxembourg, Wallis    00714  00714                % 03972 AVL---
+200405032 Luxembourg, Gare Cen  00717  00717                % 03972 AVL---
+200415003 Hollerich, Fonderie   00719  00719                % 03972 AVL---
+200415002 Hollerich, Assurance  00721  00721                % 03972 AVL---
+200407004 Cessange, Barrès      00723  00723                % 03972 AVL---
+200407003 Cessange, Artisans    00724  00724                % 03972 AVL---
+200407007 Cessange, Fischerhaf  00725  00725                % 03972 AVL---
+200407008 Cessange, Kierch      00726  00726                % 03972 AVL---
+200407006 Cessange, Duerf       00727  00727                % 03972 AVL---
+200407001 Cessange, Am Eck      00728  00728                % 03972 AVL---
+200407010 Cessange, Rue de Leu  00729  00729                % 03972 AVL---
+200407002 Cessange, Antoine     00730  00730                % 03972 AVL---
+200407012 Cessange, Tubishaff   00731  00731                % 03972 AVL---
+200407009 Cessange, Kuelebierg  00732  00732                % 03972 AVL---
+200407011 Cessange, Rue Verte   00733  00733                % 03972 AVL---
+200412002 Gasperich, Beethoven  00734  00734                % 03972 AVL---
+200412008 Gasperich, François   00735  00735                % 03972 AVL---
+200412026 Gasperich, Charles D  00736  00736                % 03972 AVL---
+200412024 Gasperich, Hildegard  00739  00739                % 03972 AVL---
+200412023 Gasperich, Leonardo   00740  00740                % 03972 AVL---
+200418001 Kockelscheuer, Campi  00743  00743                % 03972 AVL---
+200418003 Kockelscheuer, Patin  00745                       % 03972 AVL---
+*Z 03973 AVL---                                             % 03973 AVL---
+*L 27       200414006 200418003  02004  02040               % 03973 AVL---
+*A BE 200414006 200418003 000034  02004  02040              % 03973 AVL---
+*R 2 200418003 200414006 200418003  02004  02040            % 03973 AVL---
+*G ST  200414006 200418003  02004  02040                    % 03973 AVL---
+*A VE 200414006 200418003 000034  02004  02040              % 03973 AVL---
+200414006 Hamm, Rue de Bitbour         02004                % 03973 AVL---
+200414003 Hamm, Käschtewee      02005  02005                % 03973 AVL---
+200414007 Hamm, Rue Haute       02006  02006                % 03973 AVL---
+200414011 Hamm, Peupliers       02007  02007                % 03973 AVL---
+200424001 Pulvermuhl, Hammer D  02010  02010                % 03973 AVL---
+200404030 Verlorenkost, Généra  02011  02011                % 03973 AVL---
+200404025 Verlorenkost, Lavois  02012  02012                % 03973 AVL---
+200404024 Verlorenkost, Labora  02013  02013                % 03973 AVL---
+200405039 Luxembourg, Wallis    02015  02015                % 03973 AVL---
+200405032 Luxembourg, Gare Cen  02017  02017                % 03973 AVL---
+200415003 Hollerich, Fonderie   02018  02018                % 03973 AVL---
+200415002 Hollerich, Assurance  02020  02020                % 03973 AVL---
+200407004 Cessange, Barrès      02021  02021                % 03973 AVL---
+200407003 Cessange, Artisans    02022  02022                % 03973 AVL---
+200407007 Cessange, Fischerhaf  02023  02023                % 03973 AVL---
+200407008 Cessange, Kierch      02024  02024                % 03973 AVL---
+200407006 Cessange, Duerf       02025  02025                % 03973 AVL---
+200407001 Cessange, Am Eck      02026  02026                % 03973 AVL---
+200407010 Cessange, Rue de Leu  02026  02026                % 03973 AVL---
+200407002 Cessange, Antoine     02027  02027                % 03973 AVL---
+200407012 Cessange, Tubishaff   02028  02028                % 03973 AVL---
+200407009 Cessange, Kuelebierg  02029  02029                % 03973 AVL---
+200407011 Cessange, Rue Verte   02030  02030                % 03973 AVL---
+200412002 Gasperich, Beethoven  02031  02031                % 03973 AVL---
+200412008 Gasperich, François   02032  02032                % 03973 AVL---
+200412026 Gasperich, Charles D  02033  02033                % 03973 AVL---
+200412024 Gasperich, Hildegard  02035  02035                % 03973 AVL---
+200412023 Gasperich, Leonardo   02035  02035                % 03973 AVL---
+200418001 Kockelscheuer, Campi  02039  02039                % 03973 AVL---
+200418003 Kockelscheuer, Patin  02040                       % 03973 AVL---
+*Z 03974 AVL---       027 030                               % 03974 AVL---
+*L 27       200418003 200414006  00610  00654               % 03974 AVL---
+*A BE 200418003 200414006 000033  00610  00654              % 03974 AVL---
+*R 1 200414006 200418003 200414006  00610  00654            % 03974 AVL---
+*G ST  200418003 200414006  00610  00654                    % 03974 AVL---
+*A VE 200418003 200414006 000033  00610  00654              % 03974 AVL---
+200418003 Kockelscheuer, Patin         00610                % 03974 AVL---
+200418001 Kockelscheuer, Campi  00612  00612                % 03974 AVL---
+200412023 Gasperich, Leonardo   00615  00615                % 03974 AVL---
+200412024 Gasperich, Hildegard  00616  00616                % 03974 AVL---
+200412026 Gasperich, Charles D  00619  00619                % 03974 AVL---
+200412008 Gasperich, François   00620  00620                % 03974 AVL---
+200412002 Gasperich, Beethoven  00621  00621                % 03974 AVL---
+200407011 Cessange, Rue Verte   00622  00622                % 03974 AVL---
+200407009 Cessange, Kuelebierg  00623  00623                % 03974 AVL---
+200407012 Cessange, Tubishaff   00624  00624                % 03974 AVL---
+200407002 Cessange, Antoine     00625  00625                % 03974 AVL---
+200407010 Cessange, Rue de Leu  00626  00626                % 03974 AVL---
+200407001 Cessange, Am Eck      00627  00627                % 03974 AVL---
+200407006 Cessange, Duerf       00628  00628                % 03974 AVL---
+200407008 Cessange, Kierch      00629  00629                % 03974 AVL---
+200407007 Cessange, Fischerhaf  00630  00630                % 03974 AVL---
+200407003 Cessange, Artisans    00631  00631                % 03974 AVL---
+200407004 Cessange, Barrès      00632  00632                % 03974 AVL---
+200415002 Hollerich, Assurance  00633  00633                % 03974 AVL---
+200415019 Hollerich, Jean-Bapt  00634  00634                % 03974 AVL---
+200415003 Hollerich, Fonderie   00636  00636                % 03974 AVL---
+200405036 Luxembourg, Gare Cen  00639  00639                % 03974 AVL---
+200405039 Luxembourg, Wallis    00643  00643                % 03974 AVL---
+200404024 Verlorenkost, Labora  00644  00644                % 03974 AVL---
+200404025 Verlorenkost, Lavois  00644  00644                % 03974 AVL---
+200404030 Verlorenkost, Généra  00646  00646                % 03974 AVL---
+200424001 Pulvermuhl, Hammer D  00648  00648                % 03974 AVL---
+200414011 Hamm, Peupliers       00650  00650                % 03974 AVL---
+200414007 Hamm, Rue Haute       00652  00652                % 03974 AVL---
+200414003 Hamm, Käschtewee      00652  00652                % 03974 AVL---
+200414006 Hamm, Rue de Bitbour  00654                       % 03974 AVL---
+*Z 03975 AVL---       025 030                               % 03975 AVL---
+*L 27       200414006 200418003  00702  00745               % 03975 AVL---
+*A BE 200414006 200418003 000033  00702  00745              % 03975 AVL---
+*R 2 200418003 200414006 200418003  00702  00745            % 03975 AVL---
+*G ST  200414006 200418003  00702  00745                    % 03975 AVL---
+*A VE 200414006 200418003 000033  00702  00745              % 03975 AVL---
+200414006 Hamm, Rue de Bitbour         00702                % 03975 AVL---
+200414003 Hamm, Käschtewee      00703  00703                % 03975 AVL---
+200414007 Hamm, Rue Haute       00704  00704                % 03975 AVL---
+200414011 Hamm, Peupliers       00705  00705                % 03975 AVL---
+200424001 Pulvermuhl, Hammer D  00708  00708                % 03975 AVL---
+200404030 Verlorenkost, Généra  00710  00710                % 03975 AVL---
+200404025 Verlorenkost, Lavois  00711  00711                % 03975 AVL---
+200404024 Verlorenkost, Labora  00712  00712                % 03975 AVL---
+200405039 Luxembourg, Wallis    00714  00714                % 03975 AVL---
+200405032 Luxembourg, Gare Cen  00717  00717                % 03975 AVL---
+200415003 Hollerich, Fonderie   00719  00719                % 03975 AVL---
+200415002 Hollerich, Assurance  00721  00721                % 03975 AVL---
+200407004 Cessange, Barrès      00723  00723                % 03975 AVL---
+200407003 Cessange, Artisans    00724  00724                % 03975 AVL---
+200407007 Cessange, Fischerhaf  00725  00725                % 03975 AVL---
+200407008 Cessange, Kierch      00726  00726                % 03975 AVL---
+200407006 Cessange, Duerf       00727  00727                % 03975 AVL---
+200407001 Cessange, Am Eck      00728  00728                % 03975 AVL---
+200407010 Cessange, Rue de Leu  00729  00729                % 03975 AVL---
+200407002 Cessange, Antoine     00730  00730                % 03975 AVL---
+200407012 Cessange, Tubishaff   00731  00731                % 03975 AVL---
+200407009 Cessange, Kuelebierg  00732  00732                % 03975 AVL---
+200407011 Cessange, Rue Verte   00733  00733                % 03975 AVL---
+200412002 Gasperich, Beethoven  00734  00734                % 03975 AVL---
+200412008 Gasperich, François   00735  00735                % 03975 AVL---
+200412026 Gasperich, Charles D  00736  00736                % 03975 AVL---
+200412024 Gasperich, Hildegard  00739  00739                % 03975 AVL---
+200412023 Gasperich, Leonardo   00740  00740                % 03975 AVL---
+200418001 Kockelscheuer, Campi  00743  00743                % 03975 AVL---
+200418003 Kockelscheuer, Patin  00745                       % 03975 AVL---
+*Z 03976 AVL---                                             % 03976 AVL---
+*L 27       200414006 200418003  02004  02040               % 03976 AVL---
+*A BE 200414006 200418003 000033  02004  02040              % 03976 AVL---
+*R 2 200418003 200414006 200418003  02004  02040            % 03976 AVL---
+*G ST  200414006 200418003  02004  02040                    % 03976 AVL---
+*A VE 200414006 200418003 000033  02004  02040              % 03976 AVL---
+200414006 Hamm, Rue de Bitbour         02004                % 03976 AVL---
+200414003 Hamm, Käschtewee      02005  02005                % 03976 AVL---
+200414007 Hamm, Rue Haute       02006  02006                % 03976 AVL---
+200414011 Hamm, Peupliers       02007  02007                % 03976 AVL---
+200424001 Pulvermuhl, Hammer D  02010  02010                % 03976 AVL---
+200404030 Verlorenkost, Généra  02011  02011                % 03976 AVL---
+200404025 Verlorenkost, Lavois  02012  02012                % 03976 AVL---
+200404024 Verlorenkost, Labora  02013  02013                % 03976 AVL---
+200405039 Luxembourg, Wallis    02015  02015                % 03976 AVL---
+200405032 Luxembourg, Gare Cen  02017  02017                % 03976 AVL---
+200415003 Hollerich, Fonderie   02018  02018                % 03976 AVL---
+200415002 Hollerich, Assurance  02020  02020                % 03976 AVL---
+200407004 Cessange, Barrès      02021  02021                % 03976 AVL---
+200407003 Cessange, Artisans    02022  02022                % 03976 AVL---
+200407007 Cessange, Fischerhaf  02023  02023                % 03976 AVL---
+200407008 Cessange, Kierch      02024  02024                % 03976 AVL---
+200407006 Cessange, Duerf       02025  02025                % 03976 AVL---
+200407001 Cessange, Am Eck      02026  02026                % 03976 AVL---
+200407010 Cessange, Rue de Leu  02026  02026                % 03976 AVL---
+200407002 Cessange, Antoine     02027  02027                % 03976 AVL---
+200407012 Cessange, Tubishaff   02028  02028                % 03976 AVL---
+200407009 Cessange, Kuelebierg  02029  02029                % 03976 AVL---
+200407011 Cessange, Rue Verte   02030  02030                % 03976 AVL---
+200412002 Gasperich, Beethoven  02031  02031                % 03976 AVL---
+200412008 Gasperich, François   02032  02032                % 03976 AVL---
+200412026 Gasperich, Charles D  02033  02033                % 03976 AVL---
+200412024 Gasperich, Hildegard  02035  02035                % 03976 AVL---
+200412023 Gasperich, Leonardo   02035  02035                % 03976 AVL---
+200418001 Kockelscheuer, Campi  02039  02039                % 03976 AVL---
+200418003 Kockelscheuer, Patin  02040                       % 03976 AVL---
