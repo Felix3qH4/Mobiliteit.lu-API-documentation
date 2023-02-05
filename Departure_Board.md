@@ -362,15 +362,90 @@ Depending from which country the bus/train comes from the priorities may have di
 
 ## operator codes
 There are 6 operators in Luxembourg: <br>
-- RGTR: Régime Général des Transports Routiers (id = 1)(www.mobiliteit.lu) (Bus)
-- AVL: Ville de Luxembourg - Service Autobus (id = 6)(www.vdl.lu/fr/se-deplacer/en-bus) (Bus in/around Luxembourg city)
-- CFL: Chemins de Fer Luxembourgeois (id = 11)(www.cfl.lu) (Trains only?)
-- TICE: TICE (id = 16)(www.tice.lu) (Bus)
-- LUTRAM: Luxtram (id = 111)(www.luxtram.lu) (Tram)
-- SNCFL: Société Nationale des Chemins de Fer Luxembourgeois (id = 171)(www.cfl.lu) (Bus only?)
+The first one withe the id '00000' is not an operator but reserved for when a bus/train/tram from a not registered operator operates a line. <br>
+See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 
-What is the difference between SNCFL and CFL? I believe on is for trains and the other one for the busses when trains can't drive.
+```json
+{
+    "id": 00000,
+    "K": "DPN", //= 'operatorCode' in the API response
+    "L": "DPN",
+    "V": "Nahreisezug", //= 'operator' in the API response
+    "administrator": "NONE" //= 'admin' in the API response
+}
+```
+<br>
 
+```json
+{
+    "id": 00001,
+    "K": "AVL", //= 'operatorCode' in the API response
+    "L": "AVL",
+    "V": "Ville de Luxembourg - Service Autobus", //= 'operator' in the API response
+    "administrator": "AVL---" //= 'admin' in the API response
+}
+```
+<br>
+
+```json
+{
+    "id": 00002,
+    "K": "CFL", //= 'operatorCode' in the API response
+    "L": "CFL",
+    "V": "Chemins de Fer Luxembourgeois", //= 'operator' in the API response
+    "administrator": [
+        "c80---",
+        "c82---",
+        "c87---",
+        "c85---",
+        "c88---"
+    ] //= 'admin' in the API response
+}
+```
+<br>
+
+```json
+{
+    "id": 00003,
+    "K": "CFL", //= 'operatorCode' in the API response
+    "L": "CFLBus",
+    "V": "Société Nationale des Chemins de Fer Luxembourgeois", //= 'operator' in the API response
+    "administrator": "CFLBUS" //= 'admin' in the API response
+}
+```
+<br>
+
+```json
+{
+    "id": 00004,
+    "K": "RGT", //= 'operatorCode' in the API response
+    "L": "RGTR",
+    "V": "Régime Général des Transports Routiers", //= 'operator' in the API response
+    "administrator": "RGTR---" //= 'admin' in the API response
+}
+```
+<br>
+
+```json
+{
+    "id": 00005,
+    "K": "TIC", //= 'operatorCode' in the API response
+    "L": "TICE",
+    "V": "Syndicat des Tramways Intercommunaux dans le Canton d'Esch", //= 'operator' in the API response
+    "administrator": "TIC---" //= 'admin' in the API response
+}
+```
+<br>
+
+```json
+{
+    "id": 00006,
+    "K": "TRA", //= 'operatorCode' in the API response
+    "L": "TRAM",
+    "V": "Luxtram", //= 'operator' in the API response
+    "administrator": "LUTRAM" //= 'admin' in the API response
+}
+```
 
 <br>
 <br>
