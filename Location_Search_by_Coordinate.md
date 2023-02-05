@@ -36,3 +36,126 @@ To get all stops in Luxembourg: <br>
 (replace //YOUR_API_KEY// with your API-Key) <br>
 https://cdt.hafas.de/opendata/apiserver/location.nearbystops?accessId=//API-KEY//&originCoordLong=6.09528&originCoordLat=49.77723&maxNo=5000&r=100000&format=json
 <br><br>
+
+
+
+## Output
+The request will output something similar to the following: <br>
+
+### XML
+Shortened for better visualization.<br>
+
+```xml
+<StopLocation id="A=1@O=Rouscht@X=6092924@Y=49786459@u=0@U=82@L=160102002@" extId="160102002" name="Rouscht" lon="6.092924" lat="49.786459" weight="5374" dist="1040" products="32">
+    <productAtStop name="Bus K10" line="K10" lineId="K10" catOut="Bus" cls="32" catOutS="050" catOutL="Bus">
+        <icon res="prod_bus_t">
+            <foregroundColor r="255" g="255" b="255" hex="#FFFFFF"/>
+            <backgroundColor r="117" g="40" b="100" hex="#752864"/>
+        </icon>
+    </productAtStop>
+    <productAtStop name="Bus M05" line="M05" lineId="M05" catOut="Bus" cls="32" catOutS="070" catOutL="Bus">
+        <icon res="prod_bus_t">
+            <foregroundColor r="255" g="255" b="255" hex="#FFFFFF"/>
+            <backgroundColor r="117" g="40" b="100" hex="#752864"/>
+        </icon>
+    </productAtStop>
+</StopLocation>
+```
+
+### JSON
+Shortened for better visualization.<br>
+```json
+{
+    "StopLocation": {
+        "productAtStop": [
+            {
+                "icon": {
+                    "foregroundColor": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "hex": "#FFFFFF"
+                    },
+                    "backgroundColor": {
+                        "r": 117,
+                        "g": 40,
+                        "b": 100,
+                        "hex": "#752864"
+                    },
+                    "res": "prod_bus_t"
+                },
+                "name": "Bus 941",
+                "line": "941",
+                "lineId": "941",
+                "catOut": "Bus",
+                "cls": "32",
+                "catOutS": "064",
+                "catOutL": "Bus"
+            },
+            {
+                "icon": {
+                    "foregroundColor": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "hex": "#FFFFFF"
+                    },
+                    "backgroundColor": {
+                        "r": 117,
+                        "g": 40,
+                        "b": 100,
+                        "hex": "#752864"
+                    },
+                    "res": "prod_bus_t"
+                },
+                "name": "Bus H01",
+                "line": "H01",
+                "lineId": "H01",
+                "catOut": "Bus",
+                "cls": "32",
+                "catOutS": "063",
+                "catOutL": "Bus"
+            }            
+        ],
+        "id": "A=1@O=Rouscht@X=6092924@Y=49786459@u=0@U=82@L=160102002@",
+        "extId": "160102002",
+        "name": "Rouscht",
+        "lon": 6.092924,
+        "lat": 49.786459,
+        "weight": 5374,
+        "dist": 1040,
+        "products": 32
+    }
+}
+```
+
+
+## Output Meaning
+
+## ID
+See [DepartureBoard -> stopId](Departure_Board.md#stopid) for detailed information. <br>
+
+## ExtId
+Is the same as the 'L' in the '[stopId](Departure_Board.md#stopid)'. <br>
+Was used to get departures from the [DepartureBoard](Departure_Board.md), now 'id' is used.
+
+## Name
+The name of the station. <br>
+
+## lon
+The longitude of the stop.<br>
+See [DepartureBoard -> stopId](Departure_Board.md#x) for detailed information. <br>
+
+## lat
+The latitude of the stop. <br>
+See [DepartureBoard -> stopId](Departure_Board.md#y) for detailed information. <br>
+
+## Weight
+??? Probably the weight when you draw the station on a map like Leaflet.
+
+## Dist
+???
+
+## Products
+Which vehicle types stop here. <br>
+See [DepartureBoard -> cls](Departure_Board.md#cls) for all available products and their respective codes.<br>
