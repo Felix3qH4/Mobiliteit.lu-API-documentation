@@ -195,7 +195,7 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-catOut">catOut</p> | True     | str        | The vehicle type. Available: Bus, Train, Tram                                       |
 | <p id="key-catIn">catIn</p> | True       | str        | ??? (For busses its usually a number, for tram "CAF")                               |   
 | <p id="key-catCode">catCode</p> | True   | str        | ??? (Usually "5" for busses and "8" for tram)                                       |
-| <p id="key-cls">cls</p> | True           | str        | ??? (Usually a number in a string)                                                  |
+| <p id="key-cls">cls</p> | True           | str        | ??? A number telling you which product it is. (Bus, Tram, ...) See [cls](#cls) for more details. |
 | <p id="key-catOutS">catOutS</p> | True   | str        | ??? (Seems to be the same as [catIn](#key-catIn)                                    |
 | <p id="key-catOutL">catOutL</p> | True   | str        | ??? (Seems to be the same as [catOut](#key-catOut)                                  |
 | <p id="key-operatorCode">operatorCode</p>| True | str | The abbreviation code for the [operator](#key-operator). See [operator codes](#operator-codes) for abbreviations.|
@@ -421,6 +421,19 @@ The category of vehicle that is being used for the transport. (For general Hafas
 - CIC : Intercity train (Deutsche Bahn trains)(only used for "IC" trains)
 - CTE : trains from the SNCF (France)(only used for "TER" trains)
 
+Also see [Products](#Products) for detailed information about each product. <br><br>
+
+
+## cls
+Tells you which product is serving the line: <br>
+- 1 = [express-train](#express-train)
+- 2 or 4 = [national-train](#national-train)
+- 8 = [local-train](#local-train)
+- 32 = [bus](#bus)
+- 256 = [tram](#tram)
+
+Information from [Source 5](#Source-5) <br><br>
+
 
 ## Error codes
 Sample of an error message containing an error code:<br>
@@ -435,6 +448,65 @@ List of all known codes:<br>
 
 <br>
 
+
+# Products
+
+## Express train
+```json
+{
+    "id": "express-train",
+    "mode": "train",
+    "bitmasks": [1],
+    "name": "local train (TGV/ICE)",
+    "short": "TGV/ICE"
+}
+```
+
+## National train
+```json
+{
+    "id": "national-train",
+    "mode": "train",
+    "bitmasks": [2, 4],
+    "name": "national train (IC/RE/IRE)",
+    "short": "IC/RE/IRE"
+}
+```
+
+## Local train
+```json
+{
+    "id": "local-train",
+    "mode": "train",
+    "bitmasks": [8],
+    "name": "local train (RB/TER)",
+    "short": "RB/TER"
+}
+```
+
+## Bus
+```json
+{
+    "id": "bus",
+    "mode": "bus",
+    "bitmasks": [32],
+    "name": "Bus",
+    "short": "Bus"
+}
+```
+
+## Tram
+```json
+{
+    "id": "tram",
+    "mode": "train",
+    "bitmasks": [256],
+    "name": "Tram",
+    "short": "Tram"
+}
+```
+
+
 ## Source 1
 https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelines-e.pdf
 
@@ -448,3 +520,6 @@ https://download-data.deutschebahn.com/static/apis/fahrplan/Fpl-API-Doku-Open-Da
 
 ## Source 4
 https://gtfs.org
+
+## Source 5
+https://github.com/public-transport/hafas-client/blob/master/p/mobiliteit-lu/products.js
