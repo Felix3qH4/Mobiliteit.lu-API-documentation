@@ -367,7 +367,7 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 
 ```json
 {
-    "id": 00000,
+    "id": "00000",
     "K": "DPN", //= 'operatorCode' in the API response
     "L": "DPN",
     "V": "Nahreisezug", //= 'operator' in the API response
@@ -378,7 +378,7 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 
 ```json
 {
-    "id": 00001,
+    "id": "00001",
     "K": "AVL", //= 'operatorCode' in the API response
     "L": "AVL",
     "V": "Ville de Luxembourg - Service Autobus", //= 'operator' in the API response
@@ -389,7 +389,7 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 
 ```json
 {
-    "id": 00002,
+    "id": "00002",
     "K": "CFL", //= 'operatorCode' in the API response
     "L": "CFL",
     "V": "Chemins de Fer Luxembourgeois", //= 'operator' in the API response
@@ -406,7 +406,7 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 
 ```json
 {
-    "id": 00003,
+    "id": "00003",
     "K": "CFL", //= 'operatorCode' in the API response
     "L": "CFLBus",
     "V": "Société Nationale des Chemins de Fer Luxembourgeois", //= 'operator' in the API response
@@ -417,7 +417,7 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 
 ```json
 {
-    "id": 00004,
+    "id": "00004",
     "K": "RGT", //= 'operatorCode' in the API response
     "L": "RGTR",
     "V": "Régime Général des Transports Routiers", //= 'operator' in the API response
@@ -428,7 +428,7 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 
 ```json
 {
-    "id": 00005,
+    "id": "00005",
     "K": "TIC", //= 'operatorCode' in the API response
     "L": "TICE",
     "V": "Syndicat des Tramways Intercommunaux dans le Canton d'Esch", //= 'operator' in the API response
@@ -439,7 +439,7 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 
 ```json
 {
-    "id": 00006,
+    "id": "00006",
     "K": "TRA", //= 'operatorCode' in the API response
     "L": "TRAM",
     "V": "Luxtram", //= 'operator' in the API response
