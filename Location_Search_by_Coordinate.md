@@ -1,4 +1,21 @@
 # Location Search by Coordinate
+
+- [Location Search by Coordinate](#location-search-by-coordinate-1)
+- [Output](#output)
+    1. [XML](#xml)
+    2. [JSON](#json)
+- [Output Meaning](#output-meaning)
+    1. [Id](#id)
+    2. [ExtId](#extid)
+    3. [Name](#name)
+    4. [Lon](#lon)
+    5. [Lat](#lat)
+    6. [Weight](#weight)
+    7. [Dist](#dist)
+    8. [Products](#products)
+- [Error codes](#error-codes)
+<br>
+
 ## Location Search by Coordinate
 As the name says it, you can search for a location (= stop/station) based on coordinates you pass.<br>
 This allows you to get the id of a station to be used in the [Departure Board](Departure_Board.md) request.<br>
@@ -159,3 +176,7 @@ See [DepartureBoard -> stopId](Departure_Board.md#y) for detailed information. <
 ## Products
 Which vehicle types stop here. <br>
 See [DepartureBoard -> cls](Departure_Board.md#cls) for all available products and their respective codes.<br>
+<br>
+
+## Error codes
+Refer to the [error codes in DepartureBoard.md](Departure_Board.md#error-codes)

@@ -536,8 +536,10 @@ List of all known codes:<br>
 - **API_AUTH** : invalid API-Key
 - **API_PARAM** : one or more arguments are missing or a wrong value was provided or an invalid argument was passed (like "acesId" instead of "accessId")
 - **SVC_LOC** : invalid id
+- **HARD_QUOTA_EXCEEDED** : you have made more requests to the API than you are allowed to make in the given time period
 
 <br>
+
 
 
 # Products
