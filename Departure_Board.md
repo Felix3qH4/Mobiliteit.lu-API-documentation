@@ -56,7 +56,7 @@ Available arguments for the departure board:<br>
 | attributes    | False     | str   | ??? Filter boards by one or more attribute codes of a journey. Multiple attribute codes are separated by comma. If the attribute should not be part of the result, negate it by putting ! in front of it. |
 | platforms     | False     | str   | Filter boards by platform. Multiple platforms are separated by comma. Platforms are used for example at train stations. A train station is one single stop but has multiple platforms so the busses stopping there all stop at the same stop (= the train station) but at different platforms. (Depends on the station how many platforms there are.) |
 | rtMode        | False     | bool   | ??? Set the realtime mode to be used if enabled. Available are: FULL <br>For Luxembourg it seems to always return realtime information no matter what you set rtMode to. |
-| passlist      | False     | int    | ??? Include a list of all passed waystops? (Is -1 for all waystops and all other numbers for the amount of stops you want?) |
+| <p id="key-passlist">passlist</p>| False| int| ??? Include a list of all passed waystops? (Is -1 for all waystops and all other numbers for the amount of stops you want?) |
 
 
 
@@ -189,25 +189,25 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-res">res</p> | True           | str        | Description of the icons for the different vehicle types in the mobiliteit app. For more details see [res](#res)|
 | <p id="key-Pname">name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX", Tram: "TXXX", Train: \["RB XXX": Regionalbahn?, "TERXXX": ?, "IC XXX": ICE?, "RE XXX": Regionalexpress?] \| where XXX is the [number](#key-number) of the line |
-| <p id="key-num">num</p>   | True         | str        | Each Bus has a unique identifier number which is stored in the "num" value          |
+| <p id="key-num">num</p>   | True         | str        | Each Bus has an internal unique identifier number which is stored in the "num" value|
 | <p id="key-line">line</p> | True         | str        | The line number which is displayed in the name, if it's a tram it is equal to the [name](#key-Pname)  |
 | <p id="key-catOut">catOut</p> | True     | str        | The vehicle type. Available: Bus, Train, Tram                                       |
-| <p id="key-catIn">catIn</p> | True       | str        | ??? (For busses its usually a number, for tram "CAF")                               |   
+| <p id="key-catIn">catIn</p> | True       | str        | Encoding for the Bus or train category. For details see [catIn](#catIn)             |   
 | <p id="key-catCode">catCode</p> | True   | str        | A code telling you which vehicle type it is (Bus/Intercity/...). For more details see [catCode](#catCode) |
-| <p id="key-cls">cls</p> | True           | str        | ??? A number telling you which product it is. (Bus, Tram, ...) See [cls](#cls) for more details. |
-| <p id="key-catOutS">catOutS</p> | True   | str        | ??? (Seems to be the same as [catIn](#key-catIn)                                    |
-| <p id="key-catOutL">catOutL</p> | True   | str        | ??? (Seems to be the same as [catOut](#key-catOut)                                  |
+| <p id="key-cls">cls</p> | True           | str        | A number telling you which product it is. (Bus, Tram, ...) See [cls](#cls) for more details. |
+| <p id="key-catOutS">catOutS</p> | True   | str        | Stands for the short form of [catOut](#key-catOut). Is the same as [catIn](#key-catIn)|
+| <p id="key-catOutL">catOutL</p> | True   | str        | Stands for the **long** form of [catOut](#key-catOut). Is the same as [catOut](#key-catOut)|
 | <p id="key-operatorCode">operatorCode</p>| True | str | The abbreviation code for the [operator](#key-operator). See [operator codes](#operator-codes) for abbreviations.|
 | <p id="key-operator">operator</p> | True | str        | The long name of the operator (see [operator codes](#operator-codes) for full names)|                 
-| <p id="key-admin">admin</p> | True       | str        | ??? Probably the administrative unit: Bus: RGTR/AVL, Tram: LUTRAM, Train: "C82--"?  |
+| <p id="key-admin">admin</p> | True       | str        | The administrator or operator of the different lines. For more details see [admin](#admin)|
 | <p id="key-matchId">matchId</p> | True   | str        | ??? Seems to be the same as the [line](#key-line)                                   |
 | Notes                   | True           | dict       | Contains [Note](#key-Note)                                                          |
 | <p id="key-Note">Note</p>| True          | list       | Contains multiple dicts which each represent a [note](#key-notedict) telling us for example the operator or that you can charge you phone on this bus/tram/train (but not always complete, neraly only complete for trains) |
-| <p id="key-notedict">note (Not a key but a dict inside the list [Note](#key-Note))</p>| False | dict | Contains values that describe a note: [value](#key-value), [key](#key-key), [type](#key-Ntype), [routeIdxFrom](#key-routeIdxFrom), [routeIdxTo](#key-routeIdxTo), [textN](#key-textN), [textL](#key-textL), [textS](#key-textS) |
+| <p id="key-notedict">note (Not a key but a dict inside the list [Note](#key-Note))</p>| False | dict | Contains values that describe a note: [value](#key-value), [key](#key-key), [type](#key-Ntype), [routeIdxFrom](#key-routeIdxFrom), [routeIdxTo](#key-routeIdxTo), [textN](#key-textN), [textL](#key-textL), [textS](#key-textS). For more details see [note](#note)|
 | <p id="key-value">value</p> | False     | str         | The text/value that will be displayed to travellers like "RB XXX: This train is cancelled"|
 | <p id="key-key">key</p>| False          | str         | The key matching the [value](#key-value). For more detailed information see [key](#key)|
-| <p id="key-Ntype">Note - type</p> | False | str       | ??? ("A" for note like "You can charge your phone here" and "R" for "line cancelled"?)|
-| <p id="key-routeIdxFrom">routeIdxFrom</p> | False | int | ??? (Not the id of a stop)                                                        |
+| <p id="key-Ntype">type</p>| False       | str         | Displays the type of message contained in a note. For more details see [type](#type)|
+| <p id="key-routeIdxFrom">routeIdxFrom</p> | False | int | Indicates for which stops of the journey the note is valid. For more details see [Stop](#Stop)|
 | <p id="key-routeIdxTo">routeIdxTo</p> | False | int   | ??? (Not the id of a stop)                                                          |
 | <p id="key-priority">priority</p>| False | str        | The priority of the note (for displaying purposes) between 0 and 999, the lower the number = the higher the priority. ([Source 1 p.89](#Source-1)|
 | <p id="key-textN">textN</p> | False     | str         | ??? (Maybe the normal text version of the [value](#key-value)(ex.: if value="TRAM", textN="TRAM")|
@@ -228,7 +228,8 @@ Here is a table explaining all those values you get from a request to the API: <
 | direction              | True           | str         | The final destination of the line, full name of the station/stop                   |
 | trainNumber            | True           | str         | The number of the line (ex.: 812 for the Bus 812)                                  |
 | trainCategory          | True           | str         | ??? "064" for busses, "CAF" for tram, \["CRB", "CE", "CTE", "CIC", ?] for trains   |
-
+| Stops                  | False          | dict        | Contains [Stop](#key-stop)                                                         |
+| Stop                   | False          | list        | Contains the stops of a journey. For more details see [Stop](#Stop)                |
 
 
 <br>
@@ -363,6 +364,12 @@ These are the known icon names:
 <br>
 <br>
 
+## catIn
+An internal encoding of the bus or train category.<br>
+For busses its usually 064, but it can also be values like 063 or 034.<br>
+Therefore [catOut](#catOut) is way more interesting as it contains the value which is also used for displaying the category and transportation vehicle.<br>
+<br>
+
 ## catCode
 The 'catCode' allows identifying the type of vehicle that operates this line. <br>
 (From the file 'zugart') <br>
@@ -378,41 +385,25 @@ Here a list of all known codes: <br>
 - 08 : Tram
 - 09 : Services requiring tel. registration for passengers
 
-
-## key
-**There are keys missing/some keys are incorrect**<br>
-The key of a note is text and often an abbreviation. <br>
-If the key is an abbreviation the long text can be found under "[textN](#key-textN)". <br>
-Here is a list of known abbreviations:<br>
-- EH = Einstiegshilfe   ([priority 350](#key-priority))
-- KL = Klimaanlage  ([priority 350](#key-priority))
-- LS = Laptop-Steckplatz    ([priority 350](#key-priority))
-- 71 = bicylce transport / service pour bicyclettes / Fahrradmitnahme ([priority 1](#key-priority))
-- text.realtime.journey.cancelled = The entire line is cancelled and won't drive
-- text.realtime.stop.cancelled = The line will not stop at this station/stop
-- OPERATOR = The note tells us who the operator is for this line
-
-Depending from which country the bus/train comes from the priorities may have different numbers. <br>
-
+*The above codes are complete and correct as of 24. February 2023 .*
 <br>
 <br>
+
+## cls
+Tells you which product category is serving the line: <br>
+- 1 = [express-train = TGV](#express-train)
+- 2 = [national-train = IC](#national-train)
+- 4 = [local-train = RB, RE, TER](#local-train)
+- 32 = [bus](#bus)
+- 256 = [tram](#tram)
+
+Information from [Source 5](#Source-5) and verified by the API service people.<br>
+*Above codes are complete and correct as of 24. February 2023 .*<br><br>
 
 
 ## operator codes
 There are 6 operators in Luxembourg: <br>
-The first one withe the id '00000' is not an operator but reserved for when a bus/train/tram from a not registered operator operates a line. <br>
 See [Source 1](#source-1) point 6.18. page 132 for details. <br>
-
-```json
-{
-    "id": "00000",
-    "K": "DPN", //= 'operatorCode' in the API response
-    "L": "DPN",
-    "V": "Nahreisezug", //= 'operator' in the API response
-    "administrator": "NONE" //= 'admin' in the API response
-}
-```
-<br>
 
 ```json
 {
@@ -434,8 +425,8 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
     "administrator": [
         "c80---",
         "c82---",
-        "c87---",
         "c85---",
+        "c87---",
         "c88---"
     ] //= 'admin' in the API response
 }
@@ -486,8 +477,56 @@ See [Source 1](#source-1) point 6.18. page 132 for details. <br>
 ```
 
 <br>
+
+*The above codes and names are complete and correct as of 24. February 2023*
+<br>
 <br>
 
+## admin
+The value of 'admin' shows the administrator/operator of the different lines.<br>
+The values can be found at [operatorCodes](#operator-codes) under the 'administrator' keys.<br>
+(AVL---, c80---, c82---, c85---, c87---, c88---, CFLBUS, RGTR---, TIC---, LUTRAM)<br>
+<br>
+<br>
+
+## note
+The different notes are given by the different data providers (ex.: Deutsche Bahn, SNCF, ...).<br>
+This means that there are no standardized values for a note.<br>
+Each provider provides their own pair of [keys](#key) and the respective value.<br>
+The API will then take them as they are and display them that way.<br>
+If a journey is cancelled it will be displayed as [cancelled](#key).<br>
+The '[type](#type)' value displays the type of message contained in the note.<br>
+<img src="images/note_in_app.png" alt="Image of 2 notes in the mobiliteit.lu app" />
+<br>
+<br>
+
+## key
+**There are keys missing/some keys are incorrect**<br>
+The key of a [note](#note) is text and often an abbreviation. <br>
+If the key is an abbreviation the long text can be found under "[textN](#key-textN)". <br>
+Here is a list of known abbreviations:<br>
+- EH = Einstiegshilfe   ([priority 350](#key-priority))
+- KL = Klimaanlage  ([priority 350](#key-priority))
+- LS = Laptop-Steckplatz    ([priority 350](#key-priority))
+- 71 = bicylce transport / service pour bicyclettes / Fahrradmitnahme ([priority 1](#key-priority))
+- text.realtime.journey.cancelled = The entire line is cancelled and won't drive
+- text.realtime.stop.cancelled = The line will not stop at this station/stop
+- OPERATOR = The note tells us who the operator is for this line
+
+Depending from which country the bus/train comes from the priorities may have different numbers. <br>
+
+<br>
+<br>
+
+## type
+Displays the type of message contained in a [note](#note).<br>
+- A = Attribute
+- R = Realtime
+- I = Infotext
+<br>
+There should not be any other types in the API (as of 24. February 2023).
+<br>
+<br>
 
 ## stopid
 ```json
@@ -536,17 +575,30 @@ The category of vehicle that is being used for the transport. (For general Hafas
 
 Also see [Products](#Products) for detailed information about each product. <br><br>
 
-
-## cls
-Tells you which product is serving the line: <br>
-- 1 = [express-train](#express-train)
-- 2 or 4 = [national-train](#national-train)
-- 8 = [local-train](#local-train)
-- 32 = [bus](#bus)
-- 256 = [tram](#tram)
-
-Information from [Source 5](#Source-5) <br><br>
-
+## Stop
+```json
+"Stop":[
+    {"name":"Luxembourg, Gare Centrale","id":"A=1@O=Luxembourg, Gare Centrale@X=6134239@Y=49599969@U=82@L=200405060@","extId":"200405060","routeIdx":0,"lon":6.134239,"lat":49.599969,"depTime":"18:32:00","depDate":"2023-02-24"},
+    {"name":"Howald, Gare","id":"A=1@O=Howald, Gare@X=6132459@Y=49581083@U=82@L=200304014@","extId":"200304014","routeIdx":1,"lon":6.132459,"lat":49.581083,"arrTime":"18:35:00","arrDate":"2023-02-24"},
+    {"name":"Berchem, Gare","id":"A=1@O=Berchem, Gare@X=6133753@Y=49542663@U=82@L=221101001@","extId":"221101001","routeIdx":2,"lon":6.133753,"lat":49.542663,"arrTime":"18:40:00","arrDate":"2023-02-24"},
+    {"name":"Bettembourg, Gare","id":"A=1@O=Bettembourg, Gare@X=6101680@Y=49516513@U=82@L=220102018@","extId":"220102018","routeIdx":3,"lon":6.10168,"lat":49.516513,"arrTime":"18:45:00","arrDate":"2023-02-24"},
+    {"name":"Noertzange, Gare","id":"A=1@O=Noertzange, Gare@X=6050882@Y=49508009@U=82@L=220105006@","extId":"220105006","routeIdx":4,"lon":6.050882,"lat":49.508009,"arrTime":"18:49:00","arrDate":"2023-02-24"},
+    {"name":"Schifflange, Gare","id":"A=1@O=Schifflange, Gare@X=6009783@Y=49506301@U=82@L=221401002@","extId":"221401002","routeIdx":5,"lon":6.009783,"lat":49.506301,"arrTime":"18:53:00","arrDate":"2023-02-24"},
+    {"name":"Esch-sur-Alzette, Gare","id":"A=1@O=Esch-sur-Alzette, Gare@X=5985090@Y=49493914@U=82@L=220402046@","extId":"220402046","routeIdx":6,"lon":5.98509,"lat":49.493914,"arrTime":"18:57:00","arrDate":"2023-02-24"}]
+```
+Contains all stops of a journey.<br>
+Only present if you passed the [passlist](#key-passlist) argument!<br>
+'routeIdxTo' and 'routeIdxFrom' from a [note](#note) point to the stop at the given index in the 'Stop' list.<br>
+So if a note has the attributes:<br>
+```json
+"routeIdxFrom": 0,
+"routeIdxTo": 4
+```
+This means that the note is valid from stop '0' to stop '4' in the 'Stop' list.<br>
+We start counting at '0', so the first stop is stop number '0'.<br>
+The note would be valid from stop 'Luxembourg, Gare Centrale' to stop 'Noertzange, Gare' in this example.<br>
+<br>
+<br>
 
 ## Error codes
 Sample of an error message containing an error code:<br>
@@ -584,7 +636,7 @@ But bitmasks vary from the ones in the [cfl version](http://github.com/public-tr
 {
     "id": "national-train",
     "mode": "train",
-    "bitmasks": [2, 4],
+    "bitmasks": [2],
     "name": "national train (IC/RE/IRE)",
     "short": "IC/RE/IRE"
 }
@@ -595,7 +647,7 @@ But bitmasks vary from the ones in the [cfl version](http://github.com/public-tr
 {
     "id": "local-train",
     "mode": "train",
-    "bitmasks": [4, 8],
+    "bitmasks": [4],
     "name": "local train (RB/TER)",
     "short": "RB/TER"
 }
