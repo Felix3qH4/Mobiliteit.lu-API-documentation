@@ -206,28 +206,28 @@ Here is a table explaining all those values you get from a request to the API: <
 | <p id="key-notedict">note (Not a key but a dict inside the list [Note](#key-Note))</p>| False | dict | Contains values that describe a note: [value](#key-value), [key](#key-key), [type](#key-Ntype), [routeIdxFrom](#key-routeIdxFrom), [routeIdxTo](#key-routeIdxTo), [textN](#key-textN), [textL](#key-textL), [textS](#key-textS). For more details see [note](#note)|
 | <p id="key-value">value</p> | False     | str         | The text/value that will be displayed to travellers like "RB XXX: This train is cancelled"|
 | <p id="key-key">key</p>| False          | str         | The key matching the [value](#key-value). For more detailed information see [key](#key)|
-| <p id="key-Ntype">type</p>| False       | str         | Displays the type of message contained in a note. For more details see [type](#type)|
+| <p id="key-Ntype">type</p>| False       | str         | Displays the type of message contained in a note. For more details see [type](#type-note)|
 | <p id="key-routeIdxFrom">routeIdxFrom</p> | False | int | Indicates for which stops of the journey the note is valid. For more details see [Stop](#Stop)|
 | <p id="key-routeIdxTo">routeIdxTo</p> | False | int   | ??? (Not the id of a stop)                                                          |
-| <p id="key-priority">priority</p>| False | str        | The priority of the note (for displaying purposes) between 0 and 999, the lower the number = the higher the priority. ([Source 1 p.89](#Source-1)|
-| <p id="key-textN">textN</p> | False     | str         | ??? (Maybe the normal text version of the [value](#key-value)(ex.: if value="TRAM", textN="TRAM")|
-| <p id="key-textL">textL</p> | False     | str         | ??? (Maybe the long text version of the [value](#key-value)(ex.: if value="TRAM", textL="Luxtram")|
-| <p id="key-textS">textS</p> | False     | str         | ??? (Maybe the short text version of the [value](#key-value)(ex.: if value="TRAM", textS="TRA")|
+| <p id="key-priority">priority</p>| False | str        | The priority of the note between 0 and 999, the lower the number = the higher the priority. Every note is displayed, but this might affect the order in which they are displayed. ([Source 1 p.89](#Source-1)|
+| <p id="key-textN">textN</p> | False     | str         | The normal text version of the [value](#key-value)(ex.: if value="TRAM", textN="TRAM")|
+| <p id="key-textL">textL</p> | False     | str         | The long text version of the [value](#key-value)(ex.: if value="TRAM", textL="Luxtram")|
+| <p id="key-textS">textS</p> | False     | str         | The short text version of the [value](#key-value)(ex.: if value="TRAM", textS="TRA")|
 | name                   | True           | str         | The name of the line like [Product - name](#key-Pname)                              |
-| type                   | True           | str         | ??? (Always "ST"?)                                                                  |
+| type                   | True           | str         | The type of stop. See [type](#type) for more details.                               |
 | stop                   | True           | str         | The current station/stop (= the station/stop you asked the data from in your API request) gives the full name of the stop |
 | stopid                 | True           | str         | Gives you the name of the stop and its coordinates. See [stopid](#stopid) for detailed information |
 | stopExtId              | True           | str         | Gives you the id of the station/stop (= the id you entered in your request to the API)|
-| prognosisType          | False          | str         | ??? Either it is missing or it is "PROGNOSED", maybe it means that a bus/tram/train has started its tour and the arrival time could be prognosed |
+| prognosisType          | False          | str         | In combination with [rtTime](#key-rtTime) it says that the rtTime=arrival time is prognosed so in real-time prognosed|
 | time                   | True           | str         | The planned arrival time (= the time at which the line is scheduled to arrive at this stop)|
 | date                   | True           | str         | The date at which the line will arrive at that stop (if in realtime mode, it is always today)|
-| rtTime                 | False          | str         | The actual (real time) time at which the line will arrive at that stop (maybe it is late)(only available when line has started its tour)|
+| <p id="key-rtTime">rtTime</p>| False    | str         | The actual (real time) time at which the line will arrive at that stop (maybe it is late)(only available when line has started its tour)|
 | rtDate                 | False          | str         | The actual date at which the line will arrive at that stop (only available when line has started its tour)|
 | cancelled              | False          | bool        | Only in the request answer if line is cancelled and then it is set to true         |
-| reachable              | True           | bool        | ??? If a line is reachable, always "true", except if line is cancelled (and maybe when it won't stop at that stop? but then its often missing)|
+| reachable              | True           | bool        | If the journey can be accomplished (ex.: if the bus can drive), always on 'True' as it doesn't show if you can reach that journey. (Only 'False' if journey is [cancelled](#key).)|
 | direction              | True           | str         | The final destination of the line, full name of the station/stop                   |
 | trainNumber            | True           | str         | The number of the line (ex.: 812 for the Bus 812)                                  |
-| trainCategory          | True           | str         | ??? "064" for busses, "CAF" for tram, \["CRB", "CE", "CTE", "CIC", ?] for trains   |
+| trainCategory          | True           | str         | Equals [catIn](#key-catIn), no public list of codes. ("064" for busses, "CAF" for tram, \["CRB", "CE", "CTE", "CIC", ?] for trains)   |
 | Stops                  | False          | dict        | Contains [Stop](#key-stop)                                                         |
 | Stop                   | False          | list        | Contains the stops of a journey. For more details see [Stop](#Stop)                |
 
@@ -495,7 +495,7 @@ This means that there are no standardized values for a note.<br>
 Each provider provides their own pair of [keys](#key) and the respective value.<br>
 The API will then take them as they are and display them that way.<br>
 If a journey is cancelled it will be displayed as [cancelled](#key).<br>
-The '[type](#type)' value displays the type of message contained in the note.<br>
+The '[type](#type-note)' value displays the type of message contained in the note.<br>
 <img src="images/note_in_app.png" alt="Image of 2 notes in the mobiliteit.lu app" />
 <br>
 <br>
@@ -518,13 +518,22 @@ Depending from which country the bus/train comes from the priorities may have di
 <br>
 <br>
 
-## type
+## type-Note
 Displays the type of message contained in a [note](#note).<br>
 - A = Attribute
 - R = Realtime
 - I = Infotext
 <br>
 There should not be any other types in the API (as of 24. February 2023).
+<br>
+<br>
+
+## type
+Displays the type of stop:<br>
+- ST = Stop
+- ADR = Address
+- POI = Point of Interest
+As the API is being called with [stop ids](#stopid), it should always be 'ST'.<br>
 <br>
 <br>
 
@@ -536,31 +545,34 @@ This is an example of a stopid value. <br>
 Now each of the components means something.<br>
 
 ### A
-??? Arrival platform? ([Source 1 page 130](#source-1))
+A is unknown, even to the people from the API, but is always 1.<br>
+<br>
 
 ### O
-The name of the station/stop (long version).
+The name of the station/stop (long version).<br>
+<br>
 
 ### X
 The X coordinate of the station/stop (missing decimal point).
 The X/Y coordinates are indicated by degrees of longitude and latitude in a
 geographical coordinate system. Units: degrees with decimal places. For accurancy in meters it has to have 6 right-of-comma positions. The preferred
-coordinate system is WGS84.
+coordinate system is UTM32.
 
 
 ### Y
 The Y coordinate of the station/stop (missing decimal point).
 The X/Y coordinates are indicated by degrees of longitude and latitude in a
 geographical coordinate system. Units: degrees with decimal places. For accurancy in meters it has to have 6 right-of-comma positions. The preferred
-coordinate system is WGS84.
+coordinate system is UTM32.
 
 
 ### U
-???
+Country code for Luxembourg.<br>
+For a list of codes see [ref](#ref).<br>
+<br>
 
 ### L
-The id of the station/stop.
-
+The id of the station/stop.<br>
 <br>
 <br>
 
@@ -606,14 +618,39 @@ Sample of an error message containing an error code:<br>
 {"serverVersion":"2.7.6","dialectVersion":"1.29","errorCode":"API_PARAM","errorText":"id or extId missing (IllegalArgumentException)","requestId":"default-request-id"}
 ```
 As you can see the error code here is "API_PARAM".<br><br>
-List of all known codes:<br>
-- **API_AUTH** : invalid API-Key
-- **API_PARAM** : one or more arguments are missing or a wrong value was provided or an invalid argument was passed (like "acesId" instead of "accessId")
-- **SVC_LOC** : invalid id
-- **HARD_QUOTA_EXCEEDED** : you have made more requests to the API than you are allowed to make in the given time period
+List of all known codes as of 24. February 2023:<br>
+|        Code         | HTTP status code |                       Text                       |
+|---------------------|------------------|--------------------------------------------------|
+| API_AUTH            | 403              | access                                           |
+| API_QUOTA 	      | 400	             | quota exceeded for 'key' on 'service'            |
+| API_PARAM	          | 400	             | required parameter <<name>> is missing           |
+| API_PARAM	          | 400	             | numB wrong, only number in range [0,6] al-lowed  |
+| API_PARAM	          | 400	             | numF wrong, only number in range [0,6] al-lowed  |
+| API_PARAM	          | 400	             | numF + numB not greater than [6] allowed         |
+| API_FORMAT	      | 400	             | response format not supported                    |
+| SVC_PARAM	          | 400	             | request parameter missing or invalid             |
+| SVC_LOC	          | 400	             | location missing or invalid                      |
+| SVC_LOC_ARR	      | 400	             | arrival location missing or invalid              |
+| SVC_LOC_DEP	      | 400	             | departure location missing or invalid            |
+| SVC_LOC_VIA	      | 400	             | unknown change stop                              |
+| SVC_LOC_EQUAL	      | 400	             | start/destination or vias are equal              |
+| SVC_LOC_NEAR	      | 400	             | start and destination to close                   |
+| SVC_DATATIME	      | 400	             | date/time missing or invalid                     |
+| SVC_DATATIME_PERIOD |	400	             | date/time not in timetable or allowed period     |
+| SVC_PROD	          | 400	             | product field missing or invalid                 |
+| SVC_CTX	          | 400	             | context invalid                                  |
+| SVC_MAIL_ADR	      | 400	             | sender/receiver mail address invalid or miss-ing |
+| SVC_MAIL	          | 500	             | fail to send mail                                |
+| SVC_SMS_NUM	      | 400	             | receiver sms phone number invalid or missing     |
+| SVC_SMS	          | 500	             | fail to send sms                                 |
+| SVC_FAILED_SEARCH	  | 500	             | unsuccessful search                              |
+| SVC_NO_RESULT	      | 500	             | no result found                                  |
+| SVC_NO_MATCH	      | 500	             | no match found                                   |
+| INT_ERR	          | 500	             | internal error                                   |
+
 
 <br>
-
+<br>
 
 
 # Products
