@@ -359,8 +359,7 @@ These are the known icon names:
 - Tram : prod_tram_t
 - Train : ["prod_reg" for "RB" and "RE" trains, "prod_ic" for "IC" trains]
 <br>
-![Image of the different vehicle types icons in the app.](https://github.com/Felix3qH4/Mobiliteit.lu-API-documentation/blob/main/images/vehicle_types_icons_in_app.png)
-<img src="./images/vehicle_types_icons_in_app.png" />
+<img src="./images/vehicle_types_icons_in_app.png" alt="Image of the different vehicle types icons in the app." />
 <br>
 <br>
 
