@@ -176,20 +176,19 @@ Here are 2 examples of one busline from a request to the departure board. <br>
 ### Response values meaning
 Here is a table explaining all those values you get from a request to the API: <br>
 (If there is "???" then information is missing) <br>
-(If there is "->" in front of a key, it means that it is a child of the key above the first key with "->" in front of it) <br>
 
 
 | Key                     | Always present | Value type | Meaning                                                                             |
 | ---                     | -------------- | ---------- | -------                                                                             |
 | JourneyDetailRef        | True           | dict       | Contains [ref](#key-ref)                                                            |
 | <p id="key-ref">ref</p> | True           | str        | Contains detailed information like wheelchair access or country of origin in encoded form (each number stands for smth) and the last number is always the current date. <br>For detailed information see [ref](#ref)|
-| JourneyStatus           | True           | str        | ??? (Always "P"?)                                                                   |
+| JourneyStatus           | True           | str        | Shows the status of the journey. For detailed information see [JourneyStatus](#journeystatus)|
 | Product                 | True           | dict       | Contains: [icon](#key-icon), [res](#key-res), [name](#key-Pname), [num](#key-num), [line](#key-line), [catOut](#key-catOut), [catIn](#key-catIn), [catCode](#key-catCode), [cls](#key-cls), [catOutS](#key-catOutS), [catOutL](#key-catOutL), [operatorCode](#key-operatorCode), [operator](#key-operator), [admin](#key-admin), [matchId](#key-matchId) |
 | <p id="key-icon">icon</p> | True         | dict       | The icon representation of the stop. Contains: [foregroundColor](#key-fgColor), [backgroundColor](#key-bgColor)|
 | <p id="key-fgColor">foregroundColor</p> | True | dict | Foreground color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
 | <p id="key-bgColor">backgroundColor</p> | True | dict | Background color of the station icon {"r": int, "g": int, "b": int, "hex": str}     |
-| <p id="key-res">res</p> | True           | str        | ??? Bus = "prod_bus_t", Tram = "prod_tram_t", Train = \["prod_reg" for "RB" and "RE" trains, "prod_ic" for "IC" trains] |
-| <p id="key-Pname">Product - name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX", Tram: "TXXX", Train: \["RB XXX": Regionalbahn?, "TERXXX": ?, "IC XXX": ICE?, "RE XXX": Regionalexpress?] \| where XXX is the [number](#key-number) of the line |
+| <p id="key-res">res</p> | True           | str        | Description of the icons for the different vehicle types in the mobiliteit app. For more details see [res](#res)|
+| <p id="key-Pname">name</p> | True         | str        | The name of the vehicle: Bus: "Bus XXX", Tram: "TXXX", Train: \["RB XXX": Regionalbahn?, "TERXXX": ?, "IC XXX": ICE?, "RE XXX": Regionalexpress?] \| where XXX is the [number](#key-number) of the line |
 | <p id="key-num">num</p>   | True         | str        | Each Bus has a unique identifier number which is stored in the "num" value          |
 | <p id="key-line">line</p> | True         | str        | The line number which is displayed in the name, if it's a tram it is equal to the [name](#key-Pname)  |
 | <p id="key-catOut">catOut</p> | True     | str        | The vehicle type. Available: Bus, Train, Tram                                       |
@@ -247,7 +246,8 @@ This is an example of a "ref" value you could get in a response: <br>
     "ref": "1|3078|7|82|29012023"
 }
 ```
-
+The "ref" value is an internal ID with which one can identify every single journey.<br>
+That way one can check if the journey is the same after another request to the API or if it is already a new journey.<br>
 As you can see, "ref" is "[1](#first-number)|[3078](#second-number)|[7](#third-number)|[82](#fourth-number)|[29012023](#fifth-number)". <br>
 Each number, separated by a | stands for something. <br>
 (By clicking on a number you can quickly get to the description of what it stands for without having to scroll down.) <br>
@@ -338,6 +338,28 @@ source: ([Source 1 page 16](#source-1))
 ### Fifth number
 The fifth number ("**29012023**" here) stands for the current date, so here it would be the 29th of January 2023.<br>
 
+<br>
+<br>
+
+## JourneyStatus
+Shows the status of the journey:
+- P = Planned -> A planned journey. This is also the default value
+- R = Replacement -> The journey was added as a replacement for a planned journey.
+- A = Additional -> The journey is an additional journey to the planned journeys.
+- S = Special -> This is a special journey. The exact definition which journeys are considered special is up to the customer.
+<br>
+<br>
+
+## res
+The description/name for the icons of the different vehicle types in the mobiliteit.lu app.<br>
+Pretty irrelevant and no exact list available as they are created by another society.
+The descriptions might change if new icons are used in the mobiliteit.lu app.
+These are the known icon names:
+- Bus : prod_bus_t
+- Tram : prod_tram_t
+- Train : ["prod_reg" for "RB" and "RE" trains, "prod_ic" for "IC" trains]
+<br>
+[Image of the icons in the app](images/vehicle_types_icons_in_app.png, "The different icons in the app")
 <br>
 <br>
 
