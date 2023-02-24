@@ -359,7 +359,7 @@ These are the known icon names:
 - Tram : prod_tram_t
 - Train : ["prod_reg" for "RB" and "RE" trains, "prod_ic" for "IC" trains]
 <br>
-![Image of the icons in the app](./images/vehicle_types_icons_in_app.png)
+![](./images/vehicle_types_icons_in_app.png)
 <br>
 <br>
 
