@@ -38,7 +38,7 @@ Available arguments for the departure board:<br>
 | ------------- | --------- | ----- | -----------                                         |
 | accessId      | ****True****      | str   | Your API-Key                                        |
 | id            | ****True****      | int   | The station/stop id from which you want to retrieve data |
-| requestId     | False     | str   | ??? Request ID for identifying the request. (You can pass any number. Probably for your own use as you can see it in the response?) |
+| requestId     | False     | str   | Request ID for identifying the request. For each request a requestId is generated. Used for debugging on server side. You can set your own requestId by passing this parameter. |
 | format        | False     | str   | The format you want your response in. Availables are: json, xml <br>If not set, xml is used.|
 | jsonpCallback | False     | str   | The json response will be wrapped in a javascript function with the name you passed |
 | lang          | False     | str   | Language of the journey planner. <br>You can basically put anything in here as the keys in the response will always be in english and the data in french. |
@@ -46,24 +46,28 @@ Available arguments for the departure board:<br>
 | direction     | False     | str   | If only vehicles departing or arriving from a certain direction shall be returned, specify the direction by giving the station/stop ID of the last stop on the journey. |
 | date          | False     | str   | Sets the start date for which the departures shall be retrieved. Represented in the format YYYY-MM-DD. |
 | time          | False     | str   | Sets the start time for which the departures shall be retrieved. Represented in the format hh:mm[:ss] in 24h nomenclature. Seconds will be ignored for requests. |
-| dur           | False     | int   | ??? Range from 0 to 1439 |
-| duration      | False     | int   | ??? Set the interval size in minutes. Range from 0 to 1439. Default is 60 |
+| dur           | False     | int   | \[Deprecated -> use 'duration'] Range from 0 to 1439 |
+| duration      | False     | int   | The the time period from the request time on until when departures/arrivals should be returned. Range from 0 to 1439. Default is 60 (= 60 minutes) |
 | maxJourneys   | False     | int   | Maximum number of journeys to be returned. If no value is defined or -1, all departing/arriving services within the duration sized period are returned. Default is -1 |
-| products      | False     | int   | ??? Decimal value defining the product classes to be included in the search. It represents a bitmask combining bit number of a product as defined in the HAFAS raw data file zugart. |
+| products      | False     | int   | Decimal value defining the product classes to be included in the search. It represents a bitmask combining bit number of a product as defined in the HAFAS raw data file zugart. See [products](#products) for the bitmasks. |
 | operators     | False     | str   | \[CHECK OPERATORS] Only journeys provided by the given operators are part of the result. To filter multiple operators, separate the codes by comma. If the operator should not be part of the be trip, negate it by putting ! in front of it. Available operators are: RGTR, AVL, CFL |
 | lines         | False     | str   | Only journeys running the given line are part of the result. To filter multiple lines, separate the codes by comma. If the line should not be part of the be trip, negate it by putting ! in front of it. |
-| filterEquiv   | False     | int   | ??? Enables/disables the filtering of equivalent marked stops. |
+| filterEquiv   | False     | int   | \[Unused] Enables/disables the filtering of equivalent marked stops. There are no equal stops in Luxembourg so this parameter won't do anything.|
 | attributes    | False     | str   | ??? Filter boards by one or more attribute codes of a journey. Multiple attribute codes are separated by comma. If the attribute should not be part of the result, negate it by putting ! in front of it. |
 | platforms     | False     | str   | Filter boards by platform. Multiple platforms are separated by comma. Platforms are used for example at train stations. A train station is one single stop but has multiple platforms so the busses stopping there all stop at the same stop (= the train station) but at different platforms. (Depends on the station how many platforms there are.) |
-| rtMode        | False     | bool   | ??? Set the realtime mode to be used if enabled. Available are: FULL <br>For Luxembourg it seems to always return realtime information no matter what you set rtMode to. |
-| <p id="key-passlist">passlist</p>| False| int| ??? Include a list of all passed waystops? (Is -1 for all waystops and all other numbers for the amount of stops you want?) |
+| rtMode        | False     | bool   | Set the realtime mode to be used if enabled. Available are: FULL and OFF. By default it is set to FULL and returns the real-time arrival time of the journey if set to FULL. |
+| <p id="key-passlist">passlist</p>| False| int| Include a list of all stops for this journey. 0 = Disabled->returns no stops (Default) and 1 = All stops |
 
 
 
 ## Common questions
 
 **Can you search for a specific bus/train/tram line?**
-When I asked mobiliteit.lu the last time (19. Mai 2022) the answer was no and I don't think anything has changed about that.<br>
+When I asked mobiliteit.lu the last time (24. February 2023) the answer was no and I don't think anything has changed about that.<br>
+The only 'way' to search for a line is to pass the 'line' parameter when making a request, that way you only get this line at the station, but you cannot search for this line on all the stations without making a request for all stations. <br>
+ex.: https://cdt.hafas.de/opendata/apiserver/departureBoard?accessId=XXXXX&lang=fr&id=200403015&format=json&lines=802
+
+<br>
 
 **I get the error "QuotaExceeded"**
 This means that you have used all your available request tokens (as your API-Key is limited to a certain amount).<br>
@@ -73,7 +77,9 @@ Either wait an hour or so until your tokens are reset or ask for your limit to b
 Yes that happens, but usually only when the lines can't stop at that station for some reason.<br>
 Then they are not shown on that station, thats why you don't get any results.<br>
 
-
+**What API services are available**
+Only the DepartureBoard service and the [Location Search by Coordinate](Location_Search_by_Coordinate.md) are available for now.<br>
+On my question from the 24. February 2023 they mentionned that maybe they would offer some more API services in the future.<br>
 
 ## API response
 Depending on what you passed as argument for the format you want the response in, you will either get a response in json or xml format. <br>
