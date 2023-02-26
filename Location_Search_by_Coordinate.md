@@ -156,6 +156,17 @@ See [DepartureBoard -> stopId](Departure_Board.md#stopid) for detailed informati
 Is the same as the 'L' in the '[stopId](Departure_Board.md#stopid)'. <br>
 Was used to get departures from the [DepartureBoard](Departure_Board.md), now 'id' is used.
 
+Some Examples of Train Stations:
+| Location | ExtId | 
+| ------------- | --------- | 
+| Kautenbach    |   120603003   |
+| Bascharage    |   190101027   |
+| Ettelbruck    |   140701022   |
+| Hollerich     |   200415014   |
+| Luxembourg Gare   |   200405060   |
+
+
+
 ## Name
 The name of the station. <br>
 
